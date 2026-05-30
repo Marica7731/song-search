@@ -10,6 +10,33 @@ function escapeHtml(value) {
   }[ch]));
 }
 
+function stripInputLineNumber(line) {
+  const value = String(line || '').trim();
+  const matched = value.match(/^[0-9０-９]+[\.\．、:：\)）](?:\s+|(?=[^\d０-９\s]))(.+)$/);
+  return matched ? matched[1].trim() : value;
+}
+
+function parseTitleArtistInputLine(line) {
+  const originalLine = String(line || '').trim();
+  const content = stripInputLineNumber(originalLine);
+  const matched = content.match(/^(.+?)\s+-\s+(.+)$/);
+  if (matched) {
+    return {
+      title: matched[1].trim(),
+      inputArtist: matched[2].trim(),
+      line: originalLine,
+      hasStructuredFormat: true
+    };
+  }
+
+  return {
+    title: content,
+    inputArtist: '',
+    line: originalLine,
+    hasStructuredFormat: content !== originalLine
+  };
+}
+
 function parseInputContent() {
   const input = document.getElementById('titleInput').value.trim();
   if (!input) {
@@ -19,37 +46,19 @@ function parseInputContent() {
 
   const lines = input.split('\n').map(line => line.trim()).filter(Boolean);
   const result = [];
-  const fullFormatRegex = /^(\d+)\.\s*(.+?)\s+-\s+(.+)$/;
-  const normalFormatRegex = /^(.+?)\s+-\s+(.+)$/;
-  let hasFullFormat = false;
+  let hasStructuredFormat = false;
 
   lines.forEach(line => {
-    const fullMatch = line.match(fullFormatRegex);
-    if (fullMatch) {
-      hasFullFormat = true;
-      result.push({
-        title: fullMatch[2].trim(),
-        inputArtist: fullMatch[3].trim(),
-        line
-      });
-    } else if (normalFormatRegex.test(line)) {
-      const normalMatch = line.match(normalFormatRegex);
-      hasFullFormat = true;
-      result.push({
-        title: normalMatch[1].trim(),
-        inputArtist: normalMatch[2].trim(),
-        line
-      });
-    } else {
-      result.push({
-        title: line.trim(),
-        inputArtist: '',
-        line
-      });
-    }
+    const parsed = parseTitleArtistInputLine(line);
+    if (parsed.hasStructuredFormat) hasStructuredFormat = true;
+    result.push({
+      title: parsed.title,
+      inputArtist: parsed.inputArtist,
+      line: parsed.line
+    });
   });
 
-  inputFormatType = hasFullFormat ? 'full' : 'pure';
+  inputFormatType = hasStructuredFormat ? 'full' : 'pure';
   return result;
 }
 
@@ -239,7 +248,7 @@ function getNeteaseSearchKeyword(item, { titleOnly = false } = {}) {
 }
 
 function parseTitleArtistText(text) {
-  const value = (text || '').trim();
+  const value = stripInputLineNumber(text || '');
   if (!value) return { title: '', artist: '' };
   const matched = value.match(/^(.+?)\s+-\s+(.+)$/);
   if (matched) {
@@ -817,7 +826,7 @@ function buildResultText(entries) {
   return entries.map(({ item, index }) => {
     const num = (index + 1).toString().padStart(2, '0');
     const artist = selectedArtists[getTitleSelectionKey(item)] || '';
-    return `${num}. ${item.title} ${artist ? '- ' + artist : ''}`;
+    return artist ? `${num}. ${item.title} - ${artist}` : `${num}. ${item.title}`;
   }).join('\n');
 }
 

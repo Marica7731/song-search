@@ -2146,6 +2146,107 @@ body.culua-shell-check .title-filter-btn[data-title-filter="missing"].active {
   color: #b4232f !important;
 }
 
+body.culua-shell-check .check-page-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 220px;
+  gap: 18px;
+  align-items: start;
+}
+
+body.culua-shell-check .check-page-layout > .main {
+  min-width: 0;
+  max-width: none !important;
+  margin: 0 !important;
+}
+
+body.culua-shell-check .check-directory-slot {
+  position: sticky;
+  top: 18px;
+  min-width: 0;
+  --pd-widget-sticky-top: 18px;
+}
+
+body.culua-shell-check .check-directory-slot .pd-widget-mounted .pd-widget-desktop {
+  width: 100% !important;
+  z-index: 1 !important;
+}
+
+body.culua-shell-check .check-directory-slot .pd-widget-card {
+  border-radius: 10px;
+  box-shadow: 0 4px 18px rgba(15, 23, 42, 0.08);
+}
+
+body.culua-shell-check .title-search-area {
+  padding: 14px !important;
+  background: #fff !important;
+}
+
+body.culua-shell-check .input-help {
+  margin-bottom: 10px !important;
+}
+
+body.culua-shell-check #titleInput {
+  min-height: 126px !important;
+  margin-bottom: 12px !important;
+}
+
+body.culua-shell-check .result-generate-area {
+  margin: 0 0 16px !important;
+  padding: 12px !important;
+  background: #fff !important;
+}
+
+body.culua-shell-check .result-output-head {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 12px;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+body.culua-shell-check .result-output-copy {
+  min-width: 0;
+}
+
+body.culua-shell-check .result-output-title {
+  color: #0f172a;
+  font-size: 14px;
+  font-weight: 800;
+}
+
+body.culua-shell-check .result-output-sub {
+  margin-top: 2px;
+  color: #64748b;
+  font-size: 12px;
+  line-height: 1.45;
+}
+
+body.culua-shell-check #resultText {
+  min-height: 96px !important;
+  margin-bottom: 0 !important;
+}
+
+body.culua-shell-check .result-copy-actions {
+  justify-content: flex-end;
+}
+
+body.culua-shell-check .artist-select-area {
+  margin-top: 16px !important;
+}
+
+body.culua-shell-check .title-filter-bar.active {
+  display: flex;
+  padding: 10px;
+  border: 1px solid #d9e0ea;
+  border-radius: 8px;
+  background: #fff;
+}
+
+body.culua-shell-check .title-filter-summary {
+  flex: 1 1 260px;
+  min-width: 0;
+}
+
 body.culua-shell-check .select-item.status-ok {
   border-left: 4px solid #0f766e;
 }
@@ -2234,6 +2335,37 @@ body.culua-shell-check .net-ease-option {
 body.culua-shell-check .net-ease-option.disabled {
   color: #94a3b8;
   cursor: not-allowed;
+}
+
+@media (max-width: 1280px) {
+  body.culua-shell-check .check-page-layout {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  body.culua-shell-check .check-directory-slot {
+    position: static;
+    min-height: 0;
+  }
+}
+
+@media (max-width: 720px) {
+  body.culua-shell-check .result-output-head {
+    grid-template-columns: 1fr;
+  }
+
+  body.culua-shell-check .result-copy-actions,
+  body.culua-shell-check .net-ease-actions {
+    width: 100%;
+  }
+
+  body.culua-shell-check .net-ease-actions {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  body.culua-shell-check .title-filter-summary {
+    flex-basis: 100%;
+  }
 }
 
 body.culua-shell-stats h1 {

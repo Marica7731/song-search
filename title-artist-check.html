@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>命名工具</title>
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-<link rel="stylesheet" href="/site-theme.css?v=20260529goal3">
+<link rel="stylesheet" href="/site-theme.css?v=20260530checklayout4">
 <script src="/site-shell.js?v=20260524shell7" defer></script>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
@@ -77,6 +77,7 @@ button{padding:0 18px;height:44px;color:#111827;border:1px solid #b8c0cc;border-
     </nav>
   </aside>
   <main class="culua-page-content">
+<div class="check-page-layout">
 <div class="main">
   <div class="header">
     <h2>命名工具</h2>
@@ -86,7 +87,7 @@ button{padding:0 18px;height:44px;color:#111827;border:1px solid #b8c0cc;border-
   <div class="title-search-area">
     <div class="input-help">
       <strong>支持三种输入格式</strong><br>
-      1. 纯歌名：每行一个<br>
+      1. 纯歌名：每行一个，可写成 <code>01. 歌名</code><br>
       2. 完整格式：<code>01. 歌名 - 歌手</code><br>
       3. 简写格式：<code>歌名 - 歌手</code>
     </div>
@@ -94,6 +95,23 @@ button{padding:0 18px;height:44px;color:#111827;border:1px solid #b8c0cc;border-
     <div class="title-controls">
       <button id="searchTitleBtn">开始校验</button>
     </div>
+  </div>
+
+  <div class="result-generate-area" id="resultGenerateArea">
+    <div class="result-output-head">
+      <div class="result-output-copy">
+        <div class="result-output-title">导出与搜索</div>
+        <div class="result-output-sub">复制当前筛选结果，或逐个打开待处理项的网易云搜索。</div>
+      </div>
+      <div class="result-copy-actions">
+        <button id="copyVisibleResultBtn">复制当前结果</button>
+        <span class="net-ease-actions">
+          <label class="net-ease-option disabled" id="neteaseTitleOnlyLabel"><input type="checkbox" id="neteaseTitleOnly" disabled>网易云搜索不带歌手</label>
+          <button id="openNeteaseBatchBtn" type="button" disabled>逐个打开网易云搜索</button>
+        </span>
+      </div>
+    </div>
+    <textarea id="resultText" readonly placeholder="生成结果会显示在这里"></textarea>
   </div>
 
   <div class="artist-select-area" id="artistSelectArea">
@@ -109,16 +127,8 @@ button{padding:0 18px;height:44px;color:#111827;border:1px solid #b8c0cc;border-
     <div id="artistSelectContainer"></div>
   </div>
 
-  <div class="result-generate-area" id="resultGenerateArea">
-    <textarea id="resultText" readonly placeholder="生成结果会显示在这里"></textarea>
-    <div class="result-copy-actions">
-      <button id="copyVisibleResultBtn">复制</button>
-      <span class="net-ease-actions">
-        <label class="net-ease-option disabled" id="neteaseTitleOnlyLabel"><input type="checkbox" id="neteaseTitleOnly" disabled>网易云搜索不带歌手</label>
-        <button id="openNeteaseBatchBtn" type="button" disabled>逐个打开网易云搜索</button>
-      </span>
-    </div>
-  </div>
+</div>
+<aside class="check-directory-slot" id="checkDirectorySlot" aria-label="命名工具目录"></aside>
 </div>
 
 <div class="copy-toast" id="copyToast">复制成功</div>
@@ -232,7 +242,7 @@ async function loadAllData() {
 }
 </script>
 <script src="/artist-match.js"></script>
-<script src="bili-check-title-artist.js?v=2026051605"></script>
+<script src="bili-check-title-artist.js?v=20260530numbered1"></script>
 <script src="/page-directory-widget.js?v=20260525avatar1"></script>
 <script>
 function initTitleArtistPage() {
@@ -268,6 +278,10 @@ function initTitleArtistPage() {
         { label: '待校验输入', selector: '#titleInput' }
       ];
 
+      if (document.getElementById('resultGenerateArea')?.classList.contains('active')) {
+        items.push({ label: '导出与网易搜索', selector: '#resultGenerateArea' });
+      }
+
       const selectRows = Array.from(document.querySelectorAll('#artistSelectContainer .select-item'));
       if (selectRows.length > 0) {
         items.push({ label: '歌名 - 歌手定位', selector: '#artistSelectArea' });
@@ -285,14 +299,12 @@ function initTitleArtistPage() {
         items.push({ label: '歌手校验区', selector: '#artistSelectArea' });
       }
 
-      if (document.getElementById('resultGenerateArea')?.classList.contains('active')) {
-        items.push({ label: '结果导出区', selector: '#resultGenerateArea' });
-      }
       return items;
     };
 
     const dir = window.createPageDirectory({
       title: '命名工具目录',
+      mount: '#checkDirectorySlot',
       items: buildNamingDirItems()
     });
 

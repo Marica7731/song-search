@@ -15,12 +15,12 @@
 | `stats.html` | 数据统计页 | 展示来源、歌手、曲目、投稿时间等统计视图，左侧提供来源统计/歌曲排行/歌手聚合的数据导航，并记住 tab、来源、关键词和摘要链接数；来源分组显示头像，来源目录同步显示头像，歌曲行和场次预览显示 BV 封面；来源统计可按曲数、场次、场均、独特、去重升降序排序，场均排序会把 `statsAvgSortDeferred` 配置标记的合集型异常来源单独压到末尾；歌曲排行使用标题区、指标区和场次预览区，来源/歌手分组使用紧凑歌曲行；来源统计、歌曲排行和歌手聚合在桌面端自适应多列排布；提供 `#statsDirectorySlot` 作为右侧目录布局列 | 优先请求 `/api/stats/view`，服务端不可用时回退本地数据；接入共享外壳、数据页专用视觉样式和 `page-directory-widget.js` 挂载目录；目录项从来源分组头像读取 `avatarUrl/avatarText/accentColor`；头像、歌曲封面和展开场次封面通过 `data-src` 延迟写入真实地址，隐藏行展开后再触发加载；本地视图偏好写入浏览器 `localStorage` |
 | `bv-dup-check.html` | BV 查重页面 | 接收 BV 列表，输出已存在和未命中的结果，提供短输入工作区、当前库/结果概览、复制预设入口和折叠式高级复制字段；来源选择挂在左侧栏，结果列表自适应多列卡片，目录挂载到右侧布局槽位并只保留关键分区 | 依赖 `dup-check-core.js` 与 `artist-match.js`；服务端 `/api/dup-check` 限制未知 BV live fallback；页面通过带版本号的 `site-theme.css` 和 `dup-check-core.js` 获取 BV 专用概览与卡片布局 |
 | `title-artist-dup-check.html` | 歌名歌手查重页面 | 批量检查“歌名 - 歌手”是否已入库，展示歌手疑似不一致分组，提供复制预设入口、折叠式高级复制字段和更干净的输入区；来源选择挂在左侧栏，结果列表自适应多列卡片，目录挂载到右侧布局槽位 | 依赖 `dup-check-core.js` 与 `artist-match.js`；页面通过带版本号的 `site-theme.css` 获取查重卡片布局 |
-| `title-artist-check.html` | 命名和校验工具 | 校验歌名歌手组合，提供改名重查、搜索辅助、已确认/需要确认/缺歌手/待入库/未找到状态筛选、当前可见结果复制和待处理项网易云搜索 | 依赖 `bili-check-title-artist.js`；服务端 `/api/title-artist/lookup` 返回 summary；正式页面首屏直接包含共享外壳 |
+| `title-artist-check.html` | 命名和校验工具 | 校验歌名歌手组合，提供改名重查、搜索辅助、带编号纯歌名输入、已确认/需要确认/缺歌手/待入库/未找到状态筛选、前置的导出与网易云搜索工具条、当前可见结果复制、待处理项网易云搜索和右侧目录布局列 | 依赖 `bili-check-title-artist.js`；服务端 `/api/title-artist/lookup` 返回 summary；正式页面首屏直接包含共享外壳；目录通过 `#checkDirectorySlot` 挂载，避免浮层覆盖主内容操作按钮 |
 | `bili-check.html` | 旧综合页 | 保留旧版综合检查入口 | 与新拆分页面共享部分解析和查重逻辑 |
 | `song-growth.html` | 歌曲总量日报页 | 展示曲库总量、日增、去重歌曲数、播放量和按投稿时间增长；独立“去重歌曲曲线”面板用累计去重折线和日新增去重柱形图展示趋势；支持切换单指标分析、复制当前区间摘要和当前表格页 TSV | 由 `scripts/update-song-growth.js` 更新；读取 `/api/song-growth` 的 `combinedRows`、`publishUniqueRows`、`anomalies` 和缓存元信息 |
 | `converter.html` | 辅助转换页 | 提供文本或格式转换辅助 | 独立静态页，共用站点样式 |
 | `admin-singer-config.html` | 来源配置后台 | 管理员维护来源/BV 配置并触发刷新 | 依赖服务端管理接口、`admin-refresh-control.js` 和 hash token |
-| `site-theme.css` | 共享样式 | 页面布局、纯文字 `culua.com` 品牌、表格、按钮、状态提示、数据页三栏布局、右侧目录列、排行/分组卡片、数据页桌面自适应多列密度布局、H5 紧凑导航、H5 分组头部右上统计 chips、查重页侧栏来源列表、BV 查重工作区和概览卡、查重结果自适应多列封面卡片、统一按钮高度、链接无下划线、延迟图片占位和响应式样式 | 被多个 HTML 页面引用；正式工具页使用版本号查询串加载，避免线上缓存留在旧视觉 |
+| `site-theme.css` | 共享样式 | 页面布局、纯文字 `culua.com` 品牌、表格、按钮、状态提示、数据页三栏布局、右侧目录列、排行/分组卡片、数据页桌面自适应多列密度布局、H5 紧凑导航、H5 分组头部右上统计 chips、查重页侧栏来源列表、BV 查重工作区和概览卡、命名工具目录列和导出工具条、查重结果自适应多列封面卡片、统一按钮高度、链接无下划线、延迟图片占位和响应式样式 | 被多个 HTML 页面引用；正式工具页使用版本号查询串加载，避免线上缓存留在旧视觉 |
 | `site-shell.js` | 正式工具页共享外壳兜底 | 同步当前页导航高亮；仅在页面没有静态壳层时才回退包裹 DOM，并使用纯文字 `culua.com` 品牌 | 被 `stats.html`、`bv-dup-check.html`、`title-artist-dup-check.html`、`title-artist-check.html`、`song-growth.html` 以 `defer` 引入；正式页首屏 HTML 已直接包含共享外壳，避免旧页面闪烁 |
 | `page-directory-widget.js` | 页面目录组件 | 生成目录、可选目录头像、移动端目录按钮、可关闭抽屉、滚动定位和当前项高亮；支持通过 `mount` 挂载到页面布局列，挂载后桌面目录在保留的右侧列内 sticky 吸顶，未挂载时保持旧的浮动目录行为 | 被长页面、数据页和校验工具复用；数据页来源目录会传入来源头像字段 |
 | `last-run-badge.js` | 最近更新状态角标 | 读取更新元信息并展示“最近更新”时间，避免暴露 `update-songs` 等技术文案 | 优先读取 `/reports/update-songs-meta.json`，失败时读取 `/api/site-meta`；被首页和各工具页引入 |
@@ -32,7 +32,7 @@
 |---|---|---|---|
 | `artist-match.js` | 歌手宽容匹配逻辑 | `normalizeString`、假名/罗马音转换、`areArtistsCompatible`、`isSameSong` | 被浏览器页面、`server.js`、`scripts/check-song-library.js` 共用 |
 | `dup-check-core.js` | 查重公共逻辑 | 读取歌库、解析 BV 或歌名歌手输入、查重、分组渲染、来源头像/数量渲染、结果封面与状态颜色渲染、复制预设、复制设置持久化、AI 辅助复制、安全转义结果文本 | 被 `bv-dup-check.html` 和 `title-artist-dup-check.html` 复用 |
-| `bili-check-title-artist.js` | 命名/校验辅助 | 解析输入、请求标题查询、生成候选歌手、按行级结果保存选择、按“已确认/需要确认/缺歌手/待入库/未找到”筛选候选、按用户输入优先并在未提供/未知/库中更详细时优先使用库中值、同步候选选择到修正输入框、生成校验结果文本、只对待处理项打开网易云搜索、安全转义候选内容 | 被 `title-artist-check.html` 和旧综合页相关流程使用 |
+| `bili-check-title-artist.js` | 命名/校验辅助 | 解析纯歌名、带编号纯歌名、带编号歌名歌手和简写歌名歌手输入，请求标题查询，生成候选歌手，按行级结果保存选择，按“已确认/需要确认/缺歌手/待入库/未找到”筛选候选，按用户输入优先并在未提供/未知/库中更详细时优先使用库中值，同步候选选择到修正输入框，生成校验结果文本，只对待处理项打开网易云搜索，安全转义候选内容 | 被 `title-artist-check.html` 和旧综合页相关流程使用 |
 
 ## 服务端
 
