@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 5/31/2026, 7:40:56 PM
+// 生成时间: 5/31/2026, 8:44:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6326,7 +6326,7 @@ window.SONG_DATA.push(
   "source": "momijimaru.js"
 },
     {
-  "title": "スパークル [original ver.]",
+  "title": "スパークル",
   "artist": "RADWIMPS",
   "collection": "【🍁歌切】[2026-05-31]想达成10700人!! 用歌声治愈明天也要努力的大家🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
