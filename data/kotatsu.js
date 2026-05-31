@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 5/31/2026, 6:19:43 PM
+// 生成时间: 5/31/2026, 7:06:33 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4955,6 +4955,294 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=32",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "体温",
+  "artist": "plenty",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さようなら、花泥棒さん",
+  "artist": "メル feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "告白",
+  "artist": "FUNKY MONKEY BABYS",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "終わらない歌",
+  "artist": "THE BLUE HEARTS",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "はじめてのチュウ",
+  "artist": "あんしんパパ",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "乾杯",
+  "artist": "長渕剛",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "バレリーコ",
+  "artist": "みきとP feat. GUMI",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "愛、テキサス",
+  "artist": "山下智久",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アルバイター、無名",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夢見月に何想ふ",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "1925",
+  "artist": "T-POCKET feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "プレゼント",
+  "artist": "ナノウ feat. GUMI",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "光",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "サーカスナイト",
+  "artist": "七尾旅人",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ひこうき雲",
+  "artist": "荒井由実",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "パッと咲いて散って灰に",
+  "artist": "Creepy Nuts",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "幻",
+  "artist": "泉まくら",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "陽はまた昇る",
+  "artist": "DOES",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "遠い匂い",
+  "artist": "YO-KING",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "てろてろ",
+  "artist": "矢野絢子",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "結婚しようよ",
+  "artist": "吉田拓郎",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "少年時代",
+  "artist": "井上陽水",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Tonight",
+  "artist": "はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "月明かりのように",
+  "artist": "はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "恋をしたんだ",
+  "artist": "はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=29",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "まっすぐ",
+  "artist": "ヒグチアイ",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=30",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "無名",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=31",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=32",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "無名のオリジナル",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=33",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ほはば",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=34",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "デブの戯言",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=35",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "街",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=36",
   "source": "kotatsu.js"
 }
 );

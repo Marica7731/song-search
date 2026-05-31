@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 5/31/2026, 6:13:37 PM
+// 生成时间: 5/31/2026, 6:59:53 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -31403,6 +31403,118 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-05-28]Figaro Birthday Live Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZKVW6YEMt?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】#269[2026-05-31]睡眠导入歌回✨睡前放松时刻请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fGVD6VEpY?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【💐歌切】#269[2026-05-31]睡眠导入歌回✨睡前放松时刻请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fGVD6VEpY?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "地獄先生",
+  "artist": "相対性理論",
+  "collection": "【💐歌切】#269[2026-05-31]睡眠导入歌回✨睡前放松时刻请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fGVD6VEpY?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "四角革命",
+  "artist": "相対性理論",
+  "collection": "【💐歌切】#269[2026-05-31]睡眠导入歌回✨睡前放松时刻请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fGVD6VEpY?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団",
+  "collection": "【💐歌切】#269[2026-05-31]睡眠导入歌回✨睡前放松时刻请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fGVD6VEpY?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【💐歌切】#269[2026-05-31]睡眠导入歌回✨睡前放松时刻请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fGVD6VEpY?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "W/X/Y",
+  "artist": "Tani Yuuki",
+  "collection": "【💐歌切】#269[2026-05-31]睡眠导入歌回✨睡前放松时刻请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fGVD6VEpY?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "Subtitle",
+  "artist": "Official髭男dism",
+  "collection": "【💐歌切】#269[2026-05-31]睡眠导入歌回✨睡前放松时刻请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fGVD6VEpY?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【💐歌切】#269[2026-05-31]睡眠导入歌回✨睡前放松时刻请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fGVD6VEpY?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "点描の唄",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【💐歌切】#269[2026-05-31]睡眠导入歌回✨睡前放松时刻请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fGVD6VEpY?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "ナブナ",
+  "collection": "【💐歌切】#269[2026-05-31]睡眠导入歌回✨睡前放松时刻请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fGVD6VEpY?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "六等星の夜",
+  "artist": "Aimer",
+  "collection": "【💐歌切】#269[2026-05-31]睡眠导入歌回✨睡前放松时刻请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fGVD6VEpY?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "エイリアンズ",
+  "artist": "キリンジ",
+  "collection": "【💐歌切】#269[2026-05-31]睡眠导入歌回✨睡前放松时刻请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fGVD6VEpY?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】#269[2026-05-31]睡眠导入歌回✨睡前放松时刻请享用🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fGVD6VEpY?p=14",
   "source": "figaro.js"
 }
 );

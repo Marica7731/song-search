@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 5/31/2026, 6:31:48 PM
+// 生成时间: 5/31/2026, 7:16:16 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12987,6 +12987,110 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-22 甘音あむ / Amane Amu pUb0ITu1ogc 粉丝见面会快到了！来唱歌吧！✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oyVY6tEoV?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "まっすぐ→→→ストリーム！",
+  "artist": "日向千夏",
+  "collection": "歌切 2026-05-31 Hanon Ch. 香鳴ハノン【パレプロ】 zDZ-j6N5KkU 好久不见！来唱音击原创曲🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wuVD6jEJk?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ぱくぱく☆がーる",
+  "artist": "珠洲島有栖",
+  "collection": "歌切 2026-05-31 Hanon Ch. 香鳴ハノン【パレプロ】 zDZ-j6N5KkU 好久不见！来唱音击原创曲🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wuVD6jEJk?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "シンデレラディスコ",
+  "artist": "藍原椿、早乙女彩華",
+  "collection": "歌切 2026-05-31 Hanon Ch. 香鳴ハノン【パレプロ】 zDZ-j6N5KkU 好久不见！来唱音击原创曲🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wuVD6jEJk?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ポケットからぬりつぶせ！",
+  "artist": "マーチングポケッツ",
+  "collection": "歌切 2026-05-31 Hanon Ch. 香鳴ハノン【パレプロ】 zDZ-j6N5KkU 好久不见！来唱音击原创曲🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wuVD6jEJk?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "Kiss me Kiss",
+  "artist": "Bitter flavor",
+  "collection": "歌切 2026-05-31 Hanon Ch. 香鳴ハノン【パレプロ】 zDZ-j6N5KkU 好久不见！来唱音击原创曲🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wuVD6jEJk?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "SWEET SHAKE!!",
+  "artist": "桜井春菜",
+  "collection": "歌切 2026-05-31 Hanon Ch. 香鳴ハノン【パレプロ】 zDZ-j6N5KkU 好久不见！来唱音击原创曲🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wuVD6jEJk?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "花時は夢を見る。",
+  "artist": "藍原椿",
+  "collection": "歌切 2026-05-31 Hanon Ch. 香鳴ハノン【パレプロ】 zDZ-j6N5KkU 好久不见！来唱音击原创曲🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wuVD6jEJk?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "夜明けのストリング",
+  "artist": "東雲つむぎ",
+  "collection": "歌切 2026-05-31 Hanon Ch. 香鳴ハノン【パレプロ】 zDZ-j6N5KkU 好久不见！来唱音击原创曲🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wuVD6jEJk?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "give it up to you",
+  "artist": "Bitter flavor",
+  "collection": "歌切 2026-05-31 Hanon Ch. 香鳴ハノン【パレプロ】 zDZ-j6N5KkU 好久不见！来唱音击原创曲🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wuVD6jEJk?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "GranFatalité",
+  "artist": "柏木咲姫",
+  "collection": "歌切 2026-05-31 Hanon Ch. 香鳴ハノン【パレプロ】 zDZ-j6N5KkU 好久不见！来唱音击原创曲🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wuVD6jEJk?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "No Limit RED Force",
+  "artist": "星咲あかり、藍原椿、早乙女彩華、柏木咲姫、柏木美亜",
+  "collection": "歌切 2026-05-31 Hanon Ch. 香鳴ハノン【パレプロ】 zDZ-j6N5KkU 好久不见！来唱音击原创曲🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wuVD6jEJk?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "感情アクセラレイション",
+  "artist": "AQUAシューターズ",
+  "collection": "歌切 2026-05-31 Hanon Ch. 香鳴ハノン【パレプロ】 zDZ-j6N5KkU 好久不见！来唱音击原创曲🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wuVD6jEJk?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "Over Voltage",
+  "artist": "高瀬梨緒",
+  "collection": "歌切 2026-05-31 Hanon Ch. 香鳴ハノン【パレプロ】 zDZ-j6N5KkU 好久不见！来唱音击原创曲🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wuVD6jEJk?p=13",
   "source": "others.js"
 },
     {

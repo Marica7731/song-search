@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 5/31/2026, 6:12:10 PM
+// 生成时间: 5/31/2026, 6:58:06 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6195,6 +6195,158 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-05-29]能量补充!! 吹走疲劳的歌回🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uBVu6LEaf?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Arrietty's Song",
+  "artist": "Cécile Corbel",
+  "collection": "【🍁歌切】[2026-05-31]想达成10700人!! 用歌声治愈明天也要努力的大家🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fjVD66Ew3?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【🍁歌切】[2026-05-31]想达成10700人!! 用歌声治愈明天也要努力的大家🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fjVD66Ew3?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Fly Me to the Moon",
+  "artist": "Frank Sinatra",
+  "collection": "【🍁歌切】[2026-05-31]想达成10700人!! 用歌声治愈明天也要努力的大家🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fjVD66Ew3?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【🍁歌切】[2026-05-31]想达成10700人!! 用歌声治愈明天也要努力的大家🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fjVD66Ew3?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "時には昔の話を",
+  "artist": "加藤登紀子",
+  "collection": "【🍁歌切】[2026-05-31]想达成10700人!! 用歌声治愈明天也要努力的大家🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fjVD66Ew3?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "やさしさに包まれたなら",
+  "artist": "荒井由実",
+  "collection": "【🍁歌切】[2026-05-31]想达成10700人!! 用歌声治愈明天也要努力的大家🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fjVD66Ew3?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "すずめ",
+  "artist": "RADWIMPS feat. 十明",
+  "collection": "【🍁歌切】[2026-05-31]想达成10700人!! 用歌声治愈明天也要努力的大家🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fjVD66Ew3?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "星屑ビーナス",
+  "artist": "Aimer",
+  "collection": "【🍁歌切】[2026-05-31]想达成10700人!! 用歌声治愈明天也要努力的大家🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fjVD66Ew3?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "風のとおり道",
+  "artist": "井上あずみ",
+  "collection": "【🍁歌切】[2026-05-31]想达成10700人!! 用歌声治愈明天也要努力的大家🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fjVD66Ew3?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "【🍁歌切】[2026-05-31]想达成10700人!! 用歌声治愈明天也要努力的大家🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fjVD66Ew3?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "海の幽霊",
+  "artist": "米津玄師",
+  "collection": "【🍁歌切】[2026-05-31]想达成10700人!! 用歌声治愈明天也要努力的大家🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fjVD66Ew3?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "フリージア",
+  "artist": "Uru",
+  "collection": "【🍁歌切】[2026-05-31]想达成10700人!! 用歌声治愈明天也要努力的大家🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fjVD66Ew3?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【🍁歌切】[2026-05-31]想达成10700人!! 用歌声治愈明天也要努力的大家🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fjVD66Ew3?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat. 安次嶺希和子",
+  "collection": "【🍁歌切】[2026-05-31]想达成10700人!! 用歌声治愈明天也要努力的大家🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fjVD66Ew3?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "心のそばに",
+  "artist": "Belle",
+  "collection": "【🍁歌切】[2026-05-31]想达成10700人!! 用歌声治愈明天也要努力的大家🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fjVD66Ew3?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "世界の約束",
+  "artist": "倍賞千恵子",
+  "collection": "【🍁歌切】[2026-05-31]想达成10700人!! 用歌声治愈明天也要努力的大家🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fjVD66Ew3?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "スパークル [original ver.]",
+  "artist": "RADWIMPS",
+  "collection": "【🍁歌切】[2026-05-31]想达成10700人!! 用歌声治愈明天也要努力的大家🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fjVD66Ew3?p=17",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "【🍁歌切】[2026-05-31]想达成10700人!! 用歌声治愈明天也要努力的大家🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fjVD66Ew3?p=18",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん feat. IA",
+  "collection": "【🍁歌切】[2026-05-31]想达成10700人!! 用歌声治愈明天也要努力的大家🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fjVD66Ew3?p=19",
   "source": "momijimaru.js"
 }
 );
