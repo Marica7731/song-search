@@ -88,6 +88,7 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1PLQVB3E9e"], file: "tulsi", alias: "魔王トゥルシー" },
     { bvids: ["BV1p7DtBGEfy"], file: "luminous", alias: "るみなす・すいーと" },
     { bvids: ["BV134wAzJEph"], file: "hinachibi", alias: "緋那ちび" },
+    { bvids: ["BV1LgVc6aEuV"], file: "kanaruhanon", alias: "香鳴ハノン" },
     { bvids: ["BV1TqGY6gEEf"], file: "minaton", alias: "みなとん" },
     { bvids: ["BV11GZtBcEsp","BV1xucZzxEkZ","BV117P2zwEuq","BV1LJ4m1A7FC"], file: "others", alias: "非常驻妹妹" },
     { bvids: ["BV1Qa9JB6EAw"], alias: "陽月るるふ" }
