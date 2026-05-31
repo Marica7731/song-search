@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 5/31/2026, 4:57:03 PM
+// 生成时间: 5/31/2026, 5:41:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -619,6 +619,86 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-29]一曲也好，请听一听吧！ からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LxVu6WE7q?p=12",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "愛のレンタル",
+  "artist": "マカロニえんぴつ",
+  "collection": "【⚙️🗝歌切】[2026-05-31]频道订阅人数冲刺7100人！！歌回 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14zVD6dE1T?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P",
+  "collection": "【⚙️🗝歌切】[2026-05-31]频道订阅人数冲刺7100人！！歌回 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14zVD6dE1T?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "BLUE",
+  "artist": "Saucy Dog",
+  "collection": "【⚙️🗝歌切】[2026-05-31]频道订阅人数冲刺7100人！！歌回 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14zVD6dE1T?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "あたしを彼女にしたいなら",
+  "artist": "コレサワ",
+  "collection": "【⚙️🗝歌切】[2026-05-31]频道订阅人数冲刺7100人！！歌回 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14zVD6dE1T?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん",
+  "collection": "【⚙️🗝歌切】[2026-05-31]频道订阅人数冲刺7100人！！歌回 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14zVD6dE1T?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ヘビースモーク",
+  "artist": "にしな",
+  "collection": "【⚙️🗝歌切】[2026-05-31]频道订阅人数冲刺7100人！！歌回 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14zVD6dE1T?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "食虫植物",
+  "artist": "理芽",
+  "collection": "【⚙️🗝歌切】[2026-05-31]频道订阅人数冲刺7100人！！歌回 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14zVD6dE1T?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "Arrietty's Song",
+  "artist": "セシル・コルベル",
+  "collection": "【⚙️🗝歌切】[2026-05-31]频道订阅人数冲刺7100人！！歌回 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14zVD6dE1T?p=8",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "【⚙️🗝歌切】[2026-05-31]频道订阅人数冲刺7100人！！歌回 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14zVD6dE1T?p=9",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "night whisper",
+  "artist": "からくりんね",
+  "collection": "【⚙️🗝歌切】[2026-05-31]频道订阅人数冲刺7100人！！歌回 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14zVD6dE1T?p=10",
   "source": "karakurinne.js"
 }
 );

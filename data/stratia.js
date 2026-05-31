@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 5/31/2026, 4:56:46 PM
+// 生成时间: 5/31/2026, 5:40:41 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -523,6 +523,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-30]游击歌回❕悠闲午间时光🦋🫧 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HHVV6kEmF?p=8",
+  "source": "stratia.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "【🎸🦋歌切】[2026-05-31]治愈的弹唱 🎸🦋 歌回 🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UvVD6tEtR?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【🎸🦋歌切】[2026-05-31]治愈的弹唱 🎸🦋 歌回 🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UvVD6tEtR?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【🎸🦋歌切】[2026-05-31]治愈的弹唱 🎸🦋 歌回 🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UvVD6tEtR?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "【🎸🦋歌切】[2026-05-31]治愈的弹唱 🎸🦋 歌回 🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UvVD6tEtR?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "嘘",
+  "artist": "シド",
+  "collection": "【🎸🦋歌切】[2026-05-31]治愈的弹唱 🎸🦋 歌回 🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UvVD6tEtR?p=5",
   "source": "stratia.js"
 }
 );
