@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 6/1/2026, 9:18:32 PM
+// 生成时间: 6/1/2026, 10:07:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3803,6 +3803,174 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-05-30]午后随性原声吉他弹唱～初见也欢迎随时来玩✨ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SAVV6RE8C?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "【💐🎸歌切】[2026-06-01]6月嘛❓总之先悠闲地充充电吧ーー✊ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nD5F6uExU?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "相思相愛",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-06-01]6月嘛❓总之先悠闲地充充电吧ーー✊ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nD5F6uExU?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【💐🎸歌切】[2026-06-01]6月嘛❓总之先悠闲地充充电吧ーー✊ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nD5F6uExU?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "告白",
+  "artist": "内緒のピアス feat. 可不",
+  "collection": "【💐🎸歌切】[2026-06-01]6月嘛❓总之先悠闲地充充电吧ーー✊ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nD5F6uExU?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-01]6月嘛❓总之先悠闲地充充电吧ーー✊ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nD5F6uExU?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "又三郎",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-01]6月嘛❓总之先悠闲地充充电吧ーー✊ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nD5F6uExU?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【💐🎸歌切】[2026-06-01]6月嘛❓总之先悠闲地充充电吧ーー✊ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nD5F6uExU?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat. GUMI",
+  "collection": "【💐🎸歌切】[2026-06-01]6月嘛❓总之先悠闲地充充电吧ーー✊ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nD5F6uExU?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "よるのあと",
+  "artist": "adieu",
+  "collection": "【💐🎸歌切】[2026-06-01]6月嘛❓总之先悠闲地充充电吧ーー✊ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nD5F6uExU?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヒカレイノチ",
+  "artist": "Kitri",
+  "collection": "【💐🎸歌切】[2026-06-01]6月嘛❓总之先悠闲地充充电吧ーー✊ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nD5F6uExU?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "夜撫でるメノウ",
+  "artist": "Ayase feat. 初音ミク",
+  "collection": "【💐🎸歌切】[2026-06-01]6月嘛❓总之先悠闲地充充电吧ーー✊ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nD5F6uExU?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗 feat. ちびた",
+  "collection": "【💐🎸歌切】[2026-06-01]6月嘛❓总之先悠闲地充充电吧ーー✊ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nD5F6uExU?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "ノスタルジア",
+  "artist": "いきものがかり",
+  "collection": "【💐🎸歌切】[2026-06-01]6月嘛❓总之先悠闲地充充电吧ーー✊ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nD5F6uExU?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "メイクミー",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-06-01]6月嘛❓总之先悠闲地充充电吧ーー✊ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nD5F6uExU?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "きにぴ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-06-01]6月嘛❓总之先悠闲地充充电吧ーー✊ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nD5F6uExU?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【💐🎸歌切】[2026-06-01]6月嘛❓总之先悠闲地充充电吧ーー✊ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nD5F6uExU?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "横顔",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-06-01]6月嘛❓总之先悠闲地充充电吧ーー✊ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nD5F6uExU?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-01]6月嘛❓总之先悠闲地充充电吧ーー✊ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nD5F6uExU?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-01]6月嘛❓总之先悠闲地充充电吧ーー✊ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nD5F6uExU?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "花降らし",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【💐🎸歌切】[2026-06-01]6月嘛❓总之先悠闲地充充电吧ーー✊ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nD5F6uExU?p=20",
+  "source": "sumica.js"
+},
+    {
+  "title": "泣き虫上等",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-06-01]6月嘛❓总之先悠闲地充充电吧ーー✊ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nD5F6uExU?p=21",
   "source": "sumica.js"
 }
 );
