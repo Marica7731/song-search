@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 6/1/2026, 8:29:07 PM
+// 生成时间: 6/1/2026, 9:10:49 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6347,6 +6347,126 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-05-31]想达成10700人!! 用歌声治愈明天也要努力的大家🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fjVD66Ew3?p=19",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "RAIN",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【🍁歌切】[2026-06-01]梅雨时节呢。来场伴着雨声的湿润歌回☔✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PW5c62Ene?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-06-01]梅雨时节呢。来场伴着雨声的湿润歌回☔✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PW5c62Ene?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "レディーレ",
+  "artist": "バルーン feat. flower",
+  "collection": "【🍁歌切】[2026-06-01]梅雨时节呢。来场伴着雨声的湿润歌回☔✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PW5c62Ene?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "雨とペトラ",
+  "artist": "バルーン feat. flower",
+  "collection": "【🍁歌切】[2026-06-01]梅雨时节呢。来场伴着雨声的湿润歌回☔✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PW5c62Ene?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Cry Baby",
+  "artist": "Official髭男dism",
+  "collection": "【🍁歌切】[2026-06-01]梅雨时节呢。来场伴着雨声的湿润歌回☔✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PW5c62Ene?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "夕立のりぼん",
+  "artist": "みきとP feat. MAYU",
+  "collection": "【🍁歌切】[2026-06-01]梅雨时节呢。来场伴着雨声的湿润歌回☔✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PW5c62Ene?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【🍁歌切】[2026-06-01]梅雨时节呢。来场伴着雨声的湿润歌回☔✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PW5c62Ene?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "紡ぐ",
+  "artist": "とた",
+  "collection": "【🍁歌切】[2026-06-01]梅雨时节呢。来场伴着雨声的湿润歌回☔✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PW5c62Ene?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Minute by Minute",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-06-01]梅雨时节呢。来场伴着雨声的湿润歌回☔✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PW5c62Ene?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "雨き声残響",
+  "artist": "Orangestar feat. IA",
+  "collection": "【🍁歌切】[2026-06-01]梅雨时节呢。来场伴着雨声的湿润歌回☔✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PW5c62Ene?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "やっぱり雨は降るんだね",
+  "artist": "ツユ",
+  "collection": "【🍁歌切】[2026-06-01]梅雨时节呢。来场伴着雨声的湿润歌回☔✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PW5c62Ene?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-06-01]梅雨时节呢。来场伴着雨声的湿润歌回☔✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PW5c62Ene?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "【🍁歌切】[2026-06-01]梅雨时节呢。来场伴着雨声的湿润歌回☔✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PW5c62Ene?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "TRAIN-TRAIN",
+  "artist": "THE BLUE HEARTS",
+  "collection": "【🍁歌切】[2026-06-01]梅雨时节呢。来场伴着雨声的湿润歌回☔✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PW5c62Ene?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "フィナーレ。",
+  "artist": "eill",
+  "collection": "【🍁歌切】[2026-06-01]梅雨时节呢。来场伴着雨声的湿润歌回☔✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PW5c62Ene?p=15",
   "source": "momijimaru.js"
 }
 );

@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 6/1/2026, 8:43:52 PM
+// 生成时间: 6/1/2026, 9:27:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -275,6 +275,14 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-30]来唱一小时歌！！！星期六熬夜时稍微听一下吧♪ 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DMVL6FEyb?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "タイムマシン",
+  "artist": "1640mP feat. 初音ミク",
+  "collection": "タイムマシン - 1640mP feat. 初音ミク",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GN5c6fEdd?p=1",
   "source": "hinachibi.js"
 }
 );

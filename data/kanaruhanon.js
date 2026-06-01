@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 6/1/2026, 8:44:07 PM
+// 生成时间: 6/1/2026, 9:28:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -259,6 +259,150 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-31 Hanon Ch. 香鳴ハノン【パレプロ】 zDZ-j6N5KkU 好久不见！来唱音击原创曲🎤✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wuVD6jEJk?p=13",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ワンダー・スターター",
+  "artist": "TINGS",
+  "collection": "【歌切】[2026-06-01]V偶像精选！二次元偶像神曲合集✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JQ5F6BEpk?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Daytime Moon",
+  "artist": "月のテンペスト",
+  "collection": "【歌切】[2026-06-01]V偶像精选！二次元偶像神曲合集✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JQ5F6BEpk?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "STORIA",
+  "artist": "トロワアンジュ",
+  "collection": "【歌切】[2026-06-01]V偶像精选！二次元偶像神曲合集✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JQ5F6BEpk?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Catch my dream",
+  "artist": "最上静香",
+  "collection": "【歌切】[2026-06-01]V偶像精选！二次元偶像神曲合集✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JQ5F6BEpk?p=4",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "レディバグ",
+  "artist": "DOLLCHESTRA",
+  "collection": "【歌切】[2026-06-01]V偶像精选！二次元偶像神曲合集✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JQ5F6BEpk?p=5",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ReTale",
+  "artist": "≡君彩≡",
+  "collection": "【歌切】[2026-06-01]V偶像精选！二次元偶像神曲合集✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JQ5F6BEpk?p=6",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Howling over the World",
+  "artist": "初星学園",
+  "collection": "【歌切】[2026-06-01]V偶像精选！二次元偶像神曲合集✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JQ5F6BEpk?p=7",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "7 Senses",
+  "artist": "Wake Up, Girls!",
+  "collection": "【歌切】[2026-06-01]V偶像精选！二次元偶像神曲合集✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JQ5F6BEpk?p=8",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "サヨナラから始まる物語",
+  "artist": "星見プロダクション",
+  "collection": "【歌切】[2026-06-01]V偶像精选！二次元偶像神曲合集✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JQ5F6BEpk?p=9",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "全方位キュン♡",
+  "artist": "みらくらぱーく！",
+  "collection": "【歌切】[2026-06-01]V偶像精选！二次元偶像神曲合集✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JQ5F6BEpk?p=10",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Yellow Big Bang！",
+  "artist": "藤田ことね",
+  "collection": "【歌切】[2026-06-01]V偶像精选！二次元偶像神曲合集✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JQ5F6BEpk?p=11",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "素顔のピクセル",
+  "artist": "スリーズブーケ",
+  "collection": "【歌切】[2026-06-01]V偶像精选！二次元偶像神曲合集✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JQ5F6BEpk?p=12",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ミツバチ",
+  "artist": "Le☆S☆Ca",
+  "collection": "【歌切】[2026-06-01]V偶像精选！二次元偶像神曲合集✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JQ5F6BEpk?p=13",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "シャイノグラフィ",
+  "artist": "シャイニーカラーズ",
+  "collection": "【歌切】[2026-06-01]V偶像精选！二次元偶像神曲合集✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JQ5F6BEpk?p=14",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "7 Senses",
+  "artist": "Wake Up, Girls!",
+  "collection": "【歌切】[2026-06-01]V偶像精选！二次元偶像神曲合集✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JQ5F6BEpk?p=15",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "蝶々むすび",
+  "artist": "765 MILLION ALLSTARS",
+  "collection": "【歌切】[2026-06-01]V偶像精选！二次元偶像神曲合集✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JQ5F6BEpk?p=16",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Daytime Moon",
+  "artist": "月のテンペスト",
+  "collection": "【歌切】[2026-06-01]V偶像精选！二次元偶像神曲合集✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JQ5F6BEpk?p=17",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "STORIA",
+  "artist": "トロワアンジュ",
+  "collection": "【歌切】[2026-06-01]V偶像精选！二次元偶像神曲合集✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JQ5F6BEpk?p=18",
   "source": "kanaruhanon.js"
 }
 );
