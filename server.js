@@ -37,6 +37,8 @@ const STATS_PREVIEW_SONG_LIMIT = 3;
 const STATS_PREVIEW_LINK_LIMIT = 8;
 const STATS_SUMMARY_LINK_LIMIT = 20;
 const STATS_PREVIEW_PERFORMANCE_LIMIT = 20;
+const STATS_DEFAULT_PAGE_SIZE = 30;
+const STATS_SOURCE_PAGE_SIZE_LIMIT = 10000;
 const DEFAULT_SINGER_CONFIG_PATH = path.join(ROOT, 'scripts', 'singer-configs.json');
 const ENV_SINGER_CONFIG_PATH = (process.env.SINGER_CONFIG_PATH || '').trim();
 const ENV_RUNTIME_SINGER_CONFIG_PATH = (process.env.SINGER_CONFIG_RUNTIME_PATH || '').trim();
@@ -2262,13 +2264,23 @@ function getStatsDetailItem(tab, source, keyword, key) {
   return item ? summarizeGroupItem(item, 'vtuber', true) : null;
 }
 
+function getStatsViewPageSize(tab, reqUrl) {
+  const defaultPageSize = tab === 'vtuber-source' ? STATS_SOURCE_PAGE_SIZE_LIMIT : STATS_DEFAULT_PAGE_SIZE;
+  const maxPageSize = tab === 'vtuber-source' ? STATS_SOURCE_PAGE_SIZE_LIMIT : 100;
+  const raw = reqUrl.searchParams.has('pageSize')
+    ? Number(reqUrl.searchParams.get('pageSize'))
+    : defaultPageSize;
+  const pageSize = Number.isFinite(raw) && raw > 0 ? raw : defaultPageSize;
+  return Math.max(1, Math.min(maxPageSize, pageSize));
+}
+
 function handleStatsView(reqUrl, res) {
   const tab = reqUrl.searchParams.get('tab') || 'vtuber-source';
   const source = reqUrl.searchParams.get('source') || 'all';
   const keyword = reqUrl.searchParams.get('q') || '';
   const sort = reqUrl.searchParams.get('sort') || (tab === 'vtuber-source' ? 'songs-desc' : 'count-desc');
   const page = Math.max(1, Number(reqUrl.searchParams.get('page') || '1'));
-  const pageSize = Math.max(1, Math.min(100, Number(reqUrl.searchParams.get('pageSize') || '30')));
+  const pageSize = getStatsViewPageSize(tab, reqUrl);
   const payload = getStatsAggregatePayload(tab, source, keyword);
   const groups = sortStatsGroups(payload.groups || [], tab, sort);
   const total = groups.length;

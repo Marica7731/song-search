@@ -313,6 +313,7 @@ Invoke-WebRequest -UseBasicParsing "http://127.0.0.1:8080/api/stats/view?tab=vtu
 
 ```text
 /api/stats/view?tab=vtuber-source 返回的来源分组应包含 bvCount。
+/api/stats/view?tab=vtuber-source 不带 pageSize 时应默认返回全部来源，页面来源统计不能只停在前 30 个来源。
 页面来源分组 chip 应显示：场次 = bvCount，曲数 = totalCount，场均 = totalCount / bvCount。
 页面来源排序默认 sort=songs-desc；也应支持 bvid-desc、avg-desc、avg-asc、solo-desc、unique-desc。
 场均排序时，`sourceProfiles` 里 `statsAvgSortDeferred=true` 的来源应始终排在普通来源之后；当前包含接力、花丸晴琉、來-Ray-、朱名、非常驻妹妹。

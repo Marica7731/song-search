@@ -937,7 +937,8 @@
         let activeFilter = 'all';
         let searchKeyword = '';
         let statsSort = 'songs-desc';
-        const PAGE_SIZE = 30;
+        const DEFAULT_PAGE_SIZE = 30;
+        const SOURCE_STATS_PAGE_SIZE = 1000;
         let currentRankPage = 1;
         let isApiMode = false;
         let currentStatsPayload = null;
@@ -957,6 +958,15 @@
         let currentCopyOriginalData = null; // 保存原始数据用于排序
 
         // 工具函数
+        function getStatsPageSize(tab = activeTab) {
+            return tab === 'vtuber-source' ? SOURCE_STATS_PAGE_SIZE : DEFAULT_PAGE_SIZE;
+        }
+
+        function getStatsRequestPage(tab = activeTab, page = currentRankPage) {
+            if (tab === 'vtuber-source') return 1;
+            return Math.max(1, Number(page) || 1);
+        }
+
         function isValidArtist(artist) {
             if (!artist || artist.trim() === '') return false;
             if (artist.includes('来源处未提供标准格式歌手')) return false;
@@ -2146,8 +2156,9 @@
                 document.getElementById('summary-text').textContent = `${aggData.length} 首不同歌曲`;
             }
 
-            const start = (currentRankPage - 1) * PAGE_SIZE;
-            const end = start + PAGE_SIZE;
+            const pageSize = getStatsPageSize('rank');
+            const start = (currentRankPage - 1) * pageSize;
+            const end = start + pageSize;
             const pageData = isApiMode ? aggData : aggData.slice(start, end);
 
             if (pageData.length === 0) {
@@ -2539,7 +2550,8 @@
         function renderPagination(total) {
             const el = document.getElementById('pagination-rank');
             el.innerHTML = '';
-            const totalPages = Math.ceil(total / PAGE_SIZE);
+            const pageSize = getStatsPageSize(activeTab);
+            const totalPages = Math.ceil(total / pageSize);
             if (totalPages <= 1) return;
 
             const prev = document.createElement('button');
@@ -2620,13 +2632,14 @@
         // ========== 4. 总控与初始化 ==========
 
         async function fetchStatsView(tab, source, keyword, page) {
+            const requestTab = tab || activeTab;
             const params = new URLSearchParams({
-                tab: tab || activeTab,
+                tab: requestTab,
                 source: source || activeFilter,
                 q: keyword || searchKeyword,
                 sort: statsSort,
-                page: String(page || currentRankPage),
-                pageSize: String(PAGE_SIZE)
+                page: String(getStatsRequestPage(requestTab, page || currentRankPage)),
+                pageSize: String(getStatsPageSize(requestTab))
             });
             const res = await fetch(`/api/stats/view?${params.toString()}`);
             if (!res.ok) throw new Error(`统计接口失败（状态码：${res.status}）`);
@@ -2683,7 +2696,7 @@
                 try {
                     currentStatsPayload = await fetchStatsView(requestTab, requestFilter, requestKeyword, requestPage);
                     if (requestSeq !== statsViewRequestSeq) return;
-                    currentRankPage = currentStatsPayload.page || currentRankPage;
+                    currentRankPage = requestTab === 'vtuber-source' ? 1 : (currentStatsPayload.page || currentRankPage);
                     document.getElementById('summary-text').textContent = normalizeSummaryText(currentStatsPayload.summaryText || '');
                     if (!currentStatsPayload.hasData || !Array.isArray(currentStatsPayload.items) || currentStatsPayload.items.length === 0) {
                         renderOverviewCards(currentStatsPayload.overview || {}, currentStatsPayload.total || 0);
@@ -2746,6 +2759,7 @@
         function switchTab(tab) {
             if (!['vtuber-source', 'rank', 'artist'].includes(tab)) return;
             activeTab = tab;
+            currentRankPage = 1;
             syncStatsNavigation();
             document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
             document.getElementById(`tab-${tab}`).classList.add('active');
