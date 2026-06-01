@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 6/1/2026, 11:26:50 AM
+// 生成时间: 6/1/2026, 12:11:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -16355,6 +16355,190 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-05-25]动漫歌曲歌回 ✧ 来唱动画歌咯～ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WUGd6cEjS?p=29",
+  "source": "ririsya.js"
+},
+    {
+  "title": "マトリョシカ",
+  "artist": "ハチ",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "パンダヒーロー",
+  "artist": "ハチ",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "1925",
+  "artist": "冨田悠斗(とみー/t-pocket)",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Just be friends",
+  "artist": "Dixie Flatline",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "金曜日のおはよう",
+  "artist": "Gero",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "告白予行練習",
+  "artist": "HoneyWorks",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "シリョクケンサ",
+  "artist": "40mP",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "心拍数♯0822",
+  "artist": "蝶々P",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "magnet",
+  "artist": "みなと(流星P)",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "え？あぁ、そう。",
+  "artist": "蝶々P",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "右肩の蝶",
+  "artist": "のりぴー",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo(supercell)",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=18",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ロストワンの号哭",
+  "artist": "Neru",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=19",
+  "source": "ririsya.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=20",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=21",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ブラック★ロックシューター",
+  "artist": "ryo(supercell)",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=22",
+  "source": "ririsya.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell)",
+  "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=23",
   "source": "ririsya.js"
 }
 );
