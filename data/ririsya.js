@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 6/1/2026, 12:11:19 PM
+// 生成时间: 6/1/2026, 12:56:49 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -16407,7 +16407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "金曜日のおはよう",
-  "artist": "Gero",
+  "artist": "HoneyWorks feat. GUMI",
   "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=7",
