@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/1/2026, 8:04:27 PM
+// 生成时间: 6/1/2026, 8:45:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12835,6 +12835,94 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-22 甘音あむ / Amane Amu pUb0ITu1ogc 粉丝见面会快到了！来唱歌吧！✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oyVY6tEoV?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-06-01 Haru Ch. 花前ハル ACIF5nWCFq4 出道一个月纪念❗️✨️今天要用歌声来庆祝🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Np5c67EuV?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "歌切 2026-06-01 Haru Ch. 花前ハル ACIF5nWCFq4 出道一个月纪念❗️✨️今天要用歌声来庆祝🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Np5c67EuV?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "歌切 2026-06-01 Haru Ch. 花前ハル ACIF5nWCFq4 出道一个月纪念❗️✨️今天要用歌声来庆祝🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Np5c67EuV?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "歌切 2026-06-01 Haru Ch. 花前ハル ACIF5nWCFq4 出道一个月纪念❗️✨️今天要用歌声来庆祝🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Np5c67EuV?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "脳裏上のクラッカー",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "歌切 2026-06-01 Haru Ch. 花前ハル ACIF5nWCFq4 出道一个月纪念❗️✨️今天要用歌声来庆祝🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Np5c67EuV?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "サムライハート(Some Like It Hot!!)",
+  "artist": "SPYAIR",
+  "collection": "歌切 2026-06-01 Haru Ch. 花前ハル ACIF5nWCFq4 出道一个月纪念❗️✨️今天要用歌声来庆祝🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Np5c67EuV?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ブレーメン",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-06-01 Haru Ch. 花前ハル ACIF5nWCFq4 出道一个月纪念❗️✨️今天要用歌声来庆祝🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Np5c67EuV?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "歌切 2026-06-01 Haru Ch. 花前ハル ACIF5nWCFq4 出道一个月纪念❗️✨️今天要用歌声来庆祝🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Np5c67EuV?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "ボクノート",
+  "artist": "スキマスイッチ",
+  "collection": "歌切 2026-06-01 Haru Ch. 花前ハル ACIF5nWCFq4 出道一个月纪念❗️✨️今天要用歌声来庆祝🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Np5c67EuV?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "アカシア",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "歌切 2026-06-01 Haru Ch. 花前ハル ACIF5nWCFq4 出道一个月纪念❗️✨️今天要用歌声来庆祝🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Np5c67EuV?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "ダンスホール",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "歌切 2026-06-01 Haru Ch. 花前ハル ACIF5nWCFq4 出道一个月纪念❗️✨️今天要用歌声来庆祝🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Np5c67EuV?p=11",
   "source": "others.js"
 },
     {
