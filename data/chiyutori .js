@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 6/2/2026, 3:09:24 AM
+// 生成时间: 6/2/2026, 3:52:40 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3067,6 +3067,414 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-25]目标是2850人！谢谢大家来看现场Live！星期一固定歌回♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LgVc6aE4k?p=32",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=1",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=2",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Sing my pleasure",
+  "artist": "ヴィヴィ（八木海莉）",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=3",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ココロオドル",
+  "artist": "nobodyknows+",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=4",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ココロオドル",
+  "artist": "nobodyknows+",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=5",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=6",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=7",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=8",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "イケナイ太陽",
+  "artist": "ORANGERANGE",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=9",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ローリンガール",
+  "artist": "wowaka",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=10",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=11",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "fraglie",
+  "artist": "Every Little Thing",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=12",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ご唱和ください 我の名を！",
+  "artist": "遠藤正明",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=13",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "裏表ラバーズ",
+  "artist": "wowaka",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=14",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "アンノウン・マザーグース",
+  "artist": "wowaka",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=15",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "天城越え",
+  "artist": "石川さゆり",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=16",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=17",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "IN MY DREAM",
+  "artist": "真行寺恵里",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=18",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "愛言葉Ⅲ",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=19",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=20",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "小さな恋のうた",
+  "artist": "MONGOL800",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=21",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "あなたに",
+  "artist": "MONGOL800",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=22",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=23",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "All Alone With You",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=24",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "sakura",
+  "artist": "NILGILIS",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=25",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ロマンスの神様",
+  "artist": "広瀬香美",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=26",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=27",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ETERNAL BLAZE",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=28",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "甲賀忍法帖",
+  "artist": "陰陽座",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=29",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=30",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Timing～タイミング～",
+  "artist": "ブラック・ビスケッツ",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=31",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=32",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell)",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=33",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ETERNAL WIND ～ほほえみは光る風の中～",
+  "artist": "森口博子",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=34",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=35",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=36",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=37",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ダブルラリアット",
+  "artist": "アゴアニキP",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=38",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "フリージア",
+  "artist": "Uru",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=39",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "you",
+  "artist": "癒月",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=40",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=41",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ラブレター",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=42",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "世界はそれを愛と呼ぶんだぜ",
+  "artist": "サンボマスター",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=43",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ファイト",
+  "artist": "中島みゆき",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=44",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Everything",
+  "artist": "MISIA",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=45",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=46",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "酔いどれ知らず",
+  "artist": "Kanaria",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=47",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "英雄",
+  "artist": "Doa",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=48",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "かくれんぼ",
+  "artist": "AliA",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=49",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ベリーメロン～私の心をつかんだ良いメロン～",
+  "artist": "ビクトリーム(若本規夫)",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=50",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "終わりへ向かう始まりの歌",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=51",
   "source": "chiyutori .js"
 }
 );
