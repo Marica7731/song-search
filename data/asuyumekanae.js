@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 6/2/2026, 8:26:38 PM
+// 生成时间: 6/2/2026, 9:13:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2835,6 +2835,214 @@ window.SONG_DATA.push(
   "collection": "【明日夢 歌切】[2026-05-26]来听歌吧——！星期二也要元气满满！！！ 明日夢かなえ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15yVK6yEM6?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ルバート",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "魔性",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ポスト春",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "夜紛い",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "プレイシック",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "火葬",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花も騒めく",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "櫂",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "千鳥",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "茜",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "うめき",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "太陽",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=21",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "六月は雨上がりの街を書く",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=22",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "月に吠える",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=23",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "逃亡",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=24",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=25",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=26",
   "source": "asuyumekanae.js"
 },
     {
