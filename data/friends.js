@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 6/2/2026, 7:03:46 PM
+// 生成时间: 6/2/2026, 8:36:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1763,6 +1763,86 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-05-27 新衣装到手，久违的歌回！🦅🕊️ MIONch.蒼羽未音",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EGVx6MEpW?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "絶対敵対メチャキライヤー",
+  "artist": "メドミア",
+  "collection": "🍯🍁联动歌切 2026-06-02 古椿姫 メル ❌ 紅葉丸 搞笑二人组激情开唱超燃术力口歌曲✊🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUVr6ZEpE?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "月光",
+  "artist": "はるまきごはん×キタニタツヤ",
+  "collection": "🍯🍁联动歌切 2026-06-02 古椿姫 メル ❌ 紅葉丸 搞笑二人组激情开唱超燃术力口歌曲✊🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUVr6ZEpE?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "Gimme×Gimme",
+  "artist": "八王子P × Giga",
+  "collection": "🍯🍁联动歌切 2026-06-02 古椿姫 メル ❌ 紅葉丸 搞笑二人组激情开唱超燃术力口歌曲✊🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUVr6ZEpE?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "インビジブル",
+  "artist": "kemu",
+  "collection": "🍯🍁联动歌切 2026-06-02 古椿姫 メル ❌ 紅葉丸 搞笑二人组激情开唱超燃术力口歌曲✊🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUVr6ZEpE?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "ねぇねぇねぇ。",
+  "artist": "ピノキオピー",
+  "collection": "🍯🍁联动歌切 2026-06-02 古椿姫 メル ❌ 紅葉丸 搞笑二人组激情开唱超燃术力口歌曲✊🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUVr6ZEpE?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "magnet recall",
+  "artist": "湊貴大(流星P)",
+  "collection": "🍯🍁联动歌切 2026-06-02 古椿姫 メル ❌ 紅葉丸 搞笑二人组激情开唱超燃术力口歌曲✊🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUVr6ZEpE?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "ハウトゥー世界征服",
+  "artist": "Neru",
+  "collection": "🍯🍁联动歌切 2026-06-02 古椿姫 メル ❌ 紅葉丸 搞笑二人组激情开唱超燃术力口歌曲✊🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUVr6ZEpE?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "林檎売りの泡沫少女",
+  "artist": "yukkedoluce",
+  "collection": "🍯🍁联动歌切 2026-06-02 古椿姫 メル ❌ 紅葉丸 搞笑二人组激情开唱超燃术力口歌曲✊🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUVr6ZEpE?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "D/N/A",
+  "artist": "Azari",
+  "collection": "🍯🍁联动歌切 2026-06-02 古椿姫 メル ❌ 紅葉丸 搞笑二人组激情开唱超燃术力口歌曲✊🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUVr6ZEpE?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "おおかみは赤ずきんに恋をした",
+  "artist": "ひとしずく×やま△",
+  "collection": "🍯🍁联动歌切 2026-06-02 古椿姫 メル ❌ 紅葉丸 搞笑二人组激情开唱超燃术力口歌曲✊🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUVr6ZEpE?p=10",
   "source": "friends.js"
 }
 );

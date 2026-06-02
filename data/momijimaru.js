@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 6/2/2026, 6:54:06 PM
+// 生成时间: 6/2/2026, 8:27:33 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6467,6 +6467,86 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-06-01]梅雨时节呢。来场伴着雨声的湿润歌回☔✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PW5c62Ene?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "花瓶に触れた",
+  "artist": "バルーン feat. v flower",
+  "collection": "【🍁歌切】[2026-06-02]早晨的陪伴怎么样!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PUVr6ZEv2?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "だれかの心臓になれたなら",
+  "artist": "ユリイ・カノン feat. GUMI",
+  "collection": "【🍁歌切】[2026-06-02]早晨的陪伴怎么样!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PUVr6ZEv2?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "SUN",
+  "artist": "星野源",
+  "collection": "【🍁歌切】[2026-06-02]早晨的陪伴怎么样!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PUVr6ZEv2?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ドラえもん",
+  "artist": "星野源",
+  "collection": "【🍁歌切】[2026-06-02]早晨的陪伴怎么样!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PUVr6ZEv2?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "喜劇",
+  "artist": "星野源",
+  "collection": "【🍁歌切】[2026-06-02]早晨的陪伴怎么样!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PUVr6ZEv2?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "むげんのチケット",
+  "artist": "まらしぃ feat. 初音ミク・KAITO",
+  "collection": "【🍁歌切】[2026-06-02]早晨的陪伴怎么样!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PUVr6ZEv2?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ひゅ〜どろどろ",
+  "artist": "栗山夕璃 feat. 初音ミク・MEIKO",
+  "collection": "【🍁歌切】[2026-06-02]早晨的陪伴怎么样!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PUVr6ZEv2?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ドクター＝ファンクビート",
+  "artist": "nyanyannya feat. KAITO",
+  "collection": "【🍁歌切】[2026-06-02]早晨的陪伴怎么样!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PUVr6ZEv2?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "全部夢だった！",
+  "artist": "黒うさぎ feat. 重音テト",
+  "collection": "【🍁歌切】[2026-06-02]早晨的陪伴怎么样!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PUVr6ZEv2?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【🍁歌切】[2026-06-02]早晨的陪伴怎么样!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PUVr6ZEv2?p=10",
   "source": "momijimaru.js"
 }
 );

@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 6/2/2026, 6:55:14 PM
+// 生成时间: 6/2/2026, 8:28:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9459,6 +9459,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "departure!",
+  "artist": "小野正利",
+  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "疾走",
+  "artist": "LAST ALLIANCE",
+  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "LADY",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu",
+  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "冒険彗星",
+  "artist": "榎本くるみ",
+  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "君の神話～アクエリオン第二章",
+  "artist": "AKINO",
+  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "プラリネ",
+  "artist": "ジュリア(愛美)",
+  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "光るなら",
+  "artist": "Goose house",
+  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Catch You Catch Me",
+  "artist": "グミ",
+  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=13",
   "source": "naraetan.js"
 },
     {

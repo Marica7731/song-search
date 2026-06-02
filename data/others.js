@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/2/2026, 7:12:54 PM
+// 生成时间: 6/2/2026, 8:47:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12923,6 +12923,54 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-06-01 Haru Ch. 花前ハル ACIF5nWCFq4 出道一个月纪念❗️✨️今天要用歌声来庆祝🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Np5c67EuV?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-06-02 ヨル紛イ / 百日 紅 ネタバレ無し！一人称帰りのヨルシカ専門Vtuberの歌枠🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dPVk62EzH?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "又三郎",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-06-02 ヨル紛イ / 百日 紅 ネタバレ無し！一人称帰りのヨルシカ専門Vtuberの歌枠🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dPVk62EzH?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "六月は雨上がりの街を書く",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-06-02 ヨル紛イ / 百日 紅 ネタバレ無し！一人称帰りのヨルシカ専門Vtuberの歌枠🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dPVk62EzH?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "五月は花緑青の窓辺から",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-06-02 ヨル紛イ / 百日 紅 ネタバレ無し！一人称帰りのヨルシカ専門Vtuberの歌枠🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dPVk62EzH?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "爆弾魔",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-06-02 ヨル紛イ / 百日 紅 ネタバレ無し！一人称帰りのヨルシカ専門Vtuberの歌枠🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dPVk62EzH?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "声",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-06-02 ヨル紛イ / 百日 紅 ネタバレ無し！一人称帰りのヨルシカ専門Vtuberの歌枠🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dPVk62EzH?p=6",
   "source": "others.js"
 },
     {
