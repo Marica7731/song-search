@@ -1,6 +1,6 @@
 // 深影 - 歌单数据 (多合集汇总)
 // 来源: BV12mQ3B6EpP
-// 生成时间: 6/3/2026, 10:54:41 PM
+// 生成时间: 6/3/2026, 11:38:20 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -635,6 +635,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-24]频道订阅26,000人耐久歌回 深影 - Mikage -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QvG56ZE5C?p=14",
+  "source": "mikage.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-06-03]会把 Siri 叫成「…ssiri」的人 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TJ7d6UEE3?p=1",
+  "source": "mikage.js"
+},
+    {
+  "title": "記念撮影",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-06-03]会把 Siri 叫成「…ssiri」的人 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TJ7d6UEE3?p=2",
+  "source": "mikage.js"
+},
+    {
+  "title": "花の名",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-06-03]会把 Siri 叫成「…ssiri」的人 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TJ7d6UEE3?p=3",
+  "source": "mikage.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-06-03]会把 Siri 叫成「…ssiri」的人 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TJ7d6UEE3?p=4",
+  "source": "mikage.js"
+},
+    {
+  "title": "Rain",
+  "artist": "秦基博",
+  "collection": "【歌切】[2026-06-03]会把 Siri 叫成「…ssiri」的人 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TJ7d6UEE3?p=5",
+  "source": "mikage.js"
+},
+    {
+  "title": "ninelie",
+  "artist": "Aimer with chelly",
+  "collection": "【歌切】[2026-06-03]会把 Siri 叫成「…ssiri」的人 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TJ7d6UEE3?p=6",
+  "source": "mikage.js"
+},
+    {
+  "title": "灰色と青",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-03]会把 Siri 叫成「…ssiri」的人 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TJ7d6UEE3?p=7",
+  "source": "mikage.js"
+},
+    {
+  "title": "星屑ビーナス",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-06-03]会把 Siri 叫成「…ssiri」的人 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TJ7d6UEE3?p=8",
+  "source": "mikage.js"
+},
+    {
+  "title": "flos",
+  "artist": "R Sound Design",
+  "collection": "【歌切】[2026-06-03]会把 Siri 叫成「…ssiri」的人 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TJ7d6UEE3?p=9",
+  "source": "mikage.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-03]会把 Siri 叫成「…ssiri」的人 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TJ7d6UEE3?p=10",
+  "source": "mikage.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-06-03]会把 Siri 叫成「…ssiri」的人 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TJ7d6UEE3?p=11",
   "source": "mikage.js"
 }
 );
