@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 6/3/2026, 7:31:17 PM
+// 生成时间: 6/3/2026, 8:16:35 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5343,7 +5343,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "葛飾ラプソディー",
-  "artist": "Fischer's(フィッシャーズ)",
+  "artist": "堂島孝平",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=1",
@@ -5391,7 +5391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "にじのむこうに",
-  "artist": "速水けんたろう＆茂森あゆみ",
+  "artist": "坂田おさむ",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=7",
@@ -5431,7 +5431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヒッチコック",
-  "artist": "あいみょん",
+  "artist": "ヨルシカ",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=12",
@@ -5439,7 +5439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ルビーの指環",
-  "artist": "小泉今日子",
+  "artist": "寺尾聰",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=13",
@@ -5463,7 +5463,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ラヴ・イズ・オーヴァー",
-  "artist": "大滝詠一",
+  "artist": "欧陽菲菲",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=16",
@@ -5479,7 +5479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛のうた",
-  "artist": "倖田來未",
+  "artist": "ストロベリー・フラワー",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=18",
@@ -5511,7 +5511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サウダージ",
-  "artist": "ポルノグラフィティ(Porno Graffitti)",
+  "artist": "ポルノグラフィティ",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=22",
@@ -5519,7 +5519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "残ってる",
-  "artist": "あいみょん",
+  "artist": "吉澤嘉代子",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=23",
@@ -5543,7 +5543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "少女レイ",
-  "artist": "みきとP feat. 初音ミク",
+  "artist": "みきとP",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=26",
@@ -5551,7 +5551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "時の流れに身をまかせ",
-  "artist": "鄧麗君",
+  "artist": "テレサ・テン",
   "collection": "【VTuber/凛々咲 Ririsya】睡眠導入弾き語り💤【弾き語り/Acoustic】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1137QzmE1b?p=27",
@@ -7383,7 +7383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "地獄先生",
-  "artist": "かいりきベア feat. 初音ミク",
+  "artist": "相対性理論",
   "collection": "【 Karaoke / 歌枠 】ウィスパーボイスで睡眠導入💤Whispering Lullabies Singing Stream【 VTuber / 凛々咲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Qg4zZEEz?p=2",
@@ -7415,7 +7415,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "fly me to the moon",
-  "artist": "林原めぐみ",
+  "artist": "Frank Sinatra",
   "collection": "【 Karaoke / 歌枠 】ウィスパーボイスで睡眠導入💤Whispering Lullabies Singing Stream【 VTuber / 凛々咲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Qg4zZEEz?p=6",
@@ -7447,7 +7447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サーカスナイト",
-  "artist": "かいりきベア feat. 初音ミク",
+  "artist": "七尾旅人",
   "collection": "【 Karaoke / 歌枠 】ウィスパーボイスで睡眠導入💤Whispering Lullabies Singing Stream【 VTuber / 凛々咲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Qg4zZEEz?p=10",
@@ -7455,7 +7455,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "me me she",
-  "artist": "かいりきベア feat. 初音ミク",
+  "artist": "RADWIMPS",
   "collection": "【 Karaoke / 歌枠 】ウィスパーボイスで睡眠導入💤Whispering Lullabies Singing Stream【 VTuber / 凛々咲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Qg4zZEEz?p=11",
@@ -7479,7 +7479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いかないで",
-  "artist": "まふまふ",
+  "artist": "想太 feat. 歌愛ユキ",
   "collection": "【 Karaoke / 歌枠 】ウィスパーボイスで睡眠導入💤Whispering Lullabies Singing Stream【 VTuber / 凛々咲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Qg4zZEEz?p=14",
@@ -7487,7 +7487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜明けと蛍",
-  "artist": "n-buna feat. 初音ミク",
+  "artist": "n-buna",
   "collection": "【 Karaoke / 歌枠 】ウィスパーボイスで睡眠導入💤Whispering Lullabies Singing Stream【 VTuber / 凛々咲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Qg4zZEEz?p=15",
