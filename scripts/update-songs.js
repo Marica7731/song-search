@@ -91,6 +91,7 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1LgVc6aEuV"], file: "kanaruhanon", alias: "香鳴ハノン" },
     { bvids: ["BV1dE42137AT"], file: "azki", alias: "AZKi" },
     { bvids: ["BV1CbVk68ESd"], file: "toka10summer", alias: "透夏" },
+    { bvids: ["BV1r75B6LEwd"], file: "323", alias: "323" },
     { bvids: ["BV1TqGY6gEEf"], file: "minaton", alias: "みなとん" },
     { bvids: ["BV11GZtBcEsp","BV1xucZzxEkZ","BV117P2zwEuq","BV1LJ4m1A7FC"], file: "others", alias: "非常驻妹妹" },
     { bvids: ["BV1Qa9JB6EAw"], alias: "陽月るるふ" }
