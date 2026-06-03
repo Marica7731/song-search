@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 6/3/2026, 10:01:14 PM
+// 生成时间: 6/3/2026, 10:49:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1843,6 +1843,62 @@ window.SONG_DATA.push(
   "collection": "🍯🍁联动歌切 2026-06-02 古椿姫 メル ❌ 紅葉丸 搞笑二人组激情开唱超燃术力口歌曲✊🔥",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AUVr6ZEpE?p=10",
+  "source": "friends.js"
+},
+    {
+  "title": "トライアングラー",
+  "artist": "ランカ・リー＝中島愛, シェリル・ノーム starring May'n",
+  "collection": "联动歌切 2026-06-03 UTANO ch. 白玖ウタノ N7Iq6eTmKyM 新成员来袭！？成为我的兰花吧✈️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1So7d6pEnA?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "インフィニティ",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "联动歌切 2026-06-03 UTANO ch. 白玖ウタノ N7Iq6eTmKyM 新成员来袭！？成为我的兰花吧✈️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1So7d6pEnA?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "娘々FIRE!! ～突撃プラネットエクスプロージョン",
+  "artist": "シェリル・ノーム starring May'n,ランカ・リー＝中島愛,Fire Bomber",
+  "collection": "联动歌切 2026-06-03 UTANO ch. 白玖ウタノ N7Iq6eTmKyM 新成员来袭！？成为我的兰花吧✈️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1So7d6pEnA?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "GIRAFFE BLUES",
+  "artist": "ワルキューレ",
+  "collection": "联动歌切 2026-06-03 UTANO ch. 白玖ウタノ N7Iq6eTmKyM 新成员来袭！？成为我的兰花吧✈️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1So7d6pEnA?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "僕らの戦場",
+  "artist": "ワルキューレ",
+  "collection": "联动歌切 2026-06-03 UTANO ch. 白玖ウタノ N7Iq6eTmKyM 新成员来袭！？成为我的兰花吧✈️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1So7d6pEnA?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "恋のドッグファイト",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "联动歌切 2026-06-03 UTANO ch. 白玖ウタノ N7Iq6eTmKyM 新成员来袭！？成为我的兰花吧✈️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1So7d6pEnA?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "Friends ～時空を越えて～",
+  "artist": "リン・ミンメイ(飯島真理)＆ミレーヌ・ジーナス(桜井智)",
+  "collection": "联动歌切 2026-06-03 UTANO ch. 白玖ウタノ N7Iq6eTmKyM 新成员来袭！？成为我的兰花吧✈️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1So7d6pEnA?p=7",
   "source": "friends.js"
 }
 );

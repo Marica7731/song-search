@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/3/2026, 10:13:58 PM
+// 生成时间: 6/3/2026, 10:59:20 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12971,6 +12971,646 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-06-02 ヨル紛イ / 百日 紅 ネタバレ無し！一人称帰りのヨルシカ専門Vtuberの歌枠🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dPVk62EzH?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "あのこどこのこ",
+  "artist": "ナナホシ管弦楽団 feat.GUMI",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "いろは唄",
+  "artist": "銀サク feat.鏡音リン",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "WAVE",
+  "artist": "niki feat.Lily",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "エンヴィキャットウォーク",
+  "artist": "トーマ feat.初音ミク",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "おねがいダーリン",
+  "artist": "ナナホシ管弦楽団 feat.ONE",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "影踏みエトランゼ",
+  "artist": "Substreet feat.初音ミク",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "君の好きな本",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "クイーンオブハート",
+  "artist": "奏音69 feat.巡音ルカ",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "下剋上(完)",
+  "artist": "一行P feat.鏡音リン・鏡音レン",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "こちら、幸福安心委員会です。",
+  "artist": "うたたP feat.初音ミク",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "さよならのかわりに",
+  "artist": "レフティーモンスターP feat.GUMI",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "シュガーバイン",
+  "artist": "Dixie Flatline feat.巡音ルカ V4X",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "Starduster",
+  "artist": "ジミーサムP feat.初音ミク",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "セツナトリップ",
+  "artist": "Last Note. feat.GUMI",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz feat.巡音ルカ",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "タイムマシン",
+  "artist": "1640mP feat.初音ミク",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "チット・チャット・マーチ",
+  "artist": "Omoi feat.初音ミク",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "ツギハギスタッカート",
+  "artist": "とあ feat.初音ミク",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "転生林檎",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "東京レトロ",
+  "artist": "すこっぷ feat.初音ミク",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "夏恋花火",
+  "artist": "40mP feat.シャノ",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "にっこり^^調査隊のテーマ",
+  "artist": "じーざすP feat.鏡音リン・鏡音レン",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "「ねぇ。」",
+  "artist": "ナノウ(ほえほえP) feat.初音ミク",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "脳漿炸裂ガール",
+  "artist": "れるりり feat.初音ミク・GUMI",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "ハナレバナシ",
+  "artist": "とあ feat.v flower",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "ヒビカセ",
+  "artist": "ギガP feat.初音ミク",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "フラジール",
+  "artist": "ぬゆり feat.GUMI",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "HEAVEN",
+  "artist": "はりーP feat.初音ミク",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "ホシアイ",
+  "artist": "レフティーモンスターP feat.GUMI",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "マトリョシカ",
+  "artist": "ハチ feat.初音ミク・GUMI",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "右に曲ガール",
+  "artist": "はるふり feat.重音テト",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "結ンデ開イテ羅刹ト骸",
+  "artist": "ハチ feat.初音ミク",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=32",
+  "source": "others.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=33",
+  "source": "others.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=34",
+  "source": "others.js"
+},
+    {
+  "title": "ヤンキーボーイ・ヤンキーガール",
+  "artist": "トーマ feat.GUMI",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=35",
+  "source": "others.js"
+},
+    {
+  "title": "幽霊屋敷の首吊り少女",
+  "artist": "トーマ feat.初音ミク",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=36",
+  "source": "others.js"
+},
+    {
+  "title": "夜咄ディセイブ",
+  "artist": "じん feat.IA",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=37",
+  "source": "others.js"
+},
+    {
+  "title": "ライカ",
+  "artist": "yamada feat.初音ミク",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=38",
+  "source": "others.js"
+},
+    {
+  "title": "リモコン",
+  "artist": "じーざすP feat.鏡音リン・鏡音レン",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=39",
+  "source": "others.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat.巡音ルカ",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=40",
+  "source": "others.js"
+},
+    {
+  "title": "恋愛勇者",
+  "artist": "Last Note. feat.GUMI",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=41",
+  "source": "others.js"
+},
+    {
+  "title": "炉心融解",
+  "artist": "iroha(sasaki) feat.鏡音リン",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=42",
+  "source": "others.js"
+},
+    {
+  "title": "ワールズエンド・ダンスホール",
+  "artist": "wowaka feat.初音ミク・巡音ルカ",
+  "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oy7d6hEKP?p=43",
+  "source": "others.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-06-03 MaiR Ch. KHU35jfVUes 你喜欢动画歌吗！！！欢迎初见观众☻❥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zq7d6KESD?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "Butter-Fly~tri.Version~",
+  "artist": "和田光司",
+  "collection": "歌切 2026-06-03 MaiR Ch. KHU35jfVUes 你喜欢动画歌吗！！！欢迎初见观众☻❥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zq7d6KESD?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "歌切 2026-06-03 MaiR Ch. KHU35jfVUes 你喜欢动画歌吗！！！欢迎初见观众☻❥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zq7d6KESD?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "dawn",
+  "artist": "LiSA",
+  "collection": "歌切 2026-06-03 MaiR Ch. KHU35jfVUes 你喜欢动画歌吗！！！欢迎初见观众☻❥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zq7d6KESD?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "絆ノ奇跡",
+  "artist": "MAN WITH A MISSION ✕ milet",
+  "collection": "歌切 2026-06-03 MaiR Ch. KHU35jfVUes 你喜欢动画歌吗！！！欢迎初见观众☻❥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zq7d6KESD?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "Supercell",
+  "collection": "歌切 2026-06-03 MaiR Ch. KHU35jfVUes 你喜欢动画歌吗！！！欢迎初见观众☻❥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zq7d6KESD?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ありあまる富",
+  "artist": "椎名林檎",
+  "collection": "歌切 2026-05-17 柴田こむぎ mM6gOMXzbpc 〖歌回〗Emo钢琴 ⋆ ☄︎. ·˚ *〖档案期间限定〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zq7d6KESd?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "歌切 2026-05-17 柴田こむぎ mM6gOMXzbpc 〖歌回〗Emo钢琴 ⋆ ☄︎. ·˚ *〖档案期间限定〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zq7d6KESd?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "歌切 2026-05-17 柴田こむぎ mM6gOMXzbpc 〖歌回〗Emo钢琴 ⋆ ☄︎. ·˚ *〖档案期间限定〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zq7d6KESd?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "歌切 2026-05-17 柴田こむぎ mM6gOMXzbpc 〖歌回〗Emo钢琴 ⋆ ☄︎. ·˚ *〖档案期间限定〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zq7d6KESd?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "歌切 2026-05-17 柴田こむぎ mM6gOMXzbpc 〖歌回〗Emo钢琴 ⋆ ☄︎. ·˚ *〖档案期间限定〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zq7d6KESd?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "歌切 2026-05-17 柴田こむぎ mM6gOMXzbpc 〖歌回〗Emo钢琴 ⋆ ☄︎. ·˚ *〖档案期间限定〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zq7d6KESd?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "鱗",
+  "artist": "秦基博",
+  "collection": "歌切 2026-05-17 柴田こむぎ mM6gOMXzbpc 〖歌回〗Emo钢琴 ⋆ ☄︎. ·˚ *〖档案期间限定〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zq7d6KESd?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "歌切 2026-05-17 柴田こむぎ mM6gOMXzbpc 〖歌回〗Emo钢琴 ⋆ ☄︎. ·˚ *〖档案期间限定〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zq7d6KESd?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "歌切 2026-05-17 柴田こむぎ mM6gOMXzbpc 〖歌回〗Emo钢琴 ⋆ ☄︎. ·˚ *〖档案期间限定〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zq7d6KESd?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "鬼ノ宴",
+  "artist": "友成空",
+  "collection": "歌切 2026-05-17 柴田こむぎ mM6gOMXzbpc 〖歌回〗Emo钢琴 ⋆ ☄︎. ·˚ *〖档案期间限定〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zq7d6KESd?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-17 柴田こむぎ mM6gOMXzbpc 〖歌回〗Emo钢琴 ⋆ ☄︎. ·˚ *〖档案期间限定〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zq7d6KESd?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "カザキリ",
+  "artist": "やなぎなぎ",
+  "collection": "歌切 2026-05-31 えん / neG VXQO6o5AD70 你喜欢抒情歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uo7d6pEtP?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "エア・ブラスト",
+  "artist": "文藝天国",
+  "collection": "歌切 2026-05-31 えん / neG VXQO6o5AD70 你喜欢抒情歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uo7d6pEtP?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "歌切 2026-05-31 えん / neG VXQO6o5AD70 你喜欢抒情歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uo7d6pEtP?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "W/X/Y",
+  "artist": "Tani Yuuki",
+  "collection": "歌切 2026-05-31 えん / neG VXQO6o5AD70 你喜欢抒情歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uo7d6pEtP?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "贖罪",
+  "artist": "傘村トータ",
+  "collection": "歌切 2026-05-31 えん / neG VXQO6o5AD70 你喜欢抒情歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uo7d6pEtP?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "歌切 2026-05-31 えん / neG VXQO6o5AD70 你喜欢抒情歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uo7d6pEtP?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "海の幽霊",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-05-31 えん / neG VXQO6o5AD70 你喜欢抒情歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uo7d6pEtP?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗",
+  "collection": "歌切 2026-05-31 えん / neG VXQO6o5AD70 你喜欢抒情歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uo7d6pEtP?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "セプテンバーさん",
+  "artist": "RADWIMPS",
+  "collection": "歌切 2026-05-31 えん / neG VXQO6o5AD70 你喜欢抒情歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uo7d6pEtP?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "はなれ ばなれ",
+  "artist": "古川本舗",
+  "collection": "歌切 2026-05-31 えん / neG VXQO6o5AD70 你喜欢抒情歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uo7d6pEtP?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "歌切 2026-05-31 えん / neG VXQO6o5AD70 你喜欢抒情歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uo7d6pEtP?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-05-31 えん / neG VXQO6o5AD70 你喜欢抒情歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uo7d6pEtP?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太",
+  "collection": "歌切 2026-05-31 えん / neG VXQO6o5AD70 你喜欢抒情歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uo7d6pEtP?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "地球儀",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-05-31 えん / neG VXQO6o5AD70 你喜欢抒情歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uo7d6pEtP?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-31 えん / neG VXQO6o5AD70 你喜欢抒情歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uo7d6pEtP?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん",
+  "collection": "歌切 2026-05-31 えん / neG VXQO6o5AD70 你喜欢抒情歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uo7d6pEtP?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "すずめ",
+  "artist": "RADWIMPS",
+  "collection": "歌切 2026-05-31 えん / neG VXQO6o5AD70 你喜欢抒情歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uo7d6pEtP?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "ヘブンズP",
+  "collection": "歌切 2026-05-31 えん / neG VXQO6o5AD70 你喜欢抒情歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uo7d6pEtP?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "櫂",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-31 えん / neG VXQO6o5AD70 你喜欢抒情歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uo7d6pEtP?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-31 えん / neG VXQO6o5AD70 你喜欢抒情歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uo7d6pEtP?p=20",
   "source": "others.js"
 },
     {
