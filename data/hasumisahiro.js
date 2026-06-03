@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 6/3/2026, 3:05:32 AM
+// 生成时间: 6/3/2026, 3:51:51 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1299,6 +1299,174 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-30]请不要像泡沫般消失，说那都是谎言 羽澄さひろ / Hasumi Sahiro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HHVV6kEKk?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "終わりへ向かう始まりの歌",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-06-03]想唱就唱不就好了嘛 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WRV16gEvH?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "My Dearest",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-06-03]想唱就唱不就好了嘛 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WRV16gEvH?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ヒーロー",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-06-03]想唱就唱不就好了嘛 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WRV16gEvH?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Perfect Day",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-06-03]想唱就唱不就好了嘛 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WRV16gEvH?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Special♡Spell",
+  "artist": "きゅるりんってしてみて",
+  "collection": "【歌切】[2026-06-03]想唱就唱不就好了嘛 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WRV16gEvH?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "君とtea for two",
+  "artist": "わーすた",
+  "collection": "【歌切】[2026-06-03]想唱就唱不就好了嘛 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WRV16gEvH?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "以心電信",
+  "artist": "ORANGE RANGE",
+  "collection": "【歌切】[2026-06-03]想唱就唱不就好了嘛 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WRV16gEvH?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ネオメロドラマティック",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-06-03]想唱就唱不就好了嘛 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WRV16gEvH?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "I wanna see you",
+  "artist": "阿部真央",
+  "collection": "【歌切】[2026-06-03]想唱就唱不就好了嘛 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WRV16gEvH?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "この木なんの木",
+  "artist": "ヒデ夕樹・朝礼志",
+  "collection": "【歌切】[2026-06-03]想唱就唱不就好了嘛 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WRV16gEvH?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Wherever you are",
+  "artist": "ONE OK ROCK",
+  "collection": "【歌切】[2026-06-03]想唱就唱不就好了嘛 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WRV16gEvH?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "思いがかさなるその前に…",
+  "artist": "平井堅",
+  "collection": "【歌切】[2026-06-03]想唱就唱不就好了嘛 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WRV16gEvH?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ロンリー",
+  "artist": "阿部真央",
+  "collection": "【歌切】[2026-06-03]想唱就唱不就好了嘛 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WRV16gEvH?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "明日も",
+  "artist": "SHISHAMO",
+  "collection": "【歌切】[2026-06-03]想唱就唱不就好了嘛 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WRV16gEvH?p=14",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "瞳",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-06-03]想唱就唱不就好了嘛 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WRV16gEvH?p=15",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "くちびる",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-06-03]想唱就唱不就好了嘛 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WRV16gEvH?p=16",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ハチミツ ～Daddy,Daddy～",
+  "artist": "Aqua Timez",
+  "collection": "【歌切】[2026-06-03]想唱就唱不就好了嘛 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WRV16gEvH?p=17",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "マカロニ",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-06-03]想唱就唱不就好了嘛 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WRV16gEvH?p=18",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "光の方へ",
+  "artist": "鈴木愛理×赤い公園",
+  "collection": "【歌切】[2026-06-03]想唱就唱不就好了嘛 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WRV16gEvH?p=19",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "B with U",
+  "artist": "Aqua Timez",
+  "collection": "【歌切】[2026-06-03]想唱就唱不就好了嘛 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WRV16gEvH?p=20",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "昼夜逆転",
+  "artist": "SHISHAMO",
+  "collection": "【歌切】[2026-06-03]想唱就唱不就好了嘛 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WRV16gEvH?p=21",
   "source": "hasumisahiro.js"
 }
 );
