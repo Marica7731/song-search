@@ -1,7 +1,9 @@
 name: Auto Update Song List
 
 on:
-  workflow_dispatch: # 由雨云定时分发触发
+  schedule:
+    - cron: '*/20 * * * *'
+  workflow_dispatch: # 保留手动/外部分发触发
 
 concurrency:
   group: auto-update-song-list
@@ -19,6 +21,17 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
+
+      - name: 准备抽样状态目录
+        run: mkdir -p reports
+
+      - name: 恢复 BV 抽样状态
+        uses: actions/cache@v4
+        with:
+          path: reports/github-bv-sampling-state.json
+          key: ${{ runner.os }}-github-bv-sampling-${{ github.run_id }}
+          restore-keys: |
+            ${{ runner.os }}-github-bv-sampling-
 
       - name: 配置Node.js环境
         uses: actions/setup-node@v4
@@ -45,7 +58,7 @@ jobs:
       - name: 检查数据更新
         id: check_changes
         run: |
-          if git status --porcelain | grep -q 'data/'; then
+          if git status --porcelain -- 'data/*.js' 'data/index.json' | grep -q .; then
             echo "has_changes=true" >> $GITHUB_OUTPUT
           else
             echo "has_changes=false" >> $GITHUB_OUTPUT
