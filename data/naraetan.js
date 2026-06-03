@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 6/3/2026, 5:53:58 PM
+// 生成时间: 6/3/2026, 7:30:28 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9563,6 +9563,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "灰色と青",
+  "artist": "米津玄師 + 菅田将暉",
+  "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fY796cE51?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Myself",
+  "artist": "Changin' My Life",
+  "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fY796cE51?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アンコール",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fY796cE51?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ヒロイン",
+  "artist": "back number",
+  "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fY796cE51?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fY796cE51?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ツキミソウ",
+  "artist": "Novelbright",
+  "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fY796cE51?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "月並みに輝け",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fY796cE51?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "青い珊瑚礁",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fY796cE51?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "バイバイレイニー",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fY796cE51?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "crossing field",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fY796cE51?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "This game",
+  "artist": "鈴木このみ",
+  "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fY796cE51?p=11",
   "source": "naraetan.js"
 },
     {

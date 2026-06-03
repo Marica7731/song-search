@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 6/3/2026, 6:06:47 PM
+// 生成时间: 6/3/2026, 7:42:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -563,6 +563,78 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-05-31]治愈的弹唱 🎸🦋 歌回 🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UvVD6tEtR?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "【🎸🦋歌切】[2026-06-03]夜晚的抒情弹唱直播🌃🎶🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B77R6cESx?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "花人局",
+  "artist": "ヨルシカ",
+  "collection": "【🎸🦋歌切】[2026-06-03]夜晚的抒情弹唱直播🌃🎶🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B77R6cESx?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "AIDA",
+  "artist": "ano",
+  "collection": "【🎸🦋歌切】[2026-06-03]夜晚的抒情弹唱直播🌃🎶🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B77R6cESx?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "YOU&愛Heaven",
+  "artist": "ano",
+  "collection": "【🎸🦋歌切】[2026-06-03]夜晚的抒情弹唱直播🌃🎶🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B77R6cESx?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "夕暮れの鳥",
+  "artist": "神聖かまってちゃん",
+  "collection": "【🎸🦋歌切】[2026-06-03]夜晚的抒情弹唱直播🌃🎶🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B77R6cESx?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "翳りの讃歌",
+  "artist": "文藝天国",
+  "collection": "【🎸🦋歌切】[2026-06-03]夜晚的抒情弹唱直播🌃🎶🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B77R6cESx?p=6",
+  "source": "stratia.js"
+},
+    {
+  "title": "彗星ハネムーン",
+  "artist": "ナユタン星人",
+  "collection": "【🎸🦋歌切】[2026-06-03]夜晚的抒情弹唱直播🌃🎶🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B77R6cESx?p=7",
+  "source": "stratia.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【🎸🦋歌切】[2026-06-03]夜晚的抒情弹唱直播🌃🎶🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B77R6cESx?p=8",
+  "source": "stratia.js"
+},
+    {
+  "title": "大阪ロマネスク",
+  "artist": "SUPER EIGHT",
+  "collection": "【🎸🦋歌切】[2026-06-03]夜晚的抒情弹唱直播🌃🎶🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B77R6cESx?p=9",
   "source": "stratia.js"
 }
 );

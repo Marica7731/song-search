@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 6/3/2026, 5:56:15 PM
+// 生成时间: 6/3/2026, 7:32:55 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -33819,6 +33819,134 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-05-29]初見さん歓迎中！1曲いかがですか～！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h9VM6LELo?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-06-03]初見さん歓迎中！6月初めまして！1曲どうですか！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xy796XE7M?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾(涼宮ハルヒ)・茅原実里(長門有希)・後藤邑子(朝比奈みくる)",
+  "collection": "【🍠🦍歌切】[2026-06-03]初見さん歓迎中！6月初めまして！1曲どうですか！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xy796XE7M?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "松本梨香",
+  "collection": "【🍠🦍歌切】[2026-06-03]初見さん歓迎中！6月初めまして！1曲どうですか！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xy796XE7M?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-06-03]初見さん歓迎中！6月初めまして！1曲どうですか！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xy796XE7M?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ヒトリゴト",
+  "artist": "ClariS",
+  "collection": "【🍠🦍歌切】[2026-06-03]初見さん歓迎中！6月初めまして！1曲どうですか！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xy796XE7M?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Queens Bluff",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-06-03]初見さん歓迎中！6月初めまして！1曲どうですか！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xy796XE7M?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さくらんぼ",
+  "artist": "大塚愛",
+  "collection": "【🍠🦍歌切】[2026-06-03]初見さん歓迎中！6月初めまして！1曲どうですか！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xy796XE7M?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気分上々↑↑",
+  "artist": "mihimaru GT",
+  "collection": "【🍠🦍歌切】[2026-06-03]初見さん歓迎中！6月初めまして！1曲どうですか！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xy796XE7M?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Happiness",
+  "artist": "嵐",
+  "collection": "【🍠🦍歌切】[2026-06-03]初見さん歓迎中！6月初めまして！1曲どうですか！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xy796XE7M?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-06-03]初見さん歓迎中！6月初めまして！1曲どうですか！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xy796XE7M?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "departure",
+  "artist": "小野正利",
+  "collection": "【🍠🦍歌切】[2026-06-03]初見さん歓迎中！6月初めまして！1曲どうですか！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xy796XE7M?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "負けないで",
+  "artist": "ZARD",
+  "collection": "【🍠🦍歌切】[2026-06-03]初見さん歓迎中！6月初めまして！1曲どうですか！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xy796XE7M?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【🍠🦍歌切】[2026-06-03]初見さん歓迎中！6月初めまして！1曲どうですか！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xy796XE7M?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Spending",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-06-03]初見さん歓迎中！6月初めまして！1曲どうですか！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xy796XE7M?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "輝夜の城で踊りたい",
+  "artist": "μ's",
+  "collection": "【🍠🦍歌切】[2026-06-03]初見さん歓迎中！6月初めまして！1曲どうですか！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xy796XE7M?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "となりのトトロ",
+  "artist": "井上あずみ",
+  "collection": "【🍠🦍歌切】[2026-06-03]初見さん歓迎中！6月初めまして！1曲どうですか！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xy796XE7M?p=16",
   "source": "yoshika.js"
 }
 );

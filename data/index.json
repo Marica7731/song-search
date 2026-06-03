@@ -40,11 +40,13 @@
     "kanaruhanon.js",
     "azki.js",
     "toka10summer.js",
+    "323.js",
     "minaton.js",
     "others.js",
     "bv1qa9jb6eaw.js"
   ],
   "fileToAlias": {
+    "323": "323",
     "asuyumekanae": "明日夢かなえ",
     "chiyutori ": "知悠",
     "momijimaru": "紅葉丸",

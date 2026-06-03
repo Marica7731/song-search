@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 6/3/2026, 6:09:36 PM
+// 生成时间: 6/3/2026, 7:46:26 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -403,6 +403,62 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-01]V偶像精选！二次元偶像神曲合集✨ Hanon Ch. 香鳴ハノン【パレプロ】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JQ5F6BEpk?p=18",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "雨上がりのアイリス",
+  "artist": "Re;IRIS",
+  "collection": "【歌切】[2026-06-03]学園アイドルマスター縛りで歌う！短め歌枠🎤✨✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xm796DETG?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "コンテンポラリのダンス",
+  "artist": "篠澤広",
+  "collection": "【歌切】[2026-06-03]学園アイドルマスター縛りで歌う！短め歌枠🎤✨✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xm796DETG?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Wonder Scale",
+  "artist": "倉本千奈",
+  "collection": "【歌切】[2026-06-03]学園アイドルマスター縛りで歌う！短め歌枠🎤✨✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xm796DETG?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Wake up!!",
+  "artist": "葛城リーリヤ",
+  "collection": "【歌切】[2026-06-03]学園アイドルマスター縛りで歌う！短め歌枠🎤✨✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xm796DETG?p=4",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "世界一可愛い私",
+  "artist": "藤田ことね",
+  "collection": "【歌切】[2026-06-03]学園アイドルマスター縛りで歌う！短め歌枠🎤✨✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xm796DETG?p=5",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "キミとセミブルー",
+  "artist": "初星学園",
+  "collection": "【歌切】[2026-06-03]学園アイドルマスター縛りで歌う！短め歌枠🎤✨✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xm796DETG?p=6",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "仮装狂騒曲",
+  "artist": "初星学園",
+  "collection": "【歌切】[2026-06-03]学園アイドルマスター縛りで歌う！短め歌枠🎤✨✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xm796DETG?p=7",
   "source": "kanaruhanon.js"
 }
 );

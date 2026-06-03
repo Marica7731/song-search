@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 6/3/2026, 6:09:12 PM
+// 生成时间: 6/3/2026, 7:45:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -283,6 +283,62 @@ window.SONG_DATA.push(
   "collection": "タイムマシン - 1640mP feat. 初音ミク",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GN5c6fEdd?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ロンリーユニバース",
+  "artist": "Aqu3ra feat. flower & 初音ミク",
+  "collection": "【歌切】[2026-06-03]好想唱歌、、在低气压的夜晚把闷气一扫而空的心情！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC796WE87?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "雨音ノイズ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【歌切】[2026-06-03]好想唱歌、、在低气压的夜晚把闷气一扫而空的心情！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC796WE87?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "雨とペトラ",
+  "artist": "バルーン feat. v flower",
+  "collection": "【歌切】[2026-06-03]好想唱歌、、在低气压的夜晚把闷气一扫而空的心情！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC796WE87?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP feat. 初音ミク",
+  "collection": "【歌切】[2026-06-03]好想唱歌、、在低气压的夜晚把闷气一扫而空的心情！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC796WE87?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "アサガオの散る頃に",
+  "artist": "じっぷす feat. 初音ミク",
+  "collection": "【歌切】[2026-06-03]好想唱歌、、在低气压的夜晚把闷气一扫而空的心情！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC796WE87?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "林檎売りの泡沫少女",
+  "artist": "yukkedoluce feat. GUMI",
+  "collection": "【歌切】[2026-06-03]好想唱歌、、在低气压的夜晚把闷气一扫而空的心情！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC796WE87?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "曖昧さ回避",
+  "artist": "ポリスピカデリー feat. 闇音レンリ",
+  "collection": "【歌切】[2026-06-03]好想唱歌、、在低气压的夜晚把闷气一扫而空的心情！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RC796WE87?p=7",
   "source": "hinachibi.js"
 }
 );

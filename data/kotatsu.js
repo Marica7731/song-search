@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 6/3/2026, 6:00:55 PM
+// 生成时间: 6/3/2026, 7:36:37 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1486,8 +1486,8 @@ window.SONG_DATA.push(
   "source": "kotatsu.js"
 },
     {
-  "title": "幕無い（配信内表记）",
-  "artist": "はるこたつぶとん倶楽部",
+  "title": "幕無し",
+  "artist": "はる こたつぶとん倶楽部♧",
   "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=14",
@@ -5243,6 +5243,366 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=36",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "あいという",
+  "artist": "plenty",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アセロラ体操のうた",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "真赤",
+  "artist": "My Hair is Bad",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夏色",
+  "artist": "ゆず",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さようなら、花泥棒さん",
+  "artist": "メル feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "花鳥風月",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "季節は次々死んでいく",
+  "artist": "amazarashi",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "SUMMER TIME",
+  "artist": "NEWS",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "五月雨",
+  "artist": "崎山蒼志",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "七夕祭り",
+  "artist": "テゴマス",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよなら人類",
+  "artist": "たま",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "どこにいてもおなじさ",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "木綿のハンカチーフ",
+  "artist": "太田裕美",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ハレルヤ",
+  "artist": "amazarashi",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "トレモロ",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "社会のゴミカザマタカフミ",
+  "artist": "3markets",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "本当はね、",
+  "artist": "ヤングスキニー",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Just a game",
+  "artist": "takamatt feat. GUMI",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "マジカルダンサー",
+  "artist": "小山田壮平",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "あんなつぁ",
+  "artist": "浪漫革命",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "幕無し",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夏の頃",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=29",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ぼくたちの失敗",
+  "artist": "森田童子",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=30",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "歩いて帰ろう",
+  "artist": "斉藤和義",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=31",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "青いベンチ",
+  "artist": "サスケ",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=32",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "笑えよ乙女",
+  "artist": "コレサワ",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=33",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=34",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "はなれ、ばなれ",
+  "artist": "古川P feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=35",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよならミッドナイト",
+  "artist": "大柴広己",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=36",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "くせのうた",
+  "artist": "星野源",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=37",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "あいとわ",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=38",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ナイトオンザプラネット",
+  "artist": "クリープハイプ",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=39",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "三日月",
+  "artist": "くるり",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=40",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Triangle",
+  "artist": "SMAP",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=41",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "行方不明とタクシー",
+  "artist": "3markets",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=42",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "明日への扉",
+  "artist": "I WiSH",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=43",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=44",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "狭心症",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d6796xErM?p=45",
   "source": "kotatsu.js"
 }
 );
