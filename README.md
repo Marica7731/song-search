@@ -191,6 +191,7 @@ BV1KSRXBwE2v すとらてぃあ-Stratia -> data/stratia.js
 BV1sU5S69E8r からくりんね-KarakuRinne -> data/karakurinne.js
 BV1LgVc6aEuV 香鳴ハノン -> data/kanaruhanon.js
 BV1dE42137AT AZKi -> data/azki.js
+BV1CbVk68ESd 透夏 -> data/toka10summer.js
 ```
 
 已拆分的小节来源：
