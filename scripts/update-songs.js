@@ -19,6 +19,11 @@ const DEFAULT_ARTIST_TEXT = '来源处未提供标准格式歌手';
 const SPECIAL_BRACKET_ARTIST_SET = new Set(['[Alexandros]', '[ALEXANDROS]']);
 const LEADING_SOURCE_REGEX = /^(?:\s*【[^】]+】)+\s*/;
 
+function readPositiveIntegerEnv(name, fallback) {
+    const parsed = Number.parseInt(process.env[name] || '', 10);
+    return Number.isFinite(parsed) && parsed > 0 ? parsed : fallback;
+}
+
 async function withRetry(fn, maxRetries = 3, delay = 5000) {
     let lastError;
     for (let attempt = 1; attempt <= maxRetries; attempt++) {
@@ -36,6 +41,12 @@ async function withRetry(fn, maxRetries = 3, delay = 5000) {
 const DELAY_TIME = 1500;
 const BILI_VIDEO_PREFIX = 'https://www.bilibili.com/video/';
 const BV_REGEX = /BV[0-9a-zA-Z]+/;
+const SAMPLE_SIZE = readPositiveIntegerEnv('GITHUB_BV_SAMPLE_SIZE', 2);
+const RECENT_RUN_WINDOW = readPositiveIntegerEnv('GITHUB_BV_RECENT_RUN_WINDOW', 5);
+const SOURCE_FILTER = String(process.env.UPDATE_SONGS_ONLY || '')
+    .split(',')
+    .map(item => item.trim().toLowerCase())
+    .filter(Boolean);
 const PLAYLIST_SELECTORS = ['.video-pod__list .pod-item'];
 const PART_TITLE_SELECTORS = [
     '.page-list .page-item.sub .title-txt',
@@ -118,7 +129,10 @@ function resolveConfig(config) {
 
 const RESOLVED_SINGER_CONFIGS = SINGER_CONFIGS.map(resolveConfig);
 
+const PROJECT_ROOT = path.join(__dirname, '..');
 const DATA_DIR = path.join(__dirname, '..', 'data');
+const REPORTS_DIR = path.join(PROJECT_ROOT, 'reports');
+const SAMPLING_STATE_PATH = path.join(REPORTS_DIR, 'github-bv-sampling-state.json');
 const BILI_VIDEO_URL = (bvid) => `https://www.bilibili.com/video/${bvid}`;
 
 function resolveBrowserExecutable() {
@@ -206,104 +220,333 @@ async function loadVideoPageWithBrowser(bvid) {
     }
 }
 
+function normalizeBvid(value) {
+    const matchResult = String(value || '').match(BV_REGEX);
+    return matchResult?.[0] || null;
+}
+
+function uniqueBvids(values) {
+    const seen = new Set();
+    const result = [];
+    values.forEach(value => {
+        const bvid = normalizeBvid(value);
+        if (!bvid || seen.has(bvid)) return;
+        seen.add(bvid);
+        result.push(bvid);
+    });
+    return result;
+}
+
+function shuffleCopy(values) {
+    const shuffled = [...values];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    return shuffled;
+}
+
+function loadSamplingState() {
+    if (!fs.existsSync(SAMPLING_STATE_PATH)) {
+        return { version: 1, updatedAt: null, entries: {} };
+    }
+
+    try {
+        const parsed = JSON.parse(fs.readFileSync(SAMPLING_STATE_PATH, 'utf8'));
+        return {
+            version: 1,
+            updatedAt: parsed.updatedAt || null,
+            entries: parsed.entries && typeof parsed.entries === 'object' ? parsed.entries : {}
+        };
+    } catch (err) {
+        console.warn(`⚠️  抽样状态读取失败，将重新生成：${err.message}`);
+        return { version: 1, updatedAt: null, entries: {} };
+    }
+}
+
+function saveSamplingState(state) {
+    if (!fs.existsSync(REPORTS_DIR)) fs.mkdirSync(REPORTS_DIR, { recursive: true });
+    state.version = 1;
+    state.updatedAt = new Date().toISOString();
+    fs.writeFileSync(SAMPLING_STATE_PATH, JSON.stringify(state, null, 2), 'utf8');
+}
+
+function getEntryKey(config, entryBvid) {
+    return `${config.resolvedFile}|${entryBvid}`;
+}
+
+function getEntryState(state, config, entryBvid) {
+    const key = getEntryKey(config, entryBvid);
+    if (!state.entries[key]) {
+        state.entries[key] = {
+            sourceFile: config.resolvedFile,
+            alias: config.alias,
+            entryBvid,
+            candidates: [entryBvid],
+            recentRuns: []
+        };
+    }
+    return state.entries[key];
+}
+
+function getRecentBvidSet(entryState) {
+    const recentRuns = Array.isArray(entryState.recentRuns)
+        ? entryState.recentRuns.slice(-RECENT_RUN_WINDOW)
+        : [];
+    const recent = new Set();
+    recentRuns.forEach(run => {
+        (run.sampled || run.selected || []).forEach(bvid => recent.add(bvid));
+        if (run.winner) recent.add(run.winner);
+    });
+    return recent;
+}
+
+function extractCandidateBvids(rawData, fallbackBvid) {
+    const collectionBvids = Array.isArray(rawData)
+        ? rawData.map(col => col?.collectionBv)
+        : [];
+    return uniqueBvids([...collectionBvids, fallbackBvid]);
+}
+
+function selectSampleCandidates(candidatePool, entryState) {
+    const normalizedPool = uniqueBvids(candidatePool);
+    const sampleLimit = Math.max(1, SAMPLE_SIZE);
+    const recent = getRecentBvidSet(entryState);
+    const freshCandidates = normalizedPool.filter(bvid => !recent.has(bvid));
+    const selected = shuffleCopy(freshCandidates).slice(0, sampleLimit);
+
+    if (selected.length < sampleLimit) {
+        const fill = shuffleCopy(normalizedPool.filter(bvid => !selected.includes(bvid)))
+            .slice(0, sampleLimit - selected.length);
+        selected.push(...fill);
+    }
+
+    return selected;
+}
+
+function parseRawDataToSongs(rawData, config) {
+    const songs = [];
+    const { resolvedFile } = config;
+
+    (rawData || []).forEach(col => {
+        (col.parts || []).forEach((p, i) => {
+            let cleanTitle = p;
+            const rawArtistCandidate = String(p || '')
+                .split(' - ')
+                .slice(-1)[0]
+                .replace(LEADING_SOURCE_REGEX, '')
+                .trim();
+
+            // 1. 基础标签清除
+            cleanTitle = cleanTitle.replace(/\[\d{4}[-]?\d{2}[-]?\d{2}\]/g, '');
+            let prevLen;
+            do {
+                prevLen = cleanTitle.length;
+                cleanTitle = cleanTitle.replace(/\[[^\[\]]*\]\s*$/, '');
+            } while (cleanTitle.length !== prevLen);
+
+            // 2. 清除开头编号
+            cleanTitle = cleanTitle.trim()
+                .replace(/^\d+\.\s*/, '')
+                .replace(/^P\d+[：:]\s*/, '')
+                .trim();
+
+            // 3. 清除 (2), _sub 等后缀
+            const artifactRegex = /(\s*\(\d+\)|_(sub|copy|backup|1080p|720p|\d+))$/i;
+            cleanTitle = cleanTitle.replace(artifactRegex, '').trim();
+
+            let artist = DEFAULT_ARTIST_TEXT;
+            let songTitle = cleanTitle;
+
+            if (cleanTitle.includes(' - ')) {
+                const titleParts = cleanTitle.split(' - ');
+                songTitle = titleParts[0].replace(artifactRegex, '').trim();
+                artist = titleParts[titleParts.length - 1].replace(artifactRegex, '').trim();
+                if (!artist && SPECIAL_BRACKET_ARTIST_SET.has(rawArtistCandidate)) {
+                    artist = rawArtistCandidate;
+                }
+                if (!artist) {
+                    artist = DEFAULT_ARTIST_TEXT;
+                }
+            }
+
+            let link = null;
+            if (BV_REGEX.test(col.collectionBv)) {
+                link = `${BILI_VIDEO_PREFIX}${col.collectionBv}?p=${i + 1}`;
+            }
+
+            songs.push({
+                title: songTitle,
+                artist: artist,
+                collection: col.collectionTitle,
+                up: col.up,
+                link: link,
+                source: `${resolvedFile}.js`
+            });
+        });
+    });
+
+    return songs;
+}
+
+function dedupeSongs(songs) {
+    const seen = new Set();
+    return songs.filter(song => {
+        const key = [song.title, song.artist, song.collection, song.link].join('\u0001');
+        if (seen.has(key)) return false;
+        seen.add(key);
+        return true;
+    });
+}
+
+async function loadRawDataWithRetry(bvid) {
+    return withRetry(async () => {
+        const data = await loadVideoPageWithBrowser(bvid);
+        if (!data || data.length === 0) {
+            throw new Error('未解析到有效列表数据');
+        }
+        return data;
+    }, 3, 5000);
+}
+
+async function parseCandidateBvid(config, bvid, cachedRawData = null) {
+    const rawData = cachedRawData || await loadRawDataWithRetry(bvid);
+    const songs = parseRawDataToSongs(rawData, config);
+    if (songs.length === 0) {
+        throw new Error('未解析到有效歌曲数据');
+    }
+    return {
+        bvid,
+        rawData,
+        songs,
+        candidateBvids: extractCandidateBvids(rawData, bvid)
+    };
+}
+
+async function processEntryBvid(config, entryBvid, samplingState) {
+    const entryState = getEntryState(samplingState, config, entryBvid);
+    console.log(`  🔎 入口 BV: ${entryBvid}，刷新候选池...`);
+
+    let entryRawData = null;
+    let discoveredCandidates = [];
+    try {
+        entryRawData = await loadRawDataWithRetry(entryBvid);
+        discoveredCandidates = extractCandidateBvids(entryRawData, entryBvid);
+    } catch (err) {
+        console.warn(`  ⚠️  入口BV候选刷新失败，将使用上次状态：${err.message}`);
+    }
+
+    const candidatePool = uniqueBvids([
+        ...discoveredCandidates,
+        ...(Array.isArray(entryState.candidates) ? entryState.candidates : []),
+        entryBvid
+    ]);
+    entryState.candidates = candidatePool;
+
+    const selected = selectSampleCandidates(candidatePool, entryState);
+    const attempted = new Set();
+    const results = [];
+
+    console.log(`  🎲 候选 ${candidatePool.length} 个，抽样 ${selected.join(', ')}`);
+    for (const sampleBvid of selected) {
+        attempted.add(sampleBvid);
+        try {
+            const cachedRawData = sampleBvid === entryBvid ? entryRawData : null;
+            const result = await parseCandidateBvid(config, sampleBvid, cachedRawData);
+            results.push(result);
+            console.log(`    ✅ ${sampleBvid}: ${result.songs.length} 首`);
+        } catch (err) {
+            console.warn(`    ⚠️  ${sampleBvid} 抽样失败：${err.message}`);
+        }
+    }
+
+    if (results.length === 0) {
+        const fallbackCandidates = shuffleCopy(candidatePool.filter(bvid => !attempted.has(bvid)))
+            .slice(0, Math.max(1, SAMPLE_SIZE));
+        if (fallbackCandidates.length > 0) {
+            console.log(`  ↩️  抽样失败，回退未过滤候选：${fallbackCandidates.join(', ')}`);
+        }
+        for (const fallbackBvid of fallbackCandidates) {
+            attempted.add(fallbackBvid);
+            try {
+                const cachedRawData = fallbackBvid === entryBvid ? entryRawData : null;
+                const result = await parseCandidateBvid(config, fallbackBvid, cachedRawData);
+                results.push(result);
+                console.log(`    ✅ ${fallbackBvid}: ${result.songs.length} 首`);
+            } catch (err) {
+                console.warn(`    ⚠️  ${fallbackBvid} 回退失败：${err.message}`);
+            }
+        }
+    }
+
+    if (results.length === 0 && !attempted.has(entryBvid)) {
+        console.log(`  ↩️  未过滤候选仍失败，最终回退入口 BV: ${entryBvid}`);
+        const result = await parseCandidateBvid(config, entryBvid, entryRawData);
+        attempted.add(entryBvid);
+        results.push(result);
+        console.log(`    ✅ ${entryBvid}: ${result.songs.length} 首`);
+    }
+
+    if (results.length === 0) {
+        throw new Error(`入口 ${entryBvid} 未解析到任何有效歌曲数据`);
+    }
+
+    results.sort((a, b) => b.songs.length - a.songs.length);
+    const winner = results[0];
+    entryState.candidates = uniqueBvids([
+        ...candidatePool,
+        ...results.flatMap(result => result.candidateBvids)
+    ]);
+    entryState.lastRunAt = new Date().toISOString();
+    entryState.recentRuns = Array.isArray(entryState.recentRuns) ? entryState.recentRuns : [];
+    entryState.recentRuns.push({
+        runAt: entryState.lastRunAt,
+        sampled: Array.from(attempted),
+        winner: winner.bvid,
+        winnerSongCount: winner.songs.length,
+        candidateCount: entryState.candidates.length
+    });
+    entryState.recentRuns = entryState.recentRuns.slice(-RECENT_RUN_WINDOW);
+
+    console.log(`  🏆 采用 ${winner.bvid}: ${winner.songs.length} 首`);
+    return winner.songs;
+}
+
+function shouldProcessConfig(config) {
+    if (SOURCE_FILTER.length === 0) return true;
+    const fields = [
+        config.resolvedFile,
+        config.alias,
+        ...(config.bvids || [])
+    ].map(value => String(value || '').toLowerCase());
+    return SOURCE_FILTER.some(filter => fields.some(value => value.includes(filter)));
+}
+
 // ==========================================
-// 🔧 核心逻辑：移除去重，保留后缀清洗
+// 🔧 核心逻辑：入口BV随机抽样，保留后缀清洗
 // ==========================================
-async function processSinger(config) {
+async function processSinger(config, samplingState) {
     const { bvids, alias, resolvedFile } = config;
-    console.log(`\n[开始处理] ${alias} (共 ${bvids.length} 个BV号)...`);
+    console.log(`\n[开始处理] ${alias} (共 ${bvids.length} 个入口BV)...`);
 
     let allSongs = [];
 
     for (const bvid of bvids) {
-        console.log(`  🔍 正在解析 BV: ${bvid}...`);
-        
-        let rawData = null;
         try {
-            // 🔧 修复点：将重试逻辑应用在单个BV号上
-            rawData = await withRetry(async () => {
-                const data = await loadVideoPageWithBrowser(bvid);
-                // 如果返回为空，手动抛出错误以触发重试
-                if (!data || data.length === 0) {
-                    throw new Error(`未解析到有效列表数据`);
-                }
-                return data;
-            }, 3, 5000); // 这里的 3 和 5000 可以根据需要调整
-
+            const entrySongs = await processEntryBvid(config, bvid, samplingState);
+            allSongs.push(...entrySongs);
         } catch (err) {
-            // 如果单个BV重试多次后依然失败，记录日志并跳过该BV，继续下一个
-            console.warn(`  ⚠️  BV:${bvid} 经过多次重试后依然失败，跳过。错误：${err.message}`);
-            continue;
+            console.warn(`  ⚠️  入口BV:${bvid} 处理失败，跳过。错误：${err.message}`);
         }
-
-        // 只有成功获取到 rawData 才会执行到这里
-        rawData.forEach(col => {
-            col.parts.forEach((p, i) => {
-                let cleanTitle = p;
-                const rawArtistCandidate = String(p || '')
-                    .split(' - ')
-                    .slice(-1)[0]
-                    .replace(LEADING_SOURCE_REGEX, '')
-                    .trim();
-
-                // 1. 基础标签清除
-                cleanTitle = cleanTitle.replace(/\[\d{4}[-]?\d{2}[-]?\d{2}\]/g, '');
-                let prevLen;
-                do {
-                    prevLen = cleanTitle.length;
-                    cleanTitle = cleanTitle.replace(/\[[^\[\]]*\]\s*$/, '');
-                } while (cleanTitle.length !== prevLen);
-
-                // 2. 清除开头编号
-                cleanTitle = cleanTitle.trim()
-                    .replace(/^\d+\.\s*/, '')
-                    .replace(/^P\d+[：:]\s*/, '')
-                    .trim();
-
-                // 3. ✨ 关键逻辑：清除 (2), _sub 等后缀，但不去重 ✨
-                const artifactRegex = /(\s*\(\d+\)|_(sub|copy|backup|1080p|720p|\d+))$/i;
-                cleanTitle = cleanTitle.replace(artifactRegex, '').trim();
-
-                let artist = DEFAULT_ARTIST_TEXT;
-                let songTitle = cleanTitle;
-
-                if (cleanTitle.includes(' - ')) {
-                    const titleParts = cleanTitle.split(' - ');
-                    // 对切割后的部分再次洗涤后缀
-                    songTitle = titleParts[0].replace(artifactRegex, '').trim();
-                    artist = titleParts[titleParts.length - 1].replace(artifactRegex, '').trim();
-                    if (!artist && SPECIAL_BRACKET_ARTIST_SET.has(rawArtistCandidate)) {
-                        artist = rawArtistCandidate;
-                    }
-                    if (!artist) {
-                        artist = DEFAULT_ARTIST_TEXT;
-                    }
-                }
-
-                let link = null;
-                if (BV_REGEX.test(col.collectionBv)) {
-                    link = `${BILI_VIDEO_PREFIX}${col.collectionBv}?p=${i + 1}`;
-                }
-
-                // 直接推送，不再检查重复
-                allSongs.push({
-                    title: songTitle,
-                    artist: artist,
-                    collection: col.collectionTitle,
-                    up: col.up,
-                    link: link,
-                    source: `${resolvedFile}.js`
-                });
-            });
-        });
 
         if (bvids.indexOf(bvid) < bvids.length - 1) {
             await new Promise(resolve => setTimeout(resolve, 2000));
         }
     }
 
-    // 🔧 修复点：只有当所有BV都处理完且一首歌都没抓到时，才认为整个任务失败
-    if (allSongs.length === 0) throw new Error(`未解析到任何有效歌曲数据（所有BV均失败或无数据）`);
+    allSongs = dedupeSongs(allSongs);
+
+    if (allSongs.length === 0) throw new Error(`未解析到任何有效歌曲数据（所有入口BV均失败或无数据）`);
 
     const outputPath = path.join(DATA_DIR, `${resolvedFile}.js`);
     let outputContent = `// ${alias} - 歌单数据 (多合集汇总)\n`;
@@ -335,22 +578,31 @@ function generateIndexJson() {
 
 async function main() {
     console.log("========================================");
-    console.log("   🚀 B站直播源解析工具 (不去重模式)");
+    console.log("   🚀 B站直播源解析工具 (入口BV随机抽样模式)");
     console.log("========================================");
     if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
+    const samplingState = loadSamplingState();
+    const configsToProcess = RESOLVED_SINGER_CONFIGS.filter(shouldProcessConfig);
+    if (SOURCE_FILTER.length > 0) {
+        console.log(`   🔎 仅处理来源: ${SOURCE_FILTER.join(', ')}`);
+    }
+    console.log(`   🎲 每个入口BV抽样 ${Math.max(1, SAMPLE_SIZE)} 个，recent窗口 ${RECENT_RUN_WINDOW} 轮`);
+
     let successCount = 0;
-    for (const config of RESOLVED_SINGER_CONFIGS) {
+    for (const config of configsToProcess) {
         try {
             // 外层依然保留整体重试（作为兜底，防止例如文件写入失败等非BV解析错误）
             // 但主要的BV级重试已经在 processSinger 内部完成
-            await withRetry(() => processSinger(config), 1, 5000); 
+            await withRetry(() => processSinger(config, samplingState), 1, 5000);
             successCount++;
         } catch (err) { console.error(`  ❌ 最终失败: ${config.alias}`, err.message); }
+        saveSamplingState(samplingState);
         await new Promise(resolve => setTimeout(resolve, 2000));
     }
     generateIndexJson();
+    saveSamplingState(samplingState);
     console.log("\n========================================");
-    console.log(`   🏁 任务结束: 更新 ${successCount}/${RESOLVED_SINGER_CONFIGS.length} 位歌手`);
+    console.log(`   🏁 任务结束: 更新 ${successCount}/${configsToProcess.length} 位歌手`);
     console.log("========================================");
     process.exit(0);
 }
