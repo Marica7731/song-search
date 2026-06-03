@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 6/3/2026, 8:14:34 PM
+// 生成时间: 6/3/2026, 9:03:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3158,7 +3158,7 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "fraglie",
+  "title": "fragile",
   "artist": "Every Little Thing",
   "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
