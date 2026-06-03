@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 6/3/2026, 9:03:13 PM
+// 生成时间: 6/3/2026, 9:51:28 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3071,7 +3071,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "名前のない怪物",
-  "artist": "EGOIST",
+  "artist": "EGOIST 🦢稀羽すうSolo",
   "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=1",
@@ -3079,7 +3079,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "again",
-  "artist": "YUI",
+  "artist": "YUI 『鋼の錬金術師 FULLMETAL ALCHEMIST』OP",
   "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=2",
@@ -3087,7 +3087,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Sing my pleasure",
-  "artist": "ヴィヴィ（八木海莉）",
+  "artist": "ヴィヴィ(八木海莉)",
   "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=3",
@@ -3119,7 +3119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO*27",
+  "artist": "DECO*27 feat. 初音ミク",
   "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=7",
@@ -3135,7 +3135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "イケナイ太陽",
-  "artist": "ORANGERANGE",
+  "artist": "ORANGE RANGE",
   "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=9",
@@ -3143,7 +3143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ローリンガール",
-  "artist": "wowaka",
+  "artist": "wowaka feat. 初音ミク",
   "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=10",
@@ -3199,7 +3199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO*27",
+  "artist": "DECO*27 feat. 初音ミク",
   "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=17",
@@ -3207,7 +3207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "IN MY DREAM",
-  "artist": "真行寺恵里",
+  "artist": "真行寺恵理",
   "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=18",
@@ -3215,7 +3215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛言葉Ⅲ",
-  "artist": "DECO*27",
+  "artist": "DECO*27 feat. 初音ミク",
   "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=19",
@@ -3255,7 +3255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "All Alone With You",
-  "artist": "EGOIST",
+  "artist": "EGOIST 『PSYCHO-PASS サイコパス』ED2",
   "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=24",
@@ -3263,7 +3263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "sakura",
-  "artist": "NILGILIS",
+  "artist": "NIRGILIS",
   "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=25",
@@ -3287,7 +3287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ETERNAL BLAZE",
-  "artist": "水樹奈々",
+  "artist": "『魔法少女リリカルなのはA's』水樹奈々",
   "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=28",
@@ -3295,7 +3295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "甲賀忍法帖",
-  "artist": "陰陽座",
+  "artist": "『バジリスク ～甲賀忍法帖～』陰陽座",
   "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=29",
@@ -3303,7 +3303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "創聖のアクエリオン",
-  "artist": "AKINO",
+  "artist": "AKINO 『創聖のアクエリオン』主題歌",
   "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=30",
@@ -3327,7 +3327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メルト",
-  "artist": "ryo(supercell)",
+  "artist": "ryo feat. 初音ミク",
   "collection": "【歌切】[2026-06-01]目标大幅超额完成！！谢谢大家～～～！！✨ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yHVB6UEY9?p=33",
