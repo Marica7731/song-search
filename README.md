@@ -60,7 +60,8 @@
   - 通过 Actions cache 恢复 `reports/github-bv-sampling-state.json`
   - 运行 `scripts/update-songs.js`
   - 只检查 `data/*.js` 和 `data/index.json` 是否有变更
-  - 自动提交 `data/*.js data/index.json` 到 `main`
+  - 多个分发任务可并行执行，不再等待上一轮完成
+  - 自动提交 `data/*.js data/index.json` 到 `main`，推送前会 rebase 最新主分支并重试，降低并行任务互相顶掉的概率
   - 如果只有抽样状态变化，不触发主分支提交
 
 ## 本地运行
@@ -124,7 +125,7 @@ song-search/
 | 文件路径 | 文件用途 | 主要函数或模块职责 | 与其他文件的关系 |
 |---|---|---|---|
 | `scripts/update-songs.js` | GitHub Pages 歌曲数据生成脚本 | `processEntryBvid` 负责入口 BV 候选刷新、抽样、fallback 与胜者选择；`parseRawDataToSongs` 负责 DOM 结果转歌曲；`loadSamplingState` / `saveSamplingState` 负责状态读写 | 读取脚本内 `SINGER_CONFIGS`，写入 `data/*.js`、`data/index.json` 和运行态 `reports/github-bv-sampling-state.json` |
-| `.github/workflows/update.yml` | 自动更新工作流 | 每 20 分钟或手动运行脚本；恢复/保存 BV 抽样状态；只在数据文件变化时自动提交 | 调用 `scripts/update-songs.js`，提交 `data/*.js data/index.json` 到 `main` |
+| `.github/workflows/update.yml` | 自动更新工作流 | 每 20 分钟或手动运行脚本；恢复/保存 BV 抽样状态；允许并行运行；只在数据文件变化时提交，推送前 rebase 最新 `main` 并重试 | 调用 `scripts/update-songs.js`，提交 `data/*.js data/index.json` 到 `main` |
 | `.gitignore` | 本地和 workflow 的非提交文件规则 | 忽略 `reports/github-bv-sampling-state.json` | 配合 workflow cache，让 recent 状态保留但不刷主分支提交 |
 | `README.md` | 项目说明和维护说明 | 说明随机抽样规则、运行方式、测试方法和文件清单 | 作为 GitHub 侧维护入口文档 |
 
