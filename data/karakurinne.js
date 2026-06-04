@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 6/4/2026, 8:58:41 PM
+// 生成时间: 6/4/2026, 9:22:42 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -699,6 +699,110 @@ window.SONG_DATA.push(
   "collection": "【⚙️🗝歌切】[2026-05-31]频道订阅人数冲刺7100人！！歌回 からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14zVD6dE1T?p=10",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "勇魚",
+  "artist": "岩見拓馬",
+  "collection": "【歌切】[2026-06-04]6月第一场歌回！悠闲的唱歌时间♪ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SECg?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ダイビング",
+  "artist": "岩見拓馬",
+  "collection": "【歌切】[2026-06-04]6月第一场歌回！悠闲的唱歌时间♪ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SECg?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "月が綺麗",
+  "artist": "岩見拓馬",
+  "collection": "【歌切】[2026-06-04]6月第一场歌回！悠闲的唱歌时间♪ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SECg?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "爆弾魔",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-04]6月第一场歌回！悠闲的唱歌时间♪ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SECg?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "詩書きとコーヒー",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-04]6月第一场歌回！悠闲的唱歌时间♪ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SECg?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "化粧",
+  "artist": "My Hair is Bad",
+  "collection": "【歌切】[2026-06-04]6月第一场歌回！悠闲的唱歌时间♪ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SECg?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-06-04]6月第一场歌回！悠闲的唱歌时间♪ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SECg?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "オラはにんきもの",
+  "artist": "のはらしんのすけ(CV:矢島晶子)",
+  "collection": "【歌切】[2026-06-04]6月第一场歌回！悠闲的唱歌时间♪ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SECg?p=8",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【歌切】[2026-06-04]6月第一场歌回！悠闲的唱歌时间♪ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SECg?p=9",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "さようなら、花泥棒さん",
+  "artist": "メル feat.初音ミク",
+  "collection": "【歌切】[2026-06-04]6月第一场歌回！悠闲的唱歌时间♪ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SECg?p=10",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "アパートの中で",
+  "artist": "レイラ",
+  "collection": "【歌切】[2026-06-04]6月第一场歌回！悠闲的唱歌时间♪ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SECg?p=11",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "嫉妬しろよ",
+  "artist": "西片梨帆",
+  "collection": "【歌切】[2026-06-04]6月第一场歌回！悠闲的唱歌时间♪ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SECg?p=12",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "好-じょし-",
+  "artist": "坂口有望",
+  "collection": "【歌切】[2026-06-04]6月第一场歌回！悠闲的唱歌时间♪ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SECg?p=13",
   "source": "karakurinne.js"
 }
 );

@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/4/2026, 9:13:14 PM
+// 生成时间: 6/4/2026, 9:35:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3627,6 +3627,38 @@ window.SONG_DATA.push(
   "collection": "【🦇歌切】[2026-05-27]出道至今已经两年了。 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FpGD6CEg5?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【🦇歌切】[2026-06-04]回顾与歌唱 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QTEN6mEG5?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【🦇歌切】[2026-06-04]回顾与歌唱 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QTEN6mEG5?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "一匹狼",
+  "artist": "湯木慧",
+  "collection": "【🦇歌切】[2026-06-04]回顾与歌唱 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QTEN6mEG5?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【🦇歌切】[2026-06-04]回顾与歌唱 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QTEN6mEG5?p=4",
   "source": "others.js"
 },
     {
@@ -13851,6 +13883,86 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-06-04 音魂ヒビクHibiku Otodama CjAw2bqYHbE 新衣装弹唱！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QmEN6nEeq?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "歌切 2026-06-04 しほ / shiho 春なの？夏なの？5M5Am4uoVmc",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19AEN6nEJG?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra feat.月見ヤチヨ(CV:早見沙織)",
+  "collection": "歌切 2026-06-04 しほ / shiho 春なの？夏なの？5M5Am4uoVmc",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19AEN6nEJG?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "歌切 2026-06-04 しほ / shiho 春なの？夏なの？5M5Am4uoVmc",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19AEN6nEJG?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "炉心融解",
+  "artist": "iroha(sasaki) feat.鏡音リン",
+  "collection": "歌切 2026-06-04 しほ / shiho 春なの？夏なの？5M5Am4uoVmc",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19AEN6nEJG?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat.巡音ルカ・GUMI",
+  "collection": "歌切 2026-06-04 しほ / shiho 春なの？夏なの？5M5Am4uoVmc",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19AEN6nEJG?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "歌切 2026-06-04 しほ / shiho 春なの？夏なの？5M5Am4uoVmc",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19AEN6nEJG?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "相愛傘",
+  "artist": "しほ",
+  "collection": "歌切 2026-06-04 しほ / shiho 春なの？夏なの？5M5Am4uoVmc",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19AEN6nEJG?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "夏はぐれ",
+  "artist": "しほ",
+  "collection": "歌切 2026-06-04 しほ / shiho 春なの？夏なの？5M5Am4uoVmc",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19AEN6nEJG?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "恋空予報",
+  "artist": "koyori(電ポルP) feat.GUMI",
+  "collection": "歌切 2026-06-04 しほ / shiho 春なの？夏なの？5M5Am4uoVmc",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19AEN6nEJG?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "愛言葉V",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "歌切 2026-06-04 しほ / shiho 春なの？夏なの？5M5Am4uoVmc",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19AEN6nEJG?p=10",
   "source": "others.js"
 },
     {
