@@ -1,6 +1,6 @@
 // 323 - 歌单数据 (多合集汇总)
 // 来源: BV1r75B6LEwd
-// 生成时间: 6/4/2026, 1:28:15 PM
+// 生成时间: 6/4/2026, 1:51:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -830,118 +830,6 @@ window.SONG_DATA.push(
   "source": "323.js"
 },
     {
-  "title": "世界は恋に落ちている",
-  "artist": "CHiCO with HoneyWorks",
-  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=1",
-  "source": "323.js"
-},
-    {
-  "title": "うぉんちゅーばっど",
-  "artist": "jon-YAKITORY feat.可不",
-  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=2",
-  "source": "323.js"
-},
-    {
-  "title": "Fighting My Way",
-  "artist": "花海咲季(CV.長月あおい)",
-  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=3",
-  "source": "323.js"
-},
-    {
-  "title": "GETCHA!",
-  "artist": "ギガP キラ feat.初音ミク,GUMI",
-  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=4",
-  "source": "323.js"
-},
-    {
-  "title": "劣等上等",
-  "artist": "ギガP feat.鏡音リン 鏡音レン",
-  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=5",
-  "source": "323.js"
-},
-    {
-  "title": "マシュマロ",
-  "artist": "DECO*27 feat.初音ミク",
-  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=6",
-  "source": "323.js"
-},
-    {
-  "title": "愛包ダンスホール",
-  "artist": "HIMEHINA",
-  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=7",
-  "source": "323.js"
-},
-    {
-  "title": "初恋サイダー",
-  "artist": "Buono!",
-  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=8",
-  "source": "323.js"
-},
-    {
-  "title": "それは僕たちの奇跡",
-  "artist": "μ's",
-  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=9",
-  "source": "323.js"
-},
-    {
-  "title": "Snow halation",
-  "artist": "μ's",
-  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=10",
-  "source": "323.js"
-},
-    {
-  "title": "好きすぎて滅！",
-  "artist": "M!LK",
-  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=11",
-  "source": "323.js"
-},
-    {
-  "title": "地上の星",
-  "artist": "中島みゆき",
-  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=12",
-  "source": "323.js"
-},
-    {
-  "title": "弱虫モンブラン",
-  "artist": "DECO*27 feat.GUMI",
-  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=13",
-  "source": "323.js"
-},
-    {
-  "title": "ルカルカ★ナイトフィーバー",
-  "artist": "samfree feat.巡音ルカ",
-  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=14",
-  "source": "323.js"
-},
-    {
   "title": "蜜月アン・ドゥ・トロワ",
   "artist": "DATEKEN feat.鏡音リン",
   "collection": "【歌切】[2026-06-03]初次见面◎BGM◎沉静治愈的歌回！  323(みすみ) -Misumi-",
@@ -1107,6 +995,118 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-03]初次见面◎BGM◎沉静治愈的歌回！  323(みすみ) -Misumi-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q77R6cEtj?p=21",
+  "source": "323.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=1",
+  "source": "323.js"
+},
+    {
+  "title": "うぉんちゅーばっど",
+  "artist": "jon-YAKITORY feat.可不",
+  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=2",
+  "source": "323.js"
+},
+    {
+  "title": "Fighting My Way",
+  "artist": "花海咲季(CV.長月あおい)",
+  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=3",
+  "source": "323.js"
+},
+    {
+  "title": "GETCHA!",
+  "artist": "ギガP キラ feat.初音ミク,GUMI",
+  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=4",
+  "source": "323.js"
+},
+    {
+  "title": "劣等上等",
+  "artist": "ギガP feat.鏡音リン 鏡音レン",
+  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=5",
+  "source": "323.js"
+},
+    {
+  "title": "マシュマロ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=6",
+  "source": "323.js"
+},
+    {
+  "title": "愛包ダンスホール",
+  "artist": "HIMEHINA",
+  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=7",
+  "source": "323.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=8",
+  "source": "323.js"
+},
+    {
+  "title": "それは僕たちの奇跡",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=9",
+  "source": "323.js"
+},
+    {
+  "title": "Snow halation",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=10",
+  "source": "323.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=11",
+  "source": "323.js"
+},
+    {
+  "title": "地上の星",
+  "artist": "中島みゆき",
+  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=12",
+  "source": "323.js"
+},
+    {
+  "title": "弱虫モンブラン",
+  "artist": "DECO*27 feat.GUMI",
+  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=13",
+  "source": "323.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat.巡音ルカ",
+  "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=14",
   "source": "323.js"
 }
 );
