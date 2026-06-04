@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/4/2026, 7:17:49 PM
+// 生成时间: 6/4/2026, 7:34:50 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -13795,6 +13795,62 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-06-02 Muan ch.茨むあん cVEB9SROCiA 想唱到不行了 初见也请务必来听🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gL7d6HEud?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "なにやってもうまくいかない",
+  "artist": "meiyo",
+  "collection": "歌切 2026-06-04 音魂ヒビクHibiku Otodama CjAw2bqYHbE 新衣装弹唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QmEN6nEeq?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "パンダヒーロー",
+  "artist": "ハチ feat.GUMI",
+  "collection": "歌切 2026-06-04 音魂ヒビクHibiku Otodama CjAw2bqYHbE 新衣装弹唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QmEN6nEeq?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "結ンデ開イテ羅刹ト骸",
+  "artist": "ハチ feat.初音ミク",
+  "collection": "歌切 2026-06-04 音魂ヒビクHibiku Otodama CjAw2bqYHbE 新衣装弹唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QmEN6nEeq?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "1925",
+  "artist": "T-POCKET feat.初音ミク",
+  "collection": "歌切 2026-06-04 音魂ヒビクHibiku Otodama CjAw2bqYHbE 新衣装弹唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QmEN6nEeq?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "一体いつから",
+  "artist": "月村手毬(CV:小鹿なお)",
+  "collection": "歌切 2026-06-04 音魂ヒビクHibiku Otodama CjAw2bqYHbE 新衣装弹唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QmEN6nEeq?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "歌切 2026-06-04 音魂ヒビクHibiku Otodama CjAw2bqYHbE 新衣装弹唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QmEN6nEeq?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ちっぽけな愛のうた",
+  "artist": "大原櫻子 as 小枝理子",
+  "collection": "歌切 2026-06-04 音魂ヒビクHibiku Otodama CjAw2bqYHbE 新衣装弹唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QmEN6nEeq?p=7",
   "source": "others.js"
 },
     {
