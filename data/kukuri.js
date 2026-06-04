@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 6/4/2026, 10:05:49 PM
+// 生成时间: 6/4/2026, 10:26:47 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3179,6 +3179,142 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-05-30]要不要一起悠闲地放松一下💭 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14GVV6UEsz?p=28",
+  "source": "kukuri.js"
+},
+    {
+  "title": "六月は雨上がりの街を書く",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "涙そうそう",
+  "artist": "夏川りみ",
+  "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "もらい泣き",
+  "artist": "一青窈",
+  "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "かたちあるもの",
+  "artist": "柴咲コウ",
+  "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "月のしずく",
+  "artist": "RUI",
+  "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "最愛",
+  "artist": "KOH+",
+  "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "瞳をとじて",
+  "artist": "平井堅",
+  "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ナツノハナ",
+  "artist": "JUJU",
+  "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "trust you",
+  "artist": "伊藤由奈",
+  "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Faith",
+  "artist": "伊藤由奈",
+  "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "黒毛和牛上塩タン焼680円",
+  "artist": "大塚愛",
+  "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Flavor Of Life",
+  "artist": "宇多田ヒカル",
+  "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Movin' on without you",
+  "artist": "宇多田ヒカル",
+  "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=17",
   "source": "kukuri.js"
 }
 );
