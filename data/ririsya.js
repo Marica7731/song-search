@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 6/4/2026, 9:09:13 PM
+// 生成时间: 6/4/2026, 9:30:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -255,7 +255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "1925",
-  "artist": "T-POCKET",
+  "artist": "冨田悠斗(とみー／T-POCKET)",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=32",

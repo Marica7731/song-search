@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 6/4/2026, 9:11:15 PM
+// 生成时间: 6/4/2026, 9:32:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15343,15 +15343,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "深海少女",
-  "artist": "ゆうゆ",
+  "artist": "ゆうゆ feat.初音ミク",
   "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sFeZzME6F?p=7",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "1/6",
-  "artist": "- ぼーかりおどP",
+  "title": "1/6 -out of the gravity-",
+  "artist": "ぼーかりおどP(noa) feat.初音ミク",
   "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sFeZzME6F?p=8",
@@ -15359,7 +15359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "1925",
-  "artist": "とみー",
+  "artist": "T-POCKET feat.初音ミク",
   "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sFeZzME6F?p=9",
@@ -15367,7 +15367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "clock lock works",
-  "artist": "ハチ",
+  "artist": "ハチ feat.初音ミク",
   "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sFeZzME6F?p=10",
@@ -15375,7 +15375,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "怪盗・窪園チヨコは絶対ミスらない",
-  "artist": "ぽわぽわP",
+  "artist": "ぽわぽわP feat.初音ミク",
   "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sFeZzME6F?p=11",
@@ -15383,7 +15383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "純情スカート",
-  "artist": "40mP",
+  "artist": "40mP feat.初音ミク",
   "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sFeZzME6F?p=12",
@@ -15391,15 +15391,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋愛裁判",
-  "artist": "40mP",
+  "artist": "40mP feat.初音ミク",
   "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sFeZzME6F?p=13",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "モザイクロール(Reloaded)",
-  "artist": "DECO*27",
+  "title": "モザイクロール (Reloaded)",
+  "artist": "DECO*27 feat.初音ミク",
   "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sFeZzME6F?p=14",
@@ -15407,7 +15407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シンデレラ",
-  "artist": "DECO*27",
+  "artist": "DECO*27 feat.初音ミク",
   "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sFeZzME6F?p=15",
@@ -15415,7 +15415,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "セカイ",
-  "artist": "DECO*27",
+  "artist": "DECO*27×堀江晶太(kemu) feat.初音ミク",
   "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sFeZzME6F?p=16",
@@ -15423,15 +15423,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO*27",
+  "artist": "DECO*27 feat.初音ミク",
   "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sFeZzME6F?p=17",
   "source": "suu_usuwa.js"
 },
     {
-  "title": "二息歩行（Reloaded）",
-  "artist": "DECO*27",
+  "title": "二息歩行",
+  "artist": "DECO*27 feat.初音ミク",
   "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sFeZzME6F?p=18",
@@ -15439,7 +15439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "カムパネルラ",
-  "artist": "sasakure.‌UK",
+  "artist": "sasakure.UK feat.GUMI",
   "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sFeZzME6F?p=19",
@@ -15462,7 +15462,7 @@ window.SONG_DATA.push(
   "source": "suu_usuwa.js"
 },
     {
-  "title": "ByeBye",
+  "title": "Bye Bye",
   "artist": "フジファブリック",
   "collection": "稀羽すう8月23日周五竖屏 01. 渚のバルコニー - 松田聖子",
   "up": "前尘往事如昔故",
