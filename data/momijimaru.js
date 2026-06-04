@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 6/4/2026, 9:25:04 PM
+// 生成时间: 6/4/2026, 9:45:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6547,6 +6547,142 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-06-02]早晨的陪伴怎么样!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PUVr6ZEv2?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "空想フォレスト",
+  "artist": "じん feat. IA",
+  "collection": "【🍁歌切】[2026-06-04]来点悠闲的杂谈和歌回，伴你开启清晨时光🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ooEP6sEn3?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "如月アテンション",
+  "artist": "じん feat. IA",
+  "collection": "【🍁歌切】[2026-06-04]来点悠闲的杂谈和歌回，伴你开启清晨时光🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ooEP6sEn3?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "失想ワアド",
+  "artist": "じん feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-04]来点悠闲的杂谈和歌回，伴你开启清晨时光🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ooEP6sEn3?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "夕景イエスタデイ",
+  "artist": "じん feat. IA",
+  "collection": "【🍁歌切】[2026-06-04]来点悠闲的杂谈和歌回，伴你开启清晨时光🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ooEP6sEn3?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "D/N/A",
+  "artist": "Azari feat. 重音テト・flower",
+  "collection": "【🍁歌切】[2026-06-04]来点悠闲的杂谈和歌回，伴你开启清晨时光🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ooEP6sEn3?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ヤンキーボーイ・ヤンキーガール",
+  "artist": "トーマ feat. GUMI",
+  "collection": "【🍁歌切】[2026-06-04]来点悠闲的杂谈和歌回，伴你开启清晨时光🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ooEP6sEn3?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "くたばれPTA",
+  "artist": "梨本P feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-04]来点悠闲的杂谈和歌回，伴你开启清晨时光🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ooEP6sEn3?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "パンダヒーロー",
+  "artist": "ハチ feat. GUMI",
+  "collection": "【🍁歌切】[2026-06-04]来点悠闲的杂谈和歌回，伴你开启清晨时光🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ooEP6sEn3?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【🍁歌切】[2026-06-04]来点悠闲的杂谈和歌回，伴你开启清晨时光🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ooEP6sEn3?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師、宇多田ヒカル",
+  "collection": "【🍁歌切】[2026-06-04]来点悠闲的杂谈和歌回，伴你开启清晨时光🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ooEP6sEn3?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "爆笑",
+  "artist": "syudou feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-04]来点悠闲的杂谈和歌回，伴你开启清晨时光🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ooEP6sEn3?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "全部夢だった！",
+  "artist": "黒うさぎ feat. 重音テト",
+  "collection": "【🍁歌切】[2026-06-04]来点悠闲的杂谈和歌回，伴你开启清晨时光🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ooEP6sEn3?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-04]来点悠闲的杂谈和歌回，伴你开启清晨时光🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ooEP6sEn3?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "モニタリング (Best Friend Remix)",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-04]来点悠闲的杂谈和歌回，伴你开启清晨时光🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ooEP6sEn3?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "【🍁歌切】[2026-06-04]来点悠闲的杂谈和歌回，伴你开启清晨时光🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ooEP6sEn3?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "クラクラ",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-06-04]来点悠闲的杂谈和歌回，伴你开启清晨时光🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ooEP6sEn3?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一二三",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-06-04]来点悠闲的杂谈和歌回，伴你开启清晨时光🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ooEP6sEn3?p=17",
   "source": "momijimaru.js"
 }
 );
