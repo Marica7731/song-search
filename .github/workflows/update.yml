@@ -1,9 +1,7 @@
 name: Auto Update Song List
 
 on:
-  schedule:
-    - cron: '*/20 * * * *'
-  workflow_dispatch: # 保留手动/外部分发触发
+  workflow_dispatch: # 由雨云定时分发或手动触发
 
 concurrency:
   group: auto-update-song-list

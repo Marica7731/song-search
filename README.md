@@ -54,7 +54,7 @@
 ### 2) GitHub Actions 自动更新
 - 工作流：`.github/workflows/update.yml`
 - 触发：
-  - 定时（每 20 分钟）
+  - 雨云每 20 分钟分发 `workflow_dispatch`
   - 手动 `workflow_dispatch`
 - 行为：
   - 通过 Actions cache 恢复 `reports/github-bv-sampling-state.json`
