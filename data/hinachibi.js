@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 6/4/2026, 9:28:04 PM
+// 生成时间: 6/4/2026, 9:46:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -339,6 +339,38 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-03]好想唱歌、、在低气压的夜晚把闷气一扫而空的心情！w 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RC796WE87?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-06-04]因为有人来投诉我唱歌了，所以今天就开抒情歌偏多的歌回！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ooEP6sEZg?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "DAYBREAK FRONTLINE",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-06-04]因为有人来投诉我唱歌了，所以今天就开抒情歌偏多的歌回！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ooEP6sEZg?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "思い出す光になれたなら",
+  "artist": "Moi Records feat.緋那ちび",
+  "collection": "【歌切】[2026-06-04]因为有人来投诉我唱歌了，所以今天就开抒情歌偏多的歌回！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ooEP6sEZg?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-06-04]因为有人来投诉我唱歌了，所以今天就开抒情歌偏多的歌回！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ooEP6sEZg?p=4",
   "source": "hinachibi.js"
 }
 );

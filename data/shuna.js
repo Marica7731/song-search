@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 6/4/2026, 9:01:03 PM
+// 生成时间: 6/4/2026, 9:19:31 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5275,6 +5275,206 @@ window.SONG_DATA.push(
   "collection": "朱名 歌切 2026-03-29 ~ 2026-03-31",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axXRBBEM7?p=71",
+  "source": "shuna.js"
+},
+    {
+  "title": "帰りたくなったよ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=1",
+  "source": "shuna.js"
+},
+    {
+  "title": "心に穴が空いた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=2",
+  "source": "shuna.js"
+},
+    {
+  "title": "負け犬にアンコールはいらない",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=3",
+  "source": "shuna.js"
+},
+    {
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=4",
+  "source": "shuna.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=5",
+  "source": "shuna.js"
+},
+    {
+  "title": "八月、某、月明かり、",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=6",
+  "source": "shuna.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=7",
+  "source": "shuna.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=8",
+  "source": "shuna.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=9",
+  "source": "shuna.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=10",
+  "source": "shuna.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=11",
+  "source": "shuna.js"
+},
+    {
+  "title": "Just Be Friends",
+  "artist": "Dixie Flatline",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=12",
+  "source": "shuna.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI for 雨音薫",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=13",
+  "source": "shuna.js"
+},
+    {
+  "title": "ホタルノヒカリ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=14",
+  "source": "shuna.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=15",
+  "source": "shuna.js"
+},
+    {
+  "title": "ロマンスの神様",
+  "artist": "広瀬香美",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=16",
+  "source": "shuna.js"
+},
+    {
+  "title": "赤い糸",
+  "artist": "コブクロ",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=17",
+  "source": "shuna.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=18",
+  "source": "shuna.js"
+},
+    {
+  "title": "ロビンソン",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=19",
+  "source": "shuna.js"
+},
+    {
+  "title": "Wherever you are",
+  "artist": "ONE OK ROCK",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=20",
+  "source": "shuna.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=21",
+  "source": "shuna.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=22",
+  "source": "shuna.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=23",
+  "source": "shuna.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=24",
+  "source": "shuna.js"
+},
+    {
+  "title": "長い間",
+  "artist": "Kiroro",
+  "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=25",
   "source": "shuna.js"
 }
 );
