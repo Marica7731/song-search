@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 6/5/2026, 2:53:31 AM
+// 生成时间: 6/5/2026, 3:12:57 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -19022,7 +19022,7 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "イケテナイ太陽",
+  "title": "イケナイ太陽",
   "artist": "ORANGE RANGE",
   "collection": "【🍠YOSHIKA⁂Ch.  30 】2025年4月21日深夜歌回",
   "up": "前尘往事如昔故",
