@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 6/5/2026, 3:12:57 AM
+// 生成时间: 6/5/2026, 3:34:42 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -34047,7 +34047,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "涙そうそう",
-  "artist": "森山良子",
+  "artist": "夏川りみ",
   "collection": "【🍠🦍歌切】[2026-06-04]初見さんいらっしゃい！1曲いかがですか！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VxEP62EcQ?p=13",
