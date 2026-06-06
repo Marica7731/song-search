@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 6/6/2026, 11:24:49 AM
+// 生成时间: 6/6/2026, 11:44:43 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6683,6 +6683,134 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-06-04]来点悠闲的杂谈和歌回，伴你开启清晨时光🍁✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ooEP6sEn3?p=17",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "喜劇",
+  "artist": "星野源",
+  "collection": "【🍁歌切】[2026-06-05]把心意唱给你听!! 传递思念的歌回✉✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aEEn6xEP7?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【🍁歌切】[2026-06-05]把心意唱给你听!! 传递思念的歌回✉✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aEEn6xEP7?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "メトロノーム",
+  "artist": "米津玄師",
+  "collection": "【🍁歌切】[2026-06-05]把心意唱给你听!! 传递思念的歌回✉✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aEEn6xEP7?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "月が綺麗",
+  "artist": "岩見拓馬",
+  "collection": "【🍁歌切】[2026-06-05]把心意唱给你听!! 传递思念的歌回✉✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aEEn6xEP7?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "トドカナイカラ",
+  "artist": "平井堅",
+  "collection": "【🍁歌切】[2026-06-05]把心意唱给你听!! 传递思念的歌回✉✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aEEn6xEP7?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "空の青さを知る人よ",
+  "artist": "あいみょん",
+  "collection": "【🍁歌切】[2026-06-05]把心意唱给你听!! 传递思念的歌回✉✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aEEn6xEP7?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "私が明日死ぬなら",
+  "artist": "キタニタツヤ",
+  "collection": "【🍁歌切】[2026-06-05]把心意唱给你听!! 传递思念的歌回✉✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aEEn6xEP7?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-05]把心意唱给你听!! 传递思念的歌回✉✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aEEn6xEP7?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ぎゅっと。",
+  "artist": "もさを。",
+  "collection": "【🍁歌切】[2026-06-05]把心意唱给你听!! 传递思念的歌回✉✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aEEn6xEP7?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "オーダーメイド",
+  "artist": "傘村トータ feat. VOCALOIDs",
+  "collection": "【🍁歌切】[2026-06-05]把心意唱给你听!! 传递思念的歌回✉✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aEEn6xEP7?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Blessing",
+  "artist": "halyosy feat. 初音ミク・鏡音リン・鏡音レン・巡音ルカ・KAITO・MEIKO",
+  "collection": "【🍁歌切】[2026-06-05]把心意唱给你听!! 传递思念的歌回✉✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aEEn6xEP7?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【🍁歌切】[2026-06-05]把心意唱给你听!! 传递思念的歌回✉✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aEEn6xEP7?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "想いを伝えて",
+  "artist": "木村聡子・小森創介・ミュージッククリエイション・MCキッズ・フレーベル少年合唱団",
+  "collection": "【🍁歌切】[2026-06-05]把心意唱给你听!! 传递思念的歌回✉✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aEEn6xEP7?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "魔法って言っていいかな？",
+  "artist": "平井堅",
+  "collection": "【🍁歌切】[2026-06-05]把心意唱给你听!! 传递思念的歌回✉✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aEEn6xEP7?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アイドルでよかった。",
+  "artist": "mona(CV:夏川椎菜) feat. HoneyWorks",
+  "collection": "【🍁歌切】[2026-06-05]把心意唱给你听!! 传递思念的歌回✉✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aEEn6xEP7?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ありがとう",
+  "artist": "いきものがかり",
+  "collection": "【🍁歌切】[2026-06-05]把心意唱给你听!! 传递思念的歌回✉✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aEEn6xEP7?p=16",
   "source": "momijimaru.js"
 }
 );
