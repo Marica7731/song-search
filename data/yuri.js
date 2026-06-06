@@ -1,6 +1,6 @@
 // 優莉 yuri - 歌单数据 (多合集汇总)
 // 来源: BV1aDzEBBE3S
-// 生成时间: 6/6/2026, 3:15:34 PM
+// 生成时间: 6/6/2026, 3:35:41 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -731,6 +731,198 @@ window.SONG_DATA.push(
   "collection": "【優莉】弾き語りするよ♪[2026-02-07][s3kLx-ChK_o]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gBF4zGEbm?p=20",
+  "source": "yuri.js"
+},
+    {
+  "title": "星に名前を",
+  "artist": "優莉 Prod.HOMING ECHO",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=1",
+  "source": "yuri.js"
+},
+    {
+  "title": "Always",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=2",
+  "source": "yuri.js"
+},
+    {
+  "title": "オラはにんきもの",
+  "artist": "のはらしんのすけ(CV:矢島晶子)",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=3",
+  "source": "yuri.js"
+},
+    {
+  "title": "Lost my music",
+  "artist": "涼宮ハルヒ(CV:平野綾)",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=4",
+  "source": "yuri.js"
+},
+    {
+  "title": "Super Driver",
+  "artist": "平野綾",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=5",
+  "source": "yuri.js"
+},
+    {
+  "title": "ありがめさんのうた",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=6",
+  "source": "yuri.js"
+},
+    {
+  "title": "残贈",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=7",
+  "source": "yuri.js"
+},
+    {
+  "title": "LetteR",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=8",
+  "source": "yuri.js"
+},
+    {
+  "title": "Strelitzia",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=9",
+  "source": "yuri.js"
+},
+    {
+  "title": "Dear my friend",
+  "artist": "NaYuri",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=10",
+  "source": "yuri.js"
+},
+    {
+  "title": "あの日の蒼空に君は",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=11",
+  "source": "yuri.js"
+},
+    {
+  "title": "よこがお",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=12",
+  "source": "yuri.js"
+},
+    {
+  "title": "シグ×ナル",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=13",
+  "source": "yuri.js"
+},
+    {
+  "title": "眠らない星",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=14",
+  "source": "yuri.js"
+},
+    {
+  "title": "瓦礫の塔",
+  "artist": "kemu feat. GUMI",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=15",
+  "source": "yuri.js"
+},
+    {
+  "title": "テノヒラ",
+  "artist": "wowaka feat. 初音ミク",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=16",
+  "source": "yuri.js"
+},
+    {
+  "title": "想像フォレスト",
+  "artist": "じん feat. IA",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=17",
+  "source": "yuri.js"
+},
+    {
+  "title": "T.A.O.",
+  "artist": "じん feat. 洛天依",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=18",
+  "source": "yuri.js"
+},
+    {
+  "title": "Dreamin'",
+  "artist": "JASMINE",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=19",
+  "source": "yuri.js"
+},
+    {
+  "title": "ルーマー",
+  "artist": "ポリスピカデリー feat. GUMI",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=20",
+  "source": "yuri.js"
+},
+    {
+  "title": "曖昧さ回避",
+  "artist": "ポリスピカデリー feat. 闇音レンリ",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=21",
+  "source": "yuri.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=22",
+  "source": "yuri.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=23",
+  "source": "yuri.js"
+},
+    {
+  "title": "Enter!",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=24",
   "source": "yuri.js"
 }
 );
