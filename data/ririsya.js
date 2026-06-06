@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 6/6/2026, 4:10:53 PM
+// 生成时间: 6/6/2026, 4:31:01 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -16539,6 +16539,46 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-06-01]术力口歌回 ✧ 唱点令人怀念的术力口曲哦 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dLVZ6sEj5?p=23",
+  "source": "ririsya.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-06-06]#唱功超强V歌回接力 这次要给大家送上充满反差感的歌哦～ ✧ Singing Relay【V✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YLEp6KExk?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Rain",
+  "artist": "秦基博",
+  "collection": "【🐍歌切】[2026-06-06]#唱功超强V歌回接力 这次要给大家送上充满反差感的歌哦～ ✧ Singing Relay【V✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YLEp6KExk?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【🐍歌切】[2026-06-06]#唱功超强V歌回接力 这次要给大家送上充满反差感的歌哦～ ✧ Singing Relay【V✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YLEp6KExk?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-06-06]#唱功超强V歌回接力 这次要给大家送上充满反差感的歌哦～ ✧ Singing Relay【V✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YLEp6KExk?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Unknown under the city",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-06-06]#唱功超强V歌回接力 这次要给大家送上充满反差感的歌哦～ ✧ Singing Relay【V✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YLEp6KExk?p=5",
   "source": "ririsya.js"
 }
 );
