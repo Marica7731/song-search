@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 6/6/2026, 1:39:55 PM
+// 生成时间: 6/6/2026, 1:58:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5475,6 +5475,270 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=25",
+  "source": "shuna.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=1",
+  "source": "shuna.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=2",
+  "source": "shuna.js"
+},
+    {
+  "title": "北風 〜君にとどきますように〜",
+  "artist": "槇原敬之",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=3",
+  "source": "shuna.js"
+},
+    {
+  "title": "遠く遠く",
+  "artist": "槇原敬之",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=4",
+  "source": "shuna.js"
+},
+    {
+  "title": "Perfect Day",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=5",
+  "source": "shuna.js"
+},
+    {
+  "title": "愛をこめて花束を",
+  "artist": "Superfly",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=6",
+  "source": "shuna.js"
+},
+    {
+  "title": "素直",
+  "artist": "槇原敬之",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=7",
+  "source": "shuna.js"
+},
+    {
+  "title": "手紙 〜拝啓 十五の君へ〜",
+  "artist": "アンジェラ・アキ",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=8",
+  "source": "shuna.js"
+},
+    {
+  "title": "卒業写真",
+  "artist": "荒井由実",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=9",
+  "source": "shuna.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=10",
+  "source": "shuna.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=11",
+  "source": "shuna.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=12",
+  "source": "shuna.js"
+},
+    {
+  "title": "KIRA★KIRA★TRAIN",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=13",
+  "source": "shuna.js"
+},
+    {
+  "title": "茜色の約束",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=14",
+  "source": "shuna.js"
+},
+    {
+  "title": "なくもんか",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=15",
+  "source": "shuna.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=16",
+  "source": "shuna.js"
+},
+    {
+  "title": "花は桜 君は美し",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=17",
+  "source": "shuna.js"
+},
+    {
+  "title": "ちこくしちゃうよ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=18",
+  "source": "shuna.js"
+},
+    {
+  "title": "流星ミラクル",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=19",
+  "source": "shuna.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=20",
+  "source": "shuna.js"
+},
+    {
+  "title": "ユキトキ",
+  "artist": "やなぎなぎ",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=21",
+  "source": "shuna.js"
+},
+    {
+  "title": "宿命",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=22",
+  "source": "shuna.js"
+},
+    {
+  "title": "secret base 〜君がくれたもの〜",
+  "artist": "ZONE",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=23",
+  "source": "shuna.js"
+},
+    {
+  "title": "うたかた花火",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=24",
+  "source": "shuna.js"
+},
+    {
+  "title": "恋愛写真",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=25",
+  "source": "shuna.js"
+},
+    {
+  "title": "Best Friend",
+  "artist": "Kiroro",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=26",
+  "source": "shuna.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=27",
+  "source": "shuna.js"
+},
+    {
+  "title": "チェリー",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=28",
+  "source": "shuna.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=29",
+  "source": "shuna.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=30",
+  "source": "shuna.js"
+},
+    {
+  "title": "愛唄 〜since 2007〜",
+  "artist": "whiteeeen",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=31",
+  "source": "shuna.js"
+},
+    {
+  "title": "キセキ",
+  "artist": "GReeeeN",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=32",
+  "source": "shuna.js"
+},
+    {
+  "title": "桜色舞うころ",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=33",
   "source": "shuna.js"
 }
 );
