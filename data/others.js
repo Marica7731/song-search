@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/6/2026, 2:57:46 PM
+// 生成时间: 6/6/2026, 3:11:32 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -13419,6 +13419,126 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-06-05 ヨル紛イ / 百日 紅 n-buna 术力口限定！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R8EJ6FEib?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "Happiness",
+  "artist": "嵐",
+  "collection": "歌切 2026-06-05 鷲羽アスカ / Washu Asuka A7WT3r_PDn0 偶像歌曲限定歌回♡一定有你知道的曲子！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11yEJ6UEdH?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "Troublemaker",
+  "artist": "嵐",
+  "collection": "歌切 2026-06-05 鷲羽アスカ / Washu Asuka A7WT3r_PDn0 偶像歌曲限定歌回♡一定有你知道的曲子！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11yEJ6UEdH?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "チャンカパーナ",
+  "artist": "NEWS",
+  "collection": "歌切 2026-06-05 鷲羽アスカ / Washu Asuka A7WT3r_PDn0 偶像歌曲限定歌回♡一定有你知道的曲子！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11yEJ6UEdH?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "歌切 2026-06-05 鷲羽アスカ / Washu Asuka A7WT3r_PDn0 偶像歌曲限定歌回♡一定有你知道的曲子！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11yEJ6UEdH?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "歌切 2026-06-05 鷲羽アスカ / Washu Asuka A7WT3r_PDn0 偶像歌曲限定歌回♡一定有你知道的曲子！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11yEJ6UEdH?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "行くぜっ!怪盗少女 -ZZ ver.-",
+  "artist": "ももいろクローバーZ",
+  "collection": "歌切 2026-06-05 鷲羽アスカ / Washu Asuka A7WT3r_PDn0 偶像歌曲限定歌回♡一定有你知道的曲子！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11yEJ6UEdH?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "フライングゲット",
+  "artist": "AKB48",
+  "collection": "歌切 2026-06-05 鷲羽アスカ / Washu Asuka A7WT3r_PDn0 偶像歌曲限定歌回♡一定有你知道的曲子！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11yEJ6UEdH?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "family name",
+  "artist": "ZOC",
+  "collection": "歌切 2026-06-05 鷲羽アスカ / Washu Asuka A7WT3r_PDn0 偶像歌曲限定歌回♡一定有你知道的曲子！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11yEJ6UEdH?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "BRAVE GROOVE",
+  "artist": "iLiFE!",
+  "collection": "歌切 2026-06-05 鷲羽アスカ / Washu Asuka A7WT3r_PDn0 偶像歌曲限定歌回♡一定有你知道的曲子！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11yEJ6UEdH?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "くりてぃかる♡ぷりちー",
+  "artist": "iLiFE!",
+  "collection": "歌切 2026-06-05 鷲羽アスカ / Washu Asuka A7WT3r_PDn0 偶像歌曲限定歌回♡一定有你知道的曲子！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11yEJ6UEdH?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "アイドルライフスターターパック",
+  "artist": "iLiFE!",
+  "collection": "歌切 2026-06-05 鷲羽アスカ / Washu Asuka A7WT3r_PDn0 偶像歌曲限定歌回♡一定有你知道的曲子！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11yEJ6UEdH?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "超最強",
+  "artist": "超ときめき♡宣伝部",
+  "collection": "歌切 2026-06-05 鷲羽アスカ / Washu Asuka A7WT3r_PDn0 偶像歌曲限定歌回♡一定有你知道的曲子！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11yEJ6UEdH?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "倍倍FIGHT!",
+  "artist": "CANDY TUNE",
+  "collection": "歌切 2026-06-05 鷲羽アスカ / Washu Asuka A7WT3r_PDn0 偶像歌曲限定歌回♡一定有你知道的曲子！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11yEJ6UEdH?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "絶対アイドル辞めないで",
+  "artist": "=LOVE",
+  "collection": "歌切 2026-06-05 鷲羽アスカ / Washu Asuka A7WT3r_PDn0 偶像歌曲限定歌回♡一定有你知道的曲子！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11yEJ6UEdH?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "恋愛レボリューション21",
+  "artist": "モーニング娘。",
+  "collection": "歌切 2026-06-05 鷲羽アスカ / Washu Asuka A7WT3r_PDn0 偶像歌曲限定歌回♡一定有你知道的曲子！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11yEJ6UEdH?p=15",
   "source": "others.js"
 },
     {
