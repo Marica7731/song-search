@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 6/6/2026, 4:01:42 PM
+// 生成时间: 6/6/2026, 4:21:16 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1878,8 +1878,8 @@ window.SONG_DATA.push(
   "source": "shuna.js"
 },
     {
-  "title": "愛唄〜since 2007〜",
-  "artist": "whiteeeen",
+  "title": "愛唄",
+  "artist": "GReeeeN",
   "collection": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=35",
@@ -4110,8 +4110,8 @@ window.SONG_DATA.push(
   "source": "shuna.js"
 },
     {
-  "title": "愛唄〜since 2007〜",
-  "artist": "whiteeeen",
+  "title": "愛唄",
+  "artist": "GReeeeN",
   "collection": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1X4wqzjECD?p=114",
@@ -5318,7 +5318,7 @@ window.SONG_DATA.push(
   "source": "shuna.js"
 },
     {
-  "title": "八月、某、月明かり、",
+  "title": "八月、某、月明かり",
   "artist": "ヨルシカ",
   "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
   "up": "前尘往事如昔故",
@@ -5343,7 +5343,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "千本桜",
-  "artist": "黒うさP",
+  "artist": "黒うさP feat.初音ミク",
   "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=9",
@@ -5367,7 +5367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Just Be Friends",
-  "artist": "Dixie Flatline",
+  "artist": "Dixie Flatline feat.巡音ルカ",
   "collection": "【歌切】[2026-06-04]为庆祝一周年，我会每天直播！！ 朱名 / SHUNA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19PEN6SEW4?p=12",
@@ -5718,8 +5718,8 @@ window.SONG_DATA.push(
   "source": "shuna.js"
 },
     {
-  "title": "愛唄 〜since 2007〜",
-  "artist": "whiteeeen",
+  "title": "愛唄",
+  "artist": "GReeeeN",
   "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=31",
