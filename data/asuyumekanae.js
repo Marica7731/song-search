@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 6/6/2026, 8:22:59 PM
+// 生成时间: 6/6/2026, 8:43:06 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3043,6 +3043,446 @@ window.SONG_DATA.push(
   "collection": "【明日夢 歌切】[2026-06-02]大余韻失礼します 明日夢かなえ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fFVk6JEWs?p=26",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "歩く",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "エイミー",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "エルマ",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "櫂",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "火葬",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "神様のダンス",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "強盗と花束",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=21",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=22",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "魔性",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=23",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "千鳥",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=24",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=25",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Remember",
+  "artist": "yuigot & 月見ヤチヨ(CV:早見沙織)",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=26",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra & 月見ヤチヨ(CV:早見沙織)",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=27",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "私は、わたしの事が好き。",
+  "artist": "HoneyWorks & かぐや(CV:夏吉ゆうこ)",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=28",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat. 巡音ルカ・GUMI",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=29",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "瞬間、シンフォニー。",
+  "artist": "40mP & かぐや(CV:夏吉ゆうこ)",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=30",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Reply",
+  "artist": "kz(livetune) & かぐや(CV:夏吉ゆうこ)",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=31",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "EYE",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=32",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "エンヴィーベイビー",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=33",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=34",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑ feat. 初音ミク",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=35",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "自由への扉",
+  "artist": "小此木麻里",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=36",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "スピーチレス～心の声",
+  "artist": "木下晴香",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=37",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "U",
+  "artist": "millennium parade × Belle",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=38",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=39",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "君と夏フェス",
+  "artist": "SHISHAMO",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=40",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "明日も",
+  "artist": "SHISHAMO",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=41",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=42",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=43",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "マイ フレンド",
+  "artist": "ZARD",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=44",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "最強の推し!",
+  "artist": "鈴木愛理",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=45",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "勘冴えて悔しいわ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=46",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "SWEET MEMORIES",
+  "artist": "松田聖子",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=47",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=48",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=49",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=50",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=51",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Snow halation",
+  "artist": "μ's",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=52",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=53",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ありがとう",
+  "artist": "SUPER BEAVER",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=54",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "愛言葉III",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=55",
   "source": "asuyumekanae.js"
 },
     {
