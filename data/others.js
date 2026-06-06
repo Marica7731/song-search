@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/6/2026, 7:21:31 PM
+// 生成时间: 6/6/2026, 7:36:44 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -13539,6 +13539,246 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-06-05 鷲羽アスカ / Washu Asuka A7WT3r_PDn0 偶像歌曲限定歌回♡一定有你知道的曲子！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11yEJ6UEdH?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "吉原ラメント",
+  "artist": "亜沙 feat.重音テト",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "キャットラビング",
+  "artist": "香椎モイミ feat.可不",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "koyori(電ポルP) feat.初音ミク",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑P feat.初音ミク",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "右肩の蝶",
+  "artist": "のりP feat.鏡音レン",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat.GUMI",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat.可不",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat.flower",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "エイリアンエイリアン",
+  "artist": "ナユタン星人 feat.初音ミク",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat.初音ミク",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "マトリョシカ",
+  "artist": "ハチ feat.初音ミク・GUMI",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat.GUMI・鏡音リン",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "チュルリラ・チュルリラ・ダッダッダ！",
+  "artist": "和田たけあき(くらげP) feat.結月ゆかり",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "ハオ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "抜錨",
+  "artist": "ナナホシ管弦楽団 feat.巡音ルカ",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "妄想税",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat.IA",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat.GUMI",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "弱虫モンブラン",
+  "artist": "DECO*27 feat.GUMI",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "二息歩行",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat.GUMI",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "アイロニ",
+  "artist": "すこっぷ feat.初音ミク",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "1925",
+  "artist": "T-POCKET feat.初音ミク",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat.初音ミク",
+  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=30",
   "source": "others.js"
 },
     {
