@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 6/6/2026, 3:20:57 PM
+// 生成时间: 6/6/2026, 3:42:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -635,6 +635,54 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-06-03]夜晚的抒情弹唱直播🌃🎶🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B77R6cESx?p=9",
+  "source": "stratia.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "【🎸🦋歌切】[2026-06-05]弹唱时间到啦🎸🎶🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fHEJ6eE8X?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "病名恋ワズライ",
+  "artist": "HoneyWorks feat.GUMI",
+  "collection": "【🎸🦋歌切】[2026-06-05]弹唱时间到啦🎸🎶🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fHEJ6eE8X?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "ノスタルジックJ-POP",
+  "artist": "大森靖子",
+  "collection": "【🎸🦋歌切】[2026-06-05]弹唱时间到啦🎸🎶🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fHEJ6eE8X?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "君と映画",
+  "artist": "大森靖子",
+  "collection": "【🎸🦋歌切】[2026-06-05]弹唱时间到啦🎸🎶🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fHEJ6eE8X?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "ヒロイン",
+  "artist": "back number",
+  "collection": "【🎸🦋歌切】[2026-06-05]弹唱时间到啦🎸🎶🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fHEJ6eE8X?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "星丘公園",
+  "artist": "Hump Back",
+  "collection": "【🎸🦋歌切】[2026-06-05]弹唱时间到啦🎸🎶🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fHEJ6eE8X?p=6",
   "source": "stratia.js"
 }
 );

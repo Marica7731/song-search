@@ -1,6 +1,6 @@
 // ノア・ポラリス - 歌单数据 (多合集汇总)
 // 来源: BV1qDDbBBETv
-// 生成时间: 6/6/2026, 3:23:56 PM
+// 生成时间: 6/6/2026, 3:43:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -331,6 +331,270 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-16 ノア・ポラリス -Noa Polaris- 0CTI6oa4Sjk",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YSdYBWE68?p=9",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "TAKiOのソーラン節",
+  "artist": "伊藤多喜雄&TAKIO BAND",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=1",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "阿修羅ちゃん",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=2",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "ボルテッカー",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=3",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "アイロニ",
+  "artist": "すこっぷ feat.初音ミク",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=4",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=5",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=6",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=7",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "ウワサのあの子",
+  "artist": "紫 今",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=8",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "リードコントロール",
+  "artist": "なるみや",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=9",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "シリウスの心臓",
+  "artist": "ヰ世界情緒",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=10",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "レディメイド",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=11",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "ウタ(Ado)",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=12",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "しあわせのおくすり",
+  "artist": "ノア・ポラリス",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=13",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "ラブレター",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=14",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "我愛你-上海蟹-",
+  "artist": "カニ研究会",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=15",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat.初音ミク",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=16",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "神様じゃなくてごめんね",
+  "artist": "Aliey:S feat.初音ミク",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=17",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "私は、私達は",
+  "artist": "Guiano feat.可不",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=18",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "メルティランドナイトメア",
+  "artist": "はるまきごはん feat.初音ミク",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=19",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "ノンブレス・オブリージュ",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=20",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "ゴースト警告を唄う",
+  "artist": "Empty old City",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=21",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師, 宇多田ヒカル",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=22",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "花降らし",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=23",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "パラサイトブルー",
+  "artist": "幽谷きらら",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=24",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "FAKE IDOL",
+  "artist": "藍月なくる",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=25",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "あの夏に咲け",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=26",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=27",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "Soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=28",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "ア・プリオリ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=29",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=30",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "櫂",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=31",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "アンサー",
+  "artist": "花譜",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=32",
+  "source": "noapolaris.js"
+},
+    {
+  "title": "永遠のあくる日",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=33",
   "source": "noapolaris.js"
 }
 );
