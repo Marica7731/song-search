@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 6/6/2026, 3:46:07 PM
+// 生成时间: 6/6/2026, 4:07:08 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3971,6 +3971,142 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-06-01]6月嘛❓总之先悠闲地充充电吧ーー✊ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nD5F6uExU?p=21",
+  "source": "sumica.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "青春コンプレックス",
+  "artist": "結束バンド",
+  "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "Cry Baby",
+  "artist": "Official髭男dism",
+  "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "ちょっと待って！",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=17",
   "source": "sumica.js"
 }
 );

@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 6/6/2026, 4:09:03 PM
+// 生成时间: 6/6/2026, 4:29:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -371,6 +371,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-04]因为有人来投诉我唱歌了，所以今天就开抒情歌偏多的歌回！！！w 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ooEP6sEZg?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-06]7/18个人Live门票卖不完就没法收场？！帮帮忙吧！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RLEp6KEXi?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "どうにかなっちゃいそう！",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-06-06]7/18个人Live门票卖不完就没法收场？！帮帮忙吧！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RLEp6KEXi?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "快晴",
+  "artist": "Orangestar feat. IA",
+  "collection": "【歌切】[2026-06-06]7/18个人Live门票卖不完就没法收场？！帮帮忙吧！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RLEp6KEXi?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-06]7/18个人Live门票卖不完就没法收场？！帮帮忙吧！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RLEp6KEXi?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ",
+  "artist": "MAISONdes feat. 花譜, ツミキ",
+  "collection": "【歌切】[2026-06-06]7/18个人Live门票卖不完就没法收场？！帮帮忙吧！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RLEp6KEXi?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "アイワナムチュー",
+  "artist": "MAISONdes feat. asmi, すりぃ",
+  "collection": "【歌切】[2026-06-06]7/18个人Live门票卖不完就没法收场？！帮帮忙吧！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RLEp6KEXi?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "春を待つ",
+  "artist": "Islet feat. 倚水",
+  "collection": "【歌切】[2026-06-06]7/18个人Live门票卖不完就没法收场？！帮帮忙吧！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RLEp6KEXi?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ハオ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-06-06]7/18个人Live门票卖不完就没法收场？！帮帮忙吧！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RLEp6KEXi?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "曖昧劣情Lover",
+  "artist": "電ポルP feat. v flower",
+  "collection": "【歌切】[2026-06-06]7/18个人Live门票卖不完就没法收场？！帮帮忙吧！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RLEp6KEXi?p=9",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん(自然の敵P) feat. IA",
+  "collection": "【歌切】[2026-06-06]7/18个人Live门票卖不完就没法收场？！帮帮忙吧！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RLEp6KEXi?p=10",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "あの夏のいつかは",
+  "artist": "*Luna feat. 音街ウナ・Rana",
+  "collection": "【歌切】[2026-06-06]7/18个人Live门票卖不完就没法收场？！帮帮忙吧！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RLEp6KEXi?p=11",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "空の箱",
+  "artist": "トゲナシトゲアリ",
+  "collection": "【歌切】[2026-06-06]7/18个人Live门票卖不完就没法收场？！帮帮忙吧！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RLEp6KEXi?p=12",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ドーナツホール",
+  "artist": "ハチ feat. GUMI",
+  "collection": "【歌切】[2026-06-06]7/18个人Live门票卖不完就没法收场？！帮帮忙吧！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RLEp6KEXi?p=13",
   "source": "hinachibi.js"
 }
 );

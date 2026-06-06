@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 6/6/2026, 4:13:20 PM
+// 生成时间: 6/6/2026, 4:34:12 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -931,6 +931,270 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-05]动漫、术力口很多！初次见面的朋友也请一定来🌟 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SrEJ6DEVB?p=34",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "金曜日のおはよう",
+  "artist": "HoneyWorks feat.GUMI",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "生意気ハニー",
+  "artist": "HoneyWorks feat.初音ミク",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "センパイ。",
+  "artist": "HoneyWorks meets TrySail",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "今好きになる。",
+  "artist": "HoneyWorks feat.初音ミク",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "負け犬にアンコールはいらない",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "BANG!!!",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "咲かせや咲かせ",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "え？あぁ、そう。",
+  "artist": "蝶々P feat.初音ミク",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "メルティランドナイトメア",
+  "artist": "はるまきごはん feat.初音ミク",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "気まぐれメルシィ",
+  "artist": "八王子P feat.初音ミク",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "スキスキ絶頂症",
+  "artist": "koyori(電ポルP) feat.GUMI",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ラプラスショコラ",
+  "artist": "Kai feat.可不",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "1925",
+  "artist": "T-POCKET feat.初音ミク",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "炉心融解",
+  "artist": "iroha(sasaki) feat.鏡音リン",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "おちゃめ機能",
+  "artist": "ラマーズP feat.重音テト",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "貴方の恋人になりたい",
+  "artist": "チョーキューメイ",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=26",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "学園天国",
+  "artist": "フィンガー5",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=27",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "GO FOR IT!!",
+  "artist": "西野カナ",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=28",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "会いたくて 会いたくて",
+  "artist": "西野カナ",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=29",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アンダー・ザ・シー",
+  "artist": "上條恒彦",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=30",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "君に出会えたから",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=31",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "don't cry anymore",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=32",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ヒカリヘ",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=33",
   "source": "ibaramuan.js"
 }
 );
