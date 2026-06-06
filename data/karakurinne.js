@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 6/6/2026, 7:19:53 PM
+// 生成时间: 6/6/2026, 7:41:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -803,6 +803,62 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-04]6月第一场歌回！悠闲的唱歌时间♪ からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19PEN6SECg?p=13",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-06-06]湿润的歌回时间到啦～☔🎤！！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cHEH6VEsm?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "幻",
+  "artist": "My Hair is Bad",
+  "collection": "【歌切】[2026-06-06]湿润的歌回时间到啦～☔🎤！！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cHEH6VEsm?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "恋人ができたんだ",
+  "artist": "My Hair is Bad",
+  "collection": "【歌切】[2026-06-06]湿润的歌回时间到啦～☔🎤！！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cHEH6VEsm?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "二十九、三十",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-06-06]湿润的歌回时间到啦～☔🎤！！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cHEH6VEsm?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "大丈夫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-06-06]湿润的歌回时间到啦～☔🎤！！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cHEH6VEsm?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "今更だって僕は言うかな",
+  "artist": "Saucy Dog",
+  "collection": "【歌切】[2026-06-06]湿润的歌回时间到啦～☔🎤！！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cHEH6VEsm?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "目蓋",
+  "artist": "神はサイコロを振らない",
+  "collection": "【歌切】[2026-06-06]湿润的歌回时间到啦～☔🎤！！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cHEH6VEsm?p=7",
   "source": "karakurinne.js"
 }
 );
