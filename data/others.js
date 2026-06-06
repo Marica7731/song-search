@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/6/2026, 1:57:54 PM
+// 生成时间: 6/6/2026, 2:17:49 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -13307,6 +13307,118 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-06-04 しほ / shiho 春なの？夏なの？5M5Am4uoVmc",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19AEN6nEJG?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "透明エレジー",
+  "artist": "n-buna feat. GUMI",
+  "collection": "歌切 2026-06-05 ヨル紛イ / 百日 紅 n-buna 术力口限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R8EJ6FEib?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "歌切 2026-06-05 ヨル紛イ / 百日 紅 n-buna 术力口限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R8EJ6FEib?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "背景、夏に溺れる",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "歌切 2026-06-05 ヨル紛イ / 百日 紅 n-buna 术力口限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R8EJ6FEib?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "花と水飴、最終電車",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "歌切 2026-06-05 ヨル紛イ / 百日 紅 n-buna 术力口限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R8EJ6FEib?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "白ゆき",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "歌切 2026-06-05 ヨル紛イ / 百日 紅 n-buna 术力口限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R8EJ6FEib?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "歌切 2026-06-05 ヨル紛イ / 百日 紅 n-buna 术力口限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R8EJ6FEib?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "劇場愛歌",
+  "artist": "n-buna feat. 開発コード miki",
+  "collection": "歌切 2026-06-05 ヨル紛イ / 百日 紅 n-buna 术力口限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R8EJ6FEib?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "かぐや",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "歌切 2026-06-05 ヨル紛イ / 百日 紅 n-buna 术力口限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R8EJ6FEib?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "花降らし",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "歌切 2026-06-05 ヨル紛イ / 百日 紅 n-buna 术力口限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R8EJ6FEib?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "歌切 2026-06-05 ヨル紛イ / 百日 紅 n-buna 术力口限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R8EJ6FEib?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "始発とカフカ",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "歌切 2026-06-05 ヨル紛イ / 百日 紅 n-buna 术力口限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R8EJ6FEib?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "アイラ",
+  "artist": "n-buna feat. GUMI",
+  "collection": "歌切 2026-06-05 ヨル紛イ / 百日 紅 n-buna 术力口限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R8EJ6FEib?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "三月と狼少年",
+  "artist": "n-buna feat. SF-A2 開発コード miki",
+  "collection": "歌切 2026-06-05 ヨル紛イ / 百日 紅 n-buna 术力口限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R8EJ6FEib?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "カエルのはなし",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "歌切 2026-06-05 ヨル紛イ / 百日 紅 n-buna 术力口限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R8EJ6FEib?p=14",
   "source": "others.js"
 },
     {

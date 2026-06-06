@@ -1,6 +1,6 @@
 // ななし律歌 - 歌单数据 (多合集汇总)
 // 来源: BV1wHQVBTEU5
-// 生成时间: 6/6/2026, 1:39:27 PM
+// 生成时间: 6/6/2026, 1:59:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -459,6 +459,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-28]唱歌聊天 ななし律歌 / Nanashi Rikka",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1daVs6eE2r?p=19",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "パレード",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-06]稍微放松一下的弹唱歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeEJ6xERC?p=1",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "翡翠のまち",
+  "artist": "メル feat.初音ミク",
+  "collection": "【歌切】[2026-06-06]稍微放松一下的弹唱歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeEJ6xERC?p=2",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-06-06]稍微放松一下的弹唱歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeEJ6xERC?p=3",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "紡ぐ",
+  "artist": "とた",
+  "collection": "【歌切】[2026-06-06]稍微放松一下的弹唱歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeEJ6xERC?p=4",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-06-06]稍微放松一下的弹唱歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeEJ6xERC?p=5",
   "source": "nanashirikka.js"
 }
 );
