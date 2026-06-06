@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 6/6/2026, 7:37:02 PM
+// 生成时间: 6/6/2026, 7:57:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5643,6 +5643,126 @@ window.SONG_DATA.push(
   "collection": "【👿歌切】[2026-05-26]代替电台的傍晚歌回📻🎶陪你回家！听一首再走吧😈💝 Ruki Otokado 音門るき [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wDVT6bE1H?p=15",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "シル・ヴ・プレジデント",
+  "artist": "P丸様",
+  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "常緑",
+  "artist": "大橋ちっぽけ",
+  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "裸の勇者",
+  "artist": "Vaundy",
+  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=6",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "できっこないをやらなくちゃ",
+  "artist": "サンボマスター",
+  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=7",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "タイムマシン",
+  "artist": "1640mP(164×40mP) feat. 初音ミク",
+  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=8",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "あの日タイムマシン",
+  "artist": "LONG SHOT PARTY",
+  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=9",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=10",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "オドループ",
+  "artist": "フレデリック",
+  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=11",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "宙船",
+  "artist": "TOKIO",
+  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=12",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Love So Sweet",
+  "artist": "嵐",
+  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=13",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "トンツカタンタン",
+  "artist": "クレイジーウォウウォ！！",
+  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=14",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "きっとビタミン",
+  "artist": "音門るき",
+  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=15",
   "source": "otomoneruki.js"
 }
 );
