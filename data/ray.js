@@ -1,6 +1,6 @@
 // 來-Ray- - 歌单数据 (多合集汇总)
 // 来源: BV1mJZwB8EVa
-// 生成时间: 6/7/2026, 10:12:51 PM
+// 生成时间: 6/7/2026, 10:32:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3979,6 +3979,318 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-24]昼夜颠倒，还来得及吗？ 來-Ray-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1esGW64Ekg?p=35",
+  "source": "ray.js"
+},
+    {
+  "title": "L愛KE",
+  "artist": "梅とら feat. 初音ミク",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=1",
+  "source": "ray.js"
+},
+    {
+  "title": "月光",
+  "artist": "キタニタツヤ × はるまきごはん",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=2",
+  "source": "ray.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=3",
+  "source": "ray.js"
+},
+    {
+  "title": "ノウナイディスコ",
+  "artist": "r-906 feat. IA",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=4",
+  "source": "ray.js"
+},
+    {
+  "title": "ラグトレイン",
+  "artist": "稲葉曇 feat. 歌愛ユキ",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=5",
+  "source": "ray.js"
+},
+    {
+  "title": "シネマ",
+  "artist": "Ayase feat. 初音ミク",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=6",
+  "source": "ray.js"
+},
+    {
+  "title": "モノクロ∞ブルースカイ",
+  "artist": "のぼる↑ feat. 初音ミク",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=7",
+  "source": "ray.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=8",
+  "source": "ray.js"
+},
+    {
+  "title": "チーズケーキクライシス",
+  "artist": "TOKOTOKO(西沢さんP) feat. GUMI",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=9",
+  "source": "ray.js"
+},
+    {
+  "title": "好き！雪！本気マジック",
+  "artist": "Mitchie M feat. 初音ミク",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=10",
+  "source": "ray.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=11",
+  "source": "ray.js"
+},
+    {
+  "title": "アンノウン・マザーグース",
+  "artist": "wowaka feat. 初音ミク",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=12",
+  "source": "ray.js"
+},
+    {
+  "title": "ナイティナイト",
+  "artist": "まふまふ",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=13",
+  "source": "ray.js"
+},
+    {
+  "title": "タイニーバニー",
+  "artist": "youまん feat. 鳴花ヒメ",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=14",
+  "source": "ray.js"
+},
+    {
+  "title": "逃避行",
+  "artist": "ツカダタカシゲ feat. 初音ミク",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=15",
+  "source": "ray.js"
+},
+    {
+  "title": "幸せな約束。",
+  "artist": "りりあ。",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=16",
+  "source": "ray.js"
+},
+    {
+  "title": "愛Dee",
+  "artist": "Mitchie M feat. 初音ミク・巡音ルカ",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=17",
+  "source": "ray.js"
+},
+    {
+  "title": "brilliant",
+  "artist": "niki feat. Lily",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=18",
+  "source": "ray.js"
+},
+    {
+  "title": "Sugar Guitar",
+  "artist": "ポリスピカデリー feat. 闇音レンリ",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=19",
+  "source": "ray.js"
+},
+    {
+  "title": "劇場愛歌",
+  "artist": "n-buna feat. miki",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=20",
+  "source": "ray.js"
+},
+    {
+  "title": "脱獄",
+  "artist": "Neru feat. 鏡音リン",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=21",
+  "source": "ray.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru feat. 鏡音リン",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=22",
+  "source": "ray.js"
+},
+    {
+  "title": "被害妄想携帯女子（笑）",
+  "artist": "ギガP×スズム feat. GUMI",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=23",
+  "source": "ray.js"
+},
+    {
+  "title": "少年少女モラトリアムサヴァイヴ",
+  "artist": "TOKOTOKO(西沢さんP) feat. GUMI",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=24",
+  "source": "ray.js"
+},
+    {
+  "title": "ODDS&ENDS",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=25",
+  "source": "ray.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat. 初音ミク",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=26",
+  "source": "ray.js"
+},
+    {
+  "title": "GENTLE",
+  "artist": "香椎モイミ feat. 初音ミク・flower",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=27",
+  "source": "ray.js"
+},
+    {
+  "title": "Bye-Bye Lover",
+  "artist": "samfree feat. 巡音ルカ",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=28",
+  "source": "ray.js"
+},
+    {
+  "title": "POP STAR",
+  "artist": "平井堅",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=29",
+  "source": "ray.js"
+},
+    {
+  "title": "Love so sweet",
+  "artist": "嵐",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=30",
+  "source": "ray.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=31",
+  "source": "ray.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=32",
+  "source": "ray.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=33",
+  "source": "ray.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=34",
+  "source": "ray.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=35",
+  "source": "ray.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=36",
+  "source": "ray.js"
+},
+    {
+  "title": "さくらんぼ",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=37",
+  "source": "ray.js"
+},
+    {
+  "title": "magnet",
+  "artist": "minato(流星P) feat. 初音ミク・巡音ルカ",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=38",
+  "source": "ray.js"
+},
+    {
+  "title": "Beyond the way",
+  "artist": "Giga feat. 初音ミク・鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=39",
   "source": "ray.js"
 }
 );
