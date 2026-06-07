@@ -40,7 +40,7 @@ git status --short
 - `ADD_SOURCE_PROMPT.md`：根目录来源添加提示词，固定 GitHub Pages 与 `culua.com` 的不同添加、验证和发布方式，避免后续上下文过长时混用流程。
 - `scripts/source-profiles.json`：来源头像补充配置，可按来源文件名补 `avatarUrl`、`youtubeUrl`、`avatarText`、`accentColor` 和 `statsAvgSortDeferred`；缺失时页面自动显示来源名单字头像。
 - `scripts/collect-source-avatars.js`：来源头像采集脚本，从每个来源当前歌库里挑最新 BV，读取 B 站简介中的 YouTube 链接并解析频道头像，写回 `scripts/source-profiles.json` 和 `data/index.json`。
-- `tools/check-mobile-artist-cases.js`：移动端歌手标签回归脚本，用多组真实搜索词覆盖短英文、短日文、`from` / `feat.` / 斜杠组合等歌手名，检查结果卡在多种宽度下是否过早折叠。
+- `tools/check-mobile-artist-cases.js`：移动端歌手标签回归脚本，用多组真实搜索词覆盖短英文、短日文、`from` / `feat.` / 斜杠组合、超长署名和超长角色表等歌手名，检查结果卡在多种宽度下是否过早折叠，以及是否先收边距、缩字号后再截断。
 
 ## 在线页面
 
@@ -229,12 +229,12 @@ node tools/check-mobile-artist-cases.js .tmp/artist-cases http://127.0.0.1:8080
 
 ```text
 输入：歌曲搜索首页（本地或公网，可指向 `/`、`/m`、`/h5`）
-输入：脚本内置的真实查询用例与宽度列表（864 / 700 / 560 / 430 / 390）
+输入：脚本内置的真实查询用例与宽度列表（864 / 700 / 560 / 430 / 390 / 360 / 320）
 输出：每个用例对应结果卡截图
-输出：控制台里的歌手标签宽度、容器宽度和是否溢出
+输出：控制台里的歌手标签宽度、容器宽度、字号、内边距、压缩阶段和是否溢出
 ```
 
-说明：脚本优先使用 Playwright 自带浏览器；如果本机没有装对应运行时，会自动回退到系统 Chrome 或 Edge。
+说明：脚本优先使用 Playwright 自带浏览器；如果本机没有装对应运行时，会自动回退到系统 Chrome 或 Edge。页面端歌手标签采用“默认样式 -> 收边距 -> 缩字号 -> 最后截断”的顺序处理，回归脚本会同时校验这条链路。
 
 注意：
 

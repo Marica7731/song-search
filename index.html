@@ -2172,6 +2172,8 @@
     const $$ = (selector) => Array.from(document.querySelectorAll(selector));
     const LAZY_IMAGE_PLACEHOLDER = 'data:image/gif;base64,R0lGODlhAQABAAAAACw=';
     let lazyImageObserver = null;
+    let artistFitFrame = 0;
+    let artistResizeTimer = 0;
 
     function formatNumber(value) {
       return new Intl.NumberFormat('zh-CN').format(Number(value || 0));
@@ -2365,6 +2367,70 @@
       const el = $('#status');
       el.textContent = text;
       el.classList.toggle('error', error);
+    }
+
+    function artistChipOverflows(chip) {
+      return !!chip && chip.scrollWidth > chip.clientWidth + 1;
+    }
+
+    function resetArtistChipFit(chip) {
+      if (!chip) return;
+      chip.style.fontSize = '';
+      chip.style.paddingLeft = '';
+      chip.style.paddingRight = '';
+      chip.dataset.fitStage = '';
+      chip.dataset.fitFontSize = '';
+      chip.dataset.fitPadding = '';
+    }
+
+    function fitArtistChip(chip) {
+      if (!chip) return;
+      resetArtistChipFit(chip);
+      const computed = window.getComputedStyle(chip);
+      let fontSize = parseFloat(computed.fontSize) || 13;
+      let paddingLeft = parseFloat(computed.paddingLeft) || 7;
+      let paddingRight = parseFloat(computed.paddingRight) || paddingLeft;
+      const viewportWidth = Math.max(window.innerWidth || 0, document.documentElement?.clientWidth || 0);
+      const minPadding = viewportWidth <= 360 ? 3 : 4;
+      const minFontSize = viewportWidth <= 360 ? 10 : 11;
+      let stage = 'full';
+
+      if (!artistChipOverflows(chip)) {
+        chip.dataset.fitStage = stage;
+        chip.dataset.fitFontSize = fontSize.toFixed(1);
+        chip.dataset.fitPadding = Math.max(paddingLeft, paddingRight).toFixed(1);
+        return;
+      }
+
+      while (artistChipOverflows(chip) && (paddingLeft > minPadding || paddingRight > minPadding)) {
+        paddingLeft = Math.max(minPadding, paddingLeft - 1);
+        paddingRight = Math.max(minPadding, paddingRight - 1);
+        chip.style.paddingLeft = `${paddingLeft}px`;
+        chip.style.paddingRight = `${paddingRight}px`;
+        stage = 'compact-padding';
+      }
+
+      while (artistChipOverflows(chip) && fontSize > minFontSize + 0.001) {
+        fontSize = Math.max(minFontSize, Math.round((fontSize - 0.5) * 10) / 10);
+        chip.style.fontSize = `${fontSize}px`;
+        stage = 'compact-font';
+      }
+
+      chip.dataset.fitStage = artistChipOverflows(chip) ? 'truncated' : stage;
+      chip.dataset.fitFontSize = fontSize.toFixed(1);
+      chip.dataset.fitPadding = Math.max(paddingLeft, paddingRight).toFixed(1);
+    }
+
+    function fitArtistChips(root = document) {
+      Array.from(root.querySelectorAll('.song-artist .field-copy')).forEach(fitArtistChip);
+    }
+
+    function scheduleArtistChipFit(root = document) {
+      if (artistFitFrame) cancelAnimationFrame(artistFitFrame);
+      artistFitFrame = requestAnimationFrame(() => {
+        artistFitFrame = 0;
+        fitArtistChips(root);
+      });
     }
 
     function showToast(text) {
@@ -2635,6 +2701,7 @@
         `;
       }).join('');
       initLazyMedia(results);
+      scheduleArtistChipFit(results);
     }
 
     function renderPagination() {
@@ -3072,6 +3139,10 @@
           setStatus(`复制失败：${error.message}`, true);
         });
       });
+      window.addEventListener('resize', () => {
+        clearTimeout(artistResizeTimer);
+        artistResizeTimer = setTimeout(() => scheduleArtistChipFit(), 120);
+      });
     }
 
     async function init() {
@@ -3080,6 +3151,7 @@
         readUrl();
         restoreCopySettings();
         bindEvents();
+        document.fonts?.ready?.then(() => scheduleArtistChipFit()).catch(() => {});
         await loadBootstrap();
         if (!state.files.includes(state.source) && state.source !== 'all') state.source = 'all';
         renderSources();
