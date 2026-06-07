@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 6/7/2026, 8:47:47 PM
+// 生成时间: 6/7/2026, 9:08:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9651,6 +9651,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fY796cE51?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "1991",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "すずめ",
+  "artist": "RADWIMPS feat.十明",
+  "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "紅茶",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "レイニーブルー",
+  "artist": "徳永英明",
+  "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "六等星",
+  "artist": "ざらめ",
+  "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "I beg you",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "グランドエスケープ",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Hello,星を数えて",
+  "artist": "星空凛(飯田里穂),西木野真姫(Pile),小泉花陽(久保ユリカ)",
+  "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Letters to ME",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=11",
   "source": "naraetan.js"
 },
     {

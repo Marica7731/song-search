@@ -1,6 +1,6 @@
 // 山田シャロ - 歌单数据 (多合集汇总)
 // 来源: BV179L66pE1f
-// 生成时间: 6/7/2026, 9:25:16 PM
+// 生成时间: 6/7/2026, 9:45:22 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -739,6 +739,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-29]目标同时在线50人！用大姐姐声线迷住你✨ SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hiVu62EUJ?p=10",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "夢の続き",
+  "artist": "鈴木このみ",
+  "collection": "【歌切】[2026-06-07]最强歌声唱给你听✨目标同接50人！ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PvEa65E3V?p=1",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ヒャダインのカカカタ☆カタオモイ-C",
+  "artist": "ヒャダイン",
+  "collection": "【歌切】[2026-06-07]最强歌声唱给你听✨目标同接50人！ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PvEa65E3V?p=2",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ロマンティックあげるよ",
+  "artist": "橋本潮",
+  "collection": "【歌切】[2026-06-07]最强歌声唱给你听✨目标同接50人！ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PvEa65E3V?p=3",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【歌切】[2026-06-07]最强歌声唱给你听✨目标同接50人！ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PvEa65E3V?p=4",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【歌切】[2026-06-07]最强歌声唱给你听✨目标同接50人！ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PvEa65E3V?p=5",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "【歌切】[2026-06-07]最强歌声唱给你听✨目标同接50人！ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PvEa65E3V?p=6",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "エデン",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-06-07]最强歌声唱给你听✨目标同接50人！ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PvEa65E3V?p=7",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-06-07]最强歌声唱给你听✨目标同接50人！ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PvEa65E3V?p=8",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ワルキューレがとまらない",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-06-07]最强歌声唱给你听✨目标同接50人！ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PvEa65E3V?p=9",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ノイズ",
+  "artist": "ミオヤマザキ",
+  "collection": "【歌切】[2026-06-07]最强歌声唱给你听✨目标同接50人！ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PvEa65E3V?p=10",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "アイのシナリオ",
+  "artist": "CHiCO & HoneyWorks",
+  "collection": "【歌切】[2026-06-07]最强歌声唱给你听✨目标同接50人！ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PvEa65E3V?p=11",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "天空のカナリア",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-06-07]最强歌声唱给你听✨目标同接50人！ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PvEa65E3V?p=12",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "深愛",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-06-07]最强歌声唱给你听✨目标同接50人！ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PvEa65E3V?p=13",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "翡翠のまち",
+  "artist": "メル",
+  "collection": "【歌切】[2026-06-07]最强歌声唱给你听✨目标同接50人！ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PvEa65E3V?p=14",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Listen!!",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-06-07]最强歌声唱给你听✨目标同接50人！ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PvEa65E3V?p=15",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ [CV: 平野綾",
+  "collection": "【歌切】[2026-06-07]最强歌声唱给你听✨目标同接50人！ SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PvEa65E3V?p=16",
   "source": "yamadasharo.js"
 }
 );

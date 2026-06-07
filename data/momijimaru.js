@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 6/7/2026, 8:45:20 PM
+// 生成时间: 6/7/2026, 9:05:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6811,6 +6811,406 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-06-05]把心意唱给你听!! 传递思念的歌回✉✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aEEn6xEP7?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat. flower",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "雨とペトラ",
+  "artist": "バルーン feat. flower",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "メーベル",
+  "artist": "バルーン feat. flower",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "BRAIN",
+  "artist": "Kanaria",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "EYE",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "MIRA",
+  "artist": "Kanaria feat. 小春六花",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "六兆年と一夜物語",
+  "artist": "kemu feat. IA",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "敗北の少年",
+  "artist": "kemu feat. GUMI",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat. GUMI",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "サンドリヨン（Cendrillon）",
+  "artist": "Dios/シグナルP feat. 初音ミク・KAITO",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "マトリョシカ",
+  "artist": "ハチ feat. 初音ミク・GUMI",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "カートゥーンガール",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ジャンキーナイトタウンオーケストラ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=17",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=18",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ジブラ",
+  "artist": "すりぃ feat. 可不",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=19",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ビーバー",
+  "artist": "すりぃ feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=20",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ルーム No.4",
+  "artist": "超学生",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=21",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "koyori(電ポルP) feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=22",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ドーナツホール",
+  "artist": "ハチ feat. GUMI",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=23",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Bad ∞ End ∞ Night",
+  "artist": "ひとしずくP×やま△ feat. 初音ミク・鏡音リン・鏡音レン・巡音ルカ・KAITO・MEIKO・GUMI・神威",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=24",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "我儘姫",
+  "artist": "ふじを feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=25",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "メリーゴーランド",
+  "artist": "ねこまんま feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=26",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "腐れ外道とチョコレゐト",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=27",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "魔法少女とチョコレゐト",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=28",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "きゅうくらりん",
+  "artist": "いよわ feat. 可不",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=29",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ダウナーウィッチ",
+  "artist": "廉 feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=30",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "カーニバルハッピー",
+  "artist": "かいりきベア feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=31",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "エウレカ",
+  "artist": "柊キライ feat. flower",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=32",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "p.h.",
+  "artist": "SEVENTHLINKS feat. v flower",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=33",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "D/N/A",
+  "artist": "Azari feat. 重音テト・flower",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=34",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "フィラデルフィア",
+  "artist": "wotaku feat. フリモメン",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=35",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "全部夢だった！",
+  "artist": "黒うさぎ feat. 重音テト",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=36",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "混沌ブギ",
+  "artist": "jon-YAKITORY feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=37",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ひゅ〜どろどろ",
+  "artist": "栗山夕璃 feat. 初音ミク・MEIKO",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=38",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "テトリス",
+  "artist": "柊マグネタイト feat. 重音テトSV",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=39",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "誰も知らないハッピーエンド",
+  "artist": "40mP feat. VOCALOID Fukase",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=40",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ラブカ？",
+  "artist": "柊キライ feat. v flower",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=41",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "エンドロール",
+  "artist": "夏代孝明",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=42",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ノイローゼ",
+  "artist": "蜂屋ななし feat. v flower",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=43",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アノニマスファンフアレ",
+  "artist": "ツミキ feat. GUMI",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=44",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "エンジェルフィッシュ",
+  "artist": "Nem feat. 鏡音レン",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=45",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "シザーハンズ",
+  "artist": "Nem feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=46",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN feat. 鏡音リン",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=47",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アイロニ",
+  "artist": "すこっぷ feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=48",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "さよならだけが人生だ",
+  "artist": "伊東歌詞太郎 feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=49",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "世界の真ん中を歩く",
+  "artist": "夏代孝明 feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=50",
   "source": "momijimaru.js"
 }
 );
