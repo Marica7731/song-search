@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 6/7/2026, 7:23:26 PM
+// 生成时间: 6/7/2026, 7:41:28 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -859,6 +859,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-06]湿润的歌回时间到啦～☔🎤！！ からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cHEH6VEsm?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "チェックのワンピース",
+  "artist": "back number",
+  "collection": "【歌切】[2026-06-07]下午三点的悠闲歌回！！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jUEa6vEi1?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "あたしが死んでも",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-06-07]下午三点的悠闲歌回！！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jUEa6vEi1?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "想いあい",
+  "artist": "the shes gone",
+  "collection": "【歌切】[2026-06-07]下午三点的悠闲歌回！！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jUEa6vEi1?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "正直日記",
+  "artist": "美波",
+  "collection": "【歌切】[2026-06-07]下午三点的悠闲歌回！！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jUEa6vEi1?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-07]下午三点的悠闲歌回！！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jUEa6vEi1?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-07]下午三点的悠闲歌回！！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jUEa6vEi1?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-07]下午三点的悠闲歌回！！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jUEa6vEi1?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【歌切】[2026-06-07]下午三点的悠闲歌回！！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jUEa6vEi1?p=8",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "あなたがいることで",
+  "artist": "Uru",
+  "collection": "【歌切】[2026-06-07]下午三点的悠闲歌回！！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jUEa6vEi1?p=9",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "デタラメ",
+  "artist": "あさぎーにょ",
+  "collection": "【歌切】[2026-06-07]下午三点的悠闲歌回！！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jUEa6vEi1?p=10",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ほろよい",
+  "artist": "kojikoji",
+  "collection": "【歌切】[2026-06-07]下午三点的悠闲歌回！！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jUEa6vEi1?p=11",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ETERNAL BLUE",
+  "artist": "美波",
+  "collection": "【歌切】[2026-06-07]下午三点的悠闲歌回！！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jUEa6vEi1?p=12",
   "source": "karakurinne.js"
 }
 );
