@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 6/7/2026, 8:06:52 PM
+// 生成时间: 6/7/2026, 8:27:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3315,6 +3315,150 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "パレード",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "「知りたくなかった、失うのなら」",
+  "artist": "あたらよ",
+  "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ",
+  "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI for 雨音 薫",
+  "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "heavenly days",
+  "artist": "新垣結衣",
+  "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "One more time, One more chance",
+  "artist": "山崎まさよし",
+  "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "クリス・ハート",
+  "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Wherever you are",
+  "artist": "ONE OK ROCK",
+  "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "寄り酔い",
+  "artist": "和ぬか",
+  "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "NIGHT DANCER",
+  "artist": "imase",
+  "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "KICK BACK",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=18",
   "source": "kukuri.js"
 }
 );
