@@ -72,6 +72,7 @@
 |---|---|---|---|
 | `tools/serve-local.js` | 本地静态服务辅助 | 启动轻量本地 HTTP 服务 | 用于需要静态文件服务的页面验证 |
 | `tools/take-live-screenshots.js` | 页面截图辅助 | 打开线上或本地页面并截图 | 用于页面改动后的视觉核对 |
+| `tools/check-mobile-artist-cases.js` | 移动端歌手标签回归脚本 | 用真实搜索词覆盖短英文、短日文、`from`、`feat.`、斜杠组合等歌手名，在多种窄宽度下检查歌手标签是否过早折叠，并输出卡片截图与宽度日志 | 直接验证 `index.html` 的响应式结果卡布局，可对本地 `/`、`/m`、`/h5` 或公网页面运行 |
 | `.github/workflows/update.yml` | 自动更新歌库工作流 | 定时或手动运行 `scripts/update-songs.js`，把数据提交到 `main` | 不等同于 `culua.com` 服务器部署流程 |
 | `.github/workflows/song-growth.yml` | 增长日报工作流 | 定时或手动运行 `scripts/update-song-growth.js` | 更新 README、`song-growth.html`、增长历史 |
 

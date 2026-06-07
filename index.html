@@ -1894,9 +1894,32 @@
 
     .song-artist {
       box-sizing: border-box;
-      justify-self: start;
-      width: max-content;
+      justify-self: stretch;
+      width: 100%;
+      min-height: 0;
+      padding: 0;
+      border: 0;
+      background: transparent;
+      display: flex;
+      align-items: center;
+    }
+
+    .song-artist .field-copy {
+      display: inline-flex;
+      align-items: center;
+      flex: 0 1 auto;
+      width: auto;
       max-width: 100%;
+      min-width: 0;
+      min-height: 22px;
+      margin: 0;
+      padding: 2px 7px;
+      border: 1px solid #cde9ec;
+      border-radius: 999px;
+      background: #eefafa;
+      color: #0f4f5c;
+      font-weight: inherit;
+      line-height: inherit;
     }
   </style>
 </head>
