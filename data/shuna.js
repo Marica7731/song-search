@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 6/7/2026, 7:41:54 PM
+// 生成时间: 6/7/2026, 8:01:55 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5739,6 +5739,206 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-05]怀旧歌曲中沉浸于回忆的夜晚 朱名 / SHUNA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DvEJ6REk1?p=33",
+  "source": "shuna.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=1",
+  "source": "shuna.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=2",
+  "source": "shuna.js"
+},
+    {
+  "title": "Cry Baby",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=3",
+  "source": "shuna.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=4",
+  "source": "shuna.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=5",
+  "source": "shuna.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=6",
+  "source": "shuna.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(CV:平野綾)",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=7",
+  "source": "shuna.js"
+},
+    {
+  "title": "プライド革命",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=8",
+  "source": "shuna.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=9",
+  "source": "shuna.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=10",
+  "source": "shuna.js"
+},
+    {
+  "title": "The Bravery",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=11",
+  "source": "shuna.js"
+},
+    {
+  "title": "Absolute 5",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=12",
+  "source": "shuna.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO from bless4",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=13",
+  "source": "shuna.js"
+},
+    {
+  "title": "ラピスラズリ",
+  "artist": "藍井エイル",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=14",
+  "source": "shuna.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=15",
+  "source": "shuna.js"
+},
+    {
+  "title": "The Everlasting Guilty Crown",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=16",
+  "source": "shuna.js"
+},
+    {
+  "title": "インフィニティ",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=17",
+  "source": "shuna.js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=18",
+  "source": "shuna.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n / 中島愛",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=19",
+  "source": "shuna.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=20",
+  "source": "shuna.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=21",
+  "source": "shuna.js"
+},
+    {
+  "title": "Zoetrope",
+  "artist": "やなぎなぎ",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=22",
+  "source": "shuna.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=23",
+  "source": "shuna.js"
+},
+    {
+  "title": "ウタカタララバイ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=24",
+  "source": "shuna.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=25",
   "source": "shuna.js"
 }
 );
