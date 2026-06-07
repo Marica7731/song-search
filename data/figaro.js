@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 6/7/2026, 9:09:31 PM
+// 生成时间: 6/7/2026, 9:29:54 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -31515,6 +31515,126 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】#269[2026-05-31]睡眠导入歌回✨睡前放松时刻请享用🌙 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fGVD6VEpY?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【💐歌切】#270[2026-06-07]安眠前放松歌回✨ 伴你入梦的治愈时光🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYEa61Epq?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】#270[2026-06-07]安眠前放松歌回✨ 伴你入梦的治愈时光🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYEa61Epq?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】#270[2026-06-07]安眠前放松歌回✨ 伴你入梦的治愈时光🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYEa61Epq?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】#270[2026-06-07]安眠前放松歌回✨ 伴你入梦的治愈时光🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYEa61Epq?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "ありあまる富",
+  "artist": "椎名林檎",
+  "collection": "【💐歌切】#270[2026-06-07]安眠前放松歌回✨ 伴你入梦的治愈时光🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYEa61Epq?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "六月は雨上がりの街を書く",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】#270[2026-06-07]安眠前放松歌回✨ 伴你入梦的治愈时光🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYEa61Epq?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】#270[2026-06-07]安眠前放松歌回✨ 伴你入梦的治愈时光🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYEa61Epq?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "チノカテ",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】#270[2026-06-07]安眠前放松歌回✨ 伴你入梦的治愈时光🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYEa61Epq?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "愛の花",
+  "artist": "あいみょん",
+  "collection": "【💐歌切】#270[2026-06-07]安眠前放松歌回✨ 伴你入梦的治愈时光🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYEa61Epq?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "朝を呑む",
+  "artist": "バルーン feat. 初音ミク",
+  "collection": "【💐歌切】#270[2026-06-07]安眠前放松歌回✨ 伴你入梦的治愈时光🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYEa61Epq?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "しずかだなあ",
+  "artist": "手嶌葵",
+  "collection": "【💐歌切】#270[2026-06-07]安眠前放松歌回✨ 伴你入梦的治愈时光🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYEa61Epq?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗 feat. ちびた",
+  "collection": "【💐歌切】#270[2026-06-07]安眠前放松歌回✨ 伴你入梦的治愈时光🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYEa61Epq?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "いさな",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】#270[2026-06-07]安眠前放松歌回✨ 伴你入梦的治愈时光🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYEa61Epq?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "裸の心",
+  "artist": "あいみょん",
+  "collection": "【💐歌切】#270[2026-06-07]安眠前放松歌回✨ 伴你入梦的治愈时光🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYEa61Epq?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz feat. 巡音ルカ",
+  "collection": "【💐歌切】#270[2026-06-07]安眠前放松歌回✨ 伴你入梦的治愈时光🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYEa61Epq?p=15",
   "source": "figaro.js"
 }
 );
