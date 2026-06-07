@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 6/7/2026, 10:08:29 PM
+// 生成时间: 6/7/2026, 10:27:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4107,6 +4107,134 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "コントラスト",
+  "artist": "TOMOO",
+  "collection": "【💐🎸歌切】[2026-06-07]星期天中午当然只能唱歌了啊，来一首怎么样！？！？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JZEh6zEet?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "ブルーベリー・ナイツ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【💐🎸歌切】[2026-06-07]星期天中午当然只能唱歌了啊，来一首怎么样！？！？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JZEh6zEet?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-07]星期天中午当然只能唱歌了啊，来一首怎么样！？！？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JZEh6zEet?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-07]星期天中午当然只能唱歌了啊，来一首怎么样！？！？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JZEh6zEet?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "人として",
+  "artist": "SUPER BEAVER",
+  "collection": "【💐🎸歌切】[2026-06-07]星期天中午当然只能唱歌了啊，来一首怎么样！？！？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JZEh6zEet?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【💐🎸歌切】[2026-06-07]星期天中午当然只能唱歌了啊，来一首怎么样！？！？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JZEh6zEet?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【💐🎸歌切】[2026-06-07]星期天中午当然只能唱歌了啊，来一首怎么样！？！？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JZEh6zEet?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【💐🎸歌切】[2026-06-07]星期天中午当然只能唱歌了啊，来一首怎么样！？！？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JZEh6zEet?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "声",
+  "artist": "羊文学",
+  "collection": "【💐🎸歌切】[2026-06-07]星期天中午当然只能唱歌了啊，来一首怎么样！？！？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JZEh6zEet?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "みゆはん",
+  "collection": "【💐🎸歌切】[2026-06-07]星期天中午当然只能唱歌了啊，来一首怎么样！？！？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JZEh6zEet?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "恋人ごっこ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【💐🎸歌切】[2026-06-07]星期天中午当然只能唱歌了啊，来一首怎么样！？！？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JZEh6zEet?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "back number",
+  "collection": "【💐🎸歌切】[2026-06-07]星期天中午当然只能唱歌了啊，来一首怎么样！？！？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JZEh6zEet?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-07]星期天中午当然只能唱歌了啊，来一首怎么样！？！？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JZEh6zEet?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-06-07]星期天中午当然只能唱歌了啊，来一首怎么样！？！？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JZEh6zEet?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "メロウ",
+  "artist": "須田景凪",
+  "collection": "【💐🎸歌切】[2026-06-07]星期天中午当然只能唱歌了啊，来一首怎么样！？！？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JZEh6zEet?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "泣き虫上等",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-06-07]星期天中午当然只能唱歌了啊，来一首怎么样！？！？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JZEh6zEet?p=16",
   "source": "sumica.js"
 }
 );
