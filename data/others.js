@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/7/2026, 7:57:41 PM
+// 生成时间: 6/7/2026, 8:19:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -13779,6 +13779,78 @@ window.SONG_DATA.push(
   "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "また、月の下で",
+  "artist": "あかつきるき",
+  "collection": "歌切 2026-06-06 あかつき るき / Akatsuki Luci remQ9CHNBWk 生日歌回！！！🎂用超大的声音隆重地庆祝！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdEa6fEDP?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "Luna say maybe",
+  "artist": "月村手毬(CV:小鹿なお)",
+  "collection": "歌切 2026-06-06 あかつき るき / Akatsuki Luci remQ9CHNBWk 生日歌回！！！🎂用超大的声音隆重地庆祝！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdEa6fEDP?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "歌切 2026-06-06 あかつき るき / Akatsuki Luci remQ9CHNBWk 生日歌回！！！🎂用超大的声音隆重地庆祝！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdEa6fEDP?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "歌切 2026-06-06 あかつき るき / Akatsuki Luci remQ9CHNBWk 生日歌回！！！🎂用超大的声音隆重地庆祝！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdEa6fEDP?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "奇跡を望むなら...",
+  "artist": "JUJU",
+  "collection": "歌切 2026-06-06 あかつき るき / Akatsuki Luci remQ9CHNBWk 生日歌回！！！🎂用超大的声音隆重地庆祝！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdEa6fEDP?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "やさしさで溢れるように",
+  "artist": "JUJU",
+  "collection": "歌切 2026-06-06 あかつき るき / Akatsuki Luci remQ9CHNBWk 生日歌回！！！🎂用超大的声音隆重地庆祝！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdEa6fEDP?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "Song for...",
+  "artist": "HY",
+  "collection": "歌切 2026-06-06 あかつき るき / Akatsuki Luci remQ9CHNBWk 生日歌回！！！🎂用超大的声音隆重地庆祝！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdEa6fEDP?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "手紙 〜拝啓 十五の君へ〜",
+  "artist": "アンジェラ・アキ",
+  "collection": "歌切 2026-06-06 あかつき るき / Akatsuki Luci remQ9CHNBWk 生日歌回！！！🎂用超大的声音隆重地庆祝！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdEa6fEDP?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "歌切 2026-06-06 あかつき るき / Akatsuki Luci remQ9CHNBWk 生日歌回！！！🎂用超大的声音隆重地庆祝！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QdEa6fEDP?p=9",
   "source": "others.js"
 },
     {
