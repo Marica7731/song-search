@@ -1,6 +1,6 @@
 // HoshiHo - 歌单数据 (多合集汇总)
 // 来源: BV11fQSB2ELX
-// 生成时间: 6/8/2026, 4:18:40 PM
+// 生成时间: 6/8/2026, 4:37:54 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2019,6 +2019,158 @@ window.SONG_DATA.push(
   "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=21",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "アンパンマンのマーチ",
+  "artist": "『それいけ!アンパンマン』ドリーミング",
+  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=1",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "カルマ",
+  "artist": "『テイルズ オブ ジ アビス』BUMP OF CHICKEN",
+  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=2",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "譜歌",
+  "artist": "『テイルズ オブ ジ アビス』ティア・グランツ（ゆかな）",
+  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=3",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "夢であるように",
+  "artist": "『テイルズ オブ デスティニー』DEEN",
+  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=4",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "まもりたい ～White Wishes～",
+  "artist": "『テイルズ オブ グレイセス』BoA",
+  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=5",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ガラスの森(アカペラ)",
+  "artist": "ZABADAK",
+  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=6",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "flying",
+  "artist": "『テイルズ オブ エターニア』GARNET CROW",
+  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=7",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ジョバイロ",
+  "artist": "『今夜ひとりのベッドで』ポルノグラフィティ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=8",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "白夜幻想譚",
+  "artist": "『イリスのアトリエ エターナルマナ』霜月はるか",
+  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=9",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "白夜",
+  "artist": "『サモンナイトエクステーゼ 夜明けの翼』松本英子",
+  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=10",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "DANZEN！ふたりはプリキュア(Ver.Max Heart)",
+  "artist": "『ふたりはプリキュア』五條真由美",
+  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=11",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "What's Up Guys?",
+  "artist": "『爆れつハンター』古本新之輔、林原めぐみ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=12",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "インモラリスト",
+  "artist": "『ドラゴンクライシス！』堀江由衣",
+  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=13",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "IN MY DREAM",
+  "artist": "『ブレンパワード』真行寺恵里",
+  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=14",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "月の繭",
+  "artist": "『∀ガンダム』奥井亜紀",
+  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=15",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ユーフォリア(short ver.)",
+  "artist": "『ARIA The NATURAL』牧野由依",
+  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=16",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "夏待ち",
+  "artist": "『ARIA The NATURAL』ROUND TABLE feat. Nino",
+  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=17",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "carrot (にんじん村一番娘)",
+  "artist": "『ヴィオラートのアトリエ』みずさわゆうき",
+  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=18",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "終端の王と異世界の騎士 ～The Endia & The Knights～",
+  "artist": "『カオスウォーズ』Sound Horizon",
+  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=19",
   "source": "hoshiho.js"
 }
 );

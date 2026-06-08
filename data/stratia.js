@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 6/8/2026, 4:38:24 PM
+// 生成时间: 6/8/2026, 4:57:15 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -683,6 +683,54 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-06-05]弹唱时间到啦🎸🎶🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fHEJ6eE8X?p=6",
+  "source": "stratia.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【🎸🦋歌切】[2026-06-06]突击杂谈 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yaE36REzV?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "スキスキ絶頂症",
+  "artist": "koyori(電ポルP) feat.GUMI",
+  "collection": "【🎸🦋歌切】[2026-06-06]突击杂谈 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yaE36REzV?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "さよならテンダー",
+  "artist": "koyori(電ポルP) feat.初音ミク",
+  "collection": "【🎸🦋歌切】[2026-06-06]突击杂谈 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yaE36REzV?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "きゅうくらりん",
+  "artist": "いよわ feat.可不",
+  "collection": "【🎸🦋歌切】[2026-06-06]突击杂谈 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yaE36REzV?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "おちゃめ機能",
+  "artist": "ゴジマジP feat.重音テト",
+  "collection": "【🎸🦋歌切】[2026-06-06]突击杂谈 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yaE36REzV?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat.GUMI・鏡音リン",
+  "collection": "【🎸🦋歌切】[2026-06-06]突击杂谈 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yaE36REzV?p=6",
   "source": "stratia.js"
 }
 );

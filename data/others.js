@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/8/2026, 4:52:22 PM
+// 生成时间: 6/8/2026, 5:14:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -13851,6 +13851,102 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-06-06 あかつき るき / Akatsuki Luci remQ9CHNBWk 生日歌回！！！🎂用超大的声音隆重地庆祝！！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QdEa6fEDP?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "ドーナツホール",
+  "artist": "ハチ feat.GUMI",
+  "collection": "歌切 2026-06-08 白雪りんご H_g_o5u4hcU 适合午休的几乎不间断歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cfEg6EEsQ?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ニュートンダンス",
+  "artist": "ナユタン星人×Chinozo feat.初音ミク・flower",
+  "collection": "歌切 2026-06-08 白雪りんご H_g_o5u4hcU 适合午休的几乎不间断歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cfEg6EEsQ?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "インタビュア",
+  "artist": "クワガタP feat.巡音ルカ",
+  "collection": "歌切 2026-06-08 白雪りんご H_g_o5u4hcU 适合午休的几乎不间断歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cfEg6EEsQ?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "クリームソーダとシャンデリア",
+  "artist": "mei & Henrii feat.ねんね",
+  "collection": "歌切 2026-06-08 白雪りんご H_g_o5u4hcU 适合午休的几乎不间断歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cfEg6EEsQ?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "メランコリーキッチン",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-06-08 白雪りんご H_g_o5u4hcU 适合午休的几乎不间断歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cfEg6EEsQ?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "リンネ",
+  "artist": "ハチ feat.初音ミク",
+  "collection": "歌切 2026-06-08 白雪りんご H_g_o5u4hcU 适合午休的几乎不间断歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cfEg6EEsQ?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ヤミタイガール",
+  "artist": "れるりり feat.GUMI",
+  "collection": "歌切 2026-06-08 白雪りんご H_g_o5u4hcU 适合午休的几乎不间断歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cfEg6EEsQ?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "夢のまた夢",
+  "artist": "まふまふ",
+  "collection": "歌切 2026-06-08 白雪りんご H_g_o5u4hcU 适合午休的几乎不间断歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cfEg6EEsQ?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "レゾンデイトル・カレイドスコウプ",
+  "artist": "ツミキ feat.初音ミク",
+  "collection": "歌切 2026-06-08 白雪りんご H_g_o5u4hcU 适合午休的几乎不间断歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cfEg6EEsQ?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "リバーシブル・キャンペーン",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "歌切 2026-06-08 白雪りんご H_g_o5u4hcU 适合午休的几乎不间断歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cfEg6EEsQ?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "歌切 2026-06-08 白雪りんご H_g_o5u4hcU 适合午休的几乎不间断歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cfEg6EEsQ?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "歌切 2026-06-08 白雪りんご H_g_o5u4hcU 适合午休的几乎不间断歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cfEg6EEsQ?p=12",
   "source": "others.js"
 },
     {
