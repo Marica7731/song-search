@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 6/8/2026, 4:49:30 PM
+// 生成时间: 6/8/2026, 5:11:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -16579,6 +16579,222 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-06-06]#唱功超强V歌回接力 这次要给大家送上充满反差感的歌哦～ ✧ Singing Relay【V✧ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YLEp6KExk?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "小夜子",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太 feat.歌愛ユキ",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "花束",
+  "artist": "back number",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Wherever you are",
+  "artist": "ONE OK ROCK",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Bad Day",
+  "artist": "Daniel Powter",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Let It Be",
+  "artist": "The Beatles",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=18",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Numb",
+  "artist": "Linkin Park",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=19",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=20",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Departures 〜あなたにおくるアイの歌〜",
+  "artist": "EGOIST",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=21",
+  "source": "ririsya.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=22",
+  "source": "ririsya.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=23",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=24",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ソワレ",
+  "artist": "星街すいせい",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=25",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=26",
+  "source": "ririsya.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=27",
   "source": "ririsya.js"
 }
 );
