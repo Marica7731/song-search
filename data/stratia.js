@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 6/8/2026, 4:57:15 PM
+// 生成时间: 6/8/2026, 5:17:49 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -688,7 +688,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛裁判",
   "artist": "40mP feat.初音ミク",
-  "collection": "【🎸🦋歌切】[2026-06-06]突击杂谈 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋歌切】[2026-06-06]突击歌枠 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yaE36REzV?p=1",
   "source": "stratia.js"
@@ -696,7 +696,7 @@ window.SONG_DATA.push(
     {
   "title": "スキスキ絶頂症",
   "artist": "koyori(電ポルP) feat.GUMI",
-  "collection": "【🎸🦋歌切】[2026-06-06]突击杂谈 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋歌切】[2026-06-06]突击歌枠 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yaE36REzV?p=2",
   "source": "stratia.js"
@@ -704,7 +704,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならテンダー",
   "artist": "koyori(電ポルP) feat.初音ミク",
-  "collection": "【🎸🦋歌切】[2026-06-06]突击杂谈 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋歌切】[2026-06-06]突击歌枠 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yaE36REzV?p=3",
   "source": "stratia.js"
@@ -712,7 +712,7 @@ window.SONG_DATA.push(
     {
   "title": "きゅうくらりん",
   "artist": "いよわ feat.可不",
-  "collection": "【🎸🦋歌切】[2026-06-06]突击杂谈 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋歌切】[2026-06-06]突击歌枠 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yaE36REzV?p=4",
   "source": "stratia.js"
@@ -720,7 +720,7 @@ window.SONG_DATA.push(
     {
   "title": "おちゃめ機能",
   "artist": "ゴジマジP feat.重音テト",
-  "collection": "【🎸🦋歌切】[2026-06-06]突击杂谈 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋歌切】[2026-06-06]突击歌枠 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yaE36REzV?p=5",
   "source": "stratia.js"
@@ -728,7 +728,7 @@ window.SONG_DATA.push(
     {
   "title": "いーあるふぁんくらぶ",
   "artist": "みきとP feat.GUMI・鏡音リン",
-  "collection": "【🎸🦋歌切】[2026-06-06]突击杂谈 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋歌切】[2026-06-06]突击歌枠 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yaE36REzV?p=6",
   "source": "stratia.js"

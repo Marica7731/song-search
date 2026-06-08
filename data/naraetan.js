@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 6/8/2026, 4:27:35 PM
+// 生成时间: 6/8/2026, 4:47:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9739,6 +9739,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "君はロックを聴かない",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "マイ フレンド",
+  "artist": "ZARD",
+  "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Habit",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Here",
+  "artist": "JUNNA",
+  "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師,宇多田ヒカル",
+  "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "オルフェンズの涙",
+  "artist": "Misia",
+  "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アイノカタチ",
+  "artist": "MISIA",
+  "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=11",
   "source": "naraetan.js"
 },
     {
