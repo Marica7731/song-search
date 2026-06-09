@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 6/9/2026, 9:06:38 PM
+// 生成时间: 6/9/2026, 9:33:34 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -475,6 +475,70 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-06]7/18个人Live门票卖不完就没法收场？！帮帮忙吧！！ 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RLEp6KEXi?p=13",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-06-09]偏头痛统统赶走，打起精神来唱歌！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hTEU6qEZT?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "キングスレイヤー",
+  "artist": "マイキP feat. 初音ミク",
+  "collection": "【歌切】[2026-06-09]偏头痛统统赶走，打起精神来唱歌！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hTEU6qEZT?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "magnet",
+  "artist": "minato(流星P) feat. 初音ミク・巡音ルカ",
+  "collection": "【歌切】[2026-06-09]偏头痛统统赶走，打起精神来唱歌！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hTEU6qEZT?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "レディメイド",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-09]偏头痛统统赶走，打起精神来唱歌！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hTEU6qEZT?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "海へ",
+  "artist": "syh",
+  "collection": "【歌切】[2026-06-09]偏头痛统统赶走，打起精神来唱歌！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hTEU6qEZT?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "【歌切】[2026-06-09]偏头痛统统赶走，打起精神来唱歌！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hTEU6qEZT?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "命ばっかり",
+  "artist": "ぬゆり feat. v flower・結月ゆかり",
+  "collection": "【歌切】[2026-06-09]偏头痛统统赶走，打起精神来唱歌！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hTEU6qEZT?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "敗北の少年",
+  "artist": "kemu feat. GUMI",
+  "collection": "【歌切】[2026-06-09]偏头痛统统赶走，打起精神来唱歌！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hTEU6qEZT?p=8",
   "source": "hinachibi.js"
 }
 );

@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/9/2026, 9:15:14 PM
+// 生成时间: 6/9/2026, 9:42:04 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14027,6 +14027,110 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-06-08 白雪りんご H_g_o5u4hcU 适合午休的几乎不间断歌回🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cfEg6EEsQ?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "終末じゃない",
+  "artist": "ぬゆり feat.flower",
+  "collection": "歌切 2026-06-10 白雪りんご UQlexlMhXLA 梅雨季到了意味着？？？没错，是歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aPEU6zEqo?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "レディーレ",
+  "artist": "バルーン feat.flower",
+  "collection": "歌切 2026-06-10 白雪りんご UQlexlMhXLA 梅雨季到了意味着？？？没错，是歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aPEU6zEqo?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ジェヘナ",
+  "artist": "wotaku feat.初音ミク",
+  "collection": "歌切 2026-06-10 白雪りんご UQlexlMhXLA 梅雨季到了意味着？？？没错，是歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aPEU6zEqo?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "リテラシー",
+  "artist": "wotaku feat.KAITO",
+  "collection": "歌切 2026-06-10 白雪りんご UQlexlMhXLA 梅雨季到了意味着？？？没错，是歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aPEU6zEqo?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "リバーシブル・キャンペーン",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "歌切 2026-06-10 白雪りんご UQlexlMhXLA 梅雨季到了意味着？？？没错，是歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aPEU6zEqo?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ロウワー",
+  "artist": "ぬゆり feat.flower",
+  "collection": "歌切 2026-06-10 白雪りんご UQlexlMhXLA 梅雨季到了意味着？？？没错，是歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aPEU6zEqo?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "三日月ステップ",
+  "artist": "r-906 feat.初音ミク",
+  "collection": "歌切 2026-06-10 白雪りんご UQlexlMhXLA 梅雨季到了意味着？？？没错，是歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aPEU6zEqo?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん feat.IA",
+  "collection": "歌切 2026-06-10 白雪りんご UQlexlMhXLA 梅雨季到了意味着？？？没错，是歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aPEU6zEqo?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "帝国少女",
+  "artist": "R Sound Design feat.初音ミク",
+  "collection": "歌切 2026-06-10 白雪りんご UQlexlMhXLA 梅雨季到了意味着？？？没错，是歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aPEU6zEqo?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat.初音ミク",
+  "collection": "歌切 2026-06-10 白雪りんご UQlexlMhXLA 梅雨季到了意味着？？？没错，是歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aPEU6zEqo?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat.初音ミク",
+  "collection": "歌切 2026-06-10 白雪りんご UQlexlMhXLA 梅雨季到了意味着？？？没错，是歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aPEU6zEqo?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat.初音ミク",
+  "collection": "歌切 2026-06-10 白雪りんご UQlexlMhXLA 梅雨季到了意味着？？？没错，是歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aPEU6zEqo?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "ワールド・ランプシェード",
+  "artist": "buzzG feat.GUMI",
+  "collection": "歌切 2026-06-10 白雪りんご UQlexlMhXLA 梅雨季到了意味着？？？没错，是歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aPEU6zEqo?p=13",
   "source": "others.js"
 },
     {

@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 6/9/2026, 9:10:04 PM
+// 生成时间: 6/9/2026, 9:36:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1195,6 +1195,222 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-06]来度过一个美好的假日吧～🐻‍❄️初见的朋友也请务必来玩！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BPEp6CE8g?p=33",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ホシアイ",
+  "artist": "レフティーモンスターP feat.GUMI",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "空奏列車",
+  "artist": "Orangestar feat.IA・初音ミク",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "きみだけは。",
+  "artist": "天月-あまつき-",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "イデア",
+  "artist": "天月-あまつき-",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アポロ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Beyond the way",
+  "artist": "Giga feat.初音ミク・鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "パンダヒーロー",
+  "artist": "ハチ feat.GUMI",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "懺悔参り",
+  "artist": "羽生まゐご feat.flower",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "きゅうくらりん",
+  "artist": "いよわ feat.可不",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ジッタードール",
+  "artist": "niki feat.Lily",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "一心不乱",
+  "artist": "梅とら feat.巡音ルカ・初音ミク・GUMI",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "虎視眈々",
+  "artist": "梅とら feat.巡音ルカ・初音ミク・GUMI・IA・鏡音リン",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "威風堂々",
+  "artist": "梅とら feat.巡音ルカ・初音ミク・GUMI・IA・鏡音リン",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "命のユースティティア",
+  "artist": "Neru feat.鏡音レン",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "プロローグ",
+  "artist": "Uru",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "点描の唄",
+  "artist": "Mrs. GREEN APPLE feat.井上苑子",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "愛が灯る",
+  "artist": "ロクデナシ",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=26",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班 (Acoustic ver.)",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=27",
   "source": "ibaramuan.js"
 }
 );

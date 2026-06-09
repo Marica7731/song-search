@@ -1,6 +1,6 @@
 // 323 - 歌单数据 (多合集汇总)
 // 来源: BV1r75B6LEwd
-// 生成时间: 6/9/2026, 9:10:38 PM
+// 生成时间: 6/9/2026, 9:37:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1107,6 +1107,166 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-03]初見◎BGM◎不输给台风的悠闲歌回！ 323(みすみ)　-Misumi-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1z57R6AEXp?p=14",
+  "source": "323.js"
+},
+    {
+  "title": "東京ミッドナイト",
+  "artist": "milkyTrap",
+  "collection": "【歌切】[2026-06-09]只唱带感的歌 - 歌回 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gRED6VE9y?p=1",
+  "source": "323.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-06-09]只唱带感的歌 - 歌回 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gRED6VE9y?p=2",
+  "source": "323.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-06-09]只唱带感的歌 - 歌回 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gRED6VE9y?p=3",
+  "source": "323.js"
+},
+    {
+  "title": "染まるよ",
+  "artist": "チャットモンチー",
+  "collection": "【歌切】[2026-06-09]只唱带感的歌 - 歌回 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gRED6VE9y?p=4",
+  "source": "323.js"
+},
+    {
+  "title": "世界が終わる夜に",
+  "artist": "チャットモンチー",
+  "collection": "【歌切】[2026-06-09]只唱带感的歌 - 歌回 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gRED6VE9y?p=5",
+  "source": "323.js"
+},
+    {
+  "title": "花は桜 君は美し",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-09]只唱带感的歌 - 歌回 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gRED6VE9y?p=6",
+  "source": "323.js"
+},
+    {
+  "title": "セイシュンライナー",
+  "artist": "蝶々P feat.GUMI",
+  "collection": "【歌切】[2026-06-09]只唱带感的歌 - 歌回 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gRED6VE9y?p=7",
+  "source": "323.js"
+},
+    {
+  "title": "ハイパーリアリスト",
+  "artist": "パスピエ",
+  "collection": "【歌切】[2026-06-09]只唱带感的歌 - 歌回 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gRED6VE9y?p=8",
+  "source": "323.js"
+},
+    {
+  "title": "刹那プラス",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-06-09]只唱带感的歌 - 歌回 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gRED6VE9y?p=9",
+  "source": "323.js"
+},
+    {
+  "title": "心臓デモクラシー",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-06-09]只唱带感的歌 - 歌回 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gRED6VE9y?p=10",
+  "source": "323.js"
+},
+    {
+  "title": "曖昧劣情Lover",
+  "artist": "電ポルP feat.flower",
+  "collection": "【歌切】[2026-06-09]只唱带感的歌 - 歌回 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gRED6VE9y?p=11",
+  "source": "323.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-09]只唱带感的歌 - 歌回 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gRED6VE9y?p=12",
+  "source": "323.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "月見ヤチヨ",
+  "collection": "【歌切】[2026-06-09]只唱带感的歌 - 歌回 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gRED6VE9y?p=13",
+  "source": "323.js"
+},
+    {
+  "title": "ray(超かぐや姫!Version)",
+  "artist": "かぐや,月見ヤチヨ",
+  "collection": "【歌切】[2026-06-09]只唱带感的歌 - 歌回 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gRED6VE9y?p=14",
+  "source": "323.js"
+},
+    {
+  "title": "アゲハ蝶",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-06-09]只唱带感的歌 - 歌回 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gRED6VE9y?p=15",
+  "source": "323.js"
+},
+    {
+  "title": "エジソン",
+  "artist": "水曜日のカンパネラ",
+  "collection": "【歌切】[2026-06-09]只唱带感的歌 - 歌回 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gRED6VE9y?p=16",
+  "source": "323.js"
+},
+    {
+  "title": "secret base 〜君がくれたもの〜",
+  "artist": "ZONE",
+  "collection": "【歌切】[2026-06-09]只唱带感的歌 - 歌回 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gRED6VE9y?p=17",
+  "source": "323.js"
+},
+    {
+  "title": "君と夏フェス",
+  "artist": "SHISHAMO",
+  "collection": "【歌切】[2026-06-09]只唱带感的歌 - 歌回 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gRED6VE9y?p=18",
+  "source": "323.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO×米津玄師",
+  "collection": "【歌切】[2026-06-09]只唱带感的歌 - 歌回 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gRED6VE9y?p=19",
+  "source": "323.js"
+},
+    {
+  "title": "東京ミッドナイト",
+  "artist": "milkyTrap",
+  "collection": "【歌切】[2026-06-09]只唱带感的歌 - 歌回 323(みすみ)　-Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gRED6VE9y?p=20",
   "source": "323.js"
 }
 );
