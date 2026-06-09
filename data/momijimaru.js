@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 6/9/2026, 7:45:17 PM
+// 生成时间: 6/9/2026, 8:05:56 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7211,6 +7211,110 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=50",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "夜咄ディセイブ",
+  "artist": "じん feat. IA",
+  "collection": "【🍁歌切】[2026-06-09]用帅气歌曲让你着迷的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eFEU6GEe6?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ゴーストルール",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-09]用帅气歌曲让你着迷的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eFEU6GEe6?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ワールズエンド・ダンスホール",
+  "artist": "wowaka feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-09]用帅气歌曲让你着迷的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eFEU6GEe6?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【🍁歌切】[2026-06-09]用帅气歌曲让你着迷的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eFEU6GEe6?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "フィクサー",
+  "artist": "ぬゆり feat. flower",
+  "collection": "【🍁歌切】[2026-06-09]用帅气歌曲让你着迷的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eFEU6GEe6?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一二三",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-06-09]用帅气歌曲让你着迷的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eFEU6GEe6?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ナンセンス",
+  "artist": "Penthouse",
+  "collection": "【🍁歌切】[2026-06-09]用帅气歌曲让你着迷的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eFEU6GEe6?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "PLATONIC GIRL",
+  "artist": "みきとP feat. GUMI",
+  "collection": "【🍁歌切】[2026-06-09]用帅气歌曲让你着迷的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eFEU6GEe6?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "LOSER",
+  "artist": "米津玄師",
+  "collection": "【🍁歌切】[2026-06-09]用帅气歌曲让你着迷的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eFEU6GEe6?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-09]用帅气歌曲让你着迷的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eFEU6GEe6?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【🍁歌切】[2026-06-09]用帅气歌曲让你着迷的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eFEU6GEe6?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "一旦ステイ TONIGHT",
+  "artist": "不破湊",
+  "collection": "【🍁歌切】[2026-06-09]用帅气歌曲让你着迷的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eFEU6GEe6?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP feat. 鏡音リン",
+  "collection": "【🍁歌切】[2026-06-09]用帅气歌曲让你着迷的歌回✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eFEU6GEe6?p=13",
   "source": "momijimaru.js"
 }
 );

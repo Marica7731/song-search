@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 6/9/2026, 8:19:06 PM
+// 生成时间: 6/9/2026, 8:38:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -731,6 +731,62 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-06-06]突击歌枠 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yaE36REzV?p=6",
+  "source": "stratia.js"
+},
+    {
+  "title": "栞",
+  "artist": "クリープハイプ",
+  "collection": "【🎸🦋歌切】[2026-06-09]今日是初次直播满一个月‼ 歌回🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B9Em6jEYC?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "今夜このまま",
+  "artist": "あいみょん",
+  "collection": "【🎸🦋歌切】[2026-06-09]今日是初次直播满一个月‼ 歌回🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B9Em6jEYC?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "裸の心",
+  "artist": "あいみょん",
+  "collection": "【🎸🦋歌切】[2026-06-09]今日是初次直播满一个月‼ 歌回🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B9Em6jEYC?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "オッドアイ",
+  "artist": "さユり",
+  "collection": "【🎸🦋歌切】[2026-06-09]今日是初次直播满一个月‼ 歌回🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B9Em6jEYC?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "ふうせん",
+  "artist": "さユり",
+  "collection": "【🎸🦋歌切】[2026-06-09]今日是初次直播满一个月‼ 歌回🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B9Em6jEYC?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "はじめてのチュウ",
+  "artist": "あんしんパパ",
+  "collection": "【🎸🦋歌切】[2026-06-09]今日是初次直播满一个月‼ 歌回🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B9Em6jEYC?p=6",
+  "source": "stratia.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🎸🦋歌切】[2026-06-09]今日是初次直播满一个月‼ 歌回🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B9Em6jEYC?p=7",
   "source": "stratia.js"
 }
 );
