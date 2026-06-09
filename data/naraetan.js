@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 6/9/2026, 9:28:02 PM
+// 生成时间: 6/9/2026, 9:49:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9827,6 +9827,118 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "LOSER",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV151ED6JEen?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "あんなに一緒だったのに",
+  "artist": "See-Saw",
+  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV151ED6JEen?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "名前を呼ぶよ",
+  "artist": "ラックライフ",
+  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV151ED6JEen?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夏の幻",
+  "artist": "GARNET CROW",
+  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV151ED6JEen?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夏の在りか",
+  "artist": "H△G",
+  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV151ED6JEen?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV151ED6JEen?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "シャボン玉",
+  "artist": "モーニング娘。",
+  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV151ED6JEen?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV151ED6JEen?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "不完全燃焼",
+  "artist": "石川智晶",
+  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV151ED6JEen?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "プレイバックPart2",
+  "artist": "山口百恵",
+  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV151ED6JEen?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Catch the Moment",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV151ED6JEen?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "甲賀忍法帖",
+  "artist": "陰陽座",
+  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV151ED6JEen?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV151ED6JEen?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ダイアモンドクレバス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV151ED6JEen?p=14",
   "source": "naraetan.js"
 },
     {
