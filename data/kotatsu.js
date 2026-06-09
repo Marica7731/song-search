@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 6/9/2026, 8:24:01 PM
+// 生成时间: 6/9/2026, 8:44:55 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5675,6 +5675,198 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-06-09]睡眠・工作用直播｜直到雨滴入睡 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SYE76EEki?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "boyfriend",
+  "artist": "阿部真央",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "漂流劇団",
+  "artist": "ズーカラデル",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "愛のうた",
+  "artist": "ストロベリー・フラワー",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "fish",
+  "artist": "back number",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "月明かりのように",
+  "artist": "はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "バンド",
+  "artist": "クリープハイプ",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "生きてることが辛いなら",
+  "artist": "森山直太朗",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "かぞえうた",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Burning Friday Night",
+  "artist": "Lucky Kilimanjaro",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "会いたかった",
+  "artist": "AKB48",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "朝顔",
+  "artist": "コブクロ",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜紛い",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "かなしいうた",
+  "artist": "工藤祐次郎",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗 feat. ちびた",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ノンフィクション",
+  "artist": "平井堅",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "俺色スカイ",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "エクレア",
+  "artist": "岡崎体育",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "感情七号線",
+  "artist": "フラワーカンパニーズ",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "春に一番近い街",
+  "artist": "40mP feat. GUMI",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=24",
   "source": "kotatsu.js"
 }
 );
