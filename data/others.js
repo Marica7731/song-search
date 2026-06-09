@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/9/2026, 10:27:24 AM
+// 生成时间: 6/9/2026, 11:01:35 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3659,6 +3659,86 @@ window.SONG_DATA.push(
   "collection": "【🦇歌切】[2026-06-04]回顾与歌唱 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QTEN6mEG5?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ハロ／ハワユ",
+  "artist": "ナノウ(ほえほえP) feat.初音ミク",
+  "collection": "【🦇歌切】[2026-06-08]原声吉他伴奏限定 @雨天☂︎｜舒缓的歌单第32弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h3EE6pEab?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【🦇歌切】[2026-06-08]原声吉他伴奏限定 @雨天☂︎｜舒缓的歌单第32弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h3EE6pEab?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【🦇歌切】[2026-06-08]原声吉他伴奏限定 @雨天☂︎｜舒缓的歌单第32弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h3EE6pEab?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "瞬き",
+  "artist": "back number",
+  "collection": "【🦇歌切】[2026-06-08]原声吉他伴奏限定 @雨天☂︎｜舒缓的歌单第32弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h3EE6pEab?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【🦇歌切】[2026-06-08]原声吉他伴奏限定 @雨天☂︎｜舒缓的歌单第32弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h3EE6pEab?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "雨き声残響",
+  "artist": "Orangestar feat.IA",
+  "collection": "【🦇歌切】[2026-06-08]原声吉他伴奏限定 @雨天☂︎｜舒缓的歌单第32弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h3EE6pEab?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "Ref:rain",
+  "artist": "Aimer",
+  "collection": "【🦇歌切】[2026-06-08]原声吉他伴奏限定 @雨天☂︎｜舒缓的歌单第32弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h3EE6pEab?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【🦇歌切】[2026-06-08]原声吉他伴奏限定 @雨天☂︎｜舒缓的歌单第32弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h3EE6pEab?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【🦇歌切】[2026-06-08]原声吉他伴奏限定 @雨天☂︎｜舒缓的歌单第32弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h3EE6pEab?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【🦇歌切】[2026-06-08]原声吉他伴奏限定 @雨天☂︎｜舒缓的歌单第32弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h3EE6pEab?p=10",
   "source": "others.js"
 },
     {
