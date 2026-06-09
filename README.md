@@ -143,12 +143,13 @@ song-search/
 <!-- SONG_GROWTH_START -->
 ## 歌曲总量日报
 
-- 最新总曲数：**28467**
-- 更新时间（上海时间）：2026/06/09 15:50:30
+- 最新总曲数：**28486**
+- 更新时间（上海时间）：2026/06/10 02:06:27
 - 完整页面：[`song-growth.html`](./song-growth.html)
 
 | 日期 | 总曲数 | 较前一日增量 |
 |---|---:|---:|
+| 2026-06-10 | 28486 | <span style="color:#28a745;">+19</span> |
 | 2026-06-09 | 28467 | <span style="color:#28a745;">+75</span> |
 | 2026-06-08 | 28392 | <span style="color:#28a745;">+229</span> |
 | 2026-06-07 | 28163 | <span style="color:#28a745;">+366</span> |
@@ -162,6 +163,5 @@ song-search/
 | 2026-05-30 | 26317 | <span style="color:#28a745;">+166</span> |
 | 2026-05-29 | 26151 | <span style="color:#28a745;">+123</span> |
 | 2026-05-28 | 26028 | <span style="color:#28a745;">+80</span> |
-| 2026-05-27 | 25948 | <span style="color:#28a745;">+122</span> |
 <!-- SONG_GROWTH_END -->
 
