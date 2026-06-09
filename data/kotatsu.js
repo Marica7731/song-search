@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 6/9/2026, 10:46:35 AM
+// 生成时间: 6/9/2026, 11:06:41 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5603,6 +5603,78 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=45",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-06-09]睡眠・工作用直播｜直到雨滴入睡 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SYE76EEki?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ピノ",
+  "artist": "ズーカラデル",
+  "collection": "【♧🎸歌切】[2026-06-09]睡眠・工作用直播｜直到雨滴入睡 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SYE76EEki?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "サヨナラCOLOR",
+  "artist": "SUPER BUTTER DOG",
+  "collection": "【♧🎸歌切】[2026-06-09]睡眠・工作用直播｜直到雨滴入睡 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SYE76EEki?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "素晴らしき今日の始まり",
+  "artist": "GOOD ON THE REEL",
+  "collection": "【♧🎸歌切】[2026-06-09]睡眠・工作用直播｜直到雨滴入睡 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SYE76EEki?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "正解",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-06-09]睡眠・工作用直播｜直到雨滴入睡 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SYE76EEki?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "青い空",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-06-09]睡眠・工作用直播｜直到雨滴入睡 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SYE76EEki?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ふたりの世界",
+  "artist": "あいみょん",
+  "collection": "【♧🎸歌切】[2026-06-09]睡眠・工作用直播｜直到雨滴入睡 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SYE76EEki?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "グレーマンのせいにする",
+  "artist": "クリープハイプ",
+  "collection": "【♧🎸歌切】[2026-06-09]睡眠・工作用直播｜直到雨滴入睡 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SYE76EEki?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【♧🎸歌切】[2026-06-09]睡眠・工作用直播｜直到雨滴入睡 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SYE76EEki?p=9",
   "source": "kotatsu.js"
 }
 );
