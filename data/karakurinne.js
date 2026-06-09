@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 6/9/2026, 7:43:24 PM
+// 生成时间: 6/9/2026, 8:00:42 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -955,6 +955,38 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-07]下午三点的悠闲歌回！！ からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jUEa6vEi1?p=12",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-06-09]从首次直播到现在已经一个月了！！充满感谢与感动的歌回！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EYEU6SEwe?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "コトノハ",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-06-09]从首次直播到现在已经一个月了！！充满感谢与感动的歌回！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EYEU6SEwe?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【歌切】[2026-06-09]从首次直播到现在已经一个月了！！充满感谢与感动的歌回！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EYEU6SEwe?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "night whisper",
+  "artist": "からくりんね",
+  "collection": "【歌切】[2026-06-09]从首次直播到现在已经一个月了！！充满感谢与感动的歌回！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EYEU6SEwe?p=4",
   "source": "karakurinne.js"
 }
 );
