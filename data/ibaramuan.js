@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 6/10/2026, 3:11:00 AM
+// 生成时间: 6/10/2026, 3:31:00 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1406,7 +1406,7 @@ window.SONG_DATA.push(
   "source": "ibaramuan.js"
 },
     {
-  "title": "アスノヨゾラ哨戒班 (Acoustic ver.)",
+  "title": "アスノヨゾラ哨戒班",
   "artist": "Orangestar feat.IA",
   "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
