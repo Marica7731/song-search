@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 6/10/2026, 6:39:59 AM
+// 生成时间: 6/10/2026, 7:00:54 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5939,6 +5939,198 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-07]动漫歌曲歌回！！ 朱名 / SHUNA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SPEY6WE42?p=25",
+  "source": "shuna.js"
+},
+    {
+  "title": "サンキュー。",
+  "artist": "大原櫻子",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=1",
+  "source": "shuna.js"
+},
+    {
+  "title": "どんなときも。",
+  "artist": "槇原敬之",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=2",
+  "source": "shuna.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=3",
+  "source": "shuna.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=4",
+  "source": "shuna.js"
+},
+    {
+  "title": "もう恋なんてしない",
+  "artist": "槇原敬之",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=5",
+  "source": "shuna.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=6",
+  "source": "shuna.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "Whiteberry",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=7",
+  "source": "shuna.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=8",
+  "source": "shuna.js"
+},
+    {
+  "title": "パレード",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=9",
+  "source": "shuna.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=10",
+  "source": "shuna.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=11",
+  "source": "shuna.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=12",
+  "source": "shuna.js"
+},
+    {
+  "title": "メトロノーム",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=13",
+  "source": "shuna.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=14",
+  "source": "shuna.js"
+},
+    {
+  "title": "元気を出して",
+  "artist": "竹内まりや",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=15",
+  "source": "shuna.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=16",
+  "source": "shuna.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=17",
+  "source": "shuna.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=18",
+  "source": "shuna.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=19",
+  "source": "shuna.js"
+},
+    {
+  "title": "逆光",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=20",
+  "source": "shuna.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=21",
+  "source": "shuna.js"
+},
+    {
+  "title": "頑張ったっていいんじゃない",
+  "artist": "大原櫻子(from MUSH&Co.)",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=22",
+  "source": "shuna.js"
+},
+    {
+  "title": "明日も",
+  "artist": "MUSH&Co.",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=23",
+  "source": "shuna.js"
+},
+    {
+  "title": "愛をこめて花束を",
+  "artist": "Superfly",
+  "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=24",
   "source": "shuna.js"
 }
 );
