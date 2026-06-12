@@ -43,6 +43,55 @@
     }).join('');
   }
 
+  function getNavItem(activeKey) {
+    return navItems.find((item) => item.key === activeKey) || navItems[0];
+  }
+
+  function ensureMobileShellNav(activeKey) {
+    const sidebar = document.querySelector('.culua-sidebar');
+    const brand = sidebar && sidebar.querySelector('.culua-brand');
+    if (!activeKey || !sidebar || !brand) return;
+
+    let compact = sidebar.querySelector('.culua-mobile-nav-compact');
+    if (!compact) {
+      compact = document.createElement('div');
+      compact.className = 'culua-mobile-nav-compact';
+
+      const current = document.createElement('span');
+      current.className = 'culua-mobile-current';
+
+      const toggle = document.createElement('button');
+      toggle.className = 'culua-mobile-nav-toggle';
+      toggle.type = 'button';
+      toggle.textContent = '页面';
+      toggle.setAttribute('aria-label', '展开页面导航');
+      toggle.setAttribute('aria-expanded', 'false');
+
+      toggle.addEventListener('click', () => {
+        const open = !sidebar.classList.contains('culua-mobile-nav-open');
+        sidebar.classList.toggle('culua-mobile-nav-open', open);
+        toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+
+      const nav = sidebar.querySelector('.culua-shell-nav');
+      if (nav) {
+        nav.addEventListener('click', (event) => {
+          if (!(event.target instanceof Element) || !event.target.closest('.culua-shell-nav-item')) return;
+          sidebar.classList.remove('culua-mobile-nav-open');
+          toggle.setAttribute('aria-expanded', 'false');
+        });
+      }
+
+      compact.append(current, toggle);
+      brand.insertAdjacentElement('afterend', compact);
+    }
+
+    const current = compact.querySelector('.culua-mobile-current');
+    if (current) {
+      current.textContent = getNavItem(activeKey).title;
+    }
+  }
+
   function syncShell(activeKey) {
     if (!activeKey) return;
     document.body.classList.add('culua-shell-page', `culua-shell-${activeKey}`);
@@ -57,6 +106,7 @@
         link.removeAttribute('aria-current');
       }
     });
+    ensureMobileShellNav(activeKey);
   }
 
   function applyShell() {
@@ -74,7 +124,7 @@
     shell.innerHTML = `
       <aside class="culua-sidebar">
         <div class="culua-brand">
-          <div class="culua-brand-title">culua.com</div>
+          <div class="culua-brand-title">CULUA</div>
         </div>
         <nav class="culua-shell-nav" aria-label="页面导航">${renderNav(activeKey)}</nav>
       </aside>
@@ -90,6 +140,7 @@
       content.appendChild(node);
     });
     document.body.insertBefore(shell, document.body.firstChild);
+    ensureMobileShellNav(activeKey);
   }
 
   applyShell();
