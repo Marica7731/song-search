@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 6/12/2026, 10:57:48 PM
+// 生成时间: 6/12/2026, 11:08:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1467,6 +1467,190 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-03]想唱就唱不就好了嘛 羽澄さひろ / Hasumi Sahiro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRV16gEvH?p=21",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "君に届け",
+  "artist": "flumpool",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "遥か",
+  "artist": "GReeeeN",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Beautiful World",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "崖の上のポニョ",
+  "artist": "藤岡藤巻と大橋のぞみ",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Rain",
+  "artist": "秦基博",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Catch You Catch Me",
+  "artist": "グミ",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ふわふわ時間",
+  "artist": "桜高軽音部",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "LOVEマシーン",
+  "artist": "モーニング娘。",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "スキスキ絶頂症",
+  "artist": "koyori(電ポルP) feat.GUMI",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "アンハッピーリフレイン",
+  "artist": "wowaka feat.初音ミク",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=14",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "イドラのサーカス",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=15",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "スイートマジック",
+  "artist": "ろん×Junky",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=16",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "世界寿命と最後の一日",
+  "artist": "スズム feat.GUMI",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=17",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ⅢトゥルティンアンテナⅢ",
+  "artist": "レタスP feat.鏡音レン",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=18",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ラブ＆デストロイ",
+  "artist": "MI8k feat.GUMI",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=19",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "月陽-ツキアカリ-",
+  "artist": "みきとP feat.GUMI",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=20",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ディジーディジー",
+  "artist": "蜂屋ななし feat.初音ミク・Ado",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=21",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ダーリンダンス",
+  "artist": "かいりきベア feat.初音ミク",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=22",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "家に帰ると妻が必ず死んだふりをしています。",
+  "artist": "ほぼ日P feat.初音ミク",
+  "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=23",
   "source": "hasumisahiro.js"
 }
 );
