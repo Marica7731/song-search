@@ -1,6 +1,6 @@
 // ななし律歌 - 歌单数据 (多合集汇总)
 // 来源: BV1wHQVBTEU5
-// 生成时间: 6/12/2026, 3:47:05 PM
+// 生成时间: 6/12/2026, 3:59:47 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -499,6 +499,174 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-06]稍微放松一下的弹唱歌回 ななし律歌 / Nanashi Rikka",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DeEJ6xERC?p=5",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=1",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=2",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "真赤",
+  "artist": "My Hair is Bad",
+  "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=3",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=4",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "鯨の唄",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=5",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "瞬き",
+  "artist": "back number",
+  "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=6",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "逆光",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=7",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "金曜日のおはよう",
+  "artist": "HoneyWorks feat.GUMI",
+  "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=8",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "GLAMOROUS SKY",
+  "artist": "NANA starring MIKA NAKASHIMA",
+  "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=9",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ハイド・アンド・シーク",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=10",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "泥中に咲く",
+  "artist": "HarryP feat.初音ミク",
+  "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=11",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "アンノウン・マザーグース",
+  "artist": "wowaka feat.初音ミク",
+  "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=12",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Gimme×Gimme",
+  "artist": "八王子P×Giga feat.初音ミク・鏡音リン",
+  "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=13",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "え？あぁ、そう。",
+  "artist": "蝶々P feat.初音ミク",
+  "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=14",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ラブ＆デストロイ",
+  "artist": "MI8k feat.GUMI",
+  "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=15",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "嗤うマネキン",
+  "artist": "MI8k feat.GUMI",
+  "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=16",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "声",
+  "artist": "HarryP feat.初音ミク",
+  "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=17",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太 feat.歌愛ユキ",
+  "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=18",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=19",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat.GUMI",
+  "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=20",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP feat.初音ミク",
+  "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=21",
   "source": "nanashirikka.js"
 }
 );
