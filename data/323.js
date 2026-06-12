@@ -1,6 +1,6 @@
 // 323 - 歌单数据 (多合集汇总)
 // 来源: BV1r75B6LEwd
-// 生成时间: 6/12/2026, 3:11:37 PM
+// 生成时间: 6/12/2026, 3:20:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1347,6 +1347,166 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-10]想遇见10位初次见面的朋友！来唱歌！ 323(みすみ) -Misumi-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eEEo6wEsj?p=10",
+  "source": "323.js"
+},
+    {
+  "title": "ロビンソン",
+  "artist": "スピッツ",
+  "collection": "【歌切】323[2026-06-11]初见◎BGM◎深夜的陪伴🌙来一起如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L4J56SEbg?p=1",
+  "source": "323.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "【歌切】323[2026-06-11]初见◎BGM◎深夜的陪伴🌙来一起如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L4J56SEbg?p=2",
+  "source": "323.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【歌切】323[2026-06-11]初见◎BGM◎深夜的陪伴🌙来一起如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L4J56SEbg?p=3",
+  "source": "323.js"
+},
+    {
+  "title": "明日、春が来たら",
+  "artist": "松たか子",
+  "collection": "【歌切】323[2026-06-11]初见◎BGM◎深夜的陪伴🌙来一起如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L4J56SEbg?p=4",
+  "source": "323.js"
+},
+    {
+  "title": "ルージュの伝言",
+  "artist": "松任谷由実",
+  "collection": "【歌切】323[2026-06-11]初见◎BGM◎深夜的陪伴🌙来一起如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L4J56SEbg?p=5",
+  "source": "323.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【歌切】323[2026-06-11]初见◎BGM◎深夜的陪伴🌙来一起如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L4J56SEbg?p=6",
+  "source": "323.js"
+},
+    {
+  "title": "Beautiful World",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】323[2026-06-11]初见◎BGM◎深夜的陪伴🌙来一起如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L4J56SEbg?p=7",
+  "source": "323.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】323[2026-06-11]初见◎BGM◎深夜的陪伴🌙来一起如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L4J56SEbg?p=8",
+  "source": "323.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN feat.鏡音リン",
+  "collection": "【歌切】323[2026-06-11]初见◎BGM◎深夜的陪伴🌙来一起如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L4J56SEbg?p=9",
+  "source": "323.js"
+},
+    {
+  "title": "恋するフォーチュンクッキー",
+  "artist": "AKB48",
+  "collection": "【歌切】323[2026-06-11]初见◎BGM◎深夜的陪伴🌙来一起如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L4J56SEbg?p=10",
+  "source": "323.js"
+},
+    {
+  "title": "会いたかった",
+  "artist": "AKB48",
+  "collection": "【歌切】323[2026-06-11]初见◎BGM◎深夜的陪伴🌙来一起如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L4J56SEbg?p=11",
+  "source": "323.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "安次嶺希和子",
+  "collection": "【歌切】323[2026-06-11]初见◎BGM◎深夜的陪伴🌙来一起如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L4J56SEbg?p=12",
+  "source": "323.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【歌切】323[2026-06-11]初见◎BGM◎深夜的陪伴🌙来一起如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L4J56SEbg?p=13",
+  "source": "323.js"
+},
+    {
+  "title": "森の小さなレストラン",
+  "artist": "手嶌葵",
+  "collection": "【歌切】323[2026-06-11]初见◎BGM◎深夜的陪伴🌙来一起如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L4J56SEbg?p=14",
+  "source": "323.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【歌切】323[2026-06-11]初见◎BGM◎深夜的陪伴🌙来一起如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L4J56SEbg?p=15",
+  "source": "323.js"
+},
+    {
+  "title": "だから僕は音楽をやめた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】323[2026-06-11]初见◎BGM◎深夜的陪伴🌙来一起如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L4J56SEbg?p=16",
+  "source": "323.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】323[2026-06-11]初见◎BGM◎深夜的陪伴🌙来一起如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L4J56SEbg?p=17",
+  "source": "323.js"
+},
+    {
+  "title": "東京ミッドナイト",
+  "artist": "milkyTrap",
+  "collection": "【歌切】323[2026-06-11]初见◎BGM◎深夜的陪伴🌙来一起如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L4J56SEbg?p=18",
+  "source": "323.js"
+},
+    {
+  "title": "世界の約束",
+  "artist": "倍賞千恵子",
+  "collection": "【歌切】323[2026-06-11]初见◎BGM◎深夜的陪伴🌙来一起如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L4J56SEbg?p=19",
+  "source": "323.js"
+},
+    {
+  "title": "カフェオーレのうた",
+  "artist": "きっかレン",
+  "collection": "【歌切】323[2026-06-11]初见◎BGM◎深夜的陪伴🌙来一起如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L4J56SEbg?p=20",
   "source": "323.js"
 },
     {
