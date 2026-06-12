@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 6/12/2026, 4:20:23 PM
+// 生成时间: 6/12/2026, 4:34:15 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1411,6 +1411,206 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-09]如果我的声音是你喜欢的，那就太好了。也欢迎初次见面的朋友！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hKEU6MEjJ?p=27",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "HELLO 〜Paradise Kiss〜",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "LIFE",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "YELL",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "黒毛和牛上塩タン焼680円",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "金魚花火",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ツキミソウ",
+  "artist": "Novelbright",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "CITRUS",
+  "artist": "Da-iCE",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "セプテンバーさん",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "やさしさで溢れるように",
+  "artist": "JUJU",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "I believe",
+  "artist": "絢香",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "みんな空の下",
+  "artist": "絢香",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Precious",
+  "artist": "伊藤由奈",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ビリーヴ",
+  "artist": "シェネル",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "月のしずく",
+  "artist": "RUI(柴咲コウ)",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "かたちあるもの",
+  "artist": "柴咲コウ",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "オリビアを聴きながら",
+  "artist": "杏里",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "一番綺麗な私を",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ORION",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "たぶん",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=25",
   "source": "ibaramuan.js"
 }
 );
