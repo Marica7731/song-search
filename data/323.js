@@ -1,6 +1,6 @@
 // 323 - 歌单数据 (多合集汇总)
 // 来源: BV1r75B6LEwd
-// 生成时间: 6/12/2026, 3:01:18 PM
+// 生成时间: 6/12/2026, 3:11:37 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1347,6 +1347,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-10]想遇见10位初次见面的朋友！来唱歌！ 323(みすみ) -Misumi-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eEEo6wEsj?p=10",
+  "source": "323.js"
+},
+    {
+  "title": "リリリリ★バーニングナイト",
+  "artist": "Lily",
+  "collection": "【歌切】[2026-06-12]平成时代宅们集合！有你听过的歌吗？ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LxJ56nEGo?p=1",
+  "source": "323.js"
+},
+    {
+  "title": "レーザービーム",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-06-12]平成时代宅们集合！有你听过的歌吗？ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LxJ56nEGo?p=2",
+  "source": "323.js"
+},
+    {
+  "title": "流星ボーイ",
+  "artist": "Berryz工房",
+  "collection": "【歌切】[2026-06-12]平成时代宅们集合！有你听过的歌吗？ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LxJ56nEGo?p=3",
+  "source": "323.js"
+},
+    {
+  "title": "Love so sweet",
+  "artist": "嵐",
+  "collection": "【歌切】[2026-06-12]平成时代宅们集合！有你听过的歌吗？ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LxJ56nEGo?p=4",
+  "source": "323.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-06-12]平成时代宅们集合！有你听过的歌吗？ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LxJ56nEGo?p=5",
   "source": "323.js"
 }
 );

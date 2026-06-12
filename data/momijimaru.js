@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 6/12/2026, 2:15:02 PM
+// 生成时间: 6/12/2026, 2:25:50 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6878,67 +6878,11 @@ window.SONG_DATA.push(
   "source": "momijimaru.js"
 },
     {
-  "title": "メルト",
-  "artist": "ryo(supercell) feat. 初音ミク",
-  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=9",
-  "source": "momijimaru.js"
-},
-    {
-  "title": "千本桜",
-  "artist": "黒うさP feat. 初音ミク",
-  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=10",
-  "source": "momijimaru.js"
-},
-    {
-  "title": "六兆年と一夜物語",
-  "artist": "kemu feat. IA",
-  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=11",
-  "source": "momijimaru.js"
-},
-    {
-  "title": "敗北の少年",
-  "artist": "kemu feat. GUMI",
-  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=12",
-  "source": "momijimaru.js"
-},
-    {
-  "title": "地球最後の告白を",
-  "artist": "kemu feat. GUMI",
-  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=13",
-  "source": "momijimaru.js"
-},
-    {
-  "title": "サンドリヨン（Cendrillon）",
-  "artist": "Dios/シグナルP feat. 初音ミク・KAITO",
-  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=14",
-  "source": "momijimaru.js"
-},
-    {
-  "title": "マトリョシカ",
-  "artist": "ハチ feat. 初音ミク・GUMI",
-  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=15",
-  "source": "momijimaru.js"
-},
-    {
   "title": "カートゥーンガール",
   "artist": "Kanaria feat. GUMI",
   "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=16",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=9",
   "source": "momijimaru.js"
 },
     {
@@ -6946,7 +6890,7 @@ window.SONG_DATA.push(
   "artist": "すりぃ feat. 鏡音レン",
   "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=17",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=10",
   "source": "momijimaru.js"
 },
     {
@@ -6954,7 +6898,7 @@ window.SONG_DATA.push(
   "artist": "すりぃ feat. 鏡音レン",
   "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=18",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=11",
   "source": "momijimaru.js"
 },
     {
@@ -6962,7 +6906,7 @@ window.SONG_DATA.push(
   "artist": "すりぃ feat. 可不",
   "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=19",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=12",
   "source": "momijimaru.js"
 },
     {
@@ -6970,7 +6914,7 @@ window.SONG_DATA.push(
   "artist": "すりぃ feat. 初音ミク",
   "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=20",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=13",
   "source": "momijimaru.js"
 },
     {
@@ -6978,12 +6922,68 @@ window.SONG_DATA.push(
   "artist": "超学生",
   "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=21",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=14",
   "source": "momijimaru.js"
 },
     {
   "title": "独りんぼエンヴィー",
   "artist": "koyori(電ポルP) feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat. 初音ミク",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=17",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "六兆年と一夜物語",
+  "artist": "kemu feat. IA",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=18",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "敗北の少年",
+  "artist": "kemu feat. GUMI",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=19",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat. GUMI",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=20",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "サンドリヨン（Cendrillon）",
+  "artist": "Dios/シグナルP feat. 初音ミク・KAITO",
+  "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=21",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "マトリョシカ",
+  "artist": "ハチ feat. 初音ミク・GUMI",
   "collection": "【🍁歌切】[2026-06-07]术力口爱好者集合!! 唱完50首术力口才结束✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1upEa6pE5A?p=22",
