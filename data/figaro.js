@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 6/12/2026, 10:59:41 PM
+// 生成时间: 6/12/2026, 11:10:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -31747,6 +31747,118 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-06-10]好久不见的竖屏歌回 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LcJF63EbL?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【💐歌切】[2026-06-12]天气变得潮湿了呢！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMJE6EEHu?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "感電",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-06-12]天气变得潮湿了呢！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMJE6EEHu?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-06-12]天气变得潮湿了呢！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMJE6EEHu?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "恋風",
+  "artist": "幾田りら",
+  "collection": "【💐歌切】[2026-06-12]天气变得潮湿了呢！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMJE6EEHu?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-06-12]天气变得潮湿了呢！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMJE6EEHu?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【💐歌切】[2026-06-12]天气变得潮湿了呢！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMJE6EEHu?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "アンインストール",
+  "artist": "石川智晶",
+  "collection": "【💐歌切】[2026-06-12]天气变得潮湿了呢！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMJE6EEHu?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "咲き跡",
+  "artist": "Figaro",
+  "collection": "【💐歌切】[2026-06-12]天气变得潮湿了呢！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMJE6EEHu?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "モルト",
+  "artist": "Lavt",
+  "collection": "【💐歌切】[2026-06-12]天气变得潮湿了呢！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMJE6EEHu?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-06-12]天气变得潮湿了呢！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMJE6EEHu?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "六月は雨上がりの街を書く",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-06-12]天气变得潮湿了呢！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMJE6EEHu?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "詩書きとコーヒー",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-06-12]天气变得潮湿了呢！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMJE6EEHu?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-06-12]天气变得潮湿了呢！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMJE6EEHu?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【💐歌切】[2026-06-12]天气变得潮湿了呢！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMJE6EEHu?p=14",
   "source": "figaro.js"
 }
 );
