@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 6/12/2026, 3:05:27 PM
+// 生成时间: 6/12/2026, 3:15:35 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7459,6 +7459,150 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-06-11]梅雨季来点清爽歌声如何❔ ヨルシカ限定歌回🎐✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1V8E66SEVn?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "うっせぇわ",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-06-12]无法停止的嘶吼！？Ado限定歌回💙🌹✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158J56mEVU?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "踊",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-06-12]无法停止的嘶吼！？Ado限定歌回💙🌹✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158J56mEVU?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "レディメイド",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-06-12]无法停止的嘶吼！？Ado限定歌回💙🌹✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158J56mEVU?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-06-12]无法停止的嘶吼！？Ado限定歌回💙🌹✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158J56mEVU?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "永遠のあくる日",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-06-12]无法停止的嘶吼！？Ado限定歌回💙🌹✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158J56mEVU?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "夜のピエロ",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-06-12]无法停止的嘶吼！？Ado限定歌回💙🌹✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158J56mEVU?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "マザーランド",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-06-12]无法停止的嘶吼！？Ado限定歌回💙🌹✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158J56mEVU?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ラッキー・ブルート",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-06-12]无法停止的嘶吼！？Ado限定歌回💙🌹✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158J56mEVU?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ルル",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-06-12]无法停止的嘶吼！？Ado限定歌回💙🌹✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158J56mEVU?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "リベリオン",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-06-12]无法停止的嘶吼！？Ado限定歌回💙🌹✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158J56mEVU?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ロックスター",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-06-12]无法停止的嘶吼！？Ado限定歌回💙🌹✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158J56mEVU?p=11",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "阿修羅ちゃん",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-06-12]无法停止的嘶吼！？Ado限定歌回💙🌹✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158J56mEVU?p=12",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アタシは問題作",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-06-12]无法停止的嘶吼！？Ado限定歌回💙🌹✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158J56mEVU?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ウタカタララバイ",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-06-12]无法停止的嘶吼！？Ado限定歌回💙🌹✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158J56mEVU?p=14",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "Tot Musica",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-06-12]无法停止的嘶吼！？Ado限定歌回💙🌹✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158J56mEVU?p=15",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "逆光",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-06-12]无法停止的嘶吼！？Ado限定歌回💙🌹✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158J56mEVU?p=16",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-06-12]无法停止的嘶吼！？Ado限定歌回💙🌹✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158J56mEVU?p=17",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "アイ・アイ・ア",
+  "artist": "Ado",
+  "collection": "【🍁歌切】[2026-06-12]无法停止的嘶吼！？Ado限定歌回💙🌹✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV158J56mEVU?p=18",
   "source": "momijimaru.js"
 }
 );
