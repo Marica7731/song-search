@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/12/2026, 2:48:18 PM
+// 生成时间: 6/12/2026, 2:59:12 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3795,6 +3795,86 @@ window.SONG_DATA.push(
   "collection": "【🦇歌切】[2026-06-11]魂が魂で魂 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvE66jEQF?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "メランコリーキッチン",
+  "artist": "米津玄師",
+  "collection": "【🦇歌切】[2026-06-12]求：点歌｜CULUA的歌单第34弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YYJ561Ewd?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "MAD HEAD LOVE",
+  "artist": "米津玄師",
+  "collection": "【🦇歌切】[2026-06-12]求：点歌｜CULUA的歌单第34弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YYJ561Ewd?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【🦇歌切】[2026-06-12]求：点歌｜CULUA的歌单第34弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YYJ561Ewd?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat.GUMI",
+  "collection": "【🦇歌切】[2026-06-12]求：点歌｜CULUA的歌单第34弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YYJ561Ewd?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "贖罪",
+  "artist": "傘村トータ feat.IA・結月ゆかり・初音ミク・Fukase・Ken",
+  "collection": "【🦇歌切】[2026-06-12]求：点歌｜CULUA的歌单第34弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YYJ561Ewd?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "君の神様になりたい。",
+  "artist": "カンザキイオリ feat.初音ミク",
+  "collection": "【🦇歌切】[2026-06-12]求：点歌｜CULUA的歌单第34弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YYJ561Ewd?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ロンリーユニバース",
+  "artist": "Aqu3ra feat.flower・初音ミク",
+  "collection": "【🦇歌切】[2026-06-12]求：点歌｜CULUA的歌单第34弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YYJ561Ewd?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【🦇歌切】[2026-06-12]求：点歌｜CULUA的歌单第34弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YYJ561Ewd?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【🦇歌切】[2026-06-12]求：点歌｜CULUA的歌单第34弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YYJ561Ewd?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【🦇歌切】[2026-06-12]求：点歌｜CULUA的歌单第34弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YYJ561Ewd?p=10",
   "source": "others.js"
 },
     {
