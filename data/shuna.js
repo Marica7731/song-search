@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 6/10/2026, 3:22:39 PM
+// 生成时间: 6/12/2026, 4:38:50 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -527,7 +527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ラピスラズリ",
-  "artist": "LiSA",
+  "artist": "藍井エイル",
   "collection": "朱名 歌切 2026-03-01 ~ 2026-03-09",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV167c2znErj?p=66",
@@ -2503,7 +2503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "明日も",
-  "artist": "大原櫻子",
+  "artist": "MUSH＆Co.",
   "collection": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=113",
@@ -3119,7 +3119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "明日も",
-  "artist": "大原櫻子",
+  "artist": "MUSH＆Co.",
   "collection": "朱名 歌切 2026-03-09 ~ 2026-03-18",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dLcSzJEDX?p=190",
@@ -6119,7 +6119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "明日も",
-  "artist": "MUSH&Co.",
+  "artist": "MUSH＆Co.",
   "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=23",
@@ -6131,6 +6131,166 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-09]悠闲地唱各种类型的歌🌠 朱名 / SHUNA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vcEU6rEHf?p=24",
+  "source": "shuna.js"
+},
+    {
+  "title": "虹",
+  "artist": "手嶌葵",
+  "collection": "【歌切】[2026-06-11]睡眠导入歌回🌠祝你做个好梦 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBE665EQ3?p=1",
+  "source": "shuna.js"
+},
+    {
+  "title": "奇跡の星",
+  "artist": "手嶌葵",
+  "collection": "【歌切】[2026-06-11]睡眠导入歌回🌠祝你做个好梦 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBE665EQ3?p=2",
+  "source": "shuna.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【歌切】[2026-06-11]睡眠导入歌回🌠祝你做个好梦 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBE665EQ3?p=3",
+  "source": "shuna.js"
+},
+    {
+  "title": "ちっぽけな愛のうた",
+  "artist": "大原櫻子 as 小枝理子",
+  "collection": "【歌切】[2026-06-11]睡眠导入歌回🌠祝你做个好梦 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBE665EQ3?p=4",
+  "source": "shuna.js"
+},
+    {
+  "title": "愛し君へ",
+  "artist": "森山直太朗",
+  "collection": "【歌切】[2026-06-11]睡眠导入歌回🌠祝你做个好梦 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBE665EQ3?p=5",
+  "source": "shuna.js"
+},
+    {
+  "title": "さくら(独唱)",
+  "artist": "森山直太朗",
+  "collection": "【歌切】[2026-06-11]睡眠导入歌回🌠祝你做个好梦 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBE665EQ3?p=6",
+  "source": "shuna.js"
+},
+    {
+  "title": "アイ",
+  "artist": "秦基博",
+  "collection": "【歌切】[2026-06-11]睡眠导入歌回🌠祝你做个好梦 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBE665EQ3?p=7",
+  "source": "shuna.js"
+},
+    {
+  "title": "やさしさで溢れるように",
+  "artist": "JUJU",
+  "collection": "【歌切】[2026-06-11]睡眠导入歌回🌠祝你做个好梦 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBE665EQ3?p=8",
+  "source": "shuna.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-06-11]睡眠导入歌回🌠祝你做个好梦 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBE665EQ3?p=9",
+  "source": "shuna.js"
+},
+    {
+  "title": "ロビンソン",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-06-11]睡眠导入歌回🌠祝你做个好梦 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBE665EQ3?p=10",
+  "source": "shuna.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-06-11]睡眠导入歌回🌠祝你做个好梦 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBE665EQ3?p=11",
+  "source": "shuna.js"
+},
+    {
+  "title": "なくもんか",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-11]睡眠导入歌回🌠祝你做个好梦 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBE665EQ3?p=12",
+  "source": "shuna.js"
+},
+    {
+  "title": "タユムコトナキナガレノナカデ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-11]睡眠导入歌回🌠祝你做个好梦 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBE665EQ3?p=13",
+  "source": "shuna.js"
+},
+    {
+  "title": "ノスタルジア",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-11]睡眠导入歌回🌠祝你做个好梦 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBE665EQ3?p=14",
+  "source": "shuna.js"
+},
+    {
+  "title": "初恋",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-06-11]睡眠导入歌回🌠祝你做个好梦 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBE665EQ3?p=15",
+  "source": "shuna.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-06-11]睡眠导入歌回🌠祝你做个好梦 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBE665EQ3?p=16",
+  "source": "shuna.js"
+},
+    {
+  "title": "赤い糸",
+  "artist": "コブクロ",
+  "collection": "【歌切】[2026-06-11]睡眠导入歌回🌠祝你做个好梦 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBE665EQ3?p=17",
+  "source": "shuna.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-11]睡眠导入歌回🌠祝你做个好梦 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBE665EQ3?p=18",
+  "source": "shuna.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-11]睡眠导入歌回🌠祝你做个好梦 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBE665EQ3?p=19",
+  "source": "shuna.js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "クリス・ハート",
+  "collection": "【歌切】[2026-06-11]睡眠导入歌回🌠祝你做个好梦 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBE665EQ3?p=20",
   "source": "shuna.js"
 }
 );

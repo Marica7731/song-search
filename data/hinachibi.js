@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 6/10/2026, 3:49:30 PM
+// 生成时间: 6/12/2026, 5:03:05 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -539,6 +539,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-09]偏头痛统统赶走，打起精神来唱歌！！！w 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hTEU6qEZT?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "林檎売りの泡沫少女",
+  "artist": "yukkedoluce feat. GUMI",
+  "collection": "【歌切】[2026-06-10]关于个人限定周边以及唱歌！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JjE66bEfq?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ヒステリックナイトガール",
+  "artist": "PSYQUI feat. Such",
+  "collection": "【歌切】[2026-06-10]关于个人限定周边以及唱歌！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JjE66bEfq?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-06-10]关于个人限定周边以及唱歌！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JjE66bEfq?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "StaRt",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-06-10]关于个人限定周边以及唱歌！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JjE66bEfq?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP) feat. GUMI",
+  "collection": "【歌切】[2026-06-11]卖票大姐姐的歌回！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjE66bE1G?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "きゅうくらりん",
+  "artist": "いよわ feat. 可不",
+  "collection": "【歌切】[2026-06-11]卖票大姐姐的歌回！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjE66bE1G?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-11]卖票大姐姐的歌回！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjE66bE1G?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-11]卖票大姐姐的歌回！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjE66bE1G?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-11]卖票大姐姐的歌回！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjE66bE1G?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-11]卖票大姐姐的歌回！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjE66bE1G?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "綺麗事",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-06-11]卖票大姐姐的歌回！！！w 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EjE66bE1G?p=7",
   "source": "hinachibi.js"
 }
 );

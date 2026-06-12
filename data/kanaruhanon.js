@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 6/10/2026, 3:50:41 PM
+// 生成时间: 6/12/2026, 5:03:49 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -459,6 +459,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-03]学園アイドルマスター縛りで歌う！短め歌枠🎤✨✨ Hanon Ch. 香鳴ハノン【パレプロ】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xm796DETG?p=7",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ハルカ",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-06-10]无计划选曲开唱✨来选些很久没唱的歌吧～！！ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18iE661EB5?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "【歌切】[2026-06-10]无计划选曲开唱✨来选些很久没唱的歌吧～！！ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18iE661EB5?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-10]无计划选曲开唱✨来选些很久没唱的歌吧～！！ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18iE661EB5?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-06-10]无计划选曲开唱✨来选些很久没唱的歌吧～！！ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18iE661EB5?p=4",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "secret base 〜君がくれたもの〜",
+  "artist": "ZONE",
+  "collection": "【歌切】[2026-06-10]无计划选曲开唱✨来选些很久没唱的歌吧～！！ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18iE661EB5?p=5",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "茜色の約束",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-10]无计划选曲开唱✨来选些很久没唱的歌吧～！！ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18iE661EB5?p=6",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【歌切】[2026-06-10]无计划选曲开唱✨来选些很久没唱的歌吧～！！ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18iE661EB5?p=7",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "クリスマスソング",
+  "artist": "back number",
+  "collection": "【歌切】[2026-06-10]无计划选曲开唱✨来选些很久没唱的歌吧～！！ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18iE661EB5?p=8",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "【歌切】[2026-06-10]无计划选曲开唱✨来选些很久没唱的歌吧～！！ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18iE661EB5?p=9",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "白日",
+  "artist": "King Gnu",
+  "collection": "【歌切】[2026-06-10]无计划选曲开唱✨来选些很久没唱的歌吧～！！ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18iE661EB5?p=10",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "涙サプライズ！",
+  "artist": "AKB48",
+  "collection": "【歌切】[2026-06-10]无计划选曲开唱✨来选些很久没唱的歌吧～！！ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18iE661EB5?p=11",
   "source": "kanaruhanon.js"
 }
 );

@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 6/10/2026, 3:11:19 PM
+// 生成时间: 6/12/2026, 4:28:09 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -31635,6 +31635,118 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】#270[2026-06-07]安眠前放松歌回✨ 伴你入梦的治愈时光🌙 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PYEa61Epq?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "花も騒めく",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-06-10]好久不见的竖屏歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LcJF63EbL?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat. 初音ミク",
+  "collection": "【💐歌切】[2026-06-10]好久不见的竖屏歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LcJF63EbL?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "春ひさぎ",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-06-10]好久不见的竖屏歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LcJF63EbL?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "強盗と花束",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-06-10]好久不见的竖屏歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LcJF63EbL?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "盗作",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-06-10]好久不见的竖屏歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LcJF63EbL?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "【💐歌切】[2026-06-10]好久不见的竖屏歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LcJF63EbL?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "GLAMOROUS SKY",
+  "artist": "中島美嘉",
+  "collection": "【💐歌切】[2026-06-10]好久不见的竖屏歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LcJF63EbL?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(CV.平野綾)",
+  "collection": "【💐歌切】[2026-06-10]好久不见的竖屏歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LcJF63EbL?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【💐歌切】[2026-06-10]好久不见的竖屏歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LcJF63EbL?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【💐歌切】[2026-06-10]好久不见的竖屏歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LcJF63EbL?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "本能",
+  "artist": "椎名林檎",
+  "collection": "【💐歌切】[2026-06-10]好久不见的竖屏歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LcJF63EbL?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "フロントメモリー",
+  "artist": "神聖かまってちゃん feat.川本真琴",
+  "collection": "【💐歌切】[2026-06-10]好久不见的竖屏歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LcJF63EbL?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【💐歌切】[2026-06-10]好久不见的竖屏歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LcJF63EbL?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【💐歌切】[2026-06-10]好久不见的竖屏歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LcJF63EbL?p=14",
   "source": "figaro.js"
 }
 );

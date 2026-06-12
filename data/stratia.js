@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 6/10/2026, 3:43:42 PM
+// 生成时间: 6/12/2026, 4:56:36 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -787,6 +787,46 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-06-09]今日是初次直播满一个月‼ 歌回🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B9Em6jEYC?p=7",
+  "source": "stratia.js"
+},
+    {
+  "title": "スイカ",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【🎸🦋歌切】[2026-06-10]㊗会员开通纪念歌回‼️🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18xEo64EQi?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "心臓と絡繰",
+  "artist": "花譜",
+  "collection": "【🎸🦋歌切】[2026-06-10]㊗会员开通纪念歌回‼️🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18xEo64EQi?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "アンサー",
+  "artist": "花譜",
+  "collection": "【🎸🦋歌切】[2026-06-10]㊗会员开通纪念歌回‼️🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18xEo64EQi?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "きっと良くなるさ",
+  "artist": "神聖かまってちゃん",
+  "collection": "【🎸🦋歌切】[2026-06-10]㊗会员开通纪念歌回‼️🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18xEo64EQi?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【🎸🦋歌切】[2026-06-10]㊗会员开通纪念歌回‼️🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18xEo64EQi?p=5",
   "source": "stratia.js"
 }
 );

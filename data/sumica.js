@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 6/10/2026, 3:27:52 PM
+// 生成时间: 6/12/2026, 4:44:25 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4235,6 +4235,150 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-06-07]星期天中午当然只能唱歌了啊，来一首怎么样！？！？ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JZEh6zEet?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-06-10]夜晚悠闲的弹唱～快来呀快来呀 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EXEf62EqZ?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-10]夜晚悠闲的弹唱～快来呀快来呀 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EXEf62EqZ?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "嘘つき",
+  "artist": "阿部真央",
+  "collection": "【💐🎸歌切】[2026-06-10]夜晚悠闲的弹唱～快来呀快来呀 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EXEf62EqZ?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-06-10]夜晚悠闲的弹唱～快来呀快来呀 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EXEf62EqZ?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "キラキラ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-06-10]夜晚悠闲的弹唱～快来呀快来呀 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EXEf62EqZ?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "【💐🎸歌切】[2026-06-10]夜晚悠闲的弹唱～快来呀快来呀 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EXEf62EqZ?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "メルト",
+  "artist": "supercell",
+  "collection": "【💐🎸歌切】[2026-06-10]夜晚悠闲的弹唱～快来呀快来呀 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EXEf62EqZ?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "【💐🎸歌切】[2026-06-10]夜晚悠闲的弹唱～快来呀快来呀 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EXEf62EqZ?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "ベーコンエピ",
+  "artist": "TOMOO",
+  "collection": "【💐🎸歌切】[2026-06-10]夜晚悠闲的弹唱～快来呀快来呀 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EXEf62EqZ?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "Burning",
+  "artist": "羊文学",
+  "collection": "【💐🎸歌切】[2026-06-10]夜晚悠闲的弹唱～快来呀快来呀 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EXEf62EqZ?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-10]夜晚悠闲的弹唱～快来呀快来呀 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EXEf62EqZ?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【💐🎸歌切】[2026-06-10]夜晚悠闲的弹唱～快来呀快来呀 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EXEf62EqZ?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【💐🎸歌切】[2026-06-10]夜晚悠闲的弹唱～快来呀快来呀 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EXEf62EqZ?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "センス・オブ・ワンダー",
+  "artist": "sumika",
+  "collection": "【💐🎸歌切】[2026-06-10]夜晚悠闲的弹唱～快来呀快来呀 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EXEf62EqZ?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん",
+  "collection": "【💐🎸歌切】[2026-06-10]夜晚悠闲的弹唱～快来呀快来呀 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EXEf62EqZ?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【💐🎸歌切】[2026-06-10]夜晚悠闲的弹唱～快来呀快来呀 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EXEf62EqZ?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "Family Song",
+  "artist": "星野源",
+  "collection": "【💐🎸歌切】[2026-06-10]夜晚悠闲的弹唱～快来呀快来呀 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EXEf62EqZ?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "一日惚れ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-06-10]夜晚悠闲的弹唱～快来呀快来呀 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EXEf62EqZ?p=18",
   "source": "sumica.js"
 }
 );

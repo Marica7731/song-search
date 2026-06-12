@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 6/10/2026, 3:31:33 PM
+// 生成时间: 6/12/2026, 4:46:50 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1899,6 +1899,222 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-06-03 UTANO ch. 白玖ウタノ N7Iq6eTmKyM 新成员来袭！？成为我的兰花吧✈️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1So7d6pEnA?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "ドーナツホール",
+  "artist": "ハチ feat.GUMI",
+  "collection": "联动歌切 2026-06-05  与巫てんり的联动歌回！七海うらら首登Zepp纪念",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV188Ef6aE3W?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "联动歌切 2026-06-05  与巫てんり的联动歌回！七海うらら首登Zepp纪念",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV188Ef6aE3W?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "联动歌切 2026-06-05  与巫てんり的联动歌回！七海うらら首登Zepp纪念",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV188Ef6aE3W?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "联动歌切 2026-06-05  与巫てんり的联动歌回！七海うらら首登Zepp纪念",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV188Ef6aE3W?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "联动歌切 2026-06-05  与巫てんり的联动歌回！七海うらら首登Zepp纪念",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV188Ef6aE3W?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO from bless4",
+  "collection": "联动歌切 2026-06-05  与巫てんり的联动歌回！七海うらら首登Zepp纪念",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV188Ef6aE3W?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "联动歌切 2026-06-10 与白玖ウタノ联动歌回！纪念七海うらら首次Zepp演出 Nanami Urara",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YJEo6hEfv?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "放課後オーバーフロウ",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "联动歌切 2026-06-10 与白玖ウタノ联动歌回！纪念七海うらら首次Zepp演出 Nanami Urara",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YJEo6hEfv?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "UNION",
+  "artist": "OxT",
+  "collection": "联动歌切 2026-06-10 与白玖ウタノ联动歌回！纪念七海うらら首次Zepp演出 Nanami Urara",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YJEo6hEfv?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "Rising Hope",
+  "artist": "LiSA",
+  "collection": "联动歌切 2026-06-10 与白玖ウタノ联动歌回！纪念七海うらら首次Zepp演出 Nanami Urara",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YJEo6hEfv?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "桜ロック",
+  "artist": "CHERRYBLOSSOM",
+  "collection": "联动歌切 2026-06-10 与白玖ウタノ联动歌回！纪念七海うらら首次Zepp演出 Nanami Urara",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YJEo6hEfv?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "联动歌切 2026-06-10 与白玖ウタノ联动歌回！纪念七海うらら首次Zepp演出 Nanami Urara",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YJEo6hEfv?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "Can Do",
+  "artist": "GRANRODEO",
+  "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "Blazing Out",
+  "artist": "松永依織",
+  "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "未来証明",
+  "artist": "白玖ウタノ",
+  "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "NO MORE!!",
+  "artist": "VESPERBELL",
+  "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "Reveal",
+  "artist": "巫てんり",
+  "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "No pain, No game",
+  "artist": "ナノ",
+  "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "カオスが極まる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "1,000,000 TIMES feat.chelly（EGOIST）",
+  "artist": "MY FIRST STORY",
+  "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "ともに",
+  "artist": "WANIMA",
+  "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "瞬間センチメンタル",
+  "artist": "SCANDAL",
+  "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=10",
+  "source": "friends.js"
+},
+    {
+  "title": "完全感覚Dreamer",
+  "artist": "ONE OK ROCK",
+  "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=11",
+  "source": "friends.js"
+},
+    {
+  "title": "CORE PRIDE",
+  "artist": "UVERworld",
+  "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=12",
+  "source": "friends.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=13",
+  "source": "friends.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "SPYAIR",
+  "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=14",
+  "source": "friends.js"
+},
+    {
+  "title": "Awaken Now",
+  "artist": "松永依織",
+  "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=15",
   "source": "friends.js"
 }
 );

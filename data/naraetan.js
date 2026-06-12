@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 6/10/2026, 3:09:59 PM
+// 生成时间: 6/12/2026, 4:26:59 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9939,6 +9939,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV151ED6JEen?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ダンスホール",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "サムライハート(Some Like It Hot!!)",
+  "artist": "SPYAIR",
+  "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Growing of my heart",
+  "artist": "倉木麻衣",
+  "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "スカイクラッドの観測者",
+  "artist": "いとうかなこ",
+  "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "勇侠青春謳",
+  "artist": "ALI PROJECT",
+  "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夢を過ぎても",
+  "artist": "有坂美香",
+  "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "uni-verse",
+  "artist": "オーイシマサヨシ",
+  "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "トリセツ",
+  "artist": "西野カナ",
+  "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=11",
   "source": "naraetan.js"
 },
     {

@@ -1,6 +1,6 @@
 // 透夏 - 歌单数据 (多合集汇总)
 // 来源: BV1CbVk68ESd
-// 生成时间: 6/10/2026, 3:52:20 PM
+// 生成时间: 6/12/2026, 5:05:42 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -675,6 +675,54 @@ window.SONG_DATA.push(
   "collection": "歌切【透夏】[2026-02-10]2月のラジオ配信🎐 透夏",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CaVk6tEe8?p=5",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "千鳥",
+  "artist": "ヨルシカ",
+  "collection": "歌切【透夏】[2026-06-10]6月广播节目🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHEo6FEBi?p=1",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat. 初音ミク",
+  "collection": "歌切【透夏】[2026-06-10]6月广播节目🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHEo6FEBi?p=2",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "アイラ",
+  "artist": "n-buna feat. GUMI",
+  "collection": "歌切【透夏】[2026-06-10]6月广播节目🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHEo6FEBi?p=3",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(CV.平野綾)",
+  "collection": "歌切【透夏】[2026-06-10]6月广播节目🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHEo6FEBi?p=4",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat. 初音ミク",
+  "collection": "歌切【透夏】[2026-06-10]6月广播节目🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHEo6FEBi?p=5",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "歌切【透夏】[2026-06-10]6月广播节目🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHEo6FEBi?p=6",
   "source": "toka10summer.js"
 }
 );

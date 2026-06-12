@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/10/2026, 3:59:05 PM
+// 生成时间: 6/12/2026, 5:11:47 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3739,6 +3739,62 @@ window.SONG_DATA.push(
   "collection": "【🦇歌切】[2026-06-08]原声吉他伴奏限定 @雨天☂︎｜舒缓的歌单第32弹 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h3EE6pEab?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "サターン",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【🦇歌切】[2026-06-11]魂が魂で魂 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uvE66jEQF?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ハレバレ",
+  "artist": "CULUA",
+  "collection": "【🦇歌切】[2026-06-11]魂が魂で魂 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uvE66jEQF?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "デマデーモン",
+  "artist": "CULUA",
+  "collection": "【🦇歌切】[2026-06-11]魂が魂で魂 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uvE66jEQF?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "脱色",
+  "artist": "CULUA",
+  "collection": "【🦇歌切】[2026-06-11]魂が魂で魂 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uvE66jEQF?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス",
+  "collection": "【🦇歌切】[2026-06-11]魂が魂で魂 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uvE66jEQF?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "Dear. Mr「F」",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【🦇歌切】[2026-06-11]魂が魂で魂 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uvE66jEQF?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "夢追人",
+  "artist": "CULUA",
+  "collection": "【🦇歌切】[2026-06-11]魂が魂で魂 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uvE66jEQF?p=7",
   "source": "others.js"
 },
     {
@@ -14131,6 +14187,214 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-06-10 白雪りんご UQlexlMhXLA 梅雨季到了意味着？？？没错，是歌回。",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aPEU6zEqo?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-06-09 白河しらせ / SHIRASE SHIRAKAWA hC-DlamWzq4 朝活歌回🕊✨来听一首再走吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YNJF6BEka?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-06-09 白河しらせ / SHIRASE SHIRAKAWA hC-DlamWzq4 朝活歌回🕊✨来听一首再走吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YNJF6BEka?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ハルウタ",
+  "artist": "いきものがかり",
+  "collection": "歌切 2026-06-09 白河しらせ / SHIRASE SHIRAKAWA hC-DlamWzq4 朝活歌回🕊✨来听一首再走吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YNJF6BEka?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ヒカリヘ",
+  "artist": "miwa",
+  "collection": "歌切 2026-06-09 白河しらせ / SHIRASE SHIRAKAWA hC-DlamWzq4 朝活歌回🕊✨来听一首再走吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YNJF6BEka?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "好きだから。",
+  "artist": "『ユイカ』",
+  "collection": "歌切 2026-06-09 白河しらせ / SHIRASE SHIRAKAWA hC-DlamWzq4 朝活歌回🕊✨来听一首再走吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YNJF6BEka?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "RPG",
+  "artist": "SEKAI NO OWARI",
+  "collection": "歌切 2026-06-09 白河しらせ / SHIRASE SHIRAKAWA hC-DlamWzq4 朝活歌回🕊✨来听一首再走吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YNJF6BEka?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "歌切 2026-06-09 白河しらせ / SHIRASE SHIRAKAWA hC-DlamWzq4 朝活歌回🕊✨来听一首再走吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YNJF6BEka?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "夏色えがおで1,2,Jump!",
+  "artist": "μ's",
+  "collection": "歌切 2026-06-09 白河しらせ / SHIRASE SHIRAKAWA hC-DlamWzq4 朝活歌回🕊✨来听一首再走吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YNJF6BEka?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "洗濯機と君とラヂオ",
+  "artist": "マカロニえんぴつ",
+  "collection": "歌切 2026-06-09 HONKTHEHORN ItbPpn1ucrg 初出曲偏多的软乎乎歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zSEf6UE88?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "栞",
+  "artist": "クリープハイプ",
+  "collection": "歌切 2026-06-09 HONKTHEHORN ItbPpn1ucrg 初出曲偏多的软乎乎歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zSEf6UE88?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "歌切 2026-06-09 HONKTHEHORN ItbPpn1ucrg 初出曲偏多的软乎乎歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zSEf6UE88?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "歌切 2026-06-09 HONKTHEHORN ItbPpn1ucrg 初出曲偏多的软乎乎歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zSEf6UE88?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "歌切 2026-06-09 HONKTHEHORN ItbPpn1ucrg 初出曲偏多的软乎乎歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zSEf6UE88?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "チャイナアドバイス",
+  "artist": "相対性理論",
+  "collection": "歌切 2026-06-09 HONKTHEHORN ItbPpn1ucrg 初出曲偏多的软乎乎歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zSEf6UE88?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "気になるあの娘",
+  "artist": "相対性理論",
+  "collection": "歌切 2026-06-09 HONKTHEHORN ItbPpn1ucrg 初出曲偏多的软乎乎歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zSEf6UE88?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "マイハートハードピンチ",
+  "artist": "相対性理論",
+  "collection": "歌切 2026-06-09 HONKTHEHORN ItbPpn1ucrg 初出曲偏多的软乎乎歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zSEf6UE88?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "地獄先生",
+  "artist": "相対性理論",
+  "collection": "歌切 2026-06-09 HONKTHEHORN ItbPpn1ucrg 初出曲偏多的软乎乎歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zSEf6UE88?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "歌切 2026-06-09 HONKTHEHORN ItbPpn1ucrg 初出曲偏多的软乎乎歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zSEf6UE88?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "ex ダーリン",
+  "artist": "クリープハイプ",
+  "collection": "歌切 2026-06-09 HONKTHEHORN ItbPpn1ucrg 初出曲偏多的软乎乎歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zSEf6UE88?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "3%",
+  "artist": "さとう。",
+  "collection": "歌切 2026-06-09 HONKTHEHORN ItbPpn1ucrg 初出曲偏多的软乎乎歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zSEf6UE88?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ",
+  "collection": "歌切 2026-06-09 HONKTHEHORN ItbPpn1ucrg 初出曲偏多的软乎乎歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zSEf6UE88?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "歌切 2026-06-09 HONKTHEHORN ItbPpn1ucrg 初出曲偏多的软乎乎歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zSEf6UE88?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "コレサワ",
+  "collection": "歌切 2026-06-09 HONKTHEHORN ItbPpn1ucrg 初出曲偏多的软乎乎歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zSEf6UE88?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "歌切 2026-06-09 HONKTHEHORN ItbPpn1ucrg 初出曲偏多的软乎乎歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zSEf6UE88?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "歌切 2026-06-09 HONKTHEHORN ItbPpn1ucrg 初出曲偏多的软乎乎歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zSEf6UE88?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "GLAMOROUS SKY",
+  "artist": "NANA starring MIKA NAKASHIMA",
+  "collection": "歌切 2026-06-09 HONKTHEHORN ItbPpn1ucrg 初出曲偏多的软乎乎歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zSEf6UE88?p=18",
   "source": "others.js"
 },
     {

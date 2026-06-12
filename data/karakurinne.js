@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 6/10/2026, 3:44:29 PM
+// 生成时间: 6/12/2026, 4:57:32 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -987,6 +987,86 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-09]从首次直播到现在已经一个月了！！充满感谢与感动的歌回！ からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EYEU6SEwe?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "Booo!",
+  "artist": "TOKOTOKO(西沢さんP) feat.音街ウナ",
+  "collection": "【歌切】[2026-06-10]🎊会员功能解禁了！！非常感谢！！歌回 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHEo6FESX?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "SSW",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-06-10]🎊会员功能解禁了！！非常感谢！！歌回 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHEo6FESX?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "僕らは今日も車の中",
+  "artist": "Hump Back",
+  "collection": "【歌切】[2026-06-10]🎊会员功能解禁了！！非常感谢！！歌回 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHEo6FESX?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-06-10]🎊会员功能解禁了！！非常感谢！！歌回 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHEo6FESX?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "戯言スピーカー",
+  "artist": "ねこぼーろ feat.初音ミク",
+  "collection": "【歌切】[2026-06-10]🎊会员功能解禁了！！非常感谢！！歌回 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHEo6FESX?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "心拍数♯0822",
+  "artist": "蝶々P feat.初音ミク",
+  "collection": "【歌切】[2026-06-10]🎊会员功能解禁了！！非常感谢！！歌回 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHEo6FESX?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "相思相愛",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-06-10]🎊会员功能解禁了！！非常感谢！！歌回 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHEo6FESX?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "三時のキス",
+  "artist": "ロクデナシ",
+  "collection": "【歌切】[2026-06-10]🎊会员功能解禁了！！非常感谢！！歌回 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHEo6FESX?p=8",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "部屋",
+  "artist": "シャイトープ",
+  "collection": "【歌切】[2026-06-10]🎊会员功能解禁了！！非常感谢！！歌回 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHEo6FESX?p=9",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "笑顔",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-10]🎊会员功能解禁了！！非常感谢！！歌回 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHEo6FESX?p=10",
   "source": "karakurinne.js"
 }
 );

@@ -1,6 +1,6 @@
 // 323 - 歌单数据 (多合集汇总)
 // 来源: BV1r75B6LEwd
-// 生成时间: 6/10/2026, 3:54:37 PM
+// 生成时间: 6/12/2026, 5:07:19 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1267,6 +1267,86 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-09]只唱带感的歌 - 歌回 323(みすみ)　-Misumi-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gRED6VE9y?p=20",
+  "source": "323.js"
+},
+    {
+  "title": "中華料理屋の酢豚が食べたい",
+  "artist": "琳子",
+  "collection": "【歌切】[2026-06-10]想遇见10位初次见面的朋友！来唱歌！ 323(みすみ) -Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eEEo6wEsj?p=1",
+  "source": "323.js"
+},
+    {
+  "title": "Neko(ねこ)",
+  "artist": "Neko Jealousy",
+  "collection": "【歌切】[2026-06-10]想遇见10位初次见面的朋友！来唱歌！ 323(みすみ) -Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eEEo6wEsj?p=2",
+  "source": "323.js"
+},
+    {
+  "title": "猫の逆襲",
+  "artist": "カノエラナ",
+  "collection": "【歌切】[2026-06-10]想遇见10位初次见面的朋友！来唱歌！ 323(みすみ) -Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eEEo6wEsj?p=3",
+  "source": "323.js"
+},
+    {
+  "title": "黒猫系女子",
+  "artist": "すこっぷ feat.初音ミク",
+  "collection": "【歌切】[2026-06-10]想遇见10位初次见面的朋友！来唱歌！ 323(みすみ) -Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eEEo6wEsj?p=4",
+  "source": "323.js"
+},
+    {
+  "title": "だいしきゅーだいしゅき",
+  "artist": "femme fatale",
+  "collection": "【歌切】[2026-06-10]想遇见10位初次见面的朋友！来唱歌！ 323(みすみ) -Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eEEo6wEsj?p=5",
+  "source": "323.js"
+},
+    {
+  "title": "愛包ダンスホール",
+  "artist": "HIMEHINA",
+  "collection": "【歌切】[2026-06-10]想遇见10位初次见面的朋友！来唱歌！ 323(みすみ) -Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eEEo6wEsj?p=6",
+  "source": "323.js"
+},
+    {
+  "title": "不可思議のカルテ",
+  "artist": "桜島麻衣",
+  "collection": "【歌切】[2026-06-10]想遇见10位初次见面的朋友！来唱歌！ 323(みすみ) -Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eEEo6wEsj?p=7",
+  "source": "323.js"
+},
+    {
+  "title": "君のせい",
+  "artist": "the peggies",
+  "collection": "【歌切】[2026-06-10]想遇见10位初次见面的朋友！来唱歌！ 323(みすみ) -Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eEEo6wEsj?p=8",
+  "source": "323.js"
+},
+    {
+  "title": "吾輩は虎である",
+  "artist": "MOSHIMO",
+  "collection": "【歌切】[2026-06-10]想遇见10位初次见面的朋友！来唱歌！ 323(みすみ) -Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eEEo6wEsj?p=9",
+  "source": "323.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-06-10]想遇见10位初次见面的朋友！来唱歌！ 323(みすみ) -Misumi-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eEEo6wEsj?p=10",
   "source": "323.js"
 }
 );

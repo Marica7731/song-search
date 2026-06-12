@@ -1,6 +1,6 @@
 // 天ノ譜ステラ - 歌单数据 (多合集汇总)
 // 来源: BV1MEP8z4E1J
-// 生成时间: 6/10/2026, 3:19:54 PM
+// 生成时间: 6/12/2026, 4:37:02 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1739,6 +1739,38 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-28]歌回哦哦哦 Sound House认证VSinger 天ノ譜ステラ Stella Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iuVW6hEbX?p=4",
+  "source": "stella.js"
+},
+    {
+  "title": "secret base～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【歌切】[2026-06-11]歌回哦哦  天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wDE66KEej?p=1",
+  "source": "stella.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-06-11]歌回哦哦  天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wDE66KEej?p=2",
+  "source": "stella.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "【歌切】[2026-06-11]歌回哦哦  天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wDE66KEej?p=3",
+  "source": "stella.js"
+},
+    {
+  "title": "ダイアモンド クレバス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-06-11]歌回哦哦  天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wDE66KEej?p=4",
   "source": "stella.js"
 }
 );

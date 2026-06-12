@@ -1,6 +1,6 @@
 // 紅葉丸 - 歌单数据 (多合集汇总)
 // 来源: BV1R2wQzfEuY
-// 生成时间: 6/10/2026, 3:06:52 PM
+// 生成时间: 6/12/2026, 4:24:14 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7315,6 +7315,150 @@ window.SONG_DATA.push(
   "collection": "【🍁歌切】[2026-06-09]用帅气歌曲让你着迷的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eFEU6GEe6?p=13",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "インタビュア",
+  "artist": "クワガタP feat. 巡音ルカ",
+  "collection": "【🍁歌切】[2026-06-10]来点清晨的陪伴如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BKEo6gEXF?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "あの娘シークレット",
+  "artist": "Eve",
+  "collection": "【🍁歌切】[2026-06-10]来点清晨的陪伴如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BKEo6gEXF?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ずうっといっしょ！",
+  "artist": "キタニタツヤ",
+  "collection": "【🍁歌切】[2026-06-10]来点清晨的陪伴如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BKEo6gEXF?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ファタール",
+  "artist": "GEMN",
+  "collection": "【🍁歌切】[2026-06-10]来点清晨的陪伴如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BKEo6gEXF?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "銀河鉄道999",
+  "artist": "ゴダイゴ",
+  "collection": "【🍁歌切】[2026-06-10]来点清晨的陪伴如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BKEo6gEXF?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-06-10]来点清晨的陪伴如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BKEo6gEXF?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "新宝島",
+  "artist": "サカナクション",
+  "collection": "【🍁歌切】[2026-06-10]来点清晨的陪伴如何!! 悠闲杂谈&歌回🍁✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BKEo6gEXF?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-06-11]梅雨季来点清爽歌声如何❔ ヨルシカ限定歌回🎐✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1V8E66SEVn?p=1",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-06-11]梅雨季来点清爽歌声如何❔ ヨルシカ限定歌回🎐✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1V8E66SEVn?p=2",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-06-11]梅雨季来点清爽歌声如何❔ ヨルシカ限定歌回🎐✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1V8E66SEVn?p=3",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-06-11]梅雨季来点清爽歌声如何❔ ヨルシカ限定歌回🎐✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1V8E66SEVn?p=4",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-06-11]梅雨季来点清爽歌声如何❔ ヨルシカ限定歌回🎐✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1V8E66SEVn?p=5",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-06-11]梅雨季来点清爽歌声如何❔ ヨルシカ限定歌回🎐✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1V8E66SEVn?p=6",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-06-11]梅雨季来点清爽歌声如何❔ ヨルシカ限定歌回🎐✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1V8E66SEVn?p=7",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-06-11]梅雨季来点清爽歌声如何❔ ヨルシカ限定歌回🎐✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1V8E66SEVn?p=8",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-06-11]梅雨季来点清爽歌声如何❔ ヨルシカ限定歌回🎐✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1V8E66SEVn?p=9",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【🍁歌切】[2026-06-11]梅雨季来点清爽歌声如何❔ ヨルシカ限定歌回🎐✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1V8E66SEVn?p=10",
+  "source": "momijimaru.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "【🍁歌切】[2026-06-11]梅雨季来点清爽歌声如何❔ ヨルシカ限定歌回🎐✨ 紅葉丸チャンネル Momijimaru",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1V8E66SEVn?p=11",
   "source": "momijimaru.js"
 }
 );

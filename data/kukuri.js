@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 6/10/2026, 3:07:49 PM
+// 生成时间: 6/12/2026, 4:25:19 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3459,6 +3459,142 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【💫✖歌切】[2026-06-11]6万人达成了，真的吗？🥹 歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1smE66MEmV?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "知りたくなかった、失うのなら",
+  "artist": "あたらよ",
+  "collection": "【💫✖歌切】[2026-06-11]6万人达成了，真的吗？🥹 歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1smE66MEmV?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-06-11]6万人达成了，真的吗？🥹 歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1smE66MEmV?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-06-11]6万人达成了，真的吗？🥹 歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1smE66MEmV?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "がらくた",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-06-11]6万人达成了，真的吗？🥹 歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1smE66MEmV?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Pale Blue",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-06-11]6万人达成了，真的吗？🥹 歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1smE66MEmV?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "vivi",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-06-11]6万人达成了，真的吗？🥹 歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1smE66MEmV?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ENDROLL",
+  "artist": "川上洋平 [Alexandros]×SennaRin",
+  "collection": "【💫✖歌切】[2026-06-11]6万人达成了，真的吗？🥹 歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1smE66MEmV?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "片想い",
+  "artist": "miwa",
+  "collection": "【💫✖歌切】[2026-06-11]6万人达成了，真的吗？🥹 歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1smE66MEmV?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "words",
+  "artist": "Aimer",
+  "collection": "【💫✖歌切】[2026-06-11]6万人达成了，真的吗？🥹 歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1smE66MEmV?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夢のあと",
+  "artist": "東京事変",
+  "collection": "【💫✖歌切】[2026-06-11]6万人达成了，真的吗？🥹 歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1smE66MEmV?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "【💫✖歌切】[2026-06-11]6万人达成了，真的吗？🥹 歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1smE66MEmV?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ツキアカリ",
+  "artist": "Rie fu",
+  "collection": "【💫✖歌切】[2026-06-11]6万人达成了，真的吗？🥹 歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1smE66MEmV?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "奈落の花",
+  "artist": "島みやえい子",
+  "collection": "【💫✖歌切】[2026-06-11]6万人达成了，真的吗？🥹 歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1smE66MEmV?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "薄ら氷心中",
+  "artist": "林原めぐみ",
+  "collection": "【💫✖歌切】[2026-06-11]6万人达成了，真的吗？🥹 歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1smE66MEmV?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Moon River",
+  "artist": "Audrey Hepburn",
+  "collection": "【💫✖歌切】[2026-06-11]6万人达成了，真的吗？🥹 歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1smE66MEmV?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "勘冴えて悔しいわ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【💫✖歌切】[2026-06-11]6万人达成了，真的吗？🥹 歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1smE66MEmV?p=17",
   "source": "kukuri.js"
 }
 );

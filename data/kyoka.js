@@ -1,6 +1,6 @@
 // 響架 - 歌单数据 (多合集汇总)
 // 来源: BV1d85B6TEFa
-// 生成时间: 6/10/2026, 3:45:00 PM
+// 生成时间: 6/12/2026, 4:58:17 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -531,6 +531,150 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-22]🏮实写=超美丽3D｜明天是Live!!在那之前，我决定唱首歌 Kyoka Ch. -響架-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jbGq6wEMw?p=21",
+  "source": "kyoka.js"
+},
+    {
+  "title": "Casket",
+  "artist": "響架",
+  "collection": "【歌切】[2026-06-09]🎂｜生日!!｜先来唱歌!!从一开始就嗨到最高潮!! ∞ 響架 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKEo6gEM5?p=1",
+  "source": "kyoka.js"
+},
+    {
+  "title": "The Beginning",
+  "artist": "ONE OK ROCK",
+  "collection": "【歌切】[2026-06-09]🎂｜生日!!｜先来唱歌!!从一开始就嗨到最高潮!! ∞ 響架 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKEo6gEM5?p=2",
+  "source": "kyoka.js"
+},
+    {
+  "title": "キミシダイ列車",
+  "artist": "ONE OK ROCK",
+  "collection": "【歌切】[2026-06-09]🎂｜生日!!｜先来唱歌!!从一开始就嗨到最高潮!! ∞ 響架 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKEo6gEM5?p=3",
+  "source": "kyoka.js"
+},
+    {
+  "title": "Record!!",
+  "artist": "響架",
+  "collection": "【歌切】[2026-06-09]🎂｜生日!!｜先来唱歌!!从一开始就嗨到最高潮!! ∞ 響架 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKEo6gEM5?p=4",
+  "source": "kyoka.js"
+},
+    {
+  "title": "FLYING IN THE SKY",
+  "artist": "鵜島仁文",
+  "collection": "【歌切】[2026-06-09]🎂｜生日!!｜先来唱歌!!从一开始就嗨到最高潮!! ∞ 響架 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKEo6gEM5?p=5",
+  "source": "kyoka.js"
+},
+    {
+  "title": "Give a reason",
+  "artist": "林原めぐみ",
+  "collection": "【歌切】[2026-06-09]🎂｜生日!!｜先来唱歌!!从一开始就嗨到最高潮!! ∞ 響架 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKEo6gEM5?p=6",
+  "source": "kyoka.js"
+},
+    {
+  "title": "AXIA ～ダイスキでダイキライ～",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-06-09]🎂｜生日!!｜先来唱歌!!从一开始就嗨到最高潮!! ∞ 響架 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKEo6gEM5?p=7",
+  "source": "kyoka.js"
+},
+    {
+  "title": "ヒーロー",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-06-09]🎂｜生日!!｜先来唱歌!!从一开始就嗨到最高潮!! ∞ 響架 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKEo6gEM5?p=8",
+  "source": "kyoka.js"
+},
+    {
+  "title": "Perfect Day",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-06-09]🎂｜生日!!｜先来唱歌!!从一开始就嗨到最高潮!! ∞ 響架 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKEo6gEM5?p=9",
+  "source": "kyoka.js"
+},
+    {
+  "title": "ビリミリオン",
+  "artist": "優里",
+  "collection": "【歌切】[2026-06-09]🎂｜生日!!｜先来唱歌!!从一开始就嗨到最高潮!! ∞ 響架 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKEo6gEM5?p=10",
+  "source": "kyoka.js"
+},
+    {
+  "title": "1×",
+  "artist": "響架",
+  "collection": "【歌切】[2026-06-09]🎂｜生日!!｜先来唱歌!!从一开始就嗨到最高潮!! ∞ 響架 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKEo6gEM5?p=11",
+  "source": "kyoka.js"
+},
+    {
+  "title": "Honto",
+  "artist": "sumika",
+  "collection": "【歌切】[2026-06-09]🎂｜生日!!｜先来唱歌!!从一开始就嗨到最高潮!! ∞ 響架 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKEo6gEM5?p=12",
+  "source": "kyoka.js"
+},
+    {
+  "title": "君の夢を聞きながら、僕は笑えるアイデアを!",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-06-09]🎂｜生日!!｜先来唱歌!!从一开始就嗨到最高潮!! ∞ 響架 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKEo6gEM5?p=13",
+  "source": "kyoka.js"
+},
+    {
+  "title": "世界はそれを愛と呼ぶんだぜ",
+  "artist": "サンボマスター",
+  "collection": "【歌切】[2026-06-09]🎂｜生日!!｜先来唱歌!!从一开始就嗨到最高潮!! ∞ 響架 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKEo6gEM5?p=14",
+  "source": "kyoka.js"
+},
+    {
+  "title": "GO MY WAY!!",
+  "artist": "天海春香(中村繪里子),水瀬伊織(釘宮理恵),高槻やよい(仁後真耶子)",
+  "collection": "【歌切】[2026-06-09]🎂｜生日!!｜先来唱歌!!从一开始就嗨到最高潮!! ∞ 響架 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKEo6gEM5?p=15",
+  "source": "kyoka.js"
+},
+    {
+  "title": "Climax Jump",
+  "artist": "AAA DEN-O form",
+  "collection": "【歌切】[2026-06-09]🎂｜生日!!｜先来唱歌!!从一开始就嗨到最高潮!! ∞ 響架 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKEo6gEM5?p=16",
+  "source": "kyoka.js"
+},
+    {
+  "title": "あとの祭り",
+  "artist": "オーイシマサヨシ",
+  "collection": "【歌切】[2026-06-09]🎂｜生日!!｜先来唱歌!!从一开始就嗨到最高潮!! ∞ 響架 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKEo6gEM5?p=17",
+  "source": "kyoka.js"
+},
+    {
+  "title": "いったやんけ！",
+  "artist": "響架",
+  "collection": "【歌切】[2026-06-09]🎂｜生日!!｜先来唱歌!!从一开始就嗨到最高潮!! ∞ 響架 Kyoka Ch. -響架-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKEo6gEM5?p=18",
   "source": "kyoka.js"
 }
 );

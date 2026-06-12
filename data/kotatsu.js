@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 6/10/2026, 3:26:47 PM
+// 生成时间: 6/12/2026, 4:43:43 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5867,6 +5867,382 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "たられば",
+  "artist": "amazarashi",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "バラ色の日々",
+  "artist": "MOROHA",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Peace",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜な夜なエール",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "数え歌",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜空ノムコウ",
+  "artist": "SMAP",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "桜なんて咲かなくていい",
+  "artist": "甘王ばなな",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "人として",
+  "artist": "SUPER BEAVER",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜にだけ",
+  "artist": "GOOD ON THE REEL",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "青い空",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "「ずっと大好きだよ」「ほんと?…」",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ただ",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "サーカスナイト",
+  "artist": "七尾旅人",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "深呼吸",
+  "artist": "ハナレグミ",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "デイ・ドリーム・ビリーバー",
+  "artist": "THE TIMERS",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "エピゴウネ",
+  "artist": "日食なつこ",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "負け犬にアンコールはいらない",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アンチノミー",
+  "artist": "amazarashi",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "家族の風景",
+  "artist": "ハナレグミ",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "深夜高速",
+  "artist": "フラワーカンパニーズ",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ルージュの伝言",
+  "artist": "荒井由実",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "香水",
+  "artist": "瑛人",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "インフェルノ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜の踊り子",
+  "artist": "サカナクション",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=29",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=30",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "暗闇坂むささび変化",
+  "artist": "はっぴいえんど",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=31",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "君と羊と青",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=32",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=33",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "はじめてのチュウ",
+  "artist": "あんしんパパ",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=34",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "可愛くてごめん",
+  "artist": "HoneyWorks feat. かぴ",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=35",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ヒロイン",
+  "artist": "back number",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=36",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "黒毛和牛上塩タン焼680円",
+  "artist": "大塚愛",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=37",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "冬へと走りだすお！",
+  "artist": "でんぱ組.inc",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=38",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=39",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "遠き山に日は落ちて",
+  "artist": "童謡",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=40",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "me me she",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=41",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "情熱の薔薇",
+  "artist": "THE BLUE HEARTS",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=42",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "木蘭の涙",
+  "artist": "スターダスト☆レビュー",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=43",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "朝ごはんの歌",
+  "artist": "手嶌葵",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=44",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ナイトオンザプラネット",
+  "artist": "クリープハイプ",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=45",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "にんげんっていいな",
+  "artist": "中島義実、ヤング・フレッシュ",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=46",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "幕無し",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=47",
   "source": "kotatsu.js"
 }
 );
