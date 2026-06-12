@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 6/12/2026, 8:27:19 PM
+// 生成时间: 6/12/2026, 8:35:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3414,8 +3414,8 @@ window.SONG_DATA.push(
   "source": "kukuri.js"
 },
     {
-  "title": "寄り酔い",
-  "artist": "和ぬか",
+  "title": "ハレンチ",
+  "artist": "ちゃんみな",
   "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=13",
