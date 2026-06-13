@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/13/2026, 4:47:57 PM
+// 生成时间: 6/13/2026, 5:01:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9583,7 +9583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "IMAWANOKIWA",
-  "artist": "いよわ",
+  "artist": "いよわ feat.初音ミク",
   "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=8",
@@ -9591,7 +9591,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ジェヘナ",
-  "artist": "wotaku",
+  "artist": "wotaku feat.初音ミク",
   "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=9",
@@ -9599,7 +9599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Dear",
-  "artist": "19's Sound Factory",
+  "artist": "19's Sound Factory feat.初音ミク",
   "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=10",
@@ -9607,7 +9607,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "魔的",
-  "artist": "理芽 feat. 花譜",
+  "artist": "理芽 feat.花譜",
   "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=11",
@@ -9615,7 +9615,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ローリンガール",
-  "artist": "wowaka",
+  "artist": "wowaka feat.初音ミク",
   "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=12",
@@ -9630,8 +9630,8 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "flos.",
-  "artist": "R Sound Design",
+  "title": "flos",
+  "artist": "R Sound Design feat.初音ミク",
   "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=14",
@@ -9646,8 +9646,8 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "フォニィ",
-  "artist": "ツミキ",
+  "title": "フォニイ",
+  "artist": "ツミキ feat.可不",
   "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=16",
@@ -9655,7 +9655,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハングリーニコル",
-  "artist": "煮る果実",
+  "artist": "煮ル果実 feat.flower",
   "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=17",
@@ -9671,7 +9671,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ライラック",
-  "artist": "Mrs.GREEN APPLE",
+  "artist": "Mrs. GREEN APPLE",
   "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=19",
@@ -9679,7 +9679,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "クスシキ",
-  "artist": "Mrs.GREEN APPLE",
+  "artist": "Mrs. GREEN APPLE",
   "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=20",
@@ -9711,7 +9711,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "再会",
-  "artist": "はるまきごはん",
+  "artist": "はるまきごはん feat.初音ミク",
   "collection": "歌切 2026-05-15 カシ・オトハ / Kashi Otoha fk15Ys70gXQ 悠闲午间歌回✦适合用作工作用直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RU5q6NEWF?p=24",
