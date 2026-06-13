@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 6/13/2026, 1:53:23 PM
+// 生成时间: 6/13/2026, 2:03:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6747,6 +6747,38 @@ window.SONG_DATA.push(
   "collection": "【明日夢🎸弾き語り歌切】[2026-06-11]调试麦克风之旅",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sKE66KEkk?p=26",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-06-13]治愈弹唱特辑，伴你入眠 𓈒𓏸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jrJp6GEHK?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "春を待つ",
+  "artist": "Islet feat. 倚水",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-06-13]治愈弹唱特辑，伴你入眠 𓈒𓏸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jrJp6GEHK?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-06-13]治愈弹唱特辑，伴你入眠 𓈒𓏸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jrJp6GEHK?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "よるのあと",
+  "artist": "adieu",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-06-13]治愈弹唱特辑，伴你入眠 𓈒𓏸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jrJp6GEHK?p=4",
   "source": "asuyumekanae.js"
 }
 );
