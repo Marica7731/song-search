@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 6/13/2026, 2:50:45 PM
+// 生成时间: 6/13/2026, 3:03:49 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21131,6 +21131,38 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-05-22]3D生日Live「愿你不再迷茫。」 稀羽すう - Suu Usuwa -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VHGh6kEv8?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "テトラゴン",
+  "artist": "やなぎなぎ",
+  "collection": "【🦢歌切】[2026-06-13]非常悠闲的小鸟。 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WpJp6sEXc?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "エイリアンズ",
+  "artist": "キリンジ",
+  "collection": "【🦢歌切】[2026-06-13]非常悠闲的小鸟。 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WpJp6sEXc?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "トロイメライ",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-06-13]非常悠闲的小鸟。 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WpJp6sEXc?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【🦢歌切】[2026-06-13]非常悠闲的小鸟。 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WpJp6sEXc?p=4",
   "source": "suu_usuwa.js"
 }
 );
