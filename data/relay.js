@@ -1,6 +1,6 @@
 // 接力 - 歌单数据 (多合集汇总)
 // 来源: BV1rkCTYzEZN, BV1wt421j7gT, BV1KpCdYmE3T, BV1aC4ce2E5s, BV1JbX9BmE5m, BV1nJ5S6CETQ, BV1duSRBBEkb
-// 生成时间: 6/13/2026, 2:48:09 PM
+// 生成时间: 6/13/2026, 3:09:00 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -939,6 +939,70 @@ window.SONG_DATA.push(
   "collection": "接力歌切 花鹿 める / Kajica Mel 2026-06-13 迷失在沉睡森林中的你🌳💤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vrJp6GEtu?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "接力歌切 Oto Ch. 透乃 おと 2026-06-13 将治愈之音传递至你心中✧*｡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ypJp6sEAm?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "接力歌切 Oto Ch. 透乃 おと 2026-06-13 将治愈之音传递至你心中✧*｡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ypJp6sEAm?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "接力歌切 Oto Ch. 透乃 おと 2026-06-13 将治愈之音传递至你心中✧*｡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ypJp6sEAm?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "接力歌切 Oto Ch. 透乃 おと 2026-06-13 将治愈之音传递至你心中✧*｡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ypJp6sEAm?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "紡ぐ",
+  "artist": "とた",
+  "collection": "接力歌切 明智光月 2026-06-13 悠闲时光，为你送上！💫🍡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1snJp6dEeN?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "ハロ／ハワユ",
+  "artist": "ナノウ feat.初音ミク",
+  "collection": "接力歌切 明智光月 2026-06-13 悠闲时光，为你送上！💫🍡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1snJp6dEeN?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗",
+  "collection": "接力歌切 明智光月 2026-06-13 悠闲时光，为你送上！💫🍡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1snJp6dEeN?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "世界の約束",
+  "artist": "倍賞千恵子",
+  "collection": "接力歌切 明智光月 2026-06-13 悠闲时光，为你送上！💫🍡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1snJp6dEeN?p=4",
   "source": "relay.js"
 },
     {
