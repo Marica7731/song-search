@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 6/12/2026, 11:11:52 PM
+// 生成时间: 6/12/2026, 11:20:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -16795,6 +16795,110 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=27",
+  "source": "ririsya.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【🐍歌切】[2026-06-12]无法入眠之夜的吉他弹唱 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CqJ76zEhm?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "サーカスナイト",
+  "artist": "七尾旅人",
+  "collection": "【🐍歌切】[2026-06-12]无法入眠之夜的吉他弹唱 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CqJ76zEhm?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ネコに風船",
+  "artist": "大塚 愛",
+  "collection": "【🐍歌切】[2026-06-12]无法入眠之夜的吉他弹唱 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CqJ76zEhm?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【🐍歌切】[2026-06-12]无法入眠之夜的吉他弹唱 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CqJ76zEhm?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "真夏の夜の夢",
+  "artist": "松任谷由実",
+  "collection": "【🐍歌切】[2026-06-12]无法入眠之夜的吉他弹唱 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CqJ76zEhm?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "青空",
+  "artist": "THE BLUE HEARTS",
+  "collection": "【🐍歌切】[2026-06-12]无法入眠之夜的吉他弹唱 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CqJ76zEhm?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ルージュの伝言",
+  "artist": "荒井由実",
+  "collection": "【🐍歌切】[2026-06-12]无法入眠之夜的吉他弹唱 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CqJ76zEhm?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "feel my soul",
+  "artist": "YUI",
+  "collection": "【🐍歌切】[2026-06-12]无法入眠之夜的吉他弹唱 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CqJ76zEhm?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "チャイナアドバイス",
+  "artist": "相対性理論",
+  "collection": "【🐍歌切】[2026-06-12]无法入眠之夜的吉他弹唱 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CqJ76zEhm?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "mosi mosi?",
+  "artist": "楽音",
+  "collection": "【🐍歌切】[2026-06-12]无法入眠之夜的吉他弹唱 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CqJ76zEhm?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "愛言葉",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【🐍歌切】[2026-06-12]无法入眠之夜的吉他弹唱 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CqJ76zEhm?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "【🐍歌切】[2026-06-12]无法入眠之夜的吉他弹唱 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CqJ76zEhm?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ロビンソン",
+  "artist": "スピッツ",
+  "collection": "【🐍歌切】[2026-06-12]无法入眠之夜的吉他弹唱 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CqJ76zEhm?p=13",
   "source": "ririsya.js"
 }
 );
