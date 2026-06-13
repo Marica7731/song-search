@@ -1,6 +1,6 @@
 // 接力 - 歌单数据 (多合集汇总)
 // 来源: BV1rkCTYzEZN, BV1wt421j7gT, BV1KpCdYmE3T, BV1aC4ce2E5s, BV1JbX9BmE5m, BV1nJ5S6CETQ, BV1duSRBBEkb
-// 生成时间: 6/13/2026, 1:55:49 PM
+// 生成时间: 6/13/2026, 2:08:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -907,6 +907,38 @@ window.SONG_DATA.push(
   "collection": "接力歌切 唄街しの 2026-06-13 被温暖的吉他音色包围着…？",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1H8Jp6SEEM?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "Planetes",
+  "artist": "EGOIST",
+  "collection": "接力歌切 花鹿 める / Kajica Mel 2026-06-13 迷失在沉睡森林中的你🌳💤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vrJp6GEtu?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "歩き出すのだ、傘がなくとも。",
+  "artist": "傘村トータ feat.Fukase",
+  "collection": "接力歌切 花鹿 める / Kajica Mel 2026-06-13 迷失在沉睡森林中的你🌳💤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vrJp6GEtu?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "満ちてゆく",
+  "artist": "藤井風",
+  "collection": "接力歌切 花鹿 める / Kajica Mel 2026-06-13 迷失在沉睡森林中的你🌳💤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vrJp6GEtu?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN feat.鏡音リン",
+  "collection": "接力歌切 花鹿 める / Kajica Mel 2026-06-13 迷失在沉睡森林中的你🌳💤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vrJp6GEtu?p=4",
   "source": "relay.js"
 },
     {
