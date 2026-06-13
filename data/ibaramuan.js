@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 6/13/2026, 1:54:07 PM
+// 生成时间: 6/13/2026, 2:04:42 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1611,6 +1611,206 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-12]来听我唱喜欢的歌吧！初见也请务必来听！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFJ56ME6A?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ダンスホール",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ハネウマライダー",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ミュージック・アワー",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Velonica",
+  "artist": "Aqua Timez",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ALONES",
+  "artist": "Aqua Timez",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "全力少年",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ゴールデンタイムラバー",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ロウワー",
+  "artist": "ぬゆり feat.flower",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "フィクサー",
+  "artist": "ぬゆり feat.flower",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "雨とペトラ",
+  "artist": "バルーン feat.flower",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "花瓶に触れた",
+  "artist": "バルーン feat.flower",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アサガオの散る頃に",
+  "artist": "じっぷす feat.初音ミク",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat.初音ミク",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "宵々古今",
+  "artist": "REOL",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "第六感",
+  "artist": "Reol",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "I",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "フラジール",
+  "artist": "ぬゆり feat.GUMI",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ジェヘナ",
+  "artist": "wotaku feat.初音ミク",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ガジュマル 〜Heaven in the Rain〜",
+  "artist": "ReoNa",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "生命線",
+  "artist": "ReoNa",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "星が瞬くこんな夜に",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=25",
   "source": "ibaramuan.js"
 }
 );
