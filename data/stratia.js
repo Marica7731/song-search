@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 6/13/2026, 3:57:22 PM
+// 生成时间: 6/13/2026, 4:04:16 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -827,6 +827,78 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-06-10]㊗会员开通纪念歌回‼️🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18xEo64EQi?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "かみつきたい",
+  "artist": "カネコアヤノ",
+  "collection": "【🎸🦋歌切】[2026-06-13]要不要听一首歌？🎸🎤🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1JH6DEqv?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "愛のままを",
+  "artist": "カネコアヤノ",
+  "collection": "【🎸🦋歌切】[2026-06-13]要不要听一首歌？🎸🎤🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1JH6DEqv?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【🎸🦋歌切】[2026-06-13]要不要听一首歌？🎸🎤🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1JH6DEqv?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【🎸🦋歌切】[2026-06-13]要不要听一首歌？🎸🎤🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1JH6DEqv?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "バスタイムプラネタリウム",
+  "artist": "HACHI",
+  "collection": "【🎸🦋歌切】[2026-06-13]要不要听一首歌？🎸🎤🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1JH6DEqv?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "とてと",
+  "artist": "パペットスンスン",
+  "collection": "【🎸🦋歌切】[2026-06-13]要不要听一首歌？🎸🎤🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1JH6DEqv?p=6",
+  "source": "stratia.js"
+},
+    {
+  "title": "生活革命",
+  "artist": "PEDRO",
+  "collection": "【🎸🦋歌切】[2026-06-13]要不要听一首歌？🎸🎤🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1JH6DEqv?p=7",
+  "source": "stratia.js"
+},
+    {
+  "title": "フリージア",
+  "artist": "Uru",
+  "collection": "【🎸🦋歌切】[2026-06-13]要不要听一首歌？🎸🎤🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1JH6DEqv?p=8",
+  "source": "stratia.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【🎸🦋歌切】[2026-06-13]要不要听一首歌？🎸🎤🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1JH6DEqv?p=9",
   "source": "stratia.js"
 }
 );
