@@ -1,6 +1,6 @@
 // 接力 - 歌单数据 (多合集汇总)
 // 来源: BV1rkCTYzEZN, BV1wt421j7gT, BV1KpCdYmE3T, BV1aC4ce2E5s, BV1JbX9BmE5m, BV1nJ5S6CETQ, BV1duSRBBEkb
-// 生成时间: 6/13/2026, 1:07:22 PM
+// 生成时间: 6/13/2026, 1:16:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -843,6 +843,70 @@ window.SONG_DATA.push(
   "collection": "【 #CMYKProject 】初の歌枠リレー参加 ⸝⋆ 【 しほ 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kkRsYXESP?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "一度だけの恋なら",
+  "artist": "ワルキューレ",
+  "collection": "接力歌切 魔ノむえる -Mano Mueru- 2026-06-13 〖 心动♡ 〗为你献上塞满一切的超大份心动💜.ᐟ 〖 ￤ 〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1H8Jp6SEVB?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "貴方の恋人になりたい",
+  "artist": "チョーキューメイ",
+  "collection": "接力歌切 魔ノむえる -Mano Mueru- 2026-06-13 〖 心动♡ 〗为你献上塞满一切的超大份心动💜.ᐟ 〖 ￤ 〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1H8Jp6SEVB?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "Wishing",
+  "artist": "レム(CV:水瀬いのり)",
+  "collection": "接力歌切 魔ノむえる -Mano Mueru- 2026-06-13 〖 心动♡ 〗为你献上塞满一切的超大份心动💜.ᐟ 〖 ￤ 〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1H8Jp6SEVB?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "彗星",
+  "artist": "星街すいせい",
+  "collection": "接力歌切 魔ノむえる -Mano Mueru- 2026-06-13 〖 心动♡ 〗为你献上塞满一切的超大份心动💜.ᐟ 〖 ￤ 〗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1H8Jp6SEVB?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "SWEET MEMORIES",
+  "artist": "松田聖子",
+  "collection": "接力歌切 唄街しの 2026-06-13 被温暖的吉他音色包围着…？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1H8Jp6SEEM?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "笑えよ乙女",
+  "artist": "コレサワ",
+  "collection": "接力歌切 唄街しの 2026-06-13 被温暖的吉他音色包围着…？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1H8Jp6SEEM?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "接力歌切 唄街しの 2026-06-13 被温暖的吉他音色包围着…？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1H8Jp6SEEM?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "さよならの夏 〜コクリコ坂から〜",
+  "artist": "手嶌葵",
+  "collection": "接力歌切 唄街しの 2026-06-13 被温暖的吉他音色包围着…？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1H8Jp6SEEM?p=4",
   "source": "relay.js"
 },
     {

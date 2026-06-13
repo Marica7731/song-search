@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 6/13/2026, 1:11:57 PM
+// 生成时间: 6/13/2026, 1:22:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -223,7 +223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花瓶の花",
-  "artist": "岩崎ひゅーい",
+  "artist": "石崎ひゅーい",
   "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=4",
@@ -231,7 +231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "小夜子",
-  "artist": "ミキト(みきとP)",
+  "artist": "みきとP feat.初音ミク",
   "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=5",
@@ -246,7 +246,7 @@ window.SONG_DATA.push(
   "source": "stratia.js"
 },
     {
-  "title": "渡月橋 ～君 想ふ～",
+  "title": "渡月橋 〜君 想ふ〜",
   "artist": "倉木麻衣",
   "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
@@ -262,7 +262,7 @@ window.SONG_DATA.push(
   "source": "stratia.js"
 },
     {
-  "title": "蓝",
+  "title": "藍",
   "artist": "スキマスイッチ",
   "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
