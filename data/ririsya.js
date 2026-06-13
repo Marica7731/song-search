@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 6/13/2026, 6:32:35 AM
+// 生成时间: 6/13/2026, 6:41:31 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -16815,7 +16815,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ネコに風船",
-  "artist": "大塚 愛",
+  "artist": "大塚愛",
   "collection": "【🐍歌切】[2026-06-12]无法入眠之夜的吉他弹唱 ✧ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CqJ76zEhm?p=3",
