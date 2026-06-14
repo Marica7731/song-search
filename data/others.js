@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/14/2026, 8:09:17 PM
+// 生成时间: 6/14/2026, 8:31:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14523,6 +14523,54 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-06-14 柴田こむぎ QJEMsEgUq1A 〖歌回〗吉他 & mellow",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NbJP6BEe1?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "衛星",
+  "artist": "赤い公園",
+  "collection": "歌切 2026-06-14 甘葛すもあ / Amazura Sumoa pTkt4JRyJbc 能教我一下摇滚新音乐吗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18WJM6tECS?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "不完全なキミ",
+  "artist": "アルカラ",
+  "collection": "歌切 2026-06-14 甘葛すもあ / Amazura Sumoa pTkt4JRyJbc 能教我一下摇滚新音乐吗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18WJM6tECS?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "いばらのみち",
+  "artist": "椿屋四重奏",
+  "collection": "歌切 2026-06-14 甘葛すもあ / Amazura Sumoa pTkt4JRyJbc 能教我一下摇滚新音乐吗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18WJM6tECS?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "切illing Me Softly",
+  "artist": "空想委員会",
+  "collection": "歌切 2026-06-14 甘葛すもあ / Amazura Sumoa pTkt4JRyJbc 能教我一下摇滚新音乐吗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18WJM6tECS?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ストックホルム",
+  "artist": "People In The Box",
+  "collection": "歌切 2026-06-14 甘葛すもあ / Amazura Sumoa pTkt4JRyJbc 能教我一下摇滚新音乐吗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18WJM6tECS?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "今日も生きたね",
+  "artist": "THE NOVEMBERS",
+  "collection": "歌切 2026-06-14 甘葛すもあ / Amazura Sumoa pTkt4JRyJbc 能教我一下摇滚新音乐吗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18WJM6tECS?p=6",
   "source": "others.js"
 },
     {
