@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 6/14/2026, 12:16:11 PM
+// 生成时间: 6/14/2026, 12:26:54 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3595,6 +3595,142 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-06-11]6万人达成了，真的吗？🥹 歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1smE66MEmV?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "六月は雨上がりの街を書く",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-06-14]今日也元气满满地唱歌哦歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kJP6fERS?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-06-14]今日也元气满满地唱歌哦歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kJP6fERS?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-06-14]今日也元气满满地唱歌哦歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kJP6fERS?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "雨が降る",
+  "artist": "坂本真綾",
+  "collection": "【💫✖歌切】[2026-06-14]今日也元气满满地唱歌哦歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kJP6fERS?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "僕たちが恋をする理由",
+  "artist": "坂本真綾",
+  "collection": "【💫✖歌切】[2026-06-14]今日也元气满满地唱歌哦歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kJP6fERS?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "君が夜の海に還るまで",
+  "artist": "こんにちは谷田さん feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-06-14]今日也元气满满地唱歌哦歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kJP6fERS?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夜永唄",
+  "artist": "神はサイコロを振らない",
+  "collection": "【💫✖歌切】[2026-06-14]今日也元气满满地唱歌哦歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kJP6fERS?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "泡沫花火",
+  "artist": "神はサイコロを振らない",
+  "collection": "【💫✖歌切】[2026-06-14]今日也元气满满地唱歌哦歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kJP6fERS?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "満ちてゆく",
+  "artist": "藤井風",
+  "collection": "【💫✖歌切】[2026-06-14]今日也元气满满地唱歌哦歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kJP6fERS?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "朝が来る前に",
+  "artist": "秦基博",
+  "collection": "【💫✖歌切】[2026-06-14]今日也元气满满地唱歌哦歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kJP6fERS?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Letters",
+  "artist": "宇多田ヒカル",
+  "collection": "【💫✖歌切】[2026-06-14]今日也元气满满地唱歌哦歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kJP6fERS?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【💫✖歌切】[2026-06-14]今日也元气满满地唱歌哦歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kJP6fERS?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "眠れぬ夜は君のせい",
+  "artist": "MISIA",
+  "collection": "【💫✖歌切】[2026-06-14]今日也元气满满地唱歌哦歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kJP6fERS?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "逢いたくていま",
+  "artist": "MISIA",
+  "collection": "【💫✖歌切】[2026-06-14]今日也元气满满地唱歌哦歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kJP6fERS?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Everything",
+  "artist": "MISIA",
+  "collection": "【💫✖歌切】[2026-06-14]今日也元气满满地唱歌哦歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kJP6fERS?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【💫✖歌切】[2026-06-14]今日也元气满满地唱歌哦歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kJP6fERS?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "寄り酔い",
+  "artist": "和ぬか",
+  "collection": "【💫✖歌切】[2026-06-14]今日也元气满满地唱歌哦歌回 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kJP6fERS?p=17",
   "source": "kukuri.js"
 }
 );
