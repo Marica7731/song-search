@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 6/14/2026, 4:30:39 PM
+// 生成时间: 6/14/2026, 4:39:24 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2115,6 +2115,54 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=15",
+  "source": "friends.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "联动歌切 よしか⁂（YOSHIKA⁂）❌七海うらら 2026-06-14 与よしか⁂酱的联动歌回！纪念七海うらら首次Zepp演出",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15VJK64Ebp?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat.巡音ルカ・GUMI",
+  "collection": "联动歌切 よしか⁂（YOSHIKA⁂）❌七海うらら 2026-06-14 与よしか⁂酱的联动歌回！纪念七海うらら首次Zepp演出",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15VJK64Ebp?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat.巡音ルカ",
+  "collection": "联动歌切 よしか⁂（YOSHIKA⁂）❌七海うらら 2026-06-14 与よしか⁂酱的联动歌回！纪念七海うらら首次Zepp演出",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15VJK64Ebp?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat.GUMI・鏡音リン",
+  "collection": "联动歌切 よしか⁂（YOSHIKA⁂）❌七海うらら 2026-06-14 与よしか⁂酱的联动歌回！纪念七海うらら首次Zepp演出",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15VJK64Ebp?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "DISCOTHEQUE",
+  "artist": "水樹奈々",
+  "collection": "联动歌切 よしか⁂（YOSHIKA⁂）❌七海うらら 2026-06-14 与よしか⁂酱的联动歌回！纪念七海うらら首次Zepp演出",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15VJK64Ebp?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "恋は渾沌の隷也",
+  "artist": "後ろから這いより隊G",
+  "collection": "联动歌切 よしか⁂（YOSHIKA⁂）❌七海うらら 2026-06-14 与よしか⁂酱的联动歌回！纪念七海うらら首次Zepp演出",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15VJK64Ebp?p=6",
   "source": "friends.js"
 }
 );
