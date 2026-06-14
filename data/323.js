@@ -1,6 +1,6 @@
 // 323 - 歌单数据 (多合集汇总)
 // 来源: BV1r75B6LEwd
-// 生成时间: 6/14/2026, 3:51:23 PM
+// 生成时间: 6/14/2026, 4:02:01 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -935,7 +935,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "不可思議のカルテ",
-  "artist": "桜島麻衣,他",
+  "artist": "from青春ブタ野郎はバニーガール先輩の夢を見ない",
   "collection": "【歌切】[2026-06-03]初次见面◎BGM◎沉静治愈的歌回！  323(みすみ) -Misumi-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q77R6cEtj?p=14",
@@ -1319,7 +1319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "不可思議のカルテ",
-  "artist": "桜島麻衣",
+  "artist": "from青春ブタ野郎はバニーガール先輩の夢を見ない",
   "collection": "【歌切】[2026-06-10]想遇见10位初次见面的朋友！来唱歌！ 323(みすみ) -Misumi-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eEEo6wEsj?p=7",
