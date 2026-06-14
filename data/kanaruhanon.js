@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 6/14/2026, 12:38:42 PM
+// 生成时间: 6/14/2026, 12:48:56 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -547,6 +547,254 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-10]无计划选曲开唱✨来选些很久没唱的歌吧～！！ Hanon Ch. 香鳴ハノン【パレプロ】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18iE661EB5?p=11",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "エマ",
+  "artist": "go!go!vanillas",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Honto",
+  "artist": "Sumika",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Re:Re",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ミラクル",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=4",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ヒカリへ",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=5",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "踊れオーケストラ",
+  "artist": "YASUHIRO",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=6",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Over Over",
+  "artist": "澁谷かのん",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=7",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "超最強",
+  "artist": "超ときめき♡宣伝部",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=8",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Lovers",
+  "artist": "Sumika",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=9",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "感情電車",
+  "artist": "私立恵比寿中学",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=10",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ジャンプ",
+  "artist": "私立恵比寿中学",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=11",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "シンガロン・シンガソン",
+  "artist": "私立恵比寿中学",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=12",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "粛聖!! ロリ神レクイエム☆",
+  "artist": "しぐれうい",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=13",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "帰り道",
+  "artist": "加藤英美里",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=14",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "少女A",
+  "artist": "中森明菜",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=15",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "DISCOTHEQUE",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=16",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "yell",
+  "artist": "fono feat.香鳴ハノン (アカペラ 一部のみ)",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=17",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ハート型ウイルス",
+  "artist": "AKB48 (なうしんぎんぐに記載なし)",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=18",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "となりのバナナ",
+  "artist": "AKB48",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=19",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ガラスの I LOVE YOU",
+  "artist": "AKB48",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=20",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "おねがいダーリン",
+  "artist": "ナナホシ管弦楽団",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=21",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "明日も",
+  "artist": "MUSH&Co.",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=22",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "君のバンド",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=23",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=24",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "つよくなりたい",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=25",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "如月アテンション",
+  "artist": "じん",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=26",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "スイートマジック",
+  "artist": "ろん×Junky",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=27",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "リテラチュア",
+  "artist": "上田麗奈",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=28",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "灰色のサーガ",
+  "artist": "ChouCho",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=29",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "My Dream",
+  "artist": "直樹美紀 (アカペラ 一部のみ)",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=30",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "かくれんぼ",
+  "artist": "AliA",
+  "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=31",
   "source": "kanaruhanon.js"
 }
 );
