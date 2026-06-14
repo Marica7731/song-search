@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/14/2026, 5:16:59 PM
+// 生成时间: 6/14/2026, 5:27:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -13227,6 +13227,14 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-05-17 柴田こむぎ mM6gOMXzbpc 〖歌回〗Emo钢琴 ⋆ ☄︎. ·˚ *〖档案期间限定〗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zq7d6KESd?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "ミカヅキ - さユり",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16WodBYEQz?p=1",
   "source": "others.js"
 },
     {
