@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 6/14/2026, 11:24:04 AM
+// 生成时间: 6/14/2026, 11:40:40 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6291,6 +6291,142 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-11]睡眠导入歌回🌠祝你做个好梦 朱名 / SHUNA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bBE665EQ3?p=20",
+  "source": "shuna.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-14]✨午间歌回 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UcJN61EmK?p=1",
+  "source": "shuna.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-14]✨午间歌回 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UcJN61EmK?p=2",
+  "source": "shuna.js"
+},
+    {
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-14]✨午间歌回 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UcJN61EmK?p=3",
+  "source": "shuna.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-14]✨午间歌回 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UcJN61EmK?p=4",
+  "source": "shuna.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-14]✨午间歌回 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UcJN61EmK?p=5",
+  "source": "shuna.js"
+},
+    {
+  "title": "風と未来",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-14]✨午间歌回 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UcJN61EmK?p=6",
+  "source": "shuna.js"
+},
+    {
+  "title": "今走り出せば",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-14]✨午间歌回 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UcJN61EmK?p=7",
+  "source": "shuna.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-14]✨午间歌回 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UcJN61EmK?p=8",
+  "source": "shuna.js"
+},
+    {
+  "title": "流星ミラクル",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-14]✨午间歌回 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UcJN61EmK?p=9",
+  "source": "shuna.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【歌切】[2026-06-14]✨午间歌回 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UcJN61EmK?p=10",
+  "source": "shuna.js"
+},
+    {
+  "title": "Happy Smile Again",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-14]✨午间歌回 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UcJN61EmK?p=11",
+  "source": "shuna.js"
+},
+    {
+  "title": "ヒューマノイド",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-06-14]✨午间歌回 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UcJN61EmK?p=12",
+  "source": "shuna.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-06-14]✨午间歌回 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UcJN61EmK?p=13",
+  "source": "shuna.js"
+},
+    {
+  "title": "少年時代",
+  "artist": "井上陽水",
+  "collection": "【歌切】[2026-06-14]✨午间歌回 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UcJN61EmK?p=14",
+  "source": "shuna.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-06-14]✨午间歌回 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UcJN61EmK?p=15",
+  "source": "shuna.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "Whiteberry",
+  "collection": "【歌切】[2026-06-14]✨午间歌回 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UcJN61EmK?p=16",
+  "source": "shuna.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-14]✨午间歌回 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UcJN61EmK?p=17",
   "source": "shuna.js"
 }
 );
