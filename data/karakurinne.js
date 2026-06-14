@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 6/14/2026, 4:31:23 PM
+// 生成时间: 6/14/2026, 4:45:04 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1067,6 +1067,198 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-10]🎊会员功能解禁了！！非常感谢！！歌回 からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hHEo6FESX?p=10",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat. 初音ミク",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ウィステリア",
+  "artist": "Elinica",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat. GUMI",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "あいたい",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "まちぼうけ",
+  "artist": "ロクデナシ",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "負け犬にアンコールはいらない",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=8",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=9",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "爆弾魔",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=10",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "おじゃま虫",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=11",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ジレンマ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=12",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=13",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=14",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=15",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "晴れるまでいっしょ",
+  "artist": "傘村トータ feat. 雨衣",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=16",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=17",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=18",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "冬眠",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=19",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=20",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=21",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "翡翠のまち",
+  "artist": "メル feat. 初音ミク",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=22",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "翡翠のまち",
+  "artist": "メル feat. 初音ミク",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=23",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ひとりごつ",
+  "artist": "ハチワレ(CV:田中誠人)",
+  "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=24",
   "source": "karakurinne.js"
 }
 );
