@@ -223,7 +223,7 @@ function getCopyDuplicateIndex() {
   const value = String(input.value || '').trim();
   if (!value) return null;
   const parsed = parseInt(value, 10);
-  if (Number.isNaN(parsed) || parsed < 1) return null;
+  if (Number.isNaN(parsed) || parsed === 0) return null;
   return parsed;
 }
 
@@ -246,6 +246,8 @@ function getDuplicateLinkCandidatesForCopy(item) {
   });
   if (links.length === 0) return [];
 
+  if (currentMode === 'titleArtist') return links;
+
   const currentLink = String(item?.song?.link || '').trim();
   const filtered = currentLink ? links.filter(link => link !== currentLink) : links.slice();
   return filtered.length > 0 ? filtered : links;
@@ -253,15 +255,14 @@ function getDuplicateLinkCandidatesForCopy(item) {
 
 function getLinkForCopy(item) {
   if (!item || !item.song) return '';
-  if (currentMode !== 'bv') return item.song.link || '';
   const links = getDuplicateLinkCandidatesForCopy(item);
   if (links.length === 0) return item.song.link || '';
 
   const nth = getCopyDuplicateIndex();
   const rank = nth == null ? 1 : nth;
   const order = getCopyDuplicateOrder();
-  let index = rank - 1;
-  if (order === 'from-end') {
+  let index = rank > 0 ? rank - 1 : links.length + rank;
+  if (rank > 0 && order === 'from-end') {
     index = links.length - rank;
   }
   index = Math.max(0, Math.min(links.length - 1, index));

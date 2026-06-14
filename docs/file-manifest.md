@@ -13,8 +13,8 @@
 | `index-optimized.html` | 首页优化对照文件 | 与 `index.html` 保持同源，便于后续继续调样式或回看优化方案 | 配合 `docs/site-optimization-plan.md`；正式入口仍是 `index.html` |
 | `tabs-optimization-preview.html` | 六个主 tab 的优化方案预览 | 展示首页、数据、BV 查重、歌名歌手查重、命名工具、日报的目标布局、优化优先级、移动端形态和实时后端概览 | 配合 `docs/tabs-optimization-plan.md`；读取 `/api/tabs/overview`，不替换正式页面 |
 | `stats.html` | 数据统计页 | 展示来源、歌手、曲目、投稿时间等统计视图，左侧提供来源统计/歌曲排行/歌手聚合的数据导航，并记住 tab、来源、关键词和摘要链接数；来源分组显示头像，来源目录同步显示头像，歌曲行和场次预览显示 BV 封面；来源统计可按曲数、场次、场均、独特、去重升降序排序，场均排序会把 `statsAvgSortDeferred` 配置标记的合集型异常来源单独压到末尾；来源统计一次请求全部来源，歌曲排行和歌手聚合继续保留 30 条分页；歌曲排行使用标题区、指标区和场次预览区，来源/歌手分组使用紧凑歌曲行；来源统计、歌曲排行和歌手聚合在桌面端自适应多列排布；提供 `#statsDirectorySlot` 作为右侧目录布局列 | 优先请求 `/api/stats/view`，服务端不可用时回退本地数据；接入共享外壳、数据页专用视觉样式和 `page-directory-widget.js` 挂载目录；目录项从来源分组头像读取 `avatarUrl/avatarText/accentColor`；头像、歌曲封面和展开场次封面通过 `data-src` 延迟写入真实地址，隐藏行展开后再触发加载；本地视图偏好写入浏览器 `localStorage` |
-| `bv-dup-check.html` | BV 查重页面 | 接收 BV 列表，输出已存在和未命中的结果，提供短输入工作区、当前库/结果概览、复制预设入口和折叠式高级复制字段；来源选择挂在左侧栏，结果列表自适应多列卡片，目录挂载到右侧布局槽位并只保留关键分区 | 依赖 `dup-check-core.js` 与 `artist-match.js`；服务端 `/api/dup-check` 限制未知 BV live fallback；页面通过带版本号的 `site-theme.css` 和 `dup-check-core.js` 获取 BV 专用概览与卡片布局 |
-| `title-artist-dup-check.html` | 歌名歌手查重页面 | 批量检查“歌名 - 歌手”是否已入库，展示歌手疑似不一致分组，提供复制预设入口、折叠式高级复制字段和更干净的输入区；来源选择挂在左侧栏，结果列表自适应多列卡片，目录挂载到右侧布局槽位 | 依赖 `dup-check-core.js` 与 `artist-match.js`；页面通过带版本号的 `site-theme.css` 获取查重卡片布局 |
+| `bv-dup-check.html` | BV 查重页面 | 接收 BV 列表，输出已存在和未命中的结果，提供短输入工作区、当前库/结果概览、复制预设入口、重复链接位次输入和折叠式高级复制字段；来源选择挂在左侧栏，结果列表自适应多列卡片，目录挂载到右侧布局槽位并只保留关键分区 | 依赖 `dup-check-core.js` 与 `artist-match.js`；服务端 `/api/dup-check` 限制未知 BV live fallback；页面通过带版本号的 `site-theme.css` 和 `dup-check-core.js` 获取 BV 专用概览与卡片布局 |
+| `title-artist-dup-check.html` | 歌名歌手查重页面 | 批量检查“歌名 - 歌手”是否已入库，展示歌手疑似不一致分组，提供复制预设入口、重复链接位次输入、折叠式高级复制字段和更干净的输入区；来源选择挂在左侧栏，结果列表自适应多列卡片，目录挂载到右侧布局槽位 | 依赖 `dup-check-core.js` 与 `artist-match.js`；页面通过带版本号的 `site-theme.css` 获取查重卡片布局 |
 | `title-artist-check.html` | 命名和校验工具 | 校验歌名歌手组合，提供改名重查、搜索辅助、带编号纯歌名输入、已确认/需要确认/缺歌手/待入库/未找到状态筛选、前置的导出与网易云搜索工具条、当前可见结果复制、待处理项网易云搜索和右侧目录布局列 | 依赖 `bili-check-title-artist.js`；服务端 `/api/title-artist/lookup` 返回 summary；正式页面首屏直接包含共享外壳；目录通过 `#checkDirectorySlot` 挂载，避免浮层覆盖主内容操作按钮 |
 | `bili-check.html` | 旧综合页 | 保留旧版综合检查入口 | 与新拆分页面共享部分解析和查重逻辑 |
 | `song-growth.html` | 歌曲总量日报页 | 展示曲库总量、日增、去重歌曲数、播放量和按投稿时间增长；独立“去重歌曲曲线”面板用累计去重折线和日新增去重柱形图展示趋势；支持切换单指标分析、复制当前区间摘要和当前表格页 TSV | 由 `scripts/update-song-growth.js` 更新；读取 `/api/song-growth` 的 `combinedRows`、`publishUniqueRows`、`anomalies` 和缓存元信息 |
@@ -31,7 +31,7 @@
 | 文件路径 | 文件用途 | 主要函数或模块职责 | 与其他文件的关系 |
 |---|---|---|---|
 | `artist-match.js` | 歌手宽容匹配逻辑 | `normalizeString`、假名/罗马音转换、`areArtistsCompatible`、`isSameSong` | 被浏览器页面、`server.js`、`scripts/check-song-library.js` 共用 |
-| `dup-check-core.js` | 查重公共逻辑 | 读取歌库、解析 BV 或歌名歌手输入、查重、分组渲染、来源头像/数量渲染、结果封面与状态颜色渲染、复制预设、复制设置持久化、AI 辅助复制、安全转义结果文本 | 被 `bv-dup-check.html` 和 `title-artist-dup-check.html` 复用 |
+| `dup-check-core.js` | 查重公共逻辑 | 读取歌库、解析 BV 或歌名歌手输入、查重、分组渲染、来源头像/数量渲染、结果封面与状态颜色渲染、复制预设、按正负位次选择重复链接、复制设置持久化、AI 辅助复制、安全转义结果文本 | 被 `bv-dup-check.html` 和 `title-artist-dup-check.html` 复用 |
 | `bili-check-title-artist.js` | 命名/校验辅助 | 解析纯歌名、带编号纯歌名、带编号歌名歌手和简写歌名歌手输入，请求标题查询，生成候选歌手，按行级结果保存选择，按“已确认/需要确认/缺歌手/待入库/未找到”筛选候选，按用户输入优先并在未提供/未知/库中更详细时优先使用库中值，同步候选选择到修正输入框，生成校验结果文本，只对待处理项打开网易云搜索，安全转义候选内容 | 被 `title-artist-check.html` 和旧综合页相关流程使用 |
 
 ## 服务端
