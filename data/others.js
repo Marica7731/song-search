@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/14/2026, 12:02:28 PM
+// 生成时间: 6/14/2026, 12:06:37 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14475,6 +14475,46 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-06-09 HONKTHEHORN ItbPpn1ucrg 初出曲偏多的软乎乎歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zSEf6UE88?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "織姫とBABY",
+  "artist": "ねぐせ。 feat.汐れいら",
+  "collection": "歌切 2026-06-14 柴田こむぎ QJEMsEgUq1A 〖歌回〗吉他 & mellow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbJP6BEe1?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "napori",
+  "artist": "Vaundy",
+  "collection": "歌切 2026-06-14 柴田こむぎ QJEMsEgUq1A 〖歌回〗吉他 & mellow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbJP6BEe1?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ヤミタイガール",
+  "artist": "れるりり feat.GUMI",
+  "collection": "歌切 2026-06-14 柴田こむぎ QJEMsEgUq1A 〖歌回〗吉他 & mellow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbJP6BEe1?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "花一匁",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "歌切 2026-06-14 柴田こむぎ QJEMsEgUq1A 〖歌回〗吉他 & mellow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbJP6BEe1?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "歌切 2026-06-14 柴田こむぎ QJEMsEgUq1A 〖歌回〗吉他 & mellow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbJP6BEe1?p=5",
   "source": "others.js"
 },
     {
