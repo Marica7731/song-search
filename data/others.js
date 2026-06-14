@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/14/2026, 8:31:52 PM
+// 生成时间: 6/14/2026, 8:37:28 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14571,6 +14571,182 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-06-14 甘葛すもあ / Amazura Sumoa pTkt4JRyJbc 能教我一下摇滚新音乐吗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18WJM6tECS?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "さよーならまたいつか！",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ロウワー",
+  "artist": "ぬゆり feat.flower",
+  "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "メランコリーキッチン",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ずうっといっしょ！",
+  "artist": "キタニタツヤ",
+  "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "I beg you",
+  "artist": "Aimer [映画 Fate/stay night [Heaven's Feel] II.lost butterfly]",
+  "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "愛して愛して愛して",
+  "artist": "きくお feat.初音ミク",
+  "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "Bitter",
+  "artist": "ロス",
+  "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "永遠甚だしい",
+  "artist": "獅子志司 feat.初音ミク",
+  "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "うつけ論争",
+  "artist": "獅子志司 feat.初音ミク",
+  "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "SPiCa -ReACT-",
+  "artist": "GARNiDELiA",
+  "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "トリコロージュ",
+  "artist": "煮ル果実 feat.初音ミク",
+  "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "夢のまた夢",
+  "artist": "まふまふ",
+  "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "しゅうまつがやってくる！",
+  "artist": "sasakure.UK feat.鏡音リン",
+  "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=22",
   "source": "others.js"
 },
     {
