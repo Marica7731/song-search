@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/15/2026, 7:11:21 PM
+// 生成时间: 6/15/2026, 7:16:34 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14787,6 +14787,166 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-06-15 YuNi - official channel 神曲动画歌曲歌回！！ I-8VQkDG5ic",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MAjT6GEF7?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "歌切 2026-06-14 カシ・オトハ / Kashi Otoha bZEZaQIJXvQ 高評価150目標✦深夜の睡眠導入弾き語り",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWjT6oE6X?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "あなたは煙草 私はシャボン",
+  "artist": "ラブリーサマーちゃん",
+  "collection": "歌切 2026-06-14 カシ・オトハ / Kashi Otoha bZEZaQIJXvQ 高評価150目標✦深夜の睡眠導入弾き語り",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWjT6oE6X?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "光",
+  "artist": "宇多田ヒカル",
+  "collection": "歌切 2026-06-14 カシ・オトハ / Kashi Otoha bZEZaQIJXvQ 高評価150目標✦深夜の睡眠導入弾き語り",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWjT6oE6X?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat.flower",
+  "collection": "歌切 2026-06-14 カシ・オトハ / Kashi Otoha bZEZaQIJXvQ 高評価150目標✦深夜の睡眠導入弾き語り",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWjT6oE6X?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-06-14 カシ・オトハ / Kashi Otoha bZEZaQIJXvQ 高評価150目標✦深夜の睡眠導入弾き語り",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWjT6oE6X?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat.初音ミク",
+  "collection": "歌切 2026-06-14 カシ・オトハ / Kashi Otoha bZEZaQIJXvQ 高評価150目標✦深夜の睡眠導入弾き語り",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWjT6oE6X?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ねむるまち",
+  "artist": "くじら feat.yama",
+  "collection": "歌切 2026-06-14 カシ・オトハ / Kashi Otoha bZEZaQIJXvQ 高評価150目標✦深夜の睡眠導入弾き語り",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWjT6oE6X?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "歌切 2026-06-14 カシ・オトハ / Kashi Otoha bZEZaQIJXvQ 高評価150目標✦深夜の睡眠導入弾き語り",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWjT6oE6X?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "glow",
+  "artist": "keeno feat.初音ミク",
+  "collection": "歌切 2026-06-14 カシ・オトハ / Kashi Otoha bZEZaQIJXvQ 高評価150目標✦深夜の睡眠導入弾き語り",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWjT6oE6X?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "トレモロ",
+  "artist": "RADWIMPS",
+  "collection": "歌切 2026-06-14 カシ・オトハ / Kashi Otoha bZEZaQIJXvQ 高評価150目標✦深夜の睡眠導入弾き語り",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWjT6oE6X?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "セプテンバーさん",
+  "artist": "RADWIMPS",
+  "collection": "歌切 2026-06-14 カシ・オトハ / Kashi Otoha bZEZaQIJXvQ 高評価150目標✦深夜の睡眠導入弾き語り",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWjT6oE6X?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "がらくた",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-06-14 カシ・オトハ / Kashi Otoha bZEZaQIJXvQ 高評価150目標✦深夜の睡眠導入弾き語り",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWjT6oE6X?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "深昏睡",
+  "artist": "春野 feat.初音ミク",
+  "collection": "歌切 2026-06-14 カシ・オトハ / Kashi Otoha bZEZaQIJXvQ 高評価150目標✦深夜の睡眠導入弾き語り",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWjT6oE6X?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "歌切 2026-06-14 カシ・オトハ / Kashi Otoha bZEZaQIJXvQ 高評価150目標✦深夜の睡眠導入弾き語り",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWjT6oE6X?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "歌切 2026-06-14 カシ・オトハ / Kashi Otoha bZEZaQIJXvQ 高評価150目標✦深夜の睡眠導入弾き語り",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWjT6oE6X?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "アボカド",
+  "artist": "yonige",
+  "collection": "歌切 2026-06-14 カシ・オトハ / Kashi Otoha bZEZaQIJXvQ 高評価150目標✦深夜の睡眠導入弾き語り",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWjT6oE6X?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "ヘビースモーク",
+  "artist": "にしな",
+  "collection": "歌切 2026-06-14 カシ・オトハ / Kashi Otoha bZEZaQIJXvQ 高評価150目標✦深夜の睡眠導入弾き語り",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWjT6oE6X?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "暗く黒く",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "歌切 2026-06-14 カシ・オトハ / Kashi Otoha bZEZaQIJXvQ 高評価150目標✦深夜の睡眠導入弾き語り",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWjT6oE6X?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "あなた",
+  "artist": "宇多田ヒカル",
+  "collection": "歌切 2026-06-14 カシ・オトハ / Kashi Otoha bZEZaQIJXvQ 高評価150目標✦深夜の睡眠導入弾き語り",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWjT6oE6X?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat.初音ミク",
+  "collection": "歌切 2026-06-14 カシ・オトハ / Kashi Otoha bZEZaQIJXvQ 高評価150目標✦深夜の睡眠導入弾き語り",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZWjT6oE6X?p=20",
   "source": "others.js"
 },
     {
