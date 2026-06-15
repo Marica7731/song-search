@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/15/2026, 10:08:50 PM
+// 生成时间: 6/15/2026, 10:16:04 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15315,6 +15315,134 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-06-14 鈴花いのり - Suzuhana Inori - cLoOdpAgqAU 星期日定期𝜗𝜚.⋆ 反差声线怎么样？♡欢迎初见的朋友！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jyjK6sEns?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "月曜日戦争",
+  "artist": "吉澤嘉代子",
+  "collection": "歌切 2026-06-15 えん / neG 星期一的歌回，辛苦了 37lCuKBW8kY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZjN6dEf2?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ドゥーマー",
+  "artist": "東京真中 feat.重音テト",
+  "collection": "歌切 2026-06-15 えん / neG 星期一的歌回，辛苦了 37lCuKBW8kY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZjN6dEf2?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "愛じゃない",
+  "artist": "DAZBEE",
+  "collection": "歌切 2026-06-15 えん / neG 星期一的歌回，辛苦了 37lCuKBW8kY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZjN6dEf2?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-06-15 えん / neG 星期一的歌回，辛苦了 37lCuKBW8kY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZjN6dEf2?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "歌切 2026-06-15 えん / neG 星期一的歌回，辛苦了 37lCuKBW8kY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZjN6dEf2?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "クロノスタシス",
+  "artist": "きのこ帝国",
+  "collection": "歌切 2026-06-15 えん / neG 星期一的歌回，辛苦了 37lCuKBW8kY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZjN6dEf2?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "風神",
+  "artist": "Vaundy",
+  "collection": "歌切 2026-06-15 えん / neG 星期一的歌回，辛苦了 37lCuKBW8kY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZjN6dEf2?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-06-15 えん / neG 星期一的歌回，辛苦了 37lCuKBW8kY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZjN6dEf2?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "小夜子",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "歌切 2026-06-15 えん / neG 星期一的歌回，辛苦了 37lCuKBW8kY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZjN6dEf2?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-06-15 えん / neG 星期一的歌回，辛苦了 37lCuKBW8kY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZjN6dEf2?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-06-15 えん / neG 星期一的歌回，辛苦了 37lCuKBW8kY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZjN6dEf2?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "ハイドアンド・シーク",
+  "artist": "19's Sound Factory feat.初音ミク",
+  "collection": "歌切 2026-06-15 えん / neG 星期一的歌回，辛苦了 37lCuKBW8kY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZjN6dEf2?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "地獄先生",
+  "artist": "相対性理論",
+  "collection": "歌切 2026-06-15 えん / neG 星期一的歌回，辛苦了 37lCuKBW8kY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZjN6dEf2?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "ソラゴト",
+  "artist": "明透",
+  "collection": "歌切 2026-06-15 えん / neG 星期一的歌回，辛苦了 37lCuKBW8kY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZjN6dEf2?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "フクロウ 〜フクロウが知らせる客が来たと〜",
+  "artist": "KOKIA",
+  "collection": "歌切 2026-06-15 えん / neG 星期一的歌回，辛苦了 37lCuKBW8kY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZjN6dEf2?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "ナイトルーティン",
+  "artist": "キタニタツヤ",
+  "collection": "歌切 2026-06-15 えん / neG 星期一的歌回，辛苦了 37lCuKBW8kY",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qZjN6dEf2?p=16",
   "source": "others.js"
 },
     {
