@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 6/15/2026, 7:51:22 PM
+// 生成时间: 6/15/2026, 8:11:34 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -16899,6 +16899,246 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-06-12]无法入眠之夜的吉他弹唱 ✧ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CqJ76zEhm?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "シャングリラ",
+  "artist": "チャットモンチー",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ハナノユメ",
+  "artist": "チャットモンチー",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ループ",
+  "artist": "ねごと",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "カロン",
+  "artist": "ねごと",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "(恋は)百年戦争",
+  "artist": "相対性理論",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "スマトラ警備隊",
+  "artist": "相対性理論",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "気になるあの娘",
+  "artist": "相対性理論",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "Whiteberry",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "secret base 〜君がくれたもの〜",
+  "artist": "ZONE",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "染まるよ",
+  "artist": "チャットモンチー",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "夏の恋人",
+  "artist": "SHISHAMO",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "君と夏フェス",
+  "artist": "SHISHAMO",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "僕に彼女ができたんだ",
+  "artist": "SHISHAMO",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "閃光少女",
+  "artist": "東京事変",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "群青日和",
+  "artist": "東京事変",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "永遠の不在証明",
+  "artist": "東京事変",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "こいのうた",
+  "artist": "GO!GO!7188",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "フレンズ",
+  "artist": "REBECCA",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=18",
+  "source": "ririsya.js"
+},
+    {
+  "title": "そばかす",
+  "artist": "JUDY AND MARY",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=19",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Diamonds〈ダイアモンド〉",
+  "artist": "PRINCESS PRINCESS",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=20",
+  "source": "ririsya.js"
+},
+    {
+  "title": "GLAMOROUS SKY",
+  "artist": "NANA starring MIKA NAKASHIMA",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=21",
+  "source": "ririsya.js"
+},
+    {
+  "title": "絶対的な関係",
+  "artist": "赤い公園",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=22",
+  "source": "ririsya.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=23",
+  "source": "ririsya.js"
+},
+    {
+  "title": "拝啓、少年よ",
+  "artist": "Hump Back",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=24",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ツキアカリのミチシルベ",
+  "artist": "ステレオポニー",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=25",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Pray",
+  "artist": "Tommy heavenly6",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=26",
+  "source": "ririsya.js"
+},
+    {
+  "title": "瞬間センチメンタル",
+  "artist": "SCANDAL",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=27",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ふわふわ時間",
+  "artist": "桜高軽音部",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=28",
+  "source": "ririsya.js"
+},
+    {
+  "title": "青春コンプレックス",
+  "artist": "結束バンド",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=29",
+  "source": "ririsya.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(CV:平野綾)",
+  "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=30",
   "source": "ririsya.js"
 }
 );
