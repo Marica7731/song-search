@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/15/2026, 6:37:12 PM
+// 生成时间: 6/15/2026, 6:44:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14747,6 +14747,46 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-06-14 伊月知世 / CHISE ITSUKI BDZ34_VUzL4 康复中的突击歌回 ✧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV184JM6xEc3?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "歌切 2026-06-15 YuNi - official channel 神曲动画歌曲歌回！！ I-8VQkDG5ic",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAjT6GEF7?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "歌切 2026-06-15 YuNi - official channel 神曲动画歌曲歌回！！ I-8VQkDG5ic",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAjT6GEF7?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "歌切 2026-06-15 YuNi - official channel 神曲动画歌曲歌回！！ I-8VQkDG5ic",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAjT6GEF7?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO from bless4",
+  "collection": "歌切 2026-06-15 YuNi - official channel 神曲动画歌曲歌回！！ I-8VQkDG5ic",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAjT6GEF7?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "KICK BACK",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-06-15 YuNi - official channel 神曲动画歌曲歌回！！ I-8VQkDG5ic",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAjT6GEF7?p=5",
   "source": "others.js"
 },
     {
