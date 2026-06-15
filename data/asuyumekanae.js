@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 6/15/2026, 10:13:19 PM
+// 生成时间: 6/15/2026, 10:23:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6779,6 +6779,102 @@ window.SONG_DATA.push(
   "collection": "【明日夢🎸弾き語り歌切】[2026-06-13]治愈弹唱特辑，伴你入眠 𓈒𓏸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jrJp6GEHK?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-06-15]星期一辛苦了，来场冲刺一万人的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YujK6EE6N?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "君の大事にしてるもの",
+  "artist": "SHISHAMO",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-06-15]星期一辛苦了，来场冲刺一万人的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YujK6EE6N?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "明日も",
+  "artist": "SHISHAMO",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-06-15]星期一辛苦了，来场冲刺一万人的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YujK6EE6N?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花",
+  "artist": "SHISHAMO",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-06-15]星期一辛苦了，来场冲刺一万人的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YujK6EE6N?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "夏の恋人",
+  "artist": "SHISHAMO",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-06-15]星期一辛苦了，来场冲刺一万人的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YujK6EE6N?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "君とゲレンデ",
+  "artist": "SHISHAMO",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-06-15]星期一辛苦了，来场冲刺一万人的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YujK6EE6N?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-06-15]星期一辛苦了，来场冲刺一万人的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YujK6EE6N?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "笑顔",
+  "artist": "いきものがかり",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-06-15]星期一辛苦了，来场冲刺一万人的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YujK6EE6N?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "僕だけを",
+  "artist": "麗奈",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-06-15]星期一辛苦了，来场冲刺一万人的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YujK6EE6N?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Hug",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-06-15]星期一辛苦了，来场冲刺一万人的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YujK6EE6N?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "眠り姫",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-06-15]星期一辛苦了，来场冲刺一万人的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YujK6EE6N?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Ham",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-06-15]星期一辛苦了，来场冲刺一万人的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YujK6EE6N?p=12",
   "source": "asuyumekanae.js"
 }
 );
