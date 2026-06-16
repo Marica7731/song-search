@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 6/16/2026, 8:56:50 PM
+// 生成时间: 6/16/2026, 9:06:33 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4555,6 +4555,158 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=22",
+  "source": "sumica.js"
+},
+    {
+  "title": "右手のネイル",
+  "artist": "とた",
+  "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CAj56sEjm?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CAj56sEjm?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CAj56sEjm?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "8",
+  "artist": "あたらよ",
+  "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CAj56sEjm?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "Booo!",
+  "artist": "TOKOTOKO(西沢さんP) feat.音街ウナ",
+  "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CAj56sEjm?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "渡月橋 〜君 想ふ〜",
+  "artist": "倉木麻衣",
+  "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CAj56sEjm?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "魔法が解けたら",
+  "artist": "Saucy Dog",
+  "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CAj56sEjm?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "千鳥",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CAj56sEjm?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "心に穴が空いた",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CAj56sEjm?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "太陽に笑え",
+  "artist": "Anly",
+  "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CAj56sEjm?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CAj56sEjm?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CAj56sEjm?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "果てしない二人",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CAj56sEjm?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "恋のスーパーボール",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CAj56sEjm?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヨンジュウナナ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CAj56sEjm?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "めずらしい夜",
+  "artist": "宇野実彩子",
+  "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CAj56sEjm?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CAj56sEjm?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "みんな空の下",
+  "artist": "絢香",
+  "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CAj56sEjm?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "一日惚れ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CAj56sEjm?p=19",
   "source": "sumica.js"
 }
 );
