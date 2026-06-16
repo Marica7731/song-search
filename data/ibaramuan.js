@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 6/16/2026, 3:30:57 AM
+// 生成时间: 6/16/2026, 3:41:32 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1926,7 +1926,7 @@ window.SONG_DATA.push(
   "source": "ibaramuan.js"
 },
     {
-  "title": "人マニア",
+  "title": "イガク",
   "artist": "原口沙輔 feat.重音テト",
   "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
@@ -1934,19 +1934,11 @@ window.SONG_DATA.push(
   "source": "ibaramuan.js"
 },
     {
-  "title": "イガク",
-  "artist": "原口沙輔 feat.重音テト",
-  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=16",
-  "source": "ibaramuan.js"
-},
-    {
   "title": "忘れてやらない",
   "artist": "結束バンド",
   "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=17",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=16",
   "source": "ibaramuan.js"
 },
     {
@@ -1954,7 +1946,7 @@ window.SONG_DATA.push(
   "artist": "結束バンド",
   "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=18",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=17",
   "source": "ibaramuan.js"
 },
     {
@@ -1962,7 +1954,7 @@ window.SONG_DATA.push(
   "artist": "傘村トータ feat.IA・Fukase",
   "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=19",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=18",
   "source": "ibaramuan.js"
 },
     {
@@ -1970,7 +1962,7 @@ window.SONG_DATA.push(
   "artist": "narry feat.初音ミク",
   "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=20",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=19",
   "source": "ibaramuan.js"
 },
     {
@@ -1978,7 +1970,7 @@ window.SONG_DATA.push(
   "artist": "いきものがかり",
   "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=21",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=20",
   "source": "ibaramuan.js"
 },
     {
@@ -1986,7 +1978,7 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=22",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=21",
   "source": "ibaramuan.js"
 },
     {
@@ -1994,7 +1986,7 @@ window.SONG_DATA.push(
   "artist": "MI8k feat.GUMI",
   "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=23",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=22",
   "source": "ibaramuan.js"
 },
     {
@@ -2002,12 +1994,20 @@ window.SONG_DATA.push(
   "artist": "獅子志司 feat.初音ミク",
   "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=24",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=23",
   "source": "ibaramuan.js"
 },
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "26-",
+  "artist": "来源处未提供标准格式歌手",
   "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=25",
