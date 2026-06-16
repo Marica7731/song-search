@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 6/16/2026, 10:44:24 PM
+// 生成时间: 6/16/2026, 10:54:09 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3955,6 +3955,454 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=60",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "すずめ",
+  "artist": "RADWIMPS feat. 十明",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=1",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat. GUMI・鏡音リン",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=2",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "蝋人形の館",
+  "artist": "聖飢魔II",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=3",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=4",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ブラック★ロックシューター",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=5",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "浮かれた大学生は死ね",
+  "artist": "石風呂 feat. 開発コードmiki",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=6",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "虹いろ・クマクマ",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=7",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=8",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat. GUMI",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=9",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "そこに空があるから",
+  "artist": "江崎とし子",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=10",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ウタカタララバイ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=11",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru feat. 鏡音リン",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=12",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=13",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=14",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "エルフ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=15",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=16",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=17",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "星が瞬くこんな夜に",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=18",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat. GUMI",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=19",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "灼熱にて純情(wii-wii-woo)",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=20",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "突撃ラブハート",
+  "artist": "FIRE BOMBER",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=21",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ninelie",
+  "artist": "Aimer with chelly(EGOIST)",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=22",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=23",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "夜の女王のアリア",
+  "artist": "モーツァルト",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=24",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat. 初音ミク",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=25",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=26",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "鐘を鳴らして",
+  "artist": "BONNIE PINK",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=27",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師, 宇多田ヒカル",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=28",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "向日葵",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=29",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=30",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=31",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "The Everlasting Guilty Crown",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=32",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=33",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ギターと孤独と蒼い惑星",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=34",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "微笑みの爆弾",
+  "artist": "馬渡松子",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=35",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "水の星へ愛をこめて",
+  "artist": "森口博子",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=36",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=37",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ホシキラ",
+  "artist": "ランカ?リー＝中島愛",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=38",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat. GUMI",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=39",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=40",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "sakura",
+  "artist": "NIRGILIS",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=41",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Don't say “lazy”",
+  "artist": "桜高軽音部",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=42",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "you",
+  "artist": "癒月",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=43",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=44",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "かくれんぼ",
+  "artist": "AliA",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=45",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ダンデライオン",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=46",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "オベリスク",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=47",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=48",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=49",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "勇者",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=50",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=51",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Wherever you are",
+  "artist": "ONE OK ROCK",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=52",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "天城越え",
+  "artist": "石川さゆり",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=53",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ベリーメロン ～私の心をつかんだ良いメロン～",
+  "artist": "ビクトリーム(若本規夫)",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=54",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "IN MY DREAM",
+  "artist": "真行寺恵里",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=55",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=56",
   "source": "chiyutori .js"
 }
 );
