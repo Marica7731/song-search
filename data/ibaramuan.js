@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 6/16/2026, 5:22:50 AM
+// 生成时间: 6/16/2026, 5:33:18 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1811,6 +1811,254 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-13]休息日一起悠闲放松吧！欢迎初见的朋友！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17iJp61E9G?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "少女S",
+  "artist": "SCANDAL",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "chAngE",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "心象カスケード",
+  "artist": "koyori(電ポルP) feat.初音ミク",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "曖昧劣情Lover",
+  "artist": "koyori(電ポルP) feat.初音ミク",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "一度だけの恋なら",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑P feat.初音ミク",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat.初音ミク",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "涼宮ハルヒ(CV:平野綾)、長門有希(CV:茅原実里)、朝比奈みくる(CV:後藤邑子)",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Gimme×Gimme",
+  "artist": "八王子P×Giga feat.初音ミク・鏡音リン",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "CH4NGE",
+  "artist": "Giga feat.可不",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "KICK BACK",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ちゅ、多様性。",
+  "artist": "ano",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "忘れてやらない",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "青春コンプレックス",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "あなたの夜が明けるまで",
+  "artist": "傘村トータ feat.IA・Fukase",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "tanzanite",
+  "artist": "narry feat.初音ミク",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "HANABI",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "うたかた花火",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "嗤うマネキン",
+  "artist": "MI8k feat.GUMI",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "絶え間なく藍色",
+  "artist": "獅子志司 feat.初音ミク",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP feat.鏡音リン",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "失楽ペトリ",
+  "artist": "ナナホシ管弦楽団 feat.初音ミク",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ERROR",
+  "artist": "niki feat.Lily",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=26",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "テオ",
+  "artist": "Omoi feat.初音ミク",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=27",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "天樂 -双響-",
+  "artist": "ゆうゆ feat.鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=28",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アンパンマンのマーチ",
+  "artist": "ドリーミング",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=29",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "イガク",
+  "artist": "原口沙輔 feat.重音テト",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=30",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "人マニア",
+  "artist": "原口沙輔 feat.重音テト",
+  "collection": "【歌切】[2026-06-15]星期一定期🎙动漫歌和术力口都喜欢对吧？欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18FjT65EJJ?p=31",
   "source": "ibaramuan.js"
 }
 );
