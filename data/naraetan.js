@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 6/16/2026, 8:17:52 PM
+// 生成时间: 6/16/2026, 8:29:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10027,6 +10027,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "青い栞",
+  "artist": "Galileo Galilei",
+  "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "JUST COMMUNICATION",
+  "artist": "TWO-MIX",
+  "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "月並みに輝け",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "キミがいれば",
+  "artist": "伊織",
+  "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "きみの名前",
+  "artist": "藤川千愛",
+  "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "カワキヲアメク",
+  "artist": "美波",
+  "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "DISCOTHEQUE",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=11",
   "source": "naraetan.js"
 },
     {
