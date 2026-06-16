@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 6/16/2026, 8:07:17 PM
+// 生成时间: 6/16/2026, 8:21:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2163,6 +2163,70 @@ window.SONG_DATA.push(
   "collection": "联动歌切 よしか⁂（YOSHIKA⁂）❌七海うらら 2026-06-14 与よしか⁂酱的联动歌回！纪念七海うらら首次Zepp演出",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15VJK64Ebp?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "WWW",
+  "artist": "HIMEHINA",
+  "collection": "联动歌切 2026-06-16 三日月ちゆる x 白玖ウタノ HIMEHINA专场歌回，为七月嗨起来🥕👊🔥 GAZyXav1uDE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14qj56wEj4?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "ヒトガタ",
+  "artist": "HIMEHINA",
+  "collection": "联动歌切 2026-06-16 三日月ちゆる x 白玖ウタノ HIMEHINA专场歌回，为七月嗨起来🥕👊🔥 GAZyXav1uDE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14qj56wEj4?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "3分ガール",
+  "artist": "HIMEHINA",
+  "collection": "联动歌切 2026-06-16 三日月ちゆる x 白玖ウタノ HIMEHINA专场歌回，为七月嗨起来🥕👊🔥 GAZyXav1uDE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14qj56wEj4?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "Hello, Hologram",
+  "artist": "HIMEHINA",
+  "collection": "联动歌切 2026-06-16 三日月ちゆる x 白玖ウタノ HIMEHINA专场歌回，为七月嗨起来🥕👊🔥 GAZyXav1uDE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14qj56wEj4?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "V",
+  "artist": "HIMEHINA",
+  "collection": "联动歌切 2026-06-16 三日月ちゆる x 白玖ウタノ HIMEHINA专场歌回，为七月嗨起来🥕👊🔥 GAZyXav1uDE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14qj56wEj4?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "キスキツネ",
+  "artist": "HIMEHINA",
+  "collection": "联动歌切 2026-06-16 三日月ちゆる x 白玖ウタノ HIMEHINA专场歌回，为七月嗨起来🥕👊🔥 GAZyXav1uDE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14qj56wEj4?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "Mr.VIRTUALIZER",
+  "artist": "HIMEHINA",
+  "collection": "联动歌切 2026-06-16 三日月ちゆる x 白玖ウタノ HIMEHINA专场歌回，为七月嗨起来🥕👊🔥 GAZyXav1uDE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14qj56wEj4?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "うたかたよいかないで",
+  "artist": "HIMEHINA",
+  "collection": "联动歌切 2026-06-16 三日月ちゆる x 白玖ウタノ HIMEHINA专场歌回，为七月嗨起来🥕👊🔥 GAZyXav1uDE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14qj56wEj4?p=8",
   "source": "friends.js"
 }
 );

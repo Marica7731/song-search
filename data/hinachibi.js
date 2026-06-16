@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 6/16/2026, 8:23:51 PM
+// 生成时间: 6/16/2026, 8:41:12 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -627,6 +627,62 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-11]卖票大姐姐的歌回！！！w 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EjE66bE1G?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "テレキャスタービーボーイ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "【歌切】[2026-06-16]当背景音乐也好，只是进来看看也超欢迎！来听我唱歌吧！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s6j56FEDQ?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "パラレルラルラ",
+  "artist": "夏代孝明 feat. 初音ミク",
+  "collection": "【歌切】[2026-06-16]当背景音乐也好，只是进来看看也超欢迎！来听我唱歌吧！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s6j56FEDQ?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "大嫌いなはずだった。",
+  "artist": "HoneyWorks",
+  "collection": "【歌切】[2026-06-16]当背景音乐也好，只是进来看看也超欢迎！来听我唱歌吧！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s6j56FEDQ?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "#超絶かわいい",
+  "artist": "mona(CV:夏川椎菜) feat. HoneyWorks",
+  "collection": "【歌切】[2026-06-16]当背景音乐也好，只是进来看看也超欢迎！来听我唱歌吧！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s6j56FEDQ?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ダダダダ天使",
+  "artist": "ナナヲアカリ",
+  "collection": "【歌切】[2026-06-16]当背景音乐也好，只是进来看看也超欢迎！来听我唱歌吧！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s6j56FEDQ?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ダンスロボットダンス",
+  "artist": "ナユタン星人 feat. 初音ミク",
+  "collection": "【歌切】[2026-06-16]当背景音乐也好，只是进来看看也超欢迎！来听我唱歌吧！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s6j56FEDQ?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑ feat. 初音ミク",
+  "collection": "【歌切】[2026-06-16]当背景音乐也好，只是进来看看也超欢迎！来听我唱歌吧！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s6j56FEDQ?p=7",
   "source": "hinachibi.js"
 }
 );
