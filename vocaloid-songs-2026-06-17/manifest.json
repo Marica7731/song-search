@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-06-17T15:26:08.058Z",
+  "generatedDate": "2026-06-17",
+  "dataSource": "https://www.culua.com/api/search",
+  "fetchStartedAt": "2026-06-17T15:25:15.658Z",
+  "fetchParams": {
+    "pageSize": 10000,
+    "sort": "pubdate_desc",
+    "fields": "title,artist,collection,source,bvid,pubdate"
+  },
+  "cloudTotalSongs": 29904,
+  "cloudTotalUnique": 5925,
+  "fetchedSongs": 29904,
+  "matchedSongs": 4285,
+  "matchedUniqueTitles": 824,
+  "matchedSources": 48,
+  "classifier": {
+    "version": "2026-06-17-strict-direct-title-artist-v3",
+    "rules": [
+      "只使用 culua 云端 /api/search 全量分页结果，不读取本地 data/*.js 存量文件",
+      "正式结果只采信歌名/歌手字段中的直接证据，不再做同曲名传播",
+      "歌名/歌手字段命中音源或 VOCALOID/ボカロ/术力口关键词直接纳入",
+      "P 主/术力口作者仅在歌手主署名开头或等于该作者名时纳入",
+      "已知术力口曲名按规范化歌名纳入；短名/常见重名曲进入黑名单，避免误收",
+      "仅合集或视频标题含ボカロ但歌名/歌手无证据的行进入 audit-ambiguous-excluded.csv，不进正式结果",
+      "英文音源名按边界核对；剔除 Mayumi Gojo 被 MAYU 子串误匹配的误收"
+    ],
+    "titleBlacklist": [
+      "シュガソングとビタステップ",
+      "オリオンをなぞる",
+      "さよならメモリズ",
+      "tomorrow",
+      "onlymyrailgun",
+      "トウキョウシャンディランデヴ",
+      "ビビデバ",
+      "モエチャッカファイア",
+      "アイドル",
+      "君の知らない物語",
+      "ドライフラワ",
+      "lemon",
+      "プラチナ",
+      "コネクト",
+      "ブルバド",
+      "悪魔の子",
+      "花に亡霊",
+      "春泥棒",
+      "晴る",
+      "月光",
+      "ダリン",
+      "プロポズ",
+      "再会",
+      "約束",
+      "秘密"
+    ]
+  },
+  "files": {
+    "allJson": "all-vocaloid-songs-2026-06-17.json",
+    "allCsv": "all-vocaloid-songs-2026-06-17.csv",
+    "sourceSummary": "source-summary.csv",
+    "perSourceJsonDir": "sources/",
+    "perSourceCsvDir": "sources-csv/",
+    "ambiguousExcluded": "audit-ambiguous-excluded.csv",
+    "perSourceMdDir": "sources-md/",
+    "perSourceMdIndex": "sources-md/README.md"
+  },
+  "dedup": {
+    "groupBy": "normalizedTitle",
+    "dedupRows": 824,
+    "sort": "latest_upload_time desc",
+    "files": {
+      "csv": "dedup-vocaloid-songs-2026-06-17.csv",
+      "xlsx": "dedup-vocaloid-songs-2026-06-17.xlsx",
+      "json": "dedup-vocaloid-songs-2026-06-17.json"
+    }
+  },
+  "markdown": {
+    "generatedAt": "2026-06-17T18:49:31.685Z",
+    "mode": "one markdown file per source",
+    "sort": "pubdate desc within each source",
+    "files": {
+      "index": "sources-md/README.md",
+      "dir": "sources-md/"
+    },
+    "itemFormat": "readable summary plus collapsible full JSON fields"
+  }
+}

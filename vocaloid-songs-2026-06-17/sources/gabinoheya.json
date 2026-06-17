@@ -1,0 +1,126 @@
+[
+  {
+    "title": "ワールドイズマイン",
+    "artist": "初音ミク",
+    "collection": "歌切 2026-04-16 がびのお部屋-Gabi's room- g0Kpr3CuOWU",
+    "up": "前尘往事如昔故",
+    "link": "https://www.bilibili.com/video/BV18JdqB8EvR?p=4",
+    "source": "gabinoheya.js",
+    "bvid": "BV18JdqB8EvR",
+    "aid": 116418225900270,
+    "cid": 37573166063,
+    "page": 4,
+    "pubdate": 1776402139,
+    "ctime": 1776402139,
+    "videoDuration": 2625,
+    "partDuration": 252,
+    "videos": 10,
+    "viewCount": 909,
+    "cover": "https://i0.hdslb.com/bfs/archive/e6296a29040f2a899edecca2c66436d70dc5ce52.png@160w_90h_1c.webp",
+    "videoTitle": "歌切 2026-04-16 がびのお部屋-Gabi's room- g0Kpr3CuOWU",
+    "uploader": "前尘往事如昔故",
+    "uploaderMid": 3546597260528367,
+    "rowId": "zcxwXEbqG5MzzkAXbswy_jk9Zd4",
+    "sourceAlias": "がびのお部屋",
+    "uniqueSourceCount": 1,
+    "uniqueOccurrenceCount": 1,
+    "isUniqueSong": true,
+    "pubdateFormatted": "2026-04-17 13:02:19",
+    "ctimeFormatted": "2026-04-17 13:02:19",
+    "normalizedTitle": "ワルドイズマイン",
+    "vocaloidCheck": {
+      "isVocaloid": true,
+      "reasons": [
+        "音源/术力口词:初音ミク",
+        "已知术力口曲名:ワールドイズマイン"
+      ],
+      "mode": "direct",
+      "checkedFields": [
+        "title",
+        "artist"
+      ]
+    }
+  },
+  {
+    "title": "蜜月アン・ドゥ・トロワ",
+    "artist": "DATEKEN",
+    "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+    "up": "前尘往事如昔故",
+    "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=19",
+    "source": "gabinoheya.js",
+    "bvid": "BV1YtwtzREbp",
+    "aid": 116227569682333,
+    "cid": 36696360590,
+    "page": 19,
+    "pubdate": 1773522256,
+    "ctime": 1773493124,
+    "videoDuration": 7030,
+    "partDuration": 244,
+    "videos": 28,
+    "viewCount": 3681,
+    "cover": "https://i1.hdslb.com/bfs/archive/c3f0f61cc68542e59635fd1308fcc5c64884fd8b.png@160w_90h_1c.webp",
+    "videoTitle": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+    "uploader": "前尘往事如昔故",
+    "uploaderMid": 3546597260528367,
+    "rowId": "Pz5b5TswyR-3Wgub1c8iqiEgli8",
+    "sourceAlias": "がびのお部屋",
+    "uniqueSourceCount": 9,
+    "uniqueOccurrenceCount": 21,
+    "isUniqueSong": false,
+    "pubdateFormatted": "2026-03-15 05:04:16",
+    "ctimeFormatted": "2026-03-14 20:58:44",
+    "normalizedTitle": "蜜月アンドゥトロワ",
+    "vocaloidCheck": {
+      "isVocaloid": true,
+      "reasons": [
+        "P主/术力口作者:DATEKEN"
+      ],
+      "mode": "direct",
+      "checkedFields": [
+        "title",
+        "artist"
+      ]
+    }
+  },
+  {
+    "title": "路地裏ユニバース",
+    "artist": "一之瀬ユウ feat. MAYU",
+    "collection": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+    "up": "前尘往事如昔故",
+    "link": "https://www.bilibili.com/video/BV1YtwtzREbp?p=11",
+    "source": "gabinoheya.js",
+    "bvid": "BV1YtwtzREbp",
+    "aid": 116227569682333,
+    "cid": 36696230932,
+    "page": 11,
+    "pubdate": 1773522256,
+    "ctime": 1773493124,
+    "videoDuration": 7030,
+    "partDuration": 196,
+    "videos": 28,
+    "viewCount": 3681,
+    "cover": "https://i1.hdslb.com/bfs/archive/c3f0f61cc68542e59635fd1308fcc5c64884fd8b.png@160w_90h_1c.webp",
+    "videoTitle": "がびのお部屋 2026-03-04 8fP3sK_OgpE",
+    "uploader": "前尘往事如昔故",
+    "uploaderMid": 3546597260528367,
+    "rowId": "ItIJ_plMmz7dQNB2zK-2-rFlRLk",
+    "sourceAlias": "がびのお部屋",
+    "uniqueSourceCount": 2,
+    "uniqueOccurrenceCount": 2,
+    "isUniqueSong": false,
+    "pubdateFormatted": "2026-03-15 05:04:16",
+    "ctimeFormatted": "2026-03-14 20:58:44",
+    "normalizedTitle": "路地裏ユニバス",
+    "vocaloidCheck": {
+      "isVocaloid": true,
+      "reasons": [
+        "音源/术力口词:其他音源"
+      ],
+      "mode": "direct",
+      "checkedFields": [
+        "title",
+        "artist"
+      ]
+    }
+  }
+]

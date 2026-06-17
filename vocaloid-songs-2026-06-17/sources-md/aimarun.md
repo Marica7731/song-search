@@ -1,0 +1,1842 @@
+# あいまるん。
+
+- source：aimarun.js
+- 条目数：27
+- 去重曲名数：24
+- 排序：上传时间从新到旧
+- 数据来源：culua.com 云端 API 生成结果；本文件按来源拆分，不混合其他来源。
+- Markdown 生成时间：2026-06-17T18:49:31.685Z
+
+## 001. flos
+
+- 歌手：R Sound Design feat. 初音ミク
+- 上传时间：2026-05-22 06:13:36
+- 链接：[BV1uPLv6HEFm](https://www.bilibili.com/video/BV1uPLv6HEFm?p=1)
+- BV / 分P：BV1uPLv6HEFm / 1（共 8 P）
+- 合集：歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！
+- 时长：分P 270s (4:30)；视频 1967s (32:47)
+- 播放：413
+- 封面：[cover](https://i2.hdslb.com/bfs/archive/f60892d957dd1b1f41769505f908c96dbea2b39a.png@160w_90h_1c.webp)
+- 去重：flos；同曲来源 10；同曲出现 20；单独曲目 否
+- 判定：音源/术力口词:初音ミク；P主/术力口作者:R Sound Design；已知术力口曲名:flos
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "flos",
+  "artist": "R Sound Design feat. 初音ミク",
+  "collection": "歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEFm?p=1",
+  "source": "aimarun.js",
+  "bvid": "BV1uPLv6HEFm",
+  "aid": 116614821319841,
+  "cid": 38513544974,
+  "page": 1,
+  "pubdate": 1779401616,
+  "ctime": 1779401616,
+  "videoDuration": 1967,
+  "partDuration": 270,
+  "videos": 8,
+  "viewCount": 413,
+  "cover": "https://i2.hdslb.com/bfs/archive/f60892d957dd1b1f41769505f908c96dbea2b39a.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "qNzlwQx-3o2UmKpAl03cHUjHDXU",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 10,
+  "uniqueOccurrenceCount": 20,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-05-22 06:13:36",
+  "ctimeFormatted": "2026-05-22 06:13:36",
+  "normalizedTitle": "flos",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "音源/术力口词:初音ミク",
+      "P主/术力口作者:R Sound Design",
+      "已知术力口曲名:flos"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 002. ウミユリ海底譚
+
+- 歌手：n-buna feat. 初音ミク
+- 上传时间：2026-05-22 06:13:36
+- 链接：[BV1uPLv6HEFm](https://www.bilibili.com/video/BV1uPLv6HEFm?p=7)
+- BV / 分P：BV1uPLv6HEFm / 7（共 8 P）
+- 合集：歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！
+- 时长：分P 235s (3:55)；视频 1967s (32:47)
+- 播放：413
+- 封面：[cover](https://i2.hdslb.com/bfs/archive/f60892d957dd1b1f41769505f908c96dbea2b39a.png@160w_90h_1c.webp)
+- 去重：ウミユリ海底譚；同曲来源 10；同曲出现 17；单独曲目 否
+- 判定：音源/术力口词:初音ミク；P主/术力口作者:n-buna；已知术力口曲名:ウミユリ海底譚
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEFm?p=7",
+  "source": "aimarun.js",
+  "bvid": "BV1uPLv6HEFm",
+  "aid": 116614821319841,
+  "cid": 38513607134,
+  "page": 7,
+  "pubdate": 1779401616,
+  "ctime": 1779401616,
+  "videoDuration": 1967,
+  "partDuration": 235,
+  "videos": 8,
+  "viewCount": 413,
+  "cover": "https://i2.hdslb.com/bfs/archive/f60892d957dd1b1f41769505f908c96dbea2b39a.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "HFlT-8Fm-qKSrYv5N-klT2hBvts",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 10,
+  "uniqueOccurrenceCount": 17,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-05-22 06:13:36",
+  "ctimeFormatted": "2026-05-22 06:13:36",
+  "normalizedTitle": "ウミユリ海底譚",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "音源/术力口词:初音ミク",
+      "P主/术力口作者:n-buna",
+      "已知术力口曲名:ウミユリ海底譚"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 003. とても素敵な六月でした
+
+- 歌手：Eight feat. 初音ミク
+- 上传时间：2026-05-22 06:13:36
+- 链接：[BV1uPLv6HEFm](https://www.bilibili.com/video/BV1uPLv6HEFm?p=2)
+- BV / 分P：BV1uPLv6HEFm / 2（共 8 P）
+- 合集：歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！
+- 时长：分P 280s (4:40)；视频 1967s (32:47)
+- 播放：413
+- 封面：[cover](https://i2.hdslb.com/bfs/archive/f60892d957dd1b1f41769505f908c96dbea2b39a.png@160w_90h_1c.webp)
+- 去重：とても素敵な六月でした；同曲来源 8；同曲出现 18；单独曲目 否
+- 判定：音源/术力口词:初音ミク
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat. 初音ミク",
+  "collection": "歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEFm?p=2",
+  "source": "aimarun.js",
+  "bvid": "BV1uPLv6HEFm",
+  "aid": 116614821319841,
+  "cid": 38513545037,
+  "page": 2,
+  "pubdate": 1779401616,
+  "ctime": 1779401616,
+  "videoDuration": 1967,
+  "partDuration": 280,
+  "videos": 8,
+  "viewCount": 413,
+  "cover": "https://i2.hdslb.com/bfs/archive/f60892d957dd1b1f41769505f908c96dbea2b39a.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "PRsxKp8zqF-v9UEffOe7p93bKRM",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 8,
+  "uniqueOccurrenceCount": 18,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-05-22 06:13:36",
+  "ctimeFormatted": "2026-05-22 06:13:36",
+  "normalizedTitle": "とても素敵な六月でした",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "音源/术力口词:初音ミク"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 004. 夜明けと蛍
+
+- 歌手：n-buna feat. 初音ミク
+- 上传时间：2026-05-22 06:13:36
+- 链接：[BV1uPLv6HEFm](https://www.bilibili.com/video/BV1uPLv6HEFm?p=4)
+- BV / 分P：BV1uPLv6HEFm / 4（共 8 P）
+- 合集：歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！
+- 时长：分P 307s (5:07)；视频 1967s (32:47)
+- 播放：413
+- 封面：[cover](https://i2.hdslb.com/bfs/archive/f60892d957dd1b1f41769505f908c96dbea2b39a.png@160w_90h_1c.webp)
+- 去重：夜明けと蛍；同曲来源 22；同曲出现 123；单独曲目 否
+- 判定：音源/术力口词:初音ミク；P主/术力口作者:n-buna；已知术力口曲名:夜明けと蛍
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPLv6HEFm?p=4",
+  "source": "aimarun.js",
+  "bvid": "BV1uPLv6HEFm",
+  "aid": 116614821319841,
+  "cid": 38513606856,
+  "page": 4,
+  "pubdate": 1779401616,
+  "ctime": 1779401616,
+  "videoDuration": 1967,
+  "partDuration": 307,
+  "videos": 8,
+  "viewCount": 413,
+  "cover": "https://i2.hdslb.com/bfs/archive/f60892d957dd1b1f41769505f908c96dbea2b39a.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-05-21 Aimarun. co0KfE4OEtM 久违的歌回！",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "NkBZVHoAwNzkqgeCsTNB3gGY9cE",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 22,
+  "uniqueOccurrenceCount": 123,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-05-22 06:13:36",
+  "ctimeFormatted": "2026-05-22 06:13:36",
+  "normalizedTitle": "夜明けと蛍",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "音源/术力口词:初音ミク",
+      "P主/术力口作者:n-buna",
+      "已知术力口曲名:夜明けと蛍"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 005. アニマル
+
+- 歌手：DECO*27
+- 上传时间：2026-04-28 03:03:28
+- 链接：[BV1HAo1BMEyA](https://www.bilibili.com/video/BV1HAo1BMEyA?p=9)
+- BV / 分P：BV1HAo1BMEyA / 9（共 14 P）
+- 合集：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 时长：分P 151s (2:31)；视频 2690s (44:50)
+- 播放：481
+- 封面：[cover](https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp)
+- 去重：アニマル；同曲来源 3；同曲出现 4；单独曲目 否
+- 判定：P主/术力口作者:DECO*27；已知术力口曲名:アニマル
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "アニマル",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=9",
+  "source": "aimarun.js",
+  "bvid": "BV1HAo1BMEyA",
+  "aid": 116478103918398,
+  "cid": 37891342475,
+  "page": 9,
+  "pubdate": 1777316608,
+  "ctime": 1777316608,
+  "videoDuration": 2690,
+  "partDuration": 151,
+  "videos": 14,
+  "viewCount": 481,
+  "cover": "https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "gRosRp_J9RpzqQS8ti22HlBh8Ho",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 3,
+  "uniqueOccurrenceCount": 4,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 03:03:28",
+  "ctimeFormatted": "2026-04-28 03:03:28",
+  "normalizedTitle": "アニマル",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "P主/术力口作者:DECO*27",
+      "已知术力口曲名:アニマル"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 006. ヴァンパイア
+
+- 歌手：DECO*27
+- 上传时间：2026-04-28 03:03:28
+- 链接：[BV1HAo1BMEyA](https://www.bilibili.com/video/BV1HAo1BMEyA?p=2)
+- BV / 分P：BV1HAo1BMEyA / 2（共 14 P）
+- 合集：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 时长：分P 179s (2:59)；视频 2690s (44:50)
+- 播放：481
+- 封面：[cover](https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp)
+- 去重：ヴァンパイア；同曲来源 10；同曲出现 12；单独曲目 否
+- 判定：P主/术力口作者:DECO*27；已知术力口曲名:ヴァンパイア
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "ヴァンパイア",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=2",
+  "source": "aimarun.js",
+  "bvid": "BV1HAo1BMEyA",
+  "aid": 116478103918398,
+  "cid": 37891080324,
+  "page": 2,
+  "pubdate": 1777316608,
+  "ctime": 1777316608,
+  "videoDuration": 2690,
+  "partDuration": 179,
+  "videos": 14,
+  "viewCount": 481,
+  "cover": "https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "h57SSVCd4taz_OxL8Jad3BkUPdU",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 10,
+  "uniqueOccurrenceCount": 12,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 03:03:28",
+  "ctimeFormatted": "2026-04-28 03:03:28",
+  "normalizedTitle": "ヴァンパイア",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "P主/术力口作者:DECO*27",
+      "已知术力口曲名:ヴァンパイア"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 007. ゴーストルール
+
+- 歌手：DECO*27
+- 上传时间：2026-04-28 03:03:28
+- 链接：[BV1HAo1BMEyA](https://www.bilibili.com/video/BV1HAo1BMEyA?p=13)
+- BV / 分P：BV1HAo1BMEyA / 13（共 14 P）
+- 合集：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 时长：分P 208s (3:28)；视频 2690s (44:50)
+- 播放：481
+- 封面：[cover](https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp)
+- 去重：ゴストルル；同曲来源 9；同曲出现 12；单独曲目 否
+- 判定：P主/术力口作者:DECO*27；已知术力口曲名:ゴーストルール
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "ゴーストルール",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=13",
+  "source": "aimarun.js",
+  "bvid": "BV1HAo1BMEyA",
+  "aid": 116478103918398,
+  "cid": 37891411129,
+  "page": 13,
+  "pubdate": 1777316608,
+  "ctime": 1777316608,
+  "videoDuration": 2690,
+  "partDuration": 208,
+  "videos": 14,
+  "viewCount": 481,
+  "cover": "https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "58sMFGz-ULribvrKPaS7puxlbx8",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 9,
+  "uniqueOccurrenceCount": 12,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 03:03:28",
+  "ctimeFormatted": "2026-04-28 03:03:28",
+  "normalizedTitle": "ゴストルル",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "P主/术力口作者:DECO*27",
+      "已知术力口曲名:ゴーストルール"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 008. ジレンマ
+
+- 歌手：DECO*27
+- 上传时间：2026-04-28 03:03:28
+- 链接：[BV1HAo1BMEyA](https://www.bilibili.com/video/BV1HAo1BMEyA?p=8)
+- BV / 分P：BV1HAo1BMEyA / 8（共 14 P）
+- 合集：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 时长：分P 166s (2:46)；视频 2690s (44:50)
+- 播放：481
+- 封面：[cover](https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp)
+- 去重：ジレンマ；同曲来源 3；同曲出现 3；单独曲目 否
+- 判定：P主/术力口作者:DECO*27；已知术力口曲名:ジレンマ
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "ジレンマ",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=8",
+  "source": "aimarun.js",
+  "bvid": "BV1HAo1BMEyA",
+  "aid": 116478103918398,
+  "cid": 37891280185,
+  "page": 8,
+  "pubdate": 1777316608,
+  "ctime": 1777316608,
+  "videoDuration": 2690,
+  "partDuration": 166,
+  "videos": 14,
+  "viewCount": 481,
+  "cover": "https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "tpa580XgnzOav8nD3QWHRlGT-DM",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 3,
+  "uniqueOccurrenceCount": 3,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 03:03:28",
+  "ctimeFormatted": "2026-04-28 03:03:28",
+  "normalizedTitle": "ジレンマ",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "P主/术力口作者:DECO*27",
+      "已知术力口曲名:ジレンマ"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 009. テレパシ
+
+- 歌手：DECO*27
+- 上传时间：2026-04-28 03:03:28
+- 链接：[BV1HAo1BMEyA](https://www.bilibili.com/video/BV1HAo1BMEyA?p=3)
+- BV / 分P：BV1HAo1BMEyA / 3（共 14 P）
+- 合集：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 时长：分P 147s (2:27)；视频 2690s (44:50)
+- 播放：481
+- 封面：[cover](https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp)
+- 去重：テレパシ；同曲来源 1；同曲出现 2；单独曲目 否
+- 判定：P主/术力口作者:DECO*27；已知术力口曲名:テレパシ
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "テレパシ",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=3",
+  "source": "aimarun.js",
+  "bvid": "BV1HAo1BMEyA",
+  "aid": 116478103918398,
+  "cid": 37891080780,
+  "page": 3,
+  "pubdate": 1777316608,
+  "ctime": 1777316608,
+  "videoDuration": 2690,
+  "partDuration": 147,
+  "videos": 14,
+  "viewCount": 481,
+  "cover": "https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "58qyoklPSguUnc3NS5jtf2Hb-Tw",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 1,
+  "uniqueOccurrenceCount": 2,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 03:03:28",
+  "ctimeFormatted": "2026-04-28 03:03:28",
+  "normalizedTitle": "テレパシ",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "P主/术力口作者:DECO*27",
+      "已知术力口曲名:テレパシ"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 010. ヒバナ
+
+- 歌手：DECO*27
+- 上传时间：2026-04-28 03:03:28
+- 链接：[BV1HAo1BMEyA](https://www.bilibili.com/video/BV1HAo1BMEyA?p=7)
+- BV / 分P：BV1HAo1BMEyA / 7（共 14 P）
+- 合集：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 时长：分P 205s (3:25)；视频 2690s (44:50)
+- 播放：481
+- 封面：[cover](https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp)
+- 去重：ヒバナ；同曲来源 11；同曲出现 17；单独曲目 否
+- 判定：P主/术力口作者:DECO*27；已知术力口曲名:ヒバナ
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "ヒバナ",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=7",
+  "source": "aimarun.js",
+  "bvid": "BV1HAo1BMEyA",
+  "aid": 116478103918398,
+  "cid": 37891280221,
+  "page": 7,
+  "pubdate": 1777316608,
+  "ctime": 1777316608,
+  "videoDuration": 2690,
+  "partDuration": 205,
+  "videos": 14,
+  "viewCount": 481,
+  "cover": "https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "JVc_1FDPNwkxKwL6qjuTvwJEPF4",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 11,
+  "uniqueOccurrenceCount": 17,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 03:03:28",
+  "ctimeFormatted": "2026-04-28 03:03:28",
+  "normalizedTitle": "ヒバナ",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "P主/术力口作者:DECO*27",
+      "已知术力口曲名:ヒバナ"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 011. モザイクロール
+
+- 歌手：DECO*27
+- 上传时间：2026-04-28 03:03:28
+- 链接：[BV1HAo1BMEyA](https://www.bilibili.com/video/BV1HAo1BMEyA?p=5)
+- BV / 分P：BV1HAo1BMEyA / 5（共 14 P）
+- 合集：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 时长：分P 181s (3:01)；视频 2690s (44:50)
+- 播放：481
+- 封面：[cover](https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp)
+- 去重：モザイクロル；同曲来源 10；同曲出现 12；单独曲目 否
+- 判定：P主/术力口作者:DECO*27；已知术力口曲名:モザイクロール
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "モザイクロール",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=5",
+  "source": "aimarun.js",
+  "bvid": "BV1HAo1BMEyA",
+  "aid": 116478103918398,
+  "cid": 37891280812,
+  "page": 5,
+  "pubdate": 1777316608,
+  "ctime": 1777316608,
+  "videoDuration": 2690,
+  "partDuration": 181,
+  "videos": 14,
+  "viewCount": 481,
+  "cover": "https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "WmtnNCVvx3R-RKKvX_uaRduQo-E",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 10,
+  "uniqueOccurrenceCount": 12,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 03:03:28",
+  "ctimeFormatted": "2026-04-28 03:03:28",
+  "normalizedTitle": "モザイクロル",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "P主/术力口作者:DECO*27",
+      "已知术力口曲名:モザイクロール"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 012. モニタリング
+
+- 歌手：DECO*27
+- 上传时间：2026-04-28 03:03:28
+- 链接：[BV1HAo1BMEyA](https://www.bilibili.com/video/BV1HAo1BMEyA?p=1)
+- BV / 分P：BV1HAo1BMEyA / 1（共 14 P）
+- 合集：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 时长：分P 177s (2:57)；视频 2690s (44:50)
+- 播放：481
+- 封面：[cover](https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp)
+- 去重：モニタリング；同曲来源 17；同曲出现 48；单独曲目 否
+- 判定：P主/术力口作者:DECO*27
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "モニタリング",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=1",
+  "source": "aimarun.js",
+  "bvid": "BV1HAo1BMEyA",
+  "aid": 116478103918398,
+  "cid": 37891018339,
+  "page": 1,
+  "pubdate": 1777316608,
+  "ctime": 1777316608,
+  "videoDuration": 2690,
+  "partDuration": 177,
+  "videos": 14,
+  "viewCount": 481,
+  "cover": "https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "a1e5vUkUOsaOcYWYjvIjPhy_gDk",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 17,
+  "uniqueOccurrenceCount": 48,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 03:03:28",
+  "ctimeFormatted": "2026-04-28 03:03:28",
+  "normalizedTitle": "モニタリング",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "P主/术力口作者:DECO*27"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 013. ラビットホール
+
+- 歌手：DECO*27
+- 上传时间：2026-04-28 03:03:28
+- 链接：[BV1HAo1BMEyA](https://www.bilibili.com/video/BV1HAo1BMEyA?p=11)
+- BV / 分P：BV1HAo1BMEyA / 11（共 14 P）
+- 合集：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 时长：分P 159s (2:39)；视频 2690s (44:50)
+- 播放：481
+- 封面：[cover](https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp)
+- 去重：ラビットホル；同曲来源 2；同曲出现 2；单独曲目 否
+- 判定：P主/术力口作者:DECO*27；已知术力口曲名:ラビットホール
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "ラビットホール",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=11",
+  "source": "aimarun.js",
+  "bvid": "BV1HAo1BMEyA",
+  "aid": 116478103918398,
+  "cid": 37891343112,
+  "page": 11,
+  "pubdate": 1777316608,
+  "ctime": 1777316608,
+  "videoDuration": 2690,
+  "partDuration": 159,
+  "videos": 14,
+  "viewCount": 481,
+  "cover": "https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "JR2Fwy7067wz0tccL0Q8YC9ilrc",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 2,
+  "uniqueOccurrenceCount": 2,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 03:03:28",
+  "ctimeFormatted": "2026-04-28 03:03:28",
+  "normalizedTitle": "ラビットホル",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "P主/术力口作者:DECO*27",
+      "已知术力口曲名:ラビットホール"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 014. リバーシブル・キャンペーン
+
+- 歌手：DECO*27
+- 上传时间：2026-04-28 03:03:28
+- 链接：[BV1HAo1BMEyA](https://www.bilibili.com/video/BV1HAo1BMEyA?p=12)
+- BV / 分P：BV1HAo1BMEyA / 12（共 14 P）
+- 合集：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 时长：分P 173s (2:53)；视频 2690s (44:50)
+- 播放：481
+- 封面：[cover](https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp)
+- 去重：リバシブルキャンペン；同曲来源 2；同曲出现 3；单独曲目 否
+- 判定：P主/术力口作者:DECO*27
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "リバーシブル・キャンペーン",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=12",
+  "source": "aimarun.js",
+  "bvid": "BV1HAo1BMEyA",
+  "aid": 116478103918398,
+  "cid": 37891540504,
+  "page": 12,
+  "pubdate": 1777316608,
+  "ctime": 1777316608,
+  "videoDuration": 2690,
+  "partDuration": 173,
+  "videos": 14,
+  "viewCount": 481,
+  "cover": "https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "TAwNjR-ai43PqWmJ22E2oKp3yyc",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 2,
+  "uniqueOccurrenceCount": 3,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 03:03:28",
+  "ctimeFormatted": "2026-04-28 03:03:28",
+  "normalizedTitle": "リバシブルキャンペン",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "P主/术力口作者:DECO*27"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 015. 愛言葉III
+
+- 歌手：DECO*27
+- 上传时间：2026-04-28 03:03:28
+- 链接：[BV1HAo1BMEyA](https://www.bilibili.com/video/BV1HAo1BMEyA?p=14)
+- BV / 分P：BV1HAo1BMEyA / 14（共 14 P）
+- 合集：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 时长：分P 246s (4:06)；视频 2690s (44:50)
+- 播放：481
+- 封面：[cover](https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp)
+- 去重：愛言葉iii；同曲来源 4；同曲出现 5；单独曲目 否
+- 判定：P主/术力口作者:DECO*27；已知术力口曲名:愛言葉III
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "愛言葉III",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=14",
+  "source": "aimarun.js",
+  "bvid": "BV1HAo1BMEyA",
+  "aid": 116478103918398,
+  "cid": 37891540563,
+  "page": 14,
+  "pubdate": 1777316608,
+  "ctime": 1777316608,
+  "videoDuration": 2690,
+  "partDuration": 246,
+  "videos": 14,
+  "viewCount": 481,
+  "cover": "https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "uRodypiuO_2qObf8SK3Q_wpJWLs",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 4,
+  "uniqueOccurrenceCount": 5,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 03:03:28",
+  "ctimeFormatted": "2026-04-28 03:03:28",
+  "normalizedTitle": "愛言葉iii",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "P主/术力口作者:DECO*27",
+      "已知术力口曲名:愛言葉III"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 016. 乙女解剖
+
+- 歌手：DECO*27
+- 上传时间：2026-04-28 03:03:28
+- 链接：[BV1HAo1BMEyA](https://www.bilibili.com/video/BV1HAo1BMEyA?p=6)
+- BV / 分P：BV1HAo1BMEyA / 6（共 14 P）
+- 合集：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 时长：分P 222s (3:42)；视频 2690s (44:50)
+- 播放：481
+- 封面：[cover](https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp)
+- 去重：乙女解剖；同曲来源 7；同曲出现 16；单独曲目 否
+- 判定：P主/术力口作者:DECO*27；已知术力口曲名:乙女解剖
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "乙女解剖",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=6",
+  "source": "aimarun.js",
+  "bvid": "BV1HAo1BMEyA",
+  "aid": 116478103918398,
+  "cid": 37891279842,
+  "page": 6,
+  "pubdate": 1777316608,
+  "ctime": 1777316608,
+  "videoDuration": 2690,
+  "partDuration": 222,
+  "videos": 14,
+  "viewCount": 481,
+  "cover": "https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "UGW848hAOLIxdKGNVIG3WcMc4-M",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 7,
+  "uniqueOccurrenceCount": 16,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 03:03:28",
+  "ctimeFormatted": "2026-04-28 03:03:28",
+  "normalizedTitle": "乙女解剖",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "P主/术力口作者:DECO*27",
+      "已知术力口曲名:乙女解剖"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 017. 妄想感傷代償連盟
+
+- 歌手：DECO*27
+- 上传时间：2026-04-28 03:03:28
+- 链接：[BV1HAo1BMEyA](https://www.bilibili.com/video/BV1HAo1BMEyA?p=4)
+- BV / 分P：BV1HAo1BMEyA / 4（共 14 P）
+- 合集：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 时长：分P 262s (4:22)；视频 2690s (44:50)
+- 播放：481
+- 封面：[cover](https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp)
+- 去重：妄想感傷代償連盟；同曲来源 16；同曲出现 46；单独曲目 否
+- 判定：P主/术力口作者:DECO*27；已知术力口曲名:妄想感傷代償連盟
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=4",
+  "source": "aimarun.js",
+  "bvid": "BV1HAo1BMEyA",
+  "aid": 116478103918398,
+  "cid": 37891149561,
+  "page": 4,
+  "pubdate": 1777316608,
+  "ctime": 1777316608,
+  "videoDuration": 2690,
+  "partDuration": 262,
+  "videos": 14,
+  "viewCount": 481,
+  "cover": "https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "8IVgeBxLGKE3m_X189mvcPRcygo",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 16,
+  "uniqueOccurrenceCount": 46,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 03:03:28",
+  "ctimeFormatted": "2026-04-28 03:03:28",
+  "normalizedTitle": "妄想感傷代償連盟",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "P主/术力口作者:DECO*27",
+      "已知术力口曲名:妄想感傷代償連盟"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 018. 妄想税
+
+- 歌手：DECO*27
+- 上传时间：2026-04-28 03:03:28
+- 链接：[BV1HAo1BMEyA](https://www.bilibili.com/video/BV1HAo1BMEyA?p=10)
+- BV / 分P：BV1HAo1BMEyA / 10（共 14 P）
+- 合集：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回
+- 时长：分P 214s (3:34)；视频 2690s (44:50)
+- 播放：481
+- 封面：[cover](https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp)
+- 去重：妄想税；同曲来源 7；同曲出现 9；单独曲目 否
+- 判定：P主/术力口作者:DECO*27；已知术力口曲名:妄想税
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "妄想税",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAo1BMEyA?p=10",
+  "source": "aimarun.js",
+  "bvid": "BV1HAo1BMEyA",
+  "aid": 116478103918398,
+  "cid": 37891342967,
+  "page": 10,
+  "pubdate": 1777316608,
+  "ctime": 1777316608,
+  "videoDuration": 2690,
+  "partDuration": 214,
+  "videos": 14,
+  "viewCount": 481,
+  "cover": "https://i0.hdslb.com/bfs/archive/2be89fb155e1cdef86b01b764051475c4e8c7824.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-26 あいまるん。- Aimarun。 F91Egti33p4 DECO*27限定歌回",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "NOJWuum81qfJnFvCb4YQ7SmPeMU",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 7,
+  "uniqueOccurrenceCount": 9,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 03:03:28",
+  "ctimeFormatted": "2026-04-28 03:03:28",
+  "normalizedTitle": "妄想税",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "P主/术力口作者:DECO*27",
+      "已知术力口曲名:妄想税"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 019. テレパシ
+
+- 歌手：DECO*27 feat. 初音ミク
+- 上传时间：2026-04-28 02:50:41
+- 链接：[BV119oyBVE9t](https://www.bilibili.com/video/BV119oyBVE9t?p=3)
+- BV / 分P：BV119oyBVE9t / 3（共 6 P）
+- 合集：歌切 2026-04-15 あいまるん。- Aimarun。 c5ER_P5kaQQ 竖屏！唱歌啦！
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-15 あいまるん。- Aimarun。 c5ER_P5kaQQ 竖屏！唱歌啦！
+- 时长：分P 174s (2:54)；视频 1292s (21:32)
+- 播放：446
+- 封面：[cover](https://i2.hdslb.com/bfs/archive/24a9b74c97613d86c30020b497bb344cdfa28927.png@160w_90h_1c.webp)
+- 去重：テレパシ；同曲来源 1；同曲出现 2；单独曲目 否
+- 判定：音源/术力口词:初音ミク；P主/术力口作者:DECO*27；已知术力口曲名:テレパシ
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "テレパシ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "歌切 2026-04-15 あいまるん。- Aimarun。 c5ER_P5kaQQ 竖屏！唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV119oyBVE9t?p=3",
+  "source": "aimarun.js",
+  "bvid": "BV119oyBVE9t",
+  "aid": 116478003123616,
+  "cid": 37891016785,
+  "page": 3,
+  "pubdate": 1777315841,
+  "ctime": 1777315841,
+  "videoDuration": 1292,
+  "partDuration": 174,
+  "videos": 6,
+  "viewCount": 446,
+  "cover": "https://i2.hdslb.com/bfs/archive/24a9b74c97613d86c30020b497bb344cdfa28927.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-15 あいまるん。- Aimarun。 c5ER_P5kaQQ 竖屏！唱歌啦！",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "OKIW00TYQBUlfM9RkZSFs2M3bpM",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 1,
+  "uniqueOccurrenceCount": 2,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 02:50:41",
+  "ctimeFormatted": "2026-04-28 02:50:41",
+  "normalizedTitle": "テレパシ",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "音源/术力口词:初音ミク",
+      "P主/术力口作者:DECO*27",
+      "已知术力口曲名:テレパシ"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 020. とても素敵な六月でした
+
+- 歌手：Eight feat. 初音ミク
+- 上传时间：2026-04-28 02:50:41
+- 链接：[BV119oyBVE9t](https://www.bilibili.com/video/BV119oyBVE9t?p=2)
+- BV / 分P：BV119oyBVE9t / 2（共 6 P）
+- 合集：歌切 2026-04-15 あいまるん。- Aimarun。 c5ER_P5kaQQ 竖屏！唱歌啦！
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-15 あいまるん。- Aimarun。 c5ER_P5kaQQ 竖屏！唱歌啦！
+- 时长：分P 256s (4:16)；视频 1292s (21:32)
+- 播放：446
+- 封面：[cover](https://i2.hdslb.com/bfs/archive/24a9b74c97613d86c30020b497bb344cdfa28927.png@160w_90h_1c.webp)
+- 去重：とても素敵な六月でした；同曲来源 8；同曲出现 18；单独曲目 否
+- 判定：音源/术力口词:初音ミク
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat. 初音ミク",
+  "collection": "歌切 2026-04-15 あいまるん。- Aimarun。 c5ER_P5kaQQ 竖屏！唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV119oyBVE9t?p=2",
+  "source": "aimarun.js",
+  "bvid": "BV119oyBVE9t",
+  "aid": 116478003123616,
+  "cid": 37890887194,
+  "page": 2,
+  "pubdate": 1777315841,
+  "ctime": 1777315841,
+  "videoDuration": 1292,
+  "partDuration": 256,
+  "videos": 6,
+  "viewCount": 446,
+  "cover": "https://i2.hdslb.com/bfs/archive/24a9b74c97613d86c30020b497bb344cdfa28927.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-15 あいまるん。- Aimarun。 c5ER_P5kaQQ 竖屏！唱歌啦！",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "JM0UUVH3f-FwXevTm7L01Xf8khY",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 8,
+  "uniqueOccurrenceCount": 18,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 02:50:41",
+  "ctimeFormatted": "2026-04-28 02:50:41",
+  "normalizedTitle": "とても素敵な六月でした",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "音源/术力口词:初音ミク"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 021. 夜明けと蛍
+
+- 歌手：n-buna feat. 初音ミク
+- 上传时间：2026-04-28 02:50:41
+- 链接：[BV119oyBVE9t](https://www.bilibili.com/video/BV119oyBVE9t?p=5)
+- BV / 分P：BV119oyBVE9t / 5（共 6 P）
+- 合集：歌切 2026-04-15 あいまるん。- Aimarun。 c5ER_P5kaQQ 竖屏！唱歌啦！
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-15 あいまるん。- Aimarun。 c5ER_P5kaQQ 竖屏！唱歌啦！
+- 时长：分P 308s (5:08)；视频 1292s (21:32)
+- 播放：446
+- 封面：[cover](https://i2.hdslb.com/bfs/archive/24a9b74c97613d86c30020b497bb344cdfa28927.png@160w_90h_1c.webp)
+- 去重：夜明けと蛍；同曲来源 22；同曲出现 123；单独曲目 否
+- 判定：音源/术力口词:初音ミク；P主/术力口作者:n-buna；已知术力口曲名:夜明けと蛍
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "歌切 2026-04-15 あいまるん。- Aimarun。 c5ER_P5kaQQ 竖屏！唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV119oyBVE9t?p=5",
+  "source": "aimarun.js",
+  "bvid": "BV119oyBVE9t",
+  "aid": 116478003123616,
+  "cid": 37891017339,
+  "page": 5,
+  "pubdate": 1777315841,
+  "ctime": 1777315841,
+  "videoDuration": 1292,
+  "partDuration": 308,
+  "videos": 6,
+  "viewCount": 446,
+  "cover": "https://i2.hdslb.com/bfs/archive/24a9b74c97613d86c30020b497bb344cdfa28927.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-15 あいまるん。- Aimarun。 c5ER_P5kaQQ 竖屏！唱歌啦！",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "tXmWLXEQevJNShOjUSYXiMJGkb0",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 22,
+  "uniqueOccurrenceCount": 123,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 02:50:41",
+  "ctimeFormatted": "2026-04-28 02:50:41",
+  "normalizedTitle": "夜明けと蛍",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "音源/术力口词:初音ミク",
+      "P主/术力口作者:n-buna",
+      "已知术力口曲名:夜明けと蛍"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 022. いかないで
+
+- 歌手：想太 feat. 歌愛ユキ
+- 上传时间：2026-04-28 02:32:09
+- 链接：[BV12UoyB2EB1](https://www.bilibili.com/video/BV12UoyB2EB1?p=2)
+- BV / 分P：BV12UoyB2EB1 / 2（共 8 P）
+- 合集：歌切 2026-04-11 あいまるん。- Aimarun。 nUYkdSdcXUc 初次竖屏直播哦！
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-11 あいまるん。- Aimarun。 nUYkdSdcXUc 初次竖屏直播哦！
+- 时长：分P 174s (2:54)；视频 1509s (25:09)
+- 播放：471
+- 封面：[cover](https://i0.hdslb.com/bfs/archive/1a4253811bc91064eb161d98d22f7007cc59e128.png@160w_90h_1c.webp)
+- 去重：いかないで；同曲来源 14；同曲出现 22；单独曲目 否
+- 判定：音源/术力口词:其他音源
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "いかないで",
+  "artist": "想太 feat. 歌愛ユキ",
+  "collection": "歌切 2026-04-11 あいまるん。- Aimarun。 nUYkdSdcXUc 初次竖屏直播哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UoyB2EB1?p=2",
+  "source": "aimarun.js",
+  "bvid": "BV12UoyB2EB1",
+  "aid": 116477986343457,
+  "cid": 37890558498,
+  "page": 2,
+  "pubdate": 1777314729,
+  "ctime": 1777314730,
+  "videoDuration": 1509,
+  "partDuration": 174,
+  "videos": 8,
+  "viewCount": 471,
+  "cover": "https://i0.hdslb.com/bfs/archive/1a4253811bc91064eb161d98d22f7007cc59e128.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-11 あいまるん。- Aimarun。 nUYkdSdcXUc 初次竖屏直播哦！",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "AhxQ4jcO6TIJKEw0AlXqsiH9J-Q",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 14,
+  "uniqueOccurrenceCount": 22,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 02:32:09",
+  "ctimeFormatted": "2026-04-28 02:32:10",
+  "normalizedTitle": "いかないで",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "音源/术力口词:其他音源"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 023. ラヴィ
+
+- 歌手：すりぃ feat. 鏡音レン
+- 上传时间：2026-04-28 02:32:09
+- 链接：[BV12UoyB2EB1](https://www.bilibili.com/video/BV12UoyB2EB1?p=5)
+- BV / 分P：BV12UoyB2EB1 / 5（共 8 P）
+- 合集：歌切 2026-04-11 あいまるん。- Aimarun。 nUYkdSdcXUc 初次竖屏直播哦！
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-11 あいまるん。- Aimarun。 nUYkdSdcXUc 初次竖屏直播哦！
+- 时长：分P 179s (2:59)；视频 1509s (25:09)
+- 播放：471
+- 封面：[cover](https://i0.hdslb.com/bfs/archive/1a4253811bc91064eb161d98d22f7007cc59e128.png@160w_90h_1c.webp)
+- 去重：ラヴィ；同曲来源 12；同曲出现 19；单独曲目 否
+- 判定：音源/术力口词:鏡音リン/レン；P主/术力口作者:すりぃ；已知术力口曲名:ラヴィ
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "ラヴィ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "歌切 2026-04-11 あいまるん。- Aimarun。 nUYkdSdcXUc 初次竖屏直播哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12UoyB2EB1?p=5",
+  "source": "aimarun.js",
+  "bvid": "BV12UoyB2EB1",
+  "aid": 116477986343457,
+  "cid": 37890753362,
+  "page": 5,
+  "pubdate": 1777314729,
+  "ctime": 1777314730,
+  "videoDuration": 1509,
+  "partDuration": 179,
+  "videos": 8,
+  "viewCount": 471,
+  "cover": "https://i0.hdslb.com/bfs/archive/1a4253811bc91064eb161d98d22f7007cc59e128.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-11 あいまるん。- Aimarun。 nUYkdSdcXUc 初次竖屏直播哦！",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "cmJJh6RMWOTbTW4xCNGlWJimGi4",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 12,
+  "uniqueOccurrenceCount": 19,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 02:32:09",
+  "ctimeFormatted": "2026-04-28 02:32:10",
+  "normalizedTitle": "ラヴィ",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "音源/术力口词:鏡音リン/レン",
+      "P主/术力口作者:すりぃ",
+      "已知术力口曲名:ラヴィ"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 024. コールボーイ
+
+- 歌手：syudou
+- 上传时间：2026-04-28 02:29:30
+- 链接：[BV1Buo1BAEtF](https://www.bilibili.com/video/BV1Buo1BAEtF?p=3)
+- BV / 分P：BV1Buo1BAEtF / 3（共 10 P）
+- 合集：歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！
+- 时长：分P 202s (3:22)；视频 1988s (33:08)
+- 播放：454
+- 封面：[cover](https://i2.hdslb.com/bfs/archive/bd72b824972fda9765c105ea37c3ed08dcdb606b.png@160w_90h_1c.webp)
+- 去重：コルボイ；同曲来源 4；同曲出现 4；单独曲目 否
+- 判定：P主/术力口作者:syudou；已知术力口曲名:コールボーイ
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "コールボーイ",
+  "artist": "syudou",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Buo1BAEtF?p=3",
+  "source": "aimarun.js",
+  "bvid": "BV1Buo1BAEtF",
+  "aid": 116478036679361,
+  "cid": 37890361787,
+  "page": 3,
+  "pubdate": 1777314570,
+  "ctime": 1777314570,
+  "videoDuration": 1988,
+  "partDuration": 202,
+  "videos": 10,
+  "viewCount": 454,
+  "cover": "https://i2.hdslb.com/bfs/archive/bd72b824972fda9765c105ea37c3ed08dcdb606b.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "ja_MR_7ZHGjSEHaquQwAUR7bumI",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 4,
+  "uniqueOccurrenceCount": 4,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 02:29:30",
+  "ctimeFormatted": "2026-04-28 02:29:30",
+  "normalizedTitle": "コルボイ",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "P主/术力口作者:syudou",
+      "已知术力口曲名:コールボーイ"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 025. ハロ／ハワユ
+
+- 歌手：ナノウ
+- 上传时间：2026-04-28 02:29:30
+- 链接：[BV1Buo1BAEtF](https://www.bilibili.com/video/BV1Buo1BAEtF?p=2)
+- BV / 分P：BV1Buo1BAEtF / 2（共 10 P）
+- 合集：歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！
+- 时长：分P 279s (4:39)；视频 1988s (33:08)
+- 播放：454
+- 封面：[cover](https://i2.hdslb.com/bfs/archive/bd72b824972fda9765c105ea37c3ed08dcdb606b.png@160w_90h_1c.webp)
+- 去重：ハロ/ハワユ；同曲来源 14；同曲出现 32；单独曲目 否
+- 判定：已知术力口曲名:ハロ／ハワユ
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "ハロ／ハワユ",
+  "artist": "ナノウ",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Buo1BAEtF?p=2",
+  "source": "aimarun.js",
+  "bvid": "BV1Buo1BAEtF",
+  "aid": 116478036679361,
+  "cid": 37890033328,
+  "page": 2,
+  "pubdate": 1777314570,
+  "ctime": 1777314570,
+  "videoDuration": 1988,
+  "partDuration": 279,
+  "videos": 10,
+  "viewCount": 454,
+  "cover": "https://i2.hdslb.com/bfs/archive/bd72b824972fda9765c105ea37c3ed08dcdb606b.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "-n6XYSJ0WQIILnVwyuD6xivID30",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 14,
+  "uniqueOccurrenceCount": 32,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 02:29:30",
+  "ctimeFormatted": "2026-04-28 02:29:30",
+  "normalizedTitle": "ハロ/ハワユ",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "已知术力口曲名:ハロ／ハワユ"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 026. 右肩の蝶
+
+- 歌手：のりぴー
+- 上传时间：2026-04-28 02:29:30
+- 链接：[BV1Buo1BAEtF](https://www.bilibili.com/video/BV1Buo1BAEtF?p=10)
+- BV / 分P：BV1Buo1BAEtF / 10（共 10 P）
+- 合集：歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！
+- 时长：分P 264s (4:24)；视频 1988s (33:08)
+- 播放：454
+- 封面：[cover](https://i2.hdslb.com/bfs/archive/bd72b824972fda9765c105ea37c3ed08dcdb606b.png@160w_90h_1c.webp)
+- 去重：右肩の蝶；同曲来源 9；同曲出现 14；单独曲目 否
+- 判定：已知术力口曲名:右肩の蝶
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "右肩の蝶",
+  "artist": "のりぴー",
+  "collection": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Buo1BAEtF?p=10",
+  "source": "aimarun.js",
+  "bvid": "BV1Buo1BAEtF",
+  "aid": 116478036679361,
+  "cid": 37890425956,
+  "page": 10,
+  "pubdate": 1777314570,
+  "ctime": 1777314570,
+  "videoDuration": 1988,
+  "partDuration": 264,
+  "videos": 10,
+  "viewCount": 454,
+  "cover": "https://i2.hdslb.com/bfs/archive/bd72b824972fda9765c105ea37c3ed08dcdb606b.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-20 あいまるん。- Aimarun。 F91Egti33p4 唱好多首哦！",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "ruZAf4t7YnjInW9TCTvKSuIAPyE",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 9,
+  "uniqueOccurrenceCount": 14,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 02:29:30",
+  "ctimeFormatted": "2026-04-28 02:29:30",
+  "normalizedTitle": "右肩の蝶",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "已知术力口曲名:右肩の蝶"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+
+---
+
+## 027. 神っぽいな
+
+- 歌手：ピノキオピー
+- 上传时间：2026-04-28 02:06:29
+- 链接：[BV18xo1BHEkX](https://www.bilibili.com/video/BV18xo1BHEkX?p=4)
+- BV / 分P：BV18xo1BHEkX / 4（共 7 P）
+- 合集：歌切 2026-04-08 あいまるん。- Aimarun。 Jl6Jy1OriCI 唱些感人的歌哦！
+- 来源：あいまるん。 / aimarun.js
+- UP：前尘往事如昔故（3546597260528367）
+- 视频标题：歌切 2026-04-08 あいまるん。- Aimarun。 Jl6Jy1OriCI 唱些感人的歌哦！
+- 时长：分P 204s (3:24)；视频 1399s (23:19)
+- 播放：3657
+- 封面：[cover](https://i2.hdslb.com/bfs/archive/5a3db1b1b0ac7b30e734ddcf1b6f87f431374b2c.png@160w_90h_1c.webp)
+- 去重：神っぽいな；同曲来源 10；同曲出现 19；单独曲目 否
+- 判定：P主/术力口作者:ピノキオピー；已知术力口曲名:神っぽいな
+
+<details>
+<summary>完整字段 JSON</summary>
+
+```json
+{
+  "title": "神っぽいな",
+  "artist": "ピノキオピー",
+  "collection": "歌切 2026-04-08 あいまるん。- Aimarun。 Jl6Jy1OriCI 唱些感人的歌哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18xo1BHEkX?p=4",
+  "source": "aimarun.js",
+  "bvid": "BV18xo1BHEkX",
+  "aid": 116477852128498,
+  "cid": 37889968200,
+  "page": 4,
+  "pubdate": 1777313189,
+  "ctime": 1777313189,
+  "videoDuration": 1399,
+  "partDuration": 204,
+  "videos": 7,
+  "viewCount": 3657,
+  "cover": "https://i2.hdslb.com/bfs/archive/5a3db1b1b0ac7b30e734ddcf1b6f87f431374b2c.png@160w_90h_1c.webp",
+  "videoTitle": "歌切 2026-04-08 あいまるん。- Aimarun。 Jl6Jy1OriCI 唱些感人的歌哦！",
+  "uploader": "前尘往事如昔故",
+  "uploaderMid": 3546597260528367,
+  "rowId": "EaRmuWBFyv-GKtGupxkTR0vW9Ns",
+  "sourceAlias": "あいまるん。",
+  "uniqueSourceCount": 10,
+  "uniqueOccurrenceCount": 19,
+  "isUniqueSong": false,
+  "pubdateFormatted": "2026-04-28 02:06:29",
+  "ctimeFormatted": "2026-04-28 02:06:29",
+  "normalizedTitle": "神っぽいな",
+  "vocaloidCheck": {
+    "isVocaloid": true,
+    "reasons": [
+      "P主/术力口作者:ピノキオピー",
+      "已知术力口曲名:神っぽいな"
+    ],
+    "mode": "direct",
+    "checkedFields": [
+      "title",
+      "artist"
+    ]
+  }
+}
+```
+
+</details>
+

@@ -1,0 +1,84 @@
+[
+  {
+    "title": "ODDS&ENDS",
+    "artist": "ryo（supercell）",
+    "collection": "【花鋏キョウ】花铗镜6周年3D生日会，简单切切唱歌部分",
+    "up": "前尘往事如昔故",
+    "link": "https://www.bilibili.com/video/BV1H9ekeiEaB?p=7",
+    "source": "hanabasamikyo.js",
+    "bvid": "BV1H9ekeiEaB",
+    "aid": 112853889584108,
+    "cid": 500001628570868,
+    "page": 7,
+    "pubdate": 1722014907,
+    "ctime": 1722014907,
+    "videoDuration": 1798,
+    "partDuration": 333,
+    "videos": 8,
+    "viewCount": 2849,
+    "cover": "https://i0.hdslb.com/bfs/archive/3fab74c0dc8e555b013af9ac29a00561e55b1643.jpg@160w_90h_1c.webp",
+    "videoTitle": "【花鋏キョウ】花铗镜6周年3D生日会，简单切切唱歌部分",
+    "uploader": "前尘往事如昔故",
+    "uploaderMid": 3546597260528367,
+    "rowId": "7_mZlJETUVDVt5MzaIkJ-kzl6ac",
+    "sourceAlias": "花鋏キョウ",
+    "uniqueSourceCount": 9,
+    "uniqueOccurrenceCount": 13,
+    "isUniqueSong": false,
+    "pubdateFormatted": "2024-07-27 01:28:27",
+    "ctimeFormatted": "2024-07-27 01:28:27",
+    "normalizedTitle": "odds&ends",
+    "vocaloidCheck": {
+      "isVocaloid": true,
+      "reasons": [
+        "已知术力口曲名:ODDS&ENDS"
+      ],
+      "mode": "direct",
+      "checkedFields": [
+        "title",
+        "artist"
+      ]
+    }
+  },
+  {
+    "title": "Ready Steady",
+    "artist": "Giga",
+    "collection": "【花鋏キョウ】花铗镜6周年3D生日会，简单切切唱歌部分",
+    "up": "前尘往事如昔故",
+    "link": "https://www.bilibili.com/video/BV1H9ekeiEaB?p=5",
+    "source": "hanabasamikyo.js",
+    "bvid": "BV1H9ekeiEaB",
+    "aid": 112853889584108,
+    "cid": 500001628566878,
+    "page": 5,
+    "pubdate": 1722014907,
+    "ctime": 1722014907,
+    "videoDuration": 1798,
+    "partDuration": 209,
+    "videos": 8,
+    "viewCount": 2849,
+    "cover": "https://i0.hdslb.com/bfs/archive/3fab74c0dc8e555b013af9ac29a00561e55b1643.jpg@160w_90h_1c.webp",
+    "videoTitle": "【花鋏キョウ】花铗镜6周年3D生日会，简单切切唱歌部分",
+    "uploader": "前尘往事如昔故",
+    "uploaderMid": 3546597260528367,
+    "rowId": "tNMvC8RVSg4Jv0GN5Vq5twiAV24",
+    "sourceAlias": "花鋏キョウ",
+    "uniqueSourceCount": 3,
+    "uniqueOccurrenceCount": 3,
+    "isUniqueSong": false,
+    "pubdateFormatted": "2024-07-27 01:28:27",
+    "ctimeFormatted": "2024-07-27 01:28:27",
+    "normalizedTitle": "readysteady",
+    "vocaloidCheck": {
+      "isVocaloid": true,
+      "reasons": [
+        "P主/术力口作者:Giga"
+      ],
+      "mode": "direct",
+      "checkedFields": [
+        "title",
+        "artist"
+      ]
+    }
+  }
+]
