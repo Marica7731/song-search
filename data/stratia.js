@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 6/17/2026, 9:09:12 PM
+// 生成时间: 6/17/2026, 9:32:55 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -899,6 +899,62 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-06-13]要不要听一首歌？🎸🎤🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w1JH6DEqv?p=9",
+  "source": "stratia.js"
+},
+    {
+  "title": "ハンドメイドホーム",
+  "artist": "大森靖子",
+  "collection": "【🎸🦋歌切】[2026-06-17]弹唱治愈时光，不来听听吗？ 🦋🫧 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fKLf6TED1?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "糸ノ意図",
+  "artist": "スキマスイッチ",
+  "collection": "【🎸🦋歌切】[2026-06-17]弹唱治愈时光，不来听听吗？ 🦋🫧 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fKLf6TED1?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "ガラナ",
+  "artist": "スキマスイッチ",
+  "collection": "【🎸🦋歌切】[2026-06-17]弹唱治愈时光，不来听听吗？ 🦋🫧 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fKLf6TED1?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n & 中島愛",
+  "collection": "【🎸🦋歌切】[2026-06-17]弹唱治愈时光，不来听听吗？ 🦋🫧 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fKLf6TED1?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー(中島愛)",
+  "collection": "【🎸🦋歌切】[2026-06-17]弹唱治愈时光，不来听听吗？ 🦋🫧 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fKLf6TED1?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "ヘビースモーク",
+  "artist": "にしな",
+  "collection": "【🎸🦋歌切】[2026-06-17]弹唱治愈时光，不来听听吗？ 🦋🫧 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fKLf6TED1?p=6",
+  "source": "stratia.js"
+},
+    {
+  "title": "白金ディスコ",
+  "artist": "阿良々木月火(井口裕香)",
+  "collection": "【🎸🦋歌切】[2026-06-17]弹唱治愈时光，不来听听吗？ 🦋🫧 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fKLf6TED1?p=7",
   "source": "stratia.js"
 }
 );

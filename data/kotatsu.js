@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 6/17/2026, 8:55:26 PM
+// 生成时间: 6/17/2026, 9:16:37 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6243,6 +6243,230 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=47",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "サイダーのように言葉が湧き上がる",
+  "artist": "never young beach",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "情熱の薔薇",
+  "artist": "THE BLUE HEARTS",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "五月雨",
+  "artist": "崎山蒼志",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ダダリオ",
+  "artist": "ズーカラデル",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "またね",
+  "artist": "ハンブレッダーズ",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ただ",
+  "artist": "クリープハイプ",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "大好きだよ。",
+  "artist": "大塚愛",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "世界に一つだけの花",
+  "artist": "SMAP",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "リンジュー・ラヴ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "明日はきっといい日になる",
+  "artist": "高橋優",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "愛言葉 ～てをひいて～",
+  "artist": "NEWS",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "少年時代",
+  "artist": "井上陽水",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "オシャレ大作戦",
+  "artist": "ネクライトーキー",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "シンクロサイクロトロン・スピリチュアライザー。",
+  "artist": "砂粒 feat. GUMI",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "バレリーコ",
+  "artist": "みきとP feat. GUMI",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "光",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "napori",
+  "artist": "Vaundy",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "下北沢のギターロック",
+  "artist": "3markets",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ひこうき雲",
+  "artist": "荒井由実",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ララバイ",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Tonight",
+  "artist": "はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "もう柔らかいおっぱいのことしか考えたくない。",
+  "artist": "はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "久しぶりの恋が片思いじゃなくてよかった",
+  "artist": "はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "国語",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "デブの戯言",
+  "artist": "はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=28",
   "source": "kotatsu.js"
 }
 );
