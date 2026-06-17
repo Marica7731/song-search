@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/17/2026, 11:16:00 PM
+// 生成时间: 6/17/2026, 11:36:31 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15659,6 +15659,182 @@ window.SONG_DATA.push(
   "collection": "棗いつき歌切 2026-06-16 歌回从天而降！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sgLZ61E5Y?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "ヒューマノイド",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ホログラム",
+  "artist": "NICO Touches the Walls",
+  "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "二息歩行",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ロングホープ・フィリア",
+  "artist": "菅田将暉",
+  "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ツギハギスタッカート",
+  "artist": "とあ feat.初音ミク",
+  "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat.初音ミク",
+  "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "自傷無色",
+  "artist": "ねこぼーろ feat.初音ミク",
+  "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat.GUMI",
+  "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat.初音ミク",
+  "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "生きる",
+  "artist": "水野あつ feat.可不",
+  "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "ただ声一つ",
+  "artist": "ロクデナシ",
+  "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "紡ぐ",
+  "artist": "とた",
+  "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
+  "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "東京フラッシュ",
+  "artist": "Vaundy",
+  "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=22",
   "source": "others.js"
 },
     {
