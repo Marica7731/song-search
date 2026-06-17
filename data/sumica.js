@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 6/17/2026, 2:36:06 AM
+// 生成时间: 6/17/2026, 2:46:55 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4582,7 +4582,7 @@ window.SONG_DATA.push(
   "source": "sumica.js"
 },
     {
-  "title": "8",
+  "title": "8.8",
   "artist": "あたらよ",
   "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
   "up": "前尘往事如昔故",
