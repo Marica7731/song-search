@@ -1,6 +1,6 @@
 // ななし律歌 - 歌单数据 (多合集汇总)
 // 来源: BV1wHQVBTEU5
-// 生成时间: 6/17/2026, 10:31:04 PM
+// 生成时间: 6/17/2026, 10:40:20 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -667,6 +667,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=21",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-17]突然想唱歌的夜晚也是有的呢 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLZ6dEdk?p=1",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat. 初音ミク",
+  "collection": "【歌切】[2026-06-17]突然想唱歌的夜晚也是有的呢 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLZ6dEdk?p=2",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "突破口",
+  "artist": "SUPER BEAVER",
+  "collection": "【歌切】[2026-06-17]突然想唱歌的夜晚也是有的呢 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLZ6dEdk?p=3",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-06-17]突然想唱歌的夜晚也是有的呢 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLZ6dEdk?p=4",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-06-17]突然想唱歌的夜晚也是有的呢 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLZ6dEdk?p=5",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Caffeine",
+  "artist": "秋山黄色",
+  "collection": "【歌切】[2026-06-17]突然想唱歌的夜晚也是有的呢 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLZ6dEdk?p=6",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "REVIVER",
+  "artist": "MY FIRST STORY",
+  "collection": "【歌切】[2026-06-17]突然想唱歌的夜晚也是有的呢 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLZ6dEdk?p=7",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Re:銃の部品",
+  "artist": "PEOPLE 1 feat. TOOBOE",
+  "collection": "【歌切】[2026-06-17]突然想唱歌的夜晚也是有的呢 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLZ6dEdk?p=8",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-06-17]突然想唱歌的夜晚也是有的呢 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLZ6dEdk?p=9",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "宿命",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-06-17]突然想唱歌的夜晚也是有的呢 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLZ6dEdk?p=10",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "サムライハート(Some Like It Hot!!)",
+  "artist": "SPYAIR",
+  "collection": "【歌切】[2026-06-17]突然想唱歌的夜晚也是有的呢 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLZ6dEdk?p=11",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "未完成",
+  "artist": "家入レオ",
+  "collection": "【歌切】[2026-06-17]突然想唱歌的夜晚也是有的呢 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLZ6dEdk?p=12",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "裸の心",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-06-17]突然想唱歌的夜晚也是有的呢 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13zLZ6dEdk?p=13",
   "source": "nanashirikka.js"
 }
 );
