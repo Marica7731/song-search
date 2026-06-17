@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/17/2026, 10:17:47 PM
+// 生成时间: 6/17/2026, 10:29:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15443,6 +15443,142 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-06-15 えん / neG 星期一的歌回，辛苦了 37lCuKBW8kY",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qZjN6dEf2?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-17 术力口限定歌回🎤初次来访也欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NDLZ6EEUh?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "愛迷エレジー",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-17 术力口限定歌回🎤初次来访也欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NDLZ6EEUh?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "二息歩行",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-17 术力口限定歌回🎤初次来访也欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NDLZ6EEUh?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "世田谷ナイトサファリ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-17 术力口限定歌回🎤初次来访也欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NDLZ6EEUh?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-17 术力口限定歌回🎤初次来访也欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NDLZ6EEUh?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "小夜子",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-17 术力口限定歌回🎤初次来访也欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NDLZ6EEUh?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "心臓デモクラシー",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-17 术力口限定歌回🎤初次来访也欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NDLZ6EEUh?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "月陽-ツキアカリ-",
+  "artist": "みきとP feat.GUMI",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-17 术力口限定歌回🎤初次来访也欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NDLZ6EEUh?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "From Y to Y",
+  "artist": "ジミーサムP feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-17 术力口限定歌回🎤初次来访也欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NDLZ6EEUh?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "Just Be Friends",
+  "artist": "Dixie Flatline feat.巡音ルカ",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-17 术力口限定歌回🎤初次来访也欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NDLZ6EEUh?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-17 术力口限定歌回🎤初次来访也欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NDLZ6EEUh?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "1925",
+  "artist": "T-POCKET feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-17 术力口限定歌回🎤初次来访也欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NDLZ6EEUh?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "ワンダーランドと羊の歌",
+  "artist": "ハチ feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-17 术力口限定歌回🎤初次来访也欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NDLZ6EEUh?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "林檎売りの泡沫少女",
+  "artist": "yukkedoluce feat.GUMI",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-17 术力口限定歌回🎤初次来访也欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NDLZ6EEUh?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-17 术力口限定歌回🎤初次来访也欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NDLZ6EEUh?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "アンハッピーリフレイン",
+  "artist": "wowaka feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-17 术力口限定歌回🎤初次来访也欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NDLZ6EEUh?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "ワールズエンド・ダンスホール",
+  "artist": "wowaka feat.初音ミク・巡音ルカ",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-17 术力口限定歌回🎤初次来访也欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NDLZ6EEUh?p=17",
   "source": "others.js"
 },
     {
