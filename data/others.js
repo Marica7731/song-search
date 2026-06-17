@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/17/2026, 11:36:31 PM
+// 生成时间: 6/17/2026, 11:49:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15835,6 +15835,174 @@ window.SONG_DATA.push(
   "collection": "ゆらぎゆら / YuragiYura🌙🫧歌切 2026-06-17 星期三摇摇曳曳歌回｜与你融于夜色的歌回。",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14KLZ6EEpo?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "天国",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP feat.初音ミク",
+  "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "CH4NGE",
+  "artist": "Giga feat.可不",
+  "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ノーザンクロス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ロビンソン",
+  "artist": "スピッツ",
+  "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "flos",
+  "artist": "R Sound Design feat.初音ミク",
+  "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "G4L",
+  "artist": "Giga",
+  "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "ブラック★ロックシューター",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "群青日和",
+  "artist": "東京事変",
+  "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "きらり",
+  "artist": "藤井風",
+  "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "火種",
+  "artist": "キタニタツヤ",
+  "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "Stay Gold",
+  "artist": "宇多田ヒカル",
+  "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "Secret of my heart",
+  "artist": "倉木麻衣",
+  "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "Never Enough",
+  "artist": "Loren Allred",
+  "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=21",
   "source": "others.js"
 },
     {
