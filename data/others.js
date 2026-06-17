@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/17/2026, 10:40:43 PM
+// 生成时间: 6/17/2026, 10:48:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15579,6 +15579,86 @@ window.SONG_DATA.push(
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-17 术力口限定歌回🎤初次来访也欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NDLZ6EEUh?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "棗いつき歌切 2026-06-16 歌回从天而降！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgLZ61E5Y?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "棗いつき歌切 2026-06-16 歌回从天而降！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgLZ61E5Y?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "棗いつき歌切 2026-06-16 歌回从天而降！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgLZ61E5Y?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "棗いつき歌切 2026-06-16 歌回从天而降！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgLZ61E5Y?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "Plazma",
+  "artist": "米津玄師",
+  "collection": "棗いつき歌切 2026-06-16 歌回从天而降！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgLZ61E5Y?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "棗いつき歌切 2026-06-16 歌回从天而降！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgLZ61E5Y?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "棗いつき歌切 2026-06-16 歌回从天而降！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgLZ61E5Y?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "君よ 気高くあれ",
+  "artist": "シユイ",
+  "collection": "棗いつき歌切 2026-06-16 歌回从天而降！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgLZ61E5Y?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "棗いつき歌切 2026-06-16 歌回从天而降！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgLZ61E5Y?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "フロートガール",
+  "artist": "棗いつき",
+  "collection": "棗いつき歌切 2026-06-16 歌回从天而降！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgLZ61E5Y?p=10",
   "source": "others.js"
 },
     {

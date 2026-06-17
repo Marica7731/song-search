@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 6/17/2026, 9:43:37 PM
+// 生成时间: 6/17/2026, 9:53:34 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3483,6 +3483,206 @@ window.SONG_DATA.push(
   "collection": "【明日夢 歌切】[2026-06-06]祝活动五周年！55曲连唱挑战！！！！🔥 明日夢かなえ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19rEW6TETM?p=55",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花人局",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ブレーメン",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "魔性",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ルバート",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "昼鳶",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "強盗と花束",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "茜",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "詩書きとコーヒー",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "八月、某、月明かり",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "低血ボルト",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "三原色",
+  "artist": "YOASOBI",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "舞台に立って",
+  "artist": "YOASOBI",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "告白",
+  "artist": "supercell",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=21",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=22",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "一度だけの恋なら",
+  "artist": "ワルキューレ",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=23",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "風のアンセム",
+  "artist": "Eve feat. suis from ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=24",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "火種",
+  "artist": "キタニタツヤ",
+  "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=25",
   "source": "asuyumekanae.js"
 },
     {
