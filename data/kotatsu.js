@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 6/17/2026, 8:48:35 PM
+// 生成时间: 6/17/2026, 8:55:26 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2423,7 +2423,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ただ",
-  "artist": "はるこたつぶとん倶楽部♧",
+  "artist": "クリープハイプ",
   "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=43",
@@ -5967,7 +5967,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ただ",
-  "artist": "はるこたつぶとん倶楽部♧",
+  "artist": "クリープハイプ",
   "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=13",
