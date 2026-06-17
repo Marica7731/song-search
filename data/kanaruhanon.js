@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 6/17/2026, 9:46:51 PM
+// 生成时间: 6/17/2026, 10:00:31 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -795,6 +795,62 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-13]来场全类型歌曲串烧！你最喜欢哪一首？💗※知名度调查中 Hanon Ch. 香鳴ハノン【パレプロ】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nqJP6AEhQ?p=31",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "WE WILL!!",
+  "artist": "Liella!",
+  "collection": "【歌切】[2026-06-17]稍微唱点歌再稍微聊聊天，稍微来一会儿的歌回 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17bLZ6YEFw?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ビタミンSUMMER!",
+  "artist": "Liella!",
+  "collection": "【歌切】[2026-06-17]稍微唱点歌再稍微聊聊天，稍微来一会儿的歌回 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17bLZ6YEFw?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "未来予報ハレルヤ！",
+  "artist": "Liella!",
+  "collection": "【歌切】[2026-06-17]稍微唱点歌再稍微聊聊天，稍微来一会儿的歌回 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17bLZ6YEFw?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Over Over",
+  "artist": "澁谷かのん",
+  "collection": "【歌切】[2026-06-17]稍微唱点歌再稍微聊聊天，稍微来一会儿的歌回 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17bLZ6YEFw?p=4",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "始まりは君の空",
+  "artist": "Liella!",
+  "collection": "【歌切】[2026-06-17]稍微唱点歌再稍微聊聊天，稍微来一会儿的歌回 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17bLZ6YEFw?p=5",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Holiday∞Holiday",
+  "artist": "スリーズブーケ",
+  "collection": "【歌切】[2026-06-17]稍微唱点歌再稍微聊聊天，稍微来一会儿的歌回 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17bLZ6YEFw?p=6",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Holiday∞Holiday",
+  "artist": "スリーズブーケ",
+  "collection": "【歌切】[2026-06-17]稍微唱点歌再稍微聊聊天，稍微来一会儿的歌回 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17bLZ6YEFw?p=7",
   "source": "kanaruhanon.js"
 }
 );
