@@ -1,6 +1,6 @@
 // nayuta - 歌单数据 (多合集汇总)
 // 来源: BV1GXYFzXETo, BV1MPpUzsE1D, BV184W5zeE1Z
-// 生成时间: 6/18/2026, 6:38:09 PM
+// 生成时间: 6/18/2026, 6:56:12 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2760,7 +2760,7 @@ window.SONG_DATA.push(
     {
   "title": "ninelie",
   "artist": "Aimer with chelly(EGOIST)",
-  "collection": "【歌切】[2026-06-18]nayuta Acoustic Live vol.26 生演奏Live～活动19周年纪念Live～ nayuta",
+  "collection": "【nayuta歌切】vol.26 生演奏Live～活动19周年纪念Live～ nayuta[2026-06-18]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Usjh65EkN?p=1",
   "source": "nayuta.js"
@@ -2768,7 +2768,7 @@ window.SONG_DATA.push(
     {
   "title": "THERE IS A REASON",
   "artist": "鈴木このみ",
-  "collection": "【歌切】[2026-06-18]nayuta Acoustic Live vol.26 生演奏Live～活动19周年纪念Live～ nayuta",
+  "collection": "【nayuta歌切】vol.26 生演奏Live～活动19周年纪念Live～ nayuta[2026-06-18]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Usjh65EkN?p=2",
   "source": "nayuta.js"
@@ -2776,7 +2776,7 @@ window.SONG_DATA.push(
     {
   "title": "oath sign",
   "artist": "LiSA",
-  "collection": "【歌切】[2026-06-18]nayuta Acoustic Live vol.26 生演奏Live～活动19周年纪念Live～ nayuta",
+  "collection": "【nayuta歌切】vol.26 生演奏Live～活动19周年纪念Live～ nayuta[2026-06-18]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Usjh65EkN?p=3",
   "source": "nayuta.js"
@@ -2784,7 +2784,7 @@ window.SONG_DATA.push(
     {
   "title": "Get Over",
   "artist": "dream",
-  "collection": "【歌切】[2026-06-18]nayuta Acoustic Live vol.26 生演奏Live～活动19周年纪念Live～ nayuta",
+  "collection": "【nayuta歌切】vol.26 生演奏Live～活动19周年纪念Live～ nayuta[2026-06-18]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Usjh65EkN?p=4",
   "source": "nayuta.js"
@@ -2792,7 +2792,7 @@ window.SONG_DATA.push(
     {
   "title": "why, or why not",
   "artist": "片霧烈火",
-  "collection": "【歌切】[2026-06-18]nayuta Acoustic Live vol.26 生演奏Live～活动19周年纪念Live～ nayuta",
+  "collection": "【nayuta歌切】vol.26 生演奏Live～活动19周年纪念Live～ nayuta[2026-06-18]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Usjh65EkN?p=5",
   "source": "nayuta.js"
@@ -2800,7 +2800,7 @@ window.SONG_DATA.push(
     {
   "title": "少女レイ",
   "artist": "みきとP feat.初音ミク",
-  "collection": "【歌切】[2026-06-18]nayuta Acoustic Live vol.26 生演奏Live～活动19周年纪念Live～ nayuta",
+  "collection": "【nayuta歌切】vol.26 生演奏Live～活动19周年纪念Live～ nayuta[2026-06-18]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Usjh65EkN?p=6",
   "source": "nayuta.js"
@@ -2808,7 +2808,7 @@ window.SONG_DATA.push(
     {
   "title": "LOVE & ROLL",
   "artist": "supercell",
-  "collection": "【歌切】[2026-06-18]nayuta Acoustic Live vol.26 生演奏Live～活动19周年纪念Live～ nayuta",
+  "collection": "【nayuta歌切】vol.26 生演奏Live～活动19周年纪念Live～ nayuta[2026-06-18]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Usjh65EkN?p=7",
   "source": "nayuta.js"
@@ -2816,7 +2816,7 @@ window.SONG_DATA.push(
     {
   "title": "ライオン",
   "artist": "May'n / 中島愛",
-  "collection": "【歌切】[2026-06-18]nayuta Acoustic Live vol.26 生演奏Live～活动19周年纪念Live～ nayuta",
+  "collection": "【nayuta歌切】vol.26 生演奏Live～活动19周年纪念Live～ nayuta[2026-06-18]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Usjh65EkN?p=8",
   "source": "nayuta.js"
@@ -2824,7 +2824,7 @@ window.SONG_DATA.push(
     {
   "title": "結い結われ",
   "artist": "nayuta",
-  "collection": "【歌切】[2026-06-18]nayuta Acoustic Live vol.26 生演奏Live～活动19周年纪念Live～ nayuta",
+  "collection": "【nayuta歌切】vol.26 生演奏Live～活动19周年纪念Live～ nayuta[2026-06-18]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Usjh65EkN?p=9",
   "source": "nayuta.js"
@@ -2832,7 +2832,7 @@ window.SONG_DATA.push(
     {
   "title": "時を刻む唄",
   "artist": "Lia",
-  "collection": "【歌切】[2026-06-18]nayuta Acoustic Live vol.26 生演奏Live～活动19周年纪念Live～ nayuta",
+  "collection": "【nayuta歌切】vol.26 生演奏Live～活动19周年纪念Live～ nayuta[2026-06-18]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Usjh65EkN?p=10",
   "source": "nayuta.js"
