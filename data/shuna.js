@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 6/17/2026, 11:52:56 PM
+// 生成时间: 6/18/2026, 12:01:33 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6835,6 +6835,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-15]清爽歌回🎐 朱名 / SHUNA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KKjT6gEYm?p=23",
+  "source": "shuna.js"
+},
+    {
+  "title": "ムーンライト伝説",
+  "artist": "DALI",
+  "collection": "【歌切】[2026-06-17]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZyLo6YEgY?p=1",
+  "source": "shuna.js"
+},
+    {
+  "title": "阿修羅ちゃん",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-17]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZyLo6YEgY?p=2",
+  "source": "shuna.js"
+},
+    {
+  "title": "ルル",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-17]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZyLo6YEgY?p=3",
+  "source": "shuna.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-17]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZyLo6YEgY?p=4",
+  "source": "shuna.js"
+},
+    {
+  "title": "破滅の純情",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-06-17]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZyLo6YEgY?p=5",
+  "source": "shuna.js"
+},
+    {
+  "title": "タマシイレボリューション",
+  "artist": "Superfly",
+  "collection": "【歌切】[2026-06-17]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZyLo6YEgY?p=6",
+  "source": "shuna.js"
+},
+    {
+  "title": "愛をこめて花束を",
+  "artist": "Superfly",
+  "collection": "【歌切】[2026-06-17]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZyLo6YEgY?p=7",
+  "source": "shuna.js"
+},
+    {
+  "title": "エレクトリック・パブリック",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "【歌切】[2026-06-17]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZyLo6YEgY?p=8",
+  "source": "shuna.js"
+},
+    {
+  "title": "宿命",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-06-17]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZyLo6YEgY?p=9",
+  "source": "shuna.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-06-17]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZyLo6YEgY?p=10",
+  "source": "shuna.js"
+},
+    {
+  "title": "うっせぇわ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-17]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZyLo6YEgY?p=11",
+  "source": "shuna.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-17]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZyLo6YEgY?p=12",
+  "source": "shuna.js"
+},
+    {
+  "title": "踊",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-17]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZyLo6YEgY?p=13",
+  "source": "shuna.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "【歌切】[2026-06-17]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZyLo6YEgY?p=14",
+  "source": "shuna.js"
+},
+    {
+  "title": "本能",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-06-17]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZyLo6YEgY?p=15",
+  "source": "shuna.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-06-17]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZyLo6YEgY?p=16",
   "source": "shuna.js"
 }
 );
