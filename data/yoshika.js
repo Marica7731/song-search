@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 6/18/2026, 12:15:29 AM
+// 生成时间: 6/18/2026, 12:35:09 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -34851,6 +34851,126 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-06-16]初見さん歓迎中！1曲聞いてって！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qjj561E3x?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-06-17]初見さん歓迎中！1曲聞いてって！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nBLo6BEQc?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "松本梨香",
+  "collection": "【🍠🦍歌切】[2026-06-17]初見さん歓迎中！1曲聞いてって！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nBLo6BEQc?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【🍠🦍歌切】[2026-06-17]初見さん歓迎中！1曲聞いてって！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nBLo6BEQc?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍠🦍歌切】[2026-06-17]初見さん歓迎中！1曲聞いてって！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nBLo6BEQc?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-06-17]初見さん歓迎中！1曲聞いてって！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nBLo6BEQc?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子(花澤香菜)",
+  "collection": "【🍠🦍歌切】[2026-06-17]初見さん歓迎中！1曲聞いてって！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nBLo6BEQc?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-06-17]初見さん歓迎中！1曲聞いてって！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nBLo6BEQc?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【🍠🦍歌切】[2026-06-17]初見さん歓迎中！1曲聞いてって！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nBLo6BEQc?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "美少女無罪♡パイレーツ",
+  "artist": "ホロライブ/宝鐘マリン",
+  "collection": "【🍠🦍歌切】[2026-06-17]初見さん歓迎中！1曲聞いてって！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nBLo6BEQc?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "メリッサ",
+  "artist": "Porno Graffitti",
+  "collection": "【🍠🦍歌切】[2026-06-17]初見さん歓迎中！1曲聞いてって！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nBLo6BEQc?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "愛言葉Ⅲ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【🍠🦍歌切】[2026-06-17]初見さん歓迎中！1曲聞いてって！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nBLo6BEQc?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "ホロライブ/星街すいせい",
+  "collection": "【🍠🦍歌切】[2026-06-17]初見さん歓迎中！1曲聞いてって！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nBLo6BEQc?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "かくれんぼ",
+  "artist": "AliA",
+  "collection": "【🍠🦍歌切】[2026-06-17]初見さん歓迎中！1曲聞いてって！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nBLo6BEQc?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【🍠🦍歌切】[2026-06-17]初見さん歓迎中！1曲聞いてって！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nBLo6BEQc?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "99ILLUSION！",
+  "artist": "スタァライト九九組",
+  "collection": "【🍠🦍歌切】[2026-06-17]初見さん歓迎中！1曲聞いてって！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nBLo6BEQc?p=15",
   "source": "yoshika.js"
 }
 );
