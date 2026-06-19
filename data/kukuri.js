@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 6/19/2026, 3:06:27 PM
+// 生成时间: 6/19/2026, 3:17:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3731,6 +3731,174 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-06-14]今日也元气满满地唱歌哦歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kJP6fERS?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "満ちてゆく",
+  "artist": "藤井風",
+  "collection": "【💫✖歌切】[2026-06-18]👑5周年纪念排行榜歌回👑 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xsj66KE2h?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【💫✖歌切】[2026-06-18]👑5周年纪念排行榜歌回👑 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xsj66KE2h?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-06-18]👑5周年纪念排行榜歌回👑 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xsj66KE2h?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-06-18]👑5周年纪念排行榜歌回👑 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xsj66KE2h?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-06-18]👑5周年纪念排行榜歌回👑 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xsj66KE2h?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-06-18]👑5周年纪念排行榜歌回👑 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xsj66KE2h?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "My Dearest",
+  "artist": "supercell",
+  "collection": "【💫✖歌切】[2026-06-18]👑5周年纪念排行榜歌回👑 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xsj66KE2h?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-06-18]👑5周年纪念排行榜歌回👑 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xsj66KE2h?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Departures〜あなたにおくるアイの歌〜",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-06-18]👑5周年纪念排行榜歌回👑 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xsj66KE2h?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "All Alone With You",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-06-18]👑5周年纪念排行榜歌回👑 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xsj66KE2h?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "あなたの夜が明けるまで",
+  "artist": "傘村トータ feat. IA・Fukase",
+  "collection": "【💫✖歌切】[2026-06-18]👑5周年纪念排行榜歌回👑 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xsj66KE2h?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "アムリタ",
+  "artist": "牧野由依",
+  "collection": "【💫✖歌切】[2026-06-18]👑5周年纪念排行榜歌回👑 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xsj66KE2h?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ふわふわ♪",
+  "artist": "牧野由依",
+  "collection": "【💫✖歌切】[2026-06-18]👑5周年纪念排行榜歌回👑 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xsj66KE2h?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "fancy baby doll",
+  "artist": "田村ゆかり",
+  "collection": "【💫✖歌切】[2026-06-18]👑5周年纪念排行榜歌回👑 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xsj66KE2h?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-06-18]👑5周年纪念排行榜歌回👑 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xsj66KE2h?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-06-18]👑5周年纪念排行榜歌回👑 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xsj66KE2h?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【💫✖歌切】[2026-06-18]👑5周年纪念排行榜歌回👑 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xsj66KE2h?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師x宇多田ヒカル",
+  "collection": "【💫✖歌切】[2026-06-18]👑5周年纪念排行榜歌回👑 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xsj66KE2h?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "がらくた",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-06-18]👑5周年纪念排行榜歌回👑 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xsj66KE2h?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ヘビースモーク",
+  "artist": "にしな",
+  "collection": "【💫✖歌切】[2026-06-18]👑5周年纪念排行榜歌回👑 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xsj66KE2h?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【💫✖歌切】[2026-06-18]👑5周年纪念排行榜歌回👑 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xsj66KE2h?p=21",
   "source": "kukuri.js"
 }
 );

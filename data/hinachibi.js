@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 6/19/2026, 3:44:05 PM
+// 生成时间: 6/19/2026, 3:58:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -683,6 +683,78 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-16]当背景音乐也好，只是进来看看也超欢迎！来听我唱歌吧！！🍎🌟 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1s6j56FEDQ?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-06-18]离生日LIVE还有一个月！！全力送上歌声🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jAj66HEfm?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ジャガーノート",
+  "artist": "夏代孝明 feat. 初音ミク",
+  "collection": "【歌切】[2026-06-18]离生日LIVE还有一个月！！全力送上歌声🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jAj66HEfm?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-18]离生日LIVE还有一个月！！全力送上歌声🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jAj66HEfm?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "炉心融解",
+  "artist": "iroha(sasaki) feat. 鏡音リン",
+  "collection": "【歌切】[2026-06-18]离生日LIVE还有一个月！！全力送上歌声🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jAj66HEfm?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "Alice in 冷凍庫",
+  "artist": "Orangestar feat. IA",
+  "collection": "【歌切】[2026-06-18]离生日LIVE还有一个月！！全力送上歌声🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jAj66HEfm?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "神っぽいな",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "【歌切】[2026-06-18]离生日LIVE还有一个月！！全力送上歌声🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jAj66HEfm?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "sister's noise",
+  "artist": "fripSide",
+  "collection": "【歌切】[2026-06-18]离生日LIVE还有一个月！！全力送上歌声🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jAj66HEfm?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "【歌切】[2026-06-18]离生日LIVE还有一个月！！全力送上歌声🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jAj66HEfm?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-06-18]离生日LIVE还有一个月！！全力送上歌声🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jAj66HEfm?p=9",
   "source": "hinachibi.js"
 }
 );
