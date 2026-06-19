@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/19/2026, 6:16:03 PM
+// 生成时间: 6/19/2026, 6:27:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -16731,6 +16731,126 @@ window.SONG_DATA.push(
   "collection": "羊羊🐏meimei歌切 2026-05-30 治愈系歌曲限定歌回｜羊羊白夜 第四十五夜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xajk6uErz?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "ファンファーレ",
+  "artist": "sumika",
+  "collection": "白傘くらげ歌切 2026-06-18 唱歌时间到啦～～！要不要来听一首？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bxjk6VEhM?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "君と夏フェス",
+  "artist": "SHISHAMO",
+  "collection": "白傘くらげ歌切 2026-06-18 唱歌时间到啦～～！要不要来听一首？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bxjk6VEhM?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "白傘くらげ歌切 2026-06-18 唱歌时间到啦～～！要不要来听一首？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bxjk6VEhM?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "白傘くらげ歌切 2026-06-18 唱歌时间到啦～～！要不要来听一首？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bxjk6VEhM?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "贖罪",
+  "artist": "傘村トータ feat.IA,結月ゆかり,初音ミク,Fukase,Ken",
+  "collection": "白傘くらげ歌切 2026-06-18 唱歌时间到啦～～！要不要来听一首？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bxjk6VEhM?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "キャラクター",
+  "artist": "緑黄色社会",
+  "collection": "白傘くらげ歌切 2026-06-18 唱歌时间到啦～～！要不要来听一首？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bxjk6VEhM?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "白傘くらげ歌切 2026-06-18 唱歌时间到啦～～！要不要来听一首？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bxjk6VEhM?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "白傘くらげ歌切 2026-06-18 唱歌时间到啦～～！要不要来听一首？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bxjk6VEhM?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "白傘くらげ歌切 2026-06-18 唱歌时间到啦～～！要不要来听一首？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bxjk6VEhM?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "白傘くらげ歌切 2026-06-18 唱歌时间到啦～～！要不要来听一首？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bxjk6VEhM?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑ feat.初音ミク",
+  "collection": "白傘くらげ歌切 2026-06-18 唱歌时间到啦～～！要不要来听一首？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bxjk6VEhM?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "白傘くらげ歌切 2026-06-18 唱歌时间到啦～～！要不要来听一首？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bxjk6VEhM?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "白傘くらげ歌切 2026-06-18 唱歌时间到啦～～！要不要来听一首？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bxjk6VEhM?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "百花繚乱",
+  "artist": "幾田りら",
+  "collection": "白傘くらげ歌切 2026-06-18 唱歌时间到啦～～！要不要来听一首？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bxjk6VEhM?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "残機",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "白傘くらげ歌切 2026-06-18 唱歌时间到啦～～！要不要来听一首？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bxjk6VEhM?p=15",
   "source": "others.js"
 },
     {
