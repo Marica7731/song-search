@@ -1,6 +1,6 @@
 // 深影 - 歌单数据 (多合集汇总)
 // 来源: BV12mQ3B6EpP
-// 生成时间: 6/19/2026, 6:54:36 PM
+// 生成时间: 6/19/2026, 7:15:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -811,6 +811,190 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-06]凌晨4点的灵界 深影 - Mikage -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dsEJ6aEx2?p=11",
+  "source": "mikage.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=1",
+  "source": "mikage.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=2",
+  "source": "mikage.js"
+},
+    {
+  "title": "This game",
+  "artist": "鈴木このみ",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=3",
+  "source": "mikage.js"
+},
+    {
+  "title": "ブルーアンバー",
+  "artist": "Back number",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=4",
+  "source": "mikage.js"
+},
+    {
+  "title": "コロニー",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=5",
+  "source": "mikage.js"
+},
+    {
+  "title": "flos",
+  "artist": "R Sound Design",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=6",
+  "source": "mikage.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=7",
+  "source": "mikage.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=8",
+  "source": "mikage.js"
+},
+    {
+  "title": "星屑ビーナス",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=9",
+  "source": "mikage.js"
+},
+    {
+  "title": "鱗",
+  "artist": "秦基博",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=10",
+  "source": "mikage.js"
+},
+    {
+  "title": "エルマ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=11",
+  "source": "mikage.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=12",
+  "source": "mikage.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=13",
+  "source": "mikage.js"
+},
+    {
+  "title": "I AM",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=14",
+  "source": "mikage.js"
+},
+    {
+  "title": "ninelie",
+  "artist": "Aimer with chelly",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=15",
+  "source": "mikage.js"
+},
+    {
+  "title": "GHOST",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=16",
+  "source": "mikage.js"
+},
+    {
+  "title": "雛鳥",
+  "artist": "花譜",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=17",
+  "source": "mikage.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=18",
+  "source": "mikage.js"
+},
+    {
+  "title": "Departures 〜あなたにおくるアイの歌〜",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=19",
+  "source": "mikage.js"
+},
+    {
+  "title": "太陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=20",
+  "source": "mikage.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=21",
+  "source": "mikage.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=22",
+  "source": "mikage.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna",
+  "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=23",
   "source": "mikage.js"
 }
 );

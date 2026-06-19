@@ -1,10 +1,250 @@
 // みなとん - 歌单数据 (多合集汇总)
 // 来源: BV1TqGY6gEEf
-// 生成时间: 6/19/2026, 7:04:16 PM
+// 生成时间: 6/19/2026, 7:22:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat.可不",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=1",
+  "source": "minaton.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP feat.鏡音リン",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=2",
+  "source": "minaton.js"
+},
+    {
+  "title": "リレイアウター",
+  "artist": "稲葉曇 feat.歌愛ユキ",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=3",
+  "source": "minaton.js"
+},
+    {
+  "title": "ロストワンの号哭",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=4",
+  "source": "minaton.js"
+},
+    {
+  "title": "神っぽいな",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=5",
+  "source": "minaton.js"
+},
+    {
+  "title": "脳漿炸裂ガール",
+  "artist": "れるりり feat.初音ミク・GUMI",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=6",
+  "source": "minaton.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat.初音ミク",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=7",
+  "source": "minaton.js"
+},
+    {
+  "title": "アンノウン・マザーグース",
+  "artist": "wowaka feat.初音ミク",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=8",
+  "source": "minaton.js"
+},
+    {
+  "title": "CH4NGE",
+  "artist": "Giga feat.可不",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=9",
+  "source": "minaton.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=10",
+  "source": "minaton.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=11",
+  "source": "minaton.js"
+},
+    {
+  "title": "ロウワー",
+  "artist": "ぬゆり feat.flower",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=12",
+  "source": "minaton.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=13",
+  "source": "minaton.js"
+},
+    {
+  "title": "テレキャスタービーボーイ",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=14",
+  "source": "minaton.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat.GUMI",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=15",
+  "source": "minaton.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=16",
+  "source": "minaton.js"
+},
+    {
+  "title": "抜錨",
+  "artist": "ナナホシ管弦楽団 feat.巡音ルカ",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=17",
+  "source": "minaton.js"
+},
+    {
+  "title": "QUEEN",
+  "artist": "Kanaria feat.GUMI",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=18",
+  "source": "minaton.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat.巡音ルカ",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=19",
+  "source": "minaton.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=20",
+  "source": "minaton.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス feat.可不",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=21",
+  "source": "minaton.js"
+},
+    {
+  "title": "ラビットホール",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=22",
+  "source": "minaton.js"
+},
+    {
+  "title": "テレパシ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=23",
+  "source": "minaton.js"
+},
+    {
+  "title": "マーシャル・マキシマイザー",
+  "artist": "柊マグネタイト feat.可不",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=24",
+  "source": "minaton.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat.初音ミク",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=25",
+  "source": "minaton.js"
+},
+    {
+  "title": "ODDS&ENDS",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=26",
+  "source": "minaton.js"
+},
+    {
+  "title": "酔いどれ知らず",
+  "artist": "Kanaria feat.GUMI",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=27",
+  "source": "minaton.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=28",
+  "source": "minaton.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP feat.鏡音リン",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=29",
+  "source": "minaton.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【歌切】[2026-05-08]能当主角的最强术力口祭典🎙 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nzjk6eECv?p=30",
+  "source": "minaton.js"
+},
     {
   "title": "oath sign",
   "artist": "LiSA",
