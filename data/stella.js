@@ -1,6 +1,6 @@
 // 天ノ譜ステラ - 歌单数据 (多合集汇总)
 // 来源: BV1MEP8z4E1J
-// 生成时间: 6/19/2026, 3:38:23 PM
+// 生成时间: 6/19/2026, 3:49:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1771,6 +1771,38 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-11]歌回哦哦  天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wDE66KEej?p=4",
+  "source": "stella.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-06-18]歌起来哦哦 天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iPj66SEuv?p=1",
+  "source": "stella.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-18]歌起来哦哦 天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iPj66SEuv?p=2",
+  "source": "stella.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師、宇多田ヒカル",
+  "collection": "【歌切】[2026-06-18]歌起来哦哦 天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iPj66SEuv?p=3",
+  "source": "stella.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP) feat. GUMI",
+  "collection": "【歌切】[2026-06-18]歌起来哦哦 天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iPj66SEuv?p=4",
   "source": "stella.js"
 }
 );

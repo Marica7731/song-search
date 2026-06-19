@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 6/19/2026, 3:29:07 PM
+// 生成时间: 6/19/2026, 3:38:50 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10115,6 +10115,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "冒険でしょでしょ？",
+  "artist": "平野綾",
+  "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Unnamed world",
+  "artist": "平野綾",
+  "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Northern lights",
+  "artist": "林原めぐみ",
+  "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Q&A リサイタル！",
+  "artist": "戸松遥",
+  "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Link",
+  "artist": "L'Arc〜en〜Ciel",
+  "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "あなただけ見つめてる",
+  "artist": "大黒摩季",
+  "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Synchrogazer",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "翼",
+  "artist": "藍井エイル",
+  "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=11",
   "source": "naraetan.js"
 },
     {
