@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 6/19/2026, 8:09:02 PM
+// 生成时间: 6/19/2026, 8:19:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -31963,6 +31963,158 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】#271[2026-06-14]睡眠导入歌回✨睡前放松时刻请随意收听🌙 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1e7JM6aEKP?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "にじいろ",
+  "artist": "絢香",
+  "collection": "【💐歌切】[2026-06-19]今周也辛苦了！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Skjr6kEav?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "SUN",
+  "artist": "星野源",
+  "collection": "【💐歌切】[2026-06-19]今周也辛苦了！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Skjr6kEav?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【💐歌切】[2026-06-19]今周也辛苦了！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Skjr6kEav?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【💐歌切】[2026-06-19]今周也辛苦了！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Skjr6kEav?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "LOSER",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-06-19]今周也辛苦了！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Skjr6kEav?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "Flamingo",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-06-19]今周也辛苦了！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Skjr6kEav?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "砂の惑星",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-06-19]今周也辛苦了！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Skjr6kEav?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "ハゼ馳せる果てるまで",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【💐歌切】[2026-06-19]今周也辛苦了！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Skjr6kEav?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "脳裏上のクラッカー",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【💐歌切】[2026-06-19]今周也辛苦了！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Skjr6kEav?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【💐歌切】[2026-06-19]今周也辛苦了！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Skjr6kEav?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【💐歌切】[2026-06-19]今周也辛苦了！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Skjr6kEav?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【💐歌切】[2026-06-19]今周也辛苦了！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Skjr6kEav?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "少年よ我に帰れ",
+  "artist": "やくしまるえつこ",
+  "collection": "【💐歌切】[2026-06-19]今周也辛苦了！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Skjr6kEav?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-06-19]今周也辛苦了！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Skjr6kEav?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【💐歌切】[2026-06-19]今周也辛苦了！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Skjr6kEav?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "花も騒めく",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-06-19]今周也辛苦了！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Skjr6kEav?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-06-19]今周也辛苦了！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Skjr6kEav?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-06-19]今周也辛苦了！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Skjr6kEav?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "愛じゃない",
+  "artist": "ダズビー",
+  "collection": "【💐歌切】[2026-06-19]今周也辛苦了！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Skjr6kEav?p=19",
   "source": "figaro.js"
 }
 );
