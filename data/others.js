@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/19/2026, 2:05:18 PM
+// 生成时间: 6/19/2026, 2:17:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -16147,6 +16147,254 @@ window.SONG_DATA.push(
   "collection": "Yonaのスタジオ47歌切 2026-06-18 弹唱一小段",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aujB6BELi?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ナイトメア",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "季節は次々死んでいく",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "どうなったって",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "痛覚",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "空に歌えば",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "空洞空洞",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "さよならごっこ",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "1.0",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "アンチノミー",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "命にふさわしい",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "自虐家のアリー",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "ワンルーム叙事詩",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "月曜日",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "爆弾の作り方",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "もう一度",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "ジュブナイル",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "空っぽの空に潰される",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "多数決",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "とどめを刺して",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "フィロソフィー",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "アンアライブ",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "逃避行",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "美しき思い出",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "風に流離い",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "ヨクト",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "アダプテッド",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "ナモナキヒト",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "性善説",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "境界線",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "スターライト",
+  "artist": "amazarashi",
+  "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=31",
   "source": "others.js"
 },
     {
