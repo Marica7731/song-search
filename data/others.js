@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/19/2026, 5:41:13 PM
+// 生成时间: 6/19/2026, 5:49:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -16523,6 +16523,118 @@ window.SONG_DATA.push(
   "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-18 你知道这首歌吗？那边的你",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1stj66PEqo?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "羊羊🐏meimei歌切 2026-05-09 羊羊白夜 第四十四夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1myjz6YE7C?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "同じ夜",
+  "artist": "椎名林檎",
+  "collection": "羊羊🐏meimei歌切 2026-05-09 羊羊白夜 第四十四夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1myjz6YE7C?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "本能",
+  "artist": "椎名林檎",
+  "collection": "羊羊🐏meimei歌切 2026-05-09 羊羊白夜 第四十四夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1myjz6YE7C?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "羊羊🐏meimei歌切 2026-05-09 羊羊白夜 第四十四夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1myjz6YE7C?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "人生は夢だらけ",
+  "artist": "椎名林檎",
+  "collection": "羊羊🐏meimei歌切 2026-05-09 羊羊白夜 第四十四夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1myjz6YE7C?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "さみしいひと",
+  "artist": "理芽",
+  "collection": "羊羊🐏meimei歌切 2026-05-09 羊羊白夜 第四十四夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1myjz6YE7C?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "CH4NGE",
+  "artist": "Giga",
+  "collection": "羊羊🐏meimei歌切 2026-05-09 羊羊白夜 第四十四夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1myjz6YE7C?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "Ready Steady",
+  "artist": "Giga",
+  "collection": "羊羊🐏meimei歌切 2026-05-09 羊羊白夜 第四十四夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1myjz6YE7C?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "死ぬとき死ねばいい",
+  "artist": "カンザキイオリ",
+  "collection": "羊羊🐏meimei歌切 2026-05-09 羊羊白夜 第四十四夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1myjz6YE7C?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "オズワルド",
+  "artist": "煮ル果実",
+  "collection": "羊羊🐏meimei歌切 2026-05-09 羊羊白夜 第四十四夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1myjz6YE7C?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "サルバドール",
+  "artist": "煮ル果実",
+  "collection": "羊羊🐏meimei歌切 2026-05-09 羊羊白夜 第四十四夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1myjz6YE7C?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "KING BITCH",
+  "artist": "女王蜂",
+  "collection": "羊羊🐏meimei歌切 2026-05-09 羊羊白夜 第四十四夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1myjz6YE7C?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "罪と罰",
+  "artist": "椎名林檎",
+  "collection": "羊羊🐏meimei歌切 2026-05-09 羊羊白夜 第四十四夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1myjz6YE7C?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "再会",
+  "artist": "はるまきごはん",
+  "collection": "羊羊🐏meimei歌切 2026-05-09 羊羊白夜 第四十四夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1myjz6YE7C?p=14",
   "source": "others.js"
 },
     {
