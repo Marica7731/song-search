@@ -1,6 +1,6 @@
 // 優莉 yuri - 歌单数据 (多合集汇总)
 // 来源: BV1aDzEBBE3S
-// 生成时间: 6/19/2026, 3:27:31 PM
+// 生成时间: 6/19/2026, 3:36:16 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -923,6 +923,62 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=24",
+  "source": "yuri.js"
+},
+    {
+  "title": "Always",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-06-18]近况杂谈及一点歌回！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cBj66tEUX?p=1",
+  "source": "yuri.js"
+},
+    {
+  "title": "サマーハレーション",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-06-18]近况杂谈及一点歌回！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cBj66tEUX?p=2",
+  "source": "yuri.js"
+},
+    {
+  "title": "星に名前を",
+  "artist": "優莉 Prod.HOMING ECHO",
+  "collection": "【歌切】[2026-06-18]近况杂谈及一点歌回！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cBj66tEUX?p=3",
+  "source": "yuri.js"
+},
+    {
+  "title": "ありがめさんのうた",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-06-18]近况杂谈及一点歌回！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cBj66tEUX?p=4",
+  "source": "yuri.js"
+},
+    {
+  "title": "残贈",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-06-18]近况杂谈及一点歌回！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cBj66tEUX?p=5",
+  "source": "yuri.js"
+},
+    {
+  "title": "シグ×ナル",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-06-18]近况杂谈及一点歌回！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cBj66tEUX?p=6",
+  "source": "yuri.js"
+},
+    {
+  "title": "LetteR",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-06-18]近况杂谈及一点歌回！ 優莉つんちゃか",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cBj66tEUX?p=7",
   "source": "yuri.js"
 }
 );
