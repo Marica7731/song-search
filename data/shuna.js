@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 6/19/2026, 8:09:53 PM
+// 生成时间: 6/19/2026, 8:19:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6963,6 +6963,182 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-17]全类型歌回✨ 朱名 / SHUNA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZyLo6YEgY?p=16",
+  "source": "shuna.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=1",
+  "source": "shuna.js"
+},
+    {
+  "title": "ヒミツ",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=2",
+  "source": "shuna.js"
+},
+    {
+  "title": "LOVE LOVE LOVE",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=3",
+  "source": "shuna.js"
+},
+    {
+  "title": "赤い糸",
+  "artist": "コブクロ",
+  "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=4",
+  "source": "shuna.js"
+},
+    {
+  "title": "今夜このまま",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=5",
+  "source": "shuna.js"
+},
+    {
+  "title": "どんなときも。",
+  "artist": "槇原敬之",
+  "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=6",
+  "source": "shuna.js"
+},
+    {
+  "title": "もう恋なんてしない",
+  "artist": "槇原敬之",
+  "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=7",
+  "source": "shuna.js"
+},
+    {
+  "title": "M",
+  "artist": "PRINCESS PRINCESS",
+  "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=8",
+  "source": "shuna.js"
+},
+    {
+  "title": "渡良瀬橋",
+  "artist": "森高千里",
+  "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=9",
+  "source": "shuna.js"
+},
+    {
+  "title": "秋桜",
+  "artist": "山口百恵",
+  "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=10",
+  "source": "shuna.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=11",
+  "source": "shuna.js"
+},
+    {
+  "title": "ヒロイン",
+  "artist": "back number",
+  "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=12",
+  "source": "shuna.js"
+},
+    {
+  "title": "チェリー",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=13",
+  "source": "shuna.js"
+},
+    {
+  "title": "恋愛写真",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=14",
+  "source": "shuna.js"
+},
+    {
+  "title": "さくら（独唱）",
+  "artist": "森山直太朗",
+  "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=15",
+  "source": "shuna.js"
+},
+    {
+  "title": "初恋",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=16",
+  "source": "shuna.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=17",
+  "source": "shuna.js"
+},
+    {
+  "title": "眩しいDNAだけ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=18",
+  "source": "shuna.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=19",
+  "source": "shuna.js"
+},
+    {
+  "title": "I remember you",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=20",
+  "source": "shuna.js"
+},
+    {
+  "title": "アサガオの散る頃に",
+  "artist": "じっぷす feat.初音ミク",
+  "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=21",
+  "source": "shuna.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=22",
   "source": "shuna.js"
 }
 );

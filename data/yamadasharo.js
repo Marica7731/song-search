@@ -1,6 +1,6 @@
 // 山田シャロ - 歌单数据 (多合集汇总)
 // 来源: BV179L66pE1f
-// 生成时间: 6/19/2026, 8:36:38 PM
+// 生成时间: 6/19/2026, 8:45:18 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1019,6 +1019,118 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-14]动漫歌曲专场 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUJT6HEL7?p=19",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "カーストルーム",
+  "artist": "ZAQ",
+  "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=1",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "甲賀忍法帖",
+  "artist": "陰陽座",
+  "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=2",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ハルジオン",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=3",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ごめんね、私。",
+  "artist": "南波志帆",
+  "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=4",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=5",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "innocent starter",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=6",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "BRIGHT STREAM",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=7",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "FEARLESS HERO",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=8",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "粋恋",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=9",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "夏恋模様",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=10",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ずっとずっとずっと",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=11",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ダイアモンドクレバス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=12",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=13",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "POP MASTER",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=14",
   "source": "yamadasharo.js"
 }
 );
