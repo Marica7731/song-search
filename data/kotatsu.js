@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 6/19/2026, 5:24:13 PM
+// 生成时间: 6/19/2026, 5:37:26 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6467,6 +6467,310 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "RAIN",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "もしも僕に",
+  "artist": "関取花",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "横顔しか知らない",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "生きていたんだよな",
+  "artist": "あいみょん",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "わたがし",
+  "artist": "back number",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ハチスは夏に背を向けて",
+  "artist": "メル feat. IA",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ピクニック",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "SECRET DVD",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "愛の標識",
+  "artist": "クリープハイプ",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "やわらかな午後に遅い朝食を",
+  "artist": "秦基博",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "星の界",
+  "artist": "文部省唱歌",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Love so sweet",
+  "artist": "嵐",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "One Love",
+  "artist": "嵐",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "化粧",
+  "artist": "中島みゆき",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "青い空",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "はなびら",
+  "artist": "奥華子",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "投げKISSをあげるよ",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "二度寝",
+  "artist": "Creepy Nuts",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ベースマン",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜な夜なエール",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "いつも何度でも",
+  "artist": "木村弓",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "時をかけるメロディー",
+  "artist": "小山田壮平",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Sunrise&Sunset",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "千年幸福論",
+  "artist": "amazarashi",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "革命",
+  "artist": "MOROHA",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "結婚しようよ",
+  "artist": "吉田拓郎",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ゴーゴー魚釣り",
+  "artist": "工藤祐次郎",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=29",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "感情七号線",
+  "artist": "フラワーカンパニーズ",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=30",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "光",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=31",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=32",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "売春",
+  "artist": "女王蜂",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=33",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "踊り子",
+  "artist": "Vaundy",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=34",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "深夜高速",
+  "artist": "フラワーカンパニーズ",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=35",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "手と手",
+  "artist": "クリープハイプ",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=36",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アルバイター、無名",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=37",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "春",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=38",
   "source": "kotatsu.js"
 }
 );

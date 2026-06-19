@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/19/2026, 5:57:51 PM
+// 生成时间: 6/19/2026, 6:09:09 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -16635,6 +16635,102 @@ window.SONG_DATA.push(
   "collection": "羊羊🐏meimei歌切 2026-05-09 羊羊白夜 第四十四夜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1myjz6YE7C?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "rain stops,good-bye",
+  "artist": "におP",
+  "collection": "羊羊🐏meimei歌切 2026-05-30 治愈系歌曲限定歌回｜羊羊白夜 第四十五夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xajk6uErz?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "永遠のあくる日",
+  "artist": "Ado",
+  "collection": "羊羊🐏meimei歌切 2026-05-30 治愈系歌曲限定歌回｜羊羊白夜 第四十五夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xajk6uErz?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "いきのこり●ぼくら",
+  "artist": "青葉市子",
+  "collection": "羊羊🐏meimei歌切 2026-05-30 治愈系歌曲限定歌回｜羊羊白夜 第四十五夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xajk6uErz?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ミルクティー",
+  "artist": "UA",
+  "collection": "羊羊🐏meimei歌切 2026-05-30 治愈系歌曲限定歌回｜羊羊白夜 第四十五夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xajk6uErz?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "羊羊🐏meimei歌切 2026-05-30 治愈系歌曲限定歌回｜羊羊白夜 第四十五夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xajk6uErz?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "Song for…",
+  "artist": "HY",
+  "collection": "羊羊🐏meimei歌切 2026-05-30 治愈系歌曲限定歌回｜羊羊白夜 第四十五夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xajk6uErz?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "羊羊🐏meimei歌切 2026-05-30 治愈系歌曲限定歌回｜羊羊白夜 第四十五夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xajk6uErz?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "踊り子",
+  "artist": "Vaundy",
+  "collection": "羊羊🐏meimei歌切 2026-05-30 治愈系歌曲限定歌回｜羊羊白夜 第四十五夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xajk6uErz?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "風のゆくえ",
+  "artist": "Ado",
+  "collection": "羊羊🐏meimei歌切 2026-05-30 治愈系歌曲限定歌回｜羊羊白夜 第四十五夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xajk6uErz?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "夏夜のマジック",
+  "artist": "indigo la End",
+  "collection": "羊羊🐏meimei歌切 2026-05-30 治愈系歌曲限定歌回｜羊羊白夜 第四十五夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xajk6uErz?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "ヘブンズP",
+  "collection": "羊羊🐏meimei歌切 2026-05-30 治愈系歌曲限定歌回｜羊羊白夜 第四十五夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xajk6uErz?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "果てなく続くストーリー",
+  "artist": "MISIA",
+  "collection": "羊羊🐏meimei歌切 2026-05-30 治愈系歌曲限定歌回｜羊羊白夜 第四十五夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xajk6uErz?p=12",
   "source": "others.js"
 },
     {
