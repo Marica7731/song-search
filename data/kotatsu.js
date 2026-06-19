@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 6/19/2026, 7:46:30 PM
+// 生成时间: 6/19/2026, 7:58:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6771,6 +6771,54 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=38",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "眼福",
+  "artist": "米津玄師",
+  "collection": "【♧🎸歌切】[2026-06-19]与你共处的双人房间里 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y7jk6UE71?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "知らんけど。",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-06-19]与你共处的双人房间里 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y7jk6UE71?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "あいという",
+  "artist": "plenty",
+  "collection": "【♧🎸歌切】[2026-06-19]与你共处的双人房间里 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y7jk6UE71?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "花鳥風月",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【♧🎸歌切】[2026-06-19]与你共处的双人房间里 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y7jk6UE71?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "月明かりのように",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-06-19]与你共处的双人房间里 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y7jk6UE71?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "いつか",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-06-19]与你共处的双人房间里 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y7jk6UE71?p=6",
   "source": "kotatsu.js"
 }
 );

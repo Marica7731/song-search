@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 6/19/2026, 8:08:12 PM
+// 生成时间: 6/19/2026, 8:24:00 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -755,6 +755,78 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-18]离生日LIVE还有一个月！！全力送上歌声🍎🌟 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jAj66HEfm?p=9",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "Ready Steady",
+  "artist": "Giga feat. 初音ミク・鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-06-19]投稿了翻唱哦～～！！也来听听我的live吧🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grjr65EsU?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-06-19]投稿了翻唱哦～～！！也来听听我的live吧🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grjr65EsU?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-06-19]投稿了翻唱哦～～！！也来听听我的live吧🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grjr65EsU?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【歌切】[2026-06-19]投稿了翻唱哦～～！！也来听听我的live吧🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grjr65EsU?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-06-19]投稿了翻唱哦～～！！也来听听我的live吧🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grjr65EsU?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "BALALAIKA",
+  "artist": "9Lana",
+  "collection": "【歌切】[2026-06-19]投稿了翻唱哦～～！！也来听听我的live吧🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grjr65EsU?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "デスペレート",
+  "artist": "TeddyLoid & Giga feat. LOLUET",
+  "collection": "【歌切】[2026-06-19]投稿了翻唱哦～～！！也来听听我的live吧🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grjr65EsU?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-06-19]投稿了翻唱哦～～！！也来听听我的live吧🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grjr65EsU?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-19]投稿了翻唱哦～～！！也来听听我的live吧🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grjr65EsU?p=9",
   "source": "hinachibi.js"
 }
 );
