@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/19/2026, 2:29:42 PM
+// 生成时间: 6/19/2026, 2:44:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -16395,6 +16395,134 @@ window.SONG_DATA.push(
   "collection": "ミナミイズミ / IZUMI MINAMI歌切 2026-06-07 amazarashi31首",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TPjr6zE2D?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat.flower",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-18 你知道这首歌吗？那边的你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1stj66PEqo?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ケガレの唄",
+  "artist": "羽生まゐご feat.flower",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-18 你知道这首歌吗？那边的你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1stj66PEqo?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "地獄に落ちる",
+  "artist": "カンザキイオリ feat.可不",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-18 你知道这首歌吗？那边的你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1stj66PEqo?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-18 你知道这首歌吗？那边的你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1stj66PEqo?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ヤミタイガール",
+  "artist": "れるりり feat.GUMI",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-18 你知道这首歌吗？那边的你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1stj66PEqo?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "テレキャスタービーボーイ(long ver.)",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-18 你知道这首歌吗？那边的你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1stj66PEqo?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "モザイクロール (Reloaded)",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-18 你知道这首歌吗？那边的你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1stj66PEqo?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "花瓶に触れた",
+  "artist": "バルーン feat.flower",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-18 你知道这首歌吗？那边的你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1stj66PEqo?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat.初音ミク",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-18 你知道这首歌吗？那边的你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1stj66PEqo?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "GURU",
+  "artist": "じん feat.可不",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-18 你知道这首歌吗？那边的你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1stj66PEqo?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "臨海ダイバー",
+  "artist": "うみろ feat.flower",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-18 你知道这首歌吗？那边的你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1stj66PEqo?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "限りなく灰色へ",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-18 你知道这首歌吗？那边的你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1stj66PEqo?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "ヘビリンゴ",
+  "artist": "すりぃ",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-18 你知道这首歌吗？那边的你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1stj66PEqo?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "結い傷な",
+  "artist": "一二三 feat.音街ウナ",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-18 你知道这首歌吗？那边的你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1stj66PEqo?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "エゴロック(long ver.)",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-18 你知道这首歌吗？那边的你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1stj66PEqo?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat.IA",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-18 你知道这首歌吗？那边的你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1stj66PEqo?p=16",
   "source": "others.js"
 },
     {
