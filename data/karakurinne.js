@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 6/19/2026, 7:20:40 PM
+// 生成时间: 6/19/2026, 7:31:20 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1259,6 +1259,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-14]初见观众欢迎！星期日的悠闲歌回～！ からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17uJK6FENf?p=24",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ",
+  "collection": "【歌切】[2026-06-19]周末前的疗愈歌回！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zNjk6oENf?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ヒロイン",
+  "artist": "back number",
+  "collection": "【歌切】[2026-06-19]周末前的疗愈歌回！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zNjk6oENf?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-06-19]周末前的疗愈歌回！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zNjk6oENf?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "アイのシナリオ",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-06-19]周末前的疗愈歌回！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zNjk6oENf?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "わたしの線香",
+  "artist": "花譜×羽生まゐご",
+  "collection": "【歌切】[2026-06-19]周末前的疗愈歌回！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zNjk6oENf?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ハッピーラッキーチャッピー",
+  "artist": "ano",
+  "collection": "【歌切】[2026-06-19]周末前的疗愈歌回！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zNjk6oENf?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona(CV:夏川椎菜)",
+  "collection": "【歌切】[2026-06-19]周末前的疗愈歌回！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zNjk6oENf?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "【歌切】[2026-06-19]周末前的疗愈歌回！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zNjk6oENf?p=8",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "Perfect",
+  "artist": "Ed Sheeran",
+  "collection": "【歌切】[2026-06-19]周末前的疗愈歌回！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zNjk6oENf?p=9",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "分かってないよ",
+  "artist": "WurtS",
+  "collection": "【歌切】[2026-06-19]周末前的疗愈歌回！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zNjk6oENf?p=10",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "分かってないよ",
+  "artist": "WurtS",
+  "collection": "【歌切】[2026-06-19]周末前的疗愈歌回！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zNjk6oENf?p=11",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra feat.月見ヤチヨ(CV:早見沙織)",
+  "collection": "【歌切】[2026-06-19]周末前的疗愈歌回！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zNjk6oENf?p=12",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "輝く未来",
+  "artist": "小此木麻里、畠中洋",
+  "collection": "【歌切】[2026-06-19]周末前的疗愈歌回！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zNjk6oENf?p=13",
   "source": "karakurinne.js"
 }
 );
