@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/19/2026, 1:07:32 PM
+// 生成时间: 6/19/2026, 1:17:27 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -16003,6 +16003,62 @@ window.SONG_DATA.push(
   "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "ナイトクロージング",
+  "artist": "Saucy Dog",
+  "collection": "Yonaのスタジオ47歌切 2026-06-18 弹唱一小段",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aujB6BELi?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "Yonaのスタジオ47歌切 2026-06-18 弹唱一小段",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aujB6BELi?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "花人局",
+  "artist": "ヨルシカ",
+  "collection": "Yonaのスタジオ47歌切 2026-06-18 弹唱一小段",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aujB6BELi?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "Yonaのスタジオ47歌切 2026-06-18 弹唱一小段",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aujB6BELi?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP",
+  "collection": "Yonaのスタジオ47歌切 2026-06-18 弹唱一小段",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aujB6BELi?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "Yonaのスタジオ47歌切 2026-06-18 弹唱一小段",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aujB6BELi?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ひとりごつ",
+  "artist": "ハチワレ（田中誠人）",
+  "collection": "Yonaのスタジオ47歌切 2026-06-18 弹唱一小段",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aujB6BELi?p=7",
   "source": "others.js"
 },
     {

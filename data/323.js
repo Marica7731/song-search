@@ -1,6 +1,6 @@
 // 323 - 歌单数据 (多合集汇总)
 // 来源: BV1r75B6LEwd
-// 生成时间: 6/19/2026, 1:04:28 PM
+// 生成时间: 6/19/2026, 1:13:09 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1603,6 +1603,126 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-18]初見◎BGM◎想邂逅10位初見观众！来唱歌吧！ 323",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S5jB6NE9F?p=7",
+  "source": "323.js"
+},
+    {
+  "title": "レーザービーム",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-06-13]初見◎BGM◎快来找找看吧！悠闲自弹自唱 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DLjB6eEj4?p=1",
+  "source": "323.js"
+},
+    {
+  "title": "TOKYO GIRL",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-06-13]初見◎BGM◎快来找找看吧！悠闲自弹自唱 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DLjB6eEj4?p=2",
+  "source": "323.js"
+},
+    {
+  "title": "スターラブレイション",
+  "artist": "ケラケラ",
+  "collection": "【歌切】[2026-06-13]初見◎BGM◎快来找找看吧！悠闲自弹自唱 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DLjB6eEj4?p=3",
+  "source": "323.js"
+},
+    {
+  "title": "明日も",
+  "artist": "MUSH&Co.",
+  "collection": "【歌切】[2026-06-13]初見◎BGM◎快来找找看吧！悠闲自弹自唱 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DLjB6eEj4?p=4",
+  "source": "323.js"
+},
+    {
+  "title": "ちっぽけな愛のうた",
+  "artist": "小枝理子&小笠原秋",
+  "collection": "【歌切】[2026-06-13]初見◎BGM◎快来找找看吧！悠闲自弹自唱 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DLjB6eEj4?p=5",
+  "source": "323.js"
+},
+    {
+  "title": "愛のしるし",
+  "artist": "PUFFY",
+  "collection": "【歌切】[2026-06-13]初見◎BGM◎快来找找看吧！悠闲自弹自唱 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DLjB6eEj4?p=6",
+  "source": "323.js"
+},
+    {
+  "title": "渚にまつわるエトセトラ",
+  "artist": "PUFFY",
+  "collection": "【歌切】[2026-06-13]初見◎BGM◎快来找找看吧！悠闲自弹自唱 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DLjB6eEj4?p=7",
+  "source": "323.js"
+},
+    {
+  "title": "盛れ!ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【歌切】[2026-06-13]初見◎BGM◎快来找找看吧！悠闲自弹自唱 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DLjB6eEj4?p=8",
+  "source": "323.js"
+},
+    {
+  "title": "♡桃色片想い♡",
+  "artist": "松浦亜弥",
+  "collection": "【歌切】[2026-06-13]初見◎BGM◎快来找找看吧！悠闲自弹自唱 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DLjB6eEj4?p=9",
+  "source": "323.js"
+},
+    {
+  "title": "ドーナツホール",
+  "artist": "ハチ feat.GUMI",
+  "collection": "【歌切】[2026-06-13]初見◎BGM◎快来找找看吧！悠闲自弹自唱 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DLjB6eEj4?p=10",
+  "source": "323.js"
+},
+    {
+  "title": "パンダヒーロー",
+  "artist": "ハチ feat.GUMI",
+  "collection": "【歌切】[2026-06-13]初見◎BGM◎快来找找看吧！悠闲自弹自唱 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DLjB6eEj4?p=11",
+  "source": "323.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-13]初見◎BGM◎快来找找看吧！悠闲自弹自唱 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DLjB6eEj4?p=12",
+  "source": "323.js"
+},
+    {
+  "title": "リンネ",
+  "artist": "ハチ feat.初音ミク",
+  "collection": "【歌切】[2026-06-13]初見◎BGM◎快来找找看吧！悠闲自弹自唱 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DLjB6eEj4?p=13",
+  "source": "323.js"
+},
+    {
+  "title": "向日葵",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-06-13]初見◎BGM◎快来找找看吧！悠闲自弹自唱 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DLjB6eEj4?p=14",
+  "source": "323.js"
+},
+    {
+  "title": "カフェオーレのうた",
+  "artist": "きっかレン",
+  "collection": "【歌切】[2026-06-13]初見◎BGM◎快来找找看吧！悠闲自弹自唱 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DLjB6eEj4?p=15",
   "source": "323.js"
 }
 );
