@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/19/2026, 1:17:27 PM
+// 生成时间: 6/19/2026, 1:32:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -16003,6 +16003,94 @@ window.SONG_DATA.push(
   "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "炉なる歌切 2026-05-24 舒缓曲风偏多 沉静歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YKjB66Evp?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "抜錨",
+  "artist": "ナナホシ管弦楽団 feat.巡音ルカ",
+  "collection": "炉なる歌切 2026-05-24 舒缓曲风偏多 沉静歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YKjB66Evp?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "炉なる歌切 2026-05-24 舒缓曲风偏多 沉静歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YKjB66Evp?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "あいつら全員同窓会",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "炉なる歌切 2026-05-24 舒缓曲风偏多 沉静歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YKjB66Evp?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "炉なる歌切 2026-05-24 舒缓曲风偏多 沉静歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YKjB66Evp?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "炉なる歌切 2026-05-24 舒缓曲风偏多 沉静歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YKjB66Evp?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "のだ",
+  "artist": "大漠波新 feat.ずんだもん・初音ミク・重音テト",
+  "collection": "炉なる歌切 2026-05-24 舒缓曲风偏多 沉静歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YKjB66Evp?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "炉なる歌切 2026-05-24 舒缓曲风偏多 沉静歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YKjB66Evp?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "ロクデナシ",
+  "collection": "炉なる歌切 2026-05-24 舒缓曲风偏多 沉静歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YKjB66Evp?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "StaRt",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "炉なる歌切 2026-05-24 舒缓曲风偏多 沉静歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YKjB66Evp?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "炉なる歌切 2026-05-24 舒缓曲风偏多 沉静歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YKjB66Evp?p=11",
   "source": "others.js"
 },
     {
