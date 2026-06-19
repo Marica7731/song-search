@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 6/19/2026, 7:16:37 PM
+// 生成时间: 6/19/2026, 7:29:26 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4707,6 +4707,38 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CAj56sEjm?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "グランドエスケープ",
+  "artist": "RADWIMPS feat. 三浦透子",
+  "collection": "【💐🎸歌切】[2026-06-19]悠闲的时光开始了哟☔𓈒𓏸︎︎︎︎ ¦ 澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BNjk6oEaY?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "雨晴るる",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-19]悠闲的时光开始了哟☔𓈒𓏸︎︎︎︎ ¦ 澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BNjk6oEaY?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "三時のキス",
+  "artist": "ロクデナシ",
+  "collection": "【💐🎸歌切】[2026-06-19]悠闲的时光开始了哟☔𓈒𓏸︎︎︎︎ ¦ 澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BNjk6oEaY?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "泣き虫上等",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-06-19]悠闲的时光开始了哟☔𓈒𓏸︎︎︎︎ ¦ 澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BNjk6oEaY?p=4",
   "source": "sumica.js"
 }
 );
