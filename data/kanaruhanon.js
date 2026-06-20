@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 6/20/2026, 11:49:19 AM
+// 生成时间: 6/20/2026, 12:02:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -851,6 +851,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-17]稍微唱点歌再稍微聊聊天，稍微来一会儿的歌回 Hanon Ch. 香鳴ハノン【パレプロ】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17bLZ6YEFw?p=7",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【歌切】[2026-06-20]闪闪发光、开开心心、像偶像一样！一起嗨起来吧✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iMjJ64Ef4?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Over Over",
+  "artist": "澁谷かのん",
+  "collection": "【歌切】[2026-06-20]闪闪发光、开开心心、像偶像一样！一起嗨起来吧✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iMjJ64Ef4?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "アイドライフライト",
+  "artist": "Sputrip",
+  "collection": "【歌切】[2026-06-20]闪闪发光、开开心心、像偶像一样！一起嗨起来吧✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iMjJ64Ef4?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ハレバレパレット",
+  "artist": "Palette Project",
+  "collection": "【歌切】[2026-06-20]闪闪发光、开开心心、像偶像一样！一起嗨起来吧✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iMjJ64Ef4?p=4",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "シャイノグラフィ",
+  "artist": "シャイニーカラーズ",
+  "collection": "【歌切】[2026-06-20]闪闪发光、开开心心、像偶像一样！一起嗨起来吧✨ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iMjJ64Ef4?p=5",
   "source": "kanaruhanon.js"
 }
 );

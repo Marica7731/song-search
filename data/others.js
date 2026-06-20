@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/20/2026, 11:57:49 AM
+// 生成时间: 6/20/2026, 12:14:26 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17099,6 +17099,94 @@ window.SONG_DATA.push(
   "collection": "柊 さんた / Santa Hiiragi歌切 2026-06-20 我是会唱歌跳舞的圣诞老人Vtuber🎅🏻♡",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HRjE6KEYg?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "Hello, Worker",
+  "artist": "KEI feat.巡音ルカ",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ナイトドライバー",
+  "artist": "平田義久 feat.初音ミク・ゲキヤク・JOLNO",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "初音ミクの激唱",
+  "artist": "cosMo@暴走P feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "従属ふりったー",
+  "artist": "koyori(電ポルP) feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "サラマンダー",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "トーマ feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "骸骨楽団とリリア",
+  "artist": "トーマ feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "十面相",
+  "artist": "YM feat.GUMI",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "メテオ",
+  "artist": "じょん feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=11",
   "source": "others.js"
 },
     {
