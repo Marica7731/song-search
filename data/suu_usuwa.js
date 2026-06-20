@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 6/20/2026, 8:02:10 PM
+// 生成时间: 6/20/2026, 8:12:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3519,7 +3519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Climax Jump DEN-LINER form",
-  "artist": "モモタロス・ウラタロス・キンタロス・リュウタロス",
+  "artist": "モモタロス(CV:関俊彦)、ウラタロス(CV:遊佐浩二)、キンタロス(CV:てらそままさき)、",
   "collection": "#68【稀羽すう 14】水曜定期歌枠🎶11. again - YUI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UE421L7iC?p=12",
@@ -3527,7 +3527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メルト",
-  "artist": "初音ミク",
+  "artist": "ryo(supercell) feat.初音ミク",
   "collection": "#68【稀羽すう 14】水曜定期歌枠🎶11. again - YUI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UE421L7iC?p=13",

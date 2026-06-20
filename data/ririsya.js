@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 6/20/2026, 8:00:55 PM
+// 生成时间: 6/20/2026, 8:11:28 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6343,7 +6343,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君はロックを聴かない",
-  "artist": "Aimyon(爱缪)",
+  "artist": "あいみょん",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16nKpzfEK8?p=2",
@@ -6367,14 +6367,14 @@ window.SONG_DATA.push(
 },
     {
   "title": "トリセツ",
-  "artist": "西野加奈",
+  "artist": "西野カナ",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16nKpzfEK8?p=5",
   "source": "ririsya.js"
 },
     {
-  "title": "Flyday Chinatown",
+  "title": "フライディ・チャイナタウン",
   "artist": "泰葉",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
@@ -6407,7 +6407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "歌うたいのバラッド",
-  "artist": "Kazuyoshi Saito",
+  "artist": "斉藤和義",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16nKpzfEK8?p=10",
@@ -6431,7 +6431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "だんご大家族",
-  "artist": "CLANNAD",
+  "artist": "茶太",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16nKpzfEK8?p=13",
@@ -6447,7 +6447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "さよならエレジー",
-  "artist": "菅田将晖",
+  "artist": "菅田将暉",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16nKpzfEK8?p=15",
@@ -6455,7 +6455,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Calc.",
-  "artist": "初音ミク",
+  "artist": "ジミーサムP feat.初音ミク",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16nKpzfEK8?p=16",
@@ -6463,7 +6463,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "GLAMOROUS SKY",
-  "artist": "NaNa & 中島美嘉",
+  "artist": "NANA starring MIKA NAKASHIMA",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16nKpzfEK8?p=17",
@@ -6495,14 +6495,14 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハレ晴レユカイ",
-  "artist": "平野绫",
+  "artist": "涼宮ハルヒ(CV:平野綾)、長門有希(CV:茅原実里)、朝比奈みくる(CV:後藤邑子)",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16nKpzfEK8?p=21",
   "source": "ririsya.js"
 },
     {
-  "title": "冒険でしょでしょ?",
+  "title": "冒険でしょでしょ？",
   "artist": "平野綾",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
@@ -6511,7 +6511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋のミクル伝説",
-  "artist": "朝比奈みくる(後藤邑子)",
+  "artist": "朝比奈みくる(CV:後藤邑子)",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16nKpzfEK8?p=23",
@@ -6519,7 +6519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ずっと好きだった",
-  "artist": "Kazuyoshi Saito",
+  "artist": "斉藤和義",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16nKpzfEK8?p=24",

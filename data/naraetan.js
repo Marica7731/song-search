@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 6/20/2026, 7:58:25 PM
+// 生成时间: 6/20/2026, 8:08:33 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1583,7 +1583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "今はいいんだよ。",
-  "artist": "MIMI",
+  "artist": "MIMI feat.可不",
   "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1R3ZKBHEBf?p=4",
@@ -1615,7 +1615,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "みむかゥわナイストライ",
-  "artist": "初音ミク",
+  "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ feat.初音ミク",
   "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1R3ZKBHEBf?p=8",
@@ -1654,8 +1654,8 @@ window.SONG_DATA.push(
   "source": "naraetan.js"
 },
     {
-  "title": "愛言葉Ⅲ",
-  "artist": "DECO*27",
+  "title": "愛言葉III",
+  "artist": "DECO*27 feat.初音ミク",
   "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1R3ZKBHEBf?p=13",
