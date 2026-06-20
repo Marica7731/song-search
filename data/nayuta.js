@@ -1,6 +1,6 @@
 // nayuta - 歌单数据 (多合集汇总)
 // 来源: BV1GXYFzXETo, BV1MPpUzsE1D, BV184W5zeE1Z
-// 生成时间: 6/20/2026, 7:42:25 PM
+// 生成时间: 6/20/2026, 7:52:25 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4807,7 +4807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夕日坂",
-  "artist": "初音ミク",
+  "artist": "doriko feat.初音ミク",
   "collection": "【nayuta歌切 2021年6月9日】nayuta Live !! なまゆた＃07 ～おかえり！収益化復活＆もうすぐ14周年～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1enW5zBEcC?p=1",
@@ -4815,7 +4815,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いかないで",
-  "artist": "想太",
+  "artist": "想太 feat.歌愛ユキ",
   "collection": "【nayuta歌切 2021年6月9日】nayuta Live !! なまゆた＃07 ～おかえり！収益化復活＆もうすぐ14周年～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1enW5zBEcC?p=2",
@@ -4823,7 +4823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "変わらないもの",
-  "artist": "奧華子",
+  "artist": "奥華子",
   "collection": "【nayuta歌切 2021年6月9日】nayuta Live !! なまゆた＃07 ～おかえり！収益化復活＆もうすぐ14周年～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1enW5zBEcC?p=3",
