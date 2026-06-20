@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/20/2026, 8:13:36 AM
+// 生成时间: 6/20/2026, 8:17:16 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -16438,7 +16438,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "テレキャスタービーボーイ(long ver.)",
+  "title": "テレキャスタービーボーイ",
   "artist": "すりぃ feat.鏡音レン",
   "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-18 你知道这首歌吗？那边的你",
   "up": "前尘往事如昔故",
