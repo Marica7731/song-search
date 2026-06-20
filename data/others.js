@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/20/2026, 11:18:49 AM
+// 生成时间: 6/20/2026, 11:32:22 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -16851,6 +16851,222 @@ window.SONG_DATA.push(
   "collection": "白傘くらげ歌切 2026-06-18 唱歌时间到啦～～！要不要来听一首？",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bxjk6VEhM?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "夢灯籠",
+  "artist": "RADWIMPS",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "vivi",
+  "artist": "米津玄師",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "人として",
+  "artist": "SUPER BEAVER",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "いってらっしゃい",
+  "artist": "ヒグチアイ",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat.flower",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "メロウ",
+  "artist": "須田景凪",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "CITRUS",
+  "artist": "Da-iCE",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "しわあわせ",
+  "artist": "Vaundy",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "一輪花",
+  "artist": "tuki.",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "茜さす",
+  "artist": "Aimer",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "ブレーメン",
+  "artist": "ヨルシカ",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "携帯電話",
+  "artist": "RADWIMPS",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "25コ目の染色体",
+  "artist": "RADWIMPS",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "祈り花",
+  "artist": "平井大",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "壊れかけのRadio",
+  "artist": "徳永英明",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "空と君のあいだに",
+  "artist": "中島みゆき",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "銀の龍の背に乗って",
+  "artist": "中島みゆき",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "ラヴ・イズ・オーヴァー",
+  "artist": "欧陽菲菲",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "レイニー ブルー",
+  "artist": "徳永英明",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=27",
   "source": "others.js"
 },
     {
