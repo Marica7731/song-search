@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/20/2026, 11:32:22 AM
+// 生成时间: 6/20/2026, 11:41:26 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17067,6 +17067,38 @@ window.SONG_DATA.push(
   "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat. 巡音ルカ",
+  "collection": "柊 さんた / Santa Hiiragi歌切 2026-06-20 我是会唱歌跳舞的圣诞老人Vtuber🎅🏻♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRjE6KEYg?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "flos",
+  "artist": "R Sound Design feat.初音ミク",
+  "collection": "柊 さんた / Santa Hiiragi歌切 2026-06-20 我是会唱歌跳舞的圣诞老人Vtuber🎅🏻♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRjE6KEYg?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "柊 さんた / Santa Hiiragi歌切 2026-06-20 我是会唱歌跳舞的圣诞老人Vtuber🎅🏻♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRjE6KEYg?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "サボテンと蜃気楼",
+  "artist": "若干P feat.初音ミク",
+  "collection": "柊 さんた / Santa Hiiragi歌切 2026-06-20 我是会唱歌跳舞的圣诞老人Vtuber🎅🏻♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRjE6KEYg?p=4",
   "source": "others.js"
 },
     {
