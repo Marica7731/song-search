@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 6/20/2026, 11:39:28 AM
+// 生成时间: 6/20/2026, 11:51:32 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4739,6 +4739,150 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-06-19]悠闲的时光开始了哟☔𓈒𓏸︎︎︎︎ ¦ 澄花/Puroburu -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BNjk6oEaY?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "まぶしい",
+  "artist": "上白石萌音",
+  "collection": "【💐🎸歌切】[2026-06-20]💐1.5周年💐 | 𓊇第二年过得也太快了吧？感恩之宴～我要弹唱啦～🥳🥳 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13LjJ6XEZp?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-20]💐1.5周年💐 | 𓊇第二年过得也太快了吧？感恩之宴～我要弹唱啦～🥳🥳 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13LjJ6XEZp?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "グランドエスケープ",
+  "artist": "RADWIMPS feat. 三浦透子",
+  "collection": "【💐🎸歌切】[2026-06-20]💐1.5周年💐 | 𓊇第二年过得也太快了吧？感恩之宴～我要弹唱啦～🥳🥳 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13LjJ6XEZp?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "君とインドカレー",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-06-20]💐1.5周年💐 | 𓊇第二年过得也太快了吧？感恩之宴～我要弹唱啦～🥳🥳 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13LjJ6XEZp?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【💐🎸歌切】[2026-06-20]💐1.5周年💐 | 𓊇第二年过得也太快了吧？感恩之宴～我要弹唱啦～🥳🥳 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13LjJ6XEZp?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【💐🎸歌切】[2026-06-20]💐1.5周年💐 | 𓊇第二年过得也太快了吧？感恩之宴～我要弹唱啦～🥳🥳 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13LjJ6XEZp?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "【💐🎸歌切】[2026-06-20]💐1.5周年💐 | 𓊇第二年过得也太快了吧？感恩之宴～我要弹唱啦～🥳🥳 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13LjJ6XEZp?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "盗作",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-20]💐1.5周年💐 | 𓊇第二年过得也太快了吧？感恩之宴～我要弹唱啦～🥳🥳 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13LjJ6XEZp?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "ピアス",
+  "artist": "あたらよ",
+  "collection": "【💐🎸歌切】[2026-06-20]💐1.5周年💐 | 𓊇第二年过得也太快了吧？感恩之宴～我要弹唱啦～🥳🥳 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13LjJ6XEZp?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "笑顔",
+  "artist": "いきものがかり",
+  "collection": "【💐🎸歌切】[2026-06-20]💐1.5周年💐 | 𓊇第二年过得也太快了吧？感恩之宴～我要弹唱啦～🥳🥳 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13LjJ6XEZp?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "チューリップ",
+  "artist": "indigo la End",
+  "collection": "【💐🎸歌切】[2026-06-20]💐1.5周年💐 | 𓊇第二年过得也太快了吧？感恩之宴～我要弹唱啦～🥳🥳 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13LjJ6XEZp?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "始発とカフカ",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【💐🎸歌切】[2026-06-20]💐1.5周年💐 | 𓊇第二年过得也太快了吧？感恩之宴～我要弹唱啦～🥳🥳 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13LjJ6XEZp?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "HONEY BOY",
+  "artist": "TOMOO",
+  "collection": "【💐🎸歌切】[2026-06-20]💐1.5周年💐 | 𓊇第二年过得也太快了吧？感恩之宴～我要弹唱啦～🥳🥳 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13LjJ6XEZp?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-06-20]💐1.5周年💐 | 𓊇第二年过得也太快了吧？感恩之宴～我要弹唱啦～🥳🥳 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13LjJ6XEZp?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヒカレイノチ",
+  "artist": "Kitri",
+  "collection": "【💐🎸歌切】[2026-06-20]💐1.5周年💐 | 𓊇第二年过得也太快了吧？感恩之宴～我要弹唱啦～🥳🥳 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13LjJ6XEZp?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "センス・オブ・ワンダー",
+  "artist": "sumika",
+  "collection": "【💐🎸歌切】[2026-06-20]💐1.5周年💐 | 𓊇第二年过得也太快了吧？感恩之宴～我要弹唱啦～🥳🥳 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13LjJ6XEZp?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "きにぴ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-06-20]💐1.5周年💐 | 𓊇第二年过得也太快了吧？感恩之宴～我要弹唱啦～🥳🥳 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13LjJ6XEZp?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "ちょっと待って！",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-06-20]💐1.5周年💐 | 𓊇第二年过得也太快了吧？感恩之宴～我要弹唱啦～🥳🥳 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13LjJ6XEZp?p=18",
   "source": "sumica.js"
 }
 );
