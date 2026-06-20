@@ -1,13 +1,13 @@
 // 天ノ譜ステラ - 歌单数据 (多合集汇总)
 // 来源: BV1MEP8z4E1J
-// 生成时间: 6/20/2026, 8:02:31 PM
+// 生成时间: 6/20/2026, 8:08:55 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
     {
   "title": "flos",
-  "artist": "R Sound Design",
+  "artist": "R Sound Design feat.初音ミク",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=1",
@@ -15,7 +15,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夕景イエスタデイ",
-  "artist": "じん(自然の敵P)",
+  "artist": "じん feat.IA",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=2",
@@ -31,7 +31,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ブラック★ロックシューター",
-  "artist": "supercell",
+  "artist": "ryo(supercell) feat.初音ミク",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=4",
@@ -71,7 +71,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "トロイの花",
-  "artist": "アマーブレ",
+  "artist": "原口沙輔, VACON & 天ノ譜ステラ",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=9",
@@ -103,7 +103,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ルンがピカッと光ったら",
-  "artist": "ワルキューレ(続き)",
+  "artist": "ワルキューレ",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=13",
@@ -127,7 +127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ルカルカ★ナイトフィーバー",
-  "artist": "samfree",
+  "artist": "samfree feat.巡音ルカ",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=16",
@@ -135,7 +135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "glow",
-  "artist": "keeno",
+  "artist": "keeno feat.初音ミク",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=17",
@@ -143,7 +143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Booo!",
-  "artist": "TOKOTOKO(西沢さんP)",
+  "artist": "TOKOTOKO(西沢さんP) feat.音街ウナ",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=18",
@@ -151,14 +151,14 @@ window.SONG_DATA.push(
 },
     {
   "title": "Booo!",
-  "artist": "TOKOTOKO(西沢さんP)",
+  "artist": "TOKOTOKO(西沢さんP) feat.音街ウナ",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=19",
   "source": "stella.js"
 },
     {
-  "title": "APT",
+  "title": "APT.",
   "artist": "ROSÉ & Bruno Mars",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
@@ -166,7 +166,7 @@ window.SONG_DATA.push(
   "source": "stella.js"
 },
     {
-  "title": "APT",
+  "title": "APT.",
   "artist": "ROSÉ & Bruno Mars",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
@@ -174,7 +174,7 @@ window.SONG_DATA.push(
   "source": "stella.js"
 },
     {
-  "title": "APT",
+  "title": "APT.",
   "artist": "ROSÉ & Bruno Mars",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
@@ -191,7 +191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "砂の惑星",
-  "artist": "米津玄師",
+  "artist": "ハチ feat.初音ミク",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=24",
@@ -207,14 +207,14 @@ window.SONG_DATA.push(
 },
     {
   "title": "アスノヨゾラ哨戒班",
-  "artist": "Orangestar",
+  "artist": "Orangestar feat.IA",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=26",
   "source": "stella.js"
 },
     {
-  "title": "トゥインクル",
+  "title": "トゥインクル トゥインクル",
   "artist": "Wink",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
@@ -231,7 +231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "rain stops, good-bye",
-  "artist": "におP",
+  "artist": "におP feat.初音ミク",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=29",
@@ -239,7 +239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "曖昧劣情Lover",
-  "artist": "電ポルP",
+  "artist": "koyori(電ポルP) feat.初音ミク",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=30",
@@ -263,7 +263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "少女レイ",
-  "artist": "みきとP",
+  "artist": "みきとP feat.初音ミク",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=33",
@@ -287,7 +287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シザーハンズ",
-  "artist": "Nem",
+  "artist": "Nem feat.初音ミク",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=36",
@@ -303,7 +303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "PLATONIC GIRL",
-  "artist": "初音ミク",
+  "artist": "みきとP feat.GUMI",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=38",
@@ -311,7 +311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "PLATONIC GIRL",
-  "artist": "初音ミク[hUzOuWr_-1s]",
+  "artist": "みきとP feat.GUMI",
   "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=39",

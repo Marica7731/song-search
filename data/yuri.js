@@ -1,6 +1,6 @@
 // 優莉 yuri - 歌单数据 (多合集汇总)
 // 来源: BV1aDzEBBE3S
-// 生成时间: 6/20/2026, 7:58:09 PM
+// 生成时间: 6/20/2026, 8:06:03 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -391,7 +391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "よこがお",
-  "artist": "初音ミク",
+  "artist": "優莉 feat.初音ミク",
   "collection": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17qztBuEYz?p=3",
@@ -399,7 +399,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "炉心融解",
-  "artist": "iroha(sasaki)",
+  "artist": "iroha(sasaki) feat.鏡音リン",
   "collection": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17qztBuEYz?p=4",
@@ -407,7 +407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メルト",
-  "artist": "ryo(supercell)",
+  "artist": "ryo(supercell) feat.初音ミク",
   "collection": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17qztBuEYz?p=5",
@@ -415,7 +415,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Lost my music",
-  "artist": "涼宮ハルヒ『平野綾』",
+  "artist": "涼宮ハルヒ(CV:平野綾)",
   "collection": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17qztBuEYz?p=6",
@@ -423,7 +423,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "God knows...",
-  "artist": "涼宮ハルヒ『平野綾』",
+  "artist": "涼宮ハルヒ(CV:平野綾)",
   "collection": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17qztBuEYz?p=7",
@@ -438,8 +438,8 @@ window.SONG_DATA.push(
   "source": "yuri.js"
 },
     {
-  "title": "kawaii kaiwai",
-  "artist": "優莉",
+  "title": "Kawaii Kaiwai",
+  "artist": "PiKi",
   "collection": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17qztBuEYz?p=9",
