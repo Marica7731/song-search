@@ -1,6 +1,6 @@
 // がびのお部屋 - 歌单数据 (多合集汇总)
 // 来源: BV1YtwtzREbp
-// 生成时间: 6/20/2026, 7:47:13 PM
+// 生成时间: 6/20/2026, 7:56:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -247,7 +247,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "可愛くなりたい",
-  "artist": "CHiCO with HoneyWorks",
+  "artist": "HoneyWorks feat.成海聖奈(CV:雨宮天)",
   "collection": "歌切 2026-04-16 がびのお部屋-Gabi's room- g0Kpr3CuOWU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18JdqB8EvR?p=3",
@@ -255,7 +255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ワールドイズマイン",
-  "artist": "初音ミク",
+  "artist": "ryo(supercell) feat.初音ミク",
   "collection": "歌切 2026-04-16 がびのお部屋-Gabi's room- g0Kpr3CuOWU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18JdqB8EvR?p=4",
