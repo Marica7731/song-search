@@ -1,6 +1,6 @@
 // みなとん - 歌单数据 (多合集汇总)
 // 来源: BV1TqGY6gEEf
-// 生成时间: 6/20/2026, 12:21:07 PM
+// 生成时间: 6/20/2026, 12:26:49 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -659,6 +659,54 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-29]午后融化的钢琴🎹伴奏歌回 みなとん。は歌う",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17nVu6oEKV?p=22",
+  "source": "minaton.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP feat. 鏡音リン",
+  "collection": "【歌切】[2026-06-20]高音！爆速什么都能来！超燃🔥术力口歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ojH6hEX6?p=1",
+  "source": "minaton.js"
+},
+    {
+  "title": "アンノウン・マザーグース",
+  "artist": "wowaka feat. 初音ミク",
+  "collection": "【歌切】[2026-06-20]高音！爆速什么都能来！超燃🔥术力口歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ojH6hEX6?p=2",
+  "source": "minaton.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat. GUMI",
+  "collection": "【歌切】[2026-06-20]高音！爆速什么都能来！超燃🔥术力口歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ojH6hEX6?p=3",
+  "source": "minaton.js"
+},
+    {
+  "title": "ロストワンの号哭",
+  "artist": "Neru feat. 鏡音リン",
+  "collection": "【歌切】[2026-06-20]高音！爆速什么都能来！超燃🔥术力口歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ojH6hEX6?p=4",
+  "source": "minaton.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat. 可不",
+  "collection": "【歌切】[2026-06-20]高音！爆速什么都能来！超燃🔥术力口歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ojH6hEX6?p=5",
+  "source": "minaton.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-06-20]高音！爆速什么都能来！超燃🔥术力口歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ojH6hEX6?p=6",
   "source": "minaton.js"
 }
 );
