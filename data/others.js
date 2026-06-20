@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/20/2026, 7:49:06 PM
+// 生成时间: 6/20/2026, 7:59:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8487,7 +8487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "わが名は小学生",
-  "artist": "丸井みつば・丸井ふたば・丸井ひとは",
+  "artist": "丸井みつば(CV:高垣彩陽)、丸井ふたば(CV:明坂聡美)、丸井ひとは(CV:戸松遥)",
   "collection": "歌切 2026-04-16 小東ひとな / Hitona Kohigashi Io4zKRm4wJ4",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LCdYBtEFC?p=6",
@@ -8495,7 +8495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "みむかゥわナイストライ",
-  "artist": "初音ミク",
+  "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ feat.初音ミク",
   "collection": "歌切 2026-04-16 小東ひとな / Hitona Kohigashi Io4zKRm4wJ4",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LCdYBtEFC?p=7",
@@ -8503,7 +8503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜もすがら君想ふ",
-  "artist": "TOKOTOKO",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
   "collection": "歌切 2026-04-16 小東ひとな / Hitona Kohigashi Io4zKRm4wJ4",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LCdYBtEFC?p=8",
