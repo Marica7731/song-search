@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 6/21/2026, 8:13:35 PM
+// 生成时间: 6/21/2026, 8:24:45 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1363,6 +1363,62 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-19]周末前的疗愈歌回！！🎹🎸 からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zNjk6oENf?p=13",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "愛ゆえに",
+  "artist": "さとうもか",
+  "collection": "【⚙️🎸歌切】[2026-06-21]第一次饮酒歌回！微醺着唱歌！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11s7c6dEfx?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "melt bitter",
+  "artist": "さとうもか",
+  "collection": "【⚙️🎸歌切】[2026-06-21]第一次饮酒歌回！微醺着唱歌！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11s7c6dEfx?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "すきなうた",
+  "artist": "鎖那",
+  "collection": "【⚙️🎸歌切】[2026-06-21]第一次饮酒歌回！微醺着唱歌！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11s7c6dEfx?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "悪い人",
+  "artist": "戦慄かなの",
+  "collection": "【⚙️🎸歌切】[2026-06-21]第一次饮酒歌回！微醺着唱歌！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11s7c6dEfx?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "【⚙️🎸歌切】[2026-06-21]第一次饮酒歌回！微醺着唱歌！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11s7c6dEfx?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "Departures ～あなたにおくるアイの歌～",
+  "artist": "EGOIST",
+  "collection": "【⚙️🎸歌切】[2026-06-21]第一次饮酒歌回！微醺着唱歌！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11s7c6dEfx?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "狭心症",
+  "artist": "RADWIMPS",
+  "collection": "【⚙️🎸歌切】[2026-06-21]第一次饮酒歌回！微醺着唱歌！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11s7c6dEfx?p=7",
   "source": "karakurinne.js"
 }
 );

@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 6/21/2026, 8:19:42 PM
+// 生成时间: 6/21/2026, 8:31:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -827,6 +827,70 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-19]投稿了翻唱哦～～！！也来听听我的live吧🍎🌟 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1grjr65EsU?p=9",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-21]没人买门票就结束不了的歌回？！🎶 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1147c6sEe7?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ソワレ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-06-21]没人买门票就结束不了的歌回？！🎶 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1147c6sEe7?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-06-21]没人买门票就结束不了的歌回？！🎶 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1147c6sEe7?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-06-21]没人买门票就结束不了的歌回？！🎶 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1147c6sEe7?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "平行線",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-06-21]没人买门票就结束不了的歌回？！🎶 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1147c6sEe7?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-06-21]没人买门票就结束不了的歌回？！🎶 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1147c6sEe7?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "アンハッピーリフレイン",
+  "artist": "wowaka feat. 初音ミク",
+  "collection": "【歌切】[2026-06-21]没人买门票就结束不了的歌回？！🎶 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1147c6sEe7?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "StaRt",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-06-21]没人买门票就结束不了的歌回？！🎶 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1147c6sEe7?p=8",
   "source": "hinachibi.js"
 }
 );
