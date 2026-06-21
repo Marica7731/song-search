@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 6/21/2026, 2:46:02 AM
+// 生成时间: 6/21/2026, 2:55:37 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6819,6 +6819,174 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-06-19]与你共处的双人房间里 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Y7jk6UE71?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "光",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "なんでもないよ、",
+  "artist": "マカロニえんぴつ",
+  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "携帯電話",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "レイン",
+  "artist": "シド",
+  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さっきはごめんね、ありがとう",
+  "artist": "クリープハイプ",
+  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "革命",
+  "artist": "MOROHA",
+  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "俺色スカイ",
+  "artist": "RADWIMPS",
+  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "napori",
+  "artist": "Vaundy",
+  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "カヌレ",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "笑ったり転んだり",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "おなじ話",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "大丈夫",
+  "artist": "クリープハイプ",
+  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Peace",
+  "artist": "andymori",
+  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "グッバイ来世でまた会おう",
+  "artist": "インナージャーニー",
+  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよならの夏",
+  "artist": "森山良子",
+  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "無名のオリジナル",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "無名のオリジナル",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "神様、",
+  "artist": "はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=21",
   "source": "kotatsu.js"
 }
 );
