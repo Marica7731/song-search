@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>歌曲数据</title>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-    <link rel="stylesheet" href="/site-theme.css?v=20260621ui2">
-    <script src="/site-shell.js?v=20260621ui2" defer></script>
+    <link rel="stylesheet" href="/site-theme.css?v=20260621ui3">
+    <script src="/site-shell.js?v=20260621ui3" defer></script>
     <style>
         /* --- 全局样式复用 --- */
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -1137,12 +1137,15 @@
             };
         }
 
-        function renderSourceAvatar(profile, className = '') {
+        function renderSourceAvatar(profile, className = '', options = {}) {
             const classes = ['source-avatar', className].filter(Boolean).join(' ');
             const text = escapeHtml(profile?.avatarText || getDefaultAvatarText(profile?.alias));
             const style = profile?.accentColor ? ` style="--source-avatar-color:${escapeAttr(profile.accentColor)}"` : '';
             if (profile?.avatarUrl) {
-                return `<span class="${classes}"${style}><img ${lazyImageAttributes(profile.avatarUrl)}></span>`;
+                const imgAttrs = options.eager
+                    ? `src="${escapeAttr(profile.avatarUrl)}" alt="" loading="eager" decoding="async" fetchpriority="high" referrerpolicy="no-referrer"`
+                    : lazyImageAttributes(profile.avatarUrl);
+                return `<span class="${classes}"${style}><img ${imgAttrs}></span>`;
             }
             return `<span class="${classes}"${style}>${text}</span>`;
         }
@@ -2171,7 +2174,7 @@
 
             list.innerHTML = entries.map(entry => `
                 <button type="button" class="stats-source-item ${entry.fileName === activeFilter ? 'active' : ''}" data-source="${escapeAttr(entry.fileName)}">
-                    ${renderSourceAvatar(entry.profile, 'stats-source-avatar')}
+                    ${renderSourceAvatar(entry.profile, 'stats-source-avatar', { eager: true })}
                     <span class="stats-source-item-text">
                         <span class="stats-source-name">${escapeHtml(entry.alias)}</span>
                         <span class="stats-source-meta">去重 ${formatCountText(entry.totalUnique)}</span>

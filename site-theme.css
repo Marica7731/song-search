@@ -2389,12 +2389,39 @@ body.culua-shell-check .title-status-badge.status-missing {
 
 body.culua-shell-check .retitle-tools {
   display: grid !important;
-  grid-template-columns: minmax(160px, 1fr) minmax(140px, 1fr) auto auto;
+  grid-template-columns: minmax(0, 1fr) auto auto;
   gap: 8px !important;
   align-items: center !important;
 }
 
-body.culua-shell-check .retitle-tools input {
+body.culua-shell-check .retitle-field {
+  display: grid;
+  grid-template-columns: 34px minmax(0, 1fr);
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+}
+
+body.culua-shell-check .retitle-field-label {
+  color: #64748b;
+  font-size: 12px;
+  font-weight: 850;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+body.culua-shell-check .retitle-title-field {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+body.culua-shell-check .retitle-artist-field {
+  grid-column: 1;
+  grid-row: 2;
+}
+
+body.culua-shell-check .retitle-field input {
+  width: 100% !important;
   min-width: 0 !important;
 }
 
@@ -2413,14 +2440,23 @@ body.culua-shell-check .retitle-action {
 }
 
 body.culua-shell-check .retitle-action.retry {
+  grid-column: 2;
+  grid-row: 1;
+  align-self: stretch;
   background: #0891b2 !important;
 }
 
 body.culua-shell-check .retitle-action.apply {
+  grid-column: 3;
+  grid-row: 1;
+  align-self: stretch;
   background: #16a34a !important;
 }
 
 body.culua-shell-check .retitle-action.external {
+  grid-column: 3;
+  grid-row: 2;
+  align-self: stretch;
   border: 1px solid #cbd5e1;
   background: #fff;
   color: #0f766e !important;
@@ -2441,6 +2477,12 @@ body.culua-shell-check .net-ease-option {
   color: #475569;
   font-size: 13px;
   white-space: nowrap;
+}
+
+body.culua-shell-check .retitle-tools > .net-ease-option {
+  grid-column: 2;
+  grid-row: 2;
+  align-self: center;
 }
 
 body.culua-shell-check .net-ease-option.disabled {
@@ -2467,6 +2509,23 @@ body.culua-shell-check .net-ease-option.disabled {
 }
 
 @media (max-width: 720px) {
+  body.culua-shell-check .retitle-tools {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  }
+
+  body.culua-shell-check .retitle-title-field,
+  body.culua-shell-check .retitle-artist-field {
+    grid-column: 1 / -1;
+  }
+
+  body.culua-shell-check .retitle-action.retry,
+  body.culua-shell-check .retitle-action.apply,
+  body.culua-shell-check .retitle-action.external,
+  body.culua-shell-check .retitle-tools > .net-ease-option {
+    grid-column: auto;
+    grid-row: auto;
+  }
+
   body.culua-shell-check .result-output-head {
     grid-template-columns: 1fr;
   }

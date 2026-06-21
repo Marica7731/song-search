@@ -326,6 +326,22 @@ function createRetitleTools(item, index) {
   artistInput.style.fontSize = '13px';
   artistInput.style.minHeight = '34px';
 
+  const titleField = document.createElement('label');
+  titleField.className = 'retitle-field retitle-title-field';
+  const titleLabel = document.createElement('span');
+  titleLabel.className = 'retitle-field-label';
+  titleLabel.textContent = '歌名';
+  titleField.appendChild(titleLabel);
+  titleField.appendChild(titleInput);
+
+  const artistField = document.createElement('label');
+  artistField.className = 'retitle-field retitle-artist-field';
+  const artistLabel = document.createElement('span');
+  artistLabel.className = 'retitle-field-label';
+  artistLabel.textContent = '歌手';
+  artistField.appendChild(artistLabel);
+  artistField.appendChild(artistInput);
+
   const suggestionList = document.createElement('datalist');
   const datalistId = `titleSuggestion-${index}-${Date.now()}`;
   suggestionList.id = datalistId;
@@ -507,13 +523,13 @@ function createRetitleTools(item, index) {
     generateResultText();
   };
 
-  tools.appendChild(titleInput);
-  tools.appendChild(artistInput);
-  tools.appendChild(suggestionList);
+  tools.appendChild(titleField);
+  tools.appendChild(artistField);
   tools.appendChild(retryBtn);
   tools.appendChild(applyArtistBtn);
   tools.appendChild(titleOnlyLabel);
   tools.appendChild(link);
+  tools.appendChild(suggestionList);
   return tools;
 }
 
