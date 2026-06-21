@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/21/2026, 4:04:17 AM
+// 生成时间: 6/21/2026, 4:11:43 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17707,6 +17707,206 @@ window.SONG_DATA.push(
   "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat.可不",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "カワキヲアメク",
+  "artist": "美波",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "爆弾魔",
+  "artist": "ヨルシカ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "盗作",
+  "artist": "ヨルシカ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "勘冴えて悔しいわ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "脳裏上のクラッカー",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "main actor",
+  "artist": "美波",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "Luna say maybe",
+  "artist": "月村手毬(CV:小鹿なお)",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=25",
   "source": "others.js"
 },
     {
