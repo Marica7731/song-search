@@ -321,7 +321,7 @@ git push origin HEAD:codex/server-deploy
 服务器正常发布必须使用刷新脚本。不要只 `git reset --hard` 后重启服务，因为仓库里的 `data/*.js` 可能落后于服务器运行时数据，会导致线上歌库短暂回退。
 
 ```bash
-ssh culua "sudo -n /usr/local/bin/song-search-refresh.sh"
+ssh culua "sudo -n /usr/bin/flock -n /tmp/song-search-refresh.lock /usr/local/bin/song-search-refresh.sh"
 ```
 
 发布后先做总量和关键 BV 校验：

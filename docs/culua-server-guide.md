@@ -188,7 +188,7 @@ $before = (npm run -s check:live -- --json | ConvertFrom-Json).totalSongs
 
 ```powershell
 git push origin HEAD:codex/server-deploy
-ssh culua "sudo -n /usr/local/bin/song-search-refresh.sh"
+ssh culua "sudo -n /usr/bin/flock -n /tmp/song-search-refresh.lock /usr/local/bin/song-search-refresh.sh"
 npm run -s check:live -- --min-total=$before --require-bv=BV1xd5g61Egu
 ```
 
@@ -224,6 +224,15 @@ npm run -s check:live -- --min-total=$before --require-bv=BV1xd5g61Egu
 当前刷新脚本核心行为：
 
 ```bash
+LOCK_PATH="${SONG_SEARCH_REFRESH_LOCK_PATH:-/tmp/song-search-refresh.lock}"
+if [[ "${SONG_SEARCH_REFRESH_LOCK_HELD:-0}" != "1" ]]; then
+  parent_comm="$(/bin/ps -o comm= -p "${PPID}" 2>/dev/null | /usr/bin/tr -d '[:space:]' || true)"
+  if [[ "${parent_comm}" == "flock" ]]; then
+    export SONG_SEARCH_REFRESH_LOCK_HELD=1
+  else
+    exec /usr/bin/flock -n "${LOCK_PATH}" /usr/bin/env SONG_SEARCH_REFRESH_LOCK_HELD=1 "${BASH_SOURCE[0]}" "$@"
+  fi
+fi
 cd /var/www/song-search
 git -c safe.directory=/var/www/song-search fetch origin codex/server-deploy
 git -c safe.directory=/var/www/song-search reset --hard origin/codex/server-deploy
@@ -236,6 +245,7 @@ git -c safe.directory=/var/www/song-search reset --hard origin/codex/server-depl
 说明：
 
 - root crontab 会以 root 身份执行刷新脚本，而 `/var/www/song-search` 主要由 `codex` 维护；Git 可能因为 `dubious ownership` 拒绝 `fetch/reset`。刷新脚本里的两条 git 命令必须带 `-c safe.directory=/var/www/song-search`。
+- 手动发布也必须使用 `/usr/bin/flock -n /tmp/song-search-refresh.lock`。不要裸跑 `/usr/local/bin/song-search-refresh.sh`，否则可能和 20 分钟 cron 同时写 `data/`，造成线上总量短暂回退。
 - 刷新脚本生成 `data/` 和 `reports/` 后会把归属修回 `codex:codex`，避免后续 `codex` 用户部署或检查时被 root 生成物卡住。
 
 只有在明确做紧急进程恢复、且确认不执行 `git reset --hard` 时，才单独重启服务：
@@ -367,7 +377,7 @@ curl -fsS https://www.culua.com/api/bootstrap
 如果刚发布后总量下降，优先判断是否执行过 `git reset --hard` 后只重启服务。立即运行：
 
 ```powershell
-ssh culua "sudo -n /usr/local/bin/song-search-refresh.sh"
+ssh culua "sudo -n /usr/bin/flock -n /tmp/song-search-refresh.lock /usr/local/bin/song-search-refresh.sh"
 npm run -s check:live -- --min-total=<发布前总量> --require-bv=BV1xd5g61Egu
 ```
 

@@ -41,7 +41,7 @@ culua.com / codex/server-deploy：
 发布：
 1. 如果只改页面/CSS/前端脚本，用 docs/culua-server-guide.md 的“保留线上数据”流程。
 2. 如果改来源配置，需要同步服务器 /var/lib/song-search/singer-configs.json 后运行：
-   ssh culua "sudo -n /usr/local/bin/song-search-refresh.sh"
+   ssh culua "sudo -n /usr/bin/flock -n /tmp/song-search-refresh.lock /usr/local/bin/song-search-refresh.sh"
 3. 不要用单纯 git reset + restart 替代来源刷新。
 
 提交：
