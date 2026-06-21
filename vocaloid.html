@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>术力口数据</title>
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-  <link rel="stylesheet" href="/site-theme.css?v=20260621vocaloid1">
-  <script src="/site-shell.js?v=20260621vocaloid1" defer></script>
+  <link rel="stylesheet" href="/site-theme.css?v=20260621ui2">
+  <script src="/site-shell.js?v=20260621ui2" defer></script>
   <style>
     * { box-sizing: border-box }
     body { margin: 0; background: #f3f4f6; color: #111827; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif }
@@ -14,17 +14,19 @@
     .vocaloid-side-title { margin-bottom: 8px; color: #64748b; font-size: 12px; font-weight: 800 }
     .vocaloid-source-filter { width: 100%; min-height: 34px; margin-bottom: 8px; padding: 7px 10px; border: 1px solid #d9e0ea; border-radius: 8px; background: #fff; font-size: 13px }
     .vocaloid-source-list { display: grid; gap: 6px; max-height: calc(100vh - 270px); overflow-y: auto; padding-right: 2px }
-    .vocaloid-source-item { display: grid; grid-template-columns: 30px minmax(0,1fr) auto; align-items: center; gap: 8px; min-height: 42px; width: 100%; padding: 6px 8px; border: 1px solid transparent; border-radius: 8px; background: transparent; color: #1f2937; text-align: left; cursor: pointer }
+    .vocaloid-source-item { display: grid; grid-template-columns: 30px minmax(0,1fr) auto; align-items: center; justify-content: stretch; justify-items: start; gap: 8px; min-height: 42px; width: 100%; padding: 6px 8px; border: 1px solid transparent; border-radius: 8px; background: transparent; color: #1f2937; text-align: left; cursor: pointer }
     .vocaloid-source-item:hover, .vocaloid-source-item.active { background: #e6f4f1; border-color: #99d8cf; color: #0f766e }
-    .vocaloid-avatar { display: inline-grid; place-items: center; width: 30px; height: 30px; overflow: hidden; border-radius: 50%; border: 1px solid color-mix(in srgb, var(--source-avatar-color, #0f766e) 28%, #d9e3ef); background: color-mix(in srgb, var(--source-avatar-color, #0f766e) 15%, #fff); color: var(--source-avatar-color, #0f766e); font-size: 10px; font-weight: 850 }
+    .vocaloid-avatar { display: inline-grid; place-items: center; justify-self: start; flex: 0 0 auto; width: 30px; height: 30px; overflow: hidden; border-radius: 50%; border: 1px solid color-mix(in srgb, var(--source-avatar-color, #0f766e) 28%, #d9e3ef); background: color-mix(in srgb, var(--source-avatar-color, #0f766e) 15%, #fff); color: var(--source-avatar-color, #0f766e); font-size: 10px; font-weight: 850 }
     .vocaloid-avatar img { width: 100%; height: 100%; object-fit: cover }
+    .vocaloid-source-text { display: grid; gap: 1px; min-width: 0; justify-self: stretch }
     .vocaloid-source-name, .vocaloid-song-title, .vocaloid-song-artist { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap }
     .vocaloid-source-name { font-size: 13px; font-weight: 800 }
     .vocaloid-source-meta, .vocaloid-source-count { color: #64748b; font-size: 11px; font-weight: 700 }
-    .vocaloid-main { display: grid; gap: 14px }
+    .vocaloid-source-count { justify-self: end }
+    .vocaloid-main { display: grid; gap: 12px }
     .vocaloid-head { display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; flex-wrap: wrap }
-    .vocaloid-head h1 { margin: 0 0 6px; color: #111827; font-size: 26px; letter-spacing: 0 }
-    .vocaloid-head p { margin: 0; color: #64748b; font-size: 13px }
+    .vocaloid-head h1 { margin: 0 0 4px; color: #111827; font-size: 22px; line-height: 1.15; letter-spacing: 0 }
+    .vocaloid-head p { margin: 0; color: #64748b; font-size: 12px }
     .snapshot-badges { display: flex; align-items: center; gap: 8px; flex-wrap: wrap }
     .snapshot-badge { display: inline-flex; align-items: center; min-height: 30px; padding: 0 10px; border: 1px solid #d9e0ea; border-radius: 999px; background: #fff; color: #475569; font-size: 12px; font-weight: 750 }
     .snapshot-badge.warn { border-color: #f3d08a; background: #fff7df; color: #92400e }
@@ -32,20 +34,20 @@
     .vocaloid-grid { display: grid; gap: 12px }
     .vocaloid-kpis { grid-template-columns: repeat(4, minmax(0, 1fr)) }
     .vocaloid-card { border: 1px solid #d9e0ea; border-radius: 8px; background: #fff; box-shadow: none }
-    .vocaloid-kpi { padding: 14px }
+    .vocaloid-kpi { padding: 10px 12px }
     .vocaloid-kpi span { color: #64748b; font-size: 12px; font-weight: 700 }
-    .vocaloid-kpi strong { display: block; margin-top: 4px; color: #0f172a; font-size: 24px; line-height: 1.1 }
-    .vocaloid-kpi em { display: block; margin-top: 6px; color: #64748b; font-size: 12px; font-style: normal }
-    .vocaloid-section { padding: 14px }
-    .vocaloid-section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 12px }
-    .vocaloid-section-head h2 { margin: 0; color: #0f172a; font-size: 17px }
+    .vocaloid-kpi strong { display: block; margin-top: 3px; color: #0f172a; font-size: 18px; line-height: 1.1 }
+    .vocaloid-kpi em { display: block; margin-top: 4px; color: #64748b; font-size: 11px; font-style: normal }
+    .vocaloid-section { padding: 12px }
+    .vocaloid-section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 10px }
+    .vocaloid-section-head h2 { margin: 0; color: #0f172a; font-size: 15px }
     .vocaloid-section-head span { color: #64748b; font-size: 12px; text-align: right }
-    .share-list, .reason-list, .dedup-list, .song-list { display: grid; gap: 8px }
-    .share-row { display: grid; grid-template-columns: 140px minmax(0,1fr) 72px; gap: 10px; align-items: center }
+    .share-list, .reason-list, .dedup-list, .song-list { display: grid; gap: 6px }
+    .share-row { display: grid; grid-template-columns: 124px minmax(0,1fr) 76px; gap: 8px; align-items: center; min-height: 28px; padding: 3px 0 }
     .share-name { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 13px; font-weight: 800 }
-    .share-bar { height: 10px; overflow: hidden; border-radius: 999px; background: #edf2f7 }
-    .share-fill { display: block; height: 100%; width: var(--share-width); border-radius: inherit; background: linear-gradient(90deg, #0f766e, #38bdf8) }
-    .share-count { color: #475569; font-size: 12px; font-weight: 750; text-align: right }
+    .share-bar { height: 7px; overflow: hidden; border-radius: 999px; background: #edf2f7 }
+    .share-fill { display: block; height: 100%; width: var(--share-width); border-radius: inherit; background: #1aa7c7 }
+    .share-count { color: #475569; font-size: 11px; font-weight: 750; text-align: right }
     .vocaloid-two-col { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) }
     .reason-row { display: grid; grid-template-columns: minmax(0,1fr) auto; gap: 10px; align-items: center; padding: 8px 10px; border-radius: 8px; background: #f8fafc }
     .reason-row strong { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: #1f2937; font-size: 13px }
@@ -71,6 +73,11 @@
     .dedup-sub { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: #64748b; font-size: 12px }
     .dedup-count { color: #0f766e; font-size: 13px; font-weight: 850 }
     .empty-line { padding: 16px; color: #64748b; text-align: center }
+    body.culua-shell-vocaloid .vocaloid-head h1 { font-size: 22px !important; line-height: 1.15 !important; margin-bottom: 4px !important }
+    body.culua-shell-vocaloid .vocaloid-source-item { display: grid !important; justify-content: stretch !important; justify-items: start !important }
+    body.culua-shell-vocaloid .vocaloid-kpi strong { font-size: 18px !important }
+    body.culua-shell-vocaloid .vocaloid-section-head h2 { font-size: 15px !important }
+    body.culua-shell-vocaloid .share-bar { height: 7px !important }
     @media (max-width: 1180px) {
       .vocaloid-kpis, .vocaloid-two-col { grid-template-columns: repeat(2, minmax(0,1fr)) }
       .vocaloid-toolbar { grid-template-columns: 1fr }
@@ -387,7 +394,7 @@
       document.getElementById('sourceList').innerHTML = rows.map(row => `
         <button type="button" class="vocaloid-source-item ${row.source === state.source ? 'active' : ''}" data-source="${escapeAttr(row.source)}">
           ${avatarHtml(row.source, row.alias)}
-          <span>
+          <span class="vocaloid-source-text">
             <span class="vocaloid-source-name">${escapeHtml(row.alias)}</span>
             <span class="vocaloid-source-meta">去重 ${formatNum(row.unique)}</span>
           </span>

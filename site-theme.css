@@ -864,7 +864,7 @@ body.culua-shell-page {
 
 .culua-brand {
   display: block;
-  margin-bottom: 20px;
+  margin-bottom: 14px;
 }
 
 .culua-brand-mark {
@@ -885,7 +885,7 @@ body.culua-shell-page {
 .culua-shell-nav {
   display: grid;
   gap: 6px;
-  margin: 14px 0 0;
+  margin: 0;
 }
 
 .culua-shell-nav-item {
@@ -1310,14 +1310,12 @@ body.culua-shell-bv .copy-advanced summary {
 
 body.culua-shell-dup .culua-sidebar,
 body.culua-shell-bv .culua-sidebar {
-  display: flex !important;
-  flex-direction: column !important;
-  gap: 14px !important;
+  display: block !important;
 }
 
 body.culua-shell-dup .culua-sidebar .source-tabs,
 body.culua-shell-bv .culua-sidebar .source-tabs {
-  margin: 0 !important;
+  margin: 16px 0 0 !important;
   padding: 0 !important;
   border: 0 !important;
   background: transparent !important;
@@ -2169,15 +2167,38 @@ body.culua-shell-check .title-filter-btn[data-title-filter="missing"].active {
 
 body.culua-shell-check .check-page-layout {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 220px;
-  gap: 18px;
+  grid-template-columns: minmax(340px, 390px) minmax(0, 1fr) 220px;
+  gap: 16px;
   align-items: start;
 }
 
-body.culua-shell-check .check-page-layout > .main {
+body.culua-shell-check .check-page-layout > .main,
+body.culua-shell-check .check-left-column,
+body.culua-shell-check .check-review-module {
   min-width: 0;
   max-width: none !important;
   margin: 0 !important;
+}
+
+body.culua-shell-check .check-left-column {
+  position: sticky;
+  top: 18px;
+  display: grid;
+  gap: 12px;
+  grid-column: 1;
+}
+
+body.culua-shell-check .check-review-module {
+  grid-column: 2;
+}
+
+body.culua-shell-check .check-directory-slot {
+  grid-column: 3;
+}
+
+body.culua-shell-check .check-left-column .header {
+  margin: 0 !important;
+  text-align: left !important;
 }
 
 body.culua-shell-check .check-directory-slot {
@@ -2198,7 +2219,7 @@ body.culua-shell-check .check-directory-slot .pd-widget-card {
 }
 
 body.culua-shell-check .check-module {
-  margin: 0 0 16px;
+  margin: 0;
   padding: 14px;
   border: 1px solid #d9e0ea;
   border-radius: 8px;
@@ -2230,7 +2251,7 @@ body.culua-shell-check .check-module-head span {
 
 body.culua-shell-check .check-input-grid {
   display: grid;
-  grid-template-columns: minmax(360px, 1fr) minmax(360px, 1fr);
+  grid-template-columns: 1fr;
   gap: 12px;
   align-items: stretch;
 }
@@ -2259,9 +2280,9 @@ body.culua-shell-check .result-generate-area {
 
 body.culua-shell-check .result-output-head {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
+  grid-template-columns: 1fr;
   gap: 12px;
-  align-items: center;
+  align-items: start;
   margin-bottom: 10px;
 }
 
@@ -2288,7 +2309,7 @@ body.culua-shell-check #resultText {
 }
 
 body.culua-shell-check .result-copy-actions {
-  justify-content: flex-end;
+  justify-content: flex-start;
 }
 
 body.culua-shell-check .artist-select-area {
@@ -2304,10 +2325,7 @@ body.culua-shell-check .title-filter-bar.active {
 }
 
 body.culua-shell-check .title-filter-summary {
-  flex: 1 1 260px;
-  min-width: 0;
-  color: #64748b;
-  font-size: 12px;
+  display: none !important;
 }
 
 body.culua-shell-check .select-item.status-ok {
@@ -2371,8 +2389,9 @@ body.culua-shell-check .title-status-badge.status-missing {
 
 body.culua-shell-check .retitle-tools {
   display: grid !important;
-  grid-template-columns: minmax(180px, 1fr) minmax(160px, 1fr) auto auto auto auto;
+  grid-template-columns: minmax(160px, 1fr) minmax(140px, 1fr) auto auto;
   gap: 8px !important;
+  align-items: center !important;
 }
 
 body.culua-shell-check .retitle-tools input {
@@ -2421,6 +2440,7 @@ body.culua-shell-check .net-ease-option {
   min-height: 36px;
   color: #475569;
   font-size: 13px;
+  white-space: nowrap;
 }
 
 body.culua-shell-check .net-ease-option.disabled {
@@ -2433,10 +2453,13 @@ body.culua-shell-check .net-ease-option.disabled {
     grid-template-columns: minmax(0, 1fr);
   }
 
-  body.culua-shell-check .check-input-grid {
-    grid-template-columns: 1fr;
+  body.culua-shell-check .check-left-column,
+  body.culua-shell-check .check-review-module,
+  body.culua-shell-check .check-directory-slot {
+    grid-column: auto;
   }
 
+  body.culua-shell-check .check-left-column,
   body.culua-shell-check .check-directory-slot {
     position: static;
     min-height: 0;
@@ -2626,9 +2649,21 @@ body.culua-shell-stats .stats-source-item.active {
 }
 
 body.culua-shell-stats .stats-source-avatar {
+  display: inline-grid !important;
+  place-items: center !important;
+  justify-self: start;
+  overflow: hidden;
   width: 30px !important;
   height: 30px !important;
+  border-radius: 50%;
   font-size: 10px !important;
+}
+
+body.culua-shell-stats .stats-source-avatar img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 body.culua-shell-stats .stats-source-item-text {
@@ -3423,7 +3458,6 @@ body.culua-shell-stats .toggle-btn:focus {
    desktop >= 1280px, tablet 768px - 1279px, mobile < 768px. */
 body.culua-shell-stats {
   --left-sidebar-width: 280px;
-  --right-toc-width: 252px;
   --page-gap: 16px;
   --card-radius: 8px;
   --card-padding: 14px;
@@ -3431,7 +3465,7 @@ body.culua-shell-stats {
 
 body.culua-shell-stats .culua-page-shell {
   display: grid !important;
-  grid-template-columns: var(--left-sidebar-width) minmax(0, 1fr) var(--right-toc-width);
+  grid-template-columns: var(--left-sidebar-width) minmax(0, 1fr);
   gap: var(--page-gap);
   align-items: start;
 }
@@ -3447,14 +3481,7 @@ body.culua-shell-stats .culua-page-content {
 }
 
 body.culua-shell-stats .culua-stats-directory-slot {
-  grid-column: 3;
-  min-width: 0;
-  align-self: start;
-  position: sticky;
-  top: 0;
-  height: 100vh;
-  padding: 22px 18px 0 0;
-  --pd-widget-sticky-top: 16px;
+  display: none !important;
 }
 
 body.culua-shell-stats .pd-widget-mounted .pd-widget-desktop {
@@ -4047,16 +4074,11 @@ body.culua-shell-stats .perf-grid-small .perf-link-small:hover {
 @media (max-width: 1399px) and (min-width: 1280px) {
   body.culua-shell-stats {
     --left-sidebar-width: 280px;
-    --right-toc-width: 220px;
     --page-gap: 12px;
   }
 
   body.culua-shell-stats .culua-sidebar {
     padding: 16px 12px;
-  }
-
-  body.culua-shell-stats .culua-stats-directory-slot {
-    padding-right: 12px;
   }
 }
 
@@ -4071,7 +4093,7 @@ body.culua-shell-stats .perf-grid-small .perf-link-small:hover {
   }
 
   body.culua-shell-stats .culua-stats-directory-slot {
-    display: contents;
+    display: none !important;
     padding: 0;
   }
 

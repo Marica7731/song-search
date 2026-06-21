@@ -621,7 +621,6 @@ function renderTitleFilterBar() {
   const pendingCount = counts.pending || 0;
   const missingCount = counts.missing || 0;
   const okCount = counts.ok || 0;
-  const visibleCount = getTitleResultEntries().length;
   bar.classList.toggle('active', total > 0);
   bar.querySelectorAll('[data-title-filter]').forEach(button => {
     button.classList.toggle('active', button.dataset.titleFilter === titleFilterMode);
@@ -634,9 +633,7 @@ function renderTitleFilterBar() {
   });
   const summary = document.getElementById('titleFilterSummary');
   if (summary) {
-    const activeButton = bar.querySelector(`[data-title-filter="${titleFilterMode}"]`);
-    const activeLabel = activeButton ? activeButton.textContent.replace(/\s+\d+$/, '') : '';
-    summary.textContent = titleFilterMode === 'all' ? '' : `当前筛选：${activeLabel} · ${visibleCount} 条`;
+    summary.textContent = '';
   }
 }
 

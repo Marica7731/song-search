@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>歌曲数据</title>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-    <link rel="stylesheet" href="/site-theme.css?v=20260621vocaloid1">
-    <script src="/site-shell.js?v=20260621vocaloid1" defer></script>
+    <link rel="stylesheet" href="/site-theme.css?v=20260621ui2">
+    <script src="/site-shell.js?v=20260621ui2" defer></script>
     <style>
         /* --- 全局样式复用 --- */
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -926,7 +926,6 @@
     <div class="toast-container" id="toast-container"></div>
     <button class="back-top" id="backTopBtn" type="button" aria-label="回到顶部">↑</button>
         </main>
-        <aside class="culua-stats-directory-slot" id="statsDirectorySlot" aria-label="数据页目录"></aside>
     </div>
 
     <script>
@@ -2180,6 +2179,7 @@
                     <span class="stats-source-count">${formatCountText(entry.totalSongs)}</span>
                 </button>
             `).join('') || '<div class="stats-source-empty">没有匹配来源</div>';
+            initLazyMedia(list);
 
             list.querySelectorAll('.stats-source-item').forEach(button => {
                 button.addEventListener('click', () => {
@@ -3013,115 +3013,6 @@
             bootstrap();
         });
     </script>
-  <script src="/page-directory-widget.js?v=20260525avatar1"></script>
-  <script>
-    document.addEventListener('DOMContentLoaded', () => {
-      if (typeof window.createPageDirectory !== 'function') return;
-
-      const clipText = (text, maxLen = 34) => {
-        const value = String(text || '').replace(/\s+/g, ' ').trim();
-        if (!value) return '';
-        return value.length > maxLen ? `${value.slice(0, maxLen - 1)}…` : value;
-      };
-
-      const buildLongListItems = () => {
-        const activeTab = document.querySelector('.tab-btn.active')?.dataset?.tab || 'vtuber-source';
-        const items = [];
-        const avatarFromRow = row => {
-          const avatar = row.querySelector('.group-source-avatar');
-          if (!avatar) return {};
-          const img = avatar.querySelector('img');
-          const avatarUrl = img?.dataset?.src || img?.currentSrc || img?.getAttribute('src') || '';
-          const avatarText = avatar.textContent?.trim() || '';
-          const accentColor = avatar.style.getPropertyValue('--source-avatar-color') || '';
-          return { avatarUrl, avatarText, accentColor };
-        };
-        if (activeTab === 'rank') {
-          const rankItems = Array.from(document.querySelectorAll('#rank-list .rank-item'));
-          rankItems.forEach((row, idx) => {
-            const title = row.querySelector('.song-title-large')?.textContent || `歌曲 #${idx + 1}`;
-            items.push({
-              label: `${idx + 1}. ${clipText(title, 30)}`,
-              target: row
-            });
-          });
-          return items;
-        }
-
-        const listSelector = activeTab === 'artist'
-          ? '#artist-list .group-card'
-          : '#vtuber-source-list .group-card';
-        const groupRows = Array.from(document.querySelectorAll(listSelector));
-        groupRows.forEach((row, idx) => {
-          const name = row.querySelector('.group-name [data-quick-copy]')?.textContent || `分组 #${idx + 1}`;
-          items.push({
-            label: `${idx + 1}. ${clipText(name, 28)}`,
-            ...(activeTab === 'vtuber-source' ? avatarFromRow(row) : {}),
-            target: row
-          });
-        });
-        return items;
-      };
-
-      const buildStatsDirItems = () => {
-        const activeTab = document.querySelector('.tab-btn.active')?.dataset?.tab || 'vtuber-source';
-        const longListItems = buildLongListItems();
-        const items = [];
-
-        if (activeTab === 'vtuber-source') {
-          items.push({ label: 'VTuber 来源', selector: '#vtuber-source-list' });
-        } else if (activeTab === 'rank') {
-          items.push({ label: '歌曲排行', selector: '#rank-list' });
-        } else {
-          items.push({ label: '歌手聚合', selector: '#artist-list' });
-        }
-
-        if (longListItems.length > 0) {
-          items.push(...longListItems);
-        } else {
-          items.push(
-            { label: '来源筛选', selector: '#filter-bar' },
-            { label: '关键词搜索', selector: '.search-container' },
-            { label: '摘要总览', selector: '#overview-grid' }
-          );
-        }
-
-        if (activeTab === 'rank' && document.querySelector('#pagination-rank .page-btn')) {
-          items.push({ label: '歌曲分页', selector: '#pagination-rank' });
-        }
-        return items;
-      };
-
-      const dir = window.createPageDirectory({
-        title: '数据页目录',
-        mount: '#statsDirectorySlot',
-        items: buildStatsDirItems()
-      });
-
-      let refreshTimer = null;
-      const queueRefresh = () => {
-        if (refreshTimer) window.clearTimeout(refreshTimer);
-        refreshTimer = window.setTimeout(() => {
-          dir.setItems(buildStatsDirItems());
-        }, 80);
-      };
-
-      const observer = new MutationObserver(queueRefresh);
-      ['#vtuber-source-list', '#rank-list', '#artist-list', '#pagination-rank'].forEach(selector => {
-        const el = document.querySelector(selector);
-        if (!el) return;
-        observer.observe(el, { childList: true, subtree: true });
-      });
-
-      document.querySelectorAll('.tab-btn').forEach(button => {
-        button.addEventListener('click', () => {
-          window.setTimeout(queueRefresh, 0);
-        });
-      });
-
-      queueRefresh();
-    });
-  </script>
   <script src="/last-run-badge.js?v=20260516shell4"></script>
 </body>
 </html>

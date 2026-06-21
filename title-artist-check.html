@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>命名工具</title>
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-  <link rel="stylesheet" href="/site-theme.css?v=20260621vocaloid1">
-  <script src="/site-shell.js?v=20260621vocaloid1" defer></script>
+  <link rel="stylesheet" href="/site-theme.css?v=20260621ui2">
+  <script src="/site-shell.js?v=20260621ui2" defer></script>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#f6f7f9;padding:20px}
@@ -79,7 +79,7 @@ button{padding:0 18px;height:44px;color:#111827;border:1px solid #b8c0cc;border-
   </aside>
   <main class="culua-page-content">
 <div class="check-page-layout">
-<div class="main">
+<aside class="check-left-column">
   <div class="header">
     <h2>命名工具</h2>
     <p>查询歌手、校验输入并修正歌名或歌手后快速检索。</p>
@@ -122,6 +122,7 @@ button{padding:0 18px;height:44px;color:#111827;border:1px solid #b8c0cc;border-
       </div>
     </div>
   </section>
+  </aside>
 
   <section class="check-module check-review-module artist-select-area" id="artistSelectArea">
     <div class="check-module-head">
@@ -140,7 +141,6 @@ button{padding:0 18px;height:44px;color:#111827;border:1px solid #b8c0cc;border-
     <div id="artistSelectContainer"></div>
   </section>
 
-</div>
 <aside class="check-directory-slot" id="checkDirectorySlot" aria-label="命名工具目录"></aside>
 </div>
 
@@ -255,7 +255,7 @@ async function loadAllData() {
 }
 </script>
 <script src="/artist-match.js"></script>
-<script src="bili-check-title-artist.js?v=20260530numbered1"></script>
+<script src="bili-check-title-artist.js?v=20260621ui2"></script>
 <script src="/page-directory-widget.js?v=20260525avatar1"></script>
 <script>
 function initTitleArtistPage() {
