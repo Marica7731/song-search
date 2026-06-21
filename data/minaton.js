@@ -1,10 +1,154 @@
 // みなとん - 歌单数据 (多合集汇总)
 // 来源: BV1TqGY6gEEf
-// 生成时间: 6/21/2026, 1:23:42 AM
+// 生成时间: 6/21/2026, 1:25:18 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=1",
+  "source": "minaton.js"
+},
+    {
+  "title": "Bling-Bang-Bang-Born",
+  "artist": "Creepy Nuts",
+  "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=2",
+  "source": "minaton.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=3",
+  "source": "minaton.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=4",
+  "source": "minaton.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat.初音ミク",
+  "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=5",
+  "source": "minaton.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=6",
+  "source": "minaton.js"
+},
+    {
+  "title": "雪、無音、窓辺にて。",
+  "artist": "長門有希(CV:茅原実里)",
+  "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=7",
+  "source": "minaton.js"
+},
+    {
+  "title": "神っぽいな",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=8",
+  "source": "minaton.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=9",
+  "source": "minaton.js"
+},
+    {
+  "title": "熱異常",
+  "artist": "いよわ feat.足立レイ",
+  "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=10",
+  "source": "minaton.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=11",
+  "source": "minaton.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=12",
+  "source": "minaton.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=13",
+  "source": "minaton.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=14",
+  "source": "minaton.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=15",
+  "source": "minaton.js"
+},
+    {
+  "title": "射手座☆午後九時Don't be late",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=16",
+  "source": "minaton.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n / 中島愛",
+  "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=17",
+  "source": "minaton.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona(CV:夏川椎菜)",
+  "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=18",
+  "source": "minaton.js"
+},
     {
   "title": "フォニイ",
   "artist": "ツミキ feat.可不",

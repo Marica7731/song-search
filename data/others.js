@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/21/2026, 1:27:45 AM
+// 生成时间: 6/21/2026, 1:28:23 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17187,6 +17187,206 @@ window.SONG_DATA.push(
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "おじゃま虫",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ラビットホール",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "透明エレジー",
+  "artist": "n-buna feat.GUMI",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "フラジール",
+  "artist": "ぬゆり feat.GUMI",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ハートアラモード",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "エンヴィキャットウォーク",
+  "artist": "トーマ feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "初音ミクの消失",
+  "artist": "cosMo@暴走P feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ノンブレス・オブリージュ",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "トーマ feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "幽霊屋敷の首吊り少女",
+  "artist": "トーマ feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "アウターサイエンス",
+  "artist": "じん feat.IA",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "クノイチでも恋がしたい",
+  "artist": "みきとP feat.初音ミク・鏡音リン",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "アイデンティティ",
+  "artist": "Kanaria feat.GUMI・初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "生きる",
+  "artist": "水野あつ feat.可不",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "林檎売りの泡沫少女",
+  "artist": "yukkedoluce feat.GUMI",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "アイロニ",
+  "artist": "すこっぷ feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑P feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "Fire◎Flower",
+  "artist": "halyosy feat.鏡音レン",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "「ねぇ。」",
+  "artist": "ナノウ(ほえほえP) feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "タイムマシン",
+  "artist": "1640mP feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "愛言葉III",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "恋愛勇者",
+  "artist": "Last Note. feat.GUMI",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "ロスタイムメモリー",
+  "artist": "じん feat.IA",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "ホシアイ",
+  "artist": "レフティーモンスターP feat.GUMI",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "Booo!",
+  "artist": "TOKOTOKO(西沢さんP) feat.音街ウナ",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=25",
   "source": "others.js"
 },
     {
