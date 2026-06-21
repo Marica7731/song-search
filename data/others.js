@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/21/2026, 2:15:37 AM
+// 生成时间: 6/21/2026, 2:31:16 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17387,6 +17387,118 @@ window.SONG_DATA.push(
   "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "Chase the world",
+  "artist": "May'n",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat. 初音ミク",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "grilletto",
+  "artist": "GARNiDELiA",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ベノム",
+  "artist": "かいりきベア feat. flower",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "キャットフード",
+  "artist": "doriko feat. 初音ミク",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "夕景イエスタデイ",
+  "artist": "じん feat. IA",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "雨とペトラ",
+  "artist": "バルーン feat. v flower",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "侵蝕",
+  "artist": "niki feat. 星界",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "モエチャッカファイア",
+  "artist": "弌誠",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "命のユースティティア",
+  "artist": "Neru feat. 鏡音レン",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "オーバーライド",
+  "artist": "吉田夜世 feat. 重音テト",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "食べ歩き珍道中",
+  "artist": "LiLY",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "うっせぇわ",
+  "artist": "Ado",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "歌に形はないけれど",
+  "artist": "doriko feat. 初音ミク",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=14",
   "source": "others.js"
 },
     {
