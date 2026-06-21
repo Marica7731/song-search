@@ -892,17 +892,19 @@ body.culua-shell-page {
   display: flex !important;
   align-items: center;
   justify-content: space-between;
-  min-height: 36px;
-  padding: 7px 9px !important;
+  min-height: 34px;
+  padding: 6px 8px !important;
   border-radius: 8px;
   color: #334155 !important;
   text-decoration: none !important;
   font-weight: 700;
+  font-size: 13px;
+  line-height: 1.2;
 }
 
 .culua-shell-nav-item span {
   color: #64748b;
-  font-size: 13px;
+  font-size: 12px;
   font-weight: 600;
 }
 
@@ -1003,10 +1005,20 @@ body.culua-shell-page button,
 body.culua-shell-page .copy-btn,
 body.culua-shell-page .filter-btn,
 body.culua-shell-page .range-btn,
-body.culua-shell-page .modal-btn {
+body.culua-shell-page .modal-btn,
+body.culua-shell-page .count-clickable,
+body.culua-shell-page .perf-open-link,
+body.culua-shell-page .toggle-perf-btn,
+body.culua-shell-page .dup-open-link,
+body.culua-shell-page .jump-tab-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   border-radius: 8px !important;
   min-height: 36px;
   box-shadow: none !important;
+  line-height: 1.2;
+  white-space: nowrap;
 }
 
 body.culua-shell-page .header,
@@ -1235,13 +1247,13 @@ body.culua-shell-bv .bv-summary-card.scope {
 }
 
 body.culua-shell-bv .bv-summary-card.success {
-  background: #f0fdf4;
-  border-color: #bbf7d0;
+  background: #fff1f2;
+  border-color: #fecdd3;
 }
 
 body.culua-shell-bv .bv-summary-card.danger {
-  background: #fff1f2;
-  border-color: #fecdd3;
+  background: #f0fdf4;
+  border-color: #bbf7d0;
 }
 
 body.culua-shell-bv .bv-summary-card.warn {
@@ -1571,14 +1583,14 @@ body.culua-shell-dup .song-item.first,
 body.culua-shell-bv .song-item.first,
 body.culua-shell-dup .song-item.unique,
 body.culua-shell-bv .song-item.unique {
-  border-left-color: #16a34a !important;
-  background: linear-gradient(90deg, rgba(22, 163, 74, 0.05), #fff 110px) !important;
+  border-left-color: #dc2626 !important;
+  background: linear-gradient(90deg, rgba(220, 38, 38, 0.045), #fff 110px) !important;
 }
 
 body.culua-shell-dup .song-item.dup,
 body.culua-shell-bv .song-item.dup {
-  border-left-color: #dc2626 !important;
-  background: linear-gradient(90deg, rgba(220, 38, 38, 0.045), #fff 110px) !important;
+  border-left-color: #16a34a !important;
+  background: linear-gradient(90deg, rgba(22, 163, 74, 0.05), #fff 110px) !important;
 }
 
 body.culua-shell-dup .song-item.mismatch,
@@ -1655,9 +1667,11 @@ body.culua-shell-bv .dup-title-line {
 
 body.culua-shell-dup .result-index,
 body.culua-shell-bv .result-index {
+  flex: 0 0 auto;
   color: #64748b;
   font-size: 13px;
   font-weight: 700;
+  white-space: nowrap;
 }
 
 body.culua-shell-dup .song-title,
@@ -1769,18 +1783,18 @@ body.culua-shell-dup .status-unique,
 body.culua-shell-bv .status-unique,
 body.culua-shell-dup .unique-tag,
 body.culua-shell-bv .unique-tag {
-  background: #dcfce7 !important;
-  color: #166534 !important;
-  border: 1px solid #86efac;
+  background: #fee2e2 !important;
+  color: #991b1b !important;
+  border: 1px solid #fecaca;
 }
 
 body.culua-shell-dup .status-dup,
 body.culua-shell-bv .status-dup,
 body.culua-shell-dup .dup-tag,
 body.culua-shell-bv .dup-tag {
-  background: #fee2e2 !important;
-  color: #991b1b !important;
-  border: 1px solid #fecaca;
+  background: #dcfce7 !important;
+  color: #166534 !important;
+  border: 1px solid #86efac;
 }
 
 body.culua-shell-dup .status-mismatch,
@@ -1882,9 +1896,12 @@ body.culua-shell-bv .dup-link-meta .copyable {
 }
 
 body.culua-shell-bv .bv-tag,
+body.culua-shell-dup .bv-tag,
 body.culua-shell-bv .dup-dot,
+body.culua-shell-dup .dup-dot,
 body.culua-shell-bv .dup-inline-avatar {
   flex: 0 0 auto;
+  white-space: nowrap;
 }
 
 body.culua-shell-dup .dup-open-link,
@@ -2180,9 +2197,48 @@ body.culua-shell-check .check-directory-slot .pd-widget-card {
   box-shadow: 0 4px 18px rgba(15, 23, 42, 0.08);
 }
 
+body.culua-shell-check .check-module {
+  margin: 0 0 16px;
+  padding: 14px;
+  border: 1px solid #d9e0ea;
+  border-radius: 8px;
+  background: #fff;
+}
+
+body.culua-shell-check .check-module-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+body.culua-shell-check .check-module-head h3 {
+  margin: 0;
+  color: #0f172a;
+  font-size: 15px;
+  font-weight: 850;
+}
+
+body.culua-shell-check .check-module-head span {
+  min-width: 0;
+  color: #64748b;
+  font-size: 12px;
+  line-height: 1.45;
+  text-align: right;
+}
+
+body.culua-shell-check .check-input-grid {
+  display: grid;
+  grid-template-columns: minmax(360px, 1fr) minmax(360px, 1fr);
+  gap: 12px;
+  align-items: stretch;
+}
+
 body.culua-shell-check .title-search-area {
-  padding: 14px !important;
-  background: #fff !important;
+  padding: 0 !important;
+  border: 0 !important;
+  background: transparent !important;
 }
 
 body.culua-shell-check .input-help {
@@ -2195,9 +2251,10 @@ body.culua-shell-check #titleInput {
 }
 
 body.culua-shell-check .result-generate-area {
-  margin: 0 0 16px !important;
-  padding: 12px !important;
-  background: #fff !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  background: transparent !important;
 }
 
 body.culua-shell-check .result-output-head {
@@ -2235,7 +2292,7 @@ body.culua-shell-check .result-copy-actions {
 }
 
 body.culua-shell-check .artist-select-area {
-  margin-top: 16px !important;
+  margin-top: 0 !important;
 }
 
 body.culua-shell-check .title-filter-bar.active {
@@ -2249,6 +2306,8 @@ body.culua-shell-check .title-filter-bar.active {
 body.culua-shell-check .title-filter-summary {
   flex: 1 1 260px;
   min-width: 0;
+  color: #64748b;
+  font-size: 12px;
 }
 
 body.culua-shell-check .select-item.status-ok {
@@ -2320,6 +2379,34 @@ body.culua-shell-check .retitle-tools input {
   min-width: 0 !important;
 }
 
+body.culua-shell-check .retitle-action {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  min-height: 34px !important;
+  padding: 0 12px !important;
+  border-radius: 8px !important;
+  font-size: 12px !important;
+  font-weight: 800 !important;
+  line-height: 1.2 !important;
+  text-decoration: none !important;
+  white-space: nowrap;
+}
+
+body.culua-shell-check .retitle-action.retry {
+  background: #0891b2 !important;
+}
+
+body.culua-shell-check .retitle-action.apply {
+  background: #16a34a !important;
+}
+
+body.culua-shell-check .retitle-action.external {
+  border: 1px solid #cbd5e1;
+  background: #fff;
+  color: #0f766e !important;
+}
+
 body.culua-shell-check .net-ease-actions {
   display: flex;
   align-items: center;
@@ -2344,6 +2431,10 @@ body.culua-shell-check .net-ease-option.disabled {
 @media (max-width: 1280px) {
   body.culua-shell-check .check-page-layout {
     grid-template-columns: minmax(0, 1fr);
+  }
+
+  body.culua-shell-check .check-input-grid {
+    grid-template-columns: 1fr;
   }
 
   body.culua-shell-check .check-directory-slot {
@@ -2379,7 +2470,7 @@ body.culua-shell-stats h1 {
 }
 
 body.culua-shell-stats .tabs-container {
-  display: inline-flex;
+  display: none !important;
   width: auto;
   padding: 4px !important;
   margin: 2px 0 16px !important;
@@ -2453,30 +2544,155 @@ body.culua-shell-stats .stats-view-nav-item.active span {
   color: #0f766e;
 }
 
+body.culua-shell-stats .stats-source-nav {
+  margin-top: 16px;
+  padding-top: 14px;
+  border-top: 1px solid #e5eaf1;
+}
+
+body.culua-shell-stats .stats-source-nav-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+body.culua-shell-stats .stats-source-nav-title {
+  color: #64748b;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+body.culua-shell-stats .stats-source-nav-current {
+  margin-top: 2px;
+  color: #334155;
+  font-size: 12px;
+  line-height: 1.35;
+}
+
+body.culua-shell-stats .stats-source-clear {
+  min-height: 28px !important;
+  padding: 0 8px !important;
+  border: 1px solid #cbd5e1;
+  border-radius: 999px !important;
+  background: #fff;
+  color: #0f766e;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+body.culua-shell-stats .stats-source-filter {
+  width: 100%;
+  min-height: 34px;
+  margin-bottom: 8px;
+  padding: 7px 10px;
+  border: 1px solid #d9e0ea;
+  border-radius: 8px;
+  background: #fff;
+  color: #1f2937;
+  font-size: 13px;
+}
+
+body.culua-shell-stats .stats-source-list {
+  display: grid;
+  gap: 6px;
+  max-height: calc(100vh - 382px);
+  overflow-y: auto;
+  padding-right: 2px;
+}
+
+body.culua-shell-stats .stats-source-item {
+  display: grid;
+  grid-template-columns: 30px minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  min-height: 42px;
+  padding: 6px 8px !important;
+  border: 1px solid transparent;
+  border-radius: 8px !important;
+  background: transparent;
+  color: #1f2937;
+  text-align: left;
+  cursor: pointer;
+}
+
+body.culua-shell-stats .stats-source-item:hover,
+body.culua-shell-stats .stats-source-item.active {
+  background: #e6f4f1;
+  border-color: #99d8cf;
+  color: #0f766e;
+}
+
+body.culua-shell-stats .stats-source-avatar {
+  width: 30px !important;
+  height: 30px !important;
+  font-size: 10px !important;
+}
+
+body.culua-shell-stats .stats-source-item-text {
+  min-width: 0;
+  display: grid;
+  gap: 1px;
+}
+
+body.culua-shell-stats .stats-source-name {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 13px;
+  font-weight: 800;
+}
+
+body.culua-shell-stats .stats-source-meta,
+body.culua-shell-stats .stats-source-count {
+  color: #64748b;
+  font-size: 11px;
+  font-weight: 700;
+}
+
+body.culua-shell-stats .stats-source-item.active .stats-source-meta,
+body.culua-shell-stats .stats-source-item.active .stats-source-count {
+  color: #0f766e;
+}
+
+body.culua-shell-stats .stats-source-empty {
+  padding: 10px;
+  color: #64748b;
+  font-size: 12px;
+}
+
 body.culua-shell-stats .filter-search-container {
   display: grid;
-  gap: 10px !important;
+  gap: 8px !important;
   margin-bottom: 14px !important;
 }
 
-body.culua-shell-stats .filter-bar,
 body.culua-shell-stats .search-container,
-body.culua-shell-stats .stats-bar {
+body.culua-shell-stats .stats-query-row {
   border: 1px solid #d9e0ea !important;
   border-radius: 8px !important;
   background: #fff !important;
   box-shadow: none !important;
 }
 
-body.culua-shell-stats .filter-bar {
-  padding: 10px 12px !important;
-}
-
 body.culua-shell-stats .search-container {
   display: grid !important;
   grid-template-columns: minmax(0, 1fr) auto;
   gap: 10px !important;
-  padding: 10px 12px !important;
+  min-width: 0;
+  padding: 0 !important;
+  border: 0 !important;
+}
+
+body.culua-shell-stats .stats-query-row {
+  display: grid;
+  grid-template-columns: minmax(280px, 1fr) auto;
+  gap: 12px;
+  align-items: center;
+  padding: 10px 12px;
 }
 
 body.culua-shell-stats #search-input,
@@ -2491,6 +2707,10 @@ body.culua-shell-stats .stats-bar {
   align-items: center !important;
   margin-bottom: 14px !important;
   padding: 10px 12px !important;
+}
+
+body.culua-shell-stats .stats-text[hidden] {
+  display: none !important;
 }
 
 body.culua-shell-stats .overview-grid {

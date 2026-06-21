@@ -349,6 +349,7 @@ function createRetitleTools(item, index) {
 
   const retryBtn = document.createElement('button');
   retryBtn.type = 'button';
+  retryBtn.className = 'retitle-action retry';
   retryBtn.textContent = '按修改值重查';
   retryBtn.style.padding = '6px 12px';
   retryBtn.style.border = '0';
@@ -360,6 +361,7 @@ function createRetitleTools(item, index) {
 
   const applyArtistBtn = document.createElement('button');
   applyArtistBtn.type = 'button';
+  applyArtistBtn.className = 'retitle-action apply';
   applyArtistBtn.textContent = '仅应用歌手';
   applyArtistBtn.style.padding = '6px 12px';
   applyArtistBtn.style.border = '0';
@@ -425,6 +427,7 @@ function createRetitleTools(item, index) {
   refreshSearchLink();
   link.target = '_blank';
   link.rel = 'noopener noreferrer';
+  link.className = 'retitle-action external';
   link.textContent = '网易云搜索';
   link.style.display = 'inline-flex';
   link.style.alignItems = 'center';
@@ -631,7 +634,9 @@ function renderTitleFilterBar() {
   });
   const summary = document.getElementById('titleFilterSummary');
   if (summary) {
-    summary.textContent = `当前 ${visibleCount} / ${total} 条 · 已确认 ${okCount} · 需确认 ${reviewCount} · 缺歌手 ${noArtistCount} · 待入库 ${pendingCount} · 未找到 ${missingCount}`;
+    const activeButton = bar.querySelector(`[data-title-filter="${titleFilterMode}"]`);
+    const activeLabel = activeButton ? activeButton.textContent.replace(/\s+\d+$/, '') : '';
+    summary.textContent = titleFilterMode === 'all' ? '' : `当前筛选：${activeLabel} · ${visibleCount} 条`;
   }
 }
 

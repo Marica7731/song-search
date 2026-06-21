@@ -5,6 +5,7 @@
     { key: 'bv', href: '/bv', title: 'BV 查重', meta: '工具' },
     { key: 'dup', href: '/dup', title: '歌名查重', meta: '工具' },
     { key: 'check', href: '/check', title: '命名校验', meta: '工具' },
+    { key: 'vocaloid', href: '/vocaloid', title: '术力口', meta: '数据' },
     { key: 'growth', href: '/growth', title: '增长日报', meta: '趋势' }
   ];
 
@@ -17,6 +18,8 @@
     ['/title-artist-dup-check.html', 'dup'],
     ['/check', 'check'],
     ['/title-artist-check.html', 'check'],
+    ['/vocaloid', 'vocaloid'],
+    ['/vocaloid.html', 'vocaloid'],
     ['/growth', 'growth'],
     ['/song-growth.html', 'growth']
   ]);

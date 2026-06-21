@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>命名工具</title>
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-<link rel="stylesheet" href="/site-theme.css?v=20260612h5nav1">
-<script src="/site-shell.js?v=20260612h5nav1" defer></script>
+  <link rel="stylesheet" href="/site-theme.css?v=20260621vocaloid1">
+  <script src="/site-shell.js?v=20260621vocaloid1" defer></script>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#f6f7f9;padding:20px}
@@ -73,6 +73,7 @@ button{padding:0 18px;height:44px;color:#111827;border:1px solid #b8c0cc;border-
       <a class="culua-shell-nav-item" href="/bv">BV 查重 <span>工具</span></a>
       <a class="culua-shell-nav-item" href="/dup">歌名查重 <span>工具</span></a>
       <a class="culua-shell-nav-item active" href="/check" aria-current="page">命名校验 <span>工具</span></a>
+      <a class="culua-shell-nav-item" href="/vocaloid">术力口 <span>数据</span></a>
       <a class="culua-shell-nav-item" href="/growth">增长日报 <span>趋势</span></a>
     </nav>
   </aside>
@@ -84,37 +85,49 @@ button{padding:0 18px;height:44px;color:#111827;border:1px solid #b8c0cc;border-
     <p>查询歌手、校验输入并修正歌名或歌手后快速检索。</p>
   </div>
 
-  <div class="title-search-area">
-    <div class="input-help">
-      <strong>支持三种输入格式</strong><br>
-      1. 纯歌名：每行一个，可写成 <code>01. 歌名</code><br>
-      2. 完整格式：<code>01. 歌名 - 歌手</code><br>
-      3. 简写格式：<code>歌名 - 歌手</code>
+  <section class="check-module check-input-module">
+    <div class="check-module-head">
+      <h3>输入与导出</h3>
+      <span>校验、复制和网易云搜索集中在这里</span>
     </div>
-    <textarea id="titleInput" placeholder="每行输入一条歌名、歌名 - 歌手，或带序号格式"></textarea>
-    <div class="title-controls">
-      <button id="searchTitleBtn">开始校验</button>
-    </div>
-  </div>
-
-  <div class="result-generate-area" id="resultGenerateArea">
-    <div class="result-output-head">
-      <div class="result-output-copy">
-        <div class="result-output-title">导出与搜索</div>
-        <div class="result-output-sub">复制当前筛选结果，或逐个打开待处理项的网易云搜索。</div>
+    <div class="check-input-grid">
+      <div class="title-search-area">
+        <div class="input-help">
+          <strong>支持三种输入格式</strong><br>
+          1. 纯歌名：每行一个，可写成 <code>01. 歌名</code><br>
+          2. 完整格式：<code>01. 歌名 - 歌手</code><br>
+          3. 简写格式：<code>歌名 - 歌手</code>
+        </div>
+        <textarea id="titleInput" placeholder="每行输入一条歌名、歌名 - 歌手，或带序号格式"></textarea>
+        <div class="title-controls">
+          <button id="searchTitleBtn">开始校验</button>
+        </div>
       </div>
-      <div class="result-copy-actions">
-        <button id="copyVisibleResultBtn">复制当前结果</button>
-        <span class="net-ease-actions">
-          <label class="net-ease-option disabled" id="neteaseTitleOnlyLabel"><input type="checkbox" id="neteaseTitleOnly" disabled>网易云搜索不带歌手</label>
-          <button id="openNeteaseBatchBtn" type="button" disabled>逐个打开网易云搜索</button>
-        </span>
+
+      <div class="result-generate-area" id="resultGenerateArea">
+        <div class="result-output-head">
+          <div class="result-output-copy">
+            <div class="result-output-title">导出与搜索</div>
+            <div class="result-output-sub">复制当前筛选结果，或逐个打开待处理项的网易云搜索。</div>
+          </div>
+          <div class="result-copy-actions">
+            <button id="copyVisibleResultBtn">复制当前结果</button>
+            <span class="net-ease-actions">
+              <label class="net-ease-option disabled" id="neteaseTitleOnlyLabel"><input type="checkbox" id="neteaseTitleOnly" disabled>网易云搜索不带歌手</label>
+              <button id="openNeteaseBatchBtn" type="button" disabled>逐个打开网易云搜索</button>
+            </span>
+          </div>
+        </div>
+        <textarea id="resultText" readonly placeholder="生成结果会显示在这里"></textarea>
       </div>
     </div>
-    <textarea id="resultText" readonly placeholder="生成结果会显示在这里"></textarea>
-  </div>
+  </section>
 
-  <div class="artist-select-area" id="artistSelectArea">
+  <section class="check-module check-review-module artist-select-area" id="artistSelectArea">
+    <div class="check-module-head">
+      <h3>校验结果</h3>
+      <span>可重查库内候选、外部搜索，或只保存歌手修正</span>
+    </div>
     <div class="title-filter-bar" id="titleFilterBar">
       <button class="title-filter-btn active" type="button" data-title-filter="all">全部</button>
       <button class="title-filter-btn" type="button" data-title-filter="ok">已确认</button>
@@ -125,7 +138,7 @@ button{padding:0 18px;height:44px;color:#111827;border:1px solid #b8c0cc;border-
       <span class="title-filter-summary" id="titleFilterSummary"></span>
     </div>
     <div id="artistSelectContainer"></div>
-  </div>
+  </section>
 
 </div>
 <aside class="check-directory-slot" id="checkDirectorySlot" aria-label="命名工具目录"></aside>
@@ -286,12 +299,19 @@ function initTitleArtistPage() {
       if (selectRows.length > 0) {
         items.push({ label: '歌名 - 歌手定位', selector: '#artistSelectArea' });
         selectRows.forEach((row, index) => {
-          const rowLabel = row.dataset.dirLabel
+          const rowTitle = row.dataset.dirTitle
             || row.querySelector('h4')?.childNodes?.[0]?.textContent
             || row.querySelector('h4')?.textContent
             || `条目 ${index + 1}`;
+          const rowArtist = row.dataset.dirArtist || '';
+          const rowLabel = row.dataset.dirLabel
+            || (rowArtist ? `${rowTitle} - ${rowArtist}` : rowTitle)
+            || `条目 ${index + 1}`;
           items.push({
             label: `${index + 1}. ${clipText(rowLabel, 34)}`,
+            primary: clipText(rowTitle, 34),
+            secondary: clipText(rowArtist || '未选歌手', 28),
+            badge: `${index + 1}.`,
             target: row
           });
         });

@@ -92,6 +92,7 @@ const ROUTE_ALIASES = {
   '/bv': 'bv-dup-check.html',
   '/dup': 'title-artist-dup-check.html',
   '/check': 'title-artist-check.html',
+  '/vocaloid': 'vocaloid.html',
   '/growth': 'song-growth.html',
   '/m': 'index.html',
   '/h5': 'index.html',

@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>歌曲数据</title>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-    <link rel="stylesheet" href="/site-theme.css?v=20260612h5nav1">
-    <script src="/site-shell.js?v=20260612h5nav1" defer></script>
+    <link rel="stylesheet" href="/site-theme.css?v=20260621vocaloid1">
+    <script src="/site-shell.js?v=20260621vocaloid1" defer></script>
     <style>
         /* --- 全局样式复用 --- */
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -799,6 +799,7 @@
                 <a class="culua-shell-nav-item" href="/bv">BV 查重 <span>工具</span></a>
                 <a class="culua-shell-nav-item" href="/dup">歌名查重 <span>工具</span></a>
                 <a class="culua-shell-nav-item" href="/check">命名校验 <span>工具</span></a>
+                <a class="culua-shell-nav-item" href="/vocaloid">术力口 <span>数据</span></a>
                 <a class="culua-shell-nav-item" href="/growth">增长日报 <span>趋势</span></a>
             </nav>
             <div class="stats-view-nav" aria-label="数据导航">
@@ -813,12 +814,23 @@
                     歌手聚合 <span>歌手</span>
                 </button>
             </div>
+            <div class="stats-source-nav" id="statsSourceNav" aria-label="来源筛选">
+                <div class="stats-source-nav-head">
+                    <div>
+                        <div class="stats-source-nav-title">来源</div>
+                        <div class="stats-source-nav-current" id="statsSourceCurrent">全部数据</div>
+                    </div>
+                    <button type="button" id="statsSourceClear" class="stats-source-clear" hidden>清除</button>
+                </div>
+                <input id="statsSourceFilter" class="stats-source-filter" type="search" placeholder="筛选来源" autocomplete="off">
+                <div id="statsSourceList" class="stats-source-list"></div>
+            </div>
         </aside>
         <main class="culua-page-content">
     <h1>歌曲数据</h1>
     <div id="updateSongsLastRunPlaceholder" class="last-run-badge">最近更新：加载中…</div>
 
-    <!-- Tab 切换器 -->
+    <!-- Tab 切换器保留给旧逻辑同步，实际入口在左侧导航。 -->
     <div class="tabs-container">
         <button class="tab-btn active" data-tab="vtuber-source">VTuber数据</button>
         <button class="tab-btn" data-tab="rank">歌曲数据</button>
@@ -827,36 +839,32 @@
 
     <!-- 筛选与搜索 (共用) -->
     <div class="filter-search-container">
-        <div class="filter-bar" id="filter-bar">
-            <span class="filter-label">来源</span>
+        <div class="stats-query-row">
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="输入歌名、歌手、合集搜索...">
+                <button id="search-btn">搜索</button>
+            </div>
+            <div class="summary-toolbar">
+                <label id="stats-sort-wrapper">来源排序
+                    <select id="stats-sort-select" class="summary-sort-select" title="仅影响来源统计卡片排序">
+                        <option value="songs-desc" selected>曲数最多</option>
+                        <option value="bvid-desc">场次最多</option>
+                        <option value="avg-desc">场均最高</option>
+                        <option value="solo-desc">独特最多</option>
+                        <option value="unique-desc">去重最多</option>
+                        <option value="songs-asc">曲数最少</option>
+                        <option value="bvid-asc">场次最少</option>
+                        <option value="avg-asc">场均最低</option>
+                        <option value="solo-asc">独特最少</option>
+                        <option value="unique-asc">去重最少</option>
+                    </select>
+                </label>
+                <label title="只控制“复制摘要”里附带多少条示例投稿链接，不影响统计结果。">摘要链接数
+                    <input type="number" id="summary-link-limit" class="summary-link-input" min="1" max="20" value="6">
+                </label>
+            </div>
         </div>
-        <div class="search-container">
-            <input type="text" id="search-input" placeholder="输入歌名、歌手、合集搜索...">
-            <button id="search-btn">搜索</button>
-        </div>
-    </div>
-
-    <div class="stats-bar">
-        <div class="stats-text" id="summary-text">加载中...</div>
-        <div class="summary-toolbar">
-            <label id="stats-sort-wrapper">来源排序
-                <select id="stats-sort-select" class="summary-sort-select" title="仅影响来源统计卡片排序">
-                    <option value="songs-desc" selected>曲数最多</option>
-                    <option value="bvid-desc">场次最多</option>
-                    <option value="avg-desc">场均最高</option>
-                    <option value="solo-desc">独特最多</option>
-                    <option value="unique-desc">去重最多</option>
-                    <option value="songs-asc">曲数最少</option>
-                    <option value="bvid-asc">场次最少</option>
-                    <option value="avg-asc">场均最低</option>
-                    <option value="solo-asc">独特最少</option>
-                    <option value="unique-asc">去重最少</option>
-                </select>
-            </label>
-            <label title="只控制“复制摘要”里附带多少条示例投稿链接，不影响统计结果。">复制摘要链接数
-                <input type="number" id="summary-link-limit" class="summary-link-input" min="1" max="20" value="6">
-            </label>
-        </div>
+        <div class="stats-text" id="summary-text" aria-live="polite">加载中...</div>
     </div>
     <div class="overview-grid" id="overview-grid"></div>
 
@@ -1171,12 +1179,22 @@
 
         function normalizeSummaryText(text) {
             if (!text) return '';
-            return text
+            const normalized = text
                 .replace(/^共统计\s*/, '')
                 .replace(/^共\s*/, '')
                 .replace(/首不同的歌曲\+歌手组合/, '首不同歌曲')
                 .replace(/首歌曲$/, '首不同歌曲')
                 .trim();
+            if (/^\d+\s*位\s*VTuber$/.test(normalized)) return '';
+            return normalized;
+        }
+
+        function setSummaryText(text) {
+            const el = document.getElementById('summary-text');
+            if (!el) return;
+            const normalized = normalizeSummaryText(text);
+            el.textContent = normalized;
+            el.hidden = !normalized;
         }
 
         function formatCountText(value) {
@@ -2108,34 +2126,75 @@
 
         // ========== 3. 渲染逻辑 ==========
 
-        function generateFilterButtons() {
-            const filterBar = document.getElementById('filter-bar');
-            filterBar.innerHTML = '<span class="filter-label">来源</span>';
-
-            const sourcePicker = document.createElement('div');
-            sourcePicker.className = 'source-picker';
-            const sourceSelect = document.createElement('select');
-            sourceSelect.className = 'source-select';
-            getSourceOptions().forEach(option => {
-                const optionEl = document.createElement('option');
-                optionEl.value = option.value;
-                optionEl.textContent = option.label;
-                sourceSelect.appendChild(optionEl);
+        function getStatsSourceEntries() {
+            return fileNames.map(fileName => {
+                const fileBase = fileName.replace('.js', '');
+                const profile = sourceProfileByFile(fileName);
+                const stat = SOURCE_STATS[fileName] || {};
+                const totalSongs = Number(stat.totalSongs || 0);
+                const totalUnique = Number(stat.totalUnique || 0);
+                return {
+                    fileName,
+                    alias: FILE_TO_ALIAS[fileBase] || profile.alias || fileBase,
+                    profile,
+                    totalSongs,
+                    totalUnique
+                };
+            }).sort((a, b) => {
+                const songDiff = b.totalSongs - a.totalSongs;
+                if (songDiff !== 0) return songDiff;
+                return a.alias.localeCompare(b.alias, 'zh-Hans-CN');
             });
-            sourceSelect.value = activeFilter;
-            sourceSelect.onchange = () => {
-                activeFilter = sourceSelect.value;
-                currentRankPage = 1;
-                saveStatsViewPrefs();
-                updateAllViews();
-            };
-            sourcePicker.appendChild(sourceSelect);
+        }
 
-            const sourceMeta = document.createElement('span');
-            sourceMeta.className = 'source-meta';
-            sourceMeta.textContent = getCurrentSourceMetaText();
-            sourcePicker.appendChild(sourceMeta);
-            filterBar.appendChild(sourcePicker);
+        function renderStatsSourceNav() {
+            const list = document.getElementById('statsSourceList');
+            const input = document.getElementById('statsSourceFilter');
+            const current = document.getElementById('statsSourceCurrent');
+            const clearBtn = document.getElementById('statsSourceClear');
+            if (!list) return;
+
+            const filterText = normalizeString(input?.value || '');
+            const entries = getStatsSourceEntries().filter(entry => {
+                if (!filterText) return true;
+                return normalizeString(entry.alias).includes(filterText) || normalizeString(entry.fileName).includes(filterText);
+            });
+
+            if (activeFilter === 'all') {
+                if (current) current.textContent = `全部数据 · 投稿 ${formatCountText(bootstrapTotalSongs)} · 去重 ${formatCountText(bootstrapTotalUnique)}`;
+            } else {
+                const entry = getStatsSourceEntries().find(item => item.fileName === activeFilter);
+                if (current) current.textContent = entry
+                    ? `${entry.alias} · 投稿 ${formatCountText(entry.totalSongs)} · 去重 ${formatCountText(entry.totalUnique)}`
+                    : '来源筛选';
+            }
+            if (clearBtn) clearBtn.hidden = activeFilter === 'all';
+
+            list.innerHTML = entries.map(entry => `
+                <button type="button" class="stats-source-item ${entry.fileName === activeFilter ? 'active' : ''}" data-source="${escapeAttr(entry.fileName)}">
+                    ${renderSourceAvatar(entry.profile, 'stats-source-avatar')}
+                    <span class="stats-source-item-text">
+                        <span class="stats-source-name">${escapeHtml(entry.alias)}</span>
+                        <span class="stats-source-meta">去重 ${formatCountText(entry.totalUnique)}</span>
+                    </span>
+                    <span class="stats-source-count">${formatCountText(entry.totalSongs)}</span>
+                </button>
+            `).join('') || '<div class="stats-source-empty">没有匹配来源</div>';
+
+            list.querySelectorAll('.stats-source-item').forEach(button => {
+                button.addEventListener('click', () => {
+                    const source = button.dataset.source || 'all';
+                    if (source === activeFilter) return;
+                    activeFilter = source;
+                    currentRankPage = 1;
+                    saveStatsViewPrefs();
+                    updateAllViews();
+                });
+            });
+        }
+
+        function generateFilterButtons() {
+            renderStatsSourceNav();
         }
 
         // --- 辅助：生成唯一ID ---
@@ -2153,7 +2212,7 @@
             );
             
             if (!isApiMode) {
-                document.getElementById('summary-text').textContent = `${aggData.length} 首不同歌曲`;
+                setSummaryText(`${aggData.length} 首不同歌曲`);
             }
 
             const pageSize = getStatsPageSize('rank');
@@ -2526,7 +2585,7 @@
                 isApiMode && currentStatsPayload ? currentStatsPayload.total : aggData.length
             );
             if (!isApiMode) {
-                document.getElementById('summary-text').textContent = `${aggData.length} 位 VTuber`;
+                setSummaryText(`${aggData.length} 位 VTuber`);
             }
             renderGroupList(aggData, 'vtuber-source-list', 'vtuber');
             renderPagination(isApiMode && currentStatsPayload ? currentStatsPayload.total : aggData.length);
@@ -2540,7 +2599,7 @@
                 isApiMode && currentStatsPayload ? currentStatsPayload.total : aggData.length
             );
             if (!isApiMode) {
-                document.getElementById('summary-text').textContent = `${aggData.length} 位歌手`;
+                setSummaryText(`${aggData.length} 位歌手`);
             }
             renderGroupList(aggData, 'artist-list', 'artist');
             renderPagination(isApiMode && currentStatsPayload ? currentStatsPayload.total : aggData.length);
@@ -2697,7 +2756,7 @@
                     currentStatsPayload = await fetchStatsView(requestTab, requestFilter, requestKeyword, requestPage);
                     if (requestSeq !== statsViewRequestSeq) return;
                     currentRankPage = requestTab === 'vtuber-source' ? 1 : (currentStatsPayload.page || currentRankPage);
-                    document.getElementById('summary-text').textContent = normalizeSummaryText(currentStatsPayload.summaryText || '');
+                    setSummaryText(currentStatsPayload.summaryText || '');
                     if (!currentStatsPayload.hasData || !Array.isArray(currentStatsPayload.items) || currentStatsPayload.items.length === 0) {
                         renderOverviewCards(currentStatsPayload.overview || {}, currentStatsPayload.total || 0);
                         document.getElementById('empty-msg').style.display = 'block';
@@ -2726,7 +2785,7 @@
                             await ensureLocalDataLoaded();
                         } catch (fallbackError) {
                             console.error('本地统计数据回退失败：', fallbackError);
-                            document.getElementById('summary-text').textContent = '统计接口暂时不可用，请稍后重试';
+                            setSummaryText('统计接口暂时不可用，请稍后重试');
                             document.getElementById('empty-msg').style.display = 'none';
                             return;
                         }
@@ -2743,7 +2802,7 @@
                 document.getElementById('rank-list').innerHTML = '';
                 document.getElementById('vtuber-source-list').innerHTML = '';
                 document.getElementById('artist-list').innerHTML = '';
-                document.getElementById('summary-text').textContent = '当前筛选下没有数据';
+                setSummaryText('当前筛选下没有数据');
             } else {
                 document.getElementById('empty-msg').style.display = 'none';
                 if (activeTab === 'rank') {
@@ -2904,6 +2963,15 @@
                     statsSort = event.target.value || 'songs-desc';
                     currentRankPage = 1;
                     syncStatsNavigation();
+                    updateAllViews();
+                });
+                document.getElementById('statsSourceFilter')?.addEventListener('input', () => {
+                    renderStatsSourceNav();
+                });
+                document.getElementById('statsSourceClear')?.addEventListener('click', () => {
+                    activeFilter = 'all';
+                    currentRankPage = 1;
+                    saveStatsViewPrefs();
                     updateAllViews();
                 });
 

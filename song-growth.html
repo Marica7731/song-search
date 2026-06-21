@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>歌曲增长日报</title>
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-  <link rel="stylesheet" href="/site-theme.css?v=20260612h5nav1">
-  <script src="/site-shell.js?v=20260612h5nav1" defer></script>
+    <link rel="stylesheet" href="/site-theme.css?v=20260621vocaloid1">
+    <script src="/site-shell.js?v=20260621vocaloid1" defer></script>
   <style>
     * { box-sizing: border-box }
     body {
@@ -151,9 +151,26 @@
       background: #fff;
       padding: 10px;
     }
+    .growth-chart-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1.12fr) minmax(420px, .88fr);
+      gap: 12px;
+      align-items: stretch;
+      margin-bottom: 16px;
+    }
+    .growth-chart-grid .chart-wrap,
+    .growth-chart-grid .unique-growth-panel {
+      min-width: 0;
+      margin: 0;
+    }
+    @media (max-width: 1180px) {
+      .growth-chart-grid {
+        grid-template-columns: 1fr;
+      }
+    }
     #growthChart {
       width: 100%;
-      height: 360px;
+      height: 300px;
       display: block;
     }
     .chart-foot {
@@ -477,7 +494,7 @@
     }
     #uniqueGrowthChart {
       width: 100%;
-      height: 280px;
+      height: 238px;
       display: block;
     }
     .unique-chart-foot {
@@ -782,12 +799,12 @@
           <a class="culua-shell-nav-item" href="/bv">BV 查重 <span>工具</span></a>
           <a class="culua-shell-nav-item" href="/dup">歌名查重 <span>工具</span></a>
           <a class="culua-shell-nav-item" href="/check">命名校验 <span>工具</span></a>
+          <a class="culua-shell-nav-item" href="/vocaloid">术力口 <span>数据</span></a>
           <a class="culua-shell-nav-item active" href="/growth" aria-current="page">增长日报 <span>趋势</span></a>
         </nav>
     </aside>
-    <main class="culua-page-content">
+  <main class="culua-page-content">
   <div class="main panel">
-    <h1>歌曲增长日报</h1>
     <div class="sub" id="updatedAtText">更新时间：加载中…</div>
     <div class="hint-box">
       仅按 <code>发布日期</code> 统计并合并展示三条维度：<b>播放量</b>、<b>曲目</b> 与 <b>去重歌曲</b>。支持切换查看
@@ -850,43 +867,45 @@
       <button class="range-btn" id="copyGrowthTableBtn" type="button">复制当前表格</button>
     </div>
 
-    <div class="chart-wrap">
-      <canvas id="growthChart"></canvas>
-      <div class="chart-tooltip" id="chartTooltip"></div>
-      <div class="chart-foot">
-        <span id="chartRangeText"></span>
-        <span class="legend" id="chartLegend">
-          <span class="legend-item"><span class="legend-dot" style="background:#d97706"></span>播放量</span>
-          <span class="legend-item"><span class="legend-dot" style="background:#1a8f4c"></span>曲目</span>
-          <span class="legend-item"><span class="legend-dot" style="background:#0f766e"></span>去重歌曲</span>
-          <span class="legend-item"><span class="legend-dot" style="background:#7c3aed"></span>每曲播放</span>
-        </span>
-      </div>
-    </div>
-
-    <section class="analysis-panel unique-growth-panel">
-      <div class="unique-chart-head">
-        <div>
-          <h3>去重歌曲曲线</h3>
-          <p>单独按去重歌曲口径展示，绿色折线是累计去重歌曲，蓝色柱形是当日新增去重歌曲。</p>
-        </div>
-        <div class="unique-chart-stats">
-          <div class="unique-stat"><div class="label">最新累计去重</div><div class="value" id="uniqueLatestTotal">-</div></div>
-          <div class="unique-stat"><div class="label">区间新增去重</div><div class="value" id="uniqueRangeDelta">-</div></div>
-          <div class="unique-stat"><div class="label">区间最高日增</div><div class="value" id="uniquePeakDaily">-</div></div>
-        </div>
-      </div>
-      <div class="unique-chart-box">
-        <canvas id="uniqueGrowthChart"></canvas>
-        <div class="unique-chart-foot">
-          <span id="uniqueChartRangeText">暂无数据</span>
-          <span class="legend">
-            <span class="legend-item" style="color:#0f766e"><span class="legend-line"></span>累计去重歌曲</span>
-            <span class="legend-item" style="color:#38bdf8"><span class="legend-dot" style="background:#38bdf8"></span>当日去重增量</span>
+    <div class="growth-chart-grid">
+      <div class="chart-wrap">
+        <canvas id="growthChart"></canvas>
+        <div class="chart-tooltip" id="chartTooltip"></div>
+        <div class="chart-foot">
+          <span id="chartRangeText"></span>
+          <span class="legend" id="chartLegend">
+            <span class="legend-item"><span class="legend-dot" style="background:#d97706"></span>播放量</span>
+            <span class="legend-item"><span class="legend-dot" style="background:#1a8f4c"></span>曲目</span>
+            <span class="legend-item"><span class="legend-dot" style="background:#0f766e"></span>去重歌曲</span>
+            <span class="legend-item"><span class="legend-dot" style="background:#7c3aed"></span>每曲播放</span>
           </span>
         </div>
       </div>
-    </section>
+
+      <section class="analysis-panel unique-growth-panel">
+        <div class="unique-chart-head">
+          <div>
+            <h3>去重歌曲曲线</h3>
+            <p>单独按去重歌曲口径展示，绿色折线是累计去重歌曲，蓝色柱形是当日新增去重歌曲。</p>
+          </div>
+          <div class="unique-chart-stats">
+            <div class="unique-stat"><div class="label">最新累计去重</div><div class="value" id="uniqueLatestTotal">-</div></div>
+            <div class="unique-stat"><div class="label">区间新增去重</div><div class="value" id="uniqueRangeDelta">-</div></div>
+            <div class="unique-stat"><div class="label">区间最高日增</div><div class="value" id="uniquePeakDaily">-</div></div>
+          </div>
+        </div>
+        <div class="unique-chart-box">
+          <canvas id="uniqueGrowthChart"></canvas>
+          <div class="unique-chart-foot">
+            <span id="uniqueChartRangeText">暂无数据</span>
+            <span class="legend">
+              <span class="legend-item" style="color:#0f766e"><span class="legend-line"></span>累计去重歌曲</span>
+              <span class="legend-item" style="color:#38bdf8"><span class="legend-dot" style="background:#38bdf8"></span>当日去重增量</span>
+            </span>
+          </div>
+        </div>
+      </section>
+    </div>
 
     <div class="analysis-panel growth-analysis-panel">
       <div class="analysis-head">

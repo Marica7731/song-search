@@ -72,7 +72,7 @@ function getSourceProfile(source, fallbackAlias = '') {
     return { alias: '全部来源', avatarText: 'ALL', avatarUrl: '', accentColor: '#0f766e' };
   }
   if (!source) {
-    return { alias: fallbackAlias || '首次', avatarText: '首', avatarUrl: '', accentColor: '#16a34a' };
+    return { alias: fallbackAlias || '未收录', avatarText: '未', avatarUrl: '', accentColor: '#dc2626' };
   }
   const key = getSourceKey(source);
   const alias = fallbackAlias || getSourceAlias(source);
@@ -125,7 +125,7 @@ function coverHtml(song, className = 'dup-cover') {
   const cover = getSongCover(song);
   const link = String(song?.link || '').trim();
   if (!cover) {
-    return `<div class="${className} no-cover" aria-hidden="true">${sourceAvatarHtml(song?.source || '', 'cover-fallback-avatar', song?.source ? getSourceAlias(song.source) : '首次')}</div>`;
+    return `<div class="${className} no-cover" aria-hidden="true">${sourceAvatarHtml(song?.source || '', 'cover-fallback-avatar', song?.source ? getSourceAlias(song.source) : '未收录')}</div>`;
   }
   const img = `<img src="${escapeAttr(cover)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`;
   return link
@@ -369,14 +369,14 @@ function getResultStatusText(item) {
   if (item.isNotFound) return '未找到';
   if (currentMode === 'titleArtist') {
     if (item.isArtistMismatch) return `歌手疑似不一致（${item.dupCount || 0}）`;
-    return item.isFirst ? '首次' : `已收录（${item.dupCount || 0}）`;
+    return item.isFirst ? '未收录' : `已收录（${item.dupCount || 0}）`;
   }
-  return item.isDup ? `重复（${item.dupCount || 0}）` : '唯一';
+  return item.isDup ? `已收录（${item.dupCount || 0}）` : '未收录';
 }
 
 function buildCopyRecord(item) {
   const song = item?.song || {};
-  const sourceText = song.source ? getSourceAlias(song.source) : '输入值（库内首次）';
+  const sourceText = song.source ? getSourceAlias(song.source) : '输入值（未收录）';
   const link = getLinkForCopy(item);
   return {
     original: item?.originalInput || '',
@@ -676,6 +676,15 @@ function updateStat(text) {
   if (stat) stat.textContent = text;
 }
 
+function normalizeDupStatsText(text) {
+  return String(text || '').split(' | ').map((part) => {
+    if (/^非重复\s+/.test(part)) return part.replace(/^非重复/, '未收录');
+    if (/^首次\s+/.test(part)) return part.replace(/^首次/, '未收录');
+    if (/^重复\s+/.test(part)) return part.replace(/^重复/, '已收录');
+    return part;
+  }).join(' | ');
+}
+
 function getBvInputSummary() {
   const input = document.getElementById('bvInput');
   const lines = String(input?.value || '')
@@ -743,14 +752,14 @@ function renderBvSummary() {
       <em>总计 ${stats.total.toLocaleString()}</em>
     </div>
     <div class="bv-summary-card danger">
-      <span>重复</span>
+      <span>已收录</span>
       <strong>${stats.duplicate.toLocaleString()}</strong>
-      <em>需要处理</em>
+      <em>库内已有</em>
     </div>
     <div class="bv-summary-card success">
-      <span>非重复</span>
+      <span>未收录</span>
       <strong>${stats.unique.toLocaleString()}</strong>
-      <em>可保留</em>
+      <em>库内未见</em>
     </div>
     <div class="bv-summary-card warn">
       <span>未找到</span>
@@ -910,7 +919,7 @@ async function analyzeDuplicates() {
       const elapsedText = Number.isFinite(Number(payload.elapsedMs))
         ? ` | 接口 ${payload.elapsedMs}ms`
         : '';
-      updateStat(`${payload.statsText || '分析完成'}${elapsedText}`);
+      updateStat(`${normalizeDupStatsText(payload.statsText || '分析完成')}${elapsedText}`);
       renderBvSummary();
       renderSongList();
       return;
@@ -1016,13 +1025,13 @@ async function analyzeDuplicates() {
   if (currentMode === 'titleArtist') {
     const first = analysisResult.filter(i => !i.isNotFound && i.isFirst).length;
     const exists = total - first;
-    updateStat(`总计 ${total} | 已收录 ${exists} | 首次 ${first} | 当前库 ${currentScopeLabel}`);
+    updateStat(`总计 ${total} | 已收录 ${exists} | 未收录 ${first} | 当前库 ${currentScopeLabel}`);
   } else {
     const notFound = analysisResult.filter(i => i.isNotFound).length;
     const found = total - notFound;
     const dup = analysisResult.filter(i => !i.isNotFound && i.isDup).length;
     const unique = found - dup;
-    updateStat(`总计 ${total} | 找到 ${found} | 未找到 ${notFound} | 重复 ${dup} | 非重复 ${unique} | 当前库 ${currentScopeLabel}`);
+    updateStat(`总计 ${total} | 找到 ${found} | 未找到 ${notFound} | 已收录 ${dup} | 未收录 ${unique} | 当前库 ${currentScopeLabel}`);
   }
 
   renderBvSummary();
@@ -1063,17 +1072,17 @@ function resultStatusHtml(item) {
       return `<span class="dup-status-chip status-mismatch">歌手疑似不一致 ${item.dupCount || 0}</span>`;
     }
     if (item.isFirst) {
-      return '<span class="dup-status-chip status-first">首次</span>';
+      return '<span class="dup-status-chip status-first">未收录</span>';
     }
-    return `<span class="dup-status-chip status-dup">重复 ${item.dupCount || 0}</span>`;
+    return `<span class="dup-status-chip status-dup">已收录 ${item.dupCount || 0}</span>`;
   }
   return item.isDup
-    ? `<span class="dup-status-chip status-dup">重复 ${item.dupCount || 0}</span>`
-    : '<span class="dup-status-chip status-unique">唯一</span>';
+    ? `<span class="dup-status-chip status-dup">已收录 ${item.dupCount || 0}</span>`
+    : '<span class="dup-status-chip status-unique">未收录</span>';
 }
 
 function resultSourceHtml(song) {
-  const sourceText = song?.source ? getSourceAlias(song.source) : '输入值（库内首次）';
+  const sourceText = song?.source ? getSourceAlias(song.source) : '输入值（未收录）';
   const jumpButton = currentMode === 'bv' && song?.source
     ? `<button type="button" class="jump-tab-btn" data-source="${escapeAttr(song.source)}">跳转来源</button>`
     : '';
@@ -1174,7 +1183,7 @@ function renderSongList() {
       .map(renderDupEntry)
       .join('');
     const dupMore = hiddenDupCount > 0
-      ? `<div class="dup-more-note">还有 ${hiddenDupCount.toLocaleString()} 条重复，复制 TSV 可查看完整列表</div>`
+      ? `<div class="dup-more-note">还有 ${hiddenDupCount.toLocaleString()} 条已收录记录，复制 TSV 可查看完整列表</div>`
       : '';
 
     card.innerHTML = `
@@ -1194,7 +1203,7 @@ function renderSongList() {
           ${resultLinkHtml(song)}
         </div>
       </div>
-      <div class="dup-list">${dupPreview ? `${dupPreview}${dupMore}` : '<div class="dup-empty inline">当前库未收录，记为首次</div>'}</div>
+      <div class="dup-list">${dupPreview ? `${dupPreview}${dupMore}` : '<div class="dup-empty inline">当前库未收录</div>'}</div>
     `;
 
     card.querySelectorAll('.copyable').forEach(copyEl => {
@@ -1238,7 +1247,7 @@ function copyResults() {
     { key: 'source', label: '来源', enabled: !!document.getElementById('copySource')?.checked },
     { key: 'link', label: '链接', enabled: !!document.getElementById('copyLink')?.checked },
     { key: 'bvid', label: 'BV号', enabled: !!document.getElementById('copyBvid')?.checked },
-    { key: 'dupCount', label: '重复数', enabled: !!document.getElementById('copyDupCount')?.checked }
+    { key: 'dupCount', label: '已收录数', enabled: !!document.getElementById('copyDupCount')?.checked }
   ].filter(field => field.enabled);
   const isTextFormat = !!document.getElementById('copyText')?.checked;
   const separator = getCopySeparator();

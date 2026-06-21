@@ -78,6 +78,39 @@
         text-overflow: ellipsis;
         white-space: nowrap;
       }
+      .pd-widget-index {
+        flex: 0 0 auto;
+        min-width: 24px;
+        color: #64748b;
+        font-size: 12px;
+        font-weight: 800;
+        text-align: left;
+      }
+      .pd-widget-label-stack {
+        min-width: 0;
+        display: grid;
+        gap: 4px;
+        flex: 1 1 auto;
+      }
+      .pd-widget-primary,
+      .pd-widget-secondary {
+        min-width: 0;
+        display: block;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        border-radius: 999px;
+        padding: 2px 8px;
+      }
+      .pd-widget-primary {
+        background: #eef6ff;
+        color: #1d4ed8;
+        font-weight: 800;
+      }
+      .pd-widget-secondary {
+        background: #f1f5f9;
+        color: #475569;
+      }
       .pd-widget-item:hover {
         background: #f8fafc;
         border-color: #94a3b8;
@@ -252,6 +285,9 @@
       list.push({
         id: targetId,
         label,
+        primary: String(item?.primary || '').trim(),
+        secondary: String(item?.secondary || '').trim(),
+        badge: String(item?.badge || '').trim(),
         avatarUrl: String(item?.avatarUrl || '').trim(),
         avatarText: String(item?.avatarText || '').trim(),
         accentColor: String(item?.accentColor || '').trim(),
@@ -349,8 +385,19 @@
         }
         return '';
       };
+      const renderLabel = item => {
+        if (item.primary || item.secondary) {
+          const primary = item.primary || item.label;
+          const secondary = item.secondary || '';
+          return `<span class="pd-widget-label-stack"><span class="pd-widget-primary">${escapeHtml(primary)}</span>${secondary ? `<span class="pd-widget-secondary">${escapeHtml(secondary)}</span>` : ''}</span>`;
+        }
+        return `<span class="pd-widget-label">${escapeHtml(item.label)}</span>`;
+      };
+      const renderBadge = item => item.badge
+        ? `<span class="pd-widget-index">${escapeHtml(item.badge)}</span>`
+        : '';
       listEl.innerHTML = items.map(item => (
-        `<button type="button" class="pd-widget-item" data-target="${escapeAttr(item.id)}">${renderAvatar(item)}<span class="pd-widget-label">${escapeHtml(item.label)}</span></button>`
+        `<button type="button" class="pd-widget-item" data-target="${escapeAttr(item.id)}">${renderAvatar(item)}${renderBadge(item)}${renderLabel(item)}</button>`
       )).join('');
       listEl.querySelectorAll('.pd-widget-item').forEach(button => {
         button.addEventListener('click', () => {

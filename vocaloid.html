@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>术力口数据</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="stylesheet" href="/site-theme.css?v=20260621vocaloid1">
+  <script src="/site-shell.js?v=20260621vocaloid1" defer></script>
+  <style>
+    * { box-sizing: border-box }
+    body { margin: 0; background: #f3f4f6; color: #111827; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif }
+    .vocaloid-sidebar-block { margin-top: 16px; padding-top: 14px; border-top: 1px solid #e5eaf1 }
+    .vocaloid-side-title { margin-bottom: 8px; color: #64748b; font-size: 12px; font-weight: 800 }
+    .vocaloid-source-filter { width: 100%; min-height: 34px; margin-bottom: 8px; padding: 7px 10px; border: 1px solid #d9e0ea; border-radius: 8px; background: #fff; font-size: 13px }
+    .vocaloid-source-list { display: grid; gap: 6px; max-height: calc(100vh - 270px); overflow-y: auto; padding-right: 2px }
+    .vocaloid-source-item { display: grid; grid-template-columns: 30px minmax(0,1fr) auto; align-items: center; gap: 8px; min-height: 42px; width: 100%; padding: 6px 8px; border: 1px solid transparent; border-radius: 8px; background: transparent; color: #1f2937; text-align: left; cursor: pointer }
+    .vocaloid-source-item:hover, .vocaloid-source-item.active { background: #e6f4f1; border-color: #99d8cf; color: #0f766e }
+    .vocaloid-avatar { display: inline-grid; place-items: center; width: 30px; height: 30px; overflow: hidden; border-radius: 50%; border: 1px solid color-mix(in srgb, var(--source-avatar-color, #0f766e) 28%, #d9e3ef); background: color-mix(in srgb, var(--source-avatar-color, #0f766e) 15%, #fff); color: var(--source-avatar-color, #0f766e); font-size: 10px; font-weight: 850 }
+    .vocaloid-avatar img { width: 100%; height: 100%; object-fit: cover }
+    .vocaloid-source-name, .vocaloid-song-title, .vocaloid-song-artist { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap }
+    .vocaloid-source-name { font-size: 13px; font-weight: 800 }
+    .vocaloid-source-meta, .vocaloid-source-count { color: #64748b; font-size: 11px; font-weight: 700 }
+    .vocaloid-main { display: grid; gap: 14px }
+    .vocaloid-head { display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; flex-wrap: wrap }
+    .vocaloid-head h1 { margin: 0 0 6px; color: #111827; font-size: 26px; letter-spacing: 0 }
+    .vocaloid-head p { margin: 0; color: #64748b; font-size: 13px }
+    .snapshot-badges { display: flex; align-items: center; gap: 8px; flex-wrap: wrap }
+    .snapshot-badge { display: inline-flex; align-items: center; min-height: 30px; padding: 0 10px; border: 1px solid #d9e0ea; border-radius: 999px; background: #fff; color: #475569; font-size: 12px; font-weight: 750 }
+    .snapshot-badge.warn { border-color: #f3d08a; background: #fff7df; color: #92400e }
+    .snapshot-badge.good { border-color: #99d8cf; background: #e6f4f1; color: #0f766e }
+    .vocaloid-grid { display: grid; gap: 12px }
+    .vocaloid-kpis { grid-template-columns: repeat(4, minmax(0, 1fr)) }
+    .vocaloid-card { border: 1px solid #d9e0ea; border-radius: 8px; background: #fff; box-shadow: none }
+    .vocaloid-kpi { padding: 14px }
+    .vocaloid-kpi span { color: #64748b; font-size: 12px; font-weight: 700 }
+    .vocaloid-kpi strong { display: block; margin-top: 4px; color: #0f172a; font-size: 24px; line-height: 1.1 }
+    .vocaloid-kpi em { display: block; margin-top: 6px; color: #64748b; font-size: 12px; font-style: normal }
+    .vocaloid-section { padding: 14px }
+    .vocaloid-section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 12px }
+    .vocaloid-section-head h2 { margin: 0; color: #0f172a; font-size: 17px }
+    .vocaloid-section-head span { color: #64748b; font-size: 12px; text-align: right }
+    .share-list, .reason-list, .dedup-list, .song-list { display: grid; gap: 8px }
+    .share-row { display: grid; grid-template-columns: 140px minmax(0,1fr) 72px; gap: 10px; align-items: center }
+    .share-name { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 13px; font-weight: 800 }
+    .share-bar { height: 10px; overflow: hidden; border-radius: 999px; background: #edf2f7 }
+    .share-fill { display: block; height: 100%; width: var(--share-width); border-radius: inherit; background: linear-gradient(90deg, #0f766e, #38bdf8) }
+    .share-count { color: #475569; font-size: 12px; font-weight: 750; text-align: right }
+    .vocaloid-two-col { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) }
+    .reason-row { display: grid; grid-template-columns: minmax(0,1fr) auto; gap: 10px; align-items: center; padding: 8px 10px; border-radius: 8px; background: #f8fafc }
+    .reason-row strong { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: #1f2937; font-size: 13px }
+    .reason-row span { color: #0f766e; font-size: 12px; font-weight: 800 }
+    .vocaloid-toolbar { display: grid; grid-template-columns: minmax(260px, 1fr) 180px 160px; gap: 10px; margin-bottom: 12px }
+    .vocaloid-toolbar input, .vocaloid-toolbar select { min-height: 38px; border: 1px solid #d0d7de; border-radius: 8px; background: #fff; color: #111827; font-size: 13px; padding: 0 10px }
+    .song-list { grid-template-columns: repeat(auto-fill, minmax(min(100%, 360px), 1fr)) }
+    .song-card { display: grid; grid-template-columns: 116px minmax(0,1fr); gap: 10px; padding: 10px; border: 1px solid #d9e0ea; border-radius: 8px; background: #fff }
+    .song-cover { width: 116px; aspect-ratio: 16/9; border: 1px solid #d9e0ea; border-radius: 8px; object-fit: cover; background: #eef2f7 }
+    .song-body { min-width: 0; display: grid; align-content: start; gap: 6px }
+    .vocaloid-song-title { color: #0f172a; font-size: 15px; font-weight: 850 }
+    .vocaloid-song-artist { color: #0f766e; font-size: 12px; font-weight: 800 }
+    .song-meta { display: flex; align-items: center; gap: 6px; min-width: 0; color: #64748b; font-size: 12px }
+    .song-meta span { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap }
+    .reason-chips { display: flex; flex-wrap: wrap; gap: 5px }
+    .reason-chip { max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; padding: 2px 7px; border-radius: 999px; background: #eef6ff; color: #1d4ed8; font-size: 11px; font-weight: 750 }
+    .song-actions { display: flex; gap: 6px; margin-top: 2px }
+    .song-actions a { display: inline-flex; align-items: center; justify-content: center; min-height: 28px; padding: 0 9px; border: 1px solid #cbd5e1; border-radius: 999px; background: #fff; color: #0f172a; font-size: 12px; font-weight: 800; text-decoration: none }
+    .dedup-row { display: grid; grid-template-columns: 34px minmax(0,1fr) auto; gap: 10px; align-items: center; padding: 9px 10px; border: 1px solid #e2e8f0; border-radius: 8px; background: #fff }
+    .dedup-index { color: #64748b; font-size: 12px; font-weight: 800; text-align: right }
+    .dedup-main { min-width: 0; display: grid; gap: 4px }
+    .dedup-title { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: #0f172a; font-size: 14px; font-weight: 850 }
+    .dedup-sub { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: #64748b; font-size: 12px }
+    .dedup-count { color: #0f766e; font-size: 13px; font-weight: 850 }
+    .empty-line { padding: 16px; color: #64748b; text-align: center }
+    @media (max-width: 1180px) {
+      .vocaloid-kpis, .vocaloid-two-col { grid-template-columns: repeat(2, minmax(0,1fr)) }
+      .vocaloid-toolbar { grid-template-columns: 1fr }
+    }
+    @media (max-width: 720px) {
+      .vocaloid-kpis, .vocaloid-two-col { grid-template-columns: 1fr }
+      .share-row { grid-template-columns: minmax(0,1fr) 80px }
+      .share-bar { grid-column: 1 / -1 }
+      .song-card { grid-template-columns: 96px minmax(0,1fr) }
+      .song-cover { width: 96px }
+    }
+  </style>
+</head>
+<body class="culua-shell-page culua-shell-vocaloid">
+  <div class="culua-page-shell">
+    <aside class="culua-sidebar">
+      <div class="culua-brand"><div class="culua-brand-title">CULUA</div></div>
+      <nav class="culua-shell-nav" aria-label="页面导航">
+        <a class="culua-shell-nav-item" href="/">检索 <span>搜索</span></a>
+        <a class="culua-shell-nav-item" href="/stats">统计 <span>数据</span></a>
+        <a class="culua-shell-nav-item" href="/bv">BV 查重 <span>工具</span></a>
+        <a class="culua-shell-nav-item" href="/dup">歌名查重 <span>工具</span></a>
+        <a class="culua-shell-nav-item" href="/check">命名校验 <span>工具</span></a>
+        <a class="culua-shell-nav-item active" href="/vocaloid" aria-current="page">术力口 <span>数据</span></a>
+        <a class="culua-shell-nav-item" href="/growth">增长日报 <span>趋势</span></a>
+      </nav>
+      <div class="vocaloid-sidebar-block">
+        <div class="vocaloid-side-title">来源</div>
+        <input class="vocaloid-source-filter" id="sourceFilter" type="search" placeholder="筛选来源" autocomplete="off">
+        <div class="vocaloid-source-list" id="sourceList"></div>
+      </div>
+    </aside>
+    <main class="culua-page-content">
+      <div class="vocaloid-main">
+        <header class="vocaloid-head">
+          <div>
+            <h1>术力口数据</h1>
+            <p>静态快照来源于术力口整理结果，来源头像和别名由当前歌库补全。</p>
+          </div>
+          <div class="snapshot-badges">
+            <span class="snapshot-badge" id="snapshotDate">快照：加载中</span>
+            <span class="snapshot-badge" id="currentLibraryDate">当前歌库：读取中</span>
+            <span class="snapshot-badge" id="snapshotStatus">状态：读取中</span>
+          </div>
+        </header>
+
+        <section class="vocaloid-grid vocaloid-kpis" id="kpiGrid"></section>
+
+        <section class="vocaloid-card vocaloid-section">
+          <div class="vocaloid-section-head">
+            <h2>来源占比</h2>
+            <span id="sourceShareNote">按当前来源筛选联动</span>
+          </div>
+          <div class="share-list" id="sourceShareList"></div>
+        </section>
+
+        <div class="vocaloid-grid vocaloid-two-col">
+          <section class="vocaloid-card vocaloid-section">
+            <div class="vocaloid-section-head">
+              <h2>识别依据</h2>
+              <span>正式纳入理由</span>
+            </div>
+            <div class="reason-list" id="reasonList"></div>
+          </section>
+          <section class="vocaloid-card vocaloid-section">
+            <div class="vocaloid-section-head">
+              <h2>命名辅助</h2>
+              <span>feat 只在已有音源理由时计入</span>
+            </div>
+            <div class="reason-list" id="namingList"></div>
+          </section>
+        </div>
+
+        <section class="vocaloid-card vocaloid-section">
+          <div class="vocaloid-section-head">
+            <h2>歌曲检索</h2>
+            <span id="songResultCount">加载中</span>
+          </div>
+          <div class="vocaloid-toolbar">
+            <input id="songSearch" type="search" placeholder="搜索歌名、歌手、来源、BV、识别理由" autocomplete="off">
+            <select id="songSort">
+              <option value="latest">最新投稿</option>
+              <option value="title">歌名</option>
+              <option value="artist">歌手</option>
+              <option value="reason">识别理由数</option>
+            </select>
+            <select id="songLimit">
+              <option value="48">显示 48 条</option>
+              <option value="96">显示 96 条</option>
+              <option value="160">显示 160 条</option>
+            </select>
+          </div>
+          <div class="song-list" id="songList"></div>
+        </section>
+
+        <section class="vocaloid-card vocaloid-section">
+          <div class="vocaloid-section-head">
+            <h2>去重歌名</h2>
+            <span id="dedupNote">按出现次数排序</span>
+          </div>
+          <div class="dedup-list" id="dedupList"></div>
+        </section>
+      </div>
+    </main>
+  </div>
+  <script>
+    const DATA_DIR = '/vocaloid-songs-2026-06-17/';
+    const state = {
+      manifest: null,
+      songs: [],
+      dedup: [],
+      bootstrap: {},
+      source: 'all',
+      sourceQuery: '',
+      songQuery: '',
+      songSort: 'latest',
+      songLimit: 48,
+      currentMeta: null
+    };
+
+    function escapeHtml(value) {
+      return String(value ?? '').replace(/[&<>"']/g, ch => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[ch]));
+    }
+
+    function escapeAttr(value) {
+      return escapeHtml(value).replace(/`/g, '&#96;');
+    }
+
+    function norm(value) {
+      return String(value || '').toLowerCase().normalize('NFKC').replace(/\s+/g, '');
+    }
+
+    function formatNum(value) {
+      return Number(value || 0).toLocaleString('zh-CN');
+    }
+
+    function dateOnly(value) {
+      const text = String(value || '').trim();
+      const matched = text.match(/\d{4}-\d{2}-\d{2}/);
+      return matched ? matched[0] : '';
+    }
+
+    function todayDate() {
+      const now = new Date();
+      const year = now.getFullYear();
+      const month = String(now.getMonth() + 1).padStart(2, '0');
+      const day = String(now.getDate()).padStart(2, '0');
+      return `${year}-${month}-${day}`;
+    }
+
+    function dayDiff(a, b) {
+      if (!a || !b) return null;
+      const start = new Date(`${a}T00:00:00+08:00`).getTime();
+      const end = new Date(`${b}T00:00:00+08:00`).getTime();
+      if (!Number.isFinite(start) || !Number.isFinite(end)) return null;
+      return Math.round((end - start) / 86400000);
+    }
+
+    function getSourceKey(source) {
+      return String(source || '').replace(/\.js$/, '');
+    }
+
+    function getSourceAlias(source, fallback = '') {
+      const key = getSourceKey(source);
+      return state.bootstrap.fileToAlias?.[key] || fallback || key || '未知来源';
+    }
+
+    function getSourceProfile(source, alias = '') {
+      const key = getSourceKey(source);
+      return state.bootstrap.sourceProfiles?.[key] || {
+        alias: alias || getSourceAlias(source),
+        avatarText: (alias || key || '源').slice(0, 2).toUpperCase(),
+        avatarUrl: '',
+        accentColor: '#0f766e'
+      };
+    }
+
+    function avatarHtml(source, alias) {
+      if (source === 'all') {
+        return '<span class="vocaloid-avatar" style="--source-avatar-color:#0f766e">ALL</span>';
+      }
+      const profile = getSourceProfile(source, alias);
+      const color = profile.accentColor || '#0f766e';
+      const text = profile.avatarText || (alias || profile.alias || '源').slice(0, 2).toUpperCase();
+      if (profile.avatarUrl) {
+        return `<span class="vocaloid-avatar" style="--source-avatar-color:${escapeAttr(color)}"><img src="${escapeAttr(profile.avatarUrl)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></span>`;
+      }
+      return `<span class="vocaloid-avatar" style="--source-avatar-color:${escapeAttr(color)}">${escapeHtml(text)}</span>`;
+    }
+
+    function sourceRows() {
+      const groups = new Map();
+      state.songs.forEach(song => {
+        const source = song.source || song.sourceAlias || 'unknown';
+        const alias = song.sourceAlias || getSourceAlias(source);
+        if (!groups.has(source)) groups.set(source, { source, alias, count: 0, titles: new Set() });
+        const row = groups.get(source);
+        row.count += 1;
+        row.titles.add(song.normalizedTitle || song.title || '');
+      });
+      return Array.from(groups.values())
+        .map(row => ({ ...row, unique: row.titles.size }))
+        .sort((a, b) => b.count - a.count || a.alias.localeCompare(b.alias, 'zh-Hans-CN'));
+    }
+
+    function selectedSongs() {
+      let data = state.songs;
+      if (state.source !== 'all') data = data.filter(song => song.source === state.source);
+      const keyword = norm(state.songQuery);
+      if (keyword) {
+        data = data.filter(song => {
+          const reasonText = ((song.vocaloidCheck && song.vocaloidCheck.reasons) || []).join(' ');
+          return [song.title, song.artist, song.sourceAlias, song.source, song.bvid, reasonText].some(value => norm(value).includes(keyword));
+        });
+      }
+      const sorted = data.slice();
+      sorted.sort((a, b) => {
+        if (state.songSort === 'title') return String(a.title || '').localeCompare(String(b.title || ''), 'ja');
+        if (state.songSort === 'artist') return String(a.artist || '').localeCompare(String(b.artist || ''), 'ja');
+        if (state.songSort === 'reason') return (((b.vocaloidCheck || {}).reasons || []).length) - (((a.vocaloidCheck || {}).reasons || []).length);
+        return Number(b.pubdate || 0) - Number(a.pubdate || 0);
+      });
+      return sorted;
+    }
+
+    function reasonStats() {
+      const rows = selectedSongs();
+      const map = new Map();
+      rows.forEach(song => ((song.vocaloidCheck && song.vocaloidCheck.reasons) || []).forEach(reason => {
+        map.set(reason, (map.get(reason) || 0) + 1);
+      }));
+      return Array.from(map.entries()).sort((a, b) => b[1] - a[1]).slice(0, 12);
+    }
+
+    function namingStats() {
+      const rows = selectedSongs();
+      const voiceMap = new Map();
+      let featuredVoice = 0;
+      let producerOnly = 0;
+      let knownTitle = 0;
+      let multiReason = 0;
+      rows.forEach(song => {
+        const reasons = ((song.vocaloidCheck && song.vocaloidCheck.reasons) || []);
+        const voiceReasons = reasons.filter(reason => reason.startsWith('音源/术力口词:'));
+        if (voiceReasons.length) {
+          voiceReasons.forEach(reason => {
+            const name = reason.replace('音源/术力口词:', '');
+            voiceMap.set(name, (voiceMap.get(name) || 0) + 1);
+          });
+          if (/(feat\.?|featuring|with|ft\.?|×|&|\/)/i.test(song.artist || '')) featuredVoice += 1;
+        }
+        if (!voiceReasons.length && reasons.some(reason => reason.startsWith('P主/术力口作者:'))) producerOnly += 1;
+        if (reasons.some(reason => reason.startsWith('已知术力口曲名:'))) knownTitle += 1;
+        if (reasons.length > 1) multiReason += 1;
+      });
+      const base = [
+        ['音源直接命中', Array.from(voiceMap.values()).reduce((sum, value) => sum + value, 0)],
+        ['feat/with + 音源理由', featuredVoice],
+        ['P主/作者命中', producerOnly],
+        ['已知曲名命中', knownTitle],
+        ['多重识别依据', multiReason]
+      ];
+      return base.concat(Array.from(voiceMap.entries()).sort((a, b) => b[1] - a[1]).slice(0, 7).map(([name, count]) => [`音源：${name}`, count]));
+    }
+
+    function renderKpis() {
+      const rows = selectedSongs();
+      const uniqueTitles = new Set(rows.map(song => song.normalizedTitle || song.title || '')).size;
+      const sources = new Set(rows.map(song => song.source || song.sourceAlias || '')).size;
+      const reasons = rows.reduce((sum, song) => sum + (((song.vocaloidCheck || {}).reasons || []).length), 0);
+      document.getElementById('kpiGrid').innerHTML = [
+        ['匹配投稿', rows.length, state.source === 'all' ? `全快照 ${formatNum(state.songs.length)}` : getSourceAlias(state.source)],
+        ['去重歌名', uniqueTitles, `快照去重 ${formatNum(state.manifest?.matchedUniqueTitles || state.dedup.length)}`],
+        ['覆盖来源', sources, `快照来源 ${formatNum(state.manifest?.matchedSources || sourceRows().length)}`],
+        ['识别理由', reasons, '音源 / P主 / 曲名等依据']
+      ].map(([label, value, note]) => `<div class="vocaloid-card vocaloid-kpi"><span>${escapeHtml(label)}</span><strong>${formatNum(value)}</strong><em>${escapeHtml(note)}</em></div>`).join('');
+    }
+
+    function renderSnapshotState() {
+      const snapshotDate = state.manifest?.generatedDate || dateOnly(state.manifest?.generatedAt);
+      const currentDate = dateOnly(state.currentMeta?.completedAtShanghai);
+      const diff = dayDiff(snapshotDate, currentDate);
+      const age = dayDiff(snapshotDate, todayDate());
+      document.getElementById('snapshotDate').textContent = `快照：${snapshotDate || '未知'}`;
+      document.getElementById('currentLibraryDate').textContent = currentDate
+        ? `当前歌库：${currentDate}`
+        : '当前歌库：读取失败';
+      const status = document.getElementById('snapshotStatus');
+      status.classList.remove('good', 'warn');
+      if (Number.isFinite(diff) && diff > 0) {
+        status.textContent = `状态：快照滞后 ${diff} 天`;
+        status.classList.add('warn');
+      } else if (Number.isFinite(diff) && diff === 0) {
+        status.textContent = '状态：与歌库同日';
+        status.classList.add('good');
+      } else if (Number.isFinite(diff) && diff < 0) {
+        status.textContent = Number.isFinite(age)
+          ? `状态：快照距今 ${Math.max(0, age)} 天，当前元信息较旧`
+          : '状态：当前元信息较旧';
+        status.classList.add('warn');
+      } else if (Number.isFinite(age)) {
+        status.textContent = `状态：快照距今 ${Math.max(0, age)} 天`;
+        status.classList.add(age > 0 ? 'warn' : 'good');
+      } else {
+        status.textContent = '状态：无法比较';
+      }
+    }
+
+    function renderSources() {
+      const query = norm(state.sourceQuery);
+      const rows = [{ source: 'all', alias: '全部来源', count: state.songs.length, unique: state.dedup.length }]
+        .concat(sourceRows())
+        .filter(row => !query || norm(row.alias).includes(query) || norm(row.source).includes(query));
+      document.getElementById('sourceList').innerHTML = rows.map(row => `
+        <button type="button" class="vocaloid-source-item ${row.source === state.source ? 'active' : ''}" data-source="${escapeAttr(row.source)}">
+          ${avatarHtml(row.source, row.alias)}
+          <span>
+            <span class="vocaloid-source-name">${escapeHtml(row.alias)}</span>
+            <span class="vocaloid-source-meta">去重 ${formatNum(row.unique)}</span>
+          </span>
+          <span class="vocaloid-source-count">${formatNum(row.count)}</span>
+        </button>
+      `).join('');
+      document.querySelectorAll('.vocaloid-source-item').forEach(button => {
+        button.addEventListener('click', () => {
+          state.source = button.dataset.source || 'all';
+          renderAll();
+        });
+      });
+    }
+
+    function renderShare() {
+      const rows = state.source === 'all'
+        ? sourceRows().slice(0, 16)
+        : sourceRows().filter(row => row.source === state.source);
+      const total = state.source === 'all' ? state.songs.length : Math.max(1, selectedSongs().length);
+      document.getElementById('sourceShareList').innerHTML = rows.map(row => {
+        const pct = total ? row.count / total * 100 : 0;
+        return `<div class="share-row">
+          <div class="share-name">${escapeHtml(row.alias)}</div>
+          <div class="share-bar"><span class="share-fill" style="--share-width:${Math.max(2, pct).toFixed(2)}%"></span></div>
+          <div class="share-count">${formatNum(row.count)} · ${pct.toFixed(1)}%</div>
+        </div>`;
+      }).join('') || '<div class="empty-line">暂无来源数据</div>';
+    }
+
+    function renderReasonList(id, rows) {
+      document.getElementById(id).innerHTML = rows.map(([name, count]) => `
+        <div class="reason-row"><strong>${escapeHtml(name)}</strong><span>${formatNum(count)}</span></div>
+      `).join('') || '<div class="empty-line">暂无统计</div>';
+    }
+
+    function renderSongs() {
+      const rows = selectedSongs();
+      const visible = rows.slice(0, state.songLimit);
+      document.getElementById('songResultCount').textContent = `${formatNum(rows.length)} 条，显示 ${formatNum(visible.length)} 条`;
+      document.getElementById('songList').innerHTML = visible.map(song => {
+        const reasons = ((song.vocaloidCheck || {}).reasons || []).slice(0, 3);
+        const cover = song.cover || '';
+        const link = song.link || (song.bvid ? `https://www.bilibili.com/video/${song.bvid}` : '');
+        const coverHtml = cover
+          ? `<img class="song-cover" src="${escapeAttr(cover)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`
+          : `<div class="song-cover" aria-hidden="true"></div>`;
+        return `<article class="song-card">
+          ${coverHtml}
+          <div class="song-body">
+            <div class="vocaloid-song-title" title="${escapeAttr(song.title || '')}">${escapeHtml(song.title || '未命名')}</div>
+            <div class="vocaloid-song-artist" title="${escapeAttr(song.artist || '')}">${escapeHtml(song.artist || '未知歌手')}</div>
+            <div class="song-meta">${avatarHtml(song.source || '', song.sourceAlias || '')}<span>${escapeHtml(song.sourceAlias || getSourceAlias(song.source))}</span><span>${escapeHtml(song.pubdateFormatted || '')}</span></div>
+            <div class="reason-chips">${reasons.map(reason => `<span class="reason-chip" title="${escapeAttr(reason)}">${escapeHtml(reason)}</span>`).join('')}</div>
+            <div class="song-actions">${link ? `<a href="${escapeAttr(link)}" target="_blank" rel="noopener noreferrer">打开</a>` : ''}<a href="/?q=${encodeURIComponent(song.title || '')}">检索</a></div>
+          </div>
+        </article>`;
+      }).join('') || '<div class="empty-line">没有匹配歌曲</div>';
+    }
+
+    function renderDedup() {
+      let rows = state.dedup.slice();
+      if (state.source !== 'all') {
+        const sourceTitleSet = new Set(selectedSongs().map(song => song.normalizedTitle || song.title || ''));
+        rows = rows.filter(row => sourceTitleSet.has(row.normalized_title || row.title || ''));
+      }
+      const keyword = norm(state.songQuery);
+      if (keyword) {
+        rows = rows.filter(row => [row.title, (row.artist_variants || []).join(' '), (row.reasons || []).join(' ')].some(value => norm(value).includes(keyword)));
+      }
+      rows.sort((a, b) => Number(b.occurrence_count || 0) - Number(a.occurrence_count || 0));
+      const visible = rows.slice(0, 30);
+      document.getElementById('dedupNote').textContent = `${formatNum(rows.length)} 个去重歌名，显示 ${formatNum(visible.length)} 个`;
+      document.getElementById('dedupList').innerHTML = visible.map((row, index) => `
+        <div class="dedup-row">
+          <div class="dedup-index">${index + 1}.</div>
+          <div class="dedup-main">
+            <div class="dedup-title" title="${escapeAttr(row.title || '')}">${escapeHtml(row.title || '未命名')}</div>
+            <div class="dedup-sub">${escapeHtml(getArtistVariants(row).slice(0, 4).join(' / ') || '未知歌手')}</div>
+          </div>
+          <div class="dedup-count">${formatNum(row.occurrence_count)} 次</div>
+        </div>
+      `).join('') || '<div class="empty-line">暂无去重结果</div>';
+    }
+
+    function getArtistVariants(row) {
+      const value = row?.artist_variants;
+      if (Array.isArray(value)) return value.map(item => String(item || '').trim()).filter(Boolean);
+      if (typeof value === 'string') return value.split(/\s*(?:\/|,|，)\s*/).map(item => item.trim()).filter(Boolean);
+      return [];
+    }
+
+    function renderAll() {
+      renderKpis();
+      renderSnapshotState();
+      renderSources();
+      renderShare();
+      renderReasonList('reasonList', reasonStats());
+      renderReasonList('namingList', namingStats());
+      renderSongs();
+      renderDedup();
+    }
+
+    async function loadCurrentMeta() {
+      try {
+        const res = await fetch('/reports/update-songs-meta.json', { cache: 'no-store' });
+        if (res.ok) return await res.json();
+      } catch {}
+      try {
+        const res = await fetch('/api/site-meta', { cache: 'no-store' });
+        if (res.ok) {
+          const payload = await res.json();
+          return payload?.updateSongsLastRun || null;
+        }
+      } catch {}
+      return null;
+    }
+
+    async function boot() {
+      const [manifest, songs, dedup, bootstrap, currentMeta] = await Promise.all([
+        fetch(`${DATA_DIR}manifest.json`, { cache: 'no-store' }).then(res => res.json()),
+        fetch(`${DATA_DIR}all-vocaloid-songs-2026-06-17.json`, { cache: 'no-store' }).then(res => res.json()),
+        fetch(`${DATA_DIR}dedup-vocaloid-songs-2026-06-17.json`, { cache: 'no-store' }).then(res => res.json()),
+        fetch('/api/bootstrap', { cache: 'no-store' }).then(res => res.ok ? res.json() : {}).catch(() => ({})),
+        loadCurrentMeta()
+      ]);
+      state.manifest = manifest;
+      state.songs = Array.isArray(songs) ? songs : [];
+      state.dedup = Array.isArray(dedup) ? dedup : [];
+      state.bootstrap = bootstrap || {};
+      state.currentMeta = currentMeta;
+      renderAll();
+    }
+
+    document.getElementById('sourceFilter').addEventListener('input', event => {
+      state.sourceQuery = event.target.value || '';
+      renderSources();
+    });
+    document.getElementById('songSearch').addEventListener('input', event => {
+      state.songQuery = event.target.value || '';
+      renderAll();
+    });
+    document.getElementById('songSort').addEventListener('change', event => {
+      state.songSort = event.target.value || 'latest';
+      renderSongs();
+    });
+    document.getElementById('songLimit').addEventListener('change', event => {
+      state.songLimit = Number(event.target.value || 48);
+      renderSongs();
+    });
+
+    boot().catch(error => {
+      console.error(error);
+      document.getElementById('kpiGrid').innerHTML = `<div class="vocaloid-card vocaloid-kpi"><span>加载失败</span><strong>--</strong><em>${escapeHtml(error.message)}</em></div>`;
+    });
+  </script>
+</body>
+</html>
