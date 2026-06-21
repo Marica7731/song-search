@@ -1,6 +1,6 @@
 // 323 - 歌单数据 (多合集汇总)
 // 来源: BV1r75B6LEwd
-// 生成时间: 6/21/2026, 8:08:40 PM
+// 生成时间: 6/21/2026, 8:25:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1915,6 +1915,38 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-13]初見◎BGM◎快来找找看吧！悠闲弹唱 323",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DLjB6eEj4?p=15",
+  "source": "323.js"
+},
+    {
+  "title": "ムーンライト伝説",
+  "artist": "DALI",
+  "collection": "【歌切】[2026-06-21]milkyTrap的摇滚担当！？我是软萌赛博格323！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11s7c6dERE?p=1",
+  "source": "323.js"
+},
+    {
+  "title": "そばかす",
+  "artist": "JUDY AND MARY",
+  "collection": "【歌切】[2026-06-21]milkyTrap的摇滚担当！？我是软萌赛博格323！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11s7c6dERE?p=2",
+  "source": "323.js"
+},
+    {
+  "title": "M",
+  "artist": "PRINCESS PRINCESS",
+  "collection": "【歌切】[2026-06-21]milkyTrap的摇滚担当！？我是软萌赛博格323！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11s7c6dERE?p=3",
+  "source": "323.js"
+},
+    {
+  "title": "milkyTraveler!!",
+  "artist": "milkyTrap",
+  "collection": "【歌切】[2026-06-21]milkyTrap的摇滚担当！？我是软萌赛博格323！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11s7c6dERE?p=4",
   "source": "323.js"
 }
 );

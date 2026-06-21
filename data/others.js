@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/21/2026, 8:12:41 PM
+// 生成时间: 6/21/2026, 8:30:20 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17995,6 +17995,78 @@ window.SONG_DATA.push(
   "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "私はピアノ",
+  "artist": "高田みづえ",
+  "collection": "松永依織歌切 2026-06-21 父亲节歌回👨🏻名曲永不褪色～从昭和到令和编织的歌回～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ys7c6dEQu?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "松永依織歌切 2026-06-21 父亲节歌回👨🏻名曲永不褪色～从昭和到令和编织的歌回～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ys7c6dEQu?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "DESIRE -情熱-",
+  "artist": "中森明菜",
+  "collection": "松永依織歌切 2026-06-21 父亲节歌回👨🏻名曲永不褪色～从昭和到令和编织的歌回～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ys7c6dEQu?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "愛のかたまり",
+  "artist": "KinKi Kids",
+  "collection": "松永依織歌切 2026-06-21 父亲节歌回👨🏻名曲永不褪色～从昭和到令和编织的歌回～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ys7c6dEQu?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "深夜高速",
+  "artist": "フラワーカンパニーズ",
+  "collection": "松永依織歌切 2026-06-21 父亲节歌回👨🏻名曲永不褪色～从昭和到令和编织的歌回～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ys7c6dEQu?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "栞",
+  "artist": "クリープハイプ",
+  "collection": "松永依織歌切 2026-06-21 父亲节歌回👨🏻名曲永不褪色～从昭和到令和编织的歌回～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ys7c6dEQu?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "Never Grow Up",
+  "artist": "ちゃんみな",
+  "collection": "松永依織歌切 2026-06-21 父亲节歌回👨🏻名曲永不褪色～从昭和到令和编织的歌回～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ys7c6dEQu?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ブルーアンバー",
+  "artist": "back number",
+  "collection": "松永依織歌切 2026-06-21 父亲节歌回👨🏻名曲永不褪色～从昭和到令和编织的歌回～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ys7c6dEQu?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "Blue Jeans",
+  "artist": "HANA",
+  "collection": "松永依織歌切 2026-06-21 父亲节歌回👨🏻名曲永不褪色～从昭和到令和编织的歌回～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ys7c6dEQu?p=9",
   "source": "others.js"
 },
     {
