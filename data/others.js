@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/21/2026, 4:31:09 AM
+// 生成时间: 6/21/2026, 4:38:30 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17907,6 +17907,94 @@ window.SONG_DATA.push(
   "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "Survivor",
+  "artist": "BLUE ENCOUNT",
+  "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "9",
+  "artist": "MOB CHOIR feat. sajou no hana",
+  "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ASEED",
+  "artist": "ZAQ",
+  "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "REALiZE",
+  "artist": "LiSA",
+  "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "CHAINSAW BLOOD",
+  "artist": "Vaundy",
+  "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ALONE",
+  "artist": "MY FIRST STORY",
+  "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "SPARK-AGAIN",
+  "artist": "Aimer",
+  "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "Raise Your Flag",
+  "artist": "MAN WITH A MISSION",
+  "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "CALL UP!!",
+  "artist": "IMJTT",
+  "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "英雄",
+  "artist": "doa",
+  "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=11",
   "source": "others.js"
 },
     {
