@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 6/21/2026, 8:05:26 AM
+// 生成时间: 6/21/2026, 8:26:46 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4384,7 +4384,7 @@ window.SONG_DATA.push(
     {
   "title": "泣き虫上等",
   "artist": "澄花",
-  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
+  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的弹唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=1",
   "source": "sumica.js"
@@ -4392,7 +4392,7 @@ window.SONG_DATA.push(
     {
   "title": "紡ぐ",
   "artist": "とた",
-  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
+  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的弹唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=2",
   "source": "sumica.js"
@@ -4400,7 +4400,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
+  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的弹唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=3",
   "source": "sumica.js"
@@ -4408,7 +4408,7 @@ window.SONG_DATA.push(
     {
   "title": "コイワズライ",
   "artist": "Aimer",
-  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
+  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的弹唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=4",
   "source": "sumica.js"
@@ -4416,7 +4416,7 @@ window.SONG_DATA.push(
     {
   "title": "夜もすがら君想ふ",
   "artist": "TOKOTOKO(西沢さんP) feat. GUMI",
-  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
+  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的弹唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=5",
   "source": "sumica.js"
@@ -4424,7 +4424,7 @@ window.SONG_DATA.push(
     {
   "title": "嘘月",
   "artist": "ヨルシカ",
-  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
+  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的弹唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=6",
   "source": "sumica.js"
@@ -4432,7 +4432,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
+  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的弹唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=7",
   "source": "sumica.js"
@@ -4440,7 +4440,7 @@ window.SONG_DATA.push(
     {
   "title": "変わらないもの",
   "artist": "奥華子",
-  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
+  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的弹唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=8",
   "source": "sumica.js"
@@ -4448,7 +4448,7 @@ window.SONG_DATA.push(
     {
   "title": "KissHug",
   "artist": "aiko",
-  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
+  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的弹唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=9",
   "source": "sumica.js"
@@ -4456,7 +4456,7 @@ window.SONG_DATA.push(
     {
   "title": "花火",
   "artist": "aiko",
-  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
+  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的弹唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=10",
   "source": "sumica.js"
@@ -4464,7 +4464,7 @@ window.SONG_DATA.push(
     {
   "title": "more than words",
   "artist": "羊文学",
-  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
+  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的弹唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=11",
   "source": "sumica.js"
@@ -4472,7 +4472,7 @@ window.SONG_DATA.push(
     {
   "title": "メロウ",
   "artist": "須田景凪",
-  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
+  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的弹唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=12",
   "source": "sumica.js"
@@ -4480,7 +4480,7 @@ window.SONG_DATA.push(
     {
   "title": "魂のルフラン",
   "artist": "高橋洋子",
-  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
+  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的弹唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=13",
   "source": "sumica.js"
@@ -4488,7 +4488,7 @@ window.SONG_DATA.push(
     {
   "title": "地球最後の告白を",
   "artist": "kemu feat.GUMI",
-  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
+  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的弹唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=14",
   "source": "sumica.js"
@@ -4496,7 +4496,7 @@ window.SONG_DATA.push(
     {
   "title": "楓",
   "artist": "スピッツ",
-  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
+  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的弹唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=15",
   "source": "sumica.js"
@@ -4504,7 +4504,7 @@ window.SONG_DATA.push(
     {
   "title": "ロビンソン",
   "artist": "スピッツ",
-  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
+  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的弹唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=16",
   "source": "sumica.js"
@@ -4512,7 +4512,7 @@ window.SONG_DATA.push(
     {
   "title": "水流のロック",
   "artist": "日食なつこ",
-  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
+  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的弹唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=17",
   "source": "sumica.js"
@@ -4520,7 +4520,7 @@ window.SONG_DATA.push(
     {
   "title": "カブトムシ",
   "artist": "aiko",
-  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
+  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的弹唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=18",
   "source": "sumica.js"
@@ -4528,7 +4528,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "コレサワ",
-  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
+  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的弹唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=19",
   "source": "sumica.js"
@@ -4536,7 +4536,7 @@ window.SONG_DATA.push(
     {
   "title": "花瓶の花",
   "artist": "石崎ひゅーい",
-  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
+  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的弹唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=20",
   "source": "sumica.js"
@@ -4544,7 +4544,7 @@ window.SONG_DATA.push(
     {
   "title": "アヤノの幸福理論",
   "artist": "じん feat. IA",
-  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
+  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的弹唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=21",
   "source": "sumica.js"
@@ -4552,7 +4552,7 @@ window.SONG_DATA.push(
     {
   "title": "ちょっと待って！",
   "artist": "澄花",
-  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的自弹自唱！！来相遇吧～～！！！！ -sumica-澄花",
+  "collection": "【💐🎸歌切】[2026-06-13]⋱🔥15000人耐久 ❘ 🔥⋰ 悠闲却倾注灵魂的弹唱！！来相遇吧～～！！！！ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ikJp6rEgW?p=22",
   "source": "sumica.js"
