@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>命名工具</title>
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-  <link rel="stylesheet" href="/site-theme.css?v=20260621ui3">
+  <link rel="stylesheet" href="/site-theme.css?v=20260621ui6">
   <script src="/site-shell.js?v=20260621ui3" defer></script>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
@@ -80,15 +80,15 @@ button{padding:0 18px;height:44px;color:#111827;border:1px solid #b8c0cc;border-
   <main class="culua-page-content">
 <div class="check-page-layout">
 <aside class="check-left-column">
-  <div class="header">
-    <h2>命名工具</h2>
-    <p>查询歌手、校验输入并修正歌名或歌手后快速检索。</p>
-  </div>
-
   <section class="check-module check-input-module">
     <div class="check-module-head">
-      <h3>输入与导出</h3>
-      <span>校验、复制和网易云搜索集中在这里</span>
+      <div class="check-module-titleline">
+        <h3>输入与导出</h3>
+        <span id="updateSongsLastRunPlaceholder">最近更新：加载中…</span>
+      </div>
+      <div class="check-module-actions">
+        <button id="searchTitleBtn" type="button">开始校验</button>
+      </div>
     </div>
     <div class="check-input-grid">
       <div class="title-search-area">
@@ -99,22 +99,18 @@ button{padding:0 18px;height:44px;color:#111827;border:1px solid #b8c0cc;border-
           3. 简写格式：<code>歌名 - 歌手</code>
         </div>
         <textarea id="titleInput" placeholder="每行输入一条歌名、歌名 - 歌手，或带序号格式"></textarea>
-        <div class="title-controls">
-          <button id="searchTitleBtn">开始校验</button>
-        </div>
       </div>
 
       <div class="result-generate-area" id="resultGenerateArea">
         <div class="result-output-head">
           <div class="result-output-copy">
             <div class="result-output-title">导出与搜索</div>
-            <div class="result-output-sub">复制当前筛选结果，或逐个打开待处理项的网易云搜索。</div>
           </div>
           <div class="result-copy-actions">
-            <button id="copyVisibleResultBtn">复制当前结果</button>
+            <button id="copyVisibleResultBtn" type="button">复制结果</button>
             <span class="net-ease-actions">
-              <label class="net-ease-option disabled" id="neteaseTitleOnlyLabel"><input type="checkbox" id="neteaseTitleOnly" disabled>网易云搜索不带歌手</label>
-              <button id="openNeteaseBatchBtn" type="button" disabled>逐个打开网易云搜索</button>
+              <label class="net-ease-option disabled" id="neteaseTitleOnlyLabel"><input type="checkbox" id="neteaseTitleOnly" disabled>不带歌手</label>
+              <button id="openNeteaseBatchBtn" type="button" disabled>批量搜索</button>
             </span>
           </div>
         </div>
@@ -255,7 +251,7 @@ async function loadAllData() {
 }
 </script>
 <script src="/artist-match.js"></script>
-<script src="bili-check-title-artist.js?v=20260621ui3"></script>
+<script src="bili-check-title-artist.js?v=20260621ui6"></script>
 <script src="/page-directory-widget.js?v=20260525avatar1"></script>
 <script>
 function initTitleArtistPage() {
@@ -323,7 +319,7 @@ function initTitleArtistPage() {
     };
 
     const dir = window.createPageDirectory({
-      title: '命名工具目录',
+      title: '目录',
       mount: '#checkDirectorySlot',
       items: buildNamingDirItems()
     });

@@ -675,7 +675,7 @@ function updateNeteaseBatchState() {
   }
   if (button) {
     button.disabled = entries.length === 0;
-    button.textContent = entries.length > 0 ? `逐个打开待处理网易云搜索（${entries.length}）` : '逐个打开待处理网易云搜索';
+    button.textContent = entries.length > 0 ? `批量搜索（${entries.length}）` : '批量搜索';
   }
 }
 

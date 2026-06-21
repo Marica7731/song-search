@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>歌曲数据</title>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-    <link rel="stylesheet" href="/site-theme.css?v=20260621ui3">
+    <link rel="stylesheet" href="/site-theme.css?v=20260621ui6">
     <script src="/site-shell.js?v=20260621ui3" defer></script>
     <style>
         /* --- 全局样式复用 --- */
@@ -820,7 +820,10 @@
                         <div class="stats-source-nav-title">来源</div>
                         <div class="stats-source-nav-current" id="statsSourceCurrent">全部数据</div>
                     </div>
-                    <button type="button" id="statsSourceClear" class="stats-source-clear" hidden>清除</button>
+                    <div class="stats-source-actions">
+                        <button type="button" id="statsSourceToggle" class="stats-source-toggle" aria-expanded="false">展开</button>
+                        <button type="button" id="statsSourceClear" class="stats-source-clear" hidden>清除</button>
+                    </div>
                 </div>
                 <input id="statsSourceFilter" class="stats-source-filter" type="search" placeholder="筛选来源" autocomplete="off">
                 <div id="statsSourceList" class="stats-source-list"></div>
@@ -859,7 +862,7 @@
                         <option value="unique-asc">去重最少</option>
                     </select>
                 </label>
-                <label title="只控制“复制摘要”里附带多少条示例投稿链接，不影响统计结果。">摘要链接数
+                <label title="只控制“复制摘要”里附带多少条示例投稿链接，不影响统计结果。">链接数
                     <input type="number" id="summary-link-limit" class="summary-link-input" min="1" max="20" value="6">
                 </label>
             </div>
@@ -2149,6 +2152,19 @@
             });
         }
 
+        function isStatsSourceCompactMode() {
+            return window.matchMedia && window.matchMedia('(max-width: 1279px)').matches;
+        }
+
+        function setStatsSourceExpanded(expanded) {
+            const nav = document.getElementById('statsSourceNav');
+            const toggle = document.getElementById('statsSourceToggle');
+            if (!nav || !toggle) return;
+            nav.classList.toggle('source-expanded', expanded);
+            toggle.setAttribute('aria-expanded', expanded ? 'true' : 'false');
+            toggle.textContent = expanded ? '收起' : '展开';
+        }
+
         function renderStatsSourceNav() {
             const list = document.getElementById('statsSourceList');
             const input = document.getElementById('statsSourceFilter');
@@ -2191,6 +2207,7 @@
                     activeFilter = source;
                     currentRankPage = 1;
                     saveStatsViewPrefs();
+                    if (isStatsSourceCompactMode()) setStatsSourceExpanded(false);
                     updateAllViews();
                 });
             });
@@ -2969,12 +2986,18 @@
                     updateAllViews();
                 });
                 document.getElementById('statsSourceFilter')?.addEventListener('input', () => {
+                    if (isStatsSourceCompactMode()) setStatsSourceExpanded(true);
                     renderStatsSourceNav();
+                });
+                document.getElementById('statsSourceToggle')?.addEventListener('click', () => {
+                    const nav = document.getElementById('statsSourceNav');
+                    setStatsSourceExpanded(!nav?.classList.contains('source-expanded'));
                 });
                 document.getElementById('statsSourceClear')?.addEventListener('click', () => {
                     activeFilter = 'all';
                     currentRankPage = 1;
                     saveStatsViewPrefs();
+                    if (isStatsSourceCompactMode()) setStatsSourceExpanded(false);
                     updateAllViews();
                 });
 
