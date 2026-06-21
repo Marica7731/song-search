@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 6/21/2026, 3:24:32 AM
+// 生成时间: 6/21/2026, 3:33:12 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3683,6 +3683,230 @@ window.SONG_DATA.push(
   "collection": "【明日夢 歌切】[2026-06-17]想唱很多ヨルシカ的歌！！！ 明日夢かなえ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GBLZ64EcY?p=25",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "私は、わたしの事が好き。",
+  "artist": "HoneyWorks & かぐや(cv.夏吉ゆうこ)",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "涼宮ハルヒ(CV.平野綾)、長門有希(CV.茅原実里)、朝比奈みくる(CV.後藤邑子)",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "サインはB -アイ Solo Ver.-",
+  "artist": "B小町 アイ(CV:高橋李依)",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "とくべチュ、して",
+  "artist": "=LOVE",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "アイワナムチュー feat. asmi, すりぃ",
+  "artist": "MAISONdes",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat. 初音ミク",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "雫",
+  "artist": "スキマスイッチ",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師、宇多田ヒカル",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Ham",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ミラーチューン",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花降らし",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "グッバイ宣言",
+  "artist": "Chinozo feat. v flower",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "テレキャスタービーボーイ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "破壊前夜のこと",
+  "artist": "asmi",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "PAKU",
+  "artist": "asmi",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ダダダダ天使",
+  "artist": "ナナヲアカリ",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "にんげんっていいな",
+  "artist": "中島義実、ヤング・フレッシュ",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=21",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Snow halation",
+  "artist": "μ's",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=22",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat. 初音ミク",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=23",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=24",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "オリビアを聴きながら",
+  "artist": "杏里",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=25",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "to U",
+  "artist": "Bank Band with Salyu",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=26",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "銀色飛行船",
+  "artist": "supercell",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=27",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "さよならメモリーズ",
+  "artist": "supercell",
+  "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=28",
   "source": "asuyumekanae.js"
 },
     {
