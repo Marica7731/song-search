@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 6/21/2026, 2:00:34 AM
+// 生成时间: 6/21/2026, 2:10:30 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7139,6 +7139,166 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-19]睡眠导入歌回🌠 朱名 / SHUNA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Yjjk6JExc?p=22",
+  "source": "shuna.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-06-20]悠闲歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dkj46jEsa?p=1",
+  "source": "shuna.js"
+},
+    {
+  "title": "The Bravery",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-06-20]悠闲歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dkj46jEsa?p=2",
+  "source": "shuna.js"
+},
+    {
+  "title": "明日も",
+  "artist": "MUSH&Co.",
+  "collection": "【歌切】[2026-06-20]悠闲歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dkj46jEsa?p=3",
+  "source": "shuna.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-20]悠闲歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dkj46jEsa?p=4",
+  "source": "shuna.js"
+},
+    {
+  "title": "サンキュー。",
+  "artist": "大原櫻子",
+  "collection": "【歌切】[2026-06-20]悠闲歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dkj46jEsa?p=5",
+  "source": "shuna.js"
+},
+    {
+  "title": "頑張ったっていいんじゃない",
+  "artist": "大原櫻子(from MUSH&Co.)",
+  "collection": "【歌切】[2026-06-20]悠闲歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dkj46jEsa?p=6",
+  "source": "shuna.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-06-20]悠闲歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dkj46jEsa?p=7",
+  "source": "shuna.js"
+},
+    {
+  "title": "スターラブレイション",
+  "artist": "ケラケラ",
+  "collection": "【歌切】[2026-06-20]悠闲歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dkj46jEsa?p=8",
+  "source": "shuna.js"
+},
+    {
+  "title": "KIRA★KIRA★TRAIN",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-20]悠闲歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dkj46jEsa?p=9",
+  "source": "shuna.js"
+},
+    {
+  "title": "キミがいる",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-20]悠闲歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dkj46jEsa?p=10",
+  "source": "shuna.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-06-20]悠闲歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dkj46jEsa?p=11",
+  "source": "shuna.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-06-20]悠闲歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dkj46jEsa?p=12",
+  "source": "shuna.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-06-20]悠闲歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dkj46jEsa?p=13",
+  "source": "shuna.js"
+},
+    {
+  "title": "好きな人がいること",
+  "artist": "JY",
+  "collection": "【歌切】[2026-06-20]悠闲歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dkj46jEsa?p=14",
+  "source": "shuna.js"
+},
+    {
+  "title": "ヒーロー",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-06-20]悠闲歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dkj46jEsa?p=15",
+  "source": "shuna.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【歌切】[2026-06-20]悠闲歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dkj46jEsa?p=16",
+  "source": "shuna.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-06-20]悠闲歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dkj46jEsa?p=17",
+  "source": "shuna.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-06-20]悠闲歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dkj46jEsa?p=18",
+  "source": "shuna.js"
+},
+    {
+  "title": "君はロックを聴かない",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-06-20]悠闲歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dkj46jEsa?p=19",
+  "source": "shuna.js"
+},
+    {
+  "title": "アイのシナリオ",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-06-20]悠闲歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dkj46jEsa?p=20",
   "source": "shuna.js"
 }
 );
