@@ -1,6 +1,6 @@
 // 來-Ray- - 歌单数据 (多合集汇总)
 // 来源: BV1mJZwB8EVa
-// 生成时间: 6/21/2026, 8:21:29 PM
+// 生成时间: 6/21/2026, 8:33:37 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4291,6 +4291,214 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-07]繁忙期结束了，来唱歌吧 來-Ray-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV137Ea6dEWj?p=39",
+  "source": "ray.js"
+},
+    {
+  "title": "ルーマー",
+  "artist": "ポリスピカデリー feat. GUMI",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=1",
+  "source": "ray.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat. 初音ミク",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=2",
+  "source": "ray.js"
+},
+    {
+  "title": "福寿草",
+  "artist": "ぐにょ feat. 初音ミク",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=3",
+  "source": "ray.js"
+},
+    {
+  "title": "だいしきゅーだいしゅき",
+  "artist": "femme fatale",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=4",
+  "source": "ray.js"
+},
+    {
+  "title": "ラブチーノ",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=5",
+  "source": "ray.js"
+},
+    {
+  "title": "ナーヴ・インパルス",
+  "artist": "ポリスピカデリー feat. 闇音レンリ",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=6",
+  "source": "ray.js"
+},
+    {
+  "title": "一心不乱",
+  "artist": "梅とら feat. 巡音ルカ・GUMI・初音ミク",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=7",
+  "source": "ray.js"
+},
+    {
+  "title": "Hello,Worker",
+  "artist": "KEI feat. 巡音ルカ",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=8",
+  "source": "ray.js"
+},
+    {
+  "title": "アバウト",
+  "artist": "ポリスピカデリー feat. 闇音レンリ",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=9",
+  "source": "ray.js"
+},
+    {
+  "title": "フラジール",
+  "artist": "ぬゆり feat. GUMI",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=10",
+  "source": "ray.js"
+},
+    {
+  "title": "ヴァニタス",
+  "artist": "青栗鼠 feat. 歌愛ユキ",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=11",
+  "source": "ray.js"
+},
+    {
+  "title": "虚ろを扇ぐ",
+  "artist": "獅子志司 feat. 初音ミク",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=12",
+  "source": "ray.js"
+},
+    {
+  "title": "ラブカ？",
+  "artist": "柊キライ feat. flower",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=13",
+  "source": "ray.js"
+},
+    {
+  "title": "ダーリンダンス",
+  "artist": "かいりきベア feat. 初音ミク",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=14",
+  "source": "ray.js"
+},
+    {
+  "title": "Alienate",
+  "artist": "forute feat. 初音ミク",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=15",
+  "source": "ray.js"
+},
+    {
+  "title": "イレヴンス",
+  "artist": "ポリスピカデリー feat. 初音ミク",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=16",
+  "source": "ray.js"
+},
+    {
+  "title": "ダブルラリアット",
+  "artist": "アゴアニキ feat. 巡音ルカ",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=17",
+  "source": "ray.js"
+},
+    {
+  "title": "サラバイサラバイ",
+  "artist": "とあ feat. 初音ミク",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=18",
+  "source": "ray.js"
+},
+    {
+  "title": "神様の云う通り",
+  "artist": "TOKOTOKO（西沢さんP） feat. GUMI",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=19",
+  "source": "ray.js"
+},
+    {
+  "title": "ヒビカセ",
+  "artist": "ギガP feat. 初音ミク",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=20",
+  "source": "ray.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん feat. IA",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=21",
+  "source": "ray.js"
+},
+    {
+  "title": "SPiCa",
+  "artist": "とくP feat. 初音ミク",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=22",
+  "source": "ray.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat. 初音ミク",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=23",
+  "source": "ray.js"
+},
+    {
+  "title": "再教育",
+  "artist": "Neru feat. 鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=24",
+  "source": "ray.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=25",
+  "source": "ray.js"
+},
+    {
+  "title": "再会",
+  "artist": "はるまきごはん feat. 初音ミク",
+  "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=26",
   "source": "ray.js"
 }
 );
