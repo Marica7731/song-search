@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>术力口数据</title>
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-  <link rel="stylesheet" href="/site-theme.css?v=20260621ui3">
+  <link rel="stylesheet" href="/site-theme.css?v=20260622ui1">
   <script src="/site-shell.js?v=20260621ui3" defer></script>
   <style>
     * { box-sizing: border-box }
@@ -32,7 +32,7 @@
     .snapshot-badge.warn { border-color: #f3d08a; background: #fff7df; color: #92400e }
     .snapshot-badge.good { border-color: #99d8cf; background: #e6f4f1; color: #0f766e }
     .vocaloid-grid { display: grid; gap: 12px }
-    .vocaloid-kpis { grid-template-columns: repeat(4, minmax(0, 1fr)) }
+    .vocaloid-kpis { grid-template-columns: repeat(5, minmax(0, 1fr)) }
     .vocaloid-card { border: 1px solid #d9e0ea; border-radius: 8px; background: #fff; box-shadow: none }
     .vocaloid-kpi { padding: 10px 12px }
     .vocaloid-kpi span { color: #64748b; font-size: 12px; font-weight: 700 }
@@ -43,7 +43,7 @@
     .vocaloid-section-head h2 { margin: 0; color: #0f172a; font-size: 15px }
     .vocaloid-section-head span { color: #64748b; font-size: 12px; text-align: right }
     .share-list, .reason-list, .dedup-list, .song-list { display: grid; gap: 6px }
-    .share-row { display: grid; grid-template-columns: 124px minmax(0,1fr) 76px; gap: 8px; align-items: center; min-height: 28px; padding: 3px 0 }
+    .share-row { display: grid; grid-template-columns: 124px minmax(0,1fr) 128px; gap: 8px; align-items: center; min-height: 28px; padding: 3px 0 }
     .share-name { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 13px; font-weight: 800 }
     .share-bar { height: 7px; overflow: hidden; border-radius: 999px; background: #edf2f7 }
     .share-fill { display: block; height: 100%; width: var(--share-width); border-radius: inherit; background: #1aa7c7 }
@@ -52,20 +52,21 @@
     .reason-row { display: grid; grid-template-columns: minmax(0,1fr) auto; gap: 10px; align-items: center; padding: 8px 10px; border-radius: 8px; background: #f8fafc }
     .reason-row strong { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: #1f2937; font-size: 13px }
     .reason-row span { color: #0f766e; font-size: 12px; font-weight: 800 }
-    .vocaloid-toolbar { display: grid; grid-template-columns: minmax(260px, 1fr) 180px 160px; gap: 10px; margin-bottom: 12px }
-    .vocaloid-toolbar input, .vocaloid-toolbar select { min-height: 38px; border: 1px solid #d0d7de; border-radius: 8px; background: #fff; color: #111827; font-size: 13px; padding: 0 10px }
-    .song-list { grid-template-columns: repeat(auto-fill, minmax(min(100%, 360px), 1fr)) }
-    .song-card { display: grid; grid-template-columns: 116px minmax(0,1fr); gap: 10px; padding: 10px; border: 1px solid #d9e0ea; border-radius: 8px; background: #fff }
-    .song-cover { width: 116px; aspect-ratio: 16/9; border: 1px solid #d9e0ea; border-radius: 8px; object-fit: cover; background: #eef2f7 }
-    .song-body { min-width: 0; display: grid; align-content: start; gap: 6px }
-    .vocaloid-song-title { color: #0f172a; font-size: 15px; font-weight: 850 }
-    .vocaloid-song-artist { color: #0f766e; font-size: 12px; font-weight: 800 }
-    .song-meta { display: flex; align-items: center; gap: 6px; min-width: 0; color: #64748b; font-size: 12px }
+    .vocaloid-toolbar { display: grid; grid-template-columns: minmax(220px, 1fr) 150px 130px; gap: 8px; margin-bottom: 10px }
+    .vocaloid-toolbar input, .vocaloid-toolbar select { min-height: 34px; border: 1px solid #d0d7de; border-radius: 8px; background: #fff; color: #111827; font-size: 13px; padding: 0 10px }
+    .song-list { grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); align-items: start; gap: 8px }
+    .song-card { display: grid; grid-template-columns: 96px minmax(0,1fr); gap: 8px; align-items: start; align-self: start; padding: 8px; border: 1px solid #d9e0ea; border-radius: 8px; background: #fff }
+    .song-cover { width: 96px; aspect-ratio: 16/9; border: 1px solid #d9e0ea; border-radius: 6px; object-fit: cover; background: #eef2f7 }
+    .song-body { min-width: 0; display: grid; align-content: start; gap: 4px }
+    .vocaloid-song-title { color: #0f172a; font-size: 14px; font-weight: 850; line-height: 1.25 }
+    .vocaloid-song-artist { color: #0f766e; font-size: 12px; font-weight: 800; line-height: 1.25 }
+    .song-meta { display: flex; align-items: center; gap: 5px; min-width: 0; color: #64748b; font-size: 11px; line-height: 1.2 }
+    .song-meta .vocaloid-avatar { width: 22px; height: 22px; font-size: 8px }
     .song-meta span { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap }
-    .reason-chips { display: flex; flex-wrap: wrap; gap: 5px }
-    .reason-chip { max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; padding: 2px 7px; border-radius: 999px; background: #eef6ff; color: #1d4ed8; font-size: 11px; font-weight: 750 }
-    .song-actions { display: flex; gap: 6px; margin-top: 2px }
-    .song-actions a { display: inline-flex; align-items: center; justify-content: center; min-height: 28px; padding: 0 9px; border: 1px solid #cbd5e1; border-radius: 999px; background: #fff; color: #0f172a; font-size: 12px; font-weight: 800; text-decoration: none }
+    .reason-chips { display: flex; flex-wrap: wrap; gap: 4px; max-height: 42px; overflow: hidden }
+    .reason-chip { max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; padding: 1px 6px; border-radius: 999px; background: #eef6ff; color: #1d4ed8; font-size: 10.5px; font-weight: 750 }
+    .song-actions { display: flex; gap: 5px; margin-top: 1px }
+    .song-actions a { display: inline-flex; align-items: center; justify-content: center; min-height: 24px; padding: 0 8px; border: 1px solid #cbd5e1; border-radius: 999px; background: #fff; color: #0f172a; font-size: 11.5px; font-weight: 800; text-decoration: none }
     .dedup-row { display: grid; grid-template-columns: 34px minmax(0,1fr) auto; gap: 10px; align-items: center; padding: 9px 10px; border: 1px solid #e2e8f0; border-radius: 8px; background: #fff }
     .dedup-index { color: #64748b; font-size: 12px; font-weight: 800; text-align: right }
     .dedup-main { min-width: 0; display: grid; gap: 4px }
@@ -84,10 +85,10 @@
     }
     @media (max-width: 720px) {
       .vocaloid-kpis, .vocaloid-two-col { grid-template-columns: 1fr }
-      .share-row { grid-template-columns: minmax(0,1fr) 80px }
+      .share-row { grid-template-columns: minmax(0,1fr) 112px }
       .share-bar { grid-column: 1 / -1 }
-      .song-card { grid-template-columns: 96px minmax(0,1fr) }
-      .song-cover { width: 96px }
+      .song-card { grid-template-columns: 88px minmax(0,1fr) }
+      .song-cover { width: 88px }
     }
   </style>
 </head>
@@ -128,8 +129,8 @@
 
         <section class="vocaloid-card vocaloid-section">
           <div class="vocaloid-section-head">
-            <h2>来源占比</h2>
-            <span id="sourceShareNote">按当前来源筛选联动</span>
+            <h2>来源内占比</h2>
+            <span id="sourceShareNote">术力口曲目 / 该来源总曲目</span>
           </div>
           <div class="share-list" id="sourceShareList"></div>
         </section>
@@ -214,6 +215,10 @@
       return Number(value || 0).toLocaleString('zh-CN');
     }
 
+    function formatPct(value) {
+      return Number.isFinite(value) ? `${value.toFixed(1)}%` : '—';
+    }
+
     function dateOnly(value) {
       const text = String(value || '').trim();
       const matched = text.match(/\d{4}-\d{2}-\d{2}/);
@@ -255,6 +260,21 @@
       };
     }
 
+    function getSourceStats(source) {
+      const raw = String(source || '');
+      const key = getSourceKey(raw);
+      const stats = state.bootstrap.sourceStats || {};
+      return stats[raw] || stats[`${key}.js`] || stats[key] || null;
+    }
+
+    function getSourceTotals(source) {
+      const stats = getSourceStats(source) || {};
+      return {
+        totalSongs: Number(stats.totalSongs || 0),
+        totalUnique: Number(stats.totalUnique || 0)
+      };
+    }
+
     function avatarHtml(source, alias) {
       if (source === 'all') {
         return '<span class="vocaloid-avatar" style="--source-avatar-color:#0f766e">ALL</span>';
@@ -279,8 +299,35 @@
         row.titles.add(song.normalizedTitle || song.title || '');
       });
       return Array.from(groups.values())
-        .map(row => ({ ...row, unique: row.titles.size }))
+        .map(row => {
+          const totals = getSourceTotals(row.source);
+          const unique = row.titles.size;
+          return {
+            ...row,
+            unique,
+            totalSongs: totals.totalSongs,
+            totalUnique: totals.totalUnique,
+            songRatio: totals.totalSongs ? row.count / totals.totalSongs * 100 : null,
+            uniqueRatio: totals.totalUnique ? unique / totals.totalUnique * 100 : null
+          };
+        })
         .sort((a, b) => b.count - a.count || a.alias.localeCompare(b.alias, 'zh-Hans-CN'));
+    }
+
+    function sourceScopeStats() {
+      const rows = state.source === 'all'
+        ? sourceRows()
+        : sourceRows().filter(row => row.source === state.source);
+      const totals = rows.reduce((acc, row) => {
+        acc.count += row.count;
+        acc.unique += row.unique;
+        acc.totalSongs += row.totalSongs;
+        acc.totalUnique += row.totalUnique;
+        return acc;
+      }, { count: 0, unique: 0, totalSongs: 0, totalUnique: 0 });
+      totals.uniqueRatio = totals.totalUnique ? totals.unique / totals.totalUnique * 100 : null;
+      totals.songRatio = totals.totalSongs ? totals.count / totals.totalSongs * 100 : null;
+      return totals;
     }
 
     function selectedSongs() {
@@ -348,12 +395,14 @@
       const uniqueTitles = new Set(rows.map(song => song.normalizedTitle || song.title || '')).size;
       const sources = new Set(rows.map(song => song.source || song.sourceAlias || '')).size;
       const reasons = rows.reduce((sum, song) => sum + (((song.vocaloidCheck || {}).reasons || []).length), 0);
+      const scope = sourceScopeStats();
       document.getElementById('kpiGrid').innerHTML = [
-        ['匹配投稿', rows.length, state.source === 'all' ? `全快照 ${formatNum(state.songs.length)}` : getSourceAlias(state.source)],
-        ['去重歌名', uniqueTitles, `快照去重 ${formatNum(state.manifest?.matchedUniqueTitles || state.dedup.length)}`],
-        ['覆盖来源', sources, `快照来源 ${formatNum(state.manifest?.matchedSources || sourceRows().length)}`],
-        ['识别理由', reasons, '音源 / P主 / 曲名等依据']
-      ].map(([label, value, note]) => `<div class="vocaloid-card vocaloid-kpi"><span>${escapeHtml(label)}</span><strong>${formatNum(value)}</strong><em>${escapeHtml(note)}</em></div>`).join('');
+        { label: '匹配投稿', value: formatNum(rows.length), note: state.source === 'all' ? `全快照 ${formatNum(state.songs.length)}` : getSourceAlias(state.source) },
+        { label: '去重歌名', value: formatNum(uniqueTitles), note: `快照去重 ${formatNum(state.manifest?.matchedUniqueTitles || state.dedup.length)}` },
+        { label: '来源内占比', value: formatPct(scope.uniqueRatio), note: scope.totalUnique ? `术力口 ${formatNum(scope.unique)} / 来源 ${formatNum(scope.totalUnique)}` : '暂无来源分母' },
+        { label: '覆盖来源', value: formatNum(sources), note: `快照来源 ${formatNum(state.manifest?.matchedSources || sourceRows().length)}` },
+        { label: '识别理由', value: formatNum(reasons), note: '音源 / P主 / 曲名等依据' }
+      ].map(({ label, value, note }) => `<div class="vocaloid-card vocaloid-kpi"><span>${escapeHtml(label)}</span><strong>${escapeHtml(value)}</strong><em>${escapeHtml(note)}</em></div>`).join('');
     }
 
     function renderSnapshotState() {
@@ -410,16 +459,23 @@
     }
 
     function renderShare() {
+      const baseRows = sourceRows();
       const rows = state.source === 'all'
-        ? sourceRows().slice(0, 16)
-        : sourceRows().filter(row => row.source === state.source);
-      const total = state.source === 'all' ? state.songs.length : Math.max(1, selectedSongs().length);
+        ? baseRows.slice().sort((a, b) => (b.uniqueRatio || 0) - (a.uniqueRatio || 0) || b.unique - a.unique || b.count - a.count).slice(0, 16)
+        : baseRows.filter(row => row.source === state.source);
+      document.getElementById('sourceShareNote').textContent = state.source === 'all'
+        ? '按来源内术力口去重曲目占比排序'
+        : '术力口去重曲目 / 该来源去重曲目';
       document.getElementById('sourceShareList').innerHTML = rows.map(row => {
-        const pct = total ? row.count / total * 100 : 0;
+        const pct = row.uniqueRatio;
+        const width = Number.isFinite(pct) ? Math.min(100, Math.max(2, pct)) : 0;
+        const countText = row.totalUnique
+          ? `${formatNum(row.unique)} / ${formatNum(row.totalUnique)} · ${formatPct(pct)}`
+          : `${formatNum(row.unique)} / —`;
         return `<div class="share-row">
           <div class="share-name">${escapeHtml(row.alias)}</div>
-          <div class="share-bar"><span class="share-fill" style="--share-width:${Math.max(2, pct).toFixed(2)}%"></span></div>
-          <div class="share-count">${formatNum(row.count)} · ${pct.toFixed(1)}%</div>
+          <div class="share-bar"><span class="share-fill" style="--share-width:${width.toFixed(2)}%"></span></div>
+          <div class="share-count">${escapeHtml(countText)}</div>
         </div>`;
       }).join('') || '<div class="empty-line">暂无来源数据</div>';
     }

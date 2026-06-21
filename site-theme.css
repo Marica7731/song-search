@@ -2540,6 +2540,47 @@ body.culua-shell-check .net-ease-option.disabled {
   cursor: not-allowed;
 }
 
+@media (min-width: 1281px) {
+  body.culua-shell-check .check-left-column {
+    height: calc(100vh - 44px);
+  }
+
+  body.culua-shell-check .check-input-module {
+    height: 100%;
+    display: grid;
+    grid-template-rows: auto minmax(0, 1fr);
+  }
+
+  body.culua-shell-check .check-input-grid {
+    min-height: 0;
+  }
+
+  body.culua-shell-check .check-input-grid:has(.result-generate-area.active) {
+    grid-template-rows: minmax(0, 1fr) minmax(0, 1fr);
+  }
+
+  body.culua-shell-check .title-search-area,
+  body.culua-shell-check .result-generate-area.active {
+    min-height: 0;
+    display: flex !important;
+    flex-direction: column !important;
+  }
+
+  body.culua-shell-check .input-help,
+  body.culua-shell-check .result-output-head {
+    flex: 0 0 auto;
+  }
+
+  body.culua-shell-check #titleInput,
+  body.culua-shell-check #resultText {
+    flex: 1 1 0 !important;
+    height: auto !important;
+    min-height: 0 !important;
+    overflow-y: auto;
+    resize: none;
+  }
+}
+
 @media (max-width: 1280px) {
   body.culua-shell-check .check-page-layout {
     grid-template-columns: minmax(0, 1fr);
