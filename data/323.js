@@ -1,10 +1,202 @@
 // 323 - 歌单数据 (多合集汇总)
 // 来源: BV1r75B6LEwd
-// 生成时间: 6/21/2026, 7:56:37 AM
+// 生成时间: 6/21/2026, 8:07:34 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN feat.鏡音リン",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=1",
+  "source": "323.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師.宇多田ヒカル",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=2",
+  "source": "323.js"
+},
+    {
+  "title": "Magia",
+  "artist": "Kalafina",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=3",
+  "source": "323.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=4",
+  "source": "323.js"
+},
+    {
+  "title": "マシュマロ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=5",
+  "source": "323.js"
+},
+    {
+  "title": "アンパンマンたいそう",
+  "artist": "ドリーミング",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=6",
+  "source": "323.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat.初音ミク",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=7",
+  "source": "323.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑feat.初音ミク",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=8",
+  "source": "323.js"
+},
+    {
+  "title": "ひたむきシンデレラ！",
+  "artist": "CUTIE STREET",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=9",
+  "source": "323.js"
+},
+    {
+  "title": "悪ノ娘",
+  "artist": "mothy(悪ノP) feat.鏡音リン",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=10",
+  "source": "323.js"
+},
+    {
+  "title": "悪ノ召使",
+  "artist": "mothy(悪ノP) feat.鏡音レン",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=11",
+  "source": "323.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo feat.初音ミク",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=12",
+  "source": "323.js"
+},
+    {
+  "title": "初音ミクの消失",
+  "artist": "cosMo@暴走P feat.初音ミク",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=13",
+  "source": "323.js"
+},
+    {
+  "title": "テトリス",
+  "artist": "柊マグネタイト feat.重音テト",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=14",
+  "source": "323.js"
+},
+    {
+  "title": "愛言葉Ⅲ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=15",
+  "source": "323.js"
+},
+    {
+  "title": "おじゃま虫",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=16",
+  "source": "323.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=17",
+  "source": "323.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=18",
+  "source": "323.js"
+},
+    {
+  "title": "フクロウ ～フクロウが知らせる客が来たと～",
+  "artist": "KOKIA",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=19",
+  "source": "323.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "安次嶺希和子",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=20",
+  "source": "323.js"
+},
+    {
+  "title": "君ノ記憶",
+  "artist": "mao",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=21",
+  "source": "323.js"
+},
+    {
+  "title": "瑠璃色の地球",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=22",
+  "source": "323.js"
+},
+    {
+  "title": "SWEET MEMORIES",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=23",
+  "source": "323.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-01-07]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=24",
+  "source": "323.js"
+},
     {
   "title": "おジャ魔女カーニバル!!",
   "artist": "MAHO堂",
@@ -1723,198 +1915,6 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-13]初見◎BGM◎快来找找看吧！悠闲自弹自唱 323",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DLjB6eEj4?p=15",
-  "source": "323.js"
-},
-    {
-  "title": "蜜月アン・ドゥ・トロワ",
-  "artist": "DATEKEN feat.鏡音リン",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=1",
-  "source": "323.js"
-},
-    {
-  "title": "JANE DOE",
-  "artist": "米津玄師.宇多田ヒカル",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=2",
-  "source": "323.js"
-},
-    {
-  "title": "Magia",
-  "artist": "Kalafina",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=3",
-  "source": "323.js"
-},
-    {
-  "title": "ギブス",
-  "artist": "椎名林檎",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=4",
-  "source": "323.js"
-},
-    {
-  "title": "マシュマロ",
-  "artist": "DECO*27 feat.初音ミク",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=5",
-  "source": "323.js"
-},
-    {
-  "title": "アンパンマンたいそう",
-  "artist": "ドリーミング",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=6",
-  "source": "323.js"
-},
-    {
-  "title": "深海少女",
-  "artist": "ゆうゆ feat.初音ミク",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=7",
-  "source": "323.js"
-},
-    {
-  "title": "白い雪のプリンセスは",
-  "artist": "のぼる↑feat.初音ミク",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=8",
-  "source": "323.js"
-},
-    {
-  "title": "ひたむきシンデレラ！",
-  "artist": "CUTIE STREET",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=9",
-  "source": "323.js"
-},
-    {
-  "title": "悪ノ娘",
-  "artist": "mothy(悪ノP) feat.鏡音リン",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=10",
-  "source": "323.js"
-},
-    {
-  "title": "悪ノ召使",
-  "artist": "mothy(悪ノP) feat.鏡音レン",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=11",
-  "source": "323.js"
-},
-    {
-  "title": "メルト",
-  "artist": "ryo feat.初音ミク",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=12",
-  "source": "323.js"
-},
-    {
-  "title": "初音ミクの消失",
-  "artist": "cosMo@暴走P feat.初音ミク",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=13",
-  "source": "323.js"
-},
-    {
-  "title": "テトリス",
-  "artist": "柊マグネタイト feat.重音テト",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=14",
-  "source": "323.js"
-},
-    {
-  "title": "愛言葉Ⅲ",
-  "artist": "DECO*27 feat.初音ミク",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=15",
-  "source": "323.js"
-},
-    {
-  "title": "おじゃま虫",
-  "artist": "DECO*27 feat.初音ミク",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=16",
-  "source": "323.js"
-},
-    {
-  "title": "ケセラセラ",
-  "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=17",
-  "source": "323.js"
-},
-    {
-  "title": "月のワルツ",
-  "artist": "諫山実生",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=18",
-  "source": "323.js"
-},
-    {
-  "title": "フクロウ ～フクロウが知らせる客が来たと～",
-  "artist": "KOKIA",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=19",
-  "source": "323.js"
-},
-    {
-  "title": "忘れじの言の葉",
-  "artist": "安次嶺希和子",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=20",
-  "source": "323.js"
-},
-    {
-  "title": "君ノ記憶",
-  "artist": "mao",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=21",
-  "source": "323.js"
-},
-    {
-  "title": "瑠璃色の地球",
-  "artist": "松田聖子",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=22",
-  "source": "323.js"
-},
-    {
-  "title": "SWEET MEMORIES",
-  "artist": "松田聖子",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=23",
-  "source": "323.js"
-},
-    {
-  "title": "赤いスイートピー",
-  "artist": "松田聖子",
-  "collection": "【歌切】[2026-06-20]目标同时在线150人！！平日深夜的悠闲唱歌💭🎤 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1twjt6YEKk?p=24",
   "source": "323.js"
 }
 );
