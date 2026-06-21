@@ -106,6 +106,24 @@ git status --short
 - 服务器工作树经常会因为数据生成、缓存和备份文件变脏，不要把它当开发源。
 - 刷新脚本会执行 `git reset --hard origin/codex/server-deploy`，服务器临时改代码会被覆盖。
 
+## nginx 短路由
+
+公网短路径先经过 nginx 的 exact location，再落到 Node 或静态文件。新增 `/stats` 这类无后缀页面时，除了改 `server.js` 的 `ROUTE_ALIASES`，还必须同步 `/etc/nginx/sites-available/song-search` 和 `/etc/nginx/sites-enabled/song-search`：
+
+```nginx
+location = /vocaloid { try_files /vocaloid.html =404; }
+location = /vocaloid/ { return 301 /vocaloid; }
+```
+
+改完后执行：
+
+```bash
+sudo nginx -t
+sudo systemctl reload nginx
+```
+
+验证时不要只看 HTTP 200。公网缺 exact location 时会被 `location / { try_files $uri $uri/ /index.html; }` 回退成首页，也会返回 200。必须用无缓存浏览器或 curl 检查页面标题/关键 DOM，例如 `/vocaloid` 应出现 `<title>术力口数据</title>` 和 `vocaloid-kpi`，不能只出现首页的 `歌曲搜索`。
+
 ## systemd 服务
 
 服务文件：
