@@ -1,7 +1,7 @@
 [
   { "bvids": ["BV1JRwUzoEpM", "BV1icwSzXEYv"], "file": "asuyumekanae", "alias": "明日夢かなえ" },
   { "bvids": ["BV1owcoz3Ekw"], "file": "chiyutori ", "alias": "知悠" },
-  { "bvids": ["BV1R2wQzfEuY"], "file": "momijimaru", "alias": "紅葉丸" },
+  { "bvids": ["BV1R2wQzfEuY"], "file": "momijimaru", "alias": "紅葉丸", "archived": true, "archiveReason": "保留历史数据，不再刷新" },
   { "bvids": ["BV1G4wxzmEV5"], "file": "kukuri", "alias": "戸鎖くくり" },
   { "bvids": ["BV1G6fLB7Efr", "BV1J5P7zrEB3"], "file": "naraetan", "alias": "なれたん" },
   { "bvids": ["BV1HRfuBCEXN"], "file": "figaro", "alias": "Figaro" },

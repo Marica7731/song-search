@@ -293,6 +293,8 @@ GitHub Pages 与 `culua.com` 不同：
 - GitHub Pages `main`：云端 `scripts/update-songs.js` 内的 `SINGER_CONFIGS` 是配置入口，添加来源时只改配置行，不改抓取逻辑。
 - `culua.com` 部署分支：仓库配置是 `scripts/singer-configs.json`。
 - `culua.com` 服务器运行时：`/var/lib/song-search/singer-configs.json` 会覆盖仓库配置，添加来源时需要备份并同步运行时配置。
+- 本地 `data/` 可能明显落后公网。涉及来源封存、数据回退判断或发布前校验时，先以 `https://www.culua.com/api/bootstrap` 与公网 `/data/<file>.js` 为权威，再同步本地生成物或运行时配置。
+- 封存来源时不要删除配置项和 `data/<file>.js`。在 GitHub 配置与服务器运行时配置里保留 `bvids/file/alias`，额外设置 `archived: true`；刷新脚本会跳过该来源抓取，但继续让它进入 `data/index.json`，所以网页仍能看到历史数据。
 
 运行时配置备份示例：
 

@@ -147,6 +147,10 @@ http://127.0.0.1:8080/growth
 
 `data/` 目录由脚本生成，但当前仓库会跟踪 `data/*.js` 和 `data/index.json`。提交前必须确认曲目数量没有异常回退。
 
+本地 `data/` 可能落后公网很多；封存、发布、回退判断必须先查 `https://www.culua.com/api/bootstrap` 或对应 `https://www.culua.com/data/<file>.js`，以线上当前数据为准，再决定是否同步本地生成物。
+
+需要断更但继续展示的来源不要从配置里删除；在 `scripts/singer-configs.json` 和服务器运行时配置中设置 `archived: true`，并保留原有 `bvids/file/alias`。刷新脚本会校验对应 `data/<file>.js` 存量文件存在、继续写入索引，但跳过抓取和覆盖旧数据。
+
 新增或调整来源优先修改：
 
 ```text
@@ -187,6 +191,7 @@ node scripts/update-song-growth.js
 - `sectionTitle`：只收录入口 BV 所属合集里标题完全匹配的小节。
 - `sectionTitles`：可配置多个要收录的小节标题。
 - `excludeSectionTitle` / `excludeSectionTitles`：从合集来源里排除指定小节，避免同一小节同时进入独立来源和“非常驻妹妹”。
+- `archived`：设置为 `true` 时封存来源；索引和页面仍保留该来源，但 `scripts/update-songs.js` 不再刷新对应 `data/<file>.js`。
 
 独立合集来源：
 

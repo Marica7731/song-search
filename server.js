@@ -265,13 +265,17 @@ function buildFallbackSourceProfile(sourceFile) {
   };
 }
 
+function normalizeSourceArchiveReason(raw) {
+  return String(raw?.archiveReason || '').trim();
+}
+
 function normalizeSourceProfiles(rawProfiles, files, fileToAlias) {
   const profiles = {};
   (files || []).forEach(fileName => {
     const key = String(fileName || '').replace(/\.js$/, '');
     const alias = fileToAlias?.[key] || key || '来源';
     const raw = rawProfiles?.[key] || rawProfiles?.[fileName] || {};
-    profiles[key] = {
+    const profile = {
       alias,
       avatarText: String(raw.avatarText || '').trim() || getDefaultAvatarText(alias),
       avatarUrl: normalizeProfileUrl(raw.avatarUrl),
@@ -279,6 +283,12 @@ function normalizeSourceProfiles(rawProfiles, files, fileToAlias) {
       accentColor: String(raw.accentColor || '').trim() || `hsl(${stringHash(key || alias) % 360} 55% 36%)`,
       statsAvgSortDeferred: raw.statsAvgSortDeferred === true
     };
+    if (raw.archived === true) {
+      profile.archived = true;
+      const reason = normalizeSourceArchiveReason(raw);
+      if (reason) profile.archiveReason = reason;
+    }
+    profiles[key] = profile;
   });
   return profiles;
 }
@@ -3123,8 +3133,46 @@ function normalizeSingerConfigItems(items, fromLabel = '配置') {
         normalizedItem.alias = rawItem.alias.trim();
       }
     }
+    copySingerConfigBooleanField(rawItem, normalizedItem, 'archived', fromLabel, index);
+    copySingerConfigBooleanField(rawItem, normalizedItem, 'skipUpdate', fromLabel, index);
+    copySingerConfigStringField(rawItem, normalizedItem, 'archiveReason', fromLabel, index);
+    copySingerConfigStringField(rawItem, normalizedItem, 'sectionTitle', fromLabel, index);
+    copySingerConfigStringField(rawItem, normalizedItem, 'excludeSectionTitle', fromLabel, index);
+    copySingerConfigStringArrayField(rawItem, normalizedItem, 'sectionTitles', fromLabel, index);
+    copySingerConfigStringArrayField(rawItem, normalizedItem, 'excludeSectionTitles', fromLabel, index);
     return normalizedItem;
   });
+}
+
+function copySingerConfigBooleanField(rawItem, normalizedItem, fieldName, fromLabel, index) {
+  if (!Object.prototype.hasOwnProperty.call(rawItem, fieldName)) return;
+  if (typeof rawItem[fieldName] !== 'boolean') {
+    throw new Error(`${fromLabel}第 ${index + 1} 项 ${fieldName} 必须是布尔值`);
+  }
+  if (rawItem[fieldName]) normalizedItem[fieldName] = true;
+}
+
+function copySingerConfigStringField(rawItem, normalizedItem, fieldName, fromLabel, index) {
+  if (!Object.prototype.hasOwnProperty.call(rawItem, fieldName)) return;
+  if (typeof rawItem[fieldName] !== 'string') {
+    throw new Error(`${fromLabel}第 ${index + 1} 项 ${fieldName} 必须是字符串`);
+  }
+  const value = rawItem[fieldName].trim();
+  if (value) normalizedItem[fieldName] = value;
+}
+
+function copySingerConfigStringArrayField(rawItem, normalizedItem, fieldName, fromLabel, index) {
+  if (!Object.prototype.hasOwnProperty.call(rawItem, fieldName)) return;
+  if (!Array.isArray(rawItem[fieldName])) {
+    throw new Error(`${fromLabel}第 ${index + 1} 项 ${fieldName} 必须是字符串数组`);
+  }
+  const values = rawItem[fieldName].map(value => {
+    if (typeof value !== 'string') {
+      throw new Error(`${fromLabel}第 ${index + 1} 项 ${fieldName} 必须是字符串数组`);
+    }
+    return value.trim();
+  }).filter(Boolean);
+  if (values.length > 0) normalizedItem[fieldName] = values;
 }
 
 function parseSingerConfigFile(filePath) {

@@ -59,10 +59,10 @@
 
 | 文件路径 | 文件用途 | 主要函数或模块职责 | 与其他文件的关系 |
 |---|---|---|---|
-| `scripts/singer-configs.json` | 来源/BV 配置 | 配置来源别名、文件名、入口 BV；可用 `sectionTitle` / `sectionTitles` 收录指定合集小节，用 `excludeSectionTitle` / `excludeSectionTitles` 排除指定小节 | `scripts/update-songs.js` 的主要输入；服务器也可用 `/var/lib/song-search/singer-configs.json` 覆盖运行时配置 |
+| `scripts/singer-configs.json` | 来源/BV 配置 | 配置来源别名、文件名、入口 BV；可用 `sectionTitle` / `sectionTitles` 收录指定合集小节，用 `excludeSectionTitle` / `excludeSectionTitles` 排除指定小节；`archived=true` 可封存来源并保留历史数据可见 | `scripts/update-songs.js` 的主要输入；服务器也可用 `/var/lib/song-search/singer-configs.json` 覆盖运行时配置 |
 | `scripts/source-profiles.json` | 来源头像补充配置 | 按来源文件名补充 `avatarUrl`、`youtubeUrl`、`avatarText`、`accentColor`、`statsAvgSortDeferred`；缺失时由脚本生成来源名单字头像；`statsAvgSortDeferred=true` 的来源在数据页场均排序中排在普通来源之后 | `scripts/update-songs.js` 读取后写入 `data/index.json` 的 `sourceProfiles`；页面和服务端通过 `/api/bootstrap` 使用 |
 | `scripts/collect-source-avatars.js` | 来源头像采集脚本 | 读取 `data/*.js` 找每个来源最新 BV，调用 B 站 view API 获取简介，提取 YouTube 频道/视频链接，解析频道头像，支持 `--write` 写回 `scripts/source-profiles.json`、`--update-index` 同步 `data/index.json`、`--report` 输出采集报告 | 可通过 `npm run collect:avatars` 运行；不改变歌曲数据，只更新来源 profile 配置和当前索引中的 `sourceProfiles` |
-| `scripts/update-songs.js` | 歌库抓取生成脚本 | 读取来源配置、来源头像配置、拉取 B 站元数据、解析分 P、按合集小节过滤来源、兼容普通多分P BV 和 `with 嘉宾 + 序号` 分P标题、写入 160w BV 封面缩略图、生成 `data/*.js` 和 `data/index.json` | 服务器刷新脚本、GitHub Actions、本地数据更新都会调用 |
+| `scripts/update-songs.js` | 歌库抓取生成脚本 | 读取来源配置、来源头像配置、拉取 B 站元数据、解析分 P、按合集小节过滤来源、兼容普通多分P BV 和 `with 嘉宾 + 序号` 分P标题、写入 160w BV 封面缩略图、生成 `data/*.js` 和 `data/index.json`；遇到 `archived=true` 的来源只校验存量 `data/<file>.js` 并跳过刷新 | 服务器刷新脚本、GitHub Actions、本地数据更新都会调用 |
 | `scripts/update-song-growth.js` | 增长日报生成脚本 | 读取歌库数据和去重歌曲数，更新 `reports/song-growth-history.json`、`song-growth.html` 和 README 日报段落 | GitHub Actions `song-growth.yml` 调用 |
 | `scripts/check-song-library.js` | 歌库检查脚本 | 统计数据文件数、总曲数、去重曲数、缺失歌手数 | 本地提交前和数据更新后验证使用 |
 | `scripts/check-live-song-total.js` | 线上歌库回退检查脚本 | 读取公网 `/api/bootstrap` 和 `/api/search`，校验 `totalSongs` 不低于指定值、指定 BV 至少命中一条 | 发布前后和线上故障排查使用，避免只重启服务导致歌库回退 |

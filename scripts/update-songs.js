@@ -192,7 +192,7 @@ function buildSourceProfile(config, overrides) {
     const raw = pickProfileOverride(overrides, [config.resolvedFile, alias]);
     const avatarText = String(raw.avatarText || '').trim() || getDefaultAvatarText(alias);
     const accentColor = String(raw.accentColor || '').trim() || `hsl(${stringHash(config.resolvedFile || alias) % 360} 55% 36%)`;
-    return {
+    const profile = {
         alias,
         avatarText,
         avatarUrl: normalizeProfileUrl(raw.avatarUrl),
@@ -200,6 +200,20 @@ function buildSourceProfile(config, overrides) {
         accentColor,
         statsAvgSortDeferred: raw.statsAvgSortDeferred === true
     };
+    if (isArchivedConfig(config)) {
+        profile.archived = true;
+        const reason = getArchiveReason(config);
+        if (reason) profile.archiveReason = reason;
+    }
+    return profile;
+}
+
+function isArchivedConfig(config) {
+    return config?.archived === true || config?.skipUpdate === true || config?.frozen === true;
+}
+
+function getArchiveReason(config) {
+    return String(config?.archiveReason || '').trim();
 }
 
 const loadedSingerConfig = loadSingerConfigs();
@@ -294,16 +308,26 @@ function formatShanghaiDateTime(date = new Date()) {
     }).format(date);
 }
 
-function writeUpdateMeta(successCount) {
+function writeUpdateMeta(successCount, options = {}) {
     const now = new Date();
     const payload = {
         completedAtMs: now.getTime(),
         completedAtIso: now.toISOString(),
         completedAtShanghai: formatShanghaiDateTime(now),
         successCount,
-        totalConfigs: RESOLVED_SINGER_CONFIGS.length
+        totalConfigs: RESOLVED_SINGER_CONFIGS.length,
+        archivedCount: Number(options.archivedCount || 0)
     };
     fs.writeFileSync(UPDATE_META_PATH, JSON.stringify(payload, null, 2), 'utf8');
+}
+
+function ensureArchivedSourceData(config) {
+    const outputPath = path.join(DATA_DIR, `${config.resolvedFile}.js`);
+    if (!fs.existsSync(outputPath)) {
+        throw new Error(`封存来源缺少存量数据文件: data/${config.resolvedFile}.js`);
+    }
+    const reason = getArchiveReason(config);
+    console.log(`  📦 封存跳过: ${config.alias} -> ${config.resolvedFile}.js${reason ? ` (${reason})` : ''}`);
 }
 
 async function fetchJson(url) {
@@ -585,23 +609,30 @@ async function main() {
 
     const metadataCache = loadMetadataCache();
     let successCount = 0;
+    let archivedCount = 0;
 
     for (const config of RESOLVED_SINGER_CONFIGS) {
+        const archived = isArchivedConfig(config);
         try {
-            await processSinger(config, metadataCache);
+            if (archived) {
+                ensureArchivedSourceData(config);
+                archivedCount += 1;
+            } else {
+                await processSinger(config, metadataCache);
+            }
             successCount += 1;
         } catch (error) {
             console.error(`  ❌ 最终失败: ${config.alias} ${error.message}`);
         }
-        await sleep(800);
+        await sleep(archived ? 100 : 800);
     }
 
     generateIndexJson();
     saveMetadataCache(metadataCache);
-    writeUpdateMeta(successCount);
+    writeUpdateMeta(successCount, { archivedCount });
 
     console.log('\n========================================');
-    console.log(`   🏁 任务结束: 更新 ${successCount}/${RESOLVED_SINGER_CONFIGS.length} 位歌手`);
+    console.log(`   🏁 任务结束: 更新 ${successCount}/${RESOLVED_SINGER_CONFIGS.length} 位歌手（封存 ${archivedCount}）`);
     console.log(`   🧱 BV 元数据缓存: ${METADATA_CACHE_PATH}`);
     console.log(`   🕒 执行时间记录: ${UPDATE_META_PATH}`);
     console.log('========================================');

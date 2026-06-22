@@ -147,6 +147,9 @@
       border-color: #14b8a6;
       box-shadow: 0 0 0 3px rgba(20, 184, 166, 0.10);
     }
+    .source-card.is-archived {
+      border-color: #f59e0b;
+    }
     .source-header {
       display: flex;
       justify-content: space-between;
@@ -247,6 +250,31 @@
       padding: 2px 6px;
       border-radius: 6px;
       color: #334155;
+    }
+    .archive-row {
+      display: grid;
+      grid-template-columns: minmax(0, 180px) minmax(0, 1fr);
+      gap: 12px;
+      align-items: end;
+      margin-bottom: 12px;
+    }
+    .check-field {
+      min-height: 42px;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      border: 1px solid #dbe4ee;
+      border-radius: 10px;
+      padding: 0 12px;
+      font-size: 13px;
+      font-weight: 700;
+      color: #92400e;
+      background: #fffbeb;
+    }
+    .check-field input {
+      width: 16px;
+      height: 16px;
+      margin: 0;
     }
     .source-report {
       display: none;
@@ -490,6 +518,9 @@
         flex-direction: column;
       }
       .field-grid {
+        grid-template-columns: 1fr;
+      }
+      .archive-row {
         grid-template-columns: 1fr;
       }
       .source-sub {
@@ -774,14 +805,40 @@
         }
       }
 
+      const PRESERVED_CONFIG_FIELDS = ['sectionTitle', 'sectionTitles', 'excludeSectionTitle', 'excludeSectionTitles'];
+
+      function pickPreservedConfig(config) {
+        const out = {};
+        PRESERVED_CONFIG_FIELDS.forEach(field => {
+          if (Object.prototype.hasOwnProperty.call(config || {}, field)) {
+            out[field] = config[field];
+          }
+        });
+        return out;
+      }
+
+      function readPreservedConfig(card) {
+        try {
+          const parsed = JSON.parse(card.dataset.preservedConfig || '{}');
+          return parsed && typeof parsed === 'object' && !Array.isArray(parsed) ? parsed : {};
+        } catch (_) {
+          return {};
+        }
+      }
+
       function readCardConfig(card) {
         const alias = card.querySelector('.alias-input').value.trim();
         const fileRaw = card.querySelector('.file-input').value;
         const bvids = splitBvidLines(card.querySelector('.bvids-input').value);
+        const archived = card.querySelector('.archived-input')?.checked === true;
+        const archiveReason = String(card.querySelector('.archive-reason-input')?.value || '').trim();
         return {
           alias,
           file: fileRaw,
           bvids,
+          archived,
+          archiveReason,
+          preservedConfig: readPreservedConfig(card),
           sourceId: String(card.dataset.sourceId || ''),
           originalIndex: Number(card.dataset.originalIndex || 0)
         };
@@ -792,9 +849,11 @@
           .map(readCardConfig)
           .filter(config => config.alias || config.file.trim() || config.bvids.length)
           .map(config => {
-            const item = { bvids: config.bvids };
+            const item = { ...config.preservedConfig, bvids: config.bvids };
             if (config.alias) item.alias = config.alias;
             if (config.file.trim()) item.file = config.file;
+            if (config.archived) item.archived = true;
+            if (config.archived && config.archiveReason) item.archiveReason = config.archiveReason;
             return item;
           });
       }
@@ -820,12 +879,16 @@
         const displayName = config.alias || config.file.trim() || `来源 ${index + 1}`;
         const bvidCount = config.bvids.length;
         const resolvedKey = resolvePreviewKey(config);
+        const archived = config.archived === true;
         card.id = `source-card-${card.dataset.sourceId}`;
+        card.classList.toggle('is-archived', archived);
         card.querySelector('.badge').textContent = `来源 ${index + 1}`;
         card.querySelector('.source-title').textContent = displayName;
         card.querySelector('.source-bvid-count').textContent = `${bvidCount} 个 BV`;
         card.querySelector('.source-key-preview').textContent = resolvedKey || '-';
         card.querySelector('.resolved-key').textContent = resolvedKey || '-';
+        const archivedBadge = card.querySelector('.archived-badge');
+        if (archivedBadge) archivedBadge.hidden = !archived;
       }
 
       function compareCards(a, b) {
@@ -964,11 +1027,15 @@
         card.dataset.sourceId = sourceId;
         card.dataset.originalIndex = String(originalIndex);
         card.dataset.reportState = '';
+        card.dataset.preservedConfig = JSON.stringify(pickPreservedConfig(config));
         const bvidText = Array.isArray(config?.bvids) ? config.bvids.join('\n') : '';
+        const archived = config?.archived === true || config?.skipUpdate === true;
+        const archiveReason = String(config?.archiveReason || '').trim();
         card.innerHTML = `
           <div class="source-header">
             <div class="source-header-main">
               <span class="badge">来源</span>
+              <span class="badge archived-badge" ${archived ? '' : 'hidden'}>封存</span>
               <span class="source-title">${escapeHtml(config?.alias || config?.file || '未命名来源')}</span>
               <div class="source-sub">
                 <span class="source-bvid-count">0 个 BV</span>
@@ -999,6 +1066,16 @@
               </div>
             </label>
           </div>
+          <div class="archive-row">
+            <label class="check-field">
+              <input class="archived-input" type="checkbox" ${archived ? 'checked' : ''}>
+              <span>封存该来源</span>
+            </label>
+            <label class="field">
+              <span class="field-label">封存说明（可选）</span>
+              <input class="archive-reason-input" type="text" value="${escapeHtml(archiveReason)}" placeholder="保留历史数据，不再刷新">
+            </label>
+          </div>
           <div class="resolved-meta">
             <span>实际 key 预览：<code class="resolved-key">-</code></span>
             <span>用于生成/匹配 <code>data/*.js</code></span>
@@ -1015,6 +1092,8 @@
         card.querySelector('.alias-input').addEventListener('input', refresh);
         card.querySelector('.file-input').addEventListener('input', refresh);
         card.querySelector('.bvids-input').addEventListener('input', refresh);
+        card.querySelector('.archived-input').addEventListener('change', refresh);
+        card.querySelector('.archive-reason-input').addEventListener('input', refresh);
         card.querySelector('.remove-source-btn').addEventListener('click', () => {
           card.remove();
           clearReports();
