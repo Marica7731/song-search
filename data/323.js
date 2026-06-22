@@ -1,6 +1,6 @@
 // 323 - 歌单数据 (多合集汇总)
 // 来源: BV1r75B6LEwd
-// 生成时间: 6/22/2026, 2:36:17 AM
+// 生成时间: 6/22/2026, 2:44:59 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1742,62 +1742,6 @@ window.SONG_DATA.push(
   "source": "323.js"
 },
     {
-  "title": "盛れ!ミ・アモーレ",
-  "artist": "Juice=Juice",
-  "collection": "【歌切】[2026-06-18]初見◎BGM◎想邂逅10位初見观众！来唱歌吧！ 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1S5jB6NE9F?p=1",
-  "source": "323.js"
-},
-    {
-  "title": "ひたむきシンデレラ！",
-  "artist": "CUTIE STREET",
-  "collection": "【歌切】[2026-06-18]初見◎BGM◎想邂逅10位初見观众！来唱歌吧！ 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1S5jB6NE9F?p=2",
-  "source": "323.js"
-},
-    {
-  "title": "IRIS OUT",
-  "artist": "米津玄師",
-  "collection": "【歌切】[2026-06-18]初見◎BGM◎想邂逅10位初見观众！来唱歌吧！ 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1S5jB6NE9F?p=3",
-  "source": "323.js"
-},
-    {
-  "title": "東京ミッドナイト",
-  "artist": "milkyTrap",
-  "collection": "【歌切】[2026-06-18]初見◎BGM◎想邂逅10位初見观众！来唱歌吧！ 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1S5jB6NE9F?p=4",
-  "source": "323.js"
-},
-    {
-  "title": "つながリーヨ",
-  "artist": "T-Pistonz＋KMC",
-  "collection": "【歌切】[2026-06-18]初見◎BGM◎想邂逅10位初見观众！来唱歌吧！ 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1S5jB6NE9F?p=5",
-  "source": "323.js"
-},
-    {
-  "title": "おジャ魔女でBAN²",
-  "artist": "MAHO堂",
-  "collection": "【歌切】[2026-06-18]初見◎BGM◎想邂逅10位初見观众！来唱歌吧！ 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1S5jB6NE9F?p=6",
-  "source": "323.js"
-},
-    {
-  "title": "おジャ魔女カーニバル!!",
-  "artist": "MAHO堂",
-  "collection": "【歌切】[2026-06-18]初見◎BGM◎想邂逅10位初見观众！来唱歌吧！ 323",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1S5jB6NE9F?p=7",
-  "source": "323.js"
-},
-    {
   "title": "レーザービーム",
   "artist": "Perfume",
   "collection": "【歌切】[2026-06-13]初見◎BGM◎快来找找看吧！悠闲弹唱 323",
@@ -1915,6 +1859,62 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-13]初見◎BGM◎快来找找看吧！悠闲弹唱 323",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DLjB6eEj4?p=15",
+  "source": "323.js"
+},
+    {
+  "title": "盛れ!ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【歌切】[2026-06-18]初見◎BGM◎想邂逅10位初見观众！来唱歌吧！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5jB6NE9F?p=1",
+  "source": "323.js"
+},
+    {
+  "title": "ひたむきシンデレラ！",
+  "artist": "CUTIE STREET",
+  "collection": "【歌切】[2026-06-18]初見◎BGM◎想邂逅10位初見观众！来唱歌吧！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5jB6NE9F?p=2",
+  "source": "323.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-18]初見◎BGM◎想邂逅10位初見观众！来唱歌吧！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5jB6NE9F?p=3",
+  "source": "323.js"
+},
+    {
+  "title": "東京ミッドナイト",
+  "artist": "milkyTrap",
+  "collection": "【歌切】[2026-06-18]初見◎BGM◎想邂逅10位初見观众！来唱歌吧！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5jB6NE9F?p=4",
+  "source": "323.js"
+},
+    {
+  "title": "つながリーヨ",
+  "artist": "T-Pistonz＋KMC",
+  "collection": "【歌切】[2026-06-18]初見◎BGM◎想邂逅10位初見观众！来唱歌吧！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5jB6NE9F?p=5",
+  "source": "323.js"
+},
+    {
+  "title": "おジャ魔女でBAN²",
+  "artist": "MAHO堂",
+  "collection": "【歌切】[2026-06-18]初見◎BGM◎想邂逅10位初見观众！来唱歌吧！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5jB6NE9F?p=6",
+  "source": "323.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【歌切】[2026-06-18]初見◎BGM◎想邂逅10位初見观众！来唱歌吧！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5jB6NE9F?p=7",
   "source": "323.js"
 },
     {
