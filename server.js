@@ -3101,6 +3101,7 @@ function normalizeSingerConfigItems(items, fromLabel = '配置') {
       throw new Error(`${fromLabel}第 ${index + 1} 项不是对象`);
     }
 
+    const archived = rawItem.archived === true || rawItem.skipUpdate === true || rawItem.frozen === true;
     const rawBvids = Array.isArray(rawItem.bvids) ? rawItem.bvids : [];
     const seenBv = new Set();
     const normalizedBvids = [];
@@ -3112,7 +3113,7 @@ function normalizeSingerConfigItems(items, fromLabel = '配置') {
       seenBv.add(dedupeKey);
       normalizedBvids.push(bv);
     });
-    if (normalizedBvids.length === 0) {
+    if (!archived && normalizedBvids.length === 0) {
       throw new Error(`${fromLabel}第 ${index + 1} 项缺少有效 bvids`);
     }
 
@@ -3135,6 +3136,7 @@ function normalizeSingerConfigItems(items, fromLabel = '配置') {
     }
     copySingerConfigBooleanField(rawItem, normalizedItem, 'archived', fromLabel, index);
     copySingerConfigBooleanField(rawItem, normalizedItem, 'skipUpdate', fromLabel, index);
+    copySingerConfigBooleanField(rawItem, normalizedItem, 'frozen', fromLabel, index);
     copySingerConfigStringField(rawItem, normalizedItem, 'archiveReason', fromLabel, index);
     copySingerConfigStringField(rawItem, normalizedItem, 'sectionTitle', fromLabel, index);
     copySingerConfigStringField(rawItem, normalizedItem, 'excludeSectionTitle', fromLabel, index);

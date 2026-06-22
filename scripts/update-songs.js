@@ -129,6 +129,7 @@ function normalizeSingerConfigItems(items, fromLabel = '配置') {
             throw new Error(`${fromLabel}第 ${index + 1} 项不是对象`);
         }
 
+        const archived = isArchivedConfig(rawItem);
         const rawBvids = Array.isArray(rawItem.bvids) ? rawItem.bvids : [];
         const seen = new Set();
         const normalizedBvids = [];
@@ -140,7 +141,7 @@ function normalizeSingerConfigItems(items, fromLabel = '配置') {
             seen.add(dedupeKey);
             normalizedBvids.push(bv);
         });
-        if (normalizedBvids.length === 0) {
+        if (!archived && normalizedBvids.length === 0) {
             throw new Error(`${fromLabel}第 ${index + 1} 项缺少有效 bvids`);
         }
 
