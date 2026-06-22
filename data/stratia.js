@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 6/22/2026, 11:06:55 PM
+// 生成时间: 6/22/2026, 11:18:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -955,6 +955,46 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-06-17]弹唱治愈时光，不来听听吗？ 🦋🫧 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fKLf6TED1?p=7",
+  "source": "stratia.js"
+},
+    {
+  "title": "るーららるーらーるららるーらー",
+  "artist": "さユり",
+  "collection": "【🎸🦋歌切】[2026-06-22]今天也辛苦了！治愈的悠闲弹唱歌回 🦋🕯 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eEGt?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "vivi",
+  "artist": "米津玄師",
+  "collection": "【🎸🦋歌切】[2026-06-22]今天也辛苦了！治愈的悠闲弹唱歌回 🦋🕯 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eEGt?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "乾涸びたバスひとつ",
+  "artist": "米津玄師",
+  "collection": "【🎸🦋歌切】[2026-06-22]今天也辛苦了！治愈的悠闲弹唱歌回 🦋🕯 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eEGt?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【🎸🦋歌切】[2026-06-22]今天也辛苦了！治愈的悠闲弹唱歌回 🦋🕯 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eEGt?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "忘れてやらない",
+  "artist": "結束バンド",
+  "collection": "【🎸🦋歌切】[2026-06-22]今天也辛苦了！治愈的悠闲弹唱歌回 🦋🕯 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eEGt?p=5",
   "source": "stratia.js"
 }
 );
