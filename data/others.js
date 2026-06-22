@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/22/2026, 11:02:43 PM
+// 生成时间: 6/22/2026, 11:14:53 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -18147,6 +18147,150 @@ window.SONG_DATA.push(
   "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-21 午夜悠闲吉他歌回🎸🪽",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ik7c65EyC?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "愛言葉",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "鈴花いのり - Suzuhana Inori -歌切 2026-06-22 出道一周年谢谢！献上满满的爱与感谢 𝜗𝜚.⋆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eEy3?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "鈴花いのり - Suzuhana Inori -歌切 2026-06-22 出道一周年谢谢！献上满满的爱与感谢 𝜗𝜚.⋆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eEy3?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz feat. 巡音ルカ",
+  "collection": "鈴花いのり - Suzuhana Inori -歌切 2026-06-22 出道一周年谢谢！献上满满的爱与感谢 𝜗𝜚.⋆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eEy3?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "#あくあ色ぱれっと",
+  "artist": "湊あくあ",
+  "collection": "鈴花いのり - Suzuhana Inori -歌切 2026-06-22 出道一周年谢谢！献上满满的爱与感谢 𝜗𝜚.⋆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eEy3?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "世界一可愛い私",
+  "artist": "藤田ことね(CV.飯田ヒカル)",
+  "collection": "鈴花いのり - Suzuhana Inori -歌切 2026-06-22 出道一周年谢谢！献上满满的爱与感谢 𝜗𝜚.⋆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eEy3?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ヤミタイガール",
+  "artist": "れるりり feat. GUMI",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "The Beast.",
+  "artist": "スペクタクルP feat. 初音ミク",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ケガレの唄",
+  "artist": "羽生まゐご feat. flower",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "嘘まみれの街で",
+  "artist": "PENGUIN RESEARCH",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ロストワンの号哭",
+  "artist": "Neru feat. 鏡音リン",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "キングスレイヤー",
+  "artist": "マイキP feat. 初音ミク",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "月光花",
+  "artist": "Janne Da Arc",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "MAD HEAD LOVE",
+  "artist": "米津玄師",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=13",
   "source": "others.js"
 },
     {
