@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 6/22/2026, 11:13:30 PM
+// 生成时间: 6/22/2026, 11:23:33 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4883,6 +4883,190 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-06-20]💐1.5周年💐 | 𓊇第二年过得也太快了吧？感恩之宴～我要弹唱啦～🥳🥳 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13LjJ6XEZp?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "さよなら恋人",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "またねがあれば",
+  "artist": "risou feat. 初音ミク",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "きにぴ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "フレンズ",
+  "artist": "大塚愛",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "いじわるさん",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "悲しいラブソング",
+  "artist": "あたらよ",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "夏霞",
+  "artist": "あたらよ",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "きにぴ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "ちょっと待って！",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "コンタクトケース",
+  "artist": "Saucy Dog",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "夢をみせて",
+  "artist": "Cö shu Nie",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "iB",
+  "artist": "Cö shu Nie",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "give it back",
+  "artist": "Cö shu Nie",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "give it back",
+  "artist": "Cö shu Nie",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "片っぽ",
+  "artist": "eill",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "メイクミー",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=20",
+  "source": "sumica.js"
+},
+    {
+  "title": "Too Good to Say Goodbye",
+  "artist": "Bruno Mars",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=21",
+  "source": "sumica.js"
+},
+    {
+  "title": "ナイトルーティーン feat. suis from ヨルシカ",
+  "artist": "キタニタツヤ",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=22",
+  "source": "sumica.js"
+},
+    {
+  "title": "Flavor Of Life",
+  "artist": "宇多田ヒカル",
+  "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=23",
   "source": "sumica.js"
 }
 );

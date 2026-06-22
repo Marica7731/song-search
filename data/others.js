@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/22/2026, 11:43:12 PM
+// 生成时间: 6/22/2026, 11:57:27 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -18291,6 +18291,110 @@ window.SONG_DATA.push(
   "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "上海an",
+  "artist": "相対性理論",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "烏",
+  "artist": "米津玄師",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "リードコントロール",
+  "artist": "なるみや",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "緑地化計画",
+  "artist": "文藝天国",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ただ声一つ",
+  "artist": "ロクデナシ",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "車輪の唄",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "透明少女",
+  "artist": "NUMBER GIRL",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "スマトラ警備隊",
+  "artist": "相対性理論",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "ハッピーラッキーチャッピー",
+  "artist": "ano",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "ずうっといっしょ！",
+  "artist": "キタニタツヤ",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "真生活",
+  "artist": "案山子 feat. 初音ミク",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=13",
   "source": "others.js"
 },
     {
