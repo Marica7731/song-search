@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 6/23/2026, 11:05:04 AM
+// 生成时间: 6/23/2026, 11:13:37 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -958,24 +958,24 @@ window.SONG_DATA.push(
   "source": "hinachibi.js"
 },
     {
-  "title": "空の箱 (井芹仁菜、河原木桃香)",
-  "artist": "トゲナシトゲアリ",
+  "title": "空の箱",
+  "artist": "トゲナシトゲアリ (井芹仁菜、河原木桃香)",
   "collection": "【歌切】[2026-06-22]刚睡醒但如果没人买票就停不下来的歌回？！🎶 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qh736aEEe?p=9",
   "source": "hinachibi.js"
 },
     {
-  "title": "ヒステリックナイトガール feat. Such",
-  "artist": "PSYQUI",
+  "title": "ヒステリックナイトガール",
+  "artist": "PSYQUI feat. Such",
   "collection": "【歌切】[2026-06-22]刚睡醒但如果没人买票就停不下来的歌回？！🎶 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qh736aEEe?p=10",
   "source": "hinachibi.js"
 },
     {
-  "title": "大嫌いなはずだった。feat. 榎本虎太朗(花江夏樹)・瀬戸口雛(麻倉もも)",
-  "artist": "HoneyWorks",
+  "title": "大嫌いなはずだった。",
+  "artist": "HoneyWorks feat. 榎本虎太朗(花江夏樹)・瀬戸口雛(麻倉もも)",
   "collection": "【歌切】[2026-06-22]刚睡醒但如果没人买票就停不下来的歌回？！🎶 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qh736aEEe?p=11",
