@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 6/23/2026, 11:02:56 AM
+// 生成时间: 6/23/2026, 11:10:49 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5054,8 +5054,8 @@ window.SONG_DATA.push(
   "source": "sumica.js"
 },
     {
-  "title": "ナイトルーティーン feat. suis from ヨルシカ",
-  "artist": "キタニタツヤ",
+  "title": "ナイトルーティーン",
+  "artist": "キタニタツヤ feat. suis from ヨルシカ",
   "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=22",
