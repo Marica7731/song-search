@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 6/22/2026, 11:44:46 PM
+// 生成时间: 6/22/2026, 11:56:37 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -891,6 +891,118 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-21]没人买门票就结束不了的歌回？！🎶 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1147c6sEe7?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-06-22]刚睡醒但如果没人买票就停不下来的歌回？！🎶 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh736aEEe?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "どうにかなっちゃいそう！",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-06-22]刚睡醒但如果没人买票就停不下来的歌回？！🎶 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh736aEEe?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "春を待つ",
+  "artist": "Islet feat. 倚水",
+  "collection": "【歌切】[2026-06-22]刚睡醒但如果没人买票就停不下来的歌回？！🎶 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh736aEEe?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat. 初音ミク",
+  "collection": "【歌切】[2026-06-22]刚睡醒但如果没人买票就停不下来的歌回？！🎶 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh736aEEe?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "【歌切】[2026-06-22]刚睡醒但如果没人买票就停不下来的歌回？！🎶 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh736aEEe?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【歌切】[2026-06-22]刚睡醒但如果没人买票就停不下来的歌回？！🎶 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh736aEEe?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【歌切】[2026-06-22]刚睡醒但如果没人买票就停不下来的歌回？！🎶 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh736aEEe?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "愛のうた",
+  "artist": "倖田來未",
+  "collection": "【歌切】[2026-06-22]刚睡醒但如果没人买票就停不下来的歌回？！🎶 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh736aEEe?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "空の箱 (井芹仁菜、河原木桃香)",
+  "artist": "トゲナシトゲアリ",
+  "collection": "【歌切】[2026-06-22]刚睡醒但如果没人买票就停不下来的歌回？！🎶 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh736aEEe?p=9",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ヒステリックナイトガール feat. Such",
+  "artist": "PSYQUI",
+  "collection": "【歌切】[2026-06-22]刚睡醒但如果没人买票就停不下来的歌回？！🎶 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh736aEEe?p=10",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "大嫌いなはずだった。feat. 榎本虎太朗(花江夏樹)・瀬戸口雛(麻倉もも)",
+  "artist": "HoneyWorks",
+  "collection": "【歌切】[2026-06-22]刚睡醒但如果没人买票就停不下来的歌回？！🎶 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh736aEEe?p=11",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-06-22]刚睡醒但如果没人买票就停不下来的歌回？！🎶 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh736aEEe?p=12",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "【歌切】[2026-06-22]刚睡醒但如果没人买票就停不下来的歌回？！🎶 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh736aEEe?p=13",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【歌切】[2026-06-22]刚睡醒但如果没人买票就停不下来的歌回？！🎶 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh736aEEe?p=14",
   "source": "hinachibi.js"
 }
 );
