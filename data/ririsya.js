@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 6/23/2026, 12:26:46 PM
+// 生成时间: 6/23/2026, 12:37:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17139,6 +17139,126 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=30",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat. 初音ミク",
+  "collection": "【🐍歌切】[2026-06-22]病后归来的迷糊歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cMj26GENu?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ワールドイズマイン CPK! Remix",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "【🐍歌切】[2026-06-22]病后归来的迷糊歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cMj26GENu?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "メルト CPK! Remix",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "【🐍歌切】[2026-06-22]病后归来的迷糊歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cMj26GENu?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "mosi mosi?",
+  "artist": "楽音",
+  "collection": "【🐍歌切】[2026-06-22]病后归来的迷糊歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cMj26GENu?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ふわふわ♪",
+  "artist": "牧野由依",
+  "collection": "【🐍歌切】[2026-06-22]病后归来的迷糊歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cMj26GENu?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "もうそう♡えくすぷれす",
+  "artist": "千石撫子(CV:花澤香菜)",
+  "collection": "【🐍歌切】[2026-06-22]病后归来的迷糊歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cMj26GENu?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子(CV:花澤香菜)",
+  "collection": "【🐍歌切】[2026-06-22]病后归来的迷糊歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cMj26GENu?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Anytime Anywhere",
+  "artist": "milet",
+  "collection": "【🐍歌切】[2026-06-22]病后归来的迷糊歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cMj26GENu?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "旅の途中",
+  "artist": "清浦夏実",
+  "collection": "【🐍歌切】[2026-06-22]病后归来的迷糊歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cMj26GENu?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "【🐍歌切】[2026-06-22]病后归来的迷糊歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cMj26GENu?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "【🐍歌切】[2026-06-22]病后归来的迷糊歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cMj26GENu?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿ヒデノリ",
+  "collection": "【🐍歌切】[2026-06-22]病后归来的迷糊歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cMj26GENu?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【🐍歌切】[2026-06-22]病后归来的迷糊歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cMj26GENu?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🐍歌切】[2026-06-22]病后归来的迷糊歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cMj26GENu?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "星が瞬くこんな夜に",
+  "artist": "supercell",
+  "collection": "【🐍歌切】[2026-06-22]病后归来的迷糊歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cMj26GENu?p=15",
   "source": "ririsya.js"
 }
 );
