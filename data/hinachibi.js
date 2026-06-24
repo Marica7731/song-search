@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 6/24/2026, 8:33:53 PM
+// 生成时间: 6/24/2026, 8:45:53 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1003,6 +1003,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-22]刚睡醒但如果没人买票就停不下来的歌回？！🎶 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qh736aEEe?p=14",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-06-24]一周过半的星期三歌回🍎🌟 回家路上请听听吧 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EP7x67Eqq?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-06-24]一周过半的星期三歌回🍎🌟 回家路上请听听吧 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EP7x67Eqq?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-06-24]一周过半的星期三歌回🍎🌟 回家路上请听听吧 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EP7x67Eqq?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "Caramel Pain",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-06-24]一周过半的星期三歌回🍎🌟 回家路上请听听吧 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EP7x67Eqq?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "パイパイ仮面でどうかしらん？",
+  "artist": "宝鐘マリン",
+  "collection": "【歌切】[2026-06-24]一周过半的星期三歌回🍎🌟 回家路上请听听吧 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EP7x67Eqq?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "コンプレックス♡プリンセス",
+  "artist": "宝鐘マリン",
+  "collection": "【歌切】[2026-06-24]一周过半的星期三歌回🍎🌟 回家路上请听听吧 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EP7x67Eqq?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-06-24]一周过半的星期三歌回🍎🌟 回家路上请听听吧 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EP7x67Eqq?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat. IA",
+  "collection": "【歌切】[2026-06-24]一周过半的星期三歌回🍎🌟 回家路上请听听吧 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EP7x67Eqq?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat. 可不",
+  "collection": "【歌切】[2026-06-24]一周过半的星期三歌回🍎🌟 回家路上请听听吧 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EP7x67Eqq?p=9",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "フロムトーキョー",
+  "artist": "夏代孝明・渡辺拓也 feat. 初音ミク",
+  "collection": "【歌切】[2026-06-24]一周过半的星期三歌回🍎🌟 回家路上请听听吧 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EP7x67Eqq?p=10",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ドーナツホール",
+  "artist": "ハチ feat. GUMI",
+  "collection": "【歌切】[2026-06-24]一周过半的星期三歌回🍎🌟 回家路上请听听吧 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EP7x67Eqq?p=11",
   "source": "hinachibi.js"
 }
 );
