@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/24/2026, 6:23:32 AM
+// 生成时间: 6/24/2026, 6:34:32 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -18779,6 +18779,78 @@ window.SONG_DATA.push(
   "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=46",
+  "source": "others.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-07 悠闲午间竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCjX6rEuy?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-07 悠闲午间竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCjX6rEuy?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "Departures ～あなたにおくるアイの歌～",
+  "artist": "EGOIST",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-07 悠闲午间竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCjX6rEuy?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "迷子の僕に",
+  "artist": "KEI feat. GUMI",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-07 悠闲午间竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCjX6rEuy?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "あの夏が飽和する。",
+  "artist": "カンザキイオリ feat. 鏡音レン・鏡音リン",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-07 悠闲午间竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCjX6rEuy?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-07 悠闲午间竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCjX6rEuy?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "季節は次々死んでいく",
+  "artist": "amazarashi",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-07 悠闲午间竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCjX6rEuy?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "空に歌えば",
+  "artist": "amazarashi",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-07 悠闲午间竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCjX6rEuy?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "歩く",
+  "artist": "ヨルシカ",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-07 悠闲午间竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCjX6rEuy?p=9",
   "source": "others.js"
 },
     {
