@@ -1,6 +1,6 @@
 // 323 - 歌单数据 (多合集汇总)
 // 来源: BV1r75B6LEwd
-// 生成时间: 6/24/2026, 8:17:58 PM
+// 生成时间: 6/24/2026, 8:28:12 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1947,6 +1947,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-21]milkyTrap的摇滚担当！？我是软萌赛博格323！ 323",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11s7c6dERE?p=4",
+  "source": "323.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-06-23]初见◎BGM◎想和10位初见的人相遇！唱歌！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Jw7x6UEYk?p=1",
+  "source": "323.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス feat. 可不",
+  "collection": "【歌切】[2026-06-23]初见◎BGM◎想和10位初见的人相遇！唱歌！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Jw7x6UEYk?p=2",
+  "source": "323.js"
+},
+    {
+  "title": "PPAP(ペンパイナッポーアッポーペン)",
+  "artist": "ピコ太郎",
+  "collection": "【歌切】[2026-06-23]初见◎BGM◎想和10位初见的人相遇！唱歌！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Jw7x6UEYk?p=3",
+  "source": "323.js"
+},
+    {
+  "title": "milkyTraveler!!",
+  "artist": "milkyTrap",
+  "collection": "【歌切】[2026-06-23]初见◎BGM◎想和10位初见的人相遇！唱歌！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Jw7x6UEYk?p=4",
+  "source": "323.js"
+},
+    {
+  "title": "東京ミッドナイト",
+  "artist": "milkyTrap",
+  "collection": "【歌切】[2026-06-23]初见◎BGM◎想和10位初见的人相遇！唱歌！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Jw7x6UEYk?p=5",
+  "source": "323.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-06-23]初见◎BGM◎想和10位初见的人相遇！唱歌！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Jw7x6UEYk?p=6",
+  "source": "323.js"
+},
+    {
+  "title": "うぉんちゅーばっど",
+  "artist": "jon-YAKITORY feat. 可不",
+  "collection": "【歌切】[2026-06-23]初见◎BGM◎想和10位初见的人相遇！唱歌！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Jw7x6UEYk?p=7",
+  "source": "323.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【歌切】[2026-06-23]初见◎BGM◎想和10位初见的人相遇！唱歌！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Jw7x6UEYk?p=8",
+  "source": "323.js"
+},
+    {
+  "title": "愛♡スクリ～ム！",
+  "artist": "AiScReam",
+  "collection": "【歌切】[2026-06-23]初见◎BGM◎想和10位初见的人相遇！唱歌！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Jw7x6UEYk?p=9",
+  "source": "323.js"
+},
+    {
+  "title": "夏色えがおで1,2,Jump!",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-06-23]初见◎BGM◎想和10位初见的人相遇！唱歌！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Jw7x6UEYk?p=10",
+  "source": "323.js"
+},
+    {
+  "title": "青い珊瑚礁",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-06-23]初见◎BGM◎想和10位初见的人相遇！唱歌！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Jw7x6UEYk?p=11",
+  "source": "323.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-06-23]初见◎BGM◎想和10位初见的人相遇！唱歌！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Jw7x6UEYk?p=12",
+  "source": "323.js"
+},
+    {
+  "title": "milk boy",
+  "artist": "SILENT SIREN",
+  "collection": "【歌切】[2026-06-23]初见◎BGM◎想和10位初见的人相遇！唱歌！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Jw7x6UEYk?p=13",
   "source": "323.js"
 }
 );
