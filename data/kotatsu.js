@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 6/24/2026, 4:32:20 AM
+// 生成时间: 6/24/2026, 4:42:23 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6987,6 +6987,342 @@ window.SONG_DATA.push(
   "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "行方不明とタクシー",
+  "artist": "3markets",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "黒煙",
+  "artist": "Lyu:Lyu",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "オー・シャンゼリゼ",
+  "artist": "ダニエル・ビダル",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Laugh away",
+  "artist": "YUI",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ダダリオ",
+  "artist": "ズーカラデル",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "輝く未来",
+  "artist": "畠中洋＆小此木麻里",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "強い気持ち・強い愛",
+  "artist": "小沢健二",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "vivi",
+  "artist": "米津玄師",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "花束",
+  "artist": "back number",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat. GUMI",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "僕のともだち",
+  "artist": "コレサワ",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "エロ",
+  "artist": "クリープハイプ",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜の踊り子",
+  "artist": "サカナクション",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "五月雨",
+  "artist": "崎山蒼志",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "恋",
+  "artist": "星野源",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Burning Friday Night",
+  "artist": "Lucky Kilimanjaro",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "最大公約数",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ジェニファー山田さん",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "国語",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよなら人類",
+  "artist": "たま",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "やわらかな午後に遅い朝食を",
+  "artist": "秦基博",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "I believe",
+  "artist": "絢香",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ラブソング",
+  "artist": "ズーカラデル",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "僕に彼女ができたんだ",
+  "artist": "SHISHAMO",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "オシャレ大作戦",
+  "artist": "ネクライトーキー",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "シンクロサイクロトロン・スピリチュアライザー。",
+  "artist": "砂粒 feat. GUMI",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=29",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ギミギミック",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=30",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "カヌレ",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=31",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "なごり雪",
+  "artist": "かぐや姫",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=32",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "サライ",
+  "artist": "加山雄三・谷村新司",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=33",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "たしかなこと",
+  "artist": "小田和正",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=34",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=35",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=36",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "明るい未来",
+  "artist": "never young beach",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=37",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ひかり",
+  "artist": "星村麻衣",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=38",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アメイジング・グレイス",
+  "artist": "本田美奈子.",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=39",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "性善説",
+  "artist": "amazarashi",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=40",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "小さな恋のうた",
+  "artist": "MONGOL800",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=41",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "幕無し",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=42",
   "source": "kotatsu.js"
 }
 );
