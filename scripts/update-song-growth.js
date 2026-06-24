@@ -8,7 +8,7 @@ const REPORT_DIR = path.join(ROOT, 'reports');
 const HISTORY_PATH = path.join(REPORT_DIR, 'song-growth-history.json');
 const README_PATH = path.join(ROOT, 'README.md');
 const {
-  normalizeString,
+  normalizeSongTitleKey,
   isSameSong
 } = require('../artist-match');
 
@@ -54,7 +54,7 @@ function isValidArtist(artist) {
 function getUniqueSongCount(songs) {
   const titleGroup = new Map();
   (Array.isArray(songs) ? songs : []).forEach(song => {
-    const titleKey = normalizeString(song?.title || '未知歌曲');
+    const titleKey = normalizeSongTitleKey(song?.title || '未知歌曲');
     if (!titleGroup.has(titleKey)) titleGroup.set(titleKey, []);
     titleGroup.get(titleKey).push(song);
   });

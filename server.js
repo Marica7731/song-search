@@ -6,6 +6,7 @@ const { execFile } = require('child_process');
 const { URL } = require('url');
 const {
   normalizeString,
+  normalizeSongTitleKey,
   isSameSong,
   areArtistsCompatible,
   matchesArtistCondition
@@ -133,7 +134,7 @@ function buildUniqueSongClusters(data) {
   if (!Array.isArray(data) || data.length === 0) return [];
   const titleGroup = {};
   data.forEach(song => {
-    const titleKey = normalizeString(song.title || '未知歌曲');
+    const titleKey = normalizeSongTitleKey(song.title || '未知歌曲');
     if (!titleGroup[titleKey]) titleGroup[titleKey] = [];
     titleGroup[titleKey].push(song);
   });
@@ -732,7 +733,7 @@ function buildGrowthUniqueDetailSongs(songs, targetDate) {
   const items = [];
   const titleGroup = new Map();
   (Array.isArray(songs) ? songs : []).forEach(song => {
-    const titleKey = normalizeString(song?.title || '未知歌曲');
+    const titleKey = normalizeSongTitleKey(song?.title || '未知歌曲');
     if (!titleGroup.has(titleKey)) titleGroup.set(titleKey, []);
     titleGroup.get(titleKey).push(song);
   });
@@ -814,7 +815,7 @@ function buildPublishUniqueRows(songs) {
   const byDate = new Map();
   const titleGroup = new Map();
   (Array.isArray(songs) ? songs : []).forEach(song => {
-    const titleKey = normalizeString(song?.title || '未知歌曲');
+    const titleKey = normalizeSongTitleKey(song?.title || '未知歌曲');
     if (!titleGroup.has(titleKey)) titleGroup.set(titleKey, []);
     titleGroup.get(titleKey).push(song);
   });
@@ -1094,7 +1095,7 @@ function loadSongStore() {
     }
 
     const title = String(song.title || '').trim();
-    const titleKey = normalizeString(title);
+    const titleKey = normalizeSongTitleKey(title);
     if (titleKey) {
       if (!titleMap.has(titleKey)) {
         titleMap.set(titleKey, {
@@ -1514,7 +1515,7 @@ function getSongTitleSourceCount(songOrTitle) {
   const title = typeof songOrTitle === 'string'
     ? songOrTitle
     : (songOrTitle && songOrTitle.title) || '';
-  const key = normalizeString(title);
+  const key = normalizeSongTitleKey(title);
   return store.titleSourceMap.get(key)?.size || 0;
 }
 
@@ -1634,7 +1635,7 @@ async function buildDupCheckResponse(mode, source, items) {
       const matchedSongs = store.bvMap.get(normalizedBv) || [];
       if (matchedSongs.length > 0) {
         matchedSongs.forEach(song => {
-          const titleKey = normalizeString(song.title || '');
+          const titleKey = normalizeSongTitleKey(song.title || '');
           const dupList = filterCandidatesBySource(store.titleMap.get(titleKey)?.songs || [], source);
           results.push({
             isNotFound: false,
@@ -1673,7 +1674,7 @@ async function buildDupCheckResponse(mode, source, items) {
       }
 
       liveSongs.forEach(song => {
-        const titleKey = normalizeString(song.title || '');
+        const titleKey = normalizeSongTitleKey(song.title || '');
         const dupList = titleKey
           ? filterCandidatesBySource(store.titleMap.get(titleKey)?.songs || [], source)
           : [];
@@ -1695,7 +1696,7 @@ async function buildDupCheckResponse(mode, source, items) {
       const inputArtist = String(item?.artist || '').trim();
       const queryType = String(item?.type || 'titleArtist');
       const originalInput = String(item?.originalLine || item?.raw || '').trim();
-      const titleKey = normalizeString(inputTitle);
+      const titleKey = normalizeSongTitleKey(inputTitle);
       const artistKey = normalizeString(inputArtist);
       let dupList = [];
       let titleMatches = [];
@@ -1800,7 +1801,7 @@ function buildDupCheckSummary(mode, source, results) {
 }
 
 function buildArtistSummaryByTitle(title) {
-  const normalizedTitle = normalizeString(title);
+  const normalizedTitle = normalizeSongTitleKey(title);
   const entry = store.titleMap.get(normalizedTitle);
   const matchedSongs = entry ? entry.songs : [];
   const artistMap = new Map();
@@ -1941,7 +1942,7 @@ function aggregateBySong(data) {
   data.forEach(item => {
     const artist = item.artist || '';
     const title = item.title || '未知歌曲';
-    const titleKey = normalizeString(title);
+    const titleKey = normalizeSongTitleKey(title);
     if (!titleGroups.has(titleKey)) {
       titleGroups.set(titleKey, []);
     }
@@ -2001,7 +2002,7 @@ function aggregateByVtuberSource(data) {
     const vtuberEntry = map.get(sourceKey);
     const bvid = getSongBvid(item);
     if (bvid) vtuberEntry.bvSet.add(bvid);
-    const titleKey = normalizeString(item.title || '未知歌曲');
+    const titleKey = normalizeSongTitleKey(item.title || '未知歌曲');
     if (!vtuberEntry.songGroups.has(titleKey)) {
       vtuberEntry.songGroups.set(titleKey, []);
     }
@@ -2060,7 +2061,7 @@ function aggregateByArtist(data) {
       });
     }
     const artistEntry = map.get(key);
-    const songKey = normalizeString(item.title || '未知歌曲');
+    const songKey = normalizeSongTitleKey(item.title || '未知歌曲');
     if (!artistEntry.songs.has(songKey)) {
       artistEntry.songs.set(songKey, {
         title: item.title || '未知歌曲',

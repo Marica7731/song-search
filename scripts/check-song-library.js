@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const { normalizeString, isSameSong } = require('../artist-match');
+const { normalizeSongTitleKey, isSameSong } = require('../artist-match');
 
 const ROOT = path.join(__dirname, '..');
 const DATA_DIR = path.join(ROOT, 'data');
@@ -15,7 +15,7 @@ function getUniqueSongCount(data) {
   if (!Array.isArray(data) || data.length === 0) return 0;
   const titleGroup = new Map();
   data.forEach(song => {
-    const titleKey = normalizeString(song?.title || '未知歌曲');
+    const titleKey = normalizeSongTitleKey(song?.title || '未知歌曲');
     if (!titleGroup.has(titleKey)) {
       titleGroup.set(titleKey, []);
     }

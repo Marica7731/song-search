@@ -63,6 +63,15 @@
     return s.toLowerCase();
   }
 
+  function normalizeSongTitleKey(title) {
+    const normalized = normalizeString(title || '未知歌曲');
+    const compactWave = normalized.replace(/\s*~\s*/g, '~');
+    if (/^フクロウ~フクロウが知らせる客が来たと~?$/.test(compactWave)) {
+      return 'フクロウ~フクロウが知らせる客が来たと~';
+    }
+    return normalized;
+  }
+
   function toHiragana(value) {
     return normalizeString(value).replace(/[\u30A1-\u30F6]/g, ch =>
       String.fromCharCode(ch.charCodeAt(0) - 0x60)
@@ -161,8 +170,8 @@
   }
 
   function isSameSong(songA, songB, isValidArtistFn) {
-    const titleA = normalizeString(songA?.title || '未知歌曲');
-    const titleB = normalizeString(songB?.title || '未知歌曲');
+    const titleA = normalizeSongTitleKey(songA?.title || '未知歌曲');
+    const titleB = normalizeSongTitleKey(songB?.title || '未知歌曲');
     if (titleA !== titleB) return false;
 
     const artistA = String(songA?.artist || '').trim();
@@ -198,6 +207,7 @@
 
   return {
     normalizeString,
+    normalizeSongTitleKey,
     hasContinuousCommonStr,
     buildArtistMatchVariants,
     areArtistsCompatible,
