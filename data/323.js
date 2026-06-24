@@ -1,6 +1,6 @@
 // 323 - 歌单数据 (多合集汇总)
 // 来源: BV1r75B6LEwd
-// 生成时间: 6/24/2026, 10:12:34 PM
+// 生成时间: 6/24/2026, 10:30:04 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2051,6 +2051,150 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-23]初见◎BGM◎想和10位初见的人相遇！唱歌！ 323",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Jw7x6UEYk?p=13",
+  "source": "323.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-06-25]初見◎BGM◎短一点！深夜静静治愈你！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YL7t6mEUQ?p=1",
+  "source": "323.js"
+},
+    {
+  "title": "ふたりの世界",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-06-25]初見◎BGM◎短一点！深夜静静治愈你！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YL7t6mEUQ?p=2",
+  "source": "323.js"
+},
+    {
+  "title": "ロビンソン",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-06-25]初見◎BGM◎短一点！深夜静静治愈你！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YL7t6mEUQ?p=3",
+  "source": "323.js"
+},
+    {
+  "title": "YOU & IDOL",
+  "artist": "相対性理論",
+  "collection": "【歌切】[2026-06-25]初見◎BGM◎短一点！深夜静静治愈你！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YL7t6mEUQ?p=4",
+  "source": "323.js"
+},
+    {
+  "title": "マイハートハードピンチ",
+  "artist": "相対性理論",
+  "collection": "【歌切】[2026-06-25]初見◎BGM◎短一点！深夜静静治愈你！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YL7t6mEUQ?p=5",
+  "source": "323.js"
+},
+    {
+  "title": "地獄先生",
+  "artist": "相対性理論",
+  "collection": "【歌切】[2026-06-25]初見◎BGM◎短一点！深夜静静治愈你！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YL7t6mEUQ?p=6",
+  "source": "323.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-06-25]初見◎BGM◎短一点！深夜静静治愈你！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YL7t6mEUQ?p=7",
+  "source": "323.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat. 初音ミク",
+  "collection": "【歌切】[2026-06-25]初見◎BGM◎短一点！深夜静静治愈你！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YL7t6mEUQ?p=8",
+  "source": "323.js"
+},
+    {
+  "title": "ヴィラン",
+  "artist": "てにをは feat. flower",
+  "collection": "【歌切】[2026-06-25]初見◎BGM◎短一点！深夜静静治愈你！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YL7t6mEUQ?p=9",
+  "source": "323.js"
+},
+    {
+  "title": "古書屋敷殺人事件",
+  "artist": "てにをは feat. 初音ミク",
+  "collection": "【歌切】[2026-06-25]初見◎BGM◎短一点！深夜静静治愈你！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YL7t6mEUQ?p=10",
+  "source": "323.js"
+},
+    {
+  "title": "さようなら、花泥棒さん",
+  "artist": "メル feat. 初音ミク",
+  "collection": "【歌切】[2026-06-25]初見◎BGM◎短一点！深夜静静治愈你！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YL7t6mEUQ?p=11",
+  "source": "323.js"
+},
+    {
+  "title": "カフェオーレのうた",
+  "artist": "きっかレン",
+  "collection": "【歌切】[2026-06-25]初見◎BGM◎短一点！深夜静静治愈你！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YL7t6mEUQ?p=12",
+  "source": "323.js"
+},
+    {
+  "title": "世界の約束",
+  "artist": "倍賞千恵子",
+  "collection": "【歌切】[2026-06-25]初見◎BGM◎短一点！深夜静静治愈你！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YL7t6mEUQ?p=13",
+  "source": "323.js"
+},
+    {
+  "title": "今好きになる。",
+  "artist": "HoneyWorks feat. 初音ミク",
+  "collection": "【歌切】[2026-06-25]初見◎BGM◎短一点！深夜静静治愈你！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YL7t6mEUQ?p=14",
+  "source": "323.js"
+},
+    {
+  "title": "ミルククラウン・オン・ソーネチカ",
+  "artist": "ユジー feat. 初音ミク",
+  "collection": "【歌切】[2026-06-25]初見◎BGM◎短一点！深夜静静治愈你！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YL7t6mEUQ?p=15",
+  "source": "323.js"
+},
+    {
+  "title": "ハイドアンド・シーク",
+  "artist": "19's Sound Factory feat. 初音ミク",
+  "collection": "【歌切】[2026-06-25]初見◎BGM◎短一点！深夜静静治愈你！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YL7t6mEUQ?p=16",
+  "source": "323.js"
+},
+    {
+  "title": "マジで感謝！",
+  "artist": "T-Pistonz＋KMC",
+  "collection": "【歌切】[2026-06-25]初見◎BGM◎短一点！深夜静静治愈你！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YL7t6mEUQ?p=17",
+  "source": "323.js"
+},
+    {
+  "title": "青い珊瑚礁",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-06-25]初見◎BGM◎短一点！深夜静静治愈你！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YL7t6mEUQ?p=18",
   "source": "323.js"
 }
 );
