@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/24/2026, 4:56:09 AM
+// 生成时间: 6/24/2026, 5:07:07 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -18579,6 +18579,22 @@ window.SONG_DATA.push(
   "collection": "sifar Vtuber歌切 2026-06-23 为了众筹成功，用歌回接力传递接力棒哦",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Fkj96wENP?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH//",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-23 决定今年会是几岁的生日倒计时直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Gj96QEYX?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "赤猫",
+  "artist": "水曜日のカンパネラ",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-23 决定今年会是几岁的生日倒计时直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Gj96QEYX?p=2",
   "source": "others.js"
 },
     {
