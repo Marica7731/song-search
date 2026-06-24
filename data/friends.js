@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 6/24/2026, 8:57:16 PM
+// 生成时间: 6/24/2026, 9:08:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2331,6 +2331,86 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-06-24 演唱神曲云集的《名侦探柯南》主题歌！👓✨ CHIYURU ch.三日月ちゆる",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sU7s6tEuE?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat. 初音ミク",
+  "collection": "联动歌切 2026-06-24 要不要来首治愈的歌？❄️💫 蒼星すい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w67t6hEvJ?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "点描の唄",
+  "artist": "Mrs. GREEN APPLE feat. 井上苑子",
+  "collection": "联动歌切 2026-06-24 要不要来首治愈的歌？❄️💫 蒼星すい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w67t6hEvJ?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "联动歌切 2026-06-24 要不要来首治愈的歌？❄️💫 蒼星すい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w67t6hEvJ?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "联动歌切 2026-06-24 要不要来首治愈的歌？❄️💫 蒼星すい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w67t6hEvJ?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "Departures ～あなたにおくるアイの歌～",
+  "artist": "EGOIST",
+  "collection": "联动歌切 2026-06-24 要不要来首治愈的歌？❄️💫 蒼星すい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w67t6hEvJ?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "All Alone With You",
+  "artist": "EGOIST",
+  "collection": "联动歌切 2026-06-24 要不要来首治愈的歌？❄️💫 蒼星すい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w67t6hEvJ?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "联动歌切 2026-06-24 要不要来首治愈的歌？❄️💫 蒼星すい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w67t6hEvJ?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "贖罪",
+  "artist": "傘村トータ feat. VOCALOIDs",
+  "collection": "联动歌切 2026-06-24 要不要来首治愈的歌？❄️💫 蒼星すい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w67t6hEvJ?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "联动歌切 2026-06-24 要不要来首治愈的歌？❄️💫 蒼星すい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w67t6hEvJ?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra、かぐや(CV:夏吉ゆうこ)、月見ヤチヨ(CV:早見沙織)",
+  "collection": "联动歌切 2026-06-24 要不要来首治愈的歌？❄️💫 蒼星すい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w67t6hEvJ?p=10",
   "source": "friends.js"
 }
 );

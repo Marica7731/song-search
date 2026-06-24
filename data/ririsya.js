@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 6/24/2026, 8:38:12 PM
+// 生成时间: 6/24/2026, 8:48:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8431,7 +8431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "少女レイ",
-  "artist": "みきとP feat. 初音ミク",
+  "artist": "みきとP feat.初音ミク",
   "collection": "【 Acoustic 】リクエストで弾き語り💜Sing with a guitar #VTuber #shorts【VTuber/凛々咲 Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKeKzGEhq?p=1",
@@ -8439,7 +8439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜明けと蛍",
-  "artist": "n-buna feat. 初音ミク",
+  "artist": "n-buna feat.初音ミク",
   "collection": "【 Acoustic 】リクエストで弾き語り💜Sing with a guitar #VTuber #shorts【VTuber/凛々咲 Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKeKzGEhq?p=2",
@@ -8454,7 +8454,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "ゴースト",
+  "title": "GHOST",
   "artist": "星街すいせい",
   "collection": "【 Acoustic 】リクエストで弾き語り💜Sing with a guitar #VTuber #shorts【VTuber/凛々咲 Ririsya】",
   "up": "前尘往事如昔故",
@@ -8479,15 +8479,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "白金ディスコ",
-  "artist": "井口裕香",
+  "artist": "阿良々木月火(CV:井口裕香)",
   "collection": "【 Acoustic 】リクエストで弾き語り💜Sing with a guitar #VTuber #shorts【VTuber/凛々咲 Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKeKzGEhq?p=7",
   "source": "ririsya.js"
 },
     {
-  "title": "俺ら東京さ行くだ",
-  "artist": "麻丘めぐみ",
+  "title": "俺ら東京さ行ぐだ",
+  "artist": "吉幾三",
   "collection": "【 Acoustic 】リクエストで弾き語り💜Sing with a guitar #VTuber #shorts【VTuber/凛々咲 Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKeKzGEhq?p=8",
@@ -8502,8 +8502,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "EX ダーリン",
-  "artist": "ヤングスキニー",
+  "title": "ex ダーリン",
+  "artist": "クリープハイプ",
   "collection": "【 Acoustic 】リクエストで弾き語り💜Sing with a guitar #VTuber #shorts【VTuber/凛々咲 Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKeKzGEhq?p=10",
@@ -8519,15 +8519,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "チチをもげ！",
-  "artist": "高橋広樹",
+  "artist": "パルコ・フォルゴレ(CV:高橋広樹)",
   "collection": "【 Acoustic 】リクエストで弾き語り💜Sing with a guitar #VTuber #shorts【VTuber/凛々咲 Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKeKzGEhq?p=12",
   "source": "ririsya.js"
 },
     {
-  "title": "～DESIRE -情熱～",
-  "artist": "田原俊彦",
+  "title": "DESIRE -情熱-",
+  "artist": "中森明菜",
   "collection": "【 Acoustic 】リクエストで弾き語り💜Sing with a guitar #VTuber #shorts【VTuber/凛々咲 Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKeKzGEhq?p=13",
@@ -8535,7 +8535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ファンサ",
-  "artist": "mona (CV: 夏川椎菜)",
+  "artist": "mona(CV:夏川椎菜)",
   "collection": "【 Acoustic 】リクエストで弾き語り💜Sing with a guitar #VTuber #shorts【VTuber/凛々咲 Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKeKzGEhq?p=14",
@@ -8543,7 +8543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋はスリル、ショック、サスペンス",
-  "artist": "相川七瀬",
+  "artist": "愛内里菜",
   "collection": "【 Acoustic 】リクエストで弾き語り💜Sing with a guitar #VTuber #shorts【VTuber/凛々咲 Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKeKzGEhq?p=15",
@@ -8558,7 +8558,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "Bunny girl",
+  "title": "Bunny Girl",
   "artist": "AKASAKI",
   "collection": "【 Acoustic 】リクエストで弾き語り💜Sing with a guitar #VTuber #shorts【VTuber/凛々咲 Ririsya】",
   "up": "前尘往事如昔故",
