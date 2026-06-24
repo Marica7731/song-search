@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 6/24/2026, 7:48:12 PM
+// 生成时间: 6/24/2026, 7:56:47 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2227,6 +2227,110 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-06-16 三日月ちゆる x 白玖ウタノ HIMEHINA专场歌回，为七月嗨起来🥕👊🔥 GAZyXav1uDE",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14qj56wEj4?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿ヒデノリ",
+  "collection": "联动歌切 2026-06-24 《金色的卡修！！》限定歌回⚡ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xU7s6tE61?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "チチをもげ!",
+  "artist": "パルコ・フォルゴレ(CV:高橋広樹)",
+  "collection": "联动歌切 2026-06-24 《金色的卡修！！》限定歌回⚡ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xU7s6tE61?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "ベリーメロン ～私の心をつかんだ良いメロン～",
+  "artist": "ビクトリーム(CV:若本規夫)",
+  "collection": "联动歌切 2026-06-24 《金色的卡修！！》限定歌回⚡ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xU7s6tE61?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "ベリーメロン ～私の心をつかんだ良いメロン～",
+  "artist": "ビクトリーム(CV:若本規夫)",
+  "collection": "联动歌切 2026-06-24 《金色的卡修！！》限定歌回⚡ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xU7s6tE61?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "PERSONAL",
+  "artist": "上戸彩",
+  "collection": "联动歌切 2026-06-24 《金色的卡修！！》限定歌回⚡ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xU7s6tE61?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "君にこの声が 届きますように",
+  "artist": "谷本貴義",
+  "collection": "联动歌切 2026-06-24 《金色的卡修！！》限定歌回⚡ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xU7s6tE61?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "見えない翼",
+  "artist": "谷本貴義",
+  "collection": "联动歌切 2026-06-24 《金色的卡修！！》限定歌回⚡ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xU7s6tE61?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "キミがいれば",
+  "artist": "伊織",
+  "collection": "联动歌切 2026-06-24 演唱神曲云集的《名侦探柯南》主题歌！👓✨ CHIYURU ch.三日月ちゆる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sU7s6tEuE?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "联动歌切 2026-06-24 演唱神曲云集的《名侦探柯南》主题歌！👓✨ CHIYURU ch.三日月ちゆる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sU7s6tEuE?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "渡月橋 ～君 想ふ～",
+  "artist": "倉木麻衣",
+  "collection": "联动歌切 2026-06-24 演唱神曲云集的《名侦探柯南》主题歌！👓✨ CHIYURU ch.三日月ちゆる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sU7s6tEuE?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "Secret of my heart",
+  "artist": "倉木麻衣",
+  "collection": "联动歌切 2026-06-24 演唱神曲云集的《名侦探柯南》主题歌！👓✨ CHIYURU ch.三日月ちゆる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sU7s6tEuE?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "恋はスリル、ショック、サスペンス",
+  "artist": "愛内里菜",
+  "collection": "联动歌切 2026-06-24 演唱神曲云集的《名侦探柯南》主题歌！👓✨ CHIYURU ch.三日月ちゆる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sU7s6tEuE?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "謎",
+  "artist": "小松未歩",
+  "collection": "联动歌切 2026-06-24 演唱神曲云集的《名侦探柯南》主题歌！👓✨ CHIYURU ch.三日月ちゆる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sU7s6tEuE?p=6",
   "source": "friends.js"
 }
 );
