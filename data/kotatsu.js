@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 6/24/2026, 5:12:41 AM
+// 生成时间: 6/24/2026, 5:21:11 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7323,6 +7323,286 @@ window.SONG_DATA.push(
   "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=42",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "やどかり",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "福笑い",
+  "artist": "高橋優",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "恋だろ",
+  "artist": "wacci",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "GLORIA",
+  "artist": "YUI",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "虎",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "青空",
+  "artist": "THE BLUE HEARTS",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "あなたに",
+  "artist": "MONGOL800",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "鱗(うろこ)",
+  "artist": "秦基博",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "朝顔",
+  "artist": "コブクロ",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "キッス～帰り道のラブソング～",
+  "artist": "テゴマス",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ハチスは夏に背を向けて",
+  "artist": "メル feat. IA",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "boyfriend",
+  "artist": "阿部真央",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "吉原ラメント",
+  "artist": "亜沙 feat. 重音テト",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "桃ノ花ビラ",
+  "artist": "大塚 愛",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "BELIEVE",
+  "artist": "エンジェルス ハーモニー",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "モザイクロール",
+  "artist": "DECO*27 feat. GUMI",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "おどるポンポコリン",
+  "artist": "B.B.クィーンズ",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "君じゃない誰かなんて～Tejina～",
+  "artist": "DEEP",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "以心伝心",
+  "artist": "19",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "スパークル [original ver.]",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "真赤",
+  "artist": "My Hair is Bad",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "愛してるばんざーい!",
+  "artist": "μ's",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "バンザイ ～好きでよかった～",
+  "artist": "ウルフルズ",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "愛しい人へ",
+  "artist": "ET-KING",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "少年時代",
+  "artist": "井上陽水",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "炎と森のカーニバル",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "虹",
+  "artist": "二宮和也",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=29",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "嘘",
+  "artist": "シド",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=30",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "明日晴れるかな",
+  "artist": "桑田佳祐",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=31",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ラヴ・イズ・オーヴァー",
+  "artist": "欧陽菲菲",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=32",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "有明を撫でて",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=33",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ニーナ",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=34",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "エンディング",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16wj96bEai?p=35",
   "source": "kotatsu.js"
 }
 );

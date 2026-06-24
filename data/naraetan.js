@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 6/24/2026, 4:53:28 AM
+// 生成时间: 6/24/2026, 5:04:47 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10203,6 +10203,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "カクテル",
+  "artist": "Hysteric Blue",
+  "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "so much love for you",
+  "artist": "KOKIA",
+  "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ツギハギスタッカート",
+  "artist": "とあ feat. 初音ミク",
+  "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Drowning",
+  "artist": "WOODZ",
+  "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "リナリア",
+  "artist": "まるりとりゅうが",
+  "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "小さな恋のうた",
+  "artist": "MONGOL800",
+  "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "幾億光年",
+  "artist": "Omoinotake",
+  "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "赤い罠(who loves it?)",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=11",
   "source": "naraetan.js"
 },
     {
