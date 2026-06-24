@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/24/2026, 6:06:58 AM
+// 生成时间: 6/24/2026, 6:13:05 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -18395,22 +18395,6 @@ window.SONG_DATA.push(
   "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=13",
-  "source": "others.js"
-},
-    {
-  "title": "猫",
-  "artist": "DISH//",
-  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-23 决定今年会是几岁的生日倒计时直播🎶",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15Gj96QEYX?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "赤猫",
-  "artist": "水曜日のカンパネラ",
-  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-23 决定今年会是几岁的生日倒计时直播🎶",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15Gj96QEYX?p=2",
   "source": "others.js"
 },
     {
