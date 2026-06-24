@@ -9114,8 +9114,8 @@ window.SONG_DATA.push(
   "uploaderMid": 3546597260528367
 },
     {
-  "title": "月陽 -ツキアカリ-",
-  "artist": "りぶ",
+  "title": "月陽-ツキアカリ-",
+  "artist": "みきとP feat.GUMI",
   "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=1",
@@ -9137,7 +9137,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "太陽系デスコ",
-  "artist": "ナユタン星人",
+  "artist": "ナユタン星人 feat.初音ミク",
   "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=2",
@@ -9159,7 +9159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Make you hot!",
-  "artist": "あたたかくなる × FAKE TYPE.",
+  "artist": "あたたかくなる×FAKE TYPE.",
   "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=3",
@@ -9180,7 +9180,7 @@ window.SONG_DATA.push(
   "uploaderMid": 3546597260528367
 },
     {
-  "title": "ミラクルショッピング ～ドン・キホーテのテーマ～",
+  "title": "ミラクルショッピング 〜ドン・キホーテのテーマ〜",
   "artist": "田中マイミ",
   "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
@@ -9291,7 +9291,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "マシュマロ",
-  "artist": "DECO*27",
+  "artist": "DECO*27 feat.初音ミク",
   "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=9",
@@ -9312,8 +9312,8 @@ window.SONG_DATA.push(
   "uploaderMid": 3546597260528367
 },
     {
-  "title": "革命道中",
-  "artist": "アイナ・ジ・エンド",
+  "title": "革命道中 - On The Way",
+  "artist": "アイナ・ジ・エンド [TVアニメ ダンダダン 第2期]",
   "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=10",
@@ -9401,7 +9401,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "誇り高きアイドル",
-  "artist": "HoneyWorks feat. Kotoha",
+  "artist": "mona(CV:夏川椎菜) [HoneyWorks]",
   "collection": "【🍁歌切】[2026-04-25]在Live前！充满热情歌曲的歌回✨ 紅葉丸チャンネル Momijimaru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JBoXB4Enu?p=14",
