@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 6/24/2026, 6:46:49 AM
+// 生成时间: 6/24/2026, 6:59:27 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7299,6 +7299,174 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-20]悠闲歌回🌠 朱名 / SHUNA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dkj46jEsa?p=20",
+  "source": "shuna.js"
+},
+    {
+  "title": "Subtitle",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-06-23]助眠歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pZjX6wEqq?p=1",
+  "source": "shuna.js"
+},
+    {
+  "title": "Best Friend",
+  "artist": "Kiroro",
+  "collection": "【歌切】[2026-06-23]助眠歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pZjX6wEqq?p=2",
+  "source": "shuna.js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "back number",
+  "collection": "【歌切】[2026-06-23]助眠歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pZjX6wEqq?p=3",
+  "source": "shuna.js"
+},
+    {
+  "title": "長い間",
+  "artist": "Kiroro",
+  "collection": "【歌切】[2026-06-23]助眠歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pZjX6wEqq?p=4",
+  "source": "shuna.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【歌切】[2026-06-23]助眠歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pZjX6wEqq?p=5",
+  "source": "shuna.js"
+},
+    {
+  "title": "M",
+  "artist": "PRINCESS PRINCESS",
+  "collection": "【歌切】[2026-06-23]助眠歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pZjX6wEqq?p=6",
+  "source": "shuna.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-23]助眠歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pZjX6wEqq?p=7",
+  "source": "shuna.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-23]助眠歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pZjX6wEqq?p=8",
+  "source": "shuna.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-23]助眠歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pZjX6wEqq?p=9",
+  "source": "shuna.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-06-23]助眠歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pZjX6wEqq?p=10",
+  "source": "shuna.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【歌切】[2026-06-23]助眠歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pZjX6wEqq?p=11",
+  "source": "shuna.js"
+},
+    {
+  "title": "糸",
+  "artist": "中島みゆき",
+  "collection": "【歌切】[2026-06-23]助眠歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pZjX6wEqq?p=12",
+  "source": "shuna.js"
+},
+    {
+  "title": "未来予想図II",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【歌切】[2026-06-23]助眠歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pZjX6wEqq?p=13",
+  "source": "shuna.js"
+},
+    {
+  "title": "心の花を咲かせよう",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-23]助眠歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pZjX6wEqq?p=14",
+  "source": "shuna.js"
+},
+    {
+  "title": "帰りたくなったよ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-23]助眠歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pZjX6wEqq?p=15",
+  "source": "shuna.js"
+},
+    {
+  "title": "ソプラノ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-23]助眠歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pZjX6wEqq?p=16",
+  "source": "shuna.js"
+},
+    {
+  "title": "ノスタルジア",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-23]助眠歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pZjX6wEqq?p=17",
+  "source": "shuna.js"
+},
+    {
+  "title": "YELL",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-23]助眠歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pZjX6wEqq?p=18",
+  "source": "shuna.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-06-23]助眠歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pZjX6wEqq?p=19",
+  "source": "shuna.js"
+},
+    {
+  "title": "卒業写真",
+  "artist": "荒井由実",
+  "collection": "【歌切】[2026-06-23]助眠歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pZjX6wEqq?p=20",
+  "source": "shuna.js"
+},
+    {
+  "title": "手紙 ～拝啓 十五の君へ～",
+  "artist": "アンジェラ・アキ",
+  "collection": "【歌切】[2026-06-23]助眠歌回🌠 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pZjX6wEqq?p=21",
   "source": "shuna.js"
 }
 );
