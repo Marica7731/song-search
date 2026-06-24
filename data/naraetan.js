@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 6/24/2026, 6:12:53 AM
+// 生成时间: 6/24/2026, 6:24:20 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10291,6 +10291,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "翼をください",
+  "artist": "桜高軽音部",
+  "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "桃ノ花ビラ",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ありがとう",
+  "artist": "SunSet Swish",
+  "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "LET IT OUT",
+  "artist": "福原美穂",
+  "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "星合",
+  "artist": "all at once",
+  "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アイのシナリオ",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "はなまるぴっぴはよいこだけ",
+  "artist": "A応P",
+  "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=11",
   "source": "naraetan.js"
 },
     {
