@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 6/24/2026, 6:55:09 PM
+// 生成时间: 6/24/2026, 7:06:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -783,7 +783,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "フォニイ",
-  "artist": "ツミキ feat. 可不",
+  "artist": "ツミキ feat.可不",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=2",
@@ -807,7 +807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "抜錨",
-  "artist": "ナナホシ管弦楽団",
+  "artist": "ナナホシ管弦楽団 feat.巡音ルカ",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=5",
@@ -815,15 +815,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "レクイエム",
-  "artist": "Kanaria",
+  "artist": "Kanaria feat.星街すいせい",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=6",
   "source": "chiyutori .js"
 },
     {
-  "title": "ワールドイズマイン CPK! Remix",
-  "artist": "なし",
+  "title": "ワールドイズマインCPK! Remix",
+  "artist": "かぐや(cv.夏吉ゆうこ) 月見ヤチヨ(cv.早見沙織)",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=7",
@@ -862,8 +862,8 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "God Knows…",
-  "artist": "涼宮ハルヒ",
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(CV:平野綾)",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=12",
@@ -950,7 +950,7 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "Departures",
+  "title": "Departures 〜あなたにおくるアイの歌〜",
   "artist": "EGOIST",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
@@ -998,7 +998,7 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "secret base～君がくれたもの～",
+  "title": "secret base 〜君がくれたもの〜",
   "artist": "ZONE",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
@@ -1063,7 +1063,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ベリーメロン～私の心をつかんだ良いメロン～",
-  "artist": "ビクトリーム",
+  "artist": "ビクトリーム(CV:若本規夫)",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=37",
@@ -1119,7 +1119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜明けと蛍",
-  "artist": "n-buna",
+  "artist": "n-buna feat.初音ミク",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=44",
@@ -1151,7 +1151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君とコーヒー",
-  "artist": "Islet",
+  "artist": "Islet feat.Sando Aoi",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=48",
