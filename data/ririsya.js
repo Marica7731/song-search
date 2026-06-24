@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 6/24/2026, 8:48:02 PM
+// 生成时间: 6/24/2026, 8:57:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4047,7 +4047,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "運命のルーレット廻して",
-  "artist": "倉木麻衣",
+  "artist": "ZARD",
   "collection": "#名侦探柯南爱好者大集合歌枠接力【凛々咲】 那只耳朵塞住的话……〇已经……【虚拟主播/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vYo3YuEa6?p=1",
@@ -4055,7 +4055,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋はスリル、ショック、サスペンス",
-  "artist": "相川七瀬",
+  "artist": "愛内里菜",
   "collection": "#名侦探柯南爱好者大集合歌枠接力【凛々咲】 那只耳朵塞住的话……〇已经……【虚拟主播/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vYo3YuEa6?p=2",
@@ -4063,14 +4063,14 @@ window.SONG_DATA.push(
 },
     {
   "title": "Mysterious Eyes",
-  "artist": "倉木麻衣",
+  "artist": "GARNET CROW",
   "collection": "#名侦探柯南爱好者大集合歌枠接力【凛々咲】 那只耳朵塞住的话……〇已经……【虚拟主播/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vYo3YuEa6?p=3",
   "source": "ririsya.js"
 },
     {
-  "title": "Secret of My Heart",
+  "title": "Secret of my heart",
   "artist": "倉木麻衣",
   "collection": "#名侦探柯南爱好者大集合歌枠接力【凛々咲】 那只耳朵塞住的话……〇已经……【虚拟主播/ Ririsya】",
   "up": "前尘往事如昔故",
