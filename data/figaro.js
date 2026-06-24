@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 6/24/2026, 8:25:12 PM
+// 生成时间: 6/24/2026, 8:37:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -32243,6 +32243,158 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】#272[2026-06-21]助眠歌回✨睡前放松时间请享用🌙 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ys7c6dEDo?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "月陽 -ツキアカリ-",
+  "artist": "みきとP feat. GUMI",
+  "collection": "【💐歌切】[2026-06-24]周中！悠闲放松一下吧 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jN7x62Eza?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "妄想疾患■ガール",
+  "artist": "れるりり・大柴広己 feat. GUMI",
+  "collection": "【💐歌切】[2026-06-24]周中！悠闲放松一下吧 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jN7x62Eza?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "Plazma",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-06-24]周中！悠闲放松一下吧 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jN7x62Eza?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "fake face dance music",
+  "artist": "音田雅則",
+  "collection": "【💐歌切】[2026-06-24]周中！悠闲放松一下吧 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jN7x62Eza?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "ミュージック",
+  "artist": "サカナクション",
+  "collection": "【💐歌切】[2026-06-24]周中！悠闲放松一下吧 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jN7x62Eza?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿ヒデノリ",
+  "collection": "【💐歌切】[2026-06-24]周中！悠闲放松一下吧 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jN7x62Eza?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【💐歌切】[2026-06-24]周中！悠闲放松一下吧 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jN7x62Eza?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "スマトラ警備隊",
+  "artist": "相対性理論",
+  "collection": "【💐歌切】[2026-06-24]周中！悠闲放松一下吧 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jN7x62Eza?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "鏡面の波",
+  "artist": "YURiKA",
+  "collection": "【💐歌切】[2026-06-24]周中！悠闲放松一下吧 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jN7x62Eza?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "【💐歌切】[2026-06-24]周中！悠闲放松一下吧 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jN7x62Eza?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "SPYAIR",
+  "collection": "【💐歌切】[2026-06-24]周中！悠闲放松一下吧 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jN7x62Eza?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【💐歌切】[2026-06-24]周中！悠闲放松一下吧 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jN7x62Eza?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "ファタール",
+  "artist": "GEMN",
+  "collection": "【💐歌切】[2026-06-24]周中！悠闲放松一下吧 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jN7x62Eza?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "メフィスト",
+  "artist": "女王蜂",
+  "collection": "【💐歌切】[2026-06-24]周中！悠闲放松一下吧 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jN7x62Eza?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "【💐歌切】[2026-06-24]周中！悠闲放松一下吧 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jN7x62Eza?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "リライト",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "【💐歌切】[2026-06-24]周中！悠闲放松一下吧 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jN7x62Eza?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-06-24]周中！悠闲放松一下吧 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jN7x62Eza?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師、宇多田ヒカル",
+  "collection": "【💐歌切】[2026-06-24]周中！悠闲放松一下吧 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jN7x62Eza?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "正しくなれない",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【💐歌切】[2026-06-24]周中！悠闲放松一下吧 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jN7x62Eza?p=19",
   "source": "figaro.js"
 }
 );
