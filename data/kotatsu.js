@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 6/24/2026, 9:13:20 PM
+// 生成时间: 6/24/2026, 9:25:00 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7603,6 +7603,246 @@ window.SONG_DATA.push(
   "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=35",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "一人暮らし",
+  "artist": "高橋優",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "月灯りふんわり落ちてくる夜",
+  "artist": "小川七生",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "未来",
+  "artist": "ズーカラデル",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "グリグリメガネと月光蟲",
+  "artist": "古川本舗 feat. 初音ミク",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "オーダーメイド",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "国語",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "大丈夫",
+  "artist": "クリープハイプ",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよならまたね",
+  "artist": "キクチリョウタ",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "milk tea",
+  "artist": "福山雅治",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "三日月",
+  "artist": "くるり",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "白い色は恋人の色",
+  "artist": "ベッツィ＆クリス",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "かなしいうた",
+  "artist": "工藤祐次郎",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "サーカスナイト",
+  "artist": "七尾旅人",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Bye by me",
+  "artist": "Vaundy",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "あいとわ",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよならミッドナイト",
+  "artist": "大柴広己",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "くだらないの中に",
+  "artist": "星野源",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "森の小さなレストラン",
+  "artist": "手嶌葵",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "YUME日和",
+  "artist": "島谷ひとみ",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Namidairo",
+  "artist": "YUI",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "蛍の光",
+  "artist": "童謡・唱歌",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=29",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "サヨナラにさよなら",
+  "artist": "テゴマス",
+  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=30",
   "source": "kotatsu.js"
 }
 );

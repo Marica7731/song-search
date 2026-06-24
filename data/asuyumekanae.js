@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 6/24/2026, 8:43:49 PM
+// 生成时间: 6/24/2026, 8:54:25 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3907,6 +3907,214 @@ window.SONG_DATA.push(
   "collection": "【明日夢 歌切】[2026-06-20]嗨翻全场的超兴奋歌回！！！ 明日夢かなえ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Mjj46NEjN?p=28",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ユメヲカケル！",
+  "artist": "スペシャルウィーク(CV.和氣あず未)、サイレンススズカ(CV.高野麻里佳)、トウカイテイオー(CV.Machico)、ウオッカ(C",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ノーザンクロス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Don't say \"lazy\"",
+  "artist": "桜高軽音部",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "翼をください",
+  "artist": "桜高軽音部",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "残機",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "TAIDADA",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "プライド革命",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(CV.平野綾)",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "瞬間センチメンタル",
+  "artist": "SCANDAL",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "拝啓、少年よ",
+  "artist": "Hump Back",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "小喋日和",
+  "artist": "FantasticYouth",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "心よ原始に戻れ",
+  "artist": "高橋洋子",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=21",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "集結の園へ",
+  "artist": "林原めぐみ",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=22",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=23",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ワルキューレがとまらない",
+  "artist": "ワルキューレ",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=24",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "The Everlasting Guilty Crown",
+  "artist": "EGOIST",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=25",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=26",
   "source": "asuyumekanae.js"
 },
     {
