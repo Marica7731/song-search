@@ -877,6 +877,66 @@
           return normalized;
         }
 
+        function getSongField(songOrTitle, field) {
+            if (songOrTitle && typeof songOrTitle === 'object') {
+                return songOrTitle[field] || '';
+            }
+            return field === 'title' ? songOrTitle : '';
+        }
+
+        function includesAny(value, needles) {
+            return needles.some(needle => value.includes(normalizeString(needle)));
+        }
+
+        function isWorldIsMineTitle(titleKey) {
+            return titleKey === normalizeString('ワールドイズマイン')
+                || titleKey === normalizeString('ワールドイズマインCPK! Remix')
+                || titleKey === normalizeString('ワールドイズマイン CPK! Remix');
+        }
+
+        function isRayTitle(titleKey) {
+            return titleKey === normalizeString('ray')
+                || titleKey.includes(normalizeString('ray 超かぐや姫'))
+                || titleKey.includes(normalizeString('ray(超かぐや姫'))
+                || titleKey.includes(normalizeString('ray (超かぐや姫'))
+                || titleKey.includes(normalizeString('ray（超かぐや姫'));
+        }
+
+        function normalizeSongIdentityKey(songOrTitle) {
+            const titleKey = normalizeSongTitleKey(getSongField(songOrTitle, 'title'));
+            const artistKey = normalizeString(getSongField(songOrTitle, 'artist'));
+            const originalArtistKey = normalizeString(getSongField(songOrTitle, 'originalArtist'));
+            const combined = `${titleKey} ${artistKey} ${originalArtistKey}`;
+
+            if (isWorldIsMineTitle(titleKey)) {
+                if (
+                    titleKey.includes(normalizeString('cpk! remix'))
+                    || includesAny(combined, ['超かぐや姫', 'かぐや', '月見ヤチヨ', '夏吉ゆうこ', '早見沙織'])
+                ) {
+                    return normalizeString('ワールドイズマインCPK! Remix');
+                }
+                return normalizeString('ワールドイズマイン');
+            }
+
+            if (isRayTitle(titleKey)) {
+                if (
+                    titleKey.includes(normalizeString('超かぐや姫'))
+                    || includesAny(combined, ['超かぐや姫', 'かぐや', '月見ヤチヨ', '夏吉ゆうこ', '早見沙織'])
+                ) {
+                    return normalizeString('ray（超かぐや姫！Ver.）');
+                }
+                if (titleKey === normalizeString('ray')) return titleKey;
+            }
+
+            return titleKey;
+        }
+
+        const ARTIST_AGNOSTIC_IDENTITY_KEYS = new Set([
+            normalizeString('ワールドイズマイン'),
+            normalizeString('ワールドイズマインCPK! Remix'),
+            normalizeString('ray（超かぐや姫！Ver.）')
+        ]);
+
         function hasContinuousCommonStr(str1, str2, minLength = 2) {
             const s1 = normalizeString(str1);
             const s2 = normalizeString(str2);
@@ -889,9 +949,10 @@
         }
 
         function isSameSong(songA, songB) {
-            const titleA = normalizeSongTitleKey(songA.title || '未知歌曲');
-            const titleB = normalizeSongTitleKey(songB.title || '未知歌曲');
+            const titleA = normalizeSongIdentityKey(songA);
+            const titleB = normalizeSongIdentityKey(songB);
             if (titleA !== titleB) return false;
+            if (ARTIST_AGNOSTIC_IDENTITY_KEYS.has(titleA)) return true;
 
             const artistA = (songA.artist || '').trim();
             const artistB = (songB.artist || '').trim();
@@ -910,7 +971,7 @@
             
             const titleGroup = {};
             data.forEach(song => {
-                const titleKey = normalizeSongTitleKey(song.title || '未知歌曲');
+                const titleKey = normalizeSongIdentityKey(song);
                 if (!titleGroup[titleKey]) titleGroup[titleKey] = [];
                 titleGroup[titleKey].push(song);
             });
