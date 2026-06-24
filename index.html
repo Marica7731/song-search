@@ -714,6 +714,15 @@
             return s.toLowerCase();
         }
 
+        function normalizeSongTitleKey(title) {
+            const normalized = normalizeString(title || '未知歌曲');
+            const compactWave = normalized.replace(/\s*~\s*/g, '~');
+            if (/^フクロウ~フクロウが知らせる客が来たと~?$/.test(compactWave)) {
+                return 'フクロウ~フクロウが知らせる客が来たと~';
+            }
+            return normalized;
+        }
+
         function hasContinuousCommonStr(str1, str2, minLength = 2) {
             const s1 = normalizeString(str1);
             const s2 = normalizeString(str2);
@@ -726,8 +735,8 @@
         }
 
         function isSameSong(songA, songB) {
-            const titleA = normalizeString(songA.title || '未知歌曲');
-            const titleB = normalizeString(songB.title || '未知歌曲');
+            const titleA = normalizeSongTitleKey(songA.title || '未知歌曲');
+            const titleB = normalizeSongTitleKey(songB.title || '未知歌曲');
             if (titleA !== titleB) return false;
 
             const artistA = (songA.artist || '').trim();
@@ -747,7 +756,7 @@
             
             const titleGroup = {};
             data.forEach(song => {
-                const titleKey = normalizeString(song.title || '未知歌曲');
+                const titleKey = normalizeSongTitleKey(song.title || '未知歌曲');
                 if (!titleGroup[titleKey]) titleGroup[titleKey] = [];
                 titleGroup[titleKey].push(song);
             });
