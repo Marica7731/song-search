@@ -714,13 +714,167 @@
             return s.toLowerCase();
         }
 
+        const TITLE_CANONICAL_ALIAS_GROUPS = [
+          {
+            canonical: 'フクロウ~フクロウが知らせる客が来たと~',
+            aliases: [
+              'フクロウ ～フクロウが知らせる客が来たと～',
+              'フクロウ 〜フクロウが知らせる客が来たと〜',
+              'フクロウ~フクロウが知らせる客が来たと~',
+              'フクロウ～フクロウが知らせる客が来たと～',
+              'フクロウ ～フクロウが知らせる客が来たと'
+            ]
+          },
+          {
+            canonical: 'secret base ~君がくれたもの~',
+            aliases: [
+              'secret base ～君がくれたもの～',
+              'secret base～君がくれたもの～',
+              'secret base 〜君がくれたもの〜',
+              'secret base〜君がくれたもの〜',
+              'secret base ~君がくれたもの',
+              'secret base〜君がくれたもの',
+              'secret base～君がくれたもの',
+              'Secret base～君がくれたもの～',
+              'Secret Base 〜君がくれたもの〜'
+            ]
+          },
+          {
+            canonical: 'departures ~あなたにおくるアイの歌~',
+            aliases: [
+              'Departures ～あなたにおくるアイの歌～',
+              'Departures 〜あなたにおくるアイの歌〜',
+              'Departures〜あなたにおくるアイの歌〜',
+              'Departures 〜あなたにおくるアイの歌',
+              'Departures～あなたにおくるアイの歌～',
+              'Departures~あなたにおくるアイの歌~',
+              'Departures~ あなたにおくるアイの歌~'
+            ]
+          },
+          {
+            canonical: '渡月橋~君想ふ~',
+            aliases: [
+              '渡月橋～君想ふ～',
+              '渡月橋 ～君 想ふ～',
+              '渡月橋 〜君 想ふ〜',
+              '渡月橋～君 想ふ～'
+            ]
+          },
+          {
+            canonical: 'rain stops, good-bye',
+            aliases: ['rain stops, good-bye', 'rain stops,good-bye', 'rain stops, good -bye']
+          },
+          {
+            canonical: 'angelus -アンジェラス',
+            aliases: ['ANGELUS -アンジェラス', 'ANGELUS-アンジェラス', 'ANGELUS -アンジェラス-']
+          },
+          {
+            canonical: 'axia~ダイスキでダイキライ~',
+            aliases: [
+              'AXIA～ダイスキでダイキライ',
+              'AXIA ～ダイスキでダイキライ～',
+              'AXIA～ダイスキでダイキライ～',
+              'AXIA ~ダイスキでダイキライ~',
+              'AXIA〜ダイスキでダイキライ〜'
+            ]
+          },
+          {
+            canonical: 'don\'t say "lazy"',
+            aliases: ['Don\'t say "lazy"', 'Don\'t say lazy', 'Don\'t say “lazy”', 'Don\'t say"lazy"']
+          },
+          {
+            canonical: '津軽海峡・冬景色',
+            aliases: ['津軽海峡・冬景色', '津軽海峡冬景色', '津軽海峡･冬景色']
+          },
+          {
+            canonical: '手紙 ~拝啓 十五の君へ~',
+            aliases: [
+              '手紙 〜拝啓 十五の君へ〜',
+              '手紙～拝啓 十五の君へ～',
+              '手紙 ～拝啓十五の君へ～',
+              '手紙～拝啓  十五の君へ～',
+              '手紙～拝啓　十五の君へ～',
+              '手紙 ～拝啓 十五の君へ～'
+            ]
+          },
+          {
+            canonical: 'ワンルーム・オール・ザット・ジャズ',
+            aliases: [
+              'ワンルーム・オール・ザット・ジャズ',
+              'ワンルームオールザットジャズ',
+              'ワンルーム・オール・ザット・ジャズ!'
+            ]
+          },
+          {
+            canonical: 'サムライハート(some like it hot!!)',
+            aliases: [
+              'サムライハート(Some Like It Hot!!)',
+              'サムライハート(Some Like It Hot！)',
+              'サムライハート(Some Like it Hot!!)',
+              'サムライハート(SomeLikeItHot!!)'
+            ]
+          },
+          {
+            canonical: 'dear mr「f」',
+            aliases: ['Dear. Mr「F」', 'Dear Mr 『F』', 'Dear Mr 「F」']
+          },
+          {
+            canonical: '寝・逃・げでリセット',
+            aliases: ['寝・逃・げでリセット', '寝逃げでリセット!', '寝・逃・げでリセット！']
+          },
+          {
+            canonical: 'hello ~paradise kiss~',
+            aliases: [
+              'HELLO ～Paradise Kiss～',
+              'Hello ～ Paradise Kiss',
+              'Hello ～ Paradise Kiss～',
+              'HELLO 〜Paradise Kiss〜'
+            ]
+          },
+          {
+            canonical: 'butter-fly',
+            aliases: ['Butter-Fly', 'Butter fly', 'Butter-fly']
+          },
+          {
+            canonical: 'おジャ魔女カーニバル!!',
+            aliases: ['おジャ魔女カーニバル!!', 'おジャ魔女カーニバル！！', 'おジャ魔女カーニバル']
+          },
+          {
+            canonical: 'iris out',
+            aliases: ['IRIS OUT', 'IRISOUT', 'IRIS　OUT', 'Iris out']
+          },
+          {
+            canonical: 'night dancer',
+            aliases: ['NIGHT DANCER', 'Night Dancer', 'NIGHTDANCER']
+          },
+          {
+            canonical: 'overdose',
+            aliases: ['Overdose', 'overdose', 'over dose']
+          },
+          {
+            canonical: '言って。',
+            aliases: ['言って。', '言って']
+          },
+          {
+            canonical: 'さよーならまたいつか!',
+            aliases: ['さよーならまたいつか！', 'さよーならまたいつか!', 'さよーならまたいつか']
+          }
+        ];
+        
+        const TITLE_CANONICAL_ALIAS_MAP = TITLE_CANONICAL_ALIAS_GROUPS.reduce((map, group) => {
+          const canonical = normalizeString(group.canonical);
+          [group.canonical, ...(group.aliases || [])].forEach(alias => {
+            const normalized = normalizeString(alias);
+            if (normalized) map.set(normalized, canonical);
+          });
+          return map;
+        }, new Map());
+        
         function normalizeSongTitleKey(title) {
-            const normalized = normalizeString(title || '未知歌曲');
-            const compactWave = normalized.replace(/\s*~\s*/g, '~');
-            if (/^フクロウ~フクロウが知らせる客が来たと~?$/.test(compactWave)) {
-                return 'フクロウ~フクロウが知らせる客が来たと~';
-            }
-            return normalized;
+          const normalized = normalizeString(title || '未知歌曲');
+          const canonical = TITLE_CANONICAL_ALIAS_MAP.get(normalized);
+          if (canonical) return canonical;
+          return normalized;
         }
 
         function hasContinuousCommonStr(str1, str2, minLength = 2) {
