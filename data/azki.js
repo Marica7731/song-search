@@ -1,6 +1,6 @@
 // AZKi - 歌单数据 (多合集汇总)
 // 来源: BV1dE42137AT
-// 生成时间: 6/24/2026, 7:14:53 PM
+// 生成时间: 6/24/2026, 7:29:41 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5139,6 +5139,78 @@ window.SONG_DATA.push(
   "collection": "AZKi 2026年5月9日22点场 T08uC1Mx5BY うたう！！！！！！！！！！！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CjVe6iEvx?p=8",
+  "source": "azki.js"
+},
+    {
+  "title": "rise",
+  "artist": "ORIGA",
+  "collection": "AZKi 2026年06月24日19点场 重大告知させてください！！！！！Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D81dYfECc?p=1",
+  "source": "azki.js"
+},
+    {
+  "title": "Ex-Otogibanashi",
+  "artist": "ryo(supercell)、かぐや(CV:夏吉ゆうこ)、月見ヤチヨ(CV:早見沙織)",
+  "collection": "AZKi 2026年06月24日19点场 重大告知させてください！！！！！Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D81dYfECc?p=2",
+  "source": "azki.js"
+},
+    {
+  "title": "Secret of my heart",
+  "artist": "倉木麻衣",
+  "collection": "AZKi 2026年06月24日19点场 重大告知させてください！！！！！Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D81dYfECc?p=3",
+  "source": "azki.js"
+},
+    {
+  "title": "ANIMA",
+  "artist": "ReoNa",
+  "collection": "AZKi 2026年06月24日19点场 重大告知させてください！！！！！Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D81dYfECc?p=4",
+  "source": "azki.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "AZKi 2026年06月24日19点场 重大告知させてください！！！！！Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D81dYfECc?p=5",
+  "source": "azki.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "AZKi 2026年06月24日19点场 重大告知させてください！！！！！Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D81dYfECc?p=6",
+  "source": "azki.js"
+},
+    {
+  "title": "光るなら",
+  "artist": "Goose house",
+  "collection": "AZKi 2026年06月24日19点场 重大告知させてください！！！！！Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D81dYfECc?p=7",
+  "source": "azki.js"
+},
+    {
+  "title": "ray 超かぐや姫！ Version",
+  "artist": "かぐや(CV:夏吉ゆうこ)、月見ヤチヨ(CV:早見沙織)",
+  "collection": "AZKi 2026年06月24日19点场 重大告知させてください！！！！！Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D81dYfECc?p=8",
+  "source": "azki.js"
+},
+    {
+  "title": "ワールドイズマインCPK! Remix",
+  "artist": "かぐや(cv.夏吉ゆうこ) 月見ヤチヨ(cv.早見沙織)",
+  "collection": "AZKi 2026年06月24日19点场 重大告知させてください！！！！！Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D81dYfECc?p=9",
   "source": "azki.js"
 }
 );
