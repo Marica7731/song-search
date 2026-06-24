@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 6/24/2026, 9:26:23 PM
+// 生成时间: 6/24/2026, 9:34:09 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4751,7 +4751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ラストリゾート",
-  "artist": "Ayase",
+  "artist": "Ayase feat.初音ミク",
   "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=3",
@@ -4759,7 +4759,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "CH4NGE",
-  "artist": "Giga",
+  "artist": "Giga feat.可不",
   "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=4",
@@ -4782,8 +4782,8 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "月陽",
-  "artist": "みきとP",
+  "title": "月陽-ツキアカリ-",
+  "artist": "みきとP feat.GUMI",
   "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=7",
@@ -4791,7 +4791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エンヴィーベイビー",
-  "artist": "Kanaria",
+  "artist": "Kanaria feat.GUMI",
   "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=8",
@@ -4815,7 +4815,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "flos",
-  "artist": "R Sound Design",
+  "artist": "R Sound Design feat.初音ミク",
   "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=11",
@@ -4831,7 +4831,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "雨とペトラ",
-  "artist": "バルーン",
+  "artist": "バルーン feat.flower",
   "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=13",
@@ -4839,7 +4839,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ダーリン",
-  "artist": "バルーン",
+  "artist": "バルーン feat.flower",
   "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=14",
@@ -4847,7 +4847,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ロウワー",
-  "artist": "ぬゆり",
+  "artist": "ぬゆり feat.flower",
   "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=15",
@@ -4855,7 +4855,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ジェヘナ",
-  "artist": "wotaku",
+  "artist": "wotaku feat.初音ミク",
   "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=16",
@@ -4871,7 +4871,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "真生活",
-  "artist": "案山子",
+  "artist": "案山子 feat.初音ミク",
   "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=18",
@@ -4879,7 +4879,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ルーマー",
-  "artist": "ポリスピカデリー",
+  "artist": "ポリスピカデリー feat.GUMI",
   "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=19",
@@ -4887,7 +4887,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "GURU",
-  "artist": "じん",
+  "artist": "じん feat.可不",
   "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=20",
@@ -4895,7 +4895,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "フォニイ",
-  "artist": "ツミキ",
+  "artist": "ツミキ feat.可不",
   "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=21",
@@ -4903,7 +4903,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "病名は愛だった",
-  "artist": "Neru & z'5",
+  "artist": "Neru & z'5 feat.鏡音リン・鏡音レン",
   "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=22",
@@ -4911,7 +4911,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Gimme×Gimme",
-  "artist": "八王子P × Giga",
+  "artist": "八王子P×Giga feat.初音ミク・鏡音リン",
   "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=23",
@@ -4919,7 +4919,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "第三の心臓",
-  "artist": "はるまきごはん",
+  "artist": "はるまきごはん feat.初音ミク",
   "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=24",
@@ -15527,7 +15527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "U",
-  "artist": "millennium parade & Belle",
+  "artist": "millennium parade × Belle",
   "collection": "Figaro 竖屏 2025年5月8日 放課後にぴったりの1曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q879zVE2m?p=1",
@@ -15535,7 +15535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "少女レイ",
-  "artist": "みきとP",
+  "artist": "みきとP feat.初音ミク",
   "collection": "Figaro 竖屏 2025年5月8日 放課後にぴったりの1曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q879zVE2m?p=2",
@@ -15615,7 +15615,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "フォニイ",
-  "artist": "ツミキ",
+  "artist": "ツミキ feat.可不",
   "collection": "Figaro 竖屏 2025年5月8日 放課後にぴったりの1曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q879zVE2m?p=12",
@@ -15631,15 +15631,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "アイワナムチュー",
-  "artist": "MAISONdes",
+  "artist": "MAISONdes feat.asmi, すりぃ",
   "collection": "Figaro 竖屏 2025年5月8日 放課後にぴったりの1曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q879zVE2m?p=14",
   "source": "figaro.js"
 },
     {
-  "title": "月陽",
-  "artist": "みきとP",
+  "title": "月陽-ツキアカリ-",
+  "artist": "みきとP feat.GUMI",
   "collection": "Figaro 竖屏 2025年5月8日 放課後にぴったりの1曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q879zVE2m?p=15",
@@ -15655,7 +15655,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "幽霊東京",
-  "artist": "Ayase",
+  "artist": "Ayase feat.初音ミク",
   "collection": "Figaro 竖屏 2025年5月8日 放課後にぴったりの1曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q879zVE2m?p=17",
@@ -15663,7 +15663,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シネマ",
-  "artist": "Ayase",
+  "artist": "Ayase feat.初音ミク",
   "collection": "Figaro 竖屏 2025年5月8日 放課後にぴったりの1曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q879zVE2m?p=18",
@@ -15671,7 +15671,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "またねがあれば",
-  "artist": "澤田 空海理",
+  "artist": "risou feat.初音ミク",
   "collection": "Figaro 竖屏 2025年5月8日 放課後にぴったりの1曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q879zVE2m?p=19",
@@ -30671,7 +30671,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "マーシャル・マキシマイザー",
-  "artist": "柊マグネタイト",
+  "artist": "柊マグネタイト feat.可不",
   "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=2",
@@ -30679,7 +30679,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "白い雪のプリンセスは",
-  "artist": "のぼる↑",
+  "artist": "のぼる↑P feat.初音ミク",
   "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=3",
@@ -30751,15 +30751,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "アングレイデイズ",
-  "artist": "ツミキ",
+  "artist": "ツミキ feat.鏡音リン",
   "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=12",
   "source": "figaro.js"
 },
     {
-  "title": "月陽",
-  "artist": "みきとP",
+  "title": "月陽-ツキアカリ-",
+  "artist": "みきとP feat.GUMI",
   "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=13",
@@ -30767,7 +30767,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "プロポーズ",
-  "artist": "内緒のピアス",
+  "artist": "内緒のピアス feat.可不",
   "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=14",
@@ -30775,7 +30775,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "創聖のアクエリオン",
-  "artist": "AKINO",
+  "artist": "AKINO from bless4",
   "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=15",
