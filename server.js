@@ -7,6 +7,8 @@ const { URL } = require('url');
 const {
   normalizeString,
   normalizeSongTitleKey,
+  normalizeSongIdentityKey,
+  getCanonicalSongIdentityDisplay,
   isSameSong,
   areArtistsCompatible,
   matchesArtistCondition
@@ -134,7 +136,7 @@ function buildUniqueSongClusters(data) {
   if (!Array.isArray(data) || data.length === 0) return [];
   const titleGroup = {};
   data.forEach(song => {
-    const titleKey = normalizeSongTitleKey(song.title || '未知歌曲');
+    const titleKey = normalizeSongIdentityKey(song);
     if (!titleGroup[titleKey]) titleGroup[titleKey] = [];
     titleGroup[titleKey].push(song);
   });
@@ -733,7 +735,7 @@ function buildGrowthUniqueDetailSongs(songs, targetDate) {
   const items = [];
   const titleGroup = new Map();
   (Array.isArray(songs) ? songs : []).forEach(song => {
-    const titleKey = normalizeSongTitleKey(song?.title || '未知歌曲');
+    const titleKey = normalizeSongIdentityKey(song);
     if (!titleGroup.has(titleKey)) titleGroup.set(titleKey, []);
     titleGroup.get(titleKey).push(song);
   });
@@ -815,7 +817,7 @@ function buildPublishUniqueRows(songs) {
   const byDate = new Map();
   const titleGroup = new Map();
   (Array.isArray(songs) ? songs : []).forEach(song => {
-    const titleKey = normalizeSongTitleKey(song?.title || '未知歌曲');
+    const titleKey = normalizeSongIdentityKey(song);
     if (!titleGroup.has(titleKey)) titleGroup.set(titleKey, []);
     titleGroup.get(titleKey).push(song);
   });
@@ -1942,17 +1944,18 @@ function aggregateBySong(data) {
   data.forEach(item => {
     const artist = item.artist || '';
     const title = item.title || '未知歌曲';
-    const titleKey = normalizeSongTitleKey(title);
+    const titleKey = normalizeSongIdentityKey(item);
     if (!titleGroups.has(titleKey)) {
       titleGroups.set(titleKey, []);
     }
     const groups = titleGroups.get(titleKey);
     let entry = groups.find(saved => isSameSong(item, saved, isValidArtist));
     if (!entry) {
+      const display = getCanonicalSongIdentityDisplay(item) || { title, artist };
       entry = {
         key: `${titleKey}|${groups.length}`,
-        title,
-        artist,
+        title: display.title,
+        artist: display.artist,
         originalArtist: item.originalArtist || '',
         count: 0,
         performances: [],
@@ -2002,17 +2005,21 @@ function aggregateByVtuberSource(data) {
     const vtuberEntry = map.get(sourceKey);
     const bvid = getSongBvid(item);
     if (bvid) vtuberEntry.bvSet.add(bvid);
-    const titleKey = normalizeSongTitleKey(item.title || '未知歌曲');
+    const titleKey = normalizeSongIdentityKey(item);
     if (!vtuberEntry.songGroups.has(titleKey)) {
       vtuberEntry.songGroups.set(titleKey, []);
     }
     const groups = vtuberEntry.songGroups.get(titleKey);
     let songEntry = groups.find(saved => isSameSong(item, saved.representative, isValidArtist));
     if (!songEntry) {
+      const display = getCanonicalSongIdentityDisplay(item) || {
+        title: item.title || '未知歌曲',
+        artist: item.artist || ''
+      };
       songEntry = {
         representative: item,
-        title: item.title || '未知歌曲',
-        artist: item.artist || '',
+        title: display.title,
+        artist: display.artist,
         originalArtist: item.originalArtist || '',
         cover: item.cover || '',
         count: 0,
@@ -2061,10 +2068,11 @@ function aggregateByArtist(data) {
       });
     }
     const artistEntry = map.get(key);
-    const songKey = normalizeSongTitleKey(item.title || '未知歌曲');
+    const songKey = normalizeSongIdentityKey(item);
     if (!artistEntry.songs.has(songKey)) {
+      const display = getCanonicalSongIdentityDisplay(item);
       artistEntry.songs.set(songKey, {
-        title: item.title || '未知歌曲',
+        title: display?.title || item.title || '未知歌曲',
         cover: item.cover || '',
         count: 0,
         links: []

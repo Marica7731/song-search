@@ -226,6 +226,99 @@
     return normalized;
   }
 
+  function getSongField(songOrTitle, field) {
+    if (songOrTitle && typeof songOrTitle === 'object') {
+      return songOrTitle[field] || '';
+    }
+    return field === 'title' ? songOrTitle : '';
+  }
+
+  function includesAny(value, needles) {
+    return needles.some(needle => value.includes(normalizeString(needle)));
+  }
+
+  function isWorldIsMineTitle(titleKey) {
+    return titleKey === normalizeString('ワールドイズマイン')
+      || titleKey === normalizeString('ワールドイズマインCPK! Remix')
+      || titleKey === normalizeString('ワールドイズマイン CPK! Remix');
+  }
+
+  function isRayTitle(titleKey) {
+    return titleKey === normalizeString('ray')
+      || titleKey.includes(normalizeString('ray 超かぐや姫'))
+      || titleKey.includes(normalizeString('ray(超かぐや姫'))
+      || titleKey.includes(normalizeString('ray (超かぐや姫'))
+      || titleKey.includes(normalizeString('ray（超かぐや姫'));
+  }
+
+  function normalizeSongIdentityKey(songOrTitle) {
+    const titleKey = normalizeSongTitleKey(getSongField(songOrTitle, 'title'));
+    const artistKey = normalizeString(getSongField(songOrTitle, 'artist'));
+    const originalArtistKey = normalizeString(getSongField(songOrTitle, 'originalArtist'));
+    const combined = `${titleKey} ${artistKey} ${originalArtistKey}`;
+
+    if (isWorldIsMineTitle(titleKey)) {
+      if (
+        titleKey.includes(normalizeString('cpk! remix'))
+        || includesAny(combined, ['超かぐや姫', 'かぐや', '月見ヤチヨ', '夏吉ゆうこ', '早見沙織'])
+      ) {
+        return normalizeString('ワールドイズマインCPK! Remix');
+      }
+      return normalizeString('ワールドイズマイン');
+    }
+
+    if (isRayTitle(titleKey)) {
+      if (
+        titleKey.includes(normalizeString('超かぐや姫'))
+        || includesAny(combined, ['超かぐや姫', 'かぐや', '月見ヤチヨ', '夏吉ゆうこ', '早見沙織'])
+      ) {
+        return normalizeString('ray（超かぐや姫！Ver.）');
+      }
+      if (titleKey === normalizeString('ray')) return titleKey;
+    }
+
+    return titleKey;
+  }
+
+  const ARTIST_AGNOSTIC_IDENTITY_KEYS = new Set([
+    normalizeString('ワールドイズマイン'),
+    normalizeString('ワールドイズマインCPK! Remix'),
+    normalizeString('ray（超かぐや姫！Ver.）')
+  ]);
+
+  function getCanonicalSongIdentityDisplay(songOrTitle) {
+    const key = normalizeSongIdentityKey(songOrTitle);
+    const artistKey = normalizeString(getSongField(songOrTitle, 'artist'));
+    const originalArtistKey = normalizeString(getSongField(songOrTitle, 'originalArtist'));
+    const combinedArtist = `${artistKey} ${originalArtistKey}`;
+    if (key === normalizeString('ワールドイズマインCPK! Remix')) {
+      return {
+        title: 'ワールドイズマインCPK! Remix',
+        artist: 'かぐや(cv.夏吉ゆうこ), 月見ヤチヨ(cv.早見沙織)'
+      };
+    }
+    if (key === normalizeString('ワールドイズマイン')) {
+      return {
+        title: 'ワールドイズマイン',
+        artist: 'ryo(supercell) feat.初音ミク'
+      };
+    }
+    if (key === normalizeString('ray（超かぐや姫！Ver.）')) {
+      return {
+        title: 'ray（超かぐや姫！Ver.）',
+        artist: 'かぐや(cv.夏吉ゆうこ), 月見ヤチヨ(cv.早見沙織)'
+      };
+    }
+    if (key === normalizeString('ray')) {
+      if (!includesAny(combinedArtist, ['BUMP OF CHICKEN', 'HATSUNE MIKU', '初音ミク'])) return null;
+      return {
+        title: 'ray',
+        artist: 'BUMP OF CHICKEN'
+      };
+    }
+    return null;
+  }
+
   function toHiragana(value) {
     return normalizeString(value).replace(/[\u30A1-\u30F6]/g, ch =>
       String.fromCharCode(ch.charCodeAt(0) - 0x60)
@@ -324,9 +417,10 @@
   }
 
   function isSameSong(songA, songB, isValidArtistFn) {
-    const titleA = normalizeSongTitleKey(songA?.title || '未知歌曲');
-    const titleB = normalizeSongTitleKey(songB?.title || '未知歌曲');
+    const titleA = normalizeSongIdentityKey(songA);
+    const titleB = normalizeSongIdentityKey(songB);
     if (titleA !== titleB) return false;
+    if (ARTIST_AGNOSTIC_IDENTITY_KEYS.has(titleA)) return true;
 
     const artistA = String(songA?.artist || '').trim();
     const artistB = String(songB?.artist || '').trim();
@@ -362,6 +456,8 @@
   return {
     normalizeString,
     normalizeSongTitleKey,
+    normalizeSongIdentityKey,
+    getCanonicalSongIdentityDisplay,
     hasContinuousCommonStr,
     buildArtistMatchVariants,
     areArtistsCompatible,
