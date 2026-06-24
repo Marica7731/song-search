@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 6/24/2026, 6:06:13 AM
+// 生成时间: 6/24/2026, 6:16:54 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2883,6 +2883,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-22]星期一固定歌回🎙 为了让这周也快乐起来而唱！欢迎新朋友 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qLj26iES2?p=26",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "極楽浄土",
+  "artist": "GARNiDELiA",
+  "collection": "【歌切】[2026-06-23]最后！好好享受吧～！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U1jX6gERk?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "死神",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-23]最后！好好享受吧～！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U1jX6gERk?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat. 可不",
+  "collection": "【歌切】[2026-06-23]最后！好好享受吧～！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U1jX6gERk?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "六兆年と一夜物語",
+  "artist": "kemu feat. IA",
+  "collection": "【歌切】[2026-06-23]最后！好好享受吧～！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U1jX6gERk?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "月陽-ツキアカリ-",
+  "artist": "みきとP feat. GUMI",
+  "collection": "【歌切】[2026-06-23]最后！好好享受吧～！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U1jX6gERk?p=5",
   "source": "ibaramuan.js"
 }
 );

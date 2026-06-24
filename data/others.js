@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/24/2026, 6:13:05 AM
+// 生成时间: 6/24/2026, 6:23:32 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -18411,6 +18411,374 @@ window.SONG_DATA.push(
   "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-23 决定今年会是几岁的生日倒计时直播🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15Gj96QEYX?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "HoneyWorks feat. mona(CV:夏川椎菜)",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "スパークル [original ver.]",
+  "artist": "RADWIMPS",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ひこうき雲",
+  "artist": "荒井由実",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ふわふわ時間",
+  "artist": "放課後ティータイム",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "パレード",
+  "artist": "ヨルシカ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "正解",
+  "artist": "RADWIMPS",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "糸",
+  "artist": "中島みゆき",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "愛にできることはまだあるかい",
+  "artist": "RADWIMPS",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "3月9日",
+  "artist": "レミオロメン",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "1時間",
+  "artist": "ハンバート ハンバート",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "君が思い出になる前に",
+  "artist": "スピッツ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "エウテルペ",
+  "artist": "EGOIST",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "金木犀の夜",
+  "artist": "きのこ帝国",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "春の",
+  "artist": "古川本舗 feat. 大坪加奈(Spangle call Lilli line)",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "真夜中のドア～stay with me",
+  "artist": "松原みき",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "魔法の絨毯",
+  "artist": "川崎鷹也",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "チェリー",
+  "artist": "スピッツ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "愛のうた",
+  "artist": "ストロベリー・フラワー",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "はなびら",
+  "artist": "奥華子",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "優しいあの子",
+  "artist": "スピッツ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "夜王子と月の姫",
+  "artist": "銀杏BOYZ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "はなれ、ばなれ",
+  "artist": "古川本舗 feat. ばずぱんだ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "チェリー",
+  "artist": "スピッツ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "夏色",
+  "artist": "ゆず",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=32",
+  "source": "others.js"
+},
+    {
+  "title": "愛のしるし",
+  "artist": "スピッツ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=33",
+  "source": "others.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=34",
+  "source": "others.js"
+},
+    {
+  "title": "アストロノーツ",
+  "artist": "ぽわぽわP feat. 初音ミク",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=35",
+  "source": "others.js"
+},
+    {
+  "title": "ルージュの伝言",
+  "artist": "荒井由実",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=36",
+  "source": "others.js"
+},
+    {
+  "title": "レム",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=37",
+  "source": "others.js"
+},
+    {
+  "title": "涙があふれた",
+  "artist": "ストロベリー・フラワー",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=38",
+  "source": "others.js"
+},
+    {
+  "title": "君の為のキミノウタ",
+  "artist": "川崎鷹也",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=39",
+  "source": "others.js"
+},
+    {
+  "title": "太陽",
+  "artist": "ヨルシカ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=40",
+  "source": "others.js"
+},
+    {
+  "title": "少年時代",
+  "artist": "井上陽水",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=41",
+  "source": "others.js"
+},
+    {
+  "title": "魔法",
+  "artist": "古川本舗 feat. ちょまいよ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=42",
+  "source": "others.js"
+},
+    {
+  "title": "ちゃんとあるよ",
+  "artist": "傘村トータ feat. 可不",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=43",
+  "source": "others.js"
+},
+    {
+  "title": "Time goes by",
+  "artist": "Every Little Thing",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=44",
+  "source": "others.js"
+},
+    {
+  "title": "なごり雪",
+  "artist": "イルカ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=45",
+  "source": "others.js"
+},
+    {
+  "title": "HOME",
+  "artist": "古川本舗",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=46",
   "source": "others.js"
 },
     {
