@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/24/2026, 5:54:09 AM
+// 生成时间: 6/24/2026, 6:06:58 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -18398,187 +18398,19 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "ANIMA",
-  "artist": "ReoNa",
-  "collection": "魔ノむえる -Mano Mueru-歌切 2026-06-23 要不要一起编织「新的和」呢？🌸",
+  "title": "猫",
+  "artist": "DISH//",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-23 决定今年会是几岁的生日倒计时直播🎶",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Zmj96oEir?p=1",
+  "link": "https://www.bilibili.com/video/BV15Gj96QEYX?p=1",
   "source": "others.js"
 },
     {
-  "title": "晩餐歌",
-  "artist": "tuki.",
-  "collection": "魔ノむえる -Mano Mueru-歌切 2026-06-23 要不要一起编织「新的和」呢？🌸",
+  "title": "赤猫",
+  "artist": "水曜日のカンパネラ",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-23 决定今年会是几岁的生日倒计时直播🎶",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Zmj96oEir?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "咲かせや咲かせ",
-  "artist": "EGOIST",
-  "collection": "魔ノむえる -Mano Mueru-歌切 2026-06-23 要不要一起编织「新的和」呢？🌸",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Zmj96oEir?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "忘れじの言の葉",
-  "artist": "未来古代楽団 feat. 安次嶺希和子",
-  "collection": "魔ノむえる -Mano Mueru-歌切 2026-06-23 要不要一起编织「新的和」呢？🌸",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Zmj96oEir?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "残響散歌",
-  "artist": "Aimer",
-  "collection": "shin歌切 2026-06-23 让歌声承载心意，传递接力棒！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wzj96PEoQ?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "ハナミズキ",
-  "artist": "一青窈",
-  "collection": "shin歌切 2026-06-23 让歌声承载心意，传递接力棒！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wzj96PEoQ?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "奈落の花",
-  "artist": "島みやえい子",
-  "collection": "shin歌切 2026-06-23 让歌声承载心意，传递接力棒！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wzj96PEoQ?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "千本桜",
-  "artist": "黒うさP feat. 初音ミク",
-  "collection": "shin歌切 2026-06-23 让歌声承载心意，传递接力棒！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wzj96PEoQ?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "絶頂讃歌",
-  "artist": "和ぬか",
-  "collection": "無々ひさぎ - Hisagi Nana -歌切 2026-06-23 和风之曲随清风献上！｜Vsinger｜無々ひさぎ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Wzj96PE3y?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "絆ノ奇跡",
-  "artist": "MAN WITH A MISSION × milet",
-  "collection": "無々ひさぎ - Hisagi Nana -歌切 2026-06-23 和风之曲随清风献上！｜Vsinger｜無々ひさぎ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Wzj96PE3y?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "夜明けと蛍",
-  "artist": "n-buna feat. 初音ミク",
-  "collection": "無々ひさぎ - Hisagi Nana -歌切 2026-06-23 和风之曲随清风献上！｜Vsinger｜無々ひさぎ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Wzj96PE3y?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "都落ち",
-  "artist": "ヨルシカ",
-  "collection": "無々ひさぎ - Hisagi Nana -歌切 2026-06-23 和风之曲随清风献上！｜Vsinger｜無々ひさぎ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Wzj96PE3y?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "天樂",
-  "artist": "ゆうゆP feat. 鏡音リン",
-  "collection": "CYBILL歌切 2026-06-23 与你奔跑，向着终点线的前方",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Azj96PEM5?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "拍手喝采歌合",
-  "artist": "supercell",
-  "collection": "CYBILL歌切 2026-06-23 与你奔跑，向着终点线的前方",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Azj96PEM5?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "吹雪",
-  "artist": "西沢幸奏",
-  "collection": "CYBILL歌切 2026-06-23 与你奔跑，向着终点线的前方",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Azj96PEM5?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "SWORD SUMMIT",
-  "artist": "T.M.Revolution",
-  "collection": "CYBILL歌切 2026-06-23 与你奔跑，向着终点线的前方",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Azj96PEM5?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "nowhere",
-  "artist": "FictionJunction YUUKA",
-  "collection": "CYBILL歌切 2026-06-23 与你奔跑，向着终点线的前方",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Azj96PEM5?p=5",
-  "source": "others.js"
-},
-    {
-  "title": "天かける星",
-  "artist": "Suara",
-  "collection": "CYBILL歌切 2026-06-23 与你奔跑，向着终点线的前方",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Azj96PEM5?p=6",
-  "source": "others.js"
-},
-    {
-  "title": "修羅場",
-  "artist": "東京事変",
-  "collection": "sifar Vtuber歌切 2026-06-23 为了众筹成功，用歌回接力传递接力棒哦",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fkj96wENP?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "明け星",
-  "artist": "LiSA",
-  "collection": "sifar Vtuber歌切 2026-06-23 为了众筹成功，用歌回接力传递接力棒哦",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fkj96wENP?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "Trickster",
-  "artist": "水樹奈々",
-  "collection": "sifar Vtuber歌切 2026-06-23 为了众筹成功，用歌回接力传递接力棒哦",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fkj96wENP?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "I will...",
-  "artist": "藍井エイル",
-  "collection": "sifar Vtuber歌切 2026-06-23 为了众筹成功，用歌回接力传递接力棒哦",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fkj96wENP?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "ray",
-  "artist": "BUMP OF CHICKEN feat. HATSUNE MIKU",
-  "collection": "sifar Vtuber歌切 2026-06-23 为了众筹成功，用歌回接力传递接力棒哦",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fkj96wENP?p=5",
+  "link": "https://www.bilibili.com/video/BV15Gj96QEYX?p=2",
   "source": "others.js"
 },
     {
