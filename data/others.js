@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/25/2026, 8:25:24 PM
+// 生成时间: 6/25/2026, 8:31:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3875,6 +3875,54 @@ window.SONG_DATA.push(
   "collection": "【🦇歌切】[2026-06-12]求：点歌｜CULUA的歌单第34弹 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YYJ561Ewd?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "熱帯夜",
+  "artist": "SHISHAMO",
+  "collection": "【🦇歌切】[2026-06-25]感谢RKM庆典 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEGJ?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "melt bitter",
+  "artist": "さとうもか",
+  "collection": "【🦇歌切】[2026-06-25]感谢RKM庆典 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEGJ?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【🦇歌切】[2026-06-25]感谢RKM庆典 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEGJ?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "蹴っ飛ばした毛布",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【🦇歌切】[2026-06-25]感谢RKM庆典 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEGJ?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "またね幻",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【🦇歌切】[2026-06-25]感谢RKM庆典 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEGJ?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "言霊",
+  "artist": "V.W.P",
+  "collection": "【🦇歌切】[2026-06-25]感谢RKM庆典 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEGJ?p=6",
   "source": "others.js"
 },
     {
@@ -19251,6 +19299,46 @@ window.SONG_DATA.push(
   "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=36",
+  "source": "others.js"
+},
+    {
+  "title": "real Emotion",
+  "artist": "倖田來未",
+  "collection": "YuNi - official channel -歌切 2026-06-25 唱名曲游戏主题歌！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nE4f?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "カルマ",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "YuNi - official channel -歌切 2026-06-25 唱名曲游戏主题歌！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nE4f?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "Starry Heavens",
+  "artist": "day after tomorrow",
+  "collection": "YuNi - official channel -歌切 2026-06-25 唱名曲游戏主题歌！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nE4f?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "光",
+  "artist": "宇多田ヒカル",
+  "collection": "YuNi - official channel -歌切 2026-06-25 唱名曲游戏主题歌！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nE4f?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "檄!帝国華撃団",
+  "artist": "横山智佐・帝国歌劇団",
+  "collection": "YuNi - official channel -歌切 2026-06-25 唱名曲游戏主题歌！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nE4f?p=5",
   "source": "others.js"
 },
     {
