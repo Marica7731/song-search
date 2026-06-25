@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 6/25/2026, 8:36:46 PM
+// 生成时间: 6/25/2026, 8:48:20 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1419,6 +1419,78 @@ window.SONG_DATA.push(
   "collection": "【⚙️🎸歌切】[2026-06-21]第一次饮酒歌回！微醺着唱歌！🎹🎸 からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11s7c6dEfx?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "イノチミジカシコイセヨオトメ",
+  "artist": "クリープハイプ",
+  "collection": "【⚙️🎸歌切】[2026-06-25]轻松唱唱歌！哪怕只听一首也请来哦 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEh6?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "さっきの話",
+  "artist": "クリープハイプ",
+  "collection": "【⚙️🎸歌切】[2026-06-25]轻松唱唱歌！哪怕只听一首也请来哦 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEh6?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "君の住む街の天気が都合のいい空でありますように",
+  "artist": "コレサワ",
+  "collection": "【⚙️🎸歌切】[2026-06-25]轻松唱唱歌！哪怕只听一首也请来哦 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEh6?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "コレサワ",
+  "collection": "【⚙️🎸歌切】[2026-06-25]轻松唱唱歌！哪怕只听一首也请来哦 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEh6?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "【⚙️🎸歌切】[2026-06-25]轻松唱唱歌！哪怕只听一首也请来哦 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEh6?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【⚙️🎸歌切】[2026-06-25]轻松唱唱歌！哪怕只听一首也请来哦 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEh6?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "【⚙️🎸歌切】[2026-06-25]轻松唱唱歌！哪怕只听一首也请来哦 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEh6?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "にゃんにゃんにゃん",
+  "artist": "コレサワ",
+  "collection": "【⚙️🎸歌切】[2026-06-25]轻松唱唱歌！哪怕只听一首也请来哦 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEh6?p=8",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "幸せ",
+  "artist": "back number",
+  "collection": "【⚙️🎸歌切】[2026-06-25]轻松唱唱歌！哪怕只听一首也请来哦 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEh6?p=9",
   "source": "karakurinne.js"
 }
 );
