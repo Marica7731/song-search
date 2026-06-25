@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 6/25/2026, 8:21:47 PM
+// 生成时间: 6/25/2026, 8:32:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3899,6 +3899,166 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-06-18]👑5周年纪念排行榜歌回👑 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xsj66KE2h?p=21",
+  "source": "kukuri.js"
+},
+    {
+  "title": "優しい彗星",
+  "artist": "YOASOBI",
+  "collection": "【💫✖歌切】[2026-06-25]请听我唱歌.ᐟ.ᐟ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEai?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Pale Blue",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-06-25]请听我唱歌.ᐟ.ᐟ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEai?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "海の幽霊",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-06-25]请听我唱歌.ᐟ.ᐟ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEai?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "地球儀",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-06-25]请听我唱歌.ᐟ.ᐟ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEai?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "カムパネルラ",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-06-25]请听我唱歌.ᐟ.ᐟ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEai?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夜撫でるメノウ",
+  "artist": "Ayase",
+  "collection": "【💫✖歌切】[2026-06-25]请听我唱歌.ᐟ.ᐟ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEai?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "【💫✖歌切】[2026-06-25]请听我唱歌.ᐟ.ᐟ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEai?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【💫✖歌切】[2026-06-25]请听我唱歌.ᐟ.ᐟ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEai?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【💫✖歌切】[2026-06-25]请听我唱歌.ᐟ.ᐟ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEai?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "UNDEAD",
+  "artist": "YOASOBI",
+  "collection": "【💫✖歌切】[2026-06-25]请听我唱歌.ᐟ.ᐟ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEai?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "勇者",
+  "artist": "YOASOBI",
+  "collection": "【💫✖歌切】[2026-06-25]请听我唱歌.ᐟ.ᐟ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEai?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-06-25]请听我唱歌.ᐟ.ᐟ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEai?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "【💫✖歌切】[2026-06-25]请听我唱歌.ᐟ.ᐟ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEai?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "【💫✖歌切】[2026-06-25]请听我唱歌.ᐟ.ᐟ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEai?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "残機",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【💫✖歌切】[2026-06-25]请听我唱歌.ᐟ.ᐟ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEai?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "風のゆくえ",
+  "artist": "Ado",
+  "collection": "【💫✖歌切】[2026-06-25]请听我唱歌.ᐟ.ᐟ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEai?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【💫✖歌切】[2026-06-25]请听我唱歌.ᐟ.ᐟ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEai?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "心よ原始に戻れ",
+  "artist": "高橋洋子",
+  "collection": "【💫✖歌切】[2026-06-25]请听我唱歌.ᐟ.ᐟ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEai?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "集結の園へ",
+  "artist": "林原めぐみ",
+  "collection": "【💫✖歌切】[2026-06-25]请听我唱歌.ᐟ.ᐟ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEai?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【💫✖歌切】[2026-06-25]请听我唱歌.ᐟ.ᐟ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nEai?p=20",
   "source": "kukuri.js"
 }
 );

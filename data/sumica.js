@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 6/25/2026, 8:42:06 PM
+// 生成时间: 6/25/2026, 8:55:06 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5067,6 +5067,158 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-06-22]想让妹妹恋爱成功的失恋厨 唱歌聊天 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zn736uEnE?p=23",
+  "source": "sumica.js"
+},
+    {
+  "title": "かなしくないよ",
+  "artist": "フジタカコ",
+  "collection": "【💐🎸歌切】[2026-06-25]温柔的弹唱与雨声，让心灵宁静的夜晚吧🌙 | 澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1747i6GEcu?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "シスター",
+  "artist": "フジタカコ",
+  "collection": "【💐🎸歌切】[2026-06-25]温柔的弹唱与雨声，让心灵宁静的夜晚吧🌙 | 澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1747i6GEcu?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-25]温柔的弹唱与雨声，让心灵宁静的夜晚吧🌙 | 澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1747i6GEcu?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-25]温柔的弹唱与雨声，让心灵宁静的夜晚吧🌙 | 澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1747i6GEcu?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "シリウスの心臓",
+  "artist": "ヰ世界情緒",
+  "collection": "【💐🎸歌切】[2026-06-25]温柔的弹唱与雨声，让心灵宁静的夜晚吧🌙 | 澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1747i6GEcu?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "長い髪",
+  "artist": "FOMARE",
+  "collection": "【💐🎸歌切】[2026-06-25]温柔的弹唱与雨声，让心灵宁静的夜晚吧🌙 | 澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1747i6GEcu?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat. 初音ミク",
+  "collection": "【💐🎸歌切】[2026-06-25]温柔的弹唱与雨声，让心灵宁静的夜晚吧🌙 | 澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1747i6GEcu?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "声",
+  "artist": "羊文学",
+  "collection": "【💐🎸歌切】[2026-06-25]温柔的弹唱与雨声，让心灵宁静的夜晚吧🌙 | 澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1747i6GEcu?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "Orion",
+  "artist": "米津玄師",
+  "collection": "【💐🎸歌切】[2026-06-25]温柔的弹唱与雨声，让心灵宁静的夜晚吧🌙 | 澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1747i6GEcu?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "帰りの会",
+  "collection": "【💐🎸歌切】[2026-06-25]温柔的弹唱与雨声，让心灵宁静的夜晚吧🌙 | 澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1747i6GEcu?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-25]温柔的弹唱与雨声，让心灵宁静的夜晚吧🌙 | 澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1747i6GEcu?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "二時頃",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-06-25]温柔的弹唱与雨声，让心灵宁静的夜晚吧🌙 | 澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1747i6GEcu?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【💐🎸歌切】[2026-06-25]温柔的弹唱与雨声，让心灵宁静的夜晚吧🌙 | 澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1747i6GEcu?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "ブルーベリー・ナイツ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【💐🎸歌切】[2026-06-25]温柔的弹唱与雨声，让心灵宁静的夜晚吧🌙 | 澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1747i6GEcu?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん feat. IA",
+  "collection": "【💐🎸歌切】[2026-06-25]温柔的弹唱与雨声，让心灵宁静的夜晚吧🌙 | 澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1747i6GEcu?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "Automatic",
+  "artist": "宇多田ヒカル",
+  "collection": "【💐🎸歌切】[2026-06-25]温柔的弹唱与雨声，让心灵宁静的夜晚吧🌙 | 澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1747i6GEcu?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【💐🎸歌切】[2026-06-25]温柔的弹唱与雨声，让心灵宁静的夜晚吧🌙 | 澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1747i6GEcu?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "クリス・ハート",
+  "collection": "【💐🎸歌切】[2026-06-25]温柔的弹唱与雨声，让心灵宁静的夜晚吧🌙 | 澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1747i6GEcu?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "焦がれ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-06-25]温柔的弹唱与雨声，让心灵宁静的夜晚吧🌙 | 澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1747i6GEcu?p=19",
   "source": "sumica.js"
 }
 );
