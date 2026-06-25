@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 6/25/2026, 3:38:05 PM
+// 生成时间: 6/25/2026, 3:47:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21163,6 +21163,38 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-06-13]非常悠闲的小鸟。 稀羽すう - Suu Usuwa -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WpJp6sEXc?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Parallax",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-06-25]稍微唱会儿歌吧 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11s7v69Etu?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "地獄でなぜ悪い",
+  "artist": "星野源",
+  "collection": "【🦢歌切】[2026-06-25]稍微唱会儿歌吧 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11s7v69Etu?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【🦢歌切】[2026-06-25]稍微唱会儿歌吧 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11s7v69Etu?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-06-25]稍微唱会儿歌吧 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11s7v69Etu?p=4",
   "source": "suu_usuwa.js"
 }
 );
