@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 6/25/2026, 8:34:31 PM
+// 生成时间: 6/25/2026, 8:43:56 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10379,6 +10379,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "蒼のエーテル",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "耳の聞こえなくなった恋人とそのうたうたい",
+  "artist": "大石昌良",
+  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Sweet Dreams, My Dear",
+  "artist": "LOST ARK & Sohyang",
+  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "COLORS",
+  "artist": "FLOW",
+  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "グロウアップ",
+  "artist": "Hysteric Blue",
+  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "全力バタンキュー",
+  "artist": "A応P",
+  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "天使のウィンク",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "娘々スペシャルサービスメドレー（特盛り）",
+  "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛",
+  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Snow halation",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ひぐらしのなく頃に",
+  "artist": "島みやえい子",
+  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=13",
   "source": "naraetan.js"
 },
     {
