@@ -1,6 +1,6 @@
 // 天ノ譜ステラ - 歌单数据 (多合集汇总)
 // 来源: BV1MEP8z4E1J
-// 生成时间: 6/25/2026, 8:24:25 PM
+// 生成时间: 6/25/2026, 8:33:18 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1803,6 +1803,30 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-18]歌起来哦哦 天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iPj66SEuv?p=4",
+  "source": "stella.js"
+},
+    {
+  "title": "クリスマスソング",
+  "artist": "back number",
+  "collection": "【歌切】[2026-06-25]开唱啦！！Sound House认证VSinger 天ノ譜ステラ Stella Ch.【サウンドハウス公認VTuber兼VSin",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wf7i6nEKb?p=1",
+  "source": "stella.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "【歌切】[2026-06-25]开唱啦！！Sound House认证VSinger 天ノ譜ステラ Stella Ch.【サウンドハウス公認VTuber兼VSin",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wf7i6nEKb?p=2",
+  "source": "stella.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP feat. 初音ミク",
+  "collection": "【歌切】[2026-06-25]开唱啦！！Sound House认证VSinger 天ノ譜ステラ Stella Ch.【サウンドハウス公認VTuber兼VSin",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wf7i6nEKb?p=3",
   "source": "stella.js"
 }
 );
