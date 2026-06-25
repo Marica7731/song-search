@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/25/2026, 8:31:17 PM
+// 生成时间: 6/25/2026, 8:48:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -19339,6 +19339,190 @@ window.SONG_DATA.push(
   "collection": "YuNi - official channel -歌切 2026-06-25 唱名曲游戏主题歌！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ff7i6nE4f?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "Ham",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "正しくなれない",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "恋人ごっこ",
+  "artist": "マカロニえんぴつ",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "ハルカ",
+  "artist": "YOASOBI",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "黒毛和牛上塩タン焼680円",
+  "artist": "大塚愛",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "ヒトリノ夜",
+  "artist": "ポルノグラフィティ",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "やさしさで溢れるように",
+  "artist": "JUJU",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "永遠のあくる日",
+  "artist": "Ado",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "koyori(電ポルP) feat. 初音ミク",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=23",
   "source": "others.js"
 },
     {
