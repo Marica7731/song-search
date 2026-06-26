@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 6/26/2026, 7:39:08 AM
+// 生成时间: 6/26/2026, 7:49:05 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2318,7 +2318,7 @@ window.SONG_DATA.push(
   "source": "ibaramuan.js"
 },
     {
-  "title": "コネクト",
+  "title": "ALIVE",
   "artist": "ClariS",
   "collection": "【歌切】[2026-06-19]可能是你喜欢的歌声，来听听看吧。欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
@@ -2326,7 +2326,7 @@ window.SONG_DATA.push(
   "source": "ibaramuan.js"
 },
     {
-  "title": "ヒトリゴト",
+  "title": "コネクト",
   "artist": "ClariS",
   "collection": "【歌切】[2026-06-19]可能是你喜欢的歌声，来听听看吧。欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
@@ -2334,15 +2334,15 @@ window.SONG_DATA.push(
   "source": "ibaramuan.js"
 },
     {
-  "title": "さよーならまたいつか！",
-  "artist": "米津玄師",
+  "title": "ヒトリゴト",
+  "artist": "ClariS",
   "collection": "【歌切】[2026-06-19]可能是你喜欢的歌声，来听听看吧。欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aJjk67EUv?p=8",
   "source": "ibaramuan.js"
 },
     {
-  "title": "Lemon",
+  "title": "さよーならまたいつか！",
   "artist": "米津玄師",
   "collection": "【歌切】[2026-06-19]可能是你喜欢的歌声，来听听看吧。欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
@@ -2350,7 +2350,7 @@ window.SONG_DATA.push(
   "source": "ibaramuan.js"
 },
     {
-  "title": "海の幽霊",
+  "title": "Lemon",
   "artist": "米津玄師",
   "collection": "【歌切】[2026-06-19]可能是你喜欢的歌声，来听听看吧。欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
@@ -2358,7 +2358,7 @@ window.SONG_DATA.push(
   "source": "ibaramuan.js"
 },
     {
-  "title": "感電",
+  "title": "海の幽霊",
   "artist": "米津玄師",
   "collection": "【歌切】[2026-06-19]可能是你喜欢的歌声，来听听看吧。欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
@@ -2366,11 +2366,19 @@ window.SONG_DATA.push(
   "source": "ibaramuan.js"
 },
     {
+  "title": "感電",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-19]可能是你喜欢的歌声，来听听看吧。欢迎初见！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aJjk67EUv?p=12",
+  "source": "ibaramuan.js"
+},
+    {
   "title": "8.32",
   "artist": "*Luna feat.flower",
   "collection": "【歌切】[2026-06-19]可能是你喜欢的歌声，来听听看吧。欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aJjk67EUv?p=12",
+  "link": "https://www.bilibili.com/video/BV1aJjk67EUv?p=13",
   "source": "ibaramuan.js"
 },
     {
@@ -2378,7 +2386,7 @@ window.SONG_DATA.push(
   "artist": "みきとP feat.初音ミク",
   "collection": "【歌切】[2026-06-19]可能是你喜欢的歌声，来听听看吧。欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aJjk67EUv?p=13",
+  "link": "https://www.bilibili.com/video/BV1aJjk67EUv?p=14",
   "source": "ibaramuan.js"
 },
     {
@@ -2386,7 +2394,7 @@ window.SONG_DATA.push(
   "artist": "DISH//",
   "collection": "【歌切】[2026-06-19]可能是你喜欢的歌声，来听听看吧。欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aJjk67EUv?p=14",
+  "link": "https://www.bilibili.com/video/BV1aJjk67EUv?p=15",
   "source": "ibaramuan.js"
 },
     {
@@ -2394,7 +2402,7 @@ window.SONG_DATA.push(
   "artist": "瑛人",
   "collection": "【歌切】[2026-06-19]可能是你喜欢的歌声，来听听看吧。欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aJjk67EUv?p=15",
+  "link": "https://www.bilibili.com/video/BV1aJjk67EUv?p=16",
   "source": "ibaramuan.js"
 },
     {
@@ -2402,7 +2410,7 @@ window.SONG_DATA.push(
   "artist": "みきとP feat.初音ミク",
   "collection": "【歌切】[2026-06-19]可能是你喜欢的歌声，来听听看吧。欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aJjk67EUv?p=16",
+  "link": "https://www.bilibili.com/video/BV1aJjk67EUv?p=17",
   "source": "ibaramuan.js"
 },
     {
@@ -2410,20 +2418,12 @@ window.SONG_DATA.push(
   "artist": "koyori(電ポルP) feat.初音ミク",
   "collection": "【歌切】[2026-06-19]可能是你喜欢的歌声，来听听看吧。欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aJjk67EUv?p=17",
+  "link": "https://www.bilibili.com/video/BV1aJjk67EUv?p=18",
   "source": "ibaramuan.js"
 },
     {
   "title": "あぶく",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-06-19]可能是你喜欢的歌声，来听听看吧。欢迎初见！ Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aJjk67EUv?p=18",
-  "source": "ibaramuan.js"
-},
-    {
-  "title": "ALIVE",
-  "artist": "ClariS",
   "collection": "【歌切】[2026-06-19]可能是你喜欢的歌声，来听听看吧。欢迎初见！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aJjk67EUv?p=19",
