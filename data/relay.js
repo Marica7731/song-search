@@ -1,6 +1,6 @@
 // 接力 - 歌单数据 (多合集汇总)
 // 来源: BV1rkCTYzEZN, BV1wt421j7gT, BV1KpCdYmE3T, BV1aC4ce2E5s, BV1JbX9BmE5m, BV1nJ5S6CETQ, BV1duSRBBEkb
-// 生成时间: 6/26/2026, 10:23:17 AM
+// 生成时间: 6/26/2026, 10:31:29 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1206,6 +1206,38 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
+  "title": "JANE DOE",
+  "artist": "米津玄師,宇多田ヒカル",
+  "collection": "カシ・オトハ 接力歌切 2026-06-19",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qMjk6RE4U?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "あなたは煙草 私はシャボン",
+  "artist": "ラブリーサマーちゃん",
+  "collection": "カシ・オトハ 接力歌切 2026-06-19",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qMjk6RE4U?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "深昏睡",
+  "artist": "春野",
+  "collection": "カシ・オトハ 接力歌切 2026-06-19",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qMjk6RE4U?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "パトス",
+  "artist": "カシ・オトハ",
+  "collection": "カシ・オトハ 接力歌切 2026-06-19",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qMjk6RE4U?p=4",
+  "source": "relay.js"
+},
+    {
   "title": "天樂",
   "artist": "ゆうゆP feat. 鏡音リン",
   "collection": "CYBILL歌切 2026-06-23 与你奔跑，向着终点线的前方",
@@ -1251,38 +1283,6 @@ window.SONG_DATA.push(
   "collection": "CYBILL歌切 2026-06-23 与你奔跑，向着终点线的前方",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Azj96PEM5?p=6",
-  "source": "relay.js"
-},
-    {
-  "title": "JANE DOE",
-  "artist": "米津玄師,宇多田ヒカル",
-  "collection": "カシ・オトハ 接力歌切 2026-06-19",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qMjk6RE4U?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "あなたは煙草 私はシャボン",
-  "artist": "ラブリーサマーちゃん",
-  "collection": "カシ・オトハ 接力歌切 2026-06-19",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qMjk6RE4U?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "深昏睡",
-  "artist": "春野",
-  "collection": "カシ・オトハ 接力歌切 2026-06-19",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qMjk6RE4U?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "パトス",
-  "artist": "カシ・オトハ",
-  "collection": "カシ・オトハ 接力歌切 2026-06-19",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qMjk6RE4U?p=4",
   "source": "relay.js"
 },
     {
@@ -1931,46 +1931,6 @@ window.SONG_DATA.push(
   "collection": "接力歌切 2026-03-29 時を繋ぐ歌枠リレー  稍 麦 - yayamugi -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1htXRBTEMX?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "言って。",
-  "artist": "ヨルシカ",
-  "collection": "接力歌切 紅葉丸チャンネル Momijimaru 2026-04-29 在这音乐回响的彼端，愿有你相伴。 ヨルシカ三人称歌枠リレー 保留念经版",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1w95S6nEXK?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "ヒッチコック",
-  "artist": "ヨルシカ",
-  "collection": "接力歌切 紅葉丸チャンネル Momijimaru 2026-04-29 在这音乐回响的彼端，愿有你相伴。 ヨルシカ三人称歌枠リレー 保留念经版",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1w95S6nEXK?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "だから僕は音楽を辞めた",
-  "artist": "ヨルシカ",
-  "collection": "接力歌切 紅葉丸チャンネル Momijimaru 2026-04-29 在这音乐回响的彼端，愿有你相伴。 ヨルシカ三人称歌枠リレー 保留念经版",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1w95S6nEXK?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "雲と幽霊",
-  "artist": "ヨルシカ",
-  "collection": "接力歌切 紅葉丸チャンネル Momijimaru 2026-04-29 在这音乐回响的彼端，愿有你相伴。 ヨルシカ三人称歌枠リレー 保留念经版",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1w95S6nEXK?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "晴る",
-  "artist": "ヨルシカ",
-  "collection": "接力歌切 紅葉丸チャンネル Momijimaru 2026-04-29 在这音乐回响的彼端，愿有你相伴。 ヨルシカ三人称歌枠リレー 保留念经版",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1w95S6nEXK?p=5",
   "source": "relay.js"
 },
     {
