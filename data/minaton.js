@@ -1,6 +1,6 @@
 // みなとん - 歌单数据 (多合集汇总)
 // 来源: BV1TqGY6gEEf
-// 生成时间: 6/27/2026, 12:52:40 AM
+// 生成时间: 6/27/2026, 1:03:02 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -851,6 +851,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-20]高音！爆速什么都能来！超燃🔥术力口歌回 みなとん。は歌う",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19ojH6hEX6?p=6",
+  "source": "minaton.js"
+},
+    {
+  "title": "紡ぐ",
+  "artist": "とた",
+  "collection": "【歌切】[2026-06-26]在绵绵细雨中歌唱🌂 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bG7J6mESY?p=1",
+  "source": "minaton.js"
+},
+    {
+  "title": "あなたの夜が明けるまで",
+  "artist": "傘村トータ feat. IA",
+  "collection": "【歌切】[2026-06-26]在绵绵细雨中歌唱🌂 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bG7J6mESY?p=2",
+  "source": "minaton.js"
+},
+    {
+  "title": "別の人の彼女になったよ",
+  "artist": "wacci",
+  "collection": "【歌切】[2026-06-26]在绵绵细雨中歌唱🌂 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bG7J6mESY?p=3",
+  "source": "minaton.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【歌切】[2026-06-26]在绵绵细雨中歌唱🌂 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bG7J6mESY?p=4",
+  "source": "minaton.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-06-26]在绵绵细雨中歌唱🌂 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bG7J6mESY?p=5",
+  "source": "minaton.js"
+},
+    {
+  "title": "Soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-06-26]在绵绵细雨中歌唱🌂 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bG7J6mESY?p=6",
+  "source": "minaton.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-06-26]在绵绵细雨中歌唱🌂 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bG7J6mESY?p=7",
+  "source": "minaton.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-06-26]在绵绵细雨中歌唱🌂 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bG7J6mESY?p=8",
+  "source": "minaton.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-06-26]在绵绵细雨中歌唱🌂 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bG7J6mESY?p=9",
+  "source": "minaton.js"
+},
+    {
+  "title": "点描の唄",
+  "artist": "Mrs. GREEN APPLE feat. 井上苑子",
+  "collection": "【歌切】[2026-06-26]在绵绵细雨中歌唱🌂 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bG7J6mESY?p=10",
+  "source": "minaton.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "【歌切】[2026-06-26]在绵绵细雨中歌唱🌂 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bG7J6mESY?p=11",
+  "source": "minaton.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-06-26]在绵绵细雨中歌唱🌂 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bG7J6mESY?p=12",
+  "source": "minaton.js"
+},
+    {
+  "title": "ネバーエンディングサマー",
+  "artist": "37.5℃のラムネ水",
+  "collection": "【歌切】[2026-06-26]在绵绵细雨中歌唱🌂 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bG7J6mESY?p=13",
   "source": "minaton.js"
 }
 );

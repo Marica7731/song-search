@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/27/2026, 12:55:49 AM
+// 生成时间: 6/27/2026, 1:05:44 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -19619,6 +19619,110 @@ window.SONG_DATA.push(
   "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "疑心暗鬼",
+  "artist": "梅とら feat. 巡音ルカ・初音ミク・GUMI・IA・鏡音リン",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "おじゃま虫",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "シリョクケンサ",
+  "artist": "40mP feat. GUMI",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "CANDY CANDY",
+  "artist": "きゃりーぱみゅぱみゅ",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "Ready Steady",
+  "artist": "Giga feat. 初音ミク・鏡音リン・鏡音レン",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "JITTERIN'JINN",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "mumei",
+  "artist": "Nanashi Mumei",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "STAY",
+  "artist": "BLACKPINK",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "第六感",
+  "artist": "Reol",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "魔理沙は大変なものを盗んでいきました",
+  "artist": "IOSYS feat. miko",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat. GUMI・鏡音リン",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=13",
   "source": "others.js"
 },
     {
