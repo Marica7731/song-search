@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 6/27/2026, 2:57:40 AM
+// 生成时间: 6/27/2026, 3:08:09 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -995,6 +995,38 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-06-22]今天也辛苦了！治愈的悠闲弹唱歌回 🦋🕯 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Y7M6eEGt?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "ヤミタイガール",
+  "artist": "れるりり feat. GUMI",
+  "collection": "【🎸🦋歌切】[2026-06-26]突击歌回❕悠闲吉他直播🦋🫧 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b87E6jE63?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "月光潤色ガール",
+  "artist": "れるりり feat. 初音ミク・GUMI",
+  "collection": "【🎸🦋歌切】[2026-06-26]突击歌回❕悠闲吉他直播🦋🫧 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b87E6jE63?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "だからなんだって話",
+  "artist": "クリープハイプ",
+  "collection": "【🎸🦋歌切】[2026-06-26]突击歌回❕悠闲吉他直播🦋🫧 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b87E6jE63?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【🎸🦋歌切】[2026-06-26]突击歌回❕悠闲吉他直播🦋🫧 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b87E6jE63?p=4",
   "source": "stratia.js"
 }
 );
