@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 6/27/2026, 12:35:10 AM
+// 生成时间: 6/27/2026, 12:46:12 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1091,6 +1091,22 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-24]一周过半的星期三歌回🍎🌟 回家路上请听听吧 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EP7x67Eqq?p=11",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ジェヘナ",
+  "artist": "wotaku feat. 初音ミク",
+  "collection": "【歌切】[2026-06-26]不输给台风的歌回！赶走偏头痛吧！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N77J65EsU?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "シックス・フィート・アンダー",
+  "artist": "Aqu3ra feat. v flower",
+  "collection": "【歌切】[2026-06-26]不输给台风的歌回！赶走偏头痛吧！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N77J65EsU?p=2",
   "source": "hinachibi.js"
 }
 );

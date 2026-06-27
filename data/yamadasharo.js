@@ -1,6 +1,6 @@
 // 山田シャロ - 歌单数据 (多合集汇总)
 // 来源: BV179L66pE1f
-// 生成时间: 6/27/2026, 12:32:32 AM
+// 生成时间: 6/27/2026, 12:43:51 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1131,6 +1131,78 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=14",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-06-26]不输给雨！！超热烈歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T77J65EgR?p=1",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-26]不输给雨！！超热烈歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T77J65EgR?p=2",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Chase the World",
+  "artist": "May'n",
+  "collection": "【歌切】[2026-06-26]不输给雨！！超热烈歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T77J65EgR?p=3",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ViViD",
+  "artist": "May'n",
+  "collection": "【歌切】[2026-06-26]不输给雨！！超热烈歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T77J65EgR?p=4",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Lovely Fruit",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-06-26]不输给雨！！超热烈歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T77J65EgR?p=5",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "残光のガイア",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-06-26]不输给雨！！超热烈歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T77J65EgR?p=6",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "プライド・ブライド",
+  "artist": "Juice=Juice",
+  "collection": "【歌切】[2026-06-26]不输给雨！！超热烈歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T77J65EgR?p=7",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Fiesta! Fiesta!",
+  "artist": "Juice=Juice",
+  "collection": "【歌切】[2026-06-26]不输给雨！！超热烈歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T77J65EgR?p=8",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "マジカルタイム",
+  "artist": "山田シャロ",
+  "collection": "【歌切】[2026-06-26]不输给雨！！超热烈歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T77J65EgR?p=9",
   "source": "yamadasharo.js"
 }
 );
