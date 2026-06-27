@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/27/2026, 11:16:05 PM
+// 生成时间: 6/27/2026, 11:22:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7107,6 +7107,806 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-26]傍晚的休息时光呀☕欢迎新朋友 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xi7E6GEK5?p=33",
+  "source": "others.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太 feat. 歌愛ユキ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "銀河街の悪夢",
+  "artist": "SEKAI NO OWARI",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "フラレガイガール",
+  "artist": "さユり",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "クライヤ",
+  "artist": "すこっぷ feat. 初音ミク",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ポケットにあの日をしまって",
+  "artist": "堂村璃羽、こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "人生に期待をしてはいけない",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat. 初音ミク",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "君の神様になりたい。",
+  "artist": "カンザキイオリ feat. 初音ミク",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "弱虫モンブラン",
+  "artist": "DECO*27 feat. GUMI",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "好きにさせた癖に",
+  "artist": "あれくん",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "大迷惑星。",
+  "artist": "泣き虫",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "10年後の私になら",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "生きていたんだよな",
+  "artist": "あいみょん",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "私の思春期へ",
+  "artist": "赤頬思春期",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "有心論",
+  "artist": "RADWIMPS",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "me me she",
+  "artist": "RADWIMPS",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "水中リフレクション",
+  "artist": "美波",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "Prologue",
+  "artist": "美波",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "刹那、夏が終わっていく",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "恋してる自分すら愛せるんだ",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "人生に期待をしてはいけない",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "ひとりじゃないんだ",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "セプテンバーさん",
+  "artist": "RADWIMPS",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "別の人の彼女になったよ",
+  "artist": "wacci",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "Iam",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "私は、私達は",
+  "artist": "Guiano feat. 可不",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "眠り姫",
+  "artist": "SEKAI NO OWARI",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "不器用な男",
+  "artist": "カンザキイオリ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat. 初音ミク",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "人生に期待をしてはいけない",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "10年後の私になら",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=32",
+  "source": "others.js"
+},
+    {
+  "title": "不器用なぼくが捧げる花",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=33",
+  "source": "others.js"
+},
+    {
+  "title": "ぜんぶ嫌いだ",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=34",
+  "source": "others.js"
+},
+    {
+  "title": "サボっていーよ",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=35",
+  "source": "others.js"
+},
+    {
+  "title": "ずぎゅんぎゅんゆらり",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=36",
+  "source": "others.js"
+},
+    {
+  "title": "不完全花",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=37",
+  "source": "others.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=38",
+  "source": "others.js"
+},
+    {
+  "title": "恋してる自分すら愛せるんだ",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=39",
+  "source": "others.js"
+},
+    {
+  "title": "酸欠少女",
+  "artist": "さユり",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=40",
+  "source": "others.js"
+},
+    {
+  "title": "人生に期待をしてはいけない",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=41",
+  "source": "others.js"
+},
+    {
+  "title": "人生に期待をしてはいけない",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=42",
+  "source": "others.js"
+},
+    {
+  "title": "糸",
+  "artist": "中島みゆき",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=43",
+  "source": "others.js"
+},
+    {
+  "title": "さよならミッドナイト",
+  "artist": "大柴広己",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=44",
+  "source": "others.js"
+},
+    {
+  "title": "有心論",
+  "artist": "RADWIMPS",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=45",
+  "source": "others.js"
+},
+    {
+  "title": "茜",
+  "artist": "ヨルシカ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=46",
+  "source": "others.js"
+},
+    {
+  "title": "おなじ話",
+  "artist": "ハンバート ハンバート",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=47",
+  "source": "others.js"
+},
+    {
+  "title": "人生に期待をしてはいけない",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=48",
+  "source": "others.js"
+},
+    {
+  "title": "茜",
+  "artist": "ヨルシカ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=49",
+  "source": "others.js"
+},
+    {
+  "title": "春となり",
+  "artist": "あたらよ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=50",
+  "source": "others.js"
+},
+    {
+  "title": "恋してる自分すら愛せるんだ",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=51",
+  "source": "others.js"
+},
+    {
+  "title": "ハロ／ハワユ",
+  "artist": "ナノウ feat. 初音ミク",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=52",
+  "source": "others.js"
+},
+    {
+  "title": "銀河街の悪夢",
+  "artist": "SEKAI NO OWARI",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=53",
+  "source": "others.js"
+},
+    {
+  "title": "銀河街の悪夢",
+  "artist": "SEKAI NO OWARI",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=54",
+  "source": "others.js"
+},
+    {
+  "title": "主人公",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=55",
+  "source": "others.js"
+},
+    {
+  "title": "さようなら、花泥棒さん",
+  "artist": "メル feat. 初音ミク",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=56",
+  "source": "others.js"
+},
+    {
+  "title": "glow",
+  "artist": "keeno feat. 初音ミク",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=57",
+  "source": "others.js"
+},
+    {
+  "title": "ひとりじゃないんだ",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=58",
+  "source": "others.js"
+},
+    {
+  "title": "おとぎ話の主人公",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=59",
+  "source": "others.js"
+},
+    {
+  "title": "僕らのファイトソング",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=60",
+  "source": "others.js"
+},
+    {
+  "title": "感傷哀花",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=61",
+  "source": "others.js"
+},
+    {
+  "title": "迷えるヒツジ",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=62",
+  "source": "others.js"
+},
+    {
+  "title": "いつか見た空の色",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=63",
+  "source": "others.js"
+},
+    {
+  "title": "いつか見た空の色",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=64",
+  "source": "others.js"
+},
+    {
+  "title": "雨き声残響",
+  "artist": "Orangestar feat. IA",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=65",
+  "source": "others.js"
+},
+    {
+  "title": "神様の秒針を壊した",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=66",
+  "source": "others.js"
+},
+    {
+  "title": "ひつじがいっぴき",
+  "artist": "Peg feat. 鏡音リン",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=67",
+  "source": "others.js"
+},
+    {
+  "title": "ひつじがいっぴき",
+  "artist": "Peg feat. 鏡音リン",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=68",
+  "source": "others.js"
+},
+    {
+  "title": "ふたりごと",
+  "artist": "RADWIMPS",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=69",
+  "source": "others.js"
+},
+    {
+  "title": "瞬き",
+  "artist": "back number",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=70",
+  "source": "others.js"
+},
+    {
+  "title": "ゴーストルール",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=71",
+  "source": "others.js"
+},
+    {
+  "title": "ゴーストルール",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=72",
+  "source": "others.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=73",
+  "source": "others.js"
+},
+    {
+  "title": "数センチメンタル",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=74",
+  "source": "others.js"
+},
+    {
+  "title": "恋してる自分すら愛せるんだ",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=75",
+  "source": "others.js"
+},
+    {
+  "title": "神様の秒針を壊した",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=76",
+  "source": "others.js"
+},
+    {
+  "title": "夏霞",
+  "artist": "あたらよ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=77",
+  "source": "others.js"
+},
+    {
+  "title": "outcry",
+  "artist": "あたらよ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=78",
+  "source": "others.js"
+},
+    {
+  "title": "Prologue",
+  "artist": "美波",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=79",
+  "source": "others.js"
+},
+    {
+  "title": "水中リフレクション",
+  "artist": "美波",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=80",
+  "source": "others.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat. GUMI",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=81",
+  "source": "others.js"
+},
+    {
+  "title": "わたしのアール",
+  "artist": "和田たけあき(くらげP) feat. 初音ミク",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=82",
+  "source": "others.js"
+},
+    {
+  "title": "アイロニ",
+  "artist": "すこっぷ feat. 初音ミク",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=83",
+  "source": "others.js"
+},
+    {
+  "title": "着信まち",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=84",
+  "source": "others.js"
+},
+    {
+  "title": "サボっていーよ",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=85",
+  "source": "others.js"
+},
+    {
+  "title": "フラレガイガール",
+  "artist": "さユり",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=86",
+  "source": "others.js"
+},
+    {
+  "title": "おどるポンポコリン",
+  "artist": "B.B.クィーンズ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=87",
+  "source": "others.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=88",
+  "source": "others.js"
+},
+    {
+  "title": "アンパンマンのマーチ",
+  "artist": "ドリーミング",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=89",
+  "source": "others.js"
+},
+    {
+  "title": "Tonight～月の下眠る君～",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=90",
+  "source": "others.js"
+},
+    {
+  "title": "人生に期待をしてはいけない",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=91",
+  "source": "others.js"
+},
+    {
+  "title": "眠り姫",
+  "artist": "SEKAI NO OWARI",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=92",
+  "source": "others.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=93",
+  "source": "others.js"
+},
+    {
+  "title": "ツキミソウ",
+  "artist": "Novelbright",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=94",
+  "source": "others.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=95",
+  "source": "others.js"
+},
+    {
+  "title": "有心論",
+  "artist": "RADWIMPS",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=96",
+  "source": "others.js"
+},
+    {
+  "title": "10年後の私になら",
+  "artist": "こはならむ",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=97",
+  "source": "others.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona(CV:夏川椎菜)",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=98",
+  "source": "others.js"
+},
+    {
+  "title": "さよならミッドナイト",
+  "artist": "大柴広己",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=99",
+  "source": "others.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "こはならむ小花罗梦yt歌切，只取了公开弹唱视频部分",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RMTN6oEqr?p=100",
   "source": "others.js"
 },
     {
