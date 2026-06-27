@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 6/27/2026, 1:21:16 AM
+// 生成时间: 6/27/2026, 1:38:06 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1651,6 +1651,166 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=23",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "SHISHAMO",
+  "collection": "【歌切】[2026-06-26]画面或声音是否会出问题！？直播挑战 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sq7E6rEuM?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "戻れない明日",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-06-26]画面或声音是否会出问题！？直播挑战 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sq7E6rEuM?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ダンデライオン",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-06-26]画面或声音是否会出问题！？直播挑战 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sq7E6rEuM?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "No way",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-06-26]画面或声音是否会出问题！？直播挑战 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sq7E6rEuM?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "マイノリティ脈絡",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-06-26]画面或声音是否会出问题！？直播挑战 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sq7E6rEuM?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "milk",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-06-26]画面或声音是否会出问题！？直播挑战 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sq7E6rEuM?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "アイアムノットイナフ",
+  "artist": "back number",
+  "collection": "【歌切】[2026-06-26]画面或声音是否会出问题！？直播挑战 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sq7E6rEuM?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "泡と羊",
+  "artist": "back number",
+  "collection": "【歌切】[2026-06-26]画面或声音是否会出问题！？直播挑战 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sq7E6rEuM?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "MOTTO",
+  "artist": "back number",
+  "collection": "【歌切】[2026-06-26]画面或声音是否会出问题！？直播挑战 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sq7E6rEuM?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "サイレン",
+  "artist": "back number",
+  "collection": "【歌切】[2026-06-26]画面或声音是否会出问题！？直播挑战 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sq7E6rEuM?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "散歩の邪魔",
+  "artist": "いよわ feat. 春日部つむぎ",
+  "collection": "【歌切】[2026-06-26]画面或声音是否会出问题！？直播挑战 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sq7E6rEuM?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat. GUMI・鏡音リン",
+  "collection": "【歌切】[2026-06-26]画面或声音是否会出问题！？直播挑战 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sq7E6rEuM?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "土星の窓辺",
+  "artist": "TOKOTOKO(西沢さんP) feat. GUMI",
+  "collection": "【歌切】[2026-06-26]画面或声音是否会出问题！？直播挑战 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sq7E6rEuM?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Horoscope",
+  "artist": "岡崎体育",
+  "collection": "【歌切】[2026-06-26]画面或声音是否会出问题！？直播挑战 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sq7E6rEuM?p=14",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "愛・愛・傘",
+  "artist": "Juice=Juice",
+  "collection": "【歌切】[2026-06-26]画面或声音是否会出问题！？直播挑战 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sq7E6rEuM?p=15",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "おばけでいいからはやくきて",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-06-26]画面或声音是否会出问题！？直播挑战 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sq7E6rEuM?p=16",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "かえるの唄",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-06-26]画面或声音是否会出问题！？直播挑战 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sq7E6rEuM?p=17",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "大丈夫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-06-26]画面或声音是否会出问题！？直播挑战 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sq7E6rEuM?p=18",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "雨天決行",
+  "artist": "sumika",
+  "collection": "【歌切】[2026-06-26]画面或声音是否会出问题！？直播挑战 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sq7E6rEuM?p=19",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "リッツパーティー",
+  "artist": "back number",
+  "collection": "【歌切】[2026-06-26]画面或声音是否会出问题！？直播挑战 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sq7E6rEuM?p=20",
   "source": "hasumisahiro.js"
 }
 );
