@@ -1,6 +1,6 @@
 // 323 - 歌单数据 (多合集汇总)
 // 来源: BV1r75B6LEwd
-// 生成时间: 6/27/2026, 12:28:38 AM
+// 生成时间: 6/27/2026, 12:40:07 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2195,6 +2195,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-25]初見◎BGM◎短一点！深夜静静治愈你！ 323",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YL7t6mEUQ?p=18",
+  "source": "323.js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-06-25]欠债1亿日元！？评论全变成了超级留言！？真的假的…？！必须还钱啊啊啊 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gw7J6sEiW?p=1",
+  "source": "323.js"
+},
+    {
+  "title": "東京ミッドナイト",
+  "artist": "milkyTrap",
+  "collection": "【歌切】[2026-06-25]欠债1亿日元！？评论全变成了超级留言！？真的假的…？！必须还钱啊啊啊 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gw7J6sEiW?p=2",
+  "source": "323.js"
+},
+    {
+  "title": "愛♡スクリ～ム！",
+  "artist": "AiScReam",
+  "collection": "【歌切】[2026-06-25]欠债1亿日元！？评论全变成了超级留言！？真的假的…？！必须还钱啊啊啊 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gw7J6sEiW?p=3",
+  "source": "323.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria feat.GUMI",
+  "collection": "【歌切】[2026-06-25]欠债1亿日元！？评论全变成了超级留言！？真的假的…？！必须还钱啊啊啊 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gw7J6sEiW?p=4",
+  "source": "323.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat.巡音ルカ",
+  "collection": "【歌切】[2026-06-25]欠债1亿日元！？评论全变成了超级留言！？真的假的…？！必须还钱啊啊啊 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gw7J6sEiW?p=5",
+  "source": "323.js"
+},
+    {
+  "title": "メグメグ☆ファイアーエンドレスナイト",
+  "artist": "samfree feat.GUMI",
+  "collection": "【歌切】[2026-06-25]欠债1亿日元！？评论全变成了超级留言！？真的假的…？！必须还钱啊啊啊 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gw7J6sEiW?p=6",
+  "source": "323.js"
+},
+    {
+  "title": "青い珊瑚礁",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-06-25]欠债1亿日元！？评论全变成了超级留言！？真的假的…？！必须还钱啊啊啊 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gw7J6sEiW?p=7",
+  "source": "323.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "HoneyWorks feat.mona",
+  "collection": "【歌切】[2026-06-25]欠债1亿日元！？评论全变成了超级留言！？真的假的…？！必须还钱啊啊啊 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gw7J6sEiW?p=8",
+  "source": "323.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-06-25]欠债1亿日元！？评论全变成了超级留言！？真的假的…？！必须还钱啊啊啊 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gw7J6sEiW?p=9",
+  "source": "323.js"
+},
+    {
+  "title": "Bのリベンジ",
+  "artist": "B小町",
+  "collection": "【歌切】[2026-06-25]欠债1亿日元！？评论全变成了超级留言！？真的假的…？！必须还钱啊啊啊 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gw7J6sEiW?p=10",
+  "source": "323.js"
+},
+    {
+  "title": "サインはB",
+  "artist": "B小町",
+  "collection": "【歌切】[2026-06-25]欠债1亿日元！？评论全变成了超级留言！？真的假的…？！必须还钱啊啊啊 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gw7J6sEiW?p=11",
+  "source": "323.js"
+},
+    {
+  "title": "猫の逆襲",
+  "artist": "カノエラナ",
+  "collection": "【歌切】[2026-06-25]欠债1亿日元！？评论全变成了超级留言！？真的假的…？！必须还钱啊啊啊 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gw7J6sEiW?p=12",
+  "source": "323.js"
+},
+    {
+  "title": "本気ボンバー!!",
+  "artist": "Berryz工房",
+  "collection": "【歌切】[2026-06-25]欠债1亿日元！？评论全变成了超级留言！？真的假的…？！必须还钱啊啊啊 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gw7J6sEiW?p=13",
+  "source": "323.js"
+},
+    {
+  "title": "レーザービーム",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-06-25]欠债1亿日元！？评论全变成了超级留言！？真的假的…？！必须还钱啊啊啊 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gw7J6sEiW?p=14",
+  "source": "323.js"
+},
+    {
+  "title": "マシュマロ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-06-25]欠债1亿日元！？评论全变成了超级留言！？真的假的…？！必须还钱啊啊啊 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gw7J6sEiW?p=15",
+  "source": "323.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-06-25]欠债1亿日元！？评论全变成了超级留言！？真的假的…？！必须还钱啊啊啊 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gw7J6sEiW?p=16",
   "source": "323.js"
 }
 );

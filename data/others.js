@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/27/2026, 12:33:59 AM
+// 生成时间: 6/27/2026, 12:44:32 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -19523,6 +19523,102 @@ window.SONG_DATA.push(
   "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "マトリョシカ",
+  "artist": "ハチ feat. 初音ミク・GUMI",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "セカイはまだ始まってすらいない",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "裏表ラバーズ",
+  "artist": "wowaka feat. 初音ミク",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ワールズエンド・ダンスホール",
+  "artist": "wowaka feat. 初音ミク・巡音ルカ",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "古書屋敷殺人事件",
+  "artist": "てにをは feat. 初音ミク",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "Mr.Music",
+  "artist": "れるりり、ロンチーノ=ペペ、かごめP feat. 初音ミク・巡音ルカ・鏡音リン・鏡音レン・GUMI・歌愛ユキ",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ドレミファロンド",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "炉心融解",
+  "artist": "iroha(sasaki) feat. 鏡音リン",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "セツナトリップ",
+  "artist": "Last Note. feat. GUMI",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat. GUMI",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "夢町コントラスト",
+  "artist": "koyori feat. 初音ミクAppend",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "チルドレンレコード",
+  "artist": "じん feat. IA",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=12",
   "source": "others.js"
 },
     {
