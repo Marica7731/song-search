@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 6/28/2026, 6:14:56 AM
+// 生成时间: 6/28/2026, 6:22:43 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5294,8 +5294,8 @@ window.SONG_DATA.push(
   "source": "sumica.js"
 },
     {
-  "title": "115万キロのフィルム",
-  "artist": "Official髭男dism",
+  "title": "カタオモイ",
+  "artist": "Aimer",
   "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=10",
@@ -5310,8 +5310,8 @@ window.SONG_DATA.push(
   "source": "sumica.js"
 },
     {
-  "title": "ただ君に晴れ",
-  "artist": "ヨルシカ",
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat. 初音ミク",
   "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=12",
@@ -5390,8 +5390,8 @@ window.SONG_DATA.push(
   "source": "sumica.js"
 },
     {
-  "title": "隙",
-  "artist": "ゆーり×原口沙輔×ハツミノ",
+  "title": "澄花原创",
+  "artist": "澄花",
   "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=22",
@@ -5406,8 +5406,8 @@ window.SONG_DATA.push(
   "source": "sumica.js"
 },
     {
-  "title": "人間らしく",
-  "artist": "Bray me",
+  "title": "泣き虫上等",
+  "artist": "澄花",
   "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=24",
