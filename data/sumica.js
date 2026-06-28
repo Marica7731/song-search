@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 6/28/2026, 6:05:51 AM
+// 生成时间: 6/28/2026, 6:14:56 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5278,8 +5278,8 @@ window.SONG_DATA.push(
   "source": "sumica.js"
 },
     {
-  "title": "風を食む",
-  "artist": "ヨルシカ",
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
   "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=8",
