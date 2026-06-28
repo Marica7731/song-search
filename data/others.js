@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/28/2026, 5:36:52 AM
+// 生成时间: 6/28/2026, 5:43:05 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17051,6 +17051,3078 @@ window.SONG_DATA.push(
   "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "銀の龍の背に乗って",
+  "artist": "中島みゆき",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "ラヴ・イズ・オーヴァー",
+  "artist": "欧陽菲菲",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "レイニー ブルー",
+  "artist": "徳永英明",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "羽緒 - Hao -歌切 2026-06-19 今天也一如既往地唱唱歌🦉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pRjE6KEZA?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat. 巡音ルカ",
+  "collection": "柊 さんた / Santa Hiiragi歌切 2026-06-20 我是会唱歌跳舞的圣诞老人Vtuber🎅🏻♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRjE6KEYg?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "flos",
+  "artist": "R Sound Design feat.初音ミク",
+  "collection": "柊 さんた / Santa Hiiragi歌切 2026-06-20 我是会唱歌跳舞的圣诞老人Vtuber🎅🏻♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRjE6KEYg?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "柊 さんた / Santa Hiiragi歌切 2026-06-20 我是会唱歌跳舞的圣诞老人Vtuber🎅🏻♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRjE6KEYg?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "サボテンと蜃気楼",
+  "artist": "若干P feat.初音ミク",
+  "collection": "柊 さんた / Santa Hiiragi歌切 2026-06-20 我是会唱歌跳舞的圣诞老人Vtuber🎅🏻♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRjE6KEYg?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "Hello, Worker",
+  "artist": "KEI feat.巡音ルカ",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ナイトドライバー",
+  "artist": "平田義久 feat.初音ミク・ゲキヤク・JOLNO",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "初音ミクの激唱",
+  "artist": "cosMo@暴走P feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "従属ふりったー",
+  "artist": "koyori(電ポルP) feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "サラマンダー",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "トーマ feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "骸骨楽団とリリア",
+  "artist": "トーマ feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "十面相",
+  "artist": "YM feat.GUMI",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "メテオ",
+  "artist": "じょん feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-06-19 有重大发表！？决定要当术力口音源的Vsinger带来的术力口曲限定歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17KjJ6ZENz?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "おじゃま虫",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ラビットホール",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "透明エレジー",
+  "artist": "n-buna feat.GUMI",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "フラジール",
+  "artist": "ぬゆり feat.GUMI",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ハートアラモード",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "エンヴィキャットウォーク",
+  "artist": "トーマ feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "初音ミクの消失",
+  "artist": "cosMo@暴走P feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ノンブレス・オブリージュ",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "トーマ feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "幽霊屋敷の首吊り少女",
+  "artist": "トーマ feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "アウターサイエンス",
+  "artist": "じん feat.IA",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "クノイチでも恋がしたい",
+  "artist": "みきとP feat.初音ミク・鏡音リン",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "アイデンティティ",
+  "artist": "Kanaria feat.GUMI・初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "生きる",
+  "artist": "水野あつ feat.可不",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "林檎売りの泡沫少女",
+  "artist": "yukkedoluce feat.GUMI",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "アイロニ",
+  "artist": "すこっぷ feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑P feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "Fire◎Flower",
+  "artist": "halyosy feat.鏡音レン",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "「ねぇ。」",
+  "artist": "ナノウ(ほえほえP) feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "タイムマシン",
+  "artist": "1640mP feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "愛言葉III",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "恋愛勇者",
+  "artist": "Last Note. feat.GUMI",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "ロスタイムメモリー",
+  "artist": "じん feat.IA",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "ホシアイ",
+  "artist": "レフティーモンスターP feat.GUMI",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "Booo!",
+  "artist": "TOKOTOKO(西沢さんP) feat.音街ウナ",
+  "collection": "歌切 2025-05-18 捞了首透明哀歌和消失",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggjs6hECr?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "Chase the world",
+  "artist": "May'n",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat. 初音ミク",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "grilletto",
+  "artist": "GARNiDELiA",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ベノム",
+  "artist": "かいりきベア feat. flower",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "キャットフード",
+  "artist": "doriko feat. 初音ミク",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "夕景イエスタデイ",
+  "artist": "じん feat. IA",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "雨とペトラ",
+  "artist": "バルーン feat. v flower",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "侵蝕",
+  "artist": "niki feat. 星界",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "モエチャッカファイア",
+  "artist": "弌誠",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "命のユースティティア",
+  "artist": "Neru feat. 鏡音レン",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "オーバーライド",
+  "artist": "吉田夜世 feat. 重音テト",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "食べ歩き珍道中",
+  "artist": "LiLY",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "うっせぇわ",
+  "artist": "Ado",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "歌に形はないけれど",
+  "artist": "doriko feat. 初音ミク",
+  "collection": "LiLY-歌い手Vsinger歌切 2026-06-20 以世界级艺术家为目标的Vsinger LiLY | 3D全身舞台Live🕺💥 工作/学习用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV191j465EdE?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat.IA",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "テトリス",
+  "artist": "柊マグネタイト feat.重音テト",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "オーバーライド",
+  "artist": "吉田夜世 feat.重音テト",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ラビットホール",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "初音ミクの消失",
+  "artist": "CosMo＠暴走P feat.初音ミク",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "強風オールバック",
+  "artist": "ゆこぴ feat.歌愛ユキ",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat.巡音ルカ,GUMI",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat.GUMI",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat. GUMI",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat.可不",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP feat.初音ミク",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "命に嫌われている",
+  "artist": "カンザキイオリ feat.初音ミク",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "きゅうくらりん",
+  "artist": "いよわ feat.可不",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "転生林檎",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "テレキャスタービーボーイ",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "グッバイ宣言",
+  "artist": "Chinozo feat.flower",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "パンダヒーロー",
+  "artist": "ハチ feat. GUMI",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "贖罪",
+  "artist": "傘村トータ feat.IA,結月ゆかり,初音ミク,Fukase,Ken",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "白傘くらげ歌切 2025-12-08 捞了一首消失，感觉还可以。标题：你知道多少首？神级术力口限定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bzj46EES6?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat.可不",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "カワキヲアメク",
+  "artist": "美波",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "爆弾魔",
+  "artist": "ヨルシカ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "盗作",
+  "artist": "ヨルシカ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "勘冴えて悔しいわ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "脳裏上のクラッカー",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "main actor",
+  "artist": "美波",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "Luna say maybe",
+  "artist": "月村手毬(CV:小鹿なお)",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "Survivor",
+  "artist": "BLUE ENCOUNT",
+  "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "99.9",
+  "artist": "MOB CHOIR feat. sajou no hana",
+  "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ASEED",
+  "artist": "ZAQ",
+  "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "REALiZE",
+  "artist": "LiSA",
+  "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "CHAINSAW BLOOD",
+  "artist": "Vaundy",
+  "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ALONE",
+  "artist": "MY FIRST STORY",
+  "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "SPARK-AGAIN",
+  "artist": "Aimer",
+  "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "Raise Your Flag",
+  "artist": "MAN WITH A MISSION",
+  "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "CALL UP!!",
+  "artist": "IMJTT",
+  "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "英雄",
+  "artist": "doa",
+  "collection": "宙月ティラ歌切 2026-06-20 点燃心跳吧！！你就是主角！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwj46CEbE?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "私はピアノ",
+  "artist": "高田みづえ",
+  "collection": "松永依織歌切 2026-06-21 父亲节歌回👨🏻名曲永不褪色～从昭和到令和编织的歌回～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ys7c6dEQu?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "松永依織歌切 2026-06-21 父亲节歌回👨🏻名曲永不褪色～从昭和到令和编织的歌回～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ys7c6dEQu?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "DESIRE -情熱-",
+  "artist": "中森明菜",
+  "collection": "松永依織歌切 2026-06-21 父亲节歌回👨🏻名曲永不褪色～从昭和到令和编织的歌回～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ys7c6dEQu?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "愛のかたまり",
+  "artist": "KinKi Kids",
+  "collection": "松永依織歌切 2026-06-21 父亲节歌回👨🏻名曲永不褪色～从昭和到令和编织的歌回～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ys7c6dEQu?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "深夜高速",
+  "artist": "フラワーカンパニーズ",
+  "collection": "松永依織歌切 2026-06-21 父亲节歌回👨🏻名曲永不褪色～从昭和到令和编织的歌回～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ys7c6dEQu?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "栞",
+  "artist": "クリープハイプ",
+  "collection": "松永依織歌切 2026-06-21 父亲节歌回👨🏻名曲永不褪色～从昭和到令和编织的歌回～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ys7c6dEQu?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "Never Grow Up",
+  "artist": "ちゃんみな",
+  "collection": "松永依織歌切 2026-06-21 父亲节歌回👨🏻名曲永不褪色～从昭和到令和编织的歌回～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ys7c6dEQu?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ブルーアンバー",
+  "artist": "back number",
+  "collection": "松永依織歌切 2026-06-21 父亲节歌回👨🏻名曲永不褪色～从昭和到令和编织的歌回～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ys7c6dEQu?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "Blue Jeans",
+  "artist": "HANA",
+  "collection": "松永依織歌切 2026-06-21 父亲节歌回👨🏻名曲永不褪色～从昭和到令和编织的歌回～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ys7c6dEQu?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "かみさま",
+  "artist": "さユり",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-21 午夜悠闲吉他歌回🎸🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ik7c65EyC?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ハルキゲニア",
+  "artist": "Chevon",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-21 午夜悠闲吉他歌回🎸🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ik7c65EyC?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "LOVEずっきゅん",
+  "artist": "相対性理論",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-21 午夜悠闲吉他歌回🎸🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ik7c65EyC?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "Twilight",
+  "artist": "Hakubi",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-21 午夜悠闲吉他歌回🎸🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ik7c65EyC?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "outcry",
+  "artist": "あたらよ",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-21 午夜悠闲吉他歌回🎸🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ik7c65EyC?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "夏霞",
+  "artist": "あたらよ",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-21 午夜悠闲吉他歌回🎸🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ik7c65EyC?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "About You",
+  "artist": "ロクデナシ",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-21 午夜悠闲吉他歌回🎸🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ik7c65EyC?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "プリーズ",
+  "artist": "メガテラ・ゼロ",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-21 午夜悠闲吉他歌回🎸🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ik7c65EyC?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "Surges",
+  "artist": "Orangestar feat. IA & 初音ミク",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-21 午夜悠闲吉他歌回🎸🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ik7c65EyC?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "DAYBREAK FRONTLINE",
+  "artist": "Orangestar feat. IA",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-21 午夜悠闲吉他歌回🎸🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ik7c65EyC?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "愛言葉",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "鈴花いのり - Suzuhana Inori -歌切 2026-06-22 出道一周年谢谢！献上满满的爱与感谢 𝜗𝜚.⋆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eEy3?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "鈴花いのり - Suzuhana Inori -歌切 2026-06-22 出道一周年谢谢！献上满满的爱与感谢 𝜗𝜚.⋆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eEy3?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz feat. 巡音ルカ",
+  "collection": "鈴花いのり - Suzuhana Inori -歌切 2026-06-22 出道一周年谢谢！献上满满的爱与感谢 𝜗𝜚.⋆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eEy3?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "#あくあ色ぱれっと",
+  "artist": "湊あくあ",
+  "collection": "鈴花いのり - Suzuhana Inori -歌切 2026-06-22 出道一周年谢谢！献上满满的爱与感谢 𝜗𝜚.⋆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eEy3?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "世界一可愛い私",
+  "artist": "藤田ことね(CV.飯田ヒカル)",
+  "collection": "鈴花いのり - Suzuhana Inori -歌切 2026-06-22 出道一周年谢谢！献上满满的爱与感谢 𝜗𝜚.⋆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eEy3?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ヤミタイガール",
+  "artist": "れるりり feat. GUMI",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "The Beast.",
+  "artist": "スペクタクルP feat. 初音ミク",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ケガレの唄",
+  "artist": "羽生まゐご feat. flower",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "嘘まみれの街で",
+  "artist": "PENGUIN RESEARCH",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ロストワンの号哭",
+  "artist": "Neru feat. 鏡音リン",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "キングスレイヤー",
+  "artist": "マイキP feat. 初音ミク",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "月光花",
+  "artist": "Janne Da Arc",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "MAD HEAD LOVE",
+  "artist": "米津玄師",
+  "collection": "五木つかさ -Itsuki Tsukasa -歌切 2026-06-22 欢迎初次见面的朋友也来，我为你歌唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Y7M6eE3f?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "上海an",
+  "artist": "相対性理論",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "烏",
+  "artist": "米津玄師",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "リードコントロール",
+  "artist": "なるみや",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "緑地化計画",
+  "artist": "文藝天国",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ただ声一つ",
+  "artist": "ロクデナシ",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "車輪の唄",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "透明少女",
+  "artist": "NUMBER GIRL",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "スマトラ警備隊",
+  "artist": "相対性理論",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "ハッピーラッキーチャッピー",
+  "artist": "ano",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "ずうっといっしょ！",
+  "artist": "キタニタツヤ",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "真生活",
+  "artist": "案山子 feat. 初音ミク",
+  "collection": "空閑 環/Kuga Tamaki歌切 2026-06-22 深夜悠闲弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FG7361EWF?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH//",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-23 决定今年会是几岁的生日倒计时直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Gj96QEYX?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "赤猫",
+  "artist": "水曜日のカンパネラ",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-23 决定今年会是几岁的生日倒计时直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Gj96QEYX?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "HoneyWorks feat. mona(CV:夏川椎菜)",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "スパークル [original ver.]",
+  "artist": "RADWIMPS",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ひこうき雲",
+  "artist": "荒井由実",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ふわふわ時間",
+  "artist": "放課後ティータイム",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "パレード",
+  "artist": "ヨルシカ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "正解",
+  "artist": "RADWIMPS",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "糸",
+  "artist": "中島みゆき",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "愛にできることはまだあるかい",
+  "artist": "RADWIMPS",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "3月9日",
+  "artist": "レミオロメン",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "1時間",
+  "artist": "ハンバート ハンバート",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "君が思い出になる前に",
+  "artist": "スピッツ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "エウテルペ",
+  "artist": "EGOIST",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "金木犀の夜",
+  "artist": "きのこ帝国",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "春の",
+  "artist": "古川本舗 feat. 大坪加奈(Spangle call Lilli line)",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "真夜中のドア～stay with me",
+  "artist": "松原みき",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "魔法の絨毯",
+  "artist": "川崎鷹也",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "チェリー",
+  "artist": "スピッツ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "愛のうた",
+  "artist": "ストロベリー・フラワー",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "はなびら",
+  "artist": "奥華子",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "優しいあの子",
+  "artist": "スピッツ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "夜王子と月の姫",
+  "artist": "銀杏BOYZ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "はなれ、ばなれ",
+  "artist": "古川本舗 feat. ばずぱんだ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "チェリー",
+  "artist": "スピッツ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "夏色",
+  "artist": "ゆず",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=32",
+  "source": "others.js"
+},
+    {
+  "title": "愛のしるし",
+  "artist": "スピッツ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=33",
+  "source": "others.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=34",
+  "source": "others.js"
+},
+    {
+  "title": "アストロノーツ",
+  "artist": "ぽわぽわP feat. 初音ミク",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=35",
+  "source": "others.js"
+},
+    {
+  "title": "ルージュの伝言",
+  "artist": "荒井由実",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=36",
+  "source": "others.js"
+},
+    {
+  "title": "レム",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=37",
+  "source": "others.js"
+},
+    {
+  "title": "涙があふれた",
+  "artist": "ストロベリー・フラワー",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=38",
+  "source": "others.js"
+},
+    {
+  "title": "君の為のキミノウタ",
+  "artist": "川崎鷹也",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=39",
+  "source": "others.js"
+},
+    {
+  "title": "太陽",
+  "artist": "ヨルシカ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=40",
+  "source": "others.js"
+},
+    {
+  "title": "少年時代",
+  "artist": "井上陽水",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=41",
+  "source": "others.js"
+},
+    {
+  "title": "魔法",
+  "artist": "古川本舗 feat. ちょまいよ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=42",
+  "source": "others.js"
+},
+    {
+  "title": "ちゃんとあるよ",
+  "artist": "傘村トータ feat. 可不",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=43",
+  "source": "others.js"
+},
+    {
+  "title": "Time goes by",
+  "artist": "Every Little Thing",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=44",
+  "source": "others.js"
+},
+    {
+  "title": "なごり雪",
+  "artist": "イルカ",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=45",
+  "source": "others.js"
+},
+    {
+  "title": "HOME",
+  "artist": "古川本舗",
+  "collection": "汐音ベリーちゃん Berry Ch歌切 2026-06-23 🎂超级超级生日快乐🎂原声吉他弹唱50首耐久直播✨嘉宾隆重登场特别篇🎉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GEj96mEgT?p=46",
+  "source": "others.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-07 悠闲午间竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCjX6rEuy?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-07 悠闲午间竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCjX6rEuy?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "Departures ～あなたにおくるアイの歌～",
+  "artist": "EGOIST",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-07 悠闲午间竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCjX6rEuy?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "迷子の僕に",
+  "artist": "KEI feat. GUMI",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-07 悠闲午间竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCjX6rEuy?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "あの夏が飽和する。",
+  "artist": "カンザキイオリ feat. 鏡音レン・鏡音リン",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-07 悠闲午间竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCjX6rEuy?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-07 悠闲午间竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCjX6rEuy?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "季節は次々死んでいく",
+  "artist": "amazarashi",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-07 悠闲午间竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCjX6rEuy?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "空に歌えば",
+  "artist": "amazarashi",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-07 悠闲午间竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCjX6rEuy?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "歩く",
+  "artist": "ヨルシカ",
+  "collection": "Neonoah Ch. 碧生ねの歌切 2026-06-07 悠闲午间竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCjX6rEuy?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat. 初音ミク",
+  "collection": "卯埜らび / Rabi Uno歌切 2026-06-23 午间歌曲时间！！来听一曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t2jX6zEab?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "サムライハート(Some Like It Hot!!)",
+  "artist": "SPYAIR",
+  "collection": "卯埜らび / Rabi Uno歌切 2026-06-23 午间歌曲时间！！来听一曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t2jX6zEab?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "卯埜らび / Rabi Uno歌切 2026-06-23 午间歌曲时间！！来听一曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t2jX6zEab?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "染まるよ",
+  "artist": "チャットモンチー",
+  "collection": "卯埜らび / Rabi Uno歌切 2026-06-23 午间歌曲时间！！来听一曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t2jX6zEab?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "夜の踊り子",
+  "artist": "サカナクション",
+  "collection": "卯埜らび / Rabi Uno歌切 2026-06-23 午间歌曲时间！！来听一曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t2jX6zEab?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "19歳の唄",
+  "artist": "阿部真央",
+  "collection": "卯埜らび / Rabi Uno歌切 2026-06-23 午间歌曲时间！！来听一曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t2jX6zEab?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "瞬間センチメンタル",
+  "artist": "SCANDAL",
+  "collection": "卯埜らび / Rabi Uno歌切 2026-06-23 午间歌曲时间！！来听一曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t2jX6zEab?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ホログラム",
+  "artist": "NICO Touches the Walls",
+  "collection": "卯埜らび / Rabi Uno歌切 2026-06-23 午间歌曲时间！！来听一曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t2jX6zEab?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "冬眠",
+  "artist": "ヨルシカ",
+  "collection": "卯埜らび / Rabi Uno歌切 2026-06-23 午间歌曲时间！！来听一曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t2jX6zEab?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "夜紛い",
+  "artist": "ヨルシカ",
+  "collection": "卯埜らび / Rabi Uno歌切 2026-06-23 午间歌曲时间！！来听一曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t2jX6zEab?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "心に穴が空いた",
+  "artist": "ヨルシカ",
+  "collection": "卯埜らび / Rabi Uno歌切 2026-06-23 午间歌曲时间！！来听一曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t2jX6zEab?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "The Beginning",
+  "artist": "ONE OK ROCK",
+  "collection": "卯埜らび / Rabi Uno歌切 2026-06-23 午间歌曲时间！！来听一曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t2jX6zEab?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "お勉強しといてよ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "卯埜らび / Rabi Uno歌切 2026-06-23 午间歌曲时间！！来听一曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t2jX6zEab?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "ファイアダンス",
+  "artist": "DECO*27 × Giga feat. 初音ミク・鏡音レン・MEIKO・KAITO",
+  "collection": "卯埜らび / Rabi Uno歌切 2026-06-23 午间歌曲时间！！来听一曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t2jX6zEab?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat. 初音ミク",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "海色",
+  "artist": "AKINO from bless4",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n / 中島愛",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "勘冴えて悔しいわ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "Phantom Joke",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "嘘",
+  "artist": "シド",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat. 可不",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "カラノココロ",
+  "artist": "Anly",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "For You",
+  "artist": "AZU",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "お勉強しといてよ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "This game",
+  "artist": "鈴木このみ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat. IA",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "ブレーメン",
+  "artist": "ヨルシカ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "花人局",
+  "artist": "ヨルシカ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=32",
+  "source": "others.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=33",
+  "source": "others.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=34",
+  "source": "others.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP) feat. GUMI",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=35",
+  "source": "others.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=36",
+  "source": "others.js"
+},
+    {
+  "title": "real Emotion",
+  "artist": "倖田來未",
+  "collection": "YuNi - official channel -歌切 2026-06-25 唱名曲游戏主题歌！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nE4f?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "カルマ",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "YuNi - official channel -歌切 2026-06-25 唱名曲游戏主题歌！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nE4f?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "Starry Heavens",
+  "artist": "day after tomorrow",
+  "collection": "YuNi - official channel -歌切 2026-06-25 唱名曲游戏主题歌！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nE4f?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "光",
+  "artist": "宇多田ヒカル",
+  "collection": "YuNi - official channel -歌切 2026-06-25 唱名曲游戏主题歌！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nE4f?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "檄!帝国華撃団",
+  "artist": "横山智佐・帝国歌劇団",
+  "collection": "YuNi - official channel -歌切 2026-06-25 唱名曲游戏主题歌！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ff7i6nE4f?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "Ham",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "正しくなれない",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "恋人ごっこ",
+  "artist": "マカロニえんぴつ",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "ハルカ",
+  "artist": "YOASOBI",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "黒毛和牛上塩タン焼680円",
+  "artist": "大塚愛",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "ヒトリノ夜",
+  "artist": "ポルノグラフィティ",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "やさしさで溢れるように",
+  "artist": "JUJU",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "永遠のあくる日",
+  "artist": "Ado",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "koyori(電ポルP) feat. 初音ミク",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "マトリョシカ",
+  "artist": "ハチ feat. 初音ミク・GUMI",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "セカイはまだ始まってすらいない",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "裏表ラバーズ",
+  "artist": "wowaka feat. 初音ミク",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ワールズエンド・ダンスホール",
+  "artist": "wowaka feat. 初音ミク・巡音ルカ",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "古書屋敷殺人事件",
+  "artist": "てにをは feat. 初音ミク",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "Mr.Music",
+  "artist": "れるりり、ロンチーノ=ペペ、かごめP feat. 初音ミク・巡音ルカ・鏡音リン・鏡音レン・GUMI・歌愛ユキ",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ドレミファロンド",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "炉心融解",
+  "artist": "iroha(sasaki) feat. 鏡音リン",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "セツナトリップ",
+  "artist": "Last Note. feat. GUMI",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat. GUMI",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "夢町コントラスト",
+  "artist": "koyori feat. 初音ミクAppend",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "チルドレンレコード",
+  "artist": "じん feat. IA",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "疑心暗鬼",
+  "artist": "梅とら feat. 巡音ルカ・初音ミク・GUMI・IA・鏡音リン",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "おじゃま虫",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "シリョクケンサ",
+  "artist": "40mP feat. GUMI",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "CANDY CANDY",
+  "artist": "きゃりーぱみゅぱみゅ",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "Ready Steady",
+  "artist": "Giga feat. 初音ミク・鏡音リン・鏡音レン",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "JITTERIN'JINN",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "mumei",
+  "artist": "Nanashi Mumei",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "STAY",
+  "artist": "BLACKPINK",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "第六感",
+  "artist": "Reol",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "魔理沙は大変なものを盗んでいきました",
+  "artist": "IOSYS feat. miko",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat. GUMI・鏡音リン",
+  "collection": "DELUTAYA Δ.歌切 2026-06-26 夜晚的哔咔哔咔呱呱歌回⚡🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KL7J61EbH?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "にじいろ",
+  "artist": "絢香",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "タマシイレボリューション",
+  "artist": "Superfly",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "少女S",
+  "artist": "SCANDAL",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "プロミスザスター",
+  "artist": "BiSH",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "Round ZERO〜BLADE BRAVE",
+  "artist": "相川七瀬",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "桜のあと (all quartets lead to the?)",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "僕のこと",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "抜錨",
+  "artist": "ナナホシ管弦楽団 feat. 巡音ルカ",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "優しい夜明け",
+  "artist": "See-Saw",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "花ハ踊レヤいろはにほ",
+  "artist": "チーム“ハナヤマタ”",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "フクロウ ～フクロウが知らせる客が来たと～",
+  "artist": "KOKIA",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "幾田りら",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "私じゃなかったんだね。",
+  "artist": "りりあ。",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "ダンスホール",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "カワキヲアメク",
+  "artist": "美波",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "美波",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "I LOVE...",
+  "artist": "Official髭男dism",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "銀色飛行船",
+  "artist": "supercell",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "words",
+  "artist": "Aimer",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "やさしさで溢れるように",
+  "artist": "JUJU",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "東京フラッシュ",
+  "artist": "Vaundy",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "ハレンチ",
+  "artist": "ちゃんみな",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "フライデー・ナイト",
+  "artist": "なとり",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "紡ぐ",
+  "artist": "とた",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=32",
+  "source": "others.js"
+},
+    {
+  "title": "闇に目を凝らせば",
+  "artist": "GLIM SPANKY",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=33",
+  "source": "others.js"
+},
+    {
+  "title": "もっと",
+  "artist": "aiko",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=34",
+  "source": "others.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=35",
+  "source": "others.js"
+},
+    {
+  "title": "失恋ソング沢山聴いて 泣いてばかりの私はもう。",
+  "artist": "りりあ。",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=36",
+  "source": "others.js"
+},
+    {
+  "title": "ピエロ",
+  "artist": "KEI feat. 初音ミク",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=37",
+  "source": "others.js"
+},
+    {
+  "title": "瞳",
+  "artist": "大原櫻子",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=38",
+  "source": "others.js"
+},
+    {
+  "title": "441",
+  "artist": "miwa",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=39",
+  "source": "others.js"
+},
+    {
+  "title": "don't cry anymore",
+  "artist": "miwa",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=40",
+  "source": "others.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI for 雨音薫",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=41",
+  "source": "others.js"
+},
+    {
+  "title": "ブルーアンバー",
+  "artist": "back number",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=42",
+  "source": "others.js"
+},
+    {
+  "title": "Everything",
+  "artist": "MISIA",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=43",
+  "source": "others.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=44",
+  "source": "others.js"
+},
+    {
+  "title": "Ham",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=45",
+  "source": "others.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo feat. 初音ミク",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=46",
+  "source": "others.js"
+},
+    {
+  "title": "今夜このまま",
+  "artist": "あいみょん",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=47",
+  "source": "others.js"
+},
+    {
+  "title": "二息歩行",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=48",
+  "source": "others.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat. GUMI",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=49",
+  "source": "others.js"
+},
+    {
+  "title": "愛言葉",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=50",
   "source": "others.js"
 },
     {
