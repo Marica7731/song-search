@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 6/28/2026, 3:44:18 AM
+// 生成时间: 6/28/2026, 3:53:49 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4115,6 +4115,182 @@ window.SONG_DATA.push(
   "collection": "【明日夢 歌切】[2026-06-24]星期三辛苦了～～～～！！！ 明日夢かなえ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nZ7s6HEpt?p=26",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "負け犬にアンコールはいらない",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-27]终于走到这一步了！！！！目标一万人🔥🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUTK6JEmC?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "爆弾魔",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-27]终于走到这一步了！！！！目标一万人🔥🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUTK6JEmC?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【明日夢 歌切】[2026-06-27]终于走到这一步了！！！！目标一万人🔥🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUTK6JEmC?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【明日夢 歌切】[2026-06-27]终于走到这一步了！！！！目标一万人🔥🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUTK6JEmC?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ユメヲカケル！",
+  "artist": "スピカ",
+  "collection": "【明日夢 歌切】[2026-06-27]终于走到这一步了！！！！目标一万人🔥🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUTK6JEmC?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【明日夢 歌切】[2026-06-27]终于走到这一步了！！！！目标一万人🔥🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUTK6JEmC?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-27]终于走到这一步了！！！！目标一万人🔥🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUTK6JEmC?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-06-27]终于走到这一步了！！！！目标一万人🔥🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUTK6JEmC?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【明日夢 歌切】[2026-06-27]终于走到这一步了！！！！目标一万人🔥🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUTK6JEmC?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Snow halation",
+  "artist": "μ's",
+  "collection": "【明日夢 歌切】[2026-06-27]终于走到这一步了！！！！目标一万人🔥🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUTK6JEmC?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo feat. 初音ミク",
+  "collection": "【明日夢 歌切】[2026-06-27]终于走到这一步了！！！！目标一万人🔥🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUTK6JEmC?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "TAIDADA",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【明日夢 歌切】[2026-06-27]终于走到这一步了！！！！目标一万人🔥🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUTK6JEmC?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "【明日夢 歌切】[2026-06-27]终于走到这一步了！！！！目标一万人🔥🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUTK6JEmC?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "【明日夢 歌切】[2026-06-27]终于走到这一步了！！！！目标一万人🔥🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUTK6JEmC?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【明日夢 歌切】[2026-06-27]终于走到这一步了！！！！目标一万人🔥🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUTK6JEmC?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【明日夢 歌切】[2026-06-27]终于走到这一步了！！！！目标一万人🔥🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUTK6JEmC?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "プライド革命",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【明日夢 歌切】[2026-06-27]终于走到这一步了！！！！目标一万人🔥🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUTK6JEmC?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【明日夢 歌切】[2026-06-27]终于走到这一步了！！！！目标一万人🔥🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUTK6JEmC?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo feat. 初音ミク",
+  "collection": "【明日夢 歌切】[2026-06-27]终于走到这一步了！！！！目标一万人🔥🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUTK6JEmC?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "【明日夢 歌切】[2026-06-27]终于走到这一步了！！！！目标一万人🔥🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUTK6JEmC?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【明日夢 歌切】[2026-06-27]终于走到这一步了！！！！目标一万人🔥🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUTK6JEmC?p=21",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "愛言葉Ⅲ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【明日夢 歌切】[2026-06-27]终于走到这一步了！！！！目标一万人🔥🔥 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUTK6JEmC?p=22",
   "source": "asuyumekanae.js"
 },
     {
