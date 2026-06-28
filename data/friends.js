@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 6/28/2026, 12:53:08 PM
+// 生成时间: 6/28/2026, 1:15:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2411,6 +2411,62 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-06-24 要不要来首治愈的歌？❄️💫 蒼星すい",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w67t6hEvJ?p=10",
+  "source": "friends.js"
+},
+    {
+  "title": "愛包ダンスホール",
+  "artist": "HIMEHINA",
+  "collection": "七海うらら*歌channel歌切 2026-06-27 与YueNa酱合作歌回！七海Urara首次Zepp纪念",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1i8TK6aEZG?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "マーシャル・マキシマイザー",
+  "artist": "柊マグネタイト feat. 可不",
+  "collection": "七海うらら*歌channel歌切 2026-06-27 与YueNa酱合作歌回！七海Urara首次Zepp纪念",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1i8TK6aEZG?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "ノンブレス・オブリージュ",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "七海うらら*歌channel歌切 2026-06-27 与YueNa酱合作歌回！七海Urara首次Zepp纪念",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1i8TK6aEZG?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "僕が最高だから",
+  "artist": "ハコニワリリィ",
+  "collection": "七海うらら*歌channel歌切 2026-06-27 与YueNa酱合作歌回！七海Urara首次Zepp纪念",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1i8TK6aEZG?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "キワメテカワイイ",
+  "artist": "七海うらら",
+  "collection": "七海うらら*歌channel歌切 2026-06-27 与YueNa酱合作歌回！七海Urara首次Zepp纪念",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1i8TK6aEZG?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "ガールズストラテジー",
+  "artist": "七海うらら feat. ユエナ",
+  "collection": "七海うらら*歌channel歌切 2026-06-27 与YueNa酱合作歌回！七海Urara首次Zepp纪念",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1i8TK6aEZG?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "Seventh Heaven",
+  "artist": "七海うらら",
+  "collection": "七海うらら*歌channel歌切 2026-06-27 与YueNa酱合作歌回！七海Urara首次Zepp纪念",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1i8TK6aEZG?p=7",
   "source": "friends.js"
 }
 );
