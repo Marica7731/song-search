@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 6/28/2026, 4:32:37 AM
+// 生成时间: 6/28/2026, 4:39:52 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -35195,6 +35195,158 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-06-25]初見さん歓迎中！ただいま～！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1U87E6jE8t?p=28",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【🍠🦍歌切】[2026-06-27]欢迎新观众！来听首歌再走吧！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fwTT6zEZN?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハイタッチ！",
+  "artist": "サトシ(松本梨香)&ヒカリ(豊口めぐみ)",
+  "collection": "【🍠🦍歌切】[2026-06-27]欢迎新观众！来听首歌再走吧！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fwTT6zEZN?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【🍠🦍歌切】[2026-06-27]欢迎新观众！来听首歌再走吧！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fwTT6zEZN?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "GO!!!",
+  "artist": "FLOW",
+  "collection": "【🍠🦍歌切】[2026-06-27]欢迎新观众！来听首歌再走吧！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fwTT6zEZN?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "サトシ with ピカチュウ(CV:松本梨香/大谷育江)",
+  "collection": "【🍠🦍歌切】[2026-06-27]欢迎新观众！来听首歌再走吧！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fwTT6zEZN?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "【🍠🦍歌切】[2026-06-27]欢迎新观众！来听首歌再走吧！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fwTT6zEZN?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "涼宮ハルヒ(CV:平野綾)、長門有希(CV:茅原実里)、朝比奈みくる(CV:後藤邑子)",
+  "collection": "【🍠🦍歌切】[2026-06-27]欢迎新观众！来听首歌再走吧！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fwTT6zEZN?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿ヒデノリ",
+  "collection": "【🍠🦍歌切】[2026-06-27]欢迎新观众！来听首歌再走吧！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fwTT6zEZN?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍠🦍歌切】[2026-06-27]欢迎新观众！来听首歌再走吧！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fwTT6zEZN?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "【🍠🦍歌切】[2026-06-27]欢迎新观众！来听首歌再走吧！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fwTT6zEZN?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おどるポンポコリン",
+  "artist": "B.B.クィーンズ",
+  "collection": "【🍠🦍歌切】[2026-06-27]欢迎新观众！来听首歌再走吧！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fwTT6zEZN?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "【🍠🦍歌切】[2026-06-27]欢迎新观众！来听首歌再走吧！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fwTT6zEZN?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "十六夜涙",
+  "artist": "吉岡亜衣加",
+  "collection": "【🍠🦍歌切】[2026-06-27]欢迎新观众！来听首歌再走吧！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fwTT6zEZN?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "【🍠🦍歌切】[2026-06-27]欢迎新观众！来听首歌再走吧！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fwTT6zEZN?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "桜キッス",
+  "artist": "河辺千恵子",
+  "collection": "【🍠🦍歌切】[2026-06-27]欢迎新观众！来听首歌再走吧！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fwTT6zEZN?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "心絵",
+  "artist": "ロードオブメジャー",
+  "collection": "【🍠🦍歌切】[2026-06-27]欢迎新观众！来听首歌再走吧！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fwTT6zEZN?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-06-27]欢迎新观众！来听首歌再走吧！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fwTT6zEZN?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Happiness",
+  "artist": "嵐",
+  "collection": "【🍠🦍歌切】[2026-06-27]欢迎新观众！来听首歌再走吧！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fwTT6zEZN?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "緋色の空",
+  "artist": "川田まみ",
+  "collection": "【🍠🦍歌切】[2026-06-27]欢迎新观众！来听首歌再走吧！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fwTT6zEZN?p=19",
   "source": "yoshika.js"
 }
 );
