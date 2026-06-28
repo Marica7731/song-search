@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 6/28/2026, 4:54:47 AM
+// 生成时间: 6/28/2026, 5:04:55 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5219,6 +5219,198 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-06-25]温柔的弹唱与雨声，让心灵宁静的夜晚吧🌙 | 澄花/ぷろぶる -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1747i6GEcu?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "満ちてゆく",
+  "artist": "藤井風",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "八月、某、月明かり",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "115万キロのフィルム",
+  "artist": "Official髭男dism",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "フラレイガール",
+  "artist": "さユり",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "メロウ",
+  "artist": "須田景凪",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=20",
+  "source": "sumica.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=21",
+  "source": "sumica.js"
+},
+    {
+  "title": "隙",
+  "artist": "ゆーり×原口沙輔×ハツミノ",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=22",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=23",
+  "source": "sumica.js"
+},
+    {
+  "title": "人間らしく",
+  "artist": "Bray me",
+  "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=24",
   "source": "sumica.js"
 }
 );
