@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 6/29/2026, 8:57:28 PM
+// 生成时间: 6/29/2026, 9:07:16 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6702,7 +6702,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "overdose",
+  "title": "Overdose",
   "artist": "なとり",
   "collection": "【 Acoustic / 弾き語り 】睡眠導入しっとり弾き語り🌙Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
@@ -6711,7 +6711,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モニタリング",
-  "artist": "DECO*27",
+  "artist": "DECO*27 feat. 初音ミク",
   "collection": "【 Acoustic / 弾き語り 】睡眠導入しっとり弾き語り🌙Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wKM9ztEsk?p=3",
@@ -6735,15 +6735,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "心拍数♯0822",
-  "artist": "Leoneed × 初音ミク",
+  "artist": "蝶々P feat. 初音ミク",
   "collection": "【 Acoustic / 弾き語り 】睡眠導入しっとり弾き語り🌙Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wKM9ztEsk?p=6",
   "source": "ririsya.js"
 },
     {
-  "title": "ラプンツェル Rapunzel",
-  "artist": "n-buna",
+  "title": "ラプンツェル",
+  "artist": "n-buna feat. 初音ミク",
   "collection": "【 Acoustic / 弾き語り 】睡眠導入しっとり弾き語り🌙Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wKM9ztEsk?p=7",
@@ -6807,7 +6807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "さよならミッドナイト",
-  "artist": "大柴広己(もじゃ)",
+  "artist": "大柴広己",
   "collection": "【 Acoustic / 弾き語り 】睡眠導入しっとり弾き語り🌙Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wKM9ztEsk?p=15",
@@ -6839,7 +6839,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "フォニイ",
-  "artist": "ツキミ",
+  "artist": "ツミキ feat. 可不",
   "collection": "【 Acoustic / 弾き語り 】睡眠導入しっとり弾き語り🌙Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wKM9ztEsk?p=19",
@@ -6855,7 +6855,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "チチをもげ！",
-  "artist": "パルコ・フォルゴレ(高橋広樹)",
+  "artist": "パルコ・フォルゴレ（高橋広樹）",
   "collection": "【 Acoustic / 弾き語り 】睡眠導入しっとり弾き語り🌙Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wKM9ztEsk?p=21",
