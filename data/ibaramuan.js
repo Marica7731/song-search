@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 6/29/2026, 8:51:41 PM
+// 生成时间: 6/29/2026, 9:09:53 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3187,6 +3187,206 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-26]傍晚的休息时光呀☕欢迎新朋友 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xi7E6GEK5?p=33",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "シニカルナイトプラン",
+  "artist": "Ayase feat. 初音ミク",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Gimme×Gimme",
+  "artist": "八王子P × Giga feat. 初音ミク・鏡音リン",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "当事者",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "BANG!!!",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Magia",
+  "artist": "Kalafina",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat. 初音ミク",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "トレモロ",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Henceforth",
+  "artist": "Orangestar feat. IA",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "雨き声残響",
+  "artist": "Orangestar feat. IA",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "愛迷エレジー",
+  "artist": "DECO*27 feat. marina",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "デビルじゃないもん",
+  "artist": "DECO*27 x ピノキオピー feat. 初音ミク",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "転生林檎",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "『んっあっあっ。』",
+  "artist": "SLAVE.V-V-R feat. 初音ミク",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "マカロン",
+  "artist": "ATOLS feat. 初音ミク",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "寄り酔い",
+  "artist": "和ぬか",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ぎゅっと。",
+  "artist": "もさを。",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "月光花",
+  "artist": "Janne Da Arc",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "おじゃま虫Ⅱ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "おじゃま虫",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "デーモンロード",
+  "artist": "Kanaria feat. 初音ミク",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "酔いどれ知らず",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=25",
   "source": "ibaramuan.js"
 }
 );
