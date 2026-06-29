@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 6/29/2026, 9:05:56 PM
+// 生成时间: 6/29/2026, 9:17:34 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2467,6 +2467,78 @@ window.SONG_DATA.push(
   "collection": "七海うらら*歌channel歌切 2026-06-27 与YueNa酱合作歌回！七海Urara首次Zepp纪念",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1i8TK6aEZG?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "”超”インフルエンサ→☆",
+  "artist": "松永依織",
+  "collection": "联动歌切 2026-06-29 松永依織与七海うらら的联动歌回💎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bkKR69EJ8?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP feat. 鏡音リン",
+  "collection": "联动歌切 2026-06-29 松永依織与七海うらら的联动歌回💎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bkKR69EJ8?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "右肩の蝶",
+  "artist": "のりP feat. 鏡音リン",
+  "collection": "联动歌切 2026-06-29 松永依織与七海うらら的联动歌回💎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bkKR69EJ8?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat. GUMI",
+  "collection": "联动歌切 2026-06-29 松永依織与七海うらら的联动歌回💎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bkKR69EJ8?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "Ready!! Steady!! Derby!!",
+  "artist": "ジャングルポケット(CV:藤本侑里)、アグネスタキオン(CV:上坂すみれ)、マンハッタンカフェ(C",
+  "collection": "联动歌切 2026-06-29 松永依織与七海うらら的联动歌回💎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bkKR69EJ8?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "联动歌切 2026-06-29 松永依織与七海うらら的联动歌回💎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bkKR69EJ8?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "さよならメモリーズ",
+  "artist": "supercell",
+  "collection": "联动歌切 2026-06-29 松永依織与七海うらら的联动歌回💎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bkKR69EJ8?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "联动歌切 2026-06-29 松永依織与七海うらら的联动歌回💎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bkKR69EJ8?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "Infinity karat",
+  "artist": "七海うらら",
+  "collection": "联动歌切 2026-06-29 松永依織与七海うらら的联动歌回💎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bkKR69EJ8?p=9",
   "source": "friends.js"
 }
 );
