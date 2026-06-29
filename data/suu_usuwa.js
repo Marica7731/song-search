@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 6/29/2026, 7:57:42 AM
+// 生成时间: 6/29/2026, 8:06:19 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21195,6 +21195,46 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-06-25]稍微唱会儿歌吧 稀羽すう - Suu Usuwa -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11s7v69Etu?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "SUN",
+  "artist": "星野源",
+  "collection": "【🦢歌切】[2026-06-28]今天特地准备了特别的歌曲！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggKS63EsX?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Mornin’ Bell",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-06-28]今天特地准备了特别的歌曲！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggKS63EsX?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "銀河鉄道999",
+  "artist": "ゴダイゴ",
+  "collection": "【🦢歌切】[2026-06-28]今天特地准备了特别的歌曲！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggKS63EsX?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "雨傘",
+  "artist": "TOKIO",
+  "collection": "【🦢歌切】[2026-06-28]今天特地准备了特别的歌曲！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggKS63EsX?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Midtown Glow",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-06-28]今天特地准备了特别的歌曲！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggKS63EsX?p=5",
   "source": "suu_usuwa.js"
 }
 );
