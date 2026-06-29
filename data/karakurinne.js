@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 6/29/2026, 9:13:17 AM
+// 生成时间: 6/29/2026, 9:34:53 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1542,16 +1542,16 @@ window.SONG_DATA.push(
   "source": "karakurinne.js"
 },
     {
-  "title": "夢をかなえてドラえもん",
-  "artist": "mao",
+  "title": "いのちの記憶",
+  "artist": "二階堂和美",
   "collection": "【⚙️🎸歌切】[2026-06-28]悠闲的唱歌时间哦～！！🎹🎸 からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgKS63EBB?p=7",
   "source": "karakurinne.js"
 },
     {
-  "title": "いのちの記憶",
-  "artist": "二階堂和美",
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
   "collection": "【⚙️🎸歌切】[2026-06-28]悠闲的唱歌时间哦～！！🎹🎸 からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgKS63EBB?p=8",
