@@ -1,6 +1,6 @@
 // 酢酸 / SAKUSAN - 歌单数据 (多合集汇总)
 // 来源: BV1JSZHBrEVw
-// 生成时间: 6/29/2026, 3:40:47 PM
+// 生成时间: 6/29/2026, 3:49:31 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1230,75 +1230,11 @@ window.SONG_DATA.push(
   "source": "sakusan.js"
 },
     {
-  "title": "NAO",
-  "artist": "HY",
-  "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=8",
-  "source": "sakusan.js"
-},
-    {
-  "title": "唱",
-  "artist": "Ado",
-  "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=9",
-  "source": "sakusan.js"
-},
-    {
-  "title": "革命道中",
-  "artist": "アイナ・ジ・エンド",
-  "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=10",
-  "source": "sakusan.js"
-},
-    {
-  "title": "ワールドイズマイン",
-  "artist": "ryo(supercell) feat. 初音ミク",
-  "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=11",
-  "source": "sakusan.js"
-},
-    {
-  "title": "モニタリング",
-  "artist": "DECO*27 feat. 初音ミク",
-  "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=12",
-  "source": "sakusan.js"
-},
-    {
-  "title": "テトリス",
-  "artist": "柊マグネタイト",
-  "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=13",
-  "source": "sakusan.js"
-},
-    {
-  "title": "HANA",
-  "artist": "BLUEJEANS",
-  "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=14",
-  "source": "sakusan.js"
-},
-    {
-  "title": "ダリア",
-  "artist": "ちゃんみな",
-  "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=15",
-  "source": "sakusan.js"
-},
-    {
   "title": "アイドル",
   "artist": "YOASOBI",
   "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=16",
+  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=8",
   "source": "sakusan.js"
 },
     {
@@ -1306,7 +1242,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=17",
+  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=9",
   "source": "sakusan.js"
 },
     {
@@ -1314,7 +1250,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE",
   "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=18",
+  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=10",
   "source": "sakusan.js"
 },
     {
@@ -1322,7 +1258,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE",
   "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=19",
+  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=11",
   "source": "sakusan.js"
 },
     {
@@ -1330,7 +1266,7 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE",
   "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=20",
+  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=12",
   "source": "sakusan.js"
 },
     {
@@ -1338,15 +1274,55 @@ window.SONG_DATA.push(
   "artist": "Mrs. GREEN APPLE",
   "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=21",
+  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=13",
   "source": "sakusan.js"
 },
     {
-  "title": "moshi moshi",
-  "artist": "GAL D・Nozomi Kitay",
+  "title": "NAO",
+  "artist": "HY",
   "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=22",
+  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=14",
+  "source": "sakusan.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=15",
+  "source": "sakusan.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=16",
+  "source": "sakusan.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo (supercell) feat. 初音ミク",
+  "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=17",
+  "source": "sakusan.js"
+},
+    {
+  "title": "mosi mosi?",
+  "artist": "楽音",
+  "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=18",
+  "source": "sakusan.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=19",
   "source": "sakusan.js"
 },
     {
@@ -1354,12 +1330,36 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=23",
+  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=20",
   "source": "sakusan.js"
 },
     {
   "title": "アタシは問題作",
   "artist": "Ado",
+  "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=21",
+  "source": "sakusan.js"
+},
+    {
+  "title": "我ら妖縁ノ宴",
+  "artist": "Batsu",
+  "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=22",
+  "source": "sakusan.js"
+},
+    {
+  "title": "アタシは問題作",
+  "artist": "Ado",
+  "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=23",
+  "source": "sakusan.js"
+},
+    {
+  "title": "Everything",
+  "artist": "MISIA",
   "collection": "【酢酸 / SAKUSAN歌切】 2026-06-28 好久不见，来唱歌了〜！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VwKS62Efq?p=24",
