@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/29/2026, 10:11:13 AM
+// 生成时间: 6/29/2026, 10:23:32 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21272,49 +21272,49 @@ window.SONG_DATA.push(
     {
   "title": "光るなら",
   "artist": "Goose house",
-  "collection": "歌势推荐：渚沢シチ 2026-03-06 Rjs6oWcVHXI",
+  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VEcSz7EFC?p=22",
+  "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=27",
   "source": "others.js"
 },
     {
-  "title": "花束の代わりにメロディーを",
-  "artist": "清水翔太",
-  "collection": "歌势推荐：狐宵いなり 2026-03-14 TV5I_-aBVqY",
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16zwbzKEpv?p=1",
+  "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=28",
   "source": "others.js"
 },
     {
-  "title": "愛みたいなもの",
-  "artist": "阿部真央",
-  "collection": "歌势推荐：狐宵いなり 2026-03-14 TV5I_-aBVqY",
+  "title": "平行線",
+  "artist": "さユり",
+  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16zwbzKEpv?p=2",
+  "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=29",
   "source": "others.js"
 },
     {
-  "title": "Dont let me down",
-  "artist": "阿部真央",
-  "collection": "歌势推荐：狐宵いなり 2026-03-14 TV5I_-aBVqY",
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16zwbzKEpv?p=3",
+  "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=30",
   "source": "others.js"
 },
     {
-  "title": "ノーダウト",
-  "artist": "Official髭男dism",
-  "collection": "歌势推荐：狐宵いなり 2026-03-14 TV5I_-aBVqY",
+  "title": "負けないで",
+  "artist": "ZARD",
+  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16zwbzKEpv?p=4",
+  "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=31",
   "source": "others.js"
 },
     {
-  "title": "ロミオとシンデレラ",
-  "artist": "doriko feat.初音ミク",
-  "collection": "歌势推荐：狐宵いなり 2026-03-14 TV5I_-aBVqY",
+  "title": "Meteor -ミーティア-",
+  "artist": "T.M.Revolution",
+  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16zwbzKEpv?p=5",
+  "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=32",
   "source": "others.js"
 },
     {
