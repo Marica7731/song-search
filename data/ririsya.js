@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 6/29/2026, 9:07:16 PM
+// 生成时间: 6/29/2026, 9:16:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17299,6 +17299,230 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-06-28]个人势SSW VTuber凛々咲，全力歌唱！ ✧ 歌唱接力 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ggKS63EWU?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "My Sweet Darlin'",
+  "artist": "矢井田瞳",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "I wanna see you",
+  "artist": "阿部真央",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "小さな恋のうた",
+  "artist": "MONGOL800",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "相思相愛",
+  "artist": "aiko",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "片想い",
+  "artist": "miwa",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "裸の心",
+  "artist": "あいみょん",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "赤い糸",
+  "artist": "コブクロ",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "NAO",
+  "artist": "HY",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "初恋",
+  "artist": "奥華子",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "恋",
+  "artist": "奥華子",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "楔 -くさび-",
+  "artist": "奥華子",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "真赤",
+  "artist": "My Hair is Bad",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=18",
+  "source": "ririsya.js"
+},
+    {
+  "title": "別の人の彼女になったよ",
+  "artist": "wacci",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=19",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=20",
+  "source": "ririsya.js"
+},
+    {
+  "title": "me me she",
+  "artist": "RADWIMPS",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=21",
+  "source": "ririsya.js"
+},
+    {
+  "title": "未来予想図II",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=22",
+  "source": "ririsya.js"
+},
+    {
+  "title": "M",
+  "artist": "PRINCESS PRINCESS",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=23",
+  "source": "ririsya.js"
+},
+    {
+  "title": "なんでもないよ、",
+  "artist": "マカロニえんぴつ",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=24",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=25",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Wherever you are",
+  "artist": "ONE OK ROCK",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=26",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat. 初音ミク",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=27",
+  "source": "ririsya.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=28",
   "source": "ririsya.js"
 }
 );
