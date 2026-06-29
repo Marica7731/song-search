@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 6/29/2026, 7:11:04 PM
+// 生成时间: 6/29/2026, 7:28:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -19958,71 +19958,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "プラチナ",
-  "artist": "坂本真綾",
-  "collection": "🦢💐 稀羽すう × Figaro 联动歌切 2026-03-31",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nMXCBHEKt?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "すずめ",
-  "artist": "RADWIMPS",
-  "collection": "🦢💐 稀羽すう × Figaro 联动歌切 2026-03-31",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nMXCBHEKt?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "Bunny Girl",
-  "artist": "AKASAKI",
-  "collection": "🦢💐 稀羽すう × Figaro 联动歌切 2026-03-31",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nMXCBHEKt?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "SUN",
-  "artist": "星野源",
-  "collection": "🦢💐 稀羽すう × Figaro 联动歌切 2026-03-31",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nMXCBHEKt?p=5",
-  "source": "others.js"
-},
-    {
-  "title": "Limbo",
-  "artist": "春野",
-  "collection": "🦢💐 稀羽すう × Figaro 联动歌切 2026-03-31",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nMXCBHEKt?p=6",
-  "source": "others.js"
-},
-    {
-  "title": "エイリアンズ",
-  "artist": "キリンジ",
-  "collection": "🦢💐 稀羽すう × Figaro 联动歌切 2026-03-31",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nMXCBHEKt?p=7",
-  "source": "others.js"
-},
-    {
-  "title": "水平線",
-  "artist": "back number",
-  "collection": "🦢💐 稀羽すう × Figaro 联动歌切 2026-03-31",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nMXCBHEKt?p=8",
-  "source": "others.js"
-},
-    {
-  "title": "Blue Jeans",
-  "artist": "HANA",
-  "collection": "2026-04-01 联动歌切 神秘嘉宾是谁？！愚人节特别歌回 ✧凛々咲 / Ririsya",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1269JBNEQy?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "Sad Song",
+  "title": "ハレンチ",
   "artist": "ちゃんみな",
   "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
   "up": "前尘往事如昔故",
