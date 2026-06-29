@@ -64,7 +64,7 @@ const COLLECTION_TITLE_SELECTORS = [
 const SINGER_CONFIGS = [
     { bvids: ["BV1JRwUzoEpM","BV1icwSzXEYv"], file: "asuyumekanae", alias: "明日夢かなえ" },
     { bvids: ["BV1owcoz3Ekw"], file: "chiyutori ", alias: "知悠" },
-    { bvids: ["BV1R2wQzfEuY"], file: "momijimaru", alias: "紅葉丸" },
+    { bvids: ["BV1R2wQzfEuY"], file: "momijimaru", alias: "紅葉丸", archived: true, archiveReason: "保留历史数据，不再刷新" },
     { bvids: ["BV1G4wxzmEV5"], file: "kukuri", alias: "戸鎖くくり" },
     { bvids: ["BV1G6fLB7Efr","BV1J5P7zrEB3"], file: "naraetan", alias: "なれたん Naraetan" },
     { bvids: ["BV1HRfuBCEXN"], file: "figaro", alias: "Figaro" },
@@ -106,6 +106,8 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1r75B6LEwd"], file: "323", alias: "323" },
     { bvids: ["BV1TqGY6gEEf"], file: "minaton", alias: "みなとん" },
     { bvids: ["BV11GZtBcEsp","BV1xucZzxEkZ","BV117P2zwEuq","BV1LJ4m1A7FC"], file: "others", alias: "非常驻妹妹" },
+    { bvids: ["BV1S4TT6pEn4"], file: "neno", alias: "碧生ねの" },
+    { bvids: ["BV1jyjK6sEns"], file: "suzuhanainori", alias: "鈴花いのり" },
     { bvids: ["BV1Qa9JB6EAw"], alias: "陽月るるふ" }
 ];
 
@@ -514,6 +516,10 @@ async function processEntryBvid(config, entryBvid, samplingState) {
 }
 
 function shouldProcessConfig(config) {
+    if (config.archived) {
+        console.log(`   🗄️  跳过封存来源: ${config.alias}`);
+        return false;
+    }
     if (SOURCE_FILTER.length === 0) return true;
     const fields = [
         config.resolvedFile,
