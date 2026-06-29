@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 6/29/2026, 8:07:18 AM
+// 生成时间: 6/29/2026, 8:14:49 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1491,6 +1491,86 @@ window.SONG_DATA.push(
   "collection": "【⚙️🎸歌切】[2026-06-25]轻松唱唱歌！哪怕只听一首也请来哦 からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ff7i6nEh6?p=9",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "sugar",
+  "artist": "Saucy Dog",
+  "collection": "【⚙️🎸歌切】[2026-06-28]悠闲的唱歌时间哦～！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgKS63EBB?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ライバー",
+  "artist": "日向文",
+  "collection": "【⚙️🎸歌切】[2026-06-28]悠闲的唱歌时间哦～！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgKS63EBB?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "雨",
+  "artist": "ソノサキトマリ",
+  "collection": "【⚙️🎸歌切】[2026-06-28]悠闲的唱歌时间哦～！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgKS63EBB?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "夜明けの歌",
+  "artist": "M2U",
+  "collection": "【⚙️🎸歌切】[2026-06-28]悠闲的唱歌时间哦～！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgKS63EBB?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "Shout Baby",
+  "artist": "緑黄色社会",
+  "collection": "【⚙️🎸歌切】[2026-06-28]悠闲的唱歌时间哦～！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgKS63EBB?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ママ",
+  "artist": "HoneyWorks",
+  "collection": "【⚙️🎸歌切】[2026-06-28]悠闲的唱歌时间哦～！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgKS63EBB?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【⚙️🎸歌切】[2026-06-28]悠闲的唱歌时间哦～！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgKS63EBB?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "いのちの記憶",
+  "artist": "二階堂和美",
+  "collection": "【⚙️🎸歌切】[2026-06-28]悠闲的唱歌时间哦～！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgKS63EBB?p=8",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "パート・オブ・ユア・ワールド",
+  "artist": "すずきまゆみ",
+  "collection": "【⚙️🎸歌切】[2026-06-28]悠闲的唱歌时间哦～！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgKS63EBB?p=9",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "オラはにんきもの",
+  "artist": "のはらしんのすけ（矢島晶子）",
+  "collection": "【⚙️🎸歌切】[2026-06-28]悠闲的唱歌时间哦～！！🎹🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgKS63EBB?p=10",
   "source": "karakurinne.js"
 }
 );
