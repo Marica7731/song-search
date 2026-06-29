@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 6/29/2026, 8:04:29 AM
+// 生成时间: 6/29/2026, 8:15:03 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -32395,6 +32395,134 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-06-24]周中！悠闲放松一下吧 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jN7x62Eza?p=19",
+  "source": "figaro.js"
+},
+    {
+  "title": "曖昧劣情Lover",
+  "artist": "電ポルP",
+  "collection": "【💐歌切】[2026-06-28]助眠歌回✨ 睡前放松时刻，请慢慢享受🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gKS63EYW?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "エイリアンズ",
+  "artist": "キリンジ",
+  "collection": "【💐歌切】[2026-06-28]助眠歌回✨ 睡前放松时刻，请慢慢享受🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gKS63EYW?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "This Love",
+  "artist": "アンジェラ・アキ",
+  "collection": "【💐歌切】[2026-06-28]助眠歌回✨ 睡前放松时刻，请慢慢享受🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gKS63EYW?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【💐歌切】[2026-06-28]助眠歌回✨ 睡前放松时刻，请慢慢享受🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gKS63EYW?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "【💐歌切】[2026-06-28]助眠歌回✨ 睡前放松时刻，请慢慢享受🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gKS63EYW?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "テレ東",
+  "artist": "相対性理論",
+  "collection": "【💐歌切】[2026-06-28]助眠歌回✨ 睡前放松时刻，请慢慢享受🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gKS63EYW?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-06-28]助眠歌回✨ 睡前放松时刻，请慢慢享受🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gKS63EYW?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "【💐歌切】[2026-06-28]助眠歌回✨ 睡前放松时刻，请慢慢享受🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gKS63EYW?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN",
+  "collection": "【💐歌切】[2026-06-28]助眠歌回✨ 睡前放松时刻，请慢慢享受🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gKS63EYW?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "【💐歌切】[2026-06-28]助眠歌回✨ 睡前放松时刻，请慢慢享受🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gKS63EYW?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "茜さす",
+  "artist": "Aimer",
+  "collection": "【💐歌切】[2026-06-28]助眠歌回✨ 睡前放松时刻，请慢慢享受🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gKS63EYW?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "テロメアの産声",
+  "artist": "Heavenz",
+  "collection": "【💐歌切】[2026-06-28]助眠歌回✨ 睡前放松时刻，请慢慢享受🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gKS63EYW?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "Alice",
+  "artist": "古川本舗",
+  "collection": "【💐歌切】[2026-06-28]助眠歌回✨ 睡前放松时刻，请慢慢享受🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gKS63EYW?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "櫂",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-06-28]助眠歌回✨ 睡前放松时刻，请慢慢享受🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gKS63EYW?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "人間みたいね",
+  "artist": "キタニタツヤ",
+  "collection": "【💐歌切】[2026-06-28]助眠歌回✨ 睡前放松时刻，请慢慢享受🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gKS63EYW?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "第一夜",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-06-28]助眠歌回✨ 睡前放松时刻，请慢慢享受🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gKS63EYW?p=16",
   "source": "figaro.js"
 }
 );

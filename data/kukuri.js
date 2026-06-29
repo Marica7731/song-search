@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 6/29/2026, 8:01:02 AM
+// 生成时间: 6/29/2026, 8:11:57 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4059,6 +4059,46 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-06-25]请听我唱歌.ᐟ.ᐟ kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ff7i6nEai?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-06-28]和戸鎖一起度过美妙的30分钟吧🌟 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gKS63Ekc?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-06-28]和戸鎖一起度过美妙的30分钟吧🌟 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gKS63Ekc?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "泡沫花火",
+  "artist": "神はサイコロを振らない",
+  "collection": "【💫✖歌切】[2026-06-28]和戸鎖一起度过美妙的30分钟吧🌟 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gKS63Ekc?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "恋",
+  "artist": "奥華子",
+  "collection": "【💫✖歌切】[2026-06-28]和戸鎖一起度过美妙的30分钟吧🌟 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gKS63Ekc?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "楔",
+  "artist": "奥華子",
+  "collection": "【💫✖歌切】[2026-06-28]和戸鎖一起度过美妙的30分钟吧🌟 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gKS63Ekc?p=5",
   "source": "kukuri.js"
 }
 );

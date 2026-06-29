@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 6/29/2026, 8:05:22 AM
+// 生成时间: 6/29/2026, 8:16:21 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17259,6 +17259,46 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-06-22]病后归来的迷糊歌回 ✧ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cMj26GENu?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【🐍歌切】[2026-06-28]个人势SSW VTuber凛々咲，全力歌唱！ ✧ 歌唱接力 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggKS63EWU?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【🐍歌切】[2026-06-28]个人势SSW VTuber凛々咲，全力歌唱！ ✧ 歌唱接力 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggKS63EWU?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-06-28]个人势SSW VTuber凛々咲，全力歌唱！ ✧ 歌唱接力 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggKS63EWU?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【🐍歌切】[2026-06-28]个人势SSW VTuber凛々咲，全力歌唱！ ✧ 歌唱接力 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggKS63EWU?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "パラレルナイト",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-06-28]个人势SSW VTuber凛々咲，全力歌唱！ ✧ 歌唱接力 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggKS63EWU?p=5",
   "source": "ririsya.js"
 }
 );
