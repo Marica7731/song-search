@@ -114,6 +114,24 @@
       aliases: ['月陽-ツキアカリ-', '月陽 -ツキアカリ-', '月陽 - ツキアカリ -']
     },
     {
+      canonical: '心拍数♯0822',
+      aliases: [
+        '心拍数♯0822',
+        '心拍数#0822',
+        '心拍数＃0822',
+        '心拍数'
+      ]
+    },
+    {
+      canonical: 'ペンパイナッポーアッポーペン(PPAP)',
+      aliases: [
+        'ペンパイナッポーアッポーペン(PPAP)',
+        'PPAP(ペンパイナッポーアッポーペン)',
+        'ペンパイナッポーアッポーペン（PPAP）',
+        'PPAP（ペンパイナッポーアッポーペン）'
+      ]
+    },
+    {
       canonical: 'butter-fly~tri.version~',
       aliases: ['Butter-Fly ～tri.Version～', 'Butter-Fly~tri.Version~']
     },
@@ -229,6 +247,26 @@
       aliases: ['Butter-Fly', 'Butter fly', 'Butter-fly']
     },
     {
+      canonical: '1・2・3',
+      aliases: ['1・2・3', '１・２・３', '1 2 3']
+    },
+    {
+      canonical: '愛言葉iii',
+      aliases: ['愛言葉Ⅲ', '愛言葉III', '愛言葉iii']
+    },
+    {
+      canonical: 'bling-bang-bang-born',
+      aliases: ['Bling-Bang-Bang-Born', 'Bling Bang Bang Born']
+    },
+    {
+      canonical: 'first love',
+      aliases: ['First Love', 'First love']
+    },
+    {
+      canonical: 'kick back',
+      aliases: ['KICK BACK', 'KICKBACK', 'Kick back']
+    },
+    {
       canonical: 'おジャ魔女カーニバル!!',
       aliases: ['おジャ魔女カーニバル!!', 'おジャ魔女カーニバル！！', 'おジャ魔女カーニバル']
     },
@@ -251,6 +289,10 @@
     {
       canonical: 'さよーならまたいつか!',
       aliases: ['さよーならまたいつか！', 'さよーならまたいつか!', 'さよーならまたいつか']
+    },
+    {
+      canonical: '勇気100%',
+      aliases: ['勇気100%', '勇気100％']
     }
   ];
 
