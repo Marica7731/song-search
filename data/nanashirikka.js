@@ -1,6 +1,6 @@
 // ななし律歌 - 歌单数据 (多合集汇总)
 // 来源: BV1wHQVBTEU5
-// 生成时间: 6/29/2026, 8:12:21 AM
+// 生成时间: 6/29/2026, 8:24:18 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -771,6 +771,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-17]突然想唱歌的夜晚也是有的呢 ななし律歌 / Nanashi Rikka",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13zLZ6dEdk?p=13",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-06-28]最后的歌回哦 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18gKS63Ext?p=1",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-06-28]最后的歌回哦 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18gKS63Ext?p=2",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Pale Blue",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-06-28]最后的歌回哦 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18gKS63Ext?p=3",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-06-28]最后的歌回哦 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18gKS63Ext?p=4",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "【歌切】[2026-06-28]最后的歌回哦 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18gKS63Ext?p=5",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru feat. 鏡音リン",
+  "collection": "【歌切】[2026-06-28]最后的歌回哦 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18gKS63Ext?p=6",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "第六感",
+  "artist": "Reol",
+  "collection": "【歌切】[2026-06-28]最后的歌回哦 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18gKS63Ext?p=7",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "イマジネーション",
+  "artist": "SPYAIR",
+  "collection": "【歌切】[2026-06-28]最后的歌回哦 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18gKS63Ext?p=8",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "爆弾魔",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-28]最后的歌回哦 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18gKS63Ext?p=9",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "give it back",
+  "artist": "Cö shu Nie",
+  "collection": "【歌切】[2026-06-28]最后的歌回哦 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18gKS63Ext?p=10",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-06-28]最后的歌回哦 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18gKS63Ext?p=11",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "me me she",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-06-28]最后的歌回哦 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18gKS63Ext?p=12",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "雨とペトラ",
+  "artist": "バルーン feat. flower",
+  "collection": "【歌切】[2026-06-28]最后的歌回哦 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18gKS63Ext?p=13",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "曇天",
+  "artist": "DOES",
+  "collection": "【歌切】[2026-06-28]最后的歌回哦 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18gKS63Ext?p=14",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "umbrella",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-06-28]最后的歌回哦 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18gKS63Ext?p=15",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-06-28]最后的歌回哦 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18gKS63Ext?p=16",
   "source": "nanashirikka.js"
 }
 );
