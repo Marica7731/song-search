@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 6/29/2026, 9:16:39 PM
+// 生成时间: 6/29/2026, 9:29:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -891,6 +891,70 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-20]闪闪发光、开开心心、像偶像一样！一起嗨起来吧✨ Hanon Ch. 香鳴ハノン【パレプロ】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iMjJ64Ef4?p=5",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Butterfly",
+  "artist": "木村カエラ",
+  "collection": "【歌切】[2026-06-29]那么今年也到了结婚的时间了💍 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QiKR6ZE9v?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Lovers",
+  "artist": "sumika",
+  "collection": "【歌切】[2026-06-29]那么今年也到了结婚的时间了💍 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QiKR6ZE9v?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Familia",
+  "artist": "sumika",
+  "collection": "【歌切】[2026-06-29]那么今年也到了结婚的时间了💍 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QiKR6ZE9v?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "にじいろ",
+  "artist": "絢香",
+  "collection": "【歌切】[2026-06-29]那么今年也到了结婚的时间了💍 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QiKR6ZE9v?p=4",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "おかえり",
+  "artist": "絢香",
+  "collection": "【歌切】[2026-06-29]那么今年也到了结婚的时间了💍 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QiKR6ZE9v?p=5",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Wherever you are",
+  "artist": "ONE OK ROCK",
+  "collection": "【歌切】[2026-06-29]那么今年也到了结婚的时间了💍 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QiKR6ZE9v?p=6",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "愛をこめて花束を",
+  "artist": "Superfly",
+  "collection": "【歌切】[2026-06-29]那么今年也到了结婚的时间了💍 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QiKR6ZE9v?p=7",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【歌切】[2026-06-29]那么今年也到了结婚的时间了💍 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QiKR6ZE9v?p=8",
   "source": "kanaruhanon.js"
 }
 );

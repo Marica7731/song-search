@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 6/29/2026, 8:47:53 PM
+// 生成时间: 6/29/2026, 8:57:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7467,6 +7467,190 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-23]助眠歌回🌠 朱名 / SHUNA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pZjX6wEqq?p=21",
+  "source": "shuna.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=1",
+  "source": "shuna.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=2",
+  "source": "shuna.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat. 初音ミク",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=3",
+  "source": "shuna.js"
+},
+    {
+  "title": "My Sweet Darlin'",
+  "artist": "矢井田瞳",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=4",
+  "source": "shuna.js"
+},
+    {
+  "title": "ユキトキ",
+  "artist": "やなぎなぎ",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=5",
+  "source": "shuna.js"
+},
+    {
+  "title": "How crazy",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=6",
+  "source": "shuna.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=7",
+  "source": "shuna.js"
+},
+    {
+  "title": "貴方解剖純愛歌 ～死ね～",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=8",
+  "source": "shuna.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=9",
+  "source": "shuna.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=10",
+  "source": "shuna.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=11",
+  "source": "shuna.js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=12",
+  "source": "shuna.js"
+},
+    {
+  "title": "アナタノオト",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=13",
+  "source": "shuna.js"
+},
+    {
+  "title": "プラネット・クレイドル",
+  "artist": "千菅春香",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=14",
+  "source": "shuna.js"
+},
+    {
+  "title": "そうだよ。",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=15",
+  "source": "shuna.js"
+},
+    {
+  "title": "ホシキラ",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=16",
+  "source": "shuna.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=17",
+  "source": "shuna.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=18",
+  "source": "shuna.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=19",
+  "source": "shuna.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=20",
+  "source": "shuna.js"
+},
+    {
+  "title": "ヒューマノイド",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=21",
+  "source": "shuna.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=22",
+  "source": "shuna.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=23",
   "source": "shuna.js"
 }
 );

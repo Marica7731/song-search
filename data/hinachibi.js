@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 6/29/2026, 9:15:34 PM
+// 生成时间: 6/29/2026, 9:28:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1107,6 +1107,62 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-26]不输给台风的歌回！赶走偏头痛吧！🍎🌟 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N77J65EsU?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat. 初音ミク",
+  "collection": "【歌切】[2026-06-29]星期一辛苦了！本月最后的歌回！唱起来哦哦哦！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vaKR6hEim?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat. 初音ミク",
+  "collection": "【歌切】[2026-06-29]星期一辛苦了！本月最后的歌回！唱起来哦哦哦！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vaKR6hEim?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "恥ずかしいか青春は",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-06-29]星期一辛苦了！本月最后的歌回！唱起来哦哦哦！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vaKR6hEim?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "曖昧さ回避",
+  "artist": "ポリスピカデリー feat. 闇音レンリ",
+  "collection": "【歌切】[2026-06-29]星期一辛苦了！本月最后的歌回！唱起来哦哦哦！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vaKR6hEim?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "I♡Luv it",
+  "artist": "緋那ちび",
+  "collection": "【歌切】[2026-06-29]星期一辛苦了！本月最后的歌回！唱起来哦哦哦！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vaKR6hEim?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "未完成エゴイズム",
+  "artist": "雪乃イト feat. Ci flower",
+  "collection": "【歌切】[2026-06-29]星期一辛苦了！本月最后的歌回！唱起来哦哦哦！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vaKR6hEim?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ODDS&ENDS",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "【歌切】[2026-06-29]星期一辛苦了！本月最后的歌回！唱起来哦哦哦！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vaKR6hEim?p=7",
   "source": "hinachibi.js"
 }
 );
