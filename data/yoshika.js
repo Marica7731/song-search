@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 6/30/2026, 11:05:15 AM
+// 生成时间: 6/30/2026, 11:22:44 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2431,7 +2431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "SAKURAスキップ",
-  "artist": "fourfolium（高田憂希／山口愛／戸田めぐみ／竹尾歩美）",
+  "artist": "fourfolium",
   "collection": "【 YOSHIKA⁂Ch. 】16横屏】楽しく歌って行くよ🌸 1. SAKURAスキップ 2. さくらんぼ【20240320】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xf421Z7x5?p=1",
@@ -2471,7 +2471,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "七色シンフォニー",
-  "artist": "EGOIST",
+  "artist": "コアラモード.",
   "collection": "【 YOSHIKA⁂Ch. 】16横屏】楽しく歌って行くよ🌸 1. SAKURAスキップ 2. さくらんぼ【20240320】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xf421Z7x5?p=6",
@@ -2502,8 +2502,8 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "手紙～拝啓 十五の君へ～",
-  "artist": "安田レイ",
+  "title": "手紙 ～拝啓 十五の君へ～",
+  "artist": "アンジェラ・アキ",
   "collection": "【 YOSHIKA⁂Ch. 】16横屏】楽しく歌って行くよ🌸 1. SAKURAスキップ 2. さくらんぼ【20240320】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xf421Z7x5?p=10",
@@ -2518,7 +2518,7 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "departure",
+  "title": "departure!",
   "artist": "小野正利",
   "collection": "【 YOSHIKA⁂Ch. 】16横屏】楽しく歌って行くよ🌸 1. SAKURAスキップ 2. さくらんぼ【20240320】",
   "up": "前尘往事如昔故",
@@ -2534,7 +2534,7 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "会いたくて",
+  "title": "会いたくて 会いたくて",
   "artist": "西野カナ",
   "collection": "【 YOSHIKA⁂Ch. 】16横屏】楽しく歌って行くよ🌸 1. SAKURAスキップ 2. さくらんぼ【20240320】",
   "up": "前尘往事如昔故",
@@ -2543,14 +2543,14 @@ window.SONG_DATA.push(
 },
     {
   "title": "夢の続きへ",
-  "artist": "SURFACE",
+  "artist": "surface",
   "collection": "【 YOSHIKA⁂Ch. 】16横屏】楽しく歌って行くよ🌸 1. SAKURAスキップ 2. さくらんぼ【20240320】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xf421Z7x5?p=15",
   "source": "yoshika.js"
 },
     {
-  "title": "I♥U",
+  "title": "U&I",
   "artist": "放課後ティータイム",
   "collection": "【 YOSHIKA⁂Ch. 】16横屏】楽しく歌って行くよ🌸 1. SAKURAスキップ 2. さくらんぼ【20240320】",
   "up": "前尘往事如昔故",

@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 6/30/2026, 11:00:00 AM
+// 生成时间: 6/30/2026, 11:18:14 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15,7 +15,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "けーたいみしてよ",
-  "artist": "MAISONdes feat. はしメロ, maeshima soshi",
+  "artist": "MAISONdes feat. はしメロ・maeshima soshi",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=2",
@@ -23,7 +23,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ラヴィ",
-  "artist": "すりぃ",
+  "artist": "すりぃ feat. 鏡音レン",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=3",
@@ -31,7 +31,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヴァンパイア",
-  "artist": "DECO*27",
+  "artist": "DECO*27 feat. 初音ミク",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=4",
@@ -39,14 +39,14 @@ window.SONG_DATA.push(
 },
     {
   "title": "アニマル",
-  "artist": "DECO*27",
+  "artist": "DECO*27 feat. 初音ミク",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=5",
   "source": "ririsya.js"
 },
     {
-  "title": "over dose",
+  "title": "Overdose",
   "artist": "なとり",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
@@ -62,7 +62,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "真夜中のドア〜Stay With Me",
+  "title": "真夜中のドア～stay with me",
   "artist": "松原みき",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
@@ -86,7 +86,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "Stand By Me",
+  "title": "Stand by Me",
   "artist": "Ben E. King",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
@@ -150,7 +150,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "1／2",
+  "title": "1/2",
   "artist": "川本真琴",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
@@ -191,7 +191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Rolling star",
-  "artist": "Rolling star",
+  "artist": "YUI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=24",
@@ -207,7 +207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "God knows...",
-  "artist": "涼宮ハルヒ(平野綾)",
+  "artist": "涼宮ハルヒ（平野綾）",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=26",
@@ -247,7 +247,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サマータイムレコード",
-  "artist": "じん（自然の敵P）",
+  "artist": "じん feat. IA",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=31",
@@ -255,7 +255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "1925",
-  "artist": "冨田悠斗(とみー／T-POCKET)",
+  "artist": "T-POCKET feat. 初音ミク",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=32",
@@ -263,7 +263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "弱虫モンブラン",
-  "artist": "DECO*27",
+  "artist": "DECO*27 feat. GUMI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=33",
@@ -279,7 +279,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "8番出口",
-  "artist": "feat. 鏡音リン",
+  "artist": "EO feat. 鏡音リン",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=35",
@@ -287,7 +287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ボッカデラベリタ",
-  "artist": "feat. v flower",
+  "artist": "柊キライ feat. flower",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=36",
@@ -295,7 +295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "からくりピエロ",
-  "artist": "40mP 初音ミク",
+  "artist": "40mP feat. 初音ミク",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=37",
@@ -303,7 +303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シリョクケンサ",
-  "artist": "40mP feat.GUMI",
+  "artist": "40mP feat. GUMI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=38",
@@ -319,7 +319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メランコリック",
-  "artist": "feat. 鏡音リン",
+  "artist": "Junky feat. 鏡音リン",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=40",
@@ -327,7 +327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "酔いどれ知らず",
-  "artist": "Kanaria",
+  "artist": "Kanaria feat. GUMI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=41",
@@ -335,7 +335,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "吉原ラメント",
-  "artist": "feat. 重音テト",
+  "artist": "亜沙 feat. 重音テト",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=42",
@@ -351,7 +351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "白い雪のプリンセスは",
-  "artist": "feat. 初音ミク",
+  "artist": "のぼる↑ feat. 初音ミク",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=44",
@@ -359,7 +359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "天ノ弱",
-  "artist": "GUMI",
+  "artist": "164 feat. GUMI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=45",
@@ -367,7 +367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Calc.",
-  "artist": "feat.初音ミク",
+  "artist": "ジミーサムP feat. 初音ミク",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=46",
@@ -375,7 +375,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ネバーフィクション",
-  "artist": "Kanaria&星街すいせい",
+  "artist": "Kanaria feat. 星街すいせい",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=47",
@@ -383,7 +383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "レクイエム",
-  "artist": "よしか⁂×96猫",
+  "artist": "Kanaria feat. 星街すいせい",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=48",
@@ -391,7 +391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "酔いどれ知らず",
-  "artist": "Kanaria",
+  "artist": "Kanaria feat. GUMI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=49",
@@ -407,7 +407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "KING",
-  "artist": "Kanaria",
+  "artist": "Kanaria feat. GUMI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=51",
@@ -502,7 +502,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "overdose",
+  "title": "Overdose",
   "artist": "なとり",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
@@ -510,7 +510,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "Sweet Memories",
+  "title": "SWEET MEMORIES",
   "artist": "松田聖子",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
@@ -567,7 +567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "心做し",
-  "artist": "蝶々P",
+  "artist": "蝶々P feat. GUMI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=71",
@@ -607,7 +607,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "全方向美少女",
-  "artist": "乃紫 (noa)",
+  "artist": "乃紫",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=76",
@@ -622,7 +622,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "晚餐歌",
+  "title": "晩餐歌",
   "artist": "tuki.",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
@@ -663,7 +663,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "炉心融解",
-  "artist": "iroha(sasaki)",
+  "artist": "iroha(sasaki) feat. 鏡音リン",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=83",
@@ -671,7 +671,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "マトリョシカ",
-  "artist": "米津玄師",
+  "artist": "ハチ feat. 初音ミク・GUMI",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=84",
@@ -679,7 +679,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メルト",
-  "artist": "ryo(supercell)",
+  "artist": "ryo(supercell) feat. 初音ミク",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=85",
@@ -702,7 +702,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "ルビーの指輪",
+  "title": "ルビーの指環",
   "artist": "寺尾聰",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
@@ -711,7 +711,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "壊れかけのRadio",
-  "artist": "德永英明",
+  "artist": "徳永英明",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=89",
@@ -727,14 +727,14 @@ window.SONG_DATA.push(
 },
     {
   "title": "Numb",
-  "artist": "林肯公园",
+  "artist": "Linkin Park",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JR6GBvEN1?p=91",
   "source": "ririsya.js"
 },
     {
-  "title": "はいよろこんで (乐意效劳)",
+  "title": "はいよろこんで",
   "artist": "こっちのけんと",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
@@ -3551,15 +3551,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "ソワレ",
-  "artist": "星街彗星",
+  "artist": "星街すいせい",
   "collection": "【 #ココロで歌う歌枠リレー 】ピアノの音色と歌でココロを届けます💜【VTuber/凛々咲 Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QGX4YPE3v?p=1",
   "source": "ririsya.js"
 },
     {
-  "title": "ケセラセラー",
-  "artist": "Mrs.GREEN APPLE",
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
   "collection": "【 #ココロで歌う歌枠リレー 】ピアノの音色と歌でココロを届けます💜【VTuber/凛々咲 Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QGX4YPE3v?p=2",
@@ -3567,7 +3567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "First Love",
-  "artist": "Aimer",
+  "artist": "宇多田ヒカル",
   "collection": "【 #ココロで歌う歌枠リレー 】ピアノの音色と歌でココロを届けます💜【VTuber/凛々咲 Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QGX4YPE3v?p=3",
@@ -3671,7 +3671,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "桜坂",
-  "artist": "柴咲コウ",
+  "artist": "福山雅治",
   "collection": "【凛々咲 · 弾き語り】リクエスト曲を弾き語りする💜与吉他一起唱歌【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S9dFYwEwZ?p=1",
@@ -3679,7 +3679,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シャルル",
-  "artist": "バルーン",
+  "artist": "バルーン feat. flower",
   "collection": "【凛々咲 · 弾き語り】リクエスト曲を弾き語りする💜与吉他一起唱歌【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S9dFYwEwZ?p=2",
@@ -3687,7 +3687,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "はじめてのチュウ",
-  "artist": "FUKI",
+  "artist": "あんしんパパ",
   "collection": "【凛々咲 · 弾き語り】リクエスト曲を弾き語りする💜与吉他一起唱歌【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S9dFYwEwZ?p=3",
@@ -3695,14 +3695,14 @@ window.SONG_DATA.push(
 },
     {
   "title": "晩餐歌",
-  "artist": "tuki",
+  "artist": "tuki.",
   "collection": "【凛々咲 · 弾き語り】リクエスト曲を弾き語りする💜与吉他一起唱歌【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S9dFYwEwZ?p=4",
   "source": "ririsya.js"
 },
     {
-  "title": "フィールマイソウル feel my soul",
+  "title": "feel my soul",
   "artist": "YUI",
   "collection": "【凛々咲 · 弾き語り】リクエスト曲を弾き語りする💜与吉他一起唱歌【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
@@ -3743,7 +3743,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ミカヅキ",
-  "artist": "酸欠少女さユり",
+  "artist": "さユり",
   "collection": "【凛々咲 · 弾き語り】リクエスト曲を弾き語りする💜与吉他一起唱歌【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S9dFYwEwZ?p=10",
@@ -3751,7 +3751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "風になる",
-  "artist": "辻亚弥乃",
+  "artist": "つじあやの",
   "collection": "【凛々咲 · 弾き語り】リクエスト曲を弾き語りする💜与吉他一起唱歌【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S9dFYwEwZ?p=11",
@@ -3798,7 +3798,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "melody",
+  "title": "メロディー",
   "artist": "玉置浩二",
   "collection": "【凛々咲 · 弾き語り】リクエスト曲を弾き語りする💜与吉他一起唱歌【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
@@ -3902,7 +3902,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "everything",
+  "title": "Everything",
   "artist": "MISIA",
   "collection": "【凛々咲 · 弾き語り】リクエスト曲を弾き語りする💜与吉他一起唱歌【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
@@ -3927,15 +3927,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "First Love",
-  "artist": "宇多田光",
+  "artist": "宇多田ヒカル",
   "collection": "【凛々咲 · 弾き語り】リクエスト曲を弾き語りする💜与吉他一起唱歌【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S9dFYwEwZ?p=33",
   "source": "ririsya.js"
 },
     {
-  "title": "チチをもげ!",
-  "artist": "パルコ・フォルゴレ(高橋広樹)",
+  "title": "チチをもげ！",
+  "artist": "パルコ・フォルゴレ（高橋広樹）",
   "collection": "【凛々咲 · 弾き語り】リクエスト曲を弾き語りする💜与吉他一起唱歌【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S9dFYwEwZ?p=34",
@@ -11798,7 +11798,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "あったかいんだからぁ",
+  "title": "あったかいんだからぁ♪",
   "artist": "クマムシ",
   "collection": "【凛々咲 / Ririsya】冻得发抖的吉他弹唱 ✧ 凍えながら弾き語りする✧ Sing with a guitar",
   "up": "前尘往事如昔故",
@@ -11879,7 +11879,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "津軽海峡・冬景色",
-  "artist": "石川さゆ",
+  "artist": "石川さゆり",
   "collection": "【凛々咲 / Ririsya】冻得发抖的吉他弹唱 ✧ 凍えながら弾き語りする✧ Sing with a guitar",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QmmoBYE2F?p=15",
