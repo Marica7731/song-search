@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 6/30/2026, 1:36:09 PM
+// 生成时间: 6/30/2026, 1:44:41 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7843,6 +7843,382 @@ window.SONG_DATA.push(
   "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=30",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ララバイ",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ぼくらの魔法",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "エイリアンエイリアン",
+  "artist": "ナユタン星人 feat. 初音ミク",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "笑えよ乙女",
+  "artist": "コレサワ",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ルバート",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "吉原ラメント",
+  "artist": "亜沙 feat. 重音テト",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "楽園",
+  "artist": "andymori",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "しあわせ",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "てろてろ",
+  "artist": "矢野絢子",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "爆弾魔",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "卒業",
+  "artist": "My Hair is Bad",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Believe",
+  "artist": "童謡・唱歌",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ぐるぐるどっか～ん！",
+  "artist": "ワンワン・ふうか",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "故郷",
+  "artist": "童謡・唱歌",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "遠き山に日は落ちて",
+  "artist": "童謡・唱歌",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Just a game",
+  "artist": "takamatt feat. GUMI",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ジェニファー山田さん",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "magnet",
+  "artist": "minato feat. 初音ミク・巡音ルカ",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "花は咲く",
+  "artist": "花は咲くプロジェクト",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ダダリオ",
+  "artist": "ズーカラデル",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アイのシナリオ",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "僕たちの季節",
+  "artist": "DOES",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=29",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夏の頃",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=30",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "もう柔らかいおっぱいのことしか考えたくない",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=31",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "愛、テキサス",
+  "artist": "山下智久",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=32",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "生きてることが辛いなら",
+  "artist": "森山直太朗",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=33",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ひとつ",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=34",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "いつくしみ深き",
+  "artist": "讃美歌",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=35",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "God,",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=36",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Hallelujah",
+  "artist": "Leonard Cohen",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=37",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ハレルヤ",
+  "artist": "amazarashi",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=38",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "25コ目の染色体",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=39",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "もしも「みんな一緒に」バージョン",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=40",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=41",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "何十年後かに「君」と出会っていなかったアナタに向けた歌",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=42",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=43",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "有心論",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=44",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "朝ごはんの歌",
+  "artist": "手嶌葵",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=45",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "なごり雪",
+  "artist": "イルカ",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=46",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "素晴らしき今日の始まり",
+  "artist": "GOOD ON THE REEL",
+  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=47",
   "source": "kotatsu.js"
 }
 );
