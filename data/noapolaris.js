@@ -1,6 +1,6 @@
 // ノア・ポラリス - 歌单数据 (多合集汇总)
 // 来源: BV1qDDbBBETv
-// 生成时间: 6/30/2026, 11:02:00 AM
+// 生成时间: 6/30/2026, 11:16:33 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -175,7 +175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いーあるふぁんくらぶ",
-  "artist": "みきとP feat. 鏡音リン",
+  "artist": "みきとP feat. GUMI・鏡音リン",
   "collection": "歌切 2026-04-06 ノア・ポラリス -Noa Polaris- gML5xjprEfg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qDDbBBETv?p=1",
@@ -191,7 +191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハオ",
-  "artist": "DECO*27 feat.初音ミク",
+  "artist": "DECO*27 feat. 初音ミク",
   "collection": "歌切 2026-04-06 ノア・ポラリス -Noa Polaris- gML5xjprEfg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qDDbBBETv?p=3",
@@ -199,7 +199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サラマンダー",
-  "artist": "DECO*27 feat.初音ミク",
+  "artist": "DECO*27 feat. 初音ミク",
   "collection": "歌切 2026-04-06 ノア・ポラリス -Noa Polaris- gML5xjprEfg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qDDbBBETv?p=4",
@@ -207,7 +207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シャンティ",
-  "artist": "wotaku feat.KAITO",
+  "artist": "wotaku feat. KAITO",
   "collection": "歌切 2026-04-06 ノア・ポラリス -Noa Polaris- gML5xjprEfg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qDDbBBETv?p=5",
@@ -215,7 +215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "オノマトペ",
-  "artist": "羽生まゐご feat.りりあ。",
+  "artist": "羽生まゐご feat. りりあ。",
   "collection": "歌切 2026-04-06 ノア・ポラリス -Noa Polaris- gML5xjprEfg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qDDbBBETv?p=6",
@@ -231,7 +231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "真宵子",
-  "artist": "ナツノセ feat.沖石",
+  "artist": "ナツノセ feat. 沖石",
   "collection": "歌切 2026-04-06 ノア・ポラリス -Noa Polaris- gML5xjprEfg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qDDbBBETv?p=8",
@@ -239,14 +239,14 @@ window.SONG_DATA.push(
 },
     {
   "title": "ブリキノダンス",
-  "artist": "日向電工 feat.初音ミク",
+  "artist": "日向電工 feat. 初音ミク",
   "collection": "歌切 2026-04-06 ノア・ポラリス -Noa Polaris- gML5xjprEfg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qDDbBBETv?p=9",
   "source": "noapolaris.js"
 },
     {
-  "title": "心拍数",
+  "title": "心拍数♯0822",
   "artist": "蝶々P feat. 初音ミク",
   "collection": "歌切 2026-04-06 ノア・ポラリス -Noa Polaris- gML5xjprEfg",
   "up": "前尘往事如昔故",
@@ -255,7 +255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "月光食堂",
-  "artist": "古川本舗 feat.acane_madder",
+  "artist": "古川本舗 feat. acane_madder",
   "collection": "歌切 2026-04-06 ノア・ポラリス -Noa Polaris- gML5xjprEfg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qDDbBBETv?p=11",
