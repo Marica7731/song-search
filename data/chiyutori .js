@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 6/30/2026, 1:35:14 PM
+// 生成时间: 6/30/2026, 1:45:04 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4939,6 +4939,78 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-22]目标点赞1100✨频道4500人订阅耐久！接受点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1x27s6fEYa?p=67",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat. GUMI",
+  "collection": "【歌切】[2026-06-29]目标400赞！感谢4600位订阅者✨ 欢迎点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtTw67EA6?p=1",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【歌切】[2026-06-29]目标400赞！感谢4600位订阅者✨ 欢迎点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtTw67EA6?p=2",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-06-29]目标400赞！感谢4600位订阅者✨ 欢迎点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtTw67EA6?p=3",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-29]目标400赞！感谢4600位订阅者✨ 欢迎点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtTw67EA6?p=4",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "PPAP（ペンパイナッポーアッポーペン）",
+  "artist": "ピコ太郎",
+  "collection": "【歌切】[2026-06-29]目标400赞！感谢4600位订阅者✨ 欢迎点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtTw67EA6?p=5",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "めざせポケモンマスター",
+  "artist": "松本梨香",
+  "collection": "【歌切】[2026-06-29]目标400赞！感谢4600位订阅者✨ 欢迎点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtTw67EA6?p=6",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "115万キロのフィルム",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-06-29]目标400赞！感谢4600位订阅者✨ 欢迎点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtTw67EA6?p=7",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "小さな恋のうた",
+  "artist": "MONGOL800",
+  "collection": "【歌切】[2026-06-29]目标400赞！感谢4600位订阅者✨ 欢迎点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtTw67EA6?p=8",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "fragile",
+  "artist": "Every Little Thing",
+  "collection": "【歌切】[2026-06-29]目标400赞！感谢4600位订阅者✨ 欢迎点歌♪ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtTw67EA6?p=9",
   "source": "chiyutori .js"
 }
 );
