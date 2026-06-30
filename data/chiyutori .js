@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 6/30/2026, 11:04:34 AM
+// 生成时间: 6/30/2026, 11:24:45 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1679,7 +1679,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アイモ～鳥のひと",
-  "artist": "ランカ・リー=中島愛",
+  "artist": "ランカ・リー＝中島愛",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=4",
@@ -1687,15 +1687,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "星間飛行",
-  "artist": "ランカ・リー=中島愛",
+  "artist": "ランカ・リー＝中島愛",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=5",
   "source": "chiyutori .js"
 },
     {
-  "title": "SMS小隊の歌〜あの娘はエイリアン",
-  "artist": "SMS小隊のみなさん",
+  "title": "SMS小隊の歌～あの娘はエイリアン",
+  "artist": "SMSのみなさん",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=6",
@@ -1703,14 +1703,14 @@ window.SONG_DATA.push(
 },
     {
   "title": "シェリルの宇宙兄弟船",
-  "artist": "シェリル・ノーム",
+  "artist": "シェリル・ノーム starring May'n",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=7",
   "source": "chiyutori .js"
 },
     {
-  "title": "ニンジーン loves you yeah!",
+  "title": "ニンジーン Loves you yeah!",
   "artist": "ランカ・リー＝中島愛",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
@@ -1727,7 +1727,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ねこ日記",
-  "artist": "ランカ・リー=中島愛",
+  "artist": "ランカ・リー＝中島愛",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=10",
@@ -1750,8 +1750,8 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "Welcome To My Funclub's Night!",
-  "artist": "シェリル・ノーム",
+  "title": "Welcome To My FanClub's Night!",
+  "artist": "シェリル・ノーム starring May'n",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=13",
@@ -1782,7 +1782,7 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "ダイヤモンドクレバス",
+  "title": "ダイアモンド クレバス",
   "artist": "シェリル・ノーム starring May'n",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
@@ -1815,7 +1815,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "会えないとき",
-  "artist": "シェリル・ノーム starring May’n",
+  "artist": "シェリル・ノーム starring May'n",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=21",
@@ -1838,8 +1838,8 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "ゴ〜〜ジャス",
-  "artist": "シェリル・ノーム starring May’n",
+  "title": "ゴ～～ジャス",
+  "artist": "シェリル・ノーム starring May'n",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=24",
@@ -1847,15 +1847,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "Songbird",
-  "artist": "ランカ・リー",
+  "artist": "ランカ・リー＝中島愛",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=25",
   "source": "chiyutori .js"
 },
     {
-  "title": "リーベ〜幻の光",
-  "artist": "シェリル・ノーム starring May’n",
+  "title": "リーベ～幻の光",
+  "artist": "シェリル・ノーム starring May'n",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=26",
@@ -1871,7 +1871,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "タブレット",
-  "artist": "シェリル・ノーム＆ランカ・リー",
+  "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=28",
@@ -1887,7 +1887,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ユニバーサル・バニー",
-  "artist": "シェリル・ノーム",
+  "artist": "シェリル・ノーム starring May'n",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=30",
@@ -1910,7 +1910,7 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "虹色・クマクマ",
+  "title": "虹いろ・クマクマ",
   "artist": "ランカ・リー＝中島愛",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
@@ -1918,8 +1918,8 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "ペンパイナッポーアッポーペン(PPAP)",
-  "artist": "PIKO太郎",
+  "title": "ペンパイナッポーアッポーペン（PPAP）",
+  "artist": "ピコ太郎",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=34",
@@ -1927,7 +1927,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "pink monsoon",
-  "artist": "シェリル・ノーム starring May’n",
+  "artist": "シェリル・ノーム starring May'n",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=35",
@@ -1935,7 +1935,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "オベリスク",
-  "artist": "シェリル・ノーム starring May’n",
+  "artist": "シェリル・ノーム starring May'n",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=36",
@@ -1966,8 +1966,8 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "Get it on〜光速クライmax",
-  "artist": "シェリル・ノーム＆ランカ・リー",
+  "title": "Get it on～光速クライmax",
+  "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=40",
@@ -1982,8 +1982,8 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "サヨナラノツバサ ~the end of triangle",
-  "artist": "中島愛&May'n",
+  "title": "サヨナラノツバサ ～the end of triangle",
+  "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=42",
@@ -1991,7 +1991,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "dシュディスタb",
-  "artist": "シェリル・ノーム＆ランカ・リー",
+  "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=43",
@@ -2007,7 +2007,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ライオン",
-  "artist": "シェリル・ノーム＆ランカ・リー",
+  "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=45",
@@ -2023,15 +2023,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛・おぼえていますか",
-  "artist": "飯島真里",
+  "artist": "飯島真理",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=47",
   "source": "chiyutori .js"
 },
     {
-  "title": "娘々スペシャルサービスメドレー",
-  "artist": "シェリル・ノーム＆ランカ・リー",
+  "title": "娘々スペシャルサービスメドレー（特盛り）",
+  "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=48",
