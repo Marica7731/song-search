@@ -42,7 +42,7 @@
 - 脚本：`scripts/update-songs.js`
 - 配置源：脚本内 `SINGER_CONFIGS`（BV 列表、文件名、别名）
 - GitHub 侧采集依赖入口 BV 展开到的小节/合集 BV；每个入口 BV 会单独维护候选池。
-- 默认每个入口 BV 随机抽取 2 个候选 BV 抓取 DOM，对比歌曲数量后采用数量更多的结果。
+- 默认每个入口 BV 随机抽取 3 个候选 BV 抓取 DOM，对比歌曲数量后采用数量更多的结果。
 - recent 状态按 `来源文件 + 入口 BV` 记录，优先避开最近几轮抽中过的 BV；候选不足时允许从 recent 中补足。
 - 抽样失败时先回退未过滤候选，再回退入口 BV 本身。
 - 仅 GitHub Pages 数据生成使用这套抽样逻辑，culua 侧配置和运行方式不受影响。
@@ -54,7 +54,7 @@
 ### 2) GitHub Actions 自动更新
 - 工作流：`.github/workflows/update.yml`
 - 触发：
-  - 雨云每 20 分钟分发 `workflow_dispatch`
+  - 雨云每 10 分钟分发 `workflow_dispatch`
   - 手动 `workflow_dispatch`
 - 行为：
   - 通过 Actions cache 恢复 `reports/github-bv-sampling-state.json`
@@ -82,7 +82,7 @@ node scripts/update-songs.js
 ```
 
 常用抽样变量：
-- `GITHUB_BV_SAMPLE_SIZE`：每个入口 BV 的随机抽样数量，默认 `2`
+- `GITHUB_BV_SAMPLE_SIZE`：每个入口 BV 的随机抽样数量，默认 `3`
 - `GITHUB_BV_RECENT_RUN_WINDOW`：recent 避免重复的轮数，默认 `5`
 - `UPDATE_SONGS_ONLY`：本地调试用来源过滤，workflow 不设置
 

@@ -9,6 +9,8 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_BV_SAMPLE_SIZE: '3'
     steps:
       - name: 拉取仓库代码
         uses: actions/checkout@v4

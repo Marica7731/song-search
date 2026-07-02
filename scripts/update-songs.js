@@ -41,7 +41,7 @@ async function withRetry(fn, maxRetries = 3, delay = 5000) {
 const DELAY_TIME = 1500;
 const BILI_VIDEO_PREFIX = 'https://www.bilibili.com/video/';
 const BV_REGEX = /BV[0-9a-zA-Z]+/;
-const SAMPLE_SIZE = readPositiveIntegerEnv('GITHUB_BV_SAMPLE_SIZE', 2);
+const SAMPLE_SIZE = readPositiveIntegerEnv('GITHUB_BV_SAMPLE_SIZE', 3);
 const RECENT_RUN_WINDOW = readPositiveIntegerEnv('GITHUB_BV_RECENT_RUN_WINDOW', 5);
 const SOURCE_FILTER = String(process.env.UPDATE_SONGS_ONLY || '')
     .split(',')
