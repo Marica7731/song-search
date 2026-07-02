@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 6/30/2026, 8:21:11 PM
+// 生成时间: 7/2/2026, 5:02:18 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -955,6 +955,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-29]那么今年也到了结婚的时间了💍 Hanon Ch. 香鳴ハノン【パレプロ】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QiKR6ZE9v?p=8",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "フレア",
+  "artist": "sumika",
+  "collection": "【歌切】[2026-06-30]結婚2026 第二天──💍 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMTe6nEiR?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "にじいろ",
+  "artist": "絢香",
+  "collection": "【歌切】[2026-06-30]結婚2026 第二天──💍 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMTe6nEiR?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "トリセツ",
+  "artist": "西野カナ",
+  "collection": "【歌切】[2026-06-30]結婚2026 第二天──💍 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMTe6nEiR?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "lovin'",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-06-30]結婚2026 第二天──💍 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMTe6nEiR?p=4",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "115万キロのフィルム",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-06-30]結婚2026 第二天──💍 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMTe6nEiR?p=5",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Million Films",
+  "artist": "コブクロ",
+  "collection": "【歌切】[2026-06-30]結婚2026 第二天──💍 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMTe6nEiR?p=6",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "アイノカタチ",
+  "artist": "MISIA feat. HIDE(GReeeeN)",
+  "collection": "【歌切】[2026-06-30]結婚2026 第二天──💍 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMTe6nEiR?p=7",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "恋",
+  "artist": "星野源",
+  "collection": "【歌切】[2026-06-30]結婚2026 第二天──💍 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMTe6nEiR?p=8",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "明日晴れるかな",
+  "artist": "桑田佳祐",
+  "collection": "【歌切】[2026-06-30]結婚2026 第二天──💍 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMTe6nEiR?p=9",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "やさしさで溢れるように",
+  "artist": "JUJU",
+  "collection": "【歌切】[2026-06-30]結婚2026 第二天──💍 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMTe6nEiR?p=10",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "笑顔",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-06-30]結婚2026 第二天──💍 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMTe6nEiR?p=11",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "フレア",
+  "artist": "sumika",
+  "collection": "【歌切】[2026-06-30]結婚2026 第二天──💍 Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rMTe6nEiR?p=12",
   "source": "kanaruhanon.js"
 }
 );

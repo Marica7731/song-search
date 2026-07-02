@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 6/30/2026, 7:57:50 PM
+// 生成时间: 7/2/2026, 4:40:40 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5411,6 +5411,158 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-06-27]初次观看也大欢迎！一起度过美好的夜晚吧！！！！ | 澄花 / Purple -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EMTT6iEFW?p=24",
+  "source": "sumica.js"
+},
+    {
+  "title": "ベーコンエピ",
+  "artist": "TOMOO",
+  "collection": "【💐🎸歌切】[2026-06-30]6月最后，嘛❓为下半年充电吧￤澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biTe6wEV9?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗 feat. ちびた",
+  "collection": "【💐🎸歌切】[2026-06-30]6月最后，嘛❓为下半年充电吧￤澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biTe6wEV9?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "【💐🎸歌切】[2026-06-30]6月最后，嘛❓为下半年充电吧￤澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biTe6wEV9?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "勿忘",
+  "artist": "Awesome City Club",
+  "collection": "【💐🎸歌切】[2026-06-30]6月最后，嘛❓为下半年充电吧￤澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biTe6wEV9?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【💐🎸歌切】[2026-06-30]6月最后，嘛❓为下半年充电吧￤澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biTe6wEV9?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【💐🎸歌切】[2026-06-30]6月最后，嘛❓为下半年充电吧￤澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biTe6wEV9?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-30]6月最后，嘛❓为下半年充电吧￤澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biTe6wEV9?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "爆弾魔",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-30]6月最后，嘛❓为下半年充电吧￤澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biTe6wEV9?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "【💐🎸歌切】[2026-06-30]6月最后，嘛❓为下半年充电吧￤澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biTe6wEV9?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "シリウスの心臓",
+  "artist": "ヰ世界情緒",
+  "collection": "【💐🎸歌切】[2026-06-30]6月最后，嘛❓为下半年充电吧￤澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biTe6wEV9?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "キミソラキセキ",
+  "artist": "EGOIST",
+  "collection": "【💐🎸歌切】[2026-06-30]6月最后，嘛❓为下半年充电吧￤澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biTe6wEV9?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【💐🎸歌切】[2026-06-30]6月最后，嘛❓为下半年充电吧￤澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biTe6wEV9?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【💐🎸歌切】[2026-06-30]6月最后，嘛❓为下半年充电吧￤澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biTe6wEV9?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-06-30]6月最后，嘛❓为下半年充电吧￤澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biTe6wEV9?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-06-30]6月最后，嘛❓为下半年充电吧￤澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biTe6wEV9?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ",
+  "collection": "【💐🎸歌切】[2026-06-30]6月最后，嘛❓为下半年充电吧￤澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biTe6wEV9?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "エルマ",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-30]6月最后，嘛❓为下半年充电吧￤澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biTe6wEV9?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "ナイトルーティーン",
+  "artist": "キタニタツヤ feat. suis from ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-06-30]6月最后，嘛❓为下半年充电吧￤澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biTe6wEV9?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "焦がれ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-06-30]6月最后，嘛❓为下半年充电吧￤澄花/ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1biTe6wEV9?p=19",
   "source": "sumica.js"
 }
 );

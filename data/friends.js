@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 6/30/2026, 7:59:39 PM
+// 生成时间: 7/2/2026, 4:43:24 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2539,6 +2539,54 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-06-29 松永依織与七海うらら的联动歌回💎🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bkKR69EJ8?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "This game",
+  "artist": "鈴木このみ",
+  "collection": "七海うらら*歌channel歌切 2026-06-30 与MaiR酱的联动歌回！庆祝七海Urara首次Zepp演出",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghTe6vE27?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "七海うらら*歌channel歌切 2026-06-30 与MaiR酱的联动歌回！庆祝七海Urara首次Zepp演出",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghTe6vE27?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "七海うらら*歌channel歌切 2026-06-30 与MaiR酱的联动歌回！庆祝七海Urara首次Zepp演出",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghTe6vE27?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "ROCK-mode",
+  "artist": "LiSA",
+  "collection": "七海うらら*歌channel歌切 2026-06-30 与MaiR酱的联动歌回！庆祝七海Urara首次Zepp演出",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghTe6vE27?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(CV.平野綾)",
+  "collection": "七海うらら*歌channel歌切 2026-06-30 与MaiR酱的联动歌回！庆祝七海Urara首次Zepp演出",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghTe6vE27?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "七海うらら*歌channel歌切 2026-06-30 与MaiR酱的联动歌回！庆祝七海Urara首次Zepp演出",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghTe6vE27?p=6",
   "source": "friends.js"
 }
 );

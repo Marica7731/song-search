@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 6/30/2026, 7:56:51 PM
+// 生成时间: 7/2/2026, 4:39:54 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8219,6 +8219,134 @@ window.SONG_DATA.push(
   "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=47",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH//",
+  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "拝啓、少年よ",
+  "artist": "Hump Back",
+  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ロングホープ・フィリア",
+  "artist": "菅田将暉",
+  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "未确定",
+  "artist": "未确定",
+  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "時の歌",
+  "artist": "手嶌葵",
+  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗 feat. ちびた",
+  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "援助交際",
+  "artist": "銀杏BOYZ",
+  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "駱駝",
+  "artist": "高橋優",
+  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ひかり",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "となりのトトロ",
+  "artist": "井上あずみ",
+  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アルバイト",
+  "artist": "3markets",
+  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "未确定",
+  "artist": "未确定",
+  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "陽はまた昇る",
+  "artist": "DOES",
+  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "バレリーコ",
+  "artist": "みきとP feat. GUMI",
+  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "tomorrow",
+  "artist": "MOROHA",
+  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=16",
   "source": "kotatsu.js"
 }
 );

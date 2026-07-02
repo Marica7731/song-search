@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 6/30/2026, 7:44:40 PM
+// 生成时间: 7/2/2026, 4:28:10 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -35347,6 +35347,198 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-06-27]欢迎新观众！来听首歌再走吧！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fwTT6zEZN?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アンパンマンのマーチ",
+  "artist": "ドリーミング",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "勇気100%",
+  "artist": "光GENJI",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "departure!",
+  "artist": "小野正利",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Believe in tomorrow",
+  "artist": "Sunflower's Garden",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ANGELUS -アンジェラス-",
+  "artist": "島谷ひとみ",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "天城越え",
+  "artist": "石川さゆり",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Northern Lights",
+  "artist": "林原めぐみ",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ケロッ!とマーチ",
+  "artist": "角田信朗&いはたじゅり",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "撲殺天使ドクロちゃん",
+  "artist": "ドクロちゃん(千葉紗子)",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "First kiss",
+  "artist": "ICHIKO",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハッピー☆マテリアル",
+  "artist": "麻帆良学園中等部2-A",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "GO MY WAY!!",
+  "artist": "765PRO ALLSTARS",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おはよう。",
+  "artist": "Keno",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Butterfly Kiss",
+  "artist": "米倉千尋",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ダイアの花",
+  "artist": "より子",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "プリズム",
+  "artist": "池田綾子",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "クフフのフ～僕と契約～",
+  "artist": "六道骸(飯田利信)",
+  "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=24",
   "source": "yoshika.js"
 }
 );

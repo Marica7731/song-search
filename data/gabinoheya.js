@@ -1,6 +1,6 @@
 // がびのお部屋 - 歌单数据 (多合集汇总)
 // 来源: BV1YtwtzREbp
-// 生成时间: 6/30/2026, 8:11:38 PM
+// 生成时间: 7/2/2026, 4:54:07 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -411,6 +411,70 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-29 がびのお部屋-Gabi's room vJBMepjlYfc 迪士尼歌曲时间～只唱一个小时～！！唱起来~♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1us9sBQErT?p=13",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "よくあるはなし",
+  "artist": "ふみの",
+  "collection": "【歌切】[2026-07-01]唱抒情歌✨ 唱～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9TB6KEZD?p=1",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-07-01]唱抒情歌✨ 唱～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9TB6KEZD?p=2",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "素敵なことがあなたを待っている",
+  "artist": "藤田麻衣子",
+  "collection": "【歌切】[2026-07-01]唱抒情歌✨ 唱～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9TB6KEZD?p=3",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【歌切】[2026-07-01]唱抒情歌✨ 唱～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9TB6KEZD?p=4",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "雨が降る",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-07-01]唱抒情歌✨ 唱～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9TB6KEZD?p=5",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "あなたを忘れない",
+  "artist": "劇団四季",
+  "collection": "【歌切】[2026-07-01]唱抒情歌✨ 唱～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9TB6KEZD?p=6",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "パート・オブ・ユア・ワールド",
+  "artist": "すずきまゆみ",
+  "collection": "【歌切】[2026-07-01]唱抒情歌✨ 唱～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9TB6KEZD?p=7",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【歌切】[2026-07-01]唱抒情歌✨ 唱～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P9TB6KEZD?p=8",
   "source": "gabinoheya.js"
 }
 );

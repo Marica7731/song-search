@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 6/30/2026, 8:24:02 PM
+// 生成时间: 7/2/2026, 5:05:12 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3387,6 +3387,358 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-29]星期一定期歌回🎙从低气压中复活，欢迎初次光临的朋友 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hrKR6sEYT?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Los! Los! Los!",
+  "artist": "ターニャ・デグレチャフ(CV:悠木碧)",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Rising Hope",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "愛包ダンスホール",
+  "artist": "HIMEHINA",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "V",
+  "artist": "HIMEHINA",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "- アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "THE DAY",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "トラフィック・ジャム",
+  "artist": "煮ル果実 feat. flower",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "drop pop candy",
+  "artist": "Reol、Giga",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Let's go! スマイルプリキュア!",
+  "artist": "池田彩",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "㋰責任集合体",
+  "artist": "マサラダ feat. 重音テト",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat. GUMI",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "世界の真ん中を歩く",
+  "artist": "夏代孝明 feat. 初音ミク",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "色彩",
+  "artist": "yama",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "モザイクロール",
+  "artist": "DECO*27 feat. GUMI",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "かわいいだけじゃだめですか？",
+  "artist": "CUTIE STREET",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "可愛くてごめん",
+  "artist": "HoneyWorks feat. かぴ",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "My Sweet Darlin'",
+  "artist": "矢井田瞳",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "気まぐれメルシィ",
+  "artist": "八王子P feat. 初音ミク",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "手をあわせて",
+  "artist": "茨むあん",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat. 初音ミク",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "バイバイレイニー",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "星が瞬くこんな夜に",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ALONES",
+  "artist": "Aqua Timez",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat. 初音ミク",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=26",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "撫でんな",
+  "artist": "柊マグネタイト feat. 可不",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=27",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "イガク",
+  "artist": "原口沙輔 feat. 重音テト",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=28",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=29",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ワールド・ランプシェード",
+  "artist": "buzzG feat. GUMI",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=30",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ホワイトノイズ",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=31",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "8.32",
+  "artist": "*Luna feat. flower",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=32",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "メーベル",
+  "artist": "バルーン feat. flower",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=33",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=34",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "翡翠のまち",
+  "artist": "メル feat. 初音ミク",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=35",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=36",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "YUME日和",
+  "artist": "島谷ひとみ",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=37",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=38",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "夢であるように",
+  "artist": "DEEN",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=39",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=40",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=41",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=42",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=43",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "深昏睡",
+  "artist": "春野 feat. 初音ミク",
+  "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=44",
   "source": "ibaramuan.js"
 }
 );

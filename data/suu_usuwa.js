@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 6/30/2026, 7:41:30 PM
+// 生成时间: 7/2/2026, 4:25:02 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21235,6 +21235,94 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-06-28]今天特地准备了特别的歌曲！ 稀羽すう - Suu Usuwa -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ggKS63EsX?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Jewelry Wonderland",
+  "artist": "I-1 Club",
+  "collection": "【🦢歌切】#143[2026-07-01]星期三的定期歌回回来了！自由卡拉OK大会举办！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LMTz6dErW?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "メロンソーダ",
+  "artist": "Radio Darlings",
+  "collection": "【🦢歌切】#143[2026-07-01]星期三的定期歌回回来了！自由卡拉OK大会举办！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LMTz6dErW?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Family Song",
+  "artist": "星野源",
+  "collection": "【🦢歌切】#143[2026-07-01]星期三的定期歌回回来了！自由卡拉OK大会举办！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LMTz6dErW?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "フェイバリットに踊らせて",
+  "artist": "水嶋咲(CV:小林大紀)",
+  "collection": "【🦢歌切】#143[2026-07-01]星期三的定期歌回回来了！自由卡拉OK大会举办！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LMTz6dErW?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "MOON NIGHTのせいにして",
+  "artist": "DRAMATIC STARS",
+  "collection": "【🦢歌切】#143[2026-07-01]星期三的定期歌回回来了！自由卡拉OK大会举办！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LMTz6dErW?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "チャームポイントは泣きボクロ",
+  "artist": "跡部景吾(CV:諏訪部順一)",
+  "collection": "【🦢歌切】#143[2026-07-01]星期三的定期歌回回来了！自由卡拉OK大会举办！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LMTz6dErW?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "バイブル",
+  "artist": "白石蔵ノ介(CV:細谷佳正)",
+  "collection": "【🦢歌切】#143[2026-07-01]星期三的定期歌回回来了！自由卡拉OK大会举办！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LMTz6dErW?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Love so sweet",
+  "artist": "嵐",
+  "collection": "【🦢歌切】#143[2026-07-01]星期三的定期歌回回来了！自由卡拉OK大会举办！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LMTz6dErW?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "月のなみだ",
+  "artist": "高垣彩陽",
+  "collection": "【🦢歌切】#143[2026-07-01]星期三的定期歌回回来了！自由卡拉OK大会举办！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LMTz6dErW?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アポロ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【🦢歌切】#143[2026-07-01]星期三的定期歌回回来了！自由卡拉OK大会举办！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LMTz6dErW?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Departures ～あなたにおくるアイの歌～",
+  "artist": "EGOIST",
+  "collection": "【🦢歌切】#143[2026-07-01]星期三的定期歌回回来了！自由卡拉OK大会举办！ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LMTz6dErW?p=11",
   "source": "suu_usuwa.js"
 }
 );
