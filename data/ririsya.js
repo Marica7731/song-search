@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 7/3/2026, 2:13:09 AM
+// 生成时间: 7/3/2026, 2:31:42 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17523,6 +17523,94 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-06-29]情歌限定歌回 ✧ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19eKR6FEdN?p=28",
+  "source": "ririsya.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【🐍歌切】[2026-07-03]波音与弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7TW6eEj9?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【🐍歌切】[2026-07-03]波音与弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7TW6eEj9?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "少年時代",
+  "artist": "井上陽水",
+  "collection": "【🐍歌切】[2026-07-03]波音与弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7TW6eEj9?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "真夏の果実",
+  "artist": "サザンオールスターズ",
+  "collection": "【🐍歌切】[2026-07-03]波音与弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7TW6eEj9?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【🐍歌切】[2026-07-03]波音与弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7TW6eEj9?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "うたかた花火",
+  "artist": "supercell",
+  "collection": "【🐍歌切】[2026-07-03]波音与弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7TW6eEj9?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【🐍歌切】[2026-07-03]波音与弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7TW6eEj9?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "夏の恋人",
+  "artist": "SHISHAMO",
+  "collection": "【🐍歌切】[2026-07-03]波音与弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7TW6eEj9?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【🐍歌切】[2026-07-03]波音与弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7TW6eEj9?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【🐍歌切】[2026-07-03]波音与弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7TW6eEj9?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "真夏の夜の夢",
+  "artist": "松任谷由実",
+  "collection": "【🐍歌切】[2026-07-03]波音与弹唱✧ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7TW6eEj9?p=11",
   "source": "ririsya.js"
 }
 );
