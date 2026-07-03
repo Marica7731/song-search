@@ -235,6 +235,7 @@
     {
       canonical: 'サムライハート(some like it hot!!)',
       aliases: [
+        'サムライハート',
         'サムライハート(Some Like It Hot!!)',
         'サムライハート(Some Like It Hot！)',
         'サムライハート(Some Like it Hot!!)',
@@ -309,6 +310,26 @@
     {
       canonical: '勇気100%',
       aliases: ['勇気100%', '勇気100％']
+    },
+    {
+      canonical: 'グレゴリオ',
+      aliases: ['グレゴリオ', 'グレゴリオ feat.ちびた', 'グレゴリオ feat. ちびた']
+    },
+    {
+      canonical: 'デスペレート',
+      aliases: ['デスペレート', 'デスぺレート', 'デスペレート feat.LOLUET', 'デスペレート feat. LOLUET', 'デスぺレート feat. LOLUET']
+    },
+    {
+      canonical: 'レクイエム',
+      aliases: ['レクイエム', 'レクイエム feat.星街すいせい', 'レクイエム feat. 星街すいせい']
+    },
+    {
+      canonical: '家に帰ろう(マイ・スイート・ホーム)',
+      aliases: [
+        '家に帰ろう(マイ・スイート・ホーム)',
+        '家に帰ろう（マイ・スイート・ホーム）',
+        '家に帰ろう『マイ・スイート・ホーム』'
+      ]
     }
   ];
 
