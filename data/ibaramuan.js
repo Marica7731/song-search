@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 7/3/2026, 12:49:21 AM
+// 生成时间: 7/3/2026, 1:02:36 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3739,6 +3739,166 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-30]Oitan感谢祭！这个月也谢谢啦！欢迎新朋友！ Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15HTe6rEVT?p=44",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "奏（かなで）",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-07-03]唱抒情歌哦～嗯，要听吗？欢迎初见的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feTW6QEHp?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "瞬き",
+  "artist": "back number",
+  "collection": "【歌切】[2026-07-03]唱抒情歌哦～嗯，要听吗？欢迎初见的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feTW6QEHp?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "うたかた花火",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-07-03]唱抒情歌哦～嗯，要听吗？欢迎初见的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feTW6QEHp?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "secret base 〜君がくれたもの〜",
+  "artist": "ZONE",
+  "collection": "【歌切】[2026-07-03]唱抒情歌哦～嗯，要听吗？欢迎初见的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feTW6QEHp?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗",
+  "collection": "【歌切】[2026-07-03]唱抒情歌哦～嗯，要听吗？欢迎初见的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feTW6QEHp?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "【歌切】[2026-07-03]唱抒情歌哦～嗯，要听吗？欢迎初见的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feTW6QEHp?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "糸",
+  "artist": "中島みゆき",
+  "collection": "【歌切】[2026-07-03]唱抒情歌哦～嗯，要听吗？欢迎初见的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feTW6QEHp?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-07-03]唱抒情歌哦～嗯，要听吗？欢迎初见的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feTW6QEHp?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Departures 〜あなたにおくるアイの歌〜",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-07-03]唱抒情歌哦～嗯，要听吗？欢迎初见的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feTW6QEHp?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-07-03]唱抒情歌哦～嗯，要听吗？欢迎初见的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feTW6QEHp?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "to Mother",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-07-03]唱抒情歌哦～嗯，要听吗？欢迎初见的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feTW6QEHp?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師、宇多田ヒカル",
+  "collection": "【歌切】[2026-07-03]唱抒情歌哦～嗯，要听吗？欢迎初见的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feTW6QEHp?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Pale Blue",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-03]唱抒情歌哦～嗯，要听吗？欢迎初见的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feTW6QEHp?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Planetes",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-07-03]唱抒情歌哦～嗯，要听吗？欢迎初见的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feTW6QEHp?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "そっけない",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-07-03]唱抒情歌哦～嗯，要听吗？欢迎初见的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feTW6QEHp?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "点描の唄",
+  "artist": "Mrs. GREEN APPLE feat. 井上苑子",
+  "collection": "【歌切】[2026-07-03]唱抒情歌哦～嗯，要听吗？欢迎初见的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feTW6QEHp?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "勿忘",
+  "artist": "Awesome City Club",
+  "collection": "【歌切】[2026-07-03]唱抒情歌哦～嗯，要听吗？欢迎初见的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feTW6QEHp?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "贖罪",
+  "artist": "傘村トータ feat. IA・結月ゆかり・初音ミク・Fukase・Ken",
+  "collection": "【歌切】[2026-07-03]唱抒情歌哦～嗯，要听吗？欢迎初见的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feTW6QEHp?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "あなたの夜が明けるまで",
+  "artist": "傘村トータ feat. IA",
+  "collection": "【歌切】[2026-07-03]唱抒情歌哦～嗯，要听吗？欢迎初见的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feTW6QEHp?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "シリウスの心臓",
+  "artist": "ヰ世界情緒",
+  "collection": "【歌切】[2026-07-03]唱抒情歌哦～嗯，要听吗？欢迎初见的朋友 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1feTW6QEHp?p=20",
   "source": "ibaramuan.js"
 }
 );
