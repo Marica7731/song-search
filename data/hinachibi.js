@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 7/2/2026, 11:44:03 PM
+// 生成时间: 7/2/2026, 11:53:03 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1163,6 +1163,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-29]星期一辛苦了！本月最后的歌回！唱起来哦哦哦！！🍎🌟 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vaKR6hEim?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "空の箱",
+  "artist": "トゲナシトゲアリ",
+  "collection": "【歌切】[2026-07-02]7月了啊啊啊啊！终于到了个人Live的月份了！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p1Tn6mEws?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "青空のラプソディ",
+  "artist": "fhána",
+  "collection": "【歌切】[2026-07-02]7月了啊啊啊啊！终于到了个人Live的月份了！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p1Tn6mEws?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "チェリーポップ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-07-02]7月了啊啊啊啊！终于到了个人Live的月份了！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p1Tn6mEws?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-07-02]7月了啊啊啊啊！终于到了个人Live的月份了！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p1Tn6mEws?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "SAYONARA MAYBE",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-07-02]7月了啊啊啊啊！终于到了个人Live的月份了！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p1Tn6mEws?p=5",
   "source": "hinachibi.js"
 }
 );
