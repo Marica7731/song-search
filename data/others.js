@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/3/2026, 12:15:49 AM
+// 生成时间: 7/3/2026, 12:25:11 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -20883,6 +20883,206 @@ window.SONG_DATA.push(
   "collection": "炉なる歌切 2026-06-28 中午500赞耐久歌回！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11nKS6aEdp?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP) feat. GUMI",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ジャンキーナイトタウンオーケストラ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "エイリアンエイリアン",
+  "artist": "ナユタン星人 feat. 初音ミク",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ベノム",
+  "artist": "かいりきベア feat. flower",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "超主人公",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "転生林檎",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "神っぽいな",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "ジェヘナ",
+  "artist": "wotaku feat. 初音ミク",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "アニマル",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "マシュマロ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "強風オールバック",
+  "artist": "ゆこぴ feat. 歌愛ユキ",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "重音テトはこんなパーティ二人で抜け出せるのか",
+  "artist": "かてらざわ feat. 重音テト・初音ミク",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "ロウワー",
+  "artist": "ぬゆり feat. flower",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "テレキャスタービーボーイ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "キャットラビング",
+  "artist": "香椎モイミ feat. 可不",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "キュートなカノジョ",
+  "artist": "syudou feat. 可不",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "命ばっかり",
+  "artist": "ぬゆり feat. flower・結月ゆかり",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "ド屑",
+  "artist": "なきそ feat. 歌愛ユキ",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "だれかの心臓になれたなら",
+  "artist": "ユリイ・カノン feat. GUMI",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "オツキミリサイタル",
+  "artist": "じん feat. IA",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "炉心融解",
+  "artist": "iroha(sasaki) feat. 鏡音リン",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "Tell Your World",
+  "artist": "livetune feat. 初音ミク",
+  "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=25",
   "source": "others.js"
 },
     {
