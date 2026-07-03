@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 7/3/2026, 1:30:47 AM
+// 生成时间: 7/3/2026, 1:44:47 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8347,6 +8347,262 @@ window.SONG_DATA.push(
   "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "前前前世",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アンマー",
+  "artist": "かりゆし58",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "羽虫と自販機",
+  "artist": "KANA-BOON",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "SUMMER TIME",
+  "artist": "NEWS",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "眠り姫",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "花",
+  "artist": "中孝介",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "クロノスタシス",
+  "artist": "きのこ帝国",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "本当はね、",
+  "artist": "ヤングスキニー",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH//",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "マジカルダンサー",
+  "artist": "小山田壮平",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "終わらない歌",
+  "artist": "THE BLUE HEARTS",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat. 安次嶺希和子",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "手と手",
+  "artist": "クリープハイプ",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "明日晴れるかな",
+  "artist": "桑田佳祐",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "永遠",
+  "artist": "back number",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ゴーゴー幽霊船",
+  "artist": "米津玄師",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよならはエモーション",
+  "artist": "サカナクション",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜空ノムコウ",
+  "artist": "SMAP",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "翼をください",
+  "artist": "赤い鳥",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "地上の星",
+  "artist": "中島みゆき",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "一人暮らし",
+  "artist": "高橋優",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ラブソング",
+  "artist": "ズーカラデル",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "雛市",
+  "artist": "女王蜂",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "君が思えば…",
+  "artist": "柴田淳",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "金魚花火",
+  "artist": "大塚愛",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "明日への扉",
+  "artist": "I WiSH",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=29",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "今宵の月のように",
+  "artist": "エレファントカシマシ",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=30",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ね。",
+  "artist": "3markets",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=31",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "サヨナラCOLOR",
+  "artist": "SUPER BUTTER DOG",
+  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=32",
   "source": "kotatsu.js"
 }
 );

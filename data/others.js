@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/3/2026, 2:13:15 AM
+// 生成时间: 7/3/2026, 2:25:53 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8075,6 +8075,166 @@ window.SONG_DATA.push(
   "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-07-02 术力口尽享歌回⭐️欢迎初见观众！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV179Tn6GETr?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "😭毕业前最后的歌回🎙不留遗憾地唱！！白傘くらげ歌切 2026-07-02",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g3TW6BEHU?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "😭毕业前最后的歌回🎙不留遗憾地唱！！白傘くらげ歌切 2026-07-02",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g3TW6BEHU?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "😭毕业前最后的歌回🎙不留遗憾地唱！！白傘くらげ歌切 2026-07-02",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g3TW6BEHU?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "UNDEAD",
+  "artist": "YOASOBI",
+  "collection": "😭毕业前最后的歌回🎙不留遗憾地唱！！白傘くらげ歌切 2026-07-02",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g3TW6BEHU?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "もう少しだけ",
+  "artist": "YOASOBI",
+  "collection": "😭毕业前最后的歌回🎙不留遗憾地唱！！白傘くらげ歌切 2026-07-02",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g3TW6BEHU?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "😭毕业前最后的歌回🎙不留遗憾地唱！！白傘くらげ歌切 2026-07-02",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g3TW6BEHU?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "😭毕业前最后的歌回🎙不留遗憾地唱！！白傘くらげ歌切 2026-07-02",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g3TW6BEHU?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "千の夜をこえて",
+  "artist": "Aqua Timez",
+  "collection": "😭毕业前最后的歌回🎙不留遗憾地唱！！白傘くらげ歌切 2026-07-02",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g3TW6BEHU?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "今はいいんだよ",
+  "artist": "MIMI feat. 可不",
+  "collection": "😭毕业前最后的歌回🎙不留遗憾地唱！！白傘くらげ歌切 2026-07-02",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g3TW6BEHU?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "永遠のあくる日",
+  "artist": "Ado",
+  "collection": "😭毕业前最后的歌回🎙不留遗憾地唱！！白傘くらげ歌切 2026-07-02",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g3TW6BEHU?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "😭毕业前最后的歌回🎙不留遗憾地唱！！白傘くらげ歌切 2026-07-02",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g3TW6BEHU?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "明日への扉",
+  "artist": "I WiSH",
+  "collection": "😭毕业前最后的歌回🎙不留遗憾地唱！！白傘くらげ歌切 2026-07-02",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g3TW6BEHU?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "アカシア",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "😭毕业前最后的歌回🎙不留遗憾地唱！！白傘くらげ歌切 2026-07-02",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g3TW6BEHU?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "らしさ",
+  "artist": "SUPER BEAVER",
+  "collection": "😭毕业前最后的歌回🎙不留遗憾地唱！！白傘くらげ歌切 2026-07-02",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g3TW6BEHU?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "一体いつから",
+  "artist": "月村手毬（小鹿なお）",
+  "collection": "😭毕业前最后的歌回🎙不留遗憾地唱！！白傘くらげ歌切 2026-07-02",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g3TW6BEHU?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "😭毕业前最后的歌回🎙不留遗憾地唱！！白傘くらげ歌切 2026-07-02",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g3TW6BEHU?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "😭毕业前最后的歌回🎙不留遗憾地唱！！白傘くらげ歌切 2026-07-02",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g3TW6BEHU?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "さよーならまたいつか！",
+  "artist": "米津玄師",
+  "collection": "😭毕业前最后的歌回🎙不留遗憾地唱！！白傘くらげ歌切 2026-07-02",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g3TW6BEHU?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春",
+  "collection": "😭毕业前最后的歌回🎙不留遗憾地唱！！白傘くらげ歌切 2026-07-02",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g3TW6BEHU?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "HoneyWorks feat. mona（夏川椎菜）",
+  "collection": "😭毕业前最后的歌回🎙不留遗憾地唱！！白傘くらげ歌切 2026-07-02",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g3TW6BEHU?p=20",
   "source": "others.js"
 },
     {
