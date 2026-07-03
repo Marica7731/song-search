@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 7/2/2026, 11:37:58 PM
+// 生成时间: 7/2/2026, 11:48:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -35539,6 +35539,198 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-06-30]欢迎新人！这就月底了，真的假的？ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YkTY6MErK?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "1・2・3",
+  "artist": "After the Rain（そらる×まふまふ）",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾、茅原実里、後藤邑子",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気分上々↑↑",
+  "artist": "mihimaru GT",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "DANZEN！ふたりはプリキュア",
+  "artist": "五條真由美",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "とくべチュ、して",
+  "artist": "=LOVE",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n、中島愛",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "破滅の純情",
+  "artist": "ワルキューレ",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ノーザンクロス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Queens Bluff",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "翼をください",
+  "artist": "赤い鳥",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "旅立ちの日に",
+  "artist": "坂本浩美",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "BELIEVE",
+  "artist": "杉本竜一",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "故郷",
+  "artist": "岡野貞一",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "浜辺の歌",
+  "artist": "成田為三",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おさかな天国",
+  "artist": "柴矢裕美",
+  "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=24",
   "source": "yoshika.js"
 }
 );
