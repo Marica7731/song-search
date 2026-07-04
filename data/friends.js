@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 7/4/2026, 6:45:14 PM
+// 生成时间: 7/4/2026, 6:57:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2587,6 +2587,14 @@ window.SONG_DATA.push(
   "collection": "七海うらら*歌channel歌切 2026-06-30 与MaiR酱的联动歌回！庆祝七海Urara首次Zepp演出",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ghTe6vE27?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "「アンチグレースケープ」（反灰色景域）",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "「アンチグレースケープ」（反灰色景域）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pPMK6VEka?p=1",
   "source": "friends.js"
 }
 );
