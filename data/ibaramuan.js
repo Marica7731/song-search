@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 7/4/2026, 10:57:59 AM
+// 生成时间: 7/4/2026, 11:08:13 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3899,6 +3899,238 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-03]唱抒情歌哦～嗯，要听吗？欢迎初见的朋友 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feTW6QEHp?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "No Logic",
+  "artist": "ジミーサムP feat. 巡音ルカ",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "小夜子",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ツギハギスタッカート",
+  "artist": "とあ feat. 初音ミク",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ミュージックミュージック",
+  "artist": "とあ feat. 初音ミク",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "flos",
+  "artist": "R Sound Design feat. 初音ミク",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "自傷無色",
+  "artist": "ねこぼーろ feat. 初音ミク",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "林檎売りの泡沫少女",
+  "artist": "yukkedoluce feat. GUMI",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "心とかいう名前の未発見の臓器の機能についての考察",
+  "artist": "adstlaxy feat. 初音ミク",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Dear",
+  "artist": "19's Sound Factory feat. 初音ミク",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "廻廻奇譚",
+  "artist": "Eve",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "インフェルノ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "狂乱 Hey Kids!!",
+  "artist": "THE ORAL CIGARETTES",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "イマジネーション",
+  "artist": "SPYAIR",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "SPYAIR",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH//",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "純恋歌",
+  "artist": "湘南乃風",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "わたがし",
+  "artist": "back number",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "盗作",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=26",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=27",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "欲望に満ちた青年団",
+  "artist": "ONE OK ROCK",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=28",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=29",
   "source": "ibaramuan.js"
 }
 );
