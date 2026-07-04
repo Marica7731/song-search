@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 7/4/2026, 6:39:36 PM
+// 生成时间: 7/4/2026, 6:49:34 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -35883,6 +35883,14 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "「织就航路的人们」（航路を紡ぐものたち）",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "「织就航路的人们」（航路を紡ぐものたち）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J3MK6BEfL?p=1",
   "source": "yoshika.js"
 }
 );

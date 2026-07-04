@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 7/4/2026, 6:34:39 PM
+// 生成时间: 7/4/2026, 6:44:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17611,6 +17611,14 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-07-03]波音与弹唱✧ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1T7TW6eEj9?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "「失楽園",
+  "artist": "Paradise Lost -」",
+  "collection": "「失楽園 - Paradise Lost -」",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JgMK6uEDQ?p=1",
   "source": "ririsya.js"
 }
 );
