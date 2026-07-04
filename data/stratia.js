@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 7/4/2026, 11:13:04 AM
+// 生成时间: 7/4/2026, 11:24:34 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1027,6 +1027,70 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-06-26]突击歌回❕悠闲吉他直播🦋🫧 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b87E6jE63?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "Hello, Worker",
+  "artist": "KEI feat. 巡音ルカ",
+  "collection": "【🎸🦋歌切】[2026-07-03]欢迎初次观看❕尽情弹唱喜欢的歌🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EyMw68EqS?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "東京",
+  "artist": "超☆社会的サンダル",
+  "collection": "【🎸🦋歌切】[2026-07-03]欢迎初次观看❕尽情弹唱喜欢的歌🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EyMw68EqS?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【🎸🦋歌切】[2026-07-03]欢迎初次观看❕尽情弹唱喜欢的歌🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EyMw68EqS?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "絆創膏",
+  "artist": "サカグチアミ",
+  "collection": "【🎸🦋歌切】[2026-07-03]欢迎初次观看❕尽情弹唱喜欢的歌🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EyMw68EqS?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "またねがあれば",
+  "artist": "ちんまりP feat. 初音ミク",
+  "collection": "【🎸🦋歌切】[2026-07-03]欢迎初次观看❕尽情弹唱喜欢的歌🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EyMw68EqS?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "閃きは彼方",
+  "artist": "カネコアヤノ",
+  "collection": "【🎸🦋歌切】[2026-07-03]欢迎初次观看❕尽情弹唱喜欢的歌🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EyMw68EqS?p=6",
+  "source": "stratia.js"
+},
+    {
+  "title": "マンハッタン・キス",
+  "artist": "竹内まりや",
+  "collection": "【🎸🦋歌切】[2026-07-03]欢迎初次观看❕尽情弹唱喜欢的歌🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EyMw68EqS?p=7",
+  "source": "stratia.js"
+},
+    {
+  "title": "星空のディスタンス",
+  "artist": "THE ALFEE",
+  "collection": "【🎸🦋歌切】[2026-07-03]欢迎初次观看❕尽情弹唱喜欢的歌🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EyMw68EqS?p=8",
   "source": "stratia.js"
 }
 );
