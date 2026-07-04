@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 7/4/2026, 1:10:10 PM
+// 生成时间: 7/4/2026, 1:31:16 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -32523,6 +32523,142 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-06-28]助眠歌回✨ 睡前放松时刻，请慢慢享受🌙 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13gKS63EYW?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【💐歌切】[2026-07-03]7月的第一次歌唱哦！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEjN?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "あの夏が飽和する。",
+  "artist": "カンザキイオリ feat. 鏡音レン・鏡音リン",
+  "collection": "【💐歌切】[2026-07-03]7月的第一次歌唱哦！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEjN?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "ロウワー",
+  "artist": "ぬゆり feat. v flower",
+  "collection": "【💐歌切】[2026-07-03]7月的第一次歌唱哦！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEjN?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "月光",
+  "artist": "キタニタツヤ × はるまきごはん",
+  "collection": "【💐歌切】[2026-07-03]7月的第一次歌唱哦！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEjN?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "魔法",
+  "artist": "KOTORI",
+  "collection": "【💐歌切】[2026-07-03]7月的第一次歌唱哦！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEjN?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【💐歌切】[2026-07-03]7月的第一次歌唱哦！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEjN?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "ヴィーナスとジーザス",
+  "artist": "やくしまるえつこ",
+  "collection": "【💐歌切】[2026-07-03]7月的第一次歌唱哦！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEjN?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【💐歌切】[2026-07-03]7月的第一次歌唱哦！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEjN?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "SUN",
+  "artist": "星野源",
+  "collection": "【💐歌切】[2026-07-03]7月的第一次歌唱哦！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEjN?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "アンインストール",
+  "artist": "石川智晶",
+  "collection": "【💐歌切】[2026-07-03]7月的第一次歌唱哦！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEjN?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "みちづれ",
+  "artist": "星街すいせい",
+  "collection": "【💐歌切】[2026-07-03]7月的第一次歌唱哦！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEjN?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "Shout Baby",
+  "artist": "緑黄色社会",
+  "collection": "【💐歌切】[2026-07-03]7月的第一次歌唱哦！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEjN?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "八月、某、月明かり",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-07-03]7月的第一次歌唱哦！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEjN?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【💐歌切】[2026-07-03]7月的第一次歌唱哦！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEjN?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "I AM",
+  "artist": "Aimer",
+  "collection": "【💐歌切】[2026-07-03]7月的第一次歌唱哦！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEjN?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "エイミー",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-07-03]7月的第一次歌唱哦！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEjN?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-07-03]7月的第一次歌唱哦！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEjN?p=17",
   "source": "figaro.js"
 }
 );

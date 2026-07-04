@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 7/4/2026, 1:03:59 PM
+// 生成时间: 7/4/2026, 1:24:45 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4427,126 +4427,6 @@ window.SONG_DATA.push(
   "collection": "【明日夢 歌切】[2026-07-01]傍晚唱首歌，今天也辛苦了！ 明日夢かなえ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1X5Tz6DEcz?p=17",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "花人局",
-  "artist": "ヨルシカ",
-  "collection": "【明日夢 歌切】[2026-07-03]请让我稍微练一下歌 明日夢かなえ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PvMw6iEdB?p=1",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "春ひさぎ",
-  "artist": "ヨルシカ",
-  "collection": "【明日夢 歌切】[2026-07-03]请让我稍微练一下歌 明日夢かなえ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PvMw6iEdB?p=2",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "あの夏に咲け",
-  "artist": "ヨルシカ",
-  "collection": "【明日夢 歌切】[2026-07-03]请让我稍微练一下歌 明日夢かなえ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PvMw6iEdB?p=3",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "さよならモルテン",
-  "artist": "ヨルシカ",
-  "collection": "【明日夢 歌切】[2026-07-03]请让我稍微练一下歌 明日夢かなえ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PvMw6iEdB?p=4",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "パドドゥ",
-  "artist": "ヨルシカ",
-  "collection": "【明日夢 歌切】[2026-07-03]请让我稍微练一下歌 明日夢かなえ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PvMw6iEdB?p=5",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "藍二乗",
-  "artist": "ヨルシカ",
-  "collection": "【明日夢 歌切】[2026-07-03]请让我稍微练一下歌 明日夢かなえ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PvMw6iEdB?p=6",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "花になって",
-  "artist": "緑黄色社会",
-  "collection": "【明日夢 歌切】[2026-07-03]请让我稍微练一下歌 明日夢かなえ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PvMw6iEdB?p=7",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "Mela!",
-  "artist": "緑黄色社会",
-  "collection": "【明日夢 歌切】[2026-07-03]请让我稍微练一下歌 明日夢かなえ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PvMw6iEdB?p=8",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "最強の推し！",
-  "artist": "鈴木愛理",
-  "collection": "【明日夢 歌切】[2026-07-03]请让我稍微练一下歌 明日夢かなえ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PvMw6iEdB?p=9",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "レディメイド",
-  "artist": "Ado",
-  "collection": "【明日夢 歌切】[2026-07-03]请让我稍微练一下歌 明日夢かなえ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PvMw6iEdB?p=10",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "シャルル",
-  "artist": "バルーン feat. flower",
-  "collection": "【明日夢 歌切】[2026-07-03]请让我稍微练一下歌 明日夢かなえ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PvMw6iEdB?p=11",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "火葬曲",
-  "artist": "No.D feat. 初音ミク",
-  "collection": "【明日夢 歌切】[2026-07-03]请让我稍微练一下歌 明日夢かなえ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PvMw6iEdB?p=12",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "ルカルカ★ナイトフィーバー",
-  "artist": "samfree feat. 巡音ルカ",
-  "collection": "【明日夢 歌切】[2026-07-03]请让我稍微练一下歌 明日夢かなえ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PvMw6iEdB?p=13",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "ようこそジャパリパークへ",
-  "artist": "どうぶつビスケッツ×PPP",
-  "collection": "【明日夢 歌切】[2026-07-03]请让我稍微练一下歌 明日夢かなえ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PvMw6iEdB?p=14",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "靴の花火",
-  "artist": "ヨルシカ",
-  "collection": "【明日夢 歌切】[2026-07-03]请让我稍微练一下歌 明日夢かなえ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PvMw6iEdB?p=15",
   "source": "asuyumekanae.js"
 },
     {
