@@ -11,6 +11,11 @@ const LEADING_SOURCE_REGEX = /^(?:\s*【[^】]+】)+\s*/;
 const LEADING_WITH_INDEX_REGEX = /^\s*with\s+.+?\s+\d+\.\s+/i;
 const LEADING_INDEX_REGEX = /^(?:\s*\[\d+(?:\s*[-/]\s*\d+)+\]\.?\s*|\s*\d+\.\s+|\s*P\d+[：:]\s*)/i;
 const SPECIAL_BRACKET_ARTIST_SET = new Set(['[Alexandros]', '[ALEXANDROS]']);
+const SPECIAL_SINGLE_SONG_OVERRIDES = new Map([
+    ['BV1pPMK6VEka:1', { title: 'アンチグレースケープ', artist: '凛々咲 / 恣ノ宮うか' }],
+    ['BV1J3MK6BEfL:1', { title: '航路を紡ぐものたち', artist: 'よしか⁂' }],
+    ['BV1JgMK6uEDQ:1', { title: '失楽園 - Paradise Lost -', artist: '凛々咲' }]
+]);
 const ROOT_DIR = path.join(__dirname, '..');
 const DEFAULT_SINGER_CONFIG_PATH = path.join(__dirname, 'singer-configs.json');
 const SOURCE_PROFILE_PATH = path.join(__dirname, 'source-profiles.json');
@@ -455,6 +460,11 @@ function splitSongTitleAndArtist(partTitle) {
 }
 
 function resolveSongTitleAndArtist(episodeMetadata, pageMeta) {
+    const override = SPECIAL_SINGLE_SONG_OVERRIDES.get(`${episodeMetadata.bvid}:${pageMeta.page || 1}`);
+    if (override) {
+        return override;
+    }
+
     const parsedFromPart = splitSongTitleAndArtist(pageMeta.part || '');
     const isSinglePageEpisode = Number(episodeMetadata.videos || 0) <= 1
         && Number(pageMeta.page || 1) === 1;
