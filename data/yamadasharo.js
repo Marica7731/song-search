@@ -1,6 +1,6 @@
 // 山田シャロ - 歌单数据 (多合集汇总)
 // 来源: BV179L66pE1f
-// 生成时间: 7/4/2026, 10:59:28 AM
+// 生成时间: 7/4/2026, 11:12:53 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1203,6 +1203,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-26]不输给雨！！超热烈歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1T77J65EgR?p=9",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-07-03]动漫歌曲与术力口✨为你带来活力的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DHMw6VESA?p=1",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "青空のラプソディ",
+  "artist": "fhána",
+  "collection": "【歌切】[2026-07-03]动漫歌曲与术力口✨为你带来活力的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DHMw6VESA?p=2",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "不確定性☆COSMIC MOVEMENT",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-07-03]动漫歌曲与术力口✨为你带来活力的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DHMw6VESA?p=3",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "甲賀忍法帖",
+  "artist": "陰陽座",
+  "collection": "【歌切】[2026-07-03]动漫歌曲与术力口✨为你带来活力的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DHMw6VESA?p=4",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-03]动漫歌曲与术力口✨为你带来活力的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DHMw6VESA?p=5",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "innocent starter",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-07-03]动漫歌曲与术力口✨为你带来活力的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DHMw6VESA?p=6",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ETERNAL BLAZE",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-07-03]动漫歌曲与术力口✨为你带来活力的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DHMw6VESA?p=7",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat. GUMI",
+  "collection": "【歌切】[2026-07-03]动漫歌曲与术力口✨为你带来活力的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DHMw6VESA?p=8",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "【歌切】[2026-07-03]动漫歌曲与术力口✨为你带来活力的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DHMw6VESA?p=9",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-07-03]动漫歌曲与术力口✨为你带来活力的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DHMw6VESA?p=10",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "禁断のレジスタンス",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-07-03]动漫歌曲与术力口✨为你带来活力的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DHMw6VESA?p=11",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Angel Blossom",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-07-03]动漫歌曲与术力口✨为你带来活力的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DHMw6VESA?p=12",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "The Bravery",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-07-03]动漫歌曲与术力口✨为你带来活力的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DHMw6VESA?p=13",
   "source": "yamadasharo.js"
 }
 );
