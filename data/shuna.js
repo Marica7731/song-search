@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 7/4/2026, 2:13:30 PM
+// 生成时间: 7/4/2026, 2:29:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7651,6 +7651,598 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-29]全类型歌回✨ 朱名 / SHUNA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UkKR69E9u?p=23",
+  "source": "shuna.js"
+},
+    {
+  "title": "茜色の約束",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=1",
+  "source": "shuna.js"
+},
+    {
+  "title": "今走り出せば",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=2",
+  "source": "shuna.js"
+},
+    {
+  "title": "うるわしきひと",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=3",
+  "source": "shuna.js"
+},
+    {
+  "title": "YELL",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=4",
+  "source": "shuna.js"
+},
+    {
+  "title": "帰りたくなったよ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=5",
+  "source": "shuna.js"
+},
+    {
+  "title": "風と未来",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=6",
+  "source": "shuna.js"
+},
+    {
+  "title": "風が吹いている",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=7",
+  "source": "shuna.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=8",
+  "source": "shuna.js"
+},
+    {
+  "title": "KIRA★KIRA★TRAIN",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=9",
+  "source": "shuna.js"
+},
+    {
+  "title": "キミがいる",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=10",
+  "source": "shuna.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=11",
+  "source": "shuna.js"
+},
+    {
+  "title": "秋桜",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=12",
+  "source": "shuna.js"
+},
+    {
+  "title": "心の花を咲かせよう",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=13",
+  "source": "shuna.js"
+},
+    {
+  "title": "SAKURA",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=14",
+  "source": "shuna.js"
+},
+    {
+  "title": "じょいふる",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=15",
+  "source": "shuna.js"
+},
+    {
+  "title": "スピリッツ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=16",
+  "source": "shuna.js"
+},
+    {
+  "title": "青春のとびら",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=17",
+  "source": "shuna.js"
+},
+    {
+  "title": "青春ライン",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=18",
+  "source": "shuna.js"
+},
+    {
+  "title": "ソプラノ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=19",
+  "source": "shuna.js"
+},
+    {
+  "title": "タユムコトナキナガレ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=20",
+  "source": "shuna.js"
+},
+    {
+  "title": "ちこくしちゃうよ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=21",
+  "source": "shuna.js"
+},
+    {
+  "title": "月とあたしと冷蔵庫",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=22",
+  "source": "shuna.js"
+},
+    {
+  "title": "なくもんか",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=23",
+  "source": "shuna.js"
+},
+    {
+  "title": "Happy Smile Again",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=24",
+  "source": "shuna.js"
+},
+    {
+  "title": "ノスタルジア",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=25",
+  "source": "shuna.js"
+},
+    {
+  "title": "花は桜 君は美し",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=26",
+  "source": "shuna.js"
+},
+    {
+  "title": "HANABI",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=27",
+  "source": "shuna.js"
+},
+    {
+  "title": "ふたり",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=28",
+  "source": "shuna.js"
+},
+    {
+  "title": "ホタルノヒカリ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=29",
+  "source": "shuna.js"
+},
+    {
+  "title": "ホットミルク",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=30",
+  "source": "shuna.js"
+},
+    {
+  "title": "真昼の月",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=31",
+  "source": "shuna.js"
+},
+    {
+  "title": "流星ミラクル",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=32",
+  "source": "shuna.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=33",
+  "source": "shuna.js"
+},
+    {
+  "title": "銀の龍の背に乗って",
+  "artist": "中島みゆき",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=34",
+  "source": "shuna.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=35",
+  "source": "shuna.js"
+},
+    {
+  "title": "あの夏に咲け",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=36",
+  "source": "shuna.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=37",
+  "source": "shuna.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=38",
+  "source": "shuna.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=39",
+  "source": "shuna.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=40",
+  "source": "shuna.js"
+},
+    {
+  "title": "心に穴が空いた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=41",
+  "source": "shuna.js"
+},
+    {
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=42",
+  "source": "shuna.js"
+},
+    {
+  "title": "パレード",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=43",
+  "source": "shuna.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=44",
+  "source": "shuna.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=45",
+  "source": "shuna.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=46",
+  "source": "shuna.js"
+},
+    {
+  "title": "八月、某、月明かり",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=47",
+  "source": "shuna.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=48",
+  "source": "shuna.js"
+},
+    {
+  "title": "負け犬にアンコールはいらない",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=49",
+  "source": "shuna.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=50",
+  "source": "shuna.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=51",
+  "source": "shuna.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=52",
+  "source": "shuna.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=53",
+  "source": "shuna.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=54",
+  "source": "shuna.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=55",
+  "source": "shuna.js"
+},
+    {
+  "title": "Best Friend",
+  "artist": "Kiroro",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=56",
+  "source": "shuna.js"
+},
+    {
+  "title": "長い間",
+  "artist": "Kiroro",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=57",
+  "source": "shuna.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=58",
+  "source": "shuna.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=59",
+  "source": "shuna.js"
+},
+    {
+  "title": "初恋",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=60",
+  "source": "shuna.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=61",
+  "source": "shuna.js"
+},
+    {
+  "title": "どんなときも。",
+  "artist": "槇原敬之",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=62",
+  "source": "shuna.js"
+},
+    {
+  "title": "遠く遠く",
+  "artist": "槇原敬之",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=63",
+  "source": "shuna.js"
+},
+    {
+  "title": "北風 〜君にとどきますように〜",
+  "artist": "槇原敬之",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=64",
+  "source": "shuna.js"
+},
+    {
+  "title": "もう恋なんてしない",
+  "artist": "槇原敬之",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=65",
+  "source": "shuna.js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "クリス・ハート",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=66",
+  "source": "shuna.js"
+},
+    {
+  "title": "瞳をとじて",
+  "artist": "平井堅",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=67",
+  "source": "shuna.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=68",
+  "source": "shuna.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=69",
+  "source": "shuna.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=70",
+  "source": "shuna.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=71",
+  "source": "shuna.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=72",
+  "source": "shuna.js"
+},
+    {
+  "title": "メトロノーム",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=73",
+  "source": "shuna.js"
+},
+    {
+  "title": "ありがとう",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-03]74首耐久歌回‼️ 朱名 / SHUNA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TaMP6jE2M?p=74",
   "source": "shuna.js"
 }
 );
