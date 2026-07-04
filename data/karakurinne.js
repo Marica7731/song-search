@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 7/4/2026, 1:16:54 PM
+// 生成时间: 7/4/2026, 1:26:50 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1571,6 +1571,94 @@ window.SONG_DATA.push(
   "collection": "【⚙️🎸歌切】[2026-06-28]悠闲的唱歌时间哦～！！🎹🎸 からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgKS63EBB?p=10",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "いつか",
+  "artist": "Saucy Dog",
+  "collection": "【⚙️🎸歌切】[2026-07-03]安静地唱歌给你听！！热烈欢迎新观众！🎸来被治愈吧～💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEzH?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "リスポーン",
+  "artist": "Saucy Dog",
+  "collection": "【⚙️🎸歌切】[2026-07-03]安静地唱歌给你听！！热烈欢迎新观众！🎸来被治愈吧～💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEzH?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "リスポーン",
+  "artist": "Saucy Dog",
+  "collection": "【⚙️🎸歌切】[2026-07-03]安静地唱歌给你听！！热烈欢迎新观众！🎸来被治愈吧～💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEzH?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "僕の名前を",
+  "artist": "back number",
+  "collection": "【⚙️🎸歌切】[2026-07-03]安静地唱歌给你听！！热烈欢迎新观众！🎸来被治愈吧～💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEzH?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "あなただけ",
+  "artist": "神はサイコロを振らない",
+  "collection": "【⚙️🎸歌切】[2026-07-03]安静地唱歌给你听！！热烈欢迎新观众！🎸来被治愈吧～💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEzH?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "歌うたいのバラッド",
+  "artist": "斉藤和義",
+  "collection": "【⚙️🎸歌切】[2026-07-03]安静地唱歌给你听！！热烈欢迎新观众！🎸来被治愈吧～💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEzH?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【⚙️🎸歌切】[2026-07-03]安静地唱歌给你听！！热烈欢迎新观众！🎸来被治愈吧～💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEzH?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "けだるい",
+  "artist": "the pullovers",
+  "collection": "【⚙️🎸歌切】[2026-07-03]安静地唱歌给你听！！热烈欢迎新观众！🎸来被治愈吧～💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEzH?p=8",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ピアス",
+  "artist": "あたらよ",
+  "collection": "【⚙️🎸歌切】[2026-07-03]安静地唱歌给你听！！热烈欢迎新观众！🎸来被治愈吧～💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEzH?p=9",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "どんぐりころころ",
+  "artist": "童謡・唱歌",
+  "collection": "【⚙️🎸歌切】[2026-07-03]安静地唱歌给你听！！热烈欢迎新观众！🎸来被治愈吧～💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEzH?p=10",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "いつも何度でも",
+  "artist": "木村弓",
+  "collection": "【⚙️🎸歌切】[2026-07-03]安静地唱歌给你听！！热烈欢迎新观众！🎸来被治愈吧～💛 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FUMP6vEzH?p=11",
   "source": "karakurinne.js"
 }
 );
