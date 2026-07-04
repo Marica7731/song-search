@@ -1,6 +1,6 @@
 // ななし律歌 - 歌单数据 (多合集汇总)
 // 来源: BV1wHQVBTEU5
-// 生成时间: 7/4/2026, 3:35:15 PM
+// 生成时间: 7/4/2026, 3:43:11 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -899,6 +899,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-28]最后的歌回哦 ななし律歌 / Nanashi Rikka",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18gKS63Ext?p=16",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "【歌切】[2026-07-04]生日就是要唱好多好多喜欢的歌🎂🎤 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wcMP6BEgd?p=1",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat. 初音ミク",
+  "collection": "【歌切】[2026-07-04]生日就是要唱好多好多喜欢的歌🎂🎤 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wcMP6BEgd?p=2",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat. 巡音ルカ・GUMI",
+  "collection": "【歌切】[2026-07-04]生日就是要唱好多好多喜欢的歌🎂🎤 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wcMP6BEgd?p=3",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "空奏列車",
+  "artist": "Orangestar feat. IA・初音ミク",
+  "collection": "【歌切】[2026-07-04]生日就是要唱好多好多喜欢的歌🎂🎤 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wcMP6BEgd?p=4",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ドーナツホール",
+  "artist": "ハチ feat. GUMI",
+  "collection": "【歌切】[2026-07-04]生日就是要唱好多好多喜欢的歌🎂🎤 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wcMP6BEgd?p=5",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-07-04]生日就是要唱好多好多喜欢的歌🎂🎤 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wcMP6BEgd?p=6",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "君じゃなきゃダメみたい",
+  "artist": "オーイシマサヨシ",
+  "collection": "【歌切】[2026-07-04]生日就是要唱好多好多喜欢的歌🎂🎤 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wcMP6BEgd?p=7",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ないものねだり",
+  "artist": "KANA-BOON",
+  "collection": "【歌切】[2026-07-04]生日就是要唱好多好多喜欢的歌🎂🎤 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wcMP6BEgd?p=8",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-07-04]生日就是要唱好多好多喜欢的歌🎂🎤 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wcMP6BEgd?p=9",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "会心の一撃",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-07-04]生日就是要唱好多好多喜欢的歌🎂🎤 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wcMP6BEgd?p=10",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "世界の真ん中を歩く",
+  "artist": "夏代孝明 feat. 初音ミク",
+  "collection": "【歌切】[2026-07-04]生日就是要唱好多好多喜欢的歌🎂🎤 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wcMP6BEgd?p=11",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-04]生日就是要唱好多好多喜欢的歌🎂🎤 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wcMP6BEgd?p=12",
   "source": "nanashirikka.js"
 }
 );
