@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 7/4/2026, 6:44:17 PM
+// 生成时间: 7/4/2026, 6:53:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17619,6 +17619,14 @@ window.SONG_DATA.push(
   "collection": "「失楽園 - Paradise Lost -」",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JgMK6uEDQ?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "「アンチグレースケープ」（反灰色景域）",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "「アンチグレースケープ」（反灰色景域）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pPMK6VEka?p=1",
   "source": "ririsya.js"
 }
 );
