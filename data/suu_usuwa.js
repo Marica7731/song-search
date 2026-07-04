@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 7/4/2026, 11:04:17 AM
+// 生成时间: 7/4/2026, 11:13:09 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21323,6 +21323,118 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】#143[2026-07-01]星期三的定期歌回回来了！自由卡拉OK大会举办！ 稀羽すう - Suu Usuwa -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LMTz6dErW?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🦢歌切】[2026-07-04]在明朗的午后时分，于此歌唱 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txMw6kEJZ?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "君と夏フェス",
+  "artist": "SHISHAMO",
+  "collection": "【🦢歌切】[2026-07-04]在明朗的午后时分，于此歌唱 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txMw6kEJZ?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【🦢歌切】[2026-07-04]在明朗的午后时分，于此歌唱 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txMw6kEJZ?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【🦢歌切】[2026-07-04]在明朗的午后时分，于此歌唱 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txMw6kEJZ?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-07-04]在明朗的午后时分，于此歌唱 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txMw6kEJZ?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "波乗りジョニー",
+  "artist": "桑田佳祐",
+  "collection": "【🦢歌切】[2026-07-04]在明朗的午后时分，于此歌唱 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txMw6kEJZ?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-07-04]在明朗的午后时分，于此歌唱 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txMw6kEJZ?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ブレインロット",
+  "artist": "東京真中 feat. 重音テト",
+  "collection": "【🦢歌切】[2026-07-04]在明朗的午后时分，于此歌唱 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txMw6kEJZ?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "長く短い祭",
+  "artist": "椎名林檎",
+  "collection": "【🦢歌切】[2026-07-04]在明朗的午后时分，于此歌唱 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txMw6kEJZ?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-07-04]在明朗的午后时分，于此歌唱 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txMw6kEJZ?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-07-04]在明朗的午后时分，于此歌唱 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txMw6kEJZ?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Never More",
+  "artist": "平田志穂子",
+  "collection": "【🦢歌切】[2026-07-04]在明朗的午后时分，于此歌唱 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txMw6kEJZ?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ダンスホール",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🦢歌切】[2026-07-04]在明朗的午后时分，于此歌唱 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txMw6kEJZ?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-07-04]在明朗的午后时分，于此歌唱 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txMw6kEJZ?p=14",
   "source": "suu_usuwa.js"
 }
 );
