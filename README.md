@@ -191,6 +191,7 @@ node scripts/update-song-growth.js
 - `sectionTitle`：只收录入口 BV 所属合集里标题完全匹配的小节。
 - `sectionTitles`：可配置多个要收录的小节标题。
 - `excludeSectionTitle` / `excludeSectionTitles`：从合集来源里排除指定小节，避免同一小节同时进入独立来源和“非常驻妹妹”。
+- `excludeBvids`：从某个来源的合集展开结果里排除指定 BV，适合单集应归属到其它合集来源的情况。
 - `archived`：设置为 `true` 时封存来源；索引和页面仍保留该来源，但 `scripts/update-songs.js` 不再刷新对应 `data/<file>.js`，此时 `bvids` 可为空。
 
 独立合集来源：

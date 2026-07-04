@@ -3151,6 +3151,7 @@ function normalizeSingerConfigItems(items, fromLabel = '配置') {
     copySingerConfigStringField(rawItem, normalizedItem, 'excludeSectionTitle', fromLabel, index);
     copySingerConfigStringArrayField(rawItem, normalizedItem, 'sectionTitles', fromLabel, index);
     copySingerConfigStringArrayField(rawItem, normalizedItem, 'excludeSectionTitles', fromLabel, index);
+    copySingerConfigStringArrayField(rawItem, normalizedItem, 'excludeBvids', fromLabel, index);
     return normalizedItem;
   });
 }

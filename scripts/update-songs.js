@@ -287,6 +287,16 @@ function buildSectionTitleSet(...values) {
     return result;
 }
 
+function buildBvidSet(values = []) {
+    const result = new Set();
+    if (!Array.isArray(values)) return result;
+    values.forEach(value => {
+        const bvid = extractBvPreserveCase(value);
+        if (bvid) result.add(bvid.toLowerCase());
+    });
+    return result;
+}
+
 function loadMetadataCache() {
     if (!fs.existsSync(METADATA_CACHE_PATH)) return {};
     try {
@@ -485,6 +495,7 @@ function collectEpisodeBvids(anchorMetadata, config = {}) {
     const episodeMap = new Map();
     const includeSectionTitles = buildSectionTitleSet(config.sectionTitle, config.sectionTitles || []);
     const excludeSectionTitles = buildSectionTitleSet(config.excludeSectionTitle, config.excludeSectionTitles || []);
+    const excludeBvids = buildBvidSet(config.excludeBvids || []);
 
     if (Array.isArray(anchorMetadata.sections) && anchorMetadata.sections.length > 0) {
         anchorMetadata.sections.forEach(section => {
@@ -492,16 +503,23 @@ function collectEpisodeBvids(anchorMetadata, config = {}) {
             if (includeSectionTitles.size > 0 && !includeSectionTitles.has(sectionTitle)) return;
             if (excludeSectionTitles.has(sectionTitle)) return;
             (section.episodes || []).forEach(episode => {
-                if (BV_REGEX.test(episode.bvid) && !episodeMap.has(episode.bvid)) {
-                    episodeMap.set(episode.bvid, episode);
+                const episodeBvid = extractBvPreserveCase(episode.bvid);
+                if (!episodeBvid || excludeBvids.has(episodeBvid.toLowerCase())) return;
+                if (BV_REGEX.test(episodeBvid) && !episodeMap.has(episodeBvid)) {
+                    episodeMap.set(episodeBvid, {
+                        ...episode,
+                        bvid: episodeBvid
+                    });
                 }
             });
         });
     }
 
-    if (episodeMap.size === 0 && includeSectionTitles.size === 0 && BV_REGEX.test(anchorMetadata.bvid)) {
-        episodeMap.set(anchorMetadata.bvid, {
-            bvid: anchorMetadata.bvid,
+    const anchorBvid = extractBvPreserveCase(anchorMetadata.bvid);
+    if (episodeMap.size === 0 && includeSectionTitles.size === 0 && anchorBvid && BV_REGEX.test(anchorBvid)) {
+        if (excludeBvids.has(anchorBvid.toLowerCase())) return [];
+        episodeMap.set(anchorBvid, {
+            bvid: anchorBvid,
             title: anchorMetadata.title,
             arcTitle: anchorMetadata.title,
             pagePart: anchorMetadata.pages?.[0]?.part || '',
