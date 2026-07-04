@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 7/4/2026, 11:19:10 AM
+// 生成时间: 7/4/2026, 11:29:48 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10483,6 +10483,70 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-07-03]七月的首次歌回🚤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6Mw6AEX6?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夢の中へ",
+  "artist": "井上陽水",
+  "collection": "【歌切】[2026-07-03]七月的首次歌回🚤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6Mw6AEX6?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "世界中の誰よりきっと",
+  "artist": "中山美穂 & WANDS",
+  "collection": "【歌切】[2026-07-03]七月的首次歌回🚤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6Mw6AEX6?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "遠いこの街で",
+  "artist": "皆谷尚美",
+  "collection": "【歌切】[2026-07-03]七月的首次歌回🚤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6Mw6AEX6?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ありがとう",
+  "artist": "木之本桜(丹下桜)",
+  "collection": "【歌切】[2026-07-03]七月的首次歌回🚤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6Mw6AEX6?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-07-03]七月的首次歌回🚤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6Mw6AEX6?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH//",
+  "collection": "【歌切】[2026-07-03]七月的首次歌回🚤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6Mw6AEX6?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ヒャダインのカカカタ☆カタオモイ-C",
+  "artist": "ヒャダイン",
+  "collection": "【歌切】[2026-07-03]七月的首次歌回🚤 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6Mw6AEX6?p=8",
   "source": "naraetan.js"
 },
     {
