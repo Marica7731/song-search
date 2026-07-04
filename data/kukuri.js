@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 7/4/2026, 11:06:31 AM
+// 生成时间: 7/4/2026, 11:16:43 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4099,6 +4099,110 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-06-28]和戸鎖一起度过美妙的30分钟吧🌟 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13gKS63Ekc?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "最後の恋",
+  "artist": "奥華子",
+  "collection": "【💫✖歌切】[2026-07-03]转眼间就是七月了呢，歌回🎋 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wrMw6aETT?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "楔-くさび-",
+  "artist": "奥華子",
+  "collection": "【💫✖歌切】[2026-07-03]转眼间就是七月了呢，歌回🎋 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wrMw6aETT?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【💫✖歌切】[2026-07-03]转眼间就是七月了呢，歌回🎋 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wrMw6aETT?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "クラゲ、流れ星",
+  "artist": "大塚愛",
+  "collection": "【💫✖歌切】[2026-07-03]转眼间就是七月了呢，歌回🎋 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wrMw6aETT?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "恋愛写真",
+  "artist": "大塚愛",
+  "collection": "【💫✖歌切】[2026-07-03]转眼间就是七月了呢，歌回🎋 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wrMw6aETT?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "優しい彗星",
+  "artist": "YOASOBI",
+  "collection": "【💫✖歌切】[2026-07-03]转眼间就是七月了呢，歌回🎋 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wrMw6aETT?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "片っぽ",
+  "artist": "eill",
+  "collection": "【💫✖歌切】[2026-07-03]转眼间就是七月了呢，歌回🎋 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wrMw6aETT?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "フィナーレ。",
+  "artist": "eill",
+  "collection": "【💫✖歌切】[2026-07-03]转眼间就是七月了呢，歌回🎋 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wrMw6aETT?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Wishing",
+  "artist": "レム(CV:水瀬いのり)",
+  "collection": "【💫✖歌切】[2026-07-03]转眼间就是七月了呢，歌回🎋 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wrMw6aETT?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Stay Alive",
+  "artist": "エミリア(CV:高橋李依)",
+  "collection": "【💫✖歌切】[2026-07-03]转眼间就是七月了呢，歌回🎋 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wrMw6aETT?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "燈",
+  "artist": "崎山蒼志",
+  "collection": "【💫✖歌切】[2026-07-03]转眼间就是七月了呢，歌回🎋 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wrMw6aETT?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "glow",
+  "artist": "keeno feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-07-03]转眼间就是七月了呢，歌回🎋 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wrMw6aETT?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-07-03]转眼间就是七月了呢，歌回🎋 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wrMw6aETT?p=13",
   "source": "kukuri.js"
 }
 );
