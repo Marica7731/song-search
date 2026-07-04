@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3
-// 生成时间: 7/4/2026, 2:28:54 PM
+// 生成时间: 7/4/2026, 2:38:12 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -35731,6 +35731,158 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-07-02]初見さん歓迎中！7月初めまして！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1srTn6nEPo?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "サトシ with ピカチュウ（松本梨香・大谷育江）",
+  "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ケロッ!とマーチ",
+  "artist": "角田信朗・いはたじゅり",
+  "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "学園天国",
+  "artist": "フィンガー5",
+  "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛",
+  "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "YUME日和",
+  "artist": "島谷ひとみ",
+  "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "フリージア",
+  "artist": "Uru",
+  "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "タッチ",
+  "artist": "岩崎良美",
+  "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "キミに100パーセント",
+  "artist": "きゃりーぱみゅぱみゅ",
+  "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "となりのトトロ",
+  "artist": "井上あずみ",
+  "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "崖の上のポニョ",
+  "artist": "藤岡藤巻と大橋のぞみ",
+  "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "はじめてのチュウ",
+  "artist": "あんしんパパ",
+  "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP) feat. GUMI",
+  "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=19",
   "source": "yoshika.js"
 }
 );
