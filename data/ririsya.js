@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 7/5/2026, 12:52:29 AM
+// 生成时间: 7/5/2026, 1:02:39 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17619,6 +17619,198 @@ window.SONG_DATA.push(
   "collection": "「失楽園 - Paradise Lost -」",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JgMK6uEDQ?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Rain",
+  "artist": "秦基博",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "RAIN",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "眠り姫",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "幻の命",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "最後の雨",
+  "artist": "中西保志",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "I remember you",
+  "artist": "YUI",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "奏（かなで）",
+  "artist": "スキマスイッチ",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "you",
+  "artist": "癒月",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "鳥の詩",
+  "artist": "Lia",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "流星群",
+  "artist": "鬼束ちひろ",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "私とワルツを",
+  "artist": "鬼束ちひろ",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "風の谷のナウシカ",
+  "artist": "安田成美",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "時には昔の話を",
+  "artist": "加藤登紀子",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=18",
+  "source": "ririsya.js"
+},
+    {
+  "title": "金魚花火",
+  "artist": "大塚愛",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=19",
+  "source": "ririsya.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=20",
+  "source": "ririsya.js"
+},
+    {
+  "title": "TSUNAMI",
+  "artist": "サザンオールスターズ",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=21",
+  "source": "ririsya.js"
+},
+    {
+  "title": "真夏の果実",
+  "artist": "サザンオールスターズ",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=22",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Departures ～あなたにおくるアイの歌～",
+  "artist": "EGOIST",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=23",
+  "source": "ririsya.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=24",
   "source": "ririsya.js"
 }
 );
