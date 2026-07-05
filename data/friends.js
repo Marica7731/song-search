@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 7/5/2026, 10:21:10 PM
+// 生成时间: 7/5/2026, 10:31:26 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2595,6 +2595,70 @@ window.SONG_DATA.push(
   "collection": "「アンチグレースケープ」（反灰色景域）",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pPMK6VEka?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "七海うらら*歌channel歌切 2026-07-05",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REVn?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "七海うらら*歌channel歌切 2026-07-05",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REVn?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "夜咄ディセイブ",
+  "artist": "じん feat. IA",
+  "collection": "七海うらら*歌channel歌切 2026-07-05",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REVn?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "きゅうくらりん",
+  "artist": "いよわ feat. 可不",
+  "collection": "七海うらら*歌channel歌切 2026-07-05",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REVn?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "チュルリラ・チュルリラ・ダッダッダ！",
+  "artist": "和田たけあき feat. 結月ゆかり",
+  "collection": "七海うらら*歌channel歌切 2026-07-05",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REVn?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "七海うらら*歌channel歌切 2026-07-05",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REVn?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n / 中島愛",
+  "collection": "七海うらら*歌channel歌切 2026-07-05",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REVn?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "神のまにまに",
+  "artist": "れるりり feat. 初音ミク・鏡音リン・GUMI",
+  "collection": "七海うらら*歌channel歌切 2026-07-05",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REVn?p=8",
   "source": "friends.js"
 }
 );
