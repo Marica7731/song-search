@@ -1,6 +1,6 @@
 // 鈴花いのり - 歌单数据 (多合集汇总)
 // 来源: BV1jyjK6sEns
-// 生成时间: 7/5/2026, 10:09:13 PM
+// 生成时间: 7/5/2026, 10:18:08 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -579,6 +579,294 @@ window.SONG_DATA.push(
   "collection": "鈴花いのり - Suzuhana Inori -歌切 2026-06-28 星期日定期𝜗𝜚.⋆ 点歌歌回♡ 新观众也非常欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QgKS63E8t?p=37",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=1",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "CRAZY FOR YOU",
+  "artist": "Kylee",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=2",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=3",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=4",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "眩しいDNAだけ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=5",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "泣き虫アンサンブル",
+  "artist": "西沢さんP feat. GUMI",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=6",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "食虫植物",
+  "artist": "理芽",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=7",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "サイノウサンプラー",
+  "artist": "電ポルP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=8",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "シャンティ",
+  "artist": "wotaku feat. KAITO",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=9",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "腐れ外道とチョコレゐト",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=10",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "リンネ",
+  "artist": "ハチ feat. 初音ミク",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=11",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "color me dark",
+  "artist": "黒崎真音",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=12",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "足りない",
+  "artist": "DUSTCELL",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=13",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "チェリーポップ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=14",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=15",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "HELLO ～Paradise Kiss～",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=16",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ちゅ、多様性。",
+  "artist": "ano",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=17",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "I'll be the one",
+  "artist": "HΛL",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=18",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Get Over",
+  "artist": "dream",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=19",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "深い森",
+  "artist": "Do As Infinity",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=20",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Dearest",
+  "artist": "浜崎あゆみ",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=21",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "夜の国",
+  "artist": "Annabel",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=22",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Ham",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=23",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "サターン",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=24",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=25",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Northern lights",
+  "artist": "林原めぐみ",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=26",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=27",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "太陽曰く燃えよカオス",
+  "artist": "後ろから這いより隊G",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=28",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "い～やい～やい～や",
+  "artist": "Neru feat. 鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=29",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "はじまりのセツナ",
+  "artist": "蝋梅学園中等部1年3組",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=30",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ヨワネハキ feat. 和ぬか, asmi",
+  "artist": "MAISONdes",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=31",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "エウテルペ",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=32",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=33",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=34",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "crossing field",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=35",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "カラフル",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=36",
   "source": "suzuhanainori.js"
 }
 );
