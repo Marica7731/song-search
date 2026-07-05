@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 7/5/2026, 2:02:39 AM
+// 生成时间: 7/5/2026, 2:17:33 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8254,8 +8254,8 @@ window.SONG_DATA.push(
   "source": "kotatsu.js"
 },
     {
-  "title": "未确定",
-  "artist": "未确定",
+  "title": "時の歌",
+  "artist": "手嶌葵",
   "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=5",
@@ -8318,8 +8318,8 @@ window.SONG_DATA.push(
   "source": "kotatsu.js"
 },
     {
-  "title": "未确定",
-  "artist": "未确定",
+  "title": "淡々とした日常",
+  "artist": "夢見クジラ",
   "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=13",
