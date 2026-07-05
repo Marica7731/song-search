@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 7/5/2026, 10:07:47 PM
+// 生成时间: 7/5/2026, 10:18:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5563,6 +5563,174 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-06-30]6月最后，嘛❓为下半年充电吧￤澄花/ぷろぶる -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1biTe6wEV9?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "雨晴るる",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-05]新人也来玩吧！！中午悠闲地唱歌～～⟡.*￤澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6TU6REic?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "【💐🎸歌切】[2026-07-05]新人也来玩吧！！中午悠闲地唱歌～～⟡.*￤澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6TU6REic?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "メロウ",
+  "artist": "須田景凪",
+  "collection": "【💐🎸歌切】[2026-07-05]新人也来玩吧！！中午悠闲地唱歌～～⟡.*￤澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6TU6REic?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "ロクデナシ",
+  "collection": "【💐🎸歌切】[2026-07-05]新人也来玩吧！！中午悠闲地唱歌～～⟡.*￤澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6TU6REic?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "帰りの会",
+  "collection": "【💐🎸歌切】[2026-07-05]新人也来玩吧！！中午悠闲地唱歌～～⟡.*￤澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6TU6REic?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヨンジュウナナ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【💐🎸歌切】[2026-07-05]新人也来玩吧！！中午悠闲地唱歌～～⟡.*￤澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6TU6REic?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【💐🎸歌切】[2026-07-05]新人也来玩吧！！中午悠闲地唱歌～～⟡.*￤澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6TU6REic?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-05]新人也来玩吧！！中午悠闲地唱歌～～⟡.*￤澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6TU6REic?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "センス・オブ・ワンダー",
+  "artist": "sumika",
+  "collection": "【💐🎸歌切】[2026-07-05]新人也来玩吧！！中午悠闲地唱歌～～⟡.*￤澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6TU6REic?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "シアワセ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-07-05]新人也来玩吧！！中午悠闲地唱歌～～⟡.*￤澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6TU6REic?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-07-05]新人也来玩吧！！中午悠闲地唱歌～～⟡.*￤澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6TU6REic?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "シリウスの心臓",
+  "artist": "ヰ世界情緒",
+  "collection": "【💐🎸歌切】[2026-07-05]新人也来玩吧！！中午悠闲地唱歌～～⟡.*￤澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6TU6REic?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "SAKURA",
+  "artist": "いきものがかり",
+  "collection": "【💐🎸歌切】[2026-07-05]新人也来玩吧！！中午悠闲地唱歌～～⟡.*￤澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6TU6REic?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-07-05]新人也来玩吧！！中午悠闲地唱歌～～⟡.*￤澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6TU6REic?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "紋白蝶",
+  "artist": "東京スカパラダイスオーケストラ  feat. 石原慎也 (Saucy Dog)",
+  "collection": "【💐🎸歌切】[2026-07-05]新人也来玩吧！！中午悠闲地唱歌～～⟡.*￤澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6TU6REic?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【💐🎸歌切】[2026-07-05]新人也来玩吧！！中午悠闲地唱歌～～⟡.*￤澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6TU6REic?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "地獄恋文",
+  "artist": "tuki.",
+  "collection": "【💐🎸歌切】[2026-07-05]新人也来玩吧！！中午悠闲地唱歌～～⟡.*￤澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6TU6REic?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "センチメンタル・キス",
+  "artist": "汐れいら",
+  "collection": "【💐🎸歌切】[2026-07-05]新人也来玩吧！！中午悠闲地唱歌～～⟡.*￤澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6TU6REic?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【💐🎸歌切】[2026-07-05]新人也来玩吧！！中午悠闲地唱歌～～⟡.*￤澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6TU6REic?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "こんなよる",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-07-05]新人也来玩吧！！中午悠闲地唱歌～～⟡.*￤澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6TU6REic?p=20",
+  "source": "sumica.js"
+},
+    {
+  "title": "泣き虫上等",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-07-05]新人也来玩吧！！中午悠闲地唱歌～～⟡.*￤澄花/Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6TU6REic?p=21",
   "source": "sumica.js"
 }
 );
