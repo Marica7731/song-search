@@ -43,12 +43,15 @@
     "ibaramuan.js",
     "323.js",
     "minaton.js",
+    "culua.js",
     "others.js",
     "neno.js",
     "suzuhanainori.js",
     "chiyourachomi.js",
     "tamamachipue.js",
     "isshikiizu.js",
+    "hanamaruhareru.js",
+    "hanabasamikyo.js",
     "bv1qa9jb6eaw.js"
   ],
   "fileToAlias": {
@@ -95,12 +98,15 @@
     "toka10summer": "透夏",
     "ibaramuan": "茨むあん",
     "minaton": "みなとん",
+    "culua": "CULUA",
     "others": "非常驻妹妹",
     "neno": "碧生ねの",
     "suzuhanainori": "鈴花いのり",
     "chiyourachomi": "千代浦蝶美",
     "tamamachipue": "玉町ぷえ",
     "isshikiizu": "一色イズ",
+    "hanamaruhareru": "花丸晴琉",
+    "hanabasamikyo": "花鋏キョウ",
     "bv1qa9jb6eaw": "陽月るるふ"
   }
 }
