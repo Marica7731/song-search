@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 7/5/2026, 2:09:16 PM
+// 生成时间: 7/5/2026, 2:20:55 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -446,8 +446,8 @@ window.SONG_DATA.push(
   "source": "isshikiizu.js"
 },
     {
-  "title": "未确定",
-  "artist": "未确定",
+  "title": "イガク",
+  "artist": "原口沙輔 feat. 重音テト",
   "collection": "【歌切】[2026-07-04]目标是300赞👍‼ 我来唱歌了！🎙 一色イズ ⟡ Isshiki_IS",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1goMu6vEhs?p=8",
