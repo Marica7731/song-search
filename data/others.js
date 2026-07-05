@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp, BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/5/2026, 3:56:09 AM
+// 生成时间: 7/5/2026, 4:07:11 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14699,6 +14699,174 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "パドドゥ",
+  "artist": "ヨルシカ",
+  "collection": "ヨル紛イ歌切 2026-07-04 这次一定要复仇！蜡烛熄灭立即结束歌回🕯",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFMg6aE1b?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "451",
+  "artist": "ヨルシカ",
+  "collection": "ヨル紛イ歌切 2026-07-04 这次一定要复仇！蜡烛熄灭立即结束歌回🕯",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFMg6aE1b?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "ヨル紛イ歌切 2026-07-04 这次一定要复仇！蜡烛熄灭立即结束歌回🕯",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFMg6aE1b?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "魔性",
+  "artist": "ヨルシカ",
+  "collection": "ヨル紛イ歌切 2026-07-04 这次一定要复仇！蜡烛熄灭立即结束歌回🕯",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFMg6aE1b?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "ヨル紛イ歌切 2026-07-04 这次一定要复仇！蜡烛熄灭立即结束歌回🕯",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFMg6aE1b?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "ヨル紛イ歌切 2026-07-04 这次一定要复仇！蜡烛熄灭立即结束歌回🕯",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFMg6aE1b?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "火葬",
+  "artist": "ヨルシカ",
+  "collection": "ヨル紛イ歌切 2026-07-04 这次一定要复仇！蜡烛熄灭立即结束歌回🕯",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFMg6aE1b?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "又三郎",
+  "artist": "ヨルシカ",
+  "collection": "ヨル紛イ歌切 2026-07-04 这次一定要复仇！蜡烛熄灭立即结束歌回🕯",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFMg6aE1b?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "ヨル紛イ歌切 2026-07-04 这次一定要复仇！蜡烛熄灭立即结束歌回🕯",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFMg6aE1b?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "ヨル紛イ歌切 2026-07-04 这次一定要复仇！蜡烛熄灭立即结束歌回🕯",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFMg6aE1b?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "逃亡",
+  "artist": "ヨルシカ",
+  "collection": "ヨル紛イ歌切 2026-07-04 这次一定要复仇！蜡烛熄灭立即结束歌回🕯",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFMg6aE1b?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "爆弾魔",
+  "artist": "ヨルシカ",
+  "collection": "ヨル紛イ歌切 2026-07-04 这次一定要复仇！蜡烛熄灭立即结束歌回🕯",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFMg6aE1b?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "ヨル紛イ歌切 2026-07-04 这次一定要复仇！蜡烛熄灭立即结束歌回🕯",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFMg6aE1b?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "夕凪、某、花惑い",
+  "artist": "ヨルシカ",
+  "collection": "ヨル紛イ歌切 2026-07-04 这次一定要复仇！蜡烛熄灭立即结束歌回🕯",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFMg6aE1b?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "八月、某、月明かり",
+  "artist": "ヨルシカ",
+  "collection": "ヨル紛イ歌切 2026-07-04 这次一定要复仇！蜡烛熄灭立即结束歌回🕯",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFMg6aE1b?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "五月は花緑青の窓辺から",
+  "artist": "ヨルシカ",
+  "collection": "ヨル紛イ歌切 2026-07-04 这次一定要复仇！蜡烛熄灭立即结束歌回🕯",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFMg6aE1b?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "夜紛い",
+  "artist": "ヨルシカ",
+  "collection": "ヨル紛イ歌切 2026-07-04 这次一定要复仇！蜡烛熄灭立即结束歌回🕯",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFMg6aE1b?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "ヨル紛イ歌切 2026-07-04 这次一定要复仇！蜡烛熄灭立即结束歌回🕯",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFMg6aE1b?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "ヨル紛イ歌切 2026-07-04 这次一定要复仇！蜡烛熄灭立即结束歌回🕯",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFMg6aE1b?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "カトレア",
+  "artist": "ヨルシカ",
+  "collection": "ヨル紛イ歌切 2026-07-04 这次一定要复仇！蜡烛熄灭立即结束歌回🕯",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFMg6aE1b?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "あの夏に咲け",
+  "artist": "ヨルシカ",
+  "collection": "ヨル紛イ歌切 2026-07-04 这次一定要复仇！蜡烛熄灭立即结束歌回🕯",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFMg6aE1b?p=21",
   "source": "others.js"
 },
     {
