@@ -16,17 +16,20 @@ git status --short
 GitHub Pages / main：
 1. 只有用户明确说要改 GitHub 时才处理。
 2. 以 GitHub 云端 main 分支为准，不要相信本地 main 或旧目录。
-3. GitHub 侧只改配置，不改抓取逻辑。
-4. BV 号大小写必须保持用户给出的原样。
+3. GitHub 的来源配置不在 `scripts/singer-configs.json`；它在 `main:scripts/update-songs.js` 的内联 `SINGER_CONFIGS`。
+4. GitHub 的运行逻辑是 Puppeteer 访问 B 站网页，从入口 BV 页面解析候选合集并抽样；新增来源时只补入口 BV 配置行，不要迁移成 `culua.com` 的接口/JSON 流程。
+5. GitHub 侧只改配置，不改抓取逻辑，不触发 workflow，除非用户明确要求。
+6. BV 号大小写必须保持用户给出的原样。
 
 culua.com / codex/server-deploy：
 1. 本地配置是 scripts/singer-configs.json。
 2. 服务器运行时配置是 /var/lib/song-search/singer-configs.json，且会覆盖本地配置；添加来源时需要先备份再同步。
 3. 先用 B 站 view API 查询入口 BV：
    https://api.bilibili.com/x/web-interface/view?bvid=<BV号>
-4. 如果 ugc_season.sections 有小节，按小节拆来源时使用 sectionTitle / sectionTitles 精确匹配，并在 others 上加 excludeSectionTitles 避免重复。
-5. 如果没有 ugc_season.sections，只是普通多分P BV，不要加 sectionTitle；现有 scripts/update-songs.js 会把入口 BV 本身作为视频并读取 pages。
-6. 如果分P标题是 `with 嘉宾 02. 歌名 - 歌手`，应保留现有解析流程，只做兼容性清洗，不要破坏普通 `001. 歌名 - 歌手`；如果末尾只有分隔用的 `-`，清洗掉这个空歌手分隔符。
+4. culua.com 的运行逻辑是读取 JSON 配置后调用 B 站接口展开合集、分 P 和封面；不要照搬 GitHub 的网页抽样方式。
+5. 如果 ugc_season.sections 有小节，按小节拆来源时使用 sectionTitle / sectionTitles 精确匹配，并在 others 上加 excludeSectionTitles 避免重复。
+6. 如果没有 ugc_season.sections，只是普通多分P BV，不要加 sectionTitle；现有 scripts/update-songs.js 会把入口 BV 本身作为视频并读取 pages。
+7. 如果分P标题是 `with 嘉宾 02. 歌名 - 歌手`，应保留现有解析流程，只做兼容性清洗，不要破坏普通 `001. 歌名 - 歌手`；如果末尾只有分隔用的 `-`，清洗掉这个空歌手分隔符。
 
 验证：
 - node --check scripts/update-songs.js
@@ -43,6 +46,7 @@ culua.com / codex/server-deploy：
 2. 如果改来源配置，需要同步服务器 /var/lib/song-search/singer-configs.json 后运行：
    ssh culua "sudo -n /usr/bin/flock -n /tmp/song-search-refresh.lock /usr/local/bin/song-search-refresh.sh"
 3. 不要用单纯 git reset + restart 替代来源刷新。
+4. 如果只改 GitHub main 的内联来源配置，只推 main；不要部署 culua.com，也不要运行服务器刷新。
 
 提交：
 - 只 stage 本次相关文件。

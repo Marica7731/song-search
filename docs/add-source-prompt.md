@@ -12,18 +12,20 @@
 
 GitHub Pages / main 侧：
 1. 以 GitHub 云端 main 分支为准，不要相信本地 main 或旧目录。
-2. 只改 GitHub 云端的 scripts/update-songs.js 里的 SINGER_CONFIGS 配置项。
-3. 不要改 GitHub main 的抓取代码逻辑。
-4. BV 号大小写必须保持用户给出的原样。
+2. GitHub main 不读取 `scripts/singer-configs.json`。来源入口在 `scripts/update-songs.js` 的内联 `SINGER_CONFIGS`。
+3. GitHub main 的运行方式是 Puppeteer 打开 B 站网页，从入口 BV 页面解析候选合集 BV 并抽样；添加来源就是补入口 BV 配置，不要改成接口展开流程。
+4. 不要改 GitHub main 的抓取代码逻辑，不要触发 workflow，除非用户明确要求。
+5. BV 号大小写必须保持用户给出的原样。
 
 culua.com / codex/server-deploy 侧：
 1. 本地只在 C:\Users\终焉\Documents\culua_web_h5 修改。
 2. 来源配置优先改 scripts/singer-configs.json。
-3. 先用 B 站 view API 查询入口 BV 是否属于 ugc_season.sections。
-4. 如果入口 BV 属于合集小节，新增来源时加 sectionTitle 为接口返回的小节标题；同时在 非常驻妹妹 / others 上加 excludeSectionTitles，避免重复收录。
-5. 如果入口 BV 已经拆成独立合集，或只是独立 BV / 普通合集，不要乱加 sectionTitle；如果之前加过 sectionTitle，要移除并同步清理 others 的排除项。
-6. 服务器运行时配置 /var/lib/song-search/singer-configs.json 也要备份后同步同样的来源配置。
-7. 推送或通过 GitHub connector 更新 codex/server-deploy 后，运行 `sudo -n /usr/bin/flock -n /tmp/song-search-refresh.lock /usr/local/bin/song-search-refresh.sh` 发布。
+3. culua.com 的运行方式是读取 JSON 配置，调用 B 站 view API 展开合集、分 P 和封面；不要照搬 GitHub 的网页抽样逻辑。
+4. 先用 B 站 view API 查询入口 BV 是否属于 ugc_season.sections。
+5. 如果入口 BV 属于合集小节，新增来源时加 sectionTitle 为接口返回的小节标题；同时在 非常驻妹妹 / others 上加 excludeSectionTitles，避免重复收录。
+6. 如果入口 BV 已经拆成独立合集，或只是独立 BV / 普通合集，不要乱加 sectionTitle；如果之前加过 sectionTitle，要移除并同步清理 others 的排除项。
+7. 服务器运行时配置 /var/lib/song-search/singer-configs.json 也要备份后同步同样的来源配置。
+8. 推送或通过 GitHub connector 更新 codex/server-deploy 后，运行 `sudo -n /usr/bin/flock -n /tmp/song-search-refresh.lock /usr/local/bin/song-search-refresh.sh` 发布。
 
 验证：
 - node --check scripts/update-songs.js
@@ -35,6 +37,8 @@ culua.com / codex/server-deploy 侧：
 提交：
 - 只提交本次相关文件。
 - commit message 用中文，例如 feat: 新增 <来源名> 歌切来源。
+- 如果只处理 GitHub main，就只提交 `main:scripts/update-songs.js` 的来源配置；不要混入 `codex/server-deploy` 的文档、JSON 配置或服务器发布。
+- 如果只处理 culua.com，就提交 `codex/server-deploy` 的 JSON 配置和必要文档；不要混入 GitHub main 的数据更新提交。
 ```
 
 ## 删除来源提示
