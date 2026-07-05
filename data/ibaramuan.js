@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 7/5/2026, 10:07:27 PM
+// 生成时间: 7/5/2026, 10:18:09 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4131,6 +4131,222 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-03]或许是意外会让人沉迷的声音，欢迎初次光临。 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NhMw6uEj5?p=29",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ルーマー",
+  "artist": "ポリスピカデリー feat. GUMI",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "朝を呑む",
+  "artist": "バルーン feat. 初音ミク",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "セブンティーン",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "G4L",
+  "artist": "Giga",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "CH4NGE",
+  "artist": "Giga feat. 可不",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "スロウダウナー",
+  "artist": "ろくろ feat. 初音ミク・GUMI",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "パメラ",
+  "artist": "バルーン feat. v flower",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Shout Baby",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "上弦の月",
+  "artist": "黒うさP feat. KAITO",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "カンタレラ",
+  "artist": "黒うさP feat. KAITO・初音ミク",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "StaRt",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ゴールデンタイムラバー",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Can Do",
+  "artist": "GRANRODEO",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "脱獄",
+  "artist": "Neru feat. 鏡音リン",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Just Be Friends",
+  "artist": "Dixie Flatline feat. 巡音ルカ",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "深愛",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "このピアノでお前を8759632145回ぶん殴る",
+  "artist": "SLAVE.V-V-R feat. 猫村いろは",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "抜錨",
+  "artist": "ナナホシ管弦楽団 feat. 巡音ルカ",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "THE DAY",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "第六感",
+  "artist": "Reol",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=26",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アゲハ蝶",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=27",
   "source": "ibaramuan.js"
 }
 );
