@@ -108,6 +108,9 @@ const SINGER_CONFIGS = [
     { bvids: ["BV11GZtBcEsp","BV1xucZzxEkZ","BV117P2zwEuq","BV1LJ4m1A7FC"], file: "others", alias: "非常驻妹妹" },
     { bvids: ["BV1S4TT6pEn4"], file: "neno", alias: "碧生ねの" },
     { bvids: ["BV1jyjK6sEns"], file: "suzuhanainori", alias: "鈴花いのり" },
+    { bvids: ["BV1AFG66UEpL"], file: "chiyourachomi", alias: "千代浦蝶美" },
+    { bvids: ["BV1nUMP6vE7N"], file: "tamamachipue", alias: "玉町ぷえ" },
+    { bvids: ["BV1co7i6QEez"], file: "isshikiizu", alias: "一色イズ" },
     { bvids: ["BV1Qa9JB6EAw"], alias: "陽月るるふ" }
 ];
 
