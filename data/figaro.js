@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 7/5/2026, 3:11:16 AM
+// 生成时间: 7/5/2026, 3:20:39 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -32638,7 +32638,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "I AM",
+  "title": "RE:I AM",
   "artist": "Aimer",
   "collection": "【💐歌切】[2026-07-03]7月的第一次歌唱哦！ Figaro",
   "up": "前尘往事如昔故",
