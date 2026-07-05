@@ -46,6 +46,9 @@
     "others.js",
     "neno.js",
     "suzuhanainori.js",
+    "chiyourachomi.js",
+    "tamamachipue.js",
+    "isshikiizu.js",
     "bv1qa9jb6eaw.js"
   ],
   "fileToAlias": {
@@ -95,6 +98,9 @@
     "others": "非常驻妹妹",
     "neno": "碧生ねの",
     "suzuhanainori": "鈴花いのり",
+    "chiyourachomi": "千代浦蝶美",
+    "tamamachipue": "玉町ぷえ",
+    "isshikiizu": "一色イズ",
     "bv1qa9jb6eaw": "陽月るるふ"
   }
 }
