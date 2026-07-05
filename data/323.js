@@ -1,6 +1,6 @@
 // 323 - 歌单数据 (多合集汇总)
 // 来源: BV1r75B6LEwd
-// 生成时间: 7/5/2026, 10:19:18 PM
+// 生成时间: 7/5/2026, 10:33:11 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2323,6 +2323,38 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-25]欠债1亿日元！？评论全变成了超级留言！？真的假的…？！必须还钱啊啊啊 323",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gw7J6sEiW?p=16",
+  "source": "323.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-05]我是松软赛博格323！萝莉担当！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV171TU6HEeZ?p=1",
+  "source": "323.js"
+},
+    {
+  "title": "粛聖!! ロリ神レクイエム☆",
+  "artist": "しぐれうい（9さい）",
+  "collection": "【歌切】[2026-07-05]我是松软赛博格323！萝莉担当！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV171TU6HEeZ?p=2",
+  "source": "323.js"
+},
+    {
+  "title": "夏のメロウ",
+  "artist": "メル feat. 初音ミク",
+  "collection": "【歌切】[2026-07-05]我是松软赛博格323！萝莉担当！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV171TU6HEeZ?p=3",
+  "source": "323.js"
+},
+    {
+  "title": "フジヤマディスコ",
+  "artist": "SILENT SIREN",
+  "collection": "【歌切】[2026-07-05]我是松软赛博格323！萝莉担当！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV171TU6HEeZ?p=4",
   "source": "323.js"
 }
 );
