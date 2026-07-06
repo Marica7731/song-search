@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 7/6/2026, 3:03:50 PM
+// 生成时间: 7/6/2026, 3:16:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8350,7 +8350,7 @@ window.SONG_DATA.push(
   "source": "kotatsu.js"
 },
     {
-  "title": "前前前世",
+  "title": "スパークル",
   "artist": "RADWIMPS",
   "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
