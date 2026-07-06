@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/6/2026, 9:58:38 PM
+// 生成时间: 7/6/2026, 10:07:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2795,94 +2795,6 @@ window.SONG_DATA.push(
   "collection": "七海うらら*歌channel歌切 2026-06-30 与MaiR酱的联动歌回！庆祝七海Urara首次Zepp演出",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ghTe6vE27?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "God knows...",
-  "artist": "涼宮ハルヒ(CV.平野綾)",
-  "collection": "七海うらら*歌channel歌切 2026-06-30 与MaiR酱的联动歌回！庆祝七海Urara首次Zepp演出",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ghTe6vE27?p=5",
-  "source": "others.js"
-},
-    {
-  "title": "君の知らない物語",
-  "artist": "supercell",
-  "collection": "七海うらら*歌channel歌切 2026-06-30 与MaiR酱的联动歌回！庆祝七海Urara首次Zepp演出",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ghTe6vE27?p=6",
-  "source": "others.js"
-},
-    {
-  "title": "「アンチグレースケープ」（反灰色景域）",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "「アンチグレースケープ」（反灰色景域）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pPMK6VEka?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "ハム太郎とっとこうた",
-  "artist": "ハムちゃんず",
-  "collection": "七海うらら*歌channel歌切 2026-07-05",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1J6TU6REVn?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "ヴァンパイア",
-  "artist": "DECO*27 feat. 初音ミク",
-  "collection": "七海うらら*歌channel歌切 2026-07-05",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1J6TU6REVn?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "夜咄ディセイブ",
-  "artist": "じん feat. IA",
-  "collection": "七海うらら*歌channel歌切 2026-07-05",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1J6TU6REVn?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "きゅうくらりん",
-  "artist": "いよわ feat. 可不",
-  "collection": "七海うらら*歌channel歌切 2026-07-05",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1J6TU6REVn?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "チュルリラ・チュルリラ・ダッダッダ！",
-  "artist": "和田たけあき feat. 結月ゆかり",
-  "collection": "七海うらら*歌channel歌切 2026-07-05",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1J6TU6REVn?p=5",
-  "source": "others.js"
-},
-    {
-  "title": "いけないボーダーライン",
-  "artist": "ワルキューレ",
-  "collection": "七海うらら*歌channel歌切 2026-07-05",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1J6TU6REVn?p=6",
-  "source": "others.js"
-},
-    {
-  "title": "ライオン",
-  "artist": "May'n / 中島愛",
-  "collection": "七海うらら*歌channel歌切 2026-07-05",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1J6TU6REVn?p=7",
-  "source": "others.js"
-},
-    {
-  "title": "神のまにまに",
-  "artist": "れるりり feat. 初音ミク・鏡音リン・GUMI",
-  "collection": "七海うらら*歌channel歌切 2026-07-05",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1J6TU6REVn?p=8",
   "source": "others.js"
 },
     {
