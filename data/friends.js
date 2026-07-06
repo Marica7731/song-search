@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 7/6/2026, 9:58:17 PM
+// 生成时间: 7/6/2026, 10:13:15 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2659,6 +2659,126 @@ window.SONG_DATA.push(
   "collection": "七海うらら*歌channel歌切 2026-07-05",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J6TU6REVn?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "Dramatic Parade",
+  "artist": "Alt!!",
+  "collection": "Palette Project Channel歌切 2026-07-05 免费3D LIVE！等不及要感谢祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXTU62E61?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "トキメキ禁断症状",
+  "artist": "RouteHeart",
+  "collection": "Palette Project Channel歌切 2026-07-05 免费3D LIVE！等不及要感谢祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXTU62E61?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "ココロステップ",
+  "artist": "Altimate!!",
+  "collection": "Palette Project Channel歌切 2026-07-05 免费3D LIVE！等不及要感谢祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXTU62E61?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "願い星",
+  "artist": "Altimate!!",
+  "collection": "Palette Project Channel歌切 2026-07-05 免费3D LIVE！等不及要感谢祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXTU62E61?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "ラブ・ラビリンス",
+  "artist": "RouteHeart",
+  "collection": "Palette Project Channel歌切 2026-07-05 免费3D LIVE！等不及要感谢祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXTU62E61?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "Close to You",
+  "artist": "REGALILIA",
+  "collection": "Palette Project Channel歌切 2026-07-05 免费3D LIVE！等不及要感谢祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXTU62E61?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "快進劇",
+  "artist": "REGALILIA",
+  "collection": "Palette Project Channel歌切 2026-07-05 免费3D LIVE！等不及要感谢祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXTU62E61?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "エンリの花",
+  "artist": "REGALILIA",
+  "collection": "Palette Project Channel歌切 2026-07-05 免费3D LIVE！等不及要感谢祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXTU62E61?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "キライラ",
+  "artist": "REGALILIA",
+  "collection": "Palette Project Channel歌切 2026-07-05 免费3D LIVE！等不及要感谢祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXTU62E61?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "Demon Drivers",
+  "artist": "REGALILIA",
+  "collection": "Palette Project Channel歌切 2026-07-05 免费3D LIVE！等不及要感谢祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXTU62E61?p=10",
+  "source": "friends.js"
+},
+    {
+  "title": "Starry☆Melody",
+  "artist": "Sputrip",
+  "collection": "Palette Project Channel歌切 2026-07-05 免费3D LIVE！等不及要感谢祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXTU62E61?p=11",
+  "source": "friends.js"
+},
+    {
+  "title": "Like A Night Cruising",
+  "artist": "Sputrip",
+  "collection": "Palette Project Channel歌切 2026-07-05 免费3D LIVE！等不及要感谢祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXTU62E61?p=12",
+  "source": "friends.js"
+},
+    {
+  "title": "トイ×トイ☆パーティー！",
+  "artist": "Sputrip",
+  "collection": "Palette Project Channel歌切 2026-07-05 免费3D LIVE！等不及要感谢祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXTU62E61?p=13",
+  "source": "friends.js"
+},
+    {
+  "title": "with your JOURNEY",
+  "artist": "Sputrip",
+  "collection": "Palette Project Channel歌切 2026-07-05 免费3D LIVE！等不及要感谢祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXTU62E61?p=14",
+  "source": "friends.js"
+},
+    {
+  "title": "光の惑星",
+  "artist": "Sputrip",
+  "collection": "Palette Project Channel歌切 2026-07-05 免费3D LIVE！等不及要感谢祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXTU62E61?p=15",
   "source": "friends.js"
 }
 );
