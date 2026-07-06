@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 7/6/2026, 2:45:30 AM
+// 生成时间: 7/6/2026, 2:55:00 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7991,22 +7991,22 @@ window.SONG_DATA.push(
 },
     {
   "title": "BABY BABY",
-  "artist": "銀杏BOYZ",
+  "artist": "GOING STEADY",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nH8zziE3w?p=8",
   "source": "ririsya.js"
 },
     {
-  "title": "めざせポケモンマスター -with my friends",
-  "artist": "- 松本梨香",
+  "title": "めざせポケモンマスター -with my friends-",
+  "artist": "サトシ（松本梨香）",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nH8zziE3w?p=9",
   "source": "ririsya.js"
 },
     {
-  "title": "はじめてのチュウ キテレツ大百科 ED",
+  "title": "はじめてのチュウ",
   "artist": "あんしんパパ",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
@@ -8038,7 +8038,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "Bunny girl",
+  "title": "Bunny Girl",
   "artist": "AKASAKI",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
@@ -8055,7 +8055,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いかないで",
-  "artist": "まふまふ",
+  "artist": "想太 feat. 歌愛ユキ",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nH8zziE3w?p=16",
@@ -8063,14 +8063,14 @@ window.SONG_DATA.push(
 },
     {
   "title": "よるがくればまた",
-  "artist": "和田たけあき feat. 初音ミク",
+  "artist": "くらげP feat. 初音ミク",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nH8zziE3w?p=17",
   "source": "ririsya.js"
 },
     {
-  "title": "吉原ラメント feat. 重音テト",
+  "title": "吉原ラメント",
   "artist": "亜沙 feat. 重音テト",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
@@ -8078,8 +8078,8 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "幽霊東京／Ayase",
-  "artist": "Ayase",
+  "title": "幽霊東京",
+  "artist": "Ayase feat. 初音ミク",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nH8zziE3w?p=19",
@@ -8094,7 +8094,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "ヴィーナスとジーザス (RADIO ONSEN EUTOPIA)",
+  "title": "ヴィーナスとジーザス",
   "artist": "やくしまるえつこ",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
@@ -8111,7 +8111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "sweets parade",
-  "artist": "花澤香菜",
+  "artist": "髏々宮カルタ（花澤香菜）",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nH8zziE3w?p=23",
@@ -8150,7 +8150,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "Don't say we are lazy",
+  "title": "Don't say \"lazy\"",
   "artist": "桜高軽音部",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
@@ -8158,15 +8158,15 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "Happy Jam Jam",
-  "artist": "ドリーミング",
+  "title": "ハッピー・ジャムジャム",
+  "artist": "しまじろう・みみりん・とりっぴい・らむりん",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nH8zziE3w?p=29",
   "source": "ririsya.js"
 },
     {
-  "title": "Sazae San",
+  "title": "サザエさん",
   "artist": "宇野ゆう子",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
@@ -8190,7 +8190,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "ANPAN MAN TAISO U",
+  "title": "アンパンマンたいそう",
   "artist": "ドリーミング",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
