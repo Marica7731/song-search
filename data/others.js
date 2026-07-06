@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/6/2026, 10:07:59 PM
+// 生成时间: 7/6/2026, 10:24:40 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2794,7 +2794,7 @@ window.SONG_DATA.push(
   "artist": "LiSA",
   "collection": "七海うらら*歌channel歌切 2026-06-30 与MaiR酱的联动歌回！庆祝七海Urara首次Zepp演出",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ghTe6vE27?p=4",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REyA?p=4",
   "source": "others.js"
 },
     {
