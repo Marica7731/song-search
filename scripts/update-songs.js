@@ -114,7 +114,8 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1co7i6QEez"], file: "isshikiizu", alias: "一色イズ" },
     { bvids: ["BV1jaYQeUEgM"], file: "hanamaruhareru", alias: "花丸晴琉" },
     { bvids: ["BV1H9ekeiEaB"], file: "hanabasamikyo", alias: "花鋏キョウ" },
-    { bvids: ["BV1Qa9JB6EAw"], alias: "陽月るるふ" }
+    { bvids: ["BV1Qa9JB6EAw"], alias: "陽月るるふ" },
+    { bvids: ["BV1oeMx6WEve"], file: "ronaru", alias: "炉なる" }
 ];
 
 function resolveConfig(config) {
