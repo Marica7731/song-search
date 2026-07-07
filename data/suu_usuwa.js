@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 7/7/2026, 7:56:19 PM
+// 生成时间: 7/7/2026, 8:05:37 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5854,7 +5854,7 @@ window.SONG_DATA.push(
   "source": "suu_usuwa.js"
 },
     {
-  "title": "都落ち（落京）",
+  "title": "都落ち",
   "artist": "ヨルシカ",
   "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
   "up": "前尘往事如昔故",
@@ -20838,7 +20838,7 @@ window.SONG_DATA.push(
   "source": "suu_usuwa.js"
 },
     {
-  "title": "だから僕は音楽をやめた",
+  "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
   "collection": "【🦢歌切】[2026-04-23]作业用BGM歌回！配合番茄钟计时，希望也能成为你工作的陪伴～ 稀羽すう - Suu Usuwa",
   "up": "前尘往事如昔故",
