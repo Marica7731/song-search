@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 7/7/2026, 2:27:11 PM
+// 生成时间: 7/7/2026, 2:36:27 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5011,6 +5011,438 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-29]目标400赞！感谢4600位订阅者✨ 欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VtTw67EA6?p=9",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Wind Climbing～風にあそばれて～",
+  "artist": "奥井亜紀",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=1",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ツキアカリのミチシルベ",
+  "artist": "ステレオポニー",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=2",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=3",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=4",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "The Everlasting Guilty Crown",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=5",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=6",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=7",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "夕立のりぼん",
+  "artist": "みきとP feat. MAYU",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=8",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ETERNAL WIND～ほほえみは光る風の中～",
+  "artist": "森口博子",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=9",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=10",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "秘密基地",
+  "artist": "高田梢枝",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=11",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ホシキラ",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=12",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ラブレター",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=13",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=14",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "星が瞬くこんな夜に",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=15",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "そこに空があるから",
+  "artist": "江崎とし子",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=16",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "そばかす",
+  "artist": "JUDY AND MARY",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=17",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "涙そうそう",
+  "artist": "夏川りみ",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=18",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=19",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=20",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Jupiter",
+  "artist": "平原綾香",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=21",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "愛・おぼえていますか",
+  "artist": "飯島真理",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=22",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ダイアモンド クレバス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=23",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "RE:I AM",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=24",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Automatic",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=25",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Everything",
+  "artist": "MISIA",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=26",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "天城越え",
+  "artist": "石川さゆり",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=27",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "嵐の中で輝いて",
+  "artist": "米倉千尋",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=28",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ninelie",
+  "artist": "Aimer with chelly(EGOIST)",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=29",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=30",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=31",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師, 宇多田ヒカル",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=32",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=33",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "勇者",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=34",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Beginner",
+  "artist": "AKB48",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=35",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "根も葉もRumor",
+  "artist": "AKB48",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=36",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "sakura",
+  "artist": "NIRGILIS",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=37",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH//",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=38",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "エルフ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=39",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=40",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "私がモテないのはどう考えてもお前らが悪い",
+  "artist": "鈴木このみ n' キバオブアキバ",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=41",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "童話迷宮",
+  "artist": "田村ゆかり",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=42",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "The Everlasting Guilty Crown",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=43",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "キセキ",
+  "artist": "GReeeeN",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=44",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=45",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "みくみくにしてあげる♪【してやんよ】",
+  "artist": "ika feat. 初音ミク",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=46",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=47",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ダブルラリアット",
+  "artist": "アゴアニキ feat. 巡音ルカ",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=48",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=49",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ソワレ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=50",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=51",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=52",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ベリーメロン～私の心をつかんだ良いメロン～",
+  "artist": "ビクトリーム(若本規夫)",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=53",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "蛍の光",
+  "artist": "唱歌",
+  "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=54",
   "source": "chiyutori .js"
 }
 );
