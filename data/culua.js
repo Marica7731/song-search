@@ -1,6 +1,6 @@
 // CULUA - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp
-// 生成时间: 7/7/2026, 1:38:17 PM
+// 生成时间: 7/7/2026, 1:45:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4043,6 +4043,94 @@ window.SONG_DATA.push(
   "collection": "【🦇歌切】[2026-07-06]唱歌，舒缓的歌单第34弹",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1u9Mt6JEgC?p=8",
+  "source": "culua.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=1",
+  "source": "culua.js"
+},
+    {
+  "title": "歌よ",
+  "artist": "Belle",
+  "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=2",
+  "source": "culua.js"
+},
+    {
+  "title": "フクロウ 〜フクロウが知らせる客が来たと〜",
+  "artist": "KOKIA",
+  "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=3",
+  "source": "culua.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat. 安次嶺希和子",
+  "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=4",
+  "source": "culua.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=5",
+  "source": "culua.js"
+},
+    {
+  "title": "soundless voice",
+  "artist": "ひとしずくP feat. 鏡音レン",
+  "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=6",
+  "source": "culua.js"
+},
+    {
+  "title": "六兆年と一夜物語",
+  "artist": "kemu feat. IA",
+  "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=7",
+  "source": "culua.js"
+},
+    {
+  "title": "asphyxia",
+  "artist": "Cö shu Nie",
+  "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=8",
+  "source": "culua.js"
+},
+    {
+  "title": "エウテルペ",
+  "artist": "EGOIST",
+  "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=9",
+  "source": "culua.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=10",
+  "source": "culua.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=11",
   "source": "culua.js"
 }
 );
