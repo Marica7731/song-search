@@ -1,6 +1,6 @@
 // CULUA - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp
-// 生成时间: 7/7/2026, 4:46:01 AM
+// 生成时间: 7/7/2026, 4:58:22 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3979,6 +3979,70 @@ window.SONG_DATA.push(
   "collection": "【🦇歌切】[2026-06-29]唱歌 | 舒缓的歌单第33弹 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bkKR69EWy?p=7",
+  "source": "culua.js"
+},
+    {
+  "title": "Prayer X",
+  "artist": "King Gnu",
+  "collection": "【🦇歌切】[2026-07-06]唱歌，舒缓的歌单第34弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u9Mt6JEgC?p=1",
+  "source": "culua.js"
+},
+    {
+  "title": "奈落",
+  "artist": "みきとP",
+  "collection": "【🦇歌切】[2026-07-06]唱歌，舒缓的歌单第34弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u9Mt6JEgC?p=2",
+  "source": "culua.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師, 宇多田ヒカル",
+  "collection": "【🦇歌切】[2026-07-06]唱歌，舒缓的歌单第34弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u9Mt6JEgC?p=3",
+  "source": "culua.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【🦇歌切】[2026-07-06]唱歌，舒缓的歌单第34弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u9Mt6JEgC?p=4",
+  "source": "culua.js"
+},
+    {
+  "title": "暗く黒く",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【🦇歌切】[2026-07-06]唱歌，舒缓的歌单第34弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u9Mt6JEgC?p=5",
+  "source": "culua.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太 feat. 歌愛ユキ",
+  "collection": "【🦇歌切】[2026-07-06]唱歌，舒缓的歌单第34弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u9Mt6JEgC?p=6",
+  "source": "culua.js"
+},
+    {
+  "title": "いきのこり●ぼくら",
+  "artist": "青葉市子",
+  "collection": "【🦇歌切】[2026-07-06]唱歌，舒缓的歌单第34弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u9Mt6JEgC?p=7",
+  "source": "culua.js"
+},
+    {
+  "title": "Just Be Friends",
+  "artist": "Dixie Flatline feat. 巡音ルカ",
+  "collection": "【🦇歌切】[2026-07-06]唱歌，舒缓的歌单第34弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1u9Mt6JEgC?p=8",
   "source": "culua.js"
 }
 );
