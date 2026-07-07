@@ -89,6 +89,26 @@
       ]
     },
     {
+      canonical: '真夜中のドア~stay with me',
+      aliases: [
+        '真夜中のドア～stay with me',
+        '真夜中のドア〜stay with me',
+        '真夜中のドア 〜Stay With Me',
+        '真夜中のドア Stay With Me',
+        '真夜中のドア stay with me',
+        '真夜中のドア〜Stay With Me'
+      ]
+    },
+    {
+      canonical: 'danzen!ふたりはプリキュア',
+      aliases: [
+        'DANZEN！ふたりはプリキュア',
+        'DANZEN!ふたりはプリキュア',
+        'DANZEN！ふたりはプリキュア(Ver.Max Heart)',
+        'DANZEN!ふたりはプリキュア (ver.MaxHeart)'
+      ]
+    },
+    {
       canonical: 'departures ~あなたにおくるアイの歌~',
       aliases: [
         'Departures ～あなたにおくるアイの歌～',
@@ -118,7 +138,18 @@
       aliases: [
         'すずめ',
         'すずめ feat.十明',
-        'すずめ feat. 十明'
+        'すずめ feat. 十明',
+        'すずめ feat. 十明 「すずめの戸締まり」主題歌',
+        'すずめ feat .十明'
+      ]
+    },
+    {
+      canonical: 'アイドルでよかった',
+      aliases: [
+        'アイドルでよかった',
+        'アイドルでよかった。',
+        'アイドルでよかった (feat.HoneyWorks)',
+        'アイドルでよかった(feat.HoneyWorks)'
       ]
     },
     {
@@ -342,10 +373,39 @@
     return map;
   }, new Map());
 
+  function trimTitleIdentityNoise(titleKey) {
+    let value = normalizeString(titleKey);
+    if (!value) return '';
+    if (/^rise\s+feat\s*\.?\s*lita\s+ver\.?$/.test(value)) return value;
+    if (/^ray[（(]\s*超かぐや姫/i.test(value)) return value;
+    if (/ワールドイズマイン\s*cpk!\s*remix/i.test(value)) return value;
+
+    value = value
+      .replace(/^\[(?:short\s*ver\.?|volume warning)\]\s*/i, ' ')
+      .replace(/[（(]\s*feat\.?\s*[^）)]*[）)]/gi, ' ')
+      .replace(/[（(]\s*(?:ちょっと|[^）)]*(?:short|movie|acoustic|piano|ver\.?|アコースティック|ピアノ|シングル)[^）)]*)[）)]/gi, ' ')
+      .replace(/\s+feat\s*\.?\s+.*$/i, ' ')
+      .replace(/\s+feat\s*\.\s*.*$/i, ' ')
+      .replace(/\s*\((?:途中で歌詞が|仕切り直し|歌い直し|short|short ver\.?|ver\.?)\)\s*$/i, ' ')
+      .replace(/\s*（(?:途中で歌詞が|仕切り直し|歌い直し|short|short ver\.?|ver\.?)）\s*$/i, ' ')
+      .replace(/\s+new\s+arrange\s+ver\.?$/i, ' ')
+      .replace(/\s+2022\s*ver\.?$/i, ' ')
+      .replace(/\s+(?:movie(?:\s*edit)?|short|piano|acoustic|arrange|アコースティック|ピアノ|シングル)\s*ver\.?$/i, ' ')
+      .replace(/\s*[-~ｰ]\s*[^-~ｰ]*(?:ver\.?|version|arrange|アレンジ|piano|ピアノ|acoustic|アコースティック|solo|clock mercy|zz)[^-~ｰ]*[-~ｰ]?\s*$/i, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+
+    return value || normalizeString(titleKey);
+  }
+
   function normalizeSongTitleKey(title) {
     const normalized = normalizeString(title || '未知歌曲');
     const canonical = TITLE_CANONICAL_ALIAS_MAP.get(normalized);
     if (canonical) return canonical;
+    const trimmed = trimTitleIdentityNoise(normalized);
+    if (trimmed && trimmed !== normalized) {
+      return TITLE_CANONICAL_ALIAS_MAP.get(trimmed) || trimmed;
+    }
     return normalized;
   }
 
@@ -514,9 +574,14 @@
   }
 
   function hasContinuousCommonStr(str1, str2, minLength) {
-    const threshold = Number.isFinite(minLength) ? Math.max(1, minLength) : 2;
     const s1 = normalizeString(str1);
     const s2 = normalizeString(str2);
+    const isAsciiLike = value => /^[a-z0-9\s._\-\/&+*'"!()[\]{}]+$/.test(value);
+    const hasLatinToken = value => /[a-z0-9]/.test(value);
+    const bothAsciiLike = isAsciiLike(s1) && isAsciiLike(s2);
+    const bothHaveLatinToken = hasLatinToken(s1) && hasLatinToken(s2);
+    const thresholdBase = Number.isFinite(minLength) ? Math.max(1, minLength) : 2;
+    const threshold = (bothAsciiLike || bothHaveLatinToken) ? Math.max(4, thresholdBase) : thresholdBase;
     if (s1.length < threshold || s2.length < threshold) return false;
     for (let i = 0; i <= s1.length - threshold; i += 1) {
       const subStr = s1.substring(i, i + threshold);
@@ -533,6 +598,8 @@
     for (const left of variantsA) {
       for (const right of variantsB) {
         if (left === right) return true;
+        if (left.length >= 3 && right.includes(left)) return true;
+        if (right.length >= 3 && left.includes(right)) return true;
         if (hasContinuousCommonStr(left, right, minLength)) return true;
       }
     }
