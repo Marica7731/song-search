@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 7/7/2026, 1:36:26 PM
+// 生成时间: 7/7/2026, 1:46:26 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4203,6 +4203,182 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-07-03]转眼间就是七月了呢，歌回🎋 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wrMw6aETT?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "六月は雨上がりの街を書く",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "secret base 〜君がくれたもの〜",
+  "artist": "ZONE",
+  "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "よるのあと",
+  "artist": "adieu",
+  "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Answer",
+  "artist": "幾田りら",
+  "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "いとしのエリー",
+  "artist": "サザンオールスターズ",
+  "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "尾崎豊",
+  "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "OH MY LITTLE GIRL",
+  "artist": "尾崎豊",
+  "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "me me she",
+  "artist": "RADWIMPS",
+  "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Wherever you are",
+  "artist": "ONE OK ROCK",
+  "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Flamingo",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "おとなの掟",
+  "artist": "Doughnuts Hole",
+  "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "踊り子",
+  "artist": "Vaundy",
+  "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "napori",
+  "artist": "Vaundy",
+  "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "不可幸力",
+  "artist": "Vaundy",
+  "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ハレンチ",
+  "artist": "ちゃんみな",
+  "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=21",
+  "source": "kukuri.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=22",
   "source": "kukuri.js"
 }
 );
