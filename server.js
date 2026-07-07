@@ -2108,12 +2108,11 @@ function aggregateByArtist(data) {
   result.forEach(v => {
     const songArr = Array.from(v.songs.values()).map(song => {
       const duplicateBvGroups = Array.from(song.bvPageMap?.entries?.() || [])
-        .filter(([, links]) => links.length > 1)
-        .map(([bvid, links]) => ({
-          bvid,
-          pages: links.map(link => link.page).filter(Boolean).sort((a, b) => a - b),
-          links
-        }));
+        .map(([bvid, links]) => {
+          const pages = Array.from(new Set(links.map(link => link.page).filter(Boolean))).sort((a, b) => a - b);
+          return { bvid, pages, links };
+        })
+        .filter(group => group.pages.length > 1);
       delete song.bvPageMap;
       return {
         ...song,

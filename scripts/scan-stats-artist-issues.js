@@ -157,7 +157,7 @@ function buildDuplicateGroups(songs, limit) {
     map.get(key).push(song);
   });
   return Array.from(map.values())
-    .filter(group => group.length > 1)
+    .filter(group => new Set(group.map(extractPage).filter(Boolean)).size > 1)
     .sort((a, b) => b.length - a.length || String(songBvid(a[0])).localeCompare(songBvid(b[0])))
     .slice(0, limit);
 }
@@ -227,7 +227,7 @@ function renderMarkdown(songs, fixes, duplicateGroups, source, aliasMap) {
   duplicateGroups.forEach(group => {
     const first = group[0];
     const bvid = songBvid(first);
-    const pages = group.map(extractPage).sort((a, b) => a - b).join(', ');
+    const pages = Array.from(new Set(group.map(extractPage).filter(Boolean))).sort((a, b) => a - b).join(', ');
     const title = `${first.title || ''}${first.artist ? ` - ${first.artist}` : ''}`;
     const sourceName = sourceAlias(first, aliasMap);
     lines.push(`| \`${bvid}\` | ${pages} | \`${title}\` | ${sourceName} | ${editUrl(bvid)} |`);
