@@ -1,6 +1,6 @@
 // 玉町ぷえ - 歌单数据 (多合集汇总)
 // 来源: BV1nUMP6vE7N
-// 生成时间: 7/7/2026, 10:50:27 PM
+// 生成时间: 7/7/2026, 11:01:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -427,6 +427,134 @@ window.SONG_DATA.push(
   "collection": "玉町ぷえ / Pue Ch.歌切 2026-07-03 高赞300耐久中!! 歌回 ⌇ 午休时，不来稍微听一下吗？✧˚.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FUMP6vE58?p=31",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "スターライトパレード",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【歌切】[2026-07-07]歌回⌇点赞300有告知!! 闪亮歌回✧˚.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16pMv6XEaD?p=1",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "【歌切】[2026-07-07]歌回⌇点赞300有告知!! 闪亮歌回✧˚.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16pMv6XEaD?p=2",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-07-07]歌回⌇点赞300有告知!! 闪亮歌回✧˚.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16pMv6XEaD?p=3",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "上白石萌音",
+  "collection": "【歌切】[2026-07-07]歌回⌇点赞300有告知!! 闪亮歌回✧˚.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16pMv6XEaD?p=4",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-07-07]歌回⌇点赞300有告知!! 闪亮歌回✧˚.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16pMv6XEaD?p=5",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "黒毛和牛上塩タン焼680円",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-07-07]歌回⌇点赞300有告知!! 闪亮歌回✧˚.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16pMv6XEaD?p=6",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "大阪LOVER",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【歌切】[2026-07-07]歌回⌇点赞300有告知!! 闪亮歌回✧˚.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16pMv6XEaD?p=7",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "小さきもの",
+  "artist": "林明日香",
+  "collection": "【歌切】[2026-07-07]歌回⌇点赞300有告知!! 闪亮歌回✧˚.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16pMv6XEaD?p=8",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra, 月見ヤチヨ(cv.早見沙織)",
+  "collection": "【歌切】[2026-07-07]歌回⌇点赞300有告知!! 闪亮歌回✧˚.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16pMv6XEaD?p=9",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "【歌切】[2026-07-07]歌回⌇点赞300有告知!! 闪亮歌回✧˚.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16pMv6XEaD?p=10",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat. 初音ミク",
+  "collection": "【歌切】[2026-07-07]歌回⌇点赞300有告知!! 闪亮歌回✧˚.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16pMv6XEaD?p=11",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-07-07]歌回⌇点赞300有告知!! 闪亮歌回✧˚.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16pMv6XEaD?p=12",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "スターリースカイ☆パレード",
+  "artist": "キノシタ feat. 音街ウナ・鏡音リン",
+  "collection": "【歌切】[2026-07-07]歌回⌇点赞300有告知!! 闪亮歌回✧˚.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16pMv6XEaD?p=13",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-07-07]歌回⌇点赞300有告知!! 闪亮歌回✧˚.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16pMv6XEaD?p=14",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "恋",
+  "artist": "星野源",
+  "collection": "【歌切】[2026-07-07]歌回⌇点赞300有告知!! 闪亮歌回✧˚.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16pMv6XEaD?p=15",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-07-07]歌回⌇点赞300有告知!! 闪亮歌回✧˚.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16pMv6XEaD?p=16",
   "source": "tamamachipue.js"
 }
 );
