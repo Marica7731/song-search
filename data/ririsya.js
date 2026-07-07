@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 7/7/2026, 3:53:19 AM
+// 生成时间: 7/7/2026, 4:04:30 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17811,6 +17811,238 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=24",
+  "source": "ririsya.js"
+},
+    {
+  "title": "トライアングラー",
+  "artist": "坂本真綾",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n / 中島愛",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "バニーガール",
+  "artist": "AKASAKI",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ラグトレイン",
+  "artist": "稲葉曇 feat. 歌愛ユキ",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Bad Apple!!",
+  "artist": "Alstroemeria Records feat. nomico",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "失楽園",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "SnekQueen",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Twilight Twilight",
+  "artist": "PiKi",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ヴィーナスとジーザス",
+  "artist": "やくしまるえつこ",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子(花澤香菜)",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=18",
+  "source": "ririsya.js"
+},
+    {
+  "title": "鳥の詩",
+  "artist": "Lia",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=19",
+  "source": "ririsya.js"
+},
+    {
+  "title": "キラキラ",
+  "artist": "aiko",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=20",
+  "source": "ririsya.js"
+},
+    {
+  "title": "相思相愛",
+  "artist": "aiko",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=21",
+  "source": "ririsya.js"
+},
+    {
+  "title": "恋をしたのは",
+  "artist": "aiko",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=22",
+  "source": "ririsya.js"
+},
+    {
+  "title": "この恋はスクープされない",
+  "artist": "コレサワ",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=23",
+  "source": "ririsya.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "コレサワ",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=24",
+  "source": "ririsya.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=25",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ワールドイズマイン (CPK! Remix)",
+  "artist": "ryo(supercell) & 初音ミク",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=26",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=27",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Re,Future",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=28",
+  "source": "ririsya.js"
+},
+    {
+  "title": "パラレルナイト",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=29",
   "source": "ririsya.js"
 }
 );
