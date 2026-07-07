@@ -1,6 +1,6 @@
 // 朱名 - 歌单数据 (多合集汇总)
 // 来源: BV167c2znErj
-// 生成时间: 7/7/2026, 7:51:20 PM
+// 生成时间: 7/7/2026, 8:09:47 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3638,7 +3638,7 @@ window.SONG_DATA.push(
   "source": "shuna.js"
 },
     {
-  "title": "晴れ",
+  "title": "晴る",
   "artist": "ヨルシカ",
   "collection": "朱名 歌切 2026-03-18 ~ 2026-03-28",
   "up": "前尘往事如昔故",
