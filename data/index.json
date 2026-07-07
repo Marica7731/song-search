@@ -52,7 +52,8 @@
     "isshikiizu.js",
     "hanamaruhareru.js",
     "hanabasamikyo.js",
-    "bv1qa9jb6eaw.js"
+    "bv1qa9jb6eaw.js",
+    "ronaru.js"
   ],
   "fileToAlias": {
     "323": "323",
@@ -107,6 +108,7 @@
     "isshikiizu": "一色イズ",
     "hanamaruhareru": "花丸晴琉",
     "hanabasamikyo": "花鋏キョウ",
-    "bv1qa9jb6eaw": "陽月るるふ"
+    "bv1qa9jb6eaw": "陽月るるふ",
+    "ronaru": "炉なる"
   }
 }
