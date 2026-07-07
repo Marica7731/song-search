@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 7/7/2026, 10:48:33 PM
+// 生成时间: 7/7/2026, 10:59:28 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1659,6 +1659,46 @@ window.SONG_DATA.push(
   "collection": "【⚙️🎸歌切】[2026-07-03]安静地唱歌给你听！！热烈欢迎新观众！🎸来被治愈吧～💛 からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FUMP6vEzH?p=11",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "惑星ループ",
+  "artist": "ナユタン星人 feat. 初音ミク",
+  "collection": "【⚙️🎸歌切】[2026-07-07]在「不写出来比较好的节日」之夜悠闲地唱歌哦～！！🎤🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zpMv6XE5B?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "SAYONARA MAYBE",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【⚙️🎸歌切】[2026-07-07]在「不写出来比较好的节日」之夜悠闲地唱歌哦～！！🎤🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zpMv6XE5B?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "死なない為の音楽よ",
+  "artist": "ねぐせ。",
+  "collection": "【⚙️🎸歌切】[2026-07-07]在「不写出来比较好的节日」之夜悠闲地唱歌哦～！！🎤🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zpMv6XE5B?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "東京フラッシュ",
+  "artist": "Vaundy",
+  "collection": "【⚙️🎸歌切】[2026-07-07]在「不写出来比较好的节日」之夜悠闲地唱歌哦～！！🎤🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zpMv6XE5B?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "相合傘",
+  "artist": "SIX LOUNGE",
+  "collection": "【⚙️🎸歌切】[2026-07-07]在「不写出来比较好的节日」之夜悠闲地唱歌哦～！！🎤🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zpMv6XE5B?p=5",
   "source": "karakurinne.js"
 }
 );
