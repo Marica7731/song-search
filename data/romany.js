@@ -1,6 +1,6 @@
 // ロマニ - 歌单数据 (多合集汇总)
 // 来源: BV1KHXxBUErU, BV1iHQXBzEgU
-// 生成时间: 7/7/2026, 7:46:26 PM
+// 生成时间: 7/7/2026, 8:07:28 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1462,7 +1462,7 @@ window.SONG_DATA.push(
   "source": "romany.js"
 },
     {
-  "title": "ここでキスして",
+  "title": "ここでキスして。",
   "artist": "椎名林檎",
   "collection": "【ロマニ🎸弾き語り歌切】[2026-04-05]周日惯例歌回──✦夜晚用歌声和吉他放松🌙𓂃𝄞ロマニードットアイオー / ROMANY. io",
   "up": "前尘往事如昔故",

@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 7/7/2026, 7:18:49 PM
+// 生成时间: 7/7/2026, 7:39:00 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -742,7 +742,7 @@ window.SONG_DATA.push(
   "source": "naraetan.js"
 },
     {
-  "title": "丸の内サディスティック",
+  "title": "丸ノ内サディスティック",
   "artist": "椎名林檎",
   "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
   "up": "Go[なれたん Naraetan Ch.🌷",
@@ -823,7 +823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "猫",
-  "artist": "DISH／／",
+  "artist": "DISH//",
   "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
   "up": "Go[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEtf?p=11",
@@ -5566,7 +5566,7 @@ window.SONG_DATA.push(
   "source": "naraetan.js"
 },
     {
-  "title": "だから僕は音楽をやめた",
+  "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
   "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",

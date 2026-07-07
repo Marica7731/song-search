@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 7/7/2026, 7:44:37 PM
+// 生成时间: 7/7/2026, 8:04:33 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2654,7 +2654,7 @@ window.SONG_DATA.push(
   "source": "sumica.js"
 },
     {
-  "title": "火星人（お試し）",
+  "title": "火星人",
   "artist": "ヨルシカ",
   "collection": "【歌切】[2026-05-02]享受黄金周，悠闲的弹唱时光～ -sumica-澄花",
   "up": "前尘往事如昔故",

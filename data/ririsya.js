@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 7/7/2026, 7:23:40 PM
+// 生成时间: 7/7/2026, 7:42:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -142,7 +142,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "丸の内サディスティック",
+  "title": "丸ノ内サディスティック",
   "artist": "椎名林檎",
   "collection": "补合集 🐍凛々咲 2024年9月",
   "up": "前尘往事如昔故",
@@ -4662,7 +4662,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "丸の内サディスティック",
+  "title": "丸ノ内サディスティック",
   "artist": "椎名林檎",
   "collection": "凛々咲 2025年5月6日 Jazz Arrangeでおしゃれに歌う🎷",
   "up": "前尘往事如昔故",
@@ -10278,7 +10278,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "晴れ",
+  "title": "晴る",
   "artist": "ヨルシカ",
   "collection": "【 VTuber / #凛々咲】少年漫画主题曲Only ~ 少年漫画の主題歌縛り ✧ SHONEN MANGA THEME SONG",
   "up": "前尘往事如昔故",

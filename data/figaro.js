@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 7/7/2026, 7:20:50 PM
+// 生成时间: 7/7/2026, 7:40:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1358,7 +1358,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "噓月",
+  "title": "嘘月",
   "artist": "ヨルシカ",
   "collection": "【240331】#172 Figaro 26首 睡眠广播",
   "up": "前尘往事如昔故",
@@ -2158,7 +2158,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "丸の内サディスティック",
+  "title": "丸ノ内サディスティック",
   "artist": "椎名林檎",
   "collection": "【 240421 Figaro 15首】 #175 ひまわりの約束 - 秦基博 丸の内サディスティック - 椎名林檎",
   "up": "前尘往事如昔故",
@@ -5318,7 +5318,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "噓月",
+  "title": "嘘月",
   "artist": "ヨルシカ",
   "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
   "up": "前尘往事如昔故",
@@ -6398,7 +6398,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "丸の内サディスティック",
+  "title": "丸ノ内サディスティック",
   "artist": "椎名林檎",
   "collection": "【240814【Figaro】9【定期歌回#20】夕立のりぼん、ツギハギスタッカート、チノカテ",
   "up": "前尘往事如昔故",
@@ -8270,7 +8270,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "噓月",
+  "title": "嘘月",
   "artist": "ヨルシカ",
   "collection": "【Figaro】20】風を食む うたかた花火 クリスマスソング 噓月 靴の花火 ヒッチコック【241006】】",
   "up": "前尘往事如昔故",
@@ -11078,7 +11078,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "噓月",
+  "title": "嘘月",
   "artist": "ヨルシカ",
   "collection": "【Figaro】睡眠導入歌回 #204ヨルシカ主题歌回~ 18",
   "up": "前尘往事如昔故",
@@ -13374,7 +13374,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "噓月",
+  "title": "嘘月",
   "artist": "ヨルシカ",
   "collection": "【 #歌枠】全都是 ヨルシカ 的 睡眠導入歌回 - 【すやラジ #213 】【Figaro】",
   "up": "前尘往事如昔故",
@@ -17710,7 +17710,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "噓月",
+  "title": "嘘月",
   "artist": "ヨルシカ",
   "collection": "【#歌枠/#KARAOKE】ヨルシカしばりで安眠 Singing Stream🌙 【 Figaro Vtuber 】",
   "up": "前尘往事如昔故",
@@ -19302,7 +19302,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "噓月",
+  "title": "嘘月",
   "artist": "ヨルシカ",
   "collection": "【Figaro】考え込んじゃう夜に聴く歌。🌙 #235 适合在沉思的夜晚听的歌。",
   "up": "前尘往事如昔故",
@@ -19654,7 +19654,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "丸の内サディスティック",
+  "title": "丸ノ内サディスティック",
   "artist": "椎名林檎",
   "collection": "【Figaro】はじめてのバンドセッション！音楽合宿 Day3",
   "up": "前尘往事如昔故",
@@ -24822,7 +24822,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "丸の内サディスティック",
+  "title": "丸ノ内サディスティック",
   "artist": "椎名林檎",
   "collection": "【💐Figaro 歌切】[2026-01-14]まったり楽しんでいこ～！ #shorts #vsinger #karao",
   "up": "前尘往事如昔故",

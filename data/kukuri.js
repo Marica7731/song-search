@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 7/7/2026, 7:16:47 PM
+// 生成时间: 7/7/2026, 7:36:40 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -686,7 +686,7 @@ window.SONG_DATA.push(
   "source": "kukuri.js"
 },
     {
-  "title": "丸の内サディスティック",
+  "title": "丸ノ内サディスティック",
   "artist": "椎名林檎",
   "collection": "【戸鎖 歌切】[2026-03-17]虽然很短但要尽情歌唱的歌回 #shorts[j6cigyr8RoM] 戸鎖くくり kukuri ch *",
   "up": "前尘往事如昔故",

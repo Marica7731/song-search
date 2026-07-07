@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 7/7/2026, 7:15:34 PM
+// 生成时间: 7/7/2026, 7:35:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -454,7 +454,7 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "だから僕は音楽辞めた",
+  "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
   "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
   "up": "前尘往事如昔故",
@@ -502,7 +502,7 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "丸の内サディスティック",
+  "title": "丸ノ内サディスティック",
   "artist": "椎名林檎",
   "collection": "歌势推荐： 知悠 - Chiyutori - 2026-03-09 直播第八天 超绝耐久 vTuFkflx5v0",
   "up": "前尘往事如昔故",
