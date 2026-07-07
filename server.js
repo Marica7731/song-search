@@ -2064,10 +2064,13 @@ function aggregateByArtist(data) {
       map.set(key, {
         key,
         name: artist,
+        bvSet: new Set(),
         songs: new Map()
       });
     }
     const artistEntry = map.get(key);
+    const bvid = getSongBvid(item);
+    if (bvid) artistEntry.bvSet.add(bvid);
     const songKey = normalizeSongIdentityKey(item);
     if (!artistEntry.songs.has(songKey)) {
       const display = getCanonicalSongIdentityDisplay(item);
@@ -2075,11 +2078,23 @@ function aggregateByArtist(data) {
         title: display?.title || item.title || '未知歌曲',
         cover: item.cover || '',
         count: 0,
-        links: []
+        links: [],
+        bvPageMap: new Map()
       });
     }
     const songEntry = artistEntry.songs.get(songKey);
     songEntry.count += 1;
+    const linkBvid = bvid || getSongBvid({ link: item.link });
+    if (linkBvid && item.link) {
+      if (!songEntry.bvPageMap.has(linkBvid)) songEntry.bvPageMap.set(linkBvid, []);
+      songEntry.bvPageMap.get(linkBvid).push({
+        link: item.link,
+        collection: item.collection || '未知合集',
+        source: getSourceAlias(item.source),
+        cover: item.cover || '',
+        page: Number(item.page || 0) || null
+      });
+    }
     if (item.link) {
       songEntry.links.push({
         link: item.link,
@@ -2091,10 +2106,27 @@ function aggregateByArtist(data) {
   });
   const result = Array.from(map.values());
   result.forEach(v => {
-    const songArr = Array.from(v.songs.values()).sort((a, b) => b.count - a.count);
+    const songArr = Array.from(v.songs.values()).map(song => {
+      const duplicateBvGroups = Array.from(song.bvPageMap?.entries?.() || [])
+        .filter(([, links]) => links.length > 1)
+        .map(([bvid, links]) => ({
+          bvid,
+          pages: links.map(link => link.page).filter(Boolean).sort((a, b) => a - b),
+          links
+        }));
+      delete song.bvPageMap;
+      return {
+        ...song,
+        duplicateBvGroups,
+        duplicateBvCount: duplicateBvGroups.length
+      };
+    }).sort((a, b) => b.count - a.count);
     v.songs = songArr;
     v.totalCount = songArr.reduce((acc, s) => acc + s.count, 0);
+    v.bvCount = v.bvSet.size;
+    delete v.bvSet;
     v.uniqueCount = songArr.length;
+    v.duplicateBvCount = songArr.reduce((sum, song) => sum + Number(song.duplicateBvCount || 0), 0);
   });
   result.sort((a, b) => b.totalCount - a.totalCount);
   return result;

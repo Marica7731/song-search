@@ -498,6 +498,25 @@
         .song-info-left { flex: 1; min-width: 200px; }
         .song-title-main { font-weight: 600; color: #2c3e50; font-size: 15px; margin-bottom: 4px; }
         .song-original-artist { font-size: 12px; color: #868e96; }
+        .song-warning-line {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            margin-top: 5px;
+        }
+        .song-warning-chip {
+            display: inline-flex;
+            align-items: center;
+            max-width: 100%;
+            padding: 3px 7px;
+            border-radius: 999px;
+            border: 1px solid #fed7aa;
+            background: #fff7ed;
+            color: #9a3412;
+            font-size: 11px;
+            font-weight: 700;
+            line-height: 1.2;
+        }
         .song-meta-right {
             display: flex;
             align-items: center;
@@ -2415,6 +2434,13 @@
                     const originalText = song.originalArtist
                         ? `<div class="song-original-artist" data-quick-copy="${escapeAttr(song.originalArtist)}">原唱：${escapeHtml(song.originalArtist)}</div>`
                         : (song.artist && type === 'vtuber' ? `<div class="song-original-artist" data-quick-copy="${escapeAttr(song.artist)}">演唱：${escapeHtml(song.artist)}</div>` : '');
+                    const duplicateGroups = Array.isArray(song.duplicateBvGroups) ? song.duplicateBvGroups : [];
+                    const duplicateWarnings = type === 'artist' && duplicateGroups.length
+                        ? `<div class="song-warning-line">${duplicateGroups.slice(0, 3).map(group => {
+                            const pages = Array.isArray(group.pages) && group.pages.length ? ` p${group.pages.join('/p')}` : '';
+                            return `<span class="song-warning-chip" title="同一 BV 下同歌名歌手出现多 P，建议核对分P标题">同稿重复 ${escapeHtml(group.bvid || 'BV')}${escapeHtml(pages)}</span>`;
+                        }).join('')}</div>`
+                        : '';
 
                     return `
                         <div class="song-item-row">
@@ -2422,6 +2448,7 @@
                             <div class="song-info-left">
                                 <div class="song-title-main" data-quick-copy="${escapeAttr(song.title)}">${escapeHtml(song.title)}</div>
                                 ${originalText}
+                                ${duplicateWarnings}
                             </div>
                             <div class="song-meta-right">
                                 <span class="count-clickable" id="count-btn-${songId}">
@@ -2453,6 +2480,8 @@
                 ];
                 if (type === 'vtuber') {
                     headerMetrics.push(`<span class="group-count-chip metric-solo">独特 ${formatCountText(group.soloCount || 0)}</span>`);
+                } else if (Number(group.duplicateBvCount || 0) > 0) {
+                    headerMetrics.push(`<span class="group-count-chip metric-solo">同稿重复 ${formatCountText(group.duplicateBvCount)}</span>`);
                 }
                 const profile = group.profile || sourceProfileByFile(group.sourceFile, group.name);
                 li.innerHTML = `
