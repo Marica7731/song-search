@@ -212,6 +212,10 @@
       ]
     },
     {
+      canonical: 'テルーの唄',
+      aliases: ['テルーの唄', 'テルーの歌', 'テルー↑の唄']
+    },
+    {
       canonical: '貴方解剖純愛歌~死ね~',
       aliases: ['貴方解剖純愛歌~死ね~', '貴方解剖純愛歌 ~死ね~', '貴方解剖純愛歌 ～死ね～']
     },
@@ -356,6 +360,31 @@
       aliases: ['言って。', '言って']
     },
     {
+      canonical: 'ここでキスして。',
+      aliases: ['ここでキスして。', 'ここでキスして']
+    },
+    {
+      canonical: 'だから僕は音楽を辞めた',
+      aliases: [
+        'だから僕は音楽を辞めた',
+        'だから僕は音楽をやめた',
+        'だから僕は音楽辞めた',
+        'だから僕は音楽やめた'
+      ]
+    },
+    {
+      canonical: '夜明けと蛍',
+      aliases: [
+        '夜明けと蛍',
+        '夜明けと蛍。',
+        '夜明けと蛍 『初音ミク』',
+        '夜明けと蛍 feat.初音ミク',
+        '夜明けと蛍 feat. 初音ミク',
+        '夜明けと蛍 feat.可不',
+        '夜明けと蛍 feat. 可不'
+      ]
+    },
+    {
       canonical: 'さよーならまたいつか!',
       aliases: ['さよーならまたいつか！', 'さよーならまたいつか!', 'さよーならまたいつか']
     },
@@ -479,6 +508,13 @@
         return normalizeString('ray（超かぐや姫！Ver.）');
       }
       if (titleKey === normalizeString('ray')) return titleKey;
+    }
+
+    if (
+      titleKey === normalizeString('さよならの夏')
+      && includesAny(`${artistKey} ${originalArtistKey}`, ['手嶌葵', '手嶌', 'teshima aoi'])
+    ) {
+      return normalizeString('さよならの夏~コクリコ坂から~');
     }
 
     return titleKey;

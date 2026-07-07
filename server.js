@@ -2054,16 +2054,36 @@ function aggregateByVtuberSource(data) {
   return result;
 }
 
+function getStatsArtistIdentityName(artist) {
+  const raw = String(artist || '').trim();
+  if (!raw) return '';
+  const aliasMap = new Map([
+    ['ナブナ', 'n-buna'],
+    ['Yorushika', 'ヨルシカ']
+  ]);
+  let normalized = raw
+    .replace(/^[『「【（(][^』」】）)]{1,40}[』」】）)]\s*/, '')
+    .replace(/\s*[『「【][^』」】]{1,60}[』」】]\s*(?:op|ed|主題歌|テーマ)?\s*$/i, '')
+    .replace(/\s+(?:feat\.?|with)\s+.+$/i, '')
+    .replace(/\s+feat[.:：].+$/i, '')
+    .replace(/\s*[×x]\s*/g, ' × ')
+    .trim();
+  if (normalized === '手蔦葵') normalized = '手嶌葵';
+  normalized = aliasMap.get(normalized) || normalized;
+  return normalized || raw;
+}
+
 function aggregateByArtist(data) {
   const map = new Map();
   data.forEach(item => {
     const artist = item.artist || '';
     if (!isValidArtist(artist)) return;
-    const key = normalizeString(artist);
+    const identityName = getStatsArtistIdentityName(artist);
+    const key = normalizeString(identityName);
     if (!map.has(key)) {
       map.set(key, {
         key,
-        name: artist,
+        name: identityName,
         bvSet: new Set(),
         songs: new Map()
       });
@@ -2078,23 +2098,11 @@ function aggregateByArtist(data) {
         title: display?.title || item.title || '未知歌曲',
         cover: item.cover || '',
         count: 0,
-        links: [],
-        bvPageMap: new Map()
+        links: []
       });
     }
     const songEntry = artistEntry.songs.get(songKey);
     songEntry.count += 1;
-    const linkBvid = bvid || getSongBvid({ link: item.link });
-    if (linkBvid && item.link) {
-      if (!songEntry.bvPageMap.has(linkBvid)) songEntry.bvPageMap.set(linkBvid, []);
-      songEntry.bvPageMap.get(linkBvid).push({
-        link: item.link,
-        collection: item.collection || '未知合集',
-        source: getSourceAlias(item.source),
-        cover: item.cover || '',
-        page: Number(item.page || 0) || null
-      });
-    }
     if (item.link) {
       songEntry.links.push({
         link: item.link,
@@ -2106,26 +2114,12 @@ function aggregateByArtist(data) {
   });
   const result = Array.from(map.values());
   result.forEach(v => {
-    const songArr = Array.from(v.songs.values()).map(song => {
-      const duplicateBvGroups = Array.from(song.bvPageMap?.entries?.() || [])
-        .map(([bvid, links]) => {
-          const pages = Array.from(new Set(links.map(link => link.page).filter(Boolean))).sort((a, b) => a - b);
-          return { bvid, pages, links };
-        })
-        .filter(group => group.pages.length > 1);
-      delete song.bvPageMap;
-      return {
-        ...song,
-        duplicateBvGroups,
-        duplicateBvCount: duplicateBvGroups.length
-      };
-    }).sort((a, b) => b.count - a.count);
+    const songArr = Array.from(v.songs.values()).sort((a, b) => b.count - a.count);
     v.songs = songArr;
     v.totalCount = songArr.reduce((acc, s) => acc + s.count, 0);
     v.bvCount = v.bvSet.size;
     delete v.bvSet;
     v.uniqueCount = songArr.length;
-    v.duplicateBvCount = songArr.reduce((sum, song) => sum + Number(song.duplicateBvCount || 0), 0);
   });
   result.sort((a, b) => b.totalCount - a.totalCount);
   return result;
