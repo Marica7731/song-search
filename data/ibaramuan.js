@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 7/7/2026, 4:25:40 AM
+// 生成时间: 7/7/2026, 4:42:23 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4347,6 +4347,238 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-05]喜欢动漫歌曲和术力口的人快来集合！欢迎新朋友。 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WE1u?p=27",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "負け犬にアンコールはいらない",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "メランコリーキッチン",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "BOW AND ARROW",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "勇侠青春謳",
+  "artist": "ALI PROJECT",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Bad Apple!!",
+  "artist": "Alstroemeria Records feat. nomico",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "咲かせや咲かせ",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ロウワー",
+  "artist": "ぬゆり feat. v flower",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ジェヘナ",
+  "artist": "wotaku feat. 初音ミク",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "メズマライザー",
+  "artist": "サツキ feat. 初音ミク・重音テト",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "D/N/A",
+  "artist": "Azari feat. 重音テト・v flower",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "オートファジー",
+  "artist": "柊キライ feat. flower",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "マカロン",
+  "artist": "ATOLS feat. 初音ミク",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "愛して愛して愛して",
+  "artist": "きくお feat. 初音ミク",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "リライト",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "crossing field",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ないない",
+  "artist": "ReoNa",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "GG",
+  "artist": "ReoNa",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "四季折々に揺蕩いて",
+  "artist": "After the Rain",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ハローディストピア",
+  "artist": "まふまふ feat. 鏡音リン・レン",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "小悪魔だってかまわない！",
+  "artist": "めいちゃん",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "バクチ・ダンサー",
+  "artist": "DOES",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "曇天",
+  "artist": "DOES",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=26",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "サムライハート(Some Like It Hot!!)",
+  "artist": "SPYAIR",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=27",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ミュージック・アワー",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=28",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "夢であるように",
+  "artist": "DEEN",
+  "collection": "【歌切】[2026-07-06]星期一定期节目🎙听首歌再走如何∼！欢迎新朋友！ Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MKMx6CESc?p=29",
   "source": "ibaramuan.js"
 }
 );
