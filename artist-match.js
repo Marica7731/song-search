@@ -69,6 +69,23 @@
       aliases: ['丸の内サディスティック', '丸ノ内サディスティック']
     },
     {
+      canonical: 'wind climbing~風にあそばれて~',
+      aliases: [
+        'Wind Climbing～風にあそばれて～',
+        'Wind Climbing ～風にあそばれて～',
+        'Wind Climbing～風にあそばれて～ 『魔法陣グルグル』',
+        'Wind Climbing ～風にあそばれて～ 『魔法陣グルグル』'
+      ]
+    },
+    {
+      canonical: '晴れてハレルヤ',
+      aliases: ['晴れてハレルヤ', '晴れてハレルヤ 『魔法陣グルグル』']
+    },
+    {
+      canonical: '月の繭',
+      aliases: ['月の繭', '月の繭 『∀ガンダム』']
+    },
+    {
       canonical: 'フクロウ~フクロウが知らせる客が来たと~',
       aliases: [
         'フクロウ ～フクロウが知らせる客が来たと～',
