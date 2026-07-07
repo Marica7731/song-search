@@ -1,6 +1,6 @@
 // 323 - 歌单数据 (多合集汇总)
 // 来源: BV1r75B6LEwd
-// 生成时间: 7/7/2026, 7:28:43 PM
+// 生成时间: 7/7/2026, 7:42:31 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2355,6 +2355,14 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-05]我是松软赛博格323！萝莉担当！ 323",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV171TU6HEeZ?p=4",
+  "source": "323.js"
+},
+    {
+  "title": "「'あなたといたい'」（想和你在一起）",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "「'あなたといたい'」（想和你在一起）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1r7MY6EE3e?p=1",
   "source": "323.js"
 }
 );
