@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 7/7/2026, 3:03:03 AM
+// 生成时间: 7/7/2026, 3:14:44 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1203,6 +1203,62 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-02]7月了啊啊啊啊！终于到了个人Live的月份了！🍎🌟 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1p1Tn6mEws?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat. 初音ミク",
+  "collection": "【歌切】[2026-07-06]7月第2周！！演唱会前还要精神满满地唱好多歌！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RqMx6HEZD?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "他人事の音がする",
+  "artist": "あめのむらくもP feat. GUMI",
+  "collection": "【歌切】[2026-07-06]7月第2周！！演唱会前还要精神满满地唱好多歌！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RqMx6HEZD?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "海を泳ぐ月",
+  "artist": "40mP feat. LUMi",
+  "collection": "【歌切】[2026-07-06]7月第2周！！演唱会前还要精神满满地唱好多歌！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RqMx6HEZD?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-06]7月第2周！！演唱会前还要精神满满地唱好多歌！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RqMx6HEZD?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "あの夏のいつかは",
+  "artist": "*Luna feat. 音街ウナ・Rana",
+  "collection": "【歌切】[2026-07-06]7月第2周！！演唱会前还要精神满满地唱好多歌！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RqMx6HEZD?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "アイラ",
+  "artist": "n-buna feat. GUMI",
+  "collection": "【歌切】[2026-07-06]7月第2周！！演唱会前还要精神满满地唱好多歌！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RqMx6HEZD?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "林檎売りの泡沫少女",
+  "artist": "yukkedoluce feat. GUMI",
+  "collection": "【歌切】[2026-07-06]7月第2周！！演唱会前还要精神满满地唱好多歌！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RqMx6HEZD?p=7",
   "source": "hinachibi.js"
 }
 );
