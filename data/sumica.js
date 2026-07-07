@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 7/7/2026, 3:07:48 AM
+// 生成时间: 7/7/2026, 3:23:33 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5902,16 +5902,16 @@ window.SONG_DATA.push(
   "source": "sumica.js"
 },
     {
-  "title": "未确定",
-  "artist": "未确定",
+  "title": "一日惚れ",
+  "artist": "澄花",
   "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=22",
   "source": "sumica.js"
 },
     {
-  "title": "未确定",
-  "artist": "未确定",
+  "title": "ちょっと待って！",
+  "artist": "澄花",
   "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=23",
