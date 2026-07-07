@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/7/2026, 9:58:40 PM
+// 生成时间: 7/7/2026, 10:09:26 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17566,7 +17566,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "この木なんの木",
+  "title": "日立の樹（この木なんの木）",
   "artist": "ヒデ夕樹・朝礼志",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -17638,8 +17638,8 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "フォニィ",
-  "artist": "ツミキ",
+  "title": "フォニイ",
+  "artist": "ツミキ feat. 可不",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=11",
@@ -17647,7 +17647,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アイワナムチュー",
-  "artist": "MAISONdes",
+  "artist": "MAISONdes feat. asmi・すりぃ",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=12",
@@ -17679,7 +17679,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "LA・LA・LA LOVE SONG",
-  "artist": "久保田利伸",
+  "artist": "久保田利伸 with NAOMI CAMPBELL",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=16",
@@ -17750,7 +17750,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "奏",
+  "title": "奏（かなで）",
   "artist": "スキマスイッチ",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -17759,7 +17759,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "H@ppy Together!!!",
-  "artist": "林ももこ",
+  "artist": "林桃子",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=26",
@@ -17782,7 +17782,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "灼熱にて純情 (wii-wii-woo)",
+  "title": "灼熱にて純情（wii-wii-woo）",
   "artist": "星街すいせい",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -17807,7 +17807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "だいしきゅーだいしゅき",
-  "artist": "Femme fatale",
+  "artist": "femme fatale",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=32",
@@ -17847,7 +17847,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ブリキノダンス",
-  "artist": "日向電工",
+  "artist": "日向電工 feat. 初音ミク",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=37",
@@ -17855,7 +17855,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "千本桜",
-  "artist": "黒うさP",
+  "artist": "黒うさP feat. 初音ミク",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=38",
@@ -17927,7 +17927,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青と夏",
-  "artist": "Mrs, GREEN APPLE",
+  "artist": "Mrs. GREEN APPLE",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=47",
@@ -17951,7 +17951,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜もすがら君想ふ",
-  "artist": "TOKOTOKO(西沢さん)",
+  "artist": "TOKOTOKO(西沢さんP) feat. GUMI",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=50",
@@ -17983,7 +17983,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シャルル",
-  "artist": "バルーンP",
+  "artist": "バルーン feat. flower",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=54",
@@ -17998,7 +17998,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "愛 テキサス",
+  "title": "愛、テキサス",
   "artist": "山下智久",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -18151,14 +18151,14 @@ window.SONG_DATA.push(
 },
     {
   "title": "夏祭り",
-  "artist": "Whiteberry",
+  "artist": "JITTERIN'JINN",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=75",
   "source": "others.js"
 },
     {
-  "title": "SOUL SOUP",
+  "title": "SOULSOUP",
   "artist": "Official髭男dism",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -18166,7 +18166,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "ハートキャッチ☆パラダイス",
+  "title": "ハートキャッチ☆パラダイス!",
   "artist": "工藤真由",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -18174,7 +18174,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "ラブストーリーは突然に",
+  "title": "ラブ・ストーリーは突然に",
   "artist": "小田和正",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -18190,7 +18190,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "きまぐれロマンティック",
+  "title": "気まぐれロマンティック",
   "artist": "いきものがかり",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -18199,7 +18199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "からくりピエロ",
-  "artist": "40mP",
+  "artist": "40mP feat. 初音ミク",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=81",
@@ -18230,7 +18230,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "どんなときも",
+  "title": "どんなときも。",
   "artist": "槇原敬之",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -18310,7 +18310,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "INVOKE-インヴォーク-",
+  "title": "INVOKE -インヴォーク-",
   "artist": "T.M.Revolution",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -18358,7 +18358,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "だから僕は音楽をやめた",
+  "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -18367,7 +18367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "神のまにまに",
-  "artist": "れるりり",
+  "artist": "れるりり feat. 初音ミク・鏡音リン・GUMI",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=102",
@@ -18375,7 +18375,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "翡翠のまち",
-  "artist": "メル",
+  "artist": "メル feat. 初音ミク",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=103",
@@ -18383,7 +18383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "キャットラビング",
-  "artist": "香椎モイミ",
+  "artist": "香椎モイミ feat. 可不",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=104",
@@ -18391,7 +18391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "クィホーティ",
-  "artist": "エイハブ",
+  "artist": "エイハブ feat. flower",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=105",
@@ -18407,7 +18407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ベノム",
-  "artist": "かいりきベア",
+  "artist": "かいりきベア feat. flower",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=107",
@@ -18438,7 +18438,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "私の思春期",
+  "title": "私の思春期へ",
   "artist": "赤頬思春期",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -18495,14 +18495,14 @@ window.SONG_DATA.push(
 },
     {
   "title": "パンぱんだ",
-  "artist": "SUPER EIGHT",
+  "artist": "横山裕・丸山隆平（SUPER EIGHT）",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=118",
   "source": "others.js"
 },
     {
-  "title": "ステキな日曜日～Gyu Gyuグッディ！",
+  "title": "ステキな日曜日～Gyu Gyu グッデイ!～",
   "artist": "芦田愛菜",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -18510,7 +18510,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "#あくあ色パレット",
+  "title": "#あくあ色ぱれっと",
   "artist": "湊あくあ",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -18526,7 +18526,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "世界が終わるまでは",
+  "title": "世界が終るまでは…",
   "artist": "WANDS",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -18582,7 +18582,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "さよならの夏",
+  "title": "さよならの夏～コクリコ坂から～",
   "artist": "手嶌葵",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -18631,7 +18631,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ドラマツルギー",
-  "artist": "Eve",
+  "artist": "Eve feat. 初音ミク",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=135",
@@ -18695,14 +18695,14 @@ window.SONG_DATA.push(
 },
     {
   "title": "Smile Flower",
-  "artist": "SEVEN TEEN",
+  "artist": "SEVENTEEN",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=143",
   "source": "others.js"
 },
     {
-  "title": "Choosey　Lover",
+  "title": "Choosey Lover",
   "artist": "東方神起",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -18726,7 +18726,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "君のすきなうた",
+  "title": "君の好きなうた",
   "artist": "UVERworld",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -18734,7 +18734,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "Everyday カチューシャ",
+  "title": "Everyday、カチューシャ",
   "artist": "AKB48",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -18766,7 +18766,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "紋白蝶 feat.石原慎也 (Saucy Dog)",
+  "title": "紋白蝶 feat. 石原慎也（Saucy Dog）",
   "artist": "東京スカパラダイスオーケストラ",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -18791,7 +18791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "パンぱんだ",
-  "artist": "(SUPER EIGHT)横山裕  丸山隆平",
+  "artist": "横山裕・丸山隆平（SUPER EIGHT）",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=155",
@@ -18815,7 +18815,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ドコノコノキノコ",
-  "artist": "横山だいすけ、三谷たくみ",
+  "artist": "横山だいすけ・三谷たくみ",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=158",
@@ -18831,7 +18831,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "天体観測",
-  "artist": "BUMP OF CHIKEN",
+  "artist": "BUMP OF CHICKEN",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=160",
@@ -18847,14 +18847,14 @@ window.SONG_DATA.push(
 },
     {
   "title": "ジャンキーナイトタウンオーケストラ",
-  "artist": "すりぃ",
+  "artist": "すりぃ feat. 鏡音レン",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=162",
   "source": "others.js"
 },
     {
-  "title": "超めでたいソング ～こんなに幸せでいいのかな？",
+  "title": "超めでたいソング ～こんなに幸せでいいのかな？～",
   "artist": "FRUITS ZIPPER",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -18870,7 +18870,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "Borelo",
+  "title": "Bolero",
   "artist": "東方神起",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -18919,14 +18919,14 @@ window.SONG_DATA.push(
 },
     {
   "title": "君が代",
-  "artist": "国家",
+  "artist": "日本国国歌",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=171",
   "source": "others.js"
 },
     {
-  "title": "Nagisa",
+  "title": "NAGISA",
   "artist": "imase",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -18943,7 +18943,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想感傷代償連盟",
-  "artist": "DECO*27",
+  "artist": "DECO*27 feat. 初音ミク",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=174",
@@ -18999,14 +18999,14 @@ window.SONG_DATA.push(
 },
     {
   "title": "翡翠のまち",
-  "artist": "メル",
+  "artist": "メル feat. 初音ミク",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=181",
   "source": "others.js"
 },
     {
-  "title": "#あくあ色パレット",
+  "title": "#あくあ色ぱれっと",
   "artist": "湊あくあ",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
@@ -19015,7 +19015,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "酔いどれ知らず",
-  "artist": "Kanaria",
+  "artist": "Kanaria feat. GUMI",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=183",
@@ -19023,7 +19023,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君に届け",
-  "artist": "lumpool",
+  "artist": "flumpool",
   "collection": "【 Tencho Ch. 萌水 団】192首？】GW企画【240503-240505】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ4m1A7FC?p=184",
