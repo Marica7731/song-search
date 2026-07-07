@@ -292,6 +292,42 @@
       "avatarText": "み",
       "accentColor": "hsl(180 55% 36%)"
     },
+    "neno": {
+      "avatarUrl": "https://yt3.googleusercontent.com/NZfXA02rgZCMyGPIYK5E0dAta4X3Qqcr_p2JKrk4sHDeHK0NhHdRKiT3gxrax87SsTjNhYN7-c4=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/@aoineno",
+      "avatarText": "碧",
+      "accentColor": "hsl(72 55% 36%)"
+    },
+    "suzuhanainori": {
+      "avatarUrl": "https://yt3.googleusercontent.com/Llf5pwT3CH3yuwiDxG6HhJqo48TpfJtTBPVkGwAFeKK7TEypfumsV3tdKY6hQ_VuOFDqbls_cjo=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/@SuzuhanaInori",
+      "avatarText": "鈴",
+      "accentColor": "hsl(312 55% 36%)"
+    },
+    "chiyourachomi": {
+      "avatarUrl": "https://yt3.googleusercontent.com/JaO3wmWCMkES920K9IRbHACAB4PakxQE9zQF0FNOJFosxvJPCNxTt8iOTRk9KdK2NXPEwAkbrA=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/@chiyomi0812",
+      "avatarText": "千",
+      "accentColor": "hsl(108 55% 36%)"
+    },
+    "tamamachipue": {
+      "avatarUrl": "https://yt3.googleusercontent.com/ZjP172JCOIUZlDnxdEQucdEQCQbg7-qST-uTGrmrlNXPDLDa60RI0KqBI734O6QYBDCP7s0M8g=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/@Tamamachi_Pue",
+      "avatarText": "玉",
+      "accentColor": "hsl(73 55% 36%)"
+    },
+    "isshikiizu": {
+      "avatarUrl": "https://yt3.googleusercontent.com/S7IoWZcIetb6pyLz2MOaeED82tlocv0N87QXfjWyhRlhzyDC2fQVIh3rejXB0wCt5CMzXYry=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/@一色イズ",
+      "avatarText": "一",
+      "accentColor": "hsl(156 55% 36%)"
+    },
+    "ronaru": {
+      "avatarUrl": "https://yt3.googleusercontent.com/MqZgQVKiX4pk8k5OXfDsYz467LlcHlwtRIMMSPpdxkB1q0ZCATGv-uOqYa2oAZf9Hi_iUJYEXw=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/@irorinaru",
+      "avatarText": "炉",
+      "accentColor": "hsl(253 55% 36%)"
+    },
     "others": {
       "avatarUrl": "https://yt3.googleusercontent.com/_2i1jMJwh7YSnjL-fBAKjk1MwifblrszTpuWTj2FRQcWFd_MYd9ruURdtl2xBDEk2tagsia1EA=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/channel/UC9r-kOFnESwkay0Q2O2cHdw",
