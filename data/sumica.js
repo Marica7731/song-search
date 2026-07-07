@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 7/7/2026, 2:56:29 AM
+// 生成时间: 7/7/2026, 3:07:48 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5731,6 +5731,190 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-07-05]新人也来玩吧！！中午悠闲地唱歌～～⟡.*￤澄花/Puroburu -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1E6TU6REic?p=21",
+  "source": "sumica.js"
+},
+    {
+  "title": "声",
+  "artist": "羊文学",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "ただ声一つ",
+  "artist": "ロクデナシ",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "今更だって僕は言うかな",
+  "artist": "Saucy Dog",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "さよならモルテン",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "怪獣の腕のなか",
+  "artist": "きのこ帝国",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat. 初音ミク",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "コントラスト",
+  "artist": "TOMOO",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "そっけない",
+  "artist": "RADWIMPS",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "05410-(ん)",
+  "artist": "RADWIMPS",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "25コ目の染色体",
+  "artist": "RADWIMPS",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "七ノ歌",
+  "artist": "RADWIMPS",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "ぷんぷん",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "パープル",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "又三郎",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=20",
+  "source": "sumica.js"
+},
+    {
+  "title": "Hey my friend",
+  "artist": "Tommy heavenly6",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=21",
+  "source": "sumica.js"
+},
+    {
+  "title": "未确定",
+  "artist": "未确定",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=22",
+  "source": "sumica.js"
+},
+    {
+  "title": "未确定",
+  "artist": "未确定",
+  "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=23",
   "source": "sumica.js"
 }
 );
