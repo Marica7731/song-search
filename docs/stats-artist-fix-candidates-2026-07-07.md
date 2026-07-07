@@ -9,68 +9,36 @@
 ## 数据源
 
 - source: `https://www.culua.com/api/all-songs`
-- songs: 33724
-- high confidence fixes: 54
+- songs: 33811
+- high confidence fixes: 21
 - duplicate groups listed: 80
+- variant groups listed: 113
 
 ## 高置信待编辑
 
 | BV | P | 来源 | 当前 | 建议修改 | 编辑链接 |
 |---|---:|---|---|---|---|
 | `BV1owcoz3Ekw` | 57 | 知悠 | `57. だから僕は音楽辞めた - ヨルシカ` | `57. だから僕は音楽を辞めた - ヨルシカ` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1owcoz3Ekw |
-| `BV1owcoz3Ekw` | 63 | 知悠 | `63. 丸の内サディスティック - 椎名林檎` | `63. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1owcoz3Ekw |
-| `BV1zxQpBsEnQ` | 8 | 紅葉丸 | `08. 丸の内サディスティック - 椎名林檎` | `08. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1zxQpBsEnQ |
-| `BV1Bjo7B9EPG` | 4 | 紅葉丸 | `04. 丸の内サディスティック - 椎名林檎` | `04. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1Bjo7B9EPG |
-| `BV1UwwRz4Ef2` | 6 | 戸鎖くくり | `06. 丸の内サディスティック - 椎名林檎` | `06. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1UwwRz4Ef2 |
-| `BV1V8ZABkEtf` | 1 | なれたん | `01. 丸の内サディスティック - 椎名林檎` | `01. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1V8ZABkEtf |
 | `BV1VZwgz3Eqe` | 3 | なれたん | `03. だから僕は音楽をやめた - ヨルシカ` | `03. だから僕は音楽を辞めた - ヨルシカ` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1VZwgz3Eqe |
 | `BV1vD421n7oj` | 12 | Figaro | `12. 噓月 - ヨルシカ` | `12. 嘘月 - ヨルシカ` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1vD421n7oj |
-| `BV14F4m1w7uq` | 3 | Figaro | `03. 丸の内サディスティック - 椎名林檎` | `03. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV14F4m1w7uq |
 | `BV1PKhyeiEYa` | 16 | Figaro | `16. 噓月 - ヨルシカ` | `16. 嘘月 - ヨルシカ` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1PKhyeiEYa |
-| `BV1rzYUejEuk` | 4 | Figaro | `04. 丸の内サディスティック - 椎名林檎` | `04. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1rzYUejEuk |
 | `BV17P16YaEbf` | 13 | Figaro | `13. 噓月 - ヨルシカ` | `13. 嘘月 - ヨルシカ` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV17P16YaEbf |
 | `BV1DnCTY9ED4` | 18 | Figaro | `18. 噓月 - ヨルシカ` | `18. 嘘月 - ヨルシカ` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1DnCTY9ED4 |
 | `BV1A69zYtE9v` | 17 | Figaro | `17. 噓月 - ヨルシカ` | `17. 嘘月 - ヨルシカ` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1A69zYtE9v |
 | `BV1Nxu6zcExA` | 15 | Figaro | `15. 噓月 - ヨルシカ` | `15. 嘘月 - ヨルシカ` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1Nxu6zcExA |
 | `BV1pwH1zNEKX` | 8 | Figaro | `08. 噓月 - ヨルシカ` | `08. 嘘月 - ヨルシカ` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1pwH1zNEKX |
-| `BV1ozpRz9EMG` | 1 | Figaro | `01. 丸の内サディスティック - 椎名林檎` | `01. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1ozpRz9EMG |
-| `BV1ivkcBiEUE` | 14 | Figaro | `14. 丸の内サディスティック - 椎名林檎` | `14. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1ivkcBiEUE |
-| `BV1JR6GBvEN1` | 18 | 凛々咲 | `18. 丸の内サディスティック - 椎名林檎` | `18. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1JR6GBvEN1 |
-| `BV1XZ7XzNER4` | 6 | 凛々咲 | `06. 丸の内サディスティック - 椎名林檎` | `06. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1XZ7XzNER4 |
 | `BV13ixdz4E4j` | 21 | 凛々咲 | `21. 晴れ - ヨルシカ` | `21. 晴る - ヨルシカ`<br>需人工听音或核对分 P；可能是 ただ君に晴れ 的简称。 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV13ixdz4E4j |
-| `BV1djyxBkEoo` | 1 | 凛々咲 | `01. 丸の内サディスティック - 椎名林檎` | `01. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1djyxBkEoo |
-| `BV13c1bBLE8G` | 11 | 凛々咲 | `11. 丸の内サディスティック - 椎名林檎` | `11. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV13c1bBLE8G |
-| `BV1k1421d7sv` | 3 | 稀羽すう | `03. 丸の内サディスティック - 椎名林檎` | `03. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1k1421d7sv |
-| `BV1nw411u7HY` | 3 | 稀羽すう | `03. 丸の内サディスティック - 椎名林檎` | `03. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1nw411u7HY |
-| `BV1gx4y1k7jg` | 4 | 稀羽すう | `04. 丸の内サディスティック - 椎名林檎` | `04. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1gx4y1k7jg |
 | `BV1T1vtezE33` | 18 | 稀羽すう | `18. 都落ち（落京） - ヨルシカ` | `18. 都落ち - ヨルシカ` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1T1vtezE33 |
-| `BV13y45eWEUm` | 2 | 稀羽すう | `02. 丸の内サディスティック - 椎名林檎` | `02. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV13y45eWEUm |
-| `BV17iXiYzE26` | 2 | 稀羽すう | `02. 丸の内サディスティック - 椎名林檎` | `02. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV17iXiYzE26 |
-| `BV1BqJwzeENe` | 9 | 稀羽すう | `09. 丸の内サディスティック - 椎名林檎` | `09. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1BqJwzeENe |
-| `BV1vyzXB6EHN` | 11 | 稀羽すう | `11. 丸の内サディスティック - 椎名林檎` | `11. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1vyzXB6EHN |
 | `BV1FJogBzE9V` | 12 | 稀羽すう | `12. だから僕は音楽をやめた - ヨルシカ` | `12. だから僕は音楽を辞めた - ヨルシカ` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1FJogBzE9V |
-| `BV1mJZwB8EVa` | 5 | 來-Ray- | `05. 丸の内サディスティック - 椎名林檎` | `05. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1mJZwB8EVa |
-| `BV1wUZcBQEBo` | 18 | 來-Ray- | `18. 丸の内サディスティック - 椎名林檎` | `18. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1wUZcBQEBo |
-| `BV1yTXmBBEG1` | 7 | 音門るき | `07. 丸の内サディスティック - 椎名林檎` | `07. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1yTXmBBEG1 |
-| `BV1MEP8z4E1J` | 15 | 天ノ譜ステラ | `15. 丸の内サディスティック - 椎名林檎` | `15. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1MEP8z4E1J |
-| `BV1MEP8z4E1J` | 96 | 天ノ譜ステラ | `96. 丸の内サディスティック - 椎名林檎` | `96. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1MEP8z4E1J |
 | `BV1X4wqzjECD` | 55 | 朱名 | `55. 晴れ - ヨルシカ` | `55. 晴る - ヨルシカ`<br>需人工听音或核对分 P；可能是 ただ君に晴れ 的简称。 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1X4wqzjECD |
-| `BV1c1QxBuEnn` | 3 | 澄花 | `03. 丸の内サディスティック - 椎名林檎` | `03. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1c1QxBuEnn |
 | `BV1ds99BVEiH` | 13 | 澄花 | `13. 火星人（お試し） - ヨルシカ` | `13. 火星人 - ヨルシカ` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1ds99BVEiH |
 | `BV1RSL36aEsz` | 6 | 澄花 | `06. ここでキスして - 椎名林檎` | `06. ここでキスして。 - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1RSL36aEsz |
 | `BV1QESRBaE6g` | 6 | ロマニードットアイオー | `06. ここでキスして - 椎名林檎` | `06. ここでキスして。 - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1QESRBaE6g |
-| `BV19nQUB9EyB` | 1 | 联动 | `01. 丸の内サディスティック - 椎名林檎` | `01. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV19nQUB9EyB |
 | `BV19nQUB9EyB` | 7 | 联动 | `07. だから僕は音楽をやめた - ヨルシカ` | `07. だから僕は音楽を辞めた - ヨルシカ` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV19nQUB9EyB |
 | `BV11GZtBcEsp` | 113 | CULUA | `113. ここでキスして - 椎名林檎` | `113. ここでキスして。 - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV11GZtBcEsp |
-| `BV1daVs6eE2r` | 17 | ななし律歌 | `17. 丸の内サディスティック - 椎名林檎` | `17. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1daVs6eE2r |
-| `BV1daVs6eE2r` | 18 | ななし律歌 | `18. 丸の内サディスティック - 椎名林檎` | `18. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1daVs6eE2r |
-| `BV1jbGq6wEMw` | 7 | 響架 | `07. 丸の内サディスティック - 椎名林檎` | `07. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1jbGq6wEMw |
 | `BV1L4J56SEbg` | 16 | 323 | `16. だから僕は音楽をやめた - ヨルシカ` | `16. だから僕は音楽を辞めた - ヨルシカ` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1L4J56SEbg |
 | `BV1qZQzBqE1s` | 11 | 非常驻妹妹 | `11. 晴れ - ヨルシカ` | `11. 晴る - ヨルシカ`<br>需人工听音或核对分 P；可能是 ただ君に晴れ 的简称。 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1qZQzBqE1s |
-| `BV1VroAB3EBy` | 2 | 非常驻妹妹 | `02. 丸の内サディスティック - 椎名林檎` | `02. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1VroAB3EBy |
-| `BV1ReVs6AEmk` | 9 | 非常驻妹妹 | `09. 丸の内サディスティック - 椎名林檎` | `09. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1ReVs6AEmk |
 | `BV1LJ4m1A7FC` | 101 | 非常驻妹妹 | `101. だから僕は音楽をやめた - ヨルシカ` | `101. だから僕は音楽を辞めた - ヨルシカ` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1LJ4m1A7FC |
-| `BV1co7i6QEez` | 16 | 一色イズ | `16. 丸の内サディスティック - 椎名林檎` | `16. 丸ノ内サディスティック - 椎名林檎` | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1co7i6QEez |
 
 ## 同一 BV 内同歌名歌手多 P 候选
 
@@ -159,6 +127,126 @@
 | `BV15acWzkE5k` | 37, 91 | `Pray - 水樹奈々` | 非常驻妹妹 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV15acWzkE5k |
 | `BV15acWzkE5k` | 39, 45 | `Realize - 玉置成実` | 非常驻妹妹 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV15acWzkE5k |
 
+## 同歌手标题表记变体候选
+
+这些只用于发现可能需要补归一化或人工确认的候选，不等同于需要编辑 B 站标题。
+
+| 歌手 | 分类 | 标题变体 | 计数 | 示例编辑链接 |
+|---|---|---|---:|---|
+| コレサワ | 标题表记差异，需人工确认 | `たばこ`<br>`タバコ` | 75 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1ssw6zLEZE |
+| ヨルシカ | 标题表记差异，需人工确认 | `都落ち`<br>`都落ち（落京）` | 56 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1GBLZ64EcY |
+| DECO*27 | 版本/编曲/声优风险，需人工确认 | `モニタリング`<br>`モニタリング (Best Friend Remix)` | 44 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1owcoz3Ekw |
+| M!LK | 标题表记差异，需人工确认 | `好きすぎて滅`<br>`好きすぎて滅！`<br>`好きすぎて滅!` | 39 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1b3wPzEEvs |
+| ヨルシカ | 标题表记差异，需人工确认 | `火星人`<br>`火星人（お試し）` | 32 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1GHNgz2E9x |
+| NOMELON NOLEMON | 标题表记差异，需人工确认 | `ミッドナイト・リフレクション`<br>`ミッドナイト･リフレクション` | 31 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1LdGb6rEsS |
+| MAISONdes | 标题表记差异，需人工确认 | `トウキョウ・シャンディ・ランデヴ`<br>`トウキョウ・シャンディ・ランデヴー` | 30 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1GHNgz2E9x |
+| Aimer | 标题表记差异，需人工确认 | `RE: I AM`<br>`RE:I AM`<br>`REI AM` | 29 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV16PQ5BqEFv |
+| ヨルシカ | 形近字/异体字候选 | `嘘月`<br>`噓月` | 28 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1GHNgz2E9x |
+| 小野正利 | 标题表记差异，需人工确认 | `departure`<br>`departure!` | 28 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1gvZABuE16 |
+| YUI | 标题表记差异，需人工确认 | `SUMMER SONG`<br>`SUMMERSONG` | 27 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1bdAGz5EDk |
+| キタニタツヤ | 标题表记差异，需人工确认 | `ずうっといっしょ`<br>`ずうっといっしょ！`<br>`ずうっといっしょ!` | 26 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1b3wPzEEvs |
+| 森山直太朗 | 标题表记差异，需人工确认 | `さくら`<br>`さくら（独唱）`<br>`さくら(独唱)` | 26 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1GHNgz2E9x |
+| EasyPop | 标题表记差异，需人工确认 | `ハッピーシンセサイザ`<br>`ハッピーシンセサイザー` | 21 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1icwSzXEYv |
+| キタニタツヤ | 标题表记差异，需人工确认 | `ナイトルーティーン`<br>`ナイトルーティン` | 19 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1vD421n7oj |
+| シェリル・ノーム starring May'n | 标题表记差异，需人工确认 | `ダイアモンド クレバス`<br>`ダイアモンドクレバス` | 19 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1GHNgz2E9x |
+| AiScReam | 标题表记差异，需人工确认 | `愛♡スクリ〜ム!`<br>`愛♡スクリ～ム！`<br>`愛♡スクリ～ム!`<br>`愛♡スクリーム！`<br>`愛♡スクリーム!` | 18 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1R3ZKBHEBf |
+| DATEKEN | 标题表记差异，需人工确认 | `蜜月アン・ドゥ・トロワ`<br>`蜜月アンドゥトロワ` | 17 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1D2wozNEb9 |
+| DECO*27 | 标题表记差异，需人工确认 | `弱虫モンブラン`<br>`弱虫モンブラン (reloaded)` | 15 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1BNtNzaE9D |
+| 本名陽子 | 标题表记差异，需人工确认 | `カントリー・ロード`<br>`カントリーロード` | 15 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1sKE66KEkk |
+| Aimer | 标题表记差异，需人工确认 | `Ref：rain`<br>`Ref:rain`<br>`Refrain` | 13 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1qHcGzSE44 |
+| CUTIE STREET | 标题表记差异，需人工确认 | `かわいいだけじゃだめですか`<br>`かわいいだけじゃだめですか？` | 13 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV13vZABuEpK |
+| miwa | 标题表记差异，需人工确认 | `ヒカリヘ`<br>`ヒカリへ` | 13 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV12s7c6dEFJ |
+| カンザキイオリ | 标题表记差异，需人工确认 | `命に嫌われている`<br>`命に嫌われている。` | 12 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1hF92B7EXa |
+| 島谷ひとみ | 标题表记差异，需人工确认 | `Falco -ファルコ-`<br>`Falco-ファルコ`<br>`Falco-ファルコ-` | 12 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1qyZiB3ECQ |
+| DECO*27 feat. 初音ミク | 版本/编曲/声优风险，需人工确认 | `モニタリング`<br>`モニタリング (Best Friend Remix)` | 11 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1yHVB6UEY9 |
+| femme fatale | 标题表记差异，需人工确认 | `だいしきゅーだいしゅき`<br>`だいしきゅーだいしゅき（安心院みさデュエット）` | 11 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1LP6VBbE7g |
+| 凛々咲 | 标题表记差异，需人工确认 | `Re, Future`<br>`Re,Future` | 11 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1ZZvFzKEUr |
+| 土屋美紀、下屋則子(シェシェ、ミミ) | 假名表记差异，建议归一化不建议改稿 | `闇のBAROQUE -バロック`<br>`闇のBAROQUE -バロック-`<br>`闇のBAROQUE バロック` | 10 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1Fk4y1f7vG |
+| KEI | 标题表记差异，需人工确认 | `Hello, Worker`<br>`Hello,Worker` | 10 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1uwcGzeE3q |
+| しぐれうい | 标题表记差异，需人工确认 | `粛聖!! ロリ神レクイエム☆`<br>`粛聖!!ロリ神レクイエム☆` | 10 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1ZTRJBDEc6 |
+| すりぃ feat. 鏡音レン | 标题表记差异，需人工确认 | `ラヴィ`<br>`ラヴィ(Lavie)` | 10 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1fPo1BiExH |
+| 平野綾 | 标题表记差异，需人工确认 | `冒険でしょでしょ`<br>`冒険でしょでしょ？`<br>`冒険でしょでしょ?` | 10 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1qyj66pEED |
+| 放課後ティータイム | 标题表记差异，需人工确认 | `U & I`<br>`U&I` | 10 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1GHNgz2E9x |
+| ReoNa | 标题表记差异，需人工确认 | `シャル・ウィ・ダンス`<br>`シャル・ウィ・ダンス？` | 9 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1nRwKe7Ens |
+| wowaka | 假名表记差异，建议归一化不建议改稿 | `アンノウン・マザーグース`<br>`アンノウンマザーグース` | 9 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1yHVB6UEY9 |
+| 神戸みゆき | 假名表记差异，建议归一化不建议改稿 | `太陽の楽園～Promised Land`<br>`太陽の楽園~Promised Land`<br>`太陽の楽園～Promised Land～` | 9 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1nx4y1J7r6 |
+| 秦基博 | 标题表记差异，需人工确认 | `鱗`<br>`鱗(うろこ)` | 9 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1CsSUBNEX7 |
+| 槇原敬之 | 标题表记差异，需人工确认 | `どんなときも`<br>`どんなときも。` | 9 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1wEGD6jEBT |
+| MIMI | 标题表记差异，需人工确认 | `今はいいんだよ`<br>`今はいいんだよ。` | 8 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1owcoz3Ekw |
+| supercell | 标题表记差异，需人工确认 | `LOVE & ROLL`<br>`LOVE&ROLL` | 8 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1pEDtBrE24 |
+| THE ORAL CIGARETTES | 标题表记差异，需人工确认 | `狂乱 Hey Kids!!`<br>`狂乱Hey Kids!!` | 8 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1UAdsBXE32 |
+| TrySail | 标题表记差异，需人工确认 | `adrenaline!!`<br>`adrenaline!!!` | 8 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1jxZABLEWJ |
+| 湊あくあ | 符号表记差异，建议归一化 | `#あくあ色ぱれっと`<br>`#あくあ色パレット` | 8 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1uMvyBbESw |
+| サンボマスター | 标题表记差异，需人工确认 | `できっこないを やらなくちゃ`<br>`できっこないをやらなくちゃ` | 7 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1gx4y1k7jg |
+| 徳永英明 | 标题表记差异，需人工确认 | `レイニー ブルー`<br>`レイニーブルー` | 7 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1J5P7zrEB3 |
+| 片霧烈火 | 标题表记差异，需人工确认 | `why, or why not`<br>`Why, or why not`<br>`why,or why not` | 7 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1UJYFzLEbs |
+| DECO*27 | 版本/编曲/声优风险，需人工确认 | `シンデレラ`<br>`シンデレラ (Giga First Night Remix)`<br>`シンデレラ(Giga First Night Remix)` | 6 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1GHNgz2E9x |
+| 星街すいせい | 标题表记差异，需人工确认 | `灼熱にて純情`<br>`灼熱にて純情 (wii-wii-woo)`<br>`灼熱にて純情(wii-wii-woo)` | 6 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1owcoz3Ekw |
+| LiSA | 标题表记差异，需人工确认 | `Rock Mode`<br>`ROCK-mode` | 6 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1UU411Z7W6 |
+| カンザキイオリ feat.初音ミク | 标题表记差异，需人工确认 | `命に嫌われている`<br>`命に嫌われている。` | 6 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1o4EJ6cEs3 |
+| クリープハイプ | 标题表记差异，需人工确认 | `ex ダーリン`<br>`exダーリン` | 6 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1eKeKzGEhq |
+| なとり | 标题表记差异，需人工确认 | `フライデー・ナイト`<br>`フライデーナイト` | 6 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1HeDxYVEFk |
+| 奥井亜紀 | 标题表记差异，需人工确认 | `Wind Climbing ～風にあそばれて～`<br>`Wind Climbing～風にあそばれて～` | 6 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV16PQ5BqEFv |
+| 椎名林檎 | 标题表记差异，需人工确认 | `ここでキスして`<br>`ここでキスして。` | 6 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV13c1bBLE8G |
+| μ's | 标题表记差异，需人工确认 | `夏色えがおで1, 2, Jump!`<br>`夏色えがおで1,2,Jump!` | 6 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1LCVeeUE5s |
+| BUMP OF CHICKEN | 标题表记差异，需人工确认 | `ラフ・メイカー`<br>`ラフメイカー` | 5 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1uBVu6LEaf |
+| DREAMS COME TRUE | 标题表记差异，需人工确认 | `未来予想図 II`<br>`未来予想図II` | 5 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1n1fqBWECg |
+| ONE OK ROCK | 标题表记差异，需人工确认 | `完全感覚 Dreamer`<br>`完全感覚Dreamer` | 5 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV14eEf6fEez |
+| sleep warp | 假名表记差异，建议归一化不建议改稿 | `僕らの浮力、あるいは引力`<br>`僕らの浮力あるいは引力` | 5 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1am411m7pp |
+| 山下智久 | 标题表记差异，需人工确认 | `愛 テキサス`<br>`愛、テキサス` | 5 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV18GdkB6E7p |
+| 西野カナ | 标题表记差异，需人工确认 | `会いたくて 会いたくて`<br>`会いたくて会いたくて` | 5 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1Z6gvzMEtW |
+| 超学生 | 标题表记差异，需人工确认 | `ルーム No.4`<br>`ルームNo.4` | 5 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1hrDNBtEm1 |
+| ASIAN KUNG-FU GENERATION | 标题表记差异，需人工确认 | `Re:Re`<br>`Re:Re:`<br>`ReRe` | 4 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1U4bxeHEkT |
+| fripSide | 标题表记差异，需人工确认 | `LEVEL5-Judgelight`<br>`LEVEL5-judgelight-` | 4 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1NuNNznEnE |
+| Lia | 标题表记差异，需人工确认 | `My Soul, Your Beats!`<br>`My Soul,Your Beats!` | 4 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV14GVV6UEsz |
+| May'n | 标题表记差异，需人工确认 | `ダイアモンド クレバス`<br>`ダイアモンドクレバス` | 4 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1iFQ6BKE7X |
+| niki | 标题表记差异，需人工确认 | `-ERROR`<br>`ERROR` | 4 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1Ym411y75K |
+| ビクトリーム(CV:若本規夫) | 假名表记差异，建议归一化不建议改稿 | `ベリーメロン ～私の心をつかんだ良いメロン～`<br>`ベリーメロン～私の心をつかんだ良いメロン～` | 4 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1KNwXzmEAV |
+| 屋比久知奈 | 标题表记差异，需人工确认 | `どこまでも ~How Far I'll Go~`<br>`どこまでも ～How Far I'll Go～`<br>`どこまでも～How FarI'll Go～` | 4 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1o2AxzoEmQ |
+| 幾田りら | 假名表记差异，建议归一化不建议改稿 | `Answer`<br>`Answer（1番のみ）` | 4 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1PWdHBkEig |
+| 桜高軽音部 | 标题表记差异，需人工确认 | `Cagayake! GIRLS`<br>`Cagayake!GIRLS` | 4 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV19QGi64E9d |
+| 山口百恵 | 标题表记差异，需人工确认 | `プレイバック Part2`<br>`プレイバックPart2` | 4 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1hRZPB5EDD |
+| 小田和正 | 标题表记差异，需人工确认 | `ラブ・ストーリーは突然に`<br>`ラブストーリーは突然に` | 4 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1nK421C7AQ |
+| 大塚愛 | 标题表记差异，需人工确认 | `大好きだよ`<br>`大好きだよ。` | 4 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1wYGi66ESf |
+| 槇原敬之 | 标题表记差异，需人工确认 | `北風 〜君にとどきますように〜`<br>`北風～君にとどきますように` | 4 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV167c2znErj |
+| AKINO with bless4 | 假名表记差异，建议归一化不建议改稿 | `君の神話 ～アクエリオン第二章`<br>`君の神話 アクエリオン第二章`<br>`君の神話～アクエリオン第二章` | 3 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1X5Tz6DEcz |
+| 来源处未提供标准格式歌手 | 假名表记差异，建议归一化不建议改稿 | `エルの楽園 ［→ side：Ａ →］`<br>`エルの楽園 ［→ side：Ｅ →］`<br>`エルの楽園［→ sideE →］` | 3 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1UVpnzCEpW |
+| Boa | 标题表记差异，需人工确认 | `まもりたい 〜White Wishes〜`<br>`まもりたい ～White Wishes～`<br>`まもりたい～White Wishes～` | 3 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1owcoz3Ekw |
+| CULUA | 标题表记差异，需人工确认 | `てんぺんち`<br>`てんぺんちー` | 3 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV11GZtBcEsp |
+| Dios/シグナルP feat. 初音ミク・KAITO | 标题表记差异，需人工确认 | `サンドリヨン`<br>`サンドリヨン（Cendrillon）` | 3 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1nvRbBWEH4 |
+| EGOIST | 标题表记差异，需人工确认 | `BANG!!`<br>`BANG!!!` | 3 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1efCTYZEXJ |
+| KEI feat. 巡音ルカ | 标题表记差异，需人工确认 | `Hello, Worker`<br>`Hello,Worker` | 3 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1yt7c69EsQ |
+| Sound Horizon | 假名表记差异，建议归一化不建议改稿 | `エルの楽園 ［→ side：A →］`<br>`エルの楽園 ［→ side：E →］`<br>`エルの楽園 ［→ side：Ｅ →］` | 3 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV17d19YNEu1 |
+| T.M.Revolution | 标题表记差异，需人工确认 | `INVOKE -インヴォーク-`<br>`INVOKE-インヴォーク-` | 3 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1LJ4m1A7FC |
+| シェリル・ノーム starring May'n | 标题表记差异，需人工确认 | `ダイヤモンド クレバス`<br>`ダイヤモンドクレバス` | 3 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1B7f8BbEQm |
+| ターニャ・デグレチャフ(悠木碧) | 标题表记差异，需人工确认 | `Los! Los! Los!`<br>`Los!！Los！ Los！` | 3 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV15DouBbEt1 |
+| ビクトリーム(若本規夫) | 假名表记差异，建议归一化不建议改稿 | `ベリーメロン ～私の心をつかんだ良いメロン～`<br>`ベリーメロン～私の心をつかんだ良いメロン～` | 3 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1yHVB6UEY9 |
+| 奥華子 | 标题表记差异，需人工确认 | `楔 -くさび-`<br>`楔-くさび-` | 3 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1wrMw6aETT |
+| 高橋広樹 | 标题表记差异，需人工确认 | `チチをもげ`<br>`チチをもげ!` | 3 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1iTMVzeEhS |
+| 菅田将暉 | 标题表记差异，需人工确认 | `ロングホープ・フィリア`<br>`ロングホープフィリア` | 3 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1ModYBUERM |
+| 中森明菜 | 标题表记差异，需人工确认 | `DESIRE -情熱-`<br>`DESIRE 情熱` | 3 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1hRZPB5EDD |
+| 蝶々P feat.初音ミク | 标题表记差异，需人工确认 | `え!あぁ、そう。`<br>`え？あぁ、そう。` | 3 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1B7f8BbEQm |
+| AKB48 | 标题表记差异，需人工确认 | `Everyday カチューシャ`<br>`Everyday、カチューシャ` | 2 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1LJ4m1A7FC |
+| koyori feat. 初音ミク | 标题表记差异，需人工确认 | `独りんぼエンヴィ`<br>`独りんぼエンヴィー` | 2 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1dbnszwEyh |
+| LiSA | 标题表记差异，需人工确认 | `赤い罠(who loves it?)`<br>`赤い罠(who loves it)` | 2 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1qkZiBkEaY |
+| Mr.Children | 假名表记差异，建议归一化不建议改稿 | `シーソーゲーム 〜勇敢な恋の歌〜`<br>`シーソーゲーム～勇敢な恋の歌～` | 2 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1R86NBBECr |
+| niki feat.Lily | 标题表记差异，需人工确认 | `-ERROR`<br>`ERROR` | 2 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1KNwXzmEAV |
+| Vaundy | 标题表记差异，需人工确认 | `タイムパラどックス`<br>`タイムパラドックス` | 2 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1NEQBBjEJG |
+| シェリル・ノーム | 标题表记差异，需人工确认 | `ダイアモンド クレバス`<br>`ダイアモンドクレバス` | 2 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1d6Gn6UEKF |
+| シェリル・ノーム starring May'n | 标题表记差异，需人工确认 | `What 'bout my star`<br>`What 'bout my star?` | 2 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1WgXBByEDu |
+| すとらてぃあ | 标题表记差异，需人工确认 | `Last Tear`<br>`LastTear` | 2 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1KSRXBwE2v |
+| ビクトリーム | 假名表记差异，建议归一化不建议改稿 | `ベリーメロン ～私の心をつかんだ良いメロン～`<br>`ベリーメロン～私の心をつかんだ良いメロン～` | 2 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV199whzeE6R |
+| ロマニードットアイオー | 标题表记差异，需人工确认 | `Sunday n'AI'ght`<br>`Sunday n"AI"ght` | 2 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1iHQXBzEgU |
+| 伊東恵里 | 假名表记差异，建议归一化不建议改稿 | `朝の風景`<br>`朝の風景 (日本語バージョン)` | 2 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1pEDtBrE24 |
+| 一ノ瀬 トキヤ | 标题表记差异，需人工确认 | `星屑 Shall we dance!`<br>`星屑 Shall we dance?` | 2 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1EMiDYTEA7 |
+| 宇多田ヒカル | 标题表记差异，需人工确认 | `Can You Keep A Secret`<br>`Can You Keep A Secret？` | 2 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1yVVe6BE16 |
+| 串田アキラ | 标题表记差异，需人工确认 | `キン肉マン Go Fight!`<br>`キン肉マンGo Fight!` | 2 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1H8XiYCEVt |
+| 古川本舗 | 标题表记差异，需人工确认 | `はなれ ばなれ`<br>`はなれ、ばなれ` | 2 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1TzobBBEUD |
+| 坂口有望 | 标题表记差异，需人工确认 | `好-じょし`<br>`好-じょし-` | 2 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1AZLW61EAP |
+| 中島みゆき | 标题表记差异，需人工确认 | `ファイト`<br>`ファイト！` | 2 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1VEQ2BEEDZ |
+| 不破湊 | 标题表记差异，需人工确认 | `一旦ステイ TONIGHT`<br>`一旦ステイTONIGHT` | 2 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1hrDNBtEm1 |
+| 凛々咲 | 标题表记差异，需人工确认 | `Re_Re_リスタート`<br>`Re:Re:リスタート` | 2 | https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1iN6LBiEgE |
+
 ## 整稿可复制歌单
 
 ### BV1owcoz3Ekw
@@ -228,84 +316,7 @@
 60. セツナトリップ - Last Note.GUMI
 61. sakura - NIRGILIS
 62. IN MY DREAM - 真行寺恵理
-63. 丸ノ内サディスティック - 椎名林檎
-```
-
-### BV1zxQpBsEnQ
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1zxQpBsEnQ
-
-```text
-01. 恋愛裁判 - 40mP
-02. さくら - 森山直太朗
-03. 風になる - つじあやの
-04. ひまわりの約束 - 秦基博
-05. 鱗 - 秦基博
-06. ロビンソン - スピッツ
-07. ドライフラワー - 優里
-08. 丸ノ内サディスティック - 椎名林檎
-09. ヴィラン - てにをは
-10. ラプンツェル - n-buna
-11. 時には昔の話を - 加藤登紀子
-12. ドン・キホーテのテーマ - 田中マイミ
-13. 夏祭り - Whiteberry
-14. 晴る - ヨルシカ
-```
-
-### BV1Bjo7B9EPG
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1Bjo7B9EPG
-
-```text
-01. 鱗 - 秦基博
-02. さくら(独唱) - 森山直太朗
-03. ドン・キホーテのテーマ - 田中マイミ
-04. 丸ノ内サディスティック - 椎名林檎
-```
-
-### BV1UwwRz4Ef2
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1UwwRz4Ef2
-
-```text
-01. 片っぽ - eill
-02. 夜明けと蛍 - n-buna feat. 初音ミク
-03. 雨とカプチーノ - ヨルシカ
-04. メリュー - n-buna feat. 初音ミク
-05. 10月無口な君を忘れる - あたらよ
-06. 丸ノ内サディスティック - 椎名林檎
-07. I Love You - 尾崎豊
-08. OH MY LITTLE GIRL - 尾崎豊
-09. ナラタージュ - adieu
-10. よるのあと - adieu
-11. NIGHT DANCER - imase
-12. Flamingo - 米津玄師
-13. 死神 - 米津玄師
-14. ハレンチ - ちゃんみな
-15. Pop Virus - 星野源
-16. のうぜんかつら - 安藤裕子
-17. オリビアを聴きながら - 杏里
-```
-
-### BV1V8ZABkEtf
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1V8ZABkEtf
-
-```text
-01. 丸ノ内サディスティック - 椎名林檎
-02. 光るなら - Goose house
-03. 名前を呼ぶよ - ラックライフ
-04. 白日 - King Gnu
-05. Good-bye days - YUI for 雨音薫
-06. 愛唄 - GReeeeN
-07. 手紙 ～拝啓十五の君へ～ - アンジェラ・アキ
-08. 愛のかたまり - DOMOTO
-09. 炎 - LiSA
-10. レオ - 優里
-11. 猫 - DISH／／
-12. ライオン - May'n&中島愛
-13. Unlasting - LiSA
-14. Glorious Break - 水樹奈々
+63. 丸の内サディスティック - 椎名林檎
 ```
 
 ### BV1VZwgz3Eqe
@@ -370,28 +381,6 @@
 26. 朝を呑む - バルーン
 ```
 
-### BV14F4m1w7uq
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV14F4m1w7uq
-
-```text
-01. ひまわりの約束 - 秦基博
-02. テルーの唄 - 手嶌葵
-03. 丸ノ内サディスティック - 椎名林檎
-04. 夏の半券 - みきとP
-05. サマータイムレコード - じん
-06. rain stops, good-bye - におP
-07. 夕立のりぼん - みきとP
-08. 晚餐歌 - tuki.
-09. 鬼ノ宴 - 友成空
-10. 夜明けと蛍 - ナブナ
-11. 白ゆき - ナブナ
-12. ワールド・ランプシェード - buzzG
-13. ウィアートル - rionos
-14. のうぜんかつら - 安藤裕子
-15. 君が夜の海に還るまで - キタニタツヤ
-```
-
 ### BV1PKhyeiEYa
 
 编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1PKhyeiEYa
@@ -413,22 +402,6 @@
 14. スピラーレ - 牧野由依
 15. はるのとなり - 佐々木恵梨
 16. 嘘月 - ヨルシカ
-```
-
-### BV1rzYUejEuk
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1rzYUejEuk
-
-```text
-01. 夕立のりぼん - みきとP
-02. ツギハギスタッカート - とあ
-03. チノカテ - ヨルシカ
-04. 丸ノ内サディスティック - 椎名林檎
-05. ふうせん - 酸欠少女さユり
-06. 花になって - 緑黄色社会
-07. 絶頂讃歌 - 和ぬか
-08. 月光 - 鬼束ちひろ
-09. 家に帰ろう（マイ・スイート・ホーム） - 竹内まりや
 ```
 
 ### BV17P16YaEbf
@@ -553,173 +526,6 @@
 15. テロメアの産声 - Heavenz
 ```
 
-### BV1ozpRz9EMG
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1ozpRz9EMG
-
-```text
-01. 丸ノ内サディスティック - 椎名林檎
-02. ルージュの伝言 - 松任谷由実
-03. やわらかな夜 - orange pekoe
-04. 愛の花 - あいみょん
-05. 群青日和 - 東京事変
-```
-
-### BV1ivkcBiEUE
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1ivkcBiEUE
-
-```text
-01. たぶん - YOASOBI
-02. 泥中に咲く - はりーP
-03. さみしいひと - 理芽
-04. Avid - SawanoHiroyuki『nZk』：mizuki
-05. 金木犀 - くじら
-06. ラストリゾート - Ayase
-07. HEAVEN - はりーP
-08. 愛を伝えたいだとか - あいみょん
-09. 僕と花 - サカナクション
-10. 怪獣 - サカナクション
-11. かたちあるもの - 柴咲コウ
-12. フリージア - Uru
-13. 星座になれたら - 結束バンド
-14. 丸ノ内サディスティック - 椎名林檎
-15. 秘密 - 東京事変
-16. フライディ・チャイナタウン - 泰葉
-17. Snow halation - μ's
-18. 回る空うさぎ - Orangestar
-19. アスノヨゾラ哨戒班 - Orangestar
-20. 火星人 - ヨルシカ
-21. 愛のけだもの - 神はサイコロを振らない × キタニタツヤ
-```
-
-### BV1JR6GBvEN1
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1JR6GBvEN1
-
-```text
-01. 夜に駆ける - YOASOBI
-02. けーたいみしてよ - MAISONdes feat. はしメロ・maeshima soshi
-03. ラヴィ - すりぃ feat. 鏡音レン
-04. ヴァンパイア - DECO*27 feat. 初音ミク
-05. アニマル - DECO*27 feat. 初音ミク
-06. Overdose - なとり
-07. HELP!! - Kobo Kanaeru
-08. 真夜中のドア～stay with me - 松原みき
-09. フライディ・チャイナタウン - 泰葉
-10. Shape of My Heart - Sting
-11. Stand by Me - Ben E. King
-12. 紅蓮華 - LiSA
-13. unravel - TK from 凛として時雨
-14. 悪魔の子 - ヒグチアイ
-15. 晴る - ヨルシカ
-16. Anytime Anywhere - milet
-17. September - Earth, Wind & Fire
-18. 丸ノ内サディスティック - 椎名林檎
-19. 1/2 - 川本真琴
-20. シンデレラボーイ - Saucy Dog
-21. ビビデバ - 星街すいせい
-22. みちづれ - 星街すいせい
-23. again - YUI
-24. Rolling star - YUI
-25. ギターと孤独と蒼い惑星 - 結束バンド
-26. God knows... - 涼宮ハルヒ（平野綾）
-27. 裸の心 - あいみょん
-28. ヒカリヘ - miwa
-29. ミカヅキ - さユり
-30. Good-bye days - YUI for 雨音薫
-31. サマータイムレコード - じん feat. IA
-32. 1925 - T-POCKET feat. 初音ミク
-33. 弱虫モンブラン - DECO*27 feat. GUMI
-34. エンヴィーベイビー - Kanaria feat. GUMI
-35. 8番出口 - EO feat. 鏡音リン
-36. ボッカデラベリタ - 柊キライ feat. flower
-37. からくりピエロ - 40mP feat. 初音ミク
-38. シリョクケンサ - 40mP feat. GUMI
-39. さよーならまたいつか! - 米津玄師
-40. メランコリック - Junky feat. 鏡音リン
-41. 酔いどれ知らず - Kanaria feat. GUMI
-42. 吉原ラメント - 亜沙 feat. 重音テト
-43. ロミオとシンデレラ - doriko feat. 初音ミク
-44. 白い雪のプリンセスは - のぼる↑ feat. 初音ミク
-45. 天ノ弱 - 164 feat. GUMI
-46. Calc. - ジミーサムP feat. 初音ミク
-47. ネバーフィクション - Kanaria feat. 星街すいせい
-48. レクイエム - Kanaria feat. 星街すいせい
-49. 酔いどれ知らず - Kanaria feat. GUMI
-50. エンヴィーベイビー - Kanaria feat. GUMI
-51. KING - Kanaria feat. GUMI
-52. ソワレ - 星街すいせい
-53. ビビデバ - 星街すいせい
-54. Fly Me to the Moon - Kaye Ballard
-55. ミカヅキ - さユり
-56. 月光 - 鬼束ちひろ
-57. 晩餐歌 - tuki.
-58. 若者のすべて - フジファブリック
-59. めぐる季節 - 井上あずみ
-60. ルージュの伝言 - 松任谷由実
-61. 風になる - つじあやの
-62. 星座になれたら - 結束バンド
-63. Overdose - なとり
-64. SWEET MEMORIES - 松田聖子
-65. ドライフラワー - 優里
-66. 別の人の彼女になったよ - wacci
-67. First Love - 宇多田ヒカル
-68. Take Me Home, Country Roads - John Denver
-69. Let It Be - The Beatles
-70. Pretender - Official髭男dism
-71. 心做し - 蝶々P feat. GUMI
-72. 楓 - スピッツ
-73. なんでもないや - RADWIMPS
-74. パラレルナイト - 凛々咲
-75. わたしの一番かわいいところ - FRUITS ZIPPER
-76. 全方向美少女 - 乃紫
-77. 食虫植物 - 理芽
-78. 晩餐歌 - tuki.
-79. 怪獣の花唄 - Vaundy
-80. オトナブルー - 新しい学校のリーダーズ
-81. POP STAR - 平井堅
-82. ケセラセラ - Mrs. GREEN APPLE
-83. 炉心融解 - iroha(sasaki) feat. 鏡音リン
-84. マトリョシカ - ハチ feat. 初音ミク・GUMI
-85. メルト - ryo(supercell) feat. 初音ミク
-86. カタオモイ - Aimer
-87. 蝶々結び - Aimer
-88. ルビーの指環 - 寺尾聰
-89. 壊れかけのRadio - 徳永英明
-90. It's My Life - Talk Talk
-91. Numb - Linkin Park
-92. はいよろこんで - こっちのけんと
-93. さよならエレジー - 菅田将暉
-94. KICK BACK - 米津玄師
-95. 怪物 - YOASOBI
-96. 花になって - 緑黄色社会
-97. ブルーバード - いきものがかり
-98. Butter-Fly - 和田光司
-```
-
-### BV1XZ7XzNER4
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1XZ7XzNER4
-
-```text
-01. 1925 - 冨田悠斗(とみー／T-POCKET)
-02. Lemon - 米津玄師
-03. アイネクライネ - 米津玄師
-04. いかないで - 想太
-05. FLY ME TO THE MOON - Bart Howard & Kaye Ballard
-06. 丸ノ内サディスティック - 椎名林檎
-07. 春を告げる - yama
-08. 星間飛行 - ランカ・リー=中島愛
-09. 小夜子 - みきとP
-10. シャルル - バルーン
-11. 帝国少女 - R Sound Design
-12. サウダージ - ポルノグラフィティ
-13. ルパン三世のテーマ - 大野雄二
-14. Just Be Friends - Dixie Flatline
-15. 秒針を噛む - ずっと真夜中でいいのに。
-```
-
 ### BV13ixdz4E4j
 
 编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV13ixdz4E4j
@@ -751,124 +557,6 @@
 24. チチをもげ！ - パルコ・フォルゴレ(高橋広樹)
 ```
 
-### BV1djyxBkEoo
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1djyxBkEoo
-
-```text
-01. 丸ノ内サディスティック - 椎名林檎
-02. 本能 - 椎名林檎
-03. Departures～あなたにおくるアイの歌～ - EGOIST
-04. ラブ・イズ・オーバー - 欧陽菲菲
-05. 異邦人 - 久保田早紀
-06. 恋におちて -Fall in love- - 小林明子
-07. One more time, One more chance - 山崎まさよし
-08. 会いたい - ちゅうでぃー
-09. 夜明けと蛍 - n-buna feat. 初音ミク
-10. ルピーの指輪 - 寺尾聰
-11. Story - AI
-12. たばこ - コレサワ
-13. feel my soul - YUI
-14. はじめてのチュウ - あんしんパパ
-```
-
-### BV13c1bBLE8G
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV13c1bBLE8G
-
-```text
-01. サリシノパラ - みきとP feat. 初音ミク
-02. きゅうくらりん - いよわ feat. 可不
-03. SWEET MEMORIES - 松田聖子
-04. 流星群 - コブクロ
-05. 月光 - 鬼束ちひろ
-06. エィリアンズ - きのホ。 feat. 初音ミク
-07. 弱虫モンブラン - DECO*27
-08. 妄想感傷代償連盟 - DECO*27
-09. ギブス - Sheena Ringo
-10. ここでキスして。 - 椎名林檎
-11. 丸ノ内サディスティック - 椎名林檎
-12. 本能 - 椎名林檎
-13. Bad Day - Daniel Powter
-14. カタオモイ - Aimer
-15. さよならミッドナイト - 大柴広己
-16. 夜明けと蛍 - n-buna feat. 初音ミク
-17. 怪獣 - サカナクション
-18. Wherever you are - ONE OK ROCK
-```
-
-### BV1k1421d7sv
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1k1421d7sv
-
-```text
-01. 東京レトロ - すこっぷ
-02. 東京ブギウギ - 笠置シヅ子
-03. 丸ノ内サディスティック - 椎名林檎
-04. 長く短い祭 - 椎名林檎
-05. 雨傘 - TOKIO
-06. トウキョウ・シャンディ・ランデヴ - MAISONdes
-07. 大阪LOVER - DREAMS COME TRUE
-08. 夜空ノムコウ - SMAP
-09. オレンジ - 逢坂大河(釘宮理恵),櫛枝実乃梨(堀江由衣),川嶋亜美(喜多村英梨)
-10. メリッサ - ポルノグラフィティ
-11. ガーデン - 藤井風
-12. 津軽海峡・冬景色 - 石川さゆり
-13. ノーダウト - Official髭男dism
-14. きらきら武士 - レキシ
-15. 犬かキャットかで死ぬまで喧嘩しよう！ - Official髭男dism
-```
-
-### BV1nw411u7HY
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1nw411u7HY
-
-```text
-01. (恋は)百年戦争 - 相対性理論
-02. ヴィーナスとジーザス - やくしまるえつこ
-03. 丸ノ内サディスティック - 椎名林檎
-04. CHE.R.RY - YUI
-05. 忘れてやらない - 結束バンド
-06. 雨とカプチーノ - ヨルシカ
-07. ノーチラス - ヨルシカ
-08. ブレーメン - ヨルシカ
-09. again - YUI
-10. キラキラ - aiko
-11. メロンソーダ - aiko
-12. ヒッチコック - ヨルシカ
-13. エイリアンズ - キリンジ
-14. One more time, One more chance - 山崎まさよし
-15. ひまわりの約束 - 秦基博
-16. 世界はそれを愛と呼ぶんだぜ - サンボマスター
-```
-
-### BV1gx4y1k7jg
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1gx4y1k7jg
-
-```text
-01. チェリー - スピッツ
-02. 空も飛べるはず - スピッツ
-03. 恋 - 星野源
-04. 丸ノ内サディスティック - 椎名林檎
-05. CHE.R.RY - YUI
-06. SAKURA - いきものがかり
-07. うるわしきひと - いきものがかり
-08. できっこないをやらなくちゃ - サンボマスター
-09. ラブ・ストーリーは突然に - 小田和正
-10. 恋愛裁判 - 40mP
-11. メランコリック - Junky
-12. 純情スカート - 40mP
-13. シャルル - バルーン
-14. ダーリン - 須田景凪
-15. デスぺレート feat. LOLUET - TeddyLoid&Giga
-16. damn - 藤井風
-17. 花 - 藤井風
-18. 晩餐歌 - tuki.
-19. 若者のすべて - フジファブリック
-20. Good-bye days - YUI
-```
-
 ### BV1T1vtezE33
 
 编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1T1vtezE33
@@ -893,92 +581,6 @@
 17. またあした - 想太
 18. 都落ち - ヨルシカ
 19. さよーならまたいつか! - 米津玄師
-```
-
-### BV13y45eWEUm
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV13y45eWEUm
-
-```text
-01. 悪魔の子 - ヒグチアイ
-02. 丸ノ内サディスティック - 椎名林檎
-03. ANIMA - ReoNa
-04. メフィスト - 女王蜂
-05. 名前のない怪物 - EGOIST
-06. NIGHT DANCER - imase
-07. 長く短い祭 - 椎名林檎
-08. 公然の秘密 - 椎名林檎
-09. READY!! - 765PRO ALLSTARS
-10. 祝福 - YOASOBI
-11. ねぇ - Perfume
-12. PONPONPON - きゃりーぱみゅぱみゅ
-13. 真生活 - 案山子
-14. 燈 - 崎山蒼志
-15. さよーならまたいつか！ - 米津玄師
-16. Ready To Party - 稀羽すう
-```
-
-### BV17iXiYzE26
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV17iXiYzE26
-
-```text
-01. ノーダウト - Official髭男dism
-02. 丸ノ内サディスティック - 椎名林檎
-03. 秒針を噛む - ずっと真夜中でいいのに。
-04. 祝福 - YOASOBI
-05. 幾億光年 - Omoinotake
-06. ベテルギウス - 優里
-07. Subtitle - Official髭男dism
-08. 願い - Sumika
-09. One more time, One more chance - 山崎まさよし
-10. 悪魔の子 - ヒグチアイ
-11. だから僕は音楽を辞めた - ヨルシカ
-12. 春泥棒 - ヨルシカ
-13. 怪物 - YOASOBI
-14. 透明人間 - 東京事変
-```
-
-### BV1BqJwzeENe
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1BqJwzeENe
-
-```text
-01. Lemon - 米津玄師
-02. オレンジ - 逢坂大河(cv.釘宮理恵)、櫛枝実乃梨(cv.堀江由衣)、川嶋亜美(cv.喜多村英梨)
-03. チェリー - スピッツ
-04. CHE.R.RY - YUI
-05. 名前の無い怪物 - EGOIST
-06. 地獄で何が悪い - 星野源
-07. supernova - 春野と雄之助
-08. 静かなる逆襲 - 椎名林檎
-09. 丸ノ内サディスティック - 椎名林檎
-10. 愛を伝えたいだとか - あいみょん
-11. 風になる - つじあやの
-12. テルーの唄 - 手嶌葵
-13. 少女レイ - みきとP
-14. できっこないを やらなくちゃ - サンボマスター
-15. 世界はそれを愛と呼ぶんだぜ - サンボマスター
-16. 犬かキャットかで死ぬまでケンカしよう - Official髭男dism
-```
-
-### BV1vyzXB6EHN
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1vyzXB6EHN
-
-```text
-01. calling - Team halcyon
-02. 思い出とペトリコール - 稀羽すう
-03. ワールドイズマイン - ryo
-04. 弱虫モンブラン (reloaded) - DECO*27
-05. melt bitter - さとうもか
-06. 115万キロのフィルム - Official髭男dism
-07. ただ君に晴れ - ヨルシカ
-08. 琥珀色の街、上海蟹の朝 - くるり
-09. 異端なスター - Official髭男dism
-10. 幾億光年 - Omoinotake
-11. 丸ノ内サディスティック - 椎名林檎
-12. 燈 - 崎山蒼志
 ```
 
 ### BV1FJogBzE9V
@@ -1009,526 +611,6 @@
 21. 踊り子 - Vaundy
 22. カタオモイ - Aimer
 23. seaglass - 稀羽すう
-```
-
-### BV1mJZwB8EVa
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1mJZwB8EVa
-
-```text
-01. LUVORATORRRRRY! - GUMI
-02. ピーチティー - ≒JOY
-03. KING - Kanaria
-04. ninelie - Aimer with chelly
-05. 丸ノ内サディスティック - 椎名林檎
-06. magnet - 流星P
-07. 7 - 梅とら feat. LOLUET
-08. Calc. - ジミーサムP
-09. Whisper Whisper Whisper - Azari／v flower／歌愛ユキ
-10. Lockdown(feat. NEONA) - PIKASONIC&Tatsunoshin&Neona
-11. brilliant - niki
-12. 翡翠のまち - メル／初音ミク
-13. シャンティ - 青柳冬弥
-14. 月光 - はるまきごはん
-15. 三冬月。雨と0時 - 初音ミク／キョータ
-16. ラブ&デストロイ - YUUKI MIYAKE／GUMI
-17. ライアーダンス - DECO*27
-18. ロミオとシンデレラ - doriko／初音ミク
-19. エルヴァイオレット - 廉
-20. 命に嫌われている - カンザキイオリ
-21. ラピスレコード - 廉
-22. 出来心 - Kotoha
-23. ロンリーユニバース - Aqu3ra
-24. ByeBye-Lover - samfree／巡音ルカ
-25. 海蛍 - 香椎モイミ／花隈千冬
-26. SPiCa - とくP／初音ミク
-27. jewel - 梅とら
-28. 心象カスケード - Freodore
-29. セパレイト - ポリスピカデリー
-30. ラブ&デストロイ - YUUKI MIYAKE
-31. LadyLike - KIRA GUMI
-32. リコレクションエンドロウル - ツミキ
-33. ナイトダイバー - ファイルーズあい
-34. 夜のピエロ - Ado
-35. 青と夏 - Mrs. GREEN APPLE
-36. とても素敵な六月でした - Eight
-37. 怪獣 - サカナクション
-38. ライカ - yamada
-39. Calc. - ジミーサムP
-40. end tree - 164
-41. 独奏 - YASUHIRO
-42. 夜に駆ける - YOASOBI
-43. Beyond the way - Giga
-44. イレヴンス - ポリスピカデリー
-45. Rising Hope - LiSA
-46. 限りなく灰色へ - すりぃ
-47. ヴァニタス - 青栗鼠(feat.歌愛ユキ)
-48. All Alone With You - EGOIST
-49. ド屑 - なきそ
-50. メリュー - n-buna feat.初音ミク
-51. tear - DATEKEN
-52. 東京テディベア - Neru
-53. 夜もすがら君想ふ - 西沢さんP feat.GUMI
-54. Hello, Worker - KEI
-55. Beat Eater - ポリスピカデリー
-56. 幽霊東京 - Ayase
-57. ARROW - niki
-58. ソラゴト - 明透
-59. スロウリー - 明透
-60. 深淵 - ヰ世界情緒
-61. ラズライト - *Luna
-62. ルーマー - ポリスピカデリー
-63. エピローグ - *Luna
-64. 他人事の音がする - あめのむらくもP
-65. ワーワーワールド - Mitchie M
-66. 花色 - KAITO
-67. 深海アクアリウム - Misumi
-68. 水星都市計画 - R Sound Design
-69. 天使を見たんだ - なつめ千秋 feat. GUMI
-70. シュガーソングとビターステップ - UNISON SQUARE GARDEN
-71. アイネクライネ-piano.ver- - 米津玄師
-72. カメレオン - すりぃ
-73. ヘッジホッグ - Hedgehog
-74. Mirror - Ado
-75. アシンメトリー - なつめ千秋 feat. 鏡音レン
-76. Brave Shine - Aimer
-77. 福寿草 - ぐにょ feat. 初音ミク
-78. Sugar Guitar - ポリスピカデリー
-79. 夕空センチメンタル - エキゾチックかまたに feat. 初音ミク Dark
-80. 背景、夏に溺れる - n-buna feat. 初音ミク
-81. 花降らし - n-buna feat. 初音ミク
-82. 銀河録 - はるまきごはん feat. 初音ミク
-83. 白ゆき - n-buna feat. 初音ミク V3 Dark
-84. 初恋日記 - 香椎モイミ feat. 音街ウナ
-85. Rabbit - john
-86. フラジール - nulut feat. GUMI
-87. お呪い - なきそ feat. 花隈千冬
-88. 虚ろを扇ぐ - 獅子志司 feat. 初音ミク
-89. 命のユースティティア - Neru feat. 鏡音レン
-90. 馬と鹿に謝って - Δ feat. v flower
-91. 地球最後の告白を - kemu feat. GUMI
-92. ロンリーユニバース - Aqu3ra feat. 初音ミク, flower
-93. 流星少女 - れるりり feat. GUMI & 鳴花ヒメ
-94. 花色 - 香椎モイミ feat. KAITO
-95. SPiCa -acoustic arrange.ver- - とくP feat. 初音ミク
-96. Before the Dawn - milet
-97. アイディスマイル - とあ feat. 初音ミク, 鏡音リン
-98. 路地裏ユニバース - 一之瀬ユウ feat. MAYU
-99. レテノール - R Sound Design feat. 初音ミク
-100. FOCUS - KIRA feat. GUMI
-101. L愛KE - 梅とら feat. 初音ミク
-102. イレヴンス - ポリスピカデリー feat. 初音ミク
-103. ナツノカゼ御来光 - ぷす feat. 初音ミク
-104. 恋をしたような - EasyPop feat. 巡音ルカ, 初音ミク
-105. カガリビト - millstones feat. 初音ミク
-106. 怪獣 - サカナクション
-107. Blood - Azari
-108. 7 - 梅とら feat. LOLUET
-109. Beat_Eater - ポリスピカデリー feat. 初音ミク
-110. 雨音ぺトリコール - koyuki feat. 初音ミク
-111. Jewel - 梅とら feat. 初音ミク
-112. メアの教育 - 清水コウ
-113. アイソトープ - syudou feat. 初音ミク
-114. ラピスレコード - 廉 feat. 星界
-115. ユアライト - エキゾチックかまたに feat. 初音ミク
-116. 紫色の向日葵 - 香椎モイミ feat. 羽累
-117. ライカ - 長瀬有花
-118. 牆壁 - Orangestar feat. IA
-119. 海蛍 - 香椎モイミ feat. 花隈千冬
-120. Subtitle - Official髭男dism
-121. SPiCa (Acoustic ver.) - とくP feat. 初音ミク
-122. GLAMOROUS SKY - NANA starring 中島美嘉
-123. Starry map - 霜月はるか
-124. ダヴィンチの告白 - 666 feat. GUMI
-125. Reunion - ClariS
-126. ANIMAる - 梅とら
-127. 愛Dee - Mitchie M feat. 初音ミク, 巡音ルカ
-128. ヨヒラ - n-buna feat. 初音ミク
-129. ナーヴ・インパルス - ポリスピカデリー feat. 闇音レンリ
-130. プラトニック・ラヴ - メル feat. IA
-131. プラネテス - キタニタツヤ
-132. エリカの憂い - ヰ世界情緒
-133. ハナレバナシ - とあ
-134. 虎視眈々 - 梅とら
-135. 夜もすがら君想ふ - 西沢さんP feat.GUMI
-136. Awake Now - 雄之助
-137. プロローグ - Uru
-138. ノルア・ドルア・ビー - すりぃ feat.鏡音レン
-139. ヴァニタス - 青栗鼠(feat.歌愛ユキ)
-140. 出来心 - Kotoha
-141. よるをおよぐ - 西島尊大／初音ミク
-142. Ur-Style - DATEKEN
-143. サラバイサラバイ - とあ
-144. 例えば、今此処に置かれた花に - 164
-145. Perfect World - Lisa Monika YK
-146. 小夜子 - みきとP
-147. RE: I AM - Aimer
-148. ラプンツェル - n-buna
-149. S・K・Y - ライブP
-150. ハイドアンド・シーク - 19 iku
-151. Bye-Bye Lover - samfree
-152. Beautiful World - 宇多田ヒカル
-153. Magnetic - ILLIT
-154. プラチナ - 坂本真綾
-155. Never Grow Up - ちゃんみな
-156. Rem - フヲルテ
-157. ハートアラモード - DECO*27
-158. Mr.Wonder - takamatt
-159. 消えてしまえたならいいのに、なんて - エキゾチックかまたに
-160. シネマ - Ayase
-161. リコレクションエンドロウル - ツミキ
-162. Orca - いるかアイス
-163. 世界を壊している - Neru
-164. チーズケーキクライシス - 西沢さんP
-165. 記憶の水槽 - キタニタツヤ
-166. magnet - minato／流星P
-167. Boi - ポリスピカデリー
-168. 撫でんな - 柊マグネタイト
-169. サラマンダー - DECO*27
-170. ストリーミングハート - DECO*27
-171. シンデレラ(Giga First Night Remix) - DECO*27
-172. ラグトレイン - 稲葉曇
-173. シニヨンの兵隊 - しーくん
-174. 不完全な処遇 - GUMI
-175. ストロボ - YAMADA
-176. ホワイトハッピー - MARETU
-177. 晩餐歌 - tuki.
-178. more than words - 羊文学
-179. 悪魔の子 - ヒグチアイ
-180. ハートブレイク≒ブルース - ケダルイ
-181. ワールド・ランプシェード - GUMI
-182. シリョクケンサ - GUMI
-183. キドアイラク - GUMI
-184. フィクサー - ぬゆり
-185. さかさシンドローム - 19 iku
-186. magic city - 電ポルP
-187. ディナーベル - はるまきごはん
-188. crack - keeno
-```
-
-### BV1wUZcBQEBo
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1wUZcBQEBo
-
-```text
-01. センチメンタルな愛慕心 - なつめ千秋
-02. 春嵐 - john feat. 初音ミク
-03. ダーリンダンス - かいりきベア feat. 初音ミク
-04. だから僕は音楽を辞めた - ヨルシカ
-05. アウトサイダー - Eve feat. 初音ミク
-06. このピアノでお前を8759632145回ぶん殴る - SLAVE.V-V-R feat. 猫村いろは
-07. セイシュンライナー - 蝶々P feat. 初音ミク
-08. ELECT - niki
-09. シャンティ - wotaku feat. KAITO
-10. ゼロ距離恋愛 - れるりり feat. 鳴花ヒメ
-11. ラヴィ - すりぃ feat. 鏡音レン
-12. 唯々なりレイデエ - koyori(電ポルP) feat. 初音ミク
-13. Look at Me Now - スダンナユズユリー
-14. 朱色の砂浜 - みきとP feat. GUMI
-15. バスケットワーム - MI8k feat. GUMI
-16. プラネテス - キタニタツヤ
-17. 夜空色シンパシズム - emon(Tes.) feat. 初音ミク
-18. 丸ノ内サディスティック - 椎名林檎
-19. MOTHER - 奥華子×96猫
-20. 天ノ弱 - 164 feat. GUMI
-21. 雨とペトラ - バルーン feat. flower
-22. 一心不乱 - 梅とら feat. 巡音ルカ, 初音ミク, GUMI
-23. Gimme×Gimme - 八王子P × Giga feat. 初音ミク, 鏡音リン
-24. GETCHA! - Giga & KIRA feat. 初音ミク & GUMI
-25. シネマ - Ayase feat. 初音ミク
-26. レゾンデイトル・カレイドスコウプ - ツミキ feat. 初音ミク
-27. ビビデバ - 星街すいせい
-28. 濫觴生命 - Orangestar feat. IA
-29. 愛を伝えたいだとか - あいみょん
-30. コバルトメモリーズ - はるまきごはん feat. 初音ミク
-31. SPiCa -acoustic arrange.ver- - とくP feat. 初音ミク
-32. ライカ - yamada feat. 初音ミク
-33. 海蛍 - 香椎モイミ feat. 花隈千冬
-34. 光彩 - めろくる feat. 初音ミク
-35. Black Board - 一之瀬ユウ feat. 初音ミク
-36. 少年少女モラトリアムサヴァイヴ - TOKOTOKO(西沢さんP) feat. GUMI
-37. ディスペア - ユリイ・カノン feat. 裏命
-38. ラッシャイナ - 柊マグネタイト feat. 可不
-39. エメラルドシティ - TOKOTOKO(西沢さんP) feat. MAYU
-40. ラブ&デストロイ - MI8k feat. GUMI
-41. 花瓶に触れた - バルーン feat. flower
-42. パメラ - バルーン feat. flower
-43. アイデンティティ - Kanaria feat. GUMI×初音ミク
-44. 君の脈で踊りたかった - ピコン feat. 初音ミク
-45. メルト - ryo feat. 初音ミク
-46. 地球最後の告白を acoustic ver - kemu feat. GUMI
-47. No Logic - ジミーサムP feat. 巡音ルカ
-48. ハウトゥー世界征服 - Neru feat. 鏡音リン & 鏡音レン
-49. 木星のビート - ナユタン星人 feat. 初音ミク
-50. METEOR - T.M.Revolution
-51. 飛行少女 - 國蛋GorDoN
-52. 劇場愛歌 - n-buna feat. miki
-53. 白ゆき - n-buna feat. 初音ミク
-54. アイラ - n-buna feat. GUMI
-55. The Sweet Loop - 香椎モイミ
-56. ミルクパズル - wotaku feat. KAITO
-57. GENTLE - 香椎モイミ feat. 初音ミク
-58. 初恋日記 - 香椎モイミ
-59. ヘッジホッグ - Noz.
-60. GLAMOROUS SKY - 中島美嘉
-61. 出来心 - ポリスピカデリー
-62. Blood - Azari
-63. ピーチティー - なつめ千秋
-64. miss you - ツカダタカシゲ
-65. プラネテス - seiza
-66. 7 - 梅とら
-67. ninelie - Aimer
-68. Beat Eater - ポリスピカデリー
-69. ルカルカ★ナイトフィーバー - samfree
-70. she - keeno
-71. もしも一人残されて、世界が嘘じゃないなら - n.k
-72. my crash - 香椎モイミ
-73. 天誅 - 香椎モイミ
-74. 限りなく灰色へ - すりぃ
-75. G4L - Giga
-76. ソラゴト - asu
-77. スロウリー - asu
-78. シエレトワール - 蝶々P
-79. 命ばっかり - ぬゆり
-80. brilliant - niki
-81. L愛KE - 梅とら
-82. 曖昧さ回避 - ポリスピカデリー
-83. CH4NGE - Giga
-84. 三冬月。雨と０時 - キョータ
-85. ラピスレコード - 廉
-86. 白い雪のプリンセスは - のぼる↑
-87. カガリビト - millstones
-88. 月光 - はるまきごはん
-89. 侵蝕 - niki
-90. Stay - The Kid LAROI, Justin Bieber
-91. STYX HELIX - MYTH&ROID
-92. 晴天前夜 - ウォルピスカーター
-93. 雨音ノイズ - 40mP
-94. Flavor Of Life - 宇多田ヒカル
-95. soundless voice - ひとしずくP
-96. シャルル - バルーン
-97. 明日世界が滅ぶなら - プロペリン
-98. 転校前夜 - risou
-99. ELECT - niki
-100. 絶え間なく藍色 - 獅子志司
-101. 虚ろを扇ぐ - 獅子志司
-102. マインドキャッスル - 廉
-103. 酔いどれ知らず - Kanaria
-104. アスノヨゾラ哨戒班 - Orangestar
-105. ロミオとシンデレラ - doriko
-106. 彼岸薔薇 - iPPei
-107. Jewel - 梅とら
-108. Shadow Shadow - Azari feat. v flower
-109. 月陽-ツキアカリ- - みきとP feat. GUMI
-110. 革命道中 - アイナ・ジ・エンド
-111. アバウト - ヤバス&初音ミク
-112. 月光 - はるまきごはん
-113. 水死体にもどらないで - いよわ feat. 初音ミク, v flower
-114. シニカル・シニカル - 吐息 feat. Such
-115. 紫色の向日葵 - 香椎モイミ feat. 羽累
-116. ソラゴト - 明透
-117. 威風堂々 - 梅とら feat. 巡音ルカ, 初音ミク, GUMI, IA, 鏡音リン
-118. セパレイト - ポリスピカデリー
-119. アイボリー - Aqu3ra
-120. 右肩の蝶 - のりP
-121. 侵蝕 - niki
-122. Beyond the way - Giga
-123. さよならエレジー - 菅田将暉
-124. 夜のピエロ - Ado
-125. モニタリング - DECO*27
-126. Pretender - Official髭男dism
-127. 君が好きだと叫びたい - BAAD
-128. KILLER B - 梅とら
-129. グラーヴェ - niki
-130. ライラック - Mrs. GREEN APPLE
-131. アイソトープ - r-906
-132. ECHO - Crusher-P
-133. アイシテ - とあ
-134. 三日月ステップ - r-906
-135. 少女レイ - みきとP
-```
-
-### BV1yTXmBBEG1
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1yTXmBBEG1
-
-```text
-01. シャルル - flower
-02. 幽霊東京 - Ayase feat. 初音ミク
-03. 夜撫でるメノウ - Ayase feat. 初音ミク
-04. よるのあと - adieu
-05. Soranji - Mrs. GREEN APPLE
-06. 366日 - HY
-07. 丸ノ内サディスティック - 椎名林檎
-08. アイネクライネ - 米津玄師
-09. ライラック - Mrs. GREEN APPLE
-10. 最高到達点 - SEKAI NO OWARI
-11. 夜明けと蛍 - n-buna
-12. 美しい鰭 - スピッツ
-13. 君の知らない物語 - supercell
-14. レオ - 優里
-15. 踊り子 - Vaundy
-16. 春を告げる - yama
-17. なんでもないや(movie ver.) - 上白石萌音
-18. ブラック★ロックシューター - supercell
-```
-
-### BV1MEP8z4E1J
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1MEP8z4E1J
-
-```text
-01. 夜もすがら君想ふ - TOKOTOKO(西沢さんP)
-02. First Love - 宇多田ヒカル
-03. ドライフラワー - 優里
-04. カタオモイ - Aimer
-05. たばこ - コレサワ
-06. 変わらないもの - 奥華子
-07. rain stops, good-bye - におP
-08. ロミオとシンデレラ - doriko
-09. ワールドイズマイン - ryo
-10. 炎 - LiSA
-11. なんでもないや - RADWIMPS
-12. からくりピエロ - 40mP
-13. さよならメモリーズ - supercell
-14. 怪物 - YOASOBI
-15. 丸ノ内サディスティック - 椎名林檎
-16. 主演 - 天ノ譜ステラ
-17. LOSER - 米津玄師(ハチ)
-18. 天ノ弱 - 164
-19. ドライフラワー - 優里
-20. 夜咄ディセイブ - じん(自然の敵P)
-21. ネトゲ廃人シュプレヒコール - さつき が てんこもり
-22. シザーハンズ - Nem
-23. パンダヒーロー - 米津玄師(ハチ)
-24. 罪と罰 - 椎名林檎
-25. トリノコシティ - 40mP
-26. 小夜子 - みきとP
-27. 夜明けと蛍 - n-buna
-28. 少女レイ - みきとP
-29. ハッピーシンセサイザ - EasyPop
-30. ウミユリ海底譚 - n-buna
-31. ただ君に晴れ - ヨルシカ
-32. 君の知らない物語 - supercell
-33. ANIMA - ReoNa
-34. ハートシェイカー・ドキュメンタリー - 天ノ譜ステラ
-35. ファンサ - HoneyWorks
-36. ギラギラ - Ado
-37. Departures ～あなたにおくるアイの歌～ - EGOIST
-38. 死ぬのがいいわ - 藤井風
-39. 晩餐歌 - tuki.
-40. 花瓶に触れた - 須田景凪(バルーン)
-41. from Y to Y - ジミーサムP
-42. 側にいて - 阿部真央
-43. となりのトトロ - 井上あずみ
-44. 最後の雨 - 中西保志
-45. 堕天ダンス - 天ノ譜ステラ
-46. 夜もすがら君想ふ - TOKOTOKO(西沢さんP)
-47. たばこ - コレサワ
-48. 奏 - スキマスイッチ
-49. 炎 - LiSA
-50. ウタカタララバイ - Ado
-51. ハウっちゃう - 天ノ譜ステラ
-52. 愛を伝えたいだとか - あいみょん
-53. 曖昧劣情Lover - koyori(電ポルP)
-54. たばこ - コレサワ
-55. 心做し - 蝶々P
-56. 曖昧劣情Lover - koyori(電ポルP)
-57. メフィスト - 女王蜂
-58. First Love - 宇多田ヒカル
-59. ただ君に晴れ - ヨルシカ
-60. パート・オブ・ユア・ワールド - Disney
-61. A Whole New World - Disney
-62. いのちの名前 - 木村弓
-63. 小夜子 - みきとP
-64. カブトムシ - aiko
-65. カタオモイ - Aimer
-66. Snow halation - μ's
-67. secret base〜君がくれたもの〜 - ZONE
-68. 怪獣の花唄 - Vaundy
-69. 奏 - スキマスイッチ
-70. Wherever you are - ONE OK ROCK
-71. glow - keeno
-72. Kawaii Kaiwai - PiKi
-73. Step and a step - NiziU
-74. アタシは問題作 - Ado
-75. トウキョウ・シャンディ・ランデヴ - MAISONdes
-76. 怪獣の花唄 - Vaundy
-77. 主演 - 天ノ譜ステラ
-78. 奏 - スキマスイッチ
-79. First Love - 宇多田ヒカル
-80. コブラ - 前野曜子
-81. さよならミッドナイト - 大柴広己(もじゃ)
-82. Story - AI
-83. センパイ。 - HoneyWorks meets TrySail
-84. 今好きになる。 - HoneyWorks
-85. 告白予行練習 - HoneyWorks
-86. 太陽系デスコ - ナユタン星人
-87. きゅうくらりん - いよわ
-88. 初恋の絵本 - HoneyWorks
-89. ロミオとシンデレラ - doriko
-90. from Y to Y - ジミーサムP
-91. ワールドイズマイン - ryo
-92. 恋愛サーキュレーション - 千石撫子(花澤香菜)
-93. sweets parade - 髏々宮カルタ(花澤香菜)
-94. 白金ディスコ - 阿良々木月火(井口裕香)
-95. ファンサ - HoneyWorks
-96. 丸ノ内サディスティック - 椎名林檎
-97. Kawaii Kaiwai - PiKi
-98. 怪物 - YOASOBI
-99. ウタカタララバイ - Ado
-100. わたしのアール - 和田たけあき(くらげP)
-101. キセキ - GRe4N BOYZ(GReeeeN)
-102. 幽霊東京 - Ayase
-103. 紅蓮華 - LiSA
-104. only my railgun - fripSide
-105. God knows... - 涼宮ハルヒ(平野綾)
-106. Butter-Fly - 和田光司
-107. Fire◎Flower - halyosy
-108. 裏表ラバーズ - wowaka(現実逃避P)
-109. magnet - minato(流星P)
-110. 花になって - 緑黄色社会
-111. メフィスト - 女王蜂
-112. モニタリング - DECO*27
-113. secret base〜君がくれたもの〜 - ZONE
-114. glow - keeno
-115. ハイドアンド・シーク - 19's Sound Factory
-116. 夜もすがら君想ふ - TOKOTOKO(西沢さんP)
-117. パンダヒーロー - ハチ
-118. ブリキノダンス - 日向電工
-119. 砂の惑星 - ハチ
-120. ネトゲ廃人シュプレヒコール - さつき が てんこもり
-121. 嘘 - シド
-122. 愛を伝えたいだとか - あいみょん
-123. 私は最強 - Ado
-124. Love so sweet - 嵐
-125. 夜明けと蛍 - n-buna
-126. 夜咄ディセイブ - じん(自然の敵P)
-127. アイロニ - すこっぷ
-128. 晩餐歌 - tuki.
-129. ドライフラワー - 優里
-130. アイネクライネ - 米津玄師
-131. フォニイ - ツミキ
-132. 名前のない怪物 - EGOIST
-133. First Love - 宇多田ヒカル
-134. ギラギラ - Ado
-135. アイロニ - すこっぷ
-136. only my railgun - fripSide
-137. 一度だけの恋なら - ワルキューレ
-138. A Whole New World - Disney
-139. 曖昧劣情Lover - koyori(電ポルP)
-140. ただ君に晴れ - ヨルシカ
-141. ダイアモンド クレバス - シェリル・ノーム starring May'n
-142. rain stops, good-bye - におP
-143. 怪物 - YOASOBI
-144. 炎 - LiSA
-145. サムライハート(Some Like It Hot!!) - SPYAIR
-146. プライド革命 - CHiCO with HoneyWorks
-147. 愛を伝えたいだとか - あいみょん
-148. 怪獣の花唄 - Vaundy
-149. 心拍数♯0822 - 蝶々P
-150. 夕立のりぼん - みきとP
-151. サリシノハラ - みきとP
 ```
 
 ### BV1X4wqzjECD
@@ -1726,32 +808,6 @@
 188. 手紙 〜拝啓 十五の君へ〜 - アンジェラ・アキ
 ```
 
-### BV1c1QxBuEnn
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1c1QxBuEnn
-
-```text
-01. 変わらないもの - 奥華子
-02. 盗作 - ヨルシカ
-03. 丸ノ内サディスティック - 椎名林檎
-04. ギブス - 椎名林檎
-05. そういう好き - wacci
-06. 弱虫モンブラン - DECO*27
-07. 三時のキス - ロクデナシ
-08. 春の歌 - スピッツ
-09. アルジャーノン - ヨルシカ
-10. 栞 - クリープハイプ
-11. exダーリン - クリープハイプ
-12. アイネクライネ - 米津玄師
-13. シャルル - バルーン
-14. カブトムシ - aiko
-15. 声 - 羊文学
-16. ヒカルイノチ - Kitri
-17. きにぴ - 澄花
-18. ちょっと待って！ - 澄花
-19. 泣き虫上等 - 澄花
-```
-
 ### BV1ds99BVEiH
 
 编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1ds99BVEiH
@@ -1832,7 +888,7 @@
 编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV19nQUB9EyB
 
 ```text
-01. 丸ノ内サディスティック - 椎名林檎
+01. 丸の内サディスティック - 椎名林檎
 02. ビビデバ - 星街すいせい
 03. 本能 - 椎名林檎
 04. 悪魔の子 - ヒグチアイ
@@ -2050,60 +1106,6 @@
 200. 少しの自信があったら、 - CULUA
 ```
 
-### BV1daVs6eE2r
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1daVs6eE2r
-
-```text
-01. ただ君に晴れ - ヨルシカ
-02. チェリーポップ - DECO*27
-03. First Love - 宇多田ヒカル
-04. Beautiful World - 宇多田ヒカル
-05. 天ノ弱 - 164
-06. 小夜子 - みきとP
-07. 素敵なしゅうまつを！ - キタニタツヤ
-08. 悪魔の踊り方 - キタニタツヤ
-09. 偽物人間40号 - ¿?
-10. KING - Kanaria
-11. 神っぽいな - ピノキオピー
-12. マーシャル・マキシマイザー - 柊マグネタイト
-13. 何度でも - DREAMS COME TRUE
-14. Story - AI
-15. ギブス - 椎名林檎
-16. 本能 - 椎名林檎
-17. 丸ノ内サディスティック - 椎名林檎
-18. 丸ノ内サディスティック - 椎名林檎
-19. 会いたくて会いたくて - 西野カナ
-```
-
-### BV1jbGq6wEMw
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1jbGq6wEMw
-
-```text
-01. 裏切りの夕焼け - Theatre Brook
-02. コンプリケイション - ROOKiEZ is PUNK'D
-03. 流れ星～Shooting Star～ - HOME MADE 家族
-04. ラブソング - なとり
-05. Overdose - なとり
-06. セレナーデ - なとり
-07. 丸ノ内サディスティック - 椎名林檎
-08. おとなの掟 - Doughnuts Hole
-09. Duty Friend - NIKIIE
-10. 晩餐歌 - tuki.
-11. 奏 - スキマスイッチ
-12. 世界が終るまでは… - WANDS
-13. damn - 藤井風
-14. え？あぁ、そう。 - 蝶々P feat. 初音ミク
-15. 混沌ブギ - jon-YAKITORY feat. 初音ミク
-16. ラヴィ - すりぃ feat. 鏡音レン
-17. ブリキノダンス - 日向電工 feat. 初音ミク
-18. マトリョシカ - ハチ feat. 初音ミク,GUMI
-19. ネトゲ廃人シュプレヒコール - さつき が てんこもり feat. 初音ミク
-20. Mr.Music - れるりり,ロンチーノ=ペペ,かごめP feat. 初音ミク,巡音ルカ,鏡音リン,鏡音レン,GUMI,歌愛ユキ
-21. Honto - sumika
-```
-
 ### BV1L4J56SEbg
 
 编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1L4J56SEbg
@@ -2153,75 +1155,6 @@
 15. 夢灯籠 - RADWIMPS
 16. 月光 - 鬼束ちひろ
 17. ひとりごつ - ハチワレ
-```
-
-### BV1VroAB3EBy
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1VroAB3EBy
-
-```text
-01. キャラクター - 緑黄色社会
-02. 丸ノ内サディスティック - 椎名林檎
-03. スパークル - 幾田りら
-04. イエスタデイ - Official髭男dism
-05. 蝶々結び - Aimer
-06. フォニイ - ツミキ
-07. 変わらないもの - 奥華子
-08. I wanna see you - 阿部真央
-09. 星座になれたら - 結束バンド
-10. Sincerely - TRUE
-11. ray - BUMP OF CHICKEN
-12. 徒桜 - 蓮花
-13. キミソラキセキ - EGOIST
-14. 名前のない怪物 - EGOIST
-15. Fire◎Flower - halyosy feat. 鏡音レン
-16. 点描の唄 - Mrs. GREEN APPLE
-17. ケセラセラ - Mrs. GREEN APPLE
-18. ダンスホール - Mrs. GREEN APPLE
-19. はいよろこんで - こっちのけんと
-20. Everything - MISIA
-21. ライラック - 美波
-22. 夜に駆ける - YOASOBI
-23. 曲名はまだないです - Aogumo
-24. Pray - Tommy heavenly6
-25. 明日への手紙 - 手嶌葵
-26. たばこ - コレサワ
-27. フィナーレ。 - eill
-28. Departures ～あなたにおくるアイの歌～ - EGOIST
-29. 地球最後の告白を - kemu feat.GUMI
-30. ハレ晴れユカイ - 涼宮ハルヒ(平野綾)×長門有希(茅原実里)×朝比奈みくる(後藤邑子)
-31. Don't say "lazy" - 桜高軽音部
-32. キセキ - GReeeeN
-33. GO!!! - FLOW
-34. ハルモニア - RYTHEM
-35. うたかた花火 - supercell
-36. my sweet heart - 小松里賀
-37. 新時代 - Ado
-38. 炎 - LiSA
-39. 逆光 - Ado
-40. 秒針を噛む - ずっと真夜中でいいのに。
-41. お願いマッスル - 紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人)
-42. 残響散歌 - Aimer
-43. 散歩の邪魔 - いよわ
-44. 咲かせや咲かせ - EGOIST
-```
-
-### BV1ReVs6AEmk
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1ReVs6AEmk
-
-```text
-01. ラプンツェル - n-buna feat. 初音ミク
-02. 斜陽 - ヨルシカ
-03. シンデレラボーイ - Saucy Dog
-04. 雨とカプチーノ - ヨルシカ
-05. ダーリン - 須田景凪
-06. ダーリン - Mrs. GREEN APPLE
-07. 美しい鰭 - スピッツ
-08. サリシノハラ - みきとP feat. 初音ミク
-09. 丸ノ内サディスティック - 椎名林檎
-10. 罪と罰 - 椎名林檎
-11. おやすみ泣き声、さよなら歌姫 - クリープハイプ
 ```
 
 ### BV1LJ4m1A7FC
@@ -2421,34 +1354,4 @@
 190. ハレンチ - ちゃんみな
 191. Love in the Ice - 東方神起
 192. 五線紙 - 東方神起
-```
-
-### BV1co7i6QEez
-
-编辑链接：https://member.bilibili.com/platform/upload/video/frame/?type=edit&version=new&bvid=BV1co7i6QEez
-
-```text
-01. Lemon - 米津玄師
-02. 炎 - LiSA
-03. 花に亡霊 - ヨルシカ
-04. さよならエレジー - 菅田将暉
-05. あぶく - ヨルシカ
-06. Ham - ずっと真夜中でいいのに。
-07. 正しくなれない - ずっと真夜中でいいのに。
-08. 恋人ごっこ - マカロニえんぴつ
-09. ハルカ - YOASOBI
-10. プラネタリウム - 大塚愛
-11. 黒毛和牛上塩タン焼680円 - 大塚愛
-12. ヒトリノ夜 - ポルノグラフィティ
-13. ダーリン - Mrs. GREEN APPLE
-14. やさしさで溢れるように - JUJU
-15. 永遠のあくる日 - Ado
-16. 丸ノ内サディスティック - 椎名林檎
-17. 独りんぼエンヴィー - koyori(電ポルP) feat. 初音ミク
-18. ヒッチコック - ヨルシカ
-19. 天体観測 - BUMP OF CHICKEN
-20. メリュー - n-buna feat. 初音ミク
-21. メルト - ryo(supercell) feat. 初音ミク
-22. 晴る - ヨルシカ
-23. 花の塔 - さユり
 ```

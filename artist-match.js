@@ -65,6 +65,10 @@
 
   const TITLE_CANONICAL_ALIAS_GROUPS = [
     {
+      canonical: '丸の内サディスティック',
+      aliases: ['丸の内サディスティック', '丸ノ内サディスティック']
+    },
+    {
       canonical: 'フクロウ~フクロウが知らせる客が来たと~',
       aliases: [
         'フクロウ ～フクロウが知らせる客が来たと～',

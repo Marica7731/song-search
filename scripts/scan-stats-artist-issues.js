@@ -12,12 +12,6 @@ const EDIT_URL_PREFIX = 'https://member.bilibili.com/platform/upload/video/frame
 
 const TITLE_FIX_RULES = [
   {
-    name: '丸の内サディスティック -> 丸ノ内サディスティック',
-    match: song => normalizeString(song.artist) === '椎名林檎' && String(song.title || '').trim() === '丸の内サディスティック',
-    fixTitle: '丸ノ内サディスティック',
-    fixArtist: '椎名林檎'
-  },
-  {
     name: 'ここでキスして -> ここでキスして。',
     match: song => normalizeString(song.artist) === '椎名林檎' && String(song.title || '').trim() === 'ここでキスして',
     fixTitle: 'ここでキスして。',
@@ -61,7 +55,8 @@ function parseArgs(argv) {
   const options = {
     source: DEFAULT_SOURCE_URL,
     output: OUTPUT_PATH,
-    maxDuplicateGroups: 80
+    maxDuplicateGroups: 80,
+    maxVariantGroups: 120
   };
   argv.forEach(arg => {
     if (arg.startsWith('--source=')) options.source = arg.slice('--source='.length);
@@ -69,6 +64,10 @@ function parseArgs(argv) {
     if (arg.startsWith('--max-duplicate-groups=')) {
       const value = Number(arg.slice('--max-duplicate-groups='.length));
       if (Number.isFinite(value) && value > 0) options.maxDuplicateGroups = value;
+    }
+    if (arg.startsWith('--max-variant-groups=')) {
+      const value = Number(arg.slice('--max-variant-groups='.length));
+      if (Number.isFinite(value) && value > 0) options.maxVariantGroups = value;
     }
   });
   return options;
@@ -162,6 +161,71 @@ function buildDuplicateGroups(songs, limit) {
     .slice(0, limit);
 }
 
+function toHiragana(value) {
+  return String(value || '').replace(/[\u30A1-\u30F6]/g, ch =>
+    String.fromCharCode(ch.charCodeAt(0) - 0x60)
+  );
+}
+
+function looseTitleVariantKey(title) {
+  return toHiragana(normalizeString(title || ''))
+    .replace(/噓/g, '嘘')
+    .replace(/[＃#♯]/g, '#')
+    .replace(/[（(【［\[].*?[）)】］\]]/g, '')
+    .replace(/\s+feat\s*\.?\s+.*$/i, '')
+    .replace(/\s+(?:short|movie|piano|acoustic|arrange)\s*ver\.?$/i, '')
+    .replace(/[!！?？。．・･,，、:：;；'"“”‘’`´~〜～\-ー_\s]/g, '');
+}
+
+function classifyVariantGroup(titles) {
+  const joined = titles.join(' / ');
+  if (/[（(].*(?:short|movie|piano|acoustic|arrange|ver\.?|remix|solo|cv|声優|アレンジ).*?[）)]/i.test(joined)
+    || /\b(?:short|movie|piano|acoustic|arrange|remix|solo|ver\.?)\b/i.test(joined)) {
+    return '版本/编曲/声优风险，需人工确认';
+  }
+  if (/[噓嘘]/.test(joined)) return '形近字/异体字候选';
+  if (/[のノ]/.test(joined)) return '假名表记差异，建议归一化不建议改稿';
+  if (/[＃#♯]/.test(joined)) return '符号表记差异，建议归一化';
+  return '标题表记差异，需人工确认';
+}
+
+function buildVariantGroups(songs, limit) {
+  const map = new Map();
+  songs.forEach(song => {
+    const artist = normalizeString(song.artist || '');
+    const looseTitle = looseTitleVariantKey(song.title || '');
+    if (!artist || !looseTitle) return;
+    const key = `${artist}|${looseTitle}`;
+    if (!map.has(key)) {
+      map.set(key, {
+        artist: song.artist || '',
+        looseTitle,
+        songs: [],
+        identities: new Map(),
+        titles: new Set()
+      });
+    }
+    const group = map.get(key);
+    const identity = normalizeSongIdentityKey(song);
+    group.songs.push(song);
+    group.titles.add(song.title || '');
+    if (!group.identities.has(identity)) group.identities.set(identity, []);
+    group.identities.get(identity).push(song);
+  });
+
+  return Array.from(map.values())
+    .filter(group => group.identities.size > 1)
+    .map(group => ({
+      ...group,
+      titles: Array.from(group.titles).filter(Boolean).sort((a, b) => a.localeCompare(b, 'ja')),
+      identityCount: group.identities.size,
+      count: group.songs.length,
+      category: classifyVariantGroup(Array.from(group.titles))
+    }))
+    .sort((a, b) => b.count - a.count || b.identityCount - a.identityCount || String(a.artist).localeCompare(String(b.artist), 'ja'))
+    .slice(0, limit);
+}
+
 function groupSongsByBvid(songs) {
   const map = new Map();
   songs.forEach(song => {
@@ -182,7 +246,7 @@ function renderFullListForBvid(bvid, songs, fixByBvidPage) {
   }).join('\n');
 }
 
-function renderMarkdown(songs, fixes, duplicateGroups, source, aliasMap) {
+function renderMarkdown(songs, fixes, duplicateGroups, variantGroups, source, aliasMap) {
   const byBvid = groupSongsByBvid(songs);
   const fixByBvidPage = new Map();
   fixes.forEach(({ song, fix }) => {
@@ -204,6 +268,7 @@ function renderMarkdown(songs, fixes, duplicateGroups, source, aliasMap) {
   lines.push(`- songs: ${songs.length}`);
   lines.push(`- high confidence fixes: ${fixes.length}`);
   lines.push(`- duplicate groups listed: ${duplicateGroups.length}`);
+  lines.push(`- variant groups listed: ${variantGroups.length}`);
   lines.push('');
   lines.push('## 高置信待编辑');
   lines.push('');
@@ -234,6 +299,21 @@ function renderMarkdown(songs, fixes, duplicateGroups, source, aliasMap) {
   });
   lines.push('');
 
+  lines.push('## 同歌手标题表记变体候选');
+  lines.push('');
+  lines.push('这些只用于发现可能需要补归一化或人工确认的候选，不等同于需要编辑 B 站标题。');
+  lines.push('');
+  lines.push('| 歌手 | 分类 | 标题变体 | 计数 | 示例编辑链接 |');
+  lines.push('|---|---|---|---:|---|');
+  variantGroups.forEach(group => {
+    const sample = group.songs[0] || {};
+    const bvid = songBvid(sample);
+    const titles = group.titles.slice(0, 8).map(title => `\`${title}\``).join('<br>');
+    const more = group.titles.length > 8 ? `<br>... 另 ${group.titles.length - 8} 个` : '';
+    lines.push(`| ${group.artist || ''} | ${group.category} | ${titles}${more} | ${group.count} | ${bvid ? editUrl(bvid) : ''} |`);
+  });
+  lines.push('');
+
   lines.push('## 整稿可复制歌单');
   lines.push('');
   Array.from(new Set(fixes.map(({ song }) => songBvid(song)))).forEach(bvid => {
@@ -258,14 +338,16 @@ async function main() {
   const aliasMap = await loadAliasMap(options.source);
   const fixes = buildFixCandidates(songs);
   const duplicates = buildDuplicateGroups(songs, options.maxDuplicateGroups);
-  const markdown = renderMarkdown(songs, fixes, duplicates, options.source, aliasMap);
+  const variants = buildVariantGroups(songs, options.maxVariantGroups);
+  const markdown = renderMarkdown(songs, fixes, duplicates, variants, options.source, aliasMap);
   fs.mkdirSync(path.dirname(options.output), { recursive: true });
   fs.writeFileSync(options.output, markdown, 'utf8');
   console.log(JSON.stringify({
     output: options.output,
     songs: songs.length,
     fixes: fixes.length,
-    duplicateGroups: duplicates.length
+    duplicateGroups: duplicates.length,
+    variantGroups: variants.length
   }, null, 2));
 }
 
