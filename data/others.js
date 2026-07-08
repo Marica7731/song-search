@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/8/2026, 10:56:34 PM
+// 生成时间: 7/8/2026, 11:07:26 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -16963,6 +16963,166 @@ window.SONG_DATA.push(
   "collection": "CHIYURU ch.三日月ちゆる歌切 2026-07-05 一起迎接生日吧✨倒计时歌回🎤🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J6TU6REyA?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "タッチ",
+  "artist": "岩崎良美",
+  "collection": "歌切 2026-07-08 标题。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1awMj6sEXY?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "歌切 2026-07-08 标题。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1awMj6sEXY?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ラムのラブソング",
+  "artist": "松谷祐子",
+  "collection": "歌切 2026-07-08 标题。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1awMj6sEXY?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "歌切 2026-07-08 标题。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1awMj6sEXY?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "V.I.P",
+  "artist": "シド",
+  "collection": "歌切 2026-07-08 标题。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1awMj6sEXY?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ft.",
+  "artist": "FUNKIST",
+  "collection": "歌切 2026-07-08 标题。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1awMj6sEXY?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "LUVORATORRRRRY!",
+  "artist": "ギガP・れをる feat. GUMI・鏡音リン",
+  "collection": "歌切 2026-07-08 标题。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1awMj6sEXY?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "BOYS & GIRLS",
+  "artist": "LM.C",
+  "collection": "歌切 2026-07-08 标题。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1awMj6sEXY?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "アイワナムチュー",
+  "artist": "MAISONdes feat. asmi, すりぃ",
+  "collection": "歌切 2026-07-08 标题。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1awMj6sEXY?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "水色の旋律",
+  "artist": "宝生波音(寺門仁美)",
+  "collection": "歌切 2026-07-08 标题。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1awMj6sEXY?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "恐竜マッスル",
+  "artist": "佐藤弘道",
+  "collection": "歌切 2026-07-08 标题。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1awMj6sEXY?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "パオパオダンス",
+  "artist": "mao、ひばり児童合唱団",
+  "collection": "歌切 2026-07-08 标题。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1awMj6sEXY?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "僕の心をつくってよ",
+  "artist": "平井堅",
+  "collection": "歌切 2026-07-08 标题。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1awMj6sEXY?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "セツナトリップ",
+  "artist": "Last Note. feat. GUMI",
+  "collection": "歌切 2026-07-08 标题。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1awMj6sEXY?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "READY STEADY GO",
+  "artist": "L'Arc-en-Ciel",
+  "collection": "歌切 2026-07-08 标题。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1awMj6sEXY?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "歌切 2026-07-08 标题。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1awMj6sEXY?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-07-08 标题。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1awMj6sEXY?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "ハルカ",
+  "artist": "YOASOBI",
+  "collection": "歌切 2026-07-08 标题。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1awMj6sEXY?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "Honto",
+  "artist": "sumika",
+  "collection": "歌切 2026-07-08 标题。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1awMj6sEXY?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "歌切 2026-07-08 标题。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1awMj6sEXY?p=20",
   "source": "others.js"
 },
     {
