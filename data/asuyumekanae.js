@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 7/8/2026, 10:04:28 PM
+// 生成时间: 7/8/2026, 10:24:15 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8171,6 +8171,126 @@ window.SONG_DATA.push(
   "collection": "【明日夢🎸弾き語り歌切】[2026-06-30]晚安歌",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14oTY6ZERv?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-08]今天也辛苦了，悠然地放松放松。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17eMj6YEeB?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-08]今天也辛苦了，悠然地放松放松。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17eMj6YEeB?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "さよならモルテン",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-08]今天也辛苦了，悠然地放松放松。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17eMj6YEeB?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "魔性",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-08]今天也辛苦了，悠然地放松放松。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17eMj6YEeB?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "老人と海",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-08]今天也辛苦了，悠然地放松放松。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17eMj6YEeB?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "六月は雨上がりの街を書く",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-08]今天也辛苦了，悠然地放松放松。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17eMj6YEeB?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "月に吠える",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-08]今天也辛苦了，悠然地放松放松。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17eMj6YEeB?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "冬眠",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-08]今天也辛苦了，悠然地放松放松。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17eMj6YEeB?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-08]今天也辛苦了，悠然地放松放松。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17eMj6YEeB?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "啄木鳥",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-08]今天也辛苦了，悠然地放松放松。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17eMj6YEeB?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-08]今天也辛苦了，悠然地放松放松。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17eMj6YEeB?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "プレイシック",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-08]今天也辛苦了，悠然地放松放松。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17eMj6YEeB?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "逃亡",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-08]今天也辛苦了，悠然地放松放松。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17eMj6YEeB?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "パレード",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-08]今天也辛苦了，悠然地放松放松。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17eMj6YEeB?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "第一夜",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-08]今天也辛苦了，悠然地放松放松。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17eMj6YEeB?p=15",
   "source": "asuyumekanae.js"
 }
 );

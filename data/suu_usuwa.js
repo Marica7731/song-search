@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 7/8/2026, 10:16:06 PM
+// 生成时间: 7/8/2026, 10:34:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21435,6 +21435,126 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-07-04]在明朗的午后时分，于此歌唱 稀羽すう - Suu Usuwa -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1txMw6kEJZ?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ANIMA",
+  "artist": "ReoNa",
+  "collection": "【🦢歌切】#144[2026-07-08]星期三晚上8点？欢迎回来～ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jqMj6hEAL?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【🦢歌切】#144[2026-07-08]星期三晚上8点？欢迎回来～ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jqMj6hEAL?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "寄り酔い",
+  "artist": "和ぬか",
+  "collection": "【🦢歌切】#144[2026-07-08]星期三晚上8点？欢迎回来～ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jqMj6hEAL?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【🦢歌切】#144[2026-07-08]星期三晚上8点？欢迎回来～ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jqMj6hEAL?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】#144[2026-07-08]星期三晚上8点？欢迎回来～ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jqMj6hEAL?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Plazma",
+  "artist": "米津玄師",
+  "collection": "【🦢歌切】#144[2026-07-08]星期三晚上8点？欢迎回来～ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jqMj6hEAL?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【🦢歌切】#144[2026-07-08]星期三晚上8点？欢迎回来～ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jqMj6hEAL?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n / 中島愛",
+  "collection": "【🦢歌切】#144[2026-07-08]星期三晚上8点？欢迎回来～ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jqMj6hEAL?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ユニバーサル・バニー",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【🦢歌切】#144[2026-07-08]星期三晚上8点？欢迎回来～ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jqMj6hEAL?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【🦢歌切】#144[2026-07-08]星期三晚上8点？欢迎回来～ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jqMj6hEAL?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ハレンチ",
+  "artist": "ちゃんみな",
+  "collection": "【🦢歌切】#144[2026-07-08]星期三晚上8点？欢迎回来～ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jqMj6hEAL?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "TSUNAMI",
+  "artist": "サザンオールスターズ",
+  "collection": "【🦢歌切】#144[2026-07-08]星期三晚上8点？欢迎回来～ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jqMj6hEAL?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "真夏の果実",
+  "artist": "サザンオールスターズ",
+  "collection": "【🦢歌切】#144[2026-07-08]星期三晚上8点？欢迎回来～ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jqMj6hEAL?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【🦢歌切】#144[2026-07-08]星期三晚上8点？欢迎回来～ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jqMj6hEAL?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "star shine",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】#144[2026-07-08]星期三晚上8点？欢迎回来～ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jqMj6hEAL?p=15",
   "source": "suu_usuwa.js"
 }
 );
