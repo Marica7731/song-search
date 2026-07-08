@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 7/8/2026, 10:00:48 PM
+// 生成时间: 7/8/2026, 10:11:25 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -32771,6 +32771,134 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-07-05]助眠歌回✨请享受安眠前的放松时刻🌙 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J6TU6RESL?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【💐歌切】[2026-07-08]星期三歌回逐渐固定下来 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GE53?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【💐歌切】[2026-07-08]星期三歌回逐渐固定下来 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GE53?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP) feat. GUMI",
+  "collection": "【💐歌切】[2026-07-08]星期三歌回逐渐固定下来 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GE53?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "前前前世",
+  "artist": "RADWIMPS",
+  "collection": "【💐歌切】[2026-07-08]星期三歌回逐渐固定下来 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GE53?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "【💐歌切】[2026-07-08]星期三歌回逐渐固定下来 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GE53?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【💐歌切】[2026-07-08]星期三歌回逐渐固定下来 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GE53?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "ブレーメン",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-07-08]星期三歌回逐渐固定下来 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GE53?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "花も騒めく",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-07-08]星期三歌回逐渐固定下来 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GE53?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "【💐歌切】[2026-07-08]星期三歌回逐渐固定下来 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GE53?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【💐歌切】[2026-07-08]星期三歌回逐渐固定下来 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GE53?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "ずうっといっしょ！",
+  "artist": "キタニタツヤ",
+  "collection": "【💐歌切】[2026-07-08]星期三歌回逐渐固定下来 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GE53?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat. 初音ミク",
+  "collection": "【💐歌切】[2026-07-08]星期三歌回逐渐固定下来 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GE53?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "traveling",
+  "artist": "宇多田ヒカル",
+  "collection": "【💐歌切】[2026-07-08]星期三歌回逐渐固定下来 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GE53?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "ハイド・アンド・シーク",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【💐歌切】[2026-07-08]星期三歌回逐渐固定下来 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GE53?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat. 可不",
+  "collection": "【💐歌切】[2026-07-08]星期三歌回逐渐固定下来 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GE53?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-07-08]星期三歌回逐渐固定下来 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GE53?p=16",
   "source": "figaro.js"
 }
 );
