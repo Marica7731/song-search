@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 7/8/2026, 9:52:46 PM
+// 生成时间: 7/8/2026, 10:13:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2779,6 +2779,102 @@ window.SONG_DATA.push(
   "collection": "Palette Project Channel歌切 2026-07-05 免费3D LIVE！等不及要感谢祭了！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VXTU62E61?p=15",
+  "source": "friends.js"
+},
+    {
+  "title": "ETERNAL BLAZE",
+  "artist": "水樹奈々",
+  "collection": "三日月ちゆる联动歌切 2026-07-08 唱太过火热的歌！！🥀🐈‍⬛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GERr?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "革命デュアリズム",
+  "artist": "水樹奈々×T.M.Revolution",
+  "collection": "三日月ちゆる联动歌切 2026-07-08 唱太过火热的歌！！🥀🐈‍⬛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GERr?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "三日月ちゆる联动歌切 2026-07-08 唱太过火热的歌！！🥀🐈‍⬛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GERr?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "Catch the Moment",
+  "artist": "LiSA",
+  "collection": "三日月ちゆる联动歌切 2026-07-08 唱太过火热的歌！！🥀🐈‍⬛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GERr?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "一度だけの恋なら",
+  "artist": "ワルキューレ",
+  "collection": "三日月ちゆる联动歌切 2026-07-08 唱太过火热的歌！！🥀🐈‍⬛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GERr?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "三日月ちゆる联动歌切 2026-07-08 唱太过火热的歌！！🥀🐈‍⬛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GERr?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "Can Do",
+  "artist": "GRANRODEO",
+  "collection": "茨むあん联动歌切 MuaYuru歌回第2弹来啦✌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1snMj6GEcA?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "リライト",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "茨むあん联动歌切 MuaYuru歌回第2弹来啦✌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1snMj6GEcA?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "茨むあん联动歌切 MuaYuru歌回第2弹来啦✌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1snMj6GEcA?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n / 中島愛",
+  "collection": "茨むあん联动歌切 MuaYuru歌回第2弹来啦✌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1snMj6GEcA?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "茨むあん联动歌切 MuaYuru歌回第2弹来啦✌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1snMj6GEcA?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "茨むあん联动歌切 MuaYuru歌回第2弹来啦✌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1snMj6GEcA?p=6",
   "source": "friends.js"
 }
 );
