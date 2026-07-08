@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 7/8/2026, 10:03:23 PM
+// 生成时间: 7/8/2026, 10:07:20 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1259,6 +1259,78 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-06]7月第2周！！演唱会前还要精神满满地唱好多歌！！🍎🌟 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RqMx6HEZD?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "タイムマシン",
+  "artist": "1640mP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-08]星期三辛苦了！今天是以抒情曲为主的治愈歌回！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GEF2?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-08]星期三辛苦了！今天是以抒情曲为主的治愈歌回！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GEF2?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "大嫌いなはずだった。",
+  "artist": "HoneyWorks meets さゆりんご軍団 + 真夏さんリスペクト軍団 from 乃木坂46",
+  "collection": "【歌切】[2026-07-08]星期三辛苦了！今天是以抒情曲为主的治愈歌回！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GEF2?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "私が選んだもの",
+  "artist": "『ユイカ』",
+  "collection": "【歌切】[2026-07-08]星期三辛苦了！今天是以抒情曲为主的治愈歌回！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GEF2?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "贖罪",
+  "artist": "傘村トータ feat. IA・結月ゆかり・初音ミク・Fukase・Ken",
+  "collection": "【歌切】[2026-07-08]星期三辛苦了！今天是以抒情曲为主的治愈歌回！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GEF2?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-08]星期三辛苦了！今天是以抒情曲为主的治愈歌回！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GEF2?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat. 初音ミク",
+  "collection": "【歌切】[2026-07-08]星期三辛苦了！今天是以抒情曲为主的治愈歌回！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GEF2?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-08]星期三辛苦了！今天是以抒情曲为主的治愈歌回！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GEF2?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-08]星期三辛苦了！今天是以抒情曲为主的治愈歌回！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WnMj6GEF2?p=9",
   "source": "hinachibi.js"
 }
 );
