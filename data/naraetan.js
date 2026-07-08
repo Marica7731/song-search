@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 7/7/2026, 10:50:54 PM
+// 生成时间: 7/7/2026, 11:01:08 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10547,6 +10547,70 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-03]七月的首次歌回🚤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w6Mw6AEX6?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "恋",
+  "artist": "星野源",
+  "collection": "【歌切】[2026-07-07]哪怕只有一点点也想唱歌🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BpMv6XECU?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-07-07]哪怕只有一点点也想唱歌🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BpMv6XECU?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "集まって星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-07-07]哪怕只有一点点也想唱歌🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BpMv6XECU?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "【歌切】[2026-07-07]哪怕只有一点点也想唱歌🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BpMv6XECU?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "LAST STARDUST",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-07-07]哪怕只有一点点也想唱歌🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BpMv6XECU?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-07-07]哪怕只有一点点也想唱歌🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BpMv6XECU?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "星になる",
+  "artist": "Islet feat. 倚水",
+  "collection": "【歌切】[2026-07-07]哪怕只有一点点也想唱歌🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BpMv6XECU?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-07-07]哪怕只有一点点也想唱歌🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BpMv6XECU?p=8",
   "source": "naraetan.js"
 },
     {
