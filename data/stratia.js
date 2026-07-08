@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 7/8/2026, 9:58:00 PM
+// 生成时间: 7/8/2026, 10:12:26 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1091,6 +1091,54 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-07-03]欢迎初次观看❕尽情弹唱喜欢的歌🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EyMw68EqS?p=8",
+  "source": "stratia.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【🎸🦋歌切】[2026-07-07]七夕夜的恋爱歌曲🦋🩵 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WEMj6CErg?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "今好きになる。",
+  "artist": "HoneyWorks feat. 初音ミク",
+  "collection": "【🎸🦋歌切】[2026-07-07]七夕夜的恋爱歌曲🦋🩵 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WEMj6CErg?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "センパイ。",
+  "artist": "HoneyWorks meets TrySail",
+  "collection": "【🎸🦋歌切】[2026-07-07]七夕夜的恋爱歌曲🦋🩵 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WEMj6CErg?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【🎸🦋歌切】[2026-07-07]七夕夜的恋爱歌曲🦋🩵 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WEMj6CErg?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "ボクノート",
+  "artist": "スキマスイッチ",
+  "collection": "【🎸🦋歌切】[2026-07-07]七夕夜的恋爱歌曲🦋🩵 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WEMj6CErg?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "浮気したらあかんで",
+  "artist": "コレサワ",
+  "collection": "【🎸🦋歌切】[2026-07-07]七夕夜的恋爱歌曲🦋🩵 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WEMj6CErg?p=6",
   "source": "stratia.js"
 }
 );
