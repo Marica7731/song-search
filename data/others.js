@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/8/2026, 5:35:33 PM
+// 生成时间: 7/8/2026, 5:44:42 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8654,55 +8654,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "1,000,000 TIMES feat.chelly（EGOIST）",
-  "artist": "MY FIRST STORY",
-  "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=8",
-  "source": "others.js"
-},
-    {
-  "title": "ともに",
-  "artist": "WANIMA",
-  "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=9",
-  "source": "others.js"
-},
-    {
-  "title": "瞬間センチメンタル",
-  "artist": "SCANDAL",
-  "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=10",
-  "source": "others.js"
-},
-    {
-  "title": "完全感覚Dreamer",
-  "artist": "ONE OK ROCK",
-  "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=11",
-  "source": "others.js"
-},
-    {
-  "title": "CORE PRIDE",
-  "artist": "UVERworld",
-  "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=12",
-  "source": "others.js"
-},
-    {
-  "title": "only my railgun",
-  "artist": "fripSide",
-  "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=13",
-  "source": "others.js"
-},
-    {
-  "title": "オレンジ",
+  "title": "サムライハート(Some Like It Hot!!)",
   "artist": "SPYAIR",
   "collection": "歌切 2026-06-01 Haru Ch. 花前ハル ACIF5nWCFq4 出道一个月纪念❗️✨️今天要用歌声来庆祝🎤",
   "up": "前尘往事如昔故",
