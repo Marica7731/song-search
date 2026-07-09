@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 7/8/2026, 11:02:05 PM
+// 生成时间: 7/8/2026, 11:14:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -35891,6 +35891,142 @@ window.SONG_DATA.push(
   "collection": "「织就航路的人们」（航路を紡ぐものたち）",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J3MK6BEfL?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【🍠🦍歌切】[2026-07-08]初見さん歓迎中！ギリギリ七夕いけますか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BXML6hEKi?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-07-08]初見さん歓迎中！ギリギリ七夕いけますか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BXML6hEKi?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "GO!!!",
+  "artist": "FLOW",
+  "collection": "【🍠🦍歌切】[2026-07-08]初見さん歓迎中！ギリギリ七夕いけますか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BXML6hEKi?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-07-08]初見さん歓迎中！ギリギリ七夕いけますか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BXML6hEKi?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "となりのトトロ",
+  "artist": "井上あずみ",
+  "collection": "【🍠🦍歌切】[2026-07-08]初見さん歓迎中！ギリギリ七夕いけますか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BXML6hEKi?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "学園天国",
+  "artist": "フィンガー5",
+  "collection": "【🍠🦍歌切】[2026-07-08]初見さん歓迎中！ギリギリ七夕いけますか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BXML6hEKi?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おどるポンポコリン",
+  "artist": "B.B.クィーンズ",
+  "collection": "【🍠🦍歌切】[2026-07-08]初見さん歓迎中！ギリギリ七夕いけますか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BXML6hEKi?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【🍠🦍歌切】[2026-07-08]初見さん歓迎中！ギリギリ七夕いけますか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BXML6hEKi?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "キューティーハニー",
+  "artist": "前川陽子",
+  "collection": "【🍠🦍歌切】[2026-07-08]初見さん歓迎中！ギリギリ七夕いけますか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BXML6hEKi?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "【🍠🦍歌切】[2026-07-08]初見さん歓迎中！ギリギリ七夕いけますか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BXML6hEKi?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Spending",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-07-08]初見さん歓迎中！ギリギリ七夕いけますか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BXML6hEKi?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "サザエさん",
+  "artist": "宇野ゆう子",
+  "collection": "【🍠🦍歌切】[2026-07-08]初見さん歓迎中！ギリギリ七夕いけますか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BXML6hEKi?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "COLORS",
+  "artist": "FLOW",
+  "collection": "【🍠🦍歌切】[2026-07-08]初見さん歓迎中！ギリギリ七夕いけますか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BXML6hEKi?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "まるかいて地球",
+  "artist": "イタリア(浪川大輔)",
+  "collection": "【🍠🦍歌切】[2026-07-08]初見さん歓迎中！ギリギリ七夕いけますか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BXML6hEKi?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ありがとう～",
+  "artist": "BON'Z",
+  "collection": "【🍠🦍歌切】[2026-07-08]初見さん歓迎中！ギリギリ七夕いけますか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BXML6hEKi?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "果てしなく遠い空に",
+  "artist": "THE STAND UP",
+  "collection": "【🍠🦍歌切】[2026-07-08]初見さん歓迎中！ギリギリ七夕いけますか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BXML6hEKi?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "HANABI",
+  "artist": "いきものがかり",
+  "collection": "【🍠🦍歌切】[2026-07-08]初見さん歓迎中！ギリギリ七夕いけますか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BXML6hEKi?p=17",
   "source": "yoshika.js"
 }
 );
