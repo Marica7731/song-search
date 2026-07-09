@@ -1,6 +1,6 @@
 // 323 - 歌单数据 (多合集汇总)
 // 来源: BV1r75B6LEwd
-// 生成时间: 7/9/2026, 2:46:48 AM
+// 生成时间: 7/9/2026, 2:52:19 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2363,6 +2363,198 @@ window.SONG_DATA.push(
   "collection": "「'あなたといたい'」（想和你在一起）",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1r7MY6EE3e?p=1",
+  "source": "323.js"
+},
+    {
+  "title": "ヤンキーボーイ・ヤンキーガール",
+  "artist": "トーマ feat. GUMI",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=1",
+  "source": "323.js"
+},
+    {
+  "title": "魔法少女幸福論",
+  "artist": "トーマ feat. 初音ミク",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=2",
+  "source": "323.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat. 初音ミク",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=3",
+  "source": "323.js"
+},
+    {
+  "title": "夜咄ディセイブ",
+  "artist": "じん feat. IA",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=4",
+  "source": "323.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat. 初音ミク",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=5",
+  "source": "323.js"
+},
+    {
+  "title": "グッバイ宣言",
+  "artist": "Chinozo feat. v flower",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=6",
+  "source": "323.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=7",
+  "source": "323.js"
+},
+    {
+  "title": "magnet",
+  "artist": "minato(流星P) feat. 初音ミク・巡音ルカ",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=8",
+  "source": "323.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat. flower",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=9",
+  "source": "323.js"
+},
+    {
+  "title": "竹取オーバーナイトセンセーション",
+  "artist": "HoneyWorks feat. 鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=10",
+  "source": "323.js"
+},
+    {
+  "title": "ギガンティックO.T.N",
+  "artist": "ギガP feat. 鏡音レン",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=11",
+  "source": "323.js"
+},
+    {
+  "title": "妄想税",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=12",
+  "source": "323.js"
+},
+    {
+  "title": "ロケットサイダー",
+  "artist": "ナユタン星人 feat. 初音ミク",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=13",
+  "source": "323.js"
+},
+    {
+  "title": "おねがいダーリン",
+  "artist": "ナナホシ管弦楽団 feat. ONE",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=14",
+  "source": "323.js"
+},
+    {
+  "title": "心拍数♯0822",
+  "artist": "蝶々P feat. 初音ミク",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=15",
+  "source": "323.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat. 初音ミク",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=16",
+  "source": "323.js"
+},
+    {
+  "title": "アンノウン・マザーグース",
+  "artist": "wowaka feat. 初音ミク",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=17",
+  "source": "323.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=18",
+  "source": "323.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat. IA",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=19",
+  "source": "323.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat. IA",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=20",
+  "source": "323.js"
+},
+    {
+  "title": "おじゃま虫",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=21",
+  "source": "323.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat. GUMI",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=22",
+  "source": "323.js"
+},
+    {
+  "title": "弱虫モンブラン",
+  "artist": "DECO*27 feat. GUMI",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=23",
+  "source": "323.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat. GUMI",
+  "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=24",
   "source": "323.js"
 }
 );
