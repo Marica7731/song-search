@@ -1,6 +1,6 @@
 // AZKi - 歌单数据 (多合集汇总)
 // 来源: BV1dE42137AT
-// 生成时间: 7/9/2026, 3:41:28 PM
+// 生成时间: 7/9/2026, 3:53:12 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5211,6 +5211,86 @@ window.SONG_DATA.push(
   "collection": "AZKi 2026年06月24日19点场 重大告知させてください！！！！！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D81dYfECc?p=9",
+  "source": "azki.js"
+},
+    {
+  "title": "JOINT",
+  "artist": "川田まみ",
+  "collection": "AZKi 2026年07月08日22点场 新衣装で歌う～～～！！！J-POP・アニソン・ボカロ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D81dYfEtV?p=1",
+  "source": "azki.js"
+},
+    {
+  "title": "Take a shot",
+  "artist": "水樹奈々",
+  "collection": "AZKi 2026年07月08日22点场 新衣装で歌う～～～！！！J-POP・アニソン・ボカロ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D81dYfEtV?p=2",
+  "source": "azki.js"
+},
+    {
+  "title": "First Good-Bye",
+  "artist": "涼宮ハルヒ(CV.平野綾)",
+  "collection": "AZKi 2026年07月08日22点场 新衣装で歌う～～～！！！J-POP・アニソン・ボカロ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D81dYfEtV?p=3",
+  "source": "azki.js"
+},
+    {
+  "title": "ロストシンフォニー",
+  "artist": "新谷良子",
+  "collection": "AZKi 2026年07月08日22点场 新衣装で歌う～～～！！！J-POP・アニソン・ボカロ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D81dYfEtV?p=4",
+  "source": "azki.js"
+},
+    {
+  "title": "消せない罪",
+  "artist": "北出菜奈",
+  "collection": "AZKi 2026年07月08日22点场 新衣装で歌う～～～！！！J-POP・アニソン・ボカロ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D81dYfEtV?p=5",
+  "source": "azki.js"
+},
+    {
+  "title": "ebullient future(English)",
+  "artist": "ELISA",
+  "collection": "AZKi 2026年07月08日22点场 新衣装で歌う～～～！！！J-POP・アニソン・ボカロ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D81dYfEtV?p=6",
+  "source": "azki.js"
+},
+    {
+  "title": "futuristic imagination",
+  "artist": "school food punishment",
+  "collection": "AZKi 2026年07月08日22点场 新衣装で歌う～～～！！！J-POP・アニソン・ボカロ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D81dYfEtV?p=7",
+  "source": "azki.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "AZKi 2026年07月08日22点场 新衣装で歌う～～～！！！J-POP・アニソン・ボカロ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D81dYfEtV?p=8",
+  "source": "azki.js"
+},
+    {
+  "title": "有心論",
+  "artist": "RADWIMPS",
+  "collection": "AZKi 2026年07月08日22点场 新衣装で歌う～～～！！！J-POP・アニソン・ボカロ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D81dYfEtV?p=9",
+  "source": "azki.js"
+},
+    {
+  "title": "Paradise Lost",
+  "artist": "茅原実里",
+  "collection": "AZKi 2026年07月08日22点场 新衣装で歌う～～～！！！J-POP・アニソン・ボカロ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D81dYfEtV?p=10",
   "source": "azki.js"
 }
 );
