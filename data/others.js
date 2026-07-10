@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/10/2026, 4:48:23 PM
+// 生成时间: 7/10/2026, 4:58:11 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17104,17 +17104,17 @@ window.SONG_DATA.push(
     {
   "title": "ハルカ",
   "artist": "YOASOBI",
-  "collection": "歌切 2026-03-30 Muan ch.茨むあん ibaramuan",
+  "collection": "歌切 2026-07-08 标题。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LnSSBdEeq?p=1",
+  "link": "https://www.bilibili.com/video/BV1awMj6sEXY?p=18",
   "source": "others.js"
 },
     {
-  "title": "撫でんな",
-  "artist": "柊マグネタイト",
-  "collection": "歌切 2026-03-30 Muan ch.茨むあん ibaramuan",
+  "title": "Honto",
+  "artist": "sumika",
+  "collection": "歌切 2026-07-08 标题。",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LnSSBdEeq?p=2",
+  "link": "https://www.bilibili.com/video/BV1awMj6sEXY?p=19",
   "source": "others.js"
 },
     {
@@ -17248,7 +17248,7 @@ window.SONG_DATA.push(
     {
   "title": "君って",
   "artist": "西野カナ",
-  "collection": "歌切 2026-03-30 Muan ch.茨むあん ibaramuan",
+  "collection": "空奏イト / Ito Channel【ミクスト】歌切 2026-07-09 只唱催泪的歌，献给你哦",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UNNj6rExx?p=16",
   "source": "others.js"
