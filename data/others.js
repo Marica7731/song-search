@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/10/2026, 2:19:32 PM
+// 生成时间: 7/10/2026, 2:35:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6942,111 +6942,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "GIRAFFE BLUES",
-  "artist": "ワルキューレ",
-  "collection": "联动歌切 2026-06-03 UTANO ch. 白玖ウタノ N7Iq6eTmKyM 新成员来袭！？成为我的兰花吧✈️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1So7d6pEnA?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "僕らの戦場",
-  "artist": "ワルキューレ",
-  "collection": "联动歌切 2026-06-03 UTANO ch. 白玖ウタノ N7Iq6eTmKyM 新成员来袭！？成为我的兰花吧✈️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1So7d6pEnA?p=5",
-  "source": "others.js"
-},
-    {
-  "title": "恋のドッグファイト",
-  "artist": "ランカ・リー＝中島愛",
-  "collection": "联动歌切 2026-06-03 UTANO ch. 白玖ウタノ N7Iq6eTmKyM 新成员来袭！？成为我的兰花吧✈️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1So7d6pEnA?p=6",
-  "source": "others.js"
-},
-    {
-  "title": "Friends ～時空を越えて～",
-  "artist": "リン・ミンメイ(飯島真理)＆ミレーヌ・ジーナス(桜井智)",
-  "collection": "联动歌切 2026-06-03 UTANO ch. 白玖ウタノ N7Iq6eTmKyM 新成员来袭！？成为我的兰花吧✈️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1So7d6pEnA?p=7",
-  "source": "others.js"
-},
-    {
-  "title": "ドーナツホール",
-  "artist": "ハチ feat.GUMI",
-  "collection": "联动歌切 2026-06-05  与巫てんり的联动歌回！七海うらら首登Zepp纪念",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV188Ef6aE3W?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "花の塔",
-  "artist": "さユり",
-  "collection": "联动歌切 2026-06-05  与巫てんり的联动歌回！七海うらら首登Zepp纪念",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV188Ef6aE3W?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "オリオンをなぞる",
-  "artist": "UNISON SQUARE GARDEN",
-  "collection": "联动歌切 2026-06-05  与巫てんり的联动歌回！七海うらら首登Zepp纪念",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV188Ef6aE3W?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "ヒバナ",
-  "artist": "DECO*27 feat.初音ミク",
-  "collection": "联动歌切 2026-06-05  与巫てんり的联动歌回！七海うらら首登Zepp纪念",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV188Ef6aE3W?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "君の知らない物語",
-  "artist": "supercell",
-  "collection": "联动歌切 2026-06-05  与巫てんり的联动歌回！七海うらら首登Zepp纪念",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV188Ef6aE3W?p=5",
-  "source": "others.js"
-},
-    {
-  "title": "創聖のアクエリオン",
-  "artist": "AKINO from bless4",
-  "collection": "联动歌切 2026-06-05  与巫てんり的联动歌回！七海うらら首登Zepp纪念",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV188Ef6aE3W?p=6",
-  "source": "others.js"
-},
-    {
-  "title": "私は最強",
-  "artist": "Ado",
-  "collection": "联动歌切 2026-06-10 与白玖ウタノ联动歌回！纪念七海うらら首次Zepp演出 Nanami Urara",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YJEo6hEfv?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "放課後オーバーフロウ",
-  "artist": "ランカ・リー＝中島愛",
-  "collection": "联动歌切 2026-06-10 与白玖ウタノ联动歌回！纪念七海うらら首次Zepp演出 Nanami Urara",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YJEo6hEfv?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "UNION",
-  "artist": "OxT",
-  "collection": "联动歌切 2026-06-10 与白玖ウタノ联动歌回！纪念七海うらら首次Zepp演出 Nanami Urara",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YJEo6hEfv?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "Rising Hope",
+  "title": "crossing field",
   "artist": "LiSA",
   "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
   "up": "前尘往事如昔故",
