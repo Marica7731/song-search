@@ -1,6 +1,6 @@
 // 323 - 歌单数据 (多合集汇总)
 // 来源: BV1r75B6LEwd
-// 生成时间: 7/10/2026, 3:35:25 AM
+// 生成时间: 7/10/2026, 3:43:54 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2555,6 +2555,118 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-08]初见◎BGM◎术力口限定歌回！！ 323",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18VME6RE4c?p=24",
+  "source": "323.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "【歌切】[2026-07-09]初见◎BGM◎术力口限定献唱！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UNNj6rEXo?p=1",
+  "source": "323.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-07-09]初见◎BGM◎术力口限定献唱！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UNNj6rEXo?p=2",
+  "source": "323.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat. 可不",
+  "collection": "【歌切】[2026-07-09]初见◎BGM◎术力口限定献唱！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UNNj6rEXo?p=3",
+  "source": "323.js"
+},
+    {
+  "title": "神っぽいな",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "【歌切】[2026-07-09]初见◎BGM◎术力口限定献唱！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UNNj6rEXo?p=4",
+  "source": "323.js"
+},
+    {
+  "title": "フラジール",
+  "artist": "ぬゆり feat. GUMI",
+  "collection": "【歌切】[2026-07-09]初见◎BGM◎术力口限定献唱！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UNNj6rEXo?p=5",
+  "source": "323.js"
+},
+    {
+  "title": "ずうっといっしょ！",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-07-09]初见◎BGM◎术力口限定献唱！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UNNj6rEXo?p=6",
+  "source": "323.js"
+},
+    {
+  "title": "エンヴィーベイビー",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "【歌切】[2026-07-09]初见◎BGM◎术力口限定献唱！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UNNj6rEXo?p=7",
+  "source": "323.js"
+},
+    {
+  "title": "レクイエム",
+  "artist": "Kanaria feat. 星街すいせい",
+  "collection": "【歌切】[2026-07-09]初见◎BGM◎术力口限定献唱！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UNNj6rEXo?p=8",
+  "source": "323.js"
+},
+    {
+  "title": "MIRA",
+  "artist": "Kanaria feat. 小春六花",
+  "collection": "【歌切】[2026-07-09]初见◎BGM◎术力口限定献唱！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UNNj6rEXo?p=9",
+  "source": "323.js"
+},
+    {
+  "title": "アイデンティティ",
+  "artist": "Kanaria feat. GUMI・初音ミク",
+  "collection": "【歌切】[2026-07-09]初见◎BGM◎术力口限定献唱！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UNNj6rEXo?p=10",
+  "source": "323.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-07-09]初见◎BGM◎术力口限定献唱！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UNNj6rEXo?p=11",
+  "source": "323.js"
+},
+    {
+  "title": "きゅうくらりん",
+  "artist": "いよわ feat. 可不",
+  "collection": "【歌切】[2026-07-09]初见◎BGM◎术力口限定献唱！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UNNj6rEXo?p=12",
+  "source": "323.js"
+},
+    {
+  "title": "ダーリンダンス",
+  "artist": "かいりきベア feat. 初音ミク",
+  "collection": "【歌切】[2026-07-09]初见◎BGM◎术力口限定献唱！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UNNj6rEXo?p=13",
+  "source": "323.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat. GUMI・鏡音リン",
+  "collection": "【歌切】[2026-07-09]初见◎BGM◎术力口限定献唱！！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UNNj6rEXo?p=14",
   "source": "323.js"
 }
 );
