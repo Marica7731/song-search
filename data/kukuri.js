@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 7/11/2026, 12:47:57 PM
+// 生成时间: 7/11/2026, 12:56:22 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4379,6 +4379,182 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-07-07]心愿决定好了吗？歌回🎋",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vpMb6bEE3?p=22",
+  "source": "kukuri.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "パレード",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "you",
+  "artist": "癒月",
+  "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "逢坂大河(釘宮理恵)・櫛枝実乃梨(堀江由衣)・川嶋亜美(喜多村英梨)",
+  "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "バニラソルト",
+  "artist": "堀江由衣",
+  "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat. GUMI",
+  "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太 feat. 歌愛ユキ",
+  "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "さよならミッドナイト",
+  "artist": "もじゃ feat. GUMI Whisper",
+  "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "小夜子",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "心臓デモクラシー",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ヨンジュウナナ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Hello, Worker",
+  "artist": "KEI feat. 巡音ルカ",
+  "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "初めての恋が終わる時",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN feat. 鏡音リン",
+  "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "さようなら、花泥棒さん",
+  "artist": "メル feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夏のメロウ",
+  "artist": "メル feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ツツジの相談",
+  "artist": "メル feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=21",
+  "source": "kukuri.js"
+},
+    {
+  "title": "深海のリトルクライ",
+  "artist": "sasakure.UK feat. 土岐麻子",
+  "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=22",
   "source": "kukuri.js"
 }
 );
