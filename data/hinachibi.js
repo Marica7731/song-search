@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 7/11/2026, 8:45:14 PM
+// 生成时间: 7/11/2026, 8:56:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1395,6 +1395,70 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-10]想为下周的直播做宣传！！！🍎🌟 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QeNc6iEnH?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "アトラクトライト",
+  "artist": "*Luna feat. 鏡音レン",
+  "collection": "【歌切】[2026-07-11]离生日Live只剩一周？！？！努力推票哦🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEbr?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "-ERROR",
+  "artist": "niki feat. Lily",
+  "collection": "【歌切】[2026-07-11]离生日Live只剩一周？！？！努力推票哦🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEbr?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "泥中に咲く",
+  "artist": "ウォルピスカーター",
+  "collection": "【歌切】[2026-07-11]离生日Live只剩一周？！？！努力推票哦🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEbr?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-07-11]离生日Live只剩一周？！？！努力推票哦🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEbr?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-07-11]离生日Live只剩一周？！？！努力推票哦🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEbr?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-11]离生日Live只剩一周？！？！努力推票哦🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEbr?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "バースデイ",
+  "artist": "内緒のピアス feat. 可不",
+  "collection": "【歌切】[2026-07-11]离生日Live只剩一周？！？！努力推票哦🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEbr?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "思い出す光になれたなら",
+  "artist": "Moi Records feat. 菊花はる",
+  "collection": "【歌切】[2026-07-11]离生日Live只剩一周？！？！努力推票哦🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEbr?p=8",
   "source": "hinachibi.js"
 }
 );
