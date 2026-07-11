@@ -559,12 +559,14 @@
         const coverHtml = cover
           ? `<img class="song-cover" src="${escapeAttr(cover)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`
           : `<div class="song-cover" aria-hidden="true"></div>`;
+        const rawSource = song.source || '';
+        const rawSourceAlias = getSourceAlias(rawSource);
         return `<article class="song-card">
           ${coverHtml}
           <div class="song-body">
             <div class="vocaloid-song-title" title="${escapeAttr(song.title || '')}">${escapeHtml(song.title || '未命名')}</div>
             <div class="vocaloid-song-artist" title="${escapeAttr(song.artist || '')}">${escapeHtml(song.artist || '未知歌手')}</div>
-            <div class="song-meta">${avatarHtml(getDisplaySource(song.source || ''), getDisplaySourceAlias(song.source || ''))}<span>${escapeHtml(getDisplaySourceAlias(song.source || ''))}</span><span>${escapeHtml(song.pubdateFormatted || '')}</span></div>
+            <div class="song-meta">${avatarHtml(rawSource, rawSourceAlias)}<span>${escapeHtml(rawSourceAlias)}</span><span>${escapeHtml(song.pubdateFormatted || '')}</span></div>
             <div class="reason-chips">${reasons.map(reason => `<span class="reason-chip" title="${escapeAttr(reason)}">${escapeHtml(reason)}</span>`).join('')}</div>
             <div class="song-actions">${link ? `<a href="${escapeAttr(link)}" target="_blank" rel="noopener noreferrer">打开</a>` : ''}<a href="/?q=${encodeURIComponent(song.title || '')}">检索</a></div>
           </div>

@@ -405,6 +405,10 @@ function getDisplaySourceAlias(sourceFile) {
   return getSourceAlias(getSourceDisplayFile(sourceFile));
 }
 
+function getRawSourceAlias(sourceFile) {
+  return getSourceAlias(sourceFile) || '';
+}
+
 function isDupCopyAiAvailable() {
   return !!DUP_COPY_AI_API_KEY;
 }
@@ -418,7 +422,8 @@ function toDisplaySourceName(rawValue) {
 
 function getConcreteSourceName(entry) {
   const song = entry?.song || entry || {};
-  return getDisplaySourceAlias(song.source) || '未知来源';
+  const rawSource = String(song.rawSource || song.source || '').trim();
+  return getRawSourceAlias(rawSource) || '未知来源';
 }
 
 function normalizeArtistVariantForCopy(artist) {
@@ -795,7 +800,8 @@ function getGrowthSongDate(song) {
 }
 
 function summarizeGrowthDetailSong(song, extra = {}) {
-  const displaySource = getSourceDisplayFile(song?.source || '');
+  const rawSource = String(song?.rawSource || song?.source || '').trim();
+  const displaySource = getSourceDisplayFile(rawSource);
   return {
     title: song?.title || '未知歌曲',
     artist: song?.artist || song?.originalArtist || '',
@@ -803,9 +809,11 @@ function summarizeGrowthDetailSong(song, extra = {}) {
     collection: song?.collection || '',
     link: song?.link || '',
     bvid: getExportBvid(song),
-    source: displaySource,
-    rawSource: song?.source || '',
-    sourceAlias: getExportSourceName(song),
+    source: rawSource,
+    rawSource,
+    sourceAlias: getRawSourceAlias(rawSource),
+    displaySource,
+    displaySourceAlias: getDisplaySourceAlias(rawSource),
     cover: song?.cover || '',
     pubdate: Number(song?.pubdate || 0),
     viewCount: Number(song?.viewCount || 0),
@@ -1649,13 +1657,24 @@ function getSongBvid(item) {
 function withDisplaySourceForClient(song) {
   if (!song || typeof song !== 'object') return song;
   const rawSource = String(song.rawSource || song.source || '').trim();
-  if (!rawSource) return { ...song, rawSource: '', source: '', sourceAlias: '' };
+  if (!rawSource) {
+    return {
+      ...song,
+      rawSource: '',
+      source: '',
+      sourceAlias: '',
+      displaySource: '',
+      displaySourceAlias: ''
+    };
+  }
   const displaySource = getSourceDisplayFile(rawSource);
   return {
     ...song,
     rawSource,
-    source: displaySource,
-    sourceAlias: getDisplaySourceAlias(rawSource)
+    source: rawSource,
+    sourceAlias: getRawSourceAlias(rawSource),
+    displaySource,
+    displaySourceAlias: getDisplaySourceAlias(rawSource)
   };
 }
 
@@ -1956,7 +1975,7 @@ function buildArtistSummaryByTitle(title) {
 
   matchedSongs.forEach((song, index) => {
     const artistName = (song.artist || '未知歌手').trim();
-    const sourceAlias = getDisplaySourceAlias(song.source);
+    const sourceAlias = getRawSourceAlias(song.source);
     if (!artistMap.has(artistName)) {
       artistMap.set(artistName, {
         name: artistName,
@@ -2131,7 +2150,8 @@ function aggregateBySong(data) {
     entry.performances.push({
       link: item.link || '',
       collection: item.collection || '未知合集',
-      source: getDisplaySourceAlias(item.source),
+      source: getRawSourceAlias(item.source),
+      displaySource: getDisplaySourceAlias(item.source),
       cover: item.cover || '',
       bvid: extractBV(item.bvid || item.link || '')
     });
@@ -2193,7 +2213,8 @@ function aggregateByVtuberSource(data) {
       songEntry.links.push({
         link: item.link,
         collection: item.collection || '未知合集',
-        source: vtuberName,
+        source: getRawSourceAlias(item.source),
+        displaySource: vtuberName,
         cover: item.cover || ''
       });
     }
@@ -2266,7 +2287,8 @@ function aggregateByArtist(data) {
       songEntry.links.push({
         link: item.link,
         collection: item.collection || '未知合集',
-      source: getDisplaySourceAlias(item.source),
+        source: getRawSourceAlias(item.source),
+        displaySource: getDisplaySourceAlias(item.source),
         cover: item.cover || ''
       });
     }
@@ -2613,13 +2635,16 @@ function buildSongRowId(item) {
 function withSearchRowMeta(item) {
   const uniqueSourceCount = getSongUniqueSourceCount(item);
   const uniqueOccurrenceCount = getSongUniqueOccurrenceCount(item);
-  const displaySource = getSourceDisplayFile(item.source);
+  const rawSource = String(item.source || '').trim();
+  const displaySource = getSourceDisplayFile(rawSource);
   return {
     ...item,
     rowId: buildSongRowId(item),
-    rawSource: item.source || '',
-    source: displaySource,
-    sourceAlias: getExportSourceName(item),
+    rawSource,
+    source: rawSource,
+    sourceAlias: getRawSourceAlias(rawSource),
+    displaySource,
+    displaySourceAlias: getDisplaySourceAlias(rawSource),
     bvid: getExportBvid(item),
     uniqueSourceCount,
     uniqueOccurrenceCount,
@@ -2653,7 +2678,7 @@ function getSearchExportFields(reqUrl) {
 }
 
 function getExportSourceName(item) {
-  return getDisplaySourceAlias(item.source) || '';
+  return getRawSourceAlias(item?.rawSource || item?.source || '') || '';
 }
 
 function getExportBvid(item) {
@@ -3039,8 +3064,9 @@ function buildDupCopyPayloadItems(payloadItems) {
           title: String(song.title || '').trim(),
           artist: String(song.artist || '').trim(),
           collection: String(song.collection || '').trim(),
-          source: getSourceDisplayFile(song.source || ''),
           rawSource: String(song.rawSource || song.source || '').trim(),
+          source: String(song.rawSource || song.source || '').trim(),
+          displaySource: getSourceDisplayFile(song.rawSource || song.source || ''),
           bvid: extractBV(song.bvid || song.link || ''),
           link: String(song.link || '').trim(),
           videoTitle: String(song.videoTitle || '').trim()

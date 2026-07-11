@@ -2209,6 +2209,17 @@
       return state.aliases[sourceKey(file)] || file || '未知来源';
     }
 
+    function itemSourceFile(item) {
+      return String(item?.rawSource || item?.source || '').trim();
+    }
+
+    function itemSourceName(item) {
+      const alias = String(item?.sourceAlias || '').trim();
+      const displayAlias = String(item?.displaySourceAlias || '').trim();
+      if (alias && alias !== displayAlias) return alias;
+      return sourceName(itemSourceFile(item));
+    }
+
     function defaultAvatarText(name) {
       const picked = Array.from(String(name || '').trim()).find(ch => /[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}A-Za-z0-9]/u.test(ch));
       return (picked || '源').toUpperCase();
@@ -2686,7 +2697,8 @@
       }
       results.innerHTML = state.items.map(item => {
         const artist = isValidArtist(item.artist) ? item.artist : '无歌手信息';
-        const src = sourceName(item.source);
+        const src = itemSourceName(item);
+        const sourceFile = itemSourceFile(item);
         const bv = extractBv(item);
         const date = formatDate(item.pubdate);
         const metaParts = [
@@ -2699,7 +2711,7 @@
           ? '<span class="unique-song-badge" title="独特歌曲：按歌名 - 歌手宽容去重后仅单来源收录">★ 独特</span>'
           : '';
         const mobileMeta = [
-          sourceAvatar(item.source, 'mobile-meta-avatar'),
+          sourceAvatar(sourceFile, 'mobile-meta-avatar'),
           `<span class="mobile-meta-source" title="${escapeHtml(src)}">${escapeHtml(src)}</span>`,
           date ? `<span class="mobile-meta-chip" title="${escapeHtml(date)}">${escapeHtml(date)}</span>` : '',
           bv ? `<span class="mobile-meta-chip" title="${escapeHtml(bv)}">${escapeHtml(bv)}</span>` : ''
@@ -2860,7 +2872,7 @@
       const artist = isValidArtist(item.artist) ? item.artist : '';
       if (preset === 'link') return item.link || '';
       if (preset === 'titleArtistLink') return [artist ? `${title} - ${artist}` : title, item.link || ''].filter(Boolean).join(' ');
-      if (preset === 'tsv') return [title, artist, item.collection || '', sourceName(item.source), item.link || '', extractBv(item), formatDateTime(item.pubdate)].join('\t');
+      if (preset === 'tsv') return [title, artist, item.collection || '', itemSourceName(item), item.link || '', extractBv(item), formatDateTime(item.pubdate)].join('\t');
       return artist ? `${title} - ${artist}` : title;
     }
 
@@ -2886,7 +2898,7 @@
       if (field === 'title') return item.title || '';
       if (field === 'artist') return isValidArtist(item.artist) ? item.artist : '';
       if (field === 'collection') return item.collection || '';
-      if (field === 'source') return sourceName(item.source);
+      if (field === 'source') return itemSourceName(item);
       if (field === 'link') return item.link || '';
       if (field === 'bvid') return extractBv(item);
       if (field === 'pubdate') return formatDateTime(item.pubdate);

@@ -2130,7 +2130,8 @@
                 entry.performances.push({
                     link: item.link,
                     collection: item.collection || '未知合集',
-                    source: getSourceAliasByFile(getDisplaySourceFile(item.source)),
+                    source: getSourceAliasByFile(item.source),
+                    displaySource: getSourceAliasByFile(getDisplaySourceFile(item.source)),
                     cover: getCoverUrl(item)
                 });
             });
@@ -2180,7 +2181,8 @@
                 if (item.link) songEntry.links.push({
                     link: item.link,
                     collection: item.collection || '未知合集',
-                    source: getSourceAliasByFile(getDisplaySourceFile(item.source)),
+                    source: getSourceAliasByFile(item.source),
+                    displaySource: getSourceAliasByFile(getDisplaySourceFile(item.source)),
                     cover: getCoverUrl(item)
                 });
             });

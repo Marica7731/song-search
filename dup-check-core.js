@@ -7,6 +7,7 @@ let fileList = [];
 let fileAlias = {};
 let sourceStats = {};
 let sourceProfiles = {};
+let sourceDisplayMap = {};
 let bootstrapTotalSongs = 0;
 let bootstrapTotalUnique = 0;
 let currentTab = 'all';
@@ -69,6 +70,14 @@ function getSourceKey(source) {
 
 function isCombinedSource(source) {
   return getSourceKey(source) === 'others' || getSourceAlias(source) === '非常驻妹妹';
+}
+
+function getDisplaySource(source) {
+  const raw = String(source || '').trim();
+  if (!raw || raw === 'all') return raw;
+  if (sourceDisplayMap[raw]) return sourceDisplayMap[raw];
+  const withExt = raw.endsWith('.js') ? raw : `${raw}.js`;
+  return sourceDisplayMap[withExt] || withExt;
 }
 
 function getSourceProfile(source, fallbackAlias = '') {
@@ -162,14 +171,14 @@ function getSourceSongCount(source) {
   const stat = sourceStats[source] || {};
   if (Number.isFinite(Number(stat.totalSongs))) return Number(stat.totalSongs);
   if (Number.isFinite(Number(stat.count))) return Number(stat.count);
-  return allSongs.filter(song => song.source === source).length;
+  return allSongs.filter(song => getDisplaySource(song.source) === source).length;
 }
 
 function getSourceUniqueCount(source) {
   if (source === 'all') return bootstrapTotalUnique || getUniqueSongCount(allSongs);
   const stat = sourceStats[source] || {};
   if (Number.isFinite(Number(stat.totalUnique))) return Number(stat.totalUnique);
-  const sourceSongs = allSongs.filter(song => song.source === source);
+  const sourceSongs = allSongs.filter(song => getDisplaySource(song.source) === source);
   return sourceSongs.length > 0 ? getUniqueSongCount(sourceSongs) : 0;
 }
 
@@ -616,6 +625,7 @@ async function loadAllData(forceStatic = false) {
         fileAlias = bootstrapData.fileToAlias || {};
         sourceStats = bootstrapData.sourceStats || {};
         sourceProfiles = bootstrapData.sourceProfiles || {};
+        sourceDisplayMap = bootstrapData.sourceDisplayMap || {};
         bootstrapTotalSongs = bootstrapData.totalSongs || 0;
         bootstrapTotalUnique = bootstrapData.totalUnique || 0;
         isApiMode = true;
@@ -636,6 +646,7 @@ async function loadAllData(forceStatic = false) {
       fileList = indexData.files || fileList || [];
       fileAlias = indexData.fileToAlias || fileAlias || {};
       sourceProfiles = indexData.sourceProfiles || {};
+      sourceDisplayMap = {};
       sourceStats = {};
       bootstrapTotalSongs = 0;
       bootstrapTotalUnique = 0;
@@ -853,7 +864,7 @@ async function switchSourceTab(tab) {
 
 function getCurrentPool() {
   if (currentTab === 'all') return allSongs;
-  return allSongs.filter(song => song.source === currentTab);
+  return allSongs.filter(song => getDisplaySource(song.source) === currentTab);
 }
 
 async function search() {
@@ -1089,13 +1100,15 @@ function resultStatusHtml(item) {
 }
 
 function resultSourceHtml(song) {
-  const sourceText = song?.source ? getSourceAlias(song.source) : '输入值（未收录）';
-  const jumpButton = currentMode === 'bv' && song?.source
-    ? `<button type="button" class="jump-tab-btn" data-source="${escapeAttr(song.source)}">跳转来源</button>`
+  const rawSource = String(song?.rawSource || song?.source || '').trim();
+  const displaySource = String(song?.displaySource || getDisplaySource(rawSource)).trim();
+  const sourceText = rawSource ? getSourceAlias(rawSource) : '输入值（未收录）';
+  const jumpButton = currentMode === 'bv' && displaySource
+    ? `<button type="button" class="jump-tab-btn" data-source="${escapeAttr(displaySource)}">跳转来源</button>`
     : '';
   return `
     <div class="dup-source-line">
-      ${sourceAvatarHtml(song?.source || '', 'result-source-avatar', sourceText)}
+      ${sourceAvatarHtml(rawSource, 'result-source-avatar', sourceText)}
       <span>来源：</span>
       <span class="copyable" data-copy="${encodeCopyValue(sourceText)}">${escapeHtml(sourceText)}</span>
       ${jumpButton}

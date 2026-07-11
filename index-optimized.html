@@ -764,6 +764,17 @@
       return state.aliases[sourceKey(file)] || file || '未知来源';
     }
 
+    function itemSourceFile(item) {
+      return String(item?.rawSource || item?.source || '').trim();
+    }
+
+    function itemSourceName(item) {
+      const alias = String(item?.sourceAlias || '').trim();
+      const displayAlias = String(item?.displaySourceAlias || '').trim();
+      if (alias && alias !== displayAlias) return alias;
+      return sourceName(itemSourceFile(item));
+    }
+
     function isCombinedSource(file) {
       return sourceKey(file) === 'others' || sourceName(file) === '非常驻妹妹';
     }
@@ -883,7 +894,7 @@
       }
       results.innerHTML = state.items.map(item => {
         const artist = isValidArtist(item.artist) ? item.artist : '无歌手信息';
-        const src = sourceName(item.source);
+        const src = itemSourceName(item);
         const bv = extractBv(item);
         const date = formatDate(item.pubdate);
         return `
@@ -1009,7 +1020,7 @@
       const artist = isValidArtist(item.artist) ? item.artist : '';
       if (preset === 'link') return item.link || '';
       if (preset === 'titleArtistLink') return [artist ? `${title} - ${artist}` : title, item.link || ''].filter(Boolean).join(' ');
-      if (preset === 'tsv') return [title, artist, item.collection || '', sourceName(item.source), item.link || '', extractBv(item), formatDateTime(item.pubdate)].join('\t');
+      if (preset === 'tsv') return [title, artist, item.collection || '', itemSourceName(item), item.link || '', extractBv(item), formatDateTime(item.pubdate)].join('\t');
       return artist ? `${title} - ${artist}` : title;
     }
 
@@ -1035,7 +1046,7 @@
       if (field === 'title') return item.title || '';
       if (field === 'artist') return isValidArtist(item.artist) ? item.artist : '';
       if (field === 'collection') return item.collection || '';
-      if (field === 'source') return sourceName(item.source);
+      if (field === 'source') return itemSourceName(item);
       if (field === 'link') return item.link || '';
       if (field === 'bvid') return extractBv(item);
       if (field === 'pubdate') return formatDateTime(item.pubdate);
