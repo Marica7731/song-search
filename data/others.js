@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/11/2026, 11:05:47 PM
+// 生成时间: 7/11/2026, 11:15:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2939,6 +2939,222 @@ window.SONG_DATA.push(
   "collection": "三日月ちゆる联动歌切 2026-07-10 与Else的初次合唱！✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DeNc6iEGe?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "MOTTAI",
+  "artist": "P丸様。",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "メリッサ",
+  "artist": "ポルノグラフィティ",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat. 初音ミク",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat. 初音ミク",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ラプラスショコラ",
+  "artist": "Kai feat. 初音ミク",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "おちゃめ機能",
+  "artist": "ゴジマジP feat. 重音テト",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "koyori(電ポルP) feat. 初音ミク",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "一二三",
+  "artist": "Penthouse",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat. IA",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat. GUMI・鏡音リン",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "チェリーポップ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "可愛くてごめん",
+  "artist": "HoneyWorks feat. かぴ",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "ベノム",
+  "artist": "かいりきベア feat. flower",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "ドーナツホール",
+  "artist": "ハチ feat. GUMI",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "ラビットホール",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "はなまるぴっぴはよいこだけ",
+  "artist": "A応P",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat. 巡音ルカ・GUMI",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "生きる",
+  "artist": "水野あつ feat. 可不",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "ヤラララ",
+  "artist": "AnythingBecomeMoe feat. 重音テト",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "おねがいダーリン",
+  "artist": "ナナホシ管弦楽団 feat. ONE",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat. 初音ミク",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "リードコントロール",
+  "artist": "なるみや",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス feat. 可不",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP feat. 鏡音リン",
+  "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=27",
   "source": "others.js"
 },
     {
