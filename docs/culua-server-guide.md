@@ -255,8 +255,9 @@ cd /var/www/song-search
 git -c safe.directory=/var/www/song-search fetch origin codex/server-deploy
 git -c safe.directory=/var/www/song-search reset --hard origin/codex/server-deploy
 /usr/bin/node scripts/update-songs.js
+/usr/bin/node scripts/update-vocaloid-snapshot.js --source local
 /usr/bin/node scripts/update-song-growth.js
-/usr/bin/chown -R codex:codex data reports
+/usr/bin/chown -R codex:codex data reports vocaloid-songs-latest
 /usr/bin/curl -fsS http://127.0.0.1:3230/internal/reload >/dev/null
 ```
 
@@ -264,7 +265,8 @@ git -c safe.directory=/var/www/song-search reset --hard origin/codex/server-depl
 
 - root crontab 会以 root 身份执行刷新脚本，而 `/var/www/song-search` 主要由 `codex` 维护；Git 可能因为 `dubious ownership` 拒绝 `fetch/reset`。刷新脚本里的两条 git 命令必须带 `-c safe.directory=/var/www/song-search`。
 - 手动发布也必须使用 `/usr/bin/flock -n /tmp/song-search-refresh.lock`。不要裸跑 `/usr/local/bin/song-search-refresh.sh`，否则可能和 20 分钟 cron 同时写 `data/`，造成线上总量短暂回退。
-- 刷新脚本生成 `data/` 和 `reports/` 后会把归属修回 `codex:codex`，避免后续 `codex` 用户部署或检查时被 root 生成物卡住。
+- 术力口快照必须在 `update-songs.js` 后用 `--source local` 生成，确保快照基于刚刷新出来的本地歌库，而不是可能尚未 reload 的公网旧 API。
+- 刷新脚本生成 `data/`、`reports/` 和 `vocaloid-songs-latest/` 后会把归属修回 `codex:codex`，避免后续 `codex` 用户部署或检查时被 root 生成物卡住。
 
 只有在明确做紧急进程恢复、且确认不执行 `git reset --hard` 时，才单独重启服务：
 

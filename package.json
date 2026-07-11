@@ -8,6 +8,7 @@
     "check:library": "node scripts/check-song-library.js",
     "check:live": "node scripts/check-live-song-total.js",
     "collect:avatars": "node scripts/collect-source-avatars.js --write --update-index",
-    "scan:stats-issues": "node scripts/scan-stats-artist-issues.js"
+    "scan:stats-issues": "node scripts/scan-stats-artist-issues.js",
+    "update:vocaloid": "node scripts/update-vocaloid-snapshot.js"
   }
 }

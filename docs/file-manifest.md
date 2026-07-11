@@ -16,7 +16,7 @@
 | `bv-dup-check.html` | BV 查重页面 | 接收 BV 列表，输出已收录和未收录结果，提供短输入工作区、当前库/结果概览、复制预设入口、已收录链接位次输入和折叠式高级复制字段；来源选择挂在左侧栏，结果列表自适应多列卡片，目录挂载到右侧布局槽位并只保留关键分区 | 依赖 `dup-check-core.js` 与 `artist-match.js`；服务端 `/api/dup-check` 限制未知 BV live fallback；页面通过带版本号的 `site-theme.css` 和 `dup-check-core.js` 获取 BV 专用概览与卡片布局 |
 | `title-artist-dup-check.html` | 歌名歌手查重页面 | 批量检查“歌名 - 歌手”是否已入库，展示歌手疑似不一致分组，提供复制预设入口、已收录链接位次输入、折叠式高级复制字段和更干净的输入区；来源选择挂在左侧栏，结果列表自适应多列卡片，目录挂载到右侧布局槽位 | 依赖 `dup-check-core.js` 与 `artist-match.js`；页面通过带版本号的 `site-theme.css` 获取查重卡片布局 |
 | `title-artist-check.html` | 命名和校验工具 | 校验歌名歌手组合，拆成输入与导出、校验结果、目录三块；提供改名重查、搜索辅助、带编号纯歌名输入、已确认/需要确认/缺歌手/待入库/未找到状态筛选、当前可见结果复制、待处理项网易云搜索和右侧目录布局列；目录项使用序号加歌名/歌手两行 chip | 依赖 `bili-check-title-artist.js`；服务端 `/api/title-artist/lookup` 返回 summary；正式页面首屏直接包含共享外壳；目录通过 `#checkDirectorySlot` 挂载，避免浮层覆盖主内容操作按钮；`page-directory-widget.js` 支持目录项 `primary/secondary/badge` 字段 |
-| `vocaloid.html` | 术力口静态数据页 | 读取术力口快照 manifest、总表和去重表，展示快照日期、当前歌库日期、来源内术力口去重曲目占比、识别依据、命名辅助、歌曲检索和去重歌名；命名辅助会区分正式识别理由和 `feat/with + 音源理由` 辅助统计 | 读取 `vocaloid-songs-2026-06-17/manifest.json`、`all-vocaloid-songs-2026-06-17.json`、`dedup-vocaloid-songs-2026-06-17.json`；复用 `/api/bootstrap` 的 `fileToAlias/sourceProfiles/sourceStats` 补全来源头像、别名和当前来源去重曲目分母；服务端只通过 `server.js` 增加 `/vocaloid` 静态路由别名 |
+| `vocaloid.html` | 术力口静态数据页 | 读取术力口快照 manifest、总表和去重表，展示快照日期、当前歌库日期、来源内术力口去重曲目占比、识别依据、命名辅助、歌曲检索和去重歌名；命名辅助会区分正式识别理由和 `feat/with + 音源理由` 辅助统计 | 优先读取 `vocaloid-songs-latest/manifest.json` 及 manifest 指定文件，缺失时回退 `vocaloid-songs-2026-06-17/`；复用 `/api/bootstrap` 的 `fileToAlias/sourceProfiles/sourceStats` 补全来源头像、别名和当前来源去重曲目分母；服务端只通过 `server.js` 增加 `/vocaloid` 静态路由别名 |
 | `bili-check.html` | 旧综合页 | 保留旧版综合检查入口 | 与新拆分页面共享部分解析和查重逻辑 |
 | `song-growth.html` | 歌曲总量日报页 | 展示曲库总量、日增、去重歌曲数、播放量和按投稿时间增长；总览曲线和“去重歌曲曲线”在桌面端左右并排，去掉大标题以压缩首屏高度；支持切换单指标分析、复制当前区间摘要和当前表格页 TSV | 由 `scripts/update-song-growth.js` 更新；读取 `/api/song-growth` 的 `combinedRows`、`publishUniqueRows`、`anomalies` 和缓存元信息 |
 | `converter.html` | 辅助转换页 | 提供文本或格式转换辅助 | 独立静态页，共用站点样式 |
@@ -51,9 +51,9 @@
 | `reports/song-growth-history.json` | 增长历史 | 保存曲库总量和增长统计历史 | 由 `scripts/update-song-growth.js` 更新，被 `song-growth.html` 和 README 日报读取 |
 | `reports/bv-metadata-cache.json` | BV 元数据缓存 | 缓存 B 站接口结果，降低重复请求 | 运行缓存，已忽略，不应提交 |
 | `reports/update-songs-meta.json` | 更新元信息 | 记录最近刷新时间和结果 | 运行缓存，已忽略，不应提交 |
-| `vocaloid-songs-2026-06-17/manifest.json` | 术力口快照清单 | 记录快照生成时间、分类器规则、总表/去重表路径、匹配投稿数、去重歌名数和覆盖来源数 | 被 `vocaloid.html` 读取，用来标明快照日期和数据口径 |
-| `vocaloid-songs-2026-06-17/all-vocaloid-songs-2026-06-17.json` | 术力口总表 | 保存所有命中的术力口投稿，包含歌名、歌手、来源、BV、封面、发布时间和 `vocaloidCheck.reasons` | 被 `vocaloid.html` 的来源占比、识别依据、命名辅助和歌曲检索使用 |
-| `vocaloid-songs-2026-06-17/dedup-vocaloid-songs-2026-06-17.json` | 术力口去重表 | 按规范化歌名聚合术力口歌曲，包含出现次数、来源数、歌手变体、最新投稿和识别理由 | 被 `vocaloid.html` 的去重歌名列表和快照概览使用 |
+| `vocaloid-songs-latest/manifest.json` | 最新术力口快照清单 | 记录快照生成时间、分类器规则、总表/去重表路径、匹配投稿数、去重歌名数、覆盖来源数和 audit 数 | 被 `vocaloid.html` 优先读取，用来标明快照日期和数据口径；缺失时页面回退旧 `vocaloid-songs-2026-06-17/` |
+| `vocaloid-songs-latest/all-vocaloid-songs-YYYY-MM-DD.json` | 最新术力口总表 | 保存所有命中的术力口投稿，包含歌名、歌手、来源、BV、封面、发布时间和 `vocaloidCheck.reasons` | 被 `vocaloid.html` 的来源占比、识别依据、命名辅助和歌曲检索使用；文件名由 manifest 指定 |
+| `vocaloid-songs-latest/dedup-vocaloid-songs-YYYY-MM-DD.json` | 最新术力口去重表 | 按规范化歌名聚合术力口歌曲，包含出现次数、来源数、歌手变体、最新投稿和识别理由 | 被 `vocaloid.html` 的去重歌名列表和快照概览使用；文件名由 manifest 指定 |
 
 ## 脚本
 
@@ -63,6 +63,8 @@
 | `scripts/source-profiles.json` | 来源头像补充配置 | 按来源文件名补充 `avatarUrl`、`youtubeUrl`、`avatarText`、`accentColor`、`statsAvgSortDeferred`；缺失时由脚本生成来源名单字头像；`statsAvgSortDeferred=true` 的来源在数据页场均排序中排在普通来源之后 | `scripts/update-songs.js` 读取后写入 `data/index.json` 的 `sourceProfiles`；页面和服务端通过 `/api/bootstrap` 使用 |
 | `scripts/collect-source-avatars.js` | 来源头像采集脚本 | 读取 `data/*.js` 找每个来源最新 BV，调用 B 站 view API 获取简介，提取 YouTube 频道/视频链接，解析频道头像，支持 `--write` 写回 `scripts/source-profiles.json`、`--update-index` 同步 `data/index.json`、`--report` 输出采集报告 | 可通过 `npm run collect:avatars` 运行；不改变歌曲数据，只更新来源 profile 配置和当前索引中的 `sourceProfiles` |
 | `scripts/update-songs.js` | 歌库抓取生成脚本 | 读取来源配置、来源头像配置、拉取 B 站元数据、解析分 P、按合集小节过滤来源、兼容普通多分P BV 和 `with 嘉宾 + 序号` 分P标题、写入 160w BV 封面缩略图、生成 `data/*.js` 和 `data/index.json`；遇到 `archived=true` 的来源允许空 `bvids`，只校验存量 `data/<file>.js` 并跳过刷新 | 服务器刷新脚本、GitHub Actions、本地数据更新都会调用 |
+| `scripts/vocaloid-rules.json` | 术力口命中规则配置 | 维护常见 VOCALOID/UTAU/CeVIO/SynthV 音源、P 主/作者、已知术力口曲名、重名风险标题和黑名单 | 被 `scripts/update-vocaloid-snapshot.js` 读取，避免分类规则散在脚本里 |
+| `scripts/update-vocaloid-snapshot.js` | 术力口快照生成脚本 | 支持 `--source local` 从 `data/index.json` + `data/*.js` 生成，或 `--source remote` 从公网 `/api/search` 生成；按规则写出最新 manifest、总表、去重表、来源汇总和 audit CSV | 本地数据更新、服务器刷新脚本、GitHub Actions 都应在 `scripts/update-songs.js` 后调用；`vocaloid.html` 读取其产物 |
 | `scripts/update-song-growth.js` | 增长日报生成脚本 | 读取歌库数据和去重歌曲数，更新 `reports/song-growth-history.json`、`song-growth.html` 和 README 日报段落 | GitHub Actions `song-growth.yml` 调用 |
 | `scripts/check-song-library.js` | 歌库检查脚本 | 统计数据文件数、总曲数、去重曲数、缺失歌手数 | 本地提交前和数据更新后验证使用 |
 | `scripts/check-live-song-total.js` | 线上歌库回退检查脚本 | 读取公网 `/api/bootstrap` 和 `/api/search`，校验 `totalSongs` 不低于指定值、指定 BV 至少命中一条 | 发布前后和线上故障排查使用，避免只重启服务导致歌库回退 |

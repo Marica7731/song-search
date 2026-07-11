@@ -31,7 +31,7 @@ git status --short
 - `bv-dup-check.html`：BV 批量查重，支持服务端 live fallback 上限、短输入工作区、当前库/结果概览、分组摘要、复制预设、高级复制字段折叠、已收录链接位次选择、复制设置记忆和自适应多列结果卡；状态文案统一为“已收录 / 未收录”。
 - `title-artist-dup-check.html`：按“歌名 - 歌手”批量查重，支持歌手疑似不一致分组、复制预设、高级复制字段折叠、已收录链接位次选择、复制设置记忆和自适应多列结果卡；状态文案统一为“已收录 / 未收录”。
 - `title-artist-check.html`：命名和校验工具，桌面端拆成左侧“输入与导出”、中间“校验结果”、右侧“目录”三列，支持未命中项改名重查、搜索辅助、带编号纯歌名输入、服务端候选摘要、结果筛选、当前结果复制、待处理项网易云搜索；目录项使用序号加歌名/歌手两行 chip。
-- `vocaloid.html`：术力口静态数据页，读取 `vocaloid-songs-2026-06-17/manifest.json`、总表和去重表，复用 `/api/bootstrap` 的来源头像/别名补全；页面标明快照日期并与当前歌库更新时间比较，落后时显示快照滞后天数；展示来源内术力口去重曲目占比、识别依据、命名辅助、歌曲检索和去重歌名。
+- `vocaloid.html`：术力口静态数据页，优先读取 `vocaloid-songs-latest/manifest.json` 指向的总表和去重表，复用 `/api/bootstrap` 的来源头像/别名补全；页面标明快照日期并与当前歌库更新时间比较，落后时显示快照滞后天数；展示来源内术力口去重曲目占比、识别依据、命名辅助、歌曲检索和去重歌名。
 - `song-growth.html`：歌曲总量日报和增长趋势，读取服务端缓存后的增长数据，支持按全部来源或单个来源分析播放量、曲目、去重歌曲和每曲播放；来源选择器带头像，总览曲线和去重歌曲曲线在桌面端左右并排展示以压缩高度；当日曲目增量和当日去重增量支持悬停或点击查看新增歌曲明细和封面。
 - `site-shell.js`：正式工具页共享外壳兜底脚本；正式页面首屏 HTML 已直接包含统一侧边导航，脚本同步当前页高亮，并在 H5 注入当前页胶囊和“页面”展开按钮，避免加载后再搬 DOM 造成旧页面闪烁。
 - `admin-singer-config.html`：来源配置后台，管理员用 token 维护运行时配置和触发刷新。
@@ -76,7 +76,7 @@ https://marica7731.github.io/song-search/
 - 首页来源列表：来源数量来自服务端 `/api/bootstrap` 的 `sourceStats.totalSongs`，并兼容旧的 `count/total` 字段，避免单来源数量显示为 0；来源按曲目数从多到少排列。
 - 首页媒体展示：来源列表和数据页来源分组会显示来源头像；搜索结果按 BV 显示 B 站封面缩略图，图片缺失时保留原卡片布局。
 - 数据页：左侧新增“数据导航”用于切换来源统计、歌曲排行和歌手聚合；来源筛选移到左侧来源列表，头像、别名、投稿数和去重数均来自当前 `sourceProfiles/sourceStats`；来源排序支持曲数、场次、场均、独特、去重，默认按曲数排序；场均排序时会把 `sourceProfiles` 里 `statsAvgSortDeferred=true` 的合集型异常来源排在普通来源之后；“摘要链接数”只控制复制摘要里附带的示例投稿链接数量，不影响统计结果。
-- 术力口页：`/vocaloid` 是静态快照页，不新增服务端 API；数据来自 `vocaloid-songs-2026-06-17/`，来源头像和别名从 `/api/bootstrap` 补全。快照日期和当前歌库更新时间会同时显示，若快照旧于当前歌库会标出滞后天数；“来源内占比”使用 `术力口去重曲目 / 当前歌库该来源去重曲目`，避免来源总量越大占比天然越高；“feat/with + 音源理由”只作为命名辅助统计，正式纳入仍依据快照中的 `vocaloidCheck.reasons`。
+- 术力口页：`/vocaloid` 是静态快照页，不新增服务端 API；数据优先来自 `vocaloid-songs-latest/` 的 manifest 和数据文件，缺失时回退旧 `vocaloid-songs-2026-06-17/`，来源头像和别名从 `/api/bootstrap` 补全。快照日期和当前歌库更新时间会同时显示，若快照旧于当前歌库会标出滞后天数；“来源内占比”使用 `术力口去重曲目 / 当前歌库该来源去重曲目`，避免来源总量越大占比天然越高；“feat/with + 音源理由”只作为命名辅助统计，正式纳入仍依据快照中的 `vocaloidCheck.reasons`。
 - 正式页共享资源：`/`、`/stats`、`/bv`、`/dup`、`/check`、`/vocaloid`、`/growth` 均通过统一左侧导航访问；子页面通过带版本号的 `site-theme.css`、`site-shell.js` 加载统一 UI，页面首屏已经是静态共享外壳，避免先显示旧页面再由 JS 套壳。
 - 数据页视觉：统一为首页同款侧栏、分段 tab、筛选栏、概览卡和列表卡样式；统计页来源目录固定在左侧栏并显示头像，不再使用右侧目录；BV 查重、歌名查重和命名工具仍按页面需要保留右侧目录列。来源/歌手分组头部使用统计 badge，来源统计、歌曲排行和歌手聚合在桌面端自适应排成多列卡片，歌曲行、场次预览和展开区域同步压缩；H5 下统计 chips 固定在分组头部右上角以减少卡片高度，歌曲行使用“文本区 + 操作区”网格，展开投稿链接限制高度并可滚动。
 - BV 查重 / 歌名歌手查重：常用复制预设保留在主操作区，高级字段折叠到“高级复制字段”，并按页面分别保存复制字段、格式和已收录链接位次；复制链接位次支持正数从前取、负数从后取，例如 `1` 取第一条、`-1` 取最后一条，越界会夹到可用范围；来源选择移入左侧栏并显示来源头像、投稿数和去重数；BV 查重页首屏使用短输入工作区，右侧展示当前库、输入、已收录、未收录和未找到概览，目录只保留关键分区；结果区按可用宽度自适应多列卡片，单卡压缩封面、标题、歌手、来源和已收录记录预览，BV 查重单卡默认只展示前 2 条已收录链接并提示剩余数量，且预览区保留稳定高度，已收录 / 未收录 / 未找到 / 歌手疑似不一致使用不同颜色标记；歌名歌手查重页的输入区改为短 placeholder 和独立格式提示，避免空页面显示粗重滚动条。
@@ -162,6 +162,7 @@ scripts/singer-configs.json
 ```powershell
 node scripts/update-songs.js
 npm run check:library
+npm run update:vocaloid -- --source local
 node scripts/update-song-growth.js
 ```
 
@@ -172,6 +173,9 @@ node scripts/update-song-growth.js
 输入：运行时配置 runtime/singer-configs.json 或 SINGER_CONFIG_RUNTIME_PATH 指向的文件
 输出：data/*.js
 输出：data/index.json
+输出：vocaloid-songs-latest/manifest.json
+输出：vocaloid-songs-latest/all-vocaloid-songs-YYYY-MM-DD.json
+输出：vocaloid-songs-latest/dedup-vocaloid-songs-YYYY-MM-DD.json
 输出：reports/song-growth-history.json
 输出：song-growth.html 和 README.md 的日报段落
 ```
@@ -290,6 +294,7 @@ node --check artist-match.js
 node --check bili-check-title-artist.js
 node --check scripts/update-songs.js
 node --check scripts/update-song-growth.js
+node --check scripts/update-vocaloid-snapshot.js
 node --check scripts/check-song-library.js
 ```
 

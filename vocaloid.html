@@ -14,6 +14,7 @@
     .vocaloid-side-title { margin-bottom: 8px; color: #64748b; font-size: 12px; font-weight: 800 }
     .vocaloid-source-filter { width: 100%; min-height: 34px; margin-bottom: 8px; padding: 7px 10px; border: 1px solid #d9e0ea; border-radius: 8px; background: #fff; font-size: 13px }
     .vocaloid-source-list { display: grid; gap: 6px; max-height: calc(100vh - 270px); overflow-y: auto; padding-right: 2px }
+    .vocaloid-source-section-title { margin-top: 8px; padding: 8px 8px 4px; border-top: 1px solid #e2e8f0; color: #64748b; font-size: 11px; font-weight: 800 }
     .vocaloid-source-item { display: grid; grid-template-columns: 30px minmax(0,1fr) auto; align-items: center; justify-content: stretch; justify-items: start; gap: 8px; min-height: 42px; width: 100%; padding: 6px 8px; border: 1px solid transparent; border-radius: 8px; background: transparent; color: #1f2937; text-align: left; cursor: pointer }
     .vocaloid-source-item:hover, .vocaloid-source-item.active { background: #e6f4f1; border-color: #99d8cf; color: #0f766e }
     .vocaloid-avatar { display: inline-grid; place-items: center; justify-self: start; flex: 0 0 auto; width: 30px; height: 30px; overflow: hidden; border-radius: 50%; border: 1px solid color-mix(in srgb, var(--source-avatar-color, #0f766e) 28%, #d9e3ef); background: color-mix(in srgb, var(--source-avatar-color, #0f766e) 15%, #fff); color: var(--source-avatar-color, #0f766e); font-size: 10px; font-weight: 850 }
@@ -185,7 +186,15 @@
     </main>
   </div>
   <script>
-    const DATA_DIR = '/vocaloid-songs-2026-06-17/';
+    const DATA_DIR = '/vocaloid-songs-latest/';
+    const LEGACY_DATA_DIR = '/vocaloid-songs-2026-06-17/';
+    const COMBINED_SOURCE_FILE = 'others.js';
+    const COMBINED_SOURCE_ALIAS = '非常驻妹妹';
+    const COMBINED_SOURCE_MAX_SONGS = 100;
+    const LEGACY_FILES = {
+      allJson: 'all-vocaloid-songs-2026-06-17.json',
+      dedupJson: 'dedup-vocaloid-songs-2026-06-17.json'
+    };
     const state = {
       manifest: null,
       songs: [],
@@ -196,7 +205,8 @@
       songQuery: '',
       songSort: 'latest',
       songLimit: 48,
-      currentMeta: null
+      currentMeta: null,
+      snapshotDir: DATA_DIR
     };
 
     function escapeHtml(value) {
@@ -267,6 +277,37 @@
       return stats[raw] || stats[`${key}.js`] || stats[key] || null;
     }
 
+    function getRawSourceStats(source) {
+      const raw = String(source || '');
+      const key = getSourceKey(raw);
+      const stats = state.bootstrap.rawSourceStats || {};
+      return stats[raw] || stats[`${key}.js`] || stats[key] || getSourceStats(source);
+    }
+
+    function isCombinedSource(source) {
+      return getSourceKey(source) === getSourceKey(COMBINED_SOURCE_FILE)
+        || getSourceAlias(source) === COMBINED_SOURCE_ALIAS;
+    }
+
+    function getDisplaySource(source) {
+      const raw = String(source || '').trim();
+      if (!raw || raw === 'all') return raw;
+      const map = state.bootstrap.sourceDisplayMap || {};
+      if (map[raw]) return map[raw];
+      const withExt = raw.endsWith('.js') ? raw : `${raw}.js`;
+      if (map[withExt]) return map[withExt];
+      const stat = getRawSourceStats(withExt);
+      const totalSongs = Number(stat?.totalSongs || stat?.count || 0);
+      if (!isCombinedSource(withExt) && totalSongs > 0 && totalSongs <= COMBINED_SOURCE_MAX_SONGS) {
+        return COMBINED_SOURCE_FILE;
+      }
+      return withExt;
+    }
+
+    function getDisplaySourceAlias(source) {
+      return getSourceAlias(getDisplaySource(source));
+    }
+
     function getSourceTotals(source) {
       const stats = getSourceStats(source) || {};
       return {
@@ -291,8 +332,8 @@
     function sourceRows() {
       const groups = new Map();
       state.songs.forEach(song => {
-        const source = song.source || song.sourceAlias || 'unknown';
-        const alias = song.sourceAlias || getSourceAlias(source);
+        const source = getDisplaySource(song.source || song.sourceAlias || 'unknown');
+        const alias = getDisplaySourceAlias(source);
         if (!groups.has(source)) groups.set(source, { source, alias, count: 0, titles: new Set() });
         const row = groups.get(source);
         row.count += 1;
@@ -311,7 +352,12 @@
             uniqueRatio: totals.totalUnique ? unique / totals.totalUnique * 100 : null
           };
         })
-        .sort((a, b) => b.count - a.count || a.alias.localeCompare(b.alias, 'zh-Hans-CN'));
+        .sort((a, b) => {
+          const combinedA = isCombinedSource(a.source);
+          const combinedB = isCombinedSource(b.source);
+          if (combinedA !== combinedB) return combinedA ? 1 : -1;
+          return b.count - a.count || a.alias.localeCompare(b.alias, 'zh-Hans-CN');
+        });
     }
 
     function sourceScopeStats() {
@@ -332,12 +378,12 @@
 
     function selectedSongs() {
       let data = state.songs;
-      if (state.source !== 'all') data = data.filter(song => song.source === state.source);
+      if (state.source !== 'all') data = data.filter(song => getDisplaySource(song.source) === state.source);
       const keyword = norm(state.songQuery);
       if (keyword) {
         data = data.filter(song => {
           const reasonText = ((song.vocaloidCheck && song.vocaloidCheck.reasons) || []).join(' ');
-          return [song.title, song.artist, song.sourceAlias, song.source, song.bvid, reasonText].some(value => norm(value).includes(keyword));
+          return [song.title, song.artist, getDisplaySourceAlias(song.source), song.sourceAlias, song.source, song.bvid, reasonText].some(value => norm(value).includes(keyword));
         });
       }
       const sorted = data.slice();
@@ -393,7 +439,7 @@
     function renderKpis() {
       const rows = selectedSongs();
       const uniqueTitles = new Set(rows.map(song => song.normalizedTitle || song.title || '')).size;
-      const sources = new Set(rows.map(song => song.source || song.sourceAlias || '')).size;
+      const sources = new Set(rows.map(song => getDisplaySource(song.source || song.sourceAlias || '')).filter(Boolean)).size;
       const reasons = rows.reduce((sum, song) => sum + (((song.vocaloidCheck || {}).reasons || []).length), 0);
       const scope = sourceScopeStats();
       document.getElementById('kpiGrid').innerHTML = [
@@ -440,7 +486,7 @@
       const rows = [{ source: 'all', alias: '全部来源', count: state.songs.length, unique: state.dedup.length }]
         .concat(sourceRows())
         .filter(row => !query || norm(row.alias).includes(query) || norm(row.source).includes(query));
-      document.getElementById('sourceList').innerHTML = rows.map(row => `
+      const renderRow = row => `
         <button type="button" class="vocaloid-source-item ${row.source === state.source ? 'active' : ''}" data-source="${escapeAttr(row.source)}">
           ${avatarHtml(row.source, row.alias)}
           <span class="vocaloid-source-text">
@@ -449,7 +495,16 @@
           </span>
           <span class="vocaloid-source-count">${formatNum(row.count)}</span>
         </button>
-      `).join('');
+      `;
+      const topRows = rows.filter(row => row.source === 'all' || !isCombinedSource(row.source));
+      const combinedRows = rows.filter(row => row.source !== 'all' && isCombinedSource(row.source));
+      const topHtml = topRows.map(renderRow).join('');
+      const combinedHtml = combinedRows.length
+        ? `<div class="vocaloid-source-section-title">非常驻妹妹</div>${combinedRows.map(renderRow).join('')}`
+        : '';
+      document.getElementById('sourceList').innerHTML = (topHtml || combinedHtml)
+        ? `${topHtml}${combinedHtml}`
+        : '<div class="empty-line">暂无来源数据</div>';
       document.querySelectorAll('.vocaloid-source-item').forEach(button => {
         button.addEventListener('click', () => {
           state.source = button.dataset.source || 'all';
@@ -461,7 +516,12 @@
     function renderShare() {
       const baseRows = sourceRows();
       const rows = state.source === 'all'
-        ? baseRows.slice().sort((a, b) => (b.uniqueRatio || 0) - (a.uniqueRatio || 0) || b.unique - a.unique || b.count - a.count).slice(0, 16)
+        ? baseRows.slice().sort((a, b) => {
+          const combinedA = isCombinedSource(a.source);
+          const combinedB = isCombinedSource(b.source);
+          if (combinedA !== combinedB) return combinedA ? 1 : -1;
+          return (b.uniqueRatio || 0) - (a.uniqueRatio || 0) || b.unique - a.unique || b.count - a.count;
+        }).slice(0, 16)
         : baseRows.filter(row => row.source === state.source);
       document.getElementById('sourceShareNote').textContent = state.source === 'all'
         ? '按来源内术力口去重曲目占比排序'
@@ -502,7 +562,7 @@
           <div class="song-body">
             <div class="vocaloid-song-title" title="${escapeAttr(song.title || '')}">${escapeHtml(song.title || '未命名')}</div>
             <div class="vocaloid-song-artist" title="${escapeAttr(song.artist || '')}">${escapeHtml(song.artist || '未知歌手')}</div>
-            <div class="song-meta">${avatarHtml(song.source || '', song.sourceAlias || '')}<span>${escapeHtml(song.sourceAlias || getSourceAlias(song.source))}</span><span>${escapeHtml(song.pubdateFormatted || '')}</span></div>
+            <div class="song-meta">${avatarHtml(getDisplaySource(song.source || ''), getDisplaySourceAlias(song.source || ''))}<span>${escapeHtml(getDisplaySourceAlias(song.source || ''))}</span><span>${escapeHtml(song.pubdateFormatted || '')}</span></div>
             <div class="reason-chips">${reasons.map(reason => `<span class="reason-chip" title="${escapeAttr(reason)}">${escapeHtml(reason)}</span>`).join('')}</div>
             <div class="song-actions">${link ? `<a href="${escapeAttr(link)}" target="_blank" rel="noopener noreferrer">打开</a>` : ''}<a href="/?q=${encodeURIComponent(song.title || '')}">检索</a></div>
           </div>
@@ -568,17 +628,47 @@
       return null;
     }
 
+    async function fetchJson(url) {
+      const res = await fetch(url, { cache: 'no-store' });
+      if (!res.ok) throw new Error(`HTTP ${res.status}: ${url}`);
+      return await res.json();
+    }
+
+    function joinSnapshotPath(dir, fileName) {
+      return `${dir.replace(/\/?$/, '/')}${String(fileName || '').replace(/^\/+/, '')}`;
+    }
+
+    async function loadSnapshotFrom(dir, fallbackFiles = {}) {
+      const manifest = await fetchJson(joinSnapshotPath(dir, 'manifest.json'));
+      const allJson = manifest?.files?.allJson || fallbackFiles.allJson;
+      const dedupJson = manifest?.dedup?.files?.json || manifest?.files?.dedupJson || fallbackFiles.dedupJson;
+      if (!allJson || !dedupJson) throw new Error(`快照 manifest 缺少数据文件: ${dir}`);
+      const [songs, dedup] = await Promise.all([
+        fetchJson(joinSnapshotPath(dir, allJson)),
+        fetchJson(joinSnapshotPath(dir, dedupJson))
+      ]);
+      return { dir, manifest, songs, dedup };
+    }
+
+    async function loadSnapshot() {
+      try {
+        return await loadSnapshotFrom(DATA_DIR);
+      } catch (error) {
+        console.warn('术力口 latest 快照读取失败，回退到旧快照', error);
+        return await loadSnapshotFrom(LEGACY_DATA_DIR, LEGACY_FILES);
+      }
+    }
+
     async function boot() {
-      const [manifest, songs, dedup, bootstrap, currentMeta] = await Promise.all([
-        fetch(`${DATA_DIR}manifest.json`, { cache: 'no-store' }).then(res => res.json()),
-        fetch(`${DATA_DIR}all-vocaloid-songs-2026-06-17.json`, { cache: 'no-store' }).then(res => res.json()),
-        fetch(`${DATA_DIR}dedup-vocaloid-songs-2026-06-17.json`, { cache: 'no-store' }).then(res => res.json()),
+      const [snapshot, bootstrap, currentMeta] = await Promise.all([
+        loadSnapshot(),
         fetch('/api/bootstrap', { cache: 'no-store' }).then(res => res.ok ? res.json() : {}).catch(() => ({})),
         loadCurrentMeta()
       ]);
-      state.manifest = manifest;
-      state.songs = Array.isArray(songs) ? songs : [];
-      state.dedup = Array.isArray(dedup) ? dedup : [];
+      state.snapshotDir = snapshot.dir;
+      state.manifest = snapshot.manifest;
+      state.songs = Array.isArray(snapshot.songs) ? snapshot.songs : [];
+      state.dedup = Array.isArray(snapshot.dedup) ? snapshot.dedup : [];
       state.bootstrap = bootstrap || {};
       state.currentMeta = currentMeta;
       renderAll();
