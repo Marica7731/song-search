@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 7/11/2026, 12:51:13 PM
+// 生成时间: 7/11/2026, 12:57:28 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1331,6 +1331,70 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-08]星期三辛苦了！今天是以抒情曲为主的治愈歌回！！🍎🌟 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WnMj6GEF2?p=9",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "嘘でも好きって。",
+  "artist": "すいそうぐらし",
+  "collection": "【歌切】[2026-07-10]想为下周的直播做宣传！！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QeNc6iEnH?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-07-10]想为下周的直播做宣传！！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QeNc6iEnH?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ハレンチ",
+  "artist": "ちゃんみな",
+  "collection": "【歌切】[2026-07-10]想为下周的直播做宣传！！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QeNc6iEnH?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "PAIN IS BEAUTY",
+  "artist": "ちゃんみな",
+  "collection": "【歌切】[2026-07-10]想为下周的直播做宣传！！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QeNc6iEnH?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑ feat. 初音ミク",
+  "collection": "【歌切】[2026-07-10]想为下周的直播做宣传！！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QeNc6iEnH?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat. IA",
+  "collection": "【歌切】[2026-07-10]想为下周的直播做宣传！！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QeNc6iEnH?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-07-10]想为下周的直播做宣传！！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QeNc6iEnH?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ハロ／ハワユ",
+  "artist": "ナノウ feat. 初音ミク",
+  "collection": "【歌切】[2026-07-10]想为下周的直播做宣传！！！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QeNc6iEnH?p=8",
   "source": "hinachibi.js"
 }
 );
