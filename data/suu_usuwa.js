@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 7/11/2026, 10:35:39 AM
+// 生成时间: 7/11/2026, 10:55:50 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21555,6 +21555,126 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】#144[2026-07-08]星期三晚上8点？欢迎回来～ 稀羽すう - Suu Usuwa -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jqMj6hEAL?p=15",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Heart Beats",
+  "artist": "emon(Tes.) feat. 巡音ルカ",
+  "collection": "【🦢歌切】[2026-07-11]周六下午再见 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9Nc6XEHd?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "BRAIN",
+  "artist": "Kanaria",
+  "collection": "【🦢歌切】[2026-07-11]周六下午再见 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9Nc6XEHd?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "深昏睡",
+  "artist": "春野 feat. 初音ミク",
+  "collection": "【🦢歌切】[2026-07-11]周六下午再见 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9Nc6XEHd?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ワールドイズマイン (CPK! Remix)",
+  "artist": "ryo (supercell) feat. 初音ミク",
+  "collection": "【🦢歌切】[2026-07-11]周六下午再见 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9Nc6XEHd?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "BRAND NEW DAY",
+  "artist": "3グァバトリオ",
+  "collection": "【🦢歌切】[2026-07-11]周六下午再见 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9Nc6XEHd?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Tell Me Baby",
+  "artist": "Official髭男dism",
+  "collection": "【🦢歌切】[2026-07-11]周六下午再见 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9Nc6XEHd?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Bye Bye",
+  "artist": "フジファブリック",
+  "collection": "【🦢歌切】[2026-07-11]周六下午再见 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9Nc6XEHd?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "徒然モノクローム",
+  "artist": "フジファブリック",
+  "collection": "【🦢歌切】[2026-07-11]周六下午再见 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9Nc6XEHd?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "図書館では教えてくれない、天使の秘密",
+  "artist": "ミラク from 原宿BJ Girls",
+  "collection": "【🦢歌切】[2026-07-11]周六下午再见 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9Nc6XEHd?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Brand New Morning",
+  "artist": "水橋舞 from 原宿BJガールズ",
+  "collection": "【🦢歌切】[2026-07-11]周六下午再见 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9Nc6XEHd?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "風待ちジェット",
+  "artist": "坂本真綾",
+  "collection": "【🦢歌切】[2026-07-11]周六下午再见 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9Nc6XEHd?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "トライアングラー",
+  "artist": "坂本真綾",
+  "collection": "【🦢歌切】[2026-07-11]周六下午再见 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9Nc6XEHd?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "桜キッス",
+  "artist": "河辺千恵子",
+  "collection": "【🦢歌切】[2026-07-11]周六下午再见 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9Nc6XEHd?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "おいしい☆トマトのうた～ロマーノ～",
+  "artist": "イタリア=ロマーノ(CV:浪川大輔)",
+  "collection": "【🦢歌切】[2026-07-11]周六下午再见 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9Nc6XEHd?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "青空トライアングル",
+  "artist": "杏(CV:真堂圭)・柊(CV:高垣彩陽)・小梅(CV:MAKO)",
+  "collection": "【🦢歌切】[2026-07-11]周六下午再见 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9Nc6XEHd?p=15",
   "source": "suu_usuwa.js"
 }
 );
