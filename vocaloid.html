@@ -438,7 +438,9 @@
 
     function renderKpis() {
       const rows = selectedSongs();
-      const uniqueTitles = new Set(rows.map(song => song.normalizedTitle || song.title || '')).size;
+      const uniqueTitles = state.source === 'all' && !state.songQuery
+        ? Number(state.manifest?.matchedUniqueTitles || state.dedup.length || 0)
+        : new Set(rows.map(song => song.normalizedTitle || song.title || '')).size;
       const sources = new Set(rows.map(song => getDisplaySource(song.source || song.sourceAlias || '')).filter(Boolean)).size;
       const reasons = rows.reduce((sum, song) => sum + (((song.vocaloidCheck || {}).reasons || []).length), 0);
       const scope = sourceScopeStats();

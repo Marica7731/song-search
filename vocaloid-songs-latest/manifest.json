@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-11T13:05:33.085Z",
+  "generatedAt": "2026-07-11T13:33:58.495Z",
   "generatedDate": "2026-07-11",
   "dataSource": "https://www.culua.com/api/search",
   "sourceMode": "remote",
-  "fetchStartedAt": "2026-07-11T13:04:37.882Z",
+  "fetchStartedAt": "2026-07-11T13:33:07.718Z",
   "fetchParams": {
     "pageSize": 10000,
     "sort": "pubdate_desc",
     "fields": "title,artist,collection,source,bvid,pubdate"
   },
-  "cloudTotalSongs": 34123,
-  "cloudTotalUnique": 6442,
-  "fetchedSongs": 34123,
-  "matchedSongs": 5151,
-  "matchedUniqueTitles": 914,
+  "cloudTotalSongs": 34316,
+  "cloudTotalUnique": 6480,
+  "fetchedSongs": 34316,
+  "matchedSongs": 5230,
+  "matchedUniqueTitles": 925,
   "matchedSources": 54,
   "auditExcludedRows": 286,
   "classifier": {
@@ -76,99 +76,99 @@
     "topReasons": [
       {
         "reason": "音源/术力口词:初音ミク",
-        "count": 1450
+        "count": 1493
       },
       {
         "reason": "音源/术力口词:GUMI/Megpoid",
-        "count": 444
+        "count": 449
       },
       {
         "reason": "P主/术力口作者:DECO*27",
-        "count": 379
+        "count": 382
       },
       {
         "reason": "P主/术力口作者:みきとP",
-        "count": 340
+        "count": 345
       },
       {
         "reason": "P主/术力口作者:n-buna",
-        "count": 270
+        "count": 273
       },
       {
         "reason": "音源/术力口词:鏡音リン/レン",
-        "count": 223
+        "count": 230
       },
       {
         "reason": "P主/术力口作者:40mP",
-        "count": 186
+        "count": 187
       },
       {
         "reason": "音源/术力口词:v flower",
-        "count": 156
+        "count": 160
       },
       {
         "reason": "P主/术力口作者:じん",
-        "count": 155
+        "count": 157
       },
       {
         "reason": "音源/术力口词:IA",
-        "count": 150
+        "count": 155
       },
       {
         "reason": "P主/术力口作者:Orangestar",
-        "count": 148
+        "count": 150
       },
       {
         "reason": "已知术力口曲名:夜明けと蛍",
-        "count": 139
+        "count": 141
       },
       {
         "reason": "P主/术力口作者:バルーン",
-        "count": 130
+        "count": 131
       },
       {
         "reason": "音源/术力口词:巡音ルカ",
-        "count": 125
+        "count": 129
       },
       {
         "reason": "已知术力口曲名:少女レイ",
-        "count": 125
+        "count": 126
       },
       {
         "reason": "音源/术力口词:可不/KAFU",
-        "count": 102
+        "count": 106
       },
       {
         "reason": "P主/术力口作者:蝶々P",
-        "count": 96
+        "count": 98
+      },
+      {
+        "reason": "P主/术力口作者:西沢さんP",
+        "count": 94
       },
       {
         "reason": "P主/术力口作者:はるまきごはん",
         "count": 93
       },
       {
-        "reason": "P主/术力口作者:西沢さんP",
+        "reason": "P主/术力口作者:Ayase",
         "count": 92
       },
       {
-        "reason": "P主/术力口作者:Ayase",
+        "reason": "P主/术力口作者:Kanaria",
         "count": 91
       },
       {
-        "reason": "P主/术力口作者:Kanaria",
-        "count": 90
+        "reason": "P主/术力口作者:doriko",
+        "count": 84
       },
       {
-        "reason": "P主/术力口作者:doriko",
+        "reason": "P主/术力口作者:ジミーサムP",
         "count": 83
       },
       {
         "reason": "P主/术力口作者:ツミキ",
-        "count": 81
-      },
-      {
-        "reason": "P主/术力口作者:ジミーサムP",
-        "count": 81
+        "count": 83
       }
     ]
   },
@@ -180,7 +180,7 @@
   },
   "dedup": {
     "groupBy": "normalizedTitle",
-    "dedupRows": 914,
+    "dedupRows": 925,
     "sort": "latest_upload_time desc",
     "files": {
       "csv": "dedup-vocaloid-songs-2026-07-11.csv",
