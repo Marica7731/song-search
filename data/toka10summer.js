@@ -1,6 +1,6 @@
 // 透夏 - 歌单数据 (多合集汇总)
 // 来源: BV1CbVk68ESd
-// 生成时间: 7/11/2026, 11:59:22 AM
+// 生成时间: 7/11/2026, 12:11:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -723,6 +723,22 @@ window.SONG_DATA.push(
   "collection": "歌切【透夏】[2026-06-10]6月广播节目🎐",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XHEo6FEBi?p=6",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "蛍はいなかった",
+  "artist": "はるまきごはん feat. 初音ミク",
+  "collection": "歌切【透夏】[2026-07-10]7月的广播直播🎐 透夏",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aeNc6qE5x?p=1",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "歌切【透夏】[2026-07-10]7月的广播直播🎐 透夏",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aeNc6qE5x?p=2",
   "source": "toka10summer.js"
 }
 );
