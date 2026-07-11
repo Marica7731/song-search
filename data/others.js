@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/11/2026, 12:49:20 PM
+// 生成时间: 7/11/2026, 1:04:35 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17843,6 +17843,222 @@ window.SONG_DATA.push(
   "collection": "篠崎シャノン 歌切 2026-07-09 收益化纪念🎉动漫歌曲和声火力全开，炒热气氛！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SeNc6iEd7?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "Just Be Friends",
+  "artist": "Dixie Flatline feat. 巡音ルカ",
+  "collection": "音羽ララ (Otohane Lara) / シアーミュージックV歌切 2026-07-10 歌回：术力口歌回❤️‍🔥清澈嗓音纵情高唱名曲🔥欢迎点歌🙆‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEqJ?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO（西沢さんP） feat. GUMI",
+  "collection": "音羽ララ (Otohane Lara) / シアーミュージックV歌切 2026-07-10 歌回：术力口歌回❤️‍🔥清澈嗓音纵情高唱名曲🔥欢迎点歌🙆‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEqJ?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "リスキーゲーム",
+  "artist": "黒うさP feat. 初音ミク",
+  "collection": "音羽ララ (Otohane Lara) / シアーミュージックV歌切 2026-07-10 歌回：术力口歌回❤️‍🔥清澈嗓音纵情高唱名曲🔥欢迎点歌🙆‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEqJ?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat. 可不",
+  "collection": "音羽ララ (Otohane Lara) / シアーミュージックV歌切 2026-07-10 歌回：术力口歌回❤️‍🔥清澈嗓音纵情高唱名曲🔥欢迎点歌🙆‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEqJ?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "リンちゃんなう！",
+  "artist": "オワタP feat. 初音ミク・巡音ルカ",
+  "collection": "音羽ララ (Otohane Lara) / シアーミュージックV歌切 2026-07-10 歌回：术力口歌回❤️‍🔥清澈嗓音纵情高唱名曲🔥欢迎点歌🙆‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEqJ?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ココロ",
+  "artist": "トラボルタ feat. 鏡音リン",
+  "collection": "音羽ララ (Otohane Lara) / シアーミュージックV歌切 2026-07-10 歌回：术力口歌回❤️‍🔥清澈嗓音纵情高唱名曲🔥欢迎点歌🙆‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEqJ?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "神っぽいな",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "音羽ララ (Otohane Lara) / シアーミュージックV歌切 2026-07-10 歌回：术力口歌回❤️‍🔥清澈嗓音纵情高唱名曲🔥欢迎点歌🙆‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEqJ?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru feat. 鏡音リン",
+  "collection": "音羽ララ (Otohane Lara) / シアーミュージックV歌切 2026-07-10 歌回：术力口歌回❤️‍🔥清澈嗓音纵情高唱名曲🔥欢迎点歌🙆‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEqJ?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "IMITATION BLACK",
+  "artist": "natsuP（SCL Project） feat. 神威がくぽ・KAITO・鏡音レン",
+  "collection": "音羽ララ (Otohane Lara) / シアーミュージックV歌切 2026-07-10 歌回：术力口歌回❤️‍🔥清澈嗓音纵情高唱名曲🔥欢迎点歌🙆‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEqJ?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "夢、時々…",
+  "artist": "まらしぃ feat. 初音ミク",
+  "collection": "音羽ララ (Otohane Lara) / シアーミュージックV歌切 2026-07-10 歌回：术力口歌回❤️‍🔥清澈嗓音纵情高唱名曲🔥欢迎点歌🙆‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEqJ?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "高音厨音域テスト",
+  "artist": "木村わいP feat. 初音ミク",
+  "collection": "音羽ララ (Otohane Lara) / シアーミュージックV歌切 2026-07-10 歌回：术力口歌回❤️‍🔥清澈嗓音纵情高唱名曲🔥欢迎点歌🙆‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEqJ?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "koyori(電ポルP) feat. 初音ミク",
+  "collection": "五木つかさ歌切 2026-07-09 喜欢术力口的话，知道这首歌吗？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEiF?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "地獄に落ちる",
+  "artist": "カンザキイオリ feat. 可不",
+  "collection": "五木つかさ歌切 2026-07-09 喜欢术力口的话，知道这首歌吗？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEiF?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "死式、罪滅ぼし。",
+  "artist": "廉 feat. 裏命",
+  "collection": "五木つかさ歌切 2026-07-09 喜欢术力口的话，知道这首歌吗？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEiF?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "蜜を嗜む",
+  "artist": "一二三 feat. 音街ウナ",
+  "collection": "五木つかさ歌切 2026-07-09 喜欢术力口的话，知道这首歌吗？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEiF?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "マインドキャッスル",
+  "artist": "廉 feat. 狐子",
+  "collection": "五木つかさ歌切 2026-07-09 喜欢术力口的话，知道这首歌吗？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEiF?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat. 可不",
+  "collection": "五木つかさ歌切 2026-07-09 喜欢术力口的话，知道这首歌吗？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEiF?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "五木つかさ歌切 2026-07-09 喜欢术力口的话，知道这首歌吗？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEiF?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "五木つかさ歌切 2026-07-09 喜欢术力口的话，知道这首歌吗？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEiF?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "カガリビト",
+  "artist": "millstones feat. 初音ミク",
+  "collection": "五木つかさ歌切 2026-07-09 喜欢术力口的话，知道这首歌吗？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEiF?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat. 初音ミク",
+  "collection": "五木つかさ歌切 2026-07-09 喜欢术力口的话，知道这首歌吗？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEiF?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "自傷無色",
+  "artist": "ねこぼーろ feat. 初音ミク",
+  "collection": "五木つかさ歌切 2026-07-09 喜欢术力口的话，知道这首歌吗？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEiF?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "繰り返し一粒",
+  "artist": "猫虫 feat. 初音ミク",
+  "collection": "五木つかさ歌切 2026-07-09 喜欢术力口的话，知道这首歌吗？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEiF?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "longing",
+  "artist": "keeno feat. 初音ミク",
+  "collection": "五木つかさ歌切 2026-07-09 喜欢术力口的话，知道这首歌吗？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEiF?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "ニア",
+  "artist": "夏代孝明 feat. 初音ミク",
+  "collection": "五木つかさ歌切 2026-07-09 喜欢术力口的话，知道这首歌吗？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEiF?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "林檎売りの泡沫少女",
+  "artist": "yukkedoluce feat. GUMI",
+  "collection": "五木つかさ歌切 2026-07-09 喜欢术力口的话，知道这首歌吗？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEiF?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "え？あぁ、そう。",
+  "artist": "蝶々P feat. 初音ミク",
+  "collection": "五木つかさ歌切 2026-07-09 喜欢术力口的话，知道这首歌吗？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SeNc6iEiF?p=16",
   "source": "others.js"
 },
     {
