@@ -2200,6 +2200,10 @@
       return String(file || '').replace(/\.js$/, '');
     }
 
+    function isCombinedSource(file) {
+      return sourceKey(file) === 'others' || sourceName(file) === '非常驻妹妹';
+    }
+
     function sourceName(file) {
       if (file === 'all') return '全部来源';
       return state.aliases[sourceKey(file)] || file || '未知来源';
@@ -2306,6 +2310,9 @@
     }
 
     function compareSourcesByCount(a, b) {
+      const combinedA = isCombinedSource(a);
+      const combinedB = isCombinedSource(b);
+      if (combinedA !== combinedB) return combinedA ? 1 : -1;
       const countDiff = sourceCount(b) - sourceCount(a);
       if (countDiff) return countDiff;
       return sourceName(a).localeCompare(sourceName(b), 'zh-Hans');

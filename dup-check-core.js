@@ -67,6 +67,10 @@ function getSourceKey(source) {
   return String(source || '').replace(/\.js$/, '');
 }
 
+function isCombinedSource(source) {
+  return getSourceKey(source) === 'others' || getSourceAlias(source) === '非常驻妹妹';
+}
+
 function getSourceProfile(source, fallbackAlias = '') {
   if (source === 'all') {
     return { alias: '全部来源', avatarText: 'ALL', avatarUrl: '', accentColor: '#0f766e' };
@@ -185,6 +189,9 @@ function buildStaticSourceStats() {
 
 function getSortedSourceFiles() {
   return fileList.slice().sort((left, right) => {
+    const combinedLeft = isCombinedSource(left);
+    const combinedRight = isCombinedSource(right);
+    if (combinedLeft !== combinedRight) return combinedLeft ? 1 : -1;
     const diff = getSourceSongCount(right) - getSourceSongCount(left);
     if (diff !== 0) return diff;
     return getSourceAlias(left).localeCompare(getSourceAlias(right), 'zh-CN');

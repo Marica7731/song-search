@@ -414,6 +414,14 @@
       text-align: left;
       cursor: pointer;
     }
+    .unique-source-section-title {
+      margin-top: 8px;
+      padding: 8px 10px 4px;
+      border-top: 1px solid #e2e8f0;
+      color: #64748b;
+      font-size: 11px;
+      font-weight: 800;
+    }
     .unique-source-option:hover,
     .unique-source-option:focus-visible,
     .unique-source-option.active {
@@ -970,6 +978,8 @@
   </div>
 
   <script>
+    const COMBINED_SOURCE_FILE = 'others.js';
+    const COMBINED_SOURCE_ALIAS = '非常驻妹妹';
     const chartCanvas = document.getElementById('growthChart');
     const uniqueChartCanvas = document.getElementById('uniqueGrowthChart');
     const chartTooltip = document.getElementById('chartTooltip');
@@ -1058,6 +1068,11 @@
         return `<span class="unique-source-avatar"${style}><img src="${escapeHtml(profile.avatarUrl)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></span>`;
       }
       return `<span class="unique-source-avatar"${style}>${escapeHtml(avatarText)}</span>`;
+    }
+
+    function isCombinedSource(source) {
+      return String(source?.file || '').replace(/\.js$/, '') === 'others'
+        || String(source?.alias || '') === COMBINED_SOURCE_ALIAS;
     }
 
     function metricValueText(metricKey, value) {
@@ -2110,7 +2125,7 @@
           <span class="unique-source-meta">累计去重 ${numberText(selected.totalUnique || 0)}</span>
         </span>
       `;
-      uniqueSourceMenu.innerHTML = options.map(item => `
+      const renderOption = item => `
         <button type="button" class="unique-source-option ${item.file === currentUniqueSource ? 'active' : ''}" role="option" aria-selected="${item.file === currentUniqueSource ? 'true' : 'false'}" data-unique-source="${escapeHtml(item.file)}">
           ${sourceAvatarHtml(item)}
           <span class="unique-source-text">
@@ -2118,7 +2133,14 @@
             <span class="unique-source-meta">累计去重 ${numberText(item.totalUnique || 0)}</span>
           </span>
         </button>
-      `).join('');
+      `;
+      const regularOptions = options.filter(item => item.file === 'all' || !isCombinedSource(item));
+      const combinedOptions = options.filter(item => item.file !== 'all' && isCombinedSource(item));
+      const regularHtml = regularOptions.map(renderOption).join('');
+      const combinedHtml = combinedOptions.length
+        ? `<div class="unique-source-section-title">非常驻妹妹</div>${combinedOptions.map(renderOption).join('')}`
+        : '';
+      uniqueSourceMenu.innerHTML = `${regularHtml}${combinedHtml}`;
     }
 
     function closeUniqueSourceMenu() {

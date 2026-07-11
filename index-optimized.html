@@ -764,10 +764,23 @@
       return state.aliases[sourceKey(file)] || file || '未知来源';
     }
 
+    function isCombinedSource(file) {
+      return sourceKey(file) === 'others' || sourceName(file) === '非常驻妹妹';
+    }
+
     function sourceCount(file) {
       if (file === 'all') return Number(state.summary.totalSongs || state.stats.totalSongs || 0);
       const stat = state.stats[file] || state.stats[sourceKey(file)] || {};
-      return Number(stat.count || 0);
+      return Number(stat.totalSongs || stat.count || stat.total || 0);
+    }
+
+    function compareSourcesByCount(a, b) {
+      const combinedA = isCombinedSource(a);
+      const combinedB = isCombinedSource(b);
+      if (combinedA !== combinedB) return combinedA ? 1 : -1;
+      const countDiff = sourceCount(b) - sourceCount(a);
+      if (countDiff) return countDiff;
+      return sourceName(a).localeCompare(sourceName(b), 'zh-Hans');
     }
 
     function isValidArtist(value) {
@@ -831,7 +844,7 @@
 
     function buildSourceOptions(filter = '') {
       const needle = filter.trim().toLowerCase();
-      const entries = ['all'].concat(state.files);
+      const entries = ['all'].concat(state.files.slice().sort(compareSourcesByCount));
       return entries.filter(file => {
         const label = `${sourceName(file)} ${file}`.toLowerCase();
         return !needle || label.includes(needle);
@@ -848,7 +861,7 @@
           <span class="source-count">${formatNumber(sourceCount(file))}</span>
         </button>
       `).join('');
-      mobile.innerHTML = ['all'].concat(state.files).map(file => `
+      mobile.innerHTML = ['all'].concat(state.files.slice().sort(compareSourcesByCount)).map(file => `
         <option value="${escapeHtml(file)}">${escapeHtml(sourceName(file))} (${formatNumber(sourceCount(file))})</option>
       `).join('');
       mobile.value = state.source;
@@ -942,6 +955,7 @@
         totalSongs: payload.totalSongs || 0,
         searchUnique: payload.totalUnique || 0
       };
+      state.files.sort(compareSourcesByCount);
       renderSources();
       renderMetrics();
     }

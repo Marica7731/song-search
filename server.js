@@ -42,6 +42,9 @@ const STATS_SUMMARY_LINK_LIMIT = 20;
 const STATS_PREVIEW_PERFORMANCE_LIMIT = 20;
 const STATS_DEFAULT_PAGE_SIZE = 30;
 const STATS_SOURCE_PAGE_SIZE_LIMIT = 10000;
+const COMBINED_SOURCE_FILE = 'others.js';
+const COMBINED_SOURCE_ALIAS = '非常驻妹妹';
+const COMBINED_SOURCE_MAX_SONGS = 100;
 const DEFAULT_SINGER_CONFIG_PATH = path.join(ROOT, 'scripts', 'singer-configs.json');
 const ENV_SINGER_CONFIG_PATH = (process.env.SINGER_CONFIG_PATH || '').trim();
 const ENV_RUNTIME_SINGER_CONFIG_PATH = (process.env.SINGER_CONFIG_RUNTIME_PATH || '').trim();
@@ -50,9 +53,13 @@ const RUNTIME_SINGER_CONFIG_CANDIDATES = buildRuntimeSingerConfigCandidates();
 let store = {
   songs: [],
   files: [],
+  rawFiles: [],
   fileToAlias: {},
   sourceProfiles: {},
   sourceStats: {},
+  rawSourceStats: {},
+  sourceDisplayMap: {},
+  combinedSourceMembers: [],
   totalUnique: 0,
   titleEntries: [],
   titleMap: new Map(),
@@ -64,6 +71,7 @@ let store = {
   uniqueSongOccurrenceCount: new WeakMap(),
   uploaderSourceMap: new Map(),
   sourceSongMap: new Map(),
+  rawSourceSongMap: new Map(),
   missingArtistSongs: [],
   missingArtistUnique: 0
 };
@@ -160,10 +168,12 @@ function buildUniqueSongClusters(data) {
   return clusters;
 }
 
-function buildUniqueSongSourceCountMap(songs) {
+function buildUniqueSongSourceCountMap(songs, sourceDisplayMap = {}) {
   const map = new WeakMap();
   buildUniqueSongClusters(songs).forEach(cluster => {
-    const sourceSet = new Set(cluster.songs.map(song => song.source || '').filter(Boolean));
+    const sourceSet = new Set(cluster.songs
+      .map(song => sourceDisplayMap?.[song.source] || song.source || '')
+      .filter(Boolean));
     const count = sourceSet.size || 1;
     cluster.songs.forEach(song => map.set(song, count));
   });
@@ -197,16 +207,92 @@ function countSoloUniqueTracks(data) {
     .length;
 }
 
+function getSourceKey(sourceFile) {
+  return String(sourceFile || '').replace(/\.js$/, '');
+}
+
+function getSourceAliasFromMap(fileToAlias, sourceFile) {
+  const key = getSourceKey(sourceFile);
+  return fileToAlias?.[key] || (sourceFile === COMBINED_SOURCE_FILE ? COMBINED_SOURCE_ALIAS : sourceFile);
+}
+
 function buildSourceStats(songs, files, fileToAlias) {
   const stats = {};
   (files || []).forEach(fileName => {
     const sourceSongs = songs.filter(song => song.source === fileName);
-    const key = fileName.replace('.js', '');
     stats[fileName] = {
       file: fileName,
-      alias: fileToAlias[key] || fileName,
+      alias: getSourceAliasFromMap(fileToAlias, fileName),
       totalSongs: sourceSongs.length,
       totalUnique: getUniqueSongCount(sourceSongs)
+    };
+  });
+  return stats;
+}
+
+function buildSourceDisplayMap(rawSourceStats, rawFiles) {
+  const map = {};
+  (rawFiles || []).forEach(fileName => {
+    const totalSongs = Number(rawSourceStats?.[fileName]?.totalSongs || 0);
+    map[fileName] = fileName !== COMBINED_SOURCE_FILE && totalSongs <= COMBINED_SOURCE_MAX_SONGS
+      ? COMBINED_SOURCE_FILE
+      : fileName;
+  });
+  if ((rawFiles || []).includes(COMBINED_SOURCE_FILE)) {
+    map[COMBINED_SOURCE_FILE] = COMBINED_SOURCE_FILE;
+  }
+  return map;
+}
+
+function buildDisplaySourceFiles(rawFiles, sourceDisplayMap) {
+  const seen = new Set();
+  const files = [];
+  (rawFiles || []).forEach(fileName => {
+    const displayFile = sourceDisplayMap?.[fileName] || fileName;
+    if (seen.has(displayFile)) return;
+    seen.add(displayFile);
+    files.push(displayFile);
+  });
+  return files;
+}
+
+function buildDisplaySourceSongMap(songs, sourceDisplayMap) {
+  const map = new Map();
+  (Array.isArray(songs) ? songs : []).forEach(song => {
+    const displayFile = sourceDisplayMap?.[song.source] || song.source || '';
+    if (!displayFile) return;
+    if (!map.has(displayFile)) map.set(displayFile, []);
+    map.get(displayFile).push(song);
+  });
+  return map;
+}
+
+function buildDisplaySourceStats(songs, displayFiles, fileToAlias, sourceDisplayMap) {
+  const stats = {};
+  const sourceSongsByDisplay = new Map();
+  const membersByDisplay = new Map();
+  (displayFiles || []).forEach(fileName => {
+    sourceSongsByDisplay.set(fileName, []);
+    membersByDisplay.set(fileName, []);
+  });
+  (Array.isArray(songs) ? songs : []).forEach(song => {
+    const rawSource = song.source || '';
+    const displayFile = sourceDisplayMap?.[rawSource] || rawSource;
+    if (!displayFile) return;
+    if (!sourceSongsByDisplay.has(displayFile)) sourceSongsByDisplay.set(displayFile, []);
+    if (!membersByDisplay.has(displayFile)) membersByDisplay.set(displayFile, []);
+    sourceSongsByDisplay.get(displayFile).push(song);
+    const members = membersByDisplay.get(displayFile);
+    if (rawSource && !members.includes(rawSource)) members.push(rawSource);
+  });
+  (displayFiles || []).forEach(fileName => {
+    const sourceSongs = sourceSongsByDisplay.get(fileName) || [];
+    stats[fileName] = {
+      file: fileName,
+      alias: getSourceAliasFromMap(fileToAlias, fileName),
+      totalSongs: sourceSongs.length,
+      totalUnique: getUniqueSongCount(sourceSongs),
+      memberFiles: membersByDisplay.get(fileName) || []
     };
   });
   return stats;
@@ -297,13 +383,26 @@ function normalizeSourceProfiles(rawProfiles, files, fileToAlias) {
 }
 
 function getSourceProfile(sourceFile) {
-  const key = String(sourceFile || '').replace(/\.js$/, '');
+  const key = getSourceKey(sourceFile);
   return store.sourceProfiles[key] || buildFallbackSourceProfile(sourceFile);
 }
 
 function getSourceAlias(sourceFile) {
-  const key = String(sourceFile || '').replace('.js', '');
+  const key = getSourceKey(sourceFile);
   return store.fileToAlias[key] || sourceFile || '未知来源';
+}
+
+function getSourceDisplayFile(sourceFile) {
+  const raw = String(sourceFile || '').trim();
+  if (!raw || raw === 'all' || raw === 'missing-artist') return raw;
+  const direct = store.sourceDisplayMap?.[raw];
+  if (direct) return direct;
+  const withExt = raw.endsWith('.js') ? raw : `${raw}.js`;
+  return store.sourceDisplayMap?.[withExt] || withExt;
+}
+
+function getDisplaySourceAlias(sourceFile) {
+  return getSourceAlias(getSourceDisplayFile(sourceFile));
 }
 
 function isDupCopyAiAvailable() {
@@ -319,29 +418,7 @@ function toDisplaySourceName(rawValue) {
 
 function getConcreteSourceName(entry) {
   const song = entry?.song || entry || {};
-  const sourceAlias = getSourceAlias(song.source);
-  if (sourceAlias !== '非常驻妹妹') {
-    return sourceAlias || '未知来源';
-  }
-
-  const collection = String(song.collection || '');
-  const bracketValues = Array.from(collection.matchAll(/【([^【】]+)】/g))
-    .map(match => toDisplaySourceName(match[1]))
-    .filter(Boolean)
-    .filter(value => !/^cmykproject$/i.test(value) && !/^#?cmykproject$/i.test(value));
-  if (bracketValues.length > 0) {
-    return bracketValues[bracketValues.length - 1];
-  }
-
-  const videoTitle = String(song.videoTitle || '');
-  const videoBracketValues = Array.from(videoTitle.matchAll(/【([^【】]+)】/g))
-    .map(match => toDisplaySourceName(match[1]))
-    .filter(Boolean);
-  if (videoBracketValues.length > 0) {
-    return videoBracketValues[videoBracketValues.length - 1];
-  }
-
-  return sourceAlias || '未知来源';
+  return getDisplaySourceAlias(song.source) || '未知来源';
 }
 
 function normalizeArtistVariantForCopy(artist) {
@@ -436,7 +513,7 @@ function buildLocalCopyText(entry) {
 }
 
 function getScopedSourceLabel(source) {
-  return !source || source === 'all' ? '全部来源' : getSourceAlias(source);
+  return !source || source === 'all' ? '全部来源' : getDisplaySourceAlias(source);
 }
 
 function splitWithQuotes(str) {
@@ -524,9 +601,12 @@ function searchItem(item, condition, fields) {
   if (fields.artist) enabledFields.push({ field: 'artist', text: item.artist || '' });
   if (fields.collection) enabledFields.push({ field: 'collection', text: item.collection || '' });
   if (fields.source) {
-    const sourceBase = String(item.source || '').replace('.js', '');
-    const sourceAlias = store.fileToAlias[sourceBase] || item.source || '未知';
-    enabledFields.push({ field: 'source', text: sourceAlias });
+    const rawAlias = getSourceAlias(item.source);
+    const displayAlias = getDisplaySourceAlias(item.source);
+    enabledFields.push({
+      field: 'source',
+      text: rawAlias === displayAlias ? displayAlias : `${displayAlias} ${rawAlias}`
+    });
   }
   if (fields.bvid) {
     enabledFields.push({ field: 'bvid', text: extractBV(item.bvid || item.link || '') });
@@ -715,6 +795,7 @@ function getGrowthSongDate(song) {
 }
 
 function summarizeGrowthDetailSong(song, extra = {}) {
+  const displaySource = getSourceDisplayFile(song?.source || '');
   return {
     title: song?.title || '未知歌曲',
     artist: song?.artist || song?.originalArtist || '',
@@ -722,7 +803,8 @@ function summarizeGrowthDetailSong(song, extra = {}) {
     collection: song?.collection || '',
     link: song?.link || '',
     bvid: getExportBvid(song),
-    source: song?.source || '',
+    source: displaySource,
+    rawSource: song?.source || '',
     sourceAlias: getExportSourceName(song),
     cover: song?.cover || '',
     pubdate: Number(song?.pubdate || 0),
@@ -803,7 +885,7 @@ function buildGrowthDetailPayload(reqUrl) {
   const items = allItems.slice(0, limit);
   return {
     source,
-    sourceAlias: source === 'all' ? '全部来源' : getSourceAlias(source),
+    sourceAlias: source === 'all' ? '全部来源' : getDisplaySourceAlias(source),
     date,
     type,
     total: allItems.length,
@@ -979,6 +1061,20 @@ function buildCombinedGrowthRows(songRows, viewRows, uniqueRows) {
     });
 }
 
+function isCombinedDisplaySource(sourceFile) {
+  return getSourceDisplayFile(sourceFile) === COMBINED_SOURCE_FILE;
+}
+
+function compareDisplaySourceRows(a, b) {
+  const combinedA = isCombinedDisplaySource(a?.file || a?.sourceFile || a?.key || '');
+  const combinedB = isCombinedDisplaySource(b?.file || b?.sourceFile || b?.key || '');
+  if (combinedA !== combinedB) return combinedA ? 1 : -1;
+  const totalA = Number(a?.totalSongs ?? a?.totalCount ?? a?.count ?? 0);
+  const totalB = Number(b?.totalSongs ?? b?.totalCount ?? b?.count ?? 0);
+  if (totalB !== totalA) return totalB - totalA;
+  return String(a?.alias || a?.name || '').localeCompare(String(b?.alias || b?.name || ''), 'zh-Hans');
+}
+
 function buildSourceUniqueGrowthRows() {
   return store.files
     .map(file => {
@@ -993,10 +1089,7 @@ function buildSourceUniqueGrowthRows() {
         rows
       };
     })
-    .sort((a, b) => {
-      if (b.totalSongs !== a.totalSongs) return b.totalSongs - a.totalSongs;
-      return String(a.alias).localeCompare(String(b.alias), 'zh-Hans');
-    });
+    .sort(compareDisplaySourceRows);
 }
 
 function buildSourceGrowthRows() {
@@ -1018,10 +1111,7 @@ function buildSourceGrowthRows() {
         rows
       };
     })
-    .sort((a, b) => {
-      if (b.totalSongs !== a.totalSongs) return b.totalSongs - a.totalSongs;
-      return String(a.alias).localeCompare(String(b.alias), 'zh-Hans');
-    });
+    .sort(compareDisplaySourceRows);
 }
 
 function buildGrowthAnomalies(combinedRows) {
@@ -1077,15 +1167,15 @@ function loadSongStore() {
   const titleArtistMap = new Map();
   const artistSongMap = new Map();
   const bvMap = new Map();
-  const sourceSongMap = new Map();
+  const rawSourceSongMap = new Map();
   const uploaderSourceCountMap = new Map();
 
   songs.forEach((song, index) => {
     const sourceFile = String(song.source || '');
-    if (!sourceSongMap.has(sourceFile)) {
-      sourceSongMap.set(sourceFile, []);
+    if (!rawSourceSongMap.has(sourceFile)) {
+      rawSourceSongMap.set(sourceFile, []);
     }
-    sourceSongMap.get(sourceFile).push(song);
+    rawSourceSongMap.get(sourceFile).push(song);
 
     const uploaderMid = normalizeUploaderMid(song.uploaderMid);
     if (uploaderMid && sourceFile) {
@@ -1142,6 +1232,21 @@ function loadSongStore() {
     }
   });
 
+  const rawFiles = indexData.files || [];
+  const rawSourceStats = buildSourceStats(songs, rawFiles, indexData.fileToAlias || {});
+  const sourceDisplayMap = buildSourceDisplayMap(rawSourceStats, rawFiles);
+  const displayFiles = buildDisplaySourceFiles(rawFiles, sourceDisplayMap);
+  const sourceSongMap = buildDisplaySourceSongMap(songs, sourceDisplayMap);
+  const sourceStats = buildDisplaySourceStats(songs, displayFiles, indexData.fileToAlias || {}, sourceDisplayMap);
+  const combinedSourceMembers = (sourceStats[COMBINED_SOURCE_FILE]?.memberFiles || [])
+    .filter(fileName => fileName !== COMBINED_SOURCE_FILE);
+  const displayTitleSourceMap = new Map();
+  titleSourceMap.forEach((sourceSet, titleKey) => {
+    displayTitleSourceMap.set(
+      titleKey,
+      new Set(Array.from(sourceSet).map(source => sourceDisplayMap[source] || source).filter(Boolean))
+    );
+  });
   const titleEntries = Array.from(titleMap.values())
     .sort((a, b) => a.firstSeen - b.firstSeen)
     .map(entry => ({
@@ -1167,21 +1272,26 @@ function loadSongStore() {
 
   store = {
     songs,
-    files: indexData.files || [],
+    files: displayFiles,
+    rawFiles,
     fileToAlias: indexData.fileToAlias || {},
     sourceProfiles,
-    sourceStats: buildSourceStats(songs, indexData.files || [], indexData.fileToAlias || {}),
+    sourceStats,
+    rawSourceStats,
+    sourceDisplayMap,
+    combinedSourceMembers,
     totalUnique: getUniqueSongCount(songs),
     titleEntries,
     titleMap,
-    titleSourceMap,
+    titleSourceMap: displayTitleSourceMap,
     titleArtistMap,
     artistSongMap,
     bvMap,
-    uniqueSongSourceCount: buildUniqueSongSourceCountMap(songs),
+    uniqueSongSourceCount: buildUniqueSongSourceCountMap(songs, sourceDisplayMap),
     uniqueSongOccurrenceCount: buildUniqueSongOccurrenceCountMap(songs),
     uploaderSourceMap,
     sourceSongMap,
+    rawSourceSongMap,
     missingArtistSongs: songs.filter(song => !isValidArtist(song.artist)),
     missingArtistUnique: 0
   };
@@ -1195,7 +1305,11 @@ function getSourceScopedSongs(source) {
     return store.missingArtistSongs;
   }
   if (source && source !== 'all') {
-    return store.sourceSongMap.get(source) || [];
+    const displaySource = getSourceDisplayFile(source);
+    if (displaySource === COMBINED_SOURCE_FILE || store.sourceSongMap.has(displaySource)) {
+      return store.sourceSongMap.get(displaySource) || [];
+    }
+    return store.rawSourceSongMap.get(source) || store.rawSourceSongMap.get(displaySource) || [];
   }
   return store.songs;
 }
@@ -1213,7 +1327,8 @@ function getSourceSummary(source) {
       unique: store.totalUnique
     };
   }
-  const stat = store.sourceStats[source];
+  const displaySource = getSourceDisplayFile(source);
+  const stat = store.sourceStats[displaySource] || store.rawSourceStats[source];
   if (stat) {
     return {
       count: Number(stat.totalSongs || 0),
@@ -1230,7 +1345,11 @@ function getSourceSummary(source) {
 function filterCandidatesBySource(items, source) {
   if (!Array.isArray(items) || items.length === 0) return [];
   if (!source || source === 'all') return items.slice();
-  return items.filter(item => item.source === source);
+  const displaySource = getSourceDisplayFile(source);
+  return items.filter(item => {
+    const itemSource = String(item?.source || '');
+    return itemSource === source || getSourceDisplayFile(itemSource) === displaySource;
+  });
 }
 
 function buildBvNotFoundResult(raw, reason = '') {
@@ -1260,13 +1379,14 @@ function findSourceFileByConfigName(configFileName) {
     pushCandidate(base.endsWith('.js') ? base : `${base}.js`);
   });
 
+  const knownFiles = store.rawFiles && store.rawFiles.length ? store.rawFiles : store.files;
   for (const candidate of candidates) {
-    if (store.files.includes(candidate)) return candidate;
+    if (knownFiles.includes(candidate)) return candidate;
   }
 
   for (const candidate of candidates) {
     const target = candidate.toLowerCase();
-    const matched = store.files.find(file => String(file || '').toLowerCase() === target);
+    const matched = knownFiles.find(file => String(file || '').toLowerCase() === target);
     if (matched) return matched;
   }
 
@@ -1309,7 +1429,8 @@ function getSingerConfigBvSourceMap() {
 function getPreferredSourceByUploaderMid(uploaderMid) {
   const mid = normalizeUploaderMid(uploaderMid);
   if (!mid) return '';
-  return store.uploaderSourceMap.get(mid) || '';
+  const source = store.uploaderSourceMap.get(mid) || '';
+  return getSourceDisplayFile(source);
 }
 
 function escapeRegExp(text) {
@@ -1523,6 +1644,30 @@ function getSongTitleSourceCount(songOrTitle) {
 
 function getSongBvid(item) {
   return extractBvPreserveCase(item?.bvid || item?.link || '') || extractBV(item?.bvid || item?.link || '');
+}
+
+function withDisplaySourceForClient(song) {
+  if (!song || typeof song !== 'object') return song;
+  const rawSource = String(song.rawSource || song.source || '').trim();
+  if (!rawSource) return { ...song, rawSource: '', source: '', sourceAlias: '' };
+  const displaySource = getSourceDisplayFile(rawSource);
+  return {
+    ...song,
+    rawSource,
+    source: displaySource,
+    sourceAlias: getDisplaySourceAlias(rawSource)
+  };
+}
+
+function withDisplaySourcesForDupResult(result) {
+  if (!result || typeof result !== 'object' || result.isNotFound) return result;
+  return {
+    ...result,
+    song: withDisplaySourceForClient(result.song),
+    dupList: Array.isArray(result.dupList)
+      ? result.dupList.map(withDisplaySourceForClient)
+      : []
+  };
 }
 
 function countUniqueBvids(data) {
@@ -1761,12 +1906,13 @@ async function buildDupCheckResponse(mode, source, items) {
     statsText = `总计 ${total} | 找到 ${found} | 未找到 ${notFound} | 重复 ${dup} | 非重复 ${unique} | 当前库 ${getScopedSourceLabel(source)}`;
   }
 
+  const clientResults = results.map(withDisplaySourcesForDupResult);
   return {
     mode,
-    source,
-    items: results,
+    source: getSourceDisplayFile(source),
+    items: clientResults,
     statsText,
-    summary: buildDupCheckSummary(mode, source, results),
+    summary: buildDupCheckSummary(mode, source, clientResults),
     liveFallback
   };
 }
@@ -1810,7 +1956,7 @@ function buildArtistSummaryByTitle(title) {
 
   matchedSongs.forEach((song, index) => {
     const artistName = (song.artist || '未知歌手').trim();
-    const sourceAlias = getSourceAlias(song.source);
+    const sourceAlias = getDisplaySourceAlias(song.source);
     if (!artistMap.has(artistName)) {
       artistMap.set(artistName, {
         name: artistName,
@@ -1880,9 +2026,18 @@ function handleBootstrap(res) {
   sendJson(res, 200, {
     mode: 'api',
     files: store.files,
+    rawFiles: store.rawFiles,
     fileToAlias: store.fileToAlias,
     sourceProfiles: store.sourceProfiles,
     sourceStats: store.sourceStats,
+    rawSourceStats: store.rawSourceStats,
+    sourceDisplayMap: store.sourceDisplayMap,
+    combinedSource: {
+      file: COMBINED_SOURCE_FILE,
+      alias: getSourceAlias(COMBINED_SOURCE_FILE),
+      threshold: COMBINED_SOURCE_MAX_SONGS,
+      members: store.combinedSourceMembers
+    },
     totalSongs: store.songs.length,
     totalUnique: store.totalUnique
   });
@@ -1890,15 +2045,16 @@ function handleBootstrap(res) {
 
 function handleSources(res) {
   const sources = store.files.map(fileName => {
-    const key = fileName.replace('.js', '');
+    const key = getSourceKey(fileName);
     return {
       file: fileName,
       alias: store.fileToAlias[key] || fileName,
       profile: getSourceProfile(fileName),
       totalSongs: store.sourceStats[fileName]?.totalSongs || 0,
-      totalUnique: store.sourceStats[fileName]?.totalUnique || 0
+      totalUnique: store.sourceStats[fileName]?.totalUnique || 0,
+      memberFiles: store.sourceStats[fileName]?.memberFiles || [fileName]
     };
-  });
+  }).sort(compareDisplaySourceRows);
   sendJson(res, 200, { sources });
 }
 
@@ -1911,9 +2067,12 @@ function handleAllSongs(reqUrl, res) {
     total: data.length,
     totalUnique: getUniqueSongCount(data),
     files: store.files,
+    rawFiles: store.rawFiles,
     fileToAlias: store.fileToAlias,
     sourceProfiles: store.sourceProfiles,
-    sourceStats: store.sourceStats
+    sourceStats: store.sourceStats,
+    rawSourceStats: store.rawSourceStats,
+    sourceDisplayMap: store.sourceDisplayMap
   });
 }
 
@@ -1966,13 +2125,13 @@ function aggregateBySong(data) {
       groups.push(entry);
     }
     entry.count += 1;
-    entry.sourceSet.add(item.source || '');
+    entry.sourceSet.add(getSourceDisplayFile(item.source) || '');
     entry.sourceCount = entry.sourceSet.size;
     entry.isSolo = isSoloUniqueSong(item);
     entry.performances.push({
       link: item.link || '',
       collection: item.collection || '未知合集',
-      source: getSourceAlias(item.source),
+      source: getDisplaySourceAlias(item.source),
       cover: item.cover || '',
       bvid: extractBV(item.bvid || item.link || '')
     });
@@ -1989,8 +2148,8 @@ function aggregateBySong(data) {
 function aggregateByVtuberSource(data) {
   const map = new Map();
   data.forEach(item => {
-    const sourceFile = item.source || '未知来源';
-    const sourceKey = sourceFile.replace('.js', '');
+    const sourceFile = getSourceDisplayFile(item.source || '未知来源');
+    const sourceKey = getSourceKey(sourceFile);
     const vtuberName = getSourceAlias(sourceFile);
     if (!map.has(sourceKey)) {
       map.set(sourceKey, {
@@ -2107,7 +2266,7 @@ function aggregateByArtist(data) {
       songEntry.links.push({
         link: item.link,
         collection: item.collection || '未知合集',
-        source: getSourceAlias(item.source),
+      source: getDisplaySourceAlias(item.source),
         cover: item.cover || ''
       });
     }
@@ -2121,7 +2280,7 @@ function aggregateByArtist(data) {
     delete v.bvSet;
     v.uniqueCount = songArr.length;
   });
-  result.sort((a, b) => b.totalCount - a.totalCount);
+  result.sort(compareDisplaySourceRows);
   return result;
 }
 
@@ -2225,6 +2384,11 @@ function sortStatsGroups(groups, tab, sortValue) {
   const isAverageSort = isStatsAverageSortField(field);
 
   return input.slice().sort((a, b) => {
+    if (tab === 'vtuber-source') {
+      const combinedA = isCombinedDisplaySource(a?.sourceFile || a?.key || '');
+      const combinedB = isCombinedDisplaySource(b?.sourceFile || b?.key || '');
+      if (combinedA !== combinedB) return combinedA ? 1 : -1;
+    }
     if (isAverageSort) {
       const deferredA = isStatsAvgSortDeferredGroup(a);
       const deferredB = isStatsAvgSortDeferredGroup(b);
@@ -2449,9 +2613,12 @@ function buildSongRowId(item) {
 function withSearchRowMeta(item) {
   const uniqueSourceCount = getSongUniqueSourceCount(item);
   const uniqueOccurrenceCount = getSongUniqueOccurrenceCount(item);
+  const displaySource = getSourceDisplayFile(item.source);
   return {
     ...item,
     rowId: buildSongRowId(item),
+    rawSource: item.source || '',
+    source: displaySource,
     sourceAlias: getExportSourceName(item),
     bvid: getExportBvid(item),
     uniqueSourceCount,
@@ -2486,8 +2653,7 @@ function getSearchExportFields(reqUrl) {
 }
 
 function getExportSourceName(item) {
-  const sourceBase = String(item.source || '').replace(/\.js$/, '');
-  return store.fileToAlias[sourceBase] || item.source || '';
+  return getDisplaySourceAlias(item.source) || '';
 }
 
 function getExportBvid(item) {
@@ -2637,14 +2803,14 @@ function getTopSourceStats(limit = 6) {
       totalSongs: Number(store.sourceStats[file]?.totalSongs || 0),
       totalUnique: Number(store.sourceStats[file]?.totalUnique || 0)
     }))
-    .sort((a, b) => b.totalSongs - a.totalSongs)
+    .sort(compareDisplaySourceRows)
     .slice(0, limit);
 }
 
 function getMissingArtistSourceStats(limit = 6) {
   const bySource = new Map();
   store.missingArtistSongs.forEach(song => {
-    const source = String(song.source || '');
+    const source = getSourceDisplayFile(song.source || '');
     if (!source) return;
     bySource.set(source, (bySource.get(source) || 0) + 1);
   });
@@ -2654,7 +2820,7 @@ function getMissingArtistSourceStats(limit = 6) {
       alias: getSourceAlias(source),
       count
     }))
-    .sort((a, b) => b.count - a.count)
+    .sort(compareDisplaySourceRows)
     .slice(0, limit);
 }
 
@@ -2873,7 +3039,8 @@ function buildDupCopyPayloadItems(payloadItems) {
           title: String(song.title || '').trim(),
           artist: String(song.artist || '').trim(),
           collection: String(song.collection || '').trim(),
-          source: String(song.source || '').trim(),
+          source: getSourceDisplayFile(song.source || ''),
+          rawSource: String(song.rawSource || song.source || '').trim(),
           bvid: extractBV(song.bvid || song.link || ''),
           link: String(song.link || '').trim(),
           videoTitle: String(song.videoTitle || '').trim()

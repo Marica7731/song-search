@@ -2848,6 +2848,15 @@ body.culua-shell-stats .stats-source-item {
   cursor: pointer;
 }
 
+body.culua-shell-stats .stats-source-section-title {
+  margin-top: 8px;
+  padding: 8px 8px 4px;
+  border-top: 1px solid #e2e8f0;
+  color: #64748b;
+  font-size: 11px;
+  font-weight: 800;
+}
+
 body.culua-shell-stats .stats-source-item:hover,
 body.culua-shell-stats .stats-source-item.active {
   background: #e6f4f1;

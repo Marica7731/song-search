@@ -955,9 +955,12 @@
         window.SONG_DATA = [];
         let originalData = [];
         let fileNames = [];
+        let rawFileNames = [];
         let FILE_TO_ALIAS = {};
         let SOURCE_PROFILES = {};
         let SOURCE_STATS = {};
+        let RAW_SOURCE_STATS = {};
+        let SOURCE_DISPLAY_MAP = {};
         let bootstrapTotalSongs = 0;
         let bootstrapTotalUnique = 0;
         
@@ -968,6 +971,9 @@
         let statsSort = 'songs-desc';
         const DEFAULT_PAGE_SIZE = 30;
         const SOURCE_STATS_PAGE_SIZE = 1000;
+        const COMBINED_SOURCE_FILE = 'others.js';
+        const COMBINED_SOURCE_ALIAS = '非常驻妹妹';
+        const COMBINED_SOURCE_MAX_SONGS = 100;
         let currentRankPage = 1;
         let isApiMode = false;
         let currentStatsPayload = null;
@@ -1146,9 +1152,50 @@
             return (picked || '源').toUpperCase();
         }
 
+        function getSourceKey(sourceFile) {
+            return String(sourceFile || '').replace(/\.js$/, '');
+        }
+
+        function getSourceAliasByFile(sourceFile) {
+            const key = getSourceKey(sourceFile);
+            return FILE_TO_ALIAS[key] || (sourceFile === COMBINED_SOURCE_FILE ? COMBINED_SOURCE_ALIAS : key || '来源');
+        }
+
+        function isCombinedSourceFile(sourceFile) {
+            return getSourceKey(sourceFile) === getSourceKey(COMBINED_SOURCE_FILE)
+                || getSourceAliasByFile(sourceFile) === COMBINED_SOURCE_ALIAS;
+        }
+
+        function getDisplaySourceFile(sourceFile) {
+            const raw = String(sourceFile || '').trim();
+            if (!raw || raw === 'all' || raw === 'missing-artist') return raw;
+            const direct = SOURCE_DISPLAY_MAP[raw];
+            if (direct) return direct;
+            const withExt = raw.endsWith('.js') ? raw : `${raw}.js`;
+            if (SOURCE_DISPLAY_MAP[withExt]) return SOURCE_DISPLAY_MAP[withExt];
+            const rawStat = RAW_SOURCE_STATS[raw] || RAW_SOURCE_STATS[withExt];
+            const totalSongs = Number(rawStat?.totalSongs || rawStat?.count || 0);
+            if (!isCombinedSourceFile(withExt) && totalSongs > 0 && totalSongs <= COMBINED_SOURCE_MAX_SONGS) {
+                return COMBINED_SOURCE_FILE;
+            }
+            return withExt;
+        }
+
+        function sortSourcesWithCombinedLast(rows) {
+            return (Array.isArray(rows) ? rows : []).slice().sort((a, b) => {
+                const combinedA = isCombinedSourceFile(a?.fileName || a?.sourceFile || a?.file || a?.key || '');
+                const combinedB = isCombinedSourceFile(b?.fileName || b?.sourceFile || b?.file || b?.key || '');
+                if (combinedA !== combinedB) return combinedA ? 1 : -1;
+                const totalA = Number(a?.totalSongs ?? a?.totalCount ?? a?.count ?? 0);
+                const totalB = Number(b?.totalSongs ?? b?.totalCount ?? b?.count ?? 0);
+                if (totalB !== totalA) return totalB - totalA;
+                return String(a?.alias || a?.name || '').localeCompare(String(b?.alias || b?.name || ''), 'zh-Hans-CN');
+            });
+        }
+
         function sourceProfileByFile(sourceFile, fallbackName = '') {
-            const key = String(sourceFile || '').replace(/\.js$/, '');
-            const fallback = fallbackName || FILE_TO_ALIAS[key] || key || '来源';
+            const key = getSourceKey(sourceFile);
+            const fallback = fallbackName || getSourceAliasByFile(sourceFile);
             return SOURCE_PROFILES[key] || {
                 alias: fallback,
                 avatarText: getDefaultAvatarText(fallback),
@@ -1157,6 +1204,70 @@
                 accentColor: '#0f766e',
                 statsAvgSortDeferred: false
             };
+        }
+
+        function buildLocalRawSourceStats(data, files) {
+            const stats = {};
+            (Array.isArray(files) ? files : []).forEach(fileName => {
+                const sourceSongs = (Array.isArray(data) ? data : []).filter(item => item.source === fileName);
+                stats[fileName] = {
+                    file: fileName,
+                    alias: getSourceAliasByFile(fileName),
+                    totalSongs: sourceSongs.length,
+                    totalUnique: getUniqueSongCount(sourceSongs)
+                };
+            });
+            return stats;
+        }
+
+        function buildLocalSourceDisplayMap(rawStats, files) {
+            const map = {};
+            (Array.isArray(files) ? files : []).forEach(fileName => {
+                const totalSongs = Number(rawStats?.[fileName]?.totalSongs || 0);
+                map[fileName] = !isCombinedSourceFile(fileName) && totalSongs <= COMBINED_SOURCE_MAX_SONGS
+                    ? COMBINED_SOURCE_FILE
+                    : fileName;
+            });
+            return map;
+        }
+
+        function buildDisplaySourceFiles(rawFiles) {
+            const seen = new Set();
+            const files = [];
+            (Array.isArray(rawFiles) ? rawFiles : []).forEach(fileName => {
+                const displayFile = getDisplaySourceFile(fileName);
+                if (!displayFile || seen.has(displayFile)) return;
+                seen.add(displayFile);
+                files.push(displayFile);
+            });
+            return files;
+        }
+
+        function buildLocalDisplaySourceStats(data, displayFiles) {
+            const stats = {};
+            (Array.isArray(displayFiles) ? displayFiles : []).forEach(fileName => {
+                const sourceSongs = (Array.isArray(data) ? data : [])
+                    .filter(item => getDisplaySourceFile(item.source) === fileName);
+                const memberFiles = Array.from(new Set(sourceSongs.map(item => item.source).filter(Boolean)));
+                stats[fileName] = {
+                    file: fileName,
+                    alias: getSourceAliasByFile(fileName),
+                    totalSongs: sourceSongs.length,
+                    totalUnique: getUniqueSongCount(sourceSongs),
+                    memberFiles
+                };
+            });
+            return stats;
+        }
+
+        function applyLocalSourceGrouping(rawFiles) {
+            RAW_SOURCE_STATS = buildLocalRawSourceStats(originalData, rawFiles);
+            SOURCE_DISPLAY_MAP = buildLocalSourceDisplayMap(RAW_SOURCE_STATS, rawFiles);
+            fileNames = buildDisplaySourceFiles(rawFiles);
+            SOURCE_STATS = buildLocalDisplaySourceStats(originalData, fileNames);
+            localTitleSourceMap = new Map();
+            localTitleStatsMap = new Map();
+            localTitleSourceVersion = -1;
         }
 
         function renderSourceAvatar(profile, className = '', options = {}) {
@@ -1273,8 +1384,11 @@
             if (['vtuber-source', 'rank', 'artist'].includes(saved.tab)) {
                 activeTab = saved.tab;
             }
-            if (typeof saved.source === 'string' && (saved.source === 'all' || fileNames.includes(saved.source))) {
-                activeFilter = saved.source;
+            if (typeof saved.source === 'string') {
+                const displaySource = getDisplaySourceFile(saved.source);
+                if (displaySource === 'all' || fileNames.includes(displaySource)) {
+                    activeFilter = displaySource;
+                }
             }
             if (typeof saved.q === 'string') {
                 searchKeyword = saved.q.trim();
@@ -1305,12 +1419,12 @@
                 if (!map.has(titleKey)) {
                     map.set(titleKey, new Set());
                 }
-                map.get(titleKey).add(item.source || '');
+                map.get(titleKey).add(getDisplaySourceFile(item.source) || '');
                 if (!statsMap.has(titleKey)) {
                     statsMap.set(titleKey, { sources: new Set(), count: 0 });
                 }
                 const stats = statsMap.get(titleKey);
-                stats.sources.add(item.source || '');
+                stats.sources.add(getDisplaySourceFile(item.source) || '');
                 stats.count += 1;
             });
             localTitleSourceMap = map;
@@ -1779,6 +1893,11 @@
             const direction = rawDirection === 'asc' ? 'asc' : 'desc';
             const isAverageSort = field === 'avg' || field === 'average';
             return (Array.isArray(groups) ? groups : []).slice().sort((a, b) => {
+                if (activeTab === 'vtuber-source') {
+                    const combinedA = isCombinedSourceFile(a?.sourceFile || a?.key || '');
+                    const combinedB = isCombinedSourceFile(b?.sourceFile || b?.key || '');
+                    if (combinedA !== combinedB) return combinedA ? 1 : -1;
+                }
                 if (isAverageSort) {
                     const deferredA = isStatsAvgSortDeferredGroup(a);
                     const deferredB = isStatsAvgSortDeferredGroup(b);
@@ -2005,13 +2124,13 @@
                 }
                 const entry = map.get(key);
                 entry.count++;
-                entry.sourceSet.add(item.source || '');
+                entry.sourceSet.add(getDisplaySourceFile(item.source) || '');
                 entry.sourceCount = entry.sourceSet.size;
                 entry.isSolo = isSoloUniqueLocal(item);
                 entry.performances.push({
                     link: item.link,
                     collection: item.collection || '未知合集',
-                    source: FILE_TO_ALIAS[(item.source || '').replace('.js', '')] || item.source || '',
+                    source: getSourceAliasByFile(getDisplaySourceFile(item.source)),
                     cover: getCoverUrl(item)
                 });
             });
@@ -2027,9 +2146,9 @@
         function aggregateByVtuberSource(data) {
             const map = new Map();
             data.forEach(item => {
-                const sourceFile = item.source || '未知来源';
-                const sourceKey = sourceFile.replace('.js', '');
-                const vtuberName = FILE_TO_ALIAS[sourceKey] || sourceKey;
+                const sourceFile = getDisplaySourceFile(item.source || '未知来源');
+                const sourceKey = getSourceKey(sourceFile);
+                const vtuberName = getSourceAliasByFile(sourceFile);
 
                 if (!map.has(sourceKey)) {
                     map.set(sourceKey, {
@@ -2061,6 +2180,7 @@
                 if (item.link) songEntry.links.push({
                     link: item.link,
                     collection: item.collection || '未知合集',
+                    source: getSourceAliasByFile(getDisplaySourceFile(item.source)),
                     cover: getCoverUrl(item)
                 });
             });
@@ -2076,8 +2196,7 @@
                 v.uniqueCount = songArr.length; // 去重数量
                 v.soloCount = songArr.filter(s => s.isSolo).length;
             });
-            result.sort((a, b) => b.totalCount - a.totalCount);
-            return result;
+            return sortSourcesWithCombinedLast(result);
         }
 
         // 聚合3: 按 artist歌手字段 聚合
@@ -2131,7 +2250,7 @@
             let data = [...originalData];
 
             if (activeFilter !== 'all') {
-                data = data.filter(item => item.source === activeFilter);
+                data = data.filter(item => getDisplaySourceFile(item.source) === activeFilter);
             }
 
             if (searchKeyword) {
@@ -2151,8 +2270,8 @@
         // ========== 3. 渲染逻辑 ==========
 
         function getStatsSourceEntries() {
-            return fileNames.map(fileName => {
-                const fileBase = fileName.replace('.js', '');
+            return sortSourcesWithCombinedLast(fileNames.map(fileName => {
+                const fileBase = getSourceKey(fileName);
                 const profile = sourceProfileByFile(fileName);
                 const stat = SOURCE_STATS[fileName] || {};
                 const totalSongs = Number(stat.totalSongs || 0);
@@ -2164,11 +2283,7 @@
                     totalSongs,
                     totalUnique
                 };
-            }).sort((a, b) => {
-                const songDiff = b.totalSongs - a.totalSongs;
-                if (songDiff !== 0) return songDiff;
-                return a.alias.localeCompare(b.alias, 'zh-Hans-CN');
-            });
+            }));
         }
 
         function isStatsSourceCompactMode() {
@@ -2207,7 +2322,7 @@
             }
             if (clearBtn) clearBtn.hidden = activeFilter === 'all';
 
-            list.innerHTML = entries.map(entry => `
+            const renderEntry = entry => `
                 <button type="button" class="stats-source-item ${entry.fileName === activeFilter ? 'active' : ''}" data-source="${escapeAttr(entry.fileName)}">
                     ${renderSourceAvatar(entry.profile, 'stats-source-avatar', { eager: true })}
                     <span class="stats-source-item-text">
@@ -2216,7 +2331,16 @@
                     </span>
                     <span class="stats-source-count">${formatCountText(entry.totalSongs)}</span>
                 </button>
-            `).join('') || '<div class="stats-source-empty">没有匹配来源</div>';
+            `;
+            const regularEntries = entries.filter(entry => !isCombinedSourceFile(entry.fileName));
+            const combinedEntries = entries.filter(entry => isCombinedSourceFile(entry.fileName));
+            const regularHtml = regularEntries.map(renderEntry).join('');
+            const combinedHtml = combinedEntries.length
+                ? `<div class="stats-source-section-title">非常驻妹妹</div>${combinedEntries.map(renderEntry).join('')}`
+                : '';
+            list.innerHTML = (regularHtml || combinedHtml)
+                ? `${regularHtml}${combinedHtml}`
+                : '<div class="stats-source-empty">没有匹配来源</div>';
             initLazyMedia(list);
 
             list.querySelectorAll('.stats-source-item').forEach(button => {
@@ -2569,8 +2693,7 @@
                         }
                     }
 
-                    const sourceKey = (detailGroup.sourceFile || '').replace('.js', '');
-                    const sourceAlias = FILE_TO_ALIAS[sourceKey] || detailGroup.name;
+                    const sourceAlias = getSourceAliasByFile(detailGroup.sourceFile) || detailGroup.name;
                     
                     if (type === 'vtuber') {
                         const columns = [
@@ -2910,8 +3033,11 @@
                     if (!res.ok) throw new Error('无法加载 index.json');
                     const config = await res.json();
                     fileNames = config.files || [];
+                    rawFileNames = config.files || [];
                     FILE_TO_ALIAS = config.fileToAlias || FILE_TO_ALIAS;
                     SOURCE_PROFILES = config.sourceProfiles || SOURCE_PROFILES;
+                    RAW_SOURCE_STATS = {};
+                    SOURCE_DISPLAY_MAP = {};
                 }
 
                 if (!fileNames.length) {
@@ -2920,14 +3046,15 @@
 
                 window.SONG_DATA = [];
                 originalData = [];
-                await loadScriptsParallel(fileNames);
+                const filesToLoad = rawFileNames.length ? rawFileNames : fileNames;
+                await loadScriptsParallel(filesToLoad);
                 if (originalData.length === 0) {
                     throw new Error('本地静态数据为空');
                 }
 
                 bootstrapTotalSongs = originalData.length;
                 bootstrapTotalUnique = getUniqueSongCount(originalData);
-                SOURCE_STATS = {};
+                applyLocalSourceGrouping(filesToLoad);
 
                 if (progressMsg) {
                     progressMsg.style.display = 'none';
@@ -2946,9 +3073,12 @@
             if (!res.ok) throw new Error(`API 状态码 ${res.status}`);
             const payload = await res.json();
             fileNames = payload.files || [];
+            rawFileNames = payload.rawFiles || payload.files || [];
             FILE_TO_ALIAS = payload.fileToAlias || {};
             SOURCE_PROFILES = payload.sourceProfiles || {};
             SOURCE_STATS = payload.sourceStats || {};
+            RAW_SOURCE_STATS = payload.rawSourceStats || {};
+            SOURCE_DISPLAY_MAP = payload.sourceDisplayMap || {};
             bootstrapTotalSongs = payload.totalSongs || 0;
             bootstrapTotalUnique = payload.totalUnique || 0;
             originalData = [];
@@ -2966,10 +3096,13 @@
                     if (!res.ok) throw new Error('无法加载 index.json');
                     const config = await res.json();
                     fileNames = config.files || [];
+                    rawFileNames = config.files || [];
                     FILE_TO_ALIAS = config.fileToAlias || {};
                     SOURCE_PROFILES = config.sourceProfiles || {};
-                    SOURCE_STATS = {};
-                    await loadScriptsParallel(fileNames);
+                    RAW_SOURCE_STATS = {};
+                    SOURCE_DISPLAY_MAP = {};
+                    await loadScriptsParallel(rawFileNames);
+                    applyLocalSourceGrouping(rawFileNames);
                 }
 
                 document.getElementById('progress-msg').style.display = 'none';
