@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 7/11/2026, 8:54:53 PM
+// 生成时间: 7/11/2026, 9:05:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4547,6 +4547,198 @@ window.SONG_DATA.push(
   "collection": "【明日夢 歌切】[2026-07-03]请让我稍微练一下歌 明日夢かなえ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PvMw6iEdB?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "なまらめんこいギャル",
+  "artist": "オーイシマサヨシ",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Redo",
+  "artist": "鈴木このみ",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "This game",
+  "artist": "鈴木このみ",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "檄！帝国華撃団",
+  "artist": "真宮寺さくら(横山智佐)・帝国歌劇団",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "リンネ",
+  "artist": "ハチ feat. 初音ミク",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "空想フォレスト",
+  "artist": "じん feat. IA",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ヒーロー",
+  "artist": "supercell",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "春を待つ",
+  "artist": "Islet feat. 倚水",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "可惜夜",
+  "artist": "tayori",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Reply",
+  "artist": "kz(livetune) feat. かぐや(CV:夏吉ゆうこ)",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ワールドイズマイン CPK! Remix",
+  "artist": "ryo(supercell) feat. かぐや(CV:夏吉ゆうこ)・月見ヤチヨ(CV:早見沙織)",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "廻廻奇譚",
+  "artist": "Eve",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "風のアンセム",
+  "artist": "Eve feat. suis from ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Anytime Anywhere",
+  "artist": "milet",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "め組のひと",
+  "artist": "ラッツ&スター",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Butterfly",
+  "artist": "倖田來未",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "キューティーハニー",
+  "artist": "前川陽子",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "渡月橋 ～君 想ふ～",
+  "artist": "倉木麻衣",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=21",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "プレイシック",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=22",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ポスト春",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=23",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=24",
   "source": "asuyumekanae.js"
 },
     {
