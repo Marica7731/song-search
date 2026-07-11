@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 7/11/2026, 8:46:31 PM
+// 生成时间: 7/11/2026, 9:01:20 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5915,6 +5915,182 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-07-06]周一的辛苦了时间～悠闲地唱歌哦🌟￤澄花 / Puroburu -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qeMx6sEjA?p=23",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヰ世界の宝石譚",
+  "artist": "ヰ世界情緒",
+  "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat. 初音ミク",
+  "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "チノカテ",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "神様のダンス",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "長い髪",
+  "artist": "FOMARE",
+  "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "猫とアレルギー",
+  "artist": "きのこ帝国",
+  "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "瞬き",
+  "artist": "back number",
+  "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "片っぽ",
+  "artist": "eill",
+  "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "キラキラ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "sugar",
+  "artist": "Saucy Dog",
+  "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "あたしが死んだら",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "秘密",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "夜のあと",
+  "artist": "adieu",
+  "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=20",
+  "source": "sumica.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=21",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=22",
   "source": "sumica.js"
 }
 );
