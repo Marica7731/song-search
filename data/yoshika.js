@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 7/11/2026, 9:43:46 PM
+// 生成时间: 7/11/2026, 9:53:12 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -36027,6 +36027,166 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-07-08]初見さん歓迎中！ギリギリ七夕いけますか？",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BXML6hEKi?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-07-11]初見さん歓迎中！土曜日暑い！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vgNP6SEHG?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "サトシ with ピカチュウ（松本梨香／大谷育江）",
+  "collection": "【🍠🦍歌切】[2026-07-11]初見さん歓迎中！土曜日暑い！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vgNP6SEHG?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "DANZEN！ふたりはプリキュア",
+  "artist": "五條真由美",
+  "collection": "【🍠🦍歌切】[2026-07-11]初見さん歓迎中！土曜日暑い！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vgNP6SEHG?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "負けないで",
+  "artist": "ZARD",
+  "collection": "【🍠🦍歌切】[2026-07-11]初見さん歓迎中！土曜日暑い！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vgNP6SEHG?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ウィーアー！",
+  "artist": "きただにひろし",
+  "collection": "【🍠🦍歌切】[2026-07-11]初見さん歓迎中！土曜日暑い！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vgNP6SEHG?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Star Divine",
+  "artist": "スタァライト九九組",
+  "collection": "【🍠🦍歌切】[2026-07-11]初見さん歓迎中！土曜日暑い！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vgNP6SEHG?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n・中島愛",
+  "collection": "【🍠🦍歌切】[2026-07-11]初見さん歓迎中！土曜日暑い！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vgNP6SEHG?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-07-11]初見さん歓迎中！土曜日暑い！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vgNP6SEHG?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "【🍠🦍歌切】[2026-07-11]初見さん歓迎中！土曜日暑い！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vgNP6SEHG?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【🍠🦍歌切】[2026-07-11]初見さん歓迎中！土曜日暑い！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vgNP6SEHG?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アンパンマンのマーチ",
+  "artist": "ドリーミング",
+  "collection": "【🍠🦍歌切】[2026-07-11]初見さん歓迎中！土曜日暑い！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vgNP6SEHG?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気分上々↑↑",
+  "artist": "mihimaru GT",
+  "collection": "【🍠🦍歌切】[2026-07-11]初見さん歓迎中！土曜日暑い！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vgNP6SEHG?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "YUME日和",
+  "artist": "島谷ひとみ",
+  "collection": "【🍠🦍歌切】[2026-07-11]初見さん歓迎中！土曜日暑い！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vgNP6SEHG?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "天城越え",
+  "artist": "石川さゆり",
+  "collection": "【🍠🦍歌切】[2026-07-11]初見さん歓迎中！土曜日暑い！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vgNP6SEHG?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【🍠🦍歌切】[2026-07-11]初見さん歓迎中！土曜日暑い！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vgNP6SEHG?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Wake up!",
+  "artist": "AAA",
+  "collection": "【🍠🦍歌切】[2026-07-11]初見さん歓迎中！土曜日暑い！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vgNP6SEHG?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【🍠🦍歌切】[2026-07-11]初見さん歓迎中！土曜日暑い！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vgNP6SEHG?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さよならの夏～コクリコ坂から～",
+  "artist": "手嶌葵",
+  "collection": "【🍠🦍歌切】[2026-07-11]初見さん歓迎中！土曜日暑い！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vgNP6SEHG?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Pray",
+  "artist": "Tommy heavenly6",
+  "collection": "【🍠🦍歌切】[2026-07-11]初見さん歓迎中！土曜日暑い！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vgNP6SEHG?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "リアルワールド",
+  "artist": "nano.RIPE",
+  "collection": "【🍠🦍歌切】[2026-07-11]初見さん歓迎中！土曜日暑い！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vgNP6SEHG?p=20",
   "source": "yoshika.js"
 }
 );
