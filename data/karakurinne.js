@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 7/11/2026, 5:47:38 PM
+// 生成时间: 7/11/2026, 6:06:53 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1699,6 +1699,126 @@ window.SONG_DATA.push(
   "collection": "【⚙️🎸歌切】[2026-07-07]在「不写出来比较好的节日」之夜悠闲地唱歌哦～！！🎤🎸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zpMv6XE5B?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "夢の恋人",
+  "artist": "ズーカラデル",
+  "collection": "【⚙️🎸歌切】[2026-07-11]你会来看我吗？新朋友也非常欢迎！轻松唱唱歌🎤🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daNN6WEwJ?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "口癖",
+  "artist": "Mr.ふぉるて",
+  "collection": "【⚙️🎸歌切】[2026-07-11]你会来看我吗？新朋友也非常欢迎！轻松唱唱歌🎤🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daNN6WEwJ?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ワンドリンク別",
+  "artist": "マカロニえんぴつ",
+  "collection": "【⚙️🎸歌切】[2026-07-11]你会来看我吗？新朋友也非常欢迎！轻松唱唱歌🎤🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daNN6WEwJ?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ヤングアダルト",
+  "artist": "マカロニえんぴつ",
+  "collection": "【⚙️🎸歌切】[2026-07-11]你会来看我吗？新朋友也非常欢迎！轻松唱唱歌🎤🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daNN6WEwJ?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "備忘ロック",
+  "artist": "汐れいら",
+  "collection": "【⚙️🎸歌切】[2026-07-11]你会来看我吗？新朋友也非常欢迎！轻松唱唱歌🎤🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daNN6WEwJ?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "夏霞",
+  "artist": "あたらよ",
+  "collection": "【⚙️🎸歌切】[2026-07-11]你会来看我吗？新朋友也非常欢迎！轻松唱唱歌🎤🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daNN6WEwJ?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【⚙️🎸歌切】[2026-07-11]你会来看我吗？新朋友也非常欢迎！轻松唱唱歌🎤🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daNN6WEwJ?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "HELLO ～Paradise Kiss～",
+  "artist": "YUI",
+  "collection": "【⚙️🎸歌切】[2026-07-11]你会来看我吗？新朋友也非常欢迎！轻松唱唱歌🎤🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daNN6WEwJ?p=8",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO×米津玄師",
+  "collection": "【⚙️🎸歌切】[2026-07-11]你会来看我吗？新朋友也非常欢迎！轻松唱唱歌🎤🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daNN6WEwJ?p=9",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO×米津玄師",
+  "collection": "【⚙️🎸歌切】[2026-07-11]你会来看我吗？新朋友也非常欢迎！轻松唱唱歌🎤🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daNN6WEwJ?p=10",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "君がくれた夏",
+  "artist": "家入レオ",
+  "collection": "【⚙️🎸歌切】[2026-07-11]你会来看我吗？新朋友也非常欢迎！轻松唱唱歌🎤🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daNN6WEwJ?p=11",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "海の声",
+  "artist": "浦島太郎(桐谷健太)",
+  "collection": "【⚙️🎸歌切】[2026-07-11]你会来看我吗？新朋友也非常欢迎！轻松唱唱歌🎤🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daNN6WEwJ?p=12",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "森のくまさん",
+  "artist": "童謡・唱歌",
+  "collection": "【⚙️🎸歌切】[2026-07-11]你会来看我吗？新朋友也非常欢迎！轻松唱唱歌🎤🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daNN6WEwJ?p=13",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【⚙️🎸歌切】[2026-07-11]你会来看我吗？新朋友也非常欢迎！轻松唱唱歌🎤🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daNN6WEwJ?p=14",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【⚙️🎸歌切】[2026-07-11]你会来看我吗？新朋友也非常欢迎！轻松唱唱歌🎤🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1daNN6WEwJ?p=15",
   "source": "karakurinne.js"
 }
 );
