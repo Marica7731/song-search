@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/11/2026, 1:08:46 PM
+// 生成时间: 7/11/2026, 1:22:25 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -18059,6 +18059,350 @@ window.SONG_DATA.push(
   "collection": "五木つかさ歌切 2026-07-09 喜欢术力口的话，知道这首歌吗？？",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SeNc6iEiF?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "さよならメモリーズ",
+  "artist": "supercell",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "Ref:rain",
+  "artist": "Aimer",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ninelie",
+  "artist": "Aimer with chelly(EGOIST)",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "Re:pray",
+  "artist": "Aimer",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "Brave Shine",
+  "artist": "Aimer",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "コイワズライ",
+  "artist": "Aimer",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "ONE",
+  "artist": "Aimer",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "本能",
+  "artist": "椎名林檎",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "月に吠える",
+  "artist": "ヨルシカ",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "もののけ姫",
+  "artist": "米良美一",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI for 雨音薫",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "崖の上のポニョ",
+  "artist": "藤岡藤巻と大橋のぞみ",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "Girl",
+  "artist": "秦基博",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "Payphone",
+  "artist": "Maroon 5",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "Mad",
+  "artist": "Ne-Yo",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "Paris",
+  "artist": "The Chainsmokers",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "i'm so tired...",
+  "artist": "Lauv & Troye Sivan",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "Everything Goes On",
+  "artist": "Porter Robinson",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "Red",
+  "artist": "Taylor Swift",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "Listen",
+  "artist": "Beyoncé",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "California King Bed",
+  "artist": "Rihanna",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=32",
+  "source": "others.js"
+},
+    {
+  "title": "We Don't Talk Anymore",
+  "artist": "Charlie Puth feat. Selena Gomez",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=33",
+  "source": "others.js"
+},
+    {
+  "title": "All Too Well",
+  "artist": "Taylor Swift",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=34",
+  "source": "others.js"
+},
+    {
+  "title": "Love Story",
+  "artist": "Taylor Swift",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=35",
+  "source": "others.js"
+},
+    {
+  "title": "You Belong With Me",
+  "artist": "Taylor Swift",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=36",
+  "source": "others.js"
+},
+    {
+  "title": "Fly Me to the Moon (In Other Words)",
+  "artist": "Peggy Lee",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=37",
+  "source": "others.js"
+},
+    {
+  "title": "Don't Know Why",
+  "artist": "Norah Jones",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=38",
+  "source": "others.js"
+},
+    {
+  "title": "Change the World",
+  "artist": "Eric Clapton",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=39",
+  "source": "others.js"
+},
+    {
+  "title": "Tears in Heaven",
+  "artist": "Eric Clapton",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=40",
+  "source": "others.js"
+},
+    {
+  "title": "Let It Be",
+  "artist": "The Beatles",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=41",
+  "source": "others.js"
+},
+    {
+  "title": "A Thousand Years",
+  "artist": "Christina Perri",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=42",
+  "source": "others.js"
+},
+    {
+  "title": "A Thousand Miles",
+  "artist": "Vanessa Carlton",
+  "collection": "shin歌切 2026-07-09 我回来啦！歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KcNc6FEZm?p=43",
   "source": "others.js"
 },
     {

@@ -1,6 +1,6 @@
 // 山田シャロ - 歌单数据 (多合集汇总)
 // 来源: BV179L66pE1f
-// 生成时间: 7/11/2026, 12:54:24 PM
+// 生成时间: 7/11/2026, 1:03:06 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1307,6 +1307,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-03]动漫歌曲与术力口✨为你带来活力的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DHMw6VESA?p=13",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-10]深夜超燃🔥动漫歌曲歌回✨🎤 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13eNc6qEr5?p=1",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-10]深夜超燃🔥动漫歌曲歌回✨🎤 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13eNc6qEr5?p=2",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "未来形Answer",
+  "artist": "TRUSTRICK",
+  "collection": "【歌切】[2026-07-10]深夜超燃🔥动漫歌曲歌回✨🎤 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13eNc6qEr5?p=3",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "innocent promise",
+  "artist": "TRUSTRICK",
+  "collection": "【歌切】[2026-07-10]深夜超燃🔥动漫歌曲歌回✨🎤 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13eNc6qEr5?p=4",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Recall THE END",
+  "artist": "TRUSTRICK",
+  "collection": "【歌切】[2026-07-10]深夜超燃🔥动漫歌曲歌回✨🎤 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13eNc6qEr5?p=5",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ソワレ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-07-10]深夜超燃🔥动漫歌曲歌回✨🎤 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13eNc6qEr5?p=6",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Dancing in the velvet moon",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-07-10]深夜超燃🔥动漫歌曲歌回✨🎤 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13eNc6qEr5?p=7",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat. 初音ミク",
+  "collection": "【歌切】[2026-07-10]深夜超燃🔥动漫歌曲歌回✨🎤 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13eNc6qEr5?p=8",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-07-10]深夜超燃🔥动漫歌曲歌回✨🎤 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13eNc6qEr5?p=9",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ロストワンの号哭",
+  "artist": "Neru feat. 鏡音リン",
+  "collection": "【歌切】[2026-07-10]深夜超燃🔥动漫歌曲歌回✨🎤 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13eNc6qEr5?p=10",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "六兆年と一夜物語",
+  "artist": "kemu feat. IA",
+  "collection": "【歌切】[2026-07-10]深夜超燃🔥动漫歌曲歌回✨🎤 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13eNc6qEr5?p=11",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ビバハピ",
+  "artist": "Mitchie M feat. 初音ミク",
+  "collection": "【歌切】[2026-07-10]深夜超燃🔥动漫歌曲歌回✨🎤 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13eNc6qEr5?p=12",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "【歌切】[2026-07-10]深夜超燃🔥动漫歌曲歌回✨🎤 SHALO YAMADA -Vsinger-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13eNc6qEr5?p=13",
   "source": "yamadasharo.js"
 }
 );
