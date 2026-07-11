@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 7/11/2026, 1:14:12 PM
+// 生成时间: 7/11/2026, 1:23:09 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5763,6 +5763,134 @@ window.SONG_DATA.push(
   "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=15",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "I",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "トンツカタンタン",
+  "artist": "クレイジーウォウウォ!!",
+  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿ヒデノリ",
+  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ようこそジャパリパークへ",
+  "artist": "どうぶつビスケッツ×PPP",
+  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=6",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=7",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "君の恋人になったら",
+  "artist": "back number",
+  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=8",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "breakfast",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=9",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "BOW AND ARROW",
+  "artist": "米津玄師",
+  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=10",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "weeeek",
+  "artist": "NEWS",
+  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=11",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=12",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=13",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat. flower",
+  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=14",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=15",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Walking with you",
+  "artist": "Novelbright",
+  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=16",
   "source": "otomoneruki.js"
 }
 );
