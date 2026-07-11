@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 7/11/2026, 12:39:32 PM
+// 生成时间: 7/11/2026, 12:56:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2875,6 +2875,70 @@ window.SONG_DATA.push(
   "collection": "茨むあん联动歌切 MuaYuru歌回第2弹来啦✌",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1snMj6GEcA?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "アイのシナリオ",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "三日月ちゆる联动歌切 2026-07-10 与Else的初次合唱！✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGe?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n・中島愛",
+  "collection": "三日月ちゆる联动歌切 2026-07-10 与Else的初次合唱！✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGe?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "踊",
+  "artist": "Ado",
+  "collection": "三日月ちゆる联动歌切 2026-07-10 与Else的初次合唱！✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGe?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "三日月ちゆる联动歌切 2026-07-10 与Else的初次合唱！✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGe?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "三日月ちゆる联动歌切 2026-07-10 与Else的初次合唱！✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGe?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "三日月ちゆる联动歌切 2026-07-10 与Else的初次合唱！✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGe?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "daze",
+  "artist": "じん feat. メイリア from GARNiDELiA",
+  "collection": "三日月ちゆる联动歌切 2026-07-10 与Else的初次合唱！✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGe?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "三日月ちゆる联动歌切 2026-07-10 与Else的初次合唱！✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DeNc6iEGe?p=8",
   "source": "friends.js"
 }
 );
