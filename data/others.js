@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/11/2026, 5:50:18 PM
+// 生成时间: 7/11/2026, 6:00:56 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -18443,6 +18443,126 @@ window.SONG_DATA.push(
   "collection": "YuNi歌切 2026-07-11 唱人气动漫歌曲！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RaNN6WE69?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "あなた",
+  "artist": "宇多田ヒカル",
+  "collection": "雨海ルカ歌切 2026-07-11 这个时间的突击直播，绝不会被人发现！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aNN6sE2A?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "火種",
+  "artist": "キタニタツヤ",
+  "collection": "雨海ルカ歌切 2026-07-11 这个时间的突击直播，绝不会被人发现！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aNN6sE2A?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "雨海ルカ歌切 2026-07-11 这个时间的突击直播，绝不会被人发现！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aNN6sE2A?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "雨海ルカ歌切 2026-07-11 这个时间的突击直播，绝不会被人发现！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aNN6sE2A?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "雨海ルカ歌切 2026-07-11 这个时间的突击直播，绝不会被人发现！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aNN6sE2A?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "アイロニ",
+  "artist": "すこっぷ feat. 初音ミク",
+  "collection": "雨海ルカ歌切 2026-07-11 这个时间的突击直播，绝不会被人发现！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aNN6sE2A?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ブレーメン",
+  "artist": "ヨルシカ",
+  "collection": "雨海ルカ歌切 2026-07-11 这个时间的突击直播，绝不会被人发现！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aNN6sE2A?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "金曜日のおはよう",
+  "artist": "HoneyWorks feat. GUMI",
+  "collection": "雨海ルカ歌切 2026-07-11 这个时间的突击直播，绝不会被人发现！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aNN6sE2A?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん feat. IA",
+  "collection": "雨海ルカ歌切 2026-07-11 这个时间的突击直播，绝不会被人发现！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aNN6sE2A?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "モエチャッカファイア",
+  "artist": "弌誠",
+  "collection": "雨海ルカ歌切 2026-07-11 这个时间的突击直播，绝不会被人发现！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aNN6sE2A?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "アンノウン・マザーグース",
+  "artist": "wowaka feat. 初音ミク",
+  "collection": "雨海ルカ歌切 2026-07-11 这个时间的突击直播，绝不会被人发现！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aNN6sE2A?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "酔いどれ知らず",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "雨海ルカ歌切 2026-07-11 这个时间的突击直播，绝不会被人发现！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aNN6sE2A?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "天国",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "雨海ルカ歌切 2026-07-11 这个时间的突击直播，绝不会被人发现！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aNN6sE2A?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "雨とペトラ",
+  "artist": "バルーン feat. flower",
+  "collection": "雨海ルカ歌切 2026-07-11 这个时间的突击直播，绝不会被人发现！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aNN6sE2A?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "雨海ルカ歌切 2026-07-11 这个时间的突击直播，绝不会被人发现！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15aNN6sE2A?p=15",
   "source": "others.js"
 },
     {
