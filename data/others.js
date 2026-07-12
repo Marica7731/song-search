@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/12/2026, 12:20:26 AM
+// 生成时间: 7/12/2026, 12:43:21 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2715,46 +2715,6 @@ window.SONG_DATA.push(
   "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mv9JBBE1p?p=17",
-  "source": "others.js"
-},
-    {
-  "title": "レディメイド",
-  "artist": "Ado",
-  "collection": "【歌切】[2026-06-22]星期一固定歌回🎙 为了让这周也快乐起来而唱！欢迎新朋友 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qLj26iES2?p=8",
-  "source": "others.js"
-},
-    {
-  "title": "唱",
-  "artist": "Ado",
-  "collection": "【歌切】[2026-06-22]星期一固定歌回🎙 为了让这周也快乐起来而唱！欢迎新朋友 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qLj26iES2?p=9",
-  "source": "others.js"
-},
-    {
-  "title": "アポロ",
-  "artist": "ポルノグラフィティ",
-  "collection": "【歌切】[2026-06-22]星期一固定歌回🎙 为了让这周也快乐起来而唱！欢迎新朋友 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qLj26iES2?p=10",
-  "source": "others.js"
-},
-    {
-  "title": "ミュージック・アワー",
-  "artist": "ポルノグラフィティ",
-  "collection": "【歌切】[2026-06-22]星期一固定歌回🎙 为了让这周也快乐起来而唱！欢迎新朋友 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qLj26iES2?p=11",
-  "source": "others.js"
-},
-    {
-  "title": "あの夢をなぞって",
-  "artist": "YOASOBI",
-  "collection": "【歌切】[2026-06-22]星期一固定歌回🎙 为了让这周也快乐起来而唱！欢迎新朋友 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qLj26iES2?p=12",
   "source": "others.js"
 },
     {
@@ -11182,39 +11142,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "Calc.",
-  "artist": "ジミーサムP feat. 初音ミク",
-  "collection": "【歌切】[2025-05-31]有重大告知！唱大家喜欢的歌！ Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aeNc6qE67?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "ドレミファロンド",
-  "artist": "40mP feat. 初音ミク",
-  "collection": "【歌切】[2025-05-31]有重大告知！唱大家喜欢的歌！ Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aeNc6qE67?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "ゴシップ",
-  "artist": "OSTER project feat. 初音ミク",
-  "collection": "【歌切】[2025-05-31]有重大告知！唱大家喜欢的歌！ Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aeNc6qE67?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "群青",
-  "artist": "YOASOBI",
-  "collection": "【歌切】[2025-05-31]有重大告知！唱大家喜欢的歌！ Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aeNc6qE67?p=5",
-  "source": "others.js"
-},
-    {
-  "title": "アルジャーノン",
+  "title": "晴る",
   "artist": "ヨルシカ",
   "collection": "歌切 2026-06-14 Oto Ch. 透乃 おと 9753_AtOIQ4 🎤唱歌时是清纯少女✧*｡",
   "up": "前尘往事如昔故",
