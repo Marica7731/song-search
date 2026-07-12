@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 7/12/2026, 8:22:34 PM
+// 生成时间: 7/12/2026, 8:36:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1459,6 +1459,86 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-11]离生日Live只剩一周？！？！努力推票哦🍎🌟 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VoNP6EEbr?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-12]即将生日Live！初次见面的朋友也热烈欢迎！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxNG6rEtH?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "夏の半券",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-12]即将生日Live！初次见面的朋友也热烈欢迎！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxNG6rEtH?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "Fire◎Flower",
+  "artist": "halyosy feat. 鏡音レン",
+  "collection": "【歌切】[2026-07-12]即将生日Live！初次见面的朋友也热烈欢迎！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxNG6rEtH?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【歌切】[2026-07-12]即将生日Live！初次见面的朋友也热烈欢迎！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxNG6rEtH?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO×米津玄師",
+  "collection": "【歌切】[2026-07-12]即将生日Live！初次见面的朋友也热烈欢迎！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxNG6rEtH?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-12]即将生日Live！初次见面的朋友也热烈欢迎！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxNG6rEtH?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "SAYONARA MAYBE",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-07-12]即将生日Live！初次见面的朋友也热烈欢迎！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxNG6rEtH?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ハイド・アンド・シーク",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-07-12]即将生日Live！初次见面的朋友也热烈欢迎！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxNG6rEtH?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "INAZMA",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-07-12]即将生日Live！初次见面的朋友也热烈欢迎！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxNG6rEtH?p=9",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-12]即将生日Live！初次见面的朋友也热烈欢迎！🍎🌟 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxNG6rEtH?p=10",
   "source": "hinachibi.js"
 }
 );
