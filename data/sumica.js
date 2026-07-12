@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 7/12/2026, 8:37:48 PM
+// 生成时间: 7/12/2026, 8:52:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6091,6 +6091,142 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-07-11]稍微听一下吗？和木吉他一起悠闲地唱歌哦 𓈒𓏸︎︎︎︎￤澄花 / Puroburu -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VoNP6EEXT?p=22",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヒカレイノチ",
+  "artist": "Kitri",
+  "collection": "【💐🎸歌切】[2026-07-12]在悠闲舒适的周日，想送上令人舒心的音乐!!☀️￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvNG6vE94?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "Family Song",
+  "artist": "星野源",
+  "collection": "【💐🎸歌切】[2026-07-12]在悠闲舒适的周日，想送上令人舒心的音乐!!☀️￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvNG6vE94?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "back number",
+  "collection": "【💐🎸歌切】[2026-07-12]在悠闲舒适的周日，想送上令人舒心的音乐!!☀️￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvNG6vE94?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-12]在悠闲舒适的周日，想送上令人舒心的音乐!!☀️￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvNG6vE94?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-12]在悠闲舒适的周日，想送上令人舒心的音乐!!☀️￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvNG6vE94?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "ゼロのままでいられたら",
+  "artist": "Official髭男dism",
+  "collection": "【💐🎸歌切】[2026-07-12]在悠闲舒适的周日，想送上令人舒心的音乐!!☀️￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvNG6vE94?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "相思相愛",
+  "artist": "Official髭男dism",
+  "collection": "【💐🎸歌切】[2026-07-12]在悠闲舒适的周日，想送上令人舒心的音乐!!☀️￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvNG6vE94?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat. flower",
+  "collection": "【💐🎸歌切】[2026-07-12]在悠闲舒适的周日，想送上令人舒心的音乐!!☀️￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvNG6vE94?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【💐🎸歌切】[2026-07-12]在悠闲舒适的周日，想送上令人舒心的音乐!!☀️￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvNG6vE94?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat. GUMI",
+  "collection": "【💐🎸歌切】[2026-07-12]在悠闲舒适的周日，想送上令人舒心的音乐!!☀️￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvNG6vE94?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "コイワズライ",
+  "artist": "Aimer",
+  "collection": "【💐🎸歌切】[2026-07-12]在悠闲舒适的周日，想送上令人舒心的音乐!!☀️￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvNG6vE94?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヨンジュウナナ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【💐🎸歌切】[2026-07-12]在悠闲舒适的周日，想送上令人舒心的音乐!!☀️￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvNG6vE94?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "【💐🎸歌切】[2026-07-12]在悠闲舒适的周日，想送上令人舒心的音乐!!☀️￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvNG6vE94?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-12]在悠闲舒适的周日，想送上令人舒心的音乐!!☀️￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvNG6vE94?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "紡ぐ",
+  "artist": "とた",
+  "collection": "【💐🎸歌切】[2026-07-12]在悠闲舒适的周日，想送上令人舒心的音乐!!☀️￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvNG6vE94?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "右手のネイル",
+  "artist": "とた",
+  "collection": "【💐🎸歌切】[2026-07-12]在悠闲舒适的周日，想送上令人舒心的音乐!!☀️￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvNG6vE94?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "きにぴ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-07-12]在悠闲舒适的周日，想送上令人舒心的音乐!!☀️￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DvNG6vE94?p=17",
   "source": "sumica.js"
 }
 );

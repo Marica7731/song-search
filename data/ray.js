@@ -1,6 +1,6 @@
 // 來-Ray- - 歌单数据 (多合集汇总)
 // 来源: BV1mJZwB8EVa
-// 生成时间: 7/12/2026, 8:18:15 PM
+// 生成时间: 7/12/2026, 8:33:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4499,6 +4499,174 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-21]悠闲地唱歌吧 來-Ray-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yt7c69EsQ?p=26",
+  "source": "ray.js"
+},
+    {
+  "title": "Ditto",
+  "artist": "New Jeans",
+  "collection": "【歌切】[2026-07-12]本周歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15xNG6kEYJ?p=1",
+  "source": "ray.js"
+},
+    {
+  "title": "幽霊東京",
+  "artist": "Ayase feat. 初音ミク",
+  "collection": "【歌切】[2026-07-12]本周歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15xNG6kEYJ?p=2",
+  "source": "ray.js"
+},
+    {
+  "title": "Good Morning, Polar Night",
+  "artist": "yukkedoluce feat. 初音ミク",
+  "collection": "【歌切】[2026-07-12]本周歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15xNG6kEYJ?p=3",
+  "source": "ray.js"
+},
+    {
+  "title": "My Dearest",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-07-12]本周歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15xNG6kEYJ?p=4",
+  "source": "ray.js"
+},
+    {
+  "title": "リコレクションエンドロウル",
+  "artist": "ツミキ feat. 初音ミク",
+  "collection": "【歌切】[2026-07-12]本周歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15xNG6kEYJ?p=5",
+  "source": "ray.js"
+},
+    {
+  "title": "fix",
+  "artist": "keeno feat. 初音ミク",
+  "collection": "【歌切】[2026-07-12]本周歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15xNG6kEYJ?p=6",
+  "source": "ray.js"
+},
+    {
+  "title": "Strawberry",
+  "artist": "香椎モイミ feat. 初音ミク",
+  "collection": "【歌切】[2026-07-12]本周歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15xNG6kEYJ?p=7",
+  "source": "ray.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-07-12]本周歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15xNG6kEYJ?p=8",
+  "source": "ray.js"
+},
+    {
+  "title": "アウトサイダー",
+  "artist": "Eve",
+  "collection": "【歌切】[2026-07-12]本周歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15xNG6kEYJ?p=9",
+  "source": "ray.js"
+},
+    {
+  "title": "ガランド",
+  "artist": "ピコン feat. 初音ミク",
+  "collection": "【歌切】[2026-07-12]本周歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15xNG6kEYJ?p=10",
+  "source": "ray.js"
+},
+    {
+  "title": "フィクサー",
+  "artist": "ぬゆり feat. flower",
+  "collection": "【歌切】[2026-07-12]本周歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15xNG6kEYJ?p=11",
+  "source": "ray.js"
+},
+    {
+  "title": "侵蝕",
+  "artist": "niki feat. 星界",
+  "collection": "【歌切】[2026-07-12]本周歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15xNG6kEYJ?p=12",
+  "source": "ray.js"
+},
+    {
+  "title": "ディナーベル",
+  "artist": "はるまきごはん feat. 初音ミク",
+  "collection": "【歌切】[2026-07-12]本周歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15xNG6kEYJ?p=13",
+  "source": "ray.js"
+},
+    {
+  "title": "お呪い",
+  "artist": "なきそ feat. 花隈千冬",
+  "collection": "【歌切】[2026-07-12]本周歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15xNG6kEYJ?p=14",
+  "source": "ray.js"
+},
+    {
+  "title": "ガーネットの涙",
+  "artist": "香椎モイミ feat. KAITO",
+  "collection": "【歌切】[2026-07-12]本周歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15xNG6kEYJ?p=15",
+  "source": "ray.js"
+},
+    {
+  "title": "あの娘シークレット",
+  "artist": "Eve",
+  "collection": "【歌切】[2026-07-12]本周歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15xNG6kEYJ?p=16",
+  "source": "ray.js"
+},
+    {
+  "title": "帝国少女",
+  "artist": "R Sound Design feat. 初音ミク",
+  "collection": "【歌切】[2026-07-12]本周歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15xNG6kEYJ?p=17",
+  "source": "ray.js"
+},
+    {
+  "title": "drop pop candy",
+  "artist": "Giga feat. 鏡音リン・巡音ルカ",
+  "collection": "【歌切】[2026-07-12]本周歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15xNG6kEYJ?p=18",
+  "source": "ray.js"
+},
+    {
+  "title": "白ゆき",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【歌切】[2026-07-12]本周歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15xNG6kEYJ?p=19",
+  "source": "ray.js"
+},
+    {
+  "title": "Violeta",
+  "artist": "IZ*ONE",
+  "collection": "【歌切】[2026-07-12]本周歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15xNG6kEYJ?p=20",
+  "source": "ray.js"
+},
+    {
+  "title": "Magnetic",
+  "artist": "ILLIT",
+  "collection": "【歌切】[2026-07-12]本周歌回 來-Ray-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15xNG6kEYJ?p=21",
   "source": "ray.js"
 }
 );
