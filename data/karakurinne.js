@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 7/12/2026, 8:28:42 PM
+// 生成时间: 7/12/2026, 8:38:57 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1819,6 +1819,62 @@ window.SONG_DATA.push(
   "collection": "【⚙️🎸歌切】[2026-07-11]你会来看我吗？新朋友也非常欢迎！轻松唱唱歌🎤🎸 からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1daNN6WEwJ?p=15",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ラブホテル",
+  "artist": "クリープハイプ",
+  "collection": "【⚙️🎸歌切】[2026-07-12]在周日的尾声，今天也要精神十足地唱歌！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ixNG6rE8C?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat. IA",
+  "collection": "【⚙️🎸歌切】[2026-07-12]在周日的尾声，今天也要精神十足地唱歌！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ixNG6rE8C?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "イエスタデイ",
+  "artist": "Official髭男dism",
+  "collection": "【⚙️🎸歌切】[2026-07-12]在周日的尾声，今天也要精神十足地唱歌！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ixNG6rE8C?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "就寝御礼",
+  "artist": "PSYQUI",
+  "collection": "【⚙️🎸歌切】[2026-07-12]在周日的尾声，今天也要精神十足地唱歌！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ixNG6rE8C?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【⚙️🎸歌切】[2026-07-12]在周日的尾声，今天也要精神十足地唱歌！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ixNG6rE8C?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【⚙️🎸歌切】[2026-07-12]在周日的尾声，今天也要精神十足地唱歌！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ixNG6rE8C?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太 feat. 歌愛ユキ",
+  "collection": "【⚙️🎸歌切】[2026-07-12]在周日的尾声，今天也要精神十足地唱歌！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ixNG6rE8C?p=7",
   "source": "karakurinne.js"
 }
 );
