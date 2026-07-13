@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 7/13/2026, 9:14:54 PM
+// 生成时间: 7/13/2026, 9:30:09 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -723,6 +723,166 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-04]目标是300赞👍‼ 我来唱歌了！🎙 一色イズ ⟡ Isshiki_IS",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1goMu6vEhs?p=42",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-13]夏天啦！大哥！T.M.Revolution 限定啦——！🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1knND6bEQD?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ignited -イグナイテッド-",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-13]夏天啦！大哥！T.M.Revolution 限定啦——！🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1knND6bEQD?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "INVOKE -インヴォーク-",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-13]夏天啦！大哥！T.M.Revolution 限定啦——！🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1knND6bEQD?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Meteor -ミーティア-",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-13]夏天啦！大哥！T.M.Revolution 限定啦——！🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1knND6bEQD?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Zips",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-13]夏天啦！大哥！T.M.Revolution 限定啦——！🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1knND6bEQD?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "革命デュアリズム",
+  "artist": "水樹奈々×T.M.Revolution",
+  "collection": "【歌切】[2026-07-13]夏天啦！大哥！T.M.Revolution 限定啦——！🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1knND6bEQD?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "WHITE BREATH",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-13]夏天啦！大哥！T.M.Revolution 限定啦——！🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1knND6bEQD?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "WILD RUSH",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-13]夏天啦！大哥！T.M.Revolution 限定啦——！🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1knND6bEQD?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "FLAGS",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-13]夏天啦！大哥！T.M.Revolution 限定啦——！🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1knND6bEQD?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-13]夏天啦！大哥！T.M.Revolution 限定啦——！🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1knND6bEQD?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "魔弾 -Der Freischütz-",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-13]夏天啦！大哥！T.M.Revolution 限定啦——！🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1knND6bEQD?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "resonance",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-13]夏天啦！大哥！T.M.Revolution 限定啦——！🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1knND6bEQD?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "SWORD SUMMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-13]夏天啦！大哥！T.M.Revolution 限定啦——！🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1knND6bEQD?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Preserved Roses",
+  "artist": "T.M.Revolution×水樹奈々",
+  "collection": "【歌切】[2026-07-13]夏天啦！大哥！T.M.Revolution 限定啦——！🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1knND6bEQD?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "HIGH PRESSURE",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-13]夏天啦！大哥！T.M.Revolution 限定啦——！🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1knND6bEQD?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "HEART OF SWORD 〜夜明け前〜",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-13]夏天啦！大哥！T.M.Revolution 限定啦——！🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1knND6bEQD?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "LOVE SAVER",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-13]夏天啦！大哥！T.M.Revolution 限定啦——！🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1knND6bEQD?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "LEVEL 4",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-13]夏天啦！大哥！T.M.Revolution 限定啦——！🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1knND6bEQD?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Meteor -ミーティア-",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-13]夏天啦！大哥！T.M.Revolution 限定啦——！🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1knND6bEQD?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "INVOKE -インヴォーク-",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-13]夏天啦！大哥！T.M.Revolution 限定啦——！🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1knND6bEQD?p=20",
   "source": "isshikiizu.js"
 }
 );

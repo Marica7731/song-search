@@ -1,6 +1,6 @@
 // 323 - 歌单数据 (多合集汇总)
 // 来源: BV1r75B6LEwd
-// 生成时间: 7/13/2026, 9:01:37 PM
+// 生成时间: 7/13/2026, 9:19:32 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2667,6 +2667,70 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-09]初见◎BGM◎术力口限定献唱！！ 323",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UNNj6rEXo?p=14",
+  "source": "323.js"
+},
+    {
+  "title": "青い珊瑚礁",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-07-13]新观众◎背景音乐◎作为午饭时的陪伴怎么样？ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y7ND6hEqn?p=1",
+  "source": "323.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-13]新观众◎背景音乐◎作为午饭时的陪伴怎么样？ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y7ND6hEqn?p=2",
+  "source": "323.js"
+},
+    {
+  "title": "点描の唄",
+  "artist": "Mrs. GREEN APPLE feat.井上苑子",
+  "collection": "【歌切】[2026-07-13]新观众◎背景音乐◎作为午饭时的陪伴怎么样？ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y7ND6hEqn?p=3",
+  "source": "323.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat.初音ミク",
+  "collection": "【歌切】[2026-07-13]新观众◎背景音乐◎作为午饭时的陪伴怎么样？ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y7ND6hEqn?p=4",
+  "source": "323.js"
+},
+    {
+  "title": "残灯花火",
+  "artist": "Orangestar feat.初音ミク",
+  "collection": "【歌切】[2026-07-13]新观众◎背景音乐◎作为午饭时的陪伴怎么样？ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y7ND6hEqn?p=5",
+  "source": "323.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-07-13]新观众◎背景音乐◎作为午饭时的陪伴怎么样？ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y7ND6hEqn?p=6",
+  "source": "323.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat.巡音ルカ・GUMI",
+  "collection": "【歌切】[2026-07-13]新观众◎背景音乐◎作为午饭时的陪伴怎么样？ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y7ND6hEqn?p=7",
+  "source": "323.js"
+},
+    {
+  "title": "milkyTraveler!!",
+  "artist": "milkyTrap",
+  "collection": "【歌切】[2026-07-13]新观众◎背景音乐◎作为午饭时的陪伴怎么样？ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y7ND6hEqn?p=8",
   "source": "323.js"
 }
 );

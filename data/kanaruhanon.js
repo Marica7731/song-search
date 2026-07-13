@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 7/13/2026, 8:55:29 PM
+// 生成时间: 7/13/2026, 9:15:50 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1051,6 +1051,62 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-30]結婚2026 第二天──💍 Hanon Ch. 香鳴ハノン【パレプロ】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rMTe6nEiR?p=12",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Familia",
+  "artist": "sumika",
+  "collection": "【歌切】[2026-07-13]3D现场Live门票每卖出1张就得唱1首歌的残酷歌回！？ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C7ND6hESP?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "DISCOTHEQUE",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-07-13]3D现场Live门票每卖出1张就得唱1首歌的残酷歌回！？ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C7ND6hESP?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "U&I",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-07-13]3D现场Live门票每卖出1张就得唱1首歌的残酷歌回！？ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C7ND6hESP?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "眩耀夜行",
+  "artist": "スリーズブーケ",
+  "collection": "【歌切】[2026-07-13]3D现场Live门票每卖出1张就得唱1首歌的残酷歌回！？ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C7ND6hESP?p=4",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Color of Drops",
+  "artist": "MORE MORE JUMP！",
+  "collection": "【歌切】[2026-07-13]3D现场Live门票每卖出1张就得唱1首歌的残酷歌回！？ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C7ND6hESP?p=5",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "BANG YOU グラビティ",
+  "artist": "みらくらぱーく！",
+  "collection": "【歌切】[2026-07-13]3D现场Live门票每卖出1张就得唱1首歌的残酷歌回！？ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C7ND6hESP?p=6",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Fighting My Way",
+  "artist": "花海咲季",
+  "collection": "【歌切】[2026-07-13]3D现场Live门票每卖出1张就得唱1首歌的残酷歌回！？ Hanon Ch. 香鳴ハノン【パレプロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C7ND6hESP?p=7",
   "source": "kanaruhanon.js"
 }
 );
