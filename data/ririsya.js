@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 7/13/2026, 11:13:46 AM
+// 生成时间: 7/13/2026, 11:24:39 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -18043,6 +18043,110 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-07-06]听我唱歌 ✧ 来听听歌声吧～ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jXMs6pEti?p=29",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "【🐍歌切】[2026-07-13]10万订阅纪念3D演唱会 ✧ 新形象披露 & 重大发表 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TpNm6hEqM?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ヒステリックナイトガール",
+  "artist": "PSYQUI feat. Such",
+  "collection": "【🐍歌切】[2026-07-13]10万订阅纪念3D演唱会 ✧ 新形象披露 & 重大发表 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TpNm6hEqM?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "mosi mosi?",
+  "artist": "楽音",
+  "collection": "【🐍歌切】[2026-07-13]10万订阅纪念3D演唱会 ✧ 新形象披露 & 重大发表 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TpNm6hEqM?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "水星",
+  "artist": "tofubeats feat. オノマトペ大臣",
+  "collection": "【🐍歌切】[2026-07-13]10万订阅纪念3D演唱会 ✧ 新形象披露 & 重大发表 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TpNm6hEqM?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【🐍歌切】[2026-07-13]10万订阅纪念3D演唱会 ✧ 新形象披露 & 重大发表 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TpNm6hEqM?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-07-13]10万订阅纪念3D演唱会 ✧ 新形象披露 & 重大发表 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TpNm6hEqM?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "恋はスリル、ショック、サスペンス",
+  "artist": "愛内里菜",
+  "collection": "【🐍歌切】[2026-07-13]10万订阅纪念3D演唱会 ✧ 新形象披露 & 重大发表 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TpNm6hEqM?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス feat. 可不",
+  "collection": "【🐍歌切】[2026-07-13]10万订阅纪念3D演唱会 ✧ 新形象披露 & 重大发表 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TpNm6hEqM?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "パラレルナイト",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-07-13]10万订阅纪念3D演唱会 ✧ 新形象披露 & 重大发表 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TpNm6hEqM?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "【🐍歌切】[2026-07-13]10万订阅纪念3D演唱会 ✧ 新形象披露 & 重大发表 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TpNm6hEqM?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Departures ～あなたにおくるアイの歌～",
+  "artist": "EGOIST",
+  "collection": "【🐍歌切】[2026-07-13]10万订阅纪念3D演唱会 ✧ 新形象披露 & 重大发表 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TpNm6hEqM?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Re,Future",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-07-13]10万订阅纪念3D演唱会 ✧ 新形象披露 & 重大发表 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TpNm6hEqM?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "声の在処",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-07-13]10万订阅纪念3D演唱会 ✧ 新形象披露 & 重大发表 凛々咲 / Ririsya",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TpNm6hEqM?p=13",
   "source": "ririsya.js"
 }
 );
