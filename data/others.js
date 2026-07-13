@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/13/2026, 10:49:51 AM
+// 生成时间: 7/13/2026, 11:05:14 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1278,63 +1278,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "雨き声残響",
-  "artist": "Orangestar",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=8",
-  "source": "others.js"
-},
-    {
-  "title": "Heat Waves",
-  "artist": "Limet",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=9",
-  "source": "others.js"
-},
-    {
-  "title": "ルーマー",
-  "artist": "ポリスピカデリー",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=10",
-  "source": "others.js"
-},
-    {
-  "title": "いのちの名前",
-  "artist": "木村弓",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=11",
-  "source": "others.js"
-},
-    {
-  "title": "風になる",
-  "artist": "つじあやの",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=12",
-  "source": "others.js"
-},
-    {
-  "title": "アルビレオ",
-  "artist": "ロクデナシ",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=13",
-  "source": "others.js"
-},
-    {
-  "title": "ただ声一つ",
-  "artist": "ロクデナシ",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=14",
-  "source": "others.js"
-},
-    {
-  "title": "忘れてください",
+  "title": "アルジャーノン",
   "artist": "ヨルシカ",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
