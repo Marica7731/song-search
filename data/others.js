@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/13/2026, 8:50:43 PM
+// 生成时间: 7/13/2026, 9:08:15 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -18987,6 +18987,126 @@ window.SONG_DATA.push(
   "collection": "チョま歌切 2026-07-11 嗨喽，我是多声类（vsinger）！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hHNP6GEGC?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "Departures 〜あなたにおくるアイの歌〜",
+  "artist": "EGOIST",
+  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "ナブナ",
+  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "雫",
+  "artist": "スキマスイッチ",
+  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "ウィアートル",
+  "artist": "rionos",
+  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "楓",
+  "artist": "スピッツ",
+  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "光",
+  "artist": "宇多田ヒカル",
+  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "Stay Alive",
+  "artist": "エミリア(CV:高橋李依)",
+  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "by your side",
+  "artist": "小川大輝",
+  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "相思相愛",
+  "artist": "aiko",
+  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN",
+  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=15",
   "source": "others.js"
 },
     {

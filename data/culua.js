@@ -1,6 +1,6 @@
 // CULUA - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp
-// 生成时间: 7/13/2026, 8:46:59 PM
+// 生成时间: 7/13/2026, 9:03:47 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4131,6 +4131,86 @@ window.SONG_DATA.push(
   "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=11",
+  "source": "culua.js"
+},
+    {
+  "title": "ハロ/ハワユ",
+  "artist": "ナノウ",
+  "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=1",
+  "source": "culua.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=2",
+  "source": "culua.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=3",
+  "source": "culua.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=4",
+  "source": "culua.js"
+},
+    {
+  "title": "secret base 〜君がくれたもの〜",
+  "artist": "ZONE",
+  "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=5",
+  "source": "culua.js"
+},
+    {
+  "title": "心拍数♯0822",
+  "artist": "蝶々P",
+  "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=6",
+  "source": "culua.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=7",
+  "source": "culua.js"
+},
+    {
+  "title": "雛鳥",
+  "artist": "花譜",
+  "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=8",
+  "source": "culua.js"
+},
+    {
+  "title": "今はいいんだよ。",
+  "artist": "MIMI",
+  "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=9",
+  "source": "culua.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar",
+  "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=10",
   "source": "culua.js"
 }
 );
