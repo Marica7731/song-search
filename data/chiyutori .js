@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 7/14/2026, 10:06:27 PM
+// 生成时间: 7/14/2026, 10:25:26 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5443,6 +5443,478 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-06]23:45～ 频道订阅4777人耐久！在体力极限前快乐唱歌～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b7Ma68EJn?p=54",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=1",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=2",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "LAST STARDUST",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=3",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=4",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "革命道中 On The Way",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=5",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=6",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "オドループ",
+  "artist": "フレデリック",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=7",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ETERNAL WIND ～ほほえみは光る風の中～",
+  "artist": "森口博子",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=8",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "カントリー・ロード",
+  "artist": "本名陽子",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=9",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "時には昔の話を",
+  "artist": "加藤登紀子",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=10",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "抜錨",
+  "artist": "ナナホシ管弦楽団",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=11",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "YELL",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=12",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ココロオドル",
+  "artist": "nobodyknows+",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=13",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=14",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ウタカタララバイ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=15",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "蒼のエーテル",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=16",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "小さきもの",
+  "artist": "林明日香",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=17",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=18",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "天城越え",
+  "artist": "石川さゆり",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=19",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=20",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=21",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "糸",
+  "artist": "中島みゆき",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=22",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "貴方の恋人になりたい",
+  "artist": "チョーキューメイ",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=23",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "海の幽霊",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=24",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=25",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "いばら",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=26",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Timing～タイミング～",
+  "artist": "ブラック・ビスケッツ",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=27",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "尾崎豊",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=28",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=29",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "マツケンサンバⅡ",
+  "artist": "松平健",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=30",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=31",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "LOVE 2000",
+  "artist": "hitomi",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=32",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "人生は夢だらけ",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=33",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=34",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Sing my pleasure",
+  "artist": "ヴィヴィ (Vo.八木海莉)",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=35",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "天球、彗星は夜を跨いで",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=36",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ソワレ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=37",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=38",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "back number",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=39",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "覚醒",
+  "artist": "Superfly",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=40",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=41",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=42",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Don't say \"lazy\"",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=43",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=44",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=45",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師,宇多田ヒカル",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=46",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=47",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "夏に去りし君を想フ",
+  "artist": "baker feat.歌愛ユキ",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=48",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "シリョクケンサ",
+  "artist": "40mP feat.GUMI",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=49",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=50",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "Supercell",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=51",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Prisoner Of Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=52",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=53",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "射手座☆午後九時Don't be late",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=54",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=55",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=56",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Wherever you are",
+  "artist": "one ok rock",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=57",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "Just a game",
+  "artist": "takamatt feat.GUMI",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=58",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "世界はそれを愛と呼ぶんだぜ",
+  "artist": "サンボマスター",
+  "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=59",
   "source": "chiyutori .js"
 }
 );
