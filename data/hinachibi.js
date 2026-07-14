@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 7/14/2026, 9:08:52 PM
+// 生成时间: 7/14/2026, 9:27:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1539,6 +1539,86 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-12]即将生日Live！初次见面的朋友也热烈欢迎！🍎🌟 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RxNG6rEtH?p=10",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "プラトニック・ラヴ",
+  "artist": "メル feat.IA",
+  "collection": "【歌切】[2026-07-14]7/18的个人Live门票卖不出去就没法结束？！！请买票！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16DNh6TEr9?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-14]7/18的个人Live门票卖不出去就没法结束？！！请买票！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16DNh6TEr9?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-07-14]7/18的个人Live门票卖不出去就没法结束？！！请买票！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16DNh6TEr9?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-07-14]7/18的个人Live门票卖不出去就没法结束？！！请买票！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16DNh6TEr9?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "魔法少女とチョコレゐト",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "【歌切】[2026-07-14]7/18的个人Live门票卖不出去就没法结束？！！请买票！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16DNh6TEr9?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ラビットホール",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-07-14]7/18的个人Live门票卖不出去就没法结束？！！请买票！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16DNh6TEr9?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "天才ロック",
+  "artist": "カラスヤサボウ feat.鏡音リン",
+  "collection": "【歌切】[2026-07-14]7/18的个人Live门票卖不出去就没法结束？！！请买票！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16DNh6TEr9?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "幸せ。",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-07-14]7/18的个人Live门票卖不出去就没法结束？！！请买票！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16DNh6TEr9?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-07-14]7/18的个人Live门票卖不出去就没法结束？！！请买票！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16DNh6TEr9?p=9",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-07-14]7/18的个人Live门票卖不出去就没法结束？！！请买票！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16DNh6TEr9?p=10",
   "source": "hinachibi.js"
 }
 );
