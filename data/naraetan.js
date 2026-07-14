@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 7/14/2026, 9:31:24 PM
+// 生成时间: 7/14/2026, 9:48:44 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10611,6 +10611,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-07]哪怕只有一点点也想唱歌🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BpMv6XECU?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "鬼ノ宴",
+  "artist": "友成空",
+  "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "courage",
+  "artist": "戸松遥",
+  "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "departure!",
+  "artist": "小野正利",
+  "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "月並みに輝け",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "crossing field",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ハナノイロ",
+  "artist": "nano.RIPE",
+  "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愛♡スクリ～ム！",
+  "artist": "AiScReam",
+  "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=11",
   "source": "naraetan.js"
 },
     {
