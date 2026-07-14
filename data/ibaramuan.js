@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 7/14/2026, 2:05:49 AM
+// 生成时间: 7/14/2026, 2:22:08 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5095,7 +5095,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛言葉Ⅳ",
-  "artist": "DECO*27",
+  "artist": "DECO*27 feat.初音ミク",
   "collection": "【歌切】[2026-07-13]星期一固定档🎙唱术力口曲！欢迎新观众 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hE8k?p=1",
@@ -5103,7 +5103,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ブリキノダンス",
-  "artist": "日向電工",
+  "artist": "日向電工 feat.初音ミク",
   "collection": "【歌切】[2026-07-13]星期一固定档🎙唱术力口曲！欢迎新观众 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hE8k?p=2",
@@ -5111,7 +5111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サマータイムレコード",
-  "artist": "じん",
+  "artist": "じん feat.IA",
   "collection": "【歌切】[2026-07-13]星期一固定档🎙唱术力口曲！欢迎新观众 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hE8k?p=3",
@@ -5119,7 +5119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エゴロック",
-  "artist": "すりぃ",
+  "artist": "すりぃ feat.鏡音レン",
   "collection": "【歌切】[2026-07-13]星期一固定档🎙唱术力口曲！欢迎新观众 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hE8k?p=4",
@@ -5127,7 +5127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "チルドレンレコード",
-  "artist": "じん",
+  "artist": "じん feat.IA",
   "collection": "【歌切】[2026-07-13]星期一固定档🎙唱术力口曲！欢迎新观众 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hE8k?p=5",
@@ -5135,7 +5135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "天樂 -双響-",
-  "artist": "ゆうゆ",
+  "artist": "ゆうゆ feat.鏡音リン・鏡音レン",
   "collection": "【歌切】[2026-07-13]星期一固定档🎙唱术力口曲！欢迎新观众 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hE8k?p=6",
@@ -5143,7 +5143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "マカロン",
-  "artist": "ATOLS",
+  "artist": "ATOLS feat.初音ミク",
   "collection": "【歌切】[2026-07-13]星期一固定档🎙唱术力口曲！欢迎新观众 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hE8k?p=7",
@@ -5151,7 +5151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "プロポーズ",
-  "artist": "内緒のピアス",
+  "artist": "内緒のピアス feat.可不",
   "collection": "【歌切】[2026-07-13]星期一固定档🎙唱术力口曲！欢迎新观众 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hE8k?p=8",
@@ -5159,7 +5159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ラプラスショコラ",
-  "artist": "Kai",
+  "artist": "Kai feat.初音ミク",
   "collection": "【歌切】[2026-07-13]星期一固定档🎙唱术力口曲！欢迎新观众 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hE8k?p=9",
@@ -5167,7 +5167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "初めての恋が終わる時",
-  "artist": "ryo",
+  "artist": "ryo(supercell) feat.初音ミク",
   "collection": "【歌切】[2026-07-13]星期一固定档🎙唱术力口曲！欢迎新观众 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hE8k?p=10",
@@ -5175,7 +5175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "曖昧劣情Lover",
-  "artist": "電ポルP",
+  "artist": "電ポルP feat.GUMI",
   "collection": "【歌切】[2026-07-13]星期一定期🎙唱术力口歌曲！2 欢迎新人 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hEMh?p=1",
@@ -5183,7 +5183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "虎視眈々",
-  "artist": "梅とら",
+  "artist": "梅とら feat.巡音ルカ・初音ミク・GUMI・IA・鏡音リン",
   "collection": "【歌切】[2026-07-13]星期一定期🎙唱术力口歌曲！2 欢迎新人 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hEMh?p=2",
@@ -5191,7 +5191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Dear",
-  "artist": "19's Sound Factory",
+  "artist": "19's Sound Factory feat.初音ミク",
   "collection": "【歌切】[2026-07-13]星期一定期🎙唱术力口歌曲！2 欢迎新人 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hEMh?p=3",
@@ -5199,7 +5199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夏の半券",
-  "artist": "みきとP",
+  "artist": "みきとP feat.初音ミク",
   "collection": "【歌切】[2026-07-13]星期一定期🎙唱术力口歌曲！2 欢迎新人 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hEMh?p=4",
@@ -5207,7 +5207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "独りんぼエンヴィー",
-  "artist": "電ポルP",
+  "artist": "電ポルP feat.初音ミク",
   "collection": "【歌切】[2026-07-13]星期一定期🎙唱术力口歌曲！2 欢迎新人 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hEMh?p=5",
@@ -5215,7 +5215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "迷々",
-  "artist": "カラスヤサボウ",
+  "artist": "カラスヤサボウ feat.鏡音リン",
   "collection": "【歌切】[2026-07-13]星期一定期🎙唱术力口歌曲！2 欢迎新人 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hEMh?p=6",
@@ -5223,7 +5223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "コールボーイ",
-  "artist": "syudou",
+  "artist": "syudou feat.初音ミク",
   "collection": "【歌切】[2026-07-13]星期一定期🎙唱术力口歌曲！2 欢迎新人 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hEMh?p=7",
@@ -5231,7 +5231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シャンティ",
-  "artist": "wotaku",
+  "artist": "wotaku feat.KAITO",
   "collection": "【歌切】[2026-07-13]星期一定期🎙唱术力口歌曲！2 欢迎新人 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hEMh?p=8",
@@ -5239,7 +5239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エバ",
-  "artist": "柊キライ",
+  "artist": "柊キライ feat.flower",
   "collection": "【歌切】[2026-07-13]星期一定期🎙唱术力口歌曲！2 欢迎新人 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hEMh?p=9",
@@ -5247,7 +5247,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ボッカデラベリタ",
-  "artist": "柊キライ",
+  "artist": "柊キライ feat.flower",
   "collection": "【歌切】[2026-07-13]星期一定期🎙唱术力口歌曲！2 欢迎新人 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hEMh?p=10",
@@ -5255,7 +5255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "あなぐらぐらし",
-  "artist": "きくお",
+  "artist": "きくお feat.初音ミク",
   "collection": "【歌切】[2026-07-13]星期一定期🎙唱术力口歌曲！2 欢迎新人 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hEMh?p=11",
@@ -5263,7 +5263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ジェヘナ",
-  "artist": "wotaku",
+  "artist": "wotaku feat.初音ミク",
   "collection": "【歌切】[2026-07-13]星期一定期🎙唱术力口歌曲！2 欢迎新人 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hEMh?p=12",
@@ -5271,7 +5271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "テオ",
-  "artist": "Omoi",
+  "artist": "Omoi feat.初音ミク",
   "collection": "【歌切】[2026-07-13]星期一定期🎙唱术力口歌曲！2 欢迎新人 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hEMh?p=13",
