@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 7/14/2026, 9:34:16 PM
+// 生成时间: 7/14/2026, 9:43:15 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2939,6 +2939,70 @@ window.SONG_DATA.push(
   "collection": "三日月ちゆる联动歌切 2026-07-10 与Else的初次合唱！✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DeNc6iEGe?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ",
+  "collection": "七海うらら*歌channel联动歌切 2026-07-14 与稀羽Suu酱的工作室联动歌回，七海Urala首次Zepp纪念！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEdE?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン",
+  "collection": "七海うらら*歌channel联动歌切 2026-07-14 与稀羽Suu酱的工作室联动歌回，七海Urala首次Zepp纪念！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEdE?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "七海うらら*歌channel联动歌切 2026-07-14 与稀羽Suu酱的工作室联动歌回，七海Urala首次Zepp纪念！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEdE?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "Starry night",
+  "artist": "稀羽すう",
+  "collection": "七海うらら*歌channel联动歌切 2026-07-14 与稀羽Suu酱的工作室联动歌回，七海Urala首次Zepp纪念！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEdE?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "それはうららか？",
+  "artist": "七海うらら",
+  "collection": "七海うらら*歌channel联动歌切 2026-07-14 与稀羽Suu酱的工作室联动歌回，七海Urala首次Zepp纪念！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEdE?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "七海うらら*歌channel联动歌切 2026-07-14 与稀羽Suu酱的工作室联动歌回，七海Urala首次Zepp纪念！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEdE?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "七海うらら*歌channel联动歌切 2026-07-14 与稀羽Suu酱的工作室联动歌回，七海Urala首次Zepp纪念！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEdE?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "七海うらら*歌channel联动歌切 2026-07-14 与稀羽Suu酱的工作室联动歌回，七海Urala首次Zepp纪念！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEdE?p=8",
   "source": "friends.js"
 }
 );
