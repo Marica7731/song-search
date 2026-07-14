@@ -1,6 +1,6 @@
 // CULUA - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp
-// 生成时间: 7/14/2026, 2:02:27 AM
+// 生成时间: 7/14/2026, 2:09:29 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4135,7 +4135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハロ/ハワユ",
-  "artist": "ナノウ",
+  "artist": "ナノウ feat.初音ミク",
   "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=1",
@@ -4175,7 +4175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "心拍数♯0822",
-  "artist": "蝶々P",
+  "artist": "蝶々P feat.初音ミク",
   "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=6",
@@ -4199,7 +4199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "今はいいんだよ。",
-  "artist": "MIMI",
+  "artist": "MIMI feat.可不",
   "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=9",
@@ -4207,7 +4207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "回る空うさぎ",
-  "artist": "Orangestar",
+  "artist": "Orangestar feat.初音ミク",
   "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=10",
