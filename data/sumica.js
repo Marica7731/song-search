@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 7/14/2026, 9:16:35 PM
+// 生成时间: 7/14/2026, 9:30:34 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6227,6 +6227,150 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-07-12]在悠闲舒适的周日，想送上令人舒心的音乐!!☀️￤澄花 / ぷろぶる -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DvNG6vE94?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "永遠のあくる日",
+  "artist": "Ado",
+  "collection": "【💐🎸歌切】[2026-07-14]☾ 原声吉他 ☽让你稍微喜欢上今夜的弹唱⟡.*￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEmK?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "Burning",
+  "artist": "羊文学",
+  "collection": "【💐🎸歌切】[2026-07-14]☾ 原声吉他 ☽让你稍微喜欢上今夜的弹唱⟡.*￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEmK?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "愛着",
+  "artist": "My Hair is Bad",
+  "collection": "【💐🎸歌切】[2026-07-14]☾ 原声吉他 ☽让你稍微喜欢上今夜的弹唱⟡.*￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEmK?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "幸せが溢れたら",
+  "artist": "indigo la End",
+  "collection": "【💐🎸歌切】[2026-07-14]☾ 原声吉他 ☽让你稍微喜欢上今夜的弹唱⟡.*￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEmK?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "花瓶の花",
+  "artist": "石崎ひゅーい",
+  "collection": "【💐🎸歌切】[2026-07-14]☾ 原声吉他 ☽让你稍微喜欢上今夜的弹唱⟡.*￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEmK?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "Swallowtail Butterfly 〜あいのうた〜",
+  "artist": "YEN TOWN BAND",
+  "collection": "【💐🎸歌切】[2026-07-14]☾ 原声吉他 ☽让你稍微喜欢上今夜的弹唱⟡.*￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEmK?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "リンジュー・ラヴ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【💐🎸歌切】[2026-07-14]☾ 原声吉他 ☽让你稍微喜欢上今夜的弹唱⟡.*￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEmK?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "クラウン新車で買ってあげる",
+  "artist": "amazarashi",
+  "collection": "【💐🎸歌切】[2026-07-14]☾ 原声吉他 ☽让你稍微喜欢上今夜的弹唱⟡.*￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEmK?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "キミソラキセキ",
+  "artist": "EGOIST",
+  "collection": "【💐🎸歌切】[2026-07-14]☾ 原声吉他 ☽让你稍微喜欢上今夜的弹唱⟡.*￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEmK?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "ハチミツ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-07-14]☾ 原声吉他 ☽让你稍微喜欢上今夜的弹唱⟡.*￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEmK?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat.初音ミク",
+  "collection": "【💐🎸歌切】[2026-07-14]☾ 原声吉他 ☽让你稍微喜欢上今夜的弹唱⟡.*￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEmK?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "Distance",
+  "artist": "宇多田ヒカル",
+  "collection": "【💐🎸歌切】[2026-07-14]☾ 原声吉他 ☽让你稍微喜欢上今夜的弹唱⟡.*￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEmK?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "traveling",
+  "artist": "宇多田ヒカル",
+  "collection": "【💐🎸歌切】[2026-07-14]☾ 原声吉他 ☽让你稍微喜欢上今夜的弹唱⟡.*￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEmK?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "シリウスの心臓",
+  "artist": "ヰ世界情緒",
+  "collection": "【💐🎸歌切】[2026-07-14]☾ 原声吉他 ☽让你稍微喜欢上今夜的弹唱⟡.*￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEmK?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "眼差し",
+  "artist": "ロクデナシ",
+  "collection": "【💐🎸歌切】[2026-07-14]☾ 原声吉他 ☽让你稍微喜欢上今夜的弹唱⟡.*￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEmK?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "残ってる",
+  "artist": "吉澤嘉代子",
+  "collection": "【💐🎸歌切】[2026-07-14]☾ 原声吉他 ☽让你稍微喜欢上今夜的弹唱⟡.*￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEmK?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "ナイトルーティーン",
+  "artist": "キタニタツヤ",
+  "collection": "【💐🎸歌切】[2026-07-14]☾ 原声吉他 ☽让你稍微喜欢上今夜的弹唱⟡.*￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEmK?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "焦がれ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-07-14]☾ 原声吉他 ☽让你稍微喜欢上今夜的弹唱⟡.*￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zDNh6TEmK?p=18",
   "source": "sumica.js"
 }
 );
