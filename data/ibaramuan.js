@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 7/14/2026, 10:13:55 PM
+// 生成时间: 7/14/2026, 10:30:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5275,6 +5275,166 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-13]星期一定期🎙唱术力口歌曲！2 欢迎新人 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hEMh?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat. IA",
+  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ハロ／ハワユ",
+  "artist": "ナノウ feat. 初音ミク",
+  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "六兆年と一夜物語",
+  "artist": "kemu feat. IA",
+  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "月のしずく",
+  "artist": "RUI",
+  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "メトロノーム",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "輝く未来",
+  "artist": "小此木麻里・畠中洋",
+  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アイロニ",
+  "artist": "すこっぷ feat. 初音ミク",
+  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "夢町コントラスト",
+  "artist": "koyori(電ポルP) feat. 初音ミク",
+  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Arrietty's Song",
+  "artist": "Cécile Corbel",
+  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "また、脆い夢を見てた",
+  "artist": "茨むあん",
+  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "プラネタリウムの真実",
+  "artist": "夏代孝明",
+  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "たぶん",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "さよならの夏～コクリコ坂から～",
+  "artist": "手嶌葵",
+  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=20",
   "source": "ibaramuan.js"
 }
 );
