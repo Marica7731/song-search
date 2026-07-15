@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 7/15/2026, 7:27:26 PM
+// 生成时间: 7/15/2026, 7:46:45 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21675,6 +21675,78 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-07-11]周六下午再见 稀羽すう - Suu Usuwa -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k9Nc6XEHd?p=15",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-07-15]超重大告知，还要唱歌。 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14vN66uEA6?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "NIGHT DANCER",
+  "artist": "imase",
+  "collection": "【🦢歌切】[2026-07-15]超重大告知，还要唱歌。 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14vN66uEA6?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "【🦢歌切】[2026-07-15]超重大告知，还要唱歌。 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14vN66uEA6?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【🦢歌切】[2026-07-15]超重大告知，还要唱歌。 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14vN66uEA6?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Ready To Party",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-07-15]超重大告知，还要唱歌。 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14vN66uEA6?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Burning Friday Night",
+  "artist": "Lucky Kilimanjaro",
+  "collection": "【🦢歌切】[2026-07-15]超重大告知，还要唱歌。 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14vN66uEA6?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "きらきら武士",
+  "artist": "レキシ",
+  "collection": "【🦢歌切】[2026-07-15]超重大告知，还要唱歌。 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14vN66uEA6?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "らしく。",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-07-15]超重大告知，还要唱歌。 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14vN66uEA6?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【🦢歌切】[2026-07-15]超重大告知，还要唱歌。 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14vN66uEA6?p=9",
   "source": "suu_usuwa.js"
 }
 );
