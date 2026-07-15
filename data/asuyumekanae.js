@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 7/15/2026, 9:14:34 PM
+// 生成时间: 7/15/2026, 9:25:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4782,7 +4782,7 @@ window.SONG_DATA.push(
   "source": "asuyumekanae.js"
 },
     {
-  "title": "生きていたんだよなない",
+  "title": "生きていたんだよな",
   "artist": "あいみょん",
   "collection": "【明日夢🎸弾き語り歌切】[2025-08-16]夜晚才刚刚开始[bR8bP6HBSc4]",
   "up": "前尘往事如昔故",
