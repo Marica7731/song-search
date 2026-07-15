@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/15/2026, 8:42:36 PM
+// 生成时间: 7/15/2026, 9:00:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5435,6 +5435,430 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "ヴィラン",
+  "artist": "てにをは feat.v flower",
+  "collection": "XIDEN歌切 2026-07-14 听，歌声轻柔弥漫耳畔",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tYN666EHV?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "夜のピエロ",
+  "artist": "Ado",
+  "collection": "XIDEN歌切 2026-07-14 听，歌声轻柔弥漫耳畔",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tYN666EHV?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "XIDEN歌切 2026-07-14 听，歌声轻柔弥漫耳畔",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tYN666EHV?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat.flower",
+  "collection": "XIDEN歌切 2026-07-14 听，歌声轻柔弥漫耳畔",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tYN666EHV?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "The Everlasting Guilty Crown",
+  "artist": "EGOIST",
+  "collection": "XIDEN歌切 2026-07-14 听，歌声轻柔弥漫耳畔",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tYN666EHV?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "XIDEN歌切 2026-07-14 听，歌声轻柔弥漫耳畔",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tYN666EHV?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "give it back",
+  "artist": "Co shu Nie",
+  "collection": "XIDEN歌切 2026-07-14 听，歌声轻柔弥漫耳畔",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tYN666EHV?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "Wherever you are",
+  "artist": "ONE OK ROCK",
+  "collection": "XIDEN歌切 2026-07-14 听，歌声轻柔弥漫耳畔",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tYN666EHV?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "クリーム",
+  "artist": "yama",
+  "collection": "XIDEN歌切 2026-07-14 听，歌声轻柔弥漫耳畔",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tYN666EHV?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "XIDEN歌切 2026-07-14 听，歌声轻柔弥漫耳畔",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tYN666EHV?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "情熱",
+  "artist": "UA",
+  "collection": "XIDEN歌切 2026-07-14 听，歌声轻柔弥漫耳畔",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tYN666EHV?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "XIDEN歌切 2026-07-14 听，歌声轻柔弥漫耳畔",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tYN666EHV?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "高鳴る",
+  "artist": "藤田麻衣子",
+  "collection": "XIDEN歌切 2026-07-14 听，歌声轻柔弥漫耳畔",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tYN666EHV?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "金木犀",
+  "artist": "くじら",
+  "collection": "XIDEN歌切 2026-07-14 听，歌声轻柔弥漫耳畔",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tYN666EHV?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "まつり",
+  "artist": "藤井風",
+  "collection": "XIDEN歌切 2026-07-14 听，歌声轻柔弥漫耳畔",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tYN666EHV?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "きらり",
+  "artist": "藤井風",
+  "collection": "XIDEN歌切 2026-07-14 听，歌声轻柔弥漫耳畔",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tYN666EHV?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "XIDEN歌切 2026-07-14 听，歌声轻柔弥漫耳畔",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tYN666EHV?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki",
+  "collection": "XIDEN歌切 2026-07-14 听，歌声轻柔弥漫耳畔",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tYN666EHV?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "心という名の不可解",
+  "artist": "Ado",
+  "collection": "XIDEN歌切 2026-07-14 听，歌声轻柔弥漫耳畔",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tYN666EHV?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "XIDEN歌切 2026-07-14 听，歌声轻柔弥漫耳畔",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tYN666EHV?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "ERROR",
+  "artist": "niki feat.Lily",
+  "collection": "XIDEN歌切 2026-07-14 听，歌声轻柔弥漫耳畔",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tYN666EHV?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "glow",
+  "artist": "keeno feat.初音ミク",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "雨き声残響",
+  "artist": "Orangestar feat.IA",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "letter song -Piano Ver.-",
+  "artist": "doriko feat.初音ミク",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "夕日坂 -Piano Ver.-",
+  "artist": "doriko feat.初音ミク",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "夏恋花火",
+  "artist": "40mP feat.シャノ",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "チノカテ",
+  "artist": "ヨルシカ",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "春に一番近い街",
+  "artist": "40mP feat.GUMI",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "恋空予報",
+  "artist": "電ポルP feat.GUMI",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "ぎゅっと。",
+  "artist": "もさを。",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "イフ",
+  "artist": "ユリイ・カノン feat.初音ミク",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat.初音ミク",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "初めての恋が終わる時",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "アイロニ",
+  "artist": "すこっぷ feat.初音ミク",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "すれすれ",
+  "artist": "すこっぷ feat.初音ミク",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "限りなく灰色へ",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "からくりピエロ -Piano Ver.-",
+  "artist": "40mP feat.初音ミク",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "あの夏のいつかは",
+  "artist": "*Luna feat.音街ウナ・Rana",
+  "collection": "藤宮コトハ歌切 2026-07-13 深夜歌回！！浴衣的季节～♪♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YN666EuX?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "ファム・ファタル - (f)EMME FATALE歌切 2026-07-12 带来令人开心的重大告知的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xYN666EpL?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "僕は初音ミクとキスをした",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "ファム・ファタル - (f)EMME FATALE歌切 2026-07-12 带来令人开心的重大告知的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xYN666EpL?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ノーダウト",
+  "artist": "Official髭男dism",
+  "collection": "ファム・ファタル - (f)EMME FATALE歌切 2026-07-12 带来令人开心的重大告知的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xYN666EpL?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "ファム・ファタル - (f)EMME FATALE歌切 2026-07-12 带来令人开心的重大告知的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xYN666EpL?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "Value",
+  "artist": "Ado",
+  "collection": "ファム・ファタル - (f)EMME FATALE歌切 2026-07-12 带来令人开心的重大告知的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xYN666EpL?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ルーマー",
+  "artist": "ポリスピカデリー feat.GUMI",
+  "collection": "ファム・ファタル - (f)EMME FATALE歌切 2026-07-12 带来令人开心的重大告知的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xYN666EpL?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "White Tiger",
+  "artist": "Izzy Bizu",
+  "collection": "ファム・ファタル - (f)EMME FATALE歌切 2026-07-12 带来令人开心的重大告知的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xYN666EpL?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "How Far I'll Go",
+  "artist": "Auli'i Cravalho",
+  "collection": "ファム・ファタル - (f)EMME FATALE歌切 2026-07-12 带来令人开心的重大告知的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xYN666EpL?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "BANG BANG",
+  "artist": "IVE",
+  "collection": "ファム・ファタル - (f)EMME FATALE歌切 2026-07-12 带来令人开心的重大告知的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xYN666EpL?p=9",
   "source": "others.js"
 },
     {
