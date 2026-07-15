@@ -1,6 +1,6 @@
 // CULUA - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp
-// 生成时间: 7/15/2026, 7:26:30 PM
+// 生成时间: 7/15/2026, 7:45:15 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4211,6 +4211,70 @@ window.SONG_DATA.push(
   "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=10",
+  "source": "culua.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN feat.鏡音リン",
+  "collection": "【🦇歌切】[2025-12-22]时尚的｜舒缓歌单第19弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mYN666EWU?p=1",
+  "source": "culua.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【🦇歌切】[2025-12-22]时尚的｜舒缓歌单第19弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mYN666EWU?p=2",
+  "source": "culua.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【🦇歌切】[2025-12-22]时尚的｜舒缓歌单第19弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mYN666EWU?p=3",
+  "source": "culua.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "【🦇歌切】[2025-12-22]时尚的｜舒缓歌单第19弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mYN666EWU?p=4",
+  "source": "culua.js"
+},
+    {
+  "title": "One Last Kiss",
+  "artist": "宇多田ヒカル",
+  "collection": "【🦇歌切】[2025-12-22]时尚的｜舒缓歌单第19弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mYN666EWU?p=5",
+  "source": "culua.js"
+},
+    {
+  "title": "二時間だけのバカンス",
+  "artist": "宇多田ヒカル feat.椎名林檎",
+  "collection": "【🦇歌切】[2025-12-22]时尚的｜舒缓歌单第19弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mYN666EWU?p=6",
+  "source": "culua.js"
+},
+    {
+  "title": "Can You Keep A Secret?",
+  "artist": "宇多田ヒカル",
+  "collection": "【🦇歌切】[2025-12-22]时尚的｜舒缓歌单第19弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mYN666EWU?p=7",
+  "source": "culua.js"
+},
+    {
+  "title": "Automatic",
+  "artist": "宇多田ヒカル",
+  "collection": "【🦇歌切】[2025-12-22]时尚的｜舒缓歌单第19弹 CULUA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mYN666EWU?p=8",
   "source": "culua.js"
 }
 );

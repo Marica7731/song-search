@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 7/15/2026, 7:17:41 PM
+// 生成时间: 7/15/2026, 7:36:01 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1619,6 +1619,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-14]7/18的个人Live门票卖不出去就没法结束？！！请买票！！ 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEr9?p=10",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ヒステリックナイトガール",
+  "artist": "Such",
+  "collection": "【歌切】[2026-07-15]星期六的生日演唱会前最后一次直播！！听说门票购买到17号截止！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mvN66uEFL?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "シル・ヴ・プレジデント",
+  "artist": "P丸様。",
+  "collection": "【歌切】[2026-07-15]星期六的生日演唱会前最后一次直播！！听说门票购买到17号截止！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mvN66uEFL?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "二息歩行",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-07-15]星期六的生日演唱会前最后一次直播！！听说门票购买到17号截止！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mvN66uEFL?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "踊楽園",
+  "artist": "CLAN QUEEN",
+  "collection": "【歌切】[2026-07-15]星期六的生日演唱会前最后一次直播！！听说门票购买到17号截止！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mvN66uEFL?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "求世主",
+  "artist": "CLAN QUEEN",
+  "collection": "【歌切】[2026-07-15]星期六的生日演唱会前最后一次直播！！听说门票购买到17号截止！！ 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mvN66uEFL?p=5",
   "source": "hinachibi.js"
 }
 );
