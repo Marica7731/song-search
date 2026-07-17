@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 7/17/2026, 7:23:02 PM
+// 生成时间: 7/17/2026, 7:31:40 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -33027,6 +33027,134 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】#275[2026-07-12]睡眠导入歌回✨安眠前的陪伴🌙 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vxNG6rECZ?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【💐歌切】[2026-07-17]歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D5No6oEMY?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-07-17]歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D5No6oEMY?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-07-17]歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D5No6oEMY?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "心に穴が空いた",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-07-17]歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D5No6oEMY?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【💐歌切】[2026-07-17]歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D5No6oEMY?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "【💐歌切】[2026-07-17]歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D5No6oEMY?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【💐歌切】[2026-07-17]歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D5No6oEMY?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "Sunny Wave",
+  "artist": "GYARI",
+  "collection": "【💐歌切】[2026-07-17]歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D5No6oEMY?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "Surges",
+  "artist": "Orangestar feat.IA",
+  "collection": "【💐歌切】[2026-07-17]歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D5No6oEMY?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "【💐歌切】[2026-07-17]歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D5No6oEMY?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-07-17]歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D5No6oEMY?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "JET",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "【💐歌切】[2026-07-17]歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D5No6oEMY?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【💐歌切】[2026-07-17]歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D5No6oEMY?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "【💐歌切】[2026-07-17]歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D5No6oEMY?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【💐歌切】[2026-07-17]歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D5No6oEMY?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "神っぽいな",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "【💐歌切】[2026-07-17]歌回 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1D5No6oEMY?p=16",
   "source": "figaro.js"
 }
 );
