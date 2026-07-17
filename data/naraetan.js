@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 7/17/2026, 5:19:44 PM
+// 生成时间: 7/17/2026, 5:30:53 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10699,6 +10699,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夏色",
+  "artist": "ゆず",
+  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ブルーウォーター",
+  "artist": "森川美穂",
+  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夏の在りか",
+  "artist": "H△G",
+  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "サウダージ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夏の幻",
+  "artist": "GARNET CROW",
+  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "Whiteberry",
+  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "前前前世",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "you",
+  "artist": "癒月",
+  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夏影",
+  "artist": "Lia",
+  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "時を刻む唄",
+  "artist": "Lia",
+  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=13",
   "source": "naraetan.js"
 },
     {

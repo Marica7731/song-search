@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 7/17/2026, 5:17:18 PM
+// 生成时间: 7/17/2026, 5:27:35 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4555,6 +4555,182 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-07-11]总觉得突然好热啊🍉 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DeNc6iEGH?p=22",
+  "source": "kukuri.js"
+},
+    {
+  "title": "すずめ",
+  "artist": "RADWIMPS feat.十明",
+  "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Rain",
+  "artist": "秦基博",
+  "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "雨が降る",
+  "artist": "坂本真綾",
+  "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ボクノート",
+  "artist": "スキマスイッチ",
+  "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "嘘",
+  "artist": "シド",
+  "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "LIFE",
+  "artist": "YUI",
+  "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "月光花",
+  "artist": "Janne Da Arc",
+  "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "1/3の純情な感情",
+  "artist": "SIAM SHADE",
+  "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "遙か彼方",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "リライト",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "HOWLING",
+  "artist": "abingdon boys school",
+  "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "微笑みの爆弾",
+  "artist": "馬渡松子",
+  "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ロマンティックあげるよ",
+  "artist": "橋本潮",
+  "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Magia",
+  "artist": "Kalafina",
+  "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=21",
+  "source": "kukuri.js"
+},
+    {
+  "title": "愛をとりもどせ!!",
+  "artist": "クリスタルキング",
+  "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=22",
   "source": "kukuri.js"
 }
 );
