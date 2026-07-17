@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/17/2026, 8:51:50 PM
+// 生成时间: 7/17/2026, 9:02:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3003,6 +3003,318 @@ window.SONG_DATA.push(
   "collection": "七海うらら*歌channel联动歌切 2026-07-14 与稀羽Suu酱的工作室联动歌回，七海Urala首次Zepp纪念！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zDNh6TEdE?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "吉原ラメント",
+  "artist": "亜沙",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "僕のこと",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "Soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat.初音ミク",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "熱帯夜",
+  "artist": "SHISHAMO",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "生きていたんだよな",
+  "artist": "あいみょん",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "グッバイ宣言",
+  "artist": "Chinozo",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "群青日和",
+  "artist": "東京事変",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "NIPPON",
+  "artist": "椎名林檎",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "Mrs. Pumpkinの滑稽な夢",
+  "artist": "ハチ feat.初音ミク",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ブラック★ロックシューター",
+  "artist": "supercell feat.初音ミク",
+  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "夕景イエスタデイ",
+  "artist": "じん feat.IA",
+  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "モザイクロール",
+  "artist": "DECO*27 feat.GUMI・初音ミク",
+  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP feat.初音ミク",
+  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "脳漿炸裂ガール",
+  "artist": "れるりり(当社比P) feat.初音ミク・GUMI",
+  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat.初音ミク",
+  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "初音ミクの消失",
+  "artist": "cosMo@暴走P feat.初音ミク",
+  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "のだ",
+  "artist": "大漠波新 feat.ずんだもん・初音ミク・重音テト",
+  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "右肩の蝶",
+  "artist": "のりぴー feat.鏡音リン・鏡音レン",
+  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "オーバーライド",
+  "artist": "吉田夜世 feat.重音テト",
+  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "神っぽいな",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "高音厨音域テスト",
+  "artist": "木村わいP feat.初音ミク",
+  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=16",
   "source": "others.js"
 },
     {
