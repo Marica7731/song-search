@@ -1,6 +1,6 @@
 // 碧生ねの - 歌单数据 (多合集汇总)
 // 来源: BV1S4TT6pEn4
-// 生成时间: 7/17/2026, 7:41:16 PM
+// 生成时间: 7/17/2026, 7:53:49 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -747,6 +747,78 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=12",
+  "source": "neno.js"
+},
+    {
+  "title": "8.32",
+  "artist": "*Luna feat.flower",
+  "collection": "【歌切】[2026-07-17]悠闲的夜晚1小时不间断竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15XNf66EYR?p=1",
+  "source": "neno.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-07-17]悠闲的夜晚1小时不间断竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15XNf66EYR?p=2",
+  "source": "neno.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-07-17]悠闲的夜晚1小时不间断竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15XNf66EYR?p=3",
+  "source": "neno.js"
+},
+    {
+  "title": "あの夏が飽和する。",
+  "artist": "カンザキイオリ feat.鏡音レン",
+  "collection": "【歌切】[2026-07-17]悠闲的夜晚1小时不间断竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15XNf66EYR?p=4",
+  "source": "neno.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-07-17]悠闲的夜晚1小时不间断竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15XNf66EYR?p=5",
+  "source": "neno.js"
+},
+    {
+  "title": "雨き声残響",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-07-17]悠闲的夜晚1小时不间断竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15XNf66EYR?p=6",
+  "source": "neno.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-07-17]悠闲的夜晚1小时不间断竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15XNf66EYR?p=7",
+  "source": "neno.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-17]悠闲的夜晚1小时不间断竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15XNf66EYR?p=8",
+  "source": "neno.js"
+},
+    {
+  "title": "アストロノーツ",
+  "artist": "ぽわぽわP feat.初音ミク",
+  "collection": "【歌切】[2026-07-17]悠闲的夜晚1小时不间断竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15XNf66EYR?p=9",
   "source": "neno.js"
 }
 );
