@@ -1,13 +1,13 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 7/17/2026, 2:25:39 PM
+// 生成时间: 7/17/2026, 2:41:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
     {
   "title": "flos",
-  "artist": "R Sound Design",
+  "artist": "R Sound Design feat. 初音ミク",
   "collection": "歌势推荐：緋那ちび 2026-03-10  OfYyaWIvGhE",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV134wAzJEph?p=1",
@@ -31,7 +31,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "うぉんちゅーばっど",
-  "artist": "jon-YAKITORY feat.可不",
+  "artist": "jon-YAKITORY feat. 可不",
   "collection": "歌势推荐：緋那ちび 2026-03-10  OfYyaWIvGhE",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV134wAzJEph?p=4",
@@ -39,7 +39,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛して愛して愛して",
-  "artist": "きくお",
+  "artist": "きくお feat. 初音ミク",
   "collection": "歌势推荐：緋那ちび 2026-03-10  OfYyaWIvGhE",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV134wAzJEph?p=5",
@@ -47,7 +47,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メンタルチェンソー",
-  "artist": "かいりきベア feat.初音ミク",
+  "artist": "かいりきベア feat. 初音ミク",
   "collection": "歌势推荐：緋那ちび 2026-03-10  OfYyaWIvGhE",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV134wAzJEph?p=6",
@@ -55,7 +55,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "8.32",
-  "artist": "*Luna",
+  "artist": "*Luna feat. flower",
   "collection": "歌势推荐：緋那ちび 2026-03-10  OfYyaWIvGhE",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV134wAzJEph?p=7",
@@ -63,7 +63,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ひゅるりらぱっぱ",
-  "artist": "HYURURIRAPAPPA",
+  "artist": "tuki.",
   "collection": "歌势推荐：緋那ちび 2026-03-10  OfYyaWIvGhE",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV134wAzJEph?p=8",
