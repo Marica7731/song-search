@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 7/17/2026, 7:24:59 PM
+// 生成时间: 7/17/2026, 7:34:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4739,6 +4739,214 @@ window.SONG_DATA.push(
   "collection": "【明日夢 歌切】[2026-07-11]周末歌祭 明日夢かなえ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VoNP6EEc9?p=24",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "チェリボム",
+  "artist": "SILENT SIREN",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "夏色",
+  "artist": "ゆず",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "瞬間センチメンタル",
+  "artist": "SCANDAL",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ミラーチューン",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花火",
+  "artist": "aiko",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "空想フォレスト",
+  "artist": "じん feat.IA",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ワニとシャンプー",
+  "artist": "ももいろクローバーZ",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "強風オールバック",
+  "artist": "ゆこぴ feat.歌愛ユキ",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "波乗りジョニー",
+  "artist": "桑田佳祐",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "キセキ",
+  "artist": "GReeeeN",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "GReeeeN",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "君と夏フェス",
+  "artist": "SHISHAMO",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "陽",
+  "artist": "クリープハイプ",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "愛の手",
+  "artist": "マカロニえんぴつ",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "洗濯機と君とラヂオ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=21",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "リンジュー・ラヴ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=22",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ミラクル",
+  "artist": "miwa",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=23",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "夏夜のマジック",
+  "artist": "indigo la End",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=24",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "クロノスタシス",
+  "artist": "きのこ帝国",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=25",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ウィアートル",
+  "artist": "rionos",
+  "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=26",
   "source": "asuyumekanae.js"
 },
     {
