@@ -1,6 +1,6 @@
 // みなとん - 歌单数据 (多合集汇总)
 // 来源: BV1TqGY6gEEf
-// 生成时间: 7/17/2026, 7:27:48 PM
+// 生成时间: 7/17/2026, 7:33:54 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -955,6 +955,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-26]在绵绵细雨中歌唱🌂 みなとん。は歌う",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bG7J6mESY?p=13",
+  "source": "minaton.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-17]一起度过最棒的夏天吧 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXNf6zE67?p=1",
+  "source": "minaton.js"
+},
+    {
+  "title": "夏の瞳",
+  "artist": "みなとん。",
+  "collection": "【歌切】[2026-07-17]一起度过最棒的夏天吧 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXNf6zE67?p=2",
+  "source": "minaton.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO×米津玄師",
+  "collection": "【歌切】[2026-07-17]一起度过最棒的夏天吧 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXNf6zE67?p=3",
+  "source": "minaton.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-07-17]一起度过最棒的夏天吧 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXNf6zE67?p=4",
+  "source": "minaton.js"
+},
+    {
+  "title": "ネバーエンディングサマー",
+  "artist": "みなとん。",
+  "collection": "【歌切】[2026-07-17]一起度过最棒的夏天吧 みなとん。は歌う",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXNf6zE67?p=5",
   "source": "minaton.js"
 }
 );
