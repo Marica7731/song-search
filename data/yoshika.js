@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 7/17/2026, 5:44:00 PM
+// 生成时间: 7/17/2026, 5:53:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -36187,6 +36187,214 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-07-11]初見さん歓迎中！土曜日暑い！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vgNP6SEHG?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾(涼宮ハルヒ)・茅原実里(長門有希)・後藤邑子(朝比奈みくる)",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "マツケンサンバⅡ",
+  "artist": "松平健",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "departure",
+  "artist": "小野正利",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Suspect",
+  "artist": "ホロライブ/ロボ子/アキ・ローゼンタール/百鬼あやめ",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "キミに100パーセント",
+  "artist": "きゃりーぱみゅぱみゅ",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "めぐる季節",
+  "artist": "純名里沙",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "世界の約束",
+  "artist": "倍賞千恵子",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "虹",
+  "artist": "菅田将暉",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "寝・逃・げでリセット",
+  "artist": "柊つかさ(福原香織)",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "雪、無音、窓辺にて。",
+  "artist": "茅原実里(長門有希)",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "まっがーれ↓スペクタクル",
+  "artist": "古泉一樹(小野大輔)",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=25",
+  "source": "yoshika.js"
+},
+    {
+  "title": "優しさの理由",
+  "artist": "ChouCho",
+  "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=26",
   "source": "yoshika.js"
 }
 );
