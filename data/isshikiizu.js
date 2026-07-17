@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 7/17/2026, 5:14:29 PM
+// 生成时间: 7/17/2026, 5:29:11 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -883,6 +883,198 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-13]夏天啦！大哥！T.M.Revolution 限定啦——！🎙 一色イズ ⟡ Isshiki_IS",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1knND6bEQD?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "スターマイン",
+  "artist": "Da-iCE",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Bのリベンジ",
+  "artist": "B小町",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "可不ェイン",
+  "artist": "柊マグネタイト feat.可不",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "撫でんな",
+  "artist": "柊マグネタイト feat.可不",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アイ・アイ・ア",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "こちら、幸福安心委員会です。",
+  "artist": "うたたP feat.初音ミク",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "チュルリラ・チュルリラ・ダッダッダ!",
+  "artist": "和田たけあき(くらげP) feat.結月ゆかり",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "モザイクロール",
+  "artist": "DECO*27 feat.GUMI",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "右肩の蝶",
+  "artist": "のりぴー feat.鏡音レン",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "来世で会おう",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "JITTERIN'JINN(cover Whiteberry)",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "HANABI",
+  "artist": "Mr.Children",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "花火",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Hello,Again~昔からある場所~",
+  "artist": "My Little Lover",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "全力少年",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "平行線",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=22",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "明日も",
+  "artist": "SHISHAMO",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=23",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=24",
   "source": "isshikiizu.js"
 }
 );
