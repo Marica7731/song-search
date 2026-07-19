@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/19/2026, 9:36:19 PM
+// 生成时间: 7/19/2026, 9:58:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -16231,7 +16231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妄想スケッチ",
-  "artist": "40mP feat.初音ミク",
+  "artist": "40mP feat. 初音ミク",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=2",
@@ -16239,7 +16239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "キャットフード",
-  "artist": "doriko",
+  "artist": "doriko feat. 初音ミク",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=3",
@@ -16247,7 +16247,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ビエロ",
-  "artist": "KEI",
+  "artist": "KEI feat. 初音ミク",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=4",
@@ -16255,7 +16255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "地球最後の告白を",
-  "artist": "kemu feat.GUMI",
+  "artist": "kemu feat. GUMI",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=5",
@@ -16263,7 +16263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ODDS&ENDS",
-  "artist": "ryo(supercell)",
+  "artist": "ryo(supercell) feat. 初音ミク",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=6",
@@ -16271,7 +16271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "脱法ロック",
-  "artist": "Neru",
+  "artist": "Neru feat. 鏡音レン",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=7",
@@ -16279,15 +16279,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "或る化け猫の恋物語",
-  "artist": "Nem",
+  "artist": "Nem feat. 鏡音レン",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=8",
   "source": "others.js"
 },
     {
-  "title": "カダロウデイズ",
-  "artist": "じん feat.初音ミク",
+  "title": "カゲロウデイズ",
+  "artist": "じん feat. 初音ミク",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=9",
@@ -16295,15 +16295,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "チルドレンレコード",
-  "artist": "じん feat.IA",
+  "artist": "じん feat. IA",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=10",
   "source": "others.js"
 },
     {
-  "title": "夜話ディセイブ",
-  "artist": "じん feat.IA",
+  "title": "夜咄ディセイブ",
+  "artist": "じん feat. IA",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=11",
@@ -16311,7 +16311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "如月アテンション",
-  "artist": "じん feat.IA",
+  "artist": "じん feat. IA",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=12",
@@ -16319,7 +16319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "空想フォレスト",
-  "artist": "じん feat.IA",
+  "artist": "じん feat. IA",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=13",
@@ -16327,7 +16327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アヤノの幸福理論",
-  "artist": "じん feat.IA",
+  "artist": "じん feat. IA",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=14",
@@ -16335,7 +16335,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ロスタイムメモリー",
-  "artist": "じん feat.IA",
+  "artist": "じん feat. IA",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=15",
@@ -16343,15 +16343,15 @@ window.SONG_DATA.push(
 },
     {
   "title": "サマータイムレコード",
-  "artist": "じん feat.IA",
+  "artist": "じん feat. IA",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=16",
   "source": "others.js"
 },
     {
-  "title": "独りんぼエンビィー",
-  "artist": "電ポルP feat.初音ミク",
+  "title": "独りんぼエンヴィー",
+  "artist": "koyori(電ポルP) feat. 初音ミク",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=17",
@@ -16359,7 +16359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "曖昧劣情Lover",
-  "artist": "電ポルP feat.flower",
+  "artist": "koyori(電ポルP) feat. flower",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=18",
@@ -16367,7 +16367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Lap Tap Love",
-  "artist": "電ポルP feat.初音ミク",
+  "artist": "koyori(電ポルP) feat. 初音ミク",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=19",
@@ -16375,7 +16375,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "従属ふりったー",
-  "artist": "電ポルP feat.初音ミク",
+  "artist": "koyori(電ポルP) feat. 初音ミク",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=20",
@@ -16383,7 +16383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "心象カスケード",
-  "artist": "電ポルP feat.flower",
+  "artist": "koyori(電ポルP) feat. flower",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=21",
@@ -16391,7 +16391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "トエト",
-  "artist": "トラボルタ",
+  "artist": "トラボルタ feat. 巡音ルカ",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=22",
@@ -16399,10 +16399,202 @@ window.SONG_DATA.push(
 },
     {
   "title": "Fire◎Flower",
-  "artist": "absorb",
+  "artist": "halyosy feat. 鏡音レン",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "Just Be Friends",
+  "artist": "Dixie Flatline feat. 巡音ルカ",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "フラジール",
+  "artist": "ぬゆり feat. GUMI",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "クイーンオブハート",
+  "artist": "奏音69 feat. 巡音ルカ",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "Fire◎Flower",
+  "artist": "halyosy feat. 鏡音レン",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat. IA",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "京都ダ菓子屋センソー",
+  "artist": "みきとP feat. flower",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ド屑",
+  "artist": "なきそ feat. 可不",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "レッド・パージ！！！",
+  "artist": "P.I.N.A. feat. 初音ミク・鏡音リン",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "かなしばりに遭ったら",
+  "artist": "あばらや feat. 初音ミク",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "愛して愛して愛して",
+  "artist": "きくお feat. 初音ミク",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "ラプラスショコラ",
+  "artist": "Kai feat. 初音ミク",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "おくすり飲んで寝よう",
+  "artist": "もちうつね feat. 初音ミク",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "きゅうくらりん",
+  "artist": "いよわ feat. 可不",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "朱色の砂浜",
+  "artist": "みきとP feat. GUMI",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "刹那プラス",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat. GUMI・鏡音リン",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "劣等上等",
+  "artist": "Giga feat. 鏡音リン・鏡音レン",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "君はいなせなガール",
+  "artist": "石風呂 feat. IA・miki",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "君はいなせなガール",
+  "artist": "石風呂 feat. IA・miki",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat. 巡音ルカ・GUMI",
+  "collection": "甘葛すもあ / Amazura Sumoa歌切 2026-07-19 术力口限定歌回！VOCALOID爱好者们，集合啦啊啊啊啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hEKk6QEMe?p=24",
   "source": "others.js"
 },
     {

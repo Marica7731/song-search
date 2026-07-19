@@ -1,6 +1,6 @@
 // Sen†Sational - 歌单数据 (多合集汇总)
 // 来源: BV1ybNo67EQ5
-// 生成时间: 7/19/2026, 9:51:08 PM
+// 生成时间: 7/19/2026, 10:15:25 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -427,6 +427,174 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=30",
+  "source": "sensational.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-03]🔴 月亮又红又大 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLK16HEcT?p=1",
+  "source": "sensational.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-07-03]🔴 月亮又红又大 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLK16HEcT?p=2",
+  "source": "sensational.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru",
+  "collection": "【歌切】[2026-07-03]🔴 月亮又红又大 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLK16HEcT?p=3",
+  "source": "sensational.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "電ポルP feat.初音ミク",
+  "collection": "【歌切】[2026-07-03]🔴 月亮又红又大 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLK16HEcT?p=4",
+  "source": "sensational.js"
+},
+    {
+  "title": "悪魔の踊り方",
+  "artist": "こんにちは谷田",
+  "collection": "【歌切】[2026-07-03]🔴 月亮又红又大 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLK16HEcT?p=5",
+  "source": "sensational.js"
+},
+    {
+  "title": "EYE",
+  "artist": "Kanaria",
+  "collection": "【歌切】[2026-07-03]🔴 月亮又红又大 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLK16HEcT?p=6",
+  "source": "sensational.js"
+},
+    {
+  "title": "フライングゲット",
+  "artist": "AKB48",
+  "collection": "【歌切】[2026-07-03]🔴 月亮又红又大 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLK16HEcT?p=7",
+  "source": "sensational.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-03]🔴 月亮又红又大 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLK16HEcT?p=8",
+  "source": "sensational.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【歌切】[2026-07-03]🔴 月亮又红又大 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLK16HEcT?p=9",
+  "source": "sensational.js"
+},
+    {
+  "title": "めざせポケモンマスター",
+  "artist": "松本梨香",
+  "collection": "【歌切】[2026-07-03]🔴 月亮又红又大 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLK16HEcT?p=10",
+  "source": "sensational.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-07-03]🔴 月亮又红又大 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLK16HEcT?p=11",
+  "source": "sensational.js"
+},
+    {
+  "title": "ハレンチ",
+  "artist": "ちゃんみな",
+  "collection": "【歌切】[2026-07-03]🔴 月亮又红又大 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLK16HEcT?p=12",
+  "source": "sensational.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ",
+  "collection": "【歌切】[2026-07-03]🔴 月亮又红又大 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLK16HEcT?p=13",
+  "source": "sensational.js"
+},
+    {
+  "title": "神っぽいな",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "【歌切】[2026-07-03]🔴 月亮又红又大 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLK16HEcT?p=14",
+  "source": "sensational.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-07-03]🔴 月亮又红又大 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLK16HEcT?p=15",
+  "source": "sensational.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑",
+  "collection": "【歌切】[2026-07-03]🔴 月亮又红又大 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLK16HEcT?p=16",
+  "source": "sensational.js"
+},
+    {
+  "title": "死にたい夜にかぎって",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-07-03]🔴 月亮又红又大 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLK16HEcT?p=17",
+  "source": "sensational.js"
+},
+    {
+  "title": "さよならの夏～コクリコ坂から～",
+  "artist": "手嶌葵",
+  "collection": "【歌切】[2026-07-03]🔴 月亮又红又大 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLK16HEcT?p=18",
+  "source": "sensational.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 ft.安次嶺希和子",
+  "collection": "【歌切】[2026-07-03]🔴 月亮又红又大 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLK16HEcT?p=19",
+  "source": "sensational.js"
+},
+    {
+  "title": "さよならミッドナイト",
+  "artist": "大柴広己(もじゃ)",
+  "collection": "【歌切】[2026-07-03]🔴 月亮又红又大 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLK16HEcT?p=20",
+  "source": "sensational.js"
+},
+    {
+  "title": "昼夜逆転",
+  "artist": "SHISHAMO",
+  "collection": "【歌切】[2026-07-03]🔴 月亮又红又大 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLK16HEcT?p=21",
   "source": "sensational.js"
 }
 );
