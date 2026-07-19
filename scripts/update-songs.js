@@ -115,7 +115,15 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1jaYQeUEgM"], file: "hanamaruhareru", alias: "花丸晴琉" },
     { bvids: ["BV1H9ekeiEaB"], file: "hanabasamikyo", alias: "花鋏キョウ" },
     { bvids: ["BV1Qa9JB6EAw"], alias: "陽月るるふ" },
-    { bvids: ["BV1oeMx6WEve"], file: "ronaru", alias: "炉なる" }
+    { bvids: ["BV1oeMx6WEve"], file: "ronaru", alias: "炉なる" },
+    { bvids: ["BV1oHAVzxE2q"], file: "manomueru", alias: "魔ノむえる" },
+    { bvids: ["BV1ybNo67EQ5"], file: "sensational", alias: "Sen†Sational" },
+    { bvids: ["BV1dfjx61Eri"], file: "hanamaeharu", alias: "花前ハル" },
+    { bvids: ["BV1C7ND6hExv"], file: "suiuishino", alias: "翠雨 しの" },
+    { bvids: ["BV1yVVe6BE16"], file: "amamiruka", alias: "雨海ルカ" },
+    { bvids: ["BV1an7E6pEUw"], file: "koyoiinari", alias: "狐宵いなり" },
+    { bvids: ["BV1PE7J6CESH"], file: "otowarara", alias: "音羽ララ" },
+    { bvids: ["BV1MAjT6GEF7"], file: "yuni", alias: "YuNi" }
 ];
 
 function resolveConfig(config) {
