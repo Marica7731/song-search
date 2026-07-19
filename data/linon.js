@@ -1,6 +1,6 @@
 // 天籠りのん - 歌单数据 (多合集汇总)
 // 来源: BV1hw4m1i7qN
-// 生成时间: 7/19/2026, 5:45:54 PM
+// 生成时间: 7/19/2026, 6:04:04 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2766,7 +2766,7 @@ window.SONG_DATA.push(
   "source": "linon.js"
 },
     {
-  "title": "start  虚無虚無です。",
+  "title": "虚無虚無です。",
   "artist": "天籠りのん",
   "collection": "【 #さいつよ歌枠リレー3 】絶唱上等👊最強音圧をくらえ～～！！【 天籠りのん 】#歌枠 #karaoke",
   "up": "前尘往事如昔故",
