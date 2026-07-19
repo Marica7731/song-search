@@ -41,6 +41,7 @@
 ### 1) 本地更新脚本
 - 脚本：`scripts/update-songs.js`
 - 配置源：脚本内 `SINGER_CONFIGS`（BV 列表、文件名、别名）
+- 头像源：`scripts/source-profiles.json`（按来源文件名补充头像、YouTube 频道、首字和颜色）
 - GitHub 侧采集依赖入口 BV 展开到的小节/合集 BV；每个入口 BV 会单独维护候选池。
 - 默认每个入口 BV 随机抽取 3 个候选 BV 抓取 DOM，对比歌曲数量后采用数量更多的结果。
 - recent 状态按 `来源文件 + 入口 BV` 记录，优先避开最近几轮抽中过的 BV；候选不足时允许从 recent 中补足。
@@ -48,7 +49,7 @@
 - 仅 GitHub Pages 数据生成使用这套抽样逻辑，culua 侧配置和运行方式不受影响。
 - 产物：
   - `data/*.js`
-  - `data/index.json`
+  - `data/index.json`（包含文件列表、来源别名和 `sourceProfiles` 头像信息）
   - `reports/github-bv-sampling-state.json`（运行状态文件，不提交）
 
 ### 2) GitHub Actions 自动更新
@@ -114,7 +115,8 @@ song-search/
 │  └─ github-bv-sampling-state.json
 │                              # BV 抽样运行状态，cache 保存，不提交
 ├─ scripts/
-│  └─ update-songs.js          # 数据抓取与生成脚本
+│  ├─ update-songs.js          # 数据抓取与生成脚本
+│  └─ source-profiles.json     # 来源头像与频道覆盖配置
 ├─ .gitignore                  # 忽略抽样状态文件
 └─ .github/workflows/
    └─ update.yml               # 自动更新工作流
@@ -124,8 +126,9 @@ song-search/
 
 | 文件路径 | 文件用途 | 主要函数或模块职责 | 与其他文件的关系 |
 |---|---|---|---|
-| `scripts/update-songs.js` | GitHub Pages 歌曲数据生成脚本 | `processEntryBvid` 负责入口 BV 候选刷新、抽样、fallback 与胜者选择；`parseRawDataToSongs` 负责 DOM 结果转歌曲；`loadSamplingState` / `saveSamplingState` 负责状态读写 | 读取脚本内 `SINGER_CONFIGS`，写入 `data/*.js`、`data/index.json` 和运行态 `reports/github-bv-sampling-state.json` |
-| `.github/workflows/update.yml` | 自动更新工作流 | 每 20 分钟或手动运行脚本；恢复/保存 BV 抽样状态；允许并行运行；只在数据文件变化时提交，推送前 rebase 最新 `main` 并重试 | 调用 `scripts/update-songs.js`，提交 `data/*.js data/index.json` 到 `main` |
+| `scripts/update-songs.js` | GitHub Pages 歌曲数据生成脚本 | `processEntryBvid` 负责入口 BV 候选刷新、抽样、fallback 与胜者选择；`parseRawDataToSongs` 负责 DOM 结果转歌曲；`loadSamplingState` / `saveSamplingState` 负责状态读写；`buildSourceProfile` 负责把头像配置写入 index | 读取脚本内 `SINGER_CONFIGS` 和 `scripts/source-profiles.json`，写入 `data/*.js`、`data/index.json` 和运行态 `reports/github-bv-sampling-state.json` |
+| `scripts/source-profiles.json` | 来源头像与频道覆盖配置 | 按来源文件名维护 `avatarUrl`、`youtubeUrl`、`avatarText`、`accentColor` | 被 `scripts/update-songs.js` 合并进 `data/index.json` 的 `sourceProfiles` |
+| `.github/workflows/update.yml` | 自动更新工作流 | 每 10 分钟或手动运行脚本；恢复/保存 BV 抽样状态；允许并行运行；只在数据文件变化时提交，推送前 rebase 最新 `main` 并重试 | 调用 `scripts/update-songs.js`，提交 `data/*.js data/index.json` 到 `main` |
 | `.gitignore` | 本地和 workflow 的非提交文件规则 | 忽略 `reports/github-bv-sampling-state.json` | 配合 workflow cache，让 recent 状态保留但不刷主分支提交 |
 | `README.md` | 项目说明和维护说明 | 说明随机抽样规则、运行方式、测试方法和文件清单 | 作为 GitHub 侧维护入口文档 |
 

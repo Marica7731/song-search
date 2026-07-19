@@ -18,6 +18,76 @@ try {
 const DEFAULT_ARTIST_TEXT = '来源处未提供标准格式歌手';
 const SPECIAL_BRACKET_ARTIST_SET = new Set(['[Alexandros]', '[ALEXANDROS]']);
 const LEADING_SOURCE_REGEX = /^(?:\s*【[^】]+】)+\s*/;
+const SOURCE_PROFILE_PATH = path.join(__dirname, 'source-profiles.json');
+
+function stringHash(value) {
+    let hash = 0;
+    String(value || '').split('').forEach(ch => {
+        hash = ((hash << 5) - hash) + ch.charCodeAt(0);
+        hash |= 0;
+    });
+    return Math.abs(hash);
+}
+
+function getDefaultAvatarText(alias) {
+    const chars = Array.from(String(alias || '').trim());
+    const picked = chars.find(ch => /[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}A-Za-z0-9]/u.test(ch));
+    return (picked || '源').toUpperCase();
+}
+
+function normalizeProfileUrl(value) {
+    const text = String(value || '').trim();
+    return /^https?:\/\//i.test(text) ? text : '';
+}
+
+function loadSourceProfileOverrides() {
+    if (!fs.existsSync(SOURCE_PROFILE_PATH)) return {};
+    try {
+        const parsed = JSON.parse(fs.readFileSync(SOURCE_PROFILE_PATH, 'utf8'));
+        const profiles = parsed?.profiles && typeof parsed.profiles === 'object'
+            ? parsed.profiles
+            : parsed;
+        return profiles && typeof profiles === 'object' && !Array.isArray(profiles) ? profiles : {};
+    } catch (err) {
+        console.warn(`⚠️  来源头像配置读取失败：${err.message}`);
+        return {};
+    }
+}
+
+function pickProfileOverride(overrides, keys) {
+    if (!overrides || typeof overrides !== 'object') return {};
+    const candidates = keys
+        .map(key => String(key || ''))
+        .filter(Boolean);
+    for (const key of candidates) {
+        if (overrides[key]) return overrides[key];
+    }
+    const normalized = new Set(candidates.map(key => key.trim()).filter(Boolean));
+    for (const [key, value] of Object.entries(overrides)) {
+        if (normalized.has(String(key || '').trim())) return value;
+    }
+    return {};
+}
+
+function buildSourceProfile(config, overrides) {
+    const alias = config.alias || config.resolvedFile || '来源';
+    const raw = pickProfileOverride(overrides, [config.resolvedFile, alias]);
+    const avatarText = String(raw.avatarText || '').trim() || getDefaultAvatarText(alias);
+    const profile = {
+        alias,
+        avatarText,
+        avatarUrl: normalizeProfileUrl(raw.avatarUrl),
+        youtubeUrl: normalizeProfileUrl(raw.youtubeUrl || raw.youtubeChannelUrl),
+        accentColor: String(raw.accentColor || '').trim() || `hsl(${stringHash(config.resolvedFile || alias) % 360} 55% 36%)`,
+        statsAvgSortDeferred: raw.statsAvgSortDeferred === true
+    };
+    if (config.archived) {
+        profile.archived = true;
+        const reason = String(config.archiveReason || '').trim();
+        if (reason) profile.archiveReason = reason;
+    }
+    return profile;
+}
 
 function readPositiveIntegerEnv(name, fallback) {
     const parsed = Number.parseInt(process.env[name] || '', 10);
@@ -146,6 +216,7 @@ function resolveConfig(config) {
 }
 
 const RESOLVED_SINGER_CONFIGS = SINGER_CONFIGS.map(resolveConfig);
+const SOURCE_PROFILE_OVERRIDES = loadSourceProfileOverrides();
 
 const PROJECT_ROOT = path.join(__dirname, '..');
 const DATA_DIR = path.join(__dirname, '..', 'data');
@@ -592,6 +663,10 @@ function generateIndexJson() {
         files: RESOLVED_SINGER_CONFIGS.map(config => `${config.resolvedFile}.js`),
         fileToAlias: RESOLVED_SINGER_CONFIGS.reduce((map, config) => {
             map[config.resolvedFile] = config.alias;
+            return map;
+        }, {}),
+        sourceProfiles: RESOLVED_SINGER_CONFIGS.reduce((map, config) => {
+            map[config.resolvedFile] = buildSourceProfile(config, SOURCE_PROFILE_OVERRIDES);
             return map;
         }, {})
     };
