@@ -1,6 +1,6 @@
 // 323 - 歌单数据 (多合集汇总)
 // 来源: BV1r75B6LEwd
-// 生成时间: 7/19/2026, 10:56:10 PM
+// 生成时间: 7/19/2026, 11:06:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2731,6 +2731,174 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-13]新观众◎背景音乐◎作为午饭时的陪伴怎么样？ 323",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y7ND6hEqn?p=8",
+  "source": "323.js"
+},
+    {
+  "title": "青い珊瑚礁",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-07-19]低于89分即刻下播？！炸弹歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HBKy62EN3?p=1",
+  "source": "323.js"
+},
+    {
+  "title": "恋するフォーチュンクッキー",
+  "artist": "AKB48",
+  "collection": "【歌切】[2026-07-19]低于89分即刻下播？！炸弹歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HBKy62EN3?p=2",
+  "source": "323.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-19]低于89分即刻下播？！炸弹歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HBKy62EN3?p=3",
+  "source": "323.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【歌切】[2026-07-19]低于89分即刻下播？！炸弹歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HBKy62EN3?p=4",
+  "source": "323.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-07-19]低于89分即刻下播？！炸弹歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HBKy62EN3?p=5",
+  "source": "323.js"
+},
+    {
+  "title": "愛包ダンスホール",
+  "artist": "HIMEHINA",
+  "collection": "【歌切】[2026-07-19]低于89分即刻下播？！炸弹歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HBKy62EN3?p=6",
+  "source": "323.js"
+},
+    {
+  "title": "ふるさと",
+  "artist": "童謡・唱歌",
+  "collection": "【歌切】[2026-07-19]低于89分即刻下播？！炸弹歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HBKy62EN3?p=7",
+  "source": "323.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-07-19]低于89分即刻下播？！炸弹歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HBKy62EN3?p=8",
+  "source": "323.js"
+},
+    {
+  "title": "ray(超かぐや姫!Version)",
+  "artist": "かぐや,月見ヤチヨ",
+  "collection": "【歌切】[2026-07-19]低于89分即刻下播？！炸弹歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HBKy62EN3?p=9",
+  "source": "323.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-07-19]低于89分即刻下播？！炸弹歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HBKy62EN3?p=10",
+  "source": "323.js"
+},
+    {
+  "title": "翼をください",
+  "artist": "林原めぐみ",
+  "collection": "【歌切】[2026-07-19]低于89分即刻下播？！炸弹歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HBKy62EN3?p=11",
+  "source": "323.js"
+},
+    {
+  "title": "ダンシング・ヒーロー",
+  "artist": "荻野目洋子",
+  "collection": "【歌切】[2026-07-19]低于89分即刻下播？！炸弹歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HBKy62EN3?p=12",
+  "source": "323.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【歌切】[2026-07-19]低于89分即刻下播？！炸弹歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HBKy62EN3?p=13",
+  "source": "323.js"
+},
+    {
+  "title": "心拍数♯0822",
+  "artist": "蝶々P feat.初音ミク",
+  "collection": "【歌切】[2026-07-19]低于89分即刻下播？！炸弹歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HBKy62EN3?p=14",
+  "source": "323.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat.GUMI",
+  "collection": "【歌切】[2026-07-19]低于89分即刻下播？！炸弹歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HBKy62EN3?p=15",
+  "source": "323.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-07-19]低于89分即刻下播？！炸弹歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HBKy62EN3?p=16",
+  "source": "323.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-19]低于89分即刻下播？！炸弹歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HBKy62EN3?p=17",
+  "source": "323.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "【歌切】[2026-07-19]低于89分即刻下播？！炸弹歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HBKy62EN3?p=18",
+  "source": "323.js"
+},
+    {
+  "title": "White Love",
+  "artist": "SPEED",
+  "collection": "【歌切】[2026-07-19]低于89分即刻下播？！炸弹歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HBKy62EN3?p=19",
+  "source": "323.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-07-19]低于89分即刻下播？！炸弹歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HBKy62EN3?p=20",
+  "source": "323.js"
+},
+    {
+  "title": "初音ミクの消失",
+  "artist": "cosMo@暴走P feat.初音ミク",
+  "collection": "【歌切】[2026-07-19]低于89分即刻下播？！炸弹歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HBKy62EN3?p=21",
   "source": "323.js"
 }
 );

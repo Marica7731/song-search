@@ -1,6 +1,6 @@
 // HoshiHo - 歌单数据 (多合集汇总)
 // 来源: BV11fQSB2ELX
-// 生成时间: 7/19/2026, 10:10:11 PM
+// 生成时间: 7/19/2026, 10:21:25 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2627,6 +2627,198 @@ window.SONG_DATA.push(
   "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=35",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "世界でいちばん熱い夏",
+  "artist": "プリンセス プリンセス",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=1",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "チョット",
+  "artist": "大黒摩季",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=2",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "夏が来る",
+  "artist": "大黒摩季",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=3",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Divine Spell",
+  "artist": "TRUE",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=4",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ひぐらしのなく頃に",
+  "artist": "島みやえい子",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=5",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "対象a",
+  "artist": "anNina",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=6",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "奈落の花",
+  "artist": "島みやえい子",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=7",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "嘆きノ森",
+  "artist": "彩音",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=8",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "コンプレックス・イマージュ",
+  "artist": "彩音",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=9",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "You",
+  "artist": "雪野五月",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=10",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "海色",
+  "artist": "AKINO from bless4",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=11",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "吹雪",
+  "artist": "西沢幸奏",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=12",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=13",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=14",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n、中島愛",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=15",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ノーザンクロス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=16",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Los! Los! Los!",
+  "artist": "ターニャ・フォン・デグレチャフ(悠木碧)",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=17",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "孔雀",
+  "artist": "菅原圭",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=18",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Stella",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=19",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ラピスラズリ",
+  "artist": "藍井エイル",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=20",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ハートにヒント！名探偵プリキュア！",
+  "artist": "石井あみ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=21",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "なぜ？謎？！ANSWER",
+  "artist": "熊田茜音＆増井優花",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=22",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "太陽が呼んでいる",
+  "artist": "加藤いづみ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=23",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=24",
   "source": "hoshiho.js"
 }
 );
