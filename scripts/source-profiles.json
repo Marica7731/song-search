@@ -340,6 +340,54 @@
       "youtubeUrl": "https://www.youtube.com/channel/UCcQsDietWkYakBKbGpCaeLA",
       "avatarText": "陽",
       "accentColor": "hsl(343 55% 36%)"
+    },
+    "manomueru": {
+      "avatarUrl": "https://yt3.googleusercontent.com/F_lHaIKoCqa6H1IzkdBz0DViVWpkqvfib7odaXdZbXz2mgMMtOwXOu4oE5sl3DC2RjBHTQF_IX4=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/channel/UCFqVAFANOHm17UVy8sWkhqw",
+      "avatarText": "魔",
+      "accentColor": "hsl(276 55% 36%)"
+    },
+    "sensational": {
+      "avatarUrl": "https://yt3.googleusercontent.com/jdxaV47igGAGJNIJtyUljc3BrcducNmcYUqqpWa4dvzJY-X-dnrf_36LDvdLGfsUc0p0KH6Ypg=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/channel/UCmoEQhDJS332hT5ryI7yFvQ",
+      "avatarText": "S",
+      "accentColor": "hsl(215 55% 36%)"
+    },
+    "hanamaeharu": {
+      "avatarUrl": "https://yt3.googleusercontent.com/A3997iWAGetGMZjqZfDoSqu0yk4I94-ev8o2L6aikN7G3tEdahVhn1ffy0XHHf3cV9x_4toDsuk=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/channel/UCP03XuewcMC2DaSFDJhqJmA",
+      "avatarText": "花",
+      "accentColor": "hsl(22 55% 36%)"
+    },
+    "suiuishino": {
+      "avatarUrl": "https://yt3.googleusercontent.com/1vcR_nOl05Omq5H2WFMHlgwxyYhX5sxR8hhUvn2SQG3fqgWQMmPXnt_QyvxM-jLUsZl5hFgk=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/channel/UCrPzeqsIo-_W95TXuExqckw",
+      "avatarText": "翠",
+      "accentColor": "hsl(183 55% 36%)"
+    },
+    "amamiruka": {
+      "avatarUrl": "https://yt3.googleusercontent.com/E_GIFETWLQYVBMYBzSfwr6VqmJRALcKYvruQcC5jyI9KqRszN9YaPWlT-C3PobxtTUplYNvrCg=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/channel/UClS3cnIUM9yzsBPQzeyX_8Q",
+      "avatarText": "雨",
+      "accentColor": "hsl(205 55% 36%)"
+    },
+    "koyoiinari": {
+      "avatarUrl": "https://yt3.googleusercontent.com/D-HZbdI2sdQnWwowdfJKqVkWjTra1gRpnf-5wWP5i7PlpsS5RjM2OKqEQFUa9OussmuRsCCkqw=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/channel/UCzbDTH6ennkRENJDBCk-NPw",
+      "avatarText": "狐",
+      "accentColor": "hsl(34 55% 36%)"
+    },
+    "otowarara": {
+      "avatarUrl": "https://yt3.googleusercontent.com/KSjl_sIurbalzwaMal8nXwuU2kRSAarbYhsoh72vG5_KMkbBltI6XSfNDjHSN3sdCKY-NN47=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/channel/UCWF-3hyAv7TFw8mpS_wHLmw",
+      "avatarText": "音",
+      "accentColor": "hsl(315 55% 36%)"
+    },
+    "yuni": {
+      "avatarUrl": "https://yt3.googleusercontent.com/ytc/AIdro_m_KUysAaTVb7g_hYb4T9AEqw1WBGY6vSj7Bg18WNzZVik=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/channel/UCHTnX0CSX_KObo5I9WuZ64g",
+      "avatarText": "Y",
+      "accentColor": "hsl(252 55% 36%)"
     }
   }
 }
