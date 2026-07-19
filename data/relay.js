@@ -1,6 +1,6 @@
 // 接力 - 歌单数据 (多合集汇总)
 // 来源: BV1rkCTYzEZN, BV1wt421j7gT, BV1KpCdYmE3T, BV1aC4ce2E5s, BV1JbX9BmE5m, BV1nJ5S6CETQ, BV1duSRBBEkb
-// 生成时间: 7/19/2026, 6:50:44 PM
+// 生成时间: 7/19/2026, 7:03:49 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -846,38 +846,6 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
-  "title": "一度だけの恋なら",
-  "artist": "ワルキューレ",
-  "collection": "接力歌切 魔ノむえる -Mano Mueru- 2026-06-13 〖 心动♡ 〗为你献上塞满一切的超大份心动💜.ᐟ 〖 ￤ 〗",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1H8Jp6SEVB?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "貴方の恋人になりたい",
-  "artist": "チョーキューメイ",
-  "collection": "接力歌切 魔ノむえる -Mano Mueru- 2026-06-13 〖 心动♡ 〗为你献上塞满一切的超大份心动💜.ᐟ 〖 ￤ 〗",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1H8Jp6SEVB?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "Wishing",
-  "artist": "レム(CV:水瀬いのり)",
-  "collection": "接力歌切 魔ノむえる -Mano Mueru- 2026-06-13 〖 心动♡ 〗为你献上塞满一切的超大份心动💜.ᐟ 〖 ￤ 〗",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1H8Jp6SEVB?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "彗星",
-  "artist": "星街すいせい",
-  "collection": "接力歌切 魔ノむえる -Mano Mueru- 2026-06-13 〖 心动♡ 〗为你献上塞满一切的超大份心动💜.ᐟ 〖 ￤ 〗",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1H8Jp6SEVB?p=4",
-  "source": "relay.js"
-},
-    {
   "title": "SWEET MEMORIES",
   "artist": "松田聖子",
   "collection": "接力歌切 唄街しの 2026-06-13 被温暖的吉他音色包围着…？",
@@ -1171,38 +1139,6 @@ window.SONG_DATA.push(
   "collection": "木下ちぷる / Chipuru Ch 接力歌切 2026-06-19 夜深了，来听我在雨中的弹唱吧/木下ちぷる",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1a7jk6UE1M?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "ANIMA",
-  "artist": "ReoNa",
-  "collection": "魔ノむえる -Mano Mueru-歌切 2026-06-23 要不要一起编织「新的和」呢？🌸",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Zmj96oEir?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "晩餐歌",
-  "artist": "tuki.",
-  "collection": "魔ノむえる -Mano Mueru-歌切 2026-06-23 要不要一起编织「新的和」呢？🌸",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Zmj96oEir?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "咲かせや咲かせ",
-  "artist": "EGOIST",
-  "collection": "魔ノむえる -Mano Mueru-歌切 2026-06-23 要不要一起编织「新的和」呢？🌸",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Zmj96oEir?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "忘れじの言の葉",
-  "artist": "未来古代楽団 feat. 安次嶺希和子",
-  "collection": "魔ノむえる -Mano Mueru-歌切 2026-06-23 要不要一起编织「新的和」呢？🌸",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Zmj96oEir?p=4",
   "source": "relay.js"
 },
     {
