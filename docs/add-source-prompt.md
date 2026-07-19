@@ -16,6 +16,9 @@ GitHub Pages / main 侧：
 3. GitHub main 的运行方式是 Puppeteer 打开 B 站网页，从入口 BV 页面解析候选合集 BV 并抽样；添加来源就是补入口 BV 配置，不要改成接口展开流程。
 4. 不要改 GitHub main 的抓取代码逻辑，不要触发 workflow，除非用户明确要求。
 5. BV 号大小写必须保持用户给出的原样。
+6. 如果用户明确要求“双端”或 GitHub Pages 立刻更新，`main` 还要同步 `scripts/source-profiles.json`，并确认 `scripts/update-songs.js` 生成的 `data/index.json` 保留 `sourceProfiles`。
+7. 如果 GitHub Actions 的 Auto Update Song List 等待 5-10 分钟仍停在 `in_progress`，不要继续空等。可以用 `culua.com` 服务器已经刷新出的 `data/<file>.js`、`data/index.json` 和 `scripts/source-profiles.json` 补齐 `main` 静态数据，再推送让 Pages deploy。
+8. 手工补齐 `main` 静态数据后，要取消 headSha 早于手工数据提交的旧 Auto Update Song List workflow，避免旧任务稍后把新数据覆盖掉。
 
 culua.com / codex/server-deploy 侧：
 1. 本地只在 C:\Users\终焉\Documents\culua_web_h5 修改。
@@ -26,13 +29,16 @@ culua.com / codex/server-deploy 侧：
 6. 如果入口 BV 已经拆成独立合集，或只是独立 BV / 普通合集，不要乱加 sectionTitle；如果之前加过 sectionTitle，要移除并同步清理 others 的排除项。
 7. 服务器运行时配置 /var/lib/song-search/singer-configs.json 也要备份后同步同样的来源配置。
 8. 推送或通过 GitHub connector 更新 codex/server-deploy 后，运行 `sudo -n /usr/bin/flock -n /tmp/song-search-refresh.lock /usr/local/bin/song-search-refresh.sh` 发布。
+9. 新来源必须同步补 `scripts/source-profiles.json` 头像。入口 BV 找不到头像时，查同一合集、同一账号或简介里的 YouTube 特征码/handle/原视频链接，必要时换该 P 主的其他视频定位头像。
+10. 当前歌曲数小于等于 100 的来源会被页面合并进 `others.js` / “非常驻妹妹”，但以后超过阈值会自动独立展示；因此小来源也必须提前配置头像。
 
 验证：
 - node --check scripts/update-songs.js
 - node scripts/check-song-library.js
 - 服务器刷新输出必须显示新来源成功生成。
-- 公网 https://www.culua.com/api/bootstrap 必须包含新 data 文件和 alias。
-- 公网 https://www.culua.com/data/<file>.js 必须可访问，并包含入口 BV。
+- 公网 `https://www.culua.com/api/bootstrap` 必须在 `rawFiles`、`rawSourceStats`、`sourceDisplayMap` 和 `sourceProfiles` 里包含新来源；不要只看 `files` 或左侧来源数，因为小来源会被合并显示。
+- 公网 `https://www.culua.com/data/<file>.js?v=<时间戳>` 必须可访问，并包含入口 BV。
+- 公网 `/api/search?fields=bvid,source,title,artist&q=<BV号>` 必须命中新来源；小来源可不在界面独立展示，但 raw `source` 应该仍是新来源文件名。
 
 提交：
 - 只提交本次相关文件。

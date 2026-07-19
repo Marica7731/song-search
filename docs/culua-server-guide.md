@@ -297,6 +297,28 @@ GitHub Pages 与 `culua.com` 不同：
 - `culua.com` 服务器运行时：`/var/lib/song-search/singer-configs.json` 会覆盖仓库配置，添加来源时需要备份并同步运行时配置。
 - 本地 `data/` 可能明显落后公网。涉及来源封存、数据回退判断或发布前校验时，先以 `https://www.culua.com/api/bootstrap` 与公网 `/data/<file>.js` 为权威，再同步本地生成物或运行时配置。
 - 封存来源时不要删除配置项和 `data/<file>.js`。在 GitHub 配置与服务器运行时配置里保留 `file/alias`，额外设置 `archived: true`；`bvids` 可置空以移出正式刷新任务。刷新脚本会跳过该来源抓取，但继续让它进入 `data/index.json`，所以网页仍能看到历史数据。
+- 新增来源要同步维护 `scripts/source-profiles.json`。即使当前歌曲数小于等于 100、页面会把它合并进 `others.js` / “非常驻妹妹”，也要提前配头像；后续超过 100 首后会按原始来源独立展示。
+- `api/bootstrap.files` 与左侧来源数量是展示口径，不是原始来源口径。小来源合并后应检查 `rawFiles`、`rawSourceStats`、`sourceDisplayMap` 和 `sourceProfiles`。
+
+### 双端加来源的快速路径
+
+本次新增多位 P 主的主要耗时点有四个：
+
+- `culua.com` 刷新会完整展开所有来源，当前 60+ 原始来源下可能跑十几分钟，等待是正常成本。
+- GitHub Pages `main` 的旧刷新流程依赖 Puppeteer 和 Actions，workflow_dispatch 可能长时间保持 `in_progress`，且旧 head 的任务完成后可能覆盖较新的手工静态数据。
+- `main` 侧曾缺少 `sourceProfiles` 写入/保留，导致静态数据里有歌曲但没有头像配置。
+- 小来源歌曲数小于等于 100 时不会进入展示 `files`，而是通过 `sourceDisplayMap` 合并到 `others.js`，只看左侧来源数会误判“没加上”。
+
+下次用户要求“双端 + 头像”时按这个顺序走：
+
+1. 一次性用 B 站 view API 查完所有 BV，确认 `title`、`owner`、`ugc_season.sections`、分 P、简介里的 YouTube 链接或特征码。
+2. 为每个新来源先定稳定 ASCII `file` slug，再同时准备 `scripts/singer-configs.json` 和 `scripts/source-profiles.json`。入口 BV 找不到头像时，用同合集/同账号其他视频或简介里的 YouTube handle 反查。
+3. 先做 `culua.com`：提交 `codex/server-deploy`，同步 `/var/lib/song-search/singer-configs.json`，运行 `/usr/local/bin/song-search-refresh.sh`，用公网 `/api/bootstrap` 与 `/api/search` 验证。
+4. 再做 GitHub Pages：只在用户明确要求时处理 `main`。如果 Actions 5-10 分钟没有可用产物，直接复用服务器已经生成的新 `data/<file>.js`、`data/index.json` 和 `scripts/source-profiles.json`，提交并推送 `main` 触发 Pages deploy。
+5. 手工静态数据提交后，取消 headSha 早于该提交的旧 Auto Update Song List workflow，避免旧刷新产物回写覆盖。
+6. 验证双端时分别看：`culua.com` 的 `rawFiles/rawSourceStats/sourceProfiles/sourceDisplayMap`、关键 BV 搜索命中、`data/<file>.js` 可访问；GitHub Pages 的 `data/index.json`、`scripts/source-profiles.json`、`data/<file>.js` 和 Pages deployment 结果。
+
+如果用户要求小来源也立刻在左侧独立展示，那是另一类需求，需要改 `server.js` 的 `COMBINED_SOURCE_MAX_SONGS` 或展示映射逻辑；单纯新增来源时不要顺手改阈值。
 
 运行时配置备份示例：
 
