@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 7/19/2026, 8:00:26 PM
+// 生成时间: 7/19/2026, 9:42:22 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1075,6 +1075,166 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-16]快来找我吧！带给你治愈与元气🌟歌回🎤 一色イズ ⟡ Isshiki_IS",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11bNo67EFg?p=24",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Believe",
+  "artist": "Folder5",
+  "collection": "【歌切】[2026-07-18]令人怀念的🌻夏日歌曲串烧🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE8L?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Boys & Girls",
+  "artist": "浜崎あゆみ",
+  "collection": "【歌切】[2026-07-18]令人怀念的🌻夏日歌曲串烧🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE8L?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ミュージック・アワー",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-07-18]令人怀念的🌻夏日歌曲串烧🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE8L?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "HIGH PRESSURE",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-18]令人怀念的🌻夏日歌曲串烧🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE8L?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-18]令人怀念的🌻夏日歌曲串烧🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE8L?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "夏色",
+  "artist": "ゆず",
+  "collection": "【歌切】[2026-07-18]令人怀念的🌻夏日歌曲串烧🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE8L?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ポニーテールとシュシュ",
+  "artist": "AKB48",
+  "collection": "【歌切】[2026-07-18]令人怀念的🌻夏日歌曲串烧🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE8L?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Everyday、カチューシャ",
+  "artist": "AKB48",
+  "collection": "【歌切】[2026-07-18]令人怀念的🌻夏日歌曲串烧🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE8L?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "JOY",
+  "artist": "YUKI",
+  "collection": "【歌切】[2026-07-18]令人怀念的🌻夏日歌曲串烧🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE8L?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "BLUE BIRD",
+  "artist": "浜崎あゆみ",
+  "collection": "【歌切】[2026-07-18]令人怀念的🌻夏日歌曲串烧🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE8L?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-07-18]令人怀念的🌻夏日歌曲串烧🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE8L?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "君と羊と青",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-07-18]令人怀念的🌻夏日歌曲串烧🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE8L?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Driver's High",
+  "artist": "L'Arc-en-Ciel",
+  "collection": "【歌切】[2026-07-18]令人怀念的🌻夏日歌曲串烧🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE8L?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "HEAVEN'S DRIVE",
+  "artist": "L'Arc-en-Ciel",
+  "collection": "【歌切】[2026-07-18]令人怀念的🌻夏日歌曲串烧🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE8L?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "夜の踊り子",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-07-18]令人怀念的🌻夏日歌曲串烧🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE8L?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "AM11 : 00",
+  "artist": "HY",
+  "collection": "【歌切】[2026-07-18]令人怀念的🌻夏日歌曲串烧🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE8L?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "花火",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-07-18]令人怀念的🌻夏日歌曲串烧🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE8L?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "【歌切】[2026-07-18]令人怀念的🌻夏日歌曲串烧🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE8L?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "SEASONS",
+  "artist": "浜崎あゆみ",
+  "collection": "【歌切】[2026-07-18]令人怀念的🌻夏日歌曲串烧🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE8L?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "secret base〜君がくれたもの〜",
+  "artist": "ZONE",
+  "collection": "【歌切】[2026-07-18]令人怀念的🌻夏日歌曲串烧🎙 一色イズ ⟡ Isshiki_IS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE8L?p=20",
   "source": "isshikiizu.js"
 }
 );

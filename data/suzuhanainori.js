@@ -1,6 +1,6 @@
 // 鈴花いのり - 歌单数据 (多合集汇总)
 // 来源: BV1jyjK6sEns
-// 生成时间: 7/19/2026, 7:57:59 PM
+// 生成时间: 7/19/2026, 9:38:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -867,6 +867,318 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-05]星期日定期活动 𝜗𝜚.⋆ 来听首歌吧？♡ 初见的朋友超欢迎！ 鈴花いのり - Suzuhana Inori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J6TU6REj2?p=36",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=1",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=2",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "チルドレンレコード",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=3",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=4",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "立ち上がリーヨ",
+  "artist": "T-Pistonz",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=5",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=6",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "可愛くてごめん",
+  "artist": "HoneyWorks",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=7",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=8",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "トゥインクル",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=9",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "青春コンプレックス",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=10",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "少年よ我に帰れ",
+  "artist": "やくしまるえつこ",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=11",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "激動",
+  "artist": "UVERworld",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=12",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Alright!ハートキャッチプリキュア!",
+  "artist": "池田彩",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=13",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=14",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ベノム",
+  "artist": "かいりきベア feat.flower",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=15",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "もうそう♡えくすぷれす",
+  "artist": "千石撫子(花澤香菜)",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=16",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=17",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "sweets parade",
+  "artist": "髏々宮カルタ（花澤香菜）",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=18",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "小さな恋のうた（新垣結衣ver）",
+  "artist": "新垣結衣 MONGOL800",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=19",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "SOS",
+  "artist": "黛冬優子(幸村恵理)",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=20",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=21",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "サインはB",
+  "artist": "B小町",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=22",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=23",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Flyer!",
+  "artist": "Chinozo feat.FloweR",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=24",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=25",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "タイムマシン",
+  "artist": "1640mP feat.初音ミク",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=26",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat.初音ミク",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=27",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat.GUMI",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=28",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=29",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "みむかゥわナイストライ",
+  "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=30",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "カレーのちライス",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=31",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=32",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat.GUMI",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=33",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "恋のうた",
+  "artist": "Yunomi",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=34",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Alice in 冷凍庫",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=35",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "夜咄ディセイブ",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=36",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ぼくはくま",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=37",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=38",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKENN",
+  "collection": "【歌切】[2026-07-19]星期日定期𝜗𝜚.⋆ 点歌歌回♡也欢迎初次见面的朋友！ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x4Kk6jELz?p=39",
   "source": "suzuhanainori.js"
 }
 );

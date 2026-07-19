@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 7/19/2026, 7:32:43 PM
+// 生成时间: 7/19/2026, 9:15:40 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1811,6 +1811,118 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-26]画面或声音是否会出问题！？直播挑战 羽澄さひろ / Hasumi Sahiro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sq7E6rEuM?p=20",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "二十九、三十",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-07-19]诶！？从早上4点就开歌回！？ 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV144Kk6jEBP?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "幸せ",
+  "artist": "back number",
+  "collection": "【歌切】[2026-07-19]诶！？从早上4点就开歌回！？ 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV144Kk6jEBP?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "欲望に満ちた青年団",
+  "artist": "ONE OK ROCK",
+  "collection": "【歌切】[2026-07-19]诶！？从早上4点就开歌回！？ 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV144Kk6jEBP?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "napori",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-07-19]诶！？从早上4点就开歌回！？ 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV144Kk6jEBP?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ヒトリノ夜",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-07-19]诶！？从早上4点就开歌回！？ 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV144Kk6jEBP?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "幻",
+  "artist": "My Hair is Bad",
+  "collection": "【歌切】[2026-07-19]诶！？从早上4点就开歌回！？ 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV144Kk6jEBP?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ブルーアンバー",
+  "artist": "back number",
+  "collection": "【歌切】[2026-07-19]诶！？从早上4点就开歌回！？ 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV144Kk6jEBP?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "助演女優症2",
+  "artist": "back number",
+  "collection": "【歌切】[2026-07-19]诶！？从早上4点就开歌回！？ 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV144Kk6jEBP?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "助演女優症",
+  "artist": "back number",
+  "collection": "【歌切】[2026-07-19]诶！？从早上4点就开歌回！？ 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV144Kk6jEBP?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "喝采",
+  "artist": "ちあきなおみ",
+  "collection": "【歌切】[2026-07-19]诶！？从早上4点就开歌回！？ 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV144Kk6jEBP?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ズルい女",
+  "artist": "シャ乱Q",
+  "collection": "【歌切】[2026-07-19]诶！？从早上4点就开歌回！？ 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV144Kk6jEBP?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "透明人間",
+  "artist": "東京事変",
+  "collection": "【歌切】[2026-07-19]诶！？从早上4点就开歌回！？ 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV144Kk6jEBP?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Q&A",
+  "artist": "SUPER BEAVER",
+  "collection": "【歌切】[2026-07-19]诶！？从早上4点就开歌回！？ 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV144Kk6jEBP?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "僕は初音ミクとキスをした",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-07-19]诶！？从早上4点就开歌回！？ 羽澄さひろ / Hasumi Sahiro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV144Kk6jEBP?p=14",
   "source": "hasumisahiro.js"
 }
 );

@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/19/2026, 7:56:16 PM
+// 生成时间: 7/19/2026, 9:36:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -16219,6 +16219,190 @@ window.SONG_DATA.push(
   "collection": "ラティオ・ユィリス歌切 2026-07-11 想唱很多高难度的术力口歌曲✨🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jaNN6sEz6?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "ドリームランド",
+  "artist": "みずな",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "妄想スケッチ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "キャットフード",
+  "artist": "doriko",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ビエロ",
+  "artist": "KEI",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat.GUMI",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ODDS&ENDS",
+  "artist": "ryo(supercell)",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "脱法ロック",
+  "artist": "Neru",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "或る化け猫の恋物語",
+  "artist": "Nem",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "カダロウデイズ",
+  "artist": "じん feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "チルドレンレコード",
+  "artist": "じん feat.IA",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "夜話ディセイブ",
+  "artist": "じん feat.IA",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "如月アテンション",
+  "artist": "じん feat.IA",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "空想フォレスト",
+  "artist": "じん feat.IA",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん feat.IA",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "ロスタイムメモリー",
+  "artist": "じん feat.IA",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "独りんぼエンビィー",
+  "artist": "電ポルP feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "曖昧劣情Lover",
+  "artist": "電ポルP feat.flower",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "Lap Tap Love",
+  "artist": "電ポルP feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "従属ふりったー",
+  "artist": "電ポルP feat.初音ミク",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "心象カスケード",
+  "artist": "電ポルP feat.flower",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "トエト",
+  "artist": "トラボルタ",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "Fire◎Flower",
+  "artist": "absorb",
+  "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=23",
   "source": "others.js"
 },
     {

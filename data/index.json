@@ -24,34 +24,34 @@
     "romany.js",
     "friends.js",
     "relay.js",
-    "culua.js",
     "hasumisahiro.js",
     "aimarun.js",
     "nanashirikka.js",
     "gabinoheya.js",
     "stratia.js",
     "karakurinne.js",
-    "yamadasharo.js",
     "kyoka.js",
     "noapolaris.js",
     "mikage.js",
+    "yamadasharo.js",
     "tulsi.js",
     "luminous.js",
     "hinachibi.js",
-    "hanamaruhareru.js",
-    "hanabasamikyo.js",
     "kanaruhanon.js",
     "azki.js",
     "toka10summer.js",
     "ibaramuan.js",
     "323.js",
     "minaton.js",
+    "culua.js",
     "others.js",
     "neno.js",
     "suzuhanainori.js",
     "chiyourachomi.js",
     "tamamachipue.js",
     "isshikiizu.js",
+    "hanamaruhareru.js",
+    "hanabasamikyo.js",
     "bv1qa9jb6eaw.js",
     "ronaru.js",
     "manomueru.js",
@@ -69,13 +69,13 @@
     "chiyutori ": "知悠",
     "momijimaru": "紅葉丸",
     "kukuri": "戸鎖くくり",
-    "naraetan": "なれたん",
+    "naraetan": "なれたん Naraetan",
     "figaro": "Figaro",
-    "ririsya": "凛々咲",
-    "suu_usuwa": "稀羽すう",
+    "ririsya": "凛凛咲 ririsya",
+    "suu_usuwa": "稀羽すう Suu_Usuwa",
     "ray": "來-Ray-",
-    "sakusan": "酢酸",
-    "yoshika": "よしか🦍",
+    "sakusan": "酢酸 / SAKUSAN",
+    "yoshika": "よしか YOSHIKA",
     "yuri": "優莉 yuri",
     "otomoneruki": "音門るき",
     "linon": "天籠りのん",
@@ -84,38 +84,38 @@
     "shuna": "朱名",
     "nayuta": "nayuta",
     "MunMosh": "むんもっしゅ",
-    "kotatsu": "はるこたつぶとん倶楽部",
+    "kotatsu": "KOTATSU",
     "sumica": "澄花",
-    "romany": "ロマニードットアイオー",
+    "romany": "ロマニ",
     "friends": "联动",
     "relay": "接力",
-    "culua": "CULUA",
     "hasumisahiro": "羽澄さひろ",
     "aimarun": "あいまるん。",
     "nanashirikka": "ななし律歌",
     "gabinoheya": "がびのお部屋",
     "stratia": "すとらてぃあ-Stratia",
     "karakurinne": "からくりんね-KarakuRinne",
-    "yamadasharo": "山田シャロ",
     "kyoka": "響架",
     "noapolaris": "ノア・ポラリス",
     "mikage": "深影",
+    "yamadasharo": "山田シャロ",
     "tulsi": "魔王トゥルシー",
     "luminous": "るみなす・すいーと",
     "hinachibi": "緋那ちび",
-    "hanamaruhareru": "花丸晴琉",
-    "hanabasamikyo": "花鋏キョウ",
     "kanaruhanon": "香鳴ハノン",
     "azki": "AZKi",
     "toka10summer": "透夏",
     "ibaramuan": "茨むあん",
     "minaton": "みなとん",
+    "culua": "CULUA",
     "others": "非常驻妹妹",
     "neno": "碧生ねの",
     "suzuhanainori": "鈴花いのり",
     "chiyourachomi": "千代浦蝶美",
     "tamamachipue": "玉町ぷえ",
     "isshikiizu": "一色イズ",
+    "hanamaruhareru": "花丸晴琉",
+    "hanabasamikyo": "花鋏キョウ",
     "bv1qa9jb6eaw": "陽月るるふ",
     "ronaru": "炉なる",
     "manomueru": "魔ノむえる",
@@ -171,7 +171,7 @@
       "statsAvgSortDeferred": false
     },
     "naraetan": {
-      "alias": "なれたん",
+      "alias": "なれたん Naraetan",
       "avatarText": "な",
       "avatarUrl": "https://yt3.googleusercontent.com/W4w2PDkpz0oUAV9K3-wzNGX9ZCpiicq6reMVHT-dSg1ETb_dn0iHywExI63AOBviCQTkBZQA=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/channel/UCFP9UkgIM_U8NfzRbYEOQdA",
@@ -187,7 +187,7 @@
       "statsAvgSortDeferred": false
     },
     "ririsya": {
-      "alias": "凛々咲",
+      "alias": "凛凛咲 ririsya",
       "avatarText": "凛",
       "avatarUrl": "https://yt3.googleusercontent.com/T6jR2t17S1fHQADDkBmO0ujiPU7XdD3oya4FgKI4ftbrslrkNmlF-gX1hnYVtnk2FYehAP-2_g=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/channel/UC1ucgoC_sGww_Euu5iMqpQw",
@@ -195,7 +195,7 @@
       "statsAvgSortDeferred": false
     },
     "suu_usuwa": {
-      "alias": "稀羽すう",
+      "alias": "稀羽すう Suu_Usuwa",
       "avatarText": "稀",
       "avatarUrl": "https://yt3.googleusercontent.com/EWO6EW7j7mpbtK9jW5U03-6_3sTGSUT0QVzZkRNCmoXehO3jtPONWNWd1H9EzP2EHFSnA0j6yQ=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
@@ -211,7 +211,7 @@
       "statsAvgSortDeferred": true
     },
     "sakusan": {
-      "alias": "酢酸",
+      "alias": "酢酸 / SAKUSAN",
       "avatarText": "酢",
       "avatarUrl": "https://yt3.googleusercontent.com/bw92gqJilcSmj2oEPG3yKmadIWGSmKmGJ8I7f74oPZGpboGrmeGcV1IHExIuVWMIpJ7K2aRI0w=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/channel/UCd6sVOxaZoX2NPrYw3nStdg",
@@ -219,7 +219,7 @@
       "statsAvgSortDeferred": false
     },
     "yoshika": {
-      "alias": "よしか🦍",
+      "alias": "よしか YOSHIKA",
       "avatarText": "よ",
       "avatarUrl": "https://yt3.googleusercontent.com/NlOkg-yQnAsiZQjVK7Kaqa7XOMF6X8MW0gN1dpyqOHDb4RCb_lc3IKQqN3nWbPukPidWZzCZyA=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/channel/UC3xQCiEPSkco54WhuiDcngw",
@@ -291,7 +291,7 @@
       "statsAvgSortDeferred": false
     },
     "kotatsu": {
-      "alias": "はるこたつぶとん倶楽部",
+      "alias": "KOTATSU",
       "avatarText": "K",
       "avatarUrl": "https://yt3.googleusercontent.com/9CmojX-ubAb7RRowchKxXthMuRf9DP8CwJiGkWYDg6sbKp2D-Th9qr9d9nh8lfYCBDesOuTsNFg=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/channel/UCvmpT7L9S3iE2bG49AIhJNA",
@@ -307,7 +307,7 @@
       "statsAvgSortDeferred": false
     },
     "romany": {
-      "alias": "ロマニードットアイオー",
+      "alias": "ロマニ",
       "avatarText": "ロ",
       "avatarUrl": "https://yt3.googleusercontent.com/BE8k3VGxpyMEJSsOhwYzxpq6obZo7ysp0Te6hIqN5e1eNibor7Okm-RiXeWWcE1Kc8lPPw4GP6A=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/channel/UCi-RFlRj6gIpSoJAEp5_MnQ",
@@ -329,14 +329,6 @@
       "youtubeUrl": "https://www.youtube.com/channel/UCHv-JirenvPMNJeFhrhEfxw",
       "accentColor": "hsl(121 55% 36%)",
       "statsAvgSortDeferred": true
-    },
-    "culua": {
-      "alias": "CULUA",
-      "avatarText": "C",
-      "avatarUrl": "https://yt3.googleusercontent.com/Y5jMzu71NkgY0MA8bRLNNJNYS3o2kC09RZM-XWd6r13zqoN81meROl1UzjukJcYbCcwYRReO9g=s176-c-k-c0x00ffffff-no-rj",
-      "youtubeUrl": "https://www.youtube.com/channel/UCn1Zf28m6WbhMDjMjdIjOIA",
-      "accentColor": "hsl(358 55% 36%)",
-      "statsAvgSortDeferred": false
     },
     "hasumisahiro": {
       "alias": "羽澄さひろ",
@@ -386,14 +378,6 @@
       "accentColor": "hsl(79 55% 36%)",
       "statsAvgSortDeferred": false
     },
-    "yamadasharo": {
-      "alias": "山田シャロ",
-      "avatarText": "山",
-      "avatarUrl": "https://yt3.googleusercontent.com/_EB0G2obqhWNYxHAmDFXBQ_v53hND8_ZpO5rlHEQ7EqfxfAPv-VKeeygwFx032MjeYB0dhbJluQ=s176-c-k-c0x00ffffff-no-rj",
-      "youtubeUrl": "https://www.youtube.com/channel/UCRs5FaqLm7Aaun7SlvBC7Qg",
-      "accentColor": "hsl(328 55% 36%)",
-      "statsAvgSortDeferred": false
-    },
     "kyoka": {
       "alias": "響架",
       "avatarText": "響",
@@ -418,6 +402,14 @@
       "accentColor": "hsl(24 55% 36%)",
       "statsAvgSortDeferred": false
     },
+    "yamadasharo": {
+      "alias": "山田シャロ",
+      "avatarText": "山",
+      "avatarUrl": "https://yt3.googleusercontent.com/_EB0G2obqhWNYxHAmDFXBQ_v53hND8_ZpO5rlHEQ7EqfxfAPv-VKeeygwFx032MjeYB0dhbJluQ=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/channel/UCRs5FaqLm7Aaun7SlvBC7Qg",
+      "accentColor": "hsl(328 55% 36%)",
+      "statsAvgSortDeferred": false
+    },
     "tulsi": {
       "alias": "魔王トゥルシー",
       "avatarText": "魔",
@@ -440,22 +432,6 @@
       "avatarUrl": "https://yt3.googleusercontent.com/37YtaDRWjJON_rw4XI0c88tbFWA_yPjp3Wsk3ArLMbvq0m_t3avGHsx4VqG1UcJ9JejPYmG1KQ=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/@hinachibi",
       "accentColor": "hsl(159 55% 36%)",
-      "statsAvgSortDeferred": false
-    },
-    "hanamaruhareru": {
-      "alias": "花丸晴琉",
-      "avatarText": "花",
-      "avatarUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kFMTmkKV3XOpO-610EE6b10_bWYznZ-riyfknwh2N4vg=s176-c-k-c0x00ffffff-no-rj",
-      "youtubeUrl": "https://www.youtube.com/@hareruhanamaru",
-      "accentColor": "hsl(82 55% 36%)",
-      "statsAvgSortDeferred": true
-    },
-    "hanabasamikyo": {
-      "alias": "花鋏キョウ",
-      "avatarText": "花",
-      "avatarUrl": "https://yt3.googleusercontent.com/YFD87IueOX8p7UcywKgJmTIlsxlbhxTACJZTiAAp2rBPT3_AeQMliFFdX-zFrlAq0FQan9_nvQ=s176-c-k-c0x00ffffff-no-rj",
-      "youtubeUrl": "https://www.youtube.com/@Kyo_Hanabasami",
-      "accentColor": "hsl(132 55% 36%)",
       "statsAvgSortDeferred": false
     },
     "kanaruhanon": {
@@ -496,6 +472,14 @@
       "avatarUrl": "https://yt3.googleusercontent.com/jcUXGFPCToubnmGv3tDEbmZG1I4LsHoiN9Xo0UYPkCl7ziKxIQZxUlzBcfG0rpyF4cIuuPoR=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/channel/UClalgSZ1Q4m2j96cP24XGBw",
       "accentColor": "hsl(180 55% 36%)",
+      "statsAvgSortDeferred": false
+    },
+    "culua": {
+      "alias": "CULUA",
+      "avatarText": "C",
+      "avatarUrl": "https://yt3.googleusercontent.com/Y5jMzu71NkgY0MA8bRLNNJNYS3o2kC09RZM-XWd6r13zqoN81meROl1UzjukJcYbCcwYRReO9g=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/channel/UCn1Zf28m6WbhMDjMjdIjOIA",
+      "accentColor": "hsl(358 55% 36%)",
       "statsAvgSortDeferred": false
     },
     "others": {
@@ -544,6 +528,22 @@
       "avatarUrl": "https://yt3.googleusercontent.com/S7IoWZcIetb6pyLz2MOaeED82tlocv0N87QXfjWyhRlhzyDC2fQVIh3rejXB0wCt5CMzXYry=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/@一色イズ",
       "accentColor": "hsl(156 55% 36%)",
+      "statsAvgSortDeferred": false
+    },
+    "hanamaruhareru": {
+      "alias": "花丸晴琉",
+      "avatarText": "花",
+      "avatarUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kFMTmkKV3XOpO-610EE6b10_bWYznZ-riyfknwh2N4vg=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/@hareruhanamaru",
+      "accentColor": "hsl(82 55% 36%)",
+      "statsAvgSortDeferred": true
+    },
+    "hanabasamikyo": {
+      "alias": "花鋏キョウ",
+      "avatarText": "花",
+      "avatarUrl": "https://yt3.googleusercontent.com/YFD87IueOX8p7UcywKgJmTIlsxlbhxTACJZTiAAp2rBPT3_AeQMliFFdX-zFrlAq0FQan9_nvQ=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/@Kyo_Hanabasami",
+      "accentColor": "hsl(132 55% 36%)",
       "statsAvgSortDeferred": false
     },
     "bv1qa9jb6eaw": {

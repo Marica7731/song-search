@@ -1,6 +1,6 @@
 // Sen†Sational - 歌单数据 (多合集汇总)
 // 来源: BV1ybNo67EQ5
-// 生成时间: 7/20/2026, 4:12:01 AM
+// 生成时间: 7/19/2026, 9:51:08 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11,21 +11,7 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=1",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051213352,
-  "page": 1,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 222,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
 },
     {
   "title": "晴る",
@@ -33,21 +19,7 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=2",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051213505,
-  "page": 2,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 268,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
 },
     {
   "title": "ただ君に晴れ",
@@ -55,21 +27,7 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=3",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051214419,
-  "page": 3,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 205,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
 },
     {
   "title": "HOT LIMIT",
@@ -77,21 +35,7 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=4",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051214524,
-  "page": 4,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 217,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
 },
     {
   "title": "Pretender",
@@ -99,21 +43,7 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=5",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051214756,
-  "page": 5,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 318,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
 },
     {
   "title": "ミックスナッツ",
@@ -121,21 +51,7 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=6",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051215864,
-  "page": 6,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 211,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
 },
     {
   "title": "ライラック",
@@ -143,21 +59,7 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=7",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051215917,
-  "page": 7,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 287,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
 },
     {
   "title": "ケセラセラ",
@@ -165,21 +67,7 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=8",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051278079,
-  "page": 8,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 277,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
 },
     {
   "title": "僕のこと",
@@ -187,21 +75,7 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=9",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051278294,
-  "page": 9,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 323,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
 },
     {
   "title": "Soranji",
@@ -209,21 +83,7 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=10",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051279214,
-  "page": 10,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 343,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
 },
     {
   "title": "サリシノハラ",
@@ -231,21 +91,7 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=11",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051279373,
-  "page": 11,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 285,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
 },
     {
   "title": "Calc.",
@@ -253,21 +99,7 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=12",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051279843,
-  "page": 12,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 311,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
 },
     {
   "title": "熱帯夜",
@@ -275,21 +107,7 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=13",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051280552,
-  "page": 13,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 249,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
 },
     {
   "title": "生きていたんだよな",
@@ -297,21 +115,7 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=14",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051343524,
-  "page": 14,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 180,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
 },
     {
   "title": "愛を伝えたいだとか",
@@ -319,21 +123,7 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=15",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051343458,
-  "page": 15,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 232,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
 },
     {
   "title": "グッバイ宣言",
@@ -341,21 +131,7 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=16",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051343728,
-  "page": 16,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 171,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
 },
     {
   "title": "群青日和",
@@ -363,21 +139,7 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=17",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051344357,
-  "page": 17,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 221,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
 },
     {
   "title": "NIPPON",
@@ -385,21 +147,7 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=18",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051344751,
-  "page": 18,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 234,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
 },
     {
   "title": "Ghost of a smile",
@@ -407,21 +155,7 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=19",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051345113,
-  "page": 19,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 315,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
 },
     {
   "title": "Mrs. Pumpkinの滑稽な夢",
@@ -429,21 +163,7 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=20",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051345774,
-  "page": 20,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 252,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
 },
     {
   "title": "青のすみか",
@@ -451,21 +171,7 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=21",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051346029,
-  "page": 21,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 212,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
 },
     {
   "title": "いかないで",
@@ -473,21 +179,7 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=22",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051346642,
-  "page": 22,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 232,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
 },
     {
   "title": "水流のロック",
@@ -495,20 +187,246 @@ window.SONG_DATA.push(
   "collection": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EQ5?p=23",
-  "source": "sensational.js",
-  "bvid": "BV1ybNo67EQ5",
-  "aid": 116936423773741,
-  "cid": 40051347310,
-  "page": 23,
-  "pubdate": 1784309221,
-  "ctime": 1784309221,
-  "videoDuration": 5742,
-  "partDuration": 177,
-  "videos": 23,
-  "viewCount": 78,
-  "cover": "https://i2.hdslb.com/bfs/archive/3a8d8e1c93d3dc0616ae3fbb82a226c47ece903d.png@160w_90h_1c.webp",
-  "videoTitle": "Sen†Sational/センセーショナル歌切 2026-07-10 🔴 濡湿的感情",
-  "uploader": "前尘往事如昔故",
-  "uploaderMid": 3546597260528367
+  "source": "sensational.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=1",
+  "source": "sensational.js"
+},
+    {
+  "title": "GHOST",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=2",
+  "source": "sensational.js"
+},
+    {
+  "title": "枯れた竜胆",
+  "artist": "Unbloom",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=3",
+  "source": "sensational.js"
+},
+    {
+  "title": "フィクサー",
+  "artist": "ぬゆり",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=4",
+  "source": "sensational.js"
+},
+    {
+  "title": "メクルメ",
+  "artist": "篠澤 広",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=5",
+  "source": "sensational.js"
+},
+    {
+  "title": "ダイアモンド クレバス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=6",
+  "source": "sensational.js"
+},
+    {
+  "title": "ノーザンクロス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=7",
+  "source": "sensational.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n×中島愛",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=8",
+  "source": "sensational.js"
+},
+    {
+  "title": "ヒステリックナイトガール",
+  "artist": "PSYQUI",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=9",
+  "source": "sensational.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=10",
+  "source": "sensational.js"
+},
+    {
+  "title": "アイ・アイ・ア",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=11",
+  "source": "sensational.js"
+},
+    {
+  "title": "踊",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=12",
+  "source": "sensational.js"
+},
+    {
+  "title": "レディメイド",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=13",
+  "source": "sensational.js"
+},
+    {
+  "title": "君の彼氏になりたい。",
+  "artist": "Snow Man",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=14",
+  "source": "sensational.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=15",
+  "source": "sensational.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=16",
+  "source": "sensational.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=17",
+  "source": "sensational.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス feat.可不",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=18",
+  "source": "sensational.js"
+},
+    {
+  "title": "アンノウン・マザーグース",
+  "artist": "wowaka feat.初音ミク",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=19",
+  "source": "sensational.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=20",
+  "source": "sensational.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=21",
+  "source": "sensational.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師 & 宇多田ヒカル",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=22",
+  "source": "sensational.js"
+},
+    {
+  "title": "フライデー・ナイト",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=23",
+  "source": "sensational.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団ft.安次嶺希和子",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=24",
+  "source": "sensational.js"
+},
+    {
+  "title": "海の幽霊",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=25",
+  "source": "sensational.js"
+},
+    {
+  "title": "幽霊東京",
+  "artist": "Ayase",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=26",
+  "source": "sensational.js"
+},
+    {
+  "title": "シニカルナイトプラン",
+  "artist": "Ayase",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=27",
+  "source": "sensational.js"
+},
+    {
+  "title": "エイリアンズ",
+  "artist": "キリンジ",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=28",
+  "source": "sensational.js"
+},
+    {
+  "title": "Aka",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=29",
+  "source": "sensational.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太",
+  "collection": "【歌切】[2026-07-17]🔴 晚上好，我是教祖。 Sen†Sational/センセーショナル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bHKk6SE9V?p=30",
+  "source": "sensational.js"
 }
 );
