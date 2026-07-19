@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/19/2026, 10:26:29 PM
+// 生成时间: 7/19/2026, 10:41:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -16246,8 +16246,8 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "ビエロ",
-  "artist": "KEI feat. 初音ミク",
+  "title": "ピエロ",
+  "artist": "KEI feat.初音ミク",
   "collection": "あかつき るき / Akatsuki Luci歌切 2026-07-17 唱超多令人怀念的术力口歌曲！！🎤 新观众也热烈欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tHKk6SEGZ?p=4",

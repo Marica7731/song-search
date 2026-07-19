@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 7/19/2026, 9:35:26 PM
+// 生成时间: 7/19/2026, 9:46:18 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5891,6 +5891,46 @@ window.SONG_DATA.push(
   "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=16",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ブルーウォーター",
+  "artist": "森川美穂",
+  "collection": "【👿歌切】[2026-07-19]SonyMusic VEE 旗下的维他命担当恶魔来啦！要唱歌了哦👿🎶 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18EKk6QEb3?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "群青讃歌",
+  "artist": "Eve",
+  "collection": "【👿歌切】[2026-07-19]SonyMusic VEE 旗下的维他命担当恶魔来啦！要唱歌了哦👿🎶 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18EKk6QEb3?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "SPYAIR",
+  "collection": "【👿歌切】[2026-07-19]SonyMusic VEE 旗下的维他命担当恶魔来啦！要唱歌了哦👿🎶 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18EKk6QEb3?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "飛ぶ時",
+  "artist": "Vaundy",
+  "collection": "【👿歌切】[2026-07-19]SonyMusic VEE 旗下的维他命担当恶魔来啦！要唱歌了哦👿🎶 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18EKk6QEb3?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKENN",
+  "collection": "【👿歌切】[2026-07-19]SonyMusic VEE 旗下的维他命担当恶魔来啦！要唱歌了哦👿🎶 Ruki Otokado 音門るき [VEE]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18EKk6QEb3?p=5",
   "source": "otomoneruki.js"
 }
 );
