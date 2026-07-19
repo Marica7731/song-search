@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 7/19/2026, 10:27:53 PM
+// 生成时间: 7/19/2026, 10:35:31 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1659,6 +1659,86 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-15]星期六的生日演唱会前最后一次直播！！听说门票购买到17号截止！！ 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mvN66uEFL?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat.GUMI",
+  "collection": "【歌切】[2025-05-13]新观众也非常欢迎♪🎤 回家路上要不要听一听呢？💓🍎 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEK16JEZL?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "きみのかみ",
+  "artist": "Sori Sawada",
+  "collection": "【歌切】[2025-05-13]新观众也非常欢迎♪🎤 回家路上要不要听一听呢？💓🍎 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEK16JEZL?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "またねがあれば",
+  "artist": "Sori Sawada feat.初音ミク/Sori Sawada",
+  "collection": "【歌切】[2025-05-13]新观众也非常欢迎♪🎤 回家路上要不要听一听呢？💓🍎 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEK16JEZL?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "真生活",
+  "artist": "案山子 feat.初音ミク",
+  "collection": "【歌切】[2025-05-13]新观众也非常欢迎♪🎤 回家路上要不要听一听呢？💓🍎 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEK16JEZL?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "翡翠のまち",
+  "artist": "メル feat.初音ミク",
+  "collection": "【歌切】[2025-05-13]新观众也非常欢迎♪🎤 回家路上要不要听一听呢？💓🍎 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEK16JEZL?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "え？あぁ、そう。",
+  "artist": "蝶々P feat.初音ミク",
+  "collection": "【歌切】[2025-05-13]新观众也非常欢迎♪🎤 回家路上要不要听一听呢？💓🍎 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEK16JEZL?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "【歌切】[2025-05-13]新观众也非常欢迎♪🎤 回家路上要不要听一听呢？💓🍎 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEK16JEZL?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ワールド・ランプシェード",
+  "artist": "buzzG feat.GUMI",
+  "collection": "【歌切】[2025-05-13]新观众也非常欢迎♪🎤 回家路上要不要听一听呢？💓🍎 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEK16JEZL?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "トーマ feat.初音ミク",
+  "collection": "【歌切】[2025-05-13]新观众也非常欢迎♪🎤 回家路上要不要听一听呢？💓🍎 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEK16JEZL?p=9",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "センチメンタルな愛慕心",
+  "artist": "なつめ千秋 feat.GUMI",
+  "collection": "【歌切】[2025-05-13]新观众也非常欢迎♪🎤 回家路上要不要听一听呢？💓🍎 緋那ちび_Vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEK16JEZL?p=10",
   "source": "hinachibi.js"
 }
 );
