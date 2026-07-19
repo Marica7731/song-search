@@ -1,6 +1,6 @@
 // 花前ハル - 歌单数据 (多合集汇总)
 // 来源: BV1dfjx61Eri
-// 生成时间: 7/19/2026, 10:25:51 PM
+// 生成时间: 7/19/2026, 10:46:12 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -787,6 +787,150 @@ window.SONG_DATA.push(
   "collection": "Haru Ch. 花前ハル歌切 2026-07-11 深夜歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VoNP6EE3G?p=26",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-05-06]动画歌曲限定！唱很多首 Haru Ch. 花前ハル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NjK16DEwn?p=1",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-05-06]动画歌曲限定！唱很多首 Haru Ch. 花前ハル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NjK16DEwn?p=2",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-05-06]动画歌曲限定！唱很多首 Haru Ch. 花前ハル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NjK16DEwn?p=3",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "Rising Hope",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-05-06]动画歌曲限定！唱很多首 Haru Ch. 花前ハル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NjK16DEwn?p=4",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "Brave Shine",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-05-06]动画歌曲限定！唱很多首 Haru Ch. 花前ハル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NjK16DEwn?p=5",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-06]动画歌曲限定！唱很多首 Haru Ch. 花前ハル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NjK16DEwn?p=6",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-05-06]动画歌曲限定！唱很多首 Haru Ch. 花前ハル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NjK16DEwn?p=7",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-05-06]动画歌曲限定！唱很多首 Haru Ch. 花前ハル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NjK16DEwn?p=8",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKENN",
+  "collection": "【歌切】[2026-05-03]初次歌回❗️ Haru Ch. 花前ハル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KuK16xE29?p=1",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "春擬き",
+  "artist": "やなぎなぎ",
+  "collection": "【歌切】[2026-05-03]初次歌回❗️ Haru Ch. 花前ハル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KuK16xE29?p=2",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-05-03]初次歌回❗️ Haru Ch. 花前ハル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KuK16xE29?p=3",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "Watch me!",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-05-03]初次歌回❗️ Haru Ch. 花前ハル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KuK16xE29?p=4",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-05-03]初次歌回❗️ Haru Ch. 花前ハル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KuK16xE29?p=5",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-03]初次歌回❗️ Haru Ch. 花前ハル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KuK16xE29?p=6",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-03]初次歌回❗️ Haru Ch. 花前ハル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KuK16xE29?p=7",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "【歌切】[2026-05-03]初次歌回❗️ Haru Ch. 花前ハル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KuK16xE29?p=8",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-05-03]初次歌回❗️ Haru Ch. 花前ハル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KuK16xE29?p=9",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-03]初次歌回❗️ Haru Ch. 花前ハル",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KuK16xE29?p=10",
   "source": "hanamaeharu.js"
 }
 );

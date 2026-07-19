@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 7/19/2026, 9:52:04 PM
+// 生成时间: 7/19/2026, 10:07:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1875,6 +1875,190 @@ window.SONG_DATA.push(
   "collection": "【⚙️🎸歌切】[2026-07-12]在周日的尾声，今天也要精神十足地唱歌！ からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ixNG6rE8C?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "日常革命",
+  "artist": "ねぐせ。",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "星の消えた夜に",
+  "artist": "Aimer",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "あなたがここにいて抱きしめることができるなら",
+  "artist": "miwa",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat.初音ミク",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "#情とは",
+  "artist": "This is LAST",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=8",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=9",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=10",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=11",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "大阪LOVER",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=12",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=13",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=14",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師,宇多田ヒカル",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=15",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "さんぽ",
+  "artist": "井上あずみ",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=16",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "となりのトトロ",
+  "artist": "井上あずみ",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=17",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=18",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "いつも何度でも",
+  "artist": "木村弓",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=19",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ヒロイン",
+  "artist": "back number",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=20",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra & 月見ヤチヨ(早見沙織)",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=21",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=22",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "night whisper",
+  "artist": "からくりんね",
+  "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=23",
   "source": "karakurinne.js"
 }
 );
