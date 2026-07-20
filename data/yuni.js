@@ -1,6 +1,6 @@
 // YuNi - 歌单数据 (多合集汇总)
 // 来源: BV1MAjT6GEF7
-// 生成时间: 7/20/2026, 9:19:14 PM
+// 生成时间: 7/20/2026, 9:30:25 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -163,6 +163,54 @@ window.SONG_DATA.push(
   "collection": "YuNi歌切 2026-07-11 唱人气动漫歌曲！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RaNN6WE69?p=5",
+  "source": "yuni.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-20]海之日的迷你演唱会来啦！！ YuNi - official channel -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uGK46rEsY?p=1",
+  "source": "yuni.js"
+},
+    {
+  "title": "海の声",
+  "artist": "浦島太郎(桐谷健太)",
+  "collection": "【歌切】[2026-07-20]海之日的迷你演唱会来啦！！ YuNi - official channel -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uGK46rEsY?p=2",
+  "source": "yuni.js"
+},
+    {
+  "title": "青い珊瑚礁",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-07-20]海之日的迷你演唱会来啦！！ YuNi - official channel -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uGK46rEsY?p=3",
+  "source": "yuni.js"
+},
+    {
+  "title": "真夏の果実",
+  "artist": "サザンオールスターズ",
+  "collection": "【歌切】[2026-07-20]海之日的迷你演唱会来啦！！ YuNi - official channel -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uGK46rEsY?p=4",
+  "source": "yuni.js"
+},
+    {
+  "title": "WHITE BREATH",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-20]海之日的迷你演唱会来啦！！ YuNi - official channel -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uGK46rEsY?p=5",
+  "source": "yuni.js"
+},
+    {
+  "title": "DAYZ",
+  "artist": "YuNi",
+  "collection": "【歌切】[2026-07-20]海之日的迷你演唱会来啦！！ YuNi - official channel -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uGK46rEsY?p=6",
   "source": "yuni.js"
 }
 );
