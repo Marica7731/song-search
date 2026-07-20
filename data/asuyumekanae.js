@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 7/20/2026, 9:24:50 PM
+// 生成时间: 7/20/2026, 9:44:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4947,6 +4947,198 @@ window.SONG_DATA.push(
   "collection": "【明日夢 歌切】[2026-07-17]星期五就要元气地唱歌！！！！ 明日夢かなえ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RuNo6cEgL?p=26",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "魔法",
+  "artist": "tayori",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Deal with the devil",
+  "artist": "Tia",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "会心の一撃",
+  "artist": "RADWIMPS",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat.可不",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "アルティメットセンパイ",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "CH4NGE",
+  "artist": "Giga feat.可不",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "チューリングラブ",
+  "artist": "ナナヲアカリ feat.Sou",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "なまらめんこいギャル",
+  "artist": "オーイシマサヨシ",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ロウワー",
+  "artist": "ぬゆり feat.flower",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "千鳥",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "負け犬にアンコールはいらない",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花降らし",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=21",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=22",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=23",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=24",
   "source": "asuyumekanae.js"
 },
     {
