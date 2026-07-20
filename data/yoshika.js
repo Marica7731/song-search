@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 7/19/2026, 11:03:34 PM
+// 生成时间: 7/19/2026, 11:20:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -36395,6 +36395,198 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-07-15]欢迎新观众！热得受不了！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12pNo6HEVo?p=26",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子(花澤香菜)",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ロマンスの神様",
+  "artist": "広瀬香美",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋のヘキサゴン",
+  "artist": "Pabo",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Music S.T.A.R.T!!",
+  "artist": "μ's",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "青空Jumping Heart",
+  "artist": "Aqours",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ドリームパレード",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "サインはＢ",
+  "artist": "B小町",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "YUME日和",
+  "artist": "島谷ひとみ",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "青春ライン",
+  "artist": "いきものがかり",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "熱情のスペクトラム",
+  "artist": "いきものがかり",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "太陽の楽園~Promised Land",
+  "artist": "神戸みゆき",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Before the Moment",
+  "artist": "喜多村英梨",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "KODOU ～パーフェクト・ハーモニー～",
+  "artist": "七海るちあ(中田あすみ)・宝生波音(寺門仁美)・洞院リナ(浅野まゆみ)",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "小さな祈り",
+  "artist": "岡崎律子",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP Feat.初音ミク",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "安次嶺希和子",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "小さきもの",
+  "artist": "林明日香",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "小さきもの",
+  "artist": "林明日香",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "あなたがいることで",
+  "artist": "Uru",
+  "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=24",
   "source": "yoshika.js"
 }
 );

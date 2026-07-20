@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 7/19/2026, 10:53:04 PM
+// 生成时间: 7/19/2026, 11:10:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -33155,6 +33155,126 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-07-17]歌回 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D5No6oEMY?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "がらくた",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-07-19]助眠歌回✨请作为睡前陪伴吧🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n6Ky6LEp2?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-07-19]助眠歌回✨请作为睡前陪伴吧🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n6Ky6LEp2?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "しずかだなあ",
+  "artist": "手嶌葵",
+  "collection": "【💐歌切】[2026-07-19]助眠歌回✨请作为睡前陪伴吧🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n6Ky6LEp2?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "やわらかな夜",
+  "artist": "orange pekoe",
+  "collection": "【💐歌切】[2026-07-19]助眠歌回✨请作为睡前陪伴吧🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n6Ky6LEp2?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【💐歌切】[2026-07-19]助眠歌回✨请作为睡前陪伴吧🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n6Ky6LEp2?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-07-19]助眠歌回✨请作为睡前陪伴吧🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n6Ky6LEp2?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-07-19]助眠歌回✨请作为睡前陪伴吧🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n6Ky6LEp2?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "星の消えた夜に",
+  "artist": "Aimer",
+  "collection": "【💐歌切】[2026-07-19]助眠歌回✨请作为睡前陪伴吧🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n6Ky6LEp2?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "家族の風景",
+  "artist": "ハナレグミ",
+  "collection": "【💐歌切】[2026-07-19]助眠歌回✨请作为睡前陪伴吧🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n6Ky6LEp2?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "私とワルツを",
+  "artist": "鬼束ちひろ",
+  "collection": "【💐歌切】[2026-07-19]助眠歌回✨请作为睡前陪伴吧🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n6Ky6LEp2?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "【💐歌切】[2026-07-19]助眠歌回✨请作为睡前陪伴吧🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n6Ky6LEp2?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【💐歌切】[2026-07-19]助眠歌回✨请作为睡前陪伴吧🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n6Ky6LEp2?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "朝を呑む",
+  "artist": "バルーン feat.初音ミク",
+  "collection": "【💐歌切】[2026-07-19]助眠歌回✨请作为睡前陪伴吧🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n6Ky6LEp2?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "エイリアンズ",
+  "artist": "キリンジ",
+  "collection": "【💐歌切】[2026-07-19]助眠歌回✨请作为睡前陪伴吧🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n6Ky6LEp2?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "さよならミッドナイト",
+  "artist": "大柴広己",
+  "collection": "【💐歌切】[2026-07-19]助眠歌回✨请作为睡前陪伴吧🌙 Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n6Ky6LEp2?p=15",
   "source": "figaro.js"
 }
 );
