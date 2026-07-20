@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 7/20/2026, 10:03:29 PM
+// 生成时间: 7/20/2026, 10:11:22 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2059,6 +2059,38 @@ window.SONG_DATA.push(
   "collection": "【⚙️🎸歌切】[2026-07-19]目标8000订阅的弹唱！欢迎新人！！🎸 からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uPK16fEHj?p=23",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "フクロウ ～フクロウが知らせる客が来たと～",
+  "artist": "KOKIA",
+  "collection": "【⚙️🎸歌切】[2026-07-20]可能会听入迷？擅长抒情曲的Vsinger！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MeKx6qEir?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "星の消えた夜に",
+  "artist": "Aimer",
+  "collection": "【⚙️🎸歌切】[2026-07-20]可能会听入迷？擅长抒情曲的Vsinger！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MeKx6qEir?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "歌よ",
+  "artist": "Belle",
+  "collection": "【⚙️🎸歌切】[2026-07-20]可能会听入迷？擅长抒情曲的Vsinger！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MeKx6qEir?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "【⚙️🎸歌切】[2026-07-20]可能会听入迷？擅长抒情曲的Vsinger！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MeKx6qEir?p=4",
   "source": "karakurinne.js"
 }
 );

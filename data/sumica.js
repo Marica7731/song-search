@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 7/20/2026, 9:39:45 PM
+// 生成时间: 7/20/2026, 9:53:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6491,6 +6491,174 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-07-18]凉爽悠闲的弹唱时间🎐𓈒𓏸︎︎︎︎初见者也欢迎来～!!￤澄花 / ぷろぶる -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WeKy6JE5N?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "君とインドカレー",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-07-20]好像是三连休最后一天，来点放松的弹唱怎么样？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghKx6zEu5?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "染まるよ",
+  "artist": "チャットモンチー",
+  "collection": "【💐🎸歌切】[2026-07-20]好像是三连休最后一天，来点放松的弹唱怎么样？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghKx6zEu5?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "世界が終わる夜に",
+  "artist": "チャットモンチー",
+  "collection": "【💐🎸歌切】[2026-07-20]好像是三连休最后一天，来点放松的弹唱怎么样？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghKx6zEu5?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "ときめき",
+  "artist": "チャットモンチー",
+  "collection": "【💐🎸歌切】[2026-07-20]好像是三连休最后一天，来点放松的弹唱怎么样？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghKx6zEu5?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【💐🎸歌切】[2026-07-20]好像是三连休最后一天，来点放松的弹唱怎么样？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghKx6zEu5?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "ピアス",
+  "artist": "あたらよ",
+  "collection": "【💐🎸歌切】[2026-07-20]好像是三连休最后一天，来点放松的弹唱怎么样？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghKx6zEu5?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【💐🎸歌切】[2026-07-20]好像是三连休最后一天，来点放松的弹唱怎么样？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghKx6zEu5?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "NAO",
+  "artist": "HY",
+  "collection": "【💐🎸歌切】[2026-07-20]好像是三连休最后一天，来点放松的弹唱怎么样？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghKx6zEu5?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【💐🎸歌切】[2026-07-20]好像是三连休最后一天，来点放松的弹唱怎么样？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghKx6zEu5?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【💐🎸歌切】[2026-07-20]好像是三连休最后一天，来点放松的弹唱怎么样？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghKx6zEu5?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "帰りの会",
+  "collection": "【💐🎸歌切】[2026-07-20]好像是三连休最后一天，来点放松的弹唱怎么样？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghKx6zEu5?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【💐🎸歌切】[2026-07-20]好像是三连休最后一天，来点放松的弹唱怎么样？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghKx6zEu5?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗 feat.ちびた",
+  "collection": "【💐🎸歌切】[2026-07-20]好像是三连休最后一天，来点放松的弹唱怎么样？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghKx6zEu5?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん feat.IA",
+  "collection": "【💐🎸歌切】[2026-07-20]好像是三连休最后一天，来点放松的弹唱怎么样？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghKx6zEu5?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "ウィステリア",
+  "artist": "Elinica",
+  "collection": "【💐🎸歌切】[2026-07-20]好像是三连休最后一天，来点放松的弹唱怎么样？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghKx6zEu5?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "沈黙の恋人",
+  "artist": "阿部芙蓉美",
+  "collection": "【💐🎸歌切】[2026-07-20]好像是三连休最后一天，来点放松的弹唱怎么样？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghKx6zEu5?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "いつかまた微笑みあえる日が来るまで",
+  "artist": "阿部芙蓉美",
+  "collection": "【💐🎸歌切】[2026-07-20]好像是三连休最后一天，来点放松的弹唱怎么样？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghKx6zEu5?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-20]好像是三连休最后一天，来点放松的弹唱怎么样？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghKx6zEu5?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "啄木鳥",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-20]好像是三连休最后一天，来点放松的弹唱怎么样？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghKx6zEu5?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-07-20]好像是三连休最后一天，来点放松的弹唱怎么样？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghKx6zEu5?p=20",
+  "source": "sumica.js"
+},
+    {
+  "title": "泣き虫上等",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-07-20]好像是三连休最后一天，来点放松的弹唱怎么样？ -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ghKx6zEu5?p=21",
   "source": "sumica.js"
 }
 );

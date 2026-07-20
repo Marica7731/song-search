@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 7/20/2026, 10:02:00 PM
+// 生成时间: 7/20/2026, 10:10:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1139,6 +1139,38 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-07-07]七夕夜的恋爱歌曲🦋🩵 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WEMj6CErg?p=6",
+  "source": "stratia.js"
+},
+    {
+  "title": "AT アイリッド",
+  "artist": "クリープハイプ",
+  "collection": "【🎸🦋歌切】[2026-07-20]希望能成为让大家放松休憩的地方！我会努力做好压轴表演🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSKx6xE28?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【🎸🦋歌切】[2026-07-20]希望能成为让大家放松休憩的地方！我会努力做好压轴表演🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSKx6xE28?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "言葉はさんかくこころは四角",
+  "artist": "くるり",
+  "collection": "【🎸🦋歌切】[2026-07-20]希望能成为让大家放松休憩的地方！我会努力做好压轴表演🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSKx6xE28?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "Last Tear",
+  "artist": "すとらてぃあ",
+  "collection": "【🎸🦋歌切】[2026-07-20]希望能成为让大家放松休憩的地方！我会努力做好压轴表演🦋 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSKx6xE28?p=4",
   "source": "stratia.js"
 }
 );
