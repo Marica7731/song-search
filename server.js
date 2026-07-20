@@ -529,10 +529,13 @@ function splitWithQuotes(str) {
 
   for (let i = 0; i < str.length; i += 1) {
     const char = str[i];
-    if ((char === '"' || char === "'") && !inQuotes) {
+    const prevChar = i > 0 ? str[i - 1] : '';
+    const nextChar = i < str.length - 1 ? str[i + 1] : '';
+    const isWordApostrophe = char === "'" && /[a-z0-9]/i.test(prevChar) && /[a-z0-9]/i.test(nextChar);
+    if ((char === '"' || char === "'") && !inQuotes && !isWordApostrophe) {
       inQuotes = true;
       quoteChar = char;
-    } else if (char === quoteChar && inQuotes) {
+    } else if (char === quoteChar && inQuotes && !isWordApostrophe) {
       inQuotes = false;
       quoteChar = '';
     } else if (char === ' ' && !inQuotes) {
@@ -579,15 +582,27 @@ function parseSearchQuery(query) {
   return { type: 'fuzzy', value: normalizeString(processedQuery) };
 }
 
+function normalizeSearchComparable(text) {
+  return normalizeString(text)
+    .replace(/['"`]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
 function matchesSingleCondition(text, condition) {
   if (!text) return false;
   const normText = normalizeString(text);
+  const normValue = normalizeString(condition.value || '');
+  const comparableText = normalizeSearchComparable(text);
+  const comparableValue = normalizeSearchComparable(condition.value || '');
   switch (condition.type) {
     case 'exact':
-      return normText === condition.value;
+      return normText === normValue
+        || (!!comparableValue && comparableText === comparableValue);
     case 'phrase':
     case 'fuzzy':
-      return normText.includes(condition.value);
+      return normText.includes(normValue)
+        || (!!comparableValue && comparableText.includes(comparableValue));
     default:
       return false;
   }

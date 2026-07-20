@@ -232,6 +232,21 @@
       aliases: ['Let It Go ～ありのままで～', 'Let It Go～ありのままで～']
     },
     {
+      canonical: 'どこまでも~How Far I\'ll Go~',
+      aliases: [
+        'どこまでも～How Far I\'ll Go～',
+        'どこまでも ～How Far I\'ll Go～',
+        'どこまでも〜How Far I\'ll Go〜',
+        'どこまでも ~How Far I\'ll Go~',
+        'どこまでも～How FarI\'ll Go～',
+        'どこまでも ~How FarI\'ll Go~',
+        'How Far I\'ll Go',
+        'How Far I’ll Go',
+        'How Far Ill Go',
+        'How FarI\'ll Go'
+      ]
+    },
+    {
       canonical: '恋におちて-fall in love-',
       aliases: ['恋におちて-Fall in Love-', '恋におちて -Fall in love-']
     },
