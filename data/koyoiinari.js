@@ -1,6 +1,6 @@
 // 狐宵いなり - 歌单数据 (多合集汇总)
 // 来源: BV1an7E6pEUw
-// 生成时间: 7/19/2026, 11:47:36 PM
+// 生成时间: 7/20/2026, 12:05:15 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1115,6 +1115,126 @@ window.SONG_DATA.push(
   "collection": "狐宵いなり歌切 2026-06-26 欢迎初见!! ︴50首耐久‼️唱个够～！！🎤✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1an7E6pEUw?p=50",
+  "source": "koyoiinari.js"
+},
+    {
+  "title": "春風",
+  "artist": "Rihwa",
+  "collection": "【歌切】[2026-07-17]欢迎新人!! ︴ 简短歌回！🎵 狐宵いなり - Inari Koyoi -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nCKy6VE2W?p=1",
+  "source": "koyoiinari.js"
+},
+    {
+  "title": "フィナーレ。",
+  "artist": "eill",
+  "collection": "【歌切】[2026-07-17]欢迎新人!! ︴ 简短歌回！🎵 狐宵いなり - Inari Koyoi -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nCKy6VE2W?p=2",
+  "source": "koyoiinari.js"
+},
+    {
+  "title": "失恋ソング沢山聴いて 泣いてばかりの私はもう。",
+  "artist": "りりあ。",
+  "collection": "【歌切】[2026-07-17]欢迎新人!! ︴ 简短歌回！🎵 狐宵いなり - Inari Koyoi -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nCKy6VE2W?p=3",
+  "source": "koyoiinari.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-07-17]欢迎新人!! ︴ 简短歌回！🎵 狐宵いなり - Inari Koyoi -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nCKy6VE2W?p=4",
+  "source": "koyoiinari.js"
+},
+    {
+  "title": "逆光",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-17]欢迎新人!! ︴ 简短歌回！🎵 狐宵いなり - Inari Koyoi -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nCKy6VE2W?p=5",
+  "source": "koyoiinari.js"
+},
+    {
+  "title": "闇に目を凝らせば",
+  "artist": "GLIM SPANKY",
+  "collection": "【歌切】[2026-07-17]欢迎新人!! ︴ 简短歌回！🎵 狐宵いなり - Inari Koyoi -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nCKy6VE2W?p=6",
+  "source": "koyoiinari.js"
+},
+    {
+  "title": "あたしが隣にいるうちに",
+  "artist": "藤川千愛",
+  "collection": "【歌切】[2026-07-17]欢迎新人!! ︴ 简短歌回！🎵 狐宵いなり - Inari Koyoi -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nCKy6VE2W?p=7",
+  "source": "koyoiinari.js"
+},
+    {
+  "title": "やさしさで溢れるように",
+  "artist": "JUJU",
+  "collection": "【歌切】[2026-07-17]欢迎新人!! ︴ 简短歌回！🎵 狐宵いなり - Inari Koyoi -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nCKy6VE2W?p=8",
+  "source": "koyoiinari.js"
+},
+    {
+  "title": "いつの日も",
+  "artist": "阿部真央",
+  "collection": "【歌切】[2026-07-17]欢迎新人!! ︴ 简短歌回！🎵 狐宵いなり - Inari Koyoi -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nCKy6VE2W?p=9",
+  "source": "koyoiinari.js"
+},
+    {
+  "title": "カワキヲアメク",
+  "artist": "美波",
+  "collection": "【歌切】[2026-07-17]欢迎新人!! ︴ 简短歌回！🎵 狐宵いなり - Inari Koyoi -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nCKy6VE2W?p=10",
+  "source": "koyoiinari.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-17]欢迎新人!! ︴ 简短歌回！🎵 狐宵いなり - Inari Koyoi -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nCKy6VE2W?p=11",
+  "source": "koyoiinari.js"
+},
+    {
+  "title": "きらり",
+  "artist": "藤井風",
+  "collection": "【歌切】[2026-07-17]欢迎新人!! ︴ 简短歌回！🎵 狐宵いなり - Inari Koyoi -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nCKy6VE2W?p=12",
+  "source": "koyoiinari.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-17]欢迎新人!! ︴ 简短歌回！🎵 狐宵いなり - Inari Koyoi -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nCKy6VE2W?p=13",
+  "source": "koyoiinari.js"
+},
+    {
+  "title": "聖槍爆裂ボーイ",
+  "artist": "れるりり/もじゃ feat.鏡音レン",
+  "collection": "【歌切】[2026-07-17]欢迎新人!! ︴ 简短歌回！🎵 狐宵いなり - Inari Koyoi -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nCKy6VE2W?p=14",
+  "source": "koyoiinari.js"
+},
+    {
+  "title": "銀色飛行船",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-07-17]欢迎新人!! ︴ 简短歌回！🎵 狐宵いなり - Inari Koyoi -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nCKy6VE2W?p=15",
   "source": "koyoiinari.js"
 }
 );
