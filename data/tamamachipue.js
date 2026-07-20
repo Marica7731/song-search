@@ -1,6 +1,6 @@
 // 玉町ぷえ - 歌单数据 (多合集汇总)
 // 来源: BV1nUMP6vE7N
-// 生成时间: 7/20/2026, 9:56:44 PM
+// 生成时间: 7/20/2026, 10:00:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -555,6 +555,150 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-07]歌回⌇点赞300有告知!! 闪亮歌回✧˚.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16pMv6XEaD?p=16",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "ポニーテールとシュシュ",
+  "artist": "AKB48",
+  "collection": "【歌切】[2026-07-20]点赞300耐久!! 歌回⌇海之日！唱大海的歌哟⛱.⋆* 玉町ぷえ / Pue Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KiKx6KEBH?p=1",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "Everyday、カチューシャ",
+  "artist": "AKB48",
+  "collection": "【歌切】[2026-07-20]点赞300耐久!! 歌回⌇海之日！唱大海的歌哟⛱.⋆* 玉町ぷえ / Pue Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KiKx6KEBH?p=2",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "渚",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-07-20]点赞300耐久!! 歌回⌇海之日！唱大海的歌哟⛱.⋆* 玉町ぷえ / Pue Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KiKx6KEBH?p=3",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-07-20]点赞300耐久!! 歌回⌇海之日！唱大海的歌哟⛱.⋆* 玉町ぷえ / Pue Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KiKx6KEBH?p=4",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat.初音ミク",
+  "collection": "【歌切】[2026-07-20]点赞300耐久!! 歌回⌇海之日！唱大海的歌哟⛱.⋆* 玉町ぷえ / Pue Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KiKx6KEBH?p=5",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "人魚",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "【歌切】[2026-07-20]点赞300耐久!! 歌回⌇海之日！唱大海的歌哟⛱.⋆* 玉町ぷえ / Pue Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KiKx6KEBH?p=6",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "海色",
+  "artist": "AKINO from bless4",
+  "collection": "【歌切】[2026-07-20]点赞300耐久!! 歌回⌇海之日！唱大海的歌哟⛱.⋆* 玉町ぷえ / Pue Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KiKx6KEBH?p=7",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "月見ヤチヨ(早見沙織)",
+  "collection": "【歌切】[2026-07-20]点赞300耐久!! 歌回⌇海之日！唱大海的歌哟⛱.⋆* 玉町ぷえ / Pue Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KiKx6KEBH?p=8",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "渚にまつわるエトセトラ",
+  "artist": "PUFFY",
+  "collection": "【歌切】[2026-07-20]点赞300耐久!! 歌回⌇海之日！唱大海的歌哟⛱.⋆* 玉町ぷえ / Pue Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KiKx6KEBH?p=9",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-07-20]点赞300耐久!! 歌回⌇海之日！唱大海的歌哟⛱.⋆* 玉町ぷえ / Pue Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KiKx6KEBH?p=10",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-07-20]点赞300耐久!! 歌回⌇海之日！唱大海的歌哟⛱.⋆* 玉町ぷえ / Pue Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KiKx6KEBH?p=11",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-07-20]点赞300耐久!! 歌回⌇海之日！唱大海的歌哟⛱.⋆* 玉町ぷえ / Pue Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KiKx6KEBH?p=12",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "鏡面の波",
+  "artist": "YURiKA",
+  "collection": "【歌切】[2026-07-20]点赞300耐久!! 歌回⌇海之日！唱大海的歌哟⛱.⋆* 玉町ぷえ / Pue Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KiKx6KEBH?p=13",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "life hack",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-07-20]点赞300耐久!! 歌回⌇海之日！唱大海的歌哟⛱.⋆* 玉町ぷえ / Pue Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KiKx6KEBH?p=14",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "ナイロンの糸",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-07-20]点赞300耐久!! 歌回⌇海之日！唱大海的歌哟⛱.⋆* 玉町ぷえ / Pue Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KiKx6KEBH?p=15",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "ナイトフィッシングイズグッド",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-07-20]点赞300耐久!! 歌回⌇海之日！唱大海的歌哟⛱.⋆* 玉町ぷえ / Pue Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KiKx6KEBH?p=16",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "深海のリトルクライ",
+  "artist": "sasakure.UK feat.土岐麻子",
+  "collection": "【歌切】[2026-07-20]点赞300耐久!! 歌回⌇海之日！唱大海的歌哟⛱.⋆* 玉町ぷえ / Pue Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KiKx6KEBH?p=17",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "シャカビーチ ～Laka Laka La～",
+  "artist": "UVERworld",
+  "collection": "【歌切】[2026-07-20]点赞300耐久!! 歌回⌇海之日！唱大海的歌哟⛱.⋆* 玉町ぷえ / Pue Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KiKx6KEBH?p=18",
   "source": "tamamachipue.js"
 }
 );
