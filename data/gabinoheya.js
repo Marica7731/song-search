@@ -1,6 +1,6 @@
 // がびのお部屋 - 歌单数据 (多合集汇总)
 // 来源: BV1YtwtzREbp
-// 生成时间: 7/19/2026, 11:46:59 PM
+// 生成时间: 7/20/2026, 12:05:04 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -475,6 +475,142 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-01]唱抒情歌✨ 唱～♪ がびのお部屋-Gabi's room-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1P9TB6KEZD?p=8",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "どこまでも～How Far I'll Go～",
+  "artist": "屋比久知奈",
+  "collection": "【歌切】[2026-07-17]以抒情歌为主🌆 ～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y5Ky6AErK?p=1",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "パート・オブ・ユア・ワールド",
+  "artist": "すずきまゆみ",
+  "collection": "【歌切】[2026-07-17]以抒情歌为主🌆 ～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y5Ky6AErK?p=2",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "夢に見る ～Waiting On A Wish～",
+  "artist": "吉柳咲良",
+  "collection": "【歌切】[2026-07-17]以抒情歌为主🌆 ～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y5Ky6AErK?p=3",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "魔法のない世界で生きるということ",
+  "artist": "Euluca Lab.",
+  "collection": "【歌切】[2026-07-17]以抒情歌为主🌆 ～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y5Ky6AErK?p=4",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "you",
+  "artist": "癒月",
+  "collection": "【歌切】[2026-07-17]以抒情歌为主🌆 ～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y5Ky6AErK?p=5",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "よくあるはなし",
+  "artist": "ふみの",
+  "collection": "【歌切】[2026-07-17]以抒情歌为主🌆 ～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y5Ky6AErK?p=6",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-07-17]以抒情歌为主🌆 ～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y5Ky6AErK?p=7",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "君の願いが世界を輝かす",
+  "artist": "MISIA",
+  "collection": "【歌切】[2026-07-17]以抒情歌为主🌆 ～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y5Ky6AErK?p=8",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-07-17]以抒情歌为主🌆 ～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y5Ky6AErK?p=9",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "ROSE",
+  "artist": "Kaco",
+  "collection": "【歌切】[2026-07-17]以抒情歌为主🌆 ～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y5Ky6AErK?p=10",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "向日葵",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-17]以抒情歌为主🌆 ～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y5Ky6AErK?p=11",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-17]以抒情歌为主🌆 ～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y5Ky6AErK?p=12",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "空",
+  "artist": "BE:FIRST",
+  "collection": "【歌切】[2026-07-17]以抒情歌为主🌆 ～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y5Ky6AErK?p=13",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "Only You",
+  "artist": "MAZZEL",
+  "collection": "【歌切】[2026-07-17]以抒情歌为主🌆 ～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y5Ky6AErK?p=14",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "素敵なことがあなたを待っている",
+  "artist": "藤田麻衣子",
+  "collection": "【歌切】[2026-07-17]以抒情歌为主🌆 ～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y5Ky6AErK?p=15",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "あなたは幸せになる",
+  "artist": "藤田麻衣子",
+  "collection": "【歌切】[2026-07-17]以抒情歌为主🌆 ～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y5Ky6AErK?p=16",
+  "source": "gabinoheya.js"
+},
+    {
+  "title": "ホール・ニュー・ワールド",
+  "artist": "石井一孝・麻生かほ里",
+  "collection": "【歌切】[2026-07-17]以抒情歌为主🌆 ～♪ がびのお部屋-Gabi's room-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Y5Ky6AErK?p=17",
   "source": "gabinoheya.js"
 }
 );
