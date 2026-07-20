@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 7/20/2026, 9:12:16 PM
+// 生成时间: 7/20/2026, 9:31:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -36587,6 +36587,46 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-07-18]欢迎新人！夏天来了！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NvKy6SEx5?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夏色えがおで1,2,Jump!",
+  "artist": "μ's",
+  "collection": "【🍠🦍歌切】[2026-07-20]最好的夏日回忆！一起创造吧🌴🍠 YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SGK466Eqw?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【🍠🦍歌切】[2026-07-20]最好的夏日回忆！一起创造吧🌴🍠 YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SGK466Eqw?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夏夕空",
+  "artist": "中孝介",
+  "collection": "【🍠🦍歌切】[2026-07-20]最好的夏日回忆！一起创造吧🌴🍠 YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SGK466Eqw?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "HANABI",
+  "artist": "いきものがかり",
+  "collection": "【🍠🦍歌切】[2026-07-20]最好的夏日回忆！一起创造吧🌴🍠 YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SGK466Eqw?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "あっぱれ！馬鹿騒ぎ",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-07-20]最好的夏日回忆！一起创造吧🌴🍠 YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SGK466Eqw?p=5",
   "source": "yoshika.js"
 }
 );
