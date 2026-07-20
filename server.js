@@ -584,8 +584,15 @@ function parseSearchQuery(query) {
 
 function normalizeSearchComparable(text) {
   return normalizeString(text)
+    .replace(/\s*~\s*/g, '~')
     .replace(/['"`]/g, '')
     .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function normalizeSearchCompact(text) {
+  return normalizeSearchComparable(text)
+    .replace(/[\s._\-~・･]+/g, '')
     .trim();
 }
 
@@ -595,14 +602,18 @@ function matchesSingleCondition(text, condition) {
   const normValue = normalizeString(condition.value || '');
   const comparableText = normalizeSearchComparable(text);
   const comparableValue = normalizeSearchComparable(condition.value || '');
+  const compactText = normalizeSearchCompact(text);
+  const compactValue = normalizeSearchCompact(condition.value || '');
   switch (condition.type) {
     case 'exact':
       return normText === normValue
-        || (!!comparableValue && comparableText === comparableValue);
+        || (!!comparableValue && comparableText === comparableValue)
+        || (!!compactValue && compactText === compactValue);
     case 'phrase':
     case 'fuzzy':
       return normText.includes(normValue)
-        || (!!comparableValue && comparableText.includes(comparableValue));
+        || (!!comparableValue && comparableText.includes(comparableValue))
+        || (compactValue.length >= 3 && compactText.includes(compactValue));
     default:
       return false;
   }
@@ -2113,18 +2124,16 @@ function handleAllSongs(reqUrl, res) {
 function filterSongs(source, keyword) {
   let data = getSourceScopedSongs(source);
 
-  const kw = normalizeString(keyword || '');
-  if (kw) {
-    const artistCondition = { type: 'fuzzy', value: kw };
+  const condition = { type: 'fuzzy', value: keyword || '' };
+  if (normalizeString(keyword || '')) {
+    const artistCondition = { type: 'fuzzy', value: keyword || '' };
     data = data.filter(item => {
-      const title = normalizeString(item.title || '');
-      const artist = normalizeString(item.artist || '');
-      const collection = normalizeString(item.collection || '');
-      const originalArtist = normalizeString(item.originalArtist || '');
-      return title.includes(kw)
-        || collection.includes(kw)
-        || artist.includes(kw)
-        || originalArtist.includes(kw)
+      const artist = item.artist || '';
+      const originalArtist = item.originalArtist || '';
+      return matchesSingleCondition(item.title || '', condition)
+        || matchesSingleCondition(item.collection || '', condition)
+        || matchesSingleCondition(artist, condition)
+        || matchesSingleCondition(originalArtist, condition)
         || matchesArtistCondition(artist, artistCondition)
         || matchesArtistCondition(originalArtist, artistCondition);
     });
