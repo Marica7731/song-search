@@ -1,6 +1,6 @@
 // ななし律歌 - 歌单数据 (多合集汇总)
 // 来源: BV1wHQVBTEU5
-// 生成时间: 7/19/2026, 11:22:39 PM
+// 生成时间: 7/19/2026, 11:35:26 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -995,6 +995,150 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-04]生日就是要唱好多好多喜欢的歌🎂🎤 ななし律歌 / Nanashi Rikka",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wcMP6BEgd?p=12",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-18]睡前要来一首吗？🌙🎧 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L9Ky6iEAs?p=1",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-07-18]睡前要来一首吗？🌙🎧 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L9Ky6iEAs?p=2",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ずうっといっしょ！",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-07-18]睡前要来一首吗？🌙🎧 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L9Ky6iEAs?p=3",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-07-18]睡前要来一首吗？🌙🎧 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L9Ky6iEAs?p=4",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "曖昧劣情Lover",
+  "artist": "電ポルP feat.flower",
+  "collection": "【歌切】[2026-07-18]睡前要来一首吗？🌙🎧 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L9Ky6iEAs?p=5",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "快晴",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-07-18]睡前要来一首吗？🌙🎧 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L9Ky6iEAs?p=6",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki",
+  "collection": "【歌切】[2026-07-18]睡前要来一首吗？🌙🎧 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L9Ky6iEAs?p=7",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ロケットサイダー",
+  "artist": "ナユタン星人 feat.初音ミク",
+  "collection": "【歌切】[2026-07-18]睡前要来一首吗？🌙🎧 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L9Ky6iEAs?p=8",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "あの夏が飽和する。",
+  "artist": "カンザキイオリ feat.鏡音レン",
+  "collection": "【歌切】[2026-07-18]睡前要来一首吗？🌙🎧 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L9Ky6iEAs?p=9",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "君の脈で踊りたかった",
+  "artist": "ピコン feat.初音ミク",
+  "collection": "【歌切】[2026-07-18]睡前要来一首吗？🌙🎧 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L9Ky6iEAs?p=10",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "背景、夏に溺れる",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-07-18]睡前要来一首吗？🌙🎧 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L9Ky6iEAs?p=11",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKENN",
+  "collection": "【歌切】[2026-07-18]睡前要来一首吗？🌙🎧 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L9Ky6iEAs?p=12",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-07-18]睡前要来一首吗？🌙🎧 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L9Ky6iEAs?p=13",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Starduster",
+  "artist": "ジミーサムP feat.初音ミク",
+  "collection": "【歌切】[2026-07-18]睡前要来一首吗？🌙🎧 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L9Ky6iEAs?p=14",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Henceforth",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-07-18]睡前要来一首吗？🌙🎧 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L9Ky6iEAs?p=15",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "花筏",
+  "artist": "Orangestar feat.夏背",
+  "collection": "【歌切】[2026-07-18]睡前要来一首吗？🌙🎧 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L9Ky6iEAs?p=16",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-18]睡前要来一首吗？🌙🎧 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L9Ky6iEAs?p=17",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-18]睡前要来一首吗？🌙🎧 ななし律歌 / Nanashi Rikka",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L9Ky6iEAs?p=18",
   "source": "nanashirikka.js"
 }
 );

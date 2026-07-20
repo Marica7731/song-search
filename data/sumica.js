@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 7/19/2026, 11:07:28 PM
+// 生成时间: 7/19/2026, 11:19:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6371,6 +6371,126 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-07-14]☾ 原声吉他 ☽让你稍微喜欢上今夜的弹唱⟡.*￤澄花 / ぷろぶる -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zDNh6TEmK?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "8.8",
+  "artist": "あたらよ",
+  "collection": "【💐🎸歌切】[2026-07-18]凉爽悠闲的弹唱时间🎐𓈒𓏸︎︎︎︎初见者也欢迎来～!!￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeKy6JE5N?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-18]凉爽悠闲的弹唱时间🎐𓈒𓏸︎︎︎︎初见者也欢迎来～!!￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeKy6JE5N?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "キュートアグレッション",
+  "artist": "キタニタツヤ",
+  "collection": "【💐🎸歌切】[2026-07-18]凉爽悠闲的弹唱时间🎐𓈒𓏸︎︎︎︎初见者也欢迎来～!!￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeKy6JE5N?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【💐🎸歌切】[2026-07-18]凉爽悠闲的弹唱时间🎐𓈒𓏸︎︎︎︎初见者也欢迎来～!!￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeKy6JE5N?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヰ世界の宝石譚",
+  "artist": "ヰ世界情緒",
+  "collection": "【💐🎸歌切】[2026-07-18]凉爽悠闲的弹唱时间🎐𓈒𓏸︎︎︎︎初见者也欢迎来～!!￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeKy6JE5N?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "人として",
+  "artist": "SUPER BEAVER",
+  "collection": "【💐🎸歌切】[2026-07-18]凉爽悠闲的弹唱时间🎐𓈒𓏸︎︎︎︎初见者也欢迎来～!!￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeKy6JE5N?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "太陽に笑え",
+  "artist": "Anly",
+  "collection": "【💐🎸歌切】[2026-07-18]凉爽悠闲的弹唱时间🎐𓈒𓏸︎︎︎︎初见者也欢迎来～!!￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeKy6JE5N?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-07-18]凉爽悠闲的弹唱时间🎐𓈒𓏸︎︎︎︎初见者也欢迎来～!!￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeKy6JE5N?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "バカでしょ",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-07-18]凉爽悠闲的弹唱时间🎐𓈒𓏸︎︎︎︎初见者也欢迎来～!!￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeKy6JE5N?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "エイミー",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-18]凉爽悠闲的弹唱时间🎐𓈒𓏸︎︎︎︎初见者也欢迎来～!!￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeKy6JE5N?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "【💐🎸歌切】[2026-07-18]凉爽悠闲的弹唱时间🎐𓈒𓏸︎︎︎︎初见者也欢迎来～!!￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeKy6JE5N?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【💐🎸歌切】[2026-07-18]凉爽悠闲的弹唱时间🎐𓈒𓏸︎︎︎︎初见者也欢迎来～!!￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeKy6JE5N?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "猫とアレルギー",
+  "artist": "きのこ帝国",
+  "collection": "【💐🎸歌切】[2026-07-18]凉爽悠闲的弹唱时间🎐𓈒𓏸︎︎︎︎初见者也欢迎来～!!￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeKy6JE5N?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "泣き虫上等",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-07-18]凉爽悠闲的弹唱时间🎐𓈒𓏸︎︎︎︎初见者也欢迎来～!!￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeKy6JE5N?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-07-18]凉爽悠闲的弹唱时间🎐𓈒𓏸︎︎︎︎初见者也欢迎来～!!￤澄花 / ぷろぶる -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WeKy6JE5N?p=15",
   "source": "sumica.js"
 }
 );
