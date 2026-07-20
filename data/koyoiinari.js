@@ -1,6 +1,6 @@
 // 狐宵いなり - 歌单数据 (多合集汇总)
 // 来源: BV1an7E6pEUw
-// 生成时间: 7/20/2026, 5:42:17 PM
+// 生成时间: 7/20/2026, 5:53:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1223,7 +1223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "聖槍爆裂ボーイ",
-  "artist": "れるりり/もじゃ feat.鏡音レン",
+  "artist": "れるりり・もじゃ feat. 鏡音レン",
   "collection": "【歌切】[2026-07-17]欢迎新人!! ︴ 简短歌回！🎵 狐宵いなり - Inari Koyoi -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nCKy6VE2W?p=14",
