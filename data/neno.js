@@ -1,6 +1,6 @@
 // 碧生ねの - 歌单数据 (多合集汇总)
 // 来源: BV1S4TT6pEn4
-// 生成时间: 7/20/2026, 5:35:48 PM
+// 生成时间: 7/20/2026, 5:42:24 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -219,6 +219,206 @@ window.SONG_DATA.push(
   "collection": "Neonoah Ch. 碧生ねの歌切 2026-02-26 今天一起Yorushika之夜🎸🪽 歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1u4TT6WESG?p=12",
+  "source": "neno.js"
+},
+    {
+  "title": "第一夜",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=1",
+  "source": "neno.js"
+},
+    {
+  "title": "第六感",
+  "artist": "Reol",
+  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=2",
+  "source": "neno.js"
+},
+    {
+  "title": "ロストワンの号哭",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=3",
+  "source": "neno.js"
+},
+    {
+  "title": "サムライハート",
+  "artist": "SPYAIR",
+  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=4",
+  "source": "neno.js"
+},
+    {
+  "title": "自由に捕らわれる。",
+  "artist": "カンザキイオリ feat.初音ミク",
+  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=5",
+  "source": "neno.js"
+},
+    {
+  "title": "Sky chord ~大人になる君へ~",
+  "artist": "辻詩音",
+  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=6",
+  "source": "neno.js"
+},
+    {
+  "title": "11文字の伝言",
+  "artist": "Sound Horizon",
+  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=7",
+  "source": "neno.js"
+},
+    {
+  "title": "最愛",
+  "artist": "KOH+",
+  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=8",
+  "source": "neno.js"
+},
+    {
+  "title": "Planetes",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=9",
+  "source": "neno.js"
+},
+    {
+  "title": "Perfect Day",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=10",
+  "source": "neno.js"
+},
+    {
+  "title": "ピエロ",
+  "artist": "KEI feat.初音ミク",
+  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=11",
+  "source": "neno.js"
+},
+    {
+  "title": "Oz.",
+  "artist": "yama",
+  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=12",
+  "source": "neno.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=1",
+  "source": "neno.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=2",
+  "source": "neno.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=3",
+  "source": "neno.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=4",
+  "source": "neno.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=5",
+  "source": "neno.js"
+},
+    {
+  "title": "季節は次々死んでいく",
+  "artist": "amazarashi",
+  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=6",
+  "source": "neno.js"
+},
+    {
+  "title": "月光浴",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=7",
+  "source": "neno.js"
+},
+    {
+  "title": "Calc. (Eng Ver.)",
+  "artist": "ジミーサムP feat.初音ミク",
+  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=8",
+  "source": "neno.js"
+},
+    {
+  "title": "letter song",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=9",
+  "source": "neno.js"
+},
+    {
+  "title": "雫",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=10",
+  "source": "neno.js"
+},
+    {
+  "title": "太陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=11",
+  "source": "neno.js"
+},
+    {
+  "title": "高音厨音域テスト",
+  "artist": "木村わいP feat.初音ミク",
+  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=12",
+  "source": "neno.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat.初音ミク",
+  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=13",
   "source": "neno.js"
 },
     {
@@ -547,206 +747,6 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-10]悠闲早晨的竖屏歌回🎶 Neonoah Ch. 碧生ねの",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cpNj6cEcp?p=9",
-  "source": "neno.js"
-},
-    {
-  "title": "ノーチラス",
-  "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=1",
-  "source": "neno.js"
-},
-    {
-  "title": "夜行",
-  "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=2",
-  "source": "neno.js"
-},
-    {
-  "title": "ベテルギウス",
-  "artist": "優里",
-  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=3",
-  "source": "neno.js"
-},
-    {
-  "title": "ドライフラワー",
-  "artist": "優里",
-  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=4",
-  "source": "neno.js"
-},
-    {
-  "title": "カタオモイ",
-  "artist": "Aimer",
-  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=5",
-  "source": "neno.js"
-},
-    {
-  "title": "季節は次々死んでいく",
-  "artist": "amazarashi",
-  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=6",
-  "source": "neno.js"
-},
-    {
-  "title": "月光浴",
-  "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=7",
-  "source": "neno.js"
-},
-    {
-  "title": "Calc. (Eng Ver.)",
-  "artist": "ジミーサムP feat.初音ミク",
-  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=8",
-  "source": "neno.js"
-},
-    {
-  "title": "letter song",
-  "artist": "doriko feat.初音ミク",
-  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=9",
-  "source": "neno.js"
-},
-    {
-  "title": "雫",
-  "artist": "スキマスイッチ",
-  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=10",
-  "source": "neno.js"
-},
-    {
-  "title": "太陽",
-  "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=11",
-  "source": "neno.js"
-},
-    {
-  "title": "高音厨音域テスト",
-  "artist": "木村わいP feat.初音ミク",
-  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=12",
-  "source": "neno.js"
-},
-    {
-  "title": "とても素敵な六月でした",
-  "artist": "Eight feat.初音ミク",
-  "collection": "【歌切】[2026-05-28]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1siN66BEEj?p=13",
-  "source": "neno.js"
-},
-    {
-  "title": "第一夜",
-  "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=1",
-  "source": "neno.js"
-},
-    {
-  "title": "第六感",
-  "artist": "Reol",
-  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=2",
-  "source": "neno.js"
-},
-    {
-  "title": "ロストワンの号哭",
-  "artist": "Neru feat.鏡音リン",
-  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=3",
-  "source": "neno.js"
-},
-    {
-  "title": "サムライハート",
-  "artist": "SPYAIR",
-  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=4",
-  "source": "neno.js"
-},
-    {
-  "title": "自由に捕らわれる。",
-  "artist": "カンザキイオリ feat.初音ミク",
-  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=5",
-  "source": "neno.js"
-},
-    {
-  "title": "Sky chord ~大人になる君へ~",
-  "artist": "辻詩音",
-  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=6",
-  "source": "neno.js"
-},
-    {
-  "title": "11文字の伝言",
-  "artist": "Sound Horizon",
-  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=7",
-  "source": "neno.js"
-},
-    {
-  "title": "最愛",
-  "artist": "KOH+",
-  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=8",
-  "source": "neno.js"
-},
-    {
-  "title": "Planetes",
-  "artist": "EGOIST",
-  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=9",
-  "source": "neno.js"
-},
-    {
-  "title": "Perfect Day",
-  "artist": "supercell",
-  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=10",
-  "source": "neno.js"
-},
-    {
-  "title": "ピエロ",
-  "artist": "KEI feat.初音ミク",
-  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=11",
-  "source": "neno.js"
-},
-    {
-  "title": "Oz.",
-  "artist": "yama",
-  "collection": "【歌切】[2026-05-19]悠闲的深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1cAN66wEzJ?p=12",
   "source": "neno.js"
 },
     {
