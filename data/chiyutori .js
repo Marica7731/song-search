@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 7/21/2026, 9:56:24 PM
+// 生成时间: 7/21/2026, 10:06:00 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5915,6 +5915,54 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-13]同接600+频道5200订阅&1450赞感谢！唱到尽兴的歌回！ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13bNh6pE6U?p=59",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "音楽のすゝめ",
+  "artist": "日食なつこ",
+  "collection": "【歌切】[2026-07-21]再度回味Live的感动！？CROSS×CROSS的精彩✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6Ke6vE2q?p=1",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【歌切】[2026-07-21]再度回味Live的感动！？CROSS×CROSS的精彩✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6Ke6vE2q?p=2",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "フラグメント",
+  "artist": "VIER",
+  "collection": "【歌切】[2026-07-21]再度回味Live的感动！？CROSS×CROSS的精彩✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6Ke6vE2q?p=3",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "ローリンガール",
+  "artist": "wowaka feat.初音ミク",
+  "collection": "【歌切】[2026-07-21]再度回味Live的感动！？CROSS×CROSS的精彩✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6Ke6vE2q?p=4",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "世界のつづき",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-21]再度回味Live的感动！？CROSS×CROSS的精彩✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6Ke6vE2q?p=5",
+  "source": "chiyutori .js"
+},
+    {
+  "title": "覚醒",
+  "artist": "Superfly",
+  "collection": "【歌切】[2026-07-21]再度回味Live的感动！？CROSS×CROSS的精彩✨ 知悠 - Chiyutori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6Ke6vE2q?p=6",
   "source": "chiyutori .js"
 }
 );
