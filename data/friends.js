@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 7/21/2026, 9:50:40 PM
+// 生成时间: 7/21/2026, 10:02:15 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3003,6 +3003,142 @@ window.SONG_DATA.push(
   "collection": "七海うらら*歌channel联动歌切 2026-07-14 与稀羽Suu酱的工作室联动歌回，七海Urala首次Zepp纪念！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zDNh6TEdE?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "トライアングラー",
+  "artist": "ランカ・リー＝中島愛/シェリル・ノーム starring May'n",
+  "collection": "联动歌切 2026-07-21 与阳月Rurufu酱联动！七海Urara首次Zepp纪念 七海うらら*歌channel",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rnKe6EEV6?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "射手座☆午後九時Don't be late",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "联动歌切 2026-07-21 与阳月Rurufu酱联动！七海Urara首次Zepp纪念 七海うらら*歌channel",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rnKe6EEV6?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "联动歌切 2026-07-21 与阳月Rurufu酱联动！七海Urara首次Zepp纪念 七海うらら*歌channel",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rnKe6EEV6?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "蒼のエーテル",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "联动歌切 2026-07-21 与阳月Rurufu酱联动！七海Urara首次Zepp纪念 七海うらら*歌channel",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rnKe6EEV6?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "ノーザンクロス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "联动歌切 2026-07-21 与阳月Rurufu酱联动！七海Urara首次Zepp纪念 七海うらら*歌channel",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rnKe6EEV6?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "アナタノオト",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "联动歌切 2026-07-21 与阳月Rurufu酱联动！七海Urara首次Zepp纪念 七海うらら*歌channel",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rnKe6EEV6?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "ユニバーサル・バニー",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "联动歌切 2026-07-21 与阳月Rurufu酱联动！七海Urara首次Zepp纪念 七海うらら*歌channel",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rnKe6EEV6?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "虹いろ クマクマ",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "联动歌切 2026-07-21 与阳月Rurufu酱联动！七海Urara首次Zepp纪念 七海うらら*歌channel",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rnKe6EEV6?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "放課後オーバーフロウ",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "联动歌切 2026-07-21 与阳月Rurufu酱联动！七海Urara首次Zepp纪念 七海うらら*歌channel",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rnKe6EEV6?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "娘々スペシャルサービスメドレー(特盛り)",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "联动歌切 2026-07-21 与阳月Rurufu酱联动！七海Urara首次Zepp纪念 七海うらら*歌channel",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rnKe6EEV6?p=10",
+  "source": "friends.js"
+},
+    {
+  "title": "Beautiful World",
+  "artist": "宇多田ヒカル",
+  "collection": "联动歌切 2026-07-21 与彩雲のの酱梦想成真！唱歌聊天 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ViKe6MEpa?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "magnet",
+  "artist": "流星P feat.初音ミク・巡音ルカ",
+  "collection": "联动歌切 2026-07-21 与彩雲のの酱梦想成真！唱歌聊天 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ViKe6MEpa?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "Mornin’ Bell",
+  "artist": "稀羽すう",
+  "collection": "联动歌切 2026-07-21 与彩雲のの酱梦想成真！唱歌聊天 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ViKe6MEpa?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "他人事の音がする",
+  "artist": "あめのむらくもP feat.GUMI",
+  "collection": "联动歌切 2026-07-21 与彩雲のの酱梦想成真！唱歌聊天 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ViKe6MEpa?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "エイリアンズ",
+  "artist": "キリンジ",
+  "collection": "联动歌切 2026-07-21 与彩雲のの酱梦想成真！唱歌聊天 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ViKe6MEpa?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "満ちてゆく",
+  "artist": "藤井風",
+  "collection": "联动歌切 2026-07-21 与彩雲のの酱梦想成真！唱歌聊天 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ViKe6MEpa?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "恋",
+  "artist": "星野源",
+  "collection": "联动歌切 2026-07-21 与彩雲のの酱梦想成真！唱歌聊天 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ViKe6MEpa?p=7",
   "source": "friends.js"
 }
 );
