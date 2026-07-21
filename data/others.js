@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/21/2026, 10:17:17 PM
+// 生成时间: 7/21/2026, 10:27:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1166,137 +1166,9 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "ロミオとシンデレラ",
-  "artist": "doriko",
-  "collection": "联动歌切 涼海ネモ × Figaro [2026-03-27]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1t3XyBMECH?p=5",
-  "source": "others.js"
-},
-    {
-  "title": "群青",
-  "artist": "YOASOBI",
-  "collection": "联动歌切 涼海ネモ × Figaro [2026-03-27]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1t3XyBMECH?p=6",
-  "source": "others.js"
-},
-    {
-  "title": "悪魔の子",
-  "artist": "ヒグチアイ",
-  "collection": "联动歌切 涼海ネモ × Figaro [2026-03-27]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1t3XyBMECH?p=7",
-  "source": "others.js"
-},
-    {
-  "title": "夜明けと蛍",
-  "artist": "n-buna",
-  "collection": "联动歌切 涼海ネモ × Figaro [2026-03-27]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1t3XyBMECH?p=8",
-  "source": "others.js"
-},
-    {
-  "title": "初恋サイダー",
-  "artist": "Buono! 🦢△▼🌚",
-  "collection": "🦢△▼🌚 稀羽すう❌巫てんり❌涼海ネモ 2026-03-29 联动歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZbX9B2EY3?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "Together",
-  "artist": "あきよしふみえの △▼solo",
-  "collection": "🦢△▼🌚 稀羽すう❌巫てんり❌涼海ネモ 2026-03-29 联动歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZbX9B2EY3?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "夜もすがら君想ふ",
-  "artist": "西沢さんP △▼🌚",
-  "collection": "🦢△▼🌚 稀羽すう❌巫てんり❌涼海ネモ 2026-03-29 联动歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZbX9B2EY3?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "異端なスター",
-  "artist": "Official髭男dism 🦢solo",
-  "collection": "🦢△▼🌚 稀羽すう❌巫てんり❌涼海ネモ 2026-03-29 联动歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZbX9B2EY3?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "夜撫でるメノウ",
-  "artist": "Ayase 🦢△▼",
-  "collection": "🦢△▼🌚 稀羽すう❌巫てんり❌涼海ネモ 2026-03-29 联动歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZbX9B2EY3?p=5",
-  "source": "others.js"
-},
-    {
-  "title": "藍二乗",
-  "artist": "ヨルシカ 🌚solo",
-  "collection": "🦢△▼🌚 稀羽すう❌巫てんり❌涼海ネモ 2026-03-29 联动歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZbX9B2EY3?p=6",
-  "source": "others.js"
-},
-    {
-  "title": "忘れてください",
-  "artist": "ヨルシカ 🦢🌚",
-  "collection": "🦢△▼🌚 稀羽すう❌巫てんり❌涼海ネモ 2026-03-29 联动歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZbX9B2EY3?p=7",
-  "source": "others.js"
-},
-    {
-  "title": "ラブレター",
-  "artist": "YOASOBI 🦢△▼🌚",
-  "collection": "🦢△▼🌚 稀羽すう❌巫てんり❌涼海ネモ 2026-03-29 联动歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZbX9B2EY3?p=8",
-  "source": "others.js"
-},
-    {
-  "title": "ray",
-  "artist": "BUMP OF CHICKEN 🦢△▼🌚",
-  "collection": "🦢△▼🌚 稀羽すう❌巫てんり❌涼海ネモ 2026-03-29 联动歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZbX9B2EY3?p=9",
-  "source": "others.js"
-},
-    {
-  "title": "Plazma",
-  "artist": "米津玄師",
-  "collection": "🦢💐 稀羽すう × Figaro 联动歌切 2026-03-31",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nMXCBHEKt?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "プラチナ",
-  "artist": "坂本真綾",
-  "collection": "🦢💐 稀羽すう × Figaro 联动歌切 2026-03-31",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nMXCBHEKt?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "すずめ",
-  "artist": "RADWIMPS",
-  "collection": "🦢💐 稀羽すう × Figaro 联动歌切 2026-03-31",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nMXCBHEKt?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "Bunny Girl",
-  "artist": "AKASAKI",
-  "collection": "🦢💐 稀羽すう × Figaro 联动歌切 2026-03-31",
+  "title": "アンノウン・マザーグース",
+  "artist": "wowaka feat. 初音ミク",
+  "collection": "ラティオ・ユィリス歌切 2026-07-11 想唱很多高难度的术力口歌曲✨🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nMXCBHEKt?p=4",
   "source": "others.js"
