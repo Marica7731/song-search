@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 7/20/2026, 10:18:15 PM
+// 生成时间: 7/20/2026, 10:28:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4731,6 +4731,182 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-07-16]盛夏正式开始了呢🍉 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NbNo6EEsB?p=22",
+  "source": "kukuri.js"
+},
+    {
+  "title": "金魚花火",
+  "artist": "大塚愛",
+  "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "楔",
+  "artist": "奥華子",
+  "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "最後の恋",
+  "artist": "奥華子",
+  "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "花無双",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "泡沫花火",
+  "artist": "神はサイコロを振らない",
+  "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夜永唄",
+  "artist": "神はサイコロを振らない",
+  "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "流星群",
+  "artist": "鬼束ちひろ",
+  "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "金魚すくい",
+  "artist": "藤田麻衣子",
+  "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "さよなら君の声",
+  "artist": "美郷あき",
+  "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "words",
+  "artist": "Aimer",
+  "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "この世界で見つけたもの",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "対象a",
+  "artist": "anNina",
+  "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "雪国",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ちっぽけな愛のうた",
+  "artist": "大原櫻子",
+  "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=21",
+  "source": "kukuri.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=22",
   "source": "kukuri.js"
 }
 );
