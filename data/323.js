@@ -1,6 +1,6 @@
 // 323 - 歌单数据 (多合集汇总)
 // 来源: BV1r75B6LEwd
-// 生成时间: 7/21/2026, 10:32:25 PM
+// 生成时间: 7/21/2026, 10:46:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2899,6 +2899,54 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-19]低于89分即刻下播？！炸弹歌回！ 323",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HBKy62EN3?p=21",
+  "source": "323.js"
+},
+    {
+  "title": "ふわふわ時間",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-07-21]初见◎BGM◎平成动画歌曲限定歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QwKe6hEaH?p=1",
+  "source": "323.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【歌切】[2026-07-21]初见◎BGM◎平成动画歌曲限定歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QwKe6hEaH?p=2",
+  "source": "323.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾・茅原実里・後藤邑子",
+  "collection": "【歌切】[2026-07-21]初见◎BGM◎平成动画歌曲限定歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QwKe6hEaH?p=3",
+  "source": "323.js"
+},
+    {
+  "title": "1・2・3",
+  "artist": "After the Rain",
+  "collection": "【歌切】[2026-07-21]初见◎BGM◎平成动画歌曲限定歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QwKe6hEaH?p=4",
+  "source": "323.js"
+},
+    {
+  "title": "Snow halation",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-07-21]初见◎BGM◎平成动画歌曲限定歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QwKe6hEaH?p=5",
+  "source": "323.js"
+},
+    {
+  "title": "YUME日和",
+  "artist": "島谷ひとみ",
+  "collection": "【歌切】[2026-07-21]初见◎BGM◎平成动画歌曲限定歌回！ 323",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QwKe6hEaH?p=6",
   "source": "323.js"
 }
 );

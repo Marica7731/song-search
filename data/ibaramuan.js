@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 7/21/2026, 10:31:40 PM
+// 生成时间: 7/21/2026, 10:45:33 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5619,6 +5619,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "深昏睡",
+  "artist": "春野 feat.初音ミク",
+  "collection": "【歌切】[2026-07-21]这里是放松会场，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DcKe6wEQ1?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "フクロウ ～フクロウが知らせる客が来たと～",
+  "artist": "KOKIA",
+  "collection": "【歌切】[2026-07-21]这里是放松会场，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DcKe6wEQ1?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-21]这里是放松会场，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DcKe6wEQ1?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "フリージア",
+  "artist": "Uru",
+  "collection": "【歌切】[2026-07-21]这里是放松会场，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DcKe6wEQ1?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-07-21]这里是放松会场，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DcKe6wEQ1?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "from Y to Y",
+  "artist": "ジミーサムP feat.初音ミク",
+  "collection": "【歌切】[2026-07-21]这里是放松会场，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DcKe6wEQ1?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-21]这里是放松会场，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DcKe6wEQ1?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "弱虫モンブラン",
+  "artist": "DECO*27 feat.GUMI",
+  "collection": "【歌切】[2026-07-21]这里是放松会场，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DcKe6wEQ1?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "さよならミッドナイト",
+  "artist": "もじゃ",
+  "collection": "【歌切】[2026-07-21]这里是放松会场，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DcKe6wEQ1?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ピエロ",
+  "artist": "KEI feat.初音ミク",
+  "collection": "【歌切】[2026-07-21]这里是放松会场，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DcKe6wEQ1?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-07-21]这里是放松会场，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DcKe6wEQ1?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "シザーハンズ",
+  "artist": "Nem feat.初音ミク",
+  "collection": "【歌切】[2026-07-21]这里是放松会场，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DcKe6wEQ1?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太 feat.歌愛ユキ",
+  "collection": "【歌切】[2026-07-21]这里是放松会场，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DcKe6wEQ1?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN feat.鏡音リン",
+  "collection": "【歌切】[2026-07-21]这里是放松会场，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DcKe6wEQ1?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "永遠のあくる日",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-21]这里是放松会场，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DcKe6wEQ1?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【歌切】[2026-07-21]这里是放松会场，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DcKe6wEQ1?p=16",
   "source": "ibaramuan.js"
 }
 );
