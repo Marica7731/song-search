@@ -538,7 +538,8 @@
   const ARTIST_AGNOSTIC_IDENTITY_KEYS = new Set([
     normalizeString('ワールドイズマイン'),
     normalizeString('ワールドイズマインCPK! Remix'),
-    normalizeString('ray（超かぐや姫！Ver.）')
+    normalizeString('ray（超かぐや姫！Ver.）'),
+    normalizeString('炉心融解')
   ]);
 
   function getCanonicalSongIdentityDisplay(songOrTitle) {
