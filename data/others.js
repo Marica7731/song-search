@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/21/2026, 9:17:20 PM
+// 生成时间: 7/21/2026, 9:31:09 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -614,39 +614,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "ひまわりの約束",
-  "artist": "秦基博",
-  "collection": "【歌切】[2026-07-10]明天是Live！好好享受吧✊ 欢迎新观众 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SeNc6iERN?p=20",
-  "source": "others.js"
-},
-    {
-  "title": "ツキミソウ",
-  "artist": "Novelbright",
-  "collection": "【歌切】[2026-07-10]明天是Live！好好享受吧✊ 欢迎新观众 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SeNc6iERN?p=21",
-  "source": "others.js"
-},
-    {
-  "title": "水平線",
-  "artist": "back number",
-  "collection": "【歌切】[2026-07-10]明天是Live！好好享受吧✊ 欢迎新观众 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SeNc6iERN?p=22",
-  "source": "others.js"
-},
-    {
-  "title": "忘れじの言の葉",
-  "artist": "未来古代楽団 feat. 安次嶺希和子",
-  "collection": "【歌切】[2026-07-10]明天是Live！好好享受吧✊ 欢迎新观众 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SeNc6iERN?p=23",
-  "source": "others.js"
-},
-    {
-  "title": "火星人",
+  "title": "都落ち",
   "artist": "ヨルシカ",
   "collection": "歌势推荐：渚沢シチ 2026-03-06 Rjs6oWcVHXI",
   "up": "前尘往事如昔故",
@@ -15995,134 +15963,6 @@ window.SONG_DATA.push(
   "collection": "ファム・ファタル - (f)EMME FATALE歌切 2026-07-12 带来令人开心的重大告知的歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xYN666EpL?p=9",
-  "source": "others.js"
-},
-    {
-  "title": "ロミオとシンデレラ",
-  "artist": "doriko feat.初音ミク",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "ブラック★ロックシューター",
-  "artist": "supercell feat.初音ミク",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "ワールドイズマイン",
-  "artist": "ryo(supercell) feat.初音ミク",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "夕景イエスタデイ",
-  "artist": "じん feat.IA",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "モザイクロール",
-  "artist": "DECO*27 feat.GUMI・初音ミク",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=5",
-  "source": "others.js"
-},
-    {
-  "title": "千本桜",
-  "artist": "黒うさP feat.初音ミク",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=6",
-  "source": "others.js"
-},
-    {
-  "title": "恋愛裁判",
-  "artist": "40mP feat.初音ミク",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=7",
-  "source": "others.js"
-},
-    {
-  "title": "脳漿炸裂ガール",
-  "artist": "れるりり(当社比P) feat.初音ミク・GUMI",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=8",
-  "source": "others.js"
-},
-    {
-  "title": "深海少女",
-  "artist": "ゆうゆ feat.初音ミク",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=9",
-  "source": "others.js"
-},
-    {
-  "title": "初音ミクの消失",
-  "artist": "cosMo@暴走P feat.初音ミク",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=10",
-  "source": "others.js"
-},
-    {
-  "title": "のだ",
-  "artist": "大漠波新 feat.ずんだもん・初音ミク・重音テト",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=11",
-  "source": "others.js"
-},
-    {
-  "title": "右肩の蝶",
-  "artist": "のりぴー feat.鏡音リン・鏡音レン",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=12",
-  "source": "others.js"
-},
-    {
-  "title": "オーバーライド",
-  "artist": "吉田夜世 feat.重音テト",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=13",
-  "source": "others.js"
-},
-    {
-  "title": "神っぽいな",
-  "artist": "ピノキオピー feat.初音ミク",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=14",
-  "source": "others.js"
-},
-    {
-  "title": "高音厨音域テスト",
-  "artist": "木村わいP feat.初音ミク",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=15",
-  "source": "others.js"
-},
-    {
-  "title": "からくりピエロ",
-  "artist": "40mP feat.初音ミク",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=16",
   "source": "others.js"
 },
     {
