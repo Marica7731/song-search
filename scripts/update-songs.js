@@ -193,7 +193,8 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1yVVe6BE16"], file: "amamiruka", alias: "雨海ルカ" },
     { bvids: ["BV1an7E6pEUw"], file: "koyoiinari", alias: "狐宵いなり" },
     { bvids: ["BV1PE7J6CESH"], file: "otowarara", alias: "音羽ララ" },
-    { bvids: ["BV1MAjT6GEF7"], file: "yuni", alias: "YuNi" }
+    { bvids: ["BV1MAjT6GEF7"], file: "yuni", alias: "YuNi" },
+    { bvids: ["BV1iXKY6qEKv"], file: "peruciaten", alias: "ぺるしあ・てん" }
 ];
 
 function resolveConfig(config) {
