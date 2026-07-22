@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 7/22/2026, 9:02:40 AM
+// 生成时间: 7/22/2026, 9:09:50 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5478,8 +5478,8 @@ window.SONG_DATA.push(
   "source": "ibaramuan.js"
 },
     {
-  "title": "快晴",
-  "artist": "Orangestar feat.IA",
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat.初音ミク",
   "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=6",
@@ -5598,8 +5598,8 @@ window.SONG_DATA.push(
   "source": "ibaramuan.js"
 },
     {
-  "title": "ラブホテル",
-  "artist": "クリープハイプ",
+  "title": "寄り酔い",
+  "artist": "和ぬか",
   "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=21",
