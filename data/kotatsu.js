@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 7/22/2026, 5:49:52 PM
+// 生成时间: 7/22/2026, 6:06:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8787,6 +8787,102 @@ window.SONG_DATA.push(
   "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "サンドイッチ",
+  "artist": "高橋優",
+  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "花束",
+  "artist": "back number",
+  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "心壊サミット",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat.初音ミク",
+  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "下北沢のギターロック",
+  "artist": "3markets",
+  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "生きてることが辛いなら",
+  "artist": "森山直太朗",
+  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "エンドレス・サマー",
+  "artist": "NEWS",
+  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Namidairo",
+  "artist": "YUI",
+  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "決意の朝に",
+  "artist": "Aqua Timez",
+  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "死にたい夜には",
+  "artist": "はるこたつぶとん倶楽部",
+  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=12",
   "source": "kotatsu.js"
 }
 );
