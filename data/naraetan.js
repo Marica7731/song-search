@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 7/21/2026, 10:41:35 PM
+// 生成时间: 7/21/2026, 11:09:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10899,6 +10899,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-18]星期六深夜歌回🫧 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEX8?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat.巡音ルカ・GUMI",
+  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ドレミファロンド",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ヒトリゴト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "可愛くなりたい",
+  "artist": "HoneyWorks feat.成海聖奈(CV:雨宮天)",
+  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "白金ディスコ",
+  "artist": "阿良々木月火(井口裕香)",
+  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "PEACH",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "なのです☆",
+  "artist": "羽入(堀江由衣)",
+  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Happy! Lucky! Dochy!",
+  "artist": "古手梨花(田村ゆかり)・北条沙都子(かないみか)・羽入(堀江由衣)",
+  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Spiritual Garden",
+  "artist": "田村ゆかり",
+  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "You & Me",
+  "artist": "田村ゆかり feat.motsu from m.o.v.e",
+  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "さくらんぼ",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アドレナ",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=12",
   "source": "naraetan.js"
 },
     {
