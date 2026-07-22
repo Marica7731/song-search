@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 7/22/2026, 7:06:05 PM
+// 生成时间: 7/22/2026, 7:27:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1171,6 +1171,102 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-07-20]希望能成为让大家放松休憩的地方！我会努力做好压轴表演🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fSKx6xE28?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "夕景イエスタデイ",
+  "artist": "じん feat.IA",
+  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "翡翠のまち",
+  "artist": "メル feat.初音ミク",
+  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "やさしい生活",
+  "artist": "カネコアヤノ",
+  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "ラブホテル",
+  "artist": "クリープハイプ",
+  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=6",
+  "source": "stratia.js"
+},
+    {
+  "title": "グレーマンのせいにする",
+  "artist": "クリープハイプ",
+  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=7",
+  "source": "stratia.js"
+},
+    {
+  "title": "Get Wild",
+  "artist": "TM NETWORK",
+  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=8",
+  "source": "stratia.js"
+},
+    {
+  "title": "Self Control (方舟に曳かれて)",
+  "artist": "TM NETWORK",
+  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=9",
+  "source": "stratia.js"
+},
+    {
+  "title": "Self Control (方舟に曳かれて)",
+  "artist": "TM NETWORK",
+  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=10",
+  "source": "stratia.js"
+},
+    {
+  "title": "フレンズ",
+  "artist": "REBECCA",
+  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=11",
+  "source": "stratia.js"
+},
+    {
+  "title": "Last Tear",
+  "artist": "すとらてぃあ",
+  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=12",
   "source": "stratia.js"
 }
 );

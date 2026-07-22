@@ -1,6 +1,6 @@
 // 碧生ねの - 歌单数据 (多合集汇总)
 // 来源: BV1S4TT6pEn4
-// 生成时间: 7/22/2026, 7:28:54 PM
+// 生成时间: 7/22/2026, 7:54:09 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -819,6 +819,142 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-17]悠闲的夜晚1小时不间断竖屏歌回🎶 Neonoah Ch. 碧生ねの",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15XNf66EYR?p=9",
+  "source": "neno.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2024-09-20]悠闲深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEWf?p=1",
+  "source": "neno.js"
+},
+    {
+  "title": "ワンダーランドと羊の歌",
+  "artist": "ハチ feat.初音ミク",
+  "collection": "【歌切】[2024-09-20]悠闲深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEWf?p=2",
+  "source": "neno.js"
+},
+    {
+  "title": "自由に捕らわれる。",
+  "artist": "カンザキイオリ feat.初音ミク",
+  "collection": "【歌切】[2024-09-20]悠闲深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEWf?p=3",
+  "source": "neno.js"
+},
+    {
+  "title": "glow",
+  "artist": "keeno feat.初音ミク",
+  "collection": "【歌切】[2024-09-20]悠闲深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEWf?p=4",
+  "source": "neno.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2024-09-20]悠闲深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEWf?p=5",
+  "source": "neno.js"
+},
+    {
+  "title": "あの夏が飽和する。",
+  "artist": "カンザキイオリ feat.鏡音レン",
+  "collection": "【歌切】[2024-09-20]悠闲深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEWf?p=6",
+  "source": "neno.js"
+},
+    {
+  "title": "生きてこそ",
+  "artist": "Kiroro",
+  "collection": "【歌切】[2024-09-20]悠闲深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEWf?p=7",
+  "source": "neno.js"
+},
+    {
+  "title": "シルシ",
+  "artist": "LiSA",
+  "collection": "【歌切】[2024-09-20]悠闲深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEWf?p=8",
+  "source": "neno.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【歌切】[2024-09-20]悠闲深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEWf?p=9",
+  "source": "neno.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2024-09-20]悠闲深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEWf?p=10",
+  "source": "neno.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2024-09-20]悠闲深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEWf?p=11",
+  "source": "neno.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太 feat.歌愛ユキ",
+  "collection": "【歌切】[2024-09-20]悠闲深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEWf?p=12",
+  "source": "neno.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat.初音ミク",
+  "collection": "【歌切】[2024-09-20]悠闲深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEWf?p=13",
+  "source": "neno.js"
+},
+    {
+  "title": "箱庭〜ミニチュアガーデン〜",
+  "artist": "天野月",
+  "collection": "【歌切】[2024-09-20]悠闲深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEWf?p=14",
+  "source": "neno.js"
+},
+    {
+  "title": "ニワカアメ",
+  "artist": "天野月",
+  "collection": "【歌切】[2024-09-20]悠闲深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEWf?p=15",
+  "source": "neno.js"
+},
+    {
+  "title": "深海のリトルクライ",
+  "artist": "sasakure.UK feat.土岐麻子",
+  "collection": "【歌切】[2024-09-20]悠闲深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEWf?p=16",
+  "source": "neno.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2024-09-20]悠闲深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nag26PEWf?p=17",
   "source": "neno.js"
 }
 );
