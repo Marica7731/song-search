@@ -388,6 +388,12 @@
       "youtubeUrl": "https://www.youtube.com/channel/UCHTnX0CSX_KObo5I9WuZ64g",
       "avatarText": "Y",
       "accentColor": "hsl(252 55% 36%)"
+    },
+    "peruciaten": {
+      "avatarUrl": "https://i0.hdslb.com/bfs/archive/79f6fd34a915a7eaf3e8d5457a8e791fed790ba2.png",
+      "youtubeUrl": "https://www.youtube.com/@perucia_ten",
+      "avatarText": "ぺ",
+      "accentColor": "hsl(187 55% 36%)"
     }
   }
 }
