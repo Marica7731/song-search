@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 7/22/2026, 7:21:04 PM
+// 生成时间: 7/22/2026, 7:31:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10995,6 +10995,126 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "新宝島",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Habit",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Grand Blue",
+  "artist": "湘南乃風",
+  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Cagayake!GIRLS",
+  "artist": "桜高軽音部",
+  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "告白",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "DAYBREAK FRONTLINE",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ADAMAS",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=15",
   "source": "naraetan.js"
 },
     {

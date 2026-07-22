@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 7/22/2026, 7:23:06 PM
+// 生成时间: 7/22/2026, 7:32:31 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -33275,6 +33275,126 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-07-19]助眠歌回✨请作为睡前陪伴吧🌙 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1n6Ky6LEp2?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "ナイトルーティーン",
+  "artist": "キタニタツヤ feat.suis from ヨルシカ",
+  "collection": "【💐歌切】[2026-07-22]好久不见的竖屏歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T4g26qExY?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜の踊り子",
+  "artist": "サカナクション",
+  "collection": "【💐歌切】[2026-07-22]好久不见的竖屏歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T4g26qExY?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "僕と花",
+  "artist": "サカナクション",
+  "collection": "【💐歌切】[2026-07-22]好久不见的竖屏歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T4g26qExY?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "バッハの旋律を夜に聴いたせいです。",
+  "artist": "サカナクション",
+  "collection": "【💐歌切】[2026-07-22]好久不见的竖屏歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T4g26qExY?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "ミュージック",
+  "artist": "サカナクション",
+  "collection": "【💐歌切】[2026-07-22]好久不见的竖屏歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T4g26qExY?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "アンインストール",
+  "artist": "石川智晶",
+  "collection": "【💐歌切】[2026-07-22]好久不见的竖屏歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T4g26qExY?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "ディナーベル",
+  "artist": "はるまきごはん feat.初音ミク",
+  "collection": "【💐歌切】[2026-07-22]好久不见的竖屏歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T4g26qExY?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "エンパープル",
+  "artist": "はるまきごはん feat.初音ミク",
+  "collection": "【💐歌切】[2026-07-22]好久不见的竖屏歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T4g26qExY?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "ねぇ、どろどろさん",
+  "artist": "YASUHIRO(康寛) feat.鏡音リン",
+  "collection": "【💐歌切】[2026-07-22]好久不见的竖屏歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T4g26qExY?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【💐歌切】[2026-07-22]好久不见的竖屏歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T4g26qExY?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "HEAVEN",
+  "artist": "はりーP feat.初音ミク",
+  "collection": "【💐歌切】[2026-07-22]好久不见的竖屏歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T4g26qExY?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "記憶の水槽",
+  "artist": "キタニタツヤ feat.初音ミク",
+  "collection": "【💐歌切】[2026-07-22]好久不见的竖屏歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T4g26qExY?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "君が夜の海に還るまで",
+  "artist": "キタニタツヤ feat.初音ミク",
+  "collection": "【💐歌切】[2026-07-22]好久不见的竖屏歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T4g26qExY?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "白ゆき",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【💐歌切】[2026-07-22]好久不见的竖屏歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T4g26qExY?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "NIGHT DANCER",
+  "artist": "imase",
+  "collection": "【💐歌切】[2026-07-22]好久不见的竖屏歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T4g26qExY?p=15",
   "source": "figaro.js"
 }
 );
