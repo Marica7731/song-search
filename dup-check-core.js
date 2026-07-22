@@ -22,6 +22,10 @@ let dupCopyAiEnabled = false;
 let dupCopyAiModel = '';
 let dupCopyAiBusy = false;
 
+function isImeComposingEvent(event) {
+  return !!event && (event.isComposing || event.key === 'Process' || event.keyCode === 229);
+}
+
 function extractBV(str) {
   if (!str) return '';
   const match = String(str).match(/BV[a-zA-Z0-9]+/);
@@ -1402,10 +1406,12 @@ function initDupCheckPage(mode) {
   });
 
   document.getElementById('bvInput')?.addEventListener('keydown', e => {
+    if (isImeComposingEvent(e)) return;
     if (e.key === 'Enter' && currentMode === 'bv') search();
   });
   document.getElementById('bvInput')?.addEventListener('input', updateBvInputMeta);
   document.getElementById('titleArtistInput')?.addEventListener('keydown', e => {
+    if (isImeComposingEvent(e)) return;
     if (e.key === 'Enter' && currentMode === 'titleArtist' && !e.shiftKey) {
       e.preventDefault();
       search();

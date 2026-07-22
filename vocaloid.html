@@ -217,6 +217,10 @@
       return escapeHtml(value).replace(/`/g, '&#96;');
     }
 
+    function isImeComposingEvent(event) {
+      return !!event && (event.isComposing || event.key === 'Process' || event.keyCode === 229);
+    }
+
     function norm(value) {
       return String(value || '').toLowerCase().normalize('NFKC').replace(/\s+/g, '');
     }
@@ -678,14 +682,26 @@
       renderAll();
     }
 
-    document.getElementById('sourceFilter').addEventListener('input', event => {
+    const sourceFilterInput = document.getElementById('sourceFilter');
+    const songSearchInput = document.getElementById('songSearch');
+    const renderSourceFilterInput = event => {
       state.sourceQuery = event.target.value || '';
       renderSources();
-    });
-    document.getElementById('songSearch').addEventListener('input', event => {
+    };
+    const renderSongSearchInput = event => {
       state.songQuery = event.target.value || '';
       renderAll();
+    };
+    sourceFilterInput.addEventListener('input', event => {
+      if (isImeComposingEvent(event)) return;
+      renderSourceFilterInput(event);
     });
+    sourceFilterInput.addEventListener('compositionend', renderSourceFilterInput);
+    songSearchInput.addEventListener('input', event => {
+      if (isImeComposingEvent(event)) return;
+      renderSongSearchInput(event);
+    });
+    songSearchInput.addEventListener('compositionend', renderSongSearchInput);
     document.getElementById('songSort').addEventListener('change', event => {
       state.songSort = event.target.value || 'latest';
       renderSongs();

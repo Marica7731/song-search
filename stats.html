@@ -993,6 +993,10 @@
         let currentCopyOriginalData = null; // 保存原始数据用于排序
 
         // 工具函数
+        function isImeComposingEvent(event) {
+            return !!event && (event.isComposing || event.key === 'Process' || event.keyCode === 229);
+        }
+
         function getStatsPageSize(tab = activeTab) {
             return tab === 'vtuber-source' ? SOURCE_STATS_PAGE_SIZE : DEFAULT_PAGE_SIZE;
         }
@@ -3129,6 +3133,7 @@
 
                 searchBtn.addEventListener('click', doSearch);
                 searchInput.addEventListener('keydown', (e) => {
+                    if (isImeComposingEvent(e)) return;
                     if (e.key === 'Enter') doSearch();
                 });
                 document.getElementById('summary-link-limit')?.addEventListener('input', saveStatsViewPrefs);
@@ -3138,10 +3143,16 @@
                     syncStatsNavigation();
                     updateAllViews();
                 });
-                document.getElementById('statsSourceFilter')?.addEventListener('input', () => {
+                const statsSourceFilterInput = document.getElementById('statsSourceFilter');
+                const renderStatsSourceFilterInput = () => {
                     if (isStatsSourceCompactMode()) setStatsSourceExpanded(true);
                     renderStatsSourceNav();
+                };
+                statsSourceFilterInput?.addEventListener('input', event => {
+                    if (isImeComposingEvent(event)) return;
+                    renderStatsSourceFilterInput();
                 });
+                statsSourceFilterInput?.addEventListener('compositionend', renderStatsSourceFilterInput);
                 document.getElementById('statsSourceToggle')?.addEventListener('click', () => {
                     const nav = document.getElementById('statsSourceNav');
                     setStatsSourceExpanded(!nav?.classList.contains('source-expanded'));

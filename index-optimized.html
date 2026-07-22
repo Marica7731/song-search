@@ -839,6 +839,10 @@
       }[ch]));
     }
 
+    function isImeComposingEvent(event) {
+      return !!event && (event.isComposing || event.key === 'Process' || event.keyCode === 229);
+    }
+
     function setStatus(text, error = false) {
       const el = $('#status');
       el.textContent = text;
@@ -1111,15 +1115,25 @@
       $('#searchBtn').addEventListener('click', () => runSearch());
       $('#refreshBtn').addEventListener('click', () => runSearch({ keepPage: true }));
       $('#q').addEventListener('keydown', event => {
+        if (isImeComposingEvent(event)) return;
         if (event.key === 'Enter') runSearch();
       });
       let timer = null;
-      $('#q').addEventListener('input', () => {
+      const scheduleSearch = () => {
         clearTimeout(timer);
         timer = setTimeout(() => runSearch(), 360);
+      };
+      $('#q').addEventListener('input', event => {
+        if (isImeComposingEvent(event)) return;
+        scheduleSearch();
       });
+      $('#q').addEventListener('compositionend', scheduleSearch);
       $('#sort').addEventListener('change', () => runSearch());
-      $('#sourceFilter').addEventListener('input', event => renderSources(event.target.value));
+      $('#sourceFilter').addEventListener('input', event => {
+        if (isImeComposingEvent(event)) return;
+        renderSources(event.target.value);
+      });
+      $('#sourceFilter').addEventListener('compositionend', event => renderSources(event.target.value));
       $('#sourceList').addEventListener('click', event => {
         const btn = event.target.closest('[data-source]');
         if (!btn) return;

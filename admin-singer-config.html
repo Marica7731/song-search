@@ -617,6 +617,10 @@
       let firstWarningTargetId = '';
       let jumpHighlightTimer = 0;
 
+      function isImeComposingEvent(event) {
+        return !!event && (event.isComposing || event.key === 'Process' || event.keyCode === 229);
+      }
+
       function setNotice(text, type) {
         if (!text) {
           noticeEl.className = 'notice';
@@ -928,12 +932,12 @@
         }, 160);
       }
 
-      function refreshEditedCard(card) {
+      function refreshEditedCard(card, options = {}) {
         const cards = getCardNodes();
         const visualIndex = Math.max(cards.indexOf(card), 0);
         updateCardMeta(card, visualIndex);
         renderMetaAndDirectory();
-        if (currentSort !== 'manual') {
+        if (currentSort !== 'manual' && !options.deferSort) {
           scheduleSortAndRender();
         }
       }
@@ -1083,17 +1087,28 @@
           <div class="source-report"></div>
         `;
 
-        const refresh = () => {
+        let composing = false;
+        const refresh = event => {
           clearReports();
-          refreshEditedCard(card);
+          refreshEditedCard(card, { deferSort: composing || isImeComposingEvent(event) });
           markDirty();
         };
+        const bindTextRefresh = input => {
+          input.addEventListener('compositionstart', () => {
+            composing = true;
+          });
+          input.addEventListener('compositionend', event => {
+            composing = false;
+            refresh(event);
+          });
+          input.addEventListener('input', refresh);
+        };
 
-        card.querySelector('.alias-input').addEventListener('input', refresh);
-        card.querySelector('.file-input').addEventListener('input', refresh);
-        card.querySelector('.bvids-input').addEventListener('input', refresh);
+        bindTextRefresh(card.querySelector('.alias-input'));
+        bindTextRefresh(card.querySelector('.file-input'));
+        bindTextRefresh(card.querySelector('.bvids-input'));
         card.querySelector('.archived-input').addEventListener('change', refresh);
-        card.querySelector('.archive-reason-input').addEventListener('input', refresh);
+        bindTextRefresh(card.querySelector('.archive-reason-input'));
         card.querySelector('.remove-source-btn').addEventListener('click', () => {
           card.remove();
           clearReports();
@@ -1285,6 +1300,7 @@
       });
 
       document.addEventListener('keydown', event => {
+        if (isImeComposingEvent(event)) return;
         if ((event.ctrlKey || event.metaKey) && event.key.toLowerCase() === 's') {
           event.preventDefault();
           submitConfig();

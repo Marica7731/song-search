@@ -1021,6 +1021,10 @@
     let activeDetailTrigger = null;
     let detailPinned = false;
 
+    function isImeComposingEvent(event) {
+      return !!event && (event.isComposing || event.key === 'Process' || event.keyCode === 229);
+    }
+
     function numberText(value) {
       return Number(value || 0).toLocaleString('zh-CN');
     }
@@ -2201,6 +2205,7 @@
         closeUniqueSourceMenu();
       });
       document.addEventListener('keydown', event => {
+        if (isImeComposingEvent(event)) return;
         if (event.key === 'Escape') {
           closeUniqueSourceMenu();
           hideGrowthDetail();
@@ -2216,6 +2221,7 @@
       });
       goPageBtn.addEventListener('click', () => goToPage(pageInput.value));
       pageInput.addEventListener('keydown', event => {
+        if (isImeComposingEvent(event)) return;
         if (event.key === 'Enter') goToPage(pageInput.value);
       });
       copyGrowthSummaryBtn.addEventListener('click', () => writeClipboard(buildGrowthSummaryText()));

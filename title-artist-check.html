@@ -156,6 +156,10 @@ let isApiMode = false;
 let dataReady = false;
 let titleFilterMode = 'all';
 
+function isImeComposingEvent(event) {
+  return !!event && (event.isComposing || event.key === 'Process' || event.keyCode === 229);
+}
+
 function getSourceAlias(source) {
   if (!source) return '未知来源';
   const key = source.replace('.js', '');
@@ -251,7 +255,7 @@ async function loadAllData() {
 }
 </script>
 <script src="/artist-match.js"></script>
-<script src="bili-check-title-artist.js?v=20260621ui6"></script>
+<script src="bili-check-title-artist.js?v=20260723ime1"></script>
 <script src="/page-directory-widget.js?v=20260525avatar1"></script>
 <script>
 function initTitleArtistPage() {
@@ -265,6 +269,7 @@ function initTitleArtistPage() {
     button.addEventListener('click', () => setTitleFilterMode(button.dataset.titleFilter));
   });
   document.getElementById('titleInput').addEventListener('keydown', e => {
+    if (isImeComposingEvent(e)) return;
     if (e.key === 'Enter' && e.ctrlKey) searchAndValidateArtists();
   });
 

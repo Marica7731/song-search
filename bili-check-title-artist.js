@@ -10,6 +10,10 @@ function escapeHtml(value) {
   }[ch]));
 }
 
+function isImeComposingEvent(event) {
+  return !!event && (event.isComposing || event.key === 'Process' || event.keyCode === 229);
+}
+
 function stripInputLineNumber(line) {
   const value = String(line || '').trim();
   const matched = value.match(/^[0-9０-９]+[\.\．、:：\)）](?:\s+|(?=[^\d０-９\s]))(.+)$/);
@@ -452,16 +456,25 @@ function createRetitleTools(item, index) {
   link.style.fontSize = '12px';
   link.style.textDecoration = 'none';
 
-  titleInput.addEventListener('input', () => {
+  const updateTitleRetitleInput = () => {
     renderTitleSuggestions();
     refreshSearchLink();
+  };
+  titleInput.addEventListener('input', event => {
+    if (isImeComposingEvent(event)) return;
+    updateTitleRetitleInput();
   });
+  titleInput.addEventListener('compositionend', updateTitleRetitleInput);
   titleInput.addEventListener('blur', applyCombinedInputFields);
   titleInput.addEventListener('paste', () => setTimeout(applyCombinedInputFields, 0));
   titleInput.addEventListener('focus', renderTitleSuggestions);
   titleInput.addEventListener('change', refreshSearchLink);
   titleInput.addEventListener('change', applyCombinedInputFields);
-  artistInput.addEventListener('input', refreshSearchLink);
+  artistInput.addEventListener('input', event => {
+    if (isImeComposingEvent(event)) return;
+    refreshSearchLink();
+  });
+  artistInput.addEventListener('compositionend', refreshSearchLink);
   artistInput.addEventListener('blur', applyCombinedInputFields);
   artistInput.addEventListener('paste', () => setTimeout(applyCombinedInputFields, 0));
   artistInput.addEventListener('change', refreshSearchLink);
