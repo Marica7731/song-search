@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/22/2026, 9:16:59 AM
+// 生成时间: 7/22/2026, 9:30:14 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -258,7 +258,175 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "歌势推荐：愛蕾 2026-03-10  vUfeIrTRNGY",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Q4wAzEEjK?p=7",
+  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ヨヒラ",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "AIZO",
+  "artist": "King Gnu",
+  "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "StaRt",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "ミュージック・アワー",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "狂乱 Hey Kids!!",
+  "artist": "THE ORAL CIGARETTES",
+  "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "オルフェンズの涙",
+  "artist": "MISIA",
+  "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "UNDEAD",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "Henceforth",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "G4L",
+  "artist": "Giga",
+  "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "インフェルノ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "Shout Baby",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "㋰責任集合体",
+  "artist": "マサラダ feat.重音テト",
+  "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "寄り酔い",
+  "artist": "和ぬか",
+  "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "シニカルナイトプラン",
+  "artist": "Ayase feat.初音ミク",
+  "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "夢であるように",
+  "artist": "DEEN",
+  "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "深昏睡",
+  "artist": "春野 feat.初音ミク",
+  "collection": "【歌切】[2026-07-21]这里是放松会场，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DcKe6wEQ1?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "フクロウ ～フクロウが知らせる客が来たと～",
+  "artist": "KOKIA",
+  "collection": "【歌切】[2026-07-21]这里是放松会场，欢迎新观众。 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DcKe6wEQ1?p=2",
   "source": "others.js"
 },
     {
