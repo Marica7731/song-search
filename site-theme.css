@@ -4261,6 +4261,55 @@ body.culua-shell-stats .perf-grid-small .perf-link-small:hover {
   color: #0f766e !important;
 }
 
+body.culua-shell-stats .vtuber-song-row {
+  cursor: pointer;
+}
+
+body.culua-shell-stats .vtuber-song-row .song-meta-right {
+  flex-wrap: wrap !important;
+  max-width: 220px;
+}
+
+body.culua-shell-stats .song-video-count {
+  display: inline-flex;
+  align-items: center;
+  min-height: 30px;
+  padding: 4px 8px;
+  border: 1px solid #e2e8f0;
+  border-radius: 6px;
+  background: #fff;
+  color: #64748b;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1.2;
+  white-space: nowrap;
+}
+
+body.culua-shell-stats .copy-song-links-btn {
+  min-height: 30px !important;
+  padding: 4px 8px !important;
+  border-radius: 6px !important;
+  font-size: 12px !important;
+  line-height: 1.2 !important;
+}
+
+body.culua-shell-stats .vtuber-source-links {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) !important;
+  max-height: 340px;
+  gap: 5px !important;
+  padding-top: 8px !important;
+}
+
+body.culua-shell-stats .vtuber-source-links.hidden {
+  display: none !important;
+}
+
+body.culua-shell-stats .vtuber-source-links .perf-link-small {
+  grid-template-columns: 64px minmax(0, 1fr) !important;
+  min-height: 42px !important;
+}
+
 /* desktop >= 1280px: stats cards auto-fill columns to improve dense browsing. */
 @media (min-width: 1280px) {
   body.culua-shell-stats {

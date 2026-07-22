@@ -2225,6 +2225,7 @@ function aggregateByVtuberSource(data) {
         artist: display.artist,
         originalArtist: item.originalArtist || '',
         cover: item.cover || '',
+        coverPubdate: Number(item.pubdate || 0),
         count: 0,
         links: [],
         isSolo: false
@@ -2233,19 +2234,30 @@ function aggregateByVtuberSource(data) {
     }
     songEntry.count += 1;
     songEntry.isSolo = isSoloUniqueSong(item);
+    const itemPubdate = Number(item.pubdate || 0);
+    if (itemPubdate >= Number(songEntry.coverPubdate || 0)) {
+      songEntry.cover = item.cover || '';
+      songEntry.coverPubdate = itemPubdate;
+    }
     if (item.link) {
       songEntry.links.push({
         link: item.link,
         collection: item.collection || '未知合集',
         source: getRawSourceAlias(item.source),
         displaySource: vtuberName,
-        cover: item.cover || ''
+        cover: item.cover || '',
+        pubdate: itemPubdate,
+        bvid
       });
     }
   });
   const result = Array.from(map.values());
   result.forEach(v => {
-    const songArr = Array.from(v.songGroups.values()).flat().sort((a, b) => b.count - a.count);
+    const songArr = Array.from(v.songGroups.values()).flat();
+    songArr.forEach(song => {
+      song.links.sort((a, b) => Number(b.pubdate || 0) - Number(a.pubdate || 0));
+    });
+    songArr.sort((a, b) => b.count - a.count);
     v.songs = songArr;
     delete v.songGroups;
     v.totalCount = songArr.reduce((acc, s) => acc + s.count, 0);

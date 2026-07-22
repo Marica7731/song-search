@@ -2174,6 +2174,7 @@
                         title: item.title || '未知歌曲',
                         artist: item.artist || '', // 保留数据中的歌手
                         cover: getCoverUrl(item),
+                        coverPubdate: Number(item.pubdate || 0),
                         count: 0,
                         links: [], // 保留所有链接
                         isSolo: false
@@ -2182,18 +2183,28 @@
                 const songEntry = vtuberEntry.songs.get(songKey);
                 songEntry.count++;
                 songEntry.isSolo = isSoloUniqueLocal(item);
+                const itemPubdate = Number(item.pubdate || 0);
+                if (itemPubdate >= Number(songEntry.coverPubdate || 0)) {
+                    songEntry.cover = getCoverUrl(item);
+                    songEntry.coverPubdate = itemPubdate;
+                }
                 if (item.link) songEntry.links.push({
                     link: item.link,
                     collection: item.collection || '未知合集',
                     source: getSourceAliasByFile(item.source),
                     displaySource: getSourceAliasByFile(getDisplaySourceFile(item.source)),
-                    cover: getCoverUrl(item)
+                    cover: getCoverUrl(item),
+                    pubdate: itemPubdate,
+                    bvid: getSongBvid(item)
                 });
             });
 
             const result = Array.from(map.values());
             result.forEach(v => {
                 const songArr = Array.from(v.songs.values());
+                songArr.forEach(song => {
+                    song.links.sort((a, b) => Number(b.pubdate || 0) - Number(a.pubdate || 0));
+                });
                 songArr.sort((a, b) => b.count - a.count);
                 v.songs = songArr;
                 v.totalCount = songArr.reduce((acc, s) => acc + s.count, 0);
@@ -2561,11 +2572,14 @@
                     const firstLink = links[0]?.link || '#';
                     const cover = getCoverUrl(song) || getCoverUrl(links[0] || {});
                     const countText = formatCountText(song.count || links.length || 0);
+                    const videoIds = new Set(links.map(link => getSongBvid(link)).filter(Boolean));
+                    const videoCount = videoIds.size || Number(song.bvCount || song.videoCount || 0) || links.length;
+                    const isVtuberGroup = type === 'vtuber';
                     const originalText = song.originalArtist
                         ? `<div class="song-original-artist" data-quick-copy="${escapeAttr(song.originalArtist)}">原唱：${escapeHtml(song.originalArtist)}</div>`
-                        : (song.artist && type === 'vtuber' ? `<div class="song-original-artist" data-quick-copy="${escapeAttr(song.artist)}">演唱：${escapeHtml(song.artist)}</div>` : '');
+                        : (song.artist && isVtuberGroup ? `<div class="song-original-artist" data-quick-copy="${escapeAttr(song.artist)}">歌手：${escapeHtml(song.artist)}</div>` : '');
                     return `
-                        <div class="song-item-row">
+                        <div class="song-item-row ${isVtuberGroup ? 'vtuber-song-row' : ''}" ${isVtuberGroup ? `data-song-toggle="${songId}"` : ''}>
                             ${cover ? `<a class="song-row-cover" href="${escapeAttr(firstLink)}" target="_blank" rel="noopener noreferrer"><img ${lazyImageAttributes(cover)}></a>` : ''}
                             <div class="song-info-left">
                                 <div class="song-title-main" data-quick-copy="${escapeAttr(song.title)}">${escapeHtml(song.title)}</div>
@@ -2573,11 +2587,12 @@
                             </div>
                             <div class="song-meta-right">
                                 <span class="count-clickable" id="count-btn-${songId}">
-                                    ${type === 'vtuber' ? '收录' : '演唱'} ${countText} 次
+                                    ${isVtuberGroup ? `${countText} 次` : `演唱 ${countText} 次`}
                                 </span>
+                                ${isVtuberGroup ? `<span class="song-video-count">${formatCountText(videoCount)} 视频</span><button class="copy-btn copy-song-links-btn" type="button" data-song-copy="${songId}">复制链接</button>` : ''}
                                 <a href="${escapeAttr(firstLink)}" target="_blank" rel="noopener noreferrer" class="perf-link-small perf-open-link">打开</a>
                             </div>
-                            <div class="perf-grid-small hidden" id="perf-grid-${songId}">
+                            <div class="perf-grid-small ${isVtuberGroup ? 'vtuber-source-links' : ''} hidden" id="perf-grid-${songId}">
                                 ${links.map(l => renderSmallPerformanceLink(l)).join('')}
                             </div>
                         </div>
@@ -2660,10 +2675,32 @@
                 
                 // 绑定：点击次数展开场次
                 const allCountBtns = li.querySelectorAll('.count-clickable');
-                allCountBtns.forEach(btn => {
+                allCountBtns.forEach((btn, songIndex) => {
                     const songId = btn.id.replace('count-btn-', '');
                     const grid = li.querySelector(`#perf-grid-${songId}`);
-                    btn.addEventListener('click', () => {
+                    const getFullSongForRow = async () => {
+                        let songForRow = group.songs[songIndex];
+                        if (isApiMode && (!group.fullLoaded || songForRow?.hasMoreLinks)) {
+                            const detailGroup = await ensureStatsDetail(group);
+                            group.songs = detailGroup.songs || group.songs;
+                            group.fullLoaded = detailGroup.fullLoaded;
+                            const songKey = normalizeString(songForRow?.title || '');
+                            const artistKey = normalizeString(songForRow?.artist || songForRow?.originalArtist || '');
+                            songForRow = group.songs.find(candidate =>
+                                normalizeString(candidate?.title || '') === songKey
+                                && normalizeString(candidate?.artist || candidate?.originalArtist || '') === artistKey
+                            ) || group.songs[songIndex] || songForRow;
+                            grid.innerHTML = (songForRow?.links || []).map(link => renderSmallPerformanceLink(link)).join('');
+                        }
+                        return songForRow;
+                    };
+                    const toggleSongLinks = async () => {
+                        try {
+                            await getFullSongForRow();
+                        } catch (error) {
+                            showToast(`加载歌曲来源失败：${error.message}`, 'error');
+                            return;
+                        }
                         const isHidden = grid.classList.contains('hidden');
                         if (isHidden) {
                             grid.classList.remove('hidden');
@@ -2677,7 +2714,32 @@
                             btn.style.color = '#495057';
                             btn.style.background = '#f3f4f6';
                         }
+                    };
+                    btn.addEventListener('click', event => {
+                        event.stopPropagation();
+                        toggleSongLinks();
                     });
+                    const row = li.querySelector(`[data-song-toggle="${songId}"]`);
+                    if (row) {
+                        row.addEventListener('click', event => {
+                            if (event.target.closest('a, button, [data-quick-copy]')) return;
+                            toggleSongLinks();
+                        });
+                    }
+                    const songCopyBtn = li.querySelector(`[data-song-copy="${songId}"]`);
+                    if (songCopyBtn) {
+                        songCopyBtn.addEventListener('click', event => {
+                            event.stopPropagation();
+                            getFullSongForRow().then(song => {
+                                const lines = (song?.links || [])
+                                .filter(link => link.link)
+                                .map((link, index) => `${index + 1}. ${link.collection || '未知合集'} | ${link.link}`);
+                                copyToClipboard(lines.join('\n'));
+                            }).catch(error => {
+                                showToast(`加载歌曲链接失败：${error.message}`, 'error');
+                            });
+                        });
+                    }
                 });
 
                 // 绑定复制按钮
