@@ -1,6 +1,6 @@
 // ぺるしあ・てん - 歌单数据 (多合集汇总)
 // 来源: BV1iXKY6qEKv
-// 生成时间: 7/22/2026, 7:16:37 PM
+// 生成时间: 7/22/2026, 7:36:37 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -283,6 +283,118 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-21]征集点歌中！术力口等等什么都唱！！ ぺるしあ・てん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXKY6qEKv?p=19",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat.flower",
+  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=1",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat.初音ミク",
+  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=2",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ド屑",
+  "artist": "なきそ feat.歌愛ユキ",
+  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=3",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "甘ったる",
+  "artist": "なきそ feat.歌愛ユキ",
+  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=4",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "サイレントマジョリティー",
+  "artist": "欅坂46",
+  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=5",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=6",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "会いたくて 会いたくて",
+  "artist": "西野カナ",
+  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=7",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "Dear…",
+  "artist": "西野カナ",
+  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=8",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ハイドアンド・シーク",
+  "artist": "19's Sound Factory feat.初音ミク",
+  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=9",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona(CV:夏川椎菜)",
+  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=10",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "チェリー",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=11",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "Blessing",
+  "artist": "halyosy feat.初音ミク・鏡音リン・鏡音レン・巡音ルカ・KAITO・MEIKO",
+  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=12",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=13",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "Catch the Moment",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=14",
   "source": "peruciaten.js"
 }
 );
