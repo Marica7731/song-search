@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 7/25/2026, 9:37:45 PM
+// 生成时间: 7/25/2026, 9:47:45 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21747,6 +21747,126 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-07-15]超重大告知，还要唱歌。 稀羽すう - Suu Usuwa -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14vN66uEA6?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【🦢歌切】[2026-07-25]午后来一曲卡拉OK如何？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi3V6LEBW?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【🦢歌切】[2026-07-25]午后来一曲卡拉OK如何？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi3V6LEBW?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ミュージック・アワー",
+  "artist": "ポルノグラフィティ",
+  "collection": "【🦢歌切】[2026-07-25]午后来一曲卡拉OK如何？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi3V6LEBW?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【🦢歌切】[2026-07-25]午后来一曲卡拉OK如何？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi3V6LEBW?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "夏色えがおで1,2,Jump!",
+  "artist": "μ's",
+  "collection": "【🦢歌切】[2026-07-25]午后来一曲卡拉OK如何？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi3V6LEBW?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【🦢歌切】[2026-07-25]午后来一曲卡拉OK如何？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi3V6LEBW?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Yeah!めっちゃホリディ",
+  "artist": "松浦亜弥",
+  "collection": "【🦢歌切】[2026-07-25]午后来一曲卡拉OK如何？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi3V6LEBW?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【🦢歌切】[2026-07-25]午后来一曲卡拉OK如何？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi3V6LEBW?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Pon De Beach",
+  "artist": "我那覇響",
+  "collection": "【🦢歌切】[2026-07-25]午后来一曲卡拉OK如何？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi3V6LEBW?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【🦢歌切】[2026-07-25]午后来一曲卡拉OK如何？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi3V6LEBW?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【🦢歌切】[2026-07-25]午后来一曲卡拉OK如何？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi3V6LEBW?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "Whiteberry",
+  "collection": "【🦢歌切】[2026-07-25]午后来一曲卡拉OK如何？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi3V6LEBW?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "イケナイ太陽",
+  "artist": "ORANGE RANGE",
+  "collection": "【🦢歌切】[2026-07-25]午后来一曲卡拉OK如何？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi3V6LEBW?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ハッピー・ジャムジャム",
+  "artist": "しまじろう",
+  "collection": "【🦢歌切】[2026-07-25]午后来一曲卡拉OK如何？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi3V6LEBW?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🦢歌切】[2026-07-25]午后来一曲卡拉OK如何？ 稀羽すう - Suu Usuwa -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi3V6LEBW?p=15",
   "source": "suu_usuwa.js"
 }
 );
