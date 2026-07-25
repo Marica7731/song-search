@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 7/25/2026, 11:42:45 PM
+// 生成时间: 7/25/2026, 11:54:33 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -539,6 +539,190 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-19]吉他君欢迎回来！弹唱直播复活啦✨ 翠雨 しの",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UGK466EcS?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "es. car",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "三原色",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "花澤香菜",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN feat.鏡音リン",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP feat.初音ミク",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP feat.初音ミク",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Luna say maybe",
+  "artist": "初星学園(月村手毬)",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "1991",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "青春コンプレックス",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=15",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "エウテルペ",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=16",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat.巡音ルカ・GUMI",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=17",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "空に歌えば",
+  "artist": "amazarashi",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=18",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Catch the Moment",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=19",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "またねがあれば",
+  "artist": "risou",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=20",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=21",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=22",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=23",
   "source": "suiuishino.js"
 }
 );
