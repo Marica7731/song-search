@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 7/25/2026, 9:39:33 PM
+// 生成时间: 7/25/2026, 10:01:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1235,6 +1235,174 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-18]令人怀念的🌻夏日歌曲串烧🎙 一色イズ ⟡ Isshiki_IS",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SE8L?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "KICK BACK",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-24]夏天到啦！白天动漫歌回🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ds3V6XECA?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【歌切】[2026-07-24]夏天到啦！白天动漫歌回🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ds3V6XECA?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ウィーアー！",
+  "artist": "きただにひろし",
+  "collection": "【歌切】[2026-07-24]夏天到啦！白天动漫歌回🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ds3V6XECA?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "OK!",
+  "artist": "松本梨香",
+  "collection": "【歌切】[2026-07-24]夏天到啦！白天动漫歌回🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ds3V6XECA?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "勇者",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-24]夏天到啦！白天动漫歌回🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ds3V6XECA?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-07-24]夏天到啦！白天动漫歌回🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ds3V6XECA?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Believe",
+  "artist": "玉置成実",
+  "collection": "【歌切】[2026-07-24]夏天到啦！白天动漫歌回🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ds3V6XECA?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Meteor -ミーティア-",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-24]夏天到啦！白天动漫歌回🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ds3V6XECA?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "resonance",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-24]夏天到啦！白天动漫歌回🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ds3V6XECA?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "輝きは君の中に",
+  "artist": "鈴木結女",
+  "collection": "【歌切】[2026-07-24]夏天到啦！白天动漫歌回🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ds3V6XECA?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "航海の唄",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-07-24]夏天到啦！白天动漫歌回🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ds3V6XECA?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "限界突破×サバイバー",
+  "artist": "氷川きよし",
+  "collection": "【歌切】[2026-07-24]夏天到啦！白天动漫歌回🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ds3V6XECA?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Realize",
+  "artist": "玉置成実",
+  "collection": "【歌切】[2026-07-24]夏天到啦！白天动漫歌回🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ds3V6XECA?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ignited -イグナイテッド-",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-24]夏天到啦！白天动漫歌回🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ds3V6XECA?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Zips",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-24]夏天到啦！白天动漫歌回🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ds3V6XECA?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-24]夏天到啦！白天动漫歌回🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ds3V6XECA?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-24]夏天到啦！白天动漫歌回🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ds3V6XECA?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ジョジョ～その血の運命～",
+  "artist": "富永TOMMY弘明",
+  "collection": "【歌切】[2026-07-24]夏天到啦！白天动漫歌回🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ds3V6XECA?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Beautiful World",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-07-24]夏天到啦！白天动漫歌回🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ds3V6XECA?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "忘れてやらない",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-07-24]夏天到啦！白天动漫歌回🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ds3V6XECA?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ギターと孤独と蒼い惑星",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-07-24]夏天到啦！白天动漫歌回🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ds3V6XECA?p=21",
   "source": "isshikiizu.js"
 }
 );

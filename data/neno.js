@@ -1,6 +1,6 @@
 // 碧生ねの - 歌单数据 (多合集汇总)
 // 来源: BV1S4TT6pEn4
-// 生成时间: 7/25/2026, 9:35:28 PM
+// 生成时间: 7/25/2026, 9:56:57 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -955,6 +955,86 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2024-09-20]悠闲深夜竖屏歌回🎶 Neonoah Ch. 碧生ねの",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nag26PEWf?p=17",
+  "source": "neno.js"
+},
+    {
+  "title": "Alice in 冷凍庫",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-07-24]悠闲午间竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xe3V62Eod?p=1",
+  "source": "neno.js"
+},
+    {
+  "title": "パレード",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-24]悠闲午间竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xe3V62Eod?p=2",
+  "source": "neno.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-07-24]悠闲午间竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xe3V62Eod?p=3",
+  "source": "neno.js"
+},
+    {
+  "title": "海の幽霊",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-24]悠闲午间竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xe3V62Eod?p=4",
+  "source": "neno.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP feat.初音ミク",
+  "collection": "【歌切】[2026-07-24]悠闲午间竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xe3V62Eod?p=5",
+  "source": "neno.js"
+},
+    {
+  "title": "君の神様になりたい。",
+  "artist": "カンザキイオリ feat.初音ミク",
+  "collection": "【歌切】[2026-07-24]悠闲午间竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xe3V62Eod?p=6",
+  "source": "neno.js"
+},
+    {
+  "title": "地球儀",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-24]悠闲午间竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xe3V62Eod?p=7",
+  "source": "neno.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-24]悠闲午间竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xe3V62Eod?p=8",
+  "source": "neno.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【歌切】[2026-07-24]悠闲午间竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xe3V62Eod?p=9",
+  "source": "neno.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-07-24]悠闲午间竖屏歌回🎶 Neonoah Ch. 碧生ねの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xe3V62Eod?p=10",
   "source": "neno.js"
 }
 );
