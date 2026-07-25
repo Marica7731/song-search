@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 7/25/2026, 9:48:36 PM
+// 生成时间: 7/25/2026, 10:07:44 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2091,6 +2091,38 @@ window.SONG_DATA.push(
   "collection": "【⚙️🎸歌切】[2026-07-20]可能会听入迷？擅长抒情曲的Vsinger！ からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MeKx6qEir?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ありがとう",
+  "artist": "いきものがかり",
+  "collection": "【⚙️🎸歌切】[2026-07-24]明天是首次现场Live！Live前夜，要不要一起度过？ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1883V6JE1W?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "【⚙️🎸歌切】[2026-07-24]明天是首次现场Live！Live前夜，要不要一起度过？ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1883V6JE1W?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【⚙️🎸歌切】[2026-07-24]明天是首次现场Live！Live前夜，要不要一起度过？ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1883V6JE1W?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "センチメンタル・キス",
+  "artist": "汐れいら",
+  "collection": "【⚙️🎸歌切】[2026-07-24]明天是首次现场Live！Live前夜，要不要一起度过？ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1883V6JE1W?p=4",
   "source": "karakurinne.js"
 }
 );
