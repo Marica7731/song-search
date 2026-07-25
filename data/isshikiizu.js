@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 7/25/2026, 10:01:14 PM
+// 生成时间: 7/25/2026, 10:14:06 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1403,6 +1403,286 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-24]夏天到啦！白天动漫歌回🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ds3V6XECA?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "脱法ロック",
+  "artist": "Neru feat.鏡音レン",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "オーバーライド",
+  "artist": "吉田夜世 feat.重音テト",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ライアーダンサー",
+  "artist": "マサラダ feat.重音テト",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "㋰責任集合体",
+  "artist": "マサラダ feat.重音テト",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "魔法少女とチョコレゐト",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "すろぉもぉしょん",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ノンブレス・オブリージュ",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "幽霊東京",
+  "artist": "Ayase feat.初音ミク",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "magnet",
+  "artist": "minato(流星P) feat.初音ミク・巡音ルカ",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat.可不",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "きゅうくらりん",
+  "artist": "いよわ feat.可不",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "命ばっかり",
+  "artist": "ぬゆり feat.flower・結月ゆかり",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ロウワー",
+  "artist": "ぬゆり feat.flower",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat.GUMI",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "雑魚",
+  "artist": "柊マグネタイト feat.亞北ネル(初音ミク)",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "メンタルチェンソー",
+  "artist": "P丸様。",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ダイダイダイダイダイキライ",
+  "artist": "雨良 feat.初音ミク・重音テト",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ザムザ",
+  "artist": "てにをは feat.初音ミク",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=22",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "脳漿炸裂ガール",
+  "artist": "れるりり feat.初音ミク・GUMI",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=23",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "わたしのアール",
+  "artist": "和田たけあき(くらげP) feat.初音ミク",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=24",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "いますぐ輪廻",
+  "artist": "なきそ feat.初音ミク",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=25",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "デビルじゃないもん",
+  "artist": "DECO*27×ピノキオピー feat.初音ミク",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=26",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "転生林檎",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=27",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat.GUMI",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=28",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "イガク",
+  "artist": "原口沙輔 feat.重音テト",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=29",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "マトリョシカ",
+  "artist": "ハチ feat.初音ミク・GUMI",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=30",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アンドロイドガール",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=31",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=32",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=33",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=34",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "koyori(電ポルP) feat.初音ミク",
+  "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=35",
   "source": "isshikiizu.js"
 }
 );
