@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 7/25/2026, 10:11:24 PM
+// 生成时间: 7/25/2026, 10:22:16 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1267,6 +1267,62 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=12",
+  "source": "stratia.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "【🎸🦋歌切】[2026-07-23]这个周末是首次现场Live❕✨你会来见我吗？🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11Z3G63EPf?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat.初音ミク",
+  "collection": "【🎸🦋歌切】[2026-07-23]这个周末是首次现场Live❕✨你会来见我吗？🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11Z3G63EPf?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【🎸🦋歌切】[2026-07-23]这个周末是首次现场Live❕✨你会来见我吗？🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11Z3G63EPf?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【🎸🦋歌切】[2026-07-23]这个周末是首次现场Live❕✨你会来见我吗？🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11Z3G63EPf?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "名脇役",
+  "artist": "Sexy Zone",
+  "collection": "【🎸🦋歌切】[2026-07-23]这个周末是首次现场Live❕✨你会来见我吗？🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11Z3G63EPf?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗 feat.ちびた",
+  "collection": "【🎸🦋歌切】[2026-07-23]这个周末是首次现场Live❕✨你会来见我吗？🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11Z3G63EPf?p=6",
+  "source": "stratia.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【🎸🦋歌切】[2026-07-23]这个周末是首次现场Live❕✨你会来见我吗？🦋🎶 すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11Z3G63EPf?p=7",
   "source": "stratia.js"
 }
 );
