@@ -1,6 +1,6 @@
 // ぺるしあ・てん - 歌单数据 (多合集汇总)
 // 来源: BV1iXKY6qEKv
-// 生成时间: 7/25/2026, 11:37:46 PM
+// 生成时间: 7/25/2026, 11:48:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -395,6 +395,158 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=14",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=1",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "Booo!",
+  "artist": "TOKOTOKO(西沢さんP) feat.音街ウナ",
+  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=2",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=3",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "DAYBREAK FRONTLINE",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=4",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "かくれんぼ",
+  "artist": "AliA",
+  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=5",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "1・2・3",
+  "artist": "After the Rain",
+  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=6",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ドレミファロンド",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=7",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat.初音ミク",
+  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=8",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=9",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ただ声一つ",
+  "artist": "ロクデナシ",
+  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=10",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "魔性",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=11",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "エルマ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=12",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=13",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "点描の唄",
+  "artist": "Mrs. GREEN APPLE feat.井上苑子",
+  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=14",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=15",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=16",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=17",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=18",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "キセキ",
+  "artist": "GReeeeN",
+  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=19",
   "source": "peruciaten.js"
 }
 );

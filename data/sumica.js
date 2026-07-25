@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 7/25/2026, 10:29:35 PM
+// 生成时间: 7/25/2026, 10:39:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6659,6 +6659,150 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-07-20]好像是三连休最后一天，来点放松的弹唱怎么样？ -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ghKx6zEu5?p=21",
+  "source": "sumica.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "【💐🎸歌切】[2026-07-25]中午的悠闲音乐时间陪我一起吧～☀️ ￤ 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16M3V6eER8?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "盗作",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-25]中午的悠闲音乐时间陪我一起吧～☀️ ￤ 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16M3V6eER8?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "フラレガイガール",
+  "artist": "さユり",
+  "collection": "【💐🎸歌切】[2026-07-25]中午的悠闲音乐时间陪我一起吧～☀️ ￤ 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16M3V6eER8?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【💐🎸歌切】[2026-07-25]中午的悠闲音乐时间陪我一起吧～☀️ ￤ 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16M3V6eER8?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【💐🎸歌切】[2026-07-25]中午的悠闲音乐时间陪我一起吧～☀️ ￤ 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16M3V6eER8?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "【💐🎸歌切】[2026-07-25]中午的悠闲音乐时间陪我一起吧～☀️ ￤ 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16M3V6eER8?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-07-25]中午的悠闲音乐时间陪我一起吧～☀️ ￤ 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16M3V6eER8?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【💐🎸歌切】[2026-07-25]中午的悠闲音乐时间陪我一起吧～☀️ ￤ 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16M3V6eER8?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【💐🎸歌切】[2026-07-25]中午的悠闲音乐时间陪我一起吧～☀️ ￤ 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16M3V6eER8?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【💐🎸歌切】[2026-07-25]中午的悠闲音乐时间陪我一起吧～☀️ ￤ 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16M3V6eER8?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【💐🎸歌切】[2026-07-25]中午的悠闲音乐时间陪我一起吧～☀️ ￤ 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16M3V6eER8?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "きにぴ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-07-25]中午的悠闲音乐时间陪我一起吧～☀️ ￤ 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16M3V6eER8?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "メロウ",
+  "artist": "須田景凪",
+  "collection": "【💐🎸歌切】[2026-07-25]中午的悠闲音乐时间陪我一起吧～☀️ ￤ 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16M3V6eER8?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "シアワセ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-07-25]中午的悠闲音乐时间陪我一起吧～☀️ ￤ 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16M3V6eER8?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "花火",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-07-25]中午的悠闲音乐时间陪我一起吧～☀️ ￤ 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16M3V6eER8?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-25]中午的悠闲音乐时间陪我一起吧～☀️ ￤ 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16M3V6eER8?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "アイロニ",
+  "artist": "すこっぷ feat.初音ミク",
+  "collection": "【💐🎸歌切】[2026-07-25]中午的悠闲音乐时间陪我一起吧～☀️ ￤ 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16M3V6eER8?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "ちょっと待って!",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-07-25]中午的悠闲音乐时间陪我一起吧～☀️ ￤ 澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16M3V6eER8?p=18",
   "source": "sumica.js"
 }
 );
