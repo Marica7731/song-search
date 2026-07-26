@@ -1,6 +1,6 @@
 // 玉町ぷえ - 歌单数据 (多合集汇总)
 // 来源: BV1nUMP6vE7N
-// 生成时间: 7/26/2026, 10:48:28 AM
+// 生成时间: 7/26/2026, 10:57:32 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -704,7 +704,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れられないの",
   "artist": "サカナクション",
-  "collection": "【歌切】[2026-07-25]𓈒𓏸",
+  "collection": "【歌切】[2026-07-25]𓈒𓏸#摇滚音乐节歌回接力⌇和怕热的队长一起清凉度过夏天吧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Sh3L64ED5?p=1",
   "source": "tamamachipue.js"
@@ -712,7 +712,7 @@ window.SONG_DATA.push(
     {
   "title": "憂、燦々",
   "artist": "クリープハイプ",
-  "collection": "【歌切】[2026-07-25]𓈒𓏸",
+  "collection": "【歌切】[2026-07-25]𓈒𓏸#摇滚音乐节歌回接力⌇和怕热的队长一起清凉度过夏天吧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Sh3L64ED5?p=2",
   "source": "tamamachipue.js"
@@ -720,7 +720,7 @@ window.SONG_DATA.push(
     {
   "title": "夏夜のマジック",
   "artist": "indigo la End",
-  "collection": "【歌切】[2026-07-25]𓈒𓏸",
+  "collection": "【歌切】[2026-07-25]𓈒𓏸#摇滚音乐节歌回接力⌇和怕热的队长一起清凉度过夏天吧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Sh3L64ED5?p=3",
   "source": "tamamachipue.js"
@@ -728,7 +728,7 @@ window.SONG_DATA.push(
     {
   "title": "琥珀色の街、上海蟹の朝",
   "artist": "くるり",
-  "collection": "【歌切】[2026-07-25]𓈒𓏸",
+  "collection": "【歌切】[2026-07-25]𓈒𓏸#摇滚音乐节歌回接力⌇和怕热的队长一起清凉度过夏天吧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Sh3L64ED5?p=4",
   "source": "tamamachipue.js"
@@ -736,7 +736,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【歌切】[2026-07-25]𓈒𓏸",
+  "collection": "【歌切】[2026-07-25]𓈒𓏸#摇滚音乐节歌回接力⌇和怕热的队长一起清凉度过夏天吧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Sh3L64ED5?p=5",
   "source": "tamamachipue.js"
