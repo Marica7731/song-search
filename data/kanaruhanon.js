@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 7/26/2026, 1:41:38 AM
+// 生成时间: 7/26/2026, 1:59:15 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1107,6 +1107,38 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-13]3D现场Live门票每卖出1张就得唱1首歌的残酷歌回！？ Hanon Ch. 香鳴ハノン【パレプロ】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hESP?p=7",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "恋になりたいAQUARIUM",
+  "artist": "Aqours",
+  "collection": "【歌切】[2026-07-25]夏日气息满满！开心快乐！偶像能量全开！🍧💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SX356pEGQ?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ビタミンSUMMER！",
+  "artist": "Liella!",
+  "collection": "【歌切】[2026-07-25]夏日气息满满！开心快乐！偶像能量全开！🍧💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SX356pEGQ?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Mermaid festa vol.1",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-07-25]夏日气息满满！开心快乐！偶像能量全开！🍧💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SX356pEGQ?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Summer Is Over",
+  "artist": "Altimate!!",
+  "collection": "【歌切】[2026-07-25]夏日气息满满！开心快乐！偶像能量全开！🍧💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SX356pEGQ?p=4",
   "source": "kanaruhanon.js"
 }
 );
