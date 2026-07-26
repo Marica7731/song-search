@@ -25,6 +25,7 @@
     "friends.js",
     "relay.js",
     "culua.js",
+    "choma.js",
     "hasumisahiro.js",
     "aimarun.js",
     "nanashirikka.js",
@@ -68,6 +69,7 @@
     "friends": "联动",
     "relay": "接力",
     "culua": "CULUA",
+    "choma": "チョま",
     "hasumisahiro": "羽澄さひろ",
     "aimarun": "あいまるん。",
     "nanashirikka": "ななし律歌",
@@ -263,6 +265,13 @@
       "avatarUrl": "https://yt3.googleusercontent.com/Y5jMzu71NkgY0MA8bRLNNJNYS3o2kC09RZM-XWd6r13zqoN81meROl1UzjukJcYbCcwYRReO9g=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/channel/UCn1Zf28m6WbhMDjMjdIjOIA",
       "accentColor": "hsl(358 55% 36%)"
+    },
+    "choma": {
+      "alias": "チョま",
+      "avatarText": "チ",
+      "avatarUrl": "https://yt3.googleusercontent.com/ytc/AIdro_loPdTbtr9AUXe9LiL1egEfc6XmOX1uVSDImVujtU231q4=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/@ChomaChannel",
+      "accentColor": "hsl(210 55% 36%)"
     },
     "hasumisahiro": {
       "alias": "羽澄さひろ",
