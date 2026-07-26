@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/26/2026, 3:38:28 PM
+// 生成时间: 7/26/2026, 3:54:44 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -13576,33 +13576,33 @@ window.SONG_DATA.push(
     {
   "title": "空色デイズ",
   "artist": "中川翔子",
-  "collection": "【 #CMYKProject 】初の歌枠リレー参加 ⸝⋆ 【 しほ 】",
+  "collection": "CHIYURU ch.三日月ちゆる歌切 2026-07-05 热烈欢迎新观众！🙌目标同时在线700人，继续唱歌🔥",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kkRsYXESP?p=1",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REUD?p=32",
   "source": "others.js"
 },
     {
-  "title": "1・2・3",
-  "artist": "After the Rain(そらる × まふまふ)",
-  "collection": "【 #CMYKProject 】初の歌枠リレー参加 ⸝⋆ 【 しほ 】",
+  "title": "Shangri-La",
+  "artist": "angela",
+  "collection": "CHIYURU ch.三日月ちゆる歌切 2026-07-05 热烈欢迎新观众！🙌目标同时在线700人，继续唱歌🔥",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kkRsYXESP?p=2",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REUD?p=33",
   "source": "others.js"
 },
     {
-  "title": "ヒーローになれなかった僕らへ",
-  "artist": "しほ",
-  "collection": "【 #CMYKProject 】初の歌枠リレー参加 ⸝⋆ 【 しほ 】",
+  "title": "モザイクカケラ",
+  "artist": "SunSet Swish",
+  "collection": "CHIYURU ch.三日月ちゆる歌切 2026-07-05 热烈欢迎新观众！🙌目标同时在线700人，继续唱歌🔥",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kkRsYXESP?p=3",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REUD?p=34",
   "source": "others.js"
 },
     {
-  "title": "栞",
-  "artist": "クリープハイプ",
-  "collection": "【 #CMYKProject 】初の歌枠リレー参加 ⸝⋆ 【 しほ 】",
+  "title": "クオリア",
+  "artist": "UVERworld",
+  "collection": "CHIYURU ch.三日月ちゆる歌切 2026-07-05 热烈欢迎新观众！🙌目标同时在线700人，继续唱歌🔥",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pXQXBEENT?p=3",
+  "link": "https://www.bilibili.com/video/BV1J6TU6REUD?p=35",
   "source": "others.js"
 },
     {
@@ -14670,119 +14670,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "誇り高きアイドル",
-  "artist": "HoneyWorks",
-  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=24",
-  "source": "others.js"
-},
-    {
-  "title": "わたしの一番かわいいところ",
-  "artist": "FRUITS ZIPPER",
-  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=25",
-  "source": "others.js"
-},
-    {
-  "title": "最上級にかわいいの！",
-  "artist": "超ときめき♡宣伝部",
-  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=26",
-  "source": "others.js"
-},
-    {
-  "title": "倍倍FIGHT!",
-  "artist": "CANDY TUNE",
-  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=27",
-  "source": "others.js"
-},
-    {
-  "title": "かわいいだけじゃだめですか？",
-  "artist": "CUTIE STREET",
-  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=28",
-  "source": "others.js"
-},
-    {
-  "title": "だいしきゅーだいしゅき",
-  "artist": "femme fatale",
-  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=29",
-  "source": "others.js"
-},
-    {
-  "title": "紅蓮華",
-  "artist": "LiSA",
-  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=30",
-  "source": "others.js"
-},
-    {
-  "title": "明け星",
-  "artist": "LiSA",
-  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=31",
-  "source": "others.js"
-},
-    {
-  "title": "絆ノ奇跡",
-  "artist": "MAN WITH A MISSION & milet",
-  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=32",
-  "source": "others.js"
-},
-    {
-  "title": "コイコガレ",
-  "artist": "milet & MAN WITH A MISSION",
-  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=33",
-  "source": "others.js"
-},
-    {
-  "title": "夢幻",
-  "artist": "MY FIRST STORY × HYDE",
-  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=34",
-  "source": "others.js"
-},
-    {
-  "title": "残酷な夜に輝け",
-  "artist": "LiSA",
-  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=35",
-  "source": "others.js"
-},
-    {
-  "title": "炎",
-  "artist": "LiSA",
-  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=36",
-  "source": "others.js"
-},
-    {
-  "title": "お願いマッスル",
-  "artist": "紗倉ひびき(CV:ファイルーズあい) × 街雄鳴造(CV:石川界人)",
-  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=37",
-  "source": "others.js"
-},
-    {
-  "title": "八月、某、月明かり",
+  "title": "ただ君に晴れ",
   "artist": "ヨルシカ",
   "collection": "shin歌切 2026-07-09 我回来啦！歌回",
   "up": "前尘往事如昔故",
