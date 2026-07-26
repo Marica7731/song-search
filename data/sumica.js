@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 7/26/2026, 2:47:29 AM
+// 生成时间: 7/26/2026, 3:09:09 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6803,6 +6803,142 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-07-25]中午的悠闲音乐时间陪我一起吧～☀️ ￤ 澄花 / Puroburu -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16M3V6eER8?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "【💐🎸歌切】[2026-07-25]先放松一下再睡吗？？弹唱哦～￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wK3L6yEWj?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-25]先放松一下再睡吗？？弹唱哦～￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wK3L6yEWj?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "FINAL DISTANCE",
+  "artist": "宇多田ヒカル",
+  "collection": "【💐🎸歌切】[2026-07-25]先放松一下再睡吗？？弹唱哦～￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wK3L6yEWj?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "君の恋人になったら",
+  "artist": "back number",
+  "collection": "【💐🎸歌切】[2026-07-25]先放松一下再睡吗？？弹唱哦～￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wK3L6yEWj?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "ノスタルジア",
+  "artist": "いきものがかり",
+  "collection": "【💐🎸歌切】[2026-07-25]先放松一下再睡吗？？弹唱哦～￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wK3L6yEWj?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "雪国",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-25]先放松一下再睡吗？？弹唱哦～￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wK3L6yEWj?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "月に吠える",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-25]先放松一下再睡吗？？弹唱哦～￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wK3L6yEWj?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "忘れっぽい天使",
+  "artist": "中村佳穂",
+  "collection": "【💐🎸歌切】[2026-07-25]先放松一下再睡吗？？弹唱哦～￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wK3L6yEWj?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "NAVY",
+  "artist": "上野大樹",
+  "collection": "【💐🎸歌切】[2026-07-25]先放松一下再睡吗？？弹唱哦～￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wK3L6yEWj?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "夢をみせて",
+  "artist": "Cö shu Nie",
+  "collection": "【💐🎸歌切】[2026-07-25]先放松一下再睡吗？？弹唱哦～￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wK3L6yEWj?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "iB",
+  "artist": "Cö shu Nie",
+  "collection": "【💐🎸歌切】[2026-07-25]先放松一下再睡吗？？弹唱哦～￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wK3L6yEWj?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "give it back",
+  "artist": "Cö shu Nie",
+  "collection": "【💐🎸歌切】[2026-07-25]先放松一下再睡吗？？弹唱哦～￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wK3L6yEWj?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "LIFE",
+  "artist": "YUI",
+  "collection": "【💐🎸歌切】[2026-07-25]先放松一下再睡吗？？弹唱哦～￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wK3L6yEWj?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "ナイトルーティーン",
+  "artist": "キタニタツヤ",
+  "collection": "【💐🎸歌切】[2026-07-25]先放松一下再睡吗？？弹唱哦～￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wK3L6yEWj?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "冬眠",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-25]先放松一下再睡吗？？弹唱哦～￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wK3L6yEWj?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "パレード",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-25]先放松一下再睡吗？？弹唱哦～￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wK3L6yEWj?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "クラウン新車で買ってあげる",
+  "artist": "amazarashi",
+  "collection": "【💐🎸歌切】[2026-07-25]先放松一下再睡吗？？弹唱哦～￤澄花 / Puroburu -sumica-澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wK3L6yEWj?p=17",
   "source": "sumica.js"
 }
 );

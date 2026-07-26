@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 7/26/2026, 2:20:27 AM
+// 生成时间: 7/26/2026, 2:41:40 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11291,6 +11291,126 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=22",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "明日、僕は君に会いに行く。",
+  "artist": "ワカバ",
+  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愉快な鼓動",
+  "artist": "米倉千尋",
+  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "いつも何度でも",
+  "artist": "木村弓",
+  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "THROUGH THE YEARS AND FAR AWAY",
+  "artist": "LOW",
+  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "恋",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ENDLESS STORY",
+  "artist": "REIRA starring YUNA ITO",
+  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "あたしが隣にいるうちに",
+  "artist": "藤川千愛",
+  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アイノカタチ",
+  "artist": "MISIA feat.HIDE(GReeeeN)",
+  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "幾億光年",
+  "artist": "Omoinotake",
+  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "FIRE BIRD",
+  "artist": "Roselia",
+  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "サインはB",
+  "artist": "B小町",
+  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "IN MY DREAM",
+  "artist": "真行寺恵里",
+  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=15",
   "source": "naraetan.js"
 },
     {
