@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 7/25/2026, 10:42:41 PM
+// 生成时间: 7/25/2026, 10:55:03 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -36627,6 +36627,158 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-07-20]最好的夏日回忆！一起创造吧🌴🍠 YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SGK466Eqw?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-07-24]初見さん歓迎中！華金だ！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16T3V6NEDE?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【🍠🦍歌切】[2026-07-24]初見さん歓迎中！華金だ！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16T3V6NEDE?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【🍠🦍歌切】[2026-07-24]初見さん歓迎中！華金だ！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16T3V6NEDE?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "松本梨香",
+  "collection": "【🍠🦍歌切】[2026-07-24]初見さん歓迎中！華金だ！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16T3V6NEDE?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気分上々↑↑",
+  "artist": "mihimaru GT",
+  "collection": "【🍠🦍歌切】[2026-07-24]初見さん歓迎中！華金だ！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16T3V6NEDE?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "1・2・3",
+  "artist": "After the Rain（そらる×まふまふ）",
+  "collection": "【🍠🦍歌切】[2026-07-24]初見さん歓迎中！華金だ！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16T3V6NEDE?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【🍠🦍歌切】[2026-07-24]初見さん歓迎中！華金だ！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16T3V6NEDE?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "撲殺天使ドクロちゃん",
+  "artist": "千葉紗子",
+  "collection": "【🍠🦍歌切】[2026-07-24]初見さん歓迎中！華金だ！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16T3V6NEDE?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "美少女無罪♡パイレーツ",
+  "artist": "宝鐘マリン",
+  "collection": "【🍠🦍歌切】[2026-07-24]初見さん歓迎中！華金だ！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16T3V6NEDE?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ノーザンクロス",
+  "artist": "May'n",
+  "collection": "【🍠🦍歌切】[2026-07-24]初見さん歓迎中！華金だ！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16T3V6NEDE?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "【🍠🦍歌切】[2026-07-24]初見さん歓迎中！華金だ！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16T3V6NEDE?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さくらんぼ",
+  "artist": "大塚愛",
+  "collection": "【🍠🦍歌切】[2026-07-24]初見さん歓迎中！華金だ！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16T3V6NEDE?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🍠🦍歌切】[2026-07-24]初見さん歓迎中！華金だ！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16T3V6NEDE?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハートビート急上昇",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-07-24]初見さん歓迎中！華金だ！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16T3V6NEDE?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【🍠🦍歌切】[2026-07-24]初見さん歓迎中！華金だ！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16T3V6NEDE?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢の続きへ",
+  "artist": "surface",
+  "collection": "【🍠🦍歌切】[2026-07-24]初見さん歓迎中！華金だ！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16T3V6NEDE?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "桜日和",
+  "artist": "星村麻衣",
+  "collection": "【🍠🦍歌切】[2026-07-24]初見さん歓迎中！華金だ！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16T3V6NEDE?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "逢いたくていま",
+  "artist": "MISIA",
+  "collection": "【🍠🦍歌切】[2026-07-24]初見さん歓迎中！華金だ！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16T3V6NEDE?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "桜日和とタイムマシン with 初音ミク",
+  "artist": "Ado",
+  "collection": "【🍠🦍歌切】[2026-07-24]初見さん歓迎中！華金だ！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16T3V6NEDE?p=19",
   "source": "yoshika.js"
 }
 );
