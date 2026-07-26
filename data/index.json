@@ -44,6 +44,7 @@
     "323.js",
     "minaton.js",
     "culua.js",
+    "choma.js",
     "others.js",
     "neno.js",
     "suzuhanainori.js",
@@ -109,6 +110,7 @@
     "ibaramuan": "茨むあん",
     "minaton": "みなとん",
     "culua": "CULUA",
+    "choma": "チョま",
     "others": "非常驻妹妹",
     "neno": "碧生ねの",
     "suzuhanainori": "鈴花いのり",
@@ -483,6 +485,12 @@
       "youtubeUrl": "https://www.youtube.com/channel/UCn1Zf28m6WbhMDjMjdIjOIA",
       "accentColor": "hsl(358 55% 36%)",
       "statsAvgSortDeferred": false
+    },
+    "choma": {
+      "avatarText": "チ",
+      "avatarUrl": "https://yt3.googleusercontent.com/ytc/AIdro_loPdTbtr9AUXe9LiL1egEfc6XmOX1uVSDImVujtU231q4=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/@ChomaChannel",
+      "accentColor": "hsl(210 55% 36%)"
     },
     "others": {
       "alias": "非常驻妹妹",
