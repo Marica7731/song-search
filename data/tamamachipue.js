@@ -1,6 +1,6 @@
 // 玉町ぷえ - 歌单数据 (多合集汇总)
 // 来源: BV1nUMP6vE7N
-// 生成时间: 7/26/2026, 1:31:09 AM
+// 生成时间: 7/26/2026, 1:47:59 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -699,6 +699,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-20]点赞300耐久!! 歌回⌇海之日！唱大海的歌哟⛱.⋆* 玉町ぷえ / Pue Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KiKx6KEBH?p=18",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "忘れられないの",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-07-25]𓈒𓏸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sh3L64ED5?p=1",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-07-25]𓈒𓏸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sh3L64ED5?p=2",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "夏夜のマジック",
+  "artist": "indigo la End",
+  "collection": "【歌切】[2026-07-25]𓈒𓏸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sh3L64ED5?p=3",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "琥珀色の街、上海蟹の朝",
+  "artist": "くるり",
+  "collection": "【歌切】[2026-07-25]𓈒𓏸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sh3L64ED5?p=4",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-07-25]𓈒𓏸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sh3L64ED5?p=5",
   "source": "tamamachipue.js"
 }
 );
