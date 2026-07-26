@@ -487,10 +487,12 @@
       "statsAvgSortDeferred": false
     },
     "choma": {
+      "alias": "チョま",
       "avatarText": "チ",
       "avatarUrl": "https://yt3.googleusercontent.com/ytc/AIdro_loPdTbtr9AUXe9LiL1egEfc6XmOX1uVSDImVujtU231q4=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/@ChomaChannel",
-      "accentColor": "hsl(210 55% 36%)"
+      "accentColor": "hsl(210 55% 36%)",
+      "statsAvgSortDeferred": false
     },
     "others": {
       "alias": "非常驻妹妹",
