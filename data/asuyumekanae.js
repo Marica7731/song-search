@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 7/26/2026, 1:25:21 AM
+// 生成时间: 7/26/2026, 1:35:19 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5139,6 +5139,166 @@ window.SONG_DATA.push(
   "collection": "【明日夢 歌切】[2026-07-20]唱动画歌曲和术力口之类的！我要充满活力地唱！！欢迎当工作用BGM！ 明日夢かなえ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S3K463ET9?p=24",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "逃亡",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-07-25]练歌啦——！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ba3L6dEti?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-07-25]练歌啦——！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ba3L6dEti?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "風のたより",
+  "artist": "tayori",
+  "collection": "【明日夢 歌切】[2026-07-25]练歌啦——！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ba3L6dEti?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Stargazer",
+  "artist": "tayori",
+  "collection": "【明日夢 歌切】[2026-07-25]练歌啦——！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ba3L6dEti?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "白日夢",
+  "artist": "Islet feat.倚水",
+  "collection": "【明日夢 歌切】[2026-07-25]练歌啦——！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ba3L6dEti?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "The Everlasting Guilty Crown",
+  "artist": "EGOIST",
+  "collection": "【明日夢 歌切】[2026-07-25]练歌啦——！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ba3L6dEti?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "咲かせや咲かせ",
+  "artist": "EGOIST",
+  "collection": "【明日夢 歌切】[2026-07-25]练歌啦——！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ba3L6dEti?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "瞬間、シンフォニー。",
+  "artist": "40mP、かぐや（CV.夏吉ゆうこ）",
+  "collection": "【明日夢 歌切】[2026-07-25]练歌啦——！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ba3L6dEti?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "私は、わたしの事が好き。",
+  "artist": "HoneyWorks、かぐや（CV.夏吉ゆうこ）",
+  "collection": "【明日夢 歌切】[2026-07-25]练歌啦——！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ba3L6dEti?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【明日夢 歌切】[2026-07-25]练歌啦——！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ba3L6dEti?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Singing!",
+  "artist": "放課後ティータイム",
+  "collection": "【明日夢 歌切】[2026-07-25]练歌啦——！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ba3L6dEti?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "一度だけの恋なら",
+  "artist": "ワルキューレ",
+  "collection": "【明日夢 歌切】[2026-07-25]练歌啦——！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ba3L6dEti?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【明日夢 歌切】[2026-07-25]练歌啦——！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ba3L6dEti?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "さよならモルテン",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-07-25]练歌啦——！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ba3L6dEti?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "負け犬にアンコールはいらない",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-07-25]练歌啦——！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ba3L6dEti?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花も騒めく",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-07-25]练歌啦——！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ba3L6dEti?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "魔性",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-07-25]练歌啦——！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ba3L6dEti?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ポスト春",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-07-25]练歌啦——！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ba3L6dEti?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ゴースト",
+  "artist": "tayori",
+  "collection": "【明日夢 歌切】[2026-07-25]练歌啦——！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ba3L6dEti?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ワンダー",
+  "artist": "tayori",
+  "collection": "【明日夢 歌切】[2026-07-25]练歌啦——！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ba3L6dEti?p=20",
   "source": "asuyumekanae.js"
 },
     {
