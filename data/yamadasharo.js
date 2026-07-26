@@ -1,6 +1,6 @@
 // 山田シャロ - 歌单数据 (多合集汇总)
 // 来源: BV179L66pE1f
-// 生成时间: 7/26/2026, 2:16:13 AM
+// 生成时间: 7/26/2026, 2:25:36 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1411,6 +1411,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-10]深夜超燃🔥动漫歌曲歌回✨🎤 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13eNc6qEr5?p=13",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-07-24]深夜小酌🍻悠闲歌回✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16u3L6rEDb?p=1",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【歌切】[2026-07-24]深夜小酌🍻悠闲歌回✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16u3L6rEDb?p=2",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【歌切】[2026-07-24]深夜小酌🍻悠闲歌回✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16u3L6rEDb?p=3",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "勇者",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-24]深夜小酌🍻悠闲歌回✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16u3L6rEDb?p=4",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "JITTERIN'JINN",
+  "collection": "【歌切】[2026-07-24]深夜小酌🍻悠闲歌回✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16u3L6rEDb?p=5",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太 feat.歌愛ユキ",
+  "collection": "【歌切】[2026-07-24]深夜小酌🍻悠闲歌回✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16u3L6rEDb?p=6",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "東京サマーセッション",
+  "artist": "HoneyWorks feat.sana・CHiCO",
+  "collection": "【歌切】[2026-07-24]深夜小酌🍻悠闲歌回✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16u3L6rEDb?p=7",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-24]深夜小酌🍻悠闲歌回✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16u3L6rEDb?p=8",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "夏恋模様",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-07-24]深夜小酌🍻悠闲歌回✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16u3L6rEDb?p=9",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-24]深夜小酌🍻悠闲歌回✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16u3L6rEDb?p=10",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【歌切】[2026-07-24]深夜小酌🍻悠闲歌回✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16u3L6rEDb?p=11",
   "source": "yamadasharo.js"
 }
 );

@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 7/26/2026, 2:40:37 AM
+// 生成时间: 7/26/2026, 2:48:41 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1683,6 +1683,182 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-16]术力口限定🌟会唱很多歌哦🎙欢迎新人！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Cf3G66EQA?p=35",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "三原色",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ハルジオン",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アンコール",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "目撃!テト31世",
+  "artist": "はろける feat.雨衣,重音テト",
+  "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "六兆年と一夜物語",
+  "artist": "kemu feat.IA",
+  "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat.初音ミク",
+  "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ロストワンの号哭",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ルル",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "車輪の唄",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アルエ",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "THUNDERBIRD",
+  "artist": "1番のみアカペラ",
+  "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "有心論",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "あなたに",
+  "artist": "MONGOL800",
+  "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+  "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "魔弾",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ひとりごつ",
+  "artist": "ハチワレ(CV.田中誠人)",
+  "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=22",
   "source": "isshikiizu.js"
 }
 );

@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 7/26/2026, 1:20:58 AM
+// 生成时间: 7/26/2026, 1:30:46 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11115,6 +11115,182 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "さよーならまたいつか!",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Give a reason",
+  "artist": "林原めぐみ",
+  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "月並みに輝け",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "GLAMOROUS SKY",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ロマンスの神様",
+  "artist": "広瀬香美",
+  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "烈の瞬",
+  "artist": "ジャパハリネット",
+  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ナツメグ",
+  "artist": "PURPLE BUBBLE",
+  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "天空のカナリア",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "メリッサ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "LEVEL5-Judgelight",
+  "artist": "fripSide",
+  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat.可不",
+  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Don't say \"lazy\"",
+  "artist": "桜高軽音部",
+  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "謎",
+  "artist": "小松未歩",
+  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Cry baby",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "逆転劇",
+  "artist": "月詠み",
+  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ロビンソン",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=19",
+  "source": "naraetan.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=20",
+  "source": "naraetan.js"
+},
+    {
+  "title": "め組のひと",
+  "artist": "鈴木雅之",
+  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=21",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=22",
   "source": "naraetan.js"
 },
     {
