@@ -1,6 +1,6 @@
 // Sen†Sational - 歌单数据 (多合集汇总)
 // 来源: BV1ybNo67EQ5
-// 生成时间: 7/26/2026, 2:02:39 AM
+// 生成时间: 7/26/2026, 2:11:51 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -595,6 +595,142 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-03]🔴 月亮又红又大 Sen†Sational/センセーショナル",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLK16HEcT?p=21",
+  "source": "sensational.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-07-24]🔴 获取营养",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z33L6gECg?p=1",
+  "source": "sensational.js"
+},
+    {
+  "title": "MIRROR",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-24]🔴 获取营养",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z33L6gECg?p=2",
+  "source": "sensational.js"
+},
+    {
+  "title": "Just Be Friends",
+  "artist": "Dixie Flatline feat.巡音ルカ",
+  "collection": "【歌切】[2026-07-24]🔴 获取营养",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z33L6gECg?p=3",
+  "source": "sensational.js"
+},
+    {
+  "title": "会いたくて 会いたくて",
+  "artist": "西野カナ",
+  "collection": "【歌切】[2026-07-24]🔴 获取营养",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z33L6gECg?p=4",
+  "source": "sensational.js"
+},
+    {
+  "title": "会いたくて 会いたくて",
+  "artist": "西野カナ",
+  "collection": "【歌切】[2026-07-24]🔴 获取营养",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z33L6gECg?p=5",
+  "source": "sensational.js"
+},
+    {
+  "title": "春雷",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-24]🔴 获取营养",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z33L6gECg?p=6",
+  "source": "sensational.js"
+},
+    {
+  "title": "異常共鳴",
+  "artist": "ですぱち!",
+  "collection": "【歌切】[2026-07-24]🔴 获取营养",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z33L6gECg?p=7",
+  "source": "sensational.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-24]🔴 获取营养",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z33L6gECg?p=8",
+  "source": "sensational.js"
+},
+    {
+  "title": "Nighthawks",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-24]🔴 获取营养",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z33L6gECg?p=9",
+  "source": "sensational.js"
+},
+    {
+  "title": "遭遇",
+  "artist": "Lost Head Room",
+  "collection": "【歌切】[2026-07-24]🔴 获取营养",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z33L6gECg?p=10",
+  "source": "sensational.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-07-24]🔴 获取营养",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z33L6gECg?p=11",
+  "source": "sensational.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師, 宇多田ヒカル",
+  "collection": "【歌切】[2026-07-24]🔴 获取营养",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z33L6gECg?p=12",
+  "source": "sensational.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-24]🔴 获取营养",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z33L6gECg?p=13",
+  "source": "sensational.js"
+},
+    {
+  "title": "僕のこと",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-24]🔴 获取营养",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z33L6gECg?p=14",
+  "source": "sensational.js"
+},
+    {
+  "title": "このままで",
+  "artist": "西野カナ",
+  "collection": "【歌切】[2026-07-24]🔴 获取营养",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z33L6gECg?p=15",
+  "source": "sensational.js"
+},
+    {
+  "title": "ド屑",
+  "artist": "なきそ feat.歌愛ユキ",
+  "collection": "【歌切】[2026-07-24]🔴 获取营养",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z33L6gECg?p=16",
+  "source": "sensational.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-07-24]🔴 获取营养",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z33L6gECg?p=17",
   "source": "sensational.js"
 }
 );
