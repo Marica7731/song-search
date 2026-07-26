@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 7/25/2026, 10:23:53 PM
+// 生成时间: 7/25/2026, 10:31:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -33395,6 +33395,134 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-07-22]好久不见的竖屏歌回！ Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1T4g26qExY?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "真生活",
+  "artist": "案山子 feat.初音ミク",
+  "collection": "【💐歌切】[2026-07-24]翻唱视频已投稿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SU3G67EpY?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "カガリビト",
+  "artist": "millstones feat.初音ミク",
+  "collection": "【💐歌切】[2026-07-24]翻唱视频已投稿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SU3G67EpY?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-07-24]翻唱视频已投稿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SU3G67EpY?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "老人と海",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-07-24]翻唱视频已投稿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SU3G67EpY?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-07-24]翻唱视频已投稿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SU3G67EpY?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "がらくた",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-07-24]翻唱视频已投稿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SU3G67EpY?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "スイミー",
+  "artist": "Every Little Thing",
+  "collection": "【💐歌切】[2026-07-24]翻唱视频已投稿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SU3G67EpY?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【💐歌切】[2026-07-24]翻唱视频已投稿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SU3G67EpY?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "SUN",
+  "artist": "星野源",
+  "collection": "【💐歌切】[2026-07-24]翻唱视频已投稿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SU3G67EpY?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-07-24]翻唱视频已投稿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SU3G67EpY?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-07-24]翻唱视频已投稿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SU3G67EpY?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【💐歌切】[2026-07-24]翻唱视频已投稿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SU3G67EpY?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "鬼ノ宴",
+  "artist": "友成空",
+  "collection": "【💐歌切】[2026-07-24]翻唱视频已投稿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SU3G67EpY?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "睨めっ娘",
+  "artist": "友成空",
+  "collection": "【💐歌切】[2026-07-24]翻唱视频已投稿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SU3G67EpY?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【💐歌切】[2026-07-24]翻唱视频已投稿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SU3G67EpY?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【💐歌切】[2026-07-24]翻唱视频已投稿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SU3G67EpY?p=16",
   "source": "figaro.js"
 }
 );
