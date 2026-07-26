@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 7/25/2026, 10:58:57 PM
+// 生成时间: 7/25/2026, 11:08:26 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4907,6 +4907,150 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-07-20]大海！大海开放啦！夏天！🏖️ kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A1Kx6FE6b?p=22",
+  "source": "kukuri.js"
+},
+    {
+  "title": "くだらないの中に",
+  "artist": "星野源",
+  "collection": "【💫✖歌切】[2026-07-24]12点开始！！！！！一起度过午休时光吧~🍴",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cw3V6BEFp?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "朝が来る前に",
+  "artist": "秦基博",
+  "collection": "【💫✖歌切】[2026-07-24]12点开始！！！！！一起度过午休时光吧~🍴",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cw3V6BEFp?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Flavor Of Life",
+  "artist": "宇多田ヒカル",
+  "collection": "【💫✖歌切】[2026-07-24]12点开始！！！！！一起度过午休时光吧~🍴",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cw3V6BEFp?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "瞳をとじて",
+  "artist": "平井堅",
+  "collection": "【💫✖歌切】[2026-07-24]12点开始！！！！！一起度过午休时光吧~🍴",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cw3V6BEFp?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "満ちてゆく",
+  "artist": "藤井風",
+  "collection": "【💫✖歌切】[2026-07-24]12点开始！！！！！一起度过午休时光吧~🍴",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cw3V6BEFp?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "僕たちが恋をする理由",
+  "artist": "坂本真綾",
+  "collection": "【💫✖歌切】[2026-07-24]12点开始！！！！！一起度过午休时光吧~🍴",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cw3V6BEFp?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-07-24]12点开始！！！！！一起度过午休时光吧~🍴",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cw3V6BEFp?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ハロ／ハワユ",
+  "artist": "ナノウ feat.初音ミク",
+  "collection": "【💫✖歌切】[2026-07-24]12点开始！！！！！一起度过午休时光吧~🍴",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cw3V6BEFp?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "glow",
+  "artist": "keeno feat.初音ミク",
+  "collection": "【💫✖歌切】[2026-07-24]12点开始！！！！！一起度过午休时光吧~🍴",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cw3V6BEFp?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "小夜子",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【💫✖歌切】[2026-07-24]12点开始！！！！！一起度过午休时光吧~🍴",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cw3V6BEFp?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "朱色の砂浜",
+  "artist": "みきとP feat.GUMI",
+  "collection": "【💫✖歌切】[2026-07-24]12点开始！！！！！一起度过午休时光吧~🍴",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cw3V6BEFp?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN feat.鏡音リン",
+  "collection": "【💫✖歌切】[2026-07-24]12点开始！！！！！一起度过午休时光吧~🍴",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cw3V6BEFp?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Planetes",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-07-24]12点开始！！！！！一起度过午休时光吧~🍴",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cw3V6BEFp?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Last Song",
+  "artist": "ryo (supercell) feat.chelly",
+  "collection": "【💫✖歌切】[2026-07-24]12点开始！！！！！一起度过午休时光吧~🍴",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cw3V6BEFp?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "All Alone With You",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-07-24]12点开始！！！！！一起度过午休时光吧~🍴",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cw3V6BEFp?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Departures ～あなたにおくるアイの歌～",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-07-24]12点开始！！！！！一起度过午休时光吧~🍴",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cw3V6BEFp?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-07-24]12点开始！！！！！一起度过午休时光吧~🍴",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cw3V6BEFp?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "My Dearest",
+  "artist": "supercell",
+  "collection": "【💫✖歌切】[2026-07-24]12点开始！！！！！一起度过午休时光吧~🍴",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cw3V6BEFp?p=18",
   "source": "kukuri.js"
 }
 );
