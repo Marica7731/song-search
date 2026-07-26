@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 7/26/2026, 2:26:28 AM
+// 生成时间: 7/26/2026, 2:42:14 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5947,6 +5947,78 @@ window.SONG_DATA.push(
   "collection": "【👿歌切】[2026-07-25]替代收音机的夜间歌回📻🎶 酷暑不消停！😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ku3L6rEAz?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Heal Me",
+  "artist": "*Luna feat.マクネナナ",
+  "collection": "【👿歌切】[2026-07-25]代替收音机的夜歌回📻🎶夏日已过的炎热😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CA3L61EvL?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ジェンガ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【👿歌切】[2026-07-25]代替收音机的夜歌回📻🎶夏日已过的炎热😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CA3L61EvL?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "嘘",
+  "artist": "シド",
+  "collection": "【👿歌切】[2026-07-25]代替收音机的夜歌回📻🎶夏日已过的炎热😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CA3L61EvL?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-07-25]代替收音机的夜歌回📻🎶夏日已过的炎热😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CA3L61EvL?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "飛ぶ時",
+  "artist": "Vaundy",
+  "collection": "【👿歌切】[2026-07-25]代替收音机的夜歌回📻🎶夏日已过的炎热😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CA3L61EvL?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【👿歌切】[2026-07-25]代替收音机的夜歌回📻🎶夏日已过的炎热😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CA3L61EvL?p=6",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【👿歌切】[2026-07-25]代替收音机的夜歌回📻🎶夏日已过的炎热😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CA3L61EvL?p=7",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【👿歌切】[2026-07-25]代替收音机的夜歌回📻🎶夏日已过的炎热😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CA3L61EvL?p=8",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "【👿歌切】[2026-07-25]代替收音机的夜歌回📻🎶夏日已过的炎热😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CA3L61EvL?p=9",
   "source": "otomoneruki.js"
 }
 );

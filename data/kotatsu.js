@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 7/26/2026, 2:36:28 AM
+// 生成时间: 7/26/2026, 2:52:40 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8883,6 +8883,710 @@ window.SONG_DATA.push(
   "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さっきはごめんね、ありがとう",
+  "artist": "クリープハイプ",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Sunrise&Sunset",
+  "artist": "andymori",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Just Be Friends",
+  "artist": "Dixie Flatline feat.巡音ルカ",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよーならまたいつか!",
+  "artist": "米津玄師",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "うみ",
+  "artist": "童謡",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "マニフェスト",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ロングホープ・フィリア",
+  "artist": "菅田将暉",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよなら人類",
+  "artist": "たま",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "国語",
+  "artist": "ハンバートハンバート",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "家族の風景",
+  "artist": "ハナレグミ",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Burning Friday Night",
+  "artist": "Lucky Kilimanjaro",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "僕が僕であるために",
+  "artist": "尾崎豊",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "YUME日和",
+  "artist": "島谷ひとみ",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "以心伝心",
+  "artist": "19",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "愛してやまない音楽を",
+  "artist": "andymori",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "俺色スカイ",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "青い空",
+  "artist": "andymori",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "青い空",
+  "artist": "andymori",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "案山子",
+  "artist": "さだまさし",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40メートルP",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "遠い匂い",
+  "artist": "YO-KING",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "結婚しようよ",
+  "artist": "吉田拓郎",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ゴーゴー幽霊船",
+  "artist": "米津玄師",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "オラはにんきもの",
+  "artist": "矢島晶子",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "フライングゲット",
+  "artist": "AKB48",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "時をかけるメロディー",
+  "artist": "小山田荘平",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ハッピーウェディング前ソング",
+  "artist": "ヤバイTシャツ屋",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=29",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "USA🇺🇸",
+  "artist": "DA PUMP",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=30",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "人として",
+  "artist": "SUPER BEAVER",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=31",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ただ",
+  "artist": "はるこたつぶとん倶楽部",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=32",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ウェンディの本質",
+  "artist": "はるこたつぶとん倶楽部",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=33",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "曲名のないオリジナル",
+  "artist": "KOTATSU Ch.はるこたつぶとん倶楽部",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=34",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "木蘭の涙",
+  "artist": "Stardust Revue",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=35",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "バラ色の日々",
+  "artist": "MOROHA",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=36",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=37",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "無題",
+  "artist": "amazarashi",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=38",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "たしかなこと",
+  "artist": "小田和正",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=39",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "それがあなたの幸せだとしても",
+  "artist": "Heavenz feat.巡音ルカ",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=40",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ハチスは夏に背を向けて",
+  "artist": "メル feat.IA",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=41",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "情熱の薔薇",
+  "artist": "THE BLUE HEARTS",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=42",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さようなら、花泥棒さん",
+  "artist": "メル feat.初音ミク",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=43",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "家に帰ると妻が必ず死んだふりをしています。",
+  "artist": "ほぼ日P feat.初音ミク",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=44",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "やどかり",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=45",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ピノ",
+  "artist": "ズーカラデル",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=46",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "オシャレ大作戦",
+  "artist": "ネクライトーキー",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=47",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Tomorrow",
+  "artist": "岡本真夜",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=48",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "蛍の光",
+  "artist": "童謡",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=49",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "めだかの学校",
+  "artist": "童謡",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=50",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "オー・シャンゼリゼ",
+  "artist": "ダニエル・ビダル",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=51",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "オワラセナイト",
+  "artist": "フレデリック",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=52",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=53",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "遠い君へ",
+  "artist": "はるこたつぶとん倶楽部",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=54",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "トリセツ",
+  "artist": "西野カナ",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=55",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "あんなつぁ",
+  "artist": "浪漫革命",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=56",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "手のひらを太陽に",
+  "artist": "童謡",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=57",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "春",
+  "artist": "はるこたつぶとん倶楽部",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=58",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "パッと咲いて散って灰に",
+  "artist": "Creepy Nuts",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=59",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "勇気りんりん",
+  "artist": "ドリーミング",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=60",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "RAIN",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=61",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ジェニファー山田さん",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=62",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ともだちになるために",
+  "artist": "童謡",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=63",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "デブの戯言",
+  "artist": "はるこたつぶとん倶楽部",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=64",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=65",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "鎖の少女",
+  "artist": "のぼる↑ feat.初音ミク",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=66",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "いいんですか?",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=67",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=68",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "五月雨",
+  "artist": "崎山蒼志",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=69",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "社会のゴミカザマタカフミ",
+  "artist": "3markets",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=70",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "桃太郎",
+  "artist": "水曜日のカンパネラ",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=71",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "サヨナラCOLOR",
+  "artist": "SUPER BUTTER DOG",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=72",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "吉原ラメント",
+  "artist": "亜沙 feat.重音テト",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=73",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "眼福",
+  "artist": "米津玄師",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=74",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ルバート",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=75",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜紛い",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=76",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "生きていたんだよな",
+  "artist": "あいみょん",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=77",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "カヌレ",
+  "artist": "はるこたつぶとん倶楽部",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=78",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ひとつ",
+  "artist": "はるこたつぶとん倶楽部",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=79",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "One more time, One more chance",
+  "artist": "山崎まさよし",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=80",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "デイ・ドリーム・ビリーバー",
+  "artist": "THE TIMERS",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=81",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "強い気持ち・強い愛",
+  "artist": "小沢健二",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=82",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=83",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=84",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "車輪の唄",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=85",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=86",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "雛市",
+  "artist": "女王蜂",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=87",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "少年時代",
+  "artist": "井上陽水",
+  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=88",
   "source": "kotatsu.js"
 }
 );
