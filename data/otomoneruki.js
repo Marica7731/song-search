@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 7/26/2026, 2:05:24 AM
+// 生成时间: 7/26/2026, 2:16:14 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5931,6 +5931,22 @@ window.SONG_DATA.push(
   "collection": "【👿歌切】[2026-07-19]SonyMusic VEE 旗下的维他命担当恶魔来啦！要唱歌了哦👿🎶 Ruki Otokado 音門るき [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18EKk6QEb3?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Tokimeki",
+  "artist": "Vaundy",
+  "collection": "【👿歌切】[2026-07-25]替代收音机的夜间歌回📻🎶 酷暑不消停！😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ku3L6rEAz?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "【👿歌切】[2026-07-25]替代收音机的夜间歌回📻🎶 酷暑不消停！😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ku3L6rEAz?p=2",
   "source": "otomoneruki.js"
 }
 );

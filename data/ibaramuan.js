@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 7/26/2026, 2:52:41 AM
+// 生成时间: 7/26/2026, 3:02:52 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5915,6 +5915,230 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-25]欢迎新人",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rK3L6CEUT?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "青春ライン",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "感電",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Flamingo",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "海の声",
+  "artist": "浦島太郎(桐谷健太)",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アカシア",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ハレンチ",
+  "artist": "ちゃんみな",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat.初音ミク",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "1925",
+  "artist": "T-POCKET feat.初音ミク",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ドレミファロンド",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "don't cry anymore",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "I",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "心絵",
+  "artist": "ロードオブメジャー",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ようかい体操第一",
+  "artist": "Dream5",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "THE REVO",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=26",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "THE DAY",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=27",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=28",
   "source": "ibaramuan.js"
 }
 );
