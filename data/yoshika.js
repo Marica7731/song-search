@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 7/27/2026, 1:01:04 PM
+// 生成时间: 7/27/2026, 1:19:41 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -36027,6 +36027,230 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-07-08]初見さん歓迎中！ギリギリ七夕いけますか？",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BXML6hEKi?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾・茅原実里・後藤邑子",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "味楽る!ミミカ ナンバーワン",
+  "artist": "おみむらまゆこ",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Catch You Catch Me",
+  "artist": "グミ",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バレンタイン・キッス",
+  "artist": "国生さゆり with おニャン子クラブ",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "とくべチュ、して",
+  "artist": "＝LOVE",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Love so sweet",
+  "artist": "嵐",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さくらんぼ",
+  "artist": "大塚愛",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "未来のミュージアム",
+  "artist": "Perfume",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Diamonds",
+  "artist": "PRINCESS PRINCESS",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "勇気100%",
+  "artist": "光GENJI",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "サインはB",
+  "artist": "B小町 アイ（高橋李依）",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Here",
+  "artist": "JUNNA",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "HANAJI",
+  "artist": "小林ゆう",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "涙そうそう",
+  "artist": "夏川りみ",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "CLEAR",
+  "artist": "坂本真綾",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "OVER THE TOP",
+  "artist": "きただにひろし",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=25",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アムリタ",
+  "artist": "牧野由依",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=26",
+  "source": "yoshika.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=27",
+  "source": "yoshika.js"
+},
+    {
+  "title": "フローリア",
+  "artist": "佐香智久",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=28",
   "source": "yoshika.js"
 },
     {
