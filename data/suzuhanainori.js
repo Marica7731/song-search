@@ -1,6 +1,6 @@
 // 鈴花いのり - 歌单数据 (多合集汇总)
 // 来源: BV1jyjK6sEns
-// 生成时间: 7/27/2026, 3:13:52 AM
+// 生成时间: 7/27/2026, 3:29:42 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1379,6 +1379,358 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-21]傍晚小唱一下🤍来首反差萌嗓音的歌怎么样？ 鈴花いのり - Suzuhana Inori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uwgm6kE5f?p=25",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "夜行性ハイズ",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=1",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "嗚呼、素晴らしきニャン生",
+  "artist": "Nem",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=2",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "十面相",
+  "artist": "YM",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=3",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "愛言葉",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=4",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "セツナトリップ",
+  "artist": "Last Note.",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=5",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ゴーストルール",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=6",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "サイコグラム",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=7",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=8",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ストリーミングハート",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=9",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo (supercell) feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=10",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo (supercell) feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=11",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=12",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "おじゃま虫",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=13",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "チェリーポップ",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=14",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "妄想税",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=15",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "LOVE DOLL",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=16",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "雑魚",
+  "artist": "DECO*27",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=17",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "タイムマシン",
+  "artist": "1640mP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=18",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "koyori feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=19",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "スキスキ絶頂症",
+  "artist": "電ポルP feat. GUMI",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=20",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=21",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "酔いどれ知らず",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=22",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "メンタルチェンソー",
+  "artist": "P丸様。",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=23",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "こちら、幸福安心委員会です。",
+  "artist": "うたたP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=24",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "魔法少女とチョコレゐト",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=25",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=26",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru feat. 鏡音リン",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=27",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "心壊サミット",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=28",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "罪と罰",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=29",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=30",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "エイムレスウォーカー",
+  "artist": "*Luna feat. GUMI",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=31",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=32",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "純情スカート",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=33",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "リスキーゲーム",
+  "artist": "黒うさP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=34",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat. GUMI・鏡音リン",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=35",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat. flower",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=36",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP feat. 鏡音リン",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=37",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "食虫植物",
+  "artist": "理芽",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=38",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=39",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "神っぽいな",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=40",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "君の好きな本",
+  "artist": "TOKOTOKO（西沢さんP） feat. GUMI",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=41",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "格子の心臓",
+  "artist": "TOKOTOKO（西沢さんP） feat. GUMI",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=42",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat. IA",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=43",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "敗北の少年",
+  "artist": "kemu feat. GUMI",
+  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=44",
   "source": "suzuhanainori.js"
 }
 );

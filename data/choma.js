@@ -1,6 +1,6 @@
 // チョま - 歌单数据 (多合集汇总)
 // 来源: BV1kM3L6GEBV
-// 生成时间: 7/27/2026, 3:08:09 AM
+// 生成时间: 7/27/2026, 3:24:03 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -651,6 +651,270 @@ window.SONG_DATA.push(
   "collection": "チョま歌切 2026年02月18日21点场 学习或睡前的陪伴如何！ 2026-02-18",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEBV?p=33",
+  "source": "choma.js"
+},
+    {
+  "title": "パプリカ",
+  "artist": "Foorin",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=1",
+  "source": "choma.js"
+},
+    {
+  "title": "INSANE",
+  "artist": "Black Gryph0n & Baasik",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=2",
+  "source": "choma.js"
+},
+    {
+  "title": "お返事まだカナ❓おじさん構文❗️",
+  "artist": "吉本おじさん",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=3",
+  "source": "choma.js"
+},
+    {
+  "title": "オーバーライド",
+  "artist": "吉田夜世 feat. 重音テト",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=4",
+  "source": "choma.js"
+},
+    {
+  "title": "ざぁこ",
+  "artist": "柊マグネタイト feat. 歌愛ユキ",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=5",
+  "source": "choma.js"
+},
+    {
+  "title": "可愛くてごめん",
+  "artist": "HoneyWorks feat. ちゅーたん(CV:早見沙織)",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=6",
+  "source": "choma.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=7",
+  "source": "choma.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=8",
+  "source": "choma.js"
+},
+    {
+  "title": "酔いどれ知らず",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=9",
+  "source": "choma.js"
+},
+    {
+  "title": "RuLe",
+  "artist": "Ado",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=10",
+  "source": "choma.js"
+},
+    {
+  "title": "み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ",
+  "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ feat. 初音ミク",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=11",
+  "source": "choma.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "JITTERIN'JINN",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=12",
+  "source": "choma.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=13",
+  "source": "choma.js"
+},
+    {
+  "title": "ロストワンの号哭",
+  "artist": "Neru feat. 鏡音リン",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=14",
+  "source": "choma.js"
+},
+    {
+  "title": "裏表ラバーズ",
+  "artist": "wowaka feat. 初音ミク",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=15",
+  "source": "choma.js"
+},
+    {
+  "title": "ルパン三世のテーマ",
+  "artist": "ピート・マック・ジュニア",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=16",
+  "source": "choma.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=17",
+  "source": "choma.js"
+},
+    {
+  "title": "Don't worry about a thing",
+  "artist": "MISIA",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=18",
+  "source": "choma.js"
+},
+    {
+  "title": "APT.",
+  "artist": "ROSÉ & Bruno Mars",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=19",
+  "source": "choma.js"
+},
+    {
+  "title": "十面相",
+  "artist": "YM feat. GUMI",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=20",
+  "source": "choma.js"
+},
+    {
+  "title": "はいよろこんで",
+  "artist": "こっちのけんと",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=21",
+  "source": "choma.js"
+},
+    {
+  "title": "ルマ",
+  "artist": "かいりきベア feat. 初音ミク",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=22",
+  "source": "choma.js"
+},
+    {
+  "title": "悪ノ召使",
+  "artist": "mothy_悪ノP feat. 鏡音レン",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=23",
+  "source": "choma.js"
+},
+    {
+  "title": "ロウワー",
+  "artist": "ぬゆり feat. v flower",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=24",
+  "source": "choma.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=25",
+  "source": "choma.js"
+},
+    {
+  "title": "青春コンプレックス",
+  "artist": "結束バンド",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=26",
+  "source": "choma.js"
+},
+    {
+  "title": "忘れてやらない",
+  "artist": "結束バンド",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=27",
+  "source": "choma.js"
+},
+    {
+  "title": "オトノケ",
+  "artist": "Creepy Nuts",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=28",
+  "source": "choma.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=29",
+  "source": "choma.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=30",
+  "source": "choma.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=31",
+  "source": "choma.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=32",
+  "source": "choma.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat. 初音ミク",
+  "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=33",
   "source": "choma.js"
 }
 );
