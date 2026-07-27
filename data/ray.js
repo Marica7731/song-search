@@ -1,6 +1,6 @@
 // 來-Ray- - 歌单数据 (多合集汇总)
 // 来源: BV1mJZwB8EVa
-// 生成时间: 7/27/2026, 3:08:28 AM
+// 生成时间: 7/27/2026, 3:18:06 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4667,6 +4667,222 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-12]本周歌回 來-Ray-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15xNG6kEYJ?p=21",
+  "source": "ray.js"
+},
+    {
+  "title": "ズル",
+  "artist": "ポリスピカデリー feat. 羽累",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=1",
+  "source": "ray.js"
+},
+    {
+  "title": "イデアル",
+  "artist": "伊根 feat. IA",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=2",
+  "source": "ray.js"
+},
+    {
+  "title": "東京サマーセッション",
+  "artist": "HoneyWorks feat. GUMI・flower",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=3",
+  "source": "ray.js"
+},
+    {
+  "title": "quiet room",
+  "artist": "有機酸 feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=4",
+  "source": "ray.js"
+},
+    {
+  "title": "ニア",
+  "artist": "夏代孝明 feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=5",
+  "source": "ray.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=6",
+  "source": "ray.js"
+},
+    {
+  "title": "Mr.Wonder",
+  "artist": "takamatt feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=7",
+  "source": "ray.js"
+},
+    {
+  "title": "ハロ／ハワユ",
+  "artist": "ナノウ feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=8",
+  "source": "ray.js"
+},
+    {
+  "title": "青",
+  "artist": "164 feat. GUMI",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=9",
+  "source": "ray.js"
+},
+    {
+  "title": "Just Be Friends",
+  "artist": "Dixie Flatline feat. 巡音ルカ",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=10",
+  "source": "ray.js"
+},
+    {
+  "title": "from Y to Y",
+  "artist": "ジミーサムP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=11",
+  "source": "ray.js"
+},
+    {
+  "title": "植物園",
+  "artist": "宮沢もよよ feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=12",
+  "source": "ray.js"
+},
+    {
+  "title": "Urban Night",
+  "artist": "EasyPop feat. 巡音ルカ・初音ミク",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=13",
+  "source": "ray.js"
+},
+    {
+  "title": "Magic",
+  "artist": "めろくる feat. 初音ミク・巡音ルカ・鏡音リン",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=14",
+  "source": "ray.js"
+},
+    {
+  "title": "Blessing",
+  "artist": "halyosy feat. 初音ミク・鏡音リン・鏡音レン・巡音ルカ・KAITO・MEIKO",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=15",
+  "source": "ray.js"
+},
+    {
+  "title": "Elopement",
+  "artist": "香椎モイミ feat. 鏡音リン",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=16",
+  "source": "ray.js"
+},
+    {
+  "title": "ツギハギスタッカート",
+  "artist": "とあ feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=17",
+  "source": "ray.js"
+},
+    {
+  "title": "君の脈で踊りたかった",
+  "artist": "ピコン feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=18",
+  "source": "ray.js"
+},
+    {
+  "title": "愛してる",
+  "artist": "れるりり feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=19",
+  "source": "ray.js"
+},
+    {
+  "title": "またねがあれば",
+  "artist": "risou feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=20",
+  "source": "ray.js"
+},
+    {
+  "title": "ミルクパズル",
+  "artist": "wotaku feat. KAITO",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=21",
+  "source": "ray.js"
+},
+    {
+  "title": "DAYBREAK FRONTLINE",
+  "artist": "Orangestar feat. IA",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=22",
+  "source": "ray.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat. GUMI",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=23",
+  "source": "ray.js"
+},
+    {
+  "title": "ノウナイディスコ",
+  "artist": "r-906 feat. IA",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=24",
+  "source": "ray.js"
+},
+    {
+  "title": "翡翠のまち",
+  "artist": "メル feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=25",
+  "source": "ray.js"
+},
+    {
+  "title": "紫色の向日葵",
+  "artist": "香椎モイミ feat. 羽累",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=26",
+  "source": "ray.js"
+},
+    {
+  "title": "雨音と、舞う。",
+  "artist": "きっと、ずっと、ぼっち。 feat. 闇音レンリ",
+  "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=27",
   "source": "ray.js"
 }
 );
