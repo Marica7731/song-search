@@ -1,6 +1,6 @@
 // ななし律歌 - 歌单数据 (多合集汇总)
 // 来源: BV1wHQVBTEU5
-// 生成时间: 7/27/2026, 2:57:28 AM
+// 生成时间: 7/27/2026, 3:27:35 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1139,6 +1139,214 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-18]睡前要来一首吗？🌙🎧 ななし律歌 / Nanashi Rikka",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L9Ky6iEAs?p=18",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ドッペル押し問答",
+  "artist": "WONDERFUL★OPPORTUNITY! feat. 鏡音リン",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=1",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=2",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=3",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ヤミタイガール",
+  "artist": "れるりり feat. GUMI",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=4",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=5",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=6",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "私",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=7",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "vivi",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=8",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=9",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=10",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=11",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ワールド・ランプシェード",
+  "artist": "buzzG feat. GUMI",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=12",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "天国",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=13",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "僕の神様",
+  "artist": "ワンダーランズ×ショウタイム feat. 鏡音レン",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=14",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "あの夏が飽和する。",
+  "artist": "カンザキイオリ",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=15",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "君の神様になりたい。",
+  "artist": "カンザキイオリ feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=16",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=17",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Re:I Am",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=18",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=19",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "別の人の彼女になったよ",
+  "artist": "wacci",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=20",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=21",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "点描の唄",
+  "artist": "Mrs. GREEN APPLE feat. 井上苑子",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=22",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Blue Jeans",
+  "artist": "HANA",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=23",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ハレンチ",
+  "artist": "ちゃんみな",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=24",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "B級",
+  "artist": "ちゃんみな",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=25",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "快晴",
+  "artist": "Orangestar feat. IA",
+  "collection": "【歌切】[2026-07-26]一起熬夜吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jEby?p=26",
   "source": "nanashirikka.js"
 }
 );

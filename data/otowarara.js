@@ -1,6 +1,6 @@
 // 音羽ララ - 歌单数据 (多合集汇总)
 // 来源: BV1PE7J6CESH
-// 生成时间: 7/27/2026, 3:47:46 AM
+// 生成时间: 7/27/2026, 4:17:55 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -198,6 +198,78 @@ window.SONG_DATA.push(
   "source": "otowarara.js"
 },
     {
+  "title": "モノクロのキス",
+  "artist": "OSIRIS",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=1",
+  "source": "otowarara.js"
+},
+    {
+  "title": "カンナ",
+  "artist": "indigo la End",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=2",
+  "source": "otowarara.js"
+},
+    {
+  "title": "ジェンガ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=3",
+  "source": "otowarara.js"
+},
+    {
+  "title": "ふたりごと",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=4",
+  "source": "otowarara.js"
+},
+    {
+  "title": "ココロノカケ",
+  "artist": "音羽ララ",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=5",
+  "source": "otowarara.js"
+},
+    {
+  "title": "逆光のフリューゲル",
+  "artist": "ツヴァイウィング",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=6",
+  "source": "otowarara.js"
+},
+    {
+  "title": "タイムマシン",
+  "artist": "1640mP feat. 初音ミク",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=7",
+  "source": "otowarara.js"
+},
+    {
+  "title": "君の好きなうた",
+  "artist": "UVERworld",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=8",
+  "source": "otowarara.js"
+},
+    {
+  "title": "シルシ",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=9",
+  "source": "otowarara.js"
+},
+    {
   "title": "clock lock works",
   "artist": "ハチ feat. 初音ミク",
   "collection": "【歌切】[2026-07-26]全类型术力口歌回🤍唱好多名曲！❤️‍🔥欢迎点歌🫶",
@@ -283,78 +355,6 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-26]全类型术力口歌回🤍唱好多名曲！❤️‍🔥欢迎点歌🫶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1grgf61EUi?p=11",
-  "source": "otowarara.js"
-},
-    {
-  "title": "モノクロのキス",
-  "artist": "OSIRIS",
-  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=1",
-  "source": "otowarara.js"
-},
-    {
-  "title": "カンナ",
-  "artist": "indigo la End",
-  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=2",
-  "source": "otowarara.js"
-},
-    {
-  "title": "ジェンガ",
-  "artist": "40mP feat. 初音ミク",
-  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=3",
-  "source": "otowarara.js"
-},
-    {
-  "title": "ふたりごと",
-  "artist": "RADWIMPS",
-  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=4",
-  "source": "otowarara.js"
-},
-    {
-  "title": "ココロノカケ",
-  "artist": "音羽ララ",
-  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=5",
-  "source": "otowarara.js"
-},
-    {
-  "title": "逆光のフリューゲル",
-  "artist": "ツヴァイウィング",
-  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=6",
-  "source": "otowarara.js"
-},
-    {
-  "title": "タイムマシン",
-  "artist": "1640mP feat. 初音ミク",
-  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=7",
-  "source": "otowarara.js"
-},
-    {
-  "title": "君の好きなうた",
-  "artist": "UVERworld",
-  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=8",
-  "source": "otowarara.js"
-},
-    {
-  "title": "シルシ",
-  "artist": "LiSA",
-  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=9",
   "source": "otowarara.js"
 }
 );

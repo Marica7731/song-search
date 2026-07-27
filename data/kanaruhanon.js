@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 7/27/2026, 3:12:48 AM
+// 生成时间: 7/27/2026, 3:41:11 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1219,6 +1219,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-24]8/2有空的人……来被我缠上吧！有安排的人请转发给有空的人啊啊啊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1td356HELs?p=10",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ワンダー・スターター",
+  "artist": "TINGS",
+  "collection": "【歌切】[2026-07-26]直播最后有我个人很重要的消息要宣布！！！是个好消息哦～！📢🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g6gf6jEv6?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "君色シグナル",
+  "artist": "春奈るな",
+  "collection": "【歌切】[2026-07-26]直播最后有我个人很重要的消息要宣布！！！是个好消息哦～！📢🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g6gf6jEv6?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "未来予報ハレルヤ!",
+  "artist": "Liella!",
+  "collection": "【歌切】[2026-07-26]直播最后有我个人很重要的消息要宣布！！！是个好消息哦～！📢🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g6gf6jEv6?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Color of Drops",
+  "artist": "MORE MORE JUMP!",
+  "collection": "【歌切】[2026-07-26]直播最后有我个人很重要的消息要宣布！！！是个好消息哦～！📢🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g6gf6jEv6?p=4",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Over Over",
+  "artist": "澁谷かのん",
+  "collection": "【歌切】[2026-07-26]直播最后有我个人很重要的消息要宣布！！！是个好消息哦～！📢🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g6gf6jEv6?p=5",
   "source": "kanaruhanon.js"
 }
 );
