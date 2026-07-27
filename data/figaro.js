@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 7/27/2026, 3:12:59 AM
+// 生成时间: 7/27/2026, 3:21:59 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -33523,6 +33523,142 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-07-24]翻唱视频已投稿！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SU3G67EpY?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "Arrietty's Song",
+  "artist": "セシル・コルベル",
+  "collection": "【💐歌切】[2026-07-26]睡眠导入歌回✨安静时刻🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1x?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【💐歌切】[2026-07-26]睡眠导入歌回✨安静时刻🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1x?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【💐歌切】[2026-07-26]睡眠导入歌回✨安静时刻🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1x?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "【💐歌切】[2026-07-26]睡眠导入歌回✨安静时刻🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1x?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "いつも何度でも",
+  "artist": "木村弓",
+  "collection": "【💐歌切】[2026-07-26]睡眠导入歌回✨安静时刻🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1x?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【💐歌切】[2026-07-26]睡眠导入歌回✨安静时刻🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1x?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "【💐歌切】[2026-07-26]睡眠导入歌回✨安静时刻🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1x?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "サーカスナイト",
+  "artist": "七尾旅人",
+  "collection": "【💐歌切】[2026-07-26]睡眠导入歌回✨安静时刻🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1x?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "エイリアンズ",
+  "artist": "キリンジ",
+  "collection": "【💐歌切】[2026-07-26]睡眠导入歌回✨安静时刻🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1x?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat. 安次嶺希和子",
+  "collection": "【💐歌切】[2026-07-26]睡眠导入歌回✨安静时刻🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1x?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "フクロウ ～フクロウが知らせる客が来たと～",
+  "artist": "KOKIA",
+  "collection": "【💐歌切】[2026-07-26]睡眠导入歌回✨安静时刻🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1x?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "またねがあれば",
+  "artist": "澤田空海理",
+  "collection": "【💐歌切】[2026-07-26]睡眠导入歌回✨安静时刻🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1x?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "にお feat. 初音ミク",
+  "collection": "【💐歌切】[2026-07-26]睡眠导入歌回✨安静时刻🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1x?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-07-26]睡眠导入歌回✨安静时刻🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1x?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "六月は雨上がりの街を書く",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-07-26]睡眠导入歌回✨安静时刻🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1x?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "ありあまる富",
+  "artist": "椎名林檎",
+  "collection": "【💐歌切】[2026-07-26]睡眠导入歌回✨安静时刻🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1x?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "いさな",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-07-26]睡眠导入歌回✨安静时刻🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1x?p=17",
   "source": "figaro.js"
 }
 );
