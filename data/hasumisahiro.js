@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 7/27/2026, 3:25:30 AM
+// 生成时间: 7/27/2026, 3:33:01 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1923,6 +1923,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-19]诶！？从早上4点就开歌回！？ 羽澄さひろ / Hasumi Sahiro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV144Kk6jEBP?p=14",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "私の好きなもの",
+  "artist": "ラブリーサマーちゃん",
+  "collection": "【歌切】[2026-07-26]小声悄悄唱给你听，快点睡觉啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Lhgf6pE2M?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "あなたは煙草 私はシャボン",
+  "artist": "ラブリーサマーちゃん",
+  "collection": "【歌切】[2026-07-26]小声悄悄唱给你听，快点睡觉啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Lhgf6pE2M?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "summertime",
+  "artist": "cinnamons × evening cinema",
+  "collection": "【歌切】[2026-07-26]小声悄悄唱给你听，快点睡觉啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Lhgf6pE2M?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "サマータイムラブ",
+  "artist": "Shiggy Jr.",
+  "collection": "【歌切】[2026-07-26]小声悄悄唱给你听，快点睡觉啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Lhgf6pE2M?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "MATATABISTEP",
+  "artist": "パスピエ",
+  "collection": "【歌切】[2026-07-26]小声悄悄唱给你听，快点睡觉啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Lhgf6pE2M?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Sweet Bitter Beauty Song",
+  "artist": "桜高軽音部",
+  "collection": "【歌切】[2026-07-26]小声悄悄唱给你听，快点睡觉啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Lhgf6pE2M?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Humming Bird",
+  "artist": "琴吹紬(CV:寿美菜子)",
+  "collection": "【歌切】[2026-07-26]小声悄悄唱给你听，快点睡觉啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Lhgf6pE2M?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ラビュー・ラビュー",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-07-26]小声悄悄唱给你听，快点睡觉啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Lhgf6pE2M?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "らいおんハート",
+  "artist": "SMAP",
+  "collection": "【歌切】[2026-07-26]小声悄悄唱给你听，快点睡觉啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Lhgf6pE2M?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ミルクティー",
+  "artist": "UA",
+  "collection": "【歌切】[2026-07-26]小声悄悄唱给你听，快点睡觉啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Lhgf6pE2M?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Last Love Letter",
+  "artist": "チャットモンチー",
+  "collection": "【歌切】[2026-07-26]小声悄悄唱给你听，快点睡觉啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Lhgf6pE2M?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "恋愛スピリッツ",
+  "artist": "チャットモンチー",
+  "collection": "【歌切】[2026-07-26]小声悄悄唱给你听，快点睡觉啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Lhgf6pE2M?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "稚内",
+  "artist": "Galileo Galilei",
+  "collection": "【歌切】[2026-07-26]小声悄悄唱给你听，快点睡觉啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Lhgf6pE2M?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "星に願いを",
+  "artist": "flumpool",
+  "collection": "【歌切】[2026-07-26]小声悄悄唱给你听，快点睡觉啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Lhgf6pE2M?p=14",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "夏の恋人",
+  "artist": "SHISHAMO",
+  "collection": "【歌切】[2026-07-26]小声悄悄唱给你听，快点睡觉啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Lhgf6pE2M?p=15",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "二十九、三十",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-07-26]小声悄悄唱给你听，快点睡觉啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Lhgf6pE2M?p=16",
   "source": "hasumisahiro.js"
 }
 );
