@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 7/27/2026, 3:21:01 AM
+// 生成时间: 7/27/2026, 3:28:53 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -723,6 +723,190 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=23",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "太陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ちゃんとあるよ",
+  "artist": "傘村トータ",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "君の体温",
+  "artist": "クワガタP",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ハロ/ハワユ",
+  "artist": "ナノウ(ほえほえP)",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "back number",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "DAYBREAK FRONTLINE",
+  "artist": "Orangestar",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "深い森",
+  "artist": "Do As Infinity",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "鱗",
+  "artist": "秦基博",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "フクロウ~フクロウが知らせる客が来たと〜",
+  "artist": "KOKIA",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "いつも何度でも",
+  "artist": "木村弓",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Prologue",
+  "artist": "美波",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=15",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Dear",
+  "artist": "19 iku",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=16",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=17",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "季節は次々死んでいく",
+  "artist": "amazarashi",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=18",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=19",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=20",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=21",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "三年間",
+  "artist": "risou",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=22",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "またねがあれば",
+  "artist": "risou",
+  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=23",
   "source": "suiuishino.js"
 }
 );

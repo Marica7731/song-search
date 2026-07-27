@@ -1,6 +1,6 @@
 // 音羽ララ - 歌单数据 (多合集汇总)
 // 来源: BV1PE7J6CESH
-// 生成时间: 7/27/2026, 3:25:39 AM
+// 生成时间: 7/27/2026, 3:32:23 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -327,7 +327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ココロノカケ",
-  "artist": "オリ曲",
+  "artist": "音羽ララ",
   "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=5",

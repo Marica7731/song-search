@@ -1,6 +1,6 @@
 // 炉なる - 歌单数据 (多合集汇总)
 // 来源: BV1oeMx6WEve
-// 生成时间: 7/27/2026, 3:15:45 AM
+// 生成时间: 7/27/2026, 3:24:56 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -411,6 +411,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-06]✦︎最后一场，冲啊！！！ 炉なる",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oeMx6WEve?p=4",
+  "source": "ronaru.js"
+},
+    {
+  "title": "ヒトリゴト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-07-26]久违的歌回！唱歌啦——！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1T?p=1",
+  "source": "ronaru.js"
+},
+    {
+  "title": "U&I",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-07-26]久违的歌回！唱歌啦——！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1T?p=2",
+  "source": "ronaru.js"
+},
+    {
+  "title": "小悪魔だってかまわない!",
+  "artist": "めいちゃん",
+  "collection": "【歌切】[2026-07-26]久违的歌回！唱歌啦——！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1T?p=3",
+  "source": "ronaru.js"
+},
+    {
+  "title": "メルティランドナイトメア",
+  "artist": "はるまきごはん feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]久违的歌回！唱歌啦——！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1T?p=4",
+  "source": "ronaru.js"
+},
+    {
+  "title": "君と夏フェス",
+  "artist": "SHISHAMO",
+  "collection": "【歌切】[2026-07-26]久违的歌回！唱歌啦——！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1T?p=5",
+  "source": "ronaru.js"
+},
+    {
+  "title": "ストロー",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-07-26]久违的歌回！唱歌啦——！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1T?p=6",
+  "source": "ronaru.js"
+},
+    {
+  "title": "1/6 -out of the gravity-",
+  "artist": "ぼーかりおどP(noa) feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]久违的歌回！唱歌啦——！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1T?p=7",
+  "source": "ronaru.js"
+},
+    {
+  "title": "妄想スケッチ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]久违的歌回！唱歌啦——！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1T?p=8",
+  "source": "ronaru.js"
+},
+    {
+  "title": "shake it!",
+  "artist": "emon(Tes.) feat. 初音ミク・鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-07-26]久违的歌回！唱歌啦——！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1T?p=9",
+  "source": "ronaru.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-07-26]久违的歌回！唱歌啦——！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1T?p=10",
+  "source": "ronaru.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【歌切】[2026-07-26]久违的歌回！唱歌啦——！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a6gf6jE1T?p=11",
   "source": "ronaru.js"
 }
 );
