@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 7/28/2026, 9:42:14 PM
+// 生成时间: 7/28/2026, 9:53:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -37003,6 +37003,198 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-07-24]初見さん歓迎中！華金だ！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16T3V6NEDE?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Sweet(x5) Vintage!",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Pray",
+  "artist": "Tommy heavenly6",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "好きすぎて滅!",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "departure",
+  "artist": "小野正利",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾・茅原実里・後藤邑子",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハグしちゃお",
+  "artist": "夏川りみ",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "盛れ!ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat.巡音ルカ",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "みちしるべ",
+  "artist": "茅原実里",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ヒトリゴト",
+  "artist": "ClariS",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "舞台少女心得",
+  "artist": "スタァライト九九組",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "童神～ヤマトグチ～",
+  "artist": "夏川りみ",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "明日への扉",
+  "artist": "川嶋あい",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Sweet(x5) Vintage!",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=24",
   "source": "yoshika.js"
 }
 );
