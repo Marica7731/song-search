@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 7/28/2026, 8:23:14 PM
+// 生成时间: 7/28/2026, 8:33:25 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -283,6 +283,46 @@ window.SONG_DATA.push(
   "collection": "【5首 联动】【 稀羽すう/夢川かなう/シエル 】3D歌枠コラボ - CONNECT_Vが繋いだ絆編 - 01. 残酷な天使のテーゼ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Du4m1g7sx?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "240425【花鋏キョウ/稀羽すう】 5首 3D卡拉OK カタオモイ - Aimer",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mr421g7wR?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "ALIVE",
+  "artist": "ClariS",
+  "collection": "240425【花鋏キョウ/稀羽すう】 5首 3D卡拉OK カタオモイ - Aimer",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mr421g7wR?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "りぶ",
+  "collection": "240425【花鋏キョウ/稀羽すう】 5首 3D卡拉OK カタオモイ - Aimer",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mr421g7wR?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "240425【花鋏キョウ/稀羽すう】 5首 3D卡拉OK カタオモイ - Aimer",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mr421g7wR?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "帰ろう",
+  "artist": "藤井風",
+  "collection": "240425【花鋏キョウ/稀羽すう】 5首 3D卡拉OK カタオモイ - Aimer",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mr421g7wR?p=5",
   "source": "friends.js"
 },
     {
