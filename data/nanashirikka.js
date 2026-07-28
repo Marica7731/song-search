@@ -1,6 +1,6 @@
 // ななし律歌 - 歌单数据 (多合集汇总)
 // 来源: BV1wHQVBTEU5
-// 生成时间: 7/28/2026, 3:08:22 AM
+// 生成时间: 7/28/2026, 3:15:50 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1142,8 +1142,8 @@ window.SONG_DATA.push(
   "source": "nanashirikka.js"
 },
     {
-  "title": "ドッペル押し問答",
-  "artist": "WONDERFUL★OPPORTUNITY! feat. 鏡音リン",
+  "title": "Q",
+  "artist": "椎名もた",
   "collection": "【歌切】[2026-07-26]一起熬夜吧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jEby?p=1",
