@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 7/28/2026, 2:34:43 AM
+// 生成时间: 7/28/2026, 2:45:17 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -18147,6 +18147,206 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-07-13]10万订阅纪念3D演唱会 ✧ 新形象披露 & 重大发表 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TpNm6hEqM?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "RIDE ON TIME",
+  "artist": "山下達郎",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "青いベンチ",
+  "artist": "サスケ",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "糸",
+  "artist": "中島みゆき",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "やさしさに包まれたなら",
+  "artist": "松任谷由実",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "さよならの夏～コクリコ坂から～",
+  "artist": "手嶌葵",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ひこうき雲",
+  "artist": "松任谷由実",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "弱虫モンブラン",
+  "artist": "DECO*27 feat.GUMI",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=18",
+  "source": "ririsya.js"
+},
+    {
+  "title": "小夜子",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=19",
+  "source": "ririsya.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=20",
+  "source": "ririsya.js"
+},
+    {
+  "title": "心拍数♯0822",
+  "artist": "蝶々P feat.初音ミク",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=21",
+  "source": "ririsya.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat.GUMI",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=22",
+  "source": "ririsya.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=23",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=24",
+  "source": "ririsya.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=25",
   "source": "ririsya.js"
 }
 );
