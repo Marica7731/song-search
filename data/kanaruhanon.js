@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 7/28/2026, 10:01:29 PM
+// 生成时间: 7/28/2026, 10:17:18 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1259,6 +1259,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-26]直播最后有我个人很重要的消息要宣布！！！是个好消息哦～！📢🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1g6gf6jEv6?p=5",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "全方位キュン♡",
+  "artist": "みらくらぱーく!",
+  "collection": "【歌切】[2026-07-27]只唱二次元偶像歌曲🎤💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1os366qExn?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "On your mark",
+  "artist": "蓮ノ空女学院スクールアイドルクラブ",
+  "collection": "【歌切】[2026-07-27]只唱二次元偶像歌曲🎤💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1os366qExn?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Dream Believers",
+  "artist": "蓮ノ空女学院スクールアイドルクラブ",
+  "collection": "【歌切】[2026-07-27]只唱二次元偶像歌曲🎤💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1os366qExn?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "サヨナラから始まる物語",
+  "artist": "星見プロダクション",
+  "collection": "【歌切】[2026-07-27]只唱二次元偶像歌曲🎤💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1os366qExn?p=4",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Daytime Moon",
+  "artist": "月のテンペスト",
+  "collection": "【歌切】[2026-07-27]只唱二次元偶像歌曲🎤💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1os366qExn?p=5",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ミツバチ",
+  "artist": "Le☆S☆Ca",
+  "collection": "【歌切】[2026-07-27]只唱二次元偶像歌曲🎤💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1os366qExn?p=6",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "恋☆カナ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【歌切】[2026-07-27]只唱二次元偶像歌曲🎤💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1os366qExn?p=7",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "アナタボシ",
+  "artist": "MilkyWay",
+  "collection": "【歌切】[2026-07-27]只唱二次元偶像歌曲🎤💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1os366qExn?p=8",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "チャンス!",
+  "artist": "月島きらり",
+  "collection": "【歌切】[2026-07-27]只唱二次元偶像歌曲🎤💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1os366qExn?p=9",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "START!! True dreams",
+  "artist": "Liella!",
+  "collection": "【歌切】[2026-07-27]只唱二次元偶像歌曲🎤💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1os366qExn?p=10",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "始まりは君の空",
+  "artist": "Liella!",
+  "collection": "【歌切】[2026-07-27]只唱二次元偶像歌曲🎤💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1os366qExn?p=11",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "恋になりたいAQUARIUM",
+  "artist": "Aqours",
+  "collection": "【歌切】[2026-07-27]只唱二次元偶像歌曲🎤💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1os366qExn?p=12",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "水彩世界",
+  "artist": "スリーズブーケ",
+  "collection": "【歌切】[2026-07-27]只唱二次元偶像歌曲🎤💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1os366qExn?p=13",
   "source": "kanaruhanon.js"
 }
 );
