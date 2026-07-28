@@ -1,6 +1,6 @@
 // 千代浦蝶美 - 歌单数据 (多合集汇总)
 // 来源: BV1AFG66UEpL
-// 生成时间: 7/28/2026, 9:45:36 PM
+// 生成时间: 7/28/2026, 9:56:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1291,6 +1291,118 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=100",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "テトリス",
+  "artist": "柊マグネタイト feat.重音テト",
+  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEpi?p=1",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat.巡音ルカ",
+  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEpi?p=2",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat.GUMI",
+  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEpi?p=3",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat.flower",
+  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEpi?p=4",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEpi?p=5",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat.巡音ルカ・GUMI",
+  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEpi?p=6",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat.初音ミク",
+  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEpi?p=7",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEpi?p=8",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "みむかゥわナイストライ",
+  "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ feat.初音ミク",
+  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEpi?p=9",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "ペテン師が笑う頃に",
+  "artist": "梨本うい feat.初音ミク",
+  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEpi?p=10",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "六兆年と一夜物語",
+  "artist": "kemu feat.IA",
+  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEpi?p=11",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEpi?p=12",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEpi?p=13",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "ロストワンの号哭",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEpi?p=14",
   "source": "chiyourachomi.js"
 }
 );
