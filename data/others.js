@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/28/2026, 10:30:22 PM
+// 生成时间: 7/28/2026, 10:33:08 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -939,6 +939,134 @@ window.SONG_DATA.push(
   "collection": "sifar Vtuber歌切 2026-06-23 为了众筹成功，用歌回接力传递接力棒哦",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Fkj96wENP?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ずうっといっしょ!",
+  "artist": "キタニタツヤ",
+  "collection": "ラティオ・ユィリスOfficial歌切 2026-07-28 一定有你会喜欢的歌🩵曲库1300首以上的歌回！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QY366wEVP?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "Janne Da Arc",
+  "collection": "ラティオ・ユィリスOfficial歌切 2026-07-28 一定有你会喜欢的歌🩵曲库1300首以上的歌回！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QY366wEVP?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "ラティオ・ユィリスOfficial歌切 2026-07-28 一定有你会喜欢的歌🩵曲库1300首以上的歌回！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QY366wEVP?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "みむかゥわナイストライ",
+  "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ feat.初音ミク",
+  "collection": "ラティオ・ユィリスOfficial歌切 2026-07-28 一定有你会喜欢的歌🩵曲库1300首以上的歌回！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QY366wEVP?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ダイダイダイダイダイキライ",
+  "artist": "雨良",
+  "collection": "ラティオ・ユィリスOfficial歌切 2026-07-28 一定有你会喜欢的歌🩵曲库1300首以上的歌回！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QY366wEVP?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "ラティオ・ユィリスOfficial歌切 2026-07-28 一定有你会喜欢的歌🩵曲库1300首以上的歌回！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QY366wEVP?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "Change My Mind",
+  "artist": "EXILE",
+  "collection": "ラティオ・ユィリスOfficial歌切 2026-07-28 一定有你会喜欢的歌🩵曲库1300首以上的歌回！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QY366wEVP?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "NON STOP",
+  "artist": "HANA",
+  "collection": "ラティオ・ユィリスOfficial歌切 2026-07-28 一定有你会喜欢的歌🩵曲库1300首以上的歌回！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QY366wEVP?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "ノンブレス・オブリージュ",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "ラティオ・ユィリスOfficial歌切 2026-07-28 一定有你会喜欢的歌🩵曲库1300首以上的歌回！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QY366wEVP?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat.可不",
+  "collection": "ラティオ・ユィリスOfficial歌切 2026-07-28 一定有你会喜欢的歌🩵曲库1300首以上的歌回！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QY366wEVP?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "再教育",
+  "artist": "Neru feat.鏡音リン・鏡音レン",
+  "collection": "ラティオ・ユィリスOfficial歌切 2026-07-28 一定有你会喜欢的歌🩵曲库1300首以上的歌回！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QY366wEVP?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "命のユースティティア",
+  "artist": "Neru feat.鏡音レン",
+  "collection": "ラティオ・ユィリスOfficial歌切 2026-07-28 一定有你会喜欢的歌🩵曲库1300首以上的歌回！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QY366wEVP?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "脱法ロック",
+  "artist": "Neru feat.鏡音レン",
+  "collection": "ラティオ・ユィリスOfficial歌切 2026-07-28 一定有你会喜欢的歌🩵曲库1300首以上的歌回！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QY366wEVP?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "アイワナムチュー",
+  "artist": "MAISONdes feat.asmi・すりぃ",
+  "collection": "ラティオ・ユィリスOfficial歌切 2026-07-28 一定有你会喜欢的歌🩵曲库1300首以上的歌回！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QY366wEVP?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "ラティオ・ユィリスOfficial歌切 2026-07-28 一定有你会喜欢的歌🩵曲库1300首以上的歌回！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QY366wEVP?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "Break Free",
+  "artist": "Ariana Grande",
+  "collection": "ラティオ・ユィリスOfficial歌切 2026-07-28 一定有你会喜欢的歌🩵曲库1300首以上的歌回！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QY366wEVP?p=16",
   "source": "others.js"
 },
     {
