@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 7/28/2026, 9:41:56 PM
+// 生成时间: 7/28/2026, 9:52:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2123,6 +2123,110 @@ window.SONG_DATA.push(
   "collection": "【⚙️🎸歌切】[2026-07-24]明天是首次现场Live！Live前夜，要不要一起度过？ からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1883V6JE1W?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "君が眩しいから僕は星が見えない",
+  "artist": "SIX LOUNGE",
+  "collection": "【⚙️🎸歌切】[2026-07-28]今天也辛苦了～！悠闲地弹唱！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh366YE9f?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "LILLY",
+  "artist": "Hump Back",
+  "collection": "【⚙️🎸歌切】[2026-07-28]今天也辛苦了～！悠闲地弹唱！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh366YE9f?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "きょういくばんぐみのテーマ",
+  "artist": "やみの おねえさん",
+  "collection": "【⚙️🎸歌切】[2026-07-28]今天也辛苦了～！悠闲地弹唱！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh366YE9f?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ベーコンエピ",
+  "artist": "TOMOO",
+  "collection": "【⚙️🎸歌切】[2026-07-28]今天也辛苦了～！悠闲地弹唱！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh366YE9f?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ふたりの世界",
+  "artist": "あいみょん",
+  "collection": "【⚙️🎸歌切】[2026-07-28]今天也辛苦了～！悠闲地弹唱！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh366YE9f?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "COSMOS",
+  "artist": "アクアマリン",
+  "collection": "【⚙️🎸歌切】[2026-07-28]今天也辛苦了～！悠闲地弹唱！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh366YE9f?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "【⚙️🎸歌切】[2026-07-28]今天也辛苦了～！悠闲地弹唱！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh366YE9f?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "月に住む君",
+  "artist": "Saucy Dog",
+  "collection": "【⚙️🎸歌切】[2026-07-28]今天也辛苦了～！悠闲地弹唱！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh366YE9f?p=8",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "詩書きとコーヒー",
+  "artist": "ヨルシカ",
+  "collection": "【⚙️🎸歌切】[2026-07-28]今天也辛苦了～！悠闲地弹唱！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh366YE9f?p=9",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【⚙️🎸歌切】[2026-07-28]今天也辛苦了～！悠闲地弹唱！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh366YE9f?p=10",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "紫苑",
+  "artist": "Saucy Dog",
+  "collection": "【⚙️🎸歌切】[2026-07-28]今天也辛苦了～！悠闲地弹唱！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh366YE9f?p=11",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "痛いよ",
+  "artist": "清竜人",
+  "collection": "【⚙️🎸歌切】[2026-07-28]今天也辛苦了～！悠闲地弹唱！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh366YE9f?p=12",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "今好きになる。",
+  "artist": "HoneyWorks",
+  "collection": "【⚙️🎸歌切】[2026-07-28]今天也辛苦了～！悠闲地弹唱！ からくりんね-KarakuRinne",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Qh366YE9f?p=13",
   "source": "karakurinne.js"
 }
 );
