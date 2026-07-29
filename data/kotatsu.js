@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 7/29/2026, 2:47:08 AM
+// 生成时间: 7/29/2026, 3:01:50 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9758,8 +9758,8 @@ window.SONG_DATA.push(
   "source": "kotatsu.js"
 },
     {
-  "title": "未确认",
-  "artist": "未确认",
+  "title": "ニーナ",
+  "artist": "はるこたつぶとん倶楽部♧",
   "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=22",
