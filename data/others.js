@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/29/2026, 5:36:34 PM
+// 生成时间: 7/29/2026, 5:53:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -16534,7 +16534,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "みむかｩわナイストライ",
+  "title": "みむかゥわナイストライ",
   "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ feat.初音ミク・ずんだもん・四国めたん",
   "collection": "Shitora ch. 涼風しとら歌切 2026-03-30 🐥 让你元气满满撑过这一周的歌🎤｜欢迎新观众！",
   "up": "前尘往事如昔故",
@@ -16558,7 +16558,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "Show",
+  "title": "唱",
   "artist": "Ado",
   "collection": "Shitora ch. 涼風しとら歌切 2026-03-30 🐥 让你元气满满撑过这一周的歌🎤｜欢迎新观众！",
   "up": "前尘往事如昔故",
@@ -16582,7 +16582,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "The Blessing",
+  "title": "祝福",
   "artist": "YOASOBI",
   "collection": "Shitora ch. 涼風しとら歌切 2026-03-30 🐥 让你元气满满撑过这一周的歌🎤｜欢迎新观众！",
   "up": "前尘往事如昔故",
@@ -16606,32 +16606,32 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "Peace Sign",
-  "artist": "Kenshi Yonezu",
+  "title": "ピースサイン",
+  "artist": "米津玄師",
   "collection": "Shitora ch. 涼風しとら歌切 2026-03-30 🐥 让你元气满满撑过这一周的歌🎤｜欢迎新观众！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1F7366VEZ6?p=11",
   "source": "others.js"
 },
     {
-  "title": "Scar",
-  "artist": "Tatsuya Kitani",
+  "title": "スカー",
+  "artist": "キタニタツヤ",
   "collection": "Shitora ch. 涼風しとら歌切 2026-03-30 🐥 让你元气满满撑过这一周的歌🎤｜欢迎新观众！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1F7366VEZ6?p=12",
   "source": "others.js"
 },
     {
-  "title": "Where Our Blue Is",
-  "artist": "Tatsuya Kitani",
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
   "collection": "Shitora ch. 涼風しとら歌切 2026-03-30 🐥 让你元气满满撑过这一周的歌🎤｜欢迎新观众！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1F7366VEZ6?p=13",
   "source": "others.js"
 },
     {
-  "title": "ALWAYS BE WITH YOU XD",
-  "artist": "Tatsuya Kitani",
+  "title": "ずうっといっしょ!",
+  "artist": "キタニタツヤ",
   "collection": "Shitora ch. 涼風しとら歌切 2026-03-30 🐥 让你元气满满撑过这一周的歌🎤｜欢迎新观众！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1F7366VEZ6?p=14",
@@ -16662,7 +16662,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "Kaikai Kitan",
+  "title": "廻廻奇譚",
   "artist": "Eve",
   "collection": "Shitora ch. 涼風しとら歌切 2026-03-30 🐥 让你元气满满撑过这一周的歌🎤｜欢迎新观众！",
   "up": "前尘往事如昔故",
@@ -16734,8 +16734,8 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "Akuma no Ko",
-  "artist": "Ai Higuchi",
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
   "collection": "Shitora ch. 涼風しとら歌切 2026-03-30 🐥 让你元气满满撑过这一周的歌🎤｜欢迎新观众！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1F7366VEZ6?p=27",
@@ -16766,7 +16766,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "Departures ~Anata Ni Okuru Ai No Uta~",
+  "title": "Departures ~あなたにおくるアイの歌~",
   "artist": "EGOIST",
   "collection": "Shitora ch. 涼風しとら歌切 2026-03-30 🐥 让你元气满满撑过这一周的歌🎤｜欢迎新观众！",
   "up": "前尘往事如昔故",
@@ -16774,7 +16774,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "Namae No Nai Kaibutsu",
+  "title": "名前のない怪物",
   "artist": "EGOIST",
   "collection": "Shitora ch. 涼風しとら歌切 2026-03-30 🐥 让你元气满满撑过这一周的歌🎤｜欢迎新观众！",
   "up": "前尘往事如昔故",
