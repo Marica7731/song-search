@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 7/29/2026, 12:28:13 AM
+// 生成时间: 7/29/2026, 12:47:18 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9587,6 +9587,206 @@ window.SONG_DATA.push(
   "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=88",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "投げKISSをあげるよ",
+  "artist": "andymori",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ハレルヤ",
+  "artist": "amazarashi",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "明るい未来",
+  "artist": "never young beach",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "トレモロ",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "素晴らしき今日の始まり",
+  "artist": "GOOD ON THE REEL",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "大丈夫",
+  "artist": "クリープハイプ",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "私生活",
+  "artist": "東京事変",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "私生活",
+  "artist": "東京事変",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "明日はきっといい日になる",
+  "artist": "高橋優",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "いつくしみ深き",
+  "artist": "Charles C. Converse",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "僕のともだち",
+  "artist": "コレサワ",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿ヒデノリ",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "明日への扉",
+  "artist": "I WiSH",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Peace",
+  "artist": "andymori",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "深呼吸",
+  "artist": "ハナレグミ",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよーならまたいつか!",
+  "artist": "米津玄師",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "案山子",
+  "artist": "さだまさし",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "勇気りんりん",
+  "artist": "ドリーミング",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "爆弾魔",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "轍-わだち",
+  "artist": "コブクロ",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "未确认",
+  "artist": "未确认",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよならを言いに",
+  "artist": "はるこたつぶとん倶楽部",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "いつか",
+  "artist": "はるこたつぶとん倶楽部",
+  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=25",
   "source": "kotatsu.js"
 }
 );
