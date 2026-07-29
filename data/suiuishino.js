@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 7/29/2026, 2:09:00 AM
+// 生成时间: 7/29/2026, 2:18:34 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -907,6 +907,190 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=23",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Planetes",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "アサガオの散る頃に",
+  "artist": "じっぷす",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "花火",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "曖昧劣情Lover",
+  "artist": "電ポルP feat.flower",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ルーマー",
+  "artist": "ポリスピカデリー",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "霽れを待つ",
+  "artist": "Orangestar feat.初音ミク",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "拝啓、少年よ",
+  "artist": "Hump Back",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "あくあ色ぱれっと",
+  "artist": "湊あくあ",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "美波",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=15",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=16",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ウィアートル",
+  "artist": "rionos",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=17",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=18",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=19",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=20",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN feat.鏡音リン",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=21",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "パレード",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=22",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12C366sEzG?p=23",
   "source": "suiuishino.js"
 }
 );
