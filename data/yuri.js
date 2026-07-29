@@ -1,6 +1,6 @@
 // 優莉 yuri - 歌单数据 (多合集汇总)
 // 来源: BV1aDzEBBE3S
-// 生成时间: 7/29/2026, 1:46:11 AM
+// 生成时间: 7/29/2026, 2:06:03 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -979,6 +979,38 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-18]近况杂谈及一点歌回！ 優莉つんちゃか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cBj66tEUX?p=7",
+  "source": "yuri.js"
+},
+    {
+  "title": "君だけがいない",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-07-27]我以为是因为差错才落选的",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sq366bEMe?p=1",
+  "source": "yuri.js"
+},
+    {
+  "title": "バルーン",
+  "artist": "Atelier ladybird feat.優莉",
+  "collection": "【歌切】[2026-07-27]我以为是因为差错才落选的",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sq366bEMe?p=2",
+  "source": "yuri.js"
+},
+    {
+  "title": "よこがお",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-07-27]我以为是因为差错才落选的",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sq366bEMe?p=3",
+  "source": "yuri.js"
+},
+    {
+  "title": "Always",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-07-27]我以为是因为差错才落选的",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sq366bEMe?p=4",
   "source": "yuri.js"
 }
 );

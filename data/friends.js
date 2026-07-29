@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 7/29/2026, 2:05:09 AM
+// 生成时间: 7/29/2026, 2:24:45 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3179,6 +3179,62 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-07-21 与彩雲のの酱梦想成真！唱歌聊天 稀羽すう - Suu Usuwa -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ViKe6MEpa?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "NEPHLA歌切 2026-07-28 ⋮ 联动 ⋮ 和Figaro酱的首次唱歌联动啦！🩵💚✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P33667EPd?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "NEPHLA歌切 2026-07-28 ⋮ 联动 ⋮ 和Figaro酱的首次唱歌联动啦！🩵💚✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P33667EPd?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "NEPHLA歌切 2026-07-28 ⋮ 联动 ⋮ 和Figaro酱的首次唱歌联动啦！🩵💚✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P33667EPd?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "NEPHLA歌切 2026-07-28 ⋮ 联动 ⋮ 和Figaro酱的首次唱歌联动啦！🩵💚✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P33667EPd?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "NEPHLA歌切 2026-07-28 ⋮ 联动 ⋮ 和Figaro酱的首次唱歌联动啦！🩵💚✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P33667EPd?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "NEPHLA歌切 2026-07-28 ⋮ 联动 ⋮ 和Figaro酱的首次唱歌联动啦！🩵💚✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P33667EPd?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "secret base ~君がくれたもの~",
+  "artist": "ZONE",
+  "collection": "NEPHLA歌切 2026-07-28 ⋮ 联动 ⋮ 和Figaro酱的首次唱歌联动啦！🩵💚✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P33667EPd?p=7",
   "source": "friends.js"
 }
 );
