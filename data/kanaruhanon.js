@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 7/29/2026, 2:06:46 AM
+// 生成时间: 7/29/2026, 2:27:24 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1363,6 +1363,22 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-27]只唱二次元偶像歌曲🎤💗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1os366qExn?p=13",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "素顔のピクセル",
+  "artist": "スリーズブーケ",
+  "collection": "【歌切】[2026-07-29]一会儿有录音，先开开嗓",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12u3k64ErZ?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "とまどい→レシピ",
+  "artist": "みかくにんぐッ！",
+  "collection": "【歌切】[2026-07-29]一会儿有录音，先开开嗓",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12u3k64ErZ?p=2",
   "source": "kanaruhanon.js"
 }
 );

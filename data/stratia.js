@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 7/29/2026, 1:56:47 AM
+// 生成时间: 7/29/2026, 2:18:49 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1323,6 +1323,38 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-07-23]这个周末是首次现场Live❕✨你会来见我吗？🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Z3G63EPf?p=7",
+  "source": "stratia.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【🎸🦋歌切】[2026-07-27]今天也悠闲地弹唱！还有超超超大的公告🦋✨✨ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12y3669EXh?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🎸🦋歌切】[2026-07-27]今天也悠闲地弹唱！还有超超超大的公告🦋✨✨ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12y3669EXh?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "ひこうき雲",
+  "artist": "荒井由実",
+  "collection": "【🎸🦋歌切】[2026-07-27]今天也悠闲地弹唱！还有超超超大的公告🦋✨✨ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12y3669EXh?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP feat.初音ミク",
+  "collection": "【🎸🦋歌切】[2026-07-27]今天也悠闲地弹唱！还有超超超大的公告🦋✨✨ すとらてぃあ-Stratia",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12y3669EXh?p=4",
   "source": "stratia.js"
 }
 );
