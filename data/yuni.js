@@ -1,6 +1,6 @@
 // YuNi - 歌单数据 (多合集汇总)
 // 来源: BV1MAjT6GEF7
-// 生成时间: 7/29/2026, 1:53:42 AM
+// 生成时间: 7/29/2026, 2:13:28 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -211,6 +211,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-20]海之日的迷你演唱会来啦！！ YuNi - official channel -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uGK46rEsY?p=6",
+  "source": "yuni.js"
+},
+    {
+  "title": "全力少年",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-07-27]唱スキマスイッチ的歌曲！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1F5366LEZs?p=1",
+  "source": "yuni.js"
+},
+    {
+  "title": "ボクノート",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-07-27]唱スキマスイッチ的歌曲！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1F5366LEZs?p=2",
+  "source": "yuni.js"
+},
+    {
+  "title": "藍",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-07-27]唱スキマスイッチ的歌曲！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1F5366LEZs?p=3",
+  "source": "yuni.js"
+},
+    {
+  "title": "雫",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-07-27]唱スキマスイッチ的歌曲！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1F5366LEZs?p=4",
+  "source": "yuni.js"
+},
+    {
+  "title": "奏(かなで)",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-07-27]唱スキマスイッチ的歌曲！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1F5366LEZs?p=5",
   "source": "yuni.js"
 }
 );
