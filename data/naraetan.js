@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 7/29/2026, 7:20:58 PM
+// 生成时间: 7/29/2026, 7:29:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11571,6 +11571,166 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=20",
+  "source": "naraetan.js"
+},
+    {
+  "title": "インフェルノ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ドラマツルギー",
+  "artist": "Eve",
+  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿ヒデノリ",
+  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "テレキャスタービーボーイ",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "じゃじゃ馬にさせないで",
+  "artist": "西尾えつ子",
+  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "許婚っきゅん",
+  "artist": "ano",
+  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愛は勝つ",
+  "artist": "KAN",
+  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "浪漫飛行",
+  "artist": "米米CLUB",
+  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "冒険彗星",
+  "artist": "榎本くるみ",
+  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "115万キロのフィルム",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ANGELUS -アンジェラス",
+  "artist": "島谷ひとみ",
+  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "心よ原始に戻れ",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=19",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Preserved Roses",
+  "artist": "T.M.Revolution×水樹奈々",
+  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=20",
   "source": "naraetan.js"
 },
     {

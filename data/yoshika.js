@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 7/29/2026, 7:31:14 PM
+// 生成时间: 7/29/2026, 7:42:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -37195,6 +37195,182 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-07-27]欢迎新人！一起嗨起来！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xh366YEFf?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "サトシwithピカチュウ(CV:松本梨香/大谷育江)",
+  "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "味楽る!ミミカ ナンバーワン",
+  "artist": "おみむらまゆこ",
+  "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(CV.平野綾)",
+  "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Sweet(×5) Vintage!",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "渡月橋 ~君 想ふ~",
+  "artist": "倉木麻衣",
+  "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "DIAMONDS (ダイアモンド)",
+  "artist": "PRINCESS PRINCESS",
+  "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "光るなら",
+  "artist": "Goose house",
+  "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アンパンマンのマーチ",
+  "artist": "ドリーミング",
+  "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "メグメグ☆ファイアーエンドレスナイト",
+  "artist": "samfree feat.GUMI",
+  "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Amazing Grace",
+  "artist": "IL DIVO",
+  "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "横顔",
+  "artist": "牧野由依",
+  "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Shout Baby",
+  "artist": "緑黄色社会",
+  "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "想い咲く時",
+  "artist": "アオイエマ。",
+  "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "星の伝言",
+  "artist": "東山奈央",
+  "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=22",
   "source": "yoshika.js"
 }
 );
