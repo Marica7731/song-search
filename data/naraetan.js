@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 7/29/2026, 2:01:37 AM
+// 生成时间: 7/29/2026, 2:11:13 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11411,6 +11411,166 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "花占い",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Love so sweet",
+  "artist": "嵐",
+  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "1/3の純情な感情",
+  "artist": "SIAM SHADE",
+  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "笑顔・はっぴぃ・ピース♪",
+  "artist": "竜宮レナ（CV:中原麻衣）",
+  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "イフ",
+  "artist": "月詠み",
+  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "強盗と花束",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アゲハ蝶",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "全力☆Summer!",
+  "artist": "angela",
+  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "안녕",
+  "artist": "박혜경",
+  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Ubiquitous dB",
+  "artist": "ユナ(CV:神田沙也加)",
+  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Get チュー!",
+  "artist": "AAA",
+  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ETERNAL BLAZE",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "雪、無音、窓辺にて。",
+  "artist": "長門有希（CV:茅原実里）",
+  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "めざせポケモンマスター",
+  "artist": "松本梨香",
+  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "青い珊瑚礁",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "学園天国",
+  "artist": "フィンガー5",
+  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "全部ホントで全部ウソ",
+  "artist": "ナナヲアカリ",
+  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=19",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ジェットロケット",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=20",
   "source": "naraetan.js"
 },
     {
