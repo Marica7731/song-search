@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 7/29/2026, 6:59:55 PM
+// 生成时间: 7/29/2026, 7:16:26 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2051,6 +2051,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-26]小声悄悄唱给你听，快点睡觉啦！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Lhgf6pE2M?p=16",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ドキッ!こういうのが恋なの?",
+  "artist": "えり~な(キャナァーリ倶楽部)",
+  "collection": "【歌切】[2026-07-29]让我们嗨起来吧♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ss3p6yEpe?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-07-29]让我们嗨起来吧♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ss3p6yEpe?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-07-29]让我们嗨起来吧♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ss3p6yEpe?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "シーソーゲーム ~勇敢な恋の歌~",
+  "artist": "Mr.Children",
+  "collection": "【歌切】[2026-07-29]让我们嗨起来吧♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ss3p6yEpe?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Don't say \"lazy\"",
+  "artist": "桜高軽音部",
+  "collection": "【歌切】[2026-07-29]让我们嗨起来吧♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ss3p6yEpe?p=5",
   "source": "hasumisahiro.js"
 }
 );

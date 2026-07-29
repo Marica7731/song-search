@@ -1,6 +1,6 @@
 // るみなす・すいーと - 歌单数据 (多合集汇总)
 // 来源: BV1p7DtBGEfy
-// 生成时间: 7/29/2026, 7:11:43 PM
+// 生成时间: 7/29/2026, 7:28:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -75,6 +75,38 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-23]希望能为你带来明亮而美丽的蓝色🌷 るみなす・すいーと【LUMINOUS Ch】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13iGq64ENu?p=5",
+  "source": "luminous.js"
+},
+    {
+  "title": "ようこそジャパリパークへ",
+  "artist": "どうぶつビスケッツ×PPP",
+  "collection": "【歌切】[2026-07-29]传递心跳与闪耀给你！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eEFj?p=1",
+  "source": "luminous.js"
+},
+    {
+  "title": "マル・マル・モリ・モリ!",
+  "artist": "薫と友樹、たまにムック。",
+  "collection": "【歌切】[2026-07-29]传递心跳与闪耀给你！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eEFj?p=2",
+  "source": "luminous.js"
+},
+    {
+  "title": "はちゃめちゃわちゃライフ!",
+  "artist": "FRUITS ZIPPER",
+  "collection": "【歌切】[2026-07-29]传递心跳与闪耀给你！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eEFj?p=3",
+  "source": "luminous.js"
+},
+    {
+  "title": "ツインテールは20歳まで♡",
+  "artist": "きゅるりんってしてみて",
+  "collection": "【歌切】[2026-07-29]传递心跳与闪耀给你！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wd3H6eEFj?p=4",
   "source": "luminous.js"
 }
 );
