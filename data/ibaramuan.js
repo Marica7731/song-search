@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 7/29/2026, 2:01:26 AM
+// 生成时间: 7/29/2026, 2:11:07 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6139,6 +6139,206 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-24]来一首吗？欢迎新人",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ft3566ESM?p=28",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Shangri-La",
+  "artist": "angela",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アイワナムチュー",
+  "artist": "MAISONdes",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "イエスタデイ",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Watch me!",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アカシア",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "リライト",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アンパンマンのマーチ",
+  "artist": "ドリーミング",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "勇侠青春謳",
+  "artist": "ALI PROJECT",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Catch the Moment",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "This game",
+  "artist": "鈴木このみ",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "crossing field",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "GO!!!",
+  "artist": "FLOW",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Shout baby",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "六等星",
+  "artist": "ざらめ",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Cry Baby",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "1・2・3",
+  "artist": "After the Rain",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Absolute 5",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "StaRt",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-27]星期一 定期🎙 品赏动漫歌曲 欢迎新人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yQ3k6oELY?p=25",
   "source": "ibaramuan.js"
 }
 );
