@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 7/29/2026, 7:07:57 PM
+// 生成时间: 7/29/2026, 7:16:27 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21827,6 +21827,94 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-07-25]午后来一曲卡拉OK如何？ 稀羽すう - Suu Usuwa -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xi3V6LEBW?p=15",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "少年よ我に帰れ",
+  "artist": "やくしまるえつこメトロオーケストラ",
+  "collection": "【🦢歌切】#145[2026-07-29]用新设备说声晚上好？｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us3p6yEQU?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【🦢歌切】#145[2026-07-29]用新设备说声晚上好？｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us3p6yEQU?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【🦢歌切】#145[2026-07-29]用新设备说声晚上好？｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us3p6yEQU?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【🦢歌切】#145[2026-07-29]用新设备说声晚上好？｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us3p6yEQU?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "透明人間",
+  "artist": "東京事変",
+  "collection": "【🦢歌切】#145[2026-07-29]用新设备说声晚上好？｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us3p6yEQU?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Starry night",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】#145[2026-07-29]用新设备说声晚上好？｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us3p6yEQU?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】#145[2026-07-29]用新设备说声晚上好？｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us3p6yEQU?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Plazma",
+  "artist": "米津玄師",
+  "collection": "【🦢歌切】#145[2026-07-29]用新设备说声晚上好？｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us3p6yEQU?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【🦢歌切】#145[2026-07-29]用新设备说声晚上好？｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us3p6yEQU?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】#145[2026-07-29]用新设备说声晚上好？｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us3p6yEQU?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【🦢歌切】#145[2026-07-29]用新设备说声晚上好？｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1us3p6yEQU?p=11",
   "source": "suu_usuwa.js"
 }
 );
