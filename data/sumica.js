@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 7/29/2026, 7:40:13 PM
+// 生成时间: 7/29/2026, 7:47:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6939,6 +6939,174 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-07-25]先放松一下再睡吗？？弹唱哦～￤澄花 / Puroburu -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wK3L6yEWj?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-29]想在午间时光送上舒适的弹唱！☀️从一首歌开始如何～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14X3H6iEME?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "あのバンド",
+  "artist": "結束バンド",
+  "collection": "【💐🎸歌切】[2026-07-29]想在午间时光送上舒适的弹唱！☀️从一首歌开始如何～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14X3H6iEME?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "くちびる",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-07-29]想在午间时光送上舒适的弹唱！☀️从一首歌开始如何～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14X3H6iEME?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "好きだから。",
+  "artist": "『ユイカ』",
+  "collection": "【💐🎸歌切】[2026-07-29]想在午间时光送上舒适的弹唱！☀️从一首歌开始如何～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14X3H6iEME?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "コントラスト",
+  "artist": "TOMOO",
+  "collection": "【💐🎸歌切】[2026-07-29]想在午间时光送上舒适的弹唱！☀️从一首歌开始如何～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14X3H6iEME?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "声",
+  "artist": "羊文学",
+  "collection": "【💐🎸歌切】[2026-07-29]想在午间时光送上舒适的弹唱！☀️从一首歌开始如何～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14X3H6iEME?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-29]想在午间时光送上舒适的弹唱！☀️从一首歌开始如何～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14X3H6iEME?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん feat.IA",
+  "collection": "【💐🎸歌切】[2026-07-29]想在午间时光送上舒适的弹唱！☀️从一首歌开始如何～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14X3H6iEME?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "inside you",
+  "artist": "milet",
+  "collection": "【💐🎸歌切】[2026-07-29]想在午间时光送上舒适的弹唱！☀️从一首歌开始如何～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14X3H6iEME?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "【💐🎸歌切】[2026-07-29]想在午间时光送上舒适的弹唱！☀️从一首歌开始如何～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14X3H6iEME?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "コイワズライ",
+  "artist": "Aimer",
+  "collection": "【💐🎸歌切】[2026-07-29]想在午间时光送上舒适的弹唱！☀️从一首歌开始如何～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14X3H6iEME?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "恋人ごっこ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【💐🎸歌切】[2026-07-29]想在午间时光送上舒适的弹唱！☀️从一首歌开始如何～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14X3H6iEME?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "嘆きのキス",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-07-29]想在午间时光送上舒适的弹唱！☀️从一首歌开始如何～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14X3H6iEME?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "みゆはん",
+  "collection": "【💐🎸歌切】[2026-07-29]想在午间时光送上舒适的弹唱！☀️从一首歌开始如何～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14X3H6iEME?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "千鳥",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-29]想在午间时光送上舒适的弹唱！☀️从一首歌开始如何～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14X3H6iEME?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【💐🎸歌切】[2026-07-29]想在午间时光送上舒适的弹唱！☀️从一首歌开始如何～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14X3H6iEME?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "【💐🎸歌切】[2026-07-29]想在午间时光送上舒适的弹唱！☀️从一首歌开始如何～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14X3H6iEME?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "桃源郷",
+  "artist": "シャイトープ",
+  "collection": "【💐🎸歌切】[2026-07-29]想在午间时光送上舒适的弹唱！☀️从一首歌开始如何～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14X3H6iEME?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "相思相愛",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-07-29]想在午间时光送上舒适的弹唱！☀️从一首歌开始如何～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14X3H6iEME?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "ハチミツ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-07-29]想在午间时光送上舒适的弹唱！☀️从一首歌开始如何～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14X3H6iEME?p=20",
+  "source": "sumica.js"
+},
+    {
+  "title": "泣き虫上等",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-07-29]想在午间时光送上舒适的弹唱！☀️从一首歌开始如何～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14X3H6iEME?p=21",
   "source": "sumica.js"
 }
 );
