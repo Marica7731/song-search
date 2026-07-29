@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 7/29/2026, 2:08:40 AM
+// 生成时间: 7/29/2026, 2:18:35 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5051,6 +5051,182 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-07-24]12点开始！！！！！一起度过午休时光吧~🍴",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Cw3V6BEFp?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "vivi",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Pale Blue",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "今でもあなたが",
+  "artist": "藤田麻衣子",
+  "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "あなたに好きと言われたい",
+  "artist": "奥華子",
+  "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "恋",
+  "artist": "奥華子",
+  "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "クムリウタ",
+  "artist": "大塚愛",
+  "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "クラゲ、流れ星",
+  "artist": "大塚愛",
+  "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "片想い",
+  "artist": "miwa",
+  "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ENDROLL",
+  "artist": "川上洋平 [Alexandros]×SennaRin",
+  "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ハイドアンド・シーク",
+  "artist": "19's Sound Factory feat.初音ミク",
+  "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Just Be Friends",
+  "artist": "Dixie Flatline feat.巡音ルカ",
+  "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "鎖の少女",
+  "artist": "のぼる↑ feat.初音ミク",
+  "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat.GUMI・鏡音リン",
+  "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "酔いどれ知らず",
+  "artist": "Kanaria feat.GUMI",
+  "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat.flower",
+  "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夢見月に何想ふ",
+  "artist": "RADWIMPS",
+  "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "真夏の夜の夢",
+  "artist": "松任谷由実",
+  "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=21",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "JITTERIN'JINN",
+  "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=22",
   "source": "kukuri.js"
 }
 );
