@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/30/2026, 12:46:09 AM
+// 生成时间: 7/30/2026, 1:02:29 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9640,79 +9640,55 @@ window.SONG_DATA.push(
     {
   "title": "六月は雨上がりの街を書く",
   "artist": "ヨルシカ",
-  "collection": "歌切 2026-03-30 Muan ch.茨むあん ibaramuan",
+  "collection": "歌切 2026-06-14 Oto Ch. 透乃 おと 9753_AtOIQ4 🎤唱歌时是清纯少女✧*｡",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LnSSBdEeq?p=11",
+  "link": "https://www.bilibili.com/video/BV1wLjT6PE9X?p=8",
   "source": "others.js"
 },
     {
-  "title": "いかないで",
-  "artist": "想太",
-  "collection": "歌切 2026-03-30 Muan ch.茨むあん ibaramuan",
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "歌切 2026-06-14 Oto Ch. 透乃 おと 9753_AtOIQ4 🎤唱歌时是清纯少女✧*｡",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LnSSBdEeq?p=12",
+  "link": "https://www.bilibili.com/video/BV1wLjT6PE9X?p=9",
   "source": "others.js"
 },
     {
-  "title": "ニア",
-  "artist": "夏代孝明",
-  "collection": "歌切 2026-03-30 Muan ch.茨むあん ibaramuan",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LnSSBdEeq?p=13",
-  "source": "others.js"
-},
-    {
-  "title": "㋰責任集合体",
-  "artist": "マサラダ",
-  "collection": "歌切 2026-03-30 Muan ch.茨むあん ibaramuan",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LnSSBdEeq?p=14",
-  "source": "others.js"
-},
-    {
-  "title": "勇者",
-  "artist": "YOASOBI",
-  "collection": "歌切 2026-03-30 Muan ch.茨むあん ibaramuan",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LnSSBdEeq?p=15",
-  "source": "others.js"
-},
-    {
-  "title": "あんなに一緒だったのに",
-  "artist": "See-Saw",
-  "collection": "歌切 2026-03-30 Muan ch.茨むあん ibaramuan",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LnSSBdEeq?p=16",
-  "source": "others.js"
-},
-    {
-  "title": "駆けろ",
+  "title": "ビビデバ",
   "artist": "星街すいせい",
-  "collection": "歌切 2026-03-30 Muan ch.茨むあん ibaramuan",
+  "collection": "歌切 2026-06-14 Oto Ch. 透乃 おと 9753_AtOIQ4 🎤唱歌时是清纯少女✧*｡",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LnSSBdEeq?p=17",
+  "link": "https://www.bilibili.com/video/BV1wLjT6PE9X?p=10",
   "source": "others.js"
 },
     {
-  "title": "いろは唄",
-  "artist": "銀サク",
-  "collection": "歌切 2026-03-30 Muan ch.茨むあん ibaramuan",
+  "title": "フロントメモリー",
+  "artist": "鈴木瑛美子×亀田誠治",
+  "collection": "歌切 2026-06-14 Oto Ch. 透乃 おと 9753_AtOIQ4 🎤唱歌时是清纯少女✧*｡",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LnSSBdEeq?p=18",
+  "link": "https://www.bilibili.com/video/BV1wLjT6PE9X?p=11",
   "source": "others.js"
 },
     {
-  "title": "千本桜",
-  "artist": "黒うさP",
-  "collection": "歌切 2026-03-30 Muan ch.茨むあん ibaramuan",
+  "title": "グレゴリオ",
+  "artist": "古川本舗 feat.ちびた",
+  "collection": "歌切 2026-06-14 Oto Ch. 透乃 おと 9753_AtOIQ4 🎤唱歌时是清纯少女✧*｡",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LnSSBdEeq?p=19",
+  "link": "https://www.bilibili.com/video/BV1wLjT6PE9X?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師, 宇多田ヒカル",
+  "collection": "歌切 2026-06-14 Oto Ch. 透乃 おと 9753_AtOIQ4 🎤唱歌时是清纯少女✧*｡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wLjT6PE9X?p=13",
   "source": "others.js"
 },
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド",
-  "collection": "歌切 2026-03-30 Muan ch.茨むあん ibaramuan",
+  "collection": "歌切 2026-06-14 Oto Ch. 透乃 おと 9753_AtOIQ4 🎤唱歌时是清纯少女✧*｡",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wLjT6PE9X?p=14",
   "source": "others.js"
