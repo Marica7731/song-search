@@ -1,6 +1,6 @@
 // 音羽ララ - 歌单数据 (多合集汇总)
 // 来源: BV1PE7J6CESH
-// 生成时间: 7/30/2026, 7:10:44 PM
+// 生成时间: 7/30/2026, 7:20:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -523,6 +523,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEz6?p=21",
+  "source": "otowarara.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=1",
+  "source": "otowarara.js"
+},
+    {
+  "title": "千年の独奏歌",
+  "artist": "yanagiP feat.KAITO",
+  "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=2",
+  "source": "otowarara.js"
+},
+    {
+  "title": "夢、時々…",
+  "artist": "まらしぃ feat.初音ミク",
+  "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=3",
+  "source": "otowarara.js"
+},
+    {
+  "title": "炉心融解",
+  "artist": "iroha(sasaki) feat.鏡音リン",
+  "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=4",
+  "source": "otowarara.js"
+},
+    {
+  "title": "fix",
+  "artist": "keeno feat.初音ミク",
+  "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=5",
+  "source": "otowarara.js"
+},
+    {
+  "title": "神っぽいな",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=6",
+  "source": "otowarara.js"
+},
+    {
+  "title": "タイムマシン",
+  "artist": "1640mP feat.初音ミク",
+  "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=7",
+  "source": "otowarara.js"
+},
+    {
+  "title": "夜咄ディセイブ",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=8",
+  "source": "otowarara.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=9",
+  "source": "otowarara.js"
+},
+    {
+  "title": "アイディスマイル",
+  "artist": "とあ feat.初音ミク&鏡音リン",
+  "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=10",
+  "source": "otowarara.js"
+},
+    {
+  "title": "流星",
+  "artist": "minato(流星P) feat.初音ミク",
+  "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=11",
   "source": "otowarara.js"
 }
 );
