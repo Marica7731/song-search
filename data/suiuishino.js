@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 7/30/2026, 12:36:36 PM
+// 生成时间: 7/30/2026, 1:02:55 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -847,7 +847,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Dear",
-  "artist": "19 iku",
+  "artist": "19's Sound Factory feat.初音ミク",
   "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=16",
