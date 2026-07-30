@@ -1,6 +1,6 @@
 // 優莉 yuri - 歌单数据 (多合集汇总)
 // 来源: BV1aDzEBBE3S
-// 生成时间: 7/30/2026, 7:05:12 PM
+// 生成时间: 7/30/2026, 7:14:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1011,6 +1011,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-27]我以为是因为差错才落选的",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Sq366bEMe?p=4",
+  "source": "yuri.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-07-29]稍微唱一下～♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qk386LEz4?p=1",
+  "source": "yuri.js"
+},
+    {
+  "title": "ほうき星",
+  "artist": "ユンナ",
+  "collection": "【歌切】[2026-07-29]稍微唱一下～♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qk386LEz4?p=2",
+  "source": "yuri.js"
+},
+    {
+  "title": "LIFE",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-07-29]稍微唱一下～♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qk386LEz4?p=3",
+  "source": "yuri.js"
+},
+    {
+  "title": "TOKYO",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-07-29]稍微唱一下～♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qk386LEz4?p=4",
+  "source": "yuri.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-07-29]稍微唱一下～♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qk386LEz4?p=5",
+  "source": "yuri.js"
+},
+    {
+  "title": "feel my soul",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-07-29]稍微唱一下～♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qk386LEz4?p=6",
+  "source": "yuri.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-07-29]稍微唱一下～♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qk386LEz4?p=7",
+  "source": "yuri.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI for 雨音薫",
+  "collection": "【歌切】[2026-07-29]稍微唱一下～♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qk386LEz4?p=8",
+  "source": "yuri.js"
+},
+    {
+  "title": "LetteR",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-07-29]稍微唱一下～♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qk386LEz4?p=9",
+  "source": "yuri.js"
+},
+    {
+  "title": "君だけがいない",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-07-29]稍微唱一下～♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qk386LEz4?p=10",
+  "source": "yuri.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat.GUMI",
+  "collection": "【歌切】[2026-07-29]稍微唱一下～♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qk386LEz4?p=11",
+  "source": "yuri.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-07-29]稍微唱一下～♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qk386LEz4?p=12",
+  "source": "yuri.js"
+},
+    {
+  "title": "星に名前を",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-07-29]稍微唱一下～♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qk386LEz4?p=13",
   "source": "yuri.js"
 }
 );
