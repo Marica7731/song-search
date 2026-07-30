@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 7/30/2026, 7:09:04 PM
+// 生成时间: 7/30/2026, 7:19:50 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1859,6 +1859,230 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-23]目标250个赞👍！唱到达成为止！🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wM3L6VEvA?p=22",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Happiness",
+  "artist": "嵐",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona(CV.夏川椎菜) feat.HoneyWorks",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子(CV.花澤香菜)",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "テレパシ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "おじゃま虫",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "クラクラ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ウタカタララバイ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "テトリス",
+  "artist": "柊マグネタイト feat.重音テトSV",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "大阪LOVER",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "脳裏上のクラッカー",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "愛唄",
+  "artist": "GReeeeN",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=22",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ignited -イグナイテッド-",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=23",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "魔弾 〜Der Freischutz〜",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=24",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Zips",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=25",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "レオ",
+  "artist": "優里",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=26",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat.GUMI",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=27",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=28",
   "source": "isshikiizu.js"
 }
 );
