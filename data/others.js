@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/31/2026, 2:52:36 AM
+// 生成时间: 7/31/2026, 3:01:58 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5350,15 +5350,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "星座になれたら",
-  "artist": "結束バンド",
-  "collection": "【 #るるすうセイ 】🎤 3D 卡拉 OK 合作🌸 【 稀羽すう/橙里セイ/陽月るるふ 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1z3ZCYqEGH?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "斜陽",
+  "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
   "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
   "up": "前尘往事如昔故",
