@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 7/31/2026, 7:22:25 PM
+// 生成时间: 7/31/2026, 7:25:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2510,7 +2510,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "ROCK-mode",
+  "title": "明け星",
   "artist": "LiSA",
   "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
   "up": "前尘往事如昔故",
