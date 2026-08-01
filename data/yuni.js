@@ -1,6 +1,6 @@
 // YuNi - 歌单数据 (多合集汇总)
 // 来源: BV1MAjT6GEF7
-// 生成时间: 8/1/2026, 10:45:32 PM
+// 生成时间: 8/1/2026, 10:55:34 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -251,6 +251,54 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-27]唱スキマスイッチ的歌曲！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1F5366LEZs?p=5",
+  "source": "yuni.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-07-31]王道动漫歌曲歌回！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEms?p=1",
+  "source": "yuni.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-07-31]王道动漫歌曲歌回！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEms?p=2",
+  "source": "yuni.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【歌切】[2026-07-31]王道动漫歌曲歌回！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEms?p=3",
+  "source": "yuni.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(平野綾)",
+  "collection": "【歌切】[2026-07-31]王道动漫歌曲歌回！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEms?p=4",
+  "source": "yuni.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "涼宮ハルヒ(平野綾)・長門有希(茅原実里)・朝比奈みくる(後藤邑子)",
+  "collection": "【歌切】[2026-07-31]王道动漫歌曲歌回！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEms?p=5",
+  "source": "yuni.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-07-31]王道动漫歌曲歌回！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEms?p=6",
   "source": "yuni.js"
 }
 );
