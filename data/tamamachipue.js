@@ -1,6 +1,6 @@
 // 玉町ぷえ - 歌单数据 (多合集汇总)
 // 来源: BV1nUMP6vE7N
-// 生成时间: 8/1/2026, 11:02:14 PM
+// 生成时间: 8/1/2026, 11:12:34 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -739,6 +739,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-25]𓈒𓏸#摇滚音乐节歌回接力⌇和怕热的队长一起清凉度过夏天吧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Sh3L64ED5?p=5",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "ゴールデンタイムラバー",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-08-01]#闪耀金发VTuber歌回接力｜我是连笑容都闪闪发亮的行进乐队队长哦！💛✨【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEAs?p=1",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "Your Voice",
+  "artist": "Rhodanthe*",
+  "collection": "【歌切】[2026-08-01]#闪耀金发VTuber歌回接力｜我是连笑容都闪闪发亮的行进乐队队长哦！💛✨【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEAs?p=2",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "ドキッ！こういうのが恋なの？",
+  "artist": "えり～な（キャナァーリ倶楽部）",
+  "collection": "【歌切】[2026-08-01]#闪耀金发VTuber歌回接力｜我是连笑容都闪闪发亮的行进乐队队长哦！💛✨【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEAs?p=3",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "Stay Gold",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-08-01]#闪耀金发VTuber歌回接力｜我是连笑容都闪闪发亮的行进乐队队长哦！💛✨【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEAs?p=4",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "キラキラ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-08-01]#闪耀金发VTuber歌回接力｜我是连笑容都闪闪发亮的行进乐队队长哦！💛✨【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEAs?p=5",
   "source": "tamamachipue.js"
 }
 );
