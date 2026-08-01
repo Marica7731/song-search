@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 8/1/2026, 10:44:59 PM
+// 生成时间: 8/1/2026, 10:59:56 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7107,6 +7107,54 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-07-29]想在午间时光送上舒适的弹唱！☀️从一首歌开始如何～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14X3H6iEME?p=21",
+  "source": "sumica.js"
+},
+    {
+  "title": "ジンジャーエール",
+  "artist": "ゆうまお",
+  "collection": "【💐🎸歌切】[2026-07-31]㊗️见证1st.EP发售…‼️也请轻松听听歌吧～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEXE?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "花人局",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-07-31]㊗️见证1st.EP发售…‼️也请轻松听听歌吧～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEXE?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "泣き虫上等",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-07-31]㊗️见证1st.EP发售…‼️也请轻松听听歌吧～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEXE?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "ごめんね２week",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-07-31]㊗️见证1st.EP发售…‼️也请轻松听听歌吧～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEXE?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "右手のネイル",
+  "artist": "とた",
+  "collection": "【💐🎸歌切】[2026-07-31]㊗️见证1st.EP发售…‼️也请轻松听听歌吧～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEXE?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "ちょっとまって！",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-07-31]㊗️见证1st.EP发售…‼️也请轻松听听歌吧～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEXE?p=6",
   "source": "sumica.js"
 }
 );

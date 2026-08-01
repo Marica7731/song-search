@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 8/1/2026, 10:43:29 PM
+// 生成时间: 8/1/2026, 10:58:53 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10091,6 +10091,134 @@ window.SONG_DATA.push(
   "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=38",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "笑ったり転んだり",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "暗闇坂むささび変化",
+  "artist": "はっぴいえんど",
+  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "おじゃま虫",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "新・俺よ届け",
+  "artist": "忘れらんねえよ",
+  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Rain",
+  "artist": "大江千里",
+  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "もう柔らかいおっぱいのことしか考えたくない",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "エピゴウネ",
+  "artist": "日食なつこ",
+  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "もしも僕に",
+  "artist": "関取花",
+  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Wherever you are",
+  "artist": "ONE OK ROCK",
+  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "手と手",
+  "artist": "クリープハイプ",
+  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ラブソング",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "エンディング",
+  "artist": "back number",
+  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "オー・シャンゼリゼ",
+  "artist": "Joe Dassin",
+  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アルバイター、無名",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "春",
+  "artist": "はる こたつぶとん倶楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=16",
   "source": "kotatsu.js"
 }
 );
