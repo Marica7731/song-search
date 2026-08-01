@@ -1,6 +1,6 @@
 // チョま - 歌单数据 (多合集汇总)
 // 来源: BV1kM3L6GEBV
-// 生成时间: 8/1/2026, 11:12:32 PM
+// 生成时间: 8/1/2026, 11:24:35 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -915,6 +915,230 @@ window.SONG_DATA.push(
   "collection": "チョま歌切 2025年06月28日14点场 用各种声音唱歌啊啊啊啊！ 2025-06-28",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h6gf6jEuL?p=33",
+  "source": "choma.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=1",
+  "source": "choma.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=2",
+  "source": "choma.js"
+},
+    {
+  "title": "金曜日のおはよう",
+  "artist": "HoneyWorks feat.GUMI",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=3",
+  "source": "choma.js"
+},
+    {
+  "title": "惑星ループ",
+  "artist": "ナユタン星人 feat.初音ミク",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=4",
+  "source": "choma.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "ロクデナシ",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=5",
+  "source": "choma.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat.安次嶺希和子",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=6",
+  "source": "choma.js"
+},
+    {
+  "title": "ラプラスショコラ",
+  "artist": "Kai feat.初音ミク",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=7",
+  "source": "choma.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=8",
+  "source": "choma.js"
+},
+    {
+  "title": "世界に一つだけの花",
+  "artist": "SMAP",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=9",
+  "source": "choma.js"
+},
+    {
+  "title": "The Beast.",
+  "artist": "スペクタクルP feat.初音ミク",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=10",
+  "source": "choma.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=11",
+  "source": "choma.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=12",
+  "source": "choma.js"
+},
+    {
+  "title": "MOTTAI",
+  "artist": "P丸様。",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=13",
+  "source": "choma.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=14",
+  "source": "choma.js"
+},
+    {
+  "title": "チェリーポップ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=15",
+  "source": "choma.js"
+},
+    {
+  "title": "アンタに言ってんの！",
+  "artist": "ぴーなた feat.重音テト",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=16",
+  "source": "choma.js"
+},
+    {
+  "title": "ボルテッカー",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=17",
+  "source": "choma.js"
+},
+    {
+  "title": "ヤラララ",
+  "artist": "AnythingBecomeMoe feat.重音テトSV2",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=18",
+  "source": "choma.js"
+},
+    {
+  "title": "バゥムクゥヘン・エンドロゥル",
+  "artist": "雨良 feat.初音ミク・重音テト・亞北ネル（cv:鏡音リン）",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=19",
+  "source": "choma.js"
+},
+    {
+  "title": "一二三",
+  "artist": "Penthouse",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=20",
+  "source": "choma.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=21",
+  "source": "choma.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=22",
+  "source": "choma.js"
+},
+    {
+  "title": "グッバイ宣言",
+  "artist": "Chinozo feat.可不",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=23",
+  "source": "choma.js"
+},
+    {
+  "title": "きゅうくらりん",
+  "artist": "いよわ feat.可不",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=24",
+  "source": "choma.js"
+},
+    {
+  "title": "命に嫌われている",
+  "artist": "カンザキイオリ feat.初音ミク",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=25",
+  "source": "choma.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス feat.可不",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=26",
+  "source": "choma.js"
+},
+    {
+  "title": "踊",
+  "artist": "Ado",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=27",
+  "source": "choma.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=28",
   "source": "choma.js"
 }
 );
