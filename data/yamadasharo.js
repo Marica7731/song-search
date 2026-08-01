@@ -1,6 +1,6 @@
 // 山田シャロ - 歌单数据 (多合集汇总)
 // 来源: BV179L66pE1f
-// 生成时间: 8/1/2026, 10:47:54 PM
+// 生成时间: 8/1/2026, 10:57:11 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1499,6 +1499,86 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-24]深夜小酌🍻悠闲歌回✨🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16u3L6rEDb?p=11",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "FEARLESS HERO",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-07-31]水樹奈奈粉丝的奈奈様限定歌回🎤⭐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEDd?p=1",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Trickster",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-07-31]水樹奈奈粉丝的奈奈様限定歌回🎤⭐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEDd?p=2",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "夢幻",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-07-31]水樹奈奈粉丝的奈奈様限定歌回🎤⭐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEDd?p=3",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Pray",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-07-31]水樹奈奈粉丝的奈奈様限定歌回🎤⭐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEDd?p=4",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "サーチライト",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-07-31]水樹奈奈粉丝的奈奈様限定歌回🎤⭐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEDd?p=5",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "innocent starter",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-07-31]水樹奈奈粉丝的奈奈様限定歌回🎤⭐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEDd?p=6",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "天空のカナリア",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-07-31]水樹奈奈粉丝的奈奈様限定歌回🎤⭐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEDd?p=7",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "POWER GATE",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-07-31]水樹奈奈粉丝的奈奈様限定歌回🎤⭐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEDd?p=8",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ETERNAL BLAZE",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-07-31]水樹奈奈粉丝的奈奈様限定歌回🎤⭐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEDd?p=9",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Synchrogazer",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-07-31]水樹奈奈粉丝的奈奈様限定歌回🎤⭐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UEDd?p=10",
   "source": "yamadasharo.js"
 }
 );
