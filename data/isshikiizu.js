@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 8/1/2026, 10:52:05 PM
+// 生成时间: 8/1/2026, 11:03:40 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2083,6 +2083,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-30]初次见面的朋友也非常欢迎！🌟悠闲地唱唱歌🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1W53h6WEws?p=28",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "GOLDFINGER ’99",
+  "artist": "郷ひろみ",
+  "collection": "【歌切】[2026-08-01]夏日歌曲串烧🎶🍉一边告知Live一边唱歌！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEGi?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "JITTERIN'JINN (cover: Whiteberry)",
+  "collection": "【歌切】[2026-08-01]夏日歌曲串烧🎶🍉一边告知Live一边唱歌！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEGi?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "夜の踊り子",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-08-01]夏日歌曲串烧🎶🍉一边告知Live一边唱歌！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEGi?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "サインはB",
+  "artist": "B小町",
+  "collection": "【歌切】[2026-08-01]夏日歌曲串烧🎶🍉一边告知Live一边唱歌！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEGi?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-08-01]夏日歌曲串烧🎶🍉一边告知Live一边唱歌！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEGi?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-08-01]夏日歌曲串烧🎶🍉一边告知Live一边唱歌！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEGi?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-08-01]夏日歌曲串烧🎶🍉一边告知Live一边唱歌！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEGi?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-08-01]夏日歌曲串烧🎶🍉一边告知Live一边唱歌！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEGi?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "花火",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-08-01]夏日歌曲串烧🎶🍉一边告知Live一边唱歌！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEGi?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "【歌切】[2026-08-01]夏日歌曲串烧🎶🍉一边告知Live一边唱歌！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEGi?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat.可不",
+  "collection": "【歌切】[2026-08-01]夏日歌曲串烧🎶🍉一边告知Live一边唱歌！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEGi?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra feat.月見ヤチヨ(CV.早見沙織)",
+  "collection": "【歌切】[2026-08-01]夏日歌曲串烧🎶🍉一边告知Live一边唱歌！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEGi?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-08-01]夏日歌曲串烧🎶🍉一边告知Live一边唱歌！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEGi?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-08-01]夏日歌曲串烧🎶🍉一边告知Live一边唱歌！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEGi?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-01]夏日歌曲串烧🎶🍉一边告知Live一边唱歌！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEGi?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-08-01]夏日歌曲串烧🎶🍉一边告知Live一边唱歌！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEGi?p=16",
   "source": "isshikiizu.js"
 }
 );

@@ -1,6 +1,6 @@
 // ぺるしあ・てん - 歌单数据 (多合集汇总)
 // 来源: BV1iXKY6qEKv
-// 生成时间: 8/1/2026, 11:11:07 PM
+// 生成时间: 8/1/2026, 11:23:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -547,6 +547,150 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=19",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=1",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=2",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "エルマ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=3",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=4",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=5",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "あの夏に咲け",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=6",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=7",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "八月、某、月明かり",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=8",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "夕凪、某、花惑い",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=9",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=10",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=11",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=12",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "魔性",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=13",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "千鳥",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=14",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "心に穴が空いた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=15",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=16",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=17",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=18",
   "source": "peruciaten.js"
 }
 );
