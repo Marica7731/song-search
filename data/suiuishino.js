@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 8/1/2026, 10:50:57 PM
+// 生成时间: 8/1/2026, 11:04:42 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1091,6 +1091,190 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=23",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "わたがし",
+  "artist": "back number",
+  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "トーマ feat.初音ミク",
+  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ぷんぷん",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "花火",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "おつかれSUMMER",
+  "artist": "HALCALI",
+  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ブルーアンビエンス (feat. asmi)",
+  "artist": "Mrs. GREEN APPLE feat.asmi",
+  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "スター",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "歌舞伎町の女王",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "エルマ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "太陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "遥か彼方",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat.初音ミク",
+  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "疾走",
+  "artist": "LAST ALLIANCE",
+  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "うるわしきひと",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=9",
   "source": "suiuishino.js"
 }
 );

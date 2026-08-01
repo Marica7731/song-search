@@ -1,6 +1,6 @@
 // Sen†Sational - 歌单数据 (多合集汇总)
 // 来源: BV1ybNo67EQ5
-// 生成时间: 8/1/2026, 10:47:44 PM
+// 生成时间: 8/1/2026, 11:02:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -731,6 +731,174 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-24]🔴 获取营养",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1z33L6gECg?p=17",
+  "source": "sensational.js"
+},
+    {
+  "title": "フライデー・ナイト",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-07-31]🔴 7月要结束了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE8D?p=1",
+  "source": "sensational.js"
+},
+    {
+  "title": "Fly-day Chinatown",
+  "artist": "泰葉",
+  "collection": "【歌切】[2026-07-31]🔴 7月要结束了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE8D?p=2",
+  "source": "sensational.js"
+},
+    {
+  "title": "金曜日のおはよう",
+  "artist": "HoneyWorks feat.GUMI",
+  "collection": "【歌切】[2026-07-31]🔴 7月要结束了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE8D?p=3",
+  "source": "sensational.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-31]🔴 7月要结束了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE8D?p=4",
+  "source": "sensational.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-07-31]🔴 7月要结束了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE8D?p=5",
+  "source": "sensational.js"
+},
+    {
+  "title": "わたしのアール",
+  "artist": "和田たけあき(くらげP) feat.初音ミク",
+  "collection": "【歌切】[2026-07-31]🔴 7月要结束了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE8D?p=6",
+  "source": "sensational.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat.安次嶺希和子",
+  "collection": "【歌切】[2026-07-31]🔴 7月要结束了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE8D?p=7",
+  "source": "sensational.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat.初音ミク",
+  "collection": "【歌切】[2026-07-31]🔴 7月要结束了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE8D?p=8",
+  "source": "sensational.js"
+},
+    {
+  "title": "僕のこと",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-31]🔴 7月要结束了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE8D?p=9",
+  "source": "sensational.js"
+},
+    {
+  "title": "メクルメ",
+  "artist": "篠澤広 (CV.川村玲奈)",
+  "collection": "【歌切】[2026-07-31]🔴 7月要结束了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE8D?p=10",
+  "source": "sensational.js"
+},
+    {
+  "title": "Soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-31]🔴 7月要结束了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE8D?p=11",
+  "source": "sensational.js"
+},
+    {
+  "title": "WanteD! WanteD!",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-31]🔴 7月要结束了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE8D?p=12",
+  "source": "sensational.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-31]🔴 7月要结束了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE8D?p=13",
+  "source": "sensational.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-07-31]🔴 7月要结束了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE8D?p=14",
+  "source": "sensational.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-07-31]🔴 7月要结束了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE8D?p=15",
+  "source": "sensational.js"
+},
+    {
+  "title": "悪魔の踊り方",
+  "artist": "こんにちは谷田さん feat.鏡音リン",
+  "collection": "【歌切】[2026-07-31]🔴 7月要结束了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE8D?p=16",
+  "source": "sensational.js"
+},
+    {
+  "title": "clout chaser",
+  "artist": "えだツキわかば feat.初音ミク",
+  "collection": "【歌切】[2026-07-31]🔴 7月要结束了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE8D?p=17",
+  "source": "sensational.js"
+},
+    {
+  "title": "ヤミタイガール",
+  "artist": "れるりり feat.GUMI",
+  "collection": "【歌切】[2026-07-31]🔴 7月要结束了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE8D?p=18",
+  "source": "sensational.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-07-31]🔴 7月要结束了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE8D?p=19",
+  "source": "sensational.js"
+},
+    {
+  "title": "もうどうなってもいいや",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-07-31]🔴 7月要结束了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE8D?p=20",
+  "source": "sensational.js"
+},
+    {
+  "title": "フラレガイガール",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-07-31]🔴 7月要结束了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uG3U6UE8D?p=21",
   "source": "sensational.js"
 }
 );
