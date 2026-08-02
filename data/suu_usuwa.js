@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 8/1/2026, 11:15:09 PM
+// 生成时间: 8/1/2026, 11:27:33 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21915,6 +21915,78 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】#145[2026-07-29]用新设备说声晚上好？｜歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1us3p6yEQU?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ヒステリックナイトガール",
+  "artist": "PSYQUI feat.Such",
+  "collection": "【🦢歌切】[2026-07-31]重大告知！披露迷你Live🛸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEe7?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ナラタージュ",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-07-31]重大告知！披露迷你Live🛸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEe7?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "クレイジークレイジー",
+  "artist": "レイジー・レイジー",
+  "collection": "【🦢歌切】[2026-07-31]重大告知！披露迷你Live🛸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEe7?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "メルトワ",
+  "artist": "yosumi",
+  "collection": "【🦢歌切】[2026-07-31]重大告知！披露迷你Live🛸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEe7?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "SLOW FLAME",
+  "artist": "HONK THE HORN",
+  "collection": "【🦢歌切】[2026-07-31]重大告知！披露迷你Live🛸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEe7?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "クライヤ",
+  "artist": "上水流宇宙",
+  "collection": "【🦢歌切】[2026-07-31]重大告知！披露迷你Live🛸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEe7?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Flamingo",
+  "artist": "米津玄師",
+  "collection": "【🦢歌切】[2026-07-31]重大告知！披露迷你Live🛸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEe7?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ゆーえふおー",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-07-31]重大告知！披露迷你Live🛸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEe7?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Parallax → トロイメライ -The Herb Shop Remix- → Starry night",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-07-31]重大告知！披露迷你Live🛸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEe7?p=9",
   "source": "suu_usuwa.js"
 }
 );
