@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 8/2/2026, 6:42:45 AM
+// 生成时间: 8/2/2026, 7:01:43 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -33678,8 +33678,8 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "なつのみぞれ",
-  "artist": "ナカノは4番 feat.桃音モモ",
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
   "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=3",
