@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 8/1/2026, 10:45:45 PM
+// 生成时间: 8/1/2026, 11:03:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -37371,6 +37371,190 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-07-29]初見さん歓迎中！毎日暑すぎる！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sZ3H6AEch?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おどるポンポリン",
+  "artist": "B.B.クィーンズ",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona(CV：夏川椎菜) feat.HoneyWorks",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "世界に一つだけの花",
+  "artist": "SMAP",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "タッチ",
+  "artist": "岩崎良美",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ホワイトノイズ",
+  "artist": "Official髭男dism",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ホワイトノイズ",
+  "artist": "Official髭男dism",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ゴッド・ヘルプ",
+  "artist": "保坂知寿",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ホール・ニュー・ワールド",
+  "artist": "石井一孝、麻生かほ里",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "輝く未来",
+  "artist": "小此木麻里、畠中洋",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "とびら開けて",
+  "artist": "神田沙也加、津田英佑",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "生まれてはじめて",
+  "artist": "アナ(神田沙也加)、エルサ(松たか子)",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "レット・イット・ゴー ～ありのままで～",
+  "artist": "松たか子",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "レット・イット・ゴー ～ありのままで～",
+  "artist": "松たか子",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "君の願いが世界を輝かす",
+  "artist": "MISIA",
+  "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=23",
   "source": "yoshika.js"
 }
 );
