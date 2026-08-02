@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 8/1/2026, 10:55:51 PM
+// 生成时间: 8/1/2026, 11:05:25 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9043,6 +9043,94 @@ window.SONG_DATA.push(
   "collection": "【明日夢🎸弾き語り歌切】[2026-07-08]今天也辛苦了，悠然地放松放松。",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17eMj6YEeB?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-31]星期五是自由的，自在弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEo1?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-31]星期五是自由的，自在弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEo1?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-31]星期五是自由的，自在弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEo1?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "My Generation",
+  "artist": "YUI",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-31]星期五是自由的，自在弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEo1?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI for 雨音薫",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-31]星期五是自由的，自在弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEo1?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "441",
+  "artist": "miwa",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-31]星期五是自由的，自在弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEo1?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "嘘じゃない",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-31]星期五是自由的，自在弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEo1?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "コンタクトケース",
+  "artist": "Saucy Dog",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-31]星期五是自由的，自在弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEo1?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "車輪の唄",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-31]星期五是自由的，自在弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEo1?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-31]星期五是自由的，自在弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEo1?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "啄木鳥",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-07-31]星期五是自由的，自在弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEo1?p=11",
   "source": "asuyumekanae.js"
 }
 );

@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 8/1/2026, 11:00:07 PM
+// 生成时间: 8/1/2026, 11:10:06 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11731,6 +11731,166 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=20",
+  "source": "naraetan.js"
+},
+    {
+  "title": "さぁ",
+  "artist": "SURFACE",
+  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "弱虫モンブラン",
+  "artist": "DECO*27 feat.GUMI",
+  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "優しさの理由",
+  "artist": "ChouCho",
+  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "RAIN",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "粉雪",
+  "artist": "レミオロメン",
+  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "全力☆Summer!",
+  "artist": "angela",
+  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "青空のナミダ",
+  "artist": "高橋瞳",
+  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "tomorrow",
+  "artist": "下川みくに",
+  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "DIARY",
+  "artist": "上北健",
+  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "レオ",
+  "artist": "優里",
+  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ニワカアメ",
+  "artist": "花たん",
+  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "天城越え",
+  "artist": "石川さゆり",
+  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "生きるよすが",
+  "artist": "月詠み",
+  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Golden",
+  "artist": "HUNTR/X",
+  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ツンデレの歌!",
+  "artist": "小宮真央",
+  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "青空のラプソディ",
+  "artist": "fhána",
+  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "虹の彼方に",
+  "artist": "ReoNa",
+  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=19",
+  "source": "naraetan.js"
+},
+    {
+  "title": "あの夢をなぞって",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=20",
   "source": "naraetan.js"
 },
     {
