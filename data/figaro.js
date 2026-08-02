@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 8/1/2026, 10:50:59 PM
+// 生成时间: 8/1/2026, 11:02:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -33659,6 +33659,174 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-07-26]睡眠导入歌回✨安静时刻🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1a6gf6jE1x?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "なつのみぞれ",
+  "artist": "ナカノは4番 feat.桃音モモ",
+  "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "夏のメロウ",
+  "artist": "メル feat.初音ミク",
+  "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "なつのみぞれ",
+  "artist": "ナカノは4番 feat.桃音モモ",
+  "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "Alice in 冷凍庫",
+  "artist": "Orangestar feat.IA",
+  "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "コバルトメモリーズ",
+  "artist": "はるまきごはん feat.初音ミク",
+  "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "フォトンブルー",
+  "artist": "はるまきごはん feat.初音ミク",
+  "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "蛍はいなかった",
+  "artist": "はるまきごはん feat.初音ミク",
+  "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "八月のレイニー",
+  "artist": "はるまきごはん feat.初音ミク",
+  "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "銀河録",
+  "artist": "はるまきごはん feat.初音ミク",
+  "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "快晴",
+  "artist": "Orangestar feat.IA",
+  "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "ロケットサイダー",
+  "artist": "ナユタン星人 feat.初音ミク",
+  "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "Surges",
+  "artist": "Orangestar feat.IA・初音ミク",
+  "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "Henceforth",
+  "artist": "Orangestar feat.IA",
+  "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "8.32",
+  "artist": "*Luna feat.flower",
+  "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "彗星になれたなら",
+  "artist": "はるまきごはん feat.初音ミク",
+  "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "第三の心臓",
+  "artist": "はるまきごはん feat.初音ミク",
+  "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "ドリームレス・ドリームス",
+  "artist": "はるまきごはん feat.初音ミク",
+  "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "あの夏が飽和する。",
+  "artist": "カンザキイオリ feat.鏡音レン・鏡音リン",
+  "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "夕立のりぼん",
+  "artist": "みきとP feat.MAYU",
+  "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=19",
+  "source": "figaro.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=20",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=21",
   "source": "figaro.js"
 }
 );
