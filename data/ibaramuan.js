@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 8/3/2026, 10:03:49 PM
+// 生成时间: 8/3/2026, 10:14:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6811,6 +6811,190 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-31]回家路上听听如何？动画歌曲、术力口、JPOP，欢迎初次来的朋友",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gG3U6UEaQ?p=31",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "当事者",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "撫でんな",
+  "artist": "柊マグネタイト feat.可不",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "心という名の不可解",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat.初音ミク",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "UNDEAD",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Bad Apple!!",
+  "artist": "Alstroemeria Records feat.nomico",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "人工呼吸",
+  "artist": "傘村トータ feat.初音ミク",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "IGNITE",
+  "artist": "藍井エイル",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "夜撫でるメノウ",
+  "artist": "Ayase feat.初音ミク",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "聖少女領域",
+  "artist": "ALI PROJECT",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ターミナル",
+  "artist": "ぬゆり feat.flower",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "そばかす",
+  "artist": "JUDY AND MARY",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "逆夢",
+  "artist": "King Gnu",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "鬼ノ宴",
+  "artist": "友成空",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "GO!!!",
+  "artist": "FLOW",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "飛行艇",
+  "artist": "King Gnu",
+  "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=23",
   "source": "ibaramuan.js"
 }
 );

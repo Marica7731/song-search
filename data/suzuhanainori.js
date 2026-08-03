@@ -1,6 +1,6 @@
 // 鈴花いのり - 歌单数据 (多合集汇总)
 // 来源: BV1jyjK6sEns
-// 生成时间: 8/3/2026, 10:14:21 PM
+// 生成时间: 8/3/2026, 10:25:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1731,6 +1731,334 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=44",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "courage",
+  "artist": "戸松遥",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=1",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ふわふわ時間",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=2",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "NO,Thank You!",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=3",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=4",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Stay Alive",
+  "artist": "エミリア(高橋李依)",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=5",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Northern lights",
+  "artist": "林原めぐみ",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=6",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=7",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=8",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "昼鳶",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=9",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "泣き虫アンサンブル",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=10",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "インドア系ならトラックメイカー",
+  "artist": "Yunomi & nicamoq",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=11",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "サマー",
+  "artist": "CY8ER",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=12",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "枕元にゴースト",
+  "artist": "Aiobahn & Yunomi & nicamoq",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=13",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "夏色えがおで1, 2, Jump!",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=14",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "SUNNY DAY SONG",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=15",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "それは僕たちの奇跡",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=16",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=17",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=18",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=19",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "staple stable",
+  "artist": "戦場ヶ原ひたぎ(斎藤千和)",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=20",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ポケッターリ モンスターリ",
+  "artist": "可名",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=21",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Happy! Lucky! Dochy!",
+  "artist": "梨花(田村ゆかり)・沙都子(かないみか)・羽入(堀江由衣)",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=22",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Fantastic future",
+  "artist": "田村ゆかり",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=23",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Melty Magic",
+  "artist": "picco feat.初音ミク",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=24",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ヨワネハキ",
+  "artist": "MAISONdes",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=25",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "LILAC",
+  "artist": "DUSTCELL",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=26",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=27",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=28",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=29",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=30",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz feat.巡音ルカ",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=31",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Black Bird",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=32",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Brave Shine",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=33",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子(花澤香菜)",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=34",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "可愛くなりたい",
+  "artist": "HoneyWorks feat.鎖那",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=35",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=36",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "男の子の目的は何？",
+  "artist": "HoneyWorks feat.高見沢アリサ(東山奈央)",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=37",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=38",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona & 夏川椎菜",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=39",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=40",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Catch the Moment",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=41",
   "source": "suzuhanainori.js"
 }
 );
