@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 8/3/2026, 3:51:52 AM
+// 生成时间: 8/3/2026, 4:04:53 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6462,7 +6462,7 @@ window.SONG_DATA.push(
   "source": "ibaramuan.js"
 },
     {
-  "title": "ヒビカセ",
+  "title": "ヒビカセ × ECHO",
   "artist": "ギガP feat.初音ミク",
   "collection": "【歌切】[2026-08-01]开心哦？动画歌曲・术力口・JPOP 欢迎初次观看的朋友",
   "up": "前尘往事如昔故",
