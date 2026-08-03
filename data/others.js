@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 8/3/2026, 10:31:52 PM
+// 生成时间: 8/3/2026, 10:44:26 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17067,6 +17067,102 @@ window.SONG_DATA.push(
   "collection": "MUS1CA歌切 2026-05-29 以全类型魅力吸引你！新翻唱MV稍后公开🎊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cL366yEU9?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "Blue Jeans",
+  "artist": "HANA",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-02 夏天唱的歌也好，不合季节的也罢，随心情自由唱吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSMZ6YEpM?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "花火",
+  "artist": "ちゃんみな",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-02 夏天唱的歌也好，不合季节的也罢，随心情自由唱吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSMZ6YEpM?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "Fire◎Flower",
+  "artist": "halyosy feat.鏡音レン",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-02 夏天唱的歌也好，不合季节的也罢，随心情自由唱吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSMZ6YEpM?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ノイズ",
+  "artist": "ミオヤマザキ",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-02 夏天唱的歌也好，不合季节的也罢，随心情自由唱吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSMZ6YEpM?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん feat.IA",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-02 夏天唱的歌也好，不合季节的也罢，随心情自由唱吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSMZ6YEpM?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat.GUMI",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-02 夏天唱的歌也好，不合季节的也罢，随心情自由唱吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSMZ6YEpM?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "アイのシナリオ",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-02 夏天唱的歌也好，不合季节的也罢，随心情自由唱吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSMZ6YEpM?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat.flower",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-02 夏天唱的歌也好，不合季节的也罢，随心情自由唱吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSMZ6YEpM?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "祭男爵",
+  "artist": "ORANGE RANGE",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-02 夏天唱的歌也好，不合季节的也罢，随心情自由唱吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSMZ6YEpM?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師,宇多田ヒカル",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-02 夏天唱的歌也好，不合季节的也罢，随心情自由唱吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSMZ6YEpM?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-02 夏天唱的歌也好，不合季节的也罢，随心情自由唱吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSMZ6YEpM?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-02 夏天唱的歌也好，不合季节的也罢，随心情自由唱吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mSMZ6YEpM?p=12",
   "source": "others.js"
 },
     {

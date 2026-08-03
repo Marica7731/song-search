@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 8/3/2026, 10:11:27 PM
+// 生成时间: 8/3/2026, 10:21:47 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2227,6 +2227,46 @@ window.SONG_DATA.push(
   "collection": "【⚙️🎸歌切】[2026-07-28]今天也辛苦了～！悠闲地弹唱！ からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qh366YE9f?p=13",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "時の流れに身をまかせ",
+  "artist": "テレサ・テン",
+  "collection": "【⚙️🎸歌切】[2026-08-02]睡前安静唱歌时间🐑🐑",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hE7y?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "夜永唄",
+  "artist": "神はサイコロを振らない",
+  "collection": "【⚙️🎸歌切】[2026-08-02]睡前安静唱歌时间🐑🐑",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hE7y?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "夢をみせて",
+  "artist": "Cö shu Nie",
+  "collection": "【⚙️🎸歌切】[2026-08-02]睡前安静唱歌时间🐑🐑",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hE7y?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "心拍数♯0822",
+  "artist": "蝶々P feat.初音ミク",
+  "collection": "【⚙️🎸歌切】[2026-08-02]睡前安静唱歌时间🐑🐑",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hE7y?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ラストバージン",
+  "artist": "RADWIMPS",
+  "collection": "【⚙️🎸歌切】[2026-08-02]睡前安静唱歌时间🐑🐑",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hE7y?p=5",
   "source": "karakurinne.js"
 }
 );
