@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 8/3/2026, 9:57:11 PM
+// 生成时间: 8/3/2026, 10:24:25 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -21987,6 +21987,118 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-07-31]重大告知！披露迷你Live🛸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gG3U6UEe7?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ノルニル",
+  "artist": "やくしまるえつこメトロオーケストラ",
+  "collection": "【🦢歌切】[2026-08-03]新衣装在家3D试试看！小小展示一下～｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEy2?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "プリズム",
+  "artist": "池田綾子",
+  "collection": "【🦢歌切】[2026-08-03]新衣装在家3D试试看！小小展示一下～｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEy2?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【🦢歌切】[2026-08-03]新衣装在家3D试试看！小小展示一下～｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEy2?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【🦢歌切】[2026-08-03]新衣装在家3D试试看！小小展示一下～｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEy2?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-08-03]新衣装在家3D试试看！小小展示一下～｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEy2?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【🦢歌切】[2026-08-03]新衣装在家3D试试看！小小展示一下～｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEy2?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ひこうき雲",
+  "artist": "荒井由実（松任谷由実）",
+  "collection": "【🦢歌切】[2026-08-03]新衣装在家3D试试看！小小展示一下～｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEy2?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Supernova",
+  "artist": "雄之助×春野 feat.初音ミク",
+  "collection": "【🦢歌切】[2026-08-03]新衣装在家3D试试看！小小展示一下～｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEy2?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "1/6 -out of the gravity-",
+  "artist": "ぼーかりおどP(noa) feat.初音ミク",
+  "collection": "【🦢歌切】[2026-08-03]新衣装在家3D试试看！小小展示一下～｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEy2?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【🦢歌切】[2026-08-03]新衣装在家3D试试看！小小展示一下～｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEy2?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "＊ハロー、プラネット。",
+  "artist": "sasakure.UK feat.初音ミク",
+  "collection": "【🦢歌切】[2026-08-03]新衣装在家3D试试看！小小展示一下～｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEy2?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【🦢歌切】[2026-08-03]新衣装在家3D试试看！小小展示一下～｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEy2?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【🦢歌切】[2026-08-03]新衣装在家3D试试看！小小展示一下～｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEy2?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Jewelry Wonderland",
+  "artist": "I-1 Club",
+  "collection": "【🦢歌切】[2026-08-03]新衣装在家3D试试看！小小展示一下～｜歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEy2?p=14",
   "source": "suu_usuwa.js"
 }
 );

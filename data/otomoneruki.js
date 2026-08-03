@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 8/3/2026, 10:06:16 PM
+// 生成时间: 8/3/2026, 10:31:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6019,6 +6019,54 @@ window.SONG_DATA.push(
   "collection": "【👿歌切】[2026-07-25]代替收音机的夜歌回📻🎶夏日已过的炎热😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CA3L61EvL?p=9",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【👿歌切】[2026-08-03]爆诞纪念家中3D一人全开Live！？今宵是盛宴😈🫶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEJP?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "【👿歌切】[2026-08-03]爆诞纪念家中3D一人全开Live！？今宵是盛宴😈🫶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEJP?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【👿歌切】[2026-08-03]爆诞纪念家中3D一人全开Live！？今宵是盛宴😈🫶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEJP?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "イケナイ太陽",
+  "artist": "ORANGE RANGE",
+  "collection": "【👿歌切】[2026-08-03]爆诞纪念家中3D一人全开Live！？今宵是盛宴😈🫶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEJP?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "チャンカパーナ",
+  "artist": "NEWS",
+  "collection": "【👿歌切】[2026-08-03]爆诞纪念家中3D一人全开Live！？今宵是盛宴😈🫶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEJP?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "一体いつから",
+  "artist": "月村手毬(CV:小鹿なお)",
+  "collection": "【👿歌切】[2026-08-03]爆诞纪念家中3D一人全开Live！？今宵是盛宴😈🫶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEJP?p=6",
   "source": "otomoneruki.js"
 }
 );
