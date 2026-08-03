@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 8/3/2026, 2:34:36 AM
+// 生成时间: 8/3/2026, 2:45:00 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -18347,6 +18347,86 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-07-27]钢琴与夏日之声 ✧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13x3e6CENP?p=25",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ラグトレイン",
+  "artist": "稲葉曇 feat.歌愛ユキ",
+  "collection": "【🐍歌切】[2026-08-02]让我的歌声为你的夕阳染上色彩",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15J3f69E29?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "7!!",
+  "collection": "【🐍歌切】[2026-08-02]让我的歌声为你的夕阳染上色彩",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15J3f69E29?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【🐍歌切】[2026-08-02]让我的歌声为你的夕阳染上色彩",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15J3f69E29?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "SAD SONG",
+  "artist": "ちゃんみな",
+  "collection": "【🐍歌切】[2026-08-02]让我的歌声为你的夕阳染上色彩",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15J3f69E29?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【🐍歌切】[2026-08-02]让我的歌声为你的夕阳染上色彩",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15J3f69E29?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "いとしのエリー",
+  "artist": "サザンオールスターズ",
+  "collection": "【🐍歌切】[2026-08-02]回家路上请一起听吧～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LJ3f69EA9?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "寄り酔い",
+  "artist": "和ぬか",
+  "collection": "【🐍歌切】[2026-08-02]回家路上请一起听吧～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LJ3f69EA9?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太 feat.歌愛ユキ",
+  "collection": "【🐍歌切】[2026-08-02]回家路上请一起听吧～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LJ3f69EA9?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "夏の恋人",
+  "artist": "SHISHAMO",
+  "collection": "【🐍歌切】[2026-08-02]回家路上请一起听吧～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LJ3f69EA9?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-08-02]回家路上请一起听吧～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LJ3f69EA9?p=5",
   "source": "ririsya.js"
 }
 );
