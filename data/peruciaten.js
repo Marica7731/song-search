@@ -1,6 +1,6 @@
 // ぺるしあ・てん - 歌单数据 (多合集汇总)
 // 来源: BV1iXKY6qEKv
-// 生成时间: 8/3/2026, 11:47:48 PM
+// 生成时间: 8/3/2026, 11:58:27 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -691,6 +691,150 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=18",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "告白予行練習",
+  "artist": "HoneyWorks feat.GUMI",
+  "collection": "【歌切】[2026-08-02]唱蜂蜜熊之类的歌！！唱酸甜青春歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=1",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-08-02]唱蜂蜜熊之类的歌！！唱酸甜青春歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=2",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "推し変なんて許さない!",
+  "artist": "HoneyWorks feat.可不",
+  "collection": "【歌切】[2026-08-02]唱蜂蜜熊之类的歌！！唱酸甜青春歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=3",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "今、恋がはじまれ。",
+  "artist": "HoneyWorks feat.望月あずき(CV:高橋李依)",
+  "collection": "【歌切】[2026-08-02]唱蜂蜜熊之类的歌！！唱酸甜青春歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=4",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "chocolate box",
+  "artist": "一億円P feat.鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-08-02]唱蜂蜜熊之类的歌！！唱酸甜青春歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=5",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "今好きになる。",
+  "artist": "HoneyWorks feat.初音ミク",
+  "collection": "【歌切】[2026-08-02]唱蜂蜜熊之类的歌！！唱酸甜青春歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=6",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ノスタルジックレインフォール",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-08-02]唱蜂蜜熊之类的歌！！唱酸甜青春歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=7",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "StaRt",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-02]唱蜂蜜熊之类的歌！！唱酸甜青春歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=8",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "サインはB -アイ Solo Ver.-",
+  "artist": "アイ(CV:高橋李依)",
+  "collection": "【歌切】[2026-08-02]唱蜂蜜熊之类的歌！！唱酸甜青春歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=9",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "病名恋ワズライ",
+  "artist": "HoneyWorks feat.GUMI",
+  "collection": "【歌切】[2026-08-02]唱蜂蜜熊之类的歌！！唱酸甜青春歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=10",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ヤキモチの答え-another story",
+  "artist": "HoneyWorks feat.初音ミク",
+  "collection": "【歌切】[2026-08-02]唱蜂蜜熊之类的歌！！唱酸甜青春歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=11",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "東京サマーセッション",
+  "artist": "HoneyWorks feat.GUMI・v flower",
+  "collection": "【歌切】[2026-08-02]唱蜂蜜熊之类的歌！！唱酸甜青春歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=12",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "アウターサイエンス",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-08-02]唱蜂蜜熊之类的歌！！唱酸甜青春歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=13",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ねぇねぇねぇ。",
+  "artist": "ピノキオピー feat.鏡音リン・初音ミク",
+  "collection": "【歌切】[2026-08-02]唱蜂蜜熊之类的歌！！唱酸甜青春歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=14",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "オツキミリサイタル",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-08-02]唱蜂蜜熊之类的歌！！唱酸甜青春歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=15",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "東京サマーセッション",
+  "artist": "HoneyWorks feat.GUMI・v flower",
+  "collection": "【歌切】[2026-08-02]唱蜂蜜熊之类的歌！！唱酸甜青春歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=16",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "【歌切】[2026-08-02]唱蜂蜜熊之类的歌！！唱酸甜青春歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=17",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "セカイ",
+  "artist": "DECO*27×堀江晶太 feat.初音ミク",
+  "collection": "【歌切】[2026-08-02]唱蜂蜜熊之类的歌！！唱酸甜青春歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=18",
   "source": "peruciaten.js"
 }
 );

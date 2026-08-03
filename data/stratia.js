@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 8/3/2026, 10:58:48 PM
+// 生成时间: 8/3/2026, 11:12:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1355,6 +1355,30 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-07-27]今天也悠闲地弹唱！还有超超超大的公告🦋✨✨ すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12y3669EXh?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【🎸🦋歌切】[2026-08-02]夕景中融化的弹唱。🎸🌇🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kfMZ64Ehz?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "恋をしたのは",
+  "artist": "aiko",
+  "collection": "【🎸🦋歌切】[2026-08-02]夕景中融化的弹唱。🎸🌇🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kfMZ64Ehz?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "恋と病熱",
+  "artist": "米津玄師",
+  "collection": "【🎸🦋歌切】[2026-08-02]夕景中融化的弹唱。🎸🌇🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kfMZ64Ehz?p=3",
   "source": "stratia.js"
 }
 );
