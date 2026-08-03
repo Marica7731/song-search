@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 8/3/2026, 10:44:26 PM
+// 生成时间: 8/3/2026, 10:54:12 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17163,6 +17163,46 @@ window.SONG_DATA.push(
   "collection": "石狩あかり/あおぎり高校歌切 2026-08-02 夏天唱的歌也好，不合季节的也罢，随心情自由唱吧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mSMZ6YEpM?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "Shut Up and Dance",
+  "artist": "WALK THE MOON",
+  "collection": "Yoto 夜都 | JP Vtuber歌切 2026-08-02 我事先不知道要在这里唱歌……！！-日语",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1USMZ6YEuQ?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "Yoto 夜都 | JP Vtuber歌切 2026-08-02 我事先不知道要在这里唱歌……！！-日语",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1USMZ6YEuQ?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "逆光",
+  "artist": "ウタ from ONE PIECE FILM RED",
+  "collection": "Yoto 夜都 | JP Vtuber歌切 2026-08-02 我事先不知道要在这里唱歌……！！-日语",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1USMZ6YEuQ?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "KICK BACK",
+  "artist": "米津玄師",
+  "collection": "Yoto 夜都 | JP Vtuber歌切 2026-08-02 我事先不知道要在这里唱歌……！！-日语",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1USMZ6YEuQ?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "Yoto 夜都 | JP Vtuber歌切 2026-08-02 我事先不知道要在这里唱歌……！！-日语",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1USMZ6YEuQ?p=5",
   "source": "others.js"
 },
     {

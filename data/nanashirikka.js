@@ -1,6 +1,6 @@
 // ななし律歌 - 歌单数据 (多合集汇总)
 // 来源: BV1wHQVBTEU5
-// 生成时间: 8/3/2026, 10:17:18 PM
+// 生成时间: 8/3/2026, 10:26:50 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1347,6 +1347,190 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-26]一起熬夜吧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jEby?p=26",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "キュートなカノジョ",
+  "artist": "syudou feat.可不",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=1",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "酔いどれ知らず",
+  "artist": "Kanaria feat.GUMI",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=2",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "プロミスザスター",
+  "artist": "BiSH",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=3",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ANTENNA",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=4",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "SPYAIR",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=5",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "シャンティ",
+  "artist": "wotaku feat.KAITO",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=6",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=7",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ジレンマ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=8",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "シニカルナイトプラン",
+  "artist": "Ayase feat.初音ミク",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=9",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "幽霊東京",
+  "artist": "Ayase feat.初音ミク",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=10",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "シネマ",
+  "artist": "Ayase feat.初音ミク",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=11",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ウタカタララバイ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=12",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "あの夏に咲け",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=13",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "猛独が襲う",
+  "artist": "一二三 feat.初音ミク",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=14",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=15",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=16",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師・宇多田ヒカル",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=17",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "逆夢",
+  "artist": "King Gnu",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=18",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "君が夜の海に還るまで",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=19",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "About me",
+  "artist": "蝶々P feat.GUMI",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=20",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat.GUMI",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=21",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "コールボーイ",
+  "artist": "syudou feat.初音ミク",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=22",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ドリームレス・ドリームス",
+  "artist": "はるまきごはん",
+  "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=23",
   "source": "nanashirikka.js"
 }
 );

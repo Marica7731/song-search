@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 8/3/2026, 10:29:21 PM
+// 生成时间: 8/3/2026, 10:39:47 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1803,6 +1803,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-03]星期一辛苦啦！为你送上一点治愈🌟初次见面也欢迎ROM！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12XMZ6hEtx?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-02]嗓子恢复🌟要不要一起入睡？来唱点抒情曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U2MZ6vEea?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "夏の半券",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-08-02]嗓子恢复🌟要不要一起入睡？来唱点抒情曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U2MZ6vEea?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-02]嗓子恢复🌟要不要一起入睡？来唱点抒情曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U2MZ6vEea?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-08-02]嗓子恢复🌟要不要一起入睡？来唱点抒情曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U2MZ6vEea?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "タイムマシン",
+  "artist": "1640mP feat.初音ミク",
+  "collection": "【歌切】[2026-08-02]嗓子恢复🌟要不要一起入睡？来唱点抒情曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U2MZ6vEea?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-02]嗓子恢复🌟要不要一起入睡？来唱点抒情曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U2MZ6vEea?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-08-02]嗓子恢复🌟要不要一起入睡？来唱点抒情曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U2MZ6vEea?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-08-02]嗓子恢复🌟要不要一起入睡？来唱点抒情曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U2MZ6vEea?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-08-02]嗓子恢复🌟要不要一起入睡？来唱点抒情曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U2MZ6vEea?p=9",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ヒカリヘ",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-08-02]嗓子恢复🌟要不要一起入睡？来唱点抒情曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U2MZ6vEea?p=10",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-02]嗓子恢复🌟要不要一起入睡？来唱点抒情曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U2MZ6vEea?p=11",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-08-02]嗓子恢复🌟要不要一起入睡？来唱点抒情曲吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U2MZ6vEea?p=12",
   "source": "hinachibi.js"
 }
 );
