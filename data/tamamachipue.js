@@ -1,6 +1,6 @@
 // 玉町ぷえ - 歌单数据 (多合集汇总)
 // 来源: BV1nUMP6vE7N
-// 生成时间: 8/3/2026, 10:12:01 PM
+// 生成时间: 8/3/2026, 10:17:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -779,6 +779,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-01]#闪耀金发VTuber歌回接力｜我是连笑容都闪闪发亮的行进乐队队长哦！💛✨【 #玉町ぷえ 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gG3U6UEAs?p=5",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "ロマンスの神様",
+  "artist": "広瀬香美",
+  "collection": "【歌切】[2026-08-02]可喜可贺值得珍爱的歌回接力⌇队长要把满满的爱送给大家💛⸒⸒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEMr?p=1",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "キス・ミー・パティシエ",
+  "artist": "CANDY TUNE",
+  "collection": "【歌切】[2026-08-02]可喜可贺值得珍爱的歌回接力⌇队长要把满满的爱送给大家💛⸒⸒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEMr?p=2",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "黒毛和牛上塩タン焼680円",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-08-02]可喜可贺值得珍爱的歌回接力⌇队长要把满满的爱送给大家💛⸒⸒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEMr?p=3",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "ずうっといっしょ！",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-08-02]可喜可贺值得珍爱的歌回接力⌇队长要把满满的爱送给大家💛⸒⸒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEMr?p=4",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-08-02]可喜可贺值得珍爱的歌回接力⌇队长要把满满的爱送给大家💛⸒⸒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEMr?p=5",
   "source": "tamamachipue.js"
 }
 );
