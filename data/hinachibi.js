@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 8/3/2026, 10:10:07 PM
+// 生成时间: 8/3/2026, 10:19:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1739,6 +1739,70 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2025-05-13]新观众也非常欢迎♪🎤 回家路上要不要听一听呢？💓🍎 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pEK16JEZL?p=10",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "夏の終わり、恋の始まり",
+  "artist": "すこっぷ feat.GUMI",
+  "collection": "【歌切】[2026-08-03]星期一辛苦啦！为你送上一点治愈🌟初次见面也欢迎ROM！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEtx?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-08-03]星期一辛苦啦！为你送上一点治愈🌟初次见面也欢迎ROM！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEtx?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "おおかみは赤ずきんに恋をした",
+  "artist": "ひとしずくP×やま△ feat.鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-08-03]星期一辛苦啦！为你送上一点治愈🌟初次见面也欢迎ROM！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEtx?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "綺麗事",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-08-03]星期一辛苦啦！为你送上一点治愈🌟初次见面也欢迎ROM！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEtx?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "DAYBREAK FRONTLINE (Mwk Remix)",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-08-03]星期一辛苦啦！为你送上一点治愈🌟初次见面也欢迎ROM！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEtx?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "アサガオの散る頃に",
+  "artist": "ぷす feat.初音ミク",
+  "collection": "【歌切】[2026-08-03]星期一辛苦啦！为你送上一点治愈🌟初次见面也欢迎ROM！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEtx?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-08-03]星期一辛苦啦！为你送上一点治愈🌟初次见面也欢迎ROM！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEtx?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "8.32",
+  "artist": "*Luna feat.v flower",
+  "collection": "【歌切】[2026-08-03]星期一辛苦啦！为你送上一点治愈🌟初次见面也欢迎ROM！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEtx?p=8",
   "source": "hinachibi.js"
 }
 );

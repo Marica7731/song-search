@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 8/3/2026, 10:14:39 PM
+// 生成时间: 8/3/2026, 10:23:37 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6811,6 +6811,230 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-31]回家路上听听如何？动画歌曲、术力口、JPOP，欢迎初次来的朋友",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gG3U6UEaQ?p=31",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "心に穴が空いた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "花人局",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "負け犬にアンコールはいらない",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "春ひさぎ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "盗作",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "パレード",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "月に吠える",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "又三郎",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=26",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=27",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-03]ヨルシカ的歌让人想在夏天唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12XMZ6hEDm?p=28",
   "source": "ibaramuan.js"
 },
     {
