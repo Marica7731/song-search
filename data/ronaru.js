@@ -1,6 +1,6 @@
 // 炉なる - 歌单数据 (多合集汇总)
 // 来源: BV1oeMx6WEve
-// 生成时间: 8/3/2026, 11:46:33 PM
+// 生成时间: 8/4/2026, 12:03:46 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -499,6 +499,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-26]久违的歌回！唱歌啦——！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1a6gf6jE1T?p=11",
+  "source": "ronaru.js"
+},
+    {
+  "title": "かいしんのいちげき!",
+  "artist": "天月-あまつき",
+  "collection": "【歌切】[2026-08-02]已经8月了，真的假的？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cnMZ6WEcG?p=1",
+  "source": "ronaru.js"
+},
+    {
+  "title": "スキスキ絶頂症",
+  "artist": "koyori feat.GUMI",
+  "collection": "【歌切】[2026-08-02]已经8月了，真的假的？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cnMZ6WEcG?p=2",
+  "source": "ronaru.js"
+},
+    {
+  "title": "再教育",
+  "artist": "Neru feat.鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-08-02]已经8月了，真的假的？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cnMZ6WEcG?p=3",
+  "source": "ronaru.js"
+},
+    {
+  "title": "林檎花火とソーダの海",
+  "artist": "まふまふ feat.IA",
+  "collection": "【歌切】[2026-08-02]已经8月了，真的假的？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cnMZ6WEcG?p=4",
+  "source": "ronaru.js"
+},
+    {
+  "title": "ジグソーパズル",
+  "artist": "まふまふ feat.鏡音レン",
+  "collection": "【歌切】[2026-08-02]已经8月了，真的假的？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cnMZ6WEcG?p=5",
+  "source": "ronaru.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【歌切】[2026-08-02]已经8月了，真的假的？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cnMZ6WEcG?p=6",
+  "source": "ronaru.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "【歌切】[2026-08-02]已经8月了，真的假的？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cnMZ6WEcG?p=7",
+  "source": "ronaru.js"
+},
+    {
+  "title": "六兆年と一夜物語",
+  "artist": "kemu feat.IA",
+  "collection": "【歌切】[2026-08-02]已经8月了，真的假的？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cnMZ6WEcG?p=8",
+  "source": "ronaru.js"
+},
+    {
+  "title": "フィクサー",
+  "artist": "ぬゆり feat.v flower",
+  "collection": "【歌切】[2026-08-02]已经8月了，真的假的？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cnMZ6WEcG?p=9",
+  "source": "ronaru.js"
+},
+    {
+  "title": "Hello,world!",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-08-02]已经8月了，真的假的？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cnMZ6WEcG?p=10",
+  "source": "ronaru.js"
+},
+    {
+  "title": "ラビットホール",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-02]已经8月了，真的假的？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cnMZ6WEcG?p=11",
+  "source": "ronaru.js"
+},
+    {
+  "title": "ふわふわ時間",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-08-02]已经8月了，真的假的？？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cnMZ6WEcG?p=12",
   "source": "ronaru.js"
 }
 );
