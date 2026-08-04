@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 8/4/2026, 8:26:35 AM
+// 生成时间: 8/4/2026, 8:42:42 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -323,6 +323,190 @@ window.SONG_DATA.push(
   "collection": "憂涙といろ UDtzuxmeLGg ALyRAil1trE",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K8cmzwEm7?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "今でもあなたが",
+  "artist": "藤田麻衣子",
+  "collection": "憂涙といろ UDtzuxmeLGg ALyRAil1trE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8cmzwEm7?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "横顔～わたしの知らない桜～",
+  "artist": "藤田麻衣子",
+  "collection": "憂涙といろ UDtzuxmeLGg ALyRAil1trE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8cmzwEm7?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "未来を",
+  "artist": "藤田麻衣子",
+  "collection": "憂涙といろ UDtzuxmeLGg ALyRAil1trE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8cmzwEm7?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "君が手を伸ばす先に",
+  "artist": "藤田麻衣子",
+  "collection": "憂涙といろ UDtzuxmeLGg ALyRAil1trE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8cmzwEm7?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "恋煩い",
+  "artist": "藤田麻衣子",
+  "collection": "憂涙といろ UDtzuxmeLGg ALyRAil1trE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8cmzwEm7?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "Flower & Butterfly",
+  "artist": "藤田麻衣子",
+  "collection": "憂涙といろ UDtzuxmeLGg ALyRAil1trE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8cmzwEm7?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "安らげる場所",
+  "artist": "藤田麻衣子",
+  "collection": "憂涙といろ UDtzuxmeLGg ALyRAil1trE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8cmzwEm7?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "忘れないで",
+  "artist": "藤田麻衣子",
+  "collection": "憂涙といろ UDtzuxmeLGg ALyRAil1trE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8cmzwEm7?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "あなたは幸せになる",
+  "artist": "藤田麻衣子",
+  "collection": "憂涙といろ UDtzuxmeLGg ALyRAil1trE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8cmzwEm7?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "二人の彼",
+  "artist": "藤田麻衣子",
+  "collection": "憂涙といろ UDtzuxmeLGg ALyRAil1trE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8cmzwEm7?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "運命の人",
+  "artist": "藤田麻衣子",
+  "collection": "憂涙といろ UDtzuxmeLGg ALyRAil1trE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8cmzwEm7?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "涙が止まらないのは",
+  "artist": "藤田麻衣子",
+  "collection": "憂涙といろ UDtzuxmeLGg ALyRAil1trE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8cmzwEm7?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "水風船",
+  "artist": "藤田麻衣子",
+  "collection": "憂涙といろ UDtzuxmeLGg ALyRAil1trE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8cmzwEm7?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "蛍",
+  "artist": "藤田麻衣子",
+  "collection": "憂涙といろ UDtzuxmeLGg ALyRAil1trE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8cmzwEm7?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "今でもあなたが",
+  "artist": "藤田麻衣子",
+  "collection": "憂涙といろ UDtzuxmeLGg ALyRAil1trE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8cmzwEm7?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "金魚すくい",
+  "artist": "藤田麻衣子",
+  "collection": "憂涙といろ UDtzuxmeLGg ALyRAil1trE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8cmzwEm7?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "ねぇ",
+  "artist": "藤田麻衣子",
+  "collection": "憂涙といろ UDtzuxmeLGg ALyRAil1trE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8cmzwEm7?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "高鳴る",
+  "artist": "藤田麻衣子",
+  "collection": "憂涙といろ UDtzuxmeLGg ALyRAil1trE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8cmzwEm7?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "素敵なことがあなたを待っている",
+  "artist": "藤田麻衣子",
+  "collection": "憂涙といろ UDtzuxmeLGg ALyRAil1trE",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8cmzwEm7?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "夜撫でるメノウ",
+  "artist": "Ayase",
+  "collection": "歌势推荐：渚沢シチ 2026-03-06 Rjs6oWcVHXI",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEcSz7EFC?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "歌势推荐：渚沢シチ 2026-03-06 Rjs6oWcVHXI",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEcSz7EFC?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "いつか",
+  "artist": "Saucy Dog",
+  "collection": "歌势推荐：渚沢シチ 2026-03-06 Rjs6oWcVHXI",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEcSz7EFC?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "歌势推荐：渚沢シチ 2026-03-06 Rjs6oWcVHXI",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VEcSz7EFC?p=4",
   "source": "others.js"
 },
     {
