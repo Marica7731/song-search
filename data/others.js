@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 8/4/2026, 7:54:30 PM
+// 生成时间: 8/4/2026, 8:05:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2747,6 +2747,134 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=60",
+  "source": "others.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=61",
+  "source": "others.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "歌切 2026-04-04 ゆらぎゆら / YuragiYura🌙🫧 _YuraYuragi",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JVSSBhEYJ?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "風が吹く街",
+  "artist": "ラックライフ",
+  "collection": "歌切 2026-04-04 ゆらぎゆら / YuragiYura🌙🫧 _YuraYuragi",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JVSSBhEYJ?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "Dearest",
+  "artist": "浜崎あゆみ",
+  "collection": "歌切 2026-04-04 ゆらぎゆら / YuragiYura🌙🫧 _YuraYuragi",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JVSSBhEYJ?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "歌切 2026-04-04 ゆらぎゆら / YuragiYura🌙🫧 _YuraYuragi",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JVSSBhEYJ?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "奈落の底",
+  "artist": "島みやえい子",
+  "collection": "歌切 2026-04-04 ゆらぎゆら / YuragiYura🌙🫧 _YuraYuragi",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JVSSBhEYJ?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "NOBODY KNOWS",
+  "artist": "スガシカオ",
+  "collection": "歌切 2026-04-04 ゆらぎゆら / YuragiYura🌙🫧 _YuraYuragi",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JVSSBhEYJ?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "デイドリームジェネレーション",
+  "artist": "馬渡松子",
+  "collection": "歌切 2026-04-04 ゆらぎゆら / YuragiYura🌙🫧 _YuraYuragi",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JVSSBhEYJ?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40meterP",
+  "collection": "歌切 2026-03-31 ゆらぎゆら / YuragiYura🌙🫧 _YuraYuragi",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rGSSBwEWm?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "リライト",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "歌切 2026-03-31 ゆらぎゆら / YuragiYura🌙🫧 _YuraYuragi",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rGSSBwEWm?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "歌切 2026-03-31 ゆらぎゆら / YuragiYura🌙🫧 _YuraYuragi",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rGSSBwEWm?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "妄想感傷代償聯盟",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-03-31 ゆらぎゆら / YuragiYura🌙🫧 _YuraYuragi",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rGSSBwEWm?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "レイン",
+  "artist": "シド",
+  "collection": "歌切 2026-03-31 ゆらぎゆら / YuragiYura🌙🫧 _YuraYuragi",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rGSSBwEWm?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "GO!!!",
+  "artist": "FLOW",
+  "collection": "歌切 2026-03-31 ゆらぎゆら / YuragiYura🌙🫧 _YuraYuragi",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rGSSBwEWm?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "マトリョシカ",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-03-31 ゆらぎゆら / YuragiYura🌙🫧 _YuraYuragi",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rGSSBwEWm?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "妄想税",
+  "artist": "DECO*27",
+  "collection": "歌切 2026-03-31 ゆらぎゆら / YuragiYura🌙🫧 _YuraYuragi",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rGSSBwEWm?p=8",
   "source": "others.js"
 },
     {
