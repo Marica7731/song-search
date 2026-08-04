@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 8/4/2026, 5:18:38 PM
+// 生成时间: 8/4/2026, 5:28:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5227,6 +5227,190 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-07-27]稍微瞄一眼哦 💕",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AG3662EJz?p=22",
+  "source": "kukuri.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗 feat.ちびた",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "1991",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "地球儀",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師, 宇多田ヒカル",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "少年時代",
+  "artist": "井上陽水",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "明日への扉",
+  "artist": "I WiSH",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ワインレッドの心",
+  "artist": "安全地帯",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "言えないよ",
+  "artist": "郷ひろみ",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "LA・LA・LA LOVE SONG",
+  "artist": "久保田利伸 with ナオミ・キャンベル",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "POP STAR",
+  "artist": "平井堅",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ザ☆ピ～ス！",
+  "artist": "モーニング娘。",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=21",
+  "source": "kukuri.js"
+},
+    {
+  "title": "イケナイ太陽",
+  "artist": "ORANGE RANGE",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=22",
+  "source": "kukuri.js"
+},
+    {
+  "title": "PEACH",
+  "artist": "大塚愛",
+  "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=23",
   "source": "kukuri.js"
 }
 );
