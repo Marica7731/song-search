@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 8/4/2026, 5:39:58 PM
+// 生成时间: 8/4/2026, 5:48:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7275,6 +7275,214 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-08-02]全类型歌曲唱个够!!喜欢音乐的朋友快来(^^♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XzMZ6gERb?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "ニア",
+  "artist": "夏代孝明 feat.初音ミク",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヘビースモーク",
+  "artist": "にしな",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "にしな",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "エイリアンズ",
+  "artist": "キリンジ",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "back number",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "One more time, One more chance",
+  "artist": "山崎まさよし",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "エルマ",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "Burning",
+  "artist": "羊文学",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "メロウ",
+  "artist": "須田景凪",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "シアワセ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "女の子は泣かない",
+  "artist": "片平里菜",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "Hey boy!",
+  "artist": "片平里菜",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "煙たい",
+  "artist": "片平里菜",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=20",
+  "source": "sumica.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=21",
+  "source": "sumica.js"
+},
+    {
+  "title": "歌舞伎町の女王",
+  "artist": "椎名林檎",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=22",
+  "source": "sumica.js"
+},
+    {
+  "title": "本能",
+  "artist": "椎名林檎",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=23",
+  "source": "sumica.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=24",
+  "source": "sumica.js"
+},
+    {
+  "title": "ベーコンエピ",
+  "artist": "TOMOO",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=25",
+  "source": "sumica.js"
+},
+    {
+  "title": "ちょっと待って！",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=26",
   "source": "sumica.js"
 }
 );
