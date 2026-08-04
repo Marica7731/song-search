@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 8/3/2026, 11:05:59 PM
+// 生成时间: 8/3/2026, 11:23:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10219,6 +10219,254 @@ window.SONG_DATA.push(
   "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "もしも「みんな一緒に」バージョン",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "岬",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "風をあつめて",
+  "artist": "はっぴいえんど",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "青空",
+  "artist": "THE BLUE HEARTS",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "車輪の唄",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "世界の約束",
+  "artist": "倍賞千恵子",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "月まで",
+  "artist": "Hump Back",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "悲しくてやりきれない",
+  "artist": "ザ・フォーク・クルセダーズ",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "人間そっくり",
+  "artist": "plenty",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "バンド",
+  "artist": "クリープハイプ",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ORANGE RIUM",
+  "artist": "でんぱ組.inc",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "月明かりのように",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アルバイター、無名",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "春",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "眼福",
+  "artist": "米津玄師",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ひとつ",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "はなれ、ばなれ",
+  "artist": "古川本舗 feat.ばずぱんだ",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "壊れかけのRadio",
+  "artist": "徳永英明",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "あんなつぁ",
+  "artist": "浪漫革命",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "森の小さなレストラン",
+  "artist": "手嶌葵",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "笑ったり転んだり",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "尾崎豊",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "赤とんぼ",
+  "artist": "三木露風（作詞）／山田耕筰（作曲）",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アイ",
+  "artist": "秦基博",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "八月、某、月明かり",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=29",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "愛、テキサス",
+  "artist": "山下智久",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=30",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "投げKISSをあげるよ",
+  "artist": "andymori",
+  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=31",
   "source": "kotatsu.js"
 }
 );
