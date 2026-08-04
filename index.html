@@ -1706,8 +1706,31 @@
         function initSearch() {
             const searchInput = document.getElementById('search-input');
             const searchBtn = document.getElementById('search-btn');
+            let composing = false;
+            let searchTimer = null;
+
+            const isImeComposingEvent = (event) => !!event && (
+                event.isComposing || event.key === 'Process' || event.keyCode === 229
+            );
+
+            const scheduleSearch = () => {
+                clearTimeout(searchTimer);
+                searchTimer = setTimeout(() => {
+                    currentPage = 1;
+                    updateFilterAndSearch();
+                }, 300);
+            };
+
+            searchInput.addEventListener('compositionstart', () => {
+                composing = true;
+            });
+            searchInput.addEventListener('compositionend', () => {
+                composing = false;
+                scheduleSearch();
+            });
 
             searchInput.addEventListener('keydown', (e) => {
+                if (composing || isImeComposingEvent(e)) return;
                 if (e.key === 'Enter' || e.keyCode === 13) {
                     e.preventDefault();
                     currentPage = 1;
@@ -1720,13 +1743,9 @@
                 updateFilterAndSearch();
             });
 
-            let searchTimer = null;
-            searchInput.addEventListener('input', () => {
-                clearTimeout(searchTimer);
-                searchTimer = setTimeout(() => {
-                    currentPage = 1;
-                    updateFilterAndSearch();
-                }, 300);
+            searchInput.addEventListener('input', (event) => {
+                if (composing || isImeComposingEvent(event)) return;
+                scheduleSearch();
             });
         }
 

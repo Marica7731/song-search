@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const { cleanSongTitle } = require('./title-cleaning');
 
 // ================= 关键兼容：适配全局安装的 Puppeteer =================
 let puppeteer;
@@ -421,37 +422,23 @@ function parseRawDataToSongs(rawData, config) {
 
     (rawData || []).forEach(col => {
         (col.parts || []).forEach((p, i) => {
-            let cleanTitle = p;
+            let cleanTitle = cleanSongTitle(p);
             const rawArtistCandidate = String(p || '')
                 .split(' - ')
                 .slice(-1)[0]
                 .replace(LEADING_SOURCE_REGEX, '')
                 .trim();
 
-            // 1. 基础标签清除
-            cleanTitle = cleanTitle.replace(/\[\d{4}[-]?\d{2}[-]?\d{2}\]/g, '');
-            let prevLen;
-            do {
-                prevLen = cleanTitle.length;
-                cleanTitle = cleanTitle.replace(/\[[^\[\]]*\]\s*$/, '');
-            } while (cleanTitle.length !== prevLen);
-
-            // 2. 清除开头编号
-            cleanTitle = cleanTitle.trim()
-                .replace(/^\d+\.\s*/, '')
-                .replace(/^P\d+[：:]\s*/, '')
-                .trim();
-
-            // 3. 清除 (2), _sub 等后缀
+            // Keep semantic bracketed title suffixes; remove only known upload artifacts.
             const artifactRegex = /(\s*\(\d+\)|_(sub|copy|backup|1080p|720p|\d+))$/i;
-            cleanTitle = cleanTitle.replace(artifactRegex, '').trim();
+            cleanTitle = cleanSongTitle(cleanTitle);
 
             let artist = DEFAULT_ARTIST_TEXT;
             let songTitle = cleanTitle;
 
             if (cleanTitle.includes(' - ')) {
                 const titleParts = cleanTitle.split(' - ');
-                songTitle = titleParts[0].replace(artifactRegex, '').trim();
+                songTitle = cleanSongTitle(titleParts[0]);
                 artist = titleParts[titleParts.length - 1].replace(artifactRegex, '').trim();
                 if (!artist && SPECIAL_BRACKET_ARTIST_SET.has(rawArtistCandidate)) {
                     artist = rawArtistCandidate;

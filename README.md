@@ -17,6 +17,7 @@
 
 ### 查询与筛选
 - `index.html` 支持按歌名/歌手/合集/来源搜索
+- 搜索框识别输入法合成状态，日文候选确认前不提前刷新结果，合成结束后再执行筛选
 - 支持来源筛选、分页、快速跳页
 - 支持单条复制与批量复制
 
@@ -116,6 +117,8 @@ song-search/
 │                              # BV 抽样运行状态，cache 保存，不提交
 ├─ scripts/
 │  ├─ update-songs.js          # 数据抓取与生成脚本
+│  ├─ title-cleaning.js        # 保留语义括号后缀的标题清洗规则
+│  ├─ check-title-cleaning.js  # 标题清洗回归检查
 │  └─ source-profiles.json     # 来源头像与频道覆盖配置
 ├─ .gitignore                  # 忽略抽样状态文件
 └─ .github/workflows/
@@ -138,6 +141,7 @@ song-search/
 - 推送前建议本地用 HTTP 跑一遍关键页面
 - 推送前建议执行：
   - `node --check scripts/update-songs.js`
+  - `node scripts/check-title-cleaning.js`
   - `node scripts/update-songs.js`
   - `git diff --check`
 
