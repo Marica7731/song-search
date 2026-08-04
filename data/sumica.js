@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 8/4/2026, 12:01:26 AM
+// 生成时间: 8/4/2026, 12:08:15 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7155,6 +7155,126 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-07-31]㊗️见证1st.EP发售…‼️也请轻松听听歌吧～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UEXE?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-08-02]全类型歌曲唱个够!!喜欢音乐的朋友快来(^^♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XzMZ6gERb?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【💐🎸歌切】[2026-08-02]全类型歌曲唱个够!!喜欢音乐的朋友快来(^^♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XzMZ6gERb?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-08-02]全类型歌曲唱个够!!喜欢音乐的朋友快来(^^♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XzMZ6gERb?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat.初音ミク",
+  "collection": "【💐🎸歌切】[2026-08-02]全类型歌曲唱个够!!喜欢音乐的朋友快来(^^♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XzMZ6gERb?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヒカレイノチ",
+  "artist": "Kitri",
+  "collection": "【💐🎸歌切】[2026-08-02]全类型歌曲唱个够!!喜欢音乐的朋友快来(^^♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XzMZ6gERb?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "青い春",
+  "artist": "SUPER BEAVER",
+  "collection": "【💐🎸歌切】[2026-08-02]全类型歌曲唱个够!!喜欢音乐的朋友快来(^^♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XzMZ6gERb?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "HONEY BOY",
+  "artist": "TOMOO",
+  "collection": "【💐🎸歌切】[2026-08-02]全类型歌曲唱个够!!喜欢音乐的朋友快来(^^♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XzMZ6gERb?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "長い髪",
+  "artist": "FOMARE",
+  "collection": "【💐🎸歌切】[2026-08-02]全类型歌曲唱个够!!喜欢音乐的朋友快来(^^♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XzMZ6gERb?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "ずうっといっしょ！",
+  "artist": "キタニタツヤ",
+  "collection": "【💐🎸歌切】[2026-08-02]全类型歌曲唱个够!!喜欢音乐的朋友快来(^^♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XzMZ6gERb?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【💐🎸歌切】[2026-08-02]全类型歌曲唱个够!!喜欢音乐的朋友快来(^^♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XzMZ6gERb?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-08-02]全类型歌曲唱个够!!喜欢音乐的朋友快来(^^♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XzMZ6gERb?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "二時頃",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-08-02]全类型歌曲唱个够!!喜欢音乐的朋友快来(^^♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XzMZ6gERb?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "Story",
+  "artist": "AI",
+  "collection": "【💐🎸歌切】[2026-08-02]全类型歌曲唱个够!!喜欢音乐的朋友快来(^^♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XzMZ6gERb?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "一日惚れ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-08-02]全类型歌曲唱个够!!喜欢音乐的朋友快来(^^♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XzMZ6gERb?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "泣き虫上等",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-08-02]全类型歌曲唱个够!!喜欢音乐的朋友快来(^^♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XzMZ6gERb?p=15",
   "source": "sumica.js"
 }
 );
