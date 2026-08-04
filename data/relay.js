@@ -1,6 +1,6 @@
 // 接力 - 歌单数据 (多合集汇总)
 // 来源: BV1rkCTYzEZN, BV1wt421j7gT, BV1KpCdYmE3T, BV1aC4ce2E5s, BV1JbX9BmE5m, BV1nJ5S6CETQ, BV1duSRBBEkb
-// 生成时间: 8/4/2026, 9:43:13 AM
+// 生成时间: 8/4/2026, 9:54:03 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -871,7 +871,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "さよならの夏 〜コクリコ坂から〜",
-  "artist": "手嶌葵",
+  "artist": "手嶌葵 [映画 コクリコ坂から]",
   "collection": "接力歌切 唄街しの 2026-06-13 被温暖的吉他音色包围着…？",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1H8Jp6SEEM?p=4",
@@ -879,7 +879,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Planetes",
-  "artist": "EGOIST",
+  "artist": "EGOIST [ゲーム ギルティクラウン ロストクリスマス]",
   "collection": "接力歌切 花鹿 める / Kajica Mel 2026-06-13 迷失在沉睡森林中的你🌳💤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vrJp6GEtu?p=1",
@@ -895,7 +895,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "満ちてゆく",
-  "artist": "藤井風",
+  "artist": "藤井風 [映画 四月になれば彼女は]",
   "collection": "接力歌切 花鹿 める / Kajica Mel 2026-06-13 迷失在沉睡森林中的你🌳💤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vrJp6GEtu?p=3",

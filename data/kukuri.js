@@ -1,13 +1,13 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 8/4/2026, 8:58:00 AM
+// 生成时间: 8/4/2026, 9:08:26 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
     {
   "title": "燈",
-  "artist": "崎山蒼志",
+  "artist": "崎山蒼志[DVHa8UaD_ak]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=1",
@@ -15,7 +15,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "グレゴリオ",
-  "artist": "古川本舗",
+  "artist": "古川本舗[DVHa8UaD_ak]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=2",
@@ -23,7 +23,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "贖罪",
-  "artist": "傘村トータ",
+  "artist": "傘村トータ[DVHa8UaD_ak]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=3",
@@ -31,7 +31,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "スピラーレ",
-  "artist": "牧野由依",
+  "artist": "牧野由依[DVHa8UaD_ak]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=4",
@@ -39,7 +39,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ウンディーネ",
-  "artist": "牧野由依",
+  "artist": "牧野由依[DVHa8UaD_ak]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=5",
@@ -47,7 +47,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "六月は雨上がりの街を書く",
-  "artist": "ヨルシカ",
+  "artist": "ヨルシカ[DVHa8UaD_ak]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=6",
@@ -55,7 +55,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Calc.",
-  "artist": "ジミーサムP",
+  "artist": "ジミーサムP[DVHa8UaD_ak]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=7",
@@ -63,7 +63,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "初めての恋が終わる時",
-  "artist": "ryo",
+  "artist": "ryo[DVHa8UaD_ak]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=8",
@@ -71,7 +71,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "鱗",
-  "artist": "秦基博",
+  "artist": "秦基博[DVHa8UaD_ak]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=9",
@@ -79,7 +79,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "more than words",
-  "artist": "羊文学",
+  "artist": "羊文学[DVHa8UaD_ak]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=10",
@@ -87,7 +87,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "カタオモイ",
-  "artist": "Aimer",
+  "artist": "Aimer[DVHa8UaD_ak]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=11",
@@ -95,7 +95,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ninelie",
-  "artist": "Aimer",
+  "artist": "Aimer[DVHa8UaD_ak]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=12",
@@ -103,7 +103,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "流星群",
-  "artist": "鬼束ちひろ",
+  "artist": "鬼束ちひろ[DVHa8UaD_ak]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=13",
@@ -111,7 +111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋",
-  "artist": "奥華子",
+  "artist": "奥華子[DVHa8UaD_ak]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=14",
@@ -119,7 +119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋に落ちて",
-  "artist": "藤田麻衣子",
+  "artist": "藤田麻衣子[DVHa8UaD_ak]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=15",
@@ -127,7 +127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君が手を伸ばす先に",
-  "artist": "藤田麻衣子",
+  "artist": "藤田麻衣子[DVHa8UaD_ak]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=16",
@@ -135,7 +135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "六月は雨上がりの街を書く",
-  "artist": "ヨルシカ",
+  "artist": "ヨルシカ[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=17",
@@ -143,7 +143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花降らし",
-  "artist": "n-buna feat. 初音ミク",
+  "artist": "n-buna feat. 初音ミク[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=18",
@@ -151,7 +151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "この世界で見つけたもの",
-  "artist": "EGOIST",
+  "artist": "EGOIST[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=19",
@@ -159,7 +159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "あなたに好きと言われたい",
-  "artist": "奥華子",
+  "artist": "奥華子[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=20",
@@ -167,7 +167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "冷たい嘘",
-  "artist": "aiko",
+  "artist": "aiko[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=21",
@@ -175,7 +175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "金魚すくい",
-  "artist": "藤田麻衣子",
+  "artist": "藤田麻衣子[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=22",
@@ -183,7 +183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "words",
-  "artist": "Aimer",
+  "artist": "Aimer[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=23",
@@ -191,7 +191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Faith",
-  "artist": "伊藤由奈",
+  "artist": "伊藤由奈[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=24",
@@ -199,7 +199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "眠れぬ夜は君のせい",
-  "artist": "MISIA",
+  "artist": "MISIA[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=25",
@@ -207,7 +207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "さよなら君の声",
-  "artist": "美郷あき",
+  "artist": "美郷あき[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=26",
@@ -215,7 +215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "trust you",
-  "artist": "伊藤由奈",
+  "artist": "伊藤由奈[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=27",
@@ -223,7 +223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ナツノハナ",
-  "artist": "JUJU",
+  "artist": "JUJU[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=28",
@@ -231,7 +231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "名うての泥棒猫",
-  "artist": "石川さゆり",
+  "artist": "石川さゆり[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=29",
@@ -239,7 +239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "薄ら氷心中",
-  "artist": "林原めぐみ",
+  "artist": "林原めぐみ[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=30",
@@ -247,7 +247,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夢のあと",
-  "artist": "東京事変",
+  "artist": "東京事変[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=31",
@@ -255,7 +255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ひぐらしのなく頃に",
-  "artist": "島みやえい子",
+  "artist": "島みやえい子[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=32",
@@ -263,7 +263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "奈落の花",
-  "artist": "島みやえい子",
+  "artist": "島みやえい子[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=33",
@@ -271,7 +271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "F.D.D.",
-  "artist": "いとうかなこ",
+  "artist": "いとうかなこ[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=34",
@@ -279,7 +279,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アマデウス",
-  "artist": "いとうかなこ",
+  "artist": "いとうかなこ[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=35",
@@ -287,7 +287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ファティマ",
-  "artist": "いとうかなこ",
+  "artist": "いとうかなこ[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=36",
@@ -295,7 +295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "HOWLING",
-  "artist": "abingdon boys school",
+  "artist": "abingdon boys school[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=37",
@@ -303,7 +303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "最強○×計画",
-  "artist": "MOSAIC.WAV",
+  "artist": "MOSAIC.WAV[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=38",
@@ -311,7 +311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ダイアの花",
-  "artist": "より子",
+  "artist": "より子[phAQTS7ikfQ]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=39",
@@ -319,7 +319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "片っぽ",
-  "artist": "eill",
+  "artist": "eill[c_qFAbzd4eU]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=40",
@@ -327,7 +327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "今でもあなたが",
-  "artist": "藤田麻衣子",
+  "artist": "藤田麻衣子[c_qFAbzd4eU]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=41",
@@ -335,7 +335,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夜永唄",
-  "artist": "神はサイコロを振らない",
+  "artist": "神はサイコロを振らない[c_qFAbzd4eU]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=42",
@@ -343,7 +343,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "誰かの願いが叶うころ",
-  "artist": "宇多田ヒカル",
+  "artist": "宇多田ヒカル[c_qFAbzd4eU]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=43",
@@ -351,7 +351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "海の幽霊",
-  "artist": "米津玄師",
+  "artist": "米津玄師[c_qFAbzd4eU]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=44",
@@ -359,7 +359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Heavenly days",
-  "artist": "新垣結衣",
+  "artist": "新垣結衣[c_qFAbzd4eU]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=45",
@@ -367,7 +367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "くだらないの中に",
-  "artist": "星野源",
+  "artist": "星野源[c_qFAbzd4eU]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=46",
@@ -375,7 +375,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "朝が来る前に",
-  "artist": "秦基博",
+  "artist": "秦基博[c_qFAbzd4eU]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=47",
@@ -383,7 +383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ワインレッドの心",
-  "artist": "安全地帯",
+  "artist": "安全地帯[c_qFAbzd4eU]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=48",
@@ -391,7 +391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "言えないよ",
-  "artist": "郷ひろみ",
+  "artist": "郷ひろみ[c_qFAbzd4eU]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=49",
@@ -399,7 +399,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "3月9日",
-  "artist": "レミオロメン",
+  "artist": "レミオロメン[c_qFAbzd4eU]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=50",
@@ -407,7 +407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "側にいて",
-  "artist": "阿部真央",
+  "artist": "阿部真央[c_qFAbzd4eU]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=51",
@@ -415,7 +415,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サーカスナイト",
-  "artist": "七尾旅人",
+  "artist": "七尾旅人[c_qFAbzd4eU]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=52",
@@ -423,7 +423,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "今夜はから騒ぎ",
-  "artist": "東京事変",
+  "artist": "東京事変[c_qFAbzd4eU]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=53",
@@ -431,7 +431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "カプチーノ",
-  "artist": "ともさかりえ",
+  "artist": "ともさかりえ[c_qFAbzd4eU]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=54",
@@ -439,7 +439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "月曜日戦争",
-  "artist": "吉澤嘉代子",
+  "artist": "吉澤嘉代子[c_qFAbzd4eU]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=55",
@@ -447,7 +447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "絶望レストラン",
-  "artist": "絶望少女達",
+  "artist": "絶望少女達[c_qFAbzd4eU]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=56",
@@ -455,7 +455,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "風待ちジェット",
-  "artist": "坂本真綾",
+  "artist": "坂本真綾[c_qFAbzd4eU]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=57",
@@ -463,7 +463,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ループ",
-  "artist": "坂本真綾",
+  "artist": "坂本真綾[c_qFAbzd4eU]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=58",
@@ -471,7 +471,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "指輪",
-  "artist": "坂本真綾",
+  "artist": "坂本真綾[c_qFAbzd4eU]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=59",
@@ -479,7 +479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヘミソフィア",
-  "artist": "坂本真綾",
+  "artist": "坂本真綾[c_qFAbzd4eU]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=60",
@@ -487,7 +487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "トライアングラー",
-  "artist": "坂本真綾",
+  "artist": "坂本真綾[c_qFAbzd4eU]",
   "collection": "戸鎖くくり 2026-03-12 c_qFAbzd4eU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G4wxzmEV5?p=61",
@@ -3215,7 +3215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "かたちあるもの",
-  "artist": "柴咲コウ",
+  "artist": "柴咲コウ [ドラマ 世界の中心で、愛をさけぶ]",
   "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=5",
@@ -3223,7 +3223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "月のしずく",
-  "artist": "RUI",
+  "artist": "RUI [映画 黄泉がえり]",
   "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=6",
@@ -3231,7 +3231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "最愛",
-  "artist": "KOH+",
+  "artist": "KOH+ [映画 容疑者Xの献身]",
   "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=7",
@@ -3239,7 +3239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "瞳をとじて",
-  "artist": "平井堅",
+  "artist": "平井堅 [映画 世界の中心で、愛をさけぶ]",
   "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=8",
@@ -3255,7 +3255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ナツノハナ",
-  "artist": "JUJU",
+  "artist": "JUJU [TVアニメ モノノ怪]",
   "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=10",
@@ -3263,7 +3263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "trust you",
-  "artist": "伊藤由奈",
+  "artist": "伊藤由奈 [TVアニメ 機動戦士ガンダム00]",
   "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=11",
@@ -3271,7 +3271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Faith",
-  "artist": "伊藤由奈",
+  "artist": "伊藤由奈 [ドラマ アンフェア]",
   "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=12",
@@ -3279,7 +3279,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "プラネタリウム",
-  "artist": "大塚愛",
+  "artist": "大塚愛 [ドラマ 花より男子]",
   "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=13",
@@ -3295,7 +3295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Pretender",
-  "artist": "Official髭男dism",
+  "artist": "Official髭男dism [映画 コンフィデンスマンJP -ロマンス編-]",
   "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=15",
@@ -3303,7 +3303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Flavor Of Life",
-  "artist": "宇多田ヒカル",
+  "artist": "宇多田ヒカル [ドラマ 花より男子2]",
   "collection": "【💫✖歌切】[2026-06-04]☔六月最初的歌回☔ kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15HEP6JEZd?p=16",
@@ -3359,7 +3359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Good-bye days",
-  "artist": "YUI for 雨音 薫",
+  "artist": "YUI for 雨音 薫 [映画 タイヨウのうた]",
   "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=6",
@@ -3367,7 +3367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "heavenly days",
-  "artist": "新垣結衣",
+  "artist": "新垣結衣 [映画 恋空]",
   "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=7",
@@ -3383,7 +3383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "One more time, One more chance",
-  "artist": "山崎まさよし",
+  "artist": "山崎まさよし [映画 秒速5センチメートル]",
   "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=9",
@@ -3431,7 +3431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青のすみか",
-  "artist": "キタニタツヤ",
+  "artist": "キタニタツヤ [TVアニメ 呪術廻戦 懐玉・玉折]",
   "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=15",
@@ -3439,7 +3439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "KICK BACK",
-  "artist": "米津玄師",
+  "artist": "米津玄師 [TVアニメ チェンソーマン]",
   "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=16",
@@ -3447,7 +3447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "IRIS OUT",
-  "artist": "米津玄師",
+  "artist": "米津玄師 [映画 劇場版「チェンソーマン レゼ篇」]",
   "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=17",
@@ -3455,7 +3455,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青と夏",
-  "artist": "Mrs. GREEN APPLE",
+  "artist": "Mrs. GREEN APPLE [映画 青夏 きみに恋した30日]",
   "collection": "【💫✖歌切】[2026-06-07]开心的星期天歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N4Ea6SE2b?p=18",
@@ -3559,7 +3559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ツキアカリ",
-  "artist": "Rie fu",
+  "artist": "Rie fu [TVアニメ DARKER THAN BLACK -黒の契約者-]",
   "collection": "【💫✖歌切】[2026-06-11]6万人达成了，真的吗？🥹 歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1smE66MEmV?p=13",
@@ -3567,7 +3567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "奈落の花",
-  "artist": "島みやえい子",
+  "artist": "島みやえい子 [TVアニメ ひぐらしのなく頃に解]",
   "collection": "【💫✖歌切】[2026-06-11]6万人达成了，真的吗？🥹 歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1smE66MEmV?p=14",
@@ -3575,7 +3575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "薄ら氷心中",
-  "artist": "林原めぐみ",
+  "artist": "林原めぐみ [TVアニメ 昭和元禄落語心中]",
   "collection": "【💫✖歌切】[2026-06-11]6万人达成了，真的吗？🥹 歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1smE66MEmV?p=15",
@@ -3583,7 +3583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Moon River",
-  "artist": "Audrey Hepburn",
+  "artist": "Audrey Hepburn [映画 ティファニーで朝食を]",
   "collection": "【💫✖歌切】[2026-06-11]6万人达成了，真的吗？🥹 歌回 kukuri ch * 戸鎖 くくり *",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1smE66MEmV?p=16",

@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 8/4/2026, 9:29:12 AM
+// 生成时间: 8/4/2026, 9:39:45 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3975,7 +3975,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "晴る",
-  "artist": "ヨルシカ",
+  "artist": "ヨルシカ [TVアニメ 葬送のフリーレン]",
   "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=1",
@@ -3983,7 +3983,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "革命道中",
-  "artist": "アイナ・ジ・エンド",
+  "artist": "アイナ・ジ・エンド [TVアニメ ダンダダン 第2期]",
   "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=2",
@@ -3991,7 +3991,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "空色デイズ",
-  "artist": "中川翔子",
+  "artist": "中川翔子 [TVアニメ 天元突破グレンラガン]",
   "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=3",
@@ -3999,7 +3999,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青春コンプレックス",
-  "artist": "結束バンド",
+  "artist": "結束バンド [TVアニメ ぼっち・ざ・ろっく！]",
   "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=4",
@@ -4007,7 +4007,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ブルーバード",
-  "artist": "いきものがかり",
+  "artist": "いきものがかり [TVアニメ NARUTO -ナルト- 疾風伝]",
   "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=5",
@@ -4015,7 +4015,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "more than words",
-  "artist": "羊文学",
+  "artist": "羊文学 [TVアニメ 呪術廻戦 渋谷事変]",
   "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=6",
@@ -4023,7 +4023,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "変わらないもの",
-  "artist": "奥華子",
+  "artist": "奥華子 [映画 時をかける少女]",
   "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=7",
@@ -4031,7 +4031,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "悪魔の子",
-  "artist": "ヒグチアイ",
+  "artist": "ヒグチアイ [TVアニメ 進撃の巨人 The Final Season Part 2]",
   "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=8",
@@ -4039,7 +4039,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Cry Baby",
-  "artist": "Official髭男dism",
+  "artist": "Official髭男dism [TVアニメ 東京リベンジャーズ]",
   "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=9",
@@ -4047,7 +4047,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花の塔",
-  "artist": "さユり",
+  "artist": "さユり [TVアニメ リコリス・リコイル]",
   "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=10",
@@ -4055,7 +4055,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夢をかなえてドラえもん",
-  "artist": "mao",
+  "artist": "mao [TVアニメ ドラえもん]",
   "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=11",
@@ -4071,7 +4071,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "風になる",
-  "artist": "つじあやの",
+  "artist": "つじあやの [映画 猫の恩返し]",
   "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=13",
@@ -4079,7 +4079,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青のすみか",
-  "artist": "キタニタツヤ",
+  "artist": "キタニタツヤ [TVアニメ 呪術廻戦 懐玉・玉折]",
   "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=14",
@@ -4087,7 +4087,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ピースサイン",
-  "artist": "米津玄師",
+  "artist": "米津玄師 [TVアニメ 僕のヒーローアカデミア]",
   "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=15",
@@ -4095,7 +4095,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君の知らない物語",
-  "artist": "supercell",
+  "artist": "supercell [TVアニメ 化物語]",
   "collection": "【💐🎸歌切】[2026-06-05]初见大欢迎✨ 用灵魂弹唱各种动漫歌曲～！🔥 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JnEJ6KE2c?p=16",
@@ -4599,7 +4599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "渡月橋 〜君 想ふ〜",
-  "artist": "倉木麻衣",
+  "artist": "倉木麻衣 [映画 名探偵コナン から紅の恋歌]",
   "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CAj56sEjm?p=6",
@@ -4655,7 +4655,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "果てしない二人",
-  "artist": "aiko",
+  "artist": "aiko [映画 もっと超越した所へ。]",
   "collection": "【💐🎸歌切】[2026-06-16]想用原声吉他与歌陪伴你的工作与悠闲时光🌼 | 澄花 / Puroburu -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CAj56sEjm?p=13",
@@ -4759,7 +4759,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "グランドエスケープ",
-  "artist": "RADWIMPS feat. 三浦透子",
+  "artist": "RADWIMPS feat. 三浦透子 [映画 天気の子]",
   "collection": "【💐🎸歌切】[2026-06-20]💐1.5周年💐 | 𓊇第二年过得也太快了吧？感恩之宴～我要弹唱啦～🥳🥳 -sumica-澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13LjJ6XEZp?p=3",

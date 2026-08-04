@@ -1,13 +1,13 @@
 // AZKi - 歌单数据 (多合集汇总)
 // 来源: BV1dE42137AT
-// 生成时间: 8/4/2026, 10:05:10 AM
+// 生成时间: 8/4/2026, 10:14:30 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
     {
   "title": "すずめ",
-  "artist": "RADWIMPS feat. 十明",
+  "artist": "RADWIMPS feat. 十明 [映画『すずめの戸締まり』主題歌]",
   "collection": "AZKi 2023年02月04日22点场 歌うよ！ Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dE42137AT?p=1",
@@ -15,7 +15,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "風を食む",
-  "artist": "ヨルシカ",
+  "artist": "ヨルシカ [2020/11/12リリース and EP《創作》を収録]",
   "collection": "AZKi 2023年02月04日22点场 歌うよ！ Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dE42137AT?p=2",
@@ -23,7 +23,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "だから僕は音楽を辞めた",
-  "artist": "ヨルシカ",
+  "artist": "ヨルシカ [2019/04/05リリース and 1st album《だから僕は音楽を辞めた》を収録]",
   "collection": "AZKi 2023年02月04日22点场 歌うよ！ Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dE42137AT?p=3",
@@ -31,7 +31,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "why, or why not",
-  "artist": "片霧烈火",
+  "artist": "片霧烈火 [アニメ『ひぐらしのなく頃に』ED]",
   "collection": "AZKi 2023年02月04日22点场 歌うよ！ Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dE42137AT?p=4",
@@ -39,7 +39,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "only my railgun",
-  "artist": "fripSide",
+  "artist": "fripSide [アニメ『とある科学の超電磁砲』OP]",
   "collection": "AZKi 2023年02月04日22点场 歌うよ！ Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dE42137AT?p=5",
@@ -47,7 +47,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青空のラプソディ",
-  "artist": "fhána",
+  "artist": "fhána [アニメ『小林さんちのメイドラゴン』OP]",
   "collection": "AZKi 2023年02月04日22点场 歌うよ！ Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dE42137AT?p=6",
@@ -55,7 +55,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "可愛くてごめん",
-  "artist": "HoneyWorks",
+  "artist": "HoneyWorks [2022/11/18リリース]",
   "collection": "AZKi 2023年02月04日22点场 歌うよ！ Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dE42137AT?p=7",
@@ -63,7 +63,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ひとくち、ちょうだい？",
-  "artist": "瀬名航 feat. AZKi",
+  "artist": "瀬名航 feat. AZKi [《恋の宅配便》を収録]",
   "collection": "AZKi 2023年02月04日22点场 歌うよ！ Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dE42137AT?p=8",
@@ -71,7 +71,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "画面の中の君が好き",
-  "artist": "AZKi",
+  "artist": "AZKi [2021/12/12リリース]",
   "collection": "AZKi 2023年02月04日22点场 歌うよ！ Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dE42137AT?p=9",
@@ -255,7 +255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋の宅配便",
-  "artist": "瀬名航 feat. AZKi",
+  "artist": "瀬名航 feat. AZKi [EP《恋の宅配便》を収録]",
   "collection": "AZKi 2023年05月07日22点场 GW最終日！！！歌う！！！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uY1dYZEhw?p=1",
@@ -263,7 +263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "WAO!!",
-  "artist": "博衣こより",
+  "artist": "博衣こより [1st original song 2022/06/16リリース]",
   "collection": "AZKi 2023年05月07日22点场 GW最終日！！！歌う！！！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uY1dYZEhw?p=2",
@@ -271,7 +271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "CLEAR",
-  "artist": "坂本真綾",
+  "artist": "坂本真綾 [アニメ『カードキャプターさくら クリアカード編』OP]",
   "collection": "AZKi 2023年05月07日22点场 GW最終日！！！歌う！！！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uY1dYZEhw?p=3",
@@ -279,7 +279,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "トライアングラー",
-  "artist": "坂本真綾",
+  "artist": "坂本真綾 [アニメ『マクロスF』OP]",
   "collection": "AZKi 2023年05月07日22点场 GW最終日！！！歌う！！！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uY1dYZEhw?p=4",
@@ -287,7 +287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Sing My Pleasure",
-  "artist": "ヴィヴィ（八木海莉）",
+  "artist": "ヴィヴィ（八木海莉） [アニメ『Vivy -Fluorite Eye's Song-』OP]",
   "collection": "AZKi 2023年05月07日22点场 GW最終日！！！歌う！！！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uY1dYZEhw?p=5",
@@ -295,7 +295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "トウキョウ・シャンディ・ランデヴ",
-  "artist": "MAISONdes feat. 花譜, ツミキ",
+  "artist": "MAISONdes feat. 花譜, ツミキ [アニメ『うる星やつら』主題歌]",
   "collection": "AZKi 2023年05月07日22点场 GW最終日！！！歌う！！！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uY1dYZEhw?p=6",
@@ -303,7 +303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アイドル",
-  "artist": "YOASOBI",
+  "artist": "YOASOBI [アニメ『推しの子』OP]",
   "collection": "AZKi 2023年05月07日22点场 GW最終日！！！歌う！！！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uY1dYZEhw?p=7",
@@ -311,7 +311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "大切なお知らせ",
-  "artist": "瀬名航 feat. AZKi",
+  "artist": "瀬名航 feat. AZKi [EP《恋の宅配便》を収録]",
   "collection": "AZKi 2023年05月07日22点场 GW最終日！！！歌う！！！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uY1dYZEhw?p=8",
@@ -327,7 +327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Encore.　アイドル",
-  "artist": "YOASOBI",
+  "artist": "YOASOBI [アニメ『推しの子』OP]",
   "collection": "AZKi 2023年05月07日22点场 GW最終日！！！歌う！！！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uY1dYZEhw?p=10",
@@ -703,7 +703,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "HOT LIMIT",
-  "artist": "T.M.Revolution",
+  "artist": "T.M.Revolution [album『『The Force』を収録]",
   "collection": "AZKi 2023年07月30日16点场 新水着お披露目！SUMMER SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SY1dYoEwu?p=1",
@@ -711,7 +711,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "少女レイ",
-  "artist": "みきとP",
+  "artist": "みきとP [feat. 初音ミク]",
   "collection": "AZKi 2023年07月30日16点场 新水着お披露目！SUMMER SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SY1dYoEwu?p=2",
@@ -719,7 +719,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花に亡霊",
-  "artist": "ヨルシカ",
+  "artist": "ヨルシカ [映画『泣きたい私は猫をかぶる』主題歌]",
   "collection": "AZKi 2023年07月30日16点场 新水着お披露目！SUMMER SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SY1dYoEwu?p=3",
@@ -727,7 +727,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "金魚花火",
-  "artist": "大塚愛",
+  "artist": "大塚愛 [2nd album『LOVE JAM』を収録]",
   "collection": "AZKi 2023年07月30日16点场 新水着お披露目！SUMMER SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SY1dYoEwu?p=4",
@@ -735,7 +735,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "可愛くてごめん",
-  "artist": "HoneyWorks",
+  "artist": "HoneyWorks [2022/12/18 release]",
   "collection": "AZKi 2023年07月30日16点场 新水着お披露目！SUMMER SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SY1dYoEwu?p=5",
@@ -743,7 +743,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "猫ならばいける",
-  "artist": "AZKi",
+  "artist": "AZKi [2020/04/30 release and 2022/02/02 New MV release]",
   "collection": "AZKi 2023年07月30日16点场 新水着お披露目！SUMMER SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SY1dYoEwu?p=6",
@@ -751,7 +751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サインはB",
-  "artist": "B小町",
+  "artist": "B小町 [アニメ『推しの子』劇中歌]",
   "collection": "AZKi 2023年08月30日20点场 メジャーデビューEP告知あり！最近覚えた曲を歌うよ！！！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uY1dYZEGV?p=1",
@@ -759,7 +759,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花の塔",
-  "artist": "さユり",
+  "artist": "さユり [アニメ『リコリス・リコイル』ED]",
   "collection": "AZKi 2023年08月30日20点场 メジャーデビューEP告知あり！最近覚えた曲を歌うよ！！！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uY1dYZEGV?p=2",
@@ -767,7 +767,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ちゅ、多様性。",
-  "artist": "ano",
+  "artist": "ano [アニメ『チェンソーマン』ED・7]",
   "collection": "AZKi 2023年08月30日20点场 メジャーデビューEP告知あり！最近覚えた曲を歌うよ！！！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uY1dYZEGV?p=3",
@@ -775,7 +775,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "トウキョウ・シャンディ・ランデヴ",
-  "artist": "MAISONdes feat. 花譜, ツミキ",
+  "artist": "MAISONdes feat. 花譜, ツミキ [アニメ『うる星やつら』ED]",
   "collection": "AZKi 2023年08月30日20点场 メジャーデビューEP告知あり！最近覚えた曲を歌うよ！！！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uY1dYZEGV?p=4",
@@ -783,7 +783,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "甲賀忍法帖",
-  "artist": "陰陽座",
+  "artist": "陰陽座 [6th Album『臥龍點睛』を収録]",
   "collection": "AZKi 2023年08月30日20点场 メジャーデビューEP告知あり！最近覚えた曲を歌うよ！！！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uY1dYZEGV?p=5",
@@ -791,7 +791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "悪魔の子",
-  "artist": "ヒグチアイ",
+  "artist": "ヒグチアイ [アニメ『進撃の巨人 The Final Season』ED]",
   "collection": "AZKi 2023年08月30日20点场 メジャーデビューEP告知あり！最近覚えた曲を歌うよ！！！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uY1dYZEGV?p=6",
@@ -807,7 +807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "打上花火",
-  "artist": "DAOKO×米津玄師",
+  "artist": "DAOKO×米津玄師 [映画『打ち上げ花火、下から見るか？横から見るか？』主題歌]",
   "collection": "AZKi 2023年08月30日20点场 メジャーデビューEP告知あり！最近覚えた曲を歌うよ！！！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uY1dYZEGV?p=8",
@@ -815,7 +815,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "誇り高きアイドル",
-  "artist": "HoneyWorks feat.Kotoha",
+  "artist": "HoneyWorks feat.Kotoha [Album『告白実行委員会 FLYING SONGS 愛してる』を収録]",
   "collection": "AZKi 2023年08月30日20点场 メジャーデビューEP告知あり！最近覚えた曲を歌うよ！！！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uY1dYZEGV?p=9",
@@ -823,7 +823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "enencore.　secret base～君がくれたもの～",
-  "artist": "ZONE",
+  "artist": "ZONE [昼ドラ『キッズ・ウォー3』主題歌]",
   "collection": "AZKi 2023年08月30日20点场 メジャーデビューEP告知あり！最近覚えた曲を歌うよ！！！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uY1dYZEGV?p=10",
@@ -919,7 +919,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "□Creating world",
-  "artist": "AZKi",
+  "artist": "AZKi [1st]",
   "collection": "AZKi 2023年10月04日19点场 本日、メジャーデビュー！！！プチお披露目あり！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SY1dYoEFT?p=1",
@@ -927,7 +927,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "□リアルメランコリー",
-  "artist": "AZKi",
+  "artist": "AZKi [2nd]",
   "collection": "AZKi 2023年10月04日19点场 本日、メジャーデビュー！！！プチお披露目あり！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SY1dYoEFT?p=2",
@@ -935,7 +935,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "□フェリシア",
-  "artist": "AZKi",
+  "artist": "AZKi [3rd]",
   "collection": "AZKi 2023年10月04日19点场 本日、メジャーデビュー！！！プチお披露目あり！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SY1dYoEFT?p=3",
@@ -943,7 +943,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "□I can't control myself",
-  "artist": "AZKi",
+  "artist": "AZKi [4th]",
   "collection": "AZKi 2023年10月04日19点场 本日、メジャーデビュー！！！プチお披露目あり！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SY1dYoEFT?p=4",
@@ -951,7 +951,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "micひかりのまち",
-  "artist": "AZKi",
+  "artist": "AZKi [5th]",
   "collection": "AZKi 2023年10月04日19点场 本日、メジャーデビュー！！！プチお披露目あり！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SY1dYoEFT?p=5",
@@ -959,7 +959,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "FFFFake.Fake.Fake",
-  "artist": "AZKi",
+  "artist": "AZKi [7th]",
   "collection": "AZKi 2023年10月04日19点场 本日、メジャーデビュー！！！プチお披露目あり！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SY1dYoEFT?p=6",
@@ -967,7 +967,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "inochiいのち",
-  "artist": "AZKi",
+  "artist": "AZKi [8th]",
   "collection": "AZKi 2023年10月04日19点场 本日、メジャーデビュー！！！プチお披露目あり！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SY1dYoEFT?p=7",
@@ -975,7 +975,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "🗺エンドロールは終わらない",
-  "artist": "AZKi",
+  "artist": "AZKi [メジャーデビューEP『3枚目の地図』を収録]",
   "collection": "AZKi 2023年10月04日19点场 本日、メジャーデビュー！！！プチお披露目あり！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SY1dYoEFT?p=8",
@@ -1903,7 +1903,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "レッツゴー！陰陽師",
-  "artist": "矢部野彦麿&琴姫With坊主ダンサーズ",
+  "artist": "矢部野彦麿&琴姫With坊主ダンサーズ [ゲーム 新・豪血寺一族 -煩悩解放-]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=11",
@@ -1911,7 +1911,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "創聖のアクエリオン",
-  "artist": "AKINO from bless4",
+  "artist": "AKINO from bless4 [TVアニメ 創聖のアクエリオン]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=12",
@@ -1919,7 +1919,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ガチャガチャきゅ～と・ふぃぎゅ＠メイト",
-  "artist": "MOSAIC.WAV",
+  "artist": "MOSAIC.WAV [ゲーム ふぃぎゅ＠メイト]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=13",
@@ -1927,7 +1927,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ラブリー☆えんじぇる！！",
-  "artist": "ave;new feat.あべにゅうぷろじぇくと",
+  "artist": "ave;new feat.あべにゅうぷろじぇくと [パチスロ 快盗天使ツインエンジェル]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=14",
@@ -1935,7 +1935,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "もってけ！セーラーふく",
-  "artist": "泉こなた(平野綾)、柊かがみ(加藤英美里)、柊つかさ(福原香織)、高良みゆき(遠藤綾)",
+  "artist": "泉こなた(平野綾)、柊かがみ(加藤英美里)、柊つかさ(福原香織)、高良みゆき(遠藤綾) [TVアニメ らき☆すた]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=15",
@@ -1943,7 +1943,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハレ晴レユカイ",
-  "artist": "平野綾、茅原実里、後藤邑子",
+  "artist": "平野綾、茅原実里、後藤邑子 [TVアニメ 涼宮ハルヒの憂鬱]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=16",
@@ -1951,7 +1951,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "雪、無音、窓辺にて。",
-  "artist": "長門有希(茅原実里)",
+  "artist": "長門有希(茅原実里) [TVアニメ 涼宮ハルヒの憂鬱]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=17",
@@ -1959,7 +1959,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Shangri-La",
-  "artist": "angela",
+  "artist": "angela [TVアニメ 蒼穹のファフナー]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=18",
@@ -1967,7 +1967,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハム太郎とっとこうた",
-  "artist": "ハムちゃんず",
+  "artist": "ハムちゃんず [TVアニメ とっとこハム太郎]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=19",
@@ -2007,7 +2007,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ラムのラブソング",
-  "artist": "松谷祐子",
+  "artist": "松谷祐子 [TVアニメ うる星やつら]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=24",
@@ -2015,7 +2015,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "やさしさに包まれたなら",
-  "artist": "荒井由実",
+  "artist": "荒井由実 [映画 魔女の宅急便]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=25",
@@ -2023,7 +2023,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君をのせて",
-  "artist": "井上あずみ",
+  "artist": "井上あずみ [映画 天空の城ラピュタ]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=26",
@@ -2055,7 +2055,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "月のしずく",
-  "artist": "RUI",
+  "artist": "RUI [映画 黄泉がえり]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=30",
@@ -2063,7 +2063,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "月のワルツ",
-  "artist": "諫山実生",
+  "artist": "諫山実生 [NHK みんなのうた]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=31",
@@ -2071,7 +2071,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いのちの名前",
-  "artist": "木村弓",
+  "artist": "木村弓 [映画 千と千尋の神隠し]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=32",
@@ -2079,7 +2079,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Good-bye days",
-  "artist": "YUI for 雨音薫",
+  "artist": "YUI for 雨音薫 [映画 タイヨウのうた]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=33",
@@ -2087,7 +2087,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "スパークル",
-  "artist": "RADWIMPS",
+  "artist": "RADWIMPS [映画 君の名は。]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=34",
@@ -2095,7 +2095,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Sincerely",
-  "artist": "TRUE",
+  "artist": "TRUE [TVアニメ ヴァイオレット・エヴァーガーデン]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=35",
@@ -2103,7 +2103,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "海の幽霊",
-  "artist": "米津玄師",
+  "artist": "米津玄師 [映画 海獣の子供]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=36",
@@ -2111,7 +2111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Subtitle",
-  "artist": "Official髭男dism",
+  "artist": "Official髭男dism [ドラマ silent]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=37",
@@ -2119,7 +2119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ダイアモンドクレバス",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [TVアニメ マクロスF]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=38",
@@ -2127,7 +2127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "うたかた花火",
-  "artist": "supercell",
+  "artist": "supercell [TVアニメ NARUTO -ナルト- 疾風伝]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=39",
@@ -2135,7 +2135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花に亡霊",
-  "artist": "ヨルシカ",
+  "artist": "ヨルシカ [映画 泣きたい私は猫をかぶる]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=40",
@@ -2143,7 +2143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "残響散歌",
-  "artist": "Aimer",
+  "artist": "Aimer [TVアニメ 鬼滅の刃 遊郭編]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=41",
@@ -2151,7 +2151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "残酷な天使のテーゼ",
-  "artist": "高橋洋子",
+  "artist": "高橋洋子 [TVアニメ 新世紀エヴァンゲリオン]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=42",
@@ -2159,7 +2159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "魂のルフラン",
-  "artist": "高橋洋子",
+  "artist": "高橋洋子 [映画 新世紀エヴァンゲリオン劇場版 シト新生]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=43",
@@ -2167,7 +2167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "only my railgun",
-  "artist": "fripSide",
+  "artist": "fripSide [TVアニメ とある科学の超電磁砲]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=44",
@@ -2175,7 +2175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青空のラプソディ",
-  "artist": "fhána",
+  "artist": "fhána [TVアニメ 小林さんちのメイドラゴン]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=45",
@@ -2183,7 +2183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "adrenaline!!",
-  "artist": "TrySail",
+  "artist": "TrySail [TVアニメ エロマンガ先生]",
   "collection": "AZKi 2024年04月27日16点场 負けない！！！！！！！！！！1M SUBS ENDURANCE SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xx1dYaEnj?p=46",
@@ -2583,7 +2583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エアーマンが倒せない",
-  "artist": "Team.ねこかん",
+  "artist": "Team.ねこかん[猫]",
   "collection": "AZKi 2024年08月30日22点场 ホロなつビンゴ歌枠！歌って全部ビンゴする！！！！！Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1do19YYEoh?p=2",
@@ -2855,7 +2855,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エルの楽園 ［→ side：E →］",
-  "artist": "Sound Horizon",
+  "artist": "Sound Horizon [Elysion ～楽園幻想物語組曲～]",
   "collection": "AZKi 2024年12月26日22点场 サンホラ縛り歌枠 ～Sound Horizon / Elysion 〜楽園幻想物語組曲〜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17d19YNEu1?p=1",
@@ -2863,7 +2863,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Ark",
-  "artist": "Sound Horizon",
+  "artist": "Sound Horizon [Elysion ～楽園幻想物語組曲～]",
   "collection": "AZKi 2024年12月26日22点场 サンホラ縛り歌枠 ～Sound Horizon / Elysion 〜楽園幻想物語組曲〜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17d19YNEu1?p=2",
@@ -2871,7 +2871,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エルの絵本 【魔女とラフレンツェ】",
-  "artist": "Sound Horizon",
+  "artist": "Sound Horizon [Elysion ～楽園幻想物語組曲～]",
   "collection": "AZKi 2024年12月26日22点场 サンホラ縛り歌枠 ～Sound Horizon / Elysion 〜楽園幻想物語組曲〜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17d19YNEu1?p=3",
@@ -2879,7 +2879,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Baroque",
-  "artist": "Sound Horizon",
+  "artist": "Sound Horizon [Elysion ～楽園幻想物語組曲～]",
   "collection": "AZKi 2024年12月26日22点场 サンホラ縛り歌枠 ～Sound Horizon / Elysion 〜楽園幻想物語組曲〜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17d19YNEu1?p=4",
@@ -2887,7 +2887,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エルの肖像",
-  "artist": "Sound Horizon",
+  "artist": "Sound Horizon [Elysion ～楽園幻想物語組曲～]",
   "collection": "AZKi 2024年12月26日22点场 サンホラ縛り歌枠 ～Sound Horizon / Elysion 〜楽園幻想物語組曲〜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17d19YNEu1?p=5",
@@ -2895,7 +2895,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Yield",
-  "artist": "Sound Horizon",
+  "artist": "Sound Horizon [Elysion ～楽園幻想物語組曲～]",
   "collection": "AZKi 2024年12月26日22点场 サンホラ縛り歌枠 ～Sound Horizon / Elysion 〜楽園幻想物語組曲〜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17d19YNEu1?p=6",
@@ -2903,7 +2903,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エルの天秤",
-  "artist": "Sound Horizon",
+  "artist": "Sound Horizon [Elysion ～楽園幻想物語組曲～]",
   "collection": "AZKi 2024年12月26日22点场 サンホラ縛り歌枠 ～Sound Horizon / Elysion 〜楽園幻想物語組曲〜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17d19YNEu1?p=7",
@@ -2911,7 +2911,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Sacrifice",
-  "artist": "Sound Horizon",
+  "artist": "Sound Horizon [Elysion ～楽園幻想物語組曲～]",
   "collection": "AZKi 2024年12月26日22点场 サンホラ縛り歌枠 ～Sound Horizon / Elysion 〜楽園幻想物語組曲〜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17d19YNEu1?p=8",
@@ -2919,7 +2919,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エルの絵本 【笛吹き男とパレード】",
-  "artist": "Sound Horizon",
+  "artist": "Sound Horizon [Elysion ～楽園幻想物語組曲～]",
   "collection": "AZKi 2024年12月26日22点场 サンホラ縛り歌枠 ～Sound Horizon / Elysion 〜楽園幻想物語組曲〜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17d19YNEu1?p=9",
@@ -2927,7 +2927,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "StarDust",
-  "artist": "Sound Horizon",
+  "artist": "Sound Horizon [Elysion ～楽園幻想物語組曲～]",
   "collection": "AZKi 2024年12月26日22点场 サンホラ縛り歌枠 ～Sound Horizon / Elysion 〜楽園幻想物語組曲〜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17d19YNEu1?p=10",
@@ -2935,7 +2935,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エルの楽園 ［→ side：A →］",
-  "artist": "Sound Horizon",
+  "artist": "Sound Horizon [Elysion ～楽園幻想物語組曲～]",
   "collection": "AZKi 2024年12月26日22点场 サンホラ縛り歌枠 ～Sound Horizon / Elysion 〜楽園幻想物語組曲〜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17d19YNEu1?p=11",
@@ -2943,7 +2943,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "隠しトラック",
-  "artist": "Sound Horizon",
+  "artist": "Sound Horizon [Elysion ～楽園幻想物語組曲～]",
   "collection": "AZKi 2024年12月26日22点场 サンホラ縛り歌枠 ～Sound Horizon / Elysion 〜楽園幻想物語組曲〜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17d19YNEu1?p=12",
@@ -3479,7 +3479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "宇宙のかけら",
-  "artist": "ワルキューレ",
+  "artist": "ワルキューレ [劇場版マクロスΔ 絶対LIVE!!!!!!]",
   "collection": "AZKi 2025年05月26日22点场 しっとり歌うよ / Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16m19YzEvE?p=6",
@@ -3487,7 +3487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Avid",
-  "artist": "SawanoHiroyuki[nZk]:mizuki",
+  "artist": "SawanoHiroyuki[nZk]:mizuki [TVアニメ 86-エイティシックス-]",
   "collection": "AZKi 2025年05月26日22点场 しっとり歌うよ / Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16m19YzEvE?p=7",
@@ -3495,7 +3495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "すずめ feat. 十明",
-  "artist": "RADWIMPS feat.十明",
+  "artist": "RADWIMPS feat.十明 [映画 すずめの戸締まり]",
   "collection": "AZKi 2025年05月26日22点场 しっとり歌うよ / Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16m19YzEvE?p=8",
@@ -3503,7 +3503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Departures ～あなたにおくるアイの歌～",
-  "artist": "EGOIST",
+  "artist": "EGOIST [TVアニメ ギルティクラウン]",
   "collection": "AZKi 2025年05月26日22点场 しっとり歌うよ / Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16m19YzEvE?p=9",
@@ -3511,7 +3511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヒメムラサキ",
-  "artist": "水樹奈々",
+  "artist": "水樹奈々 [TVアニメ バジリスク 〜甲賀忍法帖〜]",
   "collection": "AZKi 2025年05月26日22点场 しっとり歌うよ / Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16m19YzEvE?p=10",
@@ -3519,7 +3519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "童話迷宮",
-  "artist": "田村ゆかり",
+  "artist": "田村ゆかり [TVアニメ おとぎ銃士 赤ずきん]",
   "collection": "AZKi 2025年06月14日18点场 1,234,567人目指して歌う！！！！！ SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm19Y6EAd?p=1",
@@ -3527,7 +3527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Fantastic future",
-  "artist": "田村ゆかり",
+  "artist": "田村ゆかり [TVアニメ 変態王子と笑わない猫。]",
   "collection": "AZKi 2025年06月14日18点场 1,234,567人目指して歌う！！！！！ SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm19Y6EAd?p=2",
@@ -3543,7 +3543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "スクランブル",
-  "artist": "堀江由衣 with UNSCANDAL",
+  "artist": "堀江由衣 with UNSCANDAL [TVアニメ スクールランブル]",
   "collection": "AZKi 2025年06月14日18点场 1,234,567人目指して歌う！！！！！ SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm19Y6EAd?p=4",
@@ -3551,7 +3551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "インモラリスト",
-  "artist": "堀江由衣",
+  "artist": "堀江由衣 [TVアニメ ドラゴンクライシス!]",
   "collection": "AZKi 2025年06月14日18点场 1,234,567人目指して歌う！！！！！ SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm19Y6EAd?p=5",
@@ -3559,7 +3559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Trust in you",
-  "artist": "sweet ARMS",
+  "artist": "sweet ARMS [TVアニメ デート・ア・ライブII]",
   "collection": "AZKi 2025年06月14日18点场 1,234,567人目指して歌う！！！！！ SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm19Y6EAd?p=6",
@@ -3567,7 +3567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "I swear",
-  "artist": "sweet ARMS",
+  "artist": "sweet ARMS [TVアニメ デート・ア・ライブIII]",
   "collection": "AZKi 2025年06月14日18点场 1,234,567人目指して歌う！！！！！ SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm19Y6EAd?p=7",
@@ -3575,7 +3575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "PHANTOM MINDS",
-  "artist": "水樹奈々",
+  "artist": "水樹奈々 [映画 魔法少女リリカルなのは The MOVIE 1st]",
   "collection": "AZKi 2025年06月14日18点场 1,234,567人目指して歌う！！！！！ SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm19Y6EAd?p=8",
@@ -3583,7 +3583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "innocent starter",
-  "artist": "水樹奈々",
+  "artist": "水樹奈々 [TVアニメ 魔法少女リリカルなのは]",
   "collection": "AZKi 2025年06月14日18点场 1,234,567人目指して歌う！！！！！ SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm19Y6EAd?p=9",
@@ -3591,7 +3591,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "CLEAR",
-  "artist": "坂本真綾",
+  "artist": "坂本真綾 [TVアニメ カードキャプターさくら クリアカード編]",
   "collection": "AZKi 2025年06月14日18点场 1,234,567人目指して歌う！！！！！ SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm19Y6EAd?p=10",
@@ -3599,7 +3599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "トライアングラー",
-  "artist": "坂本真綾",
+  "artist": "坂本真綾 [TVアニメ マクロスF]",
   "collection": "AZKi 2025年06月14日18点场 1,234,567人目指して歌う！！！！！ SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm19Y6EAd?p=11",
@@ -3607,7 +3607,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "射手座☆午後九時Don't be late",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [TVアニメ マクロスF]",
   "collection": "AZKi 2025年06月14日18点场 1,234,567人目指して歌う！！！！！ SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm19Y6EAd?p=12",
@@ -3615,7 +3615,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いけないボーダーライン",
-  "artist": "ワルキューレ",
+  "artist": "ワルキューレ [TVアニメ マクロスΔ]",
   "collection": "AZKi 2025年06月14日18点场 1,234,567人目指して歌う！！！！！ SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm19Y6EAd?p=13",
@@ -3623,7 +3623,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Absolute 5",
-  "artist": "ワルキューレ",
+  "artist": "ワルキューレ [マクロスΔ]",
   "collection": "AZKi 2025年06月14日18点场 1,234,567人目指して歌う！！！！！ SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm19Y6EAd?p=14",
@@ -3631,7 +3631,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "GIRAFFE BLUES",
-  "artist": "ワルキューレ",
+  "artist": "ワルキューレ [TVアニメ マクロスΔ]",
   "collection": "AZKi 2025年06月14日18点场 1,234,567人目指して歌う！！！！！ SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm19Y6EAd?p=15",
@@ -3639,7 +3639,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "AXIA ～ダイスキでダイキライ～",
-  "artist": "ワルキューレ",
+  "artist": "ワルキューレ [TVアニメ マクロスΔ]",
   "collection": "AZKi 2025年06月14日18点场 1,234,567人目指して歌う！！！！！ SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm19Y6EAd?p=16",
@@ -3655,7 +3655,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "名前のない怪物",
-  "artist": "EGOIST",
+  "artist": "EGOIST [TVアニメ PSYCHO-PASS サイコパス]",
   "collection": "AZKi 2025年06月14日18点场 1,234,567人目指して歌う！！！！！ SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm19Y6EAd?p=18",
@@ -3663,7 +3663,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青空のラプソディ",
-  "artist": "fhána",
+  "artist": "fhána [TVアニメ 小林さんちのメイドラゴン]",
   "collection": "AZKi 2025年06月14日18点场 1,234,567人目指して歌う！！！！！ SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm19Y6EAd?p=19",
@@ -3671,7 +3671,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "adrenaline!!!",
-  "artist": "TrySail",
+  "artist": "TrySail [TVアニメ エロマンガ先生]",
   "collection": "AZKi 2025年06月14日18点场 1,234,567人目指して歌う！！！！！ SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm19Y6EAd?p=20",
@@ -3679,7 +3679,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アイドル",
-  "artist": "YOASOBI",
+  "artist": "YOASOBI [TVアニメ 【推しの子】]",
   "collection": "AZKi 2025年06月14日18点场 1,234,567人目指して歌う！！！！！ SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm19Y6EAd?p=21",
@@ -3687,7 +3687,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ファンサ",
-  "artist": "mona(CV:夏川椎菜)",
+  "artist": "mona(CV:夏川椎菜) [HoneyWorks]",
   "collection": "AZKi 2025年06月14日18点场 1,234,567人目指して歌う！！！！！ SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm19Y6EAd?p=22",
@@ -3695,7 +3695,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "誇り高きアイドル",
-  "artist": "mona(CV:夏川椎菜)",
+  "artist": "mona(CV:夏川椎菜) [HoneyWorks]",
   "collection": "AZKi 2025年06月14日18点场 1,234,567人目指して歌う！！！！！ SINGING STREAM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cm19Y6EAd?p=23",
@@ -5007,7 +5007,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "怪獣",
-  "artist": "サカナクション",
+  "artist": "サカナクション [TVアニメ チ。 ―地球の運動について―]",
   "collection": "AZKi 2026年04月13日22点场 月曜の夜にしっとり歌います🌙ピアノ歌枠 Piano Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hh1dYFE49?p=3",
@@ -5015,7 +5015,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "なんでもないや",
-  "artist": "RADWIMPS",
+  "artist": "RADWIMPS [映画 君の名は。]",
   "collection": "AZKi 2026年04月13日22点场 月曜の夜にしっとり歌います🌙ピアノ歌枠 Piano Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hh1dYFE49?p=4",
@@ -5055,7 +5055,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "斜陽",
-  "artist": "ヨルシカ",
+  "artist": "ヨルシカ [TVアニメ 僕の心のヤバイやつ]",
   "collection": "AZKi 2026年04月13日22点场 月曜の夜にしっとり歌います🌙ピアノ歌枠 Piano Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hh1dYFE49?p=9",

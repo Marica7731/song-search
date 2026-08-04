@@ -1,6 +1,6 @@
 // 透夏 - 歌单数据 (多合集汇总)
 // 来源: BV1CbVk68ESd
-// 生成时间: 8/4/2026, 10:06:25 AM
+// 生成时间: 8/4/2026, 10:15:48 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -703,7 +703,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "God knows...",
-  "artist": "涼宮ハルヒ(CV.平野綾)",
+  "artist": "涼宮ハルヒ(CV.平野綾) [TVアニメ 涼宮ハルヒの憂鬱]",
   "collection": "歌切【透夏】[2026-06-10]6月广播节目🎐",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XHEo6FEBi?p=4",

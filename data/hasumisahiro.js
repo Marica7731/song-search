@@ -1,13 +1,13 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 8/4/2026, 9:44:36 AM
+// 生成时间: 8/4/2026, 9:55:22 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
     {
   "title": "星丘公園",
-  "artist": "Hump Back",
+  "artist": "Hump Back[ZZs2ShBoKRg]",
   "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=1",
@@ -15,7 +15,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "FAST PASS",
-  "artist": "アンジュルム",
+  "artist": "アンジュルム[ZZs2ShBoKRg]",
   "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=2",
@@ -31,7 +31,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ツキアカリのミチシルベ",
-  "artist": "ステレオポニー",
+  "artist": "ステレオポニー[ZZs2ShBoKRg]",
   "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=4",
@@ -39,7 +39,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "春の歌",
-  "artist": "スピッツ",
+  "artist": "スピッツ[ZZs2ShBoKRg]",
   "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=5",
@@ -47,7 +47,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君の知らない物語",
-  "artist": "supercell",
+  "artist": "supercell[ZZs2ShBoKRg]",
   "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=6",
@@ -55,7 +55,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "涙のふるさと",
-  "artist": "BUMP OF CHICKEN",
+  "artist": "BUMP OF CHICKEN[ZZs2ShBoKRg]",
   "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=7",
@@ -63,7 +63,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君をのせて",
-  "artist": "井上あずみ",
+  "artist": "井上あずみ[ZZs2ShBoKRg]",
   "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=8",
@@ -71,7 +71,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ジョバイロ",
-  "artist": "ポルノグラフィティ",
+  "artist": "ポルノグラフィティ[ZZs2ShBoKRg]",
   "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=9",
@@ -79,7 +79,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "おどるポンポコリン",
-  "artist": "B.B.クィーンズ",
+  "artist": "B.B.クィーンズ[ZZs2ShBoKRg]",
   "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=10",
@@ -87,7 +87,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サウダージ",
-  "artist": "ポルノグラフィティ",
+  "artist": "ポルノグラフィティ[ZZs2ShBoKRg]",
   "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=11",
@@ -95,7 +95,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "しおり",
-  "artist": "Aqua Timez",
+  "artist": "Aqua Timez[ZZs2ShBoKRg]",
   "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=12",
@@ -103,7 +103,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "さよならメモリーズ",
-  "artist": "supercell",
+  "artist": "supercell[ZZs2ShBoKRg]",
   "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=13",
@@ -111,7 +111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "LIFE",
-  "artist": "YUI",
+  "artist": "YUI[ZZs2ShBoKRg]",
   "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=14",
@@ -119,7 +119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ルル",
-  "artist": "やくしまるえつこ",
+  "artist": "やくしまるえつこ[ZZs2ShBoKRg]",
   "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=15",
@@ -127,7 +127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Os-宇宙人",
-  "artist": "エリオをかまってちゃん",
+  "artist": "エリオをかまってちゃん[ZZs2ShBoKRg]",
   "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=16",
@@ -135,7 +135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "HELLO ～Paradise Kiss～",
-  "artist": "YUI",
+  "artist": "YUI[ZZs2ShBoKRg]",
   "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=17",
@@ -143,7 +143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ケルベロス",
-  "artist": "相対性理論",
+  "artist": "相対性理論[ZZs2ShBoKRg]",
   "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=18",
@@ -151,7 +151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "約束をしよう",
-  "artist": "supercell",
+  "artist": "supercell[ZZs2ShBoKRg]",
   "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=19",
@@ -159,7 +159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ラブソングに襲われる",
-  "artist": "＝LOVE",
+  "artist": "＝LOVE[ZZs2ShBoKRg]",
   "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=20",
@@ -167,7 +167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛のうた",
-  "artist": "ストロベリー・フラワー",
+  "artist": "ストロベリー・フラワー[ZZs2ShBoKRg]",
   "collection": "羽澄さひろ 2026-03-04 歌练习 ZZs2ShBoKRg",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tKcZztEw5?p=21",
@@ -951,7 +951,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "秒針を噛む",
-  "artist": "ずっと真夜中でいいのに。",
+  "artist": "ずっと真夜中でいいのに。[key-4]",
   "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=5",
@@ -959,7 +959,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "秒針を噛む",
-  "artist": "ずっと真夜中でいいのに。",
+  "artist": "ずっと真夜中でいいのに。[key-2]",
   "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=6",
@@ -967,7 +967,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "寄り酔い",
-  "artist": "和ぬか",
+  "artist": "和ぬか[key+6]",
   "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=7",
@@ -1047,7 +1047,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "明日もし君が壊れても",
-  "artist": "WANDS",
+  "artist": "WANDS[key+2]",
   "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=17",
@@ -1055,7 +1055,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "渇いた叫び",
-  "artist": "FIELD OF VIEW",
+  "artist": "FIELD OF VIEW[key+4]",
   "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=18",
@@ -1063,7 +1063,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "全力少年",
-  "artist": "スキマスイッチ",
+  "artist": "スキマスイッチ[key+5]",
   "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=19",
@@ -1071,7 +1071,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ガラナ",
-  "artist": "スキマスイッチ",
+  "artist": "スキマスイッチ[key+2]",
   "collection": "歌切 2026-05-04 羽澄さひろ / Hasumi Sahiro Bnxyh2Hb5ms 极其罕见的傍晚歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jPRJB9Efa?p=20",
@@ -1471,7 +1471,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君に届け",
-  "artist": "flumpool",
+  "artist": "flumpool [映画 君に届け]",
   "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=1",
@@ -1479,7 +1479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "遥か",
-  "artist": "GReeeeN",
+  "artist": "GReeeeN [映画 ROOKIES -卒業-]",
   "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=2",
@@ -1487,7 +1487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Beautiful World",
-  "artist": "宇多田ヒカル",
+  "artist": "宇多田ヒカル [映画 ヱヴァンゲリヲン新劇場版:序]",
   "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=3",
@@ -1495,7 +1495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "魂のルフラン",
-  "artist": "高橋洋子",
+  "artist": "高橋洋子 [映画 新世紀エヴァンゲリオン劇場版 シト新生]",
   "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=4",
@@ -1503,7 +1503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いのちの名前",
-  "artist": "木村弓",
+  "artist": "木村弓 [映画 千と千尋の神隠し]",
   "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=5",
@@ -1511,7 +1511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "崖の上のポニョ",
-  "artist": "藤岡藤巻と大橋のぞみ",
+  "artist": "藤岡藤巻と大橋のぞみ [映画 崖の上のポニョ]",
   "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=6",
@@ -1519,7 +1519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Rain",
-  "artist": "秦基博",
+  "artist": "秦基博 [映画 言の葉の庭]",
   "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=7",
@@ -1527,7 +1527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "KissHug",
-  "artist": "aiko",
+  "artist": "aiko [映画 花より男子F]",
   "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=8",
@@ -1535,7 +1535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Catch You Catch Me",
-  "artist": "グミ",
+  "artist": "グミ [TVアニメ カードキャプターさくら]",
   "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=9",
@@ -1543,7 +1543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "プラチナ",
-  "artist": "坂本真綾",
+  "artist": "坂本真綾 [TVアニメ カードキャプターさくら]",
   "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=10",
@@ -1551,7 +1551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ふわふわ時間",
-  "artist": "桜高軽音部",
+  "artist": "桜高軽音部 [TVアニメ けいおん！]",
   "collection": "【歌切】[2026-06-13]开播五周年，当然要用歌回来庆祝一下 羽澄さひろ / Hasumi Sahiro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1x3JE6jEHV?p=11",

@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 8/4/2026, 9:02:06 AM
+// 生成时间: 8/4/2026, 9:12:24 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2487,7 +2487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シュガーソングとビターステップ",
-  "artist": "UNISON SQUARE GARDEN",
+  "artist": "UNISON SQUARE GARDEN[Short Ver.]",
   "collection": "【240501】Figaro】#10周三定期歌枠 ヒビカセ - Reol",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vt421c7jC?p=13",
@@ -4767,7 +4767,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "G4L",
-  "artist": "Giga",
+  "artist": "Giga [Artiswitch]",
   "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=5",
@@ -4807,7 +4807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青のすみか",
-  "artist": "キタニタツヤ",
+  "artist": "キタニタツヤ [TVアニメ 呪術廻戦 懐玉・玉折]",
   "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=10",
@@ -4823,7 +4823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "鏡面の波",
-  "artist": "YURiKA",
+  "artist": "YURiKA [TVアニメ 宝石の国]",
   "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=12",
@@ -4847,7 +4847,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ロウワー",
-  "artist": "ぬゆり feat.flower",
+  "artist": "ぬゆり feat.flower [プロジェクトセカイ カラフルステージ！]",
   "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=15",
@@ -4863,7 +4863,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "砂糖玉の月",
-  "artist": "やなぎなぎ",
+  "artist": "やなぎなぎ [TVアニメ キノの旅 -the Beautiful World- the Animated Series]",
   "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=17",
@@ -11782,7 +11782,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "APT.",
+  "title": "15.APT.",
   "artist": "ROSÉ & Bruno Mars",
   "collection": "【Figaro 】寒い日に暖かくして聴く歌回  14 250111",
   "up": "前尘往事如昔故",
@@ -13623,7 +13623,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Avid",
-  "artist": "SawanoHiroyuki",
+  "artist": "SawanoHiroyuki[nZk]",
   "collection": "【Figaro 】唱很多动漫歌曲吧！#karaoke  #VSinge",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mS9mYpEYL?p=14",
@@ -15527,7 +15527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "U",
-  "artist": "millennium parade × Belle",
+  "artist": "millennium parade × Belle [映画 竜とそばかすの姫]",
   "collection": "Figaro 竖屏 2025年5月8日 放課後にぴったりの1曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q879zVE2m?p=1",
@@ -15543,7 +15543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "悪魔の子",
-  "artist": "ヒグチアイ",
+  "artist": "ヒグチアイ [TVアニメ 進撃の巨人 The Final Season Part 2]",
   "collection": "Figaro 竖屏 2025年5月8日 放課後にぴったりの1曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q879zVE2m?p=3",
@@ -15559,7 +15559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ANIMA",
-  "artist": "ReoNa",
+  "artist": "ReoNa [TVアニメ ソードアート・オンライン アリシゼーション War of Underworld]",
   "collection": "Figaro 竖屏 2025年5月8日 放課後にぴったりの1曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q879zVE2m?p=5",
@@ -15567,7 +15567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Catch the Moment",
-  "artist": "LiSA",
+  "artist": "LiSA [映画 ソードアート・オンライン -オーディナル・スケール-]",
   "collection": "Figaro 竖屏 2025年5月8日 放課後にぴったりの1曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q879zVE2m?p=6",
@@ -15583,7 +15583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "感電",
-  "artist": "米津玄師",
+  "artist": "米津玄師 [ドラマ MIU404]",
   "collection": "Figaro 竖屏 2025年5月8日 放課後にぴったりの1曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q879zVE2m?p=8",
@@ -15599,7 +15599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ライラック",
-  "artist": "Mrs. GREEN APPLE",
+  "artist": "Mrs. GREEN APPLE [TVアニメ 忘却バッテリー]",
   "collection": "Figaro 竖屏 2025年5月8日 放課後にぴったりの1曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q879zVE2m?p=10",
@@ -15631,7 +15631,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アイワナムチュー",
-  "artist": "MAISONdes feat.asmi, すりぃ",
+  "artist": "MAISONdes feat.asmi, すりぃ [TVアニメ うる星やつら]",
   "collection": "Figaro 竖屏 2025年5月8日 放課後にぴったりの1曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q879zVE2m?p=14",
@@ -15647,7 +15647,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ファタール",
-  "artist": "GEMN",
+  "artist": "GEMN [TVアニメ 【推しの子】]",
   "collection": "Figaro 竖屏 2025年5月8日 放課後にぴったりの1曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q879zVE2m?p=16",
@@ -15663,7 +15663,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シネマ",
-  "artist": "Ayase feat.初音ミク",
+  "artist": "Ayase feat.初音ミク [プロジェクトセカイ カラフルステージ！]",
   "collection": "Figaro 竖屏 2025年5月8日 放課後にぴったりの1曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q879zVE2m?p=18",
@@ -19102,7 +19102,7 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "愛の花",
+  "title": "03.愛の花",
   "artist": "あいみょん",
   "collection": "Figaro 8月20日 歌切 01. 茜さす",
   "up": "前尘往事如昔故",
@@ -21535,7 +21535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Call of Silence",
-  "artist": "SawanoHiroyuki",
+  "artist": "SawanoHiroyuki[nZk]",
   "collection": "【歌切】 #242 冬日的脚步与温柔的歌声🌙 冬の足音と穏やかなお歌 Singing Stream【 Figaro Vtuber 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aZ1tBjEU8?p=6",
@@ -22879,7 +22879,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Call of Silence",
-  "artist": "SawanoHiroyuki",
+  "artist": "SawanoHiroyuki[nZk]",
   "collection": "【Figaro】🎧#248 寝落ち推奨 歌枠 日曜日24時｜月曜日への最高の睡眠導入BGM🎧 優しい歌声で眠りへ【Vsinger Figaro】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kBm6BvEhS?p=11",
@@ -23271,7 +23271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "gravityWall",
-  "artist": "SawanoHiroyuki",
+  "artist": "SawanoHiroyuki[nZk]",
   "collection": "【Figaro】華の金曜日と楽しのアニソンの時間！2025年12月19日 【初見さん歓迎 / Vsinger Figaro】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tNqrBDEPP?p=8",
@@ -30703,7 +30703,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "甲賀忍法帖",
-  "artist": "陰陽座",
+  "artist": "陰陽座 [TVアニメ バジリスク 〜甲賀忍法帖〜]",
   "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=6",
@@ -30711,7 +30711,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "名前のない怪物",
-  "artist": "EGOIST",
+  "artist": "EGOIST [TVアニメ PSYCHO-PASS サイコパス]",
   "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=7",
@@ -30719,7 +30719,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エイミー",
-  "artist": "ヨルシカ",
+  "artist": "ヨルシカ [映画 ヴァイオレット・エヴァーガーデン 外伝 -永遠と自動手記人形-]",
   "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=8",
@@ -30775,7 +30775,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "創聖のアクエリオン",
-  "artist": "AKINO from bless4",
+  "artist": "AKINO from bless4 [TVアニメ 創聖のアクエリオン]",
   "collection": "【💐歌切】[2026-05-08]又到了周末哦~ Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t9R1BLEw9?p=15",
@@ -31687,7 +31687,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "GLAMOROUS SKY",
-  "artist": "中島美嘉",
+  "artist": "中島美嘉 [映画 NANA]",
   "collection": "【💐歌切】[2026-06-10]好久不见的竖屏歌回 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LcJF63EbL?p=7",
@@ -31695,7 +31695,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "God knows...",
-  "artist": "涼宮ハルヒ(CV.平野綾)",
+  "artist": "涼宮ハルヒ(CV.平野綾) [TVアニメ 涼宮ハルヒの憂鬱]",
   "collection": "【💐歌切】[2026-06-10]好久不见的竖屏歌回 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LcJF63EbL?p=8",
@@ -31703,7 +31703,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "星座になれたら",
-  "artist": "結束バンド",
+  "artist": "結束バンド [TVアニメ ぼっち・ざ・ろっく！]",
   "collection": "【💐歌切】[2026-06-10]好久不见的竖屏歌回 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LcJF63EbL?p=9",
@@ -31735,7 +31735,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君の知らない物語",
-  "artist": "supercell",
+  "artist": "supercell [TVアニメ 化物語]",
   "collection": "【💐歌切】[2026-06-10]好久不见的竖屏歌回 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LcJF63EbL?p=13",
@@ -31863,7 +31863,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花に亡霊",
-  "artist": "ヨルシカ",
+  "artist": "ヨルシカ [映画 泣きたい私は猫をかぶる]",
   "collection": "【💐歌切】#271[2026-06-14]睡眠导入歌回✨睡前放松时刻请随意收听🌙 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1e7JM6aEKP?p=1",
@@ -31879,7 +31879,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "チノカテ",
-  "artist": "ヨルシカ",
+  "artist": "ヨルシカ [ドラマ 魔法のリノベ]",
   "collection": "【💐歌切】#271[2026-06-14]睡眠导入歌回✨睡前放松时刻请随意收听🌙 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1e7JM6aEKP?p=3",
@@ -31903,7 +31903,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ガーネット",
-  "artist": "奥華子",
+  "artist": "奥華子 [映画 時をかける少女]",
   "collection": "【💐歌切】#271[2026-06-14]睡眠导入歌回✨睡前放松时刻请随意收听🌙 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1e7JM6aEKP?p=6",
@@ -31911,7 +31911,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アクアテラリウム",
-  "artist": "やなぎなぎ",
+  "artist": "やなぎなぎ [TVアニメ 凪のあすから]",
   "collection": "【💐歌切】#271[2026-06-14]睡眠导入歌回✨睡前放松时刻请随意收听🌙 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1e7JM6aEKP?p=7",
@@ -31927,7 +31927,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "葛飾ラプソディー",
-  "artist": "堂島孝平",
+  "artist": "堂島孝平 [TVアニメ こちら葛飾区亀有公園前派出所]",
   "collection": "【💐歌切】#271[2026-06-14]睡眠导入歌回✨睡前放松时刻请随意收听🌙 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1e7JM6aEKP?p=9",
@@ -31943,7 +31943,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花",
-  "artist": "藤井風",
+  "artist": "藤井風 [ドラマ いちばんすきな花]",
   "collection": "【💐歌切】#271[2026-06-14]睡眠导入歌回✨睡前放松时刻请随意收听🌙 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1e7JM6aEKP?p=11",
@@ -31951,7 +31951,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "対象a",
-  "artist": "anNina",
+  "artist": "anNina [TVアニメ ひぐらしのなく頃に解]",
   "collection": "【💐歌切】#271[2026-06-14]睡眠导入歌回✨睡前放松时刻请随意收听🌙 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1e7JM6aEKP?p=12",
@@ -31959,7 +31959,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "明日への手紙",
-  "artist": "手嶌葵",
+  "artist": "手嶌葵 [ドラマ いつかこの恋を思い出してきっと泣いてしまう]",
   "collection": "【💐歌切】#271[2026-06-14]睡眠导入歌回✨睡前放松时刻请随意收听🌙 Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1e7JM6aEKP?p=13",

@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 8/4/2026, 9:12:48 AM
+// 生成时间: 8/4/2026, 9:23:32 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2431,7 +2431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "SAKURAスキップ",
-  "artist": "fourfolium",
+  "artist": "fourfolium [TVアニメ NEW GAME!]",
   "collection": "【 YOSHIKA⁂Ch. 】16横屏】楽しく歌って行くよ🌸 1. SAKURAスキップ 2. さくらんぼ【20240320】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xf421Z7x5?p=1",
@@ -2463,7 +2463,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "光るなら",
-  "artist": "Goose house",
+  "artist": "Goose house [TVアニメ 四月は君の嘘]",
   "collection": "【 YOSHIKA⁂Ch. 】16横屏】楽しく歌って行くよ🌸 1. SAKURAスキップ 2. さくらんぼ【20240320】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xf421Z7x5?p=5",
@@ -2471,7 +2471,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "七色シンフォニー",
-  "artist": "コアラモード.",
+  "artist": "コアラモード. [TVアニメ 四月は君の嘘]",
   "collection": "【 YOSHIKA⁂Ch. 】16横屏】楽しく歌って行くよ🌸 1. SAKURAスキップ 2. さくらんぼ【20240320】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xf421Z7x5?p=6",
@@ -2487,7 +2487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "風になる",
-  "artist": "つじあやの",
+  "artist": "つじあやの [映画 猫の恩返し]",
   "collection": "【 YOSHIKA⁂Ch. 】16横屏】楽しく歌って行くよ🌸 1. SAKURAスキップ 2. さくらんぼ【20240320】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xf421Z7x5?p=8",
@@ -2511,7 +2511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ラピスラズリ",
-  "artist": "藍井エイル",
+  "artist": "藍井エイル [TVアニメ アルスラーン戦記]",
   "collection": "【 YOSHIKA⁂Ch. 】16横屏】楽しく歌って行くよ🌸 1. SAKURAスキップ 2. さくらんぼ【20240320】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xf421Z7x5?p=11",
@@ -2519,7 +2519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "departure!",
-  "artist": "小野正利",
+  "artist": "小野正利 [TVアニメ HUNTER×HUNTER]",
   "collection": "【 YOSHIKA⁂Ch. 】16横屏】楽しく歌って行くよ🌸 1. SAKURAスキップ 2. さくらんぼ【20240320】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xf421Z7x5?p=12",
@@ -2543,7 +2543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夢の続きへ",
-  "artist": "surface",
+  "artist": "surface [TVアニメ D.Gray-man]",
   "collection": "【 YOSHIKA⁂Ch. 】16横屏】楽しく歌って行くよ🌸 1. SAKURAスキップ 2. さくらんぼ【20240320】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xf421Z7x5?p=15",
@@ -2551,7 +2551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "U&I",
-  "artist": "放課後ティータイム",
+  "artist": "放課後ティータイム [TVアニメ けいおん!!]",
   "collection": "【 YOSHIKA⁂Ch. 】16横屏】楽しく歌って行くよ🌸 1. SAKURAスキップ 2. さくらんぼ【20240320】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xf421Z7x5?p=16",
@@ -24135,7 +24135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "バラライカ",
-  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "artist": "月島きらり starring 久住小春（モーニング娘。） [sW5eB8cXoSM]",
   "collection": "【🍠YOSHIKA⁂Ch. 歌切】[2025-12-31]2025年ありがとう！年越し歌枠🎍 [sW5eB8cXoSM].mp4",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4vQBbE3s?p=1",
@@ -24143,7 +24143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アローラ!!",
-  "artist": "松本梨香",
+  "artist": "松本梨香 [sW5eB8cXoSM]",
   "collection": "【🍠YOSHIKA⁂Ch. 歌切】[2025-12-31]2025年ありがとう！年越し歌枠🎍 [sW5eB8cXoSM].mp4",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4vQBbE3s?p=2",
@@ -24151,7 +24151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋は渾沌の隷也",
-  "artist": "後ろから這いより隊G",
+  "artist": "後ろから這いより隊G [sW5eB8cXoSM]",
   "collection": "【🍠YOSHIKA⁂Ch. 歌切】[2025-12-31]2025年ありがとう！年越し歌枠🎍 [sW5eB8cXoSM].mp4",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4vQBbE3s?p=3",
@@ -24167,7 +24167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シング・サイン・シンフォニー",
-  "artist": "よしか⁂",
+  "artist": "よしか⁂ [sW5eB8cXoSM]",
   "collection": "【🍠YOSHIKA⁂Ch. 歌切】[2025-12-31]2025年ありがとう！年越し歌枠🎍 [sW5eB8cXoSM].mp4",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4vQBbE3s?p=5",
@@ -24175,7 +24175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛 for you！",
-  "artist": "i☆Ris",
+  "artist": "i☆Ris [sW5eB8cXoSM]",
   "collection": "【🍠YOSHIKA⁂Ch. 歌切】[2025-12-31]2025年ありがとう！年越し歌枠🎍 [sW5eB8cXoSM].mp4",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4vQBbE3s?p=6",
@@ -24183,7 +24183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ロマンスの神様",
-  "artist": "広瀬香美",
+  "artist": "広瀬香美 [sW5eB8cXoSM]",
   "collection": "【🍠YOSHIKA⁂Ch. 歌切】[2025-12-31]2025年ありがとう！年越し歌枠🎍 [sW5eB8cXoSM].mp4",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4vQBbE3s?p=7",
@@ -24191,7 +24191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Go!!!",
-  "artist": "FLOW",
+  "artist": "FLOW [sW5eB8cXoSM]",
   "collection": "【🍠YOSHIKA⁂Ch. 歌切】[2025-12-31]2025年ありがとう！年越し歌枠🎍 [sW5eB8cXoSM].mp4",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4vQBbE3s?p=8",
@@ -24199,7 +24199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "負けないで",
-  "artist": "ZARD",
+  "artist": "ZARD [sW5eB8cXoSM]",
   "collection": "【🍠YOSHIKA⁂Ch. 歌切】[2025-12-31]2025年ありがとう！年越し歌枠🎍 [sW5eB8cXoSM].mp4",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4vQBbE3s?p=9",
@@ -35743,7 +35743,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アローラ!!",
-  "artist": "サトシ with ピカチュウ（松本梨香・大谷育江）",
+  "artist": "サトシ with ピカチュウ（松本梨香・大谷育江） [TVアニメ ポケットモンスター サン&ムーン]",
   "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=2",
@@ -35751,7 +35751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Together",
-  "artist": "あきよしふみえ",
+  "artist": "あきよしふみえ [TVアニメ ポケットモンスター ダイヤモンド&パール]",
   "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=3",
@@ -35759,7 +35759,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ウィーアー!",
-  "artist": "きただにひろし",
+  "artist": "きただにひろし [TVアニメ ONE PIECE]",
   "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=4",
@@ -35767,7 +35767,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ケロッ!とマーチ",
-  "artist": "角田信朗・いはたじゅり",
+  "artist": "角田信朗・いはたじゅり [TVアニメ ケロロ軍曹]",
   "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=5",
@@ -35775,7 +35775,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "TOMORROW",
-  "artist": "岡本真夜",
+  "artist": "岡本真夜 [ドラマ セカンド・チャンス]",
   "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=6",
@@ -35791,7 +35791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ライオン",
-  "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛",
+  "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=8",
@@ -35807,7 +35807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ブルーバード",
-  "artist": "いきものがかり",
+  "artist": "いきものがかり [TVアニメ NARUTO -ナルト- 疾風伝]",
   "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=10",
@@ -35815,7 +35815,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "YUME日和",
-  "artist": "島谷ひとみ",
+  "artist": "島谷ひとみ [映画 ドラえもん のび太のワンニャン時空伝]",
   "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=11",
@@ -35823,7 +35823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "フリージア",
-  "artist": "Uru",
+  "artist": "Uru [TVアニメ 機動戦士ガンダム 鉄血のオルフェンズ]",
   "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=12",
@@ -35831,7 +35831,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ガーネット",
-  "artist": "奥華子",
+  "artist": "奥華子 [映画 時をかける少女]",
   "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=13",
@@ -35839,7 +35839,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "タッチ",
-  "artist": "岩崎良美",
+  "artist": "岩崎良美 [TVアニメ タッチ]",
   "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=14",
@@ -35847,7 +35847,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "キミに100パーセント",
-  "artist": "きゃりーぱみゅぱみゅ",
+  "artist": "きゃりーぱみゅぱみゅ [TVアニメ クレヨンしんちゃん]",
   "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=15",
@@ -35855,7 +35855,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "となりのトトロ",
-  "artist": "井上あずみ",
+  "artist": "井上あずみ [映画 となりのトトロ]",
   "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=16",
@@ -35863,7 +35863,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "崖の上のポニョ",
-  "artist": "藤岡藤巻と大橋のぞみ",
+  "artist": "藤岡藤巻と大橋のぞみ [映画 崖の上のポニョ]",
   "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=17",
@@ -35871,7 +35871,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "はじめてのチュウ",
-  "artist": "あんしんパパ",
+  "artist": "あんしんパパ [TVアニメ キテレツ大百科]",
   "collection": "【🍠🦍歌切】[2026-07-03]初見さん歓迎中！バグってる？ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TYMP61E2J?p=18",
@@ -36039,7 +36039,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Together",
-  "artist": "あきよしふみえ",
+  "artist": "あきよしふみえ [TVアニメ ポケットモンスター ダイヤモンド&パール]",
   "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=2",
@@ -36047,7 +36047,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハレ晴レユカイ",
-  "artist": "平野綾・茅原実里・後藤邑子",
+  "artist": "平野綾・茅原実里・後藤邑子 [TVアニメ 涼宮ハルヒの憂鬱]",
   "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=3",
@@ -36063,7 +36063,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "味楽る!ミミカ ナンバーワン",
-  "artist": "おみむらまゆこ",
+  "artist": "おみむらまゆこ [TVアニメ 味楽る!ミミカ]",
   "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=5",
@@ -36071,7 +36071,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Catch You Catch Me",
-  "artist": "グミ",
+  "artist": "グミ [TVアニメ カードキャプターさくら]",
   "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=6",
@@ -36119,7 +36119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "未来のミュージアム",
-  "artist": "Perfume",
+  "artist": "Perfume [映画ドラえもん のび太のひみつ道具博物館]",
   "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=12",
@@ -36127,7 +36127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "風になる",
-  "artist": "つじあやの",
+  "artist": "つじあやの [映画 猫の恩返し]",
   "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=13",
@@ -36159,7 +36159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "勇気100%",
-  "artist": "光GENJI",
+  "artist": "光GENJI [TVアニメ 忍たま乱太郎]",
   "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=17",
@@ -36167,7 +36167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サインはB",
-  "artist": "B小町 アイ（高橋李依）",
+  "artist": "B小町 アイ（高橋李依） [TVアニメ【推しの子】]",
   "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=18",
@@ -36175,7 +36175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Here",
-  "artist": "JUNNA",
+  "artist": "JUNNA [TVアニメ 魔法使いの嫁]",
   "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=19",
@@ -36191,7 +36191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "HANAJI",
-  "artist": "小林ゆう",
+  "artist": "小林ゆう [TVアニメ まりあ†ほりっく]",
   "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=21",
@@ -36207,7 +36207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "CLEAR",
-  "artist": "坂本真綾",
+  "artist": "坂本真綾 [TVアニメ カードキャプターさくら クリアカード編]",
   "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=23",
@@ -36215,7 +36215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "悪魔の子",
-  "artist": "ヒグチアイ",
+  "artist": "ヒグチアイ [TVアニメ 進撃の巨人 The Final Season]",
   "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=24",
@@ -36223,7 +36223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "OVER THE TOP",
-  "artist": "きただにひろし",
+  "artist": "きただにひろし [TVアニメ ONE PIECE]",
   "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=25",
@@ -36231,7 +36231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アムリタ",
-  "artist": "牧野由依",
+  "artist": "牧野由依 [劇場版ツバサ・クロニクル 鳥カゴの国の姫君]",
   "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=26",
@@ -36239,7 +36239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いのちの名前",
-  "artist": "木村弓",
+  "artist": "木村弓 [映画 千と千尋の神隠し]",
   "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=27",
@@ -36247,7 +36247,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "フローリア",
-  "artist": "佐香智久",
+  "artist": "佐香智久 [TVアニメ 夏目友人帳 陸]",
   "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=28",

@@ -1,6 +1,6 @@
 // 千代浦蝶美 - 歌单数据 (多合集汇总)
 // 来源: BV1AFG66UEpL
-// 生成时间: 8/4/2026, 10:19:35 AM
+// 生成时间: 8/4/2026, 10:29:27 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -238,8 +238,8 @@ window.SONG_DATA.push(
   "source": "chiyourachomi.js"
 },
     {
-  "title": "閃光 -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "閃光",
+  "artist": "[Alexandros]",
   "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=14",
@@ -1254,8 +1254,8 @@ window.SONG_DATA.push(
   "source": "chiyourachomi.js"
 },
     {
-  "title": "閃光 -",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "閃光",
+  "artist": "[Alexandros]",
   "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=96",

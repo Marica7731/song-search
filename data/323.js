@@ -1,6 +1,6 @@
 // 323 - 歌单数据 (多合集汇总)
 // 来源: BV1r75B6LEwd
-// 生成时间: 8/4/2026, 10:09:04 AM
+// 生成时间: 8/4/2026, 10:18:28 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1519,7 +1519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君のせい",
-  "artist": "the peggies",
+  "artist": "the peggies [TVアニメ 青春ブタ野郎はバニーガール先輩の夢を見ない]",
   "collection": "【歌切】[2026-06-10]想遇见10位初次见面的朋友！来唱歌！ 323(みすみ) -Misumi-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eEEo6wEsj?p=8",

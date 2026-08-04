@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 8/4/2026, 9:49:07 AM
+// 生成时间: 8/4/2026, 10:01:08 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -199,7 +199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "オールドファッション",
-  "artist": "back number",
+  "artist": "back number [ドラマ 大恋愛〜僕を忘れる君と]",
   "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=1",
@@ -247,7 +247,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "渡月橋 〜君 想ふ〜",
-  "artist": "倉木麻衣",
+  "artist": "倉木麻衣 [映画 名探偵コナン から紅の恋歌]",
   "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=7",
@@ -743,7 +743,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "今夜このまま",
-  "artist": "あいみょん",
+  "artist": "あいみょん [ドラマ 獣になれない私たち]",
   "collection": "【🎸🦋歌切】[2026-06-09]今日是初次直播满一个月‼ 歌回🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B9Em6jEYC?p=2",
@@ -751,7 +751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "裸の心",
-  "artist": "あいみょん",
+  "artist": "あいみょん [ドラマ 私の家政夫ナギサさん]",
   "collection": "【🎸🦋歌切】[2026-06-09]今日是初次直播满一个月‼ 歌回🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B9Em6jEYC?p=3",
@@ -775,7 +775,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "はじめてのチュウ",
-  "artist": "あんしんパパ",
+  "artist": "あんしんパパ [TVアニメ キテレツ大百科]",
   "collection": "【🎸🦋歌切】[2026-06-09]今日是初次直播满一个月‼ 歌回🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B9Em6jEYC?p=6",
@@ -847,7 +847,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "明日への手紙",
-  "artist": "手嶌葵",
+  "artist": "手嶌葵 [ドラマ いつかこの恋を思い出してきっと泣いてしまう]",
   "collection": "【🎸🦋歌切】[2026-06-13]要不要听一首歌？🎸🎤🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w1JH6DEqv?p=3",
@@ -887,7 +887,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "フリージア",
-  "artist": "Uru",
+  "artist": "Uru [TVアニメ 機動戦士ガンダム 鉄血のオルフェンズ]",
   "collection": "【🎸🦋歌切】[2026-06-13]要不要听一首歌？🎸🎤🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w1JH6DEqv?p=8",

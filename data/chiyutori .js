@@ -1,6 +1,6 @@
 // 知悠 - 歌单数据 (多合集汇总)
 // 来源: BV1owcoz3Ekw
-// 生成时间: 8/4/2026, 8:56:34 AM
+// 生成时间: 8/4/2026, 9:07:08 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -775,7 +775,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "革命道中",
-  "artist": "アイナ・ジ・エンド",
+  "artist": "アイナ・ジ・エンド [TVアニメ ダンダダン 第2期]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=1",
@@ -791,7 +791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "月のワルツ",
-  "artist": "諫山実生",
+  "artist": "諫山実生 [NHK みんなのうた]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=3",
@@ -799,7 +799,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "月の繭",
-  "artist": "奥井亜紀",
+  "artist": "奥井亜紀 [TVアニメ ∀ガンダム]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=4",
@@ -839,7 +839,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "イケナイ太陽",
-  "artist": "ORANGE RANGE",
+  "artist": "ORANGE RANGE [ドラマ 花ざかりの君たちへ〜イケメン♂パラダイス〜]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=9",
@@ -855,7 +855,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "紅蓮華",
-  "artist": "LiSA",
+  "artist": "LiSA [TVアニメ 鬼滅の刃]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=11",
@@ -863,7 +863,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "God knows...",
-  "artist": "涼宮ハルヒ(CV:平野綾)",
+  "artist": "涼宮ハルヒ(CV:平野綾) [TVアニメ 涼宮ハルヒの憂鬱]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=12",
@@ -871,7 +871,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "コネクト",
-  "artist": "ClariS",
+  "artist": "ClariS [TVアニメ 魔法少女まどか☆マギカ]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=13",
@@ -919,7 +919,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ギターと孤独と蒼い惑星",
-  "artist": "結束バンド",
+  "artist": "結束バンド [TVアニメ ぼっち・ざ・ろっく！]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=19",
@@ -951,7 +951,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Departures 〜あなたにおくるアイの歌〜",
-  "artist": "EGOIST",
+  "artist": "EGOIST [TVアニメ ギルティクラウン]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=23",
@@ -959,7 +959,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "満ちてゆく",
-  "artist": "藤井風",
+  "artist": "藤井風 [映画 四月になれば彼女は]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=24",
@@ -967,7 +967,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "First Love",
-  "artist": "宇多田ヒカル",
+  "artist": "宇多田ヒカル [ドラマ 魔女の条件]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=25",
@@ -975,7 +975,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Everything",
-  "artist": "MISIA",
+  "artist": "MISIA [ドラマ やまとなでしこ]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=26",
@@ -999,7 +999,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "secret base 〜君がくれたもの〜",
-  "artist": "ZONE",
+  "artist": "ZONE [ドラマ キッズ・ウォー3]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=29",
@@ -1007,7 +1007,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "you",
-  "artist": "癒月",
+  "artist": "癒月 [ゲーム ひぐらしのなく頃に解]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=30",
@@ -1015,7 +1015,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青空",
-  "artist": "Lia",
+  "artist": "Lia [ゲーム AIR]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=31",
@@ -1023,7 +1023,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "世界のつづき",
-  "artist": "Ado",
+  "artist": "Ado [映画 ONE PIECE FILM RED]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=32",
@@ -1031,7 +1031,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花になって",
-  "artist": "緑黄色社会",
+  "artist": "緑黄色社会 [TVアニメ 薬屋のひとりごと]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=33",
@@ -1055,7 +1055,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "魂のルフラン",
-  "artist": "高橋洋子",
+  "artist": "高橋洋子 [映画 新世紀エヴァンゲリオン劇場版 シト新生]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=36",
@@ -1063,7 +1063,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ベリーメロン～私の心をつかんだ良いメロン～",
-  "artist": "ビクトリーム(CV:若本規夫)",
+  "artist": "ビクトリーム(CV:若本規夫) [TVアニメ 金色のガッシュベル!!]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=37",
@@ -1079,7 +1079,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "プラネタリウム",
-  "artist": "大塚愛",
+  "artist": "大塚愛 [ドラマ 花より男子]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=39",
@@ -1087,7 +1087,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "蕾",
-  "artist": "コブクロ",
+  "artist": "コブクロ [ドラマ 東京タワー オカンとボクと、時々、オトン]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=40",
@@ -1111,7 +1111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハッピーエンド",
-  "artist": "back number",
+  "artist": "back number [映画 ぼくは明日、昨日のきみとデートする]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=43",
@@ -1127,7 +1127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "明日への手紙",
-  "artist": "手嶌葵",
+  "artist": "手嶌葵 [ドラマ いつかこの恋を思い出してきっと泣いてしまう]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=45",
@@ -1143,7 +1143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "365日の紙飛行機",
-  "artist": "AKB48",
+  "artist": "AKB48 [連続テレビ小説 あさが来た]",
   "collection": "【知悠 歌切】 2026-03-16 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KNwXzmEAV?p=47",
@@ -1655,7 +1655,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "トライアングラー",
-  "artist": "坂本真綾",
+  "artist": "坂本真綾 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=1",
@@ -1663,7 +1663,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "射手座☆午後九時Don’t be late",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=2",
@@ -1671,7 +1671,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "What 'bout my star?",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=3",
@@ -1679,7 +1679,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アイモ～鳥のひと",
-  "artist": "ランカ・リー＝中島愛",
+  "artist": "ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=4",
@@ -1687,7 +1687,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "星間飛行",
-  "artist": "ランカ・リー＝中島愛",
+  "artist": "ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=5",
@@ -1695,7 +1695,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "SMS小隊の歌～あの娘はエイリアン",
-  "artist": "SMSのみなさん",
+  "artist": "SMSのみなさん [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=6",
@@ -1703,7 +1703,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シェリルの宇宙兄弟船",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=7",
@@ -1711,7 +1711,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ニンジーン Loves you yeah!",
-  "artist": "ランカ・リー＝中島愛",
+  "artist": "ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=8",
@@ -1719,7 +1719,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "超時空飯店 娘々",
-  "artist": "ランカ・リー＝中島愛",
+  "artist": "ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=9",
@@ -1727,7 +1727,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ねこ日記",
-  "artist": "ランカ・リー＝中島愛",
+  "artist": "ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=10",
@@ -1735,7 +1735,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "だるまゼミナール",
-  "artist": "ランカ・リー＝中島愛",
+  "artist": "ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=11",
@@ -1743,7 +1743,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ファミリーマート・コスモス",
-  "artist": "ランカ・リー＝中島愛",
+  "artist": "ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=12",
@@ -1751,7 +1751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Welcome To My FanClub's Night!",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=13",
@@ -1759,7 +1759,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "インフィニティ",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=14",
@@ -1783,7 +1783,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ダイアモンド クレバス",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=17",
@@ -1791,7 +1791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "妖精",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=18",
@@ -1799,7 +1799,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "永遠",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=19",
@@ -1807,7 +1807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ノーザンクロス",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=20",
@@ -1815,7 +1815,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "会えないとき",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=21",
@@ -1823,7 +1823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "天使になっちゃった",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=22",
@@ -1831,7 +1831,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "時の迷宮",
-  "artist": "ランカ・リー＝中島愛",
+  "artist": "ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=23",
@@ -1839,7 +1839,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ゴ～～ジャス",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=24",
@@ -1847,7 +1847,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Songbird",
-  "artist": "ランカ・リー＝中島愛",
+  "artist": "ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=25",
@@ -1855,7 +1855,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "リーベ～幻の光",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=26",
@@ -1863,7 +1863,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ふなのり",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=27",
@@ -1871,7 +1871,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "タブレット",
-  "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛",
+  "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=28",
@@ -1879,7 +1879,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Merry Christmas without You",
-  "artist": "frontier stars",
+  "artist": "frontier stars [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=29",
@@ -1887,7 +1887,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ユニバーサル・バニー",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=30",
@@ -1895,7 +1895,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋はドッグファイト",
-  "artist": "ランカ・リー＝中島愛",
+  "artist": "ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=31",
@@ -1903,7 +1903,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "禁断のエリクシア",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=32",
@@ -1911,7 +1911,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "虹いろ・クマクマ",
-  "artist": "ランカ・リー＝中島愛",
+  "artist": "ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=33",
@@ -1927,7 +1927,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "pink monsoon",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=35",
@@ -1935,7 +1935,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "オベリスク",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=36",
@@ -1943,7 +1943,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "そうだよ。",
-  "artist": "ランカ・リー＝中島愛",
+  "artist": "ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=37",
@@ -1951,7 +1951,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "蒼のエーテル",
-  "artist": "ランカ・リー＝中島愛",
+  "artist": "ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=38",
@@ -1959,7 +1959,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アナタノオト",
-  "artist": "ランカ・リー＝中島愛",
+  "artist": "ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=39",
@@ -1967,7 +1967,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Get it on～光速クライmax",
-  "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛",
+  "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=40",
@@ -1975,7 +1975,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "放課後オーバーフロウ",
-  "artist": "ランカ・リー＝中島愛",
+  "artist": "ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=41",
@@ -1983,7 +1983,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サヨナラノツバサ ～the end of triangle",
-  "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛",
+  "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=42",
@@ -1991,7 +1991,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "dシュディスタb",
-  "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛",
+  "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=43",
@@ -1999,7 +1999,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ホシキラ",
-  "artist": "ランカ・リー＝中島愛",
+  "artist": "ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=44",
@@ -2007,7 +2007,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ライオン",
-  "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛",
+  "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=45",
@@ -2015,7 +2015,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "私の彼はパイロット",
-  "artist": "飯島真理",
+  "artist": "飯島真理 [超時空要塞マクロス]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=46",
@@ -2023,7 +2023,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "愛・おぼえていますか",
-  "artist": "飯島真理",
+  "artist": "飯島真理 [超時空要塞マクロス 愛・おぼえていますか]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=47",
@@ -2031,7 +2031,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "娘々スペシャルサービスメドレー（特盛り）",
-  "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛",
+  "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛 [マクロスF]",
   "collection": "【知悠 歌切】[2026-03-30]🌟周一定期歌回♪唱很多超时空要塞F歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WgXBByEDu?p=48",
@@ -2366,7 +2366,7 @@ window.SONG_DATA.push(
   "source": "chiyutori .js"
 },
     {
-  "title": "42. I'm Your Treasure Box *あなたは マリンせんちょうを たからばこからみつけた。",
+  "title": "I'm Your Treasure Box *あなたは マリンせんちょうを たからばこからみつけた。",
   "artist": "宝鐘マリン",
   "collection": "【歌切】[2026-04-13]陪你悠闲唱歌到清晨～ 献给失眠的你 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
@@ -3479,7 +3479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "覚醒",
-  "artist": "Superfly",
+  "artist": "Superfly [映画 プロメア]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=1",
@@ -3487,7 +3487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "only my railgun",
-  "artist": "fripSide",
+  "artist": "fripSide [TVアニメ とある科学の超電磁砲]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=2",
@@ -3519,7 +3519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ココロのちず",
-  "artist": "BOYSTYLE",
+  "artist": "BOYSTYLE [TVアニメ ONE PIECE]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=6",
@@ -3543,7 +3543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Synchrogazer",
-  "artist": "水樹奈々",
+  "artist": "水樹奈々 [TVアニメ 戦姫絶唱シンフォギア]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=9",
@@ -3551,7 +3551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "甲賀忍法帖",
-  "artist": "陰陽座",
+  "artist": "陰陽座 [TVアニメ バジリスク 〜甲賀忍法帖〜]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=10",
@@ -3559,7 +3559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "悪魔の子",
-  "artist": "ヒグチアイ",
+  "artist": "ヒグチアイ [TVアニメ 進撃の巨人 The Final Season Part 2]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=11",
@@ -3567,7 +3567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "世界は恋に落ちている",
-  "artist": "CHiCO with HoneyWorks",
+  "artist": "CHiCO with HoneyWorks [TVアニメ アオハライド]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=12",
@@ -3575,7 +3575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花になって",
-  "artist": "緑黄色社会",
+  "artist": "緑黄色社会 [TVアニメ 薬屋のひとりごと]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=13",
@@ -3583,7 +3583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "フリージア",
-  "artist": "Uru",
+  "artist": "Uru [TVアニメ 機動戦士ガンダム 鉄血のオルフェンズ]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=14",
@@ -3591,7 +3591,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "風になる",
-  "artist": "つじあやの",
+  "artist": "つじあやの [映画 猫の恩返し]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=15",
@@ -3599,7 +3599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Starry Heavens",
-  "artist": "day after tomorrow",
+  "artist": "day after tomorrow [ゲーム テイルズ オブ シンフォニア]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=16",
@@ -3607,7 +3607,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ブルーバード",
-  "artist": "いきものがかり",
+  "artist": "いきものがかり [TVアニメ NARUTO -ナルト- 疾風伝]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=17",
@@ -3615,7 +3615,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "イケナイ太陽",
-  "artist": "ORANGE RANGE",
+  "artist": "ORANGE RANGE [ドラマ 花ざかりの君たちへ〜イケメン♂パラダイス〜]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=18",
@@ -3639,7 +3639,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いのちの名前",
-  "artist": "木村弓",
+  "artist": "木村弓 [映画 千と千尋の神隠し]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=21",
@@ -3647,7 +3647,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Everything",
-  "artist": "MISIA",
+  "artist": "MISIA [ドラマ やまとなでしこ]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=22",
@@ -3655,7 +3655,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "月のワルツ",
-  "artist": "諫山実生",
+  "artist": "諫山実生 [NHK みんなのうた]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=23",
@@ -3671,7 +3671,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ベリーメロン～私の心をつかんだ良いメロン～",
-  "artist": "ビクトリーム(CV:若本規夫)",
+  "artist": "ビクトリーム(CV:若本規夫) [TVアニメ 金色のガッシュベル!!]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=25",
@@ -3687,7 +3687,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "やさしさに包まれたなら",
-  "artist": "荒井由実",
+  "artist": "荒井由実 [映画 魔女の宅急便]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=27",
@@ -3695,7 +3695,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "第ゼロ感",
-  "artist": "10-FEET",
+  "artist": "10-FEET [映画 THE FIRST SLAM DUNK]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=28",
@@ -3719,7 +3719,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ユニバーサル・バニー",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [映画 劇場版 マクロスF 虚空歌姫〜イツワリノウタヒメ〜]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=31",
@@ -3727,7 +3727,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ニンジーン Loves you yeah!",
-  "artist": "ランカ・リー＝中島愛",
+  "artist": "ランカ・リー＝中島愛 [TVアニメ マクロスF]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=32",
@@ -3767,7 +3767,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "まもりたい 〜White Wishes〜",
-  "artist": "BoA",
+  "artist": "BoA [ゲーム テイルズ オブ グレイセス]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=37",
@@ -3791,7 +3791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "secret base 〜君がくれたもの〜",
-  "artist": "ZONE",
+  "artist": "ZONE [ドラマ キッズ・ウォー3]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=40",
@@ -3799,7 +3799,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "エルフ",
-  "artist": "Ado",
+  "artist": "Ado [ドラマ クジャクのダンス、誰が見た？]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=41",
@@ -3807,7 +3807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "366日",
-  "artist": "HY",
+  "artist": "HY [映画 赤い糸]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=42",
@@ -3815,7 +3815,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "First Love",
-  "artist": "宇多田ヒカル",
+  "artist": "宇多田ヒカル [ドラマ 魔女の条件]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=43",
@@ -3823,7 +3823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "月の繭",
-  "artist": "奥井亜紀",
+  "artist": "奥井亜紀 [TVアニメ ∀ガンダム]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=44",
@@ -3831,7 +3831,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "名前のない怪物",
-  "artist": "EGOIST",
+  "artist": "EGOIST [TVアニメ PSYCHO-PASS サイコパス]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=45",
@@ -3839,7 +3839,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "sakura",
-  "artist": "NIRGILIS",
+  "artist": "NIRGILIS [TVアニメ 交響詩篇エウレカセブン]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=46",
@@ -3871,7 +3871,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "創聖のアクエリオン",
-  "artist": "AKINO from bless4",
+  "artist": "AKINO from bless4 [TVアニメ 創聖のアクエリオン]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=50",
@@ -3879,7 +3879,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メフィスト",
-  "artist": "女王蜂",
+  "artist": "女王蜂 [TVアニメ 【推しの子】]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=51",
@@ -3887,7 +3887,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アイドル",
-  "artist": "YOASOBI",
+  "artist": "YOASOBI [TVアニメ 【推しの子】]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=52",
@@ -3895,7 +3895,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サインはB",
-  "artist": "B小町",
+  "artist": "B小町 [TVアニメ 【推しの子】]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=53",
@@ -3903,7 +3903,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ツキアカリのミチシルベ",
-  "artist": "ステレオポニー",
+  "artist": "ステレオポニー [TVアニメ DARKER THAN BLACK -流星の双子-]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=54",
@@ -3927,7 +3927,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "海の幽霊",
-  "artist": "米津玄師",
+  "artist": "米津玄師 [映画 海獣の子供]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=57",
@@ -3943,7 +3943,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "世界のつづき",
-  "artist": "Ado",
+  "artist": "Ado [映画 ONE PIECE FILM RED]",
   "collection": "【歌切】[2026-06-08]高评价目标1100！！订阅数3600人耐久！欢迎点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17YEU6SEJR?p=59",
@@ -4031,7 +4031,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "そこに空があるから",
-  "artist": "江崎とし子",
+  "artist": "江崎とし子 [TVアニメ ポケットモンスター アドバンスジェネレーション]",
   "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=10",
@@ -4215,7 +4215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "unravel",
-  "artist": "TK from 凛として時雨",
+  "artist": "TK from 凛として時雨 [TVアニメ 東京喰種トーキョーグール]",
   "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=33",
@@ -4223,7 +4223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ギターと孤独と蒼い惑星",
-  "artist": "結束バンド",
+  "artist": "結束バンド [TVアニメ ぼっち?ざ?ろっく！]",
   "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=34",
@@ -4231,7 +4231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "微笑みの爆弾",
-  "artist": "馬渡松子",
+  "artist": "馬渡松子 [TVアニメ 幽☆遊☆白書]",
   "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=35",
@@ -4239,7 +4239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "水の星へ愛をこめて",
-  "artist": "森口博子",
+  "artist": "森口博子 [TVアニメ 機動戦士Ζガンダム]",
   "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=36",
@@ -4255,7 +4255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ホシキラ",
-  "artist": "ランカ?リー＝中島愛",
+  "artist": "ランカ?リー＝中島愛 [劇場版マクロスF 恋離飛翼?サヨナラノツバサ?]",
   "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=38",
@@ -4287,7 +4287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Don't say “lazy”",
-  "artist": "桜高軽音部",
+  "artist": "桜高軽音部 [TVアニメ けいおん!]",
   "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=42",
@@ -4303,7 +4303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シュガーソングとビターステップ",
-  "artist": "UNISON SQUARE GARDEN",
+  "artist": "UNISON SQUARE GARDEN [TVアニメ 血界戦線]",
   "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=44",
@@ -4327,7 +4327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "オベリスク",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [映画 劇場版マクロスF 虚空歌姫〜イツワリノウタヒメ〜]",
   "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=47",
@@ -4335,7 +4335,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花になって",
-  "artist": "緑黄色社会",
+  "artist": "緑黄色社会 [TVアニメ 薬屋のひとりごと]",
   "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=48",
@@ -4343,7 +4343,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "コネクト",
-  "artist": "ClariS",
+  "artist": "ClariS [TVアニメ 魔法少女まどか☆マギカ]",
   "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=49",
@@ -4351,7 +4351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "勇者",
-  "artist": "YOASOBI",
+  "artist": "YOASOBI [TVアニメ 葬送のフリーレン]",
   "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=50",
@@ -4359,7 +4359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "創聖のアクエリオン",
-  "artist": "AKINO",
+  "artist": "AKINO [TVアニメ 創聖のアクエリオン]",
   "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=51",
@@ -4383,7 +4383,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ベリーメロン ～私の心をつかんだ良いメロン～",
-  "artist": "ビクトリーム(若本規夫)",
+  "artist": "ビクトリーム(若本規夫) [金色のガッシュベル!!]",
   "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=54",
@@ -4391,7 +4391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "IN MY DREAM",
-  "artist": "真行寺恵里",
+  "artist": "真行寺恵里 [TVアニメ ブレンパワード]",
   "collection": "【歌切】[2026-06-15]目标1100赞✨频道订阅4100人耐久直播！可点歌♪ 知悠 - Chiyutori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LTj76JEor?p=55",

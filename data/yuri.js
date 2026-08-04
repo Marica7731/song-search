@@ -1,6 +1,6 @@
 // 優莉 yuri - 歌单数据 (多合集汇总)
 // 来源: BV1aDzEBBE3S
-// 生成时间: 8/4/2026, 9:13:49 AM
+// 生成时间: 8/4/2026, 9:24:25 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -415,7 +415,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Lost my music",
-  "artist": "涼宮ハルヒ(CV:平野綾)",
+  "artist": "涼宮ハルヒ(CV:平野綾) [TVアニメ 涼宮ハルヒの憂鬱]",
   "collection": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17qztBuEYz?p=6",
@@ -423,7 +423,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "God knows...",
-  "artist": "涼宮ハルヒ(CV:平野綾)",
+  "artist": "涼宮ハルヒ(CV:平野綾) [TVアニメ 涼宮ハルヒの憂鬱]",
   "collection": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17qztBuEYz?p=7",
@@ -439,7 +439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Kawaii Kaiwai",
-  "artist": "PiKi",
+  "artist": "PiKi [TVアニメ その着せ替え人形は恋をする Season 2]",
   "collection": "【優莉 弾き語】[2026-01-25] 弾き語ります！！ [EQ8XsBzLBYo]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17qztBuEYz?p=9",
@@ -518,7 +518,7 @@ window.SONG_DATA.push(
   "source": "yuri.js"
 },
     {
-  "title": "花呼ぶ声",
+  "title": "07.花呼ぶ声",
   "artist": "Kemu feat. 夢ノ結唱 POPY×夢ノ結唱 ROSE",
   "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "up": "前尘往事如昔故",
@@ -526,7 +526,7 @@ window.SONG_DATA.push(
   "source": "yuri.js"
 },
     {
-  "title": "NAME",
+  "title": "08.NAME",
   "artist": "綴",
   "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "up": "前尘往事如昔故",
@@ -534,7 +534,7 @@ window.SONG_DATA.push(
   "source": "yuri.js"
 },
     {
-  "title": "夜咄ディセイブ",
+  "title": "09.夜咄ディセイブ",
   "artist": "じん／IA",
   "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "up": "前尘往事如昔故",
@@ -542,7 +542,7 @@ window.SONG_DATA.push(
   "source": "yuri.js"
 },
     {
-  "title": "消えろ",
+  "title": "10.消えろ",
   "artist": "じん",
   "collection": "【優莉 つんちゃか 弾き語り】[2026-02-02]弾き語りとかお話しとか [nrToQJeAlNA]",
   "up": "前尘往事如昔故",
@@ -751,7 +751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "オラはにんきもの",
-  "artist": "のはらしんのすけ(CV:矢島晶子)",
+  "artist": "のはらしんのすけ(CV:矢島晶子) [TVアニメ クレヨンしんちゃん]",
   "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=3",
@@ -759,7 +759,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Lost my music",
-  "artist": "涼宮ハルヒ(CV:平野綾)",
+  "artist": "涼宮ハルヒ(CV:平野綾) [TVアニメ 涼宮ハルヒの憂鬱]",
   "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=4",
@@ -767,7 +767,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Super Driver",
-  "artist": "平野綾",
+  "artist": "平野綾 [TVアニメ 涼宮ハルヒの憂鬱]",
   "collection": "【歌切】[2026-06-05]好久没弹唱了，来唱几首！ 優莉つんちゃか",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qHEJ6vEmU?p=5",

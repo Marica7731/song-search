@@ -1,6 +1,6 @@
 // 雨海ルカ - 歌单数据 (多合集汇总)
 // 来源: BV1yVVe6BE16
-// 生成时间: 8/4/2026, 10:34:33 AM
+// 生成时间: 8/4/2026, 10:48:23 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -191,7 +191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "天国",
-  "artist": "Mrs. GREEN APPLE",
+  "artist": "Mrs. GREEN APPLE [映画 #真相をお話しします]",
   "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=1",
@@ -199,7 +199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "忘れてください",
-  "artist": "ヨルシカ",
+  "artist": "ヨルシカ [ドラマ GO HOME〜警視庁身元不明人相談室〜]",
   "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=2",
@@ -207,7 +207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Sincerely",
-  "artist": "TRUE",
+  "artist": "TRUE [TVアニメ ヴァイオレット・エヴァーガーデン]",
   "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=3",
@@ -239,7 +239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ノーザンクロス",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [TVアニメ マクロスF]",
   "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=7",
@@ -255,7 +255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "First Love",
-  "artist": "宇多田ヒカル",
+  "artist": "宇多田ヒカル [ドラマ 魔女の条件]",
   "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=9",
@@ -271,7 +271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "G4L",
-  "artist": "Giga",
+  "artist": "Giga [Artiswitch]",
   "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=11",
@@ -287,7 +287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "テルーの唄",
-  "artist": "手嶌葵",
+  "artist": "手嶌葵 [映画 ゲド戦記]",
   "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=13",
@@ -327,7 +327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "火種",
-  "artist": "キタニタツヤ",
+  "artist": "キタニタツヤ [TVアニメ 日本三國]",
   "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=18",
@@ -343,7 +343,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Secret of my heart",
-  "artist": "倉木麻衣",
+  "artist": "倉木麻衣 [TVアニメ 名探偵コナン]",
   "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=20",
@@ -351,7 +351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Never Enough",
-  "artist": "Loren Allred",
+  "artist": "Loren Allred [映画 The Greatest Showman]",
   "collection": "Ruka Ch. 雨海ルカ歌切 2026-06-15 深夜在湿润的雨声中唱歌☔点歌◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pjLZ6rEbR?p=21",

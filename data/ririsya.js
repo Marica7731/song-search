@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 8/4/2026, 9:05:14 AM
+// 生成时间: 8/4/2026, 9:15:38 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3687,7 +3687,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "はじめてのチュウ",
-  "artist": "あんしんパパ",
+  "artist": "あんしんパパ [TVアニメ キテレツ大百科]",
   "collection": "【凛々咲 · 弾き語り】リクエスト曲を弾き語りする💜与吉他一起唱歌【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S9dFYwEwZ?p=3",
@@ -3711,7 +3711,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "again",
-  "artist": "YUI",
+  "artist": "YUI [TVアニメ 鋼の錬金術師 FULLMETAL ALCHEMIST]",
   "collection": "【凛々咲 · 弾き語り】リクエスト曲を弾き語りする💜与吉他一起唱歌【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S9dFYwEwZ?p=6",
@@ -3727,7 +3727,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "勇気100％",
-  "artist": "光GENJI",
+  "artist": "光GENJI [TVアニメ 忍たま乱太郎]",
   "collection": "【凛々咲 · 弾き語り】リクエスト曲を弾き語りする💜与吉他一起唱歌【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S9dFYwEwZ?p=8",
@@ -3735,7 +3735,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "キセキ",
-  "artist": "GReeeeN",
+  "artist": "GReeeeN [ドラマ ROOKIES]",
   "collection": "【凛々咲 · 弾き語り】リクエスト曲を弾き語りする💜与吉他一起唱歌【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S9dFYwEwZ?p=9",
@@ -3743,7 +3743,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ミカヅキ",
-  "artist": "さユり",
+  "artist": "さユり [TVアニメ 乱歩奇譚 Game of Laplace]",
   "collection": "【凛々咲 · 弾き語り】リクエスト曲を弾き語りする💜与吉他一起唱歌【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S9dFYwEwZ?p=10",
@@ -3751,7 +3751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "風になる",
-  "artist": "つじあやの",
+  "artist": "つじあやの [映画 猫の恩返し]",
   "collection": "【凛々咲 · 弾き語り】リクエスト曲を弾き語りする💜与吉他一起唱歌【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S9dFYwEwZ?p=11",
@@ -3759,7 +3759,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "もののけ姫",
-  "artist": "米良美一",
+  "artist": "米良美一 [映画 もののけ姫]",
   "collection": "【凛々咲 · 弾き語り】リクエスト曲を弾き語りする💜与吉他一起唱歌【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S9dFYwEwZ?p=12",
@@ -3767,7 +3767,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "時には昔の話を",
-  "artist": "加藤登紀子",
+  "artist": "加藤登紀子 [映画 紅の豚]",
   "collection": "【凛々咲 · 弾き語り】リクエスト曲を弾き語りする💜与吉他一起唱歌【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S9dFYwEwZ?p=13",
@@ -3871,7 +3871,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "departure!",
-  "artist": "小野正利",
+  "artist": "小野正利 [TVアニメ HUNTER×HUNTER]",
   "collection": "【凛々咲 · 弾き語り】リクエスト曲を弾き語りする💜与吉他一起唱歌【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S9dFYwEwZ?p=26",
@@ -3887,7 +3887,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "相思相愛",
-  "artist": "aiko",
+  "artist": "aiko [映画 名探偵コナン 100万ドルの五稜星]",
   "collection": "【凛々咲 · 弾き語り】リクエスト曲を弾き語りする💜与吉他一起唱歌【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S9dFYwEwZ?p=28",
@@ -3935,7 +3935,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "チチをもげ！",
-  "artist": "パルコ・フォルゴレ（高橋広樹）",
+  "artist": "パルコ・フォルゴレ（高橋広樹） [金色のガッシュベル!!]",
   "collection": "【凛々咲 · 弾き語り】リクエスト曲を弾き語りする💜与吉他一起唱歌【VTuber/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S9dFYwEwZ?p=34",
@@ -4047,7 +4047,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "運命のルーレット廻して",
-  "artist": "ZARD",
+  "artist": "ZARD [TVアニメ 名探偵コナン]",
   "collection": "#名侦探柯南爱好者大集合歌枠接力【凛々咲】 那只耳朵塞住的话……〇已经……【虚拟主播/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vYo3YuEa6?p=1",
@@ -4055,7 +4055,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋はスリル、ショック、サスペンス",
-  "artist": "愛内里菜",
+  "artist": "愛内里菜 [TVアニメ 名探偵コナン]",
   "collection": "#名侦探柯南爱好者大集合歌枠接力【凛々咲】 那只耳朵塞住的话……〇已经……【虚拟主播/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vYo3YuEa6?p=2",
@@ -4063,7 +4063,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Mysterious Eyes",
-  "artist": "GARNET CROW",
+  "artist": "GARNET CROW [TVアニメ 名探偵コナン]",
   "collection": "#名侦探柯南爱好者大集合歌枠接力【凛々咲】 那只耳朵塞住的话……〇已经……【虚拟主播/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vYo3YuEa6?p=3",
@@ -4071,7 +4071,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Secret of my heart",
-  "artist": "倉木麻衣",
+  "artist": "倉木麻衣 [TVアニメ 名探偵コナン]",
   "collection": "#名侦探柯南爱好者大集合歌枠接力【凛々咲】 那只耳朵塞住的话……〇已经……【虚拟主播/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vYo3YuEa6?p=4",
@@ -4079,7 +4079,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "相思相愛",
-  "artist": "aiko",
+  "artist": "aiko [映画 名探偵コナン 100万ドルの五稜星]",
   "collection": "#名侦探柯南爱好者大集合歌枠接力【凛々咲】 那只耳朵塞住的话……〇已经……【虚拟主播/ Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vYo3YuEa6?p=5",
@@ -6335,7 +6335,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "again",
-  "artist": "YUI",
+  "artist": "YUI [TVアニメ 鋼の錬金術師 FULLMETAL ALCHEMIST]",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16nKpzfEK8?p=1",
@@ -6431,7 +6431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "だんご大家族",
-  "artist": "茶太",
+  "artist": "茶太 [TVアニメ CLANNAD]",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16nKpzfEK8?p=13",
@@ -6439,7 +6439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "旅の途中",
-  "artist": "清浦夏実",
+  "artist": "清浦夏実 [TVアニメ 狼と香辛料]",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16nKpzfEK8?p=14",
@@ -6447,7 +6447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "さよならエレジー",
-  "artist": "菅田将暉",
+  "artist": "菅田将暉 [ドラマ トドメの接吻]",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16nKpzfEK8?p=15",
@@ -6463,7 +6463,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "GLAMOROUS SKY",
-  "artist": "NANA starring MIKA NAKASHIMA",
+  "artist": "NANA starring MIKA NAKASHIMA [映画 NANA]",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16nKpzfEK8?p=17",
@@ -6471,7 +6471,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ウィーアー!",
-  "artist": "きただにひろし",
+  "artist": "きただにひろし [TVアニメ ONE PIECE]",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16nKpzfEK8?p=18",
@@ -6487,7 +6487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "時には昔の話を",
-  "artist": "加藤登紀子",
+  "artist": "加藤登紀子 [映画 紅の豚]",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16nKpzfEK8?p=20",
@@ -6495,7 +6495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハレ晴レユカイ",
-  "artist": "涼宮ハルヒ(CV:平野綾)、長門有希(CV:茅原実里)、朝比奈みくる(CV:後藤邑子)",
+  "artist": "涼宮ハルヒ(CV:平野綾)、長門有希(CV:茅原実里)、朝比奈みくる(CV:後藤邑子) [TVアニメ 涼宮ハルヒの憂鬱]",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16nKpzfEK8?p=21",
@@ -6503,7 +6503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "冒険でしょでしょ？",
-  "artist": "平野綾",
+  "artist": "平野綾 [TVアニメ 涼宮ハルヒの憂鬱]",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16nKpzfEK8?p=22",
@@ -6511,7 +6511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋のミクル伝説",
-  "artist": "朝比奈みくる(CV:後藤邑子)",
+  "artist": "朝比奈みくる(CV:後藤邑子) [TVアニメ 涼宮ハルヒの憂鬱]",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16nKpzfEK8?p=23",
@@ -6527,7 +6527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Butter-Fly",
-  "artist": "和田光司",
+  "artist": "和田光司 [TVアニメ デジモンアドベンチャー]",
   "collection": "【VTuber/凛々咲 2025年6月18日】💜リクエストで歌う弾き語り",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16nKpzfEK8?p=25",
@@ -6727,7 +6727,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Departures ～あなたにおくるアイの歌～",
-  "artist": "EGOIST",
+  "artist": "EGOIST [TVアニメ ギルティクラウン]",
   "collection": "【 Acoustic / 弾き語り 】睡眠導入しっとり弾き語り🌙Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wKM9ztEsk?p=5",
@@ -6799,7 +6799,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "RAIN",
-  "artist": "SEKAI NO OWARI",
+  "artist": "SEKAI NO OWARI [映画 メアリと魔女の花]",
   "collection": "【 Acoustic / 弾き語り 】睡眠導入しっとり弾き語り🌙Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wKM9ztEsk?p=14",
@@ -6831,7 +6831,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "風になる",
-  "artist": "つじあやの",
+  "artist": "つじあやの [映画 猫の恩返し]",
   "collection": "【 Acoustic / 弾き語り 】睡眠導入しっとり弾き語り🌙Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wKM9ztEsk?p=18",
@@ -6855,7 +6855,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "チチをもげ！",
-  "artist": "パルコ・フォルゴレ（高橋広樹）",
+  "artist": "パルコ・フォルゴレ（高橋広樹） [金色のガッシュベル!!]",
   "collection": "【 Acoustic / 弾き語り 】睡眠導入しっとり弾き語り🌙Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wKM9ztEsk?p=21",
@@ -7999,7 +7999,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "めざせポケモンマスター -with my friends-",
-  "artist": "サトシ（松本梨香）",
+  "artist": "サトシ（松本梨香） [TVアニメ ポケットモンスター めざせポケモンマスター]",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nH8zziE3w?p=9",
@@ -8007,7 +8007,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "はじめてのチュウ",
-  "artist": "あんしんパパ",
+  "artist": "あんしんパパ [TVアニメ キテレツ大百科]",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nH8zziE3w?p=10",
@@ -8095,7 +8095,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ヴィーナスとジーザス",
-  "artist": "やくしまるえつこ",
+  "artist": "やくしまるえつこ [TVアニメ 荒川アンダー ザ ブリッジ]",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nH8zziE3w?p=21",
@@ -8103,7 +8103,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青い栞",
-  "artist": "Galileo Galilei",
+  "artist": "Galileo Galilei [TVアニメ あの日見た花の名前を僕達はまだ知らない。]",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nH8zziE3w?p=22",
@@ -8111,7 +8111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "sweets parade",
-  "artist": "髏々宮カルタ（花澤香菜）",
+  "artist": "髏々宮カルタ（花澤香菜） [TVアニメ 妖狐×僕SS]",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nH8zziE3w?p=23",
@@ -8119,7 +8119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "宇宙戦艦ヤマト",
-  "artist": "ささきいさお",
+  "artist": "ささきいさお [TVアニメ 宇宙戦艦ヤマト]",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nH8zziE3w?p=24",
@@ -8127,7 +8127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "キン肉マンGo Fight!",
-  "artist": "串田アキラ",
+  "artist": "串田アキラ [TVアニメ キン肉マン]",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nH8zziE3w?p=25",
@@ -8159,7 +8159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハッピー・ジャムジャム",
-  "artist": "しまじろう・みみりん・とりっぴい・らむりん",
+  "artist": "しまじろう・みみりん・とりっぴい・らむりん [しましまとらのしまじろう]",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nH8zziE3w?p=29",
@@ -8167,7 +8167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サザエさん",
-  "artist": "宇野ゆう子",
+  "artist": "宇野ゆう子 [TVアニメ サザエさん]",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nH8zziE3w?p=30",
@@ -8175,7 +8175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "FLY ME TO THE MOON",
-  "artist": "林原めぐみ",
+  "artist": "林原めぐみ [TVアニメ 新世紀エヴァンゲリオン]",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nH8zziE3w?p=31",
@@ -8183,7 +8183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "勇気りんりん",
-  "artist": "ドリーミング",
+  "artist": "ドリーミング [それいけ!アンパンマン]",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nH8zziE3w?p=32",
@@ -8191,7 +8191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アンパンマンたいそう",
-  "artist": "ドリーミング",
+  "artist": "ドリーミング [それいけ!アンパンマン]",
   "collection": "【 Acoustic / 弾き語り 】好きな歌を歌う弾き語り💜 Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nH8zziE3w?p=33",
@@ -8479,7 +8479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "白金ディスコ",
-  "artist": "阿良々木月火(CV:井口裕香)",
+  "artist": "阿良々木月火(CV:井口裕香) [TVアニメ 偽物語]",
   "collection": "【 Acoustic 】リクエストで弾き語り💜Sing with a guitar #VTuber #shorts【VTuber/凛々咲 Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKeKzGEhq?p=7",
@@ -8495,7 +8495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "裸の心",
-  "artist": "あいみょん",
+  "artist": "あいみょん [ドラマ 私の家政夫ナギサさん]",
   "collection": "【 Acoustic 】リクエストで弾き語り💜Sing with a guitar #VTuber #shorts【VTuber/凛々咲 Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKeKzGEhq?p=9",
@@ -8519,7 +8519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "チチをもげ！",
-  "artist": "パルコ・フォルゴレ(CV:高橋広樹)",
+  "artist": "パルコ・フォルゴレ(CV:高橋広樹) [TVアニメ 金色のガッシュベル!!]",
   "collection": "【 Acoustic 】リクエストで弾き語り💜Sing with a guitar #VTuber #shorts【VTuber/凛々咲 Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKeKzGEhq?p=12",
@@ -8535,7 +8535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ファンサ",
-  "artist": "mona(CV:夏川椎菜)",
+  "artist": "mona(CV:夏川椎菜) [HoneyWorks]",
   "collection": "【 Acoustic 】リクエストで弾き語り💜Sing with a guitar #VTuber #shorts【VTuber/凛々咲 Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKeKzGEhq?p=14",
@@ -8543,7 +8543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋はスリル、ショック、サスペンス",
-  "artist": "愛内里菜",
+  "artist": "愛内里菜 [TVアニメ 名探偵コナン]",
   "collection": "【 Acoustic 】リクエストで弾き語り💜Sing with a guitar #VTuber #shorts【VTuber/凛々咲 Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKeKzGEhq?p=15",
@@ -10454,7 +10454,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "食虫植物",
+  "title": "1.食虫植物",
   "artist": "理芽",
   "collection": "捣蛋还是唱歌？？？🎃【凛々咲 】 [VTuber / #Ririsya][HalloweenDarkNightSingingStreamRelay]",
   "up": "前尘往事如昔故",
@@ -10462,7 +10462,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "SnekQueen",
+  "title": "2.SnekQueen",
   "artist": "凛々咲",
   "collection": "捣蛋还是唱歌？？？🎃【凛々咲 】 [VTuber / #Ririsya][HalloweenDarkNightSingingStreamRelay]",
   "up": "前尘往事如昔故",
@@ -10470,7 +10470,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "怪物",
+  "title": "3.怪物",
   "artist": "YOASOBI",
   "collection": "捣蛋还是唱歌？？？🎃【凛々咲 】 [VTuber / #Ririsya][HalloweenDarkNightSingingStreamRelay]",
   "up": "前尘往事如昔故",
@@ -10478,7 +10478,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "ゴーストルール",
+  "title": "4.ゴーストルール",
   "artist": "Cover 初音ミク",
   "collection": "捣蛋还是唱歌？？？🎃【凛々咲 】 [VTuber / #Ririsya][HalloweenDarkNightSingingStreamRelay]",
   "up": "前尘往事如昔故",
@@ -10486,7 +10486,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "unravel",
+  "title": "5.unravel",
   "artist": "TK from 凛として時雨",
   "collection": "捣蛋还是唱歌？？？🎃【凛々咲 】 [VTuber / #Ririsya][HalloweenDarkNightSingingStreamRelay]",
   "up": "前尘往事如昔故",
@@ -10494,7 +10494,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "ビビデバ",
+  "title": "6.ビビデバ",
   "artist": "星街彗星",
   "collection": "捣蛋还是唱歌？？？🎃【凛々咲 】 [VTuber / #Ririsya][HalloweenDarkNightSingingStreamRelay]",
   "up": "前尘往事如昔故",
@@ -10502,7 +10502,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "ジャンキーナイトタウンオーケストラ",
+  "title": "7.ジャンキーナイトタウンオーケストラ",
   "artist": "feat.鏡音レン",
   "collection": "捣蛋还是唱歌？？？🎃【凛々咲 】 [VTuber / #Ririsya][HalloweenDarkNightSingingStreamRelay]",
   "up": "前尘往事如昔故",
@@ -11855,7 +11855,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "お料理行進曲",
-  "artist": "YUKA",
+  "artist": "YUKA [TVアニメ キテレツ大百科]",
   "collection": "【凛々咲 / Ririsya】冻得发抖的吉他弹唱 ✧ 凍えながら弾き語りする✧ Sing with a guitar",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QmmoBYE2F?p=12",
@@ -16543,7 +16543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花に亡霊",
-  "artist": "ヨルシカ",
+  "artist": "ヨルシカ [映画 泣きたい私は猫をかぶる]",
   "collection": "【🐍歌切】[2026-06-06]#唱功超强V歌回接力 这次要给大家送上充满反差感的歌哦～ ✧ Singing Relay【V✧ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YLEp6KExk?p=1",
@@ -16551,7 +16551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Rain",
-  "artist": "秦基博",
+  "artist": "秦基博 [映画 言の葉の庭]",
   "collection": "【🐍歌切】[2026-06-06]#唱功超强V歌回接力 这次要给大家送上充满反差感的歌哦～ ✧ Singing Relay【V✧ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YLEp6KExk?p=2",
@@ -16679,7 +16679,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ケセラセラ",
-  "artist": "Mrs. GREEN APPLE",
+  "artist": "Mrs. GREEN APPLE [ドラマ 日曜の夜ぐらいは...]",
   "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=13",
@@ -16703,7 +16703,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "First Love",
-  "artist": "宇多田ヒカル",
+  "artist": "宇多田ヒカル [ドラマ 魔女の条件]",
   "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=16",
@@ -16735,7 +16735,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Butter-Fly",
-  "artist": "和田光司",
+  "artist": "和田光司 [TVアニメ デジモンアドベンチャー]",
   "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=20",
@@ -16743,7 +16743,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Departures 〜あなたにおくるアイの歌〜",
-  "artist": "EGOIST",
+  "artist": "EGOIST [TVアニメ ギルティクラウン]",
   "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=21",
@@ -16751,7 +16751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "星間飛行",
-  "artist": "ランカ・リー＝中島愛",
+  "artist": "ランカ・リー＝中島愛 [TVアニメ マクロスF]",
   "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=22",
@@ -16759,7 +16759,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "コネクト",
-  "artist": "ClariS",
+  "artist": "ClariS [TVアニメ 魔法少女まどか☆マギカ]",
   "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=23",
@@ -16791,7 +16791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "スパークル",
-  "artist": "RADWIMPS",
+  "artist": "RADWIMPS [映画 君の名は。]",
   "collection": "【🐍歌切】[2026-06-08]钢琴与雨声中的歌回 ✧ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A9Eg6QEYr?p=27",
@@ -16967,7 +16967,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "secret base 〜君がくれたもの〜",
-  "artist": "ZONE",
+  "artist": "ZONE [ドラマ キッズ・ウォー3]",
   "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=9",
@@ -17023,7 +17023,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "永遠の不在証明",
-  "artist": "東京事変",
+  "artist": "東京事変 [映画 名探偵コナン 緋色の弾丸]",
   "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=16",
@@ -17047,7 +17047,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "そばかす",
-  "artist": "JUDY AND MARY",
+  "artist": "JUDY AND MARY [TVアニメ るろうに剣心 -明治剣客浪漫譚-]",
   "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=19",
@@ -17063,7 +17063,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "GLAMOROUS SKY",
-  "artist": "NANA starring MIKA NAKASHIMA",
+  "artist": "NANA starring MIKA NAKASHIMA [映画 NANA]",
   "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=21",
@@ -17079,7 +17079,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花になって",
-  "artist": "緑黄色社会",
+  "artist": "緑黄色社会 [TVアニメ 薬屋のひとりごと]",
   "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=23",
@@ -17095,7 +17095,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ツキアカリのミチシルベ",
-  "artist": "ステレオポニー",
+  "artist": "ステレオポニー [TVアニメ DARKER THAN BLACK -流星の双子-]",
   "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=25",
@@ -17103,7 +17103,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Pray",
-  "artist": "Tommy heavenly6",
+  "artist": "Tommy heavenly6 [TVアニメ 銀魂]",
   "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=26",
@@ -17111,7 +17111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "瞬間センチメンタル",
-  "artist": "SCANDAL",
+  "artist": "SCANDAL [TVアニメ 鋼の錬金術師 FULLMETAL ALCHEMIST]",
   "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=27",
@@ -17119,7 +17119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ふわふわ時間",
-  "artist": "桜高軽音部",
+  "artist": "桜高軽音部 [TVアニメ けいおん！]",
   "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=28",
@@ -17127,7 +17127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青春コンプレックス",
-  "artist": "結束バンド",
+  "artist": "結束バンド [TVアニメ ぼっち・ざ・ろっく！]",
   "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=29",
@@ -17135,7 +17135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "God knows...",
-  "artist": "涼宮ハルヒ(CV:平野綾)",
+  "artist": "涼宮ハルヒ(CV:平野綾) [TVアニメ 涼宮ハルヒの憂鬱]",
   "collection": "【🐍歌切】[2026-06-15]女子乐队专场 ✧ 只唱少女乐队与女主唱乐队歌曲 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kjK6dEZd?p=30",
@@ -17799,7 +17799,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Departures ～あなたにおくるアイの歌～",
-  "artist": "EGOIST",
+  "artist": "EGOIST [TVアニメ ギルティクラウン]",
   "collection": "【🐍歌切】[2026-07-04]雨夜的无伴奏歌回 ✧ 清唱 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17nMM6gEs6?p=23",

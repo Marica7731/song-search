@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 8/4/2026, 10:01:35 AM
+// 生成时间: 8/4/2026, 10:11:36 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -367,7 +367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "星座になれたら",
-  "artist": "結束バンド",
+  "artist": "結束バンド [TVアニメ ぼっち・ざ・ろっく！]",
   "collection": "【歌切】[2026-06-04]因为有人来投诉我唱歌了，所以今天就开抒情歌偏多的歌回！！！w 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ooEP6sEZg?p=4",
@@ -463,7 +463,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "空の箱",
-  "artist": "トゲナシトゲアリ",
+  "artist": "トゲナシトゲアリ [ 井芹仁菜、河原木桃香 TVアニメ ガールズバンドクライ]",
   "collection": "【歌切】[2026-06-06]7/18个人Live门票卖不完就没法收场？！帮帮忙吧！！ 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RLEp6KEXi?p=12",
@@ -511,7 +511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "海へ",
-  "artist": "syh",
+  "artist": "syh [映画 ギヴン 海へ]",
   "collection": "【歌切】[2026-06-09]偏头痛统统赶走，打起精神来唱歌！！！w 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hTEU6qEZT?p=5",
@@ -559,7 +559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アイドル",
-  "artist": "YOASOBI",
+  "artist": "YOASOBI [TVアニメ 【推しの子】]",
   "collection": "【歌切】[2026-06-10]关于个人限定周边以及唱歌！！！w 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JjE66bEfq?p=3",
@@ -647,7 +647,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "大嫌いなはずだった。",
-  "artist": "HoneyWorks",
+  "artist": "HoneyWorks [榎本虎太朗(CV:花江夏樹)・瀬戸口雛(CV:麻倉もも)]",
   "collection": "【歌切】[2026-06-16]当背景音乐也好，只是进来看看也超欢迎！来听我唱歌吧！！🍎🌟 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1s6j56FEDQ?p=3",
@@ -703,7 +703,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "私は最強",
-  "artist": "Ado",
+  "artist": "Ado [映画 ONE PIECE FILM RED]",
   "collection": "【歌切】[2026-06-18]离生日LIVE还有一个月！！全力送上歌声🍎🌟 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jAj66HEfm?p=3",
@@ -735,7 +735,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "sister's noise",
-  "artist": "fripSide",
+  "artist": "fripSide [TVアニメ とある科学の超電磁砲S]",
   "collection": "【歌切】[2026-06-18]离生日LIVE还有一个月！！全力送上歌声🍎🌟 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jAj66HEfm?p=7",
@@ -743,7 +743,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "only my railgun",
-  "artist": "fripSide",
+  "artist": "fripSide [TVアニメ とある科学の超電磁砲]",
   "collection": "【歌切】[2026-06-18]离生日LIVE还有一个月！！全力送上歌声🍎🌟 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jAj66HEfm?p=8",
@@ -751,7 +751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "名前のない怪物",
-  "artist": "EGOIST",
+  "artist": "EGOIST [TVアニメ PSYCHO-PASS サイコパス]",
   "collection": "【歌切】[2026-06-18]离生日LIVE还有一个月！！全力送上歌声🍎🌟 緋那ちび_Vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jAj66HEfm?p=9",

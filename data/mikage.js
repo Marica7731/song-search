@@ -1,6 +1,6 @@
 // 深影 - 歌单数据 (多合集汇总)
 // 来源: BV12mQ3B6EpP
-// 生成时间: 8/4/2026, 9:55:15 AM
+// 生成时间: 8/4/2026, 10:06:18 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -775,7 +775,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "斜陽",
-  "artist": "ヨルシカ",
+  "artist": "ヨルシカ [TVアニメ 僕の心のヤバイやつ]",
   "collection": "【歌切】[2026-06-06]凌晨4点的灵界 深影 - Mikage -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dsEJ6aEx2?p=7",

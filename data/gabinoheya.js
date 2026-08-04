@@ -1,6 +1,6 @@
 // がびのお部屋 - 歌单数据 (多合集汇总)
 // 来源: BV1YtwtzREbp
-// 生成时间: 8/4/2026, 9:47:42 AM
+// 生成时间: 8/4/2026, 9:59:07 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -279,7 +279,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "センパイ。",
-  "artist": "HoneyWorks meets TrySail",
+  "artist": "HoneyWorks meets TrySail [映画 好きになるその瞬間を。〜告白実行委員会〜]",
   "collection": "歌切 2026-04-16 がびのお部屋-Gabi's room- g0Kpr3CuOWU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18JdqB8EvR?p=7",
@@ -303,7 +303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "遠いこの街で",
-  "artist": "皆谷尚美",
+  "artist": "皆谷尚美 [映画 劇場版カードキャプターさくら]",
   "collection": "歌切 2026-04-16 がびのお部屋-Gabi's room- g0Kpr3CuOWU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18JdqB8EvR?p=10",

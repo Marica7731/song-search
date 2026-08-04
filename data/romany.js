@@ -1,6 +1,6 @@
 // ロマニ - 歌单数据 (多合集汇总)
 // 来源: BV1KHXxBUErU, BV1iHQXBzEgU
-// 生成时间: 8/4/2026, 9:31:53 AM
+// 生成时间: 8/4/2026, 9:43:16 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1351,7 +1351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Best Friend",
-  "artist": "Kiroro",
+  "artist": "Kiroro[粉丝向]",
   "collection": "【ロマニードットアイオー弾き語り歌切】星期日定期歌回 ── 直播结束后想悠闲度过[2026-03-29][JObN2--Hvmk]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bbXRBiEz8?p=7",

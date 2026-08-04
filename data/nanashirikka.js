@@ -1,6 +1,6 @@
 // ななし律歌 - 歌单数据 (多合集汇总)
 // 来源: BV1wHQVBTEU5
-// 生成时间: 8/4/2026, 9:46:53 AM
+// 生成时间: 8/4/2026, 9:57:49 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -527,7 +527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "クスシキ",
-  "artist": "Mrs. GREEN APPLE",
+  "artist": "Mrs. GREEN APPLE [TVアニメ 薬屋のひとりごと 第2期]",
   "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=4",
@@ -543,7 +543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "瞬き",
-  "artist": "back number",
+  "artist": "back number [映画 8年越しの花嫁 奇跡の実話]",
   "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=6",
@@ -551,7 +551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "逆光",
-  "artist": "Ado",
+  "artist": "Ado [映画 ONE PIECE FILM RED]",
   "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=7",
@@ -567,7 +567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "GLAMOROUS SKY",
-  "artist": "NANA starring MIKA NAKASHIMA",
+  "artist": "NANA starring MIKA NAKASHIMA [映画 NANA]",
   "collection": "【歌切】[2026-06-11]想唱各种歌的歌回 ななし律歌 / Nanashi Rikka",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eUJV61E4T?p=9",
@@ -687,7 +687,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "突破口",
-  "artist": "SUPER BEAVER",
+  "artist": "SUPER BEAVER [TVアニメ ハイキュー!! TO THE TOP]",
   "collection": "【歌切】[2026-06-17]突然想唱歌的夜晚也是有的呢 ななし律歌 / Nanashi Rikka",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13zLZ6dEdk?p=3",
@@ -695,7 +695,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花の塔",
-  "artist": "さユり",
+  "artist": "さユり [TVアニメ リコリス・リコイル]",
   "collection": "【歌切】[2026-06-17]突然想唱歌的夜晚也是有的呢 ななし律歌 / Nanashi Rikka",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13zLZ6dEdk?p=4",
@@ -703,7 +703,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花になって",
-  "artist": "緑黄色社会",
+  "artist": "緑黄色社会 [TVアニメ 薬屋のひとりごと]",
   "collection": "【歌切】[2026-06-17]突然想唱歌的夜晚也是有的呢 ななし律歌 / Nanashi Rikka",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13zLZ6dEdk?p=5",
@@ -719,7 +719,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "REVIVER",
-  "artist": "MY FIRST STORY",
+  "artist": "MY FIRST STORY [ゲーム オルタンシア・サーガ -蒼の騎士団-]",
   "collection": "【歌切】[2026-06-17]突然想唱歌的夜晚也是有的呢 ななし律歌 / Nanashi Rikka",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13zLZ6dEdk?p=7",

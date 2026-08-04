@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 8/4/2026, 9:06:57 AM
+// 生成时间: 8/4/2026, 9:17:14 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3463,7 +3463,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Beautiful World",
-  "artist": "宇多田ヒカル",
+  "artist": "宇多田ヒカル [映画 ヱヴァンゲリヲン新劇場版:序]",
   "collection": "#68【稀羽すう 14】水曜定期歌枠🎶11. again - YUI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UE421L7iC?p=5",
@@ -3479,7 +3479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "晴る",
-  "artist": "ヨルシカ",
+  "artist": "ヨルシカ [TVアニメ 葬送のフリーレン]",
   "collection": "#68【稀羽すう 14】水曜定期歌枠🎶11. again - YUI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UE421L7iC?p=7",
@@ -3503,7 +3503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メリッサ",
-  "artist": "ポルノグラフィティ",
+  "artist": "ポルノグラフィティ [TVアニメ 鋼の錬金術師]",
   "collection": "#68【稀羽すう 14】水曜定期歌枠🎶11. again - YUI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UE421L7iC?p=10",
@@ -3511,7 +3511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "again",
-  "artist": "YUI",
+  "artist": "YUI [TVアニメ 鋼の錬金術師 FULLMETAL ALCHEMIST]",
   "collection": "#68【稀羽すう 14】水曜定期歌枠🎶11. again - YUI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UE421L7iC?p=11",
@@ -8918,7 +8918,7 @@ window.SONG_DATA.push(
   "source": "suu_usuwa.js"
 },
     {
-  "title": "Don't say \"lazy\"",
+  "title": "04.Don't say \"lazy\"",
   "artist": "放課後ティータイム",
   "collection": "#90 稀羽すう】星期三的定期歌回🎶",
   "up": "前尘往事如昔故",

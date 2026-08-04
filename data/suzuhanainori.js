@@ -1,6 +1,6 @@
 // 鈴花いのり - 歌单数据 (多合集汇总)
 // 来源: BV1jyjK6sEns
-// 生成时间: 8/4/2026, 10:18:12 AM
+// 生成时间: 8/4/2026, 10:28:02 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -103,7 +103,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "もうそう♡えくすぷれす",
-  "artist": "千石撫子(CV:花澤香菜)",
+  "artist": "千石撫子(CV:花澤香菜) [TVアニメ 囮物語]",
   "collection": "歌切 2026-06-14 鈴花いのり - Suzuhana Inori - cLoOdpAgqAU 星期日定期𝜗𝜚.⋆ 反差声线怎么样？♡欢迎初见的朋友！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jyjK6sEns?p=13",
@@ -207,7 +207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "崖の上のポニョ",
-  "artist": "藤岡藤巻と大橋のぞみ",
+  "artist": "藤岡藤巻と大橋のぞみ [映画 崖の上のポニョ]",
   "collection": "歌切 2026-06-14 鈴花いのり - Suzuhana Inori - cLoOdpAgqAU 星期日定期𝜗𝜚.⋆ 反差声线怎么样？♡欢迎初见的朋友！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jyjK6sEns?p=26",
@@ -231,7 +231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Sincerely",
-  "artist": "TRUE",
+  "artist": "TRUE [TVアニメ ヴァイオレット・エヴァーガーデン]",
   "collection": "歌切 2026-06-14 鈴花いのり - Suzuhana Inori - cLoOdpAgqAU 星期日定期𝜗𝜚.⋆ 反差声线怎么样？♡欢迎初见的朋友！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jyjK6sEns?p=29",
@@ -239,7 +239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "優しさの理由",
-  "artist": "ChouCho",
+  "artist": "ChouCho [TVアニメ 氷菓]",
   "collection": "歌切 2026-06-14 鈴花いのり - Suzuhana Inori - cLoOdpAgqAU 星期日定期𝜗𝜚.⋆ 反差声线怎么样？♡欢迎初见的朋友！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jyjK6sEns?p=30",

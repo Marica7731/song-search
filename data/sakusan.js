@@ -1,6 +1,6 @@
 // 酢酸 / SAKUSAN - 歌单数据 (多合集汇总)
 // 来源: BV1JSZHBrEVw
-// 生成时间: 8/4/2026, 9:09:10 AM
+// 生成时间: 8/4/2026, 9:19:59 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -934,7 +934,7 @@ window.SONG_DATA.push(
   "source": "sakusan.js"
 },
     {
-  "title": "ノーザンクロス",
+  "title": "10.ノーザンクロス",
   "artist": "シェリル・ノーム starring May'n",
   "collection": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "up": "前尘往事如昔故",
@@ -974,7 +974,7 @@ window.SONG_DATA.push(
   "source": "sakusan.js"
 },
     {
-  "title": "アイドル",
+  "title": "15.アイドル",
   "artist": "YOASOBI",
   "collection": "【酢酸 / SAKUSAN 歌切】[2026-01-18]新年初、歌います！！！挑戦曲あり！[9IQXktPcmdg]",
   "up": "前尘往事如昔故",

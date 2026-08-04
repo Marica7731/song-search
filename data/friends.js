@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 8/4/2026, 9:33:11 AM
+// 生成时间: 8/4/2026, 9:44:47 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -710,7 +710,7 @@ window.SONG_DATA.push(
   "source": "friends.js"
 },
     {
-  "title": "水平線",
+  "title": "06.水平線",
   "artist": "back number",
   "collection": "【 橙里セイ / Figaro 】7】和橙里セイ酱一起唱歌！【241008】",
   "up": "前尘往事如昔故",
@@ -1951,7 +1951,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花の塔",
-  "artist": "さユり",
+  "artist": "さユり [TVアニメ リコリス・リコイル]",
   "collection": "联动歌切 2026-06-05  与巫てんり的联动歌回！七海うらら首登Zepp纪念",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV188Ef6aE3W?p=2",
@@ -1959,7 +1959,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "オリオンをなぞる",
-  "artist": "UNISON SQUARE GARDEN",
+  "artist": "UNISON SQUARE GARDEN [TVアニメ TIGER & BUNNY]",
   "collection": "联动歌切 2026-06-05  与巫てんり的联动歌回！七海うらら首登Zepp纪念",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV188Ef6aE3W?p=3",
@@ -1975,7 +1975,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君の知らない物語",
-  "artist": "supercell",
+  "artist": "supercell [TVアニメ 化物語]",
   "collection": "联动歌切 2026-06-05  与巫てんり的联动歌回！七海うらら首登Zepp纪念",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV188Ef6aE3W?p=5",
@@ -1983,7 +1983,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "創聖のアクエリオン",
-  "artist": "AKINO from bless4",
+  "artist": "AKINO from bless4 [TVアニメ 創聖のアクエリオン]",
   "collection": "联动歌切 2026-06-05  与巫てんり的联动歌回！七海うらら首登Zepp纪念",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV188Ef6aE3W?p=6",
@@ -1991,7 +1991,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "私は最強",
-  "artist": "Ado",
+  "artist": "Ado [映画 ONE PIECE FILM RED]",
   "collection": "联动歌切 2026-06-10 与白玖ウタノ联动歌回！纪念七海うらら首次Zepp演出 Nanami Urara",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YJEo6hEfv?p=1",
@@ -1999,7 +1999,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "放課後オーバーフロウ",
-  "artist": "ランカ・リー＝中島愛",
+  "artist": "ランカ・リー＝中島愛 [劇場版 マクロスF 恋離飛翼〜サヨナラノツバサ〜]",
   "collection": "联动歌切 2026-06-10 与白玖ウタノ联动歌回！纪念七海うらら首次Zepp演出 Nanami Urara",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YJEo6hEfv?p=2",
@@ -2007,7 +2007,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "UNION",
-  "artist": "OxT",
+  "artist": "OxT [TVアニメ SSSS.GRIDMAN]",
   "collection": "联动歌切 2026-06-10 与白玖ウタノ联动歌回！纪念七海うらら首次Zepp演出 Nanami Urara",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YJEo6hEfv?p=3",
@@ -2015,7 +2015,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Rising Hope",
-  "artist": "LiSA",
+  "artist": "LiSA [TVアニメ 魔法科高校の劣等生]",
   "collection": "联动歌切 2026-06-10 与白玖ウタノ联动歌回！纪念七海うらら首次Zepp演出 Nanami Urara",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YJEo6hEfv?p=4",
@@ -2023,7 +2023,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "桜ロック",
-  "artist": "CHERRYBLOSSOM",
+  "artist": "CHERRYBLOSSOM [TVアニメ 家庭教師ヒットマンREBORN!]",
   "collection": "联动歌切 2026-06-10 与白玖ウタノ联动歌回！纪念七海うらら首次Zepp演出 Nanami Urara",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YJEo6hEfv?p=5",
@@ -2031,7 +2031,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "オリオンをなぞる",
-  "artist": "UNISON SQUARE GARDEN",
+  "artist": "UNISON SQUARE GARDEN [TVアニメ TIGER & BUNNY]",
   "collection": "联动歌切 2026-06-10 与白玖ウタノ联动歌回！纪念七海うらら首次Zepp演出 Nanami Urara",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YJEo6hEfv?p=6",
@@ -2039,7 +2039,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Can Do",
-  "artist": "GRANRODEO",
+  "artist": "GRANRODEO [松永依織 / 巫てんり / 白玖ウタノ / VESPERBELL]",
   "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=1",
@@ -2047,7 +2047,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Blazing Out",
-  "artist": "松永依織",
+  "artist": "松永依織 [松永依織]",
   "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=2",
@@ -2055,7 +2055,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "未来証明",
-  "artist": "白玖ウタノ",
+  "artist": "白玖ウタノ [白玖ウタノ]",
   "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=3",
@@ -2063,7 +2063,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "NO MORE!!",
-  "artist": "VESPERBELL",
+  "artist": "VESPERBELL [VESPERBELL]",
   "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=4",
@@ -2071,7 +2071,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Reveal",
-  "artist": "巫てんり",
+  "artist": "巫てんり [巫てんり]",
   "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=5",
@@ -2079,7 +2079,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "No pain, No game",
-  "artist": "ナノ",
+  "artist": "ナノ [松永依織 / 巫てんり]",
   "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=6",
@@ -2087,7 +2087,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "カオスが極まる",
-  "artist": "UNISON SQUARE GARDEN",
+  "artist": "UNISON SQUARE GARDEN [松永依織 / カスカ]",
   "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=7",
@@ -2095,7 +2095,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "1,000,000 TIMES feat.chelly（EGOIST）",
-  "artist": "MY FIRST STORY",
+  "artist": "MY FIRST STORY [ヨミ / 松永依織]",
   "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=8",
@@ -2103,7 +2103,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ともに",
-  "artist": "WANIMA",
+  "artist": "WANIMA [白玖ウタノ / 松永依織]",
   "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=9",
@@ -2111,7 +2111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "瞬間センチメンタル",
-  "artist": "SCANDAL",
+  "artist": "SCANDAL [巫てんり / カスカ]",
   "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=10",
@@ -2119,7 +2119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "完全感覚Dreamer",
-  "artist": "ONE OK ROCK",
+  "artist": "ONE OK ROCK [ヨミ / 巫てんり]",
   "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=11",
@@ -2127,7 +2127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "CORE PRIDE",
-  "artist": "UVERworld",
+  "artist": "UVERworld [松永依織 / VESPERBELL]",
   "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=12",
@@ -2135,7 +2135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "only my railgun",
-  "artist": "fripSide",
+  "artist": "fripSide [白玖ウタノ / 松永依織 / 巫てんり]",
   "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=13",
@@ -2143,7 +2143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "オレンジ",
-  "artist": "SPYAIR",
+  "artist": "SPYAIR [松永依織 / 巫てんり / 白玖ウタノ / VESPERBELL]",
   "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=14",
@@ -2151,7 +2151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Awaken Now",
-  "artist": "松永依織",
+  "artist": "松永依織 [松永依織 / 巫てんり / 白玖ウタノ / VESPERBELL]",
   "collection": "联动歌切 2026-06-09 松永依織 3D摇滚音乐节 \"IM_ROCK\"",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14eEf6fEez?p=15",
@@ -2159,7 +2159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ウィーアー!",
-  "artist": "きただにひろし",
+  "artist": "きただにひろし [TVアニメ ONE PIECE]",
   "collection": "联动歌切 よしか⁂（YOSHIKA⁂）❌七海うらら 2026-06-14 与よしか⁂酱的联动歌回！纪念七海うらら首次Zepp演出",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15VJK64Ebp?p=1",
@@ -2191,7 +2191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "DISCOTHEQUE",
-  "artist": "水樹奈々",
+  "artist": "水樹奈々 [TVアニメ ロザリオとバンパイア CAPU2]",
   "collection": "联动歌切 よしか⁂（YOSHIKA⁂）❌七海うらら 2026-06-14 与よしか⁂酱的联动歌回！纪念七海うらら首次Zepp演出",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15VJK64Ebp?p=5",
@@ -2199,7 +2199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "恋は渾沌の隷也",
-  "artist": "後ろから這いより隊G",
+  "artist": "後ろから這いより隊G [TVアニメ 這いよれ！ニャル子さんW]",
   "collection": "联动歌切 よしか⁂（YOSHIKA⁂）❌七海うらら 2026-06-14 与よしか⁂酱的联动歌回！纪念七海うらら首次Zepp演出",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15VJK64Ebp?p=6",
@@ -2567,7 +2567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花の塔",
-  "artist": "さユり",
+  "artist": "さユり [TVアニメ リコリス・リコイル]",
   "collection": "联动歌切 2026-06-29 松永依織与七海うらら的联动歌回💎🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bkKR69EJ8?p=8",

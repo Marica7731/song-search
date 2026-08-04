@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 8/4/2026, 9:51:12 AM
+// 生成时间: 8/4/2026, 10:02:27 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -751,7 +751,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "世界は恋に落ちている",
-  "artist": "CHiCO with HoneyWorks",
+  "artist": "CHiCO with HoneyWorks [TVアニメ アオハライド]",
   "collection": "【歌切】[2026-06-04]6月第一场歌回！悠闲的唱歌时间♪ からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19PEN6SECg?p=7",
@@ -759,7 +759,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "オラはにんきもの",
-  "artist": "のはらしんのすけ(CV:矢島晶子)",
+  "artist": "のはらしんのすけ(CV:矢島晶子) [TVアニメ クレヨンしんちゃん]",
   "collection": "【歌切】[2026-06-04]6月第一场歌回！悠闲的唱歌时间♪ からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19PEN6SECg?p=8",
@@ -807,7 +807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Ghost of a smile",
-  "artist": "EGOIST",
+  "artist": "EGOIST [映画 ハーモニー]",
   "collection": "【歌切】[2026-06-06]湿润的歌回时间到啦～☔🎤！！ からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cHEH6VEsm?p=1",
@@ -967,7 +967,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "コトノハ",
-  "artist": "tuki.",
+  "artist": "tuki. [ドラマ 夫に間違いありません]",
   "collection": "【歌切】[2026-06-09]从首次直播到现在已经一个月了！！充满感谢与感动的歌回！ からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EYEU6SEwe?p=2",
@@ -975,7 +975,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いのちの名前",
-  "artist": "木村弓",
+  "artist": "木村弓 [映画 千と千尋の神隠し]",
   "collection": "【歌切】[2026-06-09]从首次直播到现在已经一个月了！！充满感谢与感动的歌回！ からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EYEU6SEwe?p=3",
@@ -1039,7 +1039,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "相思相愛",
-  "artist": "Official髭男dism",
+  "artist": "Official髭男dism [映画 名探偵コナン 100万ドルの五稜星]",
   "collection": "【歌切】[2026-06-10]🎊会员功能解禁了！！非常感谢！！歌回 からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hHEo6FESX?p=7",
@@ -1063,7 +1063,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "笑顔",
-  "artist": "いきものがかり",
+  "artist": "いきものがかり [映画 劇場版ポケットモンスター 神速のゲノセクト ミュウツー覚醒]",
   "collection": "【歌切】[2026-06-10]🎊会员功能解禁了！！非常感谢！！歌回 からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hHEo6FESX?p=10",
@@ -1287,7 +1287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アイのシナリオ",
-  "artist": "CHiCO with HoneyWorks",
+  "artist": "CHiCO with HoneyWorks [TVアニメ まじっく快斗1412]",
   "collection": "【歌切】[2026-06-19]周末前的疗愈歌回！！🎹🎸 からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zNjk6oENf?p=4",
@@ -1311,7 +1311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ファンサ",
-  "artist": "mona(CV:夏川椎菜)",
+  "artist": "mona(CV:夏川椎菜) [HoneyWorks]",
   "collection": "【歌切】[2026-06-19]周末前的疗愈歌回！！🎹🎸 からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zNjk6oENf?p=7",
@@ -1319,7 +1319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "more than words",
-  "artist": "羊文学",
+  "artist": "羊文学 [TVアニメ 呪術廻戦 渋谷事変]",
   "collection": "【歌切】[2026-06-19]周末前的疗愈歌回！！🎹🎸 からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zNjk6oENf?p=8",
@@ -1351,7 +1351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "星降る海",
-  "artist": "Aqu3ra feat.月見ヤチヨ(CV:早見沙織)",
+  "artist": "Aqu3ra feat.月見ヤチヨ(CV:早見沙織) [映画 超かぐや姫！]",
   "collection": "【歌切】[2026-06-19]周末前的疗愈歌回！！🎹🎸 からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zNjk6oENf?p=12",
@@ -1359,7 +1359,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "輝く未来",
-  "artist": "小此木麻里、畠中洋",
+  "artist": "小此木麻里、畠中洋 [映画 塔の上のラプンツェル]",
   "collection": "【歌切】[2026-06-19]周末前的疗愈歌回！！🎹🎸 からくりんね-KarakuRinne",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zNjk6oENf?p=13",

@@ -1,6 +1,6 @@
 // HoshiHo - 歌单数据 (多合集汇总)
 // 来源: BV11fQSB2ELX
-// 生成时间: 8/4/2026, 9:18:58 AM
+// 生成时间: 8/4/2026, 9:30:12 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2175,7 +2175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "太陽がまた輝くとき",
-  "artist": "高橋ひろ",
+  "artist": "高橋ひろ [TVアニメ 幽☆遊☆白書]",
   "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=1",
@@ -2183,7 +2183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "嵐の中で輝いて",
-  "artist": "米倉千尋",
+  "artist": "米倉千尋 [OVA 機動戦士ガンダム 第08MS小隊]",
   "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=2",
@@ -2191,7 +2191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "みずいろの雨",
-  "artist": "八神純子",
+  "artist": "八神純子 [映画 天使のはらわた 名美]",
   "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=3",
@@ -2199,7 +2199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "JUST COMMUNICATION",
-  "artist": "TWO-MIX",
+  "artist": "TWO-MIX [TVアニメ 新機動戦記ガンダムW]",
   "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=4",
@@ -2207,7 +2207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "曇天",
-  "artist": "DOES",
+  "artist": "DOES [TVアニメ 銀魂]",
   "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=5",
@@ -2215,7 +2215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青空のナミダ",
-  "artist": "高橋瞳",
+  "artist": "高橋瞳 [TVアニメ BLOOD+]",
   "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=6",
@@ -2223,7 +2223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Eternal Love 2003",
-  "artist": "飯島真理",
+  "artist": "飯島真理 [ゲーム GALAXY ANGEL]",
   "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=7",
@@ -2231,7 +2231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "僕たちの行方",
-  "artist": "高橋瞳",
+  "artist": "高橋瞳 [TVアニメ 機動戦士ガンダムSEED DESTINY]",
   "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=8",
@@ -2239,7 +2239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サイレント・ヴォイス",
-  "artist": "ひろえ純",
+  "artist": "ひろえ純 [TVアニメ 機動戦士ガンダムΖΖ]",
   "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=9",
@@ -2247,7 +2247,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "AIZO",
-  "artist": "King Gnu",
+  "artist": "King Gnu [TVアニメ 呪術廻戦 死滅回游 前編]",
   "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=10",
@@ -2255,7 +2255,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君をのせて",
-  "artist": "井上あずみ",
+  "artist": "井上あずみ [映画 天空の城ラピュタ]",
   "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=11",
@@ -2263,7 +2263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "It's gonna rain!",
-  "artist": "BONNIE PINK",
+  "artist": "BONNIE PINK [TVアニメ るろうに剣心 -明治剣客浪漫譚-]",
   "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=12",
@@ -2279,7 +2279,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "relations",
-  "artist": "星井美希(CV:長谷川明子)",
+  "artist": "星井美希(CV:長谷川明子) [THE IDOLM@STER]",
   "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=14",
@@ -2287,7 +2287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "光と影を抱きしめたまま",
-  "artist": "田村直美",
+  "artist": "田村直美 [TVアニメ 魔法騎士レイアース]",
   "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=15",
@@ -2295,7 +2295,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "光るなら",
-  "artist": "Goose house",
+  "artist": "Goose house [TVアニメ 四月は君の嘘]",
   "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=16",
@@ -2303,7 +2303,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "レイン",
-  "artist": "シド",
+  "artist": "シド [TVアニメ 鋼の錬金術師 FULLMETAL ALCHEMIST]",
   "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=17",
@@ -2311,7 +2311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "嘘",
-  "artist": "シド",
+  "artist": "シド [TVアニメ 鋼の錬金術師 FULLMETAL ALCHEMIST]",
   "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=18",
@@ -2319,7 +2319,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "again",
-  "artist": "YUI",
+  "artist": "YUI [TVアニメ 鋼の錬金術師 FULLMETAL ALCHEMIST]",
   "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=19",
@@ -2327,7 +2327,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "扉の向こうへ",
-  "artist": "YeLLOW Generation",
+  "artist": "YeLLOW Generation [TVアニメ 鋼の錬金術師]",
   "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=20",
@@ -2335,7 +2335,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メリッサ",
-  "artist": "ポルノグラフィティ",
+  "artist": "ポルノグラフィティ [TVアニメ 鋼の錬金術師]",
   "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=21",
@@ -2343,7 +2343,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アメフラシの歌 〜Beautiful Rain〜",
-  "artist": "ニケ・ルメルシエ(CV:前田玲奈)",
+  "artist": "ニケ・ルメルシエ(CV:前田玲奈) [TVアニメ それでも世界は美しい]",
   "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=22",

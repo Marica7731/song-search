@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 8/4/2026, 10:03:06 AM
+// 生成时间: 8/4/2026, 10:13:03 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -495,7 +495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "secret base 〜君がくれたもの〜",
-  "artist": "ZONE",
+  "artist": "ZONE [ドラマ キッズ・ウォー3]",
   "collection": "【歌切】[2026-06-10]无计划选曲开唱✨来选些很久没唱的歌吧～！！ Hanon Ch. 香鳴ハノン【パレプロ】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18iE661EB5?p=5",
@@ -519,7 +519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "クリスマスソング",
-  "artist": "back number",
+  "artist": "back number [ドラマ 5→9〜私に恋したお坊さん〜]",
   "collection": "【歌切】[2026-06-10]无计划选曲开唱✨来选些很久没唱的歌吧～！！ Hanon Ch. 香鳴ハノン【パレプロ】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18iE661EB5?p=8",
@@ -527,7 +527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ベテルギウス",
-  "artist": "優里",
+  "artist": "優里 [ドラマ SUPER RICH]",
   "collection": "【歌切】[2026-06-10]无计划选曲开唱✨来选些很久没唱的歌吧～！！ Hanon Ch. 香鳴ハノン【パレプロ】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18iE661EB5?p=9",
@@ -535,7 +535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "白日",
-  "artist": "King Gnu",
+  "artist": "King Gnu [ドラマ イノセンス 冤罪弁護士]",
   "collection": "【歌切】[2026-06-10]无计划选曲开唱✨来选些很久没唱的歌吧～！！ Hanon Ch. 香鳴ハノン【パレプロ】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18iE661EB5?p=10",

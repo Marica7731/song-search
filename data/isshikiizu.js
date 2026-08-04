@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 8/4/2026, 10:21:37 AM
+// 生成时间: 8/4/2026, 10:32:04 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -183,7 +183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花の塔",
-  "artist": "さユり",
+  "artist": "さユり [TVアニメ リコリス・リコイル]",
   "collection": "一色イズ ⟡ Isshiki_IS歌切 2026-06-25 带给你治愈与元气！歌回🌟新观众大欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1co7i6QEez?p=23",

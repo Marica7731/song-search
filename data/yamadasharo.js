@@ -1,6 +1,6 @@
 // 山田シャロ - 歌单数据 (多合集汇总)
 // 来源: BV179L66pE1f
-// 生成时间: 8/4/2026, 9:56:44 AM
+// 生成时间: 8/4/2026, 10:07:47 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -263,7 +263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ノーザンクロス",
-  "artist": "シェリル ノーム",
+  "artist": "シェリル ノーム [CV: May'n]",
   "collection": "【歌切】[2026-05-17]用最强嗓音唱超燃动漫歌曲，唱个够♪🎤 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qoL66nEZB?p=9",
@@ -439,7 +439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "God knows...",
-  "artist": "涼宮ハルヒ",
+  "artist": "涼宮ハルヒ [CV: 平野綾]",
   "collection": "【歌切】[2026-05-22]想在竖屏直播中遇到初次见面的观众！✨ SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19QGi64E9d?p=7",
@@ -575,7 +575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ダイアモンド クレバス",
-  "artist": "シェリル・ノーム",
+  "artist": "シェリル・ノーム [CV: May'n]",
   "collection": "【歌切】[2026-05-24]目标同时在线50人！请找到我✨❤ SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6Gn6UEKF?p=8",
@@ -871,7 +871,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ノーザンクロス",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [TVアニメ マクロスF]",
   "collection": "【歌切】[2026-06-14]动漫歌曲专场 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUJT6HEL7?p=1",
@@ -879,7 +879,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "空色デイズ",
-  "artist": "中川翔子",
+  "artist": "中川翔子 [TVアニメ 天元突破グレンラガン]",
   "collection": "【歌切】[2026-06-14]动漫歌曲专场 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUJT6HEL7?p=2",
@@ -887,7 +887,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "名前のない怪物",
-  "artist": "EGOIST",
+  "artist": "EGOIST [TVアニメ PSYCHO-PASS サイコパス]",
   "collection": "【歌切】[2026-06-14]动漫歌曲专场 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUJT6HEL7?p=3",
@@ -895,7 +895,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "創聖のアクエリオン",
-  "artist": "AKINO from bless4",
+  "artist": "AKINO from bless4 [TVアニメ 創聖のアクエリオン]",
   "collection": "【歌切】[2026-06-14]动漫歌曲专场 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUJT6HEL7?p=4",
@@ -903,7 +903,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "残酷な天使のテーゼ",
-  "artist": "高橋洋子",
+  "artist": "高橋洋子 [TVアニメ 新世紀エヴァンゲリオン]",
   "collection": "【歌切】[2026-06-14]动漫歌曲专场 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUJT6HEL7?p=5",
@@ -911,7 +911,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "勇者",
-  "artist": "YOASOBI",
+  "artist": "YOASOBI [TVアニメ 葬送のフリーレン]",
   "collection": "【歌切】[2026-06-14]动漫歌曲专场 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUJT6HEL7?p=6",
@@ -919,7 +919,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "怪物",
-  "artist": "YOASOBI",
+  "artist": "YOASOBI [TVアニメ BEASTARS]",
   "collection": "【歌切】[2026-06-14]动漫歌曲专场 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUJT6HEL7?p=7",
@@ -927,7 +927,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "祝福",
-  "artist": "YOASOBI",
+  "artist": "YOASOBI [TVアニメ 機動戦士ガンダム 水星の魔女]",
   "collection": "【歌切】[2026-06-14]动漫歌曲专场 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUJT6HEL7?p=8",
@@ -935,7 +935,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "晴る",
-  "artist": "ヨルシカ",
+  "artist": "ヨルシカ [TVアニメ 葬送のフリーレン]",
   "collection": "【歌切】[2026-06-14]动漫歌曲专场 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUJT6HEL7?p=9",
@@ -943,7 +943,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ETERNAL BLAZE",
-  "artist": "水樹奈々",
+  "artist": "水樹奈々 [TVアニメ 魔法少女リリカルなのはA's]",
   "collection": "【歌切】[2026-06-14]动漫歌曲专场 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUJT6HEL7?p=10",
@@ -951,7 +951,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Shout Baby",
-  "artist": "緑黄色社会",
+  "artist": "緑黄色社会 [TVアニメ 僕のヒーローアカデミア]",
   "collection": "【歌切】[2026-06-14]动漫歌曲专场 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUJT6HEL7?p=11",
@@ -959,7 +959,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "悪魔の子",
-  "artist": "ヒグチアイ",
+  "artist": "ヒグチアイ [TVアニメ 進撃の巨人 The Final Season Part 2]",
   "collection": "【歌切】[2026-06-14]动漫歌曲专场 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUJT6HEL7?p=12",
@@ -967,7 +967,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君の知らない物語",
-  "artist": "supercell",
+  "artist": "supercell [TVアニメ 化物語]",
   "collection": "【歌切】[2026-06-14]动漫歌曲专场 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUJT6HEL7?p=13",
@@ -975,7 +975,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "一度だけの恋なら",
-  "artist": "ワルキューレ",
+  "artist": "ワルキューレ [TVアニメ マクロスΔ]",
   "collection": "【歌切】[2026-06-14]动漫歌曲专场 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUJT6HEL7?p=14",
@@ -983,7 +983,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "射手座☆午後九時Don't be late",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [TVアニメ マクロスF]",
   "collection": "【歌切】[2026-06-14]动漫歌曲专场 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUJT6HEL7?p=15",
@@ -991,7 +991,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Pray",
-  "artist": "水樹奈々",
+  "artist": "水樹奈々 [TVアニメ 魔法少女リリカルなのはStrikerS]",
   "collection": "【歌切】[2026-06-14]动漫歌曲专场 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUJT6HEL7?p=16",
@@ -999,7 +999,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "BRIGHT STREAM",
-  "artist": "水樹奈々",
+  "artist": "水樹奈々 [映画 魔法少女リリカルなのは The MOVIE 2nd A's]",
   "collection": "【歌切】[2026-06-14]动漫歌曲专场 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUJT6HEL7?p=17",
@@ -1007,7 +1007,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "翼",
-  "artist": "藍井エイル",
+  "artist": "藍井エイル [TVアニメ アルスラーン戦記 風塵乱舞]",
   "collection": "【歌切】[2026-06-14]动漫歌曲专场 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUJT6HEL7?p=18",
@@ -1015,7 +1015,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Rolling star",
-  "artist": "YUI",
+  "artist": "YUI [TVアニメ BLEACH]",
   "collection": "【歌切】[2026-06-14]动漫歌曲专场 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUJT6HEL7?p=19",
@@ -1023,7 +1023,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "カーストルーム",
-  "artist": "ZAQ",
+  "artist": "ZAQ [TVアニメ ようこそ実力至上主義の教室へ]",
   "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=1",
@@ -1031,7 +1031,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "甲賀忍法帖",
-  "artist": "陰陽座",
+  "artist": "陰陽座 [TVアニメ バジリスク 〜甲賀忍法帖〜]",
   "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=2",
@@ -1055,7 +1055,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "紅蓮華",
-  "artist": "LiSA",
+  "artist": "LiSA [TVアニメ 鬼滅の刃]",
   "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=5",
@@ -1063,7 +1063,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "innocent starter",
-  "artist": "水樹奈々",
+  "artist": "水樹奈々 [TVアニメ 魔法少女リリカルなのは]",
   "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=6",
@@ -1071,7 +1071,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "BRIGHT STREAM",
-  "artist": "水樹奈々",
+  "artist": "水樹奈々 [映画 魔法少女リリカルなのは The MOVIE 2nd A's]",
   "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=7",
@@ -1079,7 +1079,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "FEARLESS HERO",
-  "artist": "水樹奈々",
+  "artist": "水樹奈々 [TVアニメ DOG DAYS']",
   "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=8",
@@ -1087,7 +1087,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "粋恋",
-  "artist": "水樹奈々",
+  "artist": "水樹奈々 [TVアニメ バジリスク 〜桜花忍法帖〜]",
   "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=9",
@@ -1111,7 +1111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ダイアモンドクレバス",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [TVアニメ マクロスF]",
   "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=12",
@@ -1119,7 +1119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "革命道中",
-  "artist": "アイナ・ジ・エンド",
+  "artist": "アイナ・ジ・エンド [TVアニメ ダンダダン 第2期]",
   "collection": "【歌切】[2026-06-19]用最强嗓音让你着迷的歌回 🎤🍻👑 SHALO YAMADA -Vsinger-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uyjr63EvT?p=13",

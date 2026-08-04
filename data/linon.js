@@ -1,6 +1,6 @@
 // 天籠りのん - 歌单数据 (多合集汇总)
 // 来源: BV1hw4m1i7qN
-// 生成时间: 8/4/2026, 9:16:17 AM
+// 生成时间: 8/4/2026, 9:27:25 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2470,7 +2470,7 @@ window.SONG_DATA.push(
   "source": "linon.js"
 },
     {
-  "title": "残酷な天使のテーゼ",
+  "title": "01.残酷な天使のテーゼ",
   "artist": "高橋洋子",
   "collection": "接力 感觉音质有点怪，先传下试试",
   "up": "前尘往事如昔故",
@@ -2478,7 +2478,7 @@ window.SONG_DATA.push(
   "source": "linon.js"
 },
     {
-  "title": "Rising Hope",
+  "title": "02.Rising Hope",
   "artist": "LiSA",
   "collection": "接力 感觉音质有点怪，先传下试试",
   "up": "前尘往事如昔故",
@@ -2486,7 +2486,7 @@ window.SONG_DATA.push(
   "source": "linon.js"
 },
     {
-  "title": "Catch the Moment",
+  "title": "03.Catch the Moment",
   "artist": "LiSA",
   "collection": "接力 感觉音质有点怪，先传下试试",
   "up": "前尘往事如昔故",
@@ -2718,7 +2718,7 @@ window.SONG_DATA.push(
   "source": "linon.js"
 },
     {
-  "title": "【 #歌枠 / 生日倒计时 】一直不间断地唱歌直到生日！【 #天籠りのん生日庆典 】",
+  "title": "一直不间断地唱歌直到生日！【 #天籠りのん生日庆典 】",
   "artist": "来源处未提供标准格式歌手",
   "collection": "【 #歌枠 / 生日倒计时 】一直不间断地唱歌直到生日！【 #天籠りのん生日庆典 】",
   "up": "前尘往事如昔故",
@@ -2959,7 +2959,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Catch the Moment",
-  "artist": "LiSA",
+  "artist": "LiSA [映画 ソードアート・オンライン -オーディナル・スケール-]",
   "collection": "2025年7月19日 01. アスノヨゾラ哨戒班 - Orangestar",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tsgxztEWa?p=3",
@@ -2983,7 +2983,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ブリキノダンス",
-  "artist": "日向電工 feat.初音ミク",
+  "artist": "日向電工 feat.初音ミク [b6uRsxSTzTU]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=1",
@@ -2991,7 +2991,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ROCK-mode",
-  "artist": "LiSA",
+  "artist": "LiSA [b6uRsxSTzTU]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=2",
@@ -2999,7 +2999,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "太陽系デスコ",
-  "artist": "ナユタン星人 feat.初音ミク",
+  "artist": "ナユタン星人 feat.初音ミク [b6uRsxSTzTU]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=3",
@@ -3007,7 +3007,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "東京テディベア",
-  "artist": "Neru feat.鏡音リン",
+  "artist": "Neru feat.鏡音リン [b6uRsxSTzTU]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=4",
@@ -3015,7 +3015,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "サインはB",
-  "artist": "B小町",
+  "artist": "B小町 [TVアニメ 【推しの子】] [ZHT5zDLCs-Q]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=5",
@@ -3023,7 +3023,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "世界一可愛い私",
-  "artist": "藤田ことね(CV:飯田ヒカル)",
+  "artist": "藤田ことね(CV:飯田ヒカル) [学園アイドルマスター] [ZHT5zDLCs-Q]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=6",
@@ -3031,7 +3031,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "自己肯定感爆上げ↑↑しゅきしゅきソング",
-  "artist": "藤田ことね(CV:飯田ヒカル)",
+  "artist": "藤田ことね(CV:飯田ヒカル) [学園アイドルマスター] [ZHT5zDLCs-Q]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=7",
@@ -3039,7 +3039,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メルト",
-  "artist": "ryo(supercell) feat.初音ミク",
+  "artist": "ryo(supercell) feat.初音ミク [ZHT5zDLCs-Q]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=8",
@@ -3047,7 +3047,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "踊",
-  "artist": "Ado",
+  "artist": "Ado [RG6EXM-tUEM]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=9",
@@ -3055,7 +3055,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ウタカタララバイ",
-  "artist": "Ado",
+  "artist": "Ado [映画 ONE PIECE FILM RED] [RG6EXM-tUEM]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=10",
@@ -3063,7 +3063,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "阿修羅ちゃん",
-  "artist": "Ado",
+  "artist": "Ado [ドラマ ドクターX〜外科医・大門未知子〜] [RG6EXM-tUEM]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=11",
@@ -3071,7 +3071,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "雑踏、僕らの街",
-  "artist": "トゲナシトゲアリ",
+  "artist": "トゲナシトゲアリ [TVアニメ ガールズバンドクライ] [RG6EXM-tUEM]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=12",
@@ -3079,7 +3079,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Catch the Moment",
-  "artist": "LiSA",
+  "artist": "LiSA [bXxg3UIT4Mk]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=13",
@@ -3087,7 +3087,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シルシ",
-  "artist": "LiSA",
+  "artist": "LiSA [TVアニメ ソードアート・オンラインII] [bXxg3UIT4Mk]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=14",
@@ -3095,7 +3095,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "First Love",
-  "artist": "宇多田ヒカル",
+  "artist": "宇多田ヒカル [ドラマ 魔女の条件] [bXxg3UIT4Mk]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=15",
@@ -3103,7 +3103,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "星座になれたら",
-  "artist": "結束バンド",
+  "artist": "結束バンド [TVアニメ ぼっち・ざ・ろっく！] [bXxg3UIT4Mk]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=16",
@@ -3111,7 +3111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ド屑",
-  "artist": "なきそ feat.歌愛ユキ",
+  "artist": "なきそ feat.歌愛ユキ [bXxg3UIT4Mk]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=17",
@@ -3119,7 +3119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "カワキヲアメク",
-  "artist": "美波",
+  "artist": "美波 [TVアニメ ドメスティックな彼女] [G0ibC_vxFcQ]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=18",
@@ -3127,7 +3127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ラヴィ",
-  "artist": "すりぃ feat.鏡音レン",
+  "artist": "すりぃ feat.鏡音レン [G0ibC_vxFcQ]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=19",
@@ -3135,7 +3135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "バグ",
-  "artist": "かいりきベア feat.初音ミク",
+  "artist": "かいりきベア feat.初音ミク [G0ibC_vxFcQ]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=20",
@@ -3143,7 +3143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メメメのメ",
-  "artist": "天籠りのん",
+  "artist": "天籠りのん [G0ibC_vxFcQ]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=21",
@@ -3151,7 +3151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "雨はことだま",
-  "artist": "天籠りのん",
+  "artist": "天籠りのん [0xTgWuqwyg8]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=22",
@@ -3159,7 +3159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "虚無虚無です。",
-  "artist": "天籠りのん",
+  "artist": "天籠りのん [0xTgWuqwyg8]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=23",
@@ -3167,7 +3167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "絶対零度の世界から",
-  "artist": "VEE",
+  "artist": "VEE [0xTgWuqwyg8]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=24",
@@ -3175,7 +3175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ノーザンクロス",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [TVアニメ マクロスF] [0xTgWuqwyg8]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=25",
@@ -3183,7 +3183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "フォニイ",
-  "artist": "ツミキ feat.可不",
+  "artist": "ツミキ feat.可不 [bYB_0UYdcjI]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=26",
@@ -3191,7 +3191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シャルル",
-  "artist": "バルーン feat.flower",
+  "artist": "バルーン feat.flower [bYB_0UYdcjI]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=27",
@@ -3199,7 +3199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メルト",
-  "artist": "ryo(supercell) feat.初音ミク",
+  "artist": "ryo(supercell) feat.初音ミク [bYB_0UYdcjI]",
   "collection": "【Linon ch. 天籠りのん】28P 2025-05 ~ 2025-12",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BumHBkEX9?p=28",

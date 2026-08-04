@@ -1,13 +1,13 @@
 // みなとん - 歌单数据 (多合集汇总)
 // 来源: BV1TqGY6gEEf
-// 生成时间: 8/4/2026, 10:09:54 AM
+// 生成时间: 8/4/2026, 10:19:18 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
     {
   "title": "Butter-Fly",
-  "artist": "和田光司",
+  "artist": "和田光司 [TVアニメ デジモンアドベンチャー]",
   "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=1",
@@ -15,7 +15,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Bling-Bang-Bang-Born",
-  "artist": "Creepy Nuts",
+  "artist": "Creepy Nuts [TVアニメ マッシュル-MASHLE- 神覚者候補選抜試験編]",
   "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=2",
@@ -55,7 +55,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "雪、無音、窓辺にて。",
-  "artist": "長門有希(CV:茅原実里)",
+  "artist": "長門有希(CV:茅原実里) [TVアニメ 涼宮ハルヒの憂鬱]",
   "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=7",
@@ -103,7 +103,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アイドル",
-  "artist": "YOASOBI",
+  "artist": "YOASOBI [TVアニメ 【推しの子】]",
   "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=13",
@@ -111,7 +111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "新時代",
-  "artist": "Ado",
+  "artist": "Ado [映画 ONE PIECE FILM RED]",
   "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=14",
@@ -119,7 +119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "私は最強",
-  "artist": "Ado",
+  "artist": "Ado [映画 ONE PIECE FILM RED]",
   "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=15",
@@ -127,7 +127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "射手座☆午後九時Don't be late",
-  "artist": "シェリル・ノーム starring May'n",
+  "artist": "シェリル・ノーム starring May'n [TVアニメ マクロスF]",
   "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=16",
@@ -135,7 +135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ライオン",
-  "artist": "May'n / 中島愛",
+  "artist": "May'n / 中島愛 [TVアニメ マクロスF]",
   "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=17",
@@ -143,7 +143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ファンサ",
-  "artist": "mona(CV:夏川椎菜)",
+  "artist": "mona(CV:夏川椎菜) [HoneyWorks]",
   "collection": "【歌切】捞了一首熱異常，挺好听的[2025-11-01]如果卡拉OK连续低于85分就立刻引退歌回 みなとん。は歌う",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fUjW6yEzQ?p=18",
@@ -391,7 +391,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "oath sign",
-  "artist": "LiSA",
+  "artist": "LiSA [2011年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=1",
@@ -399,7 +399,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花の塔",
-  "artist": "さユり",
+  "artist": "さユり [2022年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=2",
@@ -407,7 +407,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "片翼のイカロス",
-  "artist": "榊原ゆい",
+  "artist": "榊原ゆい [2008年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=3",
@@ -415,7 +415,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "コネクト",
-  "artist": "ClariS",
+  "artist": "ClariS [2011年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=4",
@@ -423,7 +423,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "only my railgun",
-  "artist": "fripSide",
+  "artist": "fripSide [2009年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=5",
@@ -431,7 +431,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花になって",
-  "artist": "緑黄色社会",
+  "artist": "緑黄色社会 [2023年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=6",
@@ -439,7 +439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "crossing field",
-  "artist": "LiSA",
+  "artist": "LiSA [2012年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=7",
@@ -447,7 +447,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青のすみか",
-  "artist": "キタニタツヤ",
+  "artist": "キタニタツヤ [2023年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=8",
@@ -455,7 +455,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "インフェルノ",
-  "artist": "Mrs. GREEN APPLE",
+  "artist": "Mrs. GREEN APPLE [2019年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=9",
@@ -463,7 +463,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "真っ赤な誓い",
-  "artist": "福山芳樹",
+  "artist": "福山芳樹 [2006年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=10",
@@ -471,7 +471,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "GONG",
-  "artist": "JAM Project",
+  "artist": "JAM Project [2005年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=11",
@@ -479,7 +479,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Shangri-La",
-  "artist": "angela",
+  "artist": "angela [2004年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=12",
@@ -487,7 +487,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Unravel",
-  "artist": "TK from 凛として時雨",
+  "artist": "TK from 凛として時雨 [2014年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=13",
@@ -495,7 +495,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "悪魔の子",
-  "artist": "ヒグチアイ",
+  "artist": "ヒグチアイ [2022年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=14",
@@ -503,7 +503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "鳥の詩",
-  "artist": "Lia",
+  "artist": "Lia [2000年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=15",
@@ -511,7 +511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "魂のルフラン",
-  "artist": "高橋洋子",
+  "artist": "高橋洋子 [1997年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=16",
@@ -519,7 +519,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "創聖のアクエリオン",
-  "artist": "AKINO",
+  "artist": "AKINO [2005年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=17",
@@ -527,7 +527,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アイドル",
-  "artist": "YOASOBI",
+  "artist": "YOASOBI [2023年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=18",
@@ -535,7 +535,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "勇者",
-  "artist": "YOASOBI",
+  "artist": "YOASOBI [2023年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=19",
@@ -543,7 +543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "怪物",
-  "artist": "YOASOBI",
+  "artist": "YOASOBI [2021年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=20",
@@ -551,7 +551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "クラクラ",
-  "artist": "Ado",
+  "artist": "Ado [2023年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=21",
@@ -559,7 +559,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Bling-Bang-Bang-Born",
-  "artist": "Creepy Nuts",
+  "artist": "Creepy Nuts [2024年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=22",
@@ -567,7 +567,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "シルシ",
-  "artist": "LiSA",
+  "artist": "LiSA [2021年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=23",
@@ -575,7 +575,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "プラチナ",
-  "artist": "坂本真綾",
+  "artist": "坂本真綾 [1999年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=24",
@@ -583,7 +583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "残響散歌",
-  "artist": "Aimer",
+  "artist": "Aimer [2022年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=25",
@@ -591,7 +591,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Butter-Fly",
-  "artist": "和田光司",
+  "artist": "和田光司 [1999年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=26",
@@ -599,7 +599,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "私は最強",
-  "artist": "ado",
+  "artist": "ado [2022年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=27",
@@ -607,7 +607,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "新時代",
-  "artist": "ado",
+  "artist": "ado [2022年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=28",
@@ -615,7 +615,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "逆光",
-  "artist": "Ado",
+  "artist": "Ado [2022年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=29",
@@ -623,7 +623,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ファンサ",
-  "artist": "mona（CV. 夏川椎菜)",
+  "artist": "mona（CV. 夏川椎菜) [2020年]",
   "collection": "歌切 2026-05-22 みなとん。は歌う xoEtsKzY9Pg 唱无敌感满满的主人公级动漫歌曲🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TqGY6gEEf?p=30",
@@ -879,7 +879,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いのちの名前",
-  "artist": "木村弓",
+  "artist": "木村弓 [映画 千と千尋の神隠し]",
   "collection": "【歌切】[2026-06-26]在绵绵细雨中歌唱🌂 みなとん。は歌う",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bG7J6mESY?p=4",
@@ -919,7 +919,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "変わらないもの",
-  "artist": "奥華子",
+  "artist": "奥華子 [映画 時をかける少女]",
   "collection": "【歌切】[2026-06-26]在绵绵细雨中歌唱🌂 みなとん。は歌う",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bG7J6mESY?p=9",
@@ -935,7 +935,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "打上花火",
-  "artist": "DAOKO × 米津玄師",
+  "artist": "DAOKO × 米津玄師 [映画 打ち上げ花火、下から見るか？横から見るか？]",
   "collection": "【歌切】[2026-06-26]在绵绵细雨中歌唱🌂 みなとん。は歌う",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bG7J6mESY?p=11",

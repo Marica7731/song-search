@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 8/4/2026, 9:27:47 AM
+// 生成时间: 8/4/2026, 9:38:25 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -47,7 +47,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アルバイト",
-  "artist": "3markets",
+  "artist": "3markets[ ]",
   "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=6",
@@ -871,7 +871,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "レモン×",
-  "artist": "3markets",
+  "artist": "3markets[ ]",
   "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=8",
@@ -1287,7 +1287,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ね。",
-  "artist": "3markets",
+  "artist": "3markets[ ]",
   "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=27",
@@ -1463,7 +1463,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "行方不明とタクシー",
-  "artist": "3markets",
+  "artist": "3markets[ ]",
   "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=11",
@@ -1583,7 +1583,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "下北沢のギターロック",
-  "artist": "3markets",
+  "artist": "3markets[ ]",
   "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=6",
@@ -5671,7 +5671,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "君の知らない物語",
-  "artist": "supercell",
+  "artist": "supercell [TVアニメ 化物語]",
   "collection": "【♧🎸歌切】[2026-06-09]睡眠・工作用直播｜直到雨滴入睡 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SYE76EEki?p=9",
@@ -5679,7 +5679,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "変わらないもの",
-  "artist": "奥華子",
+  "artist": "奥華子 [映画 時をかける少女]",
   "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=1",
@@ -6135,7 +6135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "はじめてのチュウ",
-  "artist": "あんしんパパ",
+  "artist": "あんしんパパ [TVアニメ キテレツ大百科]",
   "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=34",
@@ -6175,7 +6175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "風になる",
-  "artist": "つじあやの",
+  "artist": "つじあやの [映画 猫の恩返し]",
   "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=39",
@@ -6215,7 +6215,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "朝ごはんの歌",
-  "artist": "手嶌葵",
+  "artist": "手嶌葵 [映画 コクリコ坂から]",
   "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=44",
@@ -6223,7 +6223,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ナイトオンザプラネット",
-  "artist": "クリープハイプ",
+  "artist": "クリープハイプ [映画 ちょっと思い出しただけ]",
   "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=45",
@@ -6231,7 +6231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "にんげんっていいな",
-  "artist": "中島義実、ヤング・フレッシュ",
+  "artist": "中島義実、ヤング・フレッシュ [TVアニメ まんが日本昔ばなし]",
   "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=46",
@@ -6399,7 +6399,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "下北沢のギターロック",
-  "artist": "3markets",
+  "artist": "3markets[ ]",
   "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=20",
@@ -6607,7 +6607,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "はなびら",
-  "artist": "奥華子",
+  "artist": "奥華子 [映画 殺さない彼と死なない彼女]",
   "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=18",
@@ -6647,7 +6647,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いつも何度でも",
-  "artist": "木村弓",
+  "artist": "木村弓 [映画 千と千尋の神隠し]",
   "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=23",
@@ -6991,7 +6991,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "行方不明とタクシー",
-  "artist": "3markets",
+  "artist": "3markets[ ]",
   "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=1",
@@ -8311,7 +8311,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アルバイト",
-  "artist": "3markets",
+  "artist": "3markets[ ]",
   "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=12",
@@ -8591,7 +8591,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ね。",
-  "artist": "3markets",
+  "artist": "3markets[ ]",
   "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=31",
@@ -8783,7 +8783,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "レモン×",
-  "artist": "3markets",
+  "artist": "3markets[ ]",
   "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=23",
@@ -8839,7 +8839,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "下北沢のギターロック",
-  "artist": "3markets",
+  "artist": "3markets[ ]",
   "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=7",
@@ -9439,7 +9439,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "社会のゴミカザマタカフミ",
-  "artist": "3markets",
+  "artist": "3markets[ ]",
   "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=70",

@@ -1,6 +1,6 @@
 // ノア・ポラリス - 歌单数据 (多合集汇总)
 // 来源: BV1qDDbBBETv
-// 生成时间: 8/4/2026, 9:53:58 AM
+// 生成时间: 8/4/2026, 10:04:53 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -335,7 +335,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "TAKiOのソーラン節",
-  "artist": "伊藤多喜雄&TAKIO BAND",
+  "artist": "伊藤多喜雄&TAKIO BAND [ドラマ 3年B組金八先生]",
   "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=1",
@@ -351,7 +351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ボルテッカー",
-  "artist": "DECO*27 feat.初音ミク",
+  "artist": "DECO*27 feat.初音ミク [Project VOLTAGE]",
   "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=3",
@@ -423,7 +423,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "私は最強",
-  "artist": "ウタ(Ado)",
+  "artist": "ウタ(Ado) [映画 ONE PIECE FILM RED]",
   "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=12",
@@ -471,7 +471,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "私は、私達は",
-  "artist": "Guiano feat.可不",
+  "artist": "Guiano feat.可不 [プロジェクトセカイ カラフルステージ！]",
   "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=18",
@@ -503,7 +503,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "JANE DOE",
-  "artist": "米津玄師, 宇多田ヒカル",
+  "artist": "米津玄師, 宇多田ヒカル [映画 劇場版 チェンソーマン レゼ篇]",
   "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=22",
@@ -543,7 +543,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青と夏",
-  "artist": "Mrs. GREEN APPLE",
+  "artist": "Mrs. GREEN APPLE [映画 青夏 きみに恋した30日]",
   "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=27",
@@ -551,7 +551,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Soranji",
-  "artist": "Mrs. GREEN APPLE",
+  "artist": "Mrs. GREEN APPLE [映画 ラーゲリより愛を込めて]",
   "collection": "【歌切】[2026-06-05]唱歌啦！高评价耐久歌回🤍໒꒱ ノア・ポラリス -Noa Polaris-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o4EJ6cEs3?p=28",

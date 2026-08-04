@@ -1,6 +1,6 @@
 // 炉なる - 歌单数据 (多合集汇总)
 // 来源: BV1oeMx6WEve
-// 生成时间: 8/4/2026, 10:29:51 AM
+// 生成时间: 8/4/2026, 10:39:27 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -47,7 +47,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "怪物",
-  "artist": "YOASOBI",
+  "artist": "YOASOBI [TVアニメ BEASTARS]",
   "collection": "炉なる歌切 2026-05-24 舒缓曲风偏多 沉静歌回！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YKjB66Evp?p=6",

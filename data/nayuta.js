@@ -1,6 +1,6 @@
 // nayuta - 歌单数据 (多合集汇总)
 // 来源: BV1GXYFzXETo, BV1MPpUzsE1D, BV184W5zeE1Z
-// 生成时间: 8/4/2026, 9:24:53 AM
+// 生成时间: 8/4/2026, 9:35:34 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1038,7 +1038,7 @@ window.SONG_DATA.push(
   "source": "nayuta.js"
 },
     {
-  "title": "【有段钢琴独奏，一起切进来了】スペさん solo part",
+  "title": "スペさん solo part",
   "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限 8/21】4 万粉丝演奏会~ Acoustic Special Live vol.08  【2022年7月31日】【生演奏系列】",
   "up": "前尘往事如昔故",
@@ -1518,7 +1518,7 @@ window.SONG_DATA.push(
   "source": "nayuta.js"
 },
     {
-  "title": "secret base～君がくれたもの～",
+  "title": "01.secret base～君がくれたもの～",
   "artist": "ZONE 『キッズ・ウォー3』主題歌",
   "collection": "【nayuta会限13/21】突発！夏日特辑～声乐和钢琴的现场演奏会 vol.13 【2023年8月27日】【生演奏系列】",
   "up": "前尘往事如昔故",
@@ -2222,7 +2222,7 @@ window.SONG_DATA.push(
   "source": "nayuta.js"
 },
     {
-  "title": "春よ、来い",
+  "title": "1.春よ、来い",
   "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
   "up": "前尘往事如昔故",
@@ -2230,7 +2230,7 @@ window.SONG_DATA.push(
   "source": "nayuta.js"
 },
     {
-  "title": "旅立ちの日に",
+  "title": "2.旅立ちの日に",
   "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
   "up": "前尘往事如昔故",
@@ -2238,7 +2238,7 @@ window.SONG_DATA.push(
   "source": "nayuta.js"
 },
     {
-  "title": "明日への扉",
+  "title": "3.明日への扉",
   "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
   "up": "前尘往事如昔故",
@@ -2246,7 +2246,7 @@ window.SONG_DATA.push(
   "source": "nayuta.js"
 },
     {
-  "title": "春泥棒",
+  "title": "4.春泥棒",
   "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
   "up": "前尘往事如昔故",
@@ -2254,7 +2254,7 @@ window.SONG_DATA.push(
   "source": "nayuta.js"
 },
     {
-  "title": "さよならメモリーズ",
+  "title": "5.さよならメモリーズ",
   "artist": "来源处未提供标准格式歌手",
   "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
   "up": "前尘往事如昔故",
@@ -2759,7 +2759,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ninelie",
-  "artist": "Aimer with chelly(EGOIST)",
+  "artist": "Aimer with chelly(EGOIST) [TVアニメ 甲鉄城のカバネリ]",
   "collection": "【nayuta歌切】vol.26 生演奏Live～活动19周年纪念Live～ nayuta[2026-06-18]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Usjh65EkN?p=1",
@@ -2767,7 +2767,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "THERE IS A REASON",
-  "artist": "鈴木このみ",
+  "artist": "鈴木このみ [映画 ノーゲーム・ノーライフ ゼロ]",
   "collection": "【nayuta歌切】vol.26 生演奏Live～活动19周年纪念Live～ nayuta[2026-06-18]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Usjh65EkN?p=2",
@@ -2775,7 +2775,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "oath sign",
-  "artist": "LiSA",
+  "artist": "LiSA [TVアニメ Fate/Zero]",
   "collection": "【nayuta歌切】vol.26 生演奏Live～活动19周年纪念Live～ nayuta[2026-06-18]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Usjh65EkN?p=3",
@@ -2783,7 +2783,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Get Over",
-  "artist": "dream",
+  "artist": "dream [TVアニメ ヒカルの碁]",
   "collection": "【nayuta歌切】vol.26 生演奏Live～活动19周年纪念Live～ nayuta[2026-06-18]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Usjh65EkN?p=4",
@@ -2791,7 +2791,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "why, or why not",
-  "artist": "片霧烈火",
+  "artist": "片霧烈火 [TVアニメ ひぐらしのなく頃に]",
   "collection": "【nayuta歌切】vol.26 生演奏Live～活动19周年纪念Live～ nayuta[2026-06-18]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Usjh65EkN?p=5",
@@ -2807,7 +2807,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "LOVE & ROLL",
-  "artist": "supercell",
+  "artist": "supercell [映画 センコロール]",
   "collection": "【nayuta歌切】vol.26 生演奏Live～活动19周年纪念Live～ nayuta[2026-06-18]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Usjh65EkN?p=7",
@@ -2815,7 +2815,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ライオン",
-  "artist": "May'n / 中島愛",
+  "artist": "May'n / 中島愛 [TVアニメ マクロスF]",
   "collection": "【nayuta歌切】vol.26 生演奏Live～活动19周年纪念Live～ nayuta[2026-06-18]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Usjh65EkN?p=8",
@@ -2831,7 +2831,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "時を刻む唄",
-  "artist": "Lia",
+  "artist": "Lia [TVアニメ CLANNAD 〜AFTER STORY〜]",
   "collection": "【nayuta歌切】vol.26 生演奏Live～活动19周年纪念Live～ nayuta[2026-06-18]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Usjh65EkN?p=10",
@@ -4823,7 +4823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "変わらないもの",
-  "artist": "奥華子",
+  "artist": "奥華子 [映画 時をかける少女]",
   "collection": "【nayuta歌切 2021年6月9日】nayuta Live !! なまゆた＃07 ～おかえり！収益化復活＆もうすぐ14周年～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1enW5zBEcC?p=3",

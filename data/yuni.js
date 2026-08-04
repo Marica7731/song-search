@@ -1,13 +1,13 @@
 // YuNi - 歌单数据 (多合集汇总)
 // 来源: BV1MAjT6GEF7
-// 生成时间: 8/4/2026, 10:39:23 AM
+// 生成时间: 8/4/2026, 10:51:40 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
     {
   "title": "シュガーソングとビターステップ",
-  "artist": "UNISON SQUARE GARDEN",
+  "artist": "UNISON SQUARE GARDEN [TVアニメ 血界戦線]",
   "collection": "歌切 2026-06-15 YuNi - official channel 神曲动画歌曲歌回！！ I-8VQkDG5ic",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MAjT6GEF7?p=1",
@@ -15,7 +15,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "魂のルフラン",
-  "artist": "高橋洋子",
+  "artist": "高橋洋子 [映画 新世紀エヴァンゲリオン劇場版 シト新生]",
   "collection": "歌切 2026-06-15 YuNi - official channel 神曲动画歌曲歌回！！ I-8VQkDG5ic",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MAjT6GEF7?p=2",
@@ -23,7 +23,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ブルーバード",
-  "artist": "いきものがかり",
+  "artist": "いきものがかり [TVアニメ NARUTO -ナルト- 疾風伝]",
   "collection": "歌切 2026-06-15 YuNi - official channel 神曲动画歌曲歌回！！ I-8VQkDG5ic",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MAjT6GEF7?p=3",
@@ -31,7 +31,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "創聖のアクエリオン",
-  "artist": "AKINO from bless4",
+  "artist": "AKINO from bless4 [TVアニメ 創聖のアクエリオン]",
   "collection": "歌切 2026-06-15 YuNi - official channel 神曲动画歌曲歌回！！ I-8VQkDG5ic",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MAjT6GEF7?p=4",
@@ -39,7 +39,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "KICK BACK",
-  "artist": "米津玄師",
+  "artist": "米津玄師 [TVアニメ チェンソーマン]",
   "collection": "歌切 2026-06-15 YuNi - official channel 神曲动画歌曲歌回！！ I-8VQkDG5ic",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MAjT6GEF7?p=5",
@@ -47,7 +47,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "real Emotion",
-  "artist": "倖田來未",
+  "artist": "倖田來未 [ゲーム FINAL FANTASY X-2]",
   "collection": "YuNi - official channel -歌切 2026-06-25 唱名曲游戏主题歌！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ff7i6nE4f?p=1",
@@ -55,7 +55,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "カルマ",
-  "artist": "BUMP OF CHICKEN",
+  "artist": "BUMP OF CHICKEN [ゲーム テイルズ オブ ジ アビス]",
   "collection": "YuNi - official channel -歌切 2026-06-25 唱名曲游戏主题歌！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ff7i6nE4f?p=2",
@@ -63,7 +63,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Starry Heavens",
-  "artist": "day after tomorrow",
+  "artist": "day after tomorrow [ゲーム テイルズ オブ シンフォニア]",
   "collection": "YuNi - official channel -歌切 2026-06-25 唱名曲游戏主题歌！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ff7i6nE4f?p=3",
@@ -71,7 +71,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "光",
-  "artist": "宇多田ヒカル",
+  "artist": "宇多田ヒカル [ゲーム KINGDOM HEARTS]",
   "collection": "YuNi - official channel -歌切 2026-06-25 唱名曲游戏主题歌！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ff7i6nE4f?p=4",
@@ -79,7 +79,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "檄!帝国華撃団",
-  "artist": "横山智佐・帝国歌劇団",
+  "artist": "横山智佐・帝国歌劇団 [ゲーム サクラ大戦]",
   "collection": "YuNi - official channel -歌切 2026-06-25 唱名曲游戏主题歌！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ff7i6nE4f?p=5",

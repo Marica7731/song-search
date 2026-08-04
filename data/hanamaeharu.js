@@ -1,6 +1,6 @@
 // 花前ハル - 歌单数据 (多合集汇总)
 // 来源: BV1dfjx61Eri
-// 生成时间: 8/4/2026, 10:32:46 AM
+// 生成时间: 8/4/2026, 10:45:00 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -95,7 +95,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "青のすみか",
-  "artist": "キタニタツヤ",
+  "artist": "キタニタツヤ [TVアニメ 呪術廻戦 懐玉・玉折]",
   "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=1",
@@ -103,7 +103,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "more than words",
-  "artist": "羊文学",
+  "artist": "羊文学 [TVアニメ 呪術廻戦 渋谷事変]",
   "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=2",
@@ -127,7 +127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "カワキヲアメク",
-  "artist": "美波",
+  "artist": "美波 [TVアニメ ドメスティックな彼女]",
   "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=5",
@@ -143,7 +143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Lemon",
-  "artist": "米津玄師",
+  "artist": "米津玄師 [ドラマ アンナチュラル]",
   "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=7",
@@ -183,7 +183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "なんでもないや",
-  "artist": "RADWIMPS",
+  "artist": "RADWIMPS [映画 君の名は。]",
   "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=12",
@@ -231,7 +231,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花に亡霊",
-  "artist": "ヨルシカ",
+  "artist": "ヨルシカ [映画 泣きたい私は猫をかぶる]",
   "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=18",
@@ -239,7 +239,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Sincerely",
-  "artist": "TRUE",
+  "artist": "TRUE [TVアニメ ヴァイオレット・エヴァーガーデン]",
   "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=19",
@@ -247,7 +247,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花の塔",
-  "artist": "さユり",
+  "artist": "さユり [TVアニメ リコリス・リコイル]",
   "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=20",
@@ -271,7 +271,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Luna say maybe",
-  "artist": "月村手毬(CV:小鹿なお)",
+  "artist": "月村手毬(CV:小鹿なお) [学園アイドルマスター]",
   "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=23",
@@ -279,7 +279,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "怪物",
-  "artist": "YOASOBI",
+  "artist": "YOASOBI [TVアニメ BEASTARS]",
   "collection": "Haru Ch. 花前ハル歌切 2026-06-18 欢迎新观众❗️要不要听首歌呢？✨️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dfjx61Eri?p=24",

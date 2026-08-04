@@ -1,13 +1,13 @@
 // 魔ノむえる - 歌单数据 (多合集汇总)
 // 来源: BV1oHAVzxE2q
-// 生成时间: 8/4/2026, 10:30:37 AM
+// 生成时间: 8/4/2026, 10:42:02 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
     {
   "title": "アルジャーノン",
-  "artist": "ヨルシカ",
+  "artist": "ヨルシカ[BC-X9uJTiF0]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=1",
@@ -15,7 +15,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ストロー",
-  "artist": "aiko",
+  "artist": "aiko[BC-X9uJTiF0]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=2",
@@ -23,7 +23,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "スピカ",
-  "artist": "ロクデナシ",
+  "artist": "ロクデナシ[BC-X9uJTiF0]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=3",
@@ -31,7 +31,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "My Dearest",
-  "artist": "supercell",
+  "artist": "supercell[BC-X9uJTiF0]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=4",
@@ -39,7 +39,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "高架線",
-  "artist": "ELLEGARDEN",
+  "artist": "ELLEGARDEN[BC-X9uJTiF0]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=5",
@@ -47,7 +47,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "モンスター",
-  "artist": "ELLEGARDEN",
+  "artist": "ELLEGARDEN[BC-X9uJTiF0]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=6",
@@ -55,7 +55,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "W/X/Y",
-  "artist": "Tani Yuuki",
+  "artist": "Tani Yuuki[BC-X9uJTiF0]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=7",
@@ -63,7 +63,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "雨き声残響",
-  "artist": "Orangestar",
+  "artist": "Orangestar[BC-X9uJTiF0]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=8",
@@ -71,7 +71,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Heat Waves",
-  "artist": "Limet",
+  "artist": "Limet[BC-X9uJTiF0]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=9",
@@ -79,7 +79,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ルーマー",
-  "artist": "ポリスピカデリー",
+  "artist": "ポリスピカデリー[BC-X9uJTiF0]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=10",
@@ -87,7 +87,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "いのちの名前",
-  "artist": "木村弓",
+  "artist": "木村弓[BC-X9uJTiF0]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=11",
@@ -95,7 +95,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "風になる",
-  "artist": "つじあやの",
+  "artist": "つじあやの[BC-X9uJTiF0]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=12",
@@ -103,7 +103,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アルビレオ",
-  "artist": "ロクデナシ",
+  "artist": "ロクデナシ[BC-X9uJTiF0]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=13",
@@ -111,7 +111,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ただ声一つ",
-  "artist": "ロクデナシ",
+  "artist": "ロクデナシ[BC-X9uJTiF0]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=14",
@@ -119,7 +119,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "忘れてください",
-  "artist": "ヨルシカ",
+  "artist": "ヨルシカ[4RjXw_L03fI]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=15",
@@ -127,7 +127,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "夢灯籠",
-  "artist": "RADWIMPS",
+  "artist": "RADWIMPS[4RjXw_L03fI]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=16",
@@ -135,7 +135,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "メリュー",
-  "artist": "n-buna",
+  "artist": "n-buna[4RjXw_L03fI]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=17",
@@ -143,7 +143,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "rain stops, good-bye",
-  "artist": "にお",
+  "artist": "にお[4RjXw_L03fI]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=18",
@@ -151,7 +151,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "花に亡霊",
-  "artist": "ヨルシカ",
+  "artist": "ヨルシカ[4RjXw_L03fI]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=19",
@@ -159,7 +159,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハイドアンド・シーク",
-  "artist": "19's Sound Factory",
+  "artist": "19's Sound Factory[4RjXw_L03fI]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=20",
@@ -167,7 +167,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Ghost of a smile",
-  "artist": "EGOIST",
+  "artist": "EGOIST[4RjXw_L03fI]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=21",
@@ -175,7 +175,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "春泥棒",
-  "artist": "ヨルシカ",
+  "artist": "ヨルシカ[4RjXw_L03fI]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=22",
@@ -183,7 +183,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "くうになる",
-  "artist": "MIMI",
+  "artist": "MIMI[4RjXw_L03fI]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=23",
@@ -191,7 +191,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "アイロニ",
-  "artist": "すこっぷ",
+  "artist": "すこっぷ[4RjXw_L03fI]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=24",
@@ -199,7 +199,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "ハロ/ハワユ",
-  "artist": "ナノウ",
+  "artist": "ナノウ[4RjXw_L03fI]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=25",
@@ -207,7 +207,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "なまえのないうた",
-  "artist": "DATEKEN",
+  "artist": "DATEKEN[4RjXw_L03fI]",
   "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=26",
@@ -351,7 +351,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "一度だけの恋なら",
-  "artist": "ワルキューレ",
+  "artist": "ワルキューレ [TVアニメ マクロスΔ]",
   "collection": "接力歌切 魔ノむえる -Mano Mueru- 2026-06-13 〖 心动♡ 〗为你献上塞满一切的超大份心动💜.ᐟ 〖 ￤ 〗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1H8Jp6SEVB?p=1",
@@ -367,7 +367,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "Wishing",
-  "artist": "レム(CV:水瀬いのり)",
+  "artist": "レム(CV:水瀬いのり) [TVアニメ Re:ゼロから始める異世界生活]",
   "collection": "接力歌切 魔ノむえる -Mano Mueru- 2026-06-13 〖 心动♡ 〗为你献上塞满一切的超大份心动💜.ᐟ 〖 ￤ 〗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1H8Jp6SEVB?p=3",
