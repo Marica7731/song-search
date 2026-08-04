@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const { cleanSongTitle } = require('./title-cleaning');
 
 const DEFAULT_ARTIST_TEXT = '来源处未提供标准格式歌手';
 const BILI_VIDEO_PREFIX = 'https://www.bilibili.com/video/';
@@ -412,26 +413,7 @@ async function fetchBvMetadata(bvid, cache, forceRefresh = false) {
 }
 
 function cleanTitle(rawTitle) {
-    let title = String(rawTitle || '');
-    title = title.replace(/\[\d{4}[-]?\d{2}[-]?\d{2}\]/g, '');
-    let previousLength;
-    do {
-        previousLength = title.length;
-        title = title.replace(/\[[^\[\]]*\]\s*$/, '');
-    } while (title.length !== previousLength);
-    title = title
-        .replace(TRAILING_TAG_REGEX, '')
-        .trim();
-
-    do {
-        previousLength = title.length;
-        title = title
-            .replace(LEADING_SOURCE_REGEX, '')
-            .replace(LEADING_INDEX_REGEX, '')
-            .trim();
-    } while (title.length !== previousLength);
-
-    return title.replace(CLEAN_SUFFIX_REGEX, '').trim();
+    return cleanSongTitle(rawTitle);
 }
 
 function cleanArtist(rawArtist) {

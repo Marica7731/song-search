@@ -26,6 +26,7 @@ git status --short
 ## 功能说明
 
 - `index.html`：优化版歌库首页，浏览器标签标题为“歌曲搜索”，支持可搜索来源、来源头像、BV 封面缩略图、服务端分页、搜索范围切换、最近更新时间展示、独特歌曲星标、刷新默认筛选、桌面紧凑复制工具条、桌面自适应多列结果卡、H5 非吸顶紧凑检索栏、H5 缩放/横屏宽度多列结果卡、长字段省略显示、H5 筛选/复制底部弹层、字段点击复制、稳定行级复制、最近页码快速翻页和移动端紧凑结果卡。
+- 首页搜索和来源筛选会识别输入法合成状态，日文输入法候选确认前不提前触发筛选，合成结束后再执行查询。
 - `index-optimized.html`：优化首页的对照文件，与正式首页保持同源，便于后续继续调样式或回看方案。
 - `stats.html`：数据统计页，展示来源、歌手、曲目、投稿时间等统计视图，来源分组补充场次、曲数、去重、场均和独特歌曲指标；其中“场次”指去重 BV 号数量，“曲数”指歌曲条目数，“场均”是曲数 / BV 场次，“独特”指全库只出现 1 次且只来自 1 个来源的歌曲。来源筛选已移入左侧栏，使用来源头像、来源名、投稿数和去重数；内容区保留搜索、来源排序和摘要链接数；统计页不再挂右侧目录，避免与左侧来源列表重复。
 - `bv-dup-check.html`：BV 批量查重，支持服务端 live fallback 上限、短输入工作区、当前库/结果概览、分组摘要、复制预设、高级复制字段折叠、已收录链接位次选择、复制设置记忆和自适应多列结果卡；状态文案统一为“已收录 / 未收录”。
@@ -38,6 +39,7 @@ git status --short
 - `tabs-optimization-preview.html`：六个主 tab 的优化方案 HTML 预览，会读取 `/api/tabs/overview` 展示真实后端概览，不替换生产页面。
 - `server.js`：统一 Node 服务端，提供静态页面、搜索分页、搜索导出、统计视图、全站 tab 概览、查重/命名摘要、增长缓存、管理刷新和内部 reload；HTML 响应返回 `Cache-Control: no-store`，减少发布后仍看到旧页面的问题。
 - `scripts/check-live-song-total.js`：线上歌库回退检查脚本，读取公网 `/api/bootstrap` 和 `/api/search`，用于发布后确认总曲数没有下降、关键 BV 仍可命中。
+- `scripts/title-cleaning.js`：共享标题清洗规则，只移除日期、序号和明确的技术后缀，保留歌曲名中的语义括号/方括号后缀。
 - `ADD_SOURCE_PROMPT.md`：根目录来源添加提示词，固定 GitHub Pages 与 `culua.com` 的不同添加、验证和发布方式，避免后续上下文过长时混用流程。
 - `scripts/source-profiles.json`：来源头像补充配置，可按来源文件名补 `avatarUrl`、`youtubeUrl`、`avatarText`、`accentColor` 和 `statsAvgSortDeferred`；缺失时页面自动显示来源名单字头像。
 - `scripts/collect-source-avatars.js`：来源头像采集脚本，从每个来源当前歌库里挑最新 BV，读取 B 站简介中的 YouTube 链接并解析频道头像，写回 `scripts/source-profiles.json` 和 `data/index.json`。
@@ -297,6 +299,7 @@ node --check scripts/update-songs.js
 node --check scripts/update-song-growth.js
 node --check scripts/update-vocaloid-snapshot.js
 node --check scripts/check-song-library.js
+node scripts/check-title-cleaning.js
 ```
 
 歌库检查：

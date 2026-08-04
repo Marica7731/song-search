@@ -843,6 +843,23 @@
       return !!event && (event.isComposing || event.key === 'Process' || event.keyCode === 229);
     }
 
+    function bindImeSafeInput(input, { onInput, onCompositionEnd } = {}) {
+      if (!input) return () => false;
+      let composing = false;
+      input.addEventListener('compositionstart', () => {
+        composing = true;
+      });
+      input.addEventListener('compositionend', event => {
+        composing = false;
+        (onCompositionEnd || onInput)?.(event);
+      });
+      input.addEventListener('input', event => {
+        if (composing || isImeComposingEvent(event)) return;
+        onInput?.(event);
+      });
+      return () => composing;
+    }
+
     function setStatus(text, error = false) {
       const el = $('#status');
       el.textContent = text;
@@ -1114,26 +1131,25 @@
     function bindEvents() {
       $('#searchBtn').addEventListener('click', () => runSearch());
       $('#refreshBtn').addEventListener('click', () => runSearch({ keepPage: true }));
-      $('#q').addEventListener('keydown', event => {
-        if (isImeComposingEvent(event)) return;
-        if (event.key === 'Enter') runSearch();
-      });
       let timer = null;
       const scheduleSearch = () => {
         clearTimeout(timer);
         timer = setTimeout(() => runSearch(), 360);
       };
-      $('#q').addEventListener('input', event => {
-        if (isImeComposingEvent(event)) return;
-        scheduleSearch();
+      const q = $('#q');
+      const isQComposing = bindImeSafeInput(q, {
+        onInput: scheduleSearch,
+        onCompositionEnd: scheduleSearch
       });
-      $('#q').addEventListener('compositionend', scheduleSearch);
+      q.addEventListener('keydown', event => {
+        if (isQComposing() || isImeComposingEvent(event)) return;
+        if (event.key === 'Enter') runSearch();
+      });
       $('#sort').addEventListener('change', () => runSearch());
-      $('#sourceFilter').addEventListener('input', event => {
-        if (isImeComposingEvent(event)) return;
-        renderSources(event.target.value);
+      bindImeSafeInput($('#sourceFilter'), {
+        onInput: event => renderSources(event.target.value),
+        onCompositionEnd: event => renderSources(event.target.value)
       });
-      $('#sourceFilter').addEventListener('compositionend', event => renderSources(event.target.value));
       $('#sourceList').addEventListener('click', event => {
         const btn = event.target.closest('[data-source]');
         if (!btn) return;
