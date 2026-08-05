@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 8/5/2026, 7:56:23 PM
+// 生成时间: 8/5/2026, 8:08:15 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5299,6 +5299,230 @@ window.SONG_DATA.push(
   "collection": "【明日夢 歌切】[2026-07-25]练歌啦——！！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ba3L6dEti?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ノーザンクロス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "うたかた花火",
+  "artist": "supercell",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "LOVE & ROLL",
+  "artist": "supercell",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "メルト",
+  "artist": "supercell feat.初音ミク",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "パート・オブ・ユア・ワールド",
+  "artist": "すずきまゆみ",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "アンダー・ザ・シー",
+  "artist": "上條恒彦",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "低血ボルト",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "あいつら全員同窓会",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "心を照らせ！",
+  "artist": "チョーキューメイ",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "故のLOVE",
+  "artist": "チョーキューメイ",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Diamonds ＜ダイアモンド＞",
+  "artist": "PRINCESS PRINCESS",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "青い珊瑚礁",
+  "artist": "松田聖子",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "少女A",
+  "artist": "中森明菜",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "JOINT",
+  "artist": "川田まみ",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "PARADOX",
+  "artist": "雨宮天",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Distortion!!",
+  "artist": "結束バンド",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "CLEAR",
+  "artist": "坂本真綾",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=21",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ユメヲカケル!",
+  "artist": "スペシャルウィーク(CV.和氣あず未)、サイレンススズカ(CV.高野麻里佳)、トウカイテイオー(CV.Machico)、ウオッカ(C",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=22",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Snow halation",
+  "artist": "μ's",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=23",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Departures ～あなたにおくるアイの歌～",
+  "artist": "EGOIST",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=24",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "プライド革命",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=25",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "瞬間、シンフォニー。",
+  "artist": "40mP & かぐや(cv.夏吉ゆうこ)",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=26",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra & 月見ヤチヨ(cv.早見沙織)",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=27",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=28",
   "source": "asuyumekanae.js"
 },
     {
