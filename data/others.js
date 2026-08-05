@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 8/5/2026, 8:13:17 AM
+// 生成时间: 8/5/2026, 8:24:53 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -614,47 +614,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "アスノヨゾラ哨戒班",
-  "artist": "Orangestar feat. IA",
-  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=43",
-  "source": "others.js"
-},
-    {
-  "title": "敗北の少年",
-  "artist": "kemu feat. GUMI",
-  "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=44",
-  "source": "others.js"
-},
-    {
-  "title": "courage",
-  "artist": "戸松遥",
-  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "ふわふわ時間",
-  "artist": "放課後ティータイム",
-  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "NO,Thank You!",
-  "artist": "放課後ティータイム",
-  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "花に亡霊",
+  "title": "都落ち",
   "artist": "ヨルシカ",
   "collection": "歌势推荐：渚沢シチ 2026-03-06 Rjs6oWcVHXI",
   "up": "前尘往事如昔故",
@@ -2550,127 +2510,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "サマー",
-  "artist": "CY8ER",
-  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=12",
-  "source": "others.js"
-},
-    {
-  "title": "枕元にゴースト",
-  "artist": "Aiobahn & Yunomi & nicamoq",
-  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=13",
-  "source": "others.js"
-},
-    {
-  "title": "夏色えがおで1, 2, Jump!",
-  "artist": "μ's",
-  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=14",
-  "source": "others.js"
-},
-    {
-  "title": "SUNNY DAY SONG",
-  "artist": "μ's",
-  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=15",
-  "source": "others.js"
-},
-    {
-  "title": "それは僕たちの奇跡",
-  "artist": "μ's",
-  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=16",
-  "source": "others.js"
-},
-    {
-  "title": "SUMMER SONG",
-  "artist": "YUI",
-  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=17",
-  "source": "others.js"
-},
-    {
-  "title": "ノーチラス",
-  "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=18",
-  "source": "others.js"
-},
-    {
-  "title": "靴の花火",
-  "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=19",
-  "source": "others.js"
-},
-    {
-  "title": "staple stable",
-  "artist": "戦場ヶ原ひたぎ(斎藤千和)",
-  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=20",
-  "source": "others.js"
-},
-    {
-  "title": "ポケッターリ モンスターリ",
-  "artist": "可名",
-  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=21",
-  "source": "others.js"
-},
-    {
-  "title": "Happy! Lucky! Dochy!",
-  "artist": "梨花(田村ゆかり)・沙都子(かないみか)・羽入(堀江由衣)",
-  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=22",
-  "source": "others.js"
-},
-    {
-  "title": "Fantastic future",
-  "artist": "田村ゆかり",
-  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=23",
-  "source": "others.js"
-},
-    {
-  "title": "Melty Magic",
-  "artist": "picco feat.初音ミク",
-  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=24",
-  "source": "others.js"
-},
-    {
-  "title": "ヨワネハキ",
-  "artist": "MAISONdes",
-  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=25",
-  "source": "others.js"
-},
-    {
-  "title": "LILAC",
-  "artist": "DUSTCELL",
-  "collection": "【歌切】[2026-08-02]Live直前！！𝜗𝜚.⋆ 一起嗨起来♡也欢迎初次来的朋友！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12QMZ6wEwk?p=26",
-  "source": "others.js"
-},
-    {
-  "title": "紅蓮華",
+  "title": "明け星",
   "artist": "LiSA",
   "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
   "up": "前尘往事如昔故",
