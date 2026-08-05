@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 8/5/2026, 9:14:05 PM
+// 生成时间: 8/5/2026, 9:31:00 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -37555,6 +37555,182 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-07-31]初见欢迎中！七月不要结束！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gG3U6UEJw?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "となりのトトロ",
+  "artist": "井上あずみ",
+  "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "セーラースターソング",
+  "artist": "花沢加絵",
+  "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat.巡音ルカ",
+  "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Sweet(×5) Vintage!",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "青春ライン",
+  "artist": "いきものがかり",
+  "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "CLEAR",
+  "artist": "坂本真綾",
+  "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Realize!",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "メリッサ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=22",
   "source": "yoshika.js"
 }
 );
