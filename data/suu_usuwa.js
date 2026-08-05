@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 8/5/2026, 8:40:55 PM
+// 生成时间: 8/5/2026, 8:50:44 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -22099,6 +22099,110 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-08-03]新衣装在家3D试试看！小小展示一下～｜歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12XMZ6hEy2?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Hello",
+  "artist": "Furui Riho",
+  "collection": "【🦢歌切】#146[2026-08-05]点歌OK！星期三20点定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tMMU66EYc?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Pop Virus",
+  "artist": "星野源",
+  "collection": "【🦢歌切】#146[2026-08-05]点歌OK！星期三20点定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tMMU66EYc?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "惑星ループ",
+  "artist": "ナユタン星人 feat.初音ミク",
+  "collection": "【🦢歌切】#146[2026-08-05]点歌OK！星期三20点定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tMMU66EYc?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ミュージック・アワー",
+  "artist": "ポルノグラフィティ",
+  "collection": "【🦢歌切】#146[2026-08-05]点歌OK！星期三20点定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tMMU66EYc?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "シャル・ウィ・ダンス？",
+  "artist": "ReoNa",
+  "collection": "【🦢歌切】#146[2026-08-05]点歌OK！星期三20点定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tMMU66EYc?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Tulip",
+  "artist": "速水奏、塩見周子、城ヶ崎美嘉、宮本フレデリカ、一ノ瀬志希",
+  "collection": "【🦢歌切】#146[2026-08-05]点歌OK！星期三20点定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tMMU66EYc?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "READY!!",
+  "artist": "765PRO ALLSTARS",
+  "collection": "【🦢歌切】#146[2026-08-05]点歌OK！星期三20点定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tMMU66EYc?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "【🦢歌切】#146[2026-08-05]点歌OK！星期三20点定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tMMU66EYc?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【🦢歌切】#146[2026-08-05]点歌OK！星期三20点定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tMMU66EYc?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "フリージア",
+  "artist": "Uru",
+  "collection": "【🦢歌切】#146[2026-08-05]点歌OK！星期三20点定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tMMU66EYc?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "神のまにまに",
+  "artist": "れるりり feat.初音ミク、鏡音リン、GUMI",
+  "collection": "【🦢歌切】#146[2026-08-05]点歌OK！星期三20点定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tMMU66EYc?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "わたしの一番かわいいところ",
+  "artist": "FRUITS ZIPPER",
+  "collection": "【🦢歌切】#146[2026-08-05]点歌OK！星期三20点定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tMMU66EYc?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "さよーならまたいつか！",
+  "artist": "米津玄師",
+  "collection": "【🦢歌切】#146[2026-08-05]点歌OK！星期三20点定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tMMU66EYc?p=13",
   "source": "suu_usuwa.js"
 }
 );
