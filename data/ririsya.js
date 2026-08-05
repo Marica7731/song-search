@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 8/5/2026, 8:18:26 PM
+// 生成时间: 8/5/2026, 8:30:00 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -18427,6 +18427,118 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-08-02]回家路上请一起听吧～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LJ3f69EA9?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "チェリー",
+  "artist": "スピッツ",
+  "collection": "【🐍歌切】[2026-08-05]路上Live风格弹唱✧ Sing with a guitar",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sjMU6NE12?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "【🐍歌切】[2026-08-05]路上Live风格弹唱✧ Sing with a guitar",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sjMU6NE12?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ロビンソン",
+  "artist": "スピッツ",
+  "collection": "【🐍歌切】[2026-08-05]路上Live风格弹唱✧ Sing with a guitar",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sjMU6NE12?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "わたがし",
+  "artist": "back number",
+  "collection": "【🐍歌切】[2026-08-05]路上Live风格弹唱✧ Sing with a guitar",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sjMU6NE12?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "【🐍歌切】[2026-08-05]路上Live风格弹唱✧ Sing with a guitar",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sjMU6NE12?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【🐍歌切】[2026-08-05]路上Live风格弹唱✧ Sing with a guitar",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sjMU6NE12?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "【🐍歌切】[2026-08-05]路上Live风格弹唱✧ Sing with a guitar",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sjMU6NE12?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "【🐍歌切】[2026-08-05]路上Live风格弹唱✧ Sing with a guitar",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sjMU6NE12?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【🐍歌切】[2026-08-05]路上Live风格弹唱✧ Sing with a guitar",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sjMU6NE12?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "I remember you",
+  "artist": "YUI",
+  "collection": "【🐍歌切】[2026-08-05]路上Live风格弹唱✧ Sing with a guitar",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sjMU6NE12?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI for 雨音薫",
+  "collection": "【🐍歌切】[2026-08-05]路上Live风格弹唱✧ Sing with a guitar",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sjMU6NE12?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "いとしのエリー",
+  "artist": "サザンオールスターズ",
+  "collection": "【🐍歌切】[2026-08-05]路上Live风格弹唱✧ Sing with a guitar",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sjMU6NE12?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "TSUNAMI",
+  "artist": "サザンオールスターズ",
+  "collection": "【🐍歌切】[2026-08-05]路上Live风格弹唱✧ Sing with a guitar",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sjMU6NE12?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "真夏の果実",
+  "artist": "サザンオールスターズ",
+  "collection": "【🐍歌切】[2026-08-05]路上Live风格弹唱✧ Sing with a guitar",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sjMU6NE12?p=14",
   "source": "ririsya.js"
 }
 );
