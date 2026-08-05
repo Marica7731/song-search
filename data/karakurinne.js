@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 8/5/2026, 8:02:51 PM
+// 生成时间: 8/5/2026, 8:16:31 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2267,6 +2267,70 @@ window.SONG_DATA.push(
   "collection": "【⚙️🎸歌切】[2026-08-02]睡前安静唱歌时间🐑🐑",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hE7y?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "笑顔",
+  "artist": "いきものがかり",
+  "collection": "【⚙️🎸歌切】[2026-08-05]第一次过生日～！！好想和大家一起度过～！！💛 有通知要告诉大家📢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdMm6UEai?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ら・ら・ら",
+  "artist": "大黒摩季",
+  "collection": "【⚙️🎸歌切】[2026-08-05]第一次过生日～！！好想和大家一起度过～！！💛 有通知要告诉大家📢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdMm6UEai?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "手紙 ～拝啓 十五の君へ～",
+  "artist": "アンジェラ・アキ",
+  "collection": "【⚙️🎸歌切】[2026-08-05]第一次过生日～！！好想和大家一起度过～！！💛 有通知要告诉大家📢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdMm6UEai?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "人として",
+  "artist": "SUPER BEAVER",
+  "collection": "【⚙️🎸歌切】[2026-08-05]第一次过生日～！！好想和大家一起度过～！！💛 有通知要告诉大家📢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdMm6UEai?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん feat.IA",
+  "collection": "【⚙️🎸歌切】[2026-08-05]第一次过生日～！！好想和大家一起度过～！！💛 有通知要告诉大家📢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdMm6UEai?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ステージ",
+  "artist": "さとう。",
+  "collection": "【⚙️🎸歌切】[2026-08-05]第一次过生日～！！好想和大家一起度过～！！💛 有通知要告诉大家📢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdMm6UEai?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "寄り酔い",
+  "artist": "和ぬか",
+  "collection": "【⚙️🎸歌切】[2026-08-05]第一次过生日～！！好想和大家一起度过～！！💛 有通知要告诉大家📢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdMm6UEai?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao、ひまわりキッズ",
+  "collection": "【⚙️🎸歌切】[2026-08-05]第一次过生日～！！好想和大家一起度过～！！💛 有通知要告诉大家📢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdMm6UEai?p=8",
   "source": "karakurinne.js"
 }
 );
