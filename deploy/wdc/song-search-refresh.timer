@@ -1,0 +1,12 @@
+[Unit]
+Description=Refresh culua.com song search every 20 minutes
+
+[Timer]
+OnCalendar=*-*-* *:10/20:00
+Persistent=true
+AccuracySec=1s
+RandomizedDelaySec=30s
+Unit=song-search-refresh.service
+
+[Install]
+WantedBy=timers.target

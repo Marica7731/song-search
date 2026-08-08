@@ -1,0 +1,14 @@
+[Unit]
+Description=Refresh culua.com song search runtime data
+Wants=network-online.target
+After=network-online.target song-search.service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/flock -n -E 0 /tmp/song-search-refresh.lock /usr/local/bin/song-search-refresh.sh
+TimeoutStartSec=90min
+User=root
+Nice=10
+IOSchedulingClass=best-effort
+IOSchedulingPriority=7
+NoNewPrivileges=true

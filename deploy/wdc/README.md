@@ -7,6 +7,8 @@
 - `song-search.service`：从 `/srv/culua-web/current` 启动 Node 服务；运行时环境单独放在 `/etc/song-search/song-search.env`。
 - `song-search.nginx.conf`：只接管 `www.culua.com`，不声明 default server；同时保留站点 API、短路由和既有 `/feishu-bridge/` 兼容入口。
 - `song-search-refresh.sh`：只在当前 release 内重建运行时数据并重启服务，不执行 `git reset`，避免绕过 release/rollback 门禁。
+- `song-search-refresh.service`：oneshot 刷新单元；复用 `/tmp/song-search-refresh.lock`，已有刷新占锁时安全跳过本轮。
+- `song-search-refresh.timer`：每小时 10、30、50 分触发刷新，与保留作回滚的旧源站错峰，并在重启后补一次错过的调度。
 
 ## 目录约定
 
@@ -28,6 +30,7 @@
 5. 切 DNS 前必须在 WDC 本机验证首页、`/api/health`、`/api/bootstrap`、关键短路由和 `/feishu-bridge/health`，再用 Host 头验证 nginx。
 6. Cloudflare 更新必须比较旧记录后再写，仅修改 `www.culua.com` 的目标；旧源站和旧记录值保留为回滚依据。
 7. 公网切换后再次验证 HTTPS、健康接口、关键页面、总歌曲数和指定 BV；任何一项失败都回滚 DNS 与 `current` 链接。
+8. 安装并启用 `song-search-refresh.timer`，用 `systemctl list-timers` 确认下次触发时间；至少执行一次真实 oneshot，确认刷新完成、主服务仍 active、总量不低于切换基线。
 
 ## 回滚原则
 
@@ -40,6 +43,8 @@ npm run check:secrets
 node --check server.js
 node --check scripts/check-sensitive-files.js
 bash -n deploy/wdc/song-search-refresh.sh
+systemd-analyze verify deploy/wdc/song-search-refresh.service deploy/wdc/song-search-refresh.timer
+systemd-analyze calendar '*-*-* *:10/20:00'
 ```
 
 nginx 模板必须在 WDC 上通过 `nginx -t`；本地测试不能替代真实 Host 头和公网验收。
