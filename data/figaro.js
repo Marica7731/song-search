@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 8/8/2026, 10:01:49 PM
+// 生成时间: 8/8/2026, 10:12:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -33827,6 +33827,102 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-07-31]术力口限定，唱清爽的歌吧～☀",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gG3U6UEeM?p=21",
+  "source": "figaro.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【💐歌切】[2026-08-07]明天开始就是Live祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wQu56TEuL?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【💐歌切】[2026-08-07]明天开始就是Live祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wQu56TEuL?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【💐歌切】[2026-08-07]明天开始就是Live祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wQu56TEuL?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【💐歌切】[2026-08-07]明天开始就是Live祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wQu56TEuL?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "シュガーコート",
+  "artist": "ダズビー",
+  "collection": "【💐歌切】[2026-08-07]明天开始就是Live祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wQu56TEuL?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "Limbo",
+  "artist": "春野",
+  "collection": "【💐歌切】[2026-08-07]明天开始就是Live祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wQu56TEuL?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ",
+  "artist": "MAISONdes feat.花譜,ツミキ",
+  "collection": "【💐歌切】[2026-08-07]明天开始就是Live祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wQu56TEuL?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "さみしいひと",
+  "artist": "理芽",
+  "collection": "【💐歌切】[2026-08-07]明天开始就是Live祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wQu56TEuL?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "カゲボウシ",
+  "artist": "SODA KIT",
+  "collection": "【💐歌切】[2026-08-07]明天开始就是Live祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wQu56TEuL?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "RE:I AM",
+  "artist": "Aimer",
+  "collection": "【💐歌切】[2026-08-07]明天开始就是Live祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wQu56TEuL?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "GHOST",
+  "artist": "星街すいせい",
+  "collection": "【💐歌切】[2026-08-07]明天开始就是Live祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wQu56TEuL?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "シネマ",
+  "artist": "Ayase",
+  "collection": "【💐歌切】[2026-08-07]明天开始就是Live祭了！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wQu56TEuL?p=12",
   "source": "figaro.js"
 }
 );

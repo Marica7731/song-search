@@ -1,6 +1,6 @@
 // 玉町ぷえ - 歌单数据 (多合集汇总)
 // 来源: BV1nUMP6vE7N
-// 生成时间: 8/8/2026, 11:08:59 PM
+// 生成时间: 8/8/2026, 11:28:50 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -819,6 +819,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-02]可喜可贺值得珍爱的歌回接力⌇队长要把满满的爱送给大家💛⸒⸒",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12XMZ6hEMr?p=5",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "魔訶不思議アドベンチャー!",
+  "artist": "高橋洋樹",
+  "collection": "【歌切】[2026-08-08]星降动漫歌曲歌合战⌇围绕队长痴迷的动画们展开的游行✩ˎˊ˗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Eu56fEbs?p=1",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "GO!GO!MANIAC",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-08-08]星降动漫歌曲歌合战⌇围绕队长痴迷的动画们展开的游行✩ˎˊ˗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Eu56fEbs?p=2",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "表裏一体",
+  "artist": "ゆず",
+  "collection": "【歌切】[2026-08-08]星降动漫歌曲歌合战⌇围绕队长痴迷的动画们展开的游行✩ˎˊ˗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Eu56fEbs?p=3",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "メロウ",
+  "artist": "須田景凪",
+  "collection": "【歌切】[2026-08-08]星降动漫歌曲歌合战⌇围绕队长痴迷的动画们展开的游行✩ˎˊ˗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Eu56fEbs?p=4",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "ハートにヒント!名探偵プリキュア!",
+  "artist": "石井あみ",
+  "collection": "【歌切】[2026-08-08]星降动漫歌曲歌合战⌇围绕队长痴迷的动画们展开的游行✩ˎˊ˗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Eu56fEbs?p=5",
   "source": "tamamachipue.js"
 }
 );

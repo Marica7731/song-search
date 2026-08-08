@@ -1,6 +1,6 @@
 // 優莉 yuri - 歌单数据 (多合集汇总)
 // 来源: BV1aDzEBBE3S
-// 生成时间: 8/8/2026, 10:12:31 PM
+// 生成时间: 8/8/2026, 10:24:40 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1115,6 +1115,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-29]稍微唱一下～♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qk386LEz4?p=13",
+  "source": "yuri.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-07]聊聊天唱唱歌，轻松悠闲地7500人感谢啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwuL6bETZ?p=1",
+  "source": "yuri.js"
+},
+    {
+  "title": "眠らない星",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-08-07]聊聊天唱唱歌，轻松悠闲地7500人感谢啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwuL6bETZ?p=2",
+  "source": "yuri.js"
+},
+    {
+  "title": "星に名前を",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-08-07]聊聊天唱唱歌，轻松悠闲地7500人感谢啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwuL6bETZ?p=3",
+  "source": "yuri.js"
+},
+    {
+  "title": "シグ×ナル",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-08-07]聊聊天唱唱歌，轻松悠闲地7500人感谢啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwuL6bETZ?p=4",
+  "source": "yuri.js"
+},
+    {
+  "title": "Always",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-08-07]聊聊天唱唱歌，轻松悠闲地7500人感谢啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwuL6bETZ?p=5",
+  "source": "yuri.js"
+},
+    {
+  "title": "君だけがいない",
+  "artist": "優莉",
+  "collection": "【歌切】[2026-08-07]聊聊天唱唱歌，轻松悠闲地7500人感谢啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwuL6bETZ?p=6",
+  "source": "yuri.js"
+},
+    {
+  "title": "めざせポケモンマスター",
+  "artist": "松本梨香",
+  "collection": "【歌切】[2026-08-07]聊聊天唱唱歌，轻松悠闲地7500人感谢啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwuL6bETZ?p=7",
+  "source": "yuri.js"
+},
+    {
+  "title": "タイプ：ワイルド",
+  "artist": "松本梨香",
+  "collection": "【歌切】[2026-08-07]聊聊天唱唱歌，轻松悠闲地7500人感谢啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwuL6bETZ?p=8",
+  "source": "yuri.js"
+},
+    {
+  "title": "カゲロウデイズ",
+  "artist": "じん feat.初音ミク",
+  "collection": "【歌切】[2026-08-07]聊聊天唱唱歌，轻松悠闲地7500人感谢啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwuL6bETZ?p=9",
+  "source": "yuri.js"
+},
+    {
+  "title": "ステラ",
+  "artist": "じん feat.初音ミク",
+  "collection": "【歌切】[2026-08-07]聊聊天唱唱歌，轻松悠闲地7500人感谢啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwuL6bETZ?p=10",
+  "source": "yuri.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【歌切】[2026-08-07]聊聊天唱唱歌，轻松悠闲地7500人感谢啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwuL6bETZ?p=11",
+  "source": "yuri.js"
+},
+    {
+  "title": "世界が終るまでは…",
+  "artist": "WANDS",
+  "collection": "【歌切】[2026-08-07]聊聊天唱唱歌，轻松悠闲地7500人感谢啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwuL6bETZ?p=12",
+  "source": "yuri.js"
+},
+    {
+  "title": "Lost my music",
+  "artist": "涼宮ハルヒ(CV.平野綾)",
+  "collection": "【歌切】[2026-08-07]聊聊天唱唱歌，轻松悠闲地7500人感谢啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dwuL6bETZ?p=13",
   "source": "yuri.js"
 }
 );

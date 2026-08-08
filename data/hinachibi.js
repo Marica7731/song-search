@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 8/8/2026, 10:53:55 PM
+// 生成时间: 8/8/2026, 11:10:01 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1899,6 +1899,78 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-02]嗓子恢复🌟要不要一起入睡？来唱点抒情曲吧！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1U2MZ6vEea?p=12",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "プラネテス",
+  "artist": "seiza feat.初音ミク",
+  "collection": "【歌切】[2026-08-07]盂兰盆节前的歌回🌟欢迎新朋友围观！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ofu56hEkV?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "帝国少女",
+  "artist": "R Sound Design feat.初音ミク",
+  "collection": "【歌切】[2026-08-07]盂兰盆节前的歌回🌟欢迎新朋友围观！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ofu56hEkV?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【歌切】[2026-08-07]盂兰盆节前的歌回🌟欢迎新朋友围观！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ofu56hEkV?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-07]盂兰盆节前的歌回🌟欢迎新朋友围观！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ofu56hEkV?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "Let me be your SAIOSHI!",
+  "artist": "湊あくあ",
+  "collection": "【歌切】[2026-08-07]盂兰盆节前的歌回🌟欢迎新朋友围观！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ofu56hEkV?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ストリーミングハート",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-07]盂兰盆节前的歌回🌟欢迎新朋友围观！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ofu56hEkV?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "スクランブル交際",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-07]盂兰盆节前的歌回🌟欢迎新朋友围观！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ofu56hEkV?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-07]盂兰盆节前的歌回🌟欢迎新朋友围观！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ofu56hEkV?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "幽霊東京",
+  "artist": "Ayase feat.初音ミク",
+  "collection": "【歌切】[2026-08-07]盂兰盆节前的歌回🌟欢迎新朋友围观！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ofu56hEkV?p=9",
   "source": "hinachibi.js"
 }
 );

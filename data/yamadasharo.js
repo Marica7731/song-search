@@ -1,6 +1,6 @@
 // 山田シャロ - 歌单数据 (多合集汇总)
 // 来源: BV179L66pE1f
-// 生成时间: 8/8/2026, 10:50:31 PM
+// 生成时间: 8/8/2026, 11:05:54 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1579,6 +1579,78 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-31]水樹奈奈粉丝的奈奈大人限定歌回🎤⭐",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UEDd?p=10",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "モザイクロール",
+  "artist": "DECO*27 feat.GUMI",
+  "collection": "【歌切】[2026-08-06]深夜来一曲如何？DECO*27限定歌回🎤⭐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vsu56REV7?p=1",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "二息歩行",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-06]深夜来一曲如何？DECO*27限定歌回🎤⭐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vsu56REV7?p=2",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ゴーストルール",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-06]深夜来一曲如何？DECO*27限定歌回🎤⭐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vsu56REV7?p=3",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "妄想税",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-06]深夜来一曲如何？DECO*27限定歌回🎤⭐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vsu56REV7?p=4",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-06]深夜来一曲如何？DECO*27限定歌回🎤⭐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vsu56REV7?p=5",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-06]深夜来一曲如何？DECO*27限定歌回🎤⭐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vsu56REV7?p=6",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "シンデレラ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-06]深夜来一曲如何？DECO*27限定歌回🎤⭐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vsu56REV7?p=7",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-06]深夜来一曲如何？DECO*27限定歌回🎤⭐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vsu56REV7?p=8",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-06]深夜来一曲如何？DECO*27限定歌回🎤⭐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vsu56REV7?p=9",
   "source": "yamadasharo.js"
 }
 );
