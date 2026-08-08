@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 8/8/2026, 9:54:44 PM
+// 生成时间: 8/8/2026, 10:09:01 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7411,6 +7411,182 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "HELLO ～Paradise Kiss～",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "嘘",
+  "artist": "シド",
+  "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "レイン",
+  "artist": "シド",
+  "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "StaRt",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "THE DAY",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ミュージック・アワー",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ハネウマライダー",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アポロ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アカシア",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "GG",
+  "artist": "ReoNa",
+  "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ゴシップ",
+  "artist": "OSTER project feat.初音ミク",
+  "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "世界の真ん中を歩く",
+  "artist": "夏代孝明 feat.初音ミク",
+  "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "バレリーコ",
+  "artist": "みきとP feat.GUMI",
+  "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP feat.鏡音リン",
+  "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ドレミファロンド",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=22",
   "source": "ibaramuan.js"
 }
 );
