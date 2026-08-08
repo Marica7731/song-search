@@ -45,7 +45,7 @@ C:\Users\终焉\.ssh\config
 
 ```sshconfig
 Host culua
-  HostName 103.207.68.48
+  HostName <configured-host>
   User codex
   Port 38222
   IdentityFile C:\Users\终焉\.ssh\codex_culua_ed25519

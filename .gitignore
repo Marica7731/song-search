@@ -23,6 +23,8 @@ reports/update-songs-meta.json
 .env.*
 !.env.example
 LOCAL_*.md
+CODEX_GOAL.md
+CODEX_GOAL-*.md
 
 .DS_Store
 Thumbs.db
