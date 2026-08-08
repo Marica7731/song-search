@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 8/8/2026, 10:42:47 PM
+// 生成时间: 8/8/2026, 10:43:54 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7587,6 +7587,158 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-08]有一件我一直想告知大家的事情。",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AUu56uEA4?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "バクチ・ダンサー",
+  "artist": "DOES",
+  "collection": "【歌切】[2026-08-07]我会唱动画歌曲和术力口曲目哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fdu56eEjR?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "サムライハート(Some Like It Hot!!)",
+  "artist": "SPYAIR",
+  "collection": "【歌切】[2026-08-07]我会唱动画歌曲和术力口曲目哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fdu56eEjR?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "パメラ",
+  "artist": "バルーン feat.flower",
+  "collection": "【歌切】[2026-08-07]我会唱动画歌曲和术力口曲目哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fdu56eEjR?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat.flower",
+  "collection": "【歌切】[2026-08-07]我会唱动画歌曲和术力口曲目哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fdu56eEjR?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-08-07]我会唱动画歌曲和术力口曲目哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fdu56eEjR?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-08-07]我会唱动画歌曲和术力口曲目哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fdu56eEjR?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "気まぐれメルシィ",
+  "artist": "八王子P feat.初音ミク",
+  "collection": "【歌切】[2026-08-07]我会唱动画歌曲和术力口曲目哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fdu56eEjR?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "すきすき絶頂症",
+  "artist": "koyori feat.GUMI",
+  "collection": "【歌切】[2026-08-07]我会唱动画歌曲和术力口曲目哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fdu56eEjR?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ヒトリゴト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-08-07]我会唱动画歌曲和术力口曲目哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fdu56eEjR?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Answer",
+  "artist": "FLOW",
+  "collection": "【歌切】[2026-08-07]我会唱动画歌曲和术力口曲目哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fdu56eEjR?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-08-07]我会唱动画歌曲和术力口曲目哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fdu56eEjR?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "クラクラ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-08-07]我会唱动画歌曲和术力口曲目哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fdu56eEjR?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ザムザ",
+  "artist": "てにをは feat.初音ミク",
+  "collection": "【歌切】[2026-08-07]我会唱动画歌曲和术力口曲目哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fdu56eEjR?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "きゅうくらりん",
+  "artist": "いよわ feat.可不",
+  "collection": "【歌切】[2026-08-07]我会唱动画歌曲和术力口曲目哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fdu56eEjR?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ギターと孤独と蒼い惑星",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-08-07]我会唱动画歌曲和术力口曲目哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fdu56eEjR?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "青春コンプレックス",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-08-07]我会唱动画歌曲和术力口曲目哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fdu56eEjR?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ガランド",
+  "artist": "ピコン feat.初音ミク",
+  "collection": "【歌切】[2026-08-07]我会唱动画歌曲和术力口曲目哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fdu56eEjR?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ワールド・ランプシェード",
+  "artist": "buzzG feat.GUMI",
+  "collection": "【歌切】[2026-08-07]我会唱动画歌曲和术力口曲目哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fdu56eEjR?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "前前前世",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-08-07]我会唱动画歌曲和术力口曲目哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fdu56eEjR?p=19",
   "source": "ibaramuan.js"
 }
 );
