@@ -1,6 +1,6 @@
 // Sen†Sational - 歌单数据 (多合集汇总)
 // 来源: BV1ybNo67EQ5
-// 生成时间: 8/8/2026, 9:48:32 PM
+// 生成时间: 8/8/2026, 10:01:37 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -899,6 +899,62 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-31]🔴 7月要结束了",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UE8D?p=21",
+  "source": "sensational.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-07]🔴 天气开始认真热起来了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wXu56iEVn?p=1",
+  "source": "sensational.js"
+},
+    {
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-08-07]🔴 天气开始认真热起来了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wXu56iEVn?p=2",
+  "source": "sensational.js"
+},
+    {
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ",
+  "collection": "【歌切】[2026-08-07]🔴 天气开始认真热起来了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wXu56iEVn?p=3",
+  "source": "sensational.js"
+},
+    {
+  "title": "もっと",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-08-07]🔴 天气开始认真热起来了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wXu56iEVn?p=4",
+  "source": "sensational.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-08-07]🔴 天气开始认真热起来了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wXu56iEVn?p=5",
+  "source": "sensational.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "【歌切】[2026-08-07]🔴 天气开始认真热起来了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wXu56iEVn?p=6",
+  "source": "sensational.js"
+},
+    {
+  "title": "花束を君に",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-08-07]🔴 天气开始认真热起来了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wXu56iEVn?p=7",
   "source": "sensational.js"
 }
 );
