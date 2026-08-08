@@ -17,9 +17,11 @@ const EXCLUDED_PREFIXES = [
 ];
 
 const SECRET_PATTERNS = [
-  ['private-key', /-----BEGIN (?:RSA |OPENSSH |EC )?PRIVATE KEY-----/g],
+  ['private-key', /-----BEGIN (?:(?:RSA|OPENSSH|EC|DSA|ENCRYPTED) )?PRIVATE KEY-----/g],
   ['github-token', /gh[pousr]_[A-Za-z0-9]{20,}/g],
+  ['github-fine-grained-token', /github_pat_[A-Za-z0-9_]{20,}/g],
   ['aws-access-key', /AKIA[0-9A-Z]{16}/g],
+  ['aws-temporary-access-key', /ASIA[0-9A-Z]{16}/g],
   ['openai-key', /sk-(?:proj-)?[A-Za-z0-9_-]{20,}/g],
   ['slack-token', /xox[baprs]-[A-Za-z0-9-]{20,}/g],
   ['gitlab-token', /glpat-[A-Za-z0-9_-]{20,}/g],
@@ -28,11 +30,13 @@ const SECRET_PATTERNS = [
   ['bearer-token', /\bBearer\s+[A-Za-z0-9._~+/-]{16,}/g]
 ];
 
-const GENERIC_ASSIGNMENT = /\b(api[_-]?key|access[_-]?token|auth[_-]?token|secret|password|cookie)\b\s*[:=]\s*['"]([^'"\r\n]{8,})['"]/gi;
-const UNQUOTED_ASSIGNMENT = /\b(api[_-]?key|access[_-]?token|auth[_-]?token|secret|password|cookie)\b\s*[:=]\s*([^'"\s#,{][^\s#,;}]{7,})/gi;
+const SENSITIVE_KEY = '(?:[A-Za-z0-9]+[_-])*(?:api[_-]?(?:key|token)|access[_-]?token|auth[_-]?token|aws[_-]?secret[_-]?access[_-]?key|secret|password|cookie)';
+const GENERIC_ASSIGNMENT = new RegExp(`\\b(${SENSITIVE_KEY})\\b\\s*[:=]\\s*['"]([^'"\\r\\n]{8,})['"]`, 'gi');
+const UNQUOTED_ASSIGNMENT = new RegExp(`\\b(${SENSITIVE_KEY})\\b\\s*[:=]\\s*([^'"\\s#,{][^\\s#,;}]{7,})`, 'gi');
 const IPV4 = /\b(?:\d{1,3}\.){3}\d{1,3}\b/g;
 const IPV6_CANDIDATE = /(?:^|[^A-Za-z0-9])((?:[0-9A-Fa-f]{0,4}:){2,7}[0-9A-Fa-f]{0,4})(?=$|[^A-Za-z0-9])/g;
 const SENSITIVE_FILE_NAME = /(?:^|\/)(?:\.env(?:\..+)?|[^/]+\.(?:key|pem|p12|pfx))$/i;
+const SENSITIVE_NAME_HINT = /(?:^|\/)[^/]*(?:token|secret|credential|cookie)[^/]*$/i;
 
 function stagedFiles() {
   return new Set(
@@ -138,7 +142,7 @@ function readCandidate(file, staged) {
 }
 
 function scanFile(file, staged, findings, skipped) {
-  if (SENSITIVE_FILE_NAME.test(file) && !file.endsWith('.env.example')) {
+  if ((SENSITIVE_FILE_NAME.test(file) && !file.endsWith('.env.example')) || SENSITIVE_NAME_HINT.test(file)) {
     findings.push({ file, line: 1, kind: 'sensitive-file-name' });
   }
   const candidate = readCandidate(file, staged);
