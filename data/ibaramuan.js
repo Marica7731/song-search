@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 8/8/2026, 9:34:18 PM
+// 生成时间: 8/8/2026, 9:50:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7219,6 +7219,198 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-02]听众感谢祭歌回7月篇",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12XMZ6hE1V?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "他人事の音がする",
+  "artist": "あめのむらくもP",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "時の踊り子",
+  "artist": "あめのむらくもP",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "うそつき",
+  "artist": "めざめP",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ハイドアンド・シーク",
+  "artist": "19's Sound Factory feat.初音ミク",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "泥中に咲く",
+  "artist": "ウォルピスカーター",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "声",
+  "artist": "はりー",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ルーマー",
+  "artist": "ポリスピカデリー",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "夏の半券",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "対象a",
+  "artist": "AnNina",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Planetes",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "AXIA 〜ダイスキでダイキライ〜",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "GIRAFFE BLUES",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "end tree",
+  "artist": "164",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "tanzanite",
+  "artist": "narry",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "魔法の絨毯",
+  "artist": "川崎鷹也",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "W/X/Y",
+  "artist": "Tani Yuuki",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "別の人の彼女になったよ",
+  "artist": "wacci",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ツキミソウ",
+  "artist": "Novelbright",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "シザーハンズ",
+  "artist": "Nem feat.初音ミク",
+  "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=24",
   "source": "ibaramuan.js"
 }
 );
