@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 8/8/2026, 9:31:37 PM
+// 生成时间: 8/8/2026, 9:49:15 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11891,6 +11891,142 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=20",
+  "source": "naraetan.js"
+},
+    {
+  "title": "雫",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "君はロックを聴かない",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "勇者",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ロマンティックあげるよ",
+  "artist": "橋本潮",
+  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子(花澤香菜)",
+  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "君じゃなきゃダメみたい",
+  "artist": "オーイシマサヨシ",
+  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Wind Climbing ~風にあそばれて~",
+  "artist": "奥井亜紀",
+  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Thanks",
+  "artist": "ゆきのさつき",
+  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "嗚呼、素晴らしきニャン生",
+  "artist": "Nem feat.GUMI・鏡音レン",
+  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ",
+  "artist": "MAISONdes",
+  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "おもかげ",
+  "artist": "milet×Aimer×幾田りら",
+  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "인연(絆)",
+  "artist": "이선희(イ・ソニ)",
+  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "麻痺",
+  "artist": "yama",
+  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "太陽曰く燃えよカオス",
+  "artist": "後ろから這いより隊G",
+  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=17",
   "source": "naraetan.js"
 },
     {
