@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 8/8/2026, 11:01:58 PM
+// 生成时间: 8/8/2026, 11:08:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2331,6 +2331,62 @@ window.SONG_DATA.push(
   "collection": "【⚙️🎸歌切】[2026-08-05]第一次过生日～！！好想和大家一起度过～！！💛 有通知要告诉大家📢",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vdMm6UEai?p=8",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "とてと",
+  "artist": "パペットスンスン",
+  "collection": "【⚙️🎸歌切】[2026-08-08]初次见面欢迎！悠闲地唱会儿歌！歌回直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eWu56xE4Z?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "泡沫花火",
+  "artist": "神はサイコロを振らない",
+  "collection": "【⚙️🎸歌切】[2026-08-08]初次见面欢迎！悠闲地唱会儿歌！歌回直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eWu56xE4Z?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【⚙️🎸歌切】[2026-08-08]初次见面欢迎！悠闲地唱会儿歌！歌回直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eWu56xE4Z?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【⚙️🎸歌切】[2026-08-08]初次见面欢迎！悠闲地唱会儿歌！歌回直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eWu56xE4Z?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "虜",
+  "artist": "My Hair is Bad",
+  "collection": "【⚙️🎸歌切】[2026-08-08]初次见面欢迎！悠闲地唱会儿歌！歌回直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eWu56xE4Z?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "一生のお願い",
+  "artist": "クリープハイプ",
+  "collection": "【⚙️🎸歌切】[2026-08-08]初次见面欢迎！悠闲地唱会儿歌！歌回直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eWu56xE4Z?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "森のくまさん",
+  "artist": "童謡",
+  "collection": "【⚙️🎸歌切】[2026-08-08]初次见面欢迎！悠闲地唱会儿歌！歌回直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eWu56xE4Z?p=7",
   "source": "karakurinne.js"
 }
 );
