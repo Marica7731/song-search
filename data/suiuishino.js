@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 8/8/2026, 9:31:47 PM
+// 生成时间: 8/8/2026, 9:42:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1419,6 +1419,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-02]星期日定期直播！！晚安弹唱🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEMi?p=18",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "わたがし",
+  "artist": "back number",
+  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "インフェルノ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ふたりごと",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "雫",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "1991",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "魔法の絨毯",
+  "artist": "川崎鷹也",
+  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ツキミソウ",
+  "artist": "Novelbright",
+  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "アカシア",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "真赤",
+  "artist": "My Hair is Bad",
+  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "魔法",
+  "artist": "古川本舗",
+  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=15",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=16",
   "source": "suiuishino.js"
 }
 );
