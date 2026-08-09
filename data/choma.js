@@ -1,6 +1,6 @@
 // チョま - 歌单数据 (多合集汇总)
 // 来源: BV1kM3L6GEBV
-// 生成时间: 8/9/2026, 12:08:49 AM
+// 生成时间: 8/9/2026, 12:22:38 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1139,6 +1139,206 @@ window.SONG_DATA.push(
   "collection": "チョま歌切 2026年08月01日点场 唱走夏日酷暑吧！ 2026-08-01",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FY3U6NE6m?p=28",
+  "source": "choma.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=1",
+  "source": "choma.js"
+},
+    {
+  "title": "メランコリーキッチン",
+  "artist": "米津玄師",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=2",
+  "source": "choma.js"
+},
+    {
+  "title": "LOSER",
+  "artist": "米津玄師",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=3",
+  "source": "choma.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=4",
+  "source": "choma.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス feat.可不",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=5",
+  "source": "choma.js"
+},
+    {
+  "title": "だれかの心臓になれたなら",
+  "artist": "ユリイ・カノン feat.GUMI",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=6",
+  "source": "choma.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス feat.可不",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=7",
+  "source": "choma.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=8",
+  "source": "choma.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat.初音ミク",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=9",
+  "source": "choma.js"
+},
+    {
+  "title": "アンタに言ってんの!!!",
+  "artist": "ぴーなた feat.重音テト",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=10",
+  "source": "choma.js"
+},
+    {
+  "title": "おねがいダーリン",
+  "artist": "ナナホシ管弦楽団 feat.ONE",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=11",
+  "source": "choma.js"
+},
+    {
+  "title": "ヤラララ",
+  "artist": "AnythingBecomeMoe feat.重音テトSV",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=12",
+  "source": "choma.js"
+},
+    {
+  "title": "トンデモワンダーズ",
+  "artist": "sasakure.UK feat.初音ミク・KAITO",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=13",
+  "source": "choma.js"
+},
+    {
+  "title": "オーバーライド",
+  "artist": "吉田夜世 feat.重音テトSV",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=14",
+  "source": "choma.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "JITTERIN'JINN",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=15",
+  "source": "choma.js"
+},
+    {
+  "title": "テトリス",
+  "artist": "柊マグネタイト feat.重音テトSV",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=16",
+  "source": "choma.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat.GUMI",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=17",
+  "source": "choma.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=18",
+  "source": "choma.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "ロクデナシ",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=19",
+  "source": "choma.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra feat.月見ヤチヨ(CV:早見沙織)",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=20",
+  "source": "choma.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=21",
+  "source": "choma.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=22",
+  "source": "choma.js"
+},
+    {
+  "title": "Ray",
+  "artist": "BUMP OF CHICKEN feat.初音ミク",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=23",
+  "source": "choma.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=24",
+  "source": "choma.js"
+},
+    {
+  "title": "おじゃま虫",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=25",
   "source": "choma.js"
 }
 );
