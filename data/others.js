@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 8/9/2026, 6:36:38 PM
+// 生成时间: 8/9/2026, 6:43:50 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1582,47 +1582,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "お勉強しといてよ",
-  "artist": "ずっと真夜中でいいのに。",
-  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=22",
-  "source": "others.js"
-},
-    {
-  "title": "世界は恋に落ちている",
-  "artist": "CHiCO with HoneyWorks",
-  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=23",
-  "source": "others.js"
-},
-    {
-  "title": "This game",
-  "artist": "鈴木このみ",
-  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=24",
-  "source": "others.js"
-},
-    {
-  "title": "残酷な天使のテーゼ",
-  "artist": "高橋洋子",
-  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=25",
-  "source": "others.js"
-},
-    {
-  "title": "サマータイムレコード",
-  "artist": "じん feat. IA",
-  "collection": "Haru Ch. 花前ハル歌切 2026-06-23 欢迎初见❗️第一次竖屏歌回✨️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xSjX6qEjE?p=26",
-  "source": "others.js"
-},
-    {
-  "title": "だから僕は音楽を辞めた",
+  "title": "春泥棒",
   "artist": "ヨルシカ",
   "collection": "あかつき るき 2026-03-22 XJcoJYZvFvg",
   "up": "前尘往事如昔故",
