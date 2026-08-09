@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 8/8/2026, 11:07:26 PM
+// 生成时间: 8/8/2026, 11:21:16 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1419,6 +1419,126 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-08-05]chill あこぎ🦋🎸✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GkMU6EEQg?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "もしも",
+  "artist": "カネコアヤノ",
+  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "愛のままを",
+  "artist": "カネコアヤノ",
+  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "ハート",
+  "artist": "あいみょん",
+  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "エメラルドシティ",
+  "artist": "TOKOTOKO(西沢さんP) feat.MAYU",
+  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "チーズケーキクライシス",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "1/6",
+  "artist": "ぼーかりおどP",
+  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=6",
+  "source": "stratia.js"
+},
+    {
+  "title": "ハイドアンド・シーク",
+  "artist": "19's Sound Factory feat.初音ミク",
+  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=7",
+  "source": "stratia.js"
+},
+    {
+  "title": "リッケンバッカー",
+  "artist": "リーガルリリー",
+  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=8",
+  "source": "stratia.js"
+},
+    {
+  "title": "overture",
+  "artist": "リーガルリリー",
+  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=9",
+  "source": "stratia.js"
+},
+    {
+  "title": "宿命",
+  "artist": "Official髭男dism",
+  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=10",
+  "source": "stratia.js"
+},
+    {
+  "title": "ノーダウト",
+  "artist": "Official髭男dism",
+  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=11",
+  "source": "stratia.js"
+},
+    {
+  "title": "ドレミファロンド",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=12",
+  "source": "stratia.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=13",
+  "source": "stratia.js"
+},
+    {
+  "title": "笑ったり転んだり",
+  "artist": "ハンバートハンバート",
+  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=14",
+  "source": "stratia.js"
+},
+    {
+  "title": "眠り姫",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=15",
   "source": "stratia.js"
 }
 );

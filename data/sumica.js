@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 8/8/2026, 10:50:30 PM
+// 生成时间: 8/8/2026, 11:01:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7483,6 +7483,150 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-08-04]中午不摄取一点真心弹唱吗❓会唱很多哦～!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t9Mq6gEE9?p=26",
+  "source": "sumica.js"
+},
+    {
+  "title": "火々",
+  "artist": "ヒグチアイ",
+  "collection": "【💐🎸歌切】[2026-08-07]周五辛苦啦🎐用心献唱～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZu56wE7D?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【💐🎸歌切】[2026-08-07]周五辛苦啦🎐用心献唱～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZu56wE7D?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "「shout baby」",
+  "artist": "緑黄色社会",
+  "collection": "【💐🎸歌切】[2026-08-07]周五辛苦啦🎐用心献唱～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZu56wE7D?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-08-07]周五辛苦啦🎐用心献唱～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZu56wE7D?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-08-07]周五辛苦啦🎐用心献唱～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZu56wE7D?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "「KissHug」",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-08-07]周五辛苦啦🎐用心献唱～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZu56wE7D?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【💐🎸歌切】[2026-08-07]周五辛苦啦🎐用心献唱～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZu56wE7D?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "帰りの会",
+  "collection": "【💐🎸歌切】[2026-08-07]周五辛苦啦🎐用心献唱～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZu56wE7D?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【💐🎸歌切】[2026-08-07]周五辛苦啦🎐用心献唱～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZu56wE7D?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "「Pretender」",
+  "artist": "Official髭男dism",
+  "collection": "【💐🎸歌切】[2026-08-07]周五辛苦啦🎐用心献唱～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZu56wE7D?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "宿命",
+  "artist": "Official髭男dism",
+  "collection": "【💐🎸歌切】[2026-08-07]周五辛苦啦🎐用心献唱～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZu56wE7D?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "らしさ",
+  "artist": "SUPER BEAVER",
+  "collection": "【💐🎸歌切】[2026-08-07]周五辛苦啦🎐用心献唱～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZu56wE7D?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "チノカテ",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-08-07]周五辛苦啦🎐用心献唱～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZu56wE7D?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-08-07]周五辛苦啦🎐用心献唱～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZu56wE7D?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "よるのあと",
+  "artist": "adieu",
+  "collection": "【💐🎸歌切】[2026-08-07]周五辛苦啦🎐用心献唱～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZu56wE7D?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【💐🎸歌切】[2026-08-07]周五辛苦啦🎐用心献唱～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZu56wE7D?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "メイクミー",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-08-07]周五辛苦啦🎐用心献唱～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZu56wE7D?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "ちょっと待って！",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-08-07]周五辛苦啦🎐用心献唱～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZu56wE7D?p=18",
   "source": "sumica.js"
 }
 );
