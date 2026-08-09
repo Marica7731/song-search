@@ -1,6 +1,6 @@
 // AZKi - 歌单数据 (多合集汇总)
 // 来源: BV1dE42137AT
-// 生成时间: 8/9/2026, 10:49:26 AM
+// 生成时间: 8/9/2026, 11:11:04 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5291,6 +5291,86 @@ window.SONG_DATA.push(
   "collection": "AZKi 2026年07月08日22点场 新衣装で歌う～～～！！！J-POP・アニソン・ボカロ Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D81dYfEtV?p=10",
+  "source": "azki.js"
+},
+    {
+  "title": "ROCK OVER JAPAN",
+  "artist": "トリプルH",
+  "collection": "AZKi 2026年08月08日22点场 アニソン縛り！歌うよ～～～！ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13h1dYFE3J?p=1",
+  "source": "azki.js"
+},
+    {
+  "title": "少年よ我に帰れ",
+  "artist": "やくしまるえつこメトロオーケストラ",
+  "collection": "AZKi 2026年08月08日22点场 アニソン縛り！歌うよ～～～！ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13h1dYFE3J?p=2",
+  "source": "azki.js"
+},
+    {
+  "title": "なのです☆",
+  "artist": "羽入(堀江由衣)",
+  "collection": "AZKi 2026年08月08日22点场 アニソン縛り！歌うよ～～～！ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13h1dYFE3J?p=3",
+  "source": "azki.js"
+},
+    {
+  "title": "ひぐらしのなく頃に",
+  "artist": "島みやえい子",
+  "collection": "AZKi 2026年08月08日22点场 アニソン縛り！歌うよ～～～！ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13h1dYFE3J?p=4",
+  "source": "azki.js"
+},
+    {
+  "title": "ギー太に首ったけ",
+  "artist": "平沢唯(豊崎愛生)",
+  "collection": "AZKi 2026年08月08日22点场 アニソン縛り！歌うよ～～～！ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13h1dYFE3J?p=5",
+  "source": "azki.js"
+},
+    {
+  "title": "GO! GO! MANIAC",
+  "artist": "放課後ティータイム",
+  "collection": "AZKi 2026年08月08日22点场 アニソン縛り！歌うよ～～～！ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13h1dYFE3J?p=6",
+  "source": "azki.js"
+},
+    {
+  "title": "雪、無音、窓辺にて。",
+  "artist": "長門有希(茅原実里)",
+  "collection": "AZKi 2026年08月08日22点场 アニソン縛り！歌うよ～～～！ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13h1dYFE3J?p=7",
+  "source": "azki.js"
+},
+    {
+  "title": "冒険でしょでしょ？",
+  "artist": "平野綾",
+  "collection": "AZKi 2026年08月08日22点场 アニソン縛り！歌うよ～～～！ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13h1dYFE3J?p=8",
+  "source": "azki.js"
+},
+    {
+  "title": "Ex-Otogibanashi",
+  "artist": "かぐや(夏吉ゆうこ)、月見ヤチヨ(早見沙織)",
+  "collection": "AZKi 2026年08月08日22点场 アニソン縛り！歌うよ～～～！ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13h1dYFE3J?p=9",
+  "source": "azki.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "AZKi 2026年08月08日22点场 アニソン縛り！歌うよ～～～！ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13h1dYFE3J?p=10",
   "source": "azki.js"
 }
 );
