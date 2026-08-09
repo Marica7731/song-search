@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 8/9/2026, 12:20:13 AM
+// 生成时间: 8/9/2026, 12:33:31 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1539,6 +1539,54 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=15",
+  "source": "stratia.js"
+},
+    {
+  "title": "(恋は)百年戦争",
+  "artist": "相対性理論",
+  "collection": "【🎸🦋歌切】[2026-08-07]夜晚的悠闲歌回🦋🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XVu76fE1f?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "地獄先生",
+  "artist": "相対性理論",
+  "collection": "【🎸🦋歌切】[2026-08-07]夜晚的悠闲歌回🦋🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XVu76fE1f?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "M",
+  "artist": "PRINCESS PRINCESS",
+  "collection": "【🎸🦋歌切】[2026-08-07]夜晚的悠闲歌回🦋🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XVu76fE1f?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "残ってる",
+  "artist": "吉澤嘉代子",
+  "collection": "【🎸🦋歌切】[2026-08-07]夜晚的悠闲歌回🦋🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XVu76fE1f?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "小夜子",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【🎸🦋歌切】[2026-08-07]夜晚的悠闲歌回🦋🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XVu76fE1f?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "モモ",
+  "artist": "にしな",
+  "collection": "【🎸🦋歌切】[2026-08-07]夜晚的悠闲歌回🦋🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XVu76fE1f?p=6",
   "source": "stratia.js"
 }
 );
