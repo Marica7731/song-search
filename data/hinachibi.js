@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 8/9/2026, 1:49:17 AM
+// 生成时间: 8/9/2026, 2:01:35 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1926,7 +1926,7 @@ window.SONG_DATA.push(
   "source": "hinachibi.js"
 },
     {
-  "title": "靴の花火",
+  "title": "花に亡霊",
   "artist": "ヨルシカ",
   "collection": "【歌切】[2026-08-07]盂兰盆节前的歌回🌟欢迎新朋友围观！",
   "up": "前尘往事如昔故",
