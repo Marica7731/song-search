@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 8/8/2026, 11:48:41 PM
+// 生成时间: 8/8/2026, 11:59:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -22203,6 +22203,62 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】#146[2026-08-05]点歌OK！星期三20点定期歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tMMU66EYc?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【🦢歌切】[2026-08-08]午后时光来一曲如何？ / 歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Meu56UEdp?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🦢歌切】[2026-08-08]午后时光来一曲如何？ / 歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Meu56UEdp?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "銀河鉄道999",
+  "artist": "ゴダイゴ",
+  "collection": "【🦢歌切】[2026-08-08]午后时光来一曲如何？ / 歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Meu56UEdp?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "LA・LA・LA LOVE SONG",
+  "artist": "久保田利伸",
+  "collection": "【🦢歌切】[2026-08-08]午后时光来一曲如何？ / 歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Meu56UEdp?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-08-08]午后时光来一曲如何？ / 歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Meu56UEdp?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【🦢歌切】[2026-08-08]午后时光来一曲如何？ / 歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Meu56UEdp?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "さよならの夏 ~コクリコ坂から~",
+  "artist": "手嶌葵",
+  "collection": "【🦢歌切】[2026-08-08]午后时光来一曲如何？ / 歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Meu56UEdp?p=7",
   "source": "suu_usuwa.js"
 }
 );

@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 8/8/2026, 11:54:07 PM
+// 生成时间: 8/9/2026, 12:05:10 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -37731,6 +37731,166 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-08-05]初见观众欢迎中！8月大家晚上好！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12YMm6eEdq?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【🍠🦍歌切】[2026-08-07]初见欢迎中！大家都来集合吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138u56HEYE?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-08-07]初见欢迎中！大家都来集合吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138u56HEYE?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "松本梨香",
+  "collection": "【🍠🦍歌切】[2026-08-07]初见欢迎中！大家都来集合吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138u56HEYE?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【🍠🦍歌切】[2026-08-07]初见欢迎中！大家都来集合吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138u56HEYE?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "キミがいれば",
+  "artist": "いおり",
+  "collection": "【🍠🦍歌切】[2026-08-07]初见欢迎中！大家都来集合吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138u56HEYE?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "崖の上のポニョ",
+  "artist": "大橋のぞみ",
+  "collection": "【🍠🦍歌切】[2026-08-07]初见欢迎中！大家都来集合吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138u56HEYE?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ケロッ!とマーチ",
+  "artist": "角田信明&いはたじゅり",
+  "collection": "【🍠🦍歌切】[2026-08-07]初见欢迎中！大家都来集合吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138u56HEYE?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "【🍠🦍歌切】[2026-08-07]初见欢迎中！大家都来集合吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138u56HEYE?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "中島愛",
+  "collection": "【🍠🦍歌切】[2026-08-07]初见欢迎中！大家都来集合吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138u56HEYE?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n 中島愛",
+  "collection": "【🍠🦍歌切】[2026-08-07]初见欢迎中！大家都来集合吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138u56HEYE?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "一度だけの恋なら",
+  "artist": "ワルキューレ",
+  "collection": "【🍠🦍歌切】[2026-08-07]初见欢迎中！大家都来集合吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138u56HEYE?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【🍠🦍歌切】[2026-08-07]初见欢迎中！大家都来集合吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138u56HEYE?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "GO MY WAY!!",
+  "artist": "M@STER",
+  "collection": "【🍠🦍歌切】[2026-08-07]初见欢迎中！大家都来集合吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138u56HEYE?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "浪漫飛行",
+  "artist": "米米CLUB",
+  "collection": "【🍠🦍歌切】[2026-08-07]初见欢迎中！大家都来集合吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138u56HEYE?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【🍠🦍歌切】[2026-08-07]初见欢迎中！大家都来集合吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138u56HEYE?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【🍠🦍歌切】[2026-08-07]初见欢迎中！大家都来集合吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138u56HEYE?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-08-07]初见欢迎中！大家都来集合吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138u56HEYE?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "YELL",
+  "artist": "いきものがかり",
+  "collection": "【🍠🦍歌切】[2026-08-07]初见欢迎中！大家都来集合吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138u56HEYE?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "【🍠🦍歌切】[2026-08-07]初见欢迎中！大家都来集合吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138u56HEYE?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki",
+  "collection": "【🍠🦍歌切】[2026-08-07]初见欢迎中！大家都来集合吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV138u56HEYE?p=20",
   "source": "yoshika.js"
 }
 );
