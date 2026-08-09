@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 8/8/2026, 10:42:13 PM
+// 生成时间: 8/8/2026, 10:52:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12027,6 +12027,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "The Biggest Dreamer",
+  "artist": "和田光司",
+  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Fire◎Flower",
+  "artist": "halyosy feat.鏡音レン",
+  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO×米津玄師",
+  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Way Back Home",
+  "artist": "SHAUN",
+  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師,宇多田ヒカル",
+  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "だから僕は音楽をやめた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "インドア系ならトラックメイカー",
+  "artist": "Yunomi & nicamoq",
+  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "天使にふれたよ!",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat.GUMI・鏡音リン",
+  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "お願いマッスル",
+  "artist": "紗倉ひびき(CV:ファイルーズあい)&街雄鳴造(CV:石川界人)",
+  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "エンジェルウインク",
+  "artist": "照橋心美(茅野愛衣)",
+  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=13",
   "source": "naraetan.js"
 },
     {

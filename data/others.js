@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 8/8/2026, 11:54:51 PM
+// 生成时间: 8/9/2026, 12:04:41 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -350,47 +350,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "モニタリング",
-  "artist": "DECO*27",
-  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "あなたのことをおしえて",
-  "artist": "キタニタツヤ",
-  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "ハイド・アンド・シーク",
-  "artist": "NOMELON NOLEMON",
-  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "新興宗教",
-  "artist": "是",
-  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "最終電車",
-  "artist": "パスピエ",
-  "collection": "歌势推荐：雨宮みやび 2026-03-25 64gqupP-gHY",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rEXbB7EkM?p=5",
-  "source": "others.js"
-},
-    {
-  "title": "夕凪、某、花惑い",
+  "title": "ヒッチコック",
   "artist": "ヨルシカ",
   "collection": "歌切 2026-04-02 Muan ch.茨むあん ibaramuan",
   "up": "前尘往事如昔故",
