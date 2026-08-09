@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 8/9/2026, 3:21:13 AM
+// 生成时间: 8/9/2026, 3:35:03 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -482,7 +482,159 @@ window.SONG_DATA.push(
   "artist": "Ado",
   "collection": "Yoto 夜都 | JP Vtuber歌切 2026-08-02 我事先不知道要在这里唱歌……！！-日语",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1USMZ6YEuQ?p=5",
+  "link": "https://www.bilibili.com/video/BV1P33667EPd?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "NEPHLA歌切 2026-07-28 ⋮ 联动 ⋮ 和Figaro酱的首次唱歌联动啦！🩵💚✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P33667EPd?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "NEPHLA歌切 2026-07-28 ⋮ 联动 ⋮ 和Figaro酱的首次唱歌联动啦！🩵💚✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P33667EPd?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "NEPHLA歌切 2026-07-28 ⋮ 联动 ⋮ 和Figaro酱的首次唱歌联动啦！🩵💚✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P33667EPd?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "NEPHLA歌切 2026-07-28 ⋮ 联动 ⋮ 和Figaro酱的首次唱歌联动啦！🩵💚✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P33667EPd?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "secret base ~君がくれたもの~",
+  "artist": "ZONE",
+  "collection": "NEPHLA歌切 2026-07-28 ⋮ 联动 ⋮ 和Figaro酱的首次唱歌联动啦！🩵💚✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P33667EPd?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ANIMA",
+  "artist": "ReoNa",
+  "collection": "联动歌切 2026-08-04 为天空献上祈愿的歌回合作🪽🎀可爱与帅气都为你呈现𝜗𝜚.⋆ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6u56yEvw?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "八月、某、月明かり",
+  "artist": "ヨルシカ",
+  "collection": "联动歌切 2026-08-04 为天空献上祈愿的歌回合作🪽🎀可爱与帅气都为你呈现𝜗𝜚.⋆ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6u56yEvw?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "联动歌切 2026-08-04 为天空献上祈愿的歌回合作🪽🎀可爱与帅气都为你呈现𝜗𝜚.⋆ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6u56yEvw?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "联动歌切 2026-08-04 为天空献上祈愿的歌回合作🪽🎀可爱与帅气都为你呈现𝜗𝜚.⋆ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6u56yEvw?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "联动歌切 2026-08-04 为天空献上祈愿的歌回合作🪽🎀可爱与帅气都为你呈现𝜗𝜚.⋆ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6u56yEvw?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "いますぐ輪廻",
+  "artist": "なきそ feat.初音ミク",
+  "collection": "联动歌切 2026-08-04 为天空献上祈愿的歌回合作🪽🎀可爱与帅气都为你呈现𝜗𝜚.⋆ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6u56yEvw?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "狂乱 Hey Kids!!",
+  "artist": "THE ORAL CIGARETTES",
+  "collection": "联动歌切 2026-08-04 为天空献上祈愿的歌回合作🪽🎀可爱与帅气都为你呈现𝜗𝜚.⋆ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6u56yEvw?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "联动歌切 2026-08-04 为天空献上祈愿的歌回合作🪽🎀可爱与帅气都为你呈现𝜗𝜚.⋆ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6u56yEvw?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "ヲズワルド",
+  "artist": "煮ル果実",
+  "collection": "联动歌切 2026-08-04 为天空献上祈愿的歌回合作🪽🎀可爱与帅气都为你呈现𝜗𝜚.⋆ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6u56yEvw?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "Dearest",
+  "artist": "浜崎あゆみ",
+  "collection": "联动歌切 2026-08-04 为天空献上祈愿的歌回合作🪽🎀可爱与帅气都为你呈现𝜗𝜚.⋆ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6u56yEvw?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "All Alone With You",
+  "artist": "EGOIST",
+  "collection": "联动歌切 2026-08-04 为天空献上祈愿的歌回合作🪽🎀可爱与帅气都为你呈现𝜗𝜚.⋆ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6u56yEvw?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "联动歌切 2026-08-04 为天空献上祈愿的歌回合作🪽🎀可爱与帅气都为你呈现𝜗𝜚.⋆ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6u56yEvw?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "会心の一撃",
+  "artist": "RADWIMPS",
+  "collection": "联动歌切 2026-08-04 为天空献上祈愿的歌回合作🪽🎀可爱与帅气都为你呈现𝜗𝜚.⋆ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6u56yEvw?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "サムライハート",
+  "artist": "SPYAIR",
+  "collection": "联动歌切 2026-08-04 为天空献上祈愿的歌回合作🪽🎀可爱与帅气都为你呈现𝜗𝜚.⋆ 鈴花いのり - Suzuhana Inori -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6u56yEvw?p=14",
   "source": "others.js"
 },
     {
