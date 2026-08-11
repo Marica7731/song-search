@@ -1,6 +1,6 @@
 // 透夏 - 歌单数据 (多合集汇总)
 // 来源: BV1CbVk68ESd
-// 生成时间: 8/11/2026, 10:42:20 PM
+// 生成时间: 8/11/2026, 11:03:16 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -739,6 +739,54 @@ window.SONG_DATA.push(
   "collection": "歌切【透夏】[2026-07-10]7月的广播直播🎐 透夏",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aeNc6qE5x?p=2",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "歌切【透夏】[2026-08-10]8月的电台直播🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jGuk6qEKk?p=1",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "歌切【透夏】[2026-08-10]8月的电台直播🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jGuk6qEKk?p=2",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat.GUMI",
+  "collection": "歌切【透夏】[2026-08-10]8月的电台直播🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jGuk6qEKk?p=3",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "Fairytale,",
+  "artist": "buzzG feat.GUMI",
+  "collection": "歌切【透夏】[2026-08-10]8月的电台直播🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jGuk6qEKk?p=4",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "夕立のりぼん",
+  "artist": "みきとP feat.MAYU",
+  "collection": "歌切【透夏】[2026-08-10]8月的电台直播🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jGuk6qEKk?p=5",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "快晴",
+  "artist": "Orangestar feat.IA",
+  "collection": "歌切【透夏】[2026-08-10]8月的电台直播🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jGuk6qEKk?p=6",
   "source": "toka10summer.js"
 }
 );

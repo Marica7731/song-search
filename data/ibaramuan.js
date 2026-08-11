@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 8/11/2026, 10:44:12 PM
+// 生成时间: 8/11/2026, 11:04:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7739,6 +7739,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-07]我会唱动画歌曲和术力口曲目哦。",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Fdu56eEjR?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "【歌切】[2026-08-10]星期一定期🎙来听一首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wdur6EEwq?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "letter song",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【歌切】[2026-08-10]星期一定期🎙来听一首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wdur6EEwq?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "レオ",
+  "artist": "優里",
+  "collection": "【歌切】[2026-08-10]星期一定期🎙来听一首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wdur6EEwq?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "一番の宝物",
+  "artist": "Girls Dead Monster",
+  "collection": "【歌切】[2026-08-10]星期一定期🎙来听一首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wdur6EEwq?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "あの夏が飽和する。",
+  "artist": "カンザキイオリ feat.鏡音レン・鏡音リン",
+  "collection": "【歌切】[2026-08-10]星期一定期🎙来听一首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wdur6EEwq?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-10]星期一定期🎙来听一首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wdur6EEwq?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "馬と鹿",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-10]星期一定期🎙来听一首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wdur6EEwq?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "栞",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-08-10]星期一定期🎙来听一首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wdur6EEwq?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "六等星",
+  "artist": "ざらめ",
+  "collection": "【歌切】[2026-08-10]星期一定期🎙来听一首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wdur6EEwq?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "メリーゴーランド",
+  "artist": "優里",
+  "collection": "【歌切】[2026-08-10]星期一定期🎙来听一首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wdur6EEwq?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat.GUMI",
+  "collection": "【歌切】[2026-08-10]星期一定期🎙来听一首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wdur6EEwq?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "やさしさで溢れるように",
+  "artist": "JUJU",
+  "collection": "【歌切】[2026-08-10]星期一定期🎙来听一首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wdur6EEwq?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Precious",
+  "artist": "伊藤由奈",
+  "collection": "【歌切】[2026-08-10]星期一定期🎙来听一首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wdur6EEwq?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "想像フォレスト",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-08-10]星期一定期🎙来听一首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wdur6EEwq?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "しわ",
+  "artist": "buzzG feat.GUMI",
+  "collection": "【歌切】[2026-08-10]星期一定期🎙来听一首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wdur6EEwq?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "心拍数♯0822",
+  "artist": "蝶々P feat.初音ミク",
+  "collection": "【歌切】[2026-08-10]星期一定期🎙来听一首歌吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wdur6EEwq?p=16",
   "source": "ibaramuan.js"
 }
 );
