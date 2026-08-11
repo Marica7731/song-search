@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 8/11/2026, 6:01:01 PM
+// 生成时间: 8/11/2026, 6:02:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2142,111 +2142,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "わたがし",
-  "artist": "back number",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "マリーゴールド",
-  "artist": "あいみょん",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "オレンジ",
-  "artist": "トーマ feat.初音ミク",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "ぷんぷん",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "花火",
-  "artist": "aiko",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=5",
-  "source": "others.js"
-},
-    {
-  "title": "おつかれSUMMER",
-  "artist": "HALCALI",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=6",
-  "source": "others.js"
-},
-    {
-  "title": "ブルーアンビエンス (feat. asmi)",
-  "artist": "Mrs. GREEN APPLE feat.asmi",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=7",
-  "source": "others.js"
-},
-    {
-  "title": "again",
-  "artist": "YUI",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=8",
-  "source": "others.js"
-},
-    {
-  "title": "打上花火",
-  "artist": "DAOKO × 米津玄師",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=9",
-  "source": "others.js"
-},
-    {
-  "title": "カタオモイ",
-  "artist": "Aimer",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=10",
-  "source": "others.js"
-},
-    {
-  "title": "スター",
-  "artist": "aiko",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=11",
-  "source": "others.js"
-},
-    {
-  "title": "歌舞伎町の女王",
-  "artist": "椎名林檎",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=12",
-  "source": "others.js"
-},
-    {
-  "title": "憂、燦々",
-  "artist": "クリープハイプ",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=13",
-  "source": "others.js"
-},
-    {
-  "title": "エルマ",
+  "title": "ただ君に晴れ",
   "artist": "ヨルシカ",
   "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
   "up": "前尘往事如昔故",
