@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 8/12/2026, 11:03:11 PM
+// 生成时间: 8/12/2026, 11:15:49 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1547,6 +1547,118 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=16",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "千鳥",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "メトロノーム",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "さよなら、花泥棒さん",
+  "artist": "メル feat.初音ミク",
+  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "雨き声残響",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "SEVENTH HEAVEN",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師, 宇多田ヒカル",
+  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "8.8",
+  "artist": "あたらよ",
+  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "夏霞",
+  "artist": "あたらよ",
+  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "背景、夏に溺れる",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ヨヒラ",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "All Alone With You",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=14",
   "source": "suiuishino.js"
 }
 );
