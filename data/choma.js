@@ -1,6 +1,6 @@
 // チョま - 歌单数据 (多合集汇总)
 // 来源: BV1kM3L6GEBV
-// 生成时间: 8/12/2026, 1:02:34 AM
+// 生成时间: 8/12/2026, 1:12:17 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1339,6 +1339,246 @@ window.SONG_DATA.push(
   "collection": "チョま歌切 2026年08月08日13点场 生日之前还有一点点时间！ 2026-08-08",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ju76ZEmF?p=25",
+  "source": "choma.js"
+},
+    {
+  "title": "タセイジン",
+  "artist": "チョま",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=1",
+  "source": "choma.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=2",
+  "source": "choma.js"
+},
+    {
+  "title": "MOTTAI",
+  "artist": "P丸様。",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=3",
+  "source": "choma.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP feat.鏡音リン",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=4",
+  "source": "choma.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat.初音ミク",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=5",
+  "source": "choma.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=6",
+  "source": "choma.js"
+},
+    {
+  "title": "青い珊瑚礁",
+  "artist": "松田聖子",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=7",
+  "source": "choma.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "ロクデナシ",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=8",
+  "source": "choma.js"
+},
+    {
+  "title": "神のまにまに",
+  "artist": "れるりり feat.初音ミク・鏡音リン・GUMI",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=9",
+  "source": "choma.js"
+},
+    {
+  "title": "アイロニーナ",
+  "artist": "煮ル果実 feat.flower",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=10",
+  "source": "choma.js"
+},
+    {
+  "title": "チェリー",
+  "artist": "スピッツ",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=11",
+  "source": "choma.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=12",
+  "source": "choma.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=13",
+  "source": "choma.js"
+},
+    {
+  "title": "一二三",
+  "artist": "Penthouse",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=14",
+  "source": "choma.js"
+},
+    {
+  "title": "太陽系デスコ",
+  "artist": "ナユタン星人 feat.初音ミク",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=15",
+  "source": "choma.js"
+},
+    {
+  "title": "Love me, Love you",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=16",
+  "source": "choma.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=17",
+  "source": "choma.js"
+},
+    {
+  "title": "オトメロディー",
+  "artist": "高橋美佳子",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=18",
+  "source": "choma.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子(花澤香菜)",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=19",
+  "source": "choma.js"
+},
+    {
+  "title": "お返事まだカナ?おじさん構文!",
+  "artist": "吉本おじさん feat.雨衣",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=20",
+  "source": "choma.js"
+},
+    {
+  "title": "ベノム",
+  "artist": "かいりきベア feat.flower",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=21",
+  "source": "choma.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=22",
+  "source": "choma.js"
+},
+    {
+  "title": "パート・オブ・ユア・ワールド",
+  "artist": "すずきまゆみ",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=23",
+  "source": "choma.js"
+},
+    {
+  "title": "アンダー・ザ・シー",
+  "artist": "上條恒彦",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=24",
+  "source": "choma.js"
+},
+    {
+  "title": "ハナタバ",
+  "artist": "MIMI feat.可不",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=25",
+  "source": "choma.js"
+},
+    {
+  "title": "六兆年と一夜物語",
+  "artist": "kemu feat.IA",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=26",
+  "source": "choma.js"
+},
+    {
+  "title": "ツギハギスタッカート",
+  "artist": "とあ feat.初音ミク",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=27",
+  "source": "choma.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=28",
+  "source": "choma.js"
+},
+    {
+  "title": "ルマ",
+  "artist": "かいりきベア feat.初音ミク",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=29",
+  "source": "choma.js"
+},
+    {
+  "title": "エメラルド侵☆略",
+  "artist": "チョま",
+  "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=30",
   "source": "choma.js"
 }
 );
