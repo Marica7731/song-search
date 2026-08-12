@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 8/11/2026, 11:42:57 PM
+// 生成时间: 8/12/2026, 12:21:10 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -37891,6 +37891,182 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-08-07]初见欢迎中！大家都来集合吧！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV138u56HEYE?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気分上々↑↑",
+  "artist": "mihimaru GT",
+  "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子(花澤香菜)",
+  "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "DISCOTHEQUE",
+  "artist": "水樹奈々",
+  "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "COLORS",
+  "artist": "FLOW",
+  "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "心絵",
+  "artist": "ロードオブメジャー",
+  "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "セーラースターソング",
+  "artist": "花沢加絵",
+  "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Winter Bells",
+  "artist": "倉木麻衣",
+  "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "はじめてのチュウ",
+  "artist": "あんしんパパ",
+  "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Sweet(x5) Vintage!",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "remember",
+  "artist": "Uru",
+  "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "愛してる",
+  "artist": "高鈴",
+  "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夏夕空",
+  "artist": "中孝介",
+  "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "となりのトトロ",
+  "artist": "井上あずみ",
+  "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風のとおり道",
+  "artist": "井上あずみ",
+  "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "フローリア",
+  "artist": "佐香智久",
+  "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=22",
   "source": "yoshika.js"
 }
 );

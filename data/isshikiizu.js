@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 8/12/2026, 12:46:39 AM
+// 生成时间: 8/12/2026, 1:14:23 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2643,6 +2643,246 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-08]令和VS平成动漫歌曲歌回！🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1duu76aEJr?p=32",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "サウダージ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ちゅ、多様性。",
+  "artist": "ano",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "君はロックを聴かない",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "三原色",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Catch the Moment",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "阿修羅ちゃん",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat.GUMI",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ゴーストルール",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "エゴロック(long ver.)",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "キャットラビング",
+  "artist": "香椎モイミ feat.可不",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat.初音ミク",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ジェヘナ",
+  "artist": "wotaku feat.初音ミク",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "月と花束",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=22",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "フラレガイガール",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=23",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "チャンカパーナ",
+  "artist": "NEWS",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=24",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=25",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=26",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=27",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ほんまやで☆なんでやねん☆しらんけど",
+  "artist": "モナキ",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=28",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "わたしに花束",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=29",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=30",
   "source": "isshikiizu.js"
 }
 );
