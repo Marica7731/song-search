@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 8/11/2026, 10:55:21 PM
+// 生成时间: 8/11/2026, 11:22:34 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10739,6 +10739,294 @@ window.SONG_DATA.push(
   "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=34",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夢見月に何想ふ",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "なんでもないよ、",
+  "artist": "マカロニえんぴつ",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "グレーマンのせいにする",
+  "artist": "クリープハイプ",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria feat.GUMI",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Sunrise&Sunset",
+  "artist": "andymori",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ゴーゴー幽霊船",
+  "artist": "米津玄師",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "日々",
+  "artist": "吉田山田",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Wherever you are",
+  "artist": "ONE OK ROCK",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "エピゴウネ",
+  "artist": "日食なつこ",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "虹",
+  "artist": "二宮和也",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ただ",
+  "artist": "はるこたつぶとん俱楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat.初音ミク",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ハロ／ハワユ",
+  "artist": "ナノウ feat.初音ミク",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "無名のオリジナル",
+  "artist": "はるこたつぶとん俱楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "数え歌",
+  "artist": "はるこたつぶとん俱楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "サムライハート(Some Like It Hot!!)",
+  "artist": "SPYAIR",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "岬",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ニーナ",
+  "artist": "はるこたつぶとん俱楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "爆弾魔",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "涙そうそう",
+  "artist": "夏川りみ",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "今日の日はさようなら",
+  "artist": "森山良子",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "生きてることが辛いなら",
+  "artist": "森山直太朗",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "壊れかけのRadio",
+  "artist": "徳永英明",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよなら人類",
+  "artist": "たま",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "またね",
+  "artist": "ハンブレッダーズ",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "深呼吸",
+  "artist": "ハナレグミ",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "napori",
+  "artist": "Vaundy",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=29",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "虎",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=30",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "髪の毛",
+  "artist": "女王蜂",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=31",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ひかり",
+  "artist": "星村麻衣",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=32",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "パープルスカイ",
+  "artist": "蜜",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=33",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "バレリーコ",
+  "artist": "みきとP feat.GUMI",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=34",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Million Films",
+  "artist": "コブクロ",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=35",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "デブの戯言",
+  "artist": "はるこたつぶとん俱楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=36",
   "source": "kotatsu.js"
 }
 );

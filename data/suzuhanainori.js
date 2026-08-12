@@ -1,6 +1,6 @@
 // 鈴花いのり - 歌单数据 (多合集汇总)
 // 来源: BV1jyjK6sEns
-// 生成时间: 8/11/2026, 11:39:42 PM
+// 生成时间: 8/12/2026, 12:03:05 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2395,6 +2395,454 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=42",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=1",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "サインはB",
+  "artist": "B小町",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=2",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "GO! GO! MANIAC",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=3",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "境界の彼方",
+  "artist": "茅原実里",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=4",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Catch You Catch Me",
+  "artist": "グミ",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=5",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=6",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=7",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=8",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=9",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=10",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=11",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "残酷な夜に輝け",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=12",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=13",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=14",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "崖の上のポニョ",
+  "artist": "藤岡藤巻と大橋のぞみ",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=15",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=16",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=17",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Beautiful Wish",
+  "artist": "喜多村英梨（星羅）",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=18",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "暗黒の翼",
+  "artist": "レディ・バット（小林沙苗）",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=19",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "恋のヒメヒメぺったんこ",
+  "artist": "姫野湖鳥（CV：田村ゆかり）",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=20",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "弱虫な炎",
+  "artist": "DIRTY OLD MEN",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=21",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=22",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ラピスラズリ",
+  "artist": "藍井エイル",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=23",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "This game",
+  "artist": "鈴木このみ",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=24",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "太陽曰く燃えよカオス",
+  "artist": "後ろから這いより隊G",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=25",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "もってけ!セーラーふく",
+  "artist": "泉こなた（平野綾）・柊かがみ（加藤英美里）・柊つかさ（福原香織）・高良みゆき（遠藤綾）",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=26",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾・茅原実里・後藤邑子",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=27",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=28",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Los! Los! Los!",
+  "artist": "ターニャ・デグレチャフ（CV：悠木碧）",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=29",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=30",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=31",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "乱舞のメロディ",
+  "artist": "シド",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=32",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=33",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Velonica",
+  "artist": "Aqua Timez",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=34",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ゴールデンタイムラバー",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=35",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=36",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "消せない罪",
+  "artist": "北出菜奈",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=37",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=38",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=39",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=40",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ちゅ、多様性。",
+  "artist": "ano",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=41",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ハッピーラッキーチャッピー",
+  "artist": "ano",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=42",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "深い森",
+  "artist": "Do As Infinity",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=43",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ（CV：平野綾）",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=44",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=45",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "春擬き",
+  "artist": "やなぎなぎ",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=46",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ユキトキ",
+  "artist": "やなぎなぎ",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=47",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "白金ディスコ",
+  "artist": "阿良々木月火（井口裕香）",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=48",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=49",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "空に歌えば",
+  "artist": "amazarashi",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=50",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Last Moment",
+  "artist": "SPYAIR",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=51",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "茜さす",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=52",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=53",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "サムライハート(Some Like It Hot!!)",
+  "artist": "SPYAIR",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=54",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Little Busters!",
+  "artist": "Rita",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=55",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=56",
   "source": "suzuhanainori.js"
 }
 );

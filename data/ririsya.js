@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 8/11/2026, 10:35:44 PM
+// 生成时间: 8/11/2026, 11:04:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -18539,6 +18539,126 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-08-05]路上Live风格弹唱✧ Sing with a guitar",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sjMU6NE12?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "はじめてのチュウ",
+  "artist": "あんしんパパ",
+  "collection": "【🐍歌切】[2026-08-10]沉睡钢琴叙事曲改编歌回 ✧ Piano Ballade",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cdur6EEHS?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "YUME日和",
+  "artist": "島谷ひとみ",
+  "collection": "【🐍歌切】[2026-08-10]沉睡钢琴叙事曲改编歌回 ✧ Piano Ballade",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cdur6EEHS?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "SWEET MEMORIES",
+  "artist": "松田聖子",
+  "collection": "【🐍歌切】[2026-08-10]沉睡钢琴叙事曲改编歌回 ✧ Piano Ballade",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cdur6EEHS?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "オリビアを聴きながら",
+  "artist": "杏里",
+  "collection": "【🐍歌切】[2026-08-10]沉睡钢琴叙事曲改编歌回 ✧ Piano Ballade",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cdur6EEHS?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【🐍歌切】[2026-08-10]沉睡钢琴叙事曲改编歌回 ✧ Piano Ballade",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cdur6EEHS?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【🐍歌切】[2026-08-10]沉睡钢琴叙事曲改编歌回 ✧ Piano Ballade",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cdur6EEHS?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "アンパンマンのマーチ",
+  "artist": "ドリーミング",
+  "collection": "【🐍歌切】[2026-08-10]沉睡钢琴叙事曲改编歌回 ✧ Piano Ballade",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cdur6EEHS?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "にんげんっていいな",
+  "artist": "中嶋義実・ヤングフレッシュ",
+  "collection": "【🐍歌切】[2026-08-10]沉睡钢琴叙事曲改编歌回 ✧ Piano Ballade",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cdur6EEHS?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "【🐍歌切】[2026-08-10]沉睡钢琴叙事曲改编歌回 ✧ Piano Ballade",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cdur6EEHS?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🐍歌切】[2026-08-10]沉睡钢琴叙事曲改编歌回 ✧ Piano Ballade",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cdur6EEHS?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ルージュの伝言",
+  "artist": "松任谷由実",
+  "collection": "【🐍歌切】[2026-08-10]沉睡钢琴叙事曲改编歌回 ✧ Piano Ballade",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cdur6EEHS?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【🐍歌切】[2026-08-10]沉睡钢琴叙事曲改编歌回 ✧ Piano Ballade",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cdur6EEHS?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "DAN DAN 心魅かれてく",
+  "artist": "FIELD OF VIEW",
+  "collection": "【🐍歌切】[2026-08-10]沉睡钢琴叙事曲改编歌回 ✧ Piano Ballade",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cdur6EEHS?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(CV.平野綾)",
+  "collection": "【🐍歌切】[2026-08-10]沉睡钢琴叙事曲改编歌回 ✧ Piano Ballade",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cdur6EEHS?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "キミがいれば",
+  "artist": "伊織",
+  "collection": "【🐍歌切】[2026-08-10]沉睡钢琴叙事曲改编歌回 ✧ Piano Ballade",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cdur6EEHS?p=15",
   "source": "ririsya.js"
 }
 );
