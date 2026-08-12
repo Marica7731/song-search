@@ -1,6 +1,6 @@
 // 碧生ねの - 歌单数据 (多合集汇总)
 // 来源: BV1S4TT6pEn4
-// 生成时间: 8/12/2026, 1:18:00 AM
+// 生成时间: 8/12/2026, 1:33:05 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1035,6 +1035,70 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-24]悠闲午间竖屏歌回🎶 Neonoah Ch. 碧生ねの",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xe3V62Eod?p=10",
+  "source": "neno.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-08-11]刚回来～‼深夜竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ubuy6eE3J?p=1",
+  "source": "neno.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-08-11]刚回来～‼深夜竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ubuy6eE3J?p=2",
+  "source": "neno.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-11]刚回来～‼深夜竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ubuy6eE3J?p=3",
+  "source": "neno.js"
+},
+    {
+  "title": "オーダーメイド",
+  "artist": "傘村トータ feat.VOCALOIDs",
+  "collection": "【歌切】[2026-08-11]刚回来～‼深夜竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ubuy6eE3J?p=4",
+  "source": "neno.js"
+},
+    {
+  "title": "空奏列車",
+  "artist": "Orangestar feat.IA・初音ミク",
+  "collection": "【歌切】[2026-08-11]刚回来～‼深夜竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ubuy6eE3J?p=5",
+  "source": "neno.js"
+},
+    {
+  "title": "アベリアに代わる何かを",
+  "artist": "msy feat.IA",
+  "collection": "【歌切】[2026-08-11]刚回来～‼深夜竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ubuy6eE3J?p=6",
+  "source": "neno.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat.初音ミク",
+  "collection": "【歌切】[2026-08-11]刚回来～‼深夜竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ubuy6eE3J?p=7",
+  "source": "neno.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-08-11]刚回来～‼深夜竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ubuy6eE3J?p=8",
   "source": "neno.js"
 }
 );

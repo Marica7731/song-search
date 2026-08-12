@@ -1,6 +1,6 @@
 // 來-Ray- - 歌单数据 (多合集汇总)
 // 来源: BV1mJZwB8EVa
-// 生成时间: 8/12/2026, 12:07:30 AM
+// 生成时间: 8/12/2026, 12:28:47 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4883,6 +4883,238 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-26]唱到睡着为止的歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1grgf61Ej6?p=27",
+  "source": "ray.js"
+},
+    {
+  "title": "yours",
+  "artist": "keeno feat.初音ミク",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=1",
+  "source": "ray.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=2",
+  "source": "ray.js"
+},
+    {
+  "title": "Boi",
+  "artist": "ポリスピカデリー feat.可不",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=3",
+  "source": "ray.js"
+},
+    {
+  "title": "撫でんな",
+  "artist": "柊マグネタイト feat.可不",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=4",
+  "source": "ray.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑ feat.初音ミク",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=5",
+  "source": "ray.js"
+},
+    {
+  "title": "L愛KE",
+  "artist": "梅とら feat.初音ミク",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=6",
+  "source": "ray.js"
+},
+    {
+  "title": "イカサマライフゲイム",
+  "artist": "kemu feat.GUMI",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=7",
+  "source": "ray.js"
+},
+    {
+  "title": "水死体にもどらないで",
+  "artist": "いよわ feat.初音ミク・flower",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=8",
+  "source": "ray.js"
+},
+    {
+  "title": "Reunion",
+  "artist": "*Luna feat.初音ミク",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=9",
+  "source": "ray.js"
+},
+    {
+  "title": "プレイ",
+  "artist": "Giga feat.初音ミク",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=10",
+  "source": "ray.js"
+},
+    {
+  "title": "侵蝕",
+  "artist": "niki feat.星界",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=11",
+  "source": "ray.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=12",
+  "source": "ray.js"
+},
+    {
+  "title": "右肩の蝶",
+  "artist": "のりぴー feat.鏡音リン",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=13",
+  "source": "ray.js"
+},
+    {
+  "title": "バレリーコ",
+  "artist": "みきとP feat.GUMI",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=14",
+  "source": "ray.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "koyori feat.初音ミク",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=15",
+  "source": "ray.js"
+},
+    {
+  "title": "セツナトリップ",
+  "artist": "Last Note. feat.GUMI",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=16",
+  "source": "ray.js"
+},
+    {
+  "title": "サラマンダー",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=17",
+  "source": "ray.js"
+},
+    {
+  "title": "おねがいダーリン",
+  "artist": "ナナホシ管弦楽団 feat.OИE",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=18",
+  "source": "ray.js"
+},
+    {
+  "title": "グッバイ宣言",
+  "artist": "Chinozo feat.flower",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=19",
+  "source": "ray.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=20",
+  "source": "ray.js"
+},
+    {
+  "title": "ANIMAる",
+  "artist": "梅とら×ギガ feat.GUMI・鏡音リン",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=21",
+  "source": "ray.js"
+},
+    {
+  "title": "ジェミニ",
+  "artist": "Dixie Flatline feat.鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=22",
+  "source": "ray.js"
+},
+    {
+  "title": "ライアーダンス",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=23",
+  "source": "ray.js"
+},
+    {
+  "title": "路地裏ユニバース",
+  "artist": "蝶々P feat.MAYU",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=24",
+  "source": "ray.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=25",
+  "source": "ray.js"
+},
+    {
+  "title": "彗星ハネムーン",
+  "artist": "ナユタン星人 feat.初音ミク",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=26",
+  "source": "ray.js"
+},
+    {
+  "title": "シャンティ",
+  "artist": "wotaku feat.KAITO",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=27",
+  "source": "ray.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=28",
+  "source": "ray.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat.GUMI",
+  "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=29",
   "source": "ray.js"
 }
 );
