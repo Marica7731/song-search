@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 8/11/2026, 11:08:34 PM
+// 生成时间: 8/11/2026, 11:18:08 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5411,6 +5411,158 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-08-04]暑假，还没到吗？",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GWMB6SEz6?p=23",
+  "source": "kukuri.js"
+},
+    {
+  "title": "金魚花火",
+  "artist": "大塚愛",
+  "collection": "【💫✖歌切】[2026-08-09]在凉飕飕的房间里吃冰淇淋最棒了🍦歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6MEsb?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "この世界で見つけたもの",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-08-09]在凉飕飕的房间里吃冰淇淋最棒了🍦歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6MEsb?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "僕たちが恋をする理由",
+  "artist": "坂本真綾",
+  "collection": "【💫✖歌切】[2026-08-09]在凉飕飕的房间里吃冰淇淋最棒了🍦歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6MEsb?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "再会 (produced by Ayase)",
+  "artist": "LiSA×Uru",
+  "collection": "【💫✖歌切】[2026-08-09]在凉飕飕的房间里吃冰淇淋最棒了🍦歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6MEsb?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "優しい彗星",
+  "artist": "YOASOBI",
+  "collection": "【💫✖歌切】[2026-08-09]在凉飕飕的房间里吃冰淇淋最棒了🍦歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6MEsb?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "星が瞬くこんな夜に",
+  "artist": "supercell",
+  "collection": "【💫✖歌切】[2026-08-09]在凉飕飕的房间里吃冰淇淋最棒了🍦歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6MEsb?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "you",
+  "artist": "dai feat.癒月",
+  "collection": "【💫✖歌切】[2026-08-09]在凉飕飕的房间里吃冰淇淋最棒了🍦歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6MEsb?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP feat.初音ミク",
+  "collection": "【💫✖歌切】[2026-08-09]在凉飕飕的房间里吃冰淇淋最棒了🍦歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6MEsb?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "楔",
+  "artist": "奥華子",
+  "collection": "【💫✖歌切】[2026-08-09]在凉飕飕的房间里吃冰淇淋最棒了🍦歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6MEsb?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "スパークル [original ver.]",
+  "artist": "RADWIMPS",
+  "collection": "【💫✖歌切】[2026-08-09]在凉飕飕的房间里吃冰淇淋最棒了🍦歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6MEsb?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "【💫✖歌切】[2026-08-09]在凉飕飕的房间里吃冰淇淋最棒了🍦歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6MEsb?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【💫✖歌切】[2026-08-09]在凉飕飕的房间里吃冰淇淋最棒了🍦歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6MEsb?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【💫✖歌切】[2026-08-09]在凉飕飕的房间里吃冰淇淋最棒了🍦歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6MEsb?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "花無双",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【💫✖歌切】[2026-08-09]在凉飕飕的房间里吃冰淇淋最棒了🍦歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6MEsb?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "NOISE",
+  "artist": "天野月子",
+  "collection": "【💫✖歌切】[2026-08-09]在凉飕飕的房间里吃冰淇淋最棒了🍦歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6MEsb?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "聲",
+  "artist": "天野月子",
+  "collection": "【💫✖歌切】[2026-08-09]在凉飕飕的房间里吃冰淇淋最棒了🍦歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6MEsb?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "私とワルツを",
+  "artist": "鬼束ちひろ",
+  "collection": "【💫✖歌切】[2026-08-09]在凉飕飕的房间里吃冰淇淋最棒了🍦歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6MEsb?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "【💫✖歌切】[2026-08-09]在凉飕飕的房间里吃冰淇淋最棒了🍦歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6MEsb?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ニワカアメ",
+  "artist": "花たん",
+  "collection": "【💫✖歌切】[2026-08-09]在凉飕飕的房间里吃冰淇淋最棒了🍦歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6MEsb?p=19",
   "source": "kukuri.js"
 }
 );

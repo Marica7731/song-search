@@ -1,6 +1,6 @@
 // ななし律歌 - 歌单数据 (多合集汇总)
 // 来源: BV1wHQVBTEU5
-// 生成时间: 8/11/2026, 11:54:17 PM
+// 生成时间: 8/12/2026, 12:06:15 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1531,6 +1531,126 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-02]都8月了，所以来唱首歌吧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEu8?p=23",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "DAYBREAK FRONTLINE",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-08-11]睡前不来一首歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hzur6FEqA?p=1",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "雨き声残響",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-08-11]睡前不来一首歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hzur6FEqA?p=2",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "夢灯籠",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-08-11]睡前不来一首歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hzur6FEqA?p=3",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-08-11]睡前不来一首歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hzur6FEqA?p=4",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "No Logic",
+  "artist": "ジミーサムP feat.巡音ルカ",
+  "collection": "【歌切】[2026-08-11]睡前不来一首歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hzur6FEqA?p=5",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-08-11]睡前不来一首歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hzur6FEqA?p=6",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "【歌切】[2026-08-11]睡前不来一首歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hzur6FEqA?p=7",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "いつか",
+  "artist": "Saucy Dog",
+  "collection": "【歌切】[2026-08-11]睡前不来一首歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hzur6FEqA?p=8",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-08-11]睡前不来一首歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hzur6FEqA?p=9",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "コイワズライ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-08-11]睡前不来一首歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hzur6FEqA?p=10",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ロストワンの号哭",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "【歌切】[2026-08-11]睡前不来一首歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hzur6FEqA?p=11",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Leia",
+  "artist": "ゆよゆっぺ feat.巡音ルカ",
+  "collection": "【歌切】[2026-08-11]睡前不来一首歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hzur6FEqA?p=12",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "拝啓ドッペルゲンガー",
+  "artist": "kemu feat.GUMI",
+  "collection": "【歌切】[2026-08-11]睡前不来一首歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hzur6FEqA?p=13",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat.GUMI",
+  "collection": "【歌切】[2026-08-11]睡前不来一首歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hzur6FEqA?p=14",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz feat.巡音ルカ",
+  "collection": "【歌切】[2026-08-11]睡前不来一首歌吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hzur6FEqA?p=15",
   "source": "nanashirikka.js"
 }
 );

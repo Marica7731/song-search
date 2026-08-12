@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 8/11/2026, 11:05:33 PM
+// 生成时间: 8/11/2026, 11:15:44 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9355,6 +9355,134 @@ window.SONG_DATA.push(
   "collection": "【明日夢🎸弾き語り歌切】[2026-07-31]星期五是自由的，自在弹唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MG3U6UEo1?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "君はロックを聴かない",
+  "artist": "あいみょん",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-08-09]自由弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6ME6A?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-08-09]自由弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6ME6A?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-08-09]自由弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6ME6A?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "さよならモルテン",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-08-09]自由弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6ME6A?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "魔性",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-08-09]自由弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6ME6A?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "櫂",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-08-09]自由弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6ME6A?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "爆弾魔",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-08-09]自由弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6ME6A?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ゴースト",
+  "artist": "tayori",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-08-09]自由弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6ME6A?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ビビッド",
+  "artist": "tayori",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-08-09]自由弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6ME6A?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "魔法",
+  "artist": "tayori",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-08-09]自由弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6ME6A?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ワンダー",
+  "artist": "tayori",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-08-09]自由弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6ME6A?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ワンダー",
+  "artist": "tayori",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-08-09]自由弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6ME6A?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "満月の夜なら",
+  "artist": "あいみょん",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-08-09]自由弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6ME6A?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Your Heaven",
+  "artist": "YUI",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-08-09]自由弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6ME6A?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "to Mother",
+  "artist": "YUI",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-08-09]自由弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6ME6A?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【明日夢🎸弾き語り歌切】[2026-08-09]自由弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j3uk6ME6A?p=16",
   "source": "asuyumekanae.js"
 }
 );

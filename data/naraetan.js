@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 8/11/2026, 11:11:37 PM
+// 生成时间: 8/11/2026, 11:20:55 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12131,6 +12131,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "おはよう。",
+  "artist": "Keno",
+  "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "2人",
+  "artist": "ともさかりえ",
+  "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "それが、愛でしょう",
+  "artist": "下川みくに",
+  "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "remember",
+  "artist": "Uru",
+  "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Q&A リサイタル!",
+  "artist": "戸松遥",
+  "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "1/2",
+  "artist": "川本真琴",
+  "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "そばかす",
+  "artist": "JUDY AND MARY",
+  "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑ feat.初音ミク",
+  "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=11",
   "source": "naraetan.js"
 },
     {
