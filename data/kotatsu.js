@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 8/12/2026, 10:49:21 PM
+// 生成时间: 8/12/2026, 10:58:06 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11027,6 +11027,302 @@ window.SONG_DATA.push(
   "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=36",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "あいという",
+  "artist": "plenty",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "終わらない歌",
+  "artist": "THE BLUE HEARTS",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "猫の缶詰め",
+  "artist": "3markets[ ]",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "結婚しようよ",
+  "artist": "吉田拓郎",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "大切なもの",
+  "artist": "合唱曲",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "グリグリメガネと月光蟲",
+  "artist": "古川本舗 feat.初音ミク",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "吉原ラメント",
+  "artist": "亜沙 feat.重音テト",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "千年幸福論",
+  "artist": "amazarashi",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アンマー",
+  "artist": "かりゆし58",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "僕は君の事が好きだけど君は僕を別に好きじゃないみたい",
+  "artist": "back number",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜な夜なエール",
+  "artist": "はるこたつぶとん俱楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "おもいでのアルバム",
+  "artist": "唱歌",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "オー・シャンゼリゼ",
+  "artist": "ダニエル・ビダル",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ぼくらのレットイットビー",
+  "artist": "はりーP feat.初音ミク",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ギミギミック",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "恋だろ",
+  "artist": "wacci",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "サンドイッチ",
+  "artist": "高橋優",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "五月雨",
+  "artist": "崎山蒼志",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "上を向いて歩こう",
+  "artist": "坂本九",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "関白宣言",
+  "artist": "さだまさし",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "君はロックを聴かない",
+  "artist": "あいみょん",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "蜩",
+  "artist": "teto",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Bling-Bang-Bang-Born",
+  "artist": "Creepy Nuts",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=29",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "パート・オブ・ユア・ワールド",
+  "artist": "豊原江理佳",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=30",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ニーナ",
+  "artist": "はるこたつぶとん俱楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=31",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "神様、",
+  "artist": "はるこたつぶとん俱楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=32",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "おあいこ",
+  "artist": "ハナレグミ",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=33",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=34",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "うたうたいのうた",
+  "artist": "はるこたつぶとん俱楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=35",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アンチノミー",
+  "artist": "amazarashi",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=36",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Rain",
+  "artist": "秦基博",
+  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=37",
   "source": "kotatsu.js"
 }
 );
