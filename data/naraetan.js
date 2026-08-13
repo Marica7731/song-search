@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 8/12/2026, 10:51:22 PM
+// 生成时间: 8/12/2026, 11:02:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12219,6 +12219,166 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "お気に召すまま",
+  "artist": "Eve",
+  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "FOR REAL",
+  "artist": "徳山秀典",
+  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ネオメロドラマティック",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "SUNDAY",
+  "artist": "ザ・ベイビースターズ",
+  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "INVOKE -インヴォーク-",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Butterfly Kiss",
+  "artist": "米倉千尋",
+  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "嵐の中で輝いて",
+  "artist": "米倉千尋",
+  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ピカピカの太陽",
+  "artist": "佐倉蜜柑(植田佳奈)",
+  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "扉の向こうへ",
+  "artist": "YeLLOW Generation",
+  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "光の破片",
+  "artist": "高橋優",
+  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Dear you -Cry-",
+  "artist": "癒月",
+  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "宿命",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "青春コンプレックス",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "DUET",
+  "artist": "ZICO, 幾田りら",
+  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "今好きになる。",
+  "artist": "HoneyWorks feat.初音ミク",
+  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ルル",
+  "artist": "やくしまるえつこ",
+  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "SKILL",
+  "artist": "JAM Project",
+  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=19",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Little Wing",
+  "artist": "JAM Project featuring 奥井雅美",
+  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=20",
   "source": "naraetan.js"
 },
     {
