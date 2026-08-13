@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 8/12/2026, 11:01:11 PM
+// 生成时间: 8/12/2026, 11:12:04 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1587,6 +1587,86 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-08-07]夜晚的悠闲歌回🦋🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XVu76fE1f?p=6",
+  "source": "stratia.js"
+},
+    {
+  "title": "ハルノヒ",
+  "artist": "あいみょん",
+  "collection": "【🎸🦋歌切】[2026-08-12]3D Live，能来看看我吗？？夜晚悠闲弹唱直播🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1STg76oEgH?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "あたしの全部を愛せない",
+  "artist": "a子",
+  "collection": "【🎸🦋歌切】[2026-08-12]3D Live，能来看看我吗？？夜晚悠闲弹唱直播🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1STg76oEgH?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "フラレガイガール",
+  "artist": "さユり",
+  "collection": "【🎸🦋歌切】[2026-08-12]3D Live，能来看看我吗？？夜晚悠闲弹唱直播🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1STg76oEgH?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "birthday song",
+  "artist": "さユり",
+  "collection": "【🎸🦋歌切】[2026-08-12]3D Live，能来看看我吗？？夜晚悠闲弹唱直播🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1STg76oEgH?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太 feat.歌愛ユキ",
+  "collection": "【🎸🦋歌切】[2026-08-12]3D Live，能来看看我吗？？夜晚悠闲弹唱直播🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1STg76oEgH?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "霽れを待つ",
+  "artist": "Orangestar feat.初音ミク",
+  "collection": "【🎸🦋歌切】[2026-08-12]3D Live，能来看看我吗？？夜晚悠闲弹唱直播🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1STg76oEgH?p=6",
+  "source": "stratia.js"
+},
+    {
+  "title": "アストロノーツ",
+  "artist": "椎名もた feat.初音ミク",
+  "collection": "【🎸🦋歌切】[2026-08-12]3D Live，能来看看我吗？？夜晚悠闲弹唱直播🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1STg76oEgH?p=7",
+  "source": "stratia.js"
+},
+    {
+  "title": "めめしぃ",
+  "artist": "すりぃ feat.可不",
+  "collection": "【🎸🦋歌切】[2026-08-12]3D Live，能来看看我吗？？夜晚悠闲弹唱直播🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1STg76oEgH?p=8",
+  "source": "stratia.js"
+},
+    {
+  "title": "WORLD'S END UMBRELLA",
+  "artist": "ハチ feat.初音ミク",
+  "collection": "【🎸🦋歌切】[2026-08-12]3D Live，能来看看我吗？？夜晚悠闲弹唱直播🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1STg76oEgH?p=9",
+  "source": "stratia.js"
+},
+    {
+  "title": "Last Tear",
+  "artist": "すとらてぃあ",
+  "collection": "【🎸🦋歌切】[2026-08-12]3D Live，能来看看我吗？？夜晚悠闲弹唱直播🎸",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1STg76oEgH?p=10",
   "source": "stratia.js"
 }
 );
