@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 8/12/2026, 11:28:50 PM
+// 生成时间: 8/12/2026, 11:38:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7627,6 +7627,182 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-08-07]周五辛苦啦🎐用心献唱～￤澄花 / ぷろぶる",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZZu56wE7D?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "Bye by me",
+  "artist": "Vaundy",
+  "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "GLAMOROUS SKY",
+  "artist": "NANA starring MIKA NAKASHIMA",
+  "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "酔いどれ知らず",
+  "artist": "Kanaria feat.GUMI",
+  "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "猫とアレルギー",
+  "artist": "きのこ帝国",
+  "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "今夜はブギー・バック (nice vocal)",
+  "artist": "小沢健二 featuring スチャダラパー",
+  "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "チェックのワンピース",
+  "artist": "back number",
+  "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "置とし陽",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "main actor",
+  "artist": "美波",
+  "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "カワキヲアメク",
+  "artist": "美波",
+  "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "あなた",
+  "artist": "宇多田ヒカル",
+  "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "Forevermore",
+  "artist": "宇多田ヒカル",
+  "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヨンジュウナナ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "花人局",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "くちびる",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "ハチミツ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "三時のキス",
+  "artist": "ロクデナシ",
+  "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=20",
+  "source": "sumica.js"
+},
+    {
+  "title": "泣き虫上等",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=21",
+  "source": "sumica.js"
+},
+    {
+  "title": "置とし陽",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=22",
   "source": "sumica.js"
 }
 );
