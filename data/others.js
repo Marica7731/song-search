@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 8/14/2026, 1:57:24 PM
+// 生成时间: 8/14/2026, 2:13:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5374,103 +5374,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "アイロニ",
-  "artist": "すこっぷ feat. 初音ミク",
-  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=12",
-  "source": "others.js"
-},
-    {
-  "title": "夢町コントラスト",
-  "artist": "koyori(電ポルP) feat. 初音ミク",
-  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=13",
-  "source": "others.js"
-},
-    {
-  "title": "Arrietty's Song",
-  "artist": "Cécile Corbel [映画 借りぐらしのアリエッティ]",
-  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=14",
-  "source": "others.js"
-},
-    {
-  "title": "また、脆い夢を見てた",
-  "artist": "茨むあん",
-  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=15",
-  "source": "others.js"
-},
-    {
-  "title": "プラネタリウムの真実",
-  "artist": "夏代孝明",
-  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=16",
-  "source": "others.js"
-},
-    {
-  "title": "若者のすべて",
-  "artist": "フジファブリック",
-  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=17",
-  "source": "others.js"
-},
-    {
-  "title": "たぶん",
-  "artist": "YOASOBI",
-  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=18",
-  "source": "others.js"
-},
-    {
-  "title": "さよならの夏～コクリコ坂から～",
-  "artist": "手嶌葵 [映画 コクリコ坂から]",
-  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=19",
-  "source": "others.js"
-},
-    {
-  "title": "テルーの唄",
-  "artist": "手嶌葵 [映画 ゲド戦記]",
-  "collection": "【歌切】[2026-07-15]来放松一下？钢琴伴奏，仅限抒情曲，欢迎新观众。 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U8Nh6DEYm?p=20",
-  "source": "others.js"
-},
-    {
-  "title": "夏祭り",
-  "artist": "JITTERIN'JINN",
-  "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "HANABI",
-  "artist": "いきものがかり",
-  "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "少女レイ",
-  "artist": "みきとP feat.初音ミク",
-  "collection": "【歌切】[2026-07-20]星期一固定直播🎙有没有像大海一样的歌？欢迎新观众 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AkKx6wEBk?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "ただ君に晴れ",
+  "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
   "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
   "up": "前尘往事如昔故",
