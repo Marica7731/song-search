@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 8/15/2026, 8:39:41 PM
+// 生成时间: 8/15/2026, 8:53:55 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2387,6 +2387,214 @@ window.SONG_DATA.push(
   "collection": "【⚙️🎸歌切】[2026-08-08]初次见面欢迎！悠闲地唱会儿歌！歌回直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eWu56xE4Z?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "声",
+  "artist": "羊文学",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ラストシーン.",
+  "artist": "eill",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "妄想税",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "アイロニ",
+  "artist": "すこっぷ feat.初音ミク",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "Miracle Shopping",
+  "artist": "田中マイミ",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "空奏列車",
+  "artist": "Orangestar feat.IA",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "空奏列車",
+  "artist": "Orangestar feat.IA",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=8",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ウルフ",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=9",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "紋白蝶",
+  "artist": "東京スカパラダイスオーケストラ feat.石原慎也(Saucy Dog)",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=10",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "社会の窓",
+  "artist": "クリープハイプ",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=11",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "Prologue",
+  "artist": "美波",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=12",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=13",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "食虫植物",
+  "artist": "理芽",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=14",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=15",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=16",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "朝が嫌い",
+  "artist": "あいみょん",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=17",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "愛の標識",
+  "artist": "クリープハイプ",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=18",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "拝啓、少年よ",
+  "artist": "Hump Back",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=19",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ルージュの伝言",
+  "artist": "荒井由実",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=20",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "もののけ姫",
+  "artist": "米良美一",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=21",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "いつも何度でも",
+  "artist": "木村弓",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=22",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=23",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "Part of me",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=24",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "翼をください",
+  "artist": "赤い鳥",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=25",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "Miracle Shopping",
+  "artist": "田中マイミ",
+  "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=26",
   "source": "karakurinne.js"
 }
 );
