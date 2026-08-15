@@ -1,6 +1,6 @@
 // チョま - 歌单数据 (多合集汇总)
 // 来源: BV1kM3L6GEBV
-// 生成时间: 8/15/2026, 8:42:50 PM
+// 生成时间: 8/15/2026, 8:57:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1579,6 +1579,166 @@ window.SONG_DATA.push(
   "collection": "チョま歌切 2026年08月10日12点场 生日到了！！我要唱祝福的歌哦哦哦！！！ 2026-08-10",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uhuy6AEpk?p=30",
+  "source": "choma.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "チョま歌切 2026年08月13日20点场 动漫歌曲限定🌟多声类Live 2026-08-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DELp?p=1",
+  "source": "choma.js"
+},
+    {
+  "title": "勇者",
+  "artist": "YOASOBI",
+  "collection": "チョま歌切 2026年08月13日20点场 动漫歌曲限定🌟多声类Live 2026-08-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DELp?p=2",
+  "source": "choma.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "チョま歌切 2026年08月13日20点场 动漫歌曲限定🌟多声类Live 2026-08-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DELp?p=3",
+  "source": "choma.js"
+},
+    {
+  "title": "GO!!!",
+  "artist": "FLOW",
+  "collection": "チョま歌切 2026年08月13日20点场 动漫歌曲限定🌟多声类Live 2026-08-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DELp?p=4",
+  "source": "choma.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "チョま歌切 2026年08月13日20点场 动漫歌曲限定🌟多声类Live 2026-08-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DELp?p=5",
+  "source": "choma.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ",
+  "artist": "MAISONdes feat.花譜,ツミキ",
+  "collection": "チョま歌切 2026年08月13日20点场 动漫歌曲限定🌟多声类Live 2026-08-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DELp?p=6",
+  "source": "choma.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n／中島愛",
+  "collection": "チョま歌切 2026年08月13日20点场 动漫歌曲限定🌟多声类Live 2026-08-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DELp?p=7",
+  "source": "choma.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(CV.平野綾)",
+  "collection": "チョま歌切 2026年08月13日20点场 动漫歌曲限定🌟多声类Live 2026-08-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DELp?p=8",
+  "source": "choma.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "チョま歌切 2026年08月13日20点场 动漫歌曲限定🌟多声类Live 2026-08-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DELp?p=9",
+  "source": "choma.js"
+},
+    {
+  "title": "アイワナムチュー",
+  "artist": "MAISONdes feat.asmi,すりぃ",
+  "collection": "チョま歌切 2026年08月13日20点场 动漫歌曲限定🌟多声类Live 2026-08-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DELp?p=10",
+  "source": "choma.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "チョま歌切 2026年08月13日20点场 动漫歌曲限定🌟多声类Live 2026-08-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DELp?p=11",
+  "source": "choma.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "月見ヤチヨ(CV.早見沙織)",
+  "collection": "チョま歌切 2026年08月13日20点场 动漫歌曲限定🌟多声类Live 2026-08-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DELp?p=12",
+  "source": "choma.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "チョま歌切 2026年08月13日20点场 动漫歌曲限定🌟多声类Live 2026-08-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DELp?p=13",
+  "source": "choma.js"
+},
+    {
+  "title": "ANIMA",
+  "artist": "ReoNa",
+  "collection": "チョま歌切 2026年08月13日20点场 动漫歌曲限定🌟多声类Live 2026-08-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DELp?p=14",
+  "source": "choma.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "チョま歌切 2026年08月13日20点场 动漫歌曲限定🌟多声类Live 2026-08-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DELp?p=15",
+  "source": "choma.js"
+},
+    {
+  "title": "渡月橋 ～君 想ふ～",
+  "artist": "倉木麻衣",
+  "collection": "チョま歌切 2026年08月13日20点场 动漫歌曲限定🌟多声类Live 2026-08-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DELp?p=16",
+  "source": "choma.js"
+},
+    {
+  "title": "サムライハート(Some Like It Hot!!)",
+  "artist": "SPYAIR",
+  "collection": "チョま歌切 2026年08月13日20点场 动漫歌曲限定🌟多声类Live 2026-08-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DELp?p=17",
+  "source": "choma.js"
+},
+    {
+  "title": "我武者羅",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "チョま歌切 2026年08月13日20点场 动漫歌曲限定🌟多声类Live 2026-08-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DELp?p=18",
+  "source": "choma.js"
+},
+    {
+  "title": "カーテンコール",
+  "artist": "優里",
+  "collection": "チョま歌切 2026年08月13日20点场 动漫歌曲限定🌟多声类Live 2026-08-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DELp?p=19",
+  "source": "choma.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "チョま歌切 2026年08月13日20点场 动漫歌曲限定🌟多声类Live 2026-08-13",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yxbU6DELp?p=20",
   "source": "choma.js"
 }
 );
