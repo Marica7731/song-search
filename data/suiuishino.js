@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 8/15/2026, 8:29:37 PM
+// 生成时间: 8/15/2026, 8:41:11 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1659,6 +1659,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "きゅうくらりん",
+  "artist": "いよわ feat.可不",
+  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ",
+  "artist": "MAISONdes feat.花譜,ツミキ",
+  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "シル・ヴ・プレジデント",
+  "artist": "P丸様。",
+  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "世界一可愛い私",
+  "artist": "藤田ことね(CV.飯田ヒカル)",
+  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "sweets parade",
+  "artist": "髏々宮カルタ(花澤香菜)",
+  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子(花澤香菜)",
+  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "#あくあ色ぱれっと",
+  "artist": "湊あくあ",
+  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona(CV:夏川椎菜) feat.HoneyWorks",
+  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "PEACH",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ベノム",
+  "artist": "かいりきベア feat.flower",
+  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=13",
   "source": "suiuishino.js"
 }
 );
