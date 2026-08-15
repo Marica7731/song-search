@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 8/15/2026, 10:18:03 PM
+// 生成时间: 8/15/2026, 10:29:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1971,6 +1971,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-07]盂兰盆节前的歌回🌟欢迎新朋友围观！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ofu56hEkV?p=9",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "好きだから。",
+  "artist": "『ユイカ』",
+  "collection": "【歌切】[2026-08-13]盂兰盆节过得怎么样？🌟新观众欢迎！只看不评论也完全没问题！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dhbm6tEfK?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "おくすり",
+  "artist": "『ユイカ』",
+  "collection": "【歌切】[2026-08-13]盂兰盆节过得怎么样？🌟新观众欢迎！只看不评论也完全没问题！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dhbm6tEfK?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "春を待つ",
+  "artist": "Islet feat.倚水",
+  "collection": "【歌切】[2026-08-13]盂兰盆节过得怎么样？🌟新观众欢迎！只看不评论也完全没问题！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dhbm6tEfK?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "Departures 〜あなたにおくるアイの歌〜",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-08-13]盂兰盆节过得怎么样？🌟新观众欢迎！只看不评论也完全没问题！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dhbm6tEfK?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ピエロ",
+  "artist": "KEI feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]盂兰盆节过得怎么样？🌟新观众欢迎！只看不评论也完全没问题！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dhbm6tEfK?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-13]盂兰盆节过得怎么样？🌟新观众欢迎！只看不评论也完全没问题！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dhbm6tEfK?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "グランドエスケープ",
+  "artist": "RADWIMPS feat.三浦透子",
+  "collection": "【歌切】[2026-08-13]盂兰盆节过得怎么样？🌟新观众欢迎！只看不评论也完全没问题！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dhbm6tEfK?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]盂兰盆节过得怎么样？🌟新观众欢迎！只看不评论也完全没问题！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dhbm6tEfK?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "メーベル",
+  "artist": "バルーン feat.flower",
+  "collection": "【歌切】[2026-08-13]盂兰盆节过得怎么样？🌟新观众欢迎！只看不评论也完全没问题！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dhbm6tEfK?p=9",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-08-13]盂兰盆节过得怎么样？🌟新观众欢迎！只看不评论也完全没问题！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dhbm6tEfK?p=10",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-13]盂兰盆节过得怎么样？🌟新观众欢迎！只看不评论也完全没问题！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dhbm6tEfK?p=11",
   "source": "hinachibi.js"
 }
 );
