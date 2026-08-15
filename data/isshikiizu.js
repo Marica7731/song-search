@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 8/15/2026, 8:41:14 PM
+// 生成时间: 8/15/2026, 8:53:27 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2883,6 +2883,406 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-10]竖屏紧凑歌回🎤 欢迎初次来的朋友｜J-POP・术力口",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tyur6dEhT?p=30",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "右肩の蝶",
+  "artist": "のりP feat.鏡音レン",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat.巡音ルカ・GUMI",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat.GUMI・鏡音リン",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "セツナトリップ",
+  "artist": "Last Note. feat.GUMI",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "こちら、幸福安心委員会です。",
+  "artist": "うたたP feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "六兆年と一夜物語",
+  "artist": "kemu feat.IA",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "インビジブル",
+  "artist": "kemu feat.GUMI,鏡音リン",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat.GUMI",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "カゲロウデイズ",
+  "artist": "じん feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "オツキミリサイタル",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "妄想税",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "モザイクロール",
+  "artist": "DECO*27 feat.GUMI",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ストリーミングハート",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "弱虫モンブラン",
+  "artist": "DECO*27 feat.GUMI",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "え?あぁ、そう。",
+  "artist": "蝶々P feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "十面相",
+  "artist": "YM feat.GUMI",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=22",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ロストワンの号哭",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=23",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=24",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "脳漿炸裂ガール",
+  "artist": "れるりり feat.初音ミク,GUMI",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=25",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "聖槍爆裂ボーイ",
+  "artist": "れるりり,もじゃ feat.鏡音レン",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=26",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "+♂",
+  "artist": "ギガP feat.鏡音レン",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=27",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "妄想疾患■ガール",
+  "artist": "れるりり・もじゃ feat.GUMI",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=28",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "吉原ラメント",
+  "artist": "亜沙 feat.重音テト",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=29",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "竹取オーバーナイトセンセーション",
+  "artist": "HoneyWorks feat.鏡音リン,鏡音レン",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=30",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "おねがいダーリン",
+  "artist": "ナナホシ管弦楽団 feat.ONE",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=31",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat.巡音ルカ",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=32",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "マトリョシカ",
+  "artist": "ハチ feat.初音ミク,GUMI",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=33",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "パンダヒーロー",
+  "artist": "ハチ feat.GUMI",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=34",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ローリンガール",
+  "artist": "wowaka feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=35",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=36",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=37",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=38",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=39",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=40",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ドーナツホール",
+  "artist": "ハチ feat.GUMI",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=41",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "koyori(電ポルP) feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=42",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "わたしのアール",
+  "artist": "和田たけあき(くらげP) feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=43",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=44",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=45",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=46",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat.GUMI",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=47",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=48",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=49",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Tell Your World",
+  "artist": "livetune feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=50",
   "source": "isshikiizu.js"
 }
 );

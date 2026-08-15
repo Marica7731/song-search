@@ -1,6 +1,6 @@
 // CULUA - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp
-// 生成时间: 8/15/2026, 8:30:01 PM
+// 生成时间: 8/15/2026, 8:41:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4275,6 +4275,70 @@ window.SONG_DATA.push(
   "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=10",
+  "source": "culua.js"
+},
+    {
+  "title": "足りない",
+  "artist": "DUSTCELL",
+  "collection": "【🦇歌切】[2026-08-13]好久不见的歌回｜Culua的歌单第35弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEqK?p=1",
+  "source": "culua.js"
+},
+    {
+  "title": "GLORIA",
+  "artist": "YUI",
+  "collection": "【🦇歌切】[2026-08-13]好久不见的歌回｜Culua的歌单第35弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEqK?p=2",
+  "source": "culua.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "【🦇歌切】[2026-08-13]好久不见的歌回｜Culua的歌单第35弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEqK?p=3",
+  "source": "culua.js"
+},
+    {
+  "title": "正しくなれない",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【🦇歌切】[2026-08-13]好久不见的歌回｜Culua的歌单第35弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEqK?p=4",
+  "source": "culua.js"
+},
+    {
+  "title": "Value",
+  "artist": "Ado",
+  "collection": "【🦇歌切】[2026-08-13]好久不见的歌回｜Culua的歌单第35弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEqK?p=5",
+  "source": "culua.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【🦇歌切】[2026-08-13]好久不见的歌回｜Culua的歌单第35弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEqK?p=6",
+  "source": "culua.js"
+},
+    {
+  "title": "asphyxia",
+  "artist": "Cö shu Nie",
+  "collection": "【🦇歌切】[2026-08-13]好久不见的歌回｜Culua的歌单第35弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEqK?p=7",
+  "source": "culua.js"
+},
+    {
+  "title": "give it back",
+  "artist": "Cö shu Nie",
+  "collection": "【🦇歌切】[2026-08-13]好久不见的歌回｜Culua的歌单第35弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pxbU6DEqK?p=8",
   "source": "culua.js"
 }
 );
