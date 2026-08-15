@@ -1,6 +1,6 @@
 // 鈴花いのり - 歌单数据 (多合集汇总)
 // 来源: BV1jyjK6sEns
-// 生成时间: 8/15/2026, 11:25:46 PM
+// 生成时间: 8/15/2026, 11:34:15 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2843,6 +2843,278 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19iur6wE1n?p=56",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=1",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=2",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "残酷な夜に輝け",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=3",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "君の好きな本",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=4",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "エルマ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=5",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=6",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "渡月橋 ~君 想ふ~",
+  "artist": "倉木麻衣",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=7",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ハロ/ハワユ",
+  "artist": "ナノウ feat.初音ミク",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=8",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ふわふわ時間",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=9",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ray 超かぐや姫! Version",
+  "artist": "かぐや (夏吉ゆうこ) 月見ヤチヨ (早見沙織)",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=10",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "土星の窓辺",
+  "artist": "ちょまいよ×TOKOTOKO(西沢さんP)",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=11",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "刹那プラス",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=12",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=13",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=14",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "音偽バナシ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=15",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "二息歩行",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=16",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Beautiful Wish",
+  "artist": "星羅(喜多村英梨)",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=17",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "No Logic",
+  "artist": "ジミーサムP feat.巡音ルカ",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=18",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=19",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=20",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "八月、某、月明かり",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=21",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "爆弾魔",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=22",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=23",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "夢と葉桜",
+  "artist": "青木月光",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=24",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "シンセカイ案内所",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=25",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "モザイクロール",
+  "artist": "DECO*27 feat.GUMI",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=26",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "弱虫モンブラン",
+  "artist": "DECO*27 feat.GUMI",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=27",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "アンチビート",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=28",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "罪と罰",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=29",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "心壊サミット",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=30",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "koyori(電ポルP) feat.初音ミク",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=31",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "アストロノーツ",
+  "artist": "椎名もた feat.初音ミク",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=32",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "小学館",
+  "artist": "相対性理論",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=33",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "敗北の少年",
+  "artist": "kemu feat.GUMI",
+  "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=34",
   "source": "suzuhanainori.js"
 }
 );
