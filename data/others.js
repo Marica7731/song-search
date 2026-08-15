@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 8/15/2026, 12:47:38 PM
+// 生成时间: 8/15/2026, 12:55:28 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2272,73 +2272,65 @@ window.SONG_DATA.push(
     {
   "title": "残酷な天使のテーゼ",
   "artist": "高橋洋子",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=2",
+  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=1",
   "source": "others.js"
 },
     {
-  "title": "嵐の中で輝いて",
-  "artist": "米倉千尋",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=3",
+  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=2",
   "source": "others.js"
 },
     {
-  "title": "鳥の詩",
-  "artist": "Lia",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "メリッサ",
+  "title": "サウダージ",
   "artist": "ポルノグラフィティ",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=5",
+  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=3",
   "source": "others.js"
 },
     {
-  "title": "Get Wild",
-  "artist": "TM NETWORK",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=6",
+  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=4",
   "source": "others.js"
 },
     {
-  "title": "ラムのラブソング",
-  "artist": "松谷祐子",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "title": "チェリー",
+  "artist": "スピッツ",
+  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=7",
+  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=5",
   "source": "others.js"
 },
     {
-  "title": "Shangri-La",
-  "artist": "angela",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=8",
+  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=6",
   "source": "others.js"
 },
     {
-  "title": "明日へのbrilliant road",
-  "artist": "angela",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=9",
+  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=7",
   "source": "others.js"
 },
     {
-  "title": "となりのトトロ",
-  "artist": "井上あずみ",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-04-04 渚沢シチ / Shichi Channel【ミクスト】 Shichi_Mixstgirls",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=10",
+  "link": "https://www.bilibili.com/video/BV19UDVB9EaY?p=8",
   "source": "others.js"
 },
     {
