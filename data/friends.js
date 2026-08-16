@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 8/16/2026, 12:33:56 AM
+// 生成时间: 8/16/2026, 12:42:06 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3347,6 +3347,54 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-08-04 为天空献上祈愿的歌回合作🪽🎀可爱与帅气都为你呈现𝜗𝜚.⋆ 鈴花いのり - Suzuhana Inori -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1x6u56yEvw?p=14",
+  "source": "friends.js"
+},
+    {
+  "title": "Ready To Party",
+  "artist": "稀羽すう",
+  "collection": "联动歌切 2026-08-15 与上水流宇宙首次合作直播✨塞满了我最爱的歌曲 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQbS6QEXc?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "脳裏上のクラッカー",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "联动歌切 2026-08-15 与上水流宇宙首次合作直播✨塞满了我最爱的歌曲 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQbS6QEXc?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "Burning Friday Night",
+  "artist": "Lucky Killimanjaro",
+  "collection": "联动歌切 2026-08-15 与上水流宇宙首次合作直播✨塞满了我最爱的歌曲 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQbS6QEXc?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "忘れられないの",
+  "artist": "サカナクション",
+  "collection": "联动歌切 2026-08-15 与上水流宇宙首次合作直播✨塞满了我最爱的歌曲 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQbS6QEXc?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "联动歌切 2026-08-15 与上水流宇宙首次合作直播✨塞满了我最爱的歌曲 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQbS6QEXc?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "クライヤ",
+  "artist": "上水流宇宙",
+  "collection": "联动歌切 2026-08-15 与上水流宇宙首次合作直播✨塞满了我最爱的歌曲 稀羽すう",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQbS6QEXc?p=6",
   "source": "friends.js"
 }
 );

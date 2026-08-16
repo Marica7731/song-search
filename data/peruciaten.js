@@ -1,6 +1,6 @@
 // ぺるしあ・てん - 歌单数据 (多合集汇总)
 // 来源: BV1iXKY6qEKv
-// 生成时间: 8/16/2026, 1:39:41 AM
+// 生成时间: 8/16/2026, 1:46:56 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -835,6 +835,150 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-02]唱HoneyWorks之类的歌！！唱酸甜青春歌曲！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=18",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "Snow halation",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=1",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=2",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ロックな君とはお別れだ",
+  "artist": "ツユ",
+  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=3",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "START:DASH!!",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=4",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "青空Jumping Heart",
+  "artist": "Aqours",
+  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=5",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=6",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "僕らだけの鼓動",
+  "artist": "水瀬いのり",
+  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=7",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "粛聖!! ロリ神レクイエム☆",
+  "artist": "しぐれうい",
+  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=8",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "輝夜の城で踊りたい",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=9",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "チーズケーキクライシス",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=10",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "美少女無罪♡パイレーツ",
+  "artist": "宝鐘マリン",
+  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=11",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "神のまにまに",
+  "artist": "れるりり feat.初音ミク・鏡音リン・GUMI",
+  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=12",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat.巡音ルカ",
+  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=13",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=14",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "花澤香菜",
+  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=15",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ヤラララ(ワンフレーズ)",
+  "artist": "AnythingBecomeMoe feat.重音テト",
+  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=16",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "愛言葉III",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=17",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=18",
   "source": "peruciaten.js"
 }
 );
