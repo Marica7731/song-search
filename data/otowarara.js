@@ -1,6 +1,6 @@
 // 音羽ララ - 歌单数据 (多合集汇总)
 // 来源: BV1PE7J6CESH
-// 生成时间: 8/16/2026, 12:57:57 AM
+// 生成时间: 8/16/2026, 1:07:50 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -611,6 +611,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=11",
+  "source": "otowarara.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=1",
+  "source": "otowarara.js"
+},
+    {
+  "title": "虎視眈々",
+  "artist": "梅とら feat.巡音ルカ・初音ミク・GUMI・IA・鏡音リン",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=2",
+  "source": "otowarara.js"
+},
+    {
+  "title": "Just a game",
+  "artist": "takamatt feat.GUMI",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=3",
+  "source": "otowarara.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat.初音ミク",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=4",
+  "source": "otowarara.js"
+},
+    {
+  "title": "流星",
+  "artist": "minato(流星P) feat.初音ミク",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=5",
+  "source": "otowarara.js"
+},
+    {
+  "title": "グッバイ宣言",
+  "artist": "Chinozo feat.flower",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=6",
+  "source": "otowarara.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=7",
+  "source": "otowarara.js"
+},
+    {
+  "title": "おこちゃま戦争",
+  "artist": "Giga feat.鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=8",
+  "source": "otowarara.js"
+},
+    {
+  "title": "letter song",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=9",
+  "source": "otowarara.js"
+},
+    {
+  "title": "強風オールバック",
+  "artist": "ゆこぴ feat.歌愛ユキ",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=10",
+  "source": "otowarara.js"
+},
+    {
+  "title": "ネトゲ廃人シュプレヒコール",
+  "artist": "さつきがてんこもり feat.初音ミク",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=11",
+  "source": "otowarara.js"
+},
+    {
+  "title": "カンタレラ",
+  "artist": "黒うさP feat.KAITO・初音ミク",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=12",
+  "source": "otowarara.js"
+},
+    {
+  "title": "二次元ドリームフィーバー",
+  "artist": "PolyphonicBranch feat.初音ミク",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=13",
   "source": "otowarara.js"
 }
 );

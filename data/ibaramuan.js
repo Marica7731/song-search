@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 8/16/2026, 12:25:51 AM
+// 生成时间: 8/16/2026, 12:37:03 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8043,6 +8043,214 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ドレミファロンド",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "妄想スケッチ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "恋は戦争",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "トルコ行進曲",
+  "artist": "オワタP feat.初音ミク",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "パラジクロロベンゼン",
+  "artist": "オワタP feat.鏡音レン",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "リンネ",
+  "artist": "ハチ feat.初音ミク",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "結ンデ開イテ羅刹ト骸",
+  "artist": "ハチ feat.初音ミク",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "マトリョシカ",
+  "artist": "ハチ feat.初音ミク・GUMI",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ゴーストルール",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "弱虫モンブラン",
+  "artist": "DECO*27 feat.GUMI",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "愛迷エレジー",
+  "artist": "DECO*27 feat.marina",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "夕立のりぼん",
+  "artist": "みきとP feat.MAYU",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "世田谷ナイトサファリ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "月陽-ツキアカリ-",
+  "artist": "みきとP feat.GUMI",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "1925",
+  "artist": "T-POCKET feat.初音ミク",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "セツナトリップ",
+  "artist": "Last Note. feat.GUMI",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "右肩の蝶",
+  "artist": "のりP feat.鏡音リン",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "magnet",
+  "artist": "minato(流星P) feat.初音ミク・巡音ルカ",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "炉心融解",
+  "artist": "iroha(sasaki) feat.鏡音リン",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "え？あぁ、そう。",
+  "artist": "蝶々P feat.初音ミク",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "天樂",
+  "artist": "ゆうゆ feat.鏡音リン",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "-ERROR",
+  "artist": "niki feat.Lily",
+  "collection": "【歌切】[2026-08-15]带来了重大消息！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16obS6EEUq?p=26",
   "source": "ibaramuan.js"
 }
 );
