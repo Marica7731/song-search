@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 8/16/2026, 8:54:47 PM
+// 生成时间: 8/16/2026, 9:05:04 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -38227,6 +38227,190 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-08-13]欢迎初次到访的朋友！今天直播时间较短！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qPbD6CEuW?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "愛言葉Ⅲ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ケロッ!とマーチ",
+  "artist": "角田信朗&いはたじゅり",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "未来のミュージアム",
+  "artist": "Perfume",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハグしちゃお",
+  "artist": "夏川りみ",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋するフォーチュンクッキー",
+  "artist": "AKB48",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Shiny Smily Story",
+  "artist": "hololive IDOL PROJECT",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Bloomin'",
+  "artist": "Ryosuke Yamada",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "横顔",
+  "artist": "牧野由依",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋のシグナルRin rin rin!",
+  "artist": "星空凛(CV.飯田里穂)",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Hello,星を数えて",
+  "artist": "星空凛(CV.飯田里穂)、西木野真姫(CV.Pile)、小泉花陽(CV.久保ユリカ)",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アムリタ",
+  "artist": "牧野由依",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さよならの夏 ～コクリコ坂から～",
+  "artist": "手嶌葵",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "時の歌",
+  "artist": "手嶌葵",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Bloomin'",
+  "artist": "Ryosuke Yamada",
+  "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=23",
   "source": "yoshika.js"
 }
 );

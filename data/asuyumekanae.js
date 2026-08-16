@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 8/16/2026, 8:36:43 PM
+// 生成时间: 8/16/2026, 8:47:04 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9483,6 +9483,174 @@ window.SONG_DATA.push(
   "collection": "【明日夢🎸弾き語り歌切】[2026-08-09]自由弹唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1j3uk6ME6A?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "わたがし",
+  "artist": "back number",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-16]为了能继续努力｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rub86SEPb?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "わたがし",
+  "artist": "back number",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-16]为了能继续努力｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rub86SEPb?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-16]为了能继续努力｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rub86SEPb?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-16]为了能继续努力｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rub86SEPb?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "繋いだ手から",
+  "artist": "back number",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-16]为了能继续努力｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rub86SEPb?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花火",
+  "artist": "aiko",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-16]为了能继续努力｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rub86SEPb?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ストロー",
+  "artist": "aiko",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-16]为了能继续努力｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rub86SEPb?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ボーイフレンド",
+  "artist": "aiko",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-16]为了能继续努力｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rub86SEPb?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-16]为了能继续努力｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rub86SEPb?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-16]为了能继续努力｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rub86SEPb?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "又三郎",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-16]为了能继续努力｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rub86SEPb?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "冬眠",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-16]为了能继续努力｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rub86SEPb?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-16]为了能继续努力｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rub86SEPb?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-16]为了能继续努力｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rub86SEPb?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-16]为了能继续努力｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rub86SEPb?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-16]为了能继续努力｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rub86SEPb?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-16]为了能继续努力｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rub86SEPb?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "波乗りジョニー",
+  "artist": "桑田佳祐",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-16]为了能继续努力｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rub86SEPb?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "明日晴れるかな",
+  "artist": "桑田佳祐",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-16]为了能继续努力｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rub86SEPb?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-16]为了能继续努力｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rub86SEPb?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "恋をしたから",
+  "artist": "あいみょん",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-16]为了能继续努力｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rub86SEPb?p=21",
   "source": "asuyumekanae.js"
 }
 );
