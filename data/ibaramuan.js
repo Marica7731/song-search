@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 8/15/2026, 11:21:30 PM
+// 生成时间: 8/15/2026, 11:43:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7867,6 +7867,182 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-10]星期一定期🎙来听一首歌吧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wdur6EEwq?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "V",
+  "artist": "HIMEHINA",
+  "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "三原色",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "勇者",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "優しい彗星",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "セブンティーン",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "キミに100パーセント",
+  "artist": "きゃりーぱみゅぱみゅ",
+  "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "プライド革命",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "決戦スピリット",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "オルフェンズの涙",
+  "artist": "MISIA",
+  "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "あんなに一緒だったのに",
+  "artist": "See-Saw",
+  "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "モザイクカケラ",
+  "artist": "SunSet Swish",
+  "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アイのシナリオ",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "BANG!!!",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "英雄 運命の詩",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "心絵",
+  "artist": "ロードオブメジャー",
+  "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ようかい体操第一",
+  "artist": "Dream5",
+  "collection": "【歌切】[2026-08-14]今天终于要发布告知的我。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wMbm65Ek2?p=22",
   "source": "ibaramuan.js"
 }
 );
