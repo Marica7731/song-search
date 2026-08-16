@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 8/16/2026, 12:39:58 AM
+// 生成时间: 8/16/2026, 12:49:53 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1667,6 +1667,38 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-08-12]3D Live，能来看看我吗？？夜晚悠闲弹唱直播🎸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1STg76oEgH?p=10",
+  "source": "stratia.js"
+},
+    {
+  "title": "想像フォレスト",
+  "artist": "じん feat.IA",
+  "collection": "【🎸🦋歌切】[2026-08-15]这个夏天，留在你的记忆里。 | 吉他弹唱 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kDbS6pEF2?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "【🎸🦋歌切】[2026-08-15]这个夏天，留在你的记忆里。 | 吉他弹唱 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kDbS6pEF2?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【🎸🦋歌切】[2026-08-15]这个夏天，留在你的记忆里。 | 吉他弹唱 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kDbS6pEF2?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "如月アテンション",
+  "artist": "じん feat.IA",
+  "collection": "【🎸🦋歌切】[2026-08-15]这个夏天，留在你的记忆里。 | 吉他弹唱 唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kDbS6pEF2?p=4",
   "source": "stratia.js"
 }
 );
