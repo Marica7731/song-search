@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 8/16/2026, 12:26:46 AM
+// 生成时间: 8/16/2026, 12:56:48 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -18659,6 +18659,46 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-08-10]沉睡钢琴叙事曲改编歌回 ✧ Piano Ballade",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Cdur6EEHS?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【🐍歌切】[2026-08-15]把夏日的歌声传遍世界🎆唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1r9bS6nE52?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【🐍歌切】[2026-08-15]把夏日的歌声传遍世界🎆唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1r9bS6nE52?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【🐍歌切】[2026-08-15]把夏日的歌声传遍世界🎆唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1r9bS6nE52?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-08-15]把夏日的歌声传遍世界🎆唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1r9bS6nE52?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "あの夢をなぞって",
+  "artist": "YOASOBI",
+  "collection": "【🐍歌切】[2026-08-15]把夏日的歌声传遍世界🎆唱歌直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1r9bS6nE52?p=5",
   "source": "ririsya.js"
 }
 );
