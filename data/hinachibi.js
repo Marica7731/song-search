@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 8/16/2026, 12:40:50 AM
+// 生成时间: 8/16/2026, 12:49:42 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2059,6 +2059,62 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-13]盂兰盆节过得怎么样？🌟新观众欢迎！只看不评论也完全没问题！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Dhbm6tEfK?p=11",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "daze",
+  "artist": "じん feat.メイリア from GARNiDELiA",
+  "collection": "【歌切】[2026-08-15]只唱1小时！🌟新观众大欢迎！只看不评论也完全没问题！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AQbS6XEbj?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ロスタイムメモリー",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-08-15]只唱1小时！🌟新观众大欢迎！只看不评论也完全没问题！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AQbS6XEbj?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "夕景イエスタデイ",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-08-15]只唱1小时！🌟新观众大欢迎！只看不评论也完全没问题！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AQbS6XEbj?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "チルドレンレコード",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-08-15]只唱1小时！🌟新观众大欢迎！只看不评论也完全没问题！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AQbS6XEbj?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "カゲロウデイズ",
+  "artist": "じん feat.初音ミク",
+  "collection": "【歌切】[2026-08-15]只唱1小时！🌟新观众大欢迎！只看不评论也完全没问题！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AQbS6XEbj?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "如月アテンション",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-08-15]只唱1小时！🌟新观众大欢迎！只看不评论也完全没问题！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AQbS6XEbj?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "オツキミリサイタル",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-08-15]只唱1小时！🌟新观众大欢迎！只看不评论也完全没问题！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AQbS6XEbj?p=7",
   "source": "hinachibi.js"
 }
 );
