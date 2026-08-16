@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 8/16/2026, 7:51:55 PM
+// 生成时间: 8/16/2026, 8:11:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2595,6 +2595,30 @@ window.SONG_DATA.push(
   "collection": "【⚙️🎸歌切】[2026-08-13]3D Live，要不要来看？今天也元气满满地唱歌哦！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yxbU6DEXg?p=26",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【⚙️🎸歌切】[2026-08-16]沉浸于原声 Vol.4｜唱一首贴近你心的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kobb6ZEFc?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "紫苑",
+  "artist": "Saucy Dog",
+  "collection": "【⚙️🎸歌切】[2026-08-16]沉浸于原声 Vol.4｜唱一首贴近你心的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kobb6ZEFc?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "声",
+  "artist": "羊文学",
+  "collection": "【⚙️🎸歌切】[2026-08-16]沉浸于原声 Vol.4｜唱一首贴近你心的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kobb6ZEFc?p=3",
   "source": "karakurinne.js"
 }
 );

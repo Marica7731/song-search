@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 8/16/2026, 7:29:10 PM
+// 生成时间: 8/16/2026, 7:49:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7803,6 +7803,110 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-08-12]暑假终于开始了，所以尽情唱歌呢～～～～￤澄花 / ぷろぶる",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DKg76tEps?p=22",
+  "source": "sumica.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【💐🎸歌切】[2026-08-16]夏日歌曲限定｜来一点为夏天添彩的弹唱如何～～🌞🌞🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEtS?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【💐🎸歌切】[2026-08-16]夏日歌曲限定｜来一点为夏天添彩的弹唱如何～～🌞🌞🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEtS?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-08-16]夏日歌曲限定｜来一点为夏天添彩的弹唱如何～～🌞🌞🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEtS?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "【💐🎸歌切】[2026-08-16]夏日歌曲限定｜来一点为夏天添彩的弹唱如何～～🌞🌞🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEtS?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "花火",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-08-16]夏日歌曲限定｜来一点为夏天添彩的弹唱如何～～🌞🌞🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEtS?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "君と夏フェス",
+  "artist": "SHISHAMO",
+  "collection": "【💐🎸歌切】[2026-08-16]夏日歌曲限定｜来一点为夏天添彩的弹唱如何～～🌞🌞🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEtS?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "夏の恋人",
+  "artist": "SHISHAMO",
+  "collection": "【💐🎸歌切】[2026-08-16]夏日歌曲限定｜来一点为夏天添彩的弹唱如何～～🌞🌞🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEtS?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "八月、某、月明かり",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-08-16]夏日歌曲限定｜来一点为夏天添彩的弹唱如何～～🌞🌞🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEtS?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "シーグラス",
+  "artist": "Saucy Dog",
+  "collection": "【💐🎸歌切】[2026-08-16]夏日歌曲限定｜来一点为夏天添彩的弹唱如何～～🌞🌞🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEtS?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【💐🎸歌切】[2026-08-16]夏日歌曲限定｜来一点为夏天添彩的弹唱如何～～🌞🌞🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEtS?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【💐🎸歌切】[2026-08-16]夏日歌曲限定｜来一点为夏天添彩的弹唱如何～～🌞🌞🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEtS?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【💐🎸歌切】[2026-08-16]夏日歌曲限定｜来一点为夏天添彩的弹唱如何～～🌞🌞🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEtS?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-08-16]夏日歌曲限定｜来一点为夏天添彩的弹唱如何～～🌞🌞🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEtS?p=13",
   "source": "sumica.js"
 }
 );
