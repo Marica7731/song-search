@@ -1,6 +1,6 @@
 // Sen†Sational - 歌单数据 (多合集汇总)
 // 来源: BV1ybNo67EQ5
-// 生成时间: 8/16/2026, 12:03:42 AM
+// 生成时间: 8/16/2026, 12:08:35 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -955,6 +955,158 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-07]🔴 天气开始认真热起来了",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wXu56iEVn?p=7",
+  "source": "sensational.js"
+},
+    {
+  "title": "フィクサー",
+  "artist": "ぬゆり feat.flower",
+  "collection": "【歌切】[2026-08-14]🔴 盂兰盆假期，在馆中熬夜。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vnbm6KEro?p=1",
+  "source": "sensational.js"
+},
+    {
+  "title": "ヤミタイガール",
+  "artist": "れるりり feat.GUMI",
+  "collection": "【歌切】[2026-08-14]🔴 盂兰盆假期，在馆中熬夜。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vnbm6KEro?p=2",
+  "source": "sensational.js"
+},
+    {
+  "title": "ルル",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-08-14]🔴 盂兰盆假期，在馆中熬夜。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vnbm6KEro?p=3",
+  "source": "sensational.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-14]🔴 盂兰盆假期，在馆中熬夜。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vnbm6KEro?p=4",
+  "source": "sensational.js"
+},
+    {
+  "title": "Aka",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-08-14]🔴 盂兰盆假期，在馆中熬夜。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vnbm6KEro?p=5",
+  "source": "sensational.js"
+},
+    {
+  "title": "生きる",
+  "artist": "吐息. feat.arh & flower",
+  "collection": "【歌切】[2026-08-14]🔴 盂兰盆假期，在馆中熬夜。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vnbm6KEro?p=6",
+  "source": "sensational.js"
+},
+    {
+  "title": "フライデー・ナイト",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-08-14]🔴 盂兰盆假期，在馆中熬夜。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vnbm6KEro?p=7",
+  "source": "sensational.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【歌切】[2026-08-14]🔴 盂兰盆假期，在馆中熬夜。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vnbm6KEro?p=8",
+  "source": "sensational.js"
+},
+    {
+  "title": "メクルメ",
+  "artist": "篠澤広(CV.川村玲奈)",
+  "collection": "【歌切】[2026-08-14]🔴 盂兰盆假期，在馆中熬夜。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vnbm6KEro?p=9",
+  "source": "sensational.js"
+},
+    {
+  "title": "ことばのおばけがまどからみている",
+  "artist": "フロクロ feat.重音テト",
+  "collection": "【歌切】[2026-08-14]🔴 盂兰盆假期，在馆中熬夜。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vnbm6KEro?p=10",
+  "source": "sensational.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-14]🔴 盂兰盆假期，在馆中熬夜。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vnbm6KEro?p=11",
+  "source": "sensational.js"
+},
+    {
+  "title": "ラビットホール",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-14]🔴 盂兰盆假期，在馆中熬夜。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vnbm6KEro?p=12",
+  "source": "sensational.js"
+},
+    {
+  "title": "モザイクロール",
+  "artist": "DECO*27 feat.GUMI",
+  "collection": "【歌切】[2026-08-14]🔴 盂兰盆假期，在馆中熬夜。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vnbm6KEro?p=13",
+  "source": "sensational.js"
+},
+    {
+  "title": "ローリンガール",
+  "artist": "wowaka feat.初音ミク",
+  "collection": "【歌切】[2026-08-14]🔴 盂兰盆假期，在馆中熬夜。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vnbm6KEro?p=14",
+  "source": "sensational.js"
+},
+    {
+  "title": "おとなの掟",
+  "artist": "Doughnuts Hole",
+  "collection": "【歌切】[2026-08-14]🔴 盂兰盆假期，在馆中熬夜。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vnbm6KEro?p=15",
+  "source": "sensational.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【歌切】[2026-08-14]🔴 盂兰盆假期，在馆中熬夜。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vnbm6KEro?p=16",
+  "source": "sensational.js"
+},
+    {
+  "title": "もっと",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-08-14]🔴 盂兰盆假期，在馆中熬夜。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vnbm6KEro?p=17",
+  "source": "sensational.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat.GUMI",
+  "collection": "【歌切】[2026-08-14]🔴 盂兰盆假期，在馆中熬夜。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vnbm6KEro?p=18",
+  "source": "sensational.js"
+},
+    {
+  "title": "エイリアンズ",
+  "artist": "キリンジ",
+  "collection": "【歌切】[2026-08-14]🔴 盂兰盆假期，在馆中熬夜。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vnbm6KEro?p=19",
   "source": "sensational.js"
 }
 );
