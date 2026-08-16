@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 8/16/2026, 1:41:05 AM
+// 生成时间: 8/16/2026, 1:39:55 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3395,6 +3395,38 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-08-15 与上水流宇宙首次合作直播✨塞满了我最爱的歌曲 稀羽すう",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kQbS6QEXc?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "僕らは今のなかで",
+  "artist": "μ's",
+  "collection": "暁月クララ歌切 2026-08-15 ✧︎*.我会努力用布丁声线把这份纯真传达给大家✨✨⋆꙳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BcbD61E2s?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ときめきのソルフェージュ",
+  "artist": "倉本千奈",
+  "collection": "暁月クララ歌切 2026-08-15 ✧︎*.我会努力用布丁声线把这份纯真传达给大家✨✨⋆꙳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BcbD61E2s?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "夏ゆきトキメキHighTension!",
+  "artist": "PaletteProject",
+  "collection": "暁月クララ歌切 2026-08-15 ✧︎*.我会努力用布丁声线把这份纯真传达给大家✨✨⋆꙳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BcbD61E2s?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "Wishing",
+  "artist": "レム(水瀬いのり)",
+  "collection": "暁月クララ歌切 2026-08-15 ✧︎*.我会努力用布丁声线把这份纯真传达给大家✨✨⋆꙳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BcbD61E2s?p=4",
   "source": "others.js"
 },
     {
