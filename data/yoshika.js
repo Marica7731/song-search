@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 8/16/2026, 1:04:13 AM
+// 生成时间: 8/16/2026, 1:14:17 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -38067,6 +38067,46 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-08-11]初見さん歓迎中！もしかして夏終わりましたか？",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1itur6qE8a?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "心絵",
+  "artist": "ロードオブメジャー",
+  "collection": "【🍠🦍歌切】[2026-08-15]跨越国境！大家一起全力Enjoy🌻歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9bS6nETT?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【🍠🦍歌切】[2026-08-15]跨越国境！大家一起全力Enjoy🌻歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9bS6nETT?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "you",
+  "artist": "癒月",
+  "collection": "【🍠🦍歌切】[2026-08-15]跨越国境！大家一起全力Enjoy🌻歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9bS6nETT?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Sweet(x5) Vintage!",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-08-15]跨越国境！大家一起全力Enjoy🌻歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9bS6nETT?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【🍠🦍歌切】[2026-08-15]跨越国境！大家一起全力Enjoy🌻歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1k9bS6nETT?p=5",
   "source": "yoshika.js"
 }
 );
