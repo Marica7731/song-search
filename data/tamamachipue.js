@@ -1,6 +1,6 @@
 // 玉町ぷえ - 歌单数据 (多合集汇总)
 // 来源: BV1nUMP6vE7N
-// 生成时间: 8/15/2026, 11:57:32 PM
+// 生成时间: 8/16/2026, 12:18:40 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -859,6 +859,246 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-08]星降动漫歌曲歌合战⌇围绕队长痴迷的动画们展开的游行✩ˎˊ˗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Eu56fEbs?p=5",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "ドレミファロンド",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=1",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "倍倍FIGHT!",
+  "artist": "CANDY TUNE",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=2",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "パプリカ",
+  "artist": "Foorin",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=3",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾、茅原実里、後藤邑子",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=4",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "CHA-LA HEAD-CHA-LA",
+  "artist": "影山ヒロノブ",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=5",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "ファッションモンスター",
+  "artist": "きゃりーぱみゅぱみゅ",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=6",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "にんじゃりばんばん",
+  "artist": "きゃりーぱみゅぱみゅ",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=7",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "PONPONPON",
+  "artist": "きゃりーぱみゅぱみゅ",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=8",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "トリセツ",
+  "artist": "西野カナ",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=9",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "会いたくて会いたくて",
+  "artist": "西野カナ",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=10",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "大阪LOVER",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=11",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "大丈夫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=12",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=13",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "5%",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=14",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=15",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "おなじ話",
+  "artist": "ハンバートハンバート",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=16",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "忘れられないの",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=17",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "多分、風。",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=18",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "なぜ？謎？！ANSWER",
+  "artist": "熊田茜音＆増井優花",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=19",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=20",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=21",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=22",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=23",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "キラキラ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=24",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=25",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "napori",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=26",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=27",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=28",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "イケナイ太陽",
+  "artist": "ORANGE RANGE",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=29",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "ポジティブ・パレード",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=30",
   "source": "tamamachipue.js"
 }
 );
