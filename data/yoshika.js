@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 8/16/2026, 1:25:13 AM
+// 生成时间: 8/16/2026, 1:34:21 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -38107,6 +38107,126 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-08-15]跨越国境！大家一起全力Enjoy🌻歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k9bS6nETT?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【🍠🦍歌切】[2026-08-13]欢迎初次到访的朋友！今天直播时间较短！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qPbD6CEuW?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "サトシwithピカチュウ(CV:松本梨香／大谷育江)",
+  "collection": "【🍠🦍歌切】[2026-08-13]欢迎初次到访的朋友！今天直播时间较短！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qPbD6CEuW?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Happy New World☆",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-08-13]欢迎初次到访的朋友！今天直播时间较短！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qPbD6CEuW?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Queens Bluff",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-08-13]欢迎初次到访的朋友！今天直播时间较短！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qPbD6CEuW?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ドレミファロンド",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【🍠🦍歌切】[2026-08-13]欢迎初次到访的朋友！今天直播时间较短！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qPbD6CEuW?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "希望の花を",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-08-13]欢迎初次到访的朋友！今天直播时间较短！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qPbD6CEuW?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "とくべチュ、して",
+  "artist": "=LOVE",
+  "collection": "【🍠🦍歌切】[2026-08-13]欢迎初次到访的朋友！今天直播时间较短！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qPbD6CEuW?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "愛 for you！",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-08-13]欢迎初次到访的朋友！今天直播时间较短！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qPbD6CEuW?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "CLEAR",
+  "artist": "坂本真綾",
+  "collection": "【🍠🦍歌切】[2026-08-13]欢迎初次到访的朋友！今天直播时间较短！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qPbD6CEuW?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Music S.T.A.R.T!!",
+  "artist": "μ's",
+  "collection": "【🍠🦍歌切】[2026-08-13]欢迎初次到访的朋友！今天直播时间较短！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qPbD6CEuW?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "オーケストラ",
+  "artist": "BiSH",
+  "collection": "【🍠🦍歌切】[2026-08-13]欢迎初次到访的朋友！今天直播时间较短！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qPbD6CEuW?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "【🍠🦍歌切】[2026-08-13]欢迎初次到访的朋友！今天直播时间较短！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qPbD6CEuW?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【🍠🦍歌切】[2026-08-13]欢迎初次到访的朋友！今天直播时间较短！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qPbD6CEuW?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Spending",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-08-13]欢迎初次到访的朋友！今天直播时间较短！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qPbD6CEuW?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "優しさの理由",
+  "artist": "ChouCho",
+  "collection": "【🍠🦍歌切】[2026-08-13]欢迎初次到访的朋友！今天直播时间较短！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qPbD6CEuW?p=15",
   "source": "yoshika.js"
 }
 );
