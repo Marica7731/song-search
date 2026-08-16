@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 8/16/2026, 9:40:47 PM
+// 生成时间: 8/16/2026, 9:49:45 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1859,6 +1859,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-16 只靠点歌想办法撑下去的直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV153b86EEvC?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "心拍数#0822",
+  "artist": "蝶々P feat.初音ミク",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-16 只靠点歌想办法撑下去的直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV153b86EEvC?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-16 只靠点歌想办法撑下去的直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV153b86EEvC?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-16 只靠点歌想办法撑下去的直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV153b86EEvC?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-16 只靠点歌想办法撑下去的直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV153b86EEvC?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "冬の幻",
+  "artist": "Acid Black Cherry",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-16 只靠点歌想办法撑下去的直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV153b86EEvC?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "GLAMOROUS SKY",
+  "artist": "NANA starring MIKA NAKASHIMA",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-16 只靠点歌想办法撑下去的直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV153b86EEvC?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz feat.巡音ルカ",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-16 只靠点歌想办法撑下去的直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV153b86EEvC?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-16 只靠点歌想办法撑下去的直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV153b86EEvC?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "天城越え",
+  "artist": "石川さゆり",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-16 只靠点歌想办法撑下去的直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV153b86EEvC?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-16 只靠点歌想办法撑下去的直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV153b86EEvC?p=11",
   "source": "others.js"
 },
     {

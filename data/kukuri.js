@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 8/16/2026, 8:19:59 PM
+// 生成时间: 8/16/2026, 8:29:18 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5563,6 +5563,142 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-08-09]在凉飕飕的房间里吃冰淇淋最棒了🍦歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1j3uk6MEsb?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-08-16]夏天还要继续尽情享受~.ᐟ歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Mb86nEhi?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-08-16]夏天还要继续尽情享受~.ᐟ歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Mb86nEhi?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-08-16]夏天还要继续尽情享受~.ᐟ歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Mb86nEhi?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-08-16]夏天还要继续尽情享受~.ᐟ歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Mb86nEhi?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【💫✖歌切】[2026-08-16]夏天还要继续尽情享受~.ᐟ歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Mb86nEhi?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【💫✖歌切】[2026-08-16]夏天还要继续尽情享受~.ᐟ歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Mb86nEhi?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "楔",
+  "artist": "奥華子",
+  "collection": "【💫✖歌切】[2026-08-16]夏天还要继续尽情享受~.ᐟ歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Mb86nEhi?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【💫✖歌切】[2026-08-16]夏天还要继续尽情享受~.ᐟ歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Mb86nEhi?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太 feat.歌愛ユキ",
+  "collection": "【💫✖歌切】[2026-08-16]夏天还要继续尽情享受~.ᐟ歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Mb86nEhi?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "【💫✖歌切】[2026-08-16]夏天还要继续尽情享受~.ᐟ歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Mb86nEhi?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "花火",
+  "artist": "aiko",
+  "collection": "【💫✖歌切】[2026-08-16]夏天还要继续尽情享受~.ᐟ歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Mb86nEhi?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ボーイフレンド",
+  "artist": "aiko",
+  "collection": "【💫✖歌切】[2026-08-16]夏天还要继续尽情享受~.ᐟ歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Mb86nEhi?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "愛の病",
+  "artist": "aiko",
+  "collection": "【💫✖歌切】[2026-08-16]夏天还要继续尽情享受~.ᐟ歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Mb86nEhi?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "キラキラ",
+  "artist": "aiko",
+  "collection": "【💫✖歌切】[2026-08-16]夏天还要继续尽情享受~.ᐟ歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Mb86nEhi?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "シャッター",
+  "artist": "aiko",
+  "collection": "【💫✖歌切】[2026-08-16]夏天还要继续尽情享受~.ᐟ歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Mb86nEhi?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "真夏の通り雨",
+  "artist": "宇多田ヒカル",
+  "collection": "【💫✖歌切】[2026-08-16]夏天还要继续尽情享受~.ᐟ歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Mb86nEhi?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【💫✖歌切】[2026-08-16]夏天还要继续尽情享受~.ᐟ歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Mb86nEhi?p=17",
   "source": "kukuri.js"
 }
 );
