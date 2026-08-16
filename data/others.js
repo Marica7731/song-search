@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 8/16/2026, 3:41:57 AM
+// 生成时间: 8/16/2026, 4:06:32 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -17899,6 +17899,526 @@ window.SONG_DATA.push(
   "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "風のゆくえ",
+  "artist": "Ado",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "林檎売りの泡沫少女",
+  "artist": "黒髪ストロングP feat.GUMI",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "DANZEN!ふたりはプリキュア ver.MaxHeart",
+  "artist": "五條真由美",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "怪獣の花歌",
+  "artist": "Vaundy",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat.IA",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "弱虫モンブラン",
+  "artist": "DECO*27 feat.GUMI",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "マジLOVE2000%",
+  "artist": "ST☆RISH",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "愛をこめて花束を",
+  "artist": "Superfly",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO×米津玄師",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "レイドバックジャーニー",
+  "artist": "キミのね",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "お願いマッスル",
+  "artist": "紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人)",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "Supercell",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "破滅の純情",
+  "artist": "ワルキューレ",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=32",
+  "source": "others.js"
+},
+    {
+  "title": "Snow fairy",
+  "artist": "FUNKIST",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=33",
+  "source": "others.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿偉功",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=34",
+  "source": "others.js"
+},
+    {
+  "title": "1・2・3",
+  "artist": "After the Rain",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=35",
+  "source": "others.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=36",
+  "source": "others.js"
+},
+    {
+  "title": "好きすぎて滅!",
+  "artist": "M!LK",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=37",
+  "source": "others.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=38",
+  "source": "others.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=39",
+  "source": "others.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n、中島愛",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=40",
+  "source": "others.js"
+},
+    {
+  "title": "愛結び",
+  "artist": "Novelbright",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=41",
+  "source": "others.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=42",
+  "source": "others.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=43",
+  "source": "others.js"
+},
+    {
+  "title": "Love me forever!",
+  "artist": "Ado",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=44",
+  "source": "others.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=45",
+  "source": "others.js"
+},
+    {
+  "title": "Make debut!",
+  "artist": "スピカ",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=46",
+  "source": "others.js"
+},
+    {
+  "title": "東京サマーセッション",
+  "artist": "HoneyWorks",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=47",
+  "source": "others.js"
+},
+    {
+  "title": "恋せよ女の子",
+  "artist": "田村ゆかり",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=48",
+  "source": "others.js"
+},
+    {
+  "title": "とおりゃんせ",
+  "artist": "東山奈央",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=49",
+  "source": "others.js"
+},
+    {
+  "title": "恋",
+  "artist": "星野源",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=50",
+  "source": "others.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=51",
+  "source": "others.js"
+},
+    {
+  "title": "ワルキューレはあきらめない",
+  "artist": "ワルキューレ",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=52",
+  "source": "others.js"
+},
+    {
+  "title": "赤い糸",
+  "artist": "コブクロ",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=53",
+  "source": "others.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "JITTERIN'JINN",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=54",
+  "source": "others.js"
+},
+    {
+  "title": "革命デュアリズム",
+  "artist": "水樹奈々×T.M.Revolution",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=55",
+  "source": "others.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat.初音ミク",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=56",
+  "source": "others.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=57",
+  "source": "others.js"
+},
+    {
+  "title": "さよならの夏〜コクリコ坂から〜",
+  "artist": "手嶌葵",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=58",
+  "source": "others.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=59",
+  "source": "others.js"
+},
+    {
+  "title": "紅蓮の弓矢",
+  "artist": "Linked Horizon",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=60",
+  "source": "others.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=61",
+  "source": "others.js"
+},
+    {
+  "title": "儚色シャーベット",
+  "artist": "なないろレモネード",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=62",
+  "source": "others.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=63",
+  "source": "others.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=64",
+  "source": "others.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=65",
+  "source": "others.js"
+},
+    {
+  "title": "狂乱Hey Kids!!",
+  "artist": "THE ORAL CIGARETTES",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=66",
+  "source": "others.js"
+},
+    {
+  "title": "灯火のまにまに",
+  "artist": "東山奈央",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=67",
+  "source": "others.js"
+},
+    {
+  "title": "男の子の目的は何?",
+  "artist": "HoneyWorks feat.高見沢アリサ(東山奈央)",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=68",
+  "source": "others.js"
+},
+    {
+  "title": "プライド革命",
+  "artist": "HoneyWorks",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=69",
+  "source": "others.js"
+},
+    {
+  "title": "リフレクティブフラストレイション",
+  "artist": "打ち上げはピザパたこパ",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=70",
+  "source": "others.js"
+},
+    {
+  "title": "夜光",
+  "artist": "東山奈央",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=71",
+  "source": "others.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=72",
+  "source": "others.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=73",
+  "source": "others.js"
+},
+    {
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=74",
+  "source": "others.js"
+},
+    {
+  "title": "ひゅるりらぱっぱ",
+  "artist": "tuki",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=75",
+  "source": "others.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat.巡音ルカ・GUMI",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=76",
+  "source": "others.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=77",
+  "source": "others.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat.GUMI",
+  "collection": "ささみん歌切 2026-08-11 同接100或100曲耐久❤️‍🔥不达成目标就无法发布告知⁉️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cybm6UE5D?p=78",
   "source": "others.js"
 },
     {
