@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 8/16/2026, 7:21:08 PM
+// 生成时间: 8/16/2026, 7:37:03 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1763,6 +1763,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat.初音ミク",
+  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ヘビースモーク",
+  "artist": "にしな",
+  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "染まるよ",
+  "artist": "チャットモンチー",
+  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ",
+  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "爆弾魔",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "1991",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=12",
   "source": "suiuishino.js"
 }
 );
