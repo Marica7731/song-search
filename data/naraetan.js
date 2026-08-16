@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 8/16/2026, 7:23:23 PM
+// 生成时间: 8/16/2026, 7:41:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12379,6 +12379,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=20",
+  "source": "naraetan.js"
+},
+    {
+  "title": "嘘",
+  "artist": "シド",
+  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "GO!!!",
+  "artist": "FLOW",
+  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "宝石",
+  "artist": "B-VOICE",
+  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "カルマ",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "신호등",
+  "artist": "이무진",
+  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Grip!",
+  "artist": "Every Little Thing",
+  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Get Over",
+  "artist": "dream",
+  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Wherever you are",
+  "artist": "ONE OK ROCK",
+  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "手紙 ～拝啓 十五の君へ～",
+  "artist": "アンジェラ・アキ",
+  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ドナーソング",
+  "artist": "れるりり×もじゃ feat.GUMI",
+  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Sweet Sweet Sweet",
+  "artist": "一条シン(CV.寺島惇太)",
+  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "希望峰",
+  "artist": "Strawberry JAM",
+  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "シル・ヴ・プレジデント",
+  "artist": "P丸様。",
+  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "如月アテンション",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=16",
   "source": "naraetan.js"
 },
     {
