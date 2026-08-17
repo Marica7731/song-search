@@ -1,6 +1,6 @@
 // 鈴花いのり - 歌单数据 (多合集汇总)
 // 来源: BV1jyjK6sEns
-// 生成时间: 8/17/2026, 2:28:09 AM
+// 生成时间: 8/17/2026, 2:37:52 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1511,7 +1511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "雑魚",
-  "artist": "DECO*27",
+  "artist": "柊マグネタイト feat.亞北ネル(初音ミク)",
   "collection": "【歌切】[2026-07-26]星期日定期歌回𝜗𝜚.⋆ 术力口歌回♡欢迎初见观众！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13rgf61E8T?p=17",
