@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 8/17/2026, 3:44:44 AM
+// 生成时间: 8/17/2026, 4:08:26 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3395,6 +3395,102 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-08-15 与上水流宇宙首次合作直播✨塞满了我最爱的歌曲 稀羽すう",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kQbS6QEXc?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "BREAK OUT DREAMER",
+  "artist": "白玖ウタノ",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-08-16 两人一起唱歌，一起同时观看粉丝见面会〜！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXb86JEmM?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "BREAK OUT DREAMER",
+  "artist": "白玖ウタノ",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-08-16 两人一起唱歌，一起同时观看粉丝见面会〜！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXb86JEmM?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "WWW",
+  "artist": "HIMEHINA",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-08-16 两人一起唱歌，一起同时观看粉丝见面会〜！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXb86JEmM?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "フランケンシュタインの怪物",
+  "artist": "HIMEHINA",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-08-16 两人一起唱歌，一起同时观看粉丝见面会〜！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXb86JEmM?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "愛包ダンスホール",
+  "artist": "HIMEHINA",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-08-16 两人一起唱歌，一起同时观看粉丝见面会〜！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXb86JEmM?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "綺羅キラー",
+  "artist": "ずっと真夜中でいいのに。 feat. Mori Calliope",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-08-16 两人一起唱歌，一起同时观看粉丝见面会〜！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXb86JEmM?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "Fashionable",
+  "artist": "SHHis",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-08-16 两人一起唱歌，一起同时观看粉丝见面会〜！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXb86JEmM?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "Mr.VIRTUALIZER",
+  "artist": "HIMEHINA",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-08-16 两人一起唱歌，一起同时观看粉丝见面会〜！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXb86JEmM?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "フリコドウル",
+  "artist": "HIMEHINA",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-08-16 两人一起唱歌，一起同时观看粉丝见面会〜！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXb86JEmM?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "アダムとマダム",
+  "artist": "HIMEHINA",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-08-16 两人一起唱歌，一起同时观看粉丝见面会〜！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXb86JEmM?p=10",
+  "source": "friends.js"
+},
+    {
+  "title": "V",
+  "artist": "HIMEHINA",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-08-16 两人一起唱歌，一起同时观看粉丝见面会〜！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXb86JEmM?p=11",
+  "source": "friends.js"
+},
+    {
+  "title": "主人公になれるはずのストーリー",
+  "artist": "白玖ウタノ",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-08-16 两人一起唱歌，一起同时观看粉丝见面会〜！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXb86JEmM?p=12",
   "source": "friends.js"
 },
     {
