@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 8/17/2026, 8:34:28 PM
+// 生成时间: 8/17/2026, 8:45:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1859,6 +1859,166 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "紡ぐ",
+  "artist": "とた",
+  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "春を待つ",
+  "artist": "Islet feat.倚水",
+  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "嘘つき",
+  "artist": "あたらよ",
+  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "光",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "瞬き",
+  "artist": "back number",
+  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "夏の半券",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "SAKURA",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "冬眠",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "贖罪",
+  "artist": "傘村トータ feat.IA,結月ゆかり,初音ミク,Fukase,Ken",
+  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "奏(かなで)",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=15",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=16",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "最愛",
+  "artist": "福山雅治",
+  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=17",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "夜永唄",
+  "artist": "神はサイコロを振らない",
+  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=18",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=19",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=20",
   "source": "suiuishino.js"
 }
 );
