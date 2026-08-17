@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 8/17/2026, 3:31:45 AM
+// 生成时间: 8/17/2026, 3:48:14 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3395,6 +3395,86 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-08-15 与上水流宇宙首次合作直播✨塞满了我最爱的歌曲 稀羽すう",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kQbS6QEXc?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "Crush",
+  "artist": "三日月ちゆる",
+  "collection": "CHIYURU ch.三日月ちゆる歌切 2026-08-16 歌回联动与同时观看的双重企划✌来看粉丝见面会哦～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19Xb86JEwv?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "LADY CRAZY",
+  "artist": "HIMEHINA",
+  "collection": "CHIYURU ch.三日月ちゆる歌切 2026-08-16 歌回联动与同时观看的双重企划✌来看粉丝见面会哦～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19Xb86JEwv?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "キスキツネ",
+  "artist": "HIMEHINA",
+  "collection": "CHIYURU ch.三日月ちゆる歌切 2026-08-16 歌回联动与同时观看的双重企划✌来看粉丝见面会哦～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19Xb86JEwv?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "V",
+  "artist": "HIMEHINA",
+  "collection": "CHIYURU ch.三日月ちゆる歌切 2026-08-16 歌回联动与同时观看的双重企划✌来看粉丝见面会哦～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19Xb86JEwv?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "OH MY GOD",
+  "artist": "SHHis",
+  "collection": "CHIYURU ch.三日月ちゆる歌切 2026-08-16 歌回联动与同时观看的双重企划✌来看粉丝见面会哦～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19Xb86JEwv?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "PRIDE",
+  "artist": "HIGH and MIGHTY COLOR",
+  "collection": "CHIYURU ch.三日月ちゆる歌切 2026-08-16 歌回联动与同时观看的双重企划✌来看粉丝见面会哦～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19Xb86JEwv?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "うたかたよいかないで",
+  "artist": "HIMEHINA",
+  "collection": "CHIYURU ch.三日月ちゆる歌切 2026-08-16 歌回联动与同时观看的双重企划✌来看粉丝见面会哦～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19Xb86JEwv?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "ヒトガタ",
+  "artist": "HIMEHINA",
+  "collection": "CHIYURU ch.三日月ちゆる歌切 2026-08-16 歌回联动与同时观看的双重企划✌来看粉丝见面会哦～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19Xb86JEwv?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "3分ガール",
+  "artist": "HIMEHINA",
+  "collection": "CHIYURU ch.三日月ちゆる歌切 2026-08-16 歌回联动与同时观看的双重企划✌来看粉丝见面会哦～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19Xb86JEwv?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "funny funny くれいじー!",
+  "artist": "三日月ちゆる",
+  "collection": "CHIYURU ch.三日月ちゆる歌切 2026-08-16 歌回联动与同时观看的双重企划✌来看粉丝见面会哦～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19Xb86JEwv?p=10",
   "source": "friends.js"
 }
 );
