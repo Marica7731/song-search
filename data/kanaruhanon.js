@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 8/17/2026, 8:51:18 PM
+// 生成时间: 8/17/2026, 8:56:49 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1379,6 +1379,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-29]一会儿有录音，先开开嗓",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12u3k64ErZ?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Cherish",
+  "artist": "石原夏織",
+  "collection": "【歌切】[2026-08-17]3D Live｜香鳴ハノン活动6周年纪念Live！ #モシモノハノ誕2026",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mLbq6ZEdG?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ルピラ",
+  "artist": "アルストロメリア",
+  "collection": "【歌切】[2026-08-17]3D Live｜香鳴ハノン活动6周年纪念Live！ #モシモノハノ誕2026",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mLbq6ZEdG?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Lovers",
+  "artist": "sumika",
+  "collection": "【歌切】[2026-08-17]3D Live｜香鳴ハノン活动6周年纪念Live！ #モシモノハノ誕2026",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mLbq6ZEdG?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-08-17]3D Live｜香鳴ハノン活动6周年纪念Live！ #モシモノハノ誕2026",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mLbq6ZEdG?p=4",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "きまぐれユモレスク",
+  "artist": "箱崎星梨花(CV.麻倉もも)",
+  "collection": "【歌切】[2026-08-17]3D Live｜香鳴ハノン活动6周年纪念Live！ #モシモノハノ誕2026",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mLbq6ZEdG?p=5",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Kawaii no susume",
+  "artist": "スリーズブーケ",
+  "collection": "【歌切】[2026-08-17]3D Live｜香鳴ハノン活动6周年纪念Live！ #モシモノハノ誕2026",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mLbq6ZEdG?p=6",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "超最強",
+  "artist": "超ときめき♡宣伝部",
+  "collection": "【歌切】[2026-08-17]3D Live｜香鳴ハノン活动6周年纪念Live！ #モシモノハノ誕2026",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mLbq6ZEdG?p=7",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Color of Drops",
+  "artist": "MORE MORE JUMP！",
+  "collection": "【歌切】[2026-08-17]3D Live｜香鳴ハノン活动6周年纪念Live！ #モシモノハノ誕2026",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mLbq6ZEdG?p=8",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Over Over",
+  "artist": "澁谷かのん(CV.伊達さゆり)",
+  "collection": "【歌切】[2026-08-17]3D Live｜香鳴ハノン活动6周年纪念Live！ #モシモノハノ誕2026",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mLbq6ZEdG?p=9",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "夏に重ねて",
+  "artist": "DIALOGUE+",
+  "collection": "【歌切】[2026-08-17]3D Live｜香鳴ハノン活动6周年纪念Live！ #モシモノハノ誕2026",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mLbq6ZEdG?p=10",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "サイン・オブ・ホープ",
+  "artist": "南条光(CV.神谷早矢佳)",
+  "collection": "【歌切】[2026-08-17]3D Live｜香鳴ハノン活动6周年纪念Live！ #モシモノハノ誕2026",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mLbq6ZEdG?p=11",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "シャイノグラフィ",
+  "artist": "シャイニーカラーズ",
+  "collection": "【歌切】[2026-08-17]3D Live｜香鳴ハノン活动6周年纪念Live！ #モシモノハノ誕2026",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mLbq6ZEdG?p=12",
   "source": "kanaruhanon.js"
 }
 );

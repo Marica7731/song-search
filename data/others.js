@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 8/17/2026, 9:03:09 PM
+// 生成时间: 8/17/2026, 9:07:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7678,127 +7678,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "マトリョシカ",
-  "artist": "ハチ feat.初音ミク・GUMI",
-  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=14",
-  "source": "others.js"
-},
-    {
-  "title": "いーあるふぁんくらぶ",
-  "artist": "みきとP feat.GUMI・鏡音リン",
-  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=15",
-  "source": "others.js"
-},
-    {
-  "title": "チュルリラ・チュルリラ・ダッダッダ！",
-  "artist": "和田たけあき(くらげP) feat.結月ゆかり",
-  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=16",
-  "source": "others.js"
-},
-    {
-  "title": "ハオ",
-  "artist": "DECO*27 feat.初音ミク",
-  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=17",
-  "source": "others.js"
-},
-    {
-  "title": "抜錨",
-  "artist": "ナナホシ管弦楽団 feat.巡音ルカ",
-  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=18",
-  "source": "others.js"
-},
-    {
-  "title": "妄想税",
-  "artist": "DECO*27 feat.初音ミク",
-  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=19",
-  "source": "others.js"
-},
-    {
-  "title": "アスノヨゾラ哨戒班",
-  "artist": "Orangestar feat.IA",
-  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=20",
-  "source": "others.js"
-},
-    {
-  "title": "地球最後の告白を",
-  "artist": "kemu feat.GUMI",
-  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=21",
-  "source": "others.js"
-},
-    {
-  "title": "弱虫モンブラン",
-  "artist": "DECO*27 feat.GUMI",
-  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=22",
-  "source": "others.js"
-},
-    {
-  "title": "二息歩行",
-  "artist": "DECO*27 feat.初音ミク",
-  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=23",
-  "source": "others.js"
-},
-    {
-  "title": "心做し",
-  "artist": "蝶々P feat.GUMI",
-  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=24",
-  "source": "others.js"
-},
-    {
-  "title": "アイロニ",
-  "artist": "すこっぷ feat.初音ミク",
-  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=25",
-  "source": "others.js"
-},
-    {
-  "title": "1925",
-  "artist": "T-POCKET feat.初音ミク",
-  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=26",
-  "source": "others.js"
-},
-    {
-  "title": "少女レイ",
-  "artist": "みきとP feat.初音ミク",
-  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=27",
-  "source": "others.js"
-},
-    {
-  "title": "サマータイムレコード",
-  "artist": "じん feat.IA",
-  "collection": "🦉歌切 2026-06-06 羽緒 - Hao - BtuLUx9drZI 想唱很多术力口的日子🦉",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JCEn6uEam?p=28",
-  "source": "others.js"
-},
-    {
-  "title": "夜明けと蛍",
+  "title": "メリュー",
   "artist": "n-buna feat.初音ミク",
   "collection": "歌切 2026-06-03 ぬ、を、ん没有唱，46减3 = 43。我看她存量直播也有这个挑战，是术力口主题的，这次虽然没在标题上写，但也遵守了这个隐藏主题",
   "up": "前尘往事如昔故",
