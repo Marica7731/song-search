@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 8/17/2026, 10:39:32 AM
+// 生成时间: 8/17/2026, 10:48:30 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5438,7 +5438,7 @@ window.SONG_DATA.push(
   "source": "kukuri.js"
 },
     {
-  "title": "再会 (produced by Ayase)",
+  "title": "再会",
   "artist": "LiSA×Uru",
   "collection": "【💫✖歌切】[2026-08-09]在凉飕飕的房间里吃冰淇淋最棒了🍦歌回",
   "up": "前尘往事如昔故",
@@ -5486,7 +5486,7 @@ window.SONG_DATA.push(
   "source": "kukuri.js"
 },
     {
-  "title": "スパークル [original ver.]",
+  "title": "スパークル",
   "artist": "RADWIMPS",
   "collection": "【💫✖歌切】[2026-08-09]在凉飕飕的房间里吃冰淇淋最棒了🍦歌回",
   "up": "前尘往事如昔故",
