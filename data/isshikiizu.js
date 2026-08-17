@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 8/17/2026, 9:01:03 PM
+// 生成时间: 8/17/2026, 9:09:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3283,6 +3283,246 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-13]古早术力口限定歌回！🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEBW?p=50",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "夜の踊り子",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "チェリー",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Catch the Moment",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "リードコントロール",
+  "artist": "なるみや",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ブルーベリー・ナイツ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "メランコリーキッチン",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "相思相愛",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "花火",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "愛のかたまり",
+  "artist": "KinKi Kids",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "それは小さな光のような",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アノニマス",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=22",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "来世で会おう",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=23",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=24",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=25",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=26",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=27",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat.初音ミク",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=28",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=29",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=30",
   "source": "isshikiizu.js"
 }
 );
