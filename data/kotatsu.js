@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 8/17/2026, 8:27:05 PM
+// 生成时间: 8/17/2026, 8:38:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11323,6 +11323,150 @@ window.SONG_DATA.push(
   "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=37",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "投げKISSをあげるよ",
+  "artist": "andymori",
+  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "モザイクロール",
+  "artist": "DECO*27 feat.GUMI",
+  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "君じゃない誰かなんて～Tejina～",
+  "artist": "DEEP",
+  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "栞",
+  "artist": "クリープハイプ",
+  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ルバート",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "赤とんぼ",
+  "artist": "童謡・唱歌",
+  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さくらんぼ",
+  "artist": "大塚愛",
+  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "勇気100%",
+  "artist": "光GENJI",
+  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "狭心症",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "愛、テキサス",
+  "artist": "山下智久",
+  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat.初音ミク",
+  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "バンザイ～好きでよかった～",
+  "artist": "ウルフルズ",
+  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "一年生になったら",
+  "artist": "童謡・唱歌",
+  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "にんげんっていいな",
+  "artist": "中島義実、ヤング・フレッシュ",
+  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "いつも何度でも",
+  "artist": "木村弓",
+  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "悲しくてやりきれない",
+  "artist": "ザ・フォーク・クルセダーズ",
+  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=18",
   "source": "kotatsu.js"
 }
 );
