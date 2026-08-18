@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 8/18/2026, 2:34:16 AM
+// 生成时间: 8/18/2026, 2:39:06 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5368,55 +5368,359 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "[2022-02-27]【会限】棗いつき × nayuta 合作纪念歌回切片",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mNpUzXEiW?p=2",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "I'm a mess",
+  "artist": "MY FIRST STORY",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "Give a reason",
+  "artist": "林原めぐみ",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "月光花",
+  "artist": "Janne Da Arc",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "青いベンチ",
+  "artist": "サスケ",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "パメラ",
+  "artist": "バルーン feat. flower",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "ノマド",
+  "artist": "バルーン feat. flower",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "BALALAIKA",
+  "artist": "9Lana",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "三原色",
+  "artist": "YOASOBI",
+  "collection": "歌切 2026-05-23 五木つかさ -Itsuki Tsukasa - fcNLIQXQJRw 找到这里的你很幸运！？是为你而唱的歌，快过来吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eLG66BEp7?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "シュガーラッシュ",
+  "artist": "miComet",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "花澤香菜",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "八月の夜",
+  "artist": "SILENT SIREN",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "チェリボム",
+  "artist": "SILENT SIREN",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ラブレター",
+  "artist": "YOASOBI",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "ギターと孤独と蒼い惑星",
+  "artist": "結束バンド",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "青春コンプレックス",
+  "artist": "結束バンド",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "Hacking to the Gate",
+  "artist": "いとうかなこ",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "YUME日和",
+  "artist": "島谷ひとみ",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "Shout Baby",
+  "artist": "緑黄色社会",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH//",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "Watch me!",
+  "artist": "YOASOBI",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "あの夢をなぞって",
+  "artist": "YOASOBI",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=15",
   "source": "others.js"
 },
     {
   "title": "秒針を噛む",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "[2022-02-27]【会限】棗いつき × nayuta 合作纪念歌回切片",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mNpUzXEiW?p=3",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=16",
   "source": "others.js"
 },
     {
-  "title": "AXIA ~ダイスキでダイキライ~",
+  "title": "クリームで会いにいけますか",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "TAIDADA",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "灼熱にて純情wii-wii-woo",
+  "artist": "星街すいせい",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "勇者",
+  "artist": "YOASOBI",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師、宇多田ヒカル",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "オーバーライド",
+  "artist": "吉田夜世 feat. 重音テトSV",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "adrenaline!!!",
+  "artist": "TrySail",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO from bless4",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "いけないボーダーライン",
   "artist": "ワルキューレ",
-  "collection": "[2022-02-27]【会限】棗いつき × nayuta 合作纪念歌回切片",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mNpUzXEiW?p=4",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=27",
   "source": "others.js"
 },
     {
-  "title": "Absolute 5",
+  "title": "一度だけの恋なら",
   "artist": "ワルキューレ",
-  "collection": "[2022-02-27]【会限】棗いつき × nayuta 合作纪念歌回切片",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mNpUzXEiW?p=5",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=28",
   "source": "others.js"
 },
     {
-  "title": "ルンがピカッと光ったら",
+  "title": "AXIA〜ダイスキでダイキライ〜",
   "artist": "ワルキューレ",
-  "collection": "[2022-02-27]【会限】棗いつき × nayuta 合作纪念歌回切片",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mNpUzXEiW?p=6",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=29",
   "source": "others.js"
 },
     {
-  "title": "可愛くなりたい",
-  "artist": "honeyworks feat.成海聖奈（CV：雨宮天）",
-  "collection": "[2022-02-27]【会限】棗いつき × nayuta 合作纪念歌回切片",
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mNpUzXEiW?p=7",
+  "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=30",
   "source": "others.js"
 },
     {
-  "title": "青空のラプソディ",
-  "artist": "fhána",
-  "collection": "[2022-02-27]【会限】棗いつき × nayuta 合作纪念歌回切片",
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "歌切 2026-05-23 蜂屋ひまわり-Himawari ch.- 08zGZXtm2Y4 为了达成25000频道订阅者而唱歌！请找到我吧💛",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VXGV6tE7P?p=31",
   "source": "others.js"
