@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 8/18/2026, 7:54:56 PM
+// 生成时间: 8/18/2026, 8:16:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2091,6 +2091,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-29]让我们嗨起来吧♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ss3p6yEpe?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "二人",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-08-18]忘了竖屏直播怎么弄了♪唱歌咯♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEyj?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "beat",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-08-18]忘了竖屏直播怎么弄了♪唱歌咯♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEyj?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ハネウマライダー",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-08-18]忘了竖屏直播怎么弄了♪唱歌咯♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEyj?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ミュージック・アワー",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-08-18]忘了竖屏直播怎么弄了♪唱歌咯♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEyj?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "サウダージ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-08-18]忘了竖屏直播怎么弄了♪唱歌咯♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEyj?p=5",
   "source": "hasumisahiro.js"
 }
 );
