@@ -1,6 +1,6 @@
 // 音羽ララ - 歌单数据 (多合集汇总)
 // 来源: BV1PE7J6CESH
-// 生成时间: 8/18/2026, 7:52:16 PM
+// 生成时间: 8/18/2026, 8:09:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -715,6 +715,150 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=13",
+  "source": "otowarara.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=1",
+  "source": "otowarara.js"
+},
+    {
+  "title": "ウタノフラワー",
+  "artist": "ウタゴエ放送部",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=2",
+  "source": "otowarara.js"
+},
+    {
+  "title": "回レ!雪月花",
+  "artist": "歌組雪月花",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=3",
+  "source": "otowarara.js"
+},
+    {
+  "title": "魔法のコトバ",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=4",
+  "source": "otowarara.js"
+},
+    {
+  "title": "女々しくて 2023流行語ver.",
+  "artist": "ゴールデンボンバー",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=5",
+  "source": "otowarara.js"
+},
+    {
+  "title": "夜撫でるメノウ",
+  "artist": "Ayase feat.初音ミク",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=6",
+  "source": "otowarara.js"
+},
+    {
+  "title": "ツバサ",
+  "artist": "アンダーグラフ",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=7",
+  "source": "otowarara.js"
+},
+    {
+  "title": "吉原ラメント",
+  "artist": "亜沙 feat.重音テト",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=8",
+  "source": "otowarara.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=9",
+  "source": "otowarara.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat.初音ミク",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=10",
+  "source": "otowarara.js"
+},
+    {
+  "title": "青空のラプソディ",
+  "artist": "fhána",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=11",
+  "source": "otowarara.js"
+},
+    {
+  "title": "青空の果て",
+  "artist": "奥田美和子",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=12",
+  "source": "otowarara.js"
+},
+    {
+  "title": "熱帯夜",
+  "artist": "RIP SLYME",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=13",
+  "source": "otowarara.js"
+},
+    {
+  "title": "ゴーゴー幽霊船",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=14",
+  "source": "otowarara.js"
+},
+    {
+  "title": "Understand",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=15",
+  "source": "otowarara.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=16",
+  "source": "otowarara.js"
+},
+    {
+  "title": "光",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=17",
+  "source": "otowarara.js"
+},
+    {
+  "title": "モノクロ∞ブルースカイ",
+  "artist": "のぼる↑ feat.初音ミク",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=18",
   "source": "otowarara.js"
 }
 );

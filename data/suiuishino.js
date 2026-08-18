@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 8/18/2026, 7:46:46 PM
+// 生成时间: 8/18/2026, 8:05:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2019,6 +2019,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=20",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "小夜子",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "君の体温",
+  "artist": "クワガタP feat.初音ミク",
+  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "グリグリメガネと月光蟲",
+  "artist": "古川本舗 feat.初音ミク",
+  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "魔法の絨毯",
+  "artist": "川崎鷹也",
+  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "拝啓、少年よ",
+  "artist": "Hump Back",
+  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "橙",
+  "artist": "チャットモンチー",
+  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ボーイフレンド",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "青春コンプレックス",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "八月、某、月明かり",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=15",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=16",
   "source": "suiuishino.js"
 }
 );
