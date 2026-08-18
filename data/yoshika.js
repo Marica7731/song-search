@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 8/18/2026, 7:56:05 PM
+// 生成时间: 8/18/2026, 8:11:11 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -38411,6 +38411,166 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-08-16]欢迎新观众！活动满满的8月！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EAb869E6w?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-08-18]欢迎第一次来的！开播成功了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eh8G6vEVw?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "松本梨香",
+  "collection": "【🍠🦍歌切】[2026-08-18]欢迎第一次来的！开播成功了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eh8G6vEVw?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "GO!!!",
+  "artist": "FLOW",
+  "collection": "【🍠🦍歌切】[2026-08-18]欢迎第一次来的！开播成功了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eh8G6vEVw?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【🍠🦍歌切】[2026-08-18]欢迎第一次来的！开播成功了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eh8G6vEVw?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "【🍠🦍歌切】[2026-08-18]欢迎第一次来的！开播成功了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eh8G6vEVw?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍠🦍歌切】[2026-08-18]欢迎第一次来的！开播成功了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eh8G6vEVw?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "キミに100パーセント",
+  "artist": "きゃりーぱみゅぱみゅ",
+  "collection": "【🍠🦍歌切】[2026-08-18]欢迎第一次来的！开播成功了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eh8G6vEVw?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Diamonds",
+  "artist": "PRINCESS PRINCESS",
+  "collection": "【🍠🦍歌切】[2026-08-18]欢迎第一次来的！开播成功了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eh8G6vEVw?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "サインはB",
+  "artist": "B小町",
+  "collection": "【🍠🦍歌切】[2026-08-18]欢迎第一次来的！开播成功了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eh8G6vEVw?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "涙そうそう",
+  "artist": "夏川りみ",
+  "collection": "【🍠🦍歌切】[2026-08-18]欢迎第一次来的！开播成功了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eh8G6vEVw?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Bloomin",
+  "artist": "山田涼介",
+  "collection": "【🍠🦍歌切】[2026-08-18]欢迎第一次来的！开播成功了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eh8G6vEVw?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "明日への扉",
+  "artist": "川嶋あい",
+  "collection": "【🍠🦍歌切】[2026-08-18]欢迎第一次来的！开播成功了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eh8G6vEVw?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "YUME日和",
+  "artist": "島谷ひとみ",
+  "collection": "【🍠🦍歌切】[2026-08-18]欢迎第一次来的！开播成功了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eh8G6vEVw?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "海の声",
+  "artist": "浦島太郎(桐谷健太)",
+  "collection": "【🍠🦍歌切】[2026-08-18]欢迎第一次来的！开播成功了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eh8G6vEVw?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "撲殺天使ドクロちゃん",
+  "artist": "千葉紗子",
+  "collection": "【🍠🦍歌切】[2026-08-18]欢迎第一次来的！开播成功了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eh8G6vEVw?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Catch You Catch Me",
+  "artist": "日向めぐみ",
+  "collection": "【🍠🦍歌切】[2026-08-18]欢迎第一次来的！开播成功了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eh8G6vEVw?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "SAKURAスキップ",
+  "artist": "fourfolium",
+  "collection": "【🍠🦍歌切】[2026-08-18]欢迎第一次来的！开播成功了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eh8G6vEVw?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "暗黒天国",
+  "artist": "ALI PROJECT",
+  "collection": "【🍠🦍歌切】[2026-08-18]欢迎第一次来的！开播成功了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eh8G6vEVw?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "かくれんぼ",
+  "artist": "AliA",
+  "collection": "【🍠🦍歌切】[2026-08-18]欢迎第一次来的！开播成功了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eh8G6vEVw?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ディスカバリー!",
+  "artist": "スタァライト九九組",
+  "collection": "【🍠🦍歌切】[2026-08-18]欢迎第一次来的！开播成功了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eh8G6vEVw?p=20",
   "source": "yoshika.js"
 }
 );
