@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 8/18/2026, 7:55:33 PM
+// 生成时间: 8/18/2026, 7:58:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2115,6 +2115,70 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-15]只唱1小时！🌟新观众大欢迎！只看不评论也完全没问题！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AQbS6XEbj?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ヒカリヘ",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-08-18]久违地悠闲练练吉他吧🌟初次来看、只听不聊也非常欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vESr?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ちっぽけな愛のうた",
+  "artist": "大原櫻子",
+  "collection": "【歌切】[2026-08-18]久违地悠闲练练吉他吧🌟初次来看、只听不聊也非常欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vESr?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "白日夢",
+  "artist": "Islet feat.倚水",
+  "collection": "【歌切】[2026-08-18]久违地悠闲练练吉他吧🌟初次来看、只听不聊也非常欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vESr?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "私が選んだもの",
+  "artist": "『ユイカ』",
+  "collection": "【歌切】[2026-08-18]久违地悠闲练练吉他吧🌟初次来看、只听不聊也非常欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vESr?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "私が選んだもの",
+  "artist": "『ユイカ』",
+  "collection": "【歌切】[2026-08-18]久违地悠闲练练吉他吧🌟初次来看、只听不聊也非常欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vESr?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "おくすり",
+  "artist": "『ユイカ』",
+  "collection": "【歌切】[2026-08-18]久违地悠闲练练吉他吧🌟初次来看、只听不聊也非常欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vESr?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-18]久违地悠闲练练吉他吧🌟初次来看、只听不聊也非常欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vESr?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-18]久违地悠闲练练吉他吧🌟初次来看、只听不聊也非常欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vESr?p=8",
   "source": "hinachibi.js"
 }
 );
