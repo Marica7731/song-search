@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 8/18/2026, 9:43:57 PM
+// 生成时间: 8/18/2026, 9:48:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -18539,6 +18539,142 @@ window.SONG_DATA.push(
   "collection": "石狩あかり/あおぎり高校歌切 2026-08-16 只靠点歌想办法撑下去的直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV153b86EEvC?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿偉功",
+  "collection": "【歌切】[2026-08-18]从今天起固定歌回改到周二✋ 动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEEv?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-08-18]从今天起固定歌回改到周二✋ 动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEEv?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ALONES",
+  "artist": "Aqua Timez",
+  "collection": "【歌切】[2026-08-18]从今天起固定歌回改到周二✋ 动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEEv?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "Can Do",
+  "artist": "GRANRODEO",
+  "collection": "【歌切】[2026-08-18]从今天起固定歌回改到周二✋ 动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEEv?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "遥か彼方",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "【歌切】[2026-08-18]从今天起固定歌回改到周二✋ 动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEEv?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "サムライハート(Some Like It Hot!!)",
+  "artist": "SPYAIR",
+  "collection": "【歌切】[2026-08-18]从今天起固定歌回改到周二✋ 动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEEv?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "イエスタデイ",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-08-18]从今天起固定歌回改到周二✋ 动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEEv?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "THE DAY",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-08-18]从今天起固定歌回改到周二✋ 动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEEv?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "I",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-08-18]从今天起固定歌回改到周二✋ 动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEEv?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "アカシア",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-08-18]从今天起固定歌回改到周二✋ 动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEEv?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "リライト",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "【歌切】[2026-08-18]从今天起固定歌回改到周二✋ 动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEEv?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "ゴールデンタイムラバー",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-08-18]从今天起固定歌回改到周二✋ 动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEEv?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "AIZO",
+  "artist": "King Gnu",
+  "collection": "【歌切】[2026-08-18]从今天起固定歌回改到周二✋ 动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEEv?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "イマジネーション",
+  "artist": "SPYAIR",
+  "collection": "【歌切】[2026-08-18]从今天起固定歌回改到周二✋ 动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEEv?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-08-18]从今天起固定歌回改到周二✋ 动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEEv?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "インフェルノ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-18]从今天起固定歌回改到周二✋ 动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEEv?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-18]从今天起固定歌回改到周二✋ 动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEEv?p=17",
   "source": "others.js"
 },
     {
