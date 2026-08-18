@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 8/18/2026, 7:49:59 PM
+// 生成时间: 8/18/2026, 7:59:49 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1699,6 +1699,70 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-08-15]这个夏天，留在你的记忆里。 | 吉他弹唱 唱歌直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kDbS6pEF2?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "オールドファッション",
+  "artist": "back number",
+  "collection": "【🎸🦋歌切】[2026-08-18]夜晚舒缓抒情歌弹唱🎸🍀 一起来放松一下吧？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEDj?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "瞬き",
+  "artist": "back number",
+  "collection": "【🎸🦋歌切】[2026-08-18]夜晚舒缓抒情歌弹唱🎸🍀 一起来放松一下吧？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEDj?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "恋人ができたんだ",
+  "artist": "My Hair is Bad",
+  "collection": "【🎸🦋歌切】[2026-08-18]夜晚舒缓抒情歌弹唱🎸🍀 一起来放松一下吧？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEDj?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "XL",
+  "artist": "サカグチアミ",
+  "collection": "【🎸🦋歌切】[2026-08-18]夜晚舒缓抒情歌弹唱🎸🍀 一起来放松一下吧？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEDj?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "にじ",
+  "artist": "新沢としひこ",
+  "collection": "【🎸🦋歌切】[2026-08-18]夜晚舒缓抒情歌弹唱🎸🍀 一起来放松一下吧？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEDj?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "M",
+  "artist": "PRINCESS PRINCESS",
+  "collection": "【🎸🦋歌切】[2026-08-18]夜晚舒缓抒情歌弹唱🎸🍀 一起来放松一下吧？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEDj?p=6",
+  "source": "stratia.js"
+},
+    {
+  "title": "SWEET MEMORIES",
+  "artist": "松田聖子",
+  "collection": "【🎸🦋歌切】[2026-08-18]夜晚舒缓抒情歌弹唱🎸🍀 一起来放松一下吧？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEDj?p=7",
+  "source": "stratia.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "【🎸🦋歌切】[2026-08-18]夜晚舒缓抒情歌弹唱🎸🍀 一起来放松一下吧？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Vh8G6vEDj?p=8",
   "source": "stratia.js"
 }
 );
