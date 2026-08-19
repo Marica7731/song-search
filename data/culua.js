@@ -1,6 +1,6 @@
 // CULUA - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp
-// 生成时间: 8/19/2026, 8:25:38 PM
+// 生成时间: 8/19/2026, 8:39:40 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4339,6 +4339,78 @@ window.SONG_DATA.push(
   "collection": "【🦇歌切】[2026-08-13]好久不见的歌回｜Culua的歌单第35弹",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEqK?p=8",
+  "source": "culua.js"
+},
+    {
+  "title": "パジャマパーティーズのうた",
+  "artist": "パジャマパーティーズ",
+  "collection": "【🦇歌切】[2026-08-19]唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16Nbo6TERA?p=1",
+  "source": "culua.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【🦇歌切】[2026-08-19]唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16Nbo6TERA?p=2",
+  "source": "culua.js"
+},
+    {
+  "title": "キメラ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【🦇歌切】[2026-08-19]唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16Nbo6TERA?p=3",
+  "source": "culua.js"
+},
+    {
+  "title": "ドーナツホール",
+  "artist": "ハチ feat.GUMI",
+  "collection": "【🦇歌切】[2026-08-19]唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16Nbo6TERA?p=4",
+  "source": "culua.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat.IA",
+  "collection": "【🦇歌切】[2026-08-19]唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16Nbo6TERA?p=5",
+  "source": "culua.js"
+},
+    {
+  "title": "快晴",
+  "artist": "Orangestar feat.IA",
+  "collection": "【🦇歌切】[2026-08-19]唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16Nbo6TERA?p=6",
+  "source": "culua.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【🦇歌切】[2026-08-19]唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16Nbo6TERA?p=7",
+  "source": "culua.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【🦇歌切】[2026-08-19]唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16Nbo6TERA?p=8",
+  "source": "culua.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【🦇歌切】[2026-08-19]唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16Nbo6TERA?p=9",
   "source": "culua.js"
 }
 );
