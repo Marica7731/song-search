@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 8/19/2026, 9:25:27 PM
+// 生成时间: 8/19/2026, 9:45:06 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12507,6 +12507,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "HEART OF SWORD ～夜明け前～",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ナツメグ",
+  "artist": "PURPLE BUBBLE",
+  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "君に最後の口づけを",
+  "artist": "majiko",
+  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ゆずれない願い",
+  "artist": "田村直美",
+  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "mosi mosi?",
+  "artist": "楽音",
+  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Happy! Lucky! Dochy!",
+  "artist": "古手梨花(田村ゆかり)＆北条沙都子(かないみか)＆羽入(堀江由衣)",
+  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "あの夢をなぞって",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "departure!",
+  "artist": "小野正利",
+  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ツギハギスタッカート",
+  "artist": "とあ feat.初音ミク",
+  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "moment",
+  "artist": "Vivian or Kazuma",
+  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=13",
   "source": "naraetan.js"
 },
     {

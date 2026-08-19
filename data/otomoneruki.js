@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 8/19/2026, 9:40:56 PM
+// 生成时间: 8/19/2026, 10:01:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6067,6 +6067,86 @@ window.SONG_DATA.push(
   "collection": "【👿歌切】[2026-08-03]爆诞纪念家中3D一人全开Live！？今宵是盛宴😈🫶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEJP?p=6",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "雫",
+  "artist": "スキマスイッチ",
+  "collection": "【👿歌切】[2026-08-19]适合当广播听的午间歌回📻🎶进行各种直播测试👿💪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q5bo6cEFU?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "女々しくて",
+  "artist": "ゴールデンボンバー",
+  "collection": "【👿歌切】[2026-08-19]适合当广播听的午间歌回📻🎶进行各种直播测试👿💪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q5bo6cEFU?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "表裏一体",
+  "artist": "ゆず",
+  "collection": "【👿歌切】[2026-08-19]适合当广播听的午间歌回📻🎶进行各种直播测试👿💪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q5bo6cEFU?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ココロオドル",
+  "artist": "nobodyknows+",
+  "collection": "【👿歌切】[2026-08-19]适合当广播听的午间歌回📻🎶进行各种直播测试👿💪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q5bo6cEFU?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【👿歌切】[2026-08-19]适合当广播听的午间歌回📻🎶进行各种直播测试👿💪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q5bo6cEFU?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "コロンブス",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-08-19]适合当广播听的午间歌回📻🎶进行各种直播测试👿💪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q5bo6cEFU?p=6",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "オドループ",
+  "artist": "フレデリック",
+  "collection": "【👿歌切】[2026-08-19]适合当广播听的午间歌回📻🎶进行各种直播测试👿💪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q5bo6cEFU?p=7",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【👿歌切】[2026-08-19]适合当广播听的午间歌回📻🎶进行各种直播测试👿💪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q5bo6cEFU?p=8",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "クラッチクイーン!",
+  "artist": "あおはる",
+  "collection": "【👿歌切】[2026-08-19]适合当广播听的午间歌回📻🎶进行各种直播测试👿💪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q5bo6cEFU?p=9",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【👿歌切】[2026-08-19]适合当广播听的午间歌回📻🎶进行各种直播测试👿💪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1q5bo6cEFU?p=10",
   "source": "otomoneruki.js"
 }
 );
