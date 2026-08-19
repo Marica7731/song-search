@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 8/19/2026, 9:48:54 PM
+// 生成时间: 8/19/2026, 10:05:47 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -33923,6 +33923,118 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-08-07]明天开始就是Live祭了！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wQu56TEuL?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "少年よ我に帰れ",
+  "artist": "やくしまるえつこメトロオーケストラ",
+  "collection": "【💐歌切】[2026-08-19]总是不知不觉又隔了好久",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R6bd6WELC?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "魔法",
+  "artist": "KOTORI",
+  "collection": "【💐歌切】[2026-08-19]总是不知不觉又隔了好久",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R6bd6WELC?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【💐歌切】[2026-08-19]总是不知不觉又隔了好久",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R6bd6WELC?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "さよならモルテン",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-08-19]总是不知不觉又隔了好久",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R6bd6WELC?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "海の幽霊",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-08-19]总是不知不觉又隔了好久",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R6bd6WELC?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "Arrietty's Song",
+  "artist": "Cécile Corbel",
+  "collection": "【💐歌切】[2026-08-19]总是不知不觉又隔了好久",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R6bd6WELC?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "Avid",
+  "artist": "SawanoHiroyuki[nZk]:mizuki",
+  "collection": "【💐歌切】[2026-08-19]总是不知不觉又隔了好久",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R6bd6WELC?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【💐歌切】[2026-08-19]总是不知不觉又隔了好久",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R6bd6WELC?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-08-19]总是不知不觉又隔了好久",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R6bd6WELC?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "【💐歌切】[2026-08-19]总是不知不觉又隔了好久",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R6bd6WELC?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "花は桜 君は美し",
+  "artist": "いきものがかり",
+  "collection": "【💐歌切】[2026-08-19]总是不知不觉又隔了好久",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R6bd6WELC?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "アディオス",
+  "artist": "ダズビー",
+  "collection": "【💐歌切】[2026-08-19]总是不知不觉又隔了好久",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R6bd6WELC?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "感電",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-08-19]总是不知不觉又隔了好久",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R6bd6WELC?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "NIGHT DANCER",
+  "artist": "imase",
+  "collection": "【💐歌切】[2026-08-19]总是不知不觉又隔了好久",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R6bd6WELC?p=14",
   "source": "figaro.js"
 }
 );
