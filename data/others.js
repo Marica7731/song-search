@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 8/19/2026, 11:41:12 AM
+// 生成时间: 8/19/2026, 11:53:29 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -718,47 +718,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "唱",
-  "artist": "Ado",
-  "collection": "【歌切】[2026-07-10]明天是Live！好好享受吧✊ 欢迎新观众 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SeNc6iERN?p=6",
-  "source": "others.js"
-},
-    {
-  "title": "サムライハート(Some Like It Hot!!)",
-  "artist": "SPYAIR",
-  "collection": "【歌切】[2026-07-10]明天是Live！好好享受吧✊ 欢迎新观众 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SeNc6iERN?p=7",
-  "source": "others.js"
-},
-    {
-  "title": "モザイクカケラ",
-  "artist": "SunSet Swish",
-  "collection": "【歌切】[2026-07-10]明天是Live！好好享受吧✊ 欢迎新观众 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SeNc6iERN?p=8",
-  "source": "others.js"
-},
-    {
-  "title": "V",
-  "artist": "HIMEHINA",
-  "collection": "【歌切】[2026-07-10]明天是Live！好好享受吧✊ 欢迎新观众 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SeNc6iERN?p=9",
-  "source": "others.js"
-},
-    {
-  "title": "My Dearest",
-  "artist": "supercell",
-  "collection": "【歌切】[2026-07-10]明天是Live！好好享受吧✊ 欢迎新观众 Muan ch.茨むあん",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SeNc6iERN?p=10",
-  "source": "others.js"
-},
-    {
-  "title": "だから僕は音楽を辞めた",
+  "title": "花に亡霊",
   "artist": "ヨルシカ",
   "collection": "【 橙里セイ / Figaro 】7】和橙里セイ酱一起唱歌！【241008】",
   "up": "前尘往事如昔故",
