@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 8/19/2026, 9:27:14 PM
+// 生成时间: 8/19/2026, 9:34:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11467,6 +11467,318 @@ window.SONG_DATA.push(
   "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "サーカスナイト",
+  "artist": "七尾旅人",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "「ねぇ。」",
+  "artist": "ナノウ feat.初音ミク",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "春よ、来い",
+  "artist": "松任谷由実",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよならミッドナイト",
+  "artist": "大柴広己(もじゃ)",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "いつか",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "グリグリメガネと月光蟲",
+  "artist": "古川本舗 feat.初音ミク",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ノンフィクション",
+  "artist": "平井堅",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "曇天",
+  "artist": "DOES",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "壊れかけのRadio",
+  "artist": "徳永英明",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "いいから",
+  "artist": "WANIMA",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "手と手",
+  "artist": "クリープハイプ",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "バンド",
+  "artist": "クリープハイプ",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat.安次嶺希和子",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "グッバイ来世でまた会おう",
+  "artist": "インナージャーニー",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "家族の風景",
+  "artist": "ハナレグミ",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "napori",
+  "artist": "Vaundy",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "たしかなこと",
+  "artist": "小田和正",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "大好きだよ。",
+  "artist": "大塚愛",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "桃ノ花ビラ",
+  "artist": "大塚愛",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "サライ",
+  "artist": "加山雄三・谷村新司",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "山の音楽家",
+  "artist": "童謡",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "森の小さなレストラン",
+  "artist": "手嶌葵",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ゆりかごのうた",
+  "artist": "童謡",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "オー・シャンゼリゼ",
+  "artist": "ダニエル・ビダル",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=29",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=30",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "チャンカパーナ",
+  "artist": "NEWS",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=31",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "なんでもないよ、",
+  "artist": "マカロニえんぴつ",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=32",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "五月雨",
+  "artist": "崎山蒼志",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=33",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Peace",
+  "artist": "andymori",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=34",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "千の風になって",
+  "artist": "秋川雅史",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=35",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ヒロイン",
+  "artist": "back number",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=36",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "デブの戯言",
+  "artist": "はるこたつぶとん倶楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=37",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "1時間",
+  "artist": "ハンバートハンバート",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=38",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "冬へと走りだすお!",
+  "artist": "でんぱ組.inc",
+  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=39",
   "source": "kotatsu.js"
 }
 );
