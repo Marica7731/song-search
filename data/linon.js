@@ -1,6 +1,6 @@
 // 天籠りのん - 歌单数据 (多合集汇总)
 // 来源: BV1hw4m1i7qN
-// 生成时间: 8/19/2026, 8:33:31 PM
+// 生成时间: 8/19/2026, 8:43:47 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3307,6 +3307,54 @@ window.SONG_DATA.push(
   "collection": "【歌切】最强音压摇滚与绝唱上等歌回 Linon ch. 天籠りのん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KHD1BYEvR?p=4",
+  "source": "linon.js"
+},
+    {
+  "title": "虚無虚無です。",
+  "artist": "天籠りのん",
+  "collection": "【歌切】[2026-08-19]3周年纪念日！用最强音质唱歌🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbo6TETB?p=1",
+  "source": "linon.js"
+},
+    {
+  "title": "雨はことだま",
+  "artist": "天籠りのん",
+  "collection": "【歌切】[2026-08-19]3周年纪念日！用最强音质唱歌🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbo6TETB?p=2",
+  "source": "linon.js"
+},
+    {
+  "title": "メメメのメ",
+  "artist": "天籠りのん",
+  "collection": "【歌切】[2026-08-19]3周年纪念日！用最强音质唱歌🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbo6TETB?p=3",
+  "source": "linon.js"
+},
+    {
+  "title": "Golden Rays",
+  "artist": "#VEEちサマー(蒼宮よづり, 天籠りのん, 安心院みさ, 桜鳥ミーナ, トゥルシー・ナイトメア)",
+  "collection": "【歌切】[2026-08-19]3周年纪念日！用最强音质唱歌🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbo6TETB?p=4",
+  "source": "linon.js"
+},
+    {
+  "title": "アウトラージュ",
+  "artist": "天籠りのん / アルバ・セラ / 安心院みさ / 音門るき / 北白川かかぽ / 黒燿リラ / 言のハ / トゥルシー・ナイトメア",
+  "collection": "【歌切】[2026-08-19]3周年纪念日！用最强音质唱歌🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbo6TETB?p=5",
+  "source": "linon.js"
+},
+    {
+  "title": "絶対零度の世界から",
+  "artist": "VEE",
+  "collection": "【歌切】[2026-08-19]3周年纪念日！用最强音质唱歌🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbo6TETB?p=6",
   "source": "linon.js"
 }
 );
