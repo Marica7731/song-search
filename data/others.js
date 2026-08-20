@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 8/19/2026, 11:56:21 PM
+// 生成时间: 8/20/2026, 12:03:28 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -334,55 +334,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "ただ声一つ",
-  "artist": "ロクデナシ",
-  "collection": "えん 2026-03-22 ozTzjWxKQE4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EfQXB5Et1?p=7",
-  "source": "others.js"
-},
-    {
-  "title": "夢をみせて",
-  "artist": "Cö shu Nie",
-  "collection": "えん 2026-03-22 ozTzjWxKQE4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EfQXB5Et1?p=8",
-  "source": "others.js"
-},
-    {
-  "title": "Ghost of a smile",
-  "artist": "EGOIST",
-  "collection": "えん 2026-03-22 ozTzjWxKQE4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EfQXB5Et1?p=9",
-  "source": "others.js"
-},
-    {
-  "title": "深昏睡",
-  "artist": "春野",
-  "collection": "えん 2026-03-22 ozTzjWxKQE4",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EfQXB5Et1?p=10",
-  "source": "others.js"
-},
-    {
-  "title": "春泥棒",
-  "artist": "ヨルシカ",
-  "collection": "あかつき るき 2026-03-22 XJcoJYZvFvg",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pXQXBEENT?p=1",
-  "source": "others.js"
-},
-    {
-  "title": "さよならメモリーズ",
-  "artist": "supercell",
-  "collection": "あかつき るき 2026-03-22 XJcoJYZvFvg",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pXQXBEENT?p=2",
-  "source": "others.js"
-},
-    {
-  "title": "栞",
+  "title": "おやすみ泣き声、さよなら歌姫",
   "artist": "クリープハイプ",
   "collection": "歌切 2026-04-02 Muan ch.茨むあん ibaramuan",
   "up": "前尘往事如昔故",
