@@ -1,6 +1,6 @@
 // 碧生ねの - 歌单数据 (多合集汇总)
 // 来源: BV1S4TT6pEn4
-// 生成时间: 8/21/2026, 5:33:37 AM
+// 生成时间: 8/21/2026, 5:46:07 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1099,6 +1099,70 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-11]刚回来～‼深夜竖屏歌回🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ubuy6eE3J?p=8",
+  "source": "neno.js"
+},
+    {
+  "title": "冬眠",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-21]深夜悠闲竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nz8M6CEZz?p=1",
+  "source": "neno.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-21]深夜悠闲竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nz8M6CEZz?p=2",
+  "source": "neno.js"
+},
+    {
+  "title": "Henceforth",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-08-21]深夜悠闲竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nz8M6CEZz?p=3",
+  "source": "neno.js"
+},
+    {
+  "title": "1925",
+  "artist": "T-POCKET feat.初音ミク",
+  "collection": "【歌切】[2026-08-21]深夜悠闲竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nz8M6CEZz?p=4",
+  "source": "neno.js"
+},
+    {
+  "title": "1991",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-21]深夜悠闲竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nz8M6CEZz?p=5",
+  "source": "neno.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【歌切】[2026-08-21]深夜悠闲竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nz8M6CEZz?p=6",
+  "source": "neno.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-08-21]深夜悠闲竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nz8M6CEZz?p=7",
+  "source": "neno.js"
+},
+    {
+  "title": "Soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-21]深夜悠闲竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nz8M6CEZz?p=8",
   "source": "neno.js"
 }
 );
