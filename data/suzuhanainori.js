@@ -1,6 +1,6 @@
 // 鈴花いのり - 歌单数据 (多合集汇总)
 // 来源: BV1jyjK6sEns
-// 生成时间: 8/21/2026, 3:44:02 AM
+// 生成时间: 8/21/2026, 3:57:09 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3547,6 +3547,262 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-16]周日固定直播𝜗𝜚.⋆ 点歌歌回🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Hobb6ZEq4?p=6",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "HELLO ～Paradise Kiss～",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=1",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=2",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "強盗と花束",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=3",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=4",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=5",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=6",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=7",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "an",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=8",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "二息歩行",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=9",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=10",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "staple stable",
+  "artist": "戦場ヶ原ひたぎ(斎藤千和)",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=11",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ふわふわ♪",
+  "artist": "牧野由依",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=12",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ド屑",
+  "artist": "なきそ feat.歌愛ユキ",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=13",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=14",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Dearest",
+  "artist": "浜崎あゆみ",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=15",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "残酷な夜に輝け",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=16",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "タイムマシン",
+  "artist": "1640mP feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=17",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "小さな恋のうた",
+  "artist": "MONGOL800",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=18",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=19",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=20",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "虹の彼方に",
+  "artist": "ReoNa",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=21",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "デンドロビウム・ファレノプシス",
+  "artist": "蝶々P feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=22",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Alice",
+  "artist": "古川P feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=23",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=24",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ワンダーランドと羊の歌",
+  "artist": "ハチ feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=25",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "夜の国",
+  "artist": "Annabel",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=26",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ポーカーフェイス",
+  "artist": "ゆちゃP feat.GUMI",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=27",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Just a game",
+  "artist": "takamatt feat.GUMI",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=28",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "逃亡",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=29",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "泣き虫アンサンブル",
+  "artist": "TOKOTOKO（西沢さんP） feat.GUMI",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=30",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=31",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "土星の窓辺",
+  "artist": "TOKOTOKO（西沢さんP） feat.GUMI",
+  "collection": "【歌切】[2026-08-20]刷新个人最好成绩，也要挑战五个连续相同数字🎤 CSP歌回对决",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FD8M6KEkv?p=32",
   "source": "suzuhanainori.js"
 }
 );
