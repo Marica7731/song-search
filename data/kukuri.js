@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 8/21/2026, 2:58:07 AM
+// 生成时间: 8/21/2026, 3:35:43 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5699,6 +5699,222 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-08-16]夏天还要继续尽情享受~.ᐟ歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15Mb86nEhi?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "いさな",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat.初音ミク",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "アサガオの散る頃に",
+  "artist": "ぷす feat.初音ミク",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "涙そうそう",
+  "artist": "夏川りみ",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "君が夜の海に還るまで",
+  "artist": "こんにちは谷田さん feat.初音ミク",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "泡沫花火",
+  "artist": "神はサイコロを振らない",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夜永唄",
+  "artist": "神はサイコロを振らない",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ツキアカリ",
+  "artist": "Rie fu",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "今でもあなたが",
+  "artist": "藤田麻衣子",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "恋に落ちて",
+  "artist": "藤田麻衣子",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "高鳴る",
+  "artist": "藤田麻衣子",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "少女迷路でつかまえて",
+  "artist": "美郷あき",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Super Driver",
+  "artist": "平野綾",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "平野綾",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "トライアングラー",
+  "artist": "坂本真綾",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ノーザンクロス",
+  "artist": "May'n",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "I SAY YES",
+  "artist": "ICHIKO",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=21",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Shangri-La",
+  "artist": "angela",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=22",
+  "source": "kukuri.js"
+},
+    {
+  "title": "JOINT",
+  "artist": "川田まみ",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=23",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Paradise Lost",
+  "artist": "茅原実里",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=24",
+  "source": "kukuri.js"
+},
+    {
+  "title": "mind as Judgment",
+  "artist": "飛蘭",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=25",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ひぐらしのなく頃に",
+  "artist": "島みやえい子",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=26",
+  "source": "kukuri.js"
+},
+    {
+  "title": "奈落の花",
+  "artist": "島みやえい子",
+  "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=27",
   "source": "kukuri.js"
 }
 );

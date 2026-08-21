@@ -1,6 +1,6 @@
 // ななし律歌 - 歌单数据 (多合集汇总)
 // 来源: BV1wHQVBTEU5
-// 生成时间: 8/21/2026, 3:46:53 AM
+// 生成时间: 8/21/2026, 4:10:50 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1651,6 +1651,126 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-11]睡前不来一首歌吗？",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hzur6FEqA?p=15",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Fire◎Flower",
+  "artist": "halyosy feat.鏡音レン",
+  "collection": "【歌切】[2026-08-20]夏天！唱歌！一起嗨起来吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gV8u6nEut?p=1",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "swim",
+  "artist": "04 Limited Sazabys",
+  "collection": "【歌切】[2026-08-20]夏天！唱歌！一起嗨起来吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gV8u6nEut?p=2",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "フロントメモリー",
+  "artist": "神聖かまってちゃん",
+  "collection": "【歌切】[2026-08-20]夏天！唱歌！一起嗨起来吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gV8u6nEut?p=3",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ラムネ",
+  "artist": "Aqu3ra feat.flower",
+  "collection": "【歌切】[2026-08-20]夏天！唱歌！一起嗨起来吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gV8u6nEut?p=4",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ロケットサイダー",
+  "artist": "ナユタン星人 feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]夏天！唱歌！一起嗨起来吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gV8u6nEut?p=5",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "八月、某、月明かり",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-20]夏天！唱歌！一起嗨起来吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gV8u6nEut?p=6",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-20]夏天！唱歌！一起嗨起来吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gV8u6nEut?p=7",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "海の幽霊",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-20]夏天！唱歌！一起嗨起来吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gV8u6nEut?p=8",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "【歌切】[2026-08-20]夏天！唱歌！一起嗨起来吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gV8u6nEut?p=9",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "八月の夜",
+  "artist": "SILENT SIREN",
+  "collection": "【歌切】[2026-08-20]夏天！唱歌！一起嗨起来吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gV8u6nEut?p=10",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "夏に去りし君を想フ",
+  "artist": "baker feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]夏天！唱歌！一起嗨起来吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gV8u6nEut?p=11",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【歌切】[2026-08-20]夏天！唱歌！一起嗨起来吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gV8u6nEut?p=12",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "SAYONARA MAYBE",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-08-20]夏天！唱歌！一起嗨起来吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gV8u6nEut?p=13",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]夏天！唱歌！一起嗨起来吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gV8u6nEut?p=14",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-08-20]夏天！唱歌！一起嗨起来吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gV8u6nEut?p=15",
   "source": "nanashirikka.js"
 }
 );
