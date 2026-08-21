@@ -1,6 +1,6 @@
 // AZKi - 歌单数据 (多合集汇总)
 // 来源: BV1dE42137AT
-// 生成时间: 8/21/2026, 5:32:45 AM
+// 生成时间: 8/21/2026, 5:42:36 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5371,6 +5371,86 @@ window.SONG_DATA.push(
   "collection": "AZKi 2026年08月08日22点场 アニソン縛り！歌うよ～～～！ Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13h1dYFE3J?p=10",
+  "source": "azki.js"
+},
+    {
+  "title": "大好きだよ。",
+  "artist": "大塚愛",
+  "collection": "AZKi 2026年08月20日20点场 歌って、告知！！！！！ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gh1dYFEo2?p=1",
+  "source": "azki.js"
+},
+    {
+  "title": "Just Be Friends",
+  "artist": "Dixie Flatline feat.巡音ルカ",
+  "collection": "AZKi 2026年08月20日20点场 歌って、告知！！！！！ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gh1dYFEo2?p=2",
+  "source": "azki.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子(花澤香菜)",
+  "collection": "AZKi 2026年08月20日20点场 歌って、告知！！！！！ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gh1dYFEo2?p=3",
+  "source": "azki.js"
+},
+    {
+  "title": "Avid",
+  "artist": "SawanoHiroyuki[nZk]:mizuki",
+  "collection": "AZKi 2026年08月20日20点场 歌って、告知！！！！！ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gh1dYFEo2?p=4",
+  "source": "azki.js"
+},
+    {
+  "title": "Shangri-La",
+  "artist": "angela",
+  "collection": "AZKi 2026年08月20日20点场 歌って、告知！！！！！ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gh1dYFEo2?p=5",
+  "source": "azki.js"
+},
+    {
+  "title": "My Dearest",
+  "artist": "supercell",
+  "collection": "AZKi 2026年08月20日20点场 歌って、告知！！！！！ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gh1dYFEo2?p=6",
+  "source": "azki.js"
+},
+    {
+  "title": "Re-sublimity",
+  "artist": "KOTOKO",
+  "collection": "AZKi 2026年08月20日20点场 歌って、告知！！！！！ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gh1dYFEo2?p=7",
+  "source": "azki.js"
+},
+    {
+  "title": "翼はPleasure Line",
+  "artist": "栗林みな実",
+  "collection": "AZKi 2026年08月20日20点场 歌って、告知！！！！！ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gh1dYFEo2?p=8",
+  "source": "azki.js"
+},
+    {
+  "title": "海の幽霊",
+  "artist": "米津玄師",
+  "collection": "AZKi 2026年08月20日20点场 歌って、告知！！！！！ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gh1dYFEo2?p=9",
+  "source": "azki.js"
+},
+    {
+  "title": "U",
+  "artist": "millennium parade × Belle",
+  "collection": "AZKi 2026年08月20日20点场 歌って、告知！！！！！ Singing Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gh1dYFEo2?p=10",
   "source": "azki.js"
 }
 );

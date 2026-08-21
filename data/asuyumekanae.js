@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 8/21/2026, 4:26:18 AM
+// 生成时间: 8/21/2026, 4:36:15 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5523,6 +5523,134 @@ window.SONG_DATA.push(
   "collection": "【明日夢 歌切】[2026-08-05]傍晚元气歌！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18TMU63Eog?p=28",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Stargazer",
+  "artist": "tayori",
+  "collection": "【歌切】[2026-08-20]劲爆动漫歌曲等｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U38u6DErJ?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "雪解け",
+  "artist": "Islet feat.倚水",
+  "collection": "【歌切】[2026-08-20]劲爆动漫歌曲等｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U38u6DErJ?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "トライアングラー",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-08-20]劲爆动漫歌曲等｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U38u6DErJ?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Magia",
+  "artist": "Kalafina",
+  "collection": "【歌切】[2026-08-20]劲爆动漫歌曲等｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U38u6DErJ?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-08-20]劲爆动漫歌曲等｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U38u6DErJ?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "火種",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-08-20]劲爆动漫歌曲等｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U38u6DErJ?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "とくべチュ、して",
+  "artist": "=LOVE",
+  "collection": "【歌切】[2026-08-20]劲爆动漫歌曲等｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U38u6DErJ?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "絶対アイドル辞めないで",
+  "artist": "=LOVE",
+  "collection": "【歌切】[2026-08-20]劲爆动漫歌曲等｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U38u6DErJ?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "すき、きらい",
+  "artist": "ファントムシータ",
+  "collection": "【歌切】[2026-08-20]劲爆动漫歌曲等｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U38u6DErJ?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "エルフ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-08-20]劲爆动漫歌曲等｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U38u6DErJ?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-08-20]劲爆动漫歌曲等｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U38u6DErJ?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "櫂",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-20]劲爆动漫歌曲等｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U38u6DErJ?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "火葬",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-20]劲爆动漫歌曲等｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U38u6DErJ?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花も騒めく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-20]劲爆动漫歌曲等｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U38u6DErJ?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "エウテルペ",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-08-20]劲爆动漫歌曲等｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U38u6DErJ?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Dear Mr「F」",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-08-20]劲爆动漫歌曲等｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U38u6DErJ?p=16",
   "source": "asuyumekanae.js"
 },
     {
