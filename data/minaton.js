@@ -1,6 +1,6 @@
 // みなとん - 歌单数据 (多合集汇总)
 // 来源: BV1TqGY6gEEf
-// 生成时间: 8/21/2026, 2:05:22 PM
+// 生成时间: 8/21/2026, 2:19:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -995,6 +995,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-17]一起度过最棒的夏天吧 みなとん。は歌う",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RXNf6zE67?p=5",
+  "source": "minaton.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-08-21]久违地唱一次歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ro8B6kEFo?p=1",
+  "source": "minaton.js"
+},
+    {
+  "title": "満ちてゆく",
+  "artist": "藤井風",
+  "collection": "【歌切】[2026-08-21]久违地唱一次歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ro8B6kEFo?p=2",
+  "source": "minaton.js"
+},
+    {
+  "title": "スピラーレ",
+  "artist": "牧野由依",
+  "collection": "【歌切】[2026-08-21]久违地唱一次歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ro8B6kEFo?p=3",
+  "source": "minaton.js"
+},
+    {
+  "title": "対象a",
+  "artist": "anNina",
+  "collection": "【歌切】[2026-08-21]久违地唱一次歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ro8B6kEFo?p=4",
+  "source": "minaton.js"
+},
+    {
+  "title": "鳥の詩",
+  "artist": "Lia",
+  "collection": "【歌切】[2026-08-21]久违地唱一次歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ro8B6kEFo?p=5",
+  "source": "minaton.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-08-21]久违地唱一次歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ro8B6kEFo?p=6",
+  "source": "minaton.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "【歌切】[2026-08-21]久违地唱一次歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ro8B6kEFo?p=7",
+  "source": "minaton.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【歌切】[2026-08-21]久违地唱一次歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ro8B6kEFo?p=8",
+  "source": "minaton.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-08-21]久违地唱一次歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ro8B6kEFo?p=9",
+  "source": "minaton.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-08-21]久违地唱一次歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ro8B6kEFo?p=10",
+  "source": "minaton.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-08-21]久违地唱一次歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ro8B6kEFo?p=11",
+  "source": "minaton.js"
+},
+    {
+  "title": "Soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-21]久违地唱一次歌🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ro8B6kEFo?p=12",
   "source": "minaton.js"
 }
 );
