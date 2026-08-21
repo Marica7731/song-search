@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 8/21/2026, 5:22:22 AM
+// 生成时间: 8/21/2026, 5:31:12 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2131,6 +2131,190 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-18]忘了竖屏直播怎么弄了♪唱歌咯♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Vh8G6vEyj?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "リルモア",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "恋愛フィロソフィア",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "BadBye",
+  "artist": "koma'n feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "タイニーバニー",
+  "artist": "youまん feat.鳴花ヒメ",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "永遠花火",
+  "artist": "謝謝P feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "永遠花火",
+  "artist": "謝謝P feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ニビョウカン",
+  "artist": "MARUDARUMA feat.GUMI",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "マイガール",
+  "artist": "tama feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "FREELY TOMORROW",
+  "artist": "Mitchie M feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "愛Dee",
+  "artist": "Mitchie M feat.初音ミク・巡音ルカ",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat.巡音ルカ",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "橙ゲノム",
+  "artist": "つなまる（めざめP） feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "paranoia",
+  "artist": "つなまる（めざめP） feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "言の葉クリニック",
+  "artist": "つなまる（めざめP） feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=14",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "うそつき",
+  "artist": "つなまる（めざめP） feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=15",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "モカ",
+  "artist": "つなまる（めざめP） feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=16",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ジェヘナ",
+  "artist": "wotaku feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=17",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "アンドロイドガール",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=18",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "命ばっかり",
+  "artist": "ぬゆり feat.flower・結月ゆかり",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=19",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=20",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=21",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "lili.",
+  "artist": "有機酸 feat.flower",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=22",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "バンドワゴン",
+  "artist": "古川本舗",
+  "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=23",
   "source": "hasumisahiro.js"
 }
 );
