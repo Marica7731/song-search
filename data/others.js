@@ -1,12 +1,28 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 8/21/2026, 1:53:13 AM
+// 生成时间: 8/21/2026, 1:54:16 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
     {
   "title": "sweets parade",
+  "artist": "花澤香菜",
+  "collection": "花野彩晴 2026-03-10 YrDWIDpEmnI 歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xucZzxEkZ?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "スーパースターになったら",
+  "artist": "back number",
+  "collection": "花野彩晴 2026-03-10 YrDWIDpEmnI 歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xucZzxEkZ?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "25 Hours a Day",
   "artist": "花澤香菜",
   "collection": "花野彩晴 2026-03-10 YrDWIDpEmnI 歌回",
   "up": "前尘往事如昔故",
