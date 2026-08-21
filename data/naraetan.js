@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 8/21/2026, 5:02:00 AM
+// 生成时间: 8/21/2026, 5:29:30 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12611,6 +12611,182 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-19]周中！补充元气👽",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "プラスティック・ラブ",
+  "artist": "竹内まりや",
+  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "カントリー・ロード",
+  "artist": "本名陽子",
+  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "オリビアを聴きながら",
+  "artist": "杏里",
+  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "約束をしよう",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "奏（かなで）",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "楓",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ヒロイン",
+  "artist": "back number",
+  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "innocent starter",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "月並みに輝け",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "UNDEAD",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "mosi mosi?",
+  "artist": "楽音",
+  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夏の在りか",
+  "artist": "H△G",
+  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "8.32",
+  "artist": "*Luna feat.flower",
+  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夏に去りし君を想フ",
+  "artist": "baker feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ダンスホール",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "よくばり",
+  "artist": "Ayase feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=19",
+  "source": "naraetan.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=20",
+  "source": "naraetan.js"
+},
+    {
+  "title": "青春コンプレックス",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=21",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Get Wild",
+  "artist": "TM NETWORK",
+  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=22",
   "source": "naraetan.js"
 },
     {
