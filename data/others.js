@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 8/21/2026, 2:38:52 AM
+// 生成时间: 8/21/2026, 2:51:41 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2142,71 +2142,7 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "会いたくて 会いたくて",
-  "artist": "西野カナ",
-  "collection": "歌切 2026-03-30 Muan ch.茨むあん ibaramuan",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LnSSBdEeq?p=3",
-  "source": "others.js"
-},
-    {
-  "title": "ロミオとシンデレラ",
-  "artist": "doriko",
-  "collection": "歌切 2026-03-30 Muan ch.茨むあん ibaramuan",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LnSSBdEeq?p=4",
-  "source": "others.js"
-},
-    {
-  "title": "かいしんのいちげき！",
-  "artist": "天月-あまつき-",
-  "collection": "歌切 2026-03-30 Muan ch.茨むあん ibaramuan",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LnSSBdEeq?p=5",
-  "source": "others.js"
-},
-    {
-  "title": "泥中に咲く",
-  "artist": "ウォルピスカーター",
-  "collection": "歌切 2026-03-30 Muan ch.茨むあん ibaramuan",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LnSSBdEeq?p=6",
-  "source": "others.js"
-},
-    {
-  "title": "ラピスラズリ",
-  "artist": "藍井エイル",
-  "collection": "歌切 2026-03-30 Muan ch.茨むあん ibaramuan",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LnSSBdEeq?p=7",
-  "source": "others.js"
-},
-    {
-  "title": "IGNITE",
-  "artist": "藍井エイル",
-  "collection": "歌切 2026-03-30 Muan ch.茨むあん ibaramuan",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LnSSBdEeq?p=8",
-  "source": "others.js"
-},
-    {
-  "title": "栞",
-  "artist": "クリープハイプ",
-  "collection": "歌切 2026-03-30 Muan ch.茨むあん ibaramuan",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LnSSBdEeq?p=9",
-  "source": "others.js"
-},
-    {
-  "title": "花降らし",
-  "artist": "n-buna",
-  "collection": "歌切 2026-03-30 Muan ch.茨むあん ibaramuan",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LnSSBdEeq?p=10",
-  "source": "others.js"
-},
-    {
-  "title": "春泥棒",
+  "title": "ただ君に晴れ",
   "artist": "ヨルシカ",
   "collection": "2026-03-31 Shinami ch.　シナミマユ / 新人VSinger doragon_473 Ic-YFNZwV5c",
   "up": "前尘往事如昔故",
