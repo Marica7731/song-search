@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 8/21/2026, 3:45:10 AM
+// 生成时间: 8/21/2026, 3:59:03 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2179,6 +2179,62 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-18]久违地悠闲练练吉他吧🌟初次来看、只听不聊也非常欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Vh8G6vESr?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "よくばり",
+  "artist": "Ayase feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]想悠闲地唱些有格调的歌！🌟第一次来或只听不聊都非常欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17R8M6YEAe?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "Henceforth",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-08-20]想悠闲地唱些有格调的歌！🌟第一次来或只听不聊都非常欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17R8M6YEAe?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "あの夏のいつかは",
+  "artist": "*Luna feat.音街ウナ・鏡音レン",
+  "collection": "【歌切】[2026-08-20]想悠闲地唱些有格调的歌！🌟第一次来或只听不聊都非常欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17R8M6YEAe?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "クリームソーダとシャンデリア",
+  "artist": "神野メイ・Henrii feat.ねんね",
+  "collection": "【歌切】[2026-08-20]想悠闲地唱些有格调的歌！🌟第一次来或只听不聊都非常欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17R8M6YEAe?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "天才",
+  "artist": "奏音69 feat.巡音ルカ",
+  "collection": "【歌切】[2026-08-20]想悠闲地唱些有格调的歌！🌟第一次来或只听不聊都非常欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17R8M6YEAe?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-20]想悠闲地唱些有格调的歌！🌟第一次来或只听不聊都非常欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17R8M6YEAe?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "SAYONARA MAYBE",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-08-20]想悠闲地唱些有格调的歌！🌟第一次来或只听不聊都非常欢迎！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17R8M6YEAe?p=7",
   "source": "hinachibi.js"
 }
 );
