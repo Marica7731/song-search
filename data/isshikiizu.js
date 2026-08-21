@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 8/21/2026, 4:41:10 AM
+// 生成时间: 8/21/2026, 4:52:43 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3523,6 +3523,326 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-17]晚上悠闲唱歌🎤接受点歌◎ 非常欢迎初次来看的人",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1S5bq6bEmq?p=30",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Snow halation",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Catch You Catch Me",
+  "artist": "グミ",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n・中島愛",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "一度だけの恋なら",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "あのバンド",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "TAIDADA",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "前前前世",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "限界突破×サバイバー",
+  "artist": "氷川きよし",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Believe",
+  "artist": "玉置成実",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Reason",
+  "artist": "玉置成実",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "INVOKE -インヴォーク-",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "oath sign",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾・茅原実里・後藤邑子",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=22",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "HEART OF SWORD ～夜明け前～",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=23",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "resonance",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=24",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=25",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ジョジョ～その血の運命～",
+  "artist": "富永TOMMY弘明",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=26",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "サインはB",
+  "artist": "B小町",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=27",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "メフィスト",
+  "artist": "女王蜂",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=28",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Bling-Bang-Bang-Born",
+  "artist": "Creepy Nuts",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=29",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=30",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ザムザ",
+  "artist": "てにをは feat.初音ミク",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=31",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=32",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Plazma",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=33",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Starry Heavens",
+  "artist": "day after tomorrow",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=34",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=35",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "FLAGS",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=36",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "SWORD SUMMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=37",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "カルマ",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=38",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=39",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=40",
   "source": "isshikiizu.js"
 }
 );
