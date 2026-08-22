@@ -45,8 +45,11 @@
 - 头像源：`scripts/source-profiles.json`（按来源文件名补充头像、YouTube 频道、首字和颜色）
 - GitHub 侧采集依赖入口 BV 展开到的小节/合集 BV；每个入口 BV 会单独维护候选池。
 - 默认每个入口 BV 随机抽取 3 个候选 BV 抓取 DOM，对比歌曲数量后采用数量更多的结果。
+- 有历史成功记录时，上次可靠 winner 固定占用一个抽样名额，其余名额再用于探索，避免 recent 过滤把完整候选排除。
 - recent 状态按 `来源文件 + 入口 BV` 记录，优先避开最近几轮抽中过的 BV；候选不足时允许从 recent 中补足。
 - 抽样失败时先回退未过滤候选，再回退入口 BV 本身。
+- 同一来源配置的任一入口 BV 失败时，本轮保留已有 `data/<source>.js`，不再用其余入口的部分结果覆盖完整来源。
+- 即使所有入口都返回成功，单来源同时减少至少 100 首且回退达到 15% 时也拒绝覆盖；可用 `MIN_SOURCE_DROP_SONGS` 和 `MAX_SOURCE_DROP_RATIO` 调整门禁。
 - 仅 GitHub Pages 数据生成使用这套抽样逻辑，culua 侧配置和运行方式不受影响。
 - 产物：
   - `data/*.js`
@@ -60,10 +63,11 @@
   - 手动 `workflow_dispatch`
 - 行为：
   - 通过 Actions cache 恢复 `reports/github-bv-sampling-state.json`
+  - 先运行 `node --test scripts/update-songs-guard.test.js` 验证完整性门禁
   - 运行 `scripts/update-songs.js`
   - 只检查 `data/*.js` 和 `data/index.json` 是否有变更
-  - 多个分发任务可并行执行，不再等待上一轮完成
-  - 自动提交 `data/*.js data/index.json` 到 `main`，推送前会 rebase 最新主分支并重试，降低并行任务互相顶掉的概率
+  - 数据更新与增长日报共用 `song-search-main-writer` 并发组，同一时间只允许一个主分支写任务
+  - 自动提交 `data/*.js data/index.json` 到 `main`；如果抓取期间远端 `main` 已前进，则拒绝 rebase 生成文件并等待下一轮基于最新提交重跑
   - 如果只有抽样状态变化，不触发主分支提交
 
 ## 本地运行
@@ -86,6 +90,8 @@ node scripts/update-songs.js
 常用抽样变量：
 - `GITHUB_BV_SAMPLE_SIZE`：每个入口 BV 的随机抽样数量，默认 `3`
 - `GITHUB_BV_RECENT_RUN_WINDOW`：recent 避免重复的轮数，默认 `5`
+- `MAX_SOURCE_DROP_RATIO`：允许单来源回退的比例门槛，默认 `0.15`
+- `MIN_SOURCE_DROP_SONGS`：触发大幅回退门禁的最少减少曲目数，默认 `100`
 - `UPDATE_SONGS_ONLY`：本地调试用来源过滤，workflow 不设置
 
 在项目根目录启动 HTTP 服务：
@@ -117,6 +123,8 @@ song-search/
 │                              # BV 抽样运行状态，cache 保存，不提交
 ├─ scripts/
 │  ├─ update-songs.js          # 数据抓取与生成脚本
+│  ├─ update-songs-guard.js    # 来源完整性和异常回退门禁
+│  ├─ update-songs-guard.test.js # 门禁回归测试
 │  ├─ title-cleaning.js        # 保留语义括号后缀的标题清洗规则
 │  ├─ check-title-cleaning.js  # 标题清洗回归检查
 │  └─ source-profiles.json     # 来源头像与频道覆盖配置
@@ -130,8 +138,10 @@ song-search/
 | 文件路径 | 文件用途 | 主要函数或模块职责 | 与其他文件的关系 |
 |---|---|---|---|
 | `scripts/update-songs.js` | GitHub Pages 歌曲数据生成脚本 | `processEntryBvid` 负责入口 BV 候选刷新、抽样、fallback 与胜者选择；`parseRawDataToSongs` 负责 DOM 结果转歌曲；`loadSamplingState` / `saveSamplingState` 负责状态读写；`buildSourceProfile` 负责把头像配置写入 index | 读取脚本内 `SINGER_CONFIGS` 和 `scripts/source-profiles.json`，写入 `data/*.js`、`data/index.json` 和运行态 `reports/github-bv-sampling-state.json` |
+| `scripts/update-songs-guard.js` | 来源更新门禁 | 校验所有入口 BV 均成功，并阻止单来源异常大幅回退覆盖旧文件 | 被 `scripts/update-songs.js` 调用，由同目录测试覆盖 |
+| `scripts/update-songs-guard.test.js` | 门禁回归测试 | 覆盖入口缺失、3373 到 1530 的异常回退、可靠 winner、小幅修正和首次生成 | 由 `.github/workflows/update.yml` 在抓取前执行 |
 | `scripts/source-profiles.json` | 来源头像与频道覆盖配置 | 按来源文件名维护 `avatarUrl`、`youtubeUrl`、`avatarText`、`accentColor` | 被 `scripts/update-songs.js` 合并进 `data/index.json` 的 `sourceProfiles` |
-| `.github/workflows/update.yml` | 自动更新工作流 | 每 10 分钟或手动运行脚本；恢复/保存 BV 抽样状态；允许并行运行；只在数据文件变化时提交，推送前 rebase 最新 `main` 并重试 | 调用 `scripts/update-songs.js`，提交 `data/*.js data/index.json` 到 `main` |
+| `.github/workflows/update.yml` | 自动更新工作流 | 每 10 分钟或手动运行脚本；恢复/保存 BV 抽样状态；与增长日报串行；只在数据文件变化且远端 HEAD 未前进时提交 | 调用 `scripts/update-songs.js`，提交 `data/*.js data/index.json` 到 `main` |
 | `.gitignore` | 本地和 workflow 的非提交文件规则 | 忽略 `reports/github-bv-sampling-state.json` | 配合 workflow cache，让 recent 状态保留但不刷主分支提交 |
 | `README.md` | 项目说明和维护说明 | 说明随机抽样规则、运行方式、测试方法和文件清单 | 作为 GitHub 侧维护入口文档 |
 
@@ -141,6 +151,7 @@ song-search/
 - 推送前建议本地用 HTTP 跑一遍关键页面
 - 推送前建议执行：
   - `node --check scripts/update-songs.js`
+  - `node --test scripts/update-songs-guard.test.js`
   - `node scripts/check-title-cleaning.js`
   - `node scripts/update-songs.js`
   - `git diff --check`

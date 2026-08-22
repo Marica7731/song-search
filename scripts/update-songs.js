@@ -1,6 +1,11 @@
 const fs = require('fs');
 const path = require('path');
 const { cleanSongTitle } = require('./title-cleaning');
+const {
+    assertSourceRefreshSafe,
+    countStoredSongs,
+    getReliableWinner
+} = require('./update-songs-guard');
 
 // ================= 关键兼容：适配全局安装的 Puppeteer =================
 let puppeteer;
@@ -95,6 +100,11 @@ function readPositiveIntegerEnv(name, fallback) {
     return Number.isFinite(parsed) && parsed > 0 ? parsed : fallback;
 }
 
+function readRatioEnv(name, fallback) {
+    const parsed = Number.parseFloat(process.env[name] || '');
+    return Number.isFinite(parsed) && parsed >= 0 && parsed <= 1 ? parsed : fallback;
+}
+
 async function withRetry(fn, maxRetries = 3, delay = 5000) {
     let lastError;
     for (let attempt = 1; attempt <= maxRetries; attempt++) {
@@ -114,6 +124,8 @@ const BILI_VIDEO_PREFIX = 'https://www.bilibili.com/video/';
 const BV_REGEX = /BV[0-9a-zA-Z]+/;
 const SAMPLE_SIZE = readPositiveIntegerEnv('GITHUB_BV_SAMPLE_SIZE', 3);
 const RECENT_RUN_WINDOW = readPositiveIntegerEnv('GITHUB_BV_RECENT_RUN_WINDOW', 5);
+const MAX_SOURCE_DROP_RATIO = readRatioEnv('MAX_SOURCE_DROP_RATIO', 0.15);
+const MIN_SOURCE_DROP_SONGS = readPositiveIntegerEnv('MIN_SOURCE_DROP_SONGS', 100);
 const SOURCE_FILTER = String(process.env.UPDATE_SONGS_ONLY || '')
     .split(',')
     .map(item => item.trim().toLowerCase())
@@ -404,8 +416,10 @@ function selectSampleCandidates(candidatePool, entryState) {
     const normalizedPool = uniqueBvids(candidatePool);
     const sampleLimit = Math.max(1, SAMPLE_SIZE);
     const recent = getRecentBvidSet(entryState);
-    const freshCandidates = normalizedPool.filter(bvid => !recent.has(bvid));
-    const selected = shuffleCopy(freshCandidates).slice(0, sampleLimit);
+    const reliableWinner = getReliableWinner(entryState, normalizedPool);
+    const selected = reliableWinner ? [reliableWinner.bvid] : [];
+    const freshCandidates = normalizedPool.filter(bvid => !recent.has(bvid) && !selected.includes(bvid));
+    selected.push(...shuffleCopy(freshCandidates).slice(0, sampleLimit - selected.length));
 
     if (selected.length < sampleLimit) {
         const fill = shuffleCopy(normalizedPool.filter(bvid => !selected.includes(bvid)))
@@ -569,25 +583,37 @@ async function processEntryBvid(config, entryBvid, samplingState) {
         throw new Error(`入口 ${entryBvid} 未解析到任何有效歌曲数据`);
     }
 
+    const previousWinner = getReliableWinner(entryState, candidatePool);
     results.sort((a, b) => b.songs.length - a.songs.length);
     const winner = results[0];
+    assertSourceRefreshSafe({
+        alias: `${config.alias}/${entryBvid}`,
+        configuredBvids: [entryBvid],
+        failedBvids: [],
+        previousCount: previousWinner?.songCount || 0,
+        nextCount: winner.songs.length,
+        maxDropRatio: MAX_SOURCE_DROP_RATIO,
+        minDropSongs: MIN_SOURCE_DROP_SONGS
+    });
     entryState.candidates = uniqueBvids([
         ...candidatePool,
         ...results.flatMap(result => result.candidateBvids)
     ]);
     entryState.lastRunAt = new Date().toISOString();
     entryState.recentRuns = Array.isArray(entryState.recentRuns) ? entryState.recentRuns : [];
-    entryState.recentRuns.push({
+    const runRecord = {
         runAt: entryState.lastRunAt,
         sampled: Array.from(attempted),
         winner: winner.bvid,
         winnerSongCount: winner.songs.length,
-        candidateCount: entryState.candidates.length
-    });
+        candidateCount: entryState.candidates.length,
+        accepted: false
+    };
+    entryState.recentRuns.push(runRecord);
     entryState.recentRuns = entryState.recentRuns.slice(-RECENT_RUN_WINDOW);
 
     console.log(`  🏆 采用 ${winner.bvid}: ${winner.songs.length} 首`);
-    return winner.songs;
+    return { songs: winner.songs, runRecord };
 }
 
 function shouldProcessConfig(config) {
@@ -612,13 +638,17 @@ async function processSinger(config, samplingState) {
     console.log(`\n[开始处理] ${alias} (共 ${bvids.length} 个入口BV)...`);
 
     let allSongs = [];
+    const failedBvids = [];
+    const successfulRunRecords = [];
 
     for (const bvid of bvids) {
         try {
-            const entrySongs = await processEntryBvid(config, bvid, samplingState);
-            allSongs.push(...entrySongs);
+            const entryResult = await processEntryBvid(config, bvid, samplingState);
+            allSongs.push(...entryResult.songs);
+            successfulRunRecords.push(entryResult.runRecord);
         } catch (err) {
-            console.warn(`  ⚠️  入口BV:${bvid} 处理失败，跳过。错误：${err.message}`);
+            failedBvids.push(bvid);
+            console.warn(`  ⚠️  入口BV:${bvid} 处理失败，本轮不覆盖该来源。错误：${err.message}`);
         }
 
         if (bvids.indexOf(bvid) < bvids.length - 1) {
@@ -627,10 +657,27 @@ async function processSinger(config, samplingState) {
     }
 
     allSongs = dedupeSongs(allSongs);
+    const outputPath = path.join(DATA_DIR, `${resolvedFile}.js`);
+    const previousCount = fs.existsSync(outputPath)
+        ? countStoredSongs(fs.readFileSync(outputPath, 'utf8'))
+        : 0;
+
+    assertSourceRefreshSafe({
+        alias,
+        configuredBvids: bvids,
+        failedBvids,
+        previousCount,
+        nextCount: allSongs.length,
+        maxDropRatio: MAX_SOURCE_DROP_RATIO,
+        minDropSongs: MIN_SOURCE_DROP_SONGS
+    });
+
+    successfulRunRecords.forEach(run => {
+        run.accepted = true;
+    });
 
     if (allSongs.length === 0) throw new Error(`未解析到任何有效歌曲数据（所有入口BV均失败或无数据）`);
 
-    const outputPath = path.join(DATA_DIR, `${resolvedFile}.js`);
     let outputContent = `// ${alias} - 歌单数据 (多合集汇总)\n`;
     outputContent += `// 来源: ${bvids.join(', ')}\n`;
     outputContent += `// 生成时间: ${new Date().toLocaleString()}\n\n`;

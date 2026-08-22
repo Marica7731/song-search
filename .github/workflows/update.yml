@@ -3,6 +3,10 @@ name: Auto Update Song List
 on:
   workflow_dispatch: # 由雨云定时分发或手动触发
 
+concurrency:
+  group: song-search-main-writer
+  cancel-in-progress: false
+
 permissions:
   contents: write # 赋予提交代码权限
 
@@ -34,6 +38,9 @@ jobs:
         with:
           node-version: '20'
 
+      - name: 验证来源完整性门禁
+        run: node --test scripts/update-songs-guard.test.js
+
       - name: 安装系统依赖
         run: |
           sudo apt-get update
@@ -45,11 +52,10 @@ jobs:
           npm install -g puppeteer@21.0.0
           echo "PUPPETEER_EXECUTABLE_PATH=/usr/bin/google-chrome" >> $GITHUB_ENV
 
-      - name: 执行更新脚本（容错）
+      - name: 执行更新脚本（失败来源保留旧文件）
         run: |
           cd scripts
           node update-songs.js
-        continue-on-error: true # 个别歌手失败不终止流程
 
       - name: 检查数据更新
         id: check_changes
@@ -68,6 +74,14 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+          start_commit="$(git rev-parse HEAD)"
+          git fetch origin main
+          remote_commit="$(git rev-parse origin/main)"
+          if [ "$start_commit" != "$remote_commit" ]; then
+            echo "main 在抓取期间已前进，拒绝合并生成文件；等待下一轮基于最新 main 重跑"
+            exit 1
+          fi
+
           git add -- data/*.js data/index.json
           if git diff --cached --quiet; then
             echo "没有需要提交的数据变化"
@@ -75,18 +89,5 @@ jobs:
           fi
 
           git commit -m "🤖 自动更新歌单数据（部分失败见日志）"
-
-          for attempt in 1 2 3; do
-            git fetch origin main
-            if git rebase -X theirs origin/main && git push origin HEAD:main; then
-              echo "数据更新已推送到 main"
-              exit 0
-            fi
-
-            git rebase --abort || true
-            echo "推送失败，等待后重试：第 ${attempt} 次"
-            sleep $((attempt * 10))
-          done
-
-          echo "多次推送失败，请检查并行任务的提交冲突"
-          exit 1
+          git push origin HEAD:main
+          echo "数据更新已推送到 main"
