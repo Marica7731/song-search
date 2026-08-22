@@ -1,6 +1,6 @@
 // YuNi - 歌单数据 (多合集汇总)
 // 来源: BV1MAjT6GEF7
-// 生成时间: 8/22/2026, 9:09:17 PM
+// 生成时间: 8/22/2026, 10:57:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -299,6 +299,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-31]王道动漫歌曲歌回！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UEms?p=6",
+  "source": "yuni.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "JITTERIN'JINN",
+  "collection": "【歌切】[2026-08-22]唱平成夏日歌曲！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13R8p6fEF3?p=1",
+  "source": "yuni.js"
+},
+    {
+  "title": "A Perfect Sky",
+  "artist": "BONNIE PINK",
+  "collection": "【歌切】[2026-08-22]唱平成夏日歌曲！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13R8p6fEF3?p=2",
+  "source": "yuni.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-08-22]唱平成夏日歌曲！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13R8p6fEF3?p=3",
+  "source": "yuni.js"
+},
+    {
+  "title": "少年時代",
+  "artist": "井上陽水",
+  "collection": "【歌切】[2026-08-22]唱平成夏日歌曲！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13R8p6fEF3?p=4",
+  "source": "yuni.js"
+},
+    {
+  "title": "イケナイ太陽",
+  "artist": "ORANGE RANGE",
+  "collection": "【歌切】[2026-08-22]唱平成夏日歌曲！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13R8p6fEF3?p=5",
   "source": "yuni.js"
 }
 );

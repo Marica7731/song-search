@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 8/22/2026, 8:51:23 PM
+// 生成时间: 8/22/2026, 10:42:45 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3843,6 +3843,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-20]动漫歌曲｜要不要听听主人公的歌声再走？💫 非常欢迎第一次来的观众",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ti8M61E6b?p=40",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ミュージック・アワー",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-08-22]把满满的活力送给你！💫为你送上维生素🍋✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g98p68Ehp?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-08-22]把满满的活力送给你！💫为你送上维生素🍋✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g98p68Ehp?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "POP IN 2",
+  "artist": "B小町",
+  "collection": "【歌切】[2026-08-22]把满满的活力送给你！💫为你送上维生素🍋✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g98p68Ehp?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "うい麦畑でつかまえて",
+  "artist": "しぐれうい",
+  "collection": "【歌切】[2026-08-22]把满满的活力送给你！💫为你送上维生素🍋✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g98p68Ehp?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "マーシャル・マキシマイザー",
+  "artist": "柊マグネタイト feat.可不",
+  "collection": "【歌切】[2026-08-22]把满满的活力送给你！💫为你送上维生素🍋✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g98p68Ehp?p=5",
   "source": "isshikiizu.js"
 }
 );
