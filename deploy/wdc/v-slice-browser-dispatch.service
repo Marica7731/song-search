@@ -1,0 +1,13 @@
+[Unit]
+Description=Dispatch the v-slice browser repository update when idle
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/flock -n -E 0 /run/lock/v-slice-browser-dispatch.lock /usr/local/bin/v-slice-browser-dispatch.sh
+TimeoutStartSec=60s
+User=root
+Nice=10
+NoNewPrivileges=true
+PrivateTmp=true

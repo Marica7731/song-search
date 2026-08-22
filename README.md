@@ -142,6 +142,7 @@ song-search/
 | `scripts/update-songs-guard.test.js` | 门禁回归测试 | 覆盖入口缺失、3373 到 1530 的异常回退、可靠 winner、小幅修正和首次生成 | 由 `.github/workflows/update.yml` 在抓取前执行 |
 | `scripts/source-profiles.json` | 来源头像与频道覆盖配置 | 按来源文件名维护 `avatarUrl`、`youtubeUrl`、`avatarText`、`accentColor` | 被 `scripts/update-songs.js` 合并进 `data/index.json` 的 `sourceProfiles` |
 | `.github/workflows/update.yml` | 自动更新工作流 | 每 10 分钟或手动运行脚本；恢复/保存 BV 抽样状态；与增长日报串行；只在数据文件变化且远端 HEAD 未前进时提交 | 调用 `scripts/update-songs.js`，提交 `data/*.js data/index.json` 到 `main` |
+| `deploy/wdc/` | WDC 分发器模板 | 每 10 分钟检查一次 GitHub workflow，仅在没有活动 run 时触发，并使用 systemd journal 与独立状态文件 | 只迁移雨云分发逻辑，不在 WDC 克隆老站或运行 Puppeteer |
 | `.gitignore` | 本地和 workflow 的非提交文件规则 | 忽略 `reports/github-bv-sampling-state.json` | 配合 workflow cache，让 recent 状态保留但不刷主分支提交 |
 | `README.md` | 项目说明和维护说明 | 说明随机抽样规则、运行方式、测试方法和文件清单 | 作为 GitHub 侧维护入口文档 |
 

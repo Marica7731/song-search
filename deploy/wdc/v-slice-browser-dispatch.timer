@@ -1,0 +1,12 @@
+[Unit]
+Description=Check the v-slice browser repository update every 10 minutes
+
+[Timer]
+OnCalendar=*-*-* *:00/10:00
+Persistent=true
+AccuracySec=1s
+RandomizedDelaySec=30s
+Unit=v-slice-browser-dispatch.service
+
+[Install]
+WantedBy=timers.target
