@@ -1,10 +1,250 @@
 // 音羽ララ - 歌单数据 (多合集汇总)
 // 来源: BV1PE7J6CESH
-// 生成时间: 8/23/2026, 1:13:14 PM
+// 生成时间: 8/23/2026, 3:10:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
+    {
+  "title": "群青日和",
+  "artist": "東京事変",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=1",
+  "source": "otowarara.js"
+},
+    {
+  "title": "恋するフォーチュンクッキー",
+  "artist": "AKB48",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=2",
+  "source": "otowarara.js"
+},
+    {
+  "title": "Warning Tell",
+  "artist": "音羽ララ",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=3",
+  "source": "otowarara.js"
+},
+    {
+  "title": "我ジェンド",
+  "artist": "三拍ユッコ",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=4",
+  "source": "otowarara.js"
+},
+    {
+  "title": "Cagayake!GIRLS",
+  "artist": "桜高軽音部",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=5",
+  "source": "otowarara.js"
+},
+    {
+  "title": "ワルキューレは裏切らない",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=6",
+  "source": "otowarara.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=7",
+  "source": "otowarara.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=8",
+  "source": "otowarara.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=9",
+  "source": "otowarara.js"
+},
+    {
+  "title": "正しくなれない",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=10",
+  "source": "otowarara.js"
+},
+    {
+  "title": "ツバサ",
+  "artist": "アンダーグラフ",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=11",
+  "source": "otowarara.js"
+},
+    {
+  "title": "倍倍FIGHT!",
+  "artist": "CANDY TUNE",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=12",
+  "source": "otowarara.js"
+},
+    {
+  "title": "スターゲイザー",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=13",
+  "source": "otowarara.js"
+},
+    {
+  "title": "SAD SONG",
+  "artist": "ちゃんみな",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=14",
+  "source": "otowarara.js"
+},
+    {
+  "title": "Bad Apple!!",
+  "artist": "nomico",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=15",
+  "source": "otowarara.js"
+},
+    {
+  "title": "イガク",
+  "artist": "原口沙輔 feat.重音テト",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=16",
+  "source": "otowarara.js"
+},
+    {
+  "title": "天使にふれたよ!",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=17",
+  "source": "otowarara.js"
+},
+    {
+  "title": "気になるあの娘",
+  "artist": "相対性理論",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=18",
+  "source": "otowarara.js"
+},
+    {
+  "title": "Song for…",
+  "artist": "HY",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=19",
+  "source": "otowarara.js"
+},
+    {
+  "title": "みむかゥわナイストライ",
+  "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ feat.初音ミク",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=20",
+  "source": "otowarara.js"
+},
+    {
+  "title": "人マニア",
+  "artist": "原口沙輔 feat.重音テト",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=21",
+  "source": "otowarara.js"
+},
+    {
+  "title": "モノクロのキス",
+  "artist": "OSIRIS",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=1",
+  "source": "otowarara.js"
+},
+    {
+  "title": "カンナ",
+  "artist": "indigo la End",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=2",
+  "source": "otowarara.js"
+},
+    {
+  "title": "ジェンガ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=3",
+  "source": "otowarara.js"
+},
+    {
+  "title": "ふたりごと",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=4",
+  "source": "otowarara.js"
+},
+    {
+  "title": "ココロノカケ",
+  "artist": "音羽ララ",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=5",
+  "source": "otowarara.js"
+},
+    {
+  "title": "逆光のフリューゲル",
+  "artist": "ツヴァイウィング",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=6",
+  "source": "otowarara.js"
+},
+    {
+  "title": "タイムマシン",
+  "artist": "1640mP feat. 初音ミク",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=7",
+  "source": "otowarara.js"
+},
+    {
+  "title": "君の好きなうた",
+  "artist": "UVERworld",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=8",
+  "source": "otowarara.js"
+},
+    {
+  "title": "シルシ",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=9",
+  "source": "otowarara.js"
+},
     {
   "title": "マトリョシカ",
   "artist": "ハチ feat. 初音ミク・GUMI",
@@ -198,78 +438,6 @@ window.SONG_DATA.push(
   "source": "otowarara.js"
 },
     {
-  "title": "モノクロのキス",
-  "artist": "OSIRIS",
-  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=1",
-  "source": "otowarara.js"
-},
-    {
-  "title": "カンナ",
-  "artist": "indigo la End",
-  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=2",
-  "source": "otowarara.js"
-},
-    {
-  "title": "ジェンガ",
-  "artist": "40mP feat. 初音ミク",
-  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=3",
-  "source": "otowarara.js"
-},
-    {
-  "title": "ふたりごと",
-  "artist": "RADWIMPS",
-  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=4",
-  "source": "otowarara.js"
-},
-    {
-  "title": "ココロノカケ",
-  "artist": "音羽ララ",
-  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=5",
-  "source": "otowarara.js"
-},
-    {
-  "title": "逆光のフリューゲル",
-  "artist": "ツヴァイウィング",
-  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=6",
-  "source": "otowarara.js"
-},
-    {
-  "title": "タイムマシン",
-  "artist": "1640mP feat. 初音ミク",
-  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=7",
-  "source": "otowarara.js"
-},
-    {
-  "title": "君の好きなうた",
-  "artist": "UVERworld",
-  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=8",
-  "source": "otowarara.js"
-},
-    {
-  "title": "シルシ",
-  "artist": "LiSA",
-  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=9",
-  "source": "otowarara.js"
-},
-    {
   "title": "clock lock works",
   "artist": "ハチ feat. 初音ミク",
   "collection": "【歌切】[2026-07-26]全类型术力口歌回🤍唱好多名曲！❤️‍🔥欢迎点歌🫶",
@@ -355,174 +523,6 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-26]全类型术力口歌回🤍唱好多名曲！❤️‍🔥欢迎点歌🫶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1grgf61EUi?p=11",
-  "source": "otowarara.js"
-},
-    {
-  "title": "群青日和",
-  "artist": "東京事変",
-  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=1",
-  "source": "otowarara.js"
-},
-    {
-  "title": "恋するフォーチュンクッキー",
-  "artist": "AKB48",
-  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=2",
-  "source": "otowarara.js"
-},
-    {
-  "title": "Warning Tell",
-  "artist": "音羽ララ",
-  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=3",
-  "source": "otowarara.js"
-},
-    {
-  "title": "我ジェンド",
-  "artist": "三拍ユッコ",
-  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=4",
-  "source": "otowarara.js"
-},
-    {
-  "title": "Cagayake!GIRLS",
-  "artist": "桜高軽音部",
-  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=5",
-  "source": "otowarara.js"
-},
-    {
-  "title": "ワルキューレは裏切らない",
-  "artist": "ワルキューレ",
-  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=6",
-  "source": "otowarara.js"
-},
-    {
-  "title": "夜もすがら君想ふ",
-  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
-  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=7",
-  "source": "otowarara.js"
-},
-    {
-  "title": "夜行",
-  "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=8",
-  "source": "otowarara.js"
-},
-    {
-  "title": "サリシノハラ",
-  "artist": "みきとP feat.初音ミク",
-  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=9",
-  "source": "otowarara.js"
-},
-    {
-  "title": "正しくなれない",
-  "artist": "ずっと真夜中でいいのに。",
-  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=10",
-  "source": "otowarara.js"
-},
-    {
-  "title": "ツバサ",
-  "artist": "アンダーグラフ",
-  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=11",
-  "source": "otowarara.js"
-},
-    {
-  "title": "倍倍FIGHT!",
-  "artist": "CANDY TUNE",
-  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=12",
-  "source": "otowarara.js"
-},
-    {
-  "title": "スターゲイザー",
-  "artist": "スピッツ",
-  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=13",
-  "source": "otowarara.js"
-},
-    {
-  "title": "SAD SONG",
-  "artist": "ちゃんみな",
-  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=14",
-  "source": "otowarara.js"
-},
-    {
-  "title": "Bad Apple!!",
-  "artist": "nomico",
-  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=15",
-  "source": "otowarara.js"
-},
-    {
-  "title": "イガク",
-  "artist": "原口沙輔 feat.重音テト",
-  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=16",
-  "source": "otowarara.js"
-},
-    {
-  "title": "天使にふれたよ!",
-  "artist": "放課後ティータイム",
-  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=17",
-  "source": "otowarara.js"
-},
-    {
-  "title": "気になるあの娘",
-  "artist": "相対性理論",
-  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=18",
-  "source": "otowarara.js"
-},
-    {
-  "title": "Song for…",
-  "artist": "HY",
-  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=19",
-  "source": "otowarara.js"
-},
-    {
-  "title": "みむかゥわナイストライ",
-  "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ feat.初音ミク",
-  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=20",
-  "source": "otowarara.js"
-},
-    {
-  "title": "人マニア",
-  "artist": "原口沙輔 feat.重音テト",
-  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV19h366YEz6?p=21",
   "source": "otowarara.js"
 },
     {
