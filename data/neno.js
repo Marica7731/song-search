@@ -1,6 +1,6 @@
 // 碧生ねの - 歌单数据 (多合集汇总)
 // 来源: BV1S4TT6pEn4
-// 生成时间: 8/23/2026, 12:25:33 AM
+// 生成时间: 8/23/2026, 2:19:42 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1163,6 +1163,62 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-21]深夜悠闲竖屏歌回🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nz8M6CEZz?p=8",
+  "source": "neno.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-08-22]悠闲的深夜竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v88x6CExu?p=1",
+  "source": "neno.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-22]悠闲的深夜竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v88x6CExu?p=2",
+  "source": "neno.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-22]悠闲的深夜竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v88x6CExu?p=3",
+  "source": "neno.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-08-22]悠闲的深夜竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v88x6CExu?p=4",
+  "source": "neno.js"
+},
+    {
+  "title": "Here",
+  "artist": "JUNNA",
+  "collection": "【歌切】[2026-08-22]悠闲的深夜竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v88x6CExu?p=5",
+  "source": "neno.js"
+},
+    {
+  "title": "白南風",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-08-22]悠闲的深夜竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v88x6CExu?p=6",
+  "source": "neno.js"
+},
+    {
+  "title": "贖罪",
+  "artist": "傘村トータ feat.IA・結月ゆかり・初音ミク・Fukase・Ken",
+  "collection": "【歌切】[2026-08-22]悠闲的深夜竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v88x6CExu?p=7",
   "source": "neno.js"
 }
 );

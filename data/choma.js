@@ -1,6 +1,6 @@
 // チョま - 歌单数据 (多合集汇总)
 // 来源: BV1kM3L6GEBV
-// 生成时间: 8/23/2026, 12:21:21 AM
+// 生成时间: 8/23/2026, 2:15:04 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1739,6 +1739,142 @@ window.SONG_DATA.push(
   "collection": "チョま歌切 2026年08月13日20点场 动漫歌曲限定🌟多声类Live 2026-08-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yxbU6DELp?p=20",
+  "source": "choma.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "チョま歌切 2026年08月22日13点场 多声类Vtuber的歌回！ 2026-08-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A58x69EXs?p=1",
+  "source": "choma.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "チョま歌切 2026年08月22日13点场 多声类Vtuber的歌回！ 2026-08-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A58x69EXs?p=2",
+  "source": "choma.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "チョま歌切 2026年08月22日13点场 多声类Vtuber的歌回！ 2026-08-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A58x69EXs?p=3",
+  "source": "choma.js"
+},
+    {
+  "title": "フィクサー",
+  "artist": "ぬゆり feat.flower",
+  "collection": "チョま歌切 2026年08月22日13点场 多声类Vtuber的歌回！ 2026-08-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A58x69EXs?p=4",
+  "source": "choma.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat.初音ミク",
+  "collection": "チョま歌切 2026年08月22日13点场 多声类Vtuber的歌回！ 2026-08-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A58x69EXs?p=5",
+  "source": "choma.js"
+},
+    {
+  "title": "ECHO",
+  "artist": "Crusher-P feat.GUMI",
+  "collection": "チョま歌切 2026年08月22日13点场 多声类Vtuber的歌回！ 2026-08-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A58x69EXs?p=6",
+  "source": "choma.js"
+},
+    {
+  "title": "メランコリーキッチン",
+  "artist": "米津玄師",
+  "collection": "チョま歌切 2026年08月22日13点场 多声类Vtuber的歌回！ 2026-08-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A58x69EXs?p=7",
+  "source": "choma.js"
+},
+    {
+  "title": "エンヴィーベイビー",
+  "artist": "Kanaria feat.GUMI",
+  "collection": "チョま歌切 2026年08月22日13点场 多声类Vtuber的歌回！ 2026-08-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A58x69EXs?p=8",
+  "source": "choma.js"
+},
+    {
+  "title": "愛包ダンスホール",
+  "artist": "HIMEHINA",
+  "collection": "チョま歌切 2026年08月22日13点场 多声类Vtuber的歌回！ 2026-08-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A58x69EXs?p=9",
+  "source": "choma.js"
+},
+    {
+  "title": "お願いダーリン",
+  "artist": "ナナホシ管弦楽団 feat.ONE",
+  "collection": "チョま歌切 2026年08月22日13点场 多声类Vtuber的歌回！ 2026-08-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A58x69EXs?p=10",
+  "source": "choma.js"
+},
+    {
+  "title": "チェリーポップ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "チョま歌切 2026年08月22日13点场 多声类Vtuber的歌回！ 2026-08-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A58x69EXs?p=11",
+  "source": "choma.js"
+},
+    {
+  "title": "新宝島",
+  "artist": "サカナクション",
+  "collection": "チョま歌切 2026年08月22日13点场 多声类Vtuber的歌回！ 2026-08-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A58x69EXs?p=12",
+  "source": "choma.js"
+},
+    {
+  "title": "はちゃめちゃわちゃライフ！",
+  "artist": "FRUITS ZIPPER",
+  "collection": "チョま歌切 2026年08月22日13点场 多声类Vtuber的歌回！ 2026-08-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A58x69EXs?p=13",
+  "source": "choma.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona(CV:夏川椎菜)",
+  "collection": "チョま歌切 2026年08月22日13点场 多声类Vtuber的歌回！ 2026-08-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A58x69EXs?p=14",
+  "source": "choma.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "チョま歌切 2026年08月22日13点场 多声类Vtuber的歌回！ 2026-08-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A58x69EXs?p=15",
+  "source": "choma.js"
+},
+    {
+  "title": "シル・ヴ・プレジデント",
+  "artist": "P丸様。",
+  "collection": "チョま歌切 2026年08月22日13点场 多声类Vtuber的歌回！ 2026-08-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A58x69EXs?p=16",
+  "source": "choma.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "チョま歌切 2026年08月22日13点场 多声类Vtuber的歌回！ 2026-08-22",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A58x69EXs?p=17",
   "source": "choma.js"
 }
 );

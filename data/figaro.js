@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 8/22/2026, 11:14:36 PM
+// 生成时间: 8/23/2026, 1:04:51 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -34035,6 +34035,126 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-08-19]总是不知不觉又隔了好久",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R6bd6WELC?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "【💐歌切】[2026-08-21]助眠歌回✨周末前的宁静时光🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zp8x67EYJ?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【💐歌切】[2026-08-21]助眠歌回✨周末前的宁静时光🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zp8x67EYJ?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "アクアテラリウム",
+  "artist": "やなぎなぎ",
+  "collection": "【💐歌切】[2026-08-21]助眠歌回✨周末前的宁静时光🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zp8x67EYJ?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "ヴィーナスとジーザス",
+  "artist": "やくしまるえつこ",
+  "collection": "【💐歌切】[2026-08-21]助眠歌回✨周末前的宁静时光🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zp8x67EYJ?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "スピラーレ",
+  "artist": "牧野由依",
+  "collection": "【💐歌切】[2026-08-21]助眠歌回✨周末前的宁静时光🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zp8x67EYJ?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "砂糖玉の月",
+  "artist": "やなぎなぎ",
+  "collection": "【💐歌切】[2026-08-21]助眠歌回✨周末前的宁静时光🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zp8x67EYJ?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "月のしずく",
+  "artist": "柴咲コウ",
+  "collection": "【💐歌切】[2026-08-21]助眠歌回✨周末前的宁静时光🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zp8x67EYJ?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【💐歌切】[2026-08-21]助眠歌回✨周末前的宁静时光🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zp8x67EYJ?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat.GUMI",
+  "collection": "【💐歌切】[2026-08-21]助眠歌回✨周末前的宁静时光🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zp8x67EYJ?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "シリウスの心臓",
+  "artist": "ヰ世界情緒",
+  "collection": "【💐歌切】[2026-08-21]助眠歌回✨周末前的宁静时光🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zp8x67EYJ?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-08-21]助眠歌回✨周末前的宁静时光🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zp8x67EYJ?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "【💐歌切】[2026-08-21]助眠歌回✨周末前的宁静时光🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zp8x67EYJ?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "がらくだ",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-08-21]助眠歌回✨周末前的宁静时光🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zp8x67EYJ?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜間飛行",
+  "artist": "藍色にしもん",
+  "collection": "【💐歌切】[2026-08-21]助眠歌回✨周末前的宁静时光🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zp8x67EYJ?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗 feat.ちびた",
+  "collection": "【💐歌切】[2026-08-21]助眠歌回✨周末前的宁静时光🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Zp8x67EYJ?p=15",
   "source": "figaro.js"
 }
 );

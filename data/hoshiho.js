@@ -1,6 +1,6 @@
 // HoshiHo - 歌单数据 (多合集汇总)
 // 来源: BV11fQSB2ELX
-// 生成时间: 8/22/2026, 11:31:40 PM
+// 生成时间: 8/23/2026, 1:23:46 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3275,6 +3275,142 @@ window.SONG_DATA.push(
   "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=24",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "PHANTOM MINDS",
+  "artist": "水樹奈々",
+  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=1",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "BRIGHT STREAM",
+  "artist": "水樹奈々",
+  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=2",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Dancing in the velvet moon",
+  "artist": "水樹奈々",
+  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=3",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "DISCOTHEQUE",
+  "artist": "水樹奈々",
+  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=4",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "裸足のフローネ",
+  "artist": "潘恵子",
+  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=5",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "What's Up Guys?",
+  "artist": "古本新之輔、林原めぐみ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=6",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "MASK",
+  "artist": "奥井雅美、松村香澄",
+  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=7",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Santa Lucia",
+  "artist": "Teodoro Cottrau",
+  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=8",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "GONG",
+  "artist": "JAM Project",
+  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=9",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "サザエさん",
+  "artist": "宇野ゆう子",
+  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=10",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "壊れたマリオネット",
+  "artist": "Sound Horizon",
+  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=11",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "沈んだ歌姫",
+  "artist": "Sound Horizon",
+  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=12",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "沈んだ歌姫",
+  "artist": "Sound Horizon",
+  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=13",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "禁じられた遊び",
+  "artist": "ALI PROJECT",
+  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=14",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "聖少女領域",
+  "artist": "ALI PROJECT",
+  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=15",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "終端の王と異世界の騎士 〜The Endia & The Knights〜",
+  "artist": "Sound Horizon",
+  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=16",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "終端の王と異世界の騎士 〜The Endia & The Knights〜",
+  "artist": "Sound Horizon",
+  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=17",
   "source": "hoshiho.js"
 }
 );
