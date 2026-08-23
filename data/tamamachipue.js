@@ -1,6 +1,6 @@
 // 玉町ぷえ - 歌单数据 (多合集汇总)
 // 来源: BV1nUMP6vE7N
-// 生成时间: 8/23/2026, 8:29:23 PM
+// 生成时间: 8/23/2026, 10:23:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1099,6 +1099,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-14]频道订阅者1万人耐久歌回!!⌇一起出发吧！向着下一片风景！【 #玉町ぷえ 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1REbm6iERw?p=30",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra＆月見ヤチヨ（cv.早見沙織）",
+  "collection": "【歌切】[2026-08-23]大家集合！祝福巡游出发咯～！✨｜献给天使的祝福歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HE8n?p=1",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "天使",
+  "artist": "adieu",
+  "collection": "【歌切】[2026-08-23]大家集合！祝福巡游出发咯～！✨｜献给天使的祝福歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HE8n?p=2",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "【歌切】[2026-08-23]大家集合！祝福巡游出发咯～！✨｜献给天使的祝福歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HE8n?p=3",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "告白",
+  "artist": "内緒のピアス feat.可不",
+  "collection": "【歌切】[2026-08-23]大家集合！祝福巡游出发咯～！✨｜献给天使的祝福歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HE8n?p=4",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "ホシノ☆カケラ",
+  "artist": "ノア・ポラリス",
+  "collection": "【歌切】[2026-08-23]大家集合！祝福巡游出发咯～！✨｜献给天使的祝福歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HE8n?p=5",
   "source": "tamamachipue.js"
 }
 );

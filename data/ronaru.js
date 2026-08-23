@@ -1,6 +1,6 @@
 // 炉なる - 歌单数据 (多合集汇总)
 // 来源: BV1oeMx6WEve
-// 生成时间: 8/23/2026, 8:33:30 PM
+// 生成时间: 8/23/2026, 10:28:18 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -595,6 +595,142 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-02]已经8月了，真的假的？？",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cnMZ6WEcG?p=12",
+  "source": "ronaru.js"
+},
+    {
+  "title": "ダイヤモンドハッピー",
+  "artist": "わか・ふうり・すなお from STAR☆ANIS",
+  "collection": "【歌切】[2026-08-23]太久没唱，连怎么唱都忘了｜竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG8a6JESf?p=1",
+  "source": "ronaru.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太 feat.歌愛ユキ",
+  "collection": "【歌切】[2026-08-23]太久没唱，连怎么唱都忘了｜竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG8a6JESf?p=2",
+  "source": "ronaru.js"
+},
+    {
+  "title": "daze",
+  "artist": "じん feat.メイリア from GARNiDELiA",
+  "collection": "【歌切】[2026-08-23]太久没唱，连怎么唱都忘了｜竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG8a6JESf?p=3",
+  "source": "ronaru.js"
+},
+    {
+  "title": "有頂天ビバーチェ",
+  "artist": "Last Note. feat.GUMI",
+  "collection": "【歌切】[2026-08-23]太久没唱，连怎么唱都忘了｜竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG8a6JESf?p=4",
+  "source": "ronaru.js"
+},
+    {
+  "title": "Bling-Bang-Bang-Born",
+  "artist": "Creepy Nuts",
+  "collection": "【歌切】[2026-08-23]太久没唱，连怎么唱都忘了｜竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG8a6JESf?p=5",
+  "source": "ronaru.js"
+},
+    {
+  "title": "オトノケ",
+  "artist": "Creepy Nuts",
+  "collection": "【歌切】[2026-08-23]太久没唱，连怎么唱都忘了｜竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG8a6JESf?p=6",
+  "source": "ronaru.js"
+},
+    {
+  "title": "告白",
+  "artist": "内緒のピアス feat.可不",
+  "collection": "【歌切】[2026-08-23]太久没唱，连怎么唱都忘了｜竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG8a6JESf?p=7",
+  "source": "ronaru.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-08-23]太久没唱，连怎么唱都忘了｜竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG8a6JESf?p=8",
+  "source": "ronaru.js"
+},
+    {
+  "title": "グランドエスケープ",
+  "artist": "RADWIMPS feat.三浦透子",
+  "collection": "【歌切】[2026-08-23]太久没唱，连怎么唱都忘了｜竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG8a6JESf?p=9",
+  "source": "ronaru.js"
+},
+    {
+  "title": "快晴",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-08-23]太久没唱，连怎么唱都忘了｜竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG8a6JESf?p=10",
+  "source": "ronaru.js"
+},
+    {
+  "title": "Surges",
+  "artist": "Orangestar feat.夏背＆ルワン",
+  "collection": "【歌切】[2026-08-23]太久没唱，连怎么唱都忘了｜竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG8a6JESf?p=11",
+  "source": "ronaru.js"
+},
+    {
+  "title": "Alice in 冷凍庫",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-08-23]太久没唱，连怎么唱都忘了｜竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG8a6JESf?p=12",
+  "source": "ronaru.js"
+},
+    {
+  "title": "テオ",
+  "artist": "Omoi feat.初音ミク",
+  "collection": "【歌切】[2026-08-23]太久没唱，连怎么唱都忘了｜竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG8a6JESf?p=13",
+  "source": "ronaru.js"
+},
+    {
+  "title": "ジグソーパズル",
+  "artist": "まふまふ feat.鏡音レン",
+  "collection": "【歌切】[2026-08-23]太久没唱，连怎么唱都忘了｜竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG8a6JESf?p=14",
+  "source": "ronaru.js"
+},
+    {
+  "title": "美少女無罪♡パイレーツ",
+  "artist": "宝鐘マリン",
+  "collection": "【歌切】[2026-08-23]太久没唱，连怎么唱都忘了｜竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG8a6JESf?p=15",
+  "source": "ronaru.js"
+},
+    {
+  "title": "初音ミクの消失",
+  "artist": "cosMo＠暴走P feat.初音ミク",
+  "collection": "【歌切】[2026-08-23]太久没唱，连怎么唱都忘了｜竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG8a6JESf?p=16",
+  "source": "ronaru.js"
+},
+    {
+  "title": "milk boy",
+  "artist": "SILENT SIREN",
+  "collection": "【歌切】[2026-08-23]太久没唱，连怎么唱都忘了｜竖屏歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gG8a6JESf?p=17",
   "source": "ronaru.js"
 }
 );
