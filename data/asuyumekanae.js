@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 8/23/2026, 12:56:48 AM
+// 生成时间: 8/23/2026, 2:54:23 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5651,6 +5651,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-20]劲爆动漫歌曲等｜工作用BGM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1U38u6DErJ?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "風のたより",
+  "artist": "tayori",
+  "collection": "【明日夢 歌切】[2026-08-22]思考自己歌声优势的聚会 工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fn8x6UE9Z?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "風のたより",
+  "artist": "tayori",
+  "collection": "【明日夢 歌切】[2026-08-22]思考自己歌声优势的聚会 工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fn8x6UE9Z?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【明日夢 歌切】[2026-08-22]思考自己歌声优势的聚会 工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fn8x6UE9Z?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "星めぐる詩",
+  "artist": "suis from ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-08-22]思考自己歌声优势的聚会 工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fn8x6UE9Z?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【明日夢 歌切】[2026-08-22]思考自己歌声优势的聚会 工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fn8x6UE9Z?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ウィアートル",
+  "artist": "rionos",
+  "collection": "【明日夢 歌切】[2026-08-22]思考自己歌声优势的聚会 工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fn8x6UE9Z?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【明日夢 歌切】[2026-08-22]思考自己歌声优势的聚会 工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fn8x6UE9Z?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-08-22]思考自己歌声优势的聚会 工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fn8x6UE9Z?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢 歌切】[2026-08-22]思考自己歌声优势的聚会 工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fn8x6UE9Z?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "津軽海峡・冬景色",
+  "artist": "石川さゆり",
+  "collection": "【明日夢 歌切】[2026-08-22]思考自己歌声优势的聚会 工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fn8x6UE9Z?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ハレンチ",
+  "artist": "ちゃんみな",
+  "collection": "【明日夢 歌切】[2026-08-22]思考自己歌声优势的聚会 工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fn8x6UE9Z?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【明日夢 歌切】[2026-08-22]思考自己歌声优势的聚会 工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fn8x6UE9Z?p=12",
   "source": "asuyumekanae.js"
 },
     {

@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 8/23/2026, 1:08:12 AM
+// 生成时间: 8/23/2026, 3:03:40 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -22259,6 +22259,94 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-08-08]午后时光来一曲如何？ / 歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Meu56UEdp?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Night Time Wander",
+  "artist": "桐生つかさ、大槻唯、八神マキノ",
+  "collection": "【🦢歌切】[2026-08-22]午后，来一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L88x6CEAY?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "真夜中のドア〜stay with me",
+  "artist": "松原みき",
+  "collection": "【🦢歌切】[2026-08-22]午后，来一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L88x6CEAY?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "学園天国",
+  "artist": "フィンガー5",
+  "collection": "【🦢歌切】[2026-08-22]午后，来一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L88x6CEAY?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "SMILY",
+  "artist": "大塚愛",
+  "collection": "【🦢歌切】[2026-08-22]午后，来一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L88x6CEAY?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "時よ",
+  "artist": "星野源",
+  "collection": "【🦢歌切】[2026-08-22]午后，来一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L88x6CEAY?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Week End",
+  "artist": "星野源",
+  "collection": "【🦢歌切】[2026-08-22]午后，来一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L88x6CEAY?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "花ざかりWeekend✿",
+  "artist": "4 Luxury",
+  "collection": "【🦢歌切】[2026-08-22]午后，来一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L88x6CEAY?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "dear...",
+  "artist": "馬場このみ",
+  "collection": "【🦢歌切】[2026-08-22]午后，来一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L88x6CEAY?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "カザキリ",
+  "artist": "やなぎなぎ",
+  "collection": "【🦢歌切】[2026-08-22]午后，来一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L88x6CEAY?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-08-22]午后，来一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L88x6CEAY?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-08-22]午后，来一曲如何？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L88x6CEAY?p=11",
   "source": "suu_usuwa.js"
 }
 );
