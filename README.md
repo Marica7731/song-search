@@ -75,6 +75,14 @@
 
 请不要直接用 `file://` 打开页面，`fetch('data/...')` 会被浏览器安全策略限制。
 
+首次运行先安装脚本依赖：
+
+```bash
+cd scripts
+npm ci
+cd ..
+```
+
 在项目根目录运行数据脚本：
 
 ```bash
@@ -83,9 +91,8 @@ node scripts/update-songs.js
 
 只验证单个来源时可使用过滤变量，过滤内容可匹配来源文件名、别名或入口 BV：
 
-```powershell
-$env:UPDATE_SONGS_ONLY='toka10summer'
-node scripts/update-songs.js
+```bash
+UPDATE_SONGS_ONLY='toka10summer' node scripts/update-songs.js
 ```
 
 常用抽样变量：
@@ -108,6 +115,7 @@ python -m http.server 8000
 
 ```text
 song-search/
+├─ AGENTS.md                  # 自动化维护边界与验收要求
 ├─ index.html
 ├─ stats.html
 ├─ converter.html
@@ -132,35 +140,21 @@ song-search/
 │  ├─ check-title-cleaning.js  # 标题清洗回归检查
 │  └─ source-profiles.json     # 来源头像与频道覆盖配置
 ├─ .gitignore                  # 忽略抽样状态文件
+├─ deploy/wdc/                 # WDC 空闲分发器模板
 └─ .github/workflows/
-   └─ update.yml               # 自动更新工作流
+   ├─ update.yml               # 歌曲数据更新工作流
+   └─ song-growth.yml          # 歌曲总量日报工作流
 ```
 
-## 文件清单（本次相关）
+## 维护与发布
 
-| 文件路径 | 文件用途 | 主要函数或模块职责 | 与其他文件的关系 |
-|---|---|---|---|
-| `scripts/update-songs.js` | GitHub Pages 歌曲数据生成脚本 | `processEntryBvid` 负责入口 BV 候选刷新、抽样、fallback 与胜者选择；`parseRawDataToSongs` 负责 DOM 结果转歌曲；`loadSamplingState` / `saveSamplingState` 负责状态读写；`buildSourceProfile` 负责把头像配置写入 index | 读取脚本内 `SINGER_CONFIGS` 和 `scripts/source-profiles.json`，写入 `data/*.js`、`data/index.json` 和运行态 `reports/github-bv-sampling-state.json` |
-| `scripts/bilibili-page-api.js` | 普通多 P 视频适配器 | 校验 B 站 view API 响应并转换成老站既有 raw-data 结构；请求设置超时和公开页面请求头 | 仅由标记 `rawDataLoader: "bili-view-api"` 的来源调用 |
-| `scripts/bilibili-page-api.test.js` | 多 P API 回归测试 | 覆盖正常转换、API 错误、空分 P 和请求头 | 由 `.github/workflows/update.yml` 在抓取前执行 |
-| `scripts/update-songs-guard.js` | 来源更新门禁 | 校验所有入口 BV 均成功，并阻止单来源异常大幅回退覆盖旧文件 | 被 `scripts/update-songs.js` 调用，由同目录测试覆盖 |
-| `scripts/update-songs-guard.test.js` | 门禁回归测试 | 覆盖入口缺失、3373 到 1530 的异常回退、可靠 winner、小幅修正和首次生成 | 由 `.github/workflows/update.yml` 在抓取前执行 |
-| `scripts/source-profiles.json` | 来源头像与频道覆盖配置 | 按来源文件名维护 `avatarUrl`、`youtubeUrl`、`avatarText`、`accentColor` | 被 `scripts/update-songs.js` 合并进 `data/index.json` 的 `sourceProfiles` |
-| `.github/workflows/update.yml` | 自动更新工作流 | 由 WDC 在空闲时分发或手动运行；恢复/保存 BV 抽样状态；与增长日报串行；只在数据文件变化且远端 HEAD 未前进时提交 | 调用 `scripts/update-songs.js`，提交 `data/*.js data/index.json` 到 `main` |
-| `deploy/wdc/` | WDC 分发器模板 | 每 10 分钟检查一次 GitHub workflow，仅在没有活动 run 时触发，并使用 systemd journal 与独立状态文件 | 只迁移雨云分发逻辑，不在 WDC 克隆老站或运行 Puppeteer |
-| `.gitignore` | 本地和 workflow 的非提交文件规则 | 忽略 `reports/github-bv-sampling-state.json` | 配合 workflow cache，让 recent 状态保留但不刷主分支提交 |
-| `README.md` | 项目说明和维护说明 | 说明随机抽样规则、运行方式、测试方法和文件清单 | 作为 GitHub 侧维护入口文档 |
-
-## 维护建议
-- 数据改动优先改 `scripts/update-songs.js`（尤其是 `SINGER_CONFIGS`）
-- 页面功能改动在对应 HTML / JS 模块内进行
-- 推送前建议本地用 HTTP 跑一遍关键页面
-- 推送前建议执行：
-  - `node --check scripts/update-songs.js`
-  - `node --test scripts/update-songs-guard.test.js scripts/bilibili-page-api.test.js`
-  - `node scripts/check-title-cleaning.js`
-  - `node scripts/update-songs.js`
-  - `git diff --check`
+- 来源列表和 BV 配置维护在 `scripts/update-songs.js` 的 `SINGER_CONFIGS`；头像与频道信息维护在 `scripts/source-profiles.json`。
+- 页面功能修改对应的 HTML 或共享 JS；生成数据不要直接手改。
+- 涉及来源时先使用 `UPDATE_SONGS_ONLY` 做定向抓取，核对歌曲数量、分 P 范围和首尾链接，再运行完整更新。
+- 推送前执行语法检查、两组 Node 回归测试、标题清洗检查和 `git diff --check`，并通过本地 HTTP 服务检查相关页面。
+- `main` 由 GitHub Pages 直接发布。歌曲数据由 WDC 在没有活动任务时分发 `update.yml`，总量日报由 `song-growth.yml` 维护；两个工作流共用主分支写入并发组。
+- WDC 不托管本仓库和 Puppeteer，只保存分发器。分发器部署与验证方法见 [`deploy/wdc/README.md`](./deploy/wdc/README.md)。
+- 发布验收同时检查 Action 结果、远端提交和线上页面；仅本地测试通过不代表已经上线。
 
 
 
