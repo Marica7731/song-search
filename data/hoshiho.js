@@ -1,6 +1,6 @@
 // HoshiHo - 歌单数据 (多合集汇总)
 // 来源: BV11fQSB2ELX
-// 生成时间: 8/23/2026, 4:49:31 AM
+// 生成时间: 8/23/2026, 6:42:35 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3374,7 +3374,7 @@ window.SONG_DATA.push(
   "source": "hoshiho.js"
 },
     {
-  "title": "沈んだ歌姫",
+  "title": "海の魔女",
   "artist": "Sound Horizon",
   "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
   "up": "前尘往事如昔故",
