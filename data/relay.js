@@ -1,6 +1,6 @@
 // 接力 - 歌单数据 (多合集汇总)
 // 来源: BV1rkCTYzEZN, BV1wt421j7gT, BV1KpCdYmE3T, BV1aC4ce2E5s, BV1JbX9BmE5m, BV1nJ5S6CETQ, BV1duSRBBEkb
-// 生成时间: 8/23/2026, 2:17:05 PM
+// 生成时间: 8/23/2026, 4:08:42 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -46,43 +46,43 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
-  "title": "踊り子",
-  "artist": "Vaundy",
-  "collection": "2番手 皇ロゼ",
+  "title": "カーテンコール",
+  "artist": "優里",
+  "collection": "9番手 獅子神レオナ 最后一棒",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1afCTYZED9?p=1",
+  "link": "https://www.bilibili.com/video/BV1rrCTYgE9k?p=1",
   "source": "relay.js"
 },
     {
-  "title": "ゲレンデがとけるほど恋したい",
-  "artist": "広瀬 香美",
-  "collection": "2番手 皇ロゼ",
+  "title": "すきっちゅーの！",
+  "artist": "HoneyWorks",
+  "collection": "9番手 獅子神レオナ 最后一棒",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1afCTYZED9?p=2",
+  "link": "https://www.bilibili.com/video/BV1rrCTYgE9k?p=2",
   "source": "relay.js"
 },
     {
-  "title": "二度寝",
-  "artist": "Creepy Nuts",
-  "collection": "2番手 皇ロゼ",
+  "title": "元彼女のみなさまへ",
+  "artist": "コレサワ",
+  "collection": "9番手 獅子神レオナ 最后一棒",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1afCTYZED9?p=3",
+  "link": "https://www.bilibili.com/video/BV1rrCTYgE9k?p=3",
   "source": "relay.js"
 },
     {
-  "title": "more than words",
-  "artist": "羊文学",
-  "collection": "2番手 皇ロゼ",
+  "title": "僕らはいきものだから",
+  "artist": "緑黄色社会",
+  "collection": "9番手 獅子神レオナ 最后一棒",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1afCTYZED9?p=4",
+  "link": "https://www.bilibili.com/video/BV1rrCTYgE9k?p=4",
   "source": "relay.js"
 },
     {
-  "title": "さよーならまたいつか！",
-  "artist": "米津玄師",
-  "collection": "2番手 皇ロゼ",
+  "title": "風が吹いている",
+  "artist": "いきものがかり",
+  "collection": "9番手 獅子神レオナ 最后一棒",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1afCTYZED9?p=5",
+  "link": "https://www.bilibili.com/video/BV1rrCTYgE9k?p=5",
   "source": "relay.js"
 },
     {
@@ -126,6 +126,46 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "８番手！夢川かなう：プラチナ 恋人がサンタクロース 夜撫でるメノウ One Last  アイリスKiss",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vZCTYbEGi?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "恋人がサンタクロース",
+  "artist": "松任谷由実",
+  "collection": "８番手！夢川かなう：プラチナ 恋人がサンタクロース 夜撫でるメノウ One Last  アイリスKiss",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vZCTYbEGi?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "夜撫でるメノウ",
+  "artist": "Ayase",
+  "collection": "８番手！夢川かなう：プラチナ 恋人がサンタクロース 夜撫でるメノウ One Last  アイリスKiss",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vZCTYbEGi?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "One Last Kiss",
+  "artist": "宇多田ヒカル",
+  "collection": "８番手！夢川かなう：プラチナ 恋人がサンタクロース 夜撫でるメノウ One Last  アイリスKiss",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vZCTYbEGi?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "アイリス",
+  "artist": "夢川かなう",
+  "collection": "８番手！夢川かなう：プラチナ 恋人がサンタクロース 夜撫でるメノウ One Last  アイリスKiss",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vZCTYbEGi?p=5",
+  "source": "relay.js"
+},
+    {
   "title": "晩餐歌",
   "artist": "Tuki.",
   "collection": "4番手  猫乃ユキノ：晩餐歌 六等星 だから僕は音楽を辞めた モノクロのキス",
@@ -163,38 +203,6 @@ window.SONG_DATA.push(
   "collection": "4番手  猫乃ユキノ：晩餐歌 六等星 だから僕は音楽を辞めた モノクロのキス",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1voCTYFEXn?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "ぶちのめし♡MECHA STRESS",
-  "artist": "Melty R.I.P.",
-  "collection": "5番手 九楽ライ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1acCMY4EvG?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "かわいいだけじゃだめですか？",
-  "artist": "CUTIE STREET",
-  "collection": "5番手 九楽ライ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1acCMY4EvG?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "Snow halation",
-  "artist": "ILiFE!",
-  "collection": "5番手 九楽ライ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1acCMY4EvG?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "さらば我が儚く来し追憶のブルー",
-  "artist": "九楽ライ",
-  "collection": "5番手 九楽ライ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1acCMY4EvG?p=4",
   "source": "relay.js"
 },
     {
@@ -238,6 +246,78 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
+  "title": "ぶちのめし♡MECHA STRESS",
+  "artist": "Melty R.I.P.",
+  "collection": "5番手 九楽ライ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1acCMY4EvG?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "かわいいだけじゃだめですか？",
+  "artist": "CUTIE STREET",
+  "collection": "5番手 九楽ライ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1acCMY4EvG?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "Snow halation",
+  "artist": "ILiFE!",
+  "collection": "5番手 九楽ライ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1acCMY4EvG?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "さらば我が儚く来し追憶のブルー",
+  "artist": "九楽ライ",
+  "collection": "5番手 九楽ライ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1acCMY4EvG?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "踊り子",
+  "artist": "Vaundy",
+  "collection": "2番手 皇ロゼ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1afCTYZED9?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "ゲレンデがとけるほど恋したい",
+  "artist": "広瀬 香美",
+  "collection": "2番手 皇ロゼ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1afCTYZED9?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "二度寝",
+  "artist": "Creepy Nuts",
+  "collection": "2番手 皇ロゼ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1afCTYZED9?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "2番手 皇ロゼ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1afCTYZED9?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "さよーならまたいつか！",
+  "artist": "米津玄師",
+  "collection": "2番手 皇ロゼ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1afCTYZED9?p=5",
+  "source": "relay.js"
+},
+    {
   "title": "鬼ノ宴",
   "artist": "友成空",
   "collection": "花鋏キョウ7番手！【React Magical Harmony】",
@@ -275,126 +355,6 @@ window.SONG_DATA.push(
   "collection": "花鋏キョウ7番手！【React Magical Harmony】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1efCTYZEXJ?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "プラチナ",
-  "artist": "坂本真綾",
-  "collection": "８番手！夢川かなう：プラチナ 恋人がサンタクロース 夜撫でるメノウ One Last  アイリスKiss",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vZCTYbEGi?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "恋人がサンタクロース",
-  "artist": "松任谷由実",
-  "collection": "８番手！夢川かなう：プラチナ 恋人がサンタクロース 夜撫でるメノウ One Last  アイリスKiss",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vZCTYbEGi?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "夜撫でるメノウ",
-  "artist": "Ayase",
-  "collection": "８番手！夢川かなう：プラチナ 恋人がサンタクロース 夜撫でるメノウ One Last  アイリスKiss",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vZCTYbEGi?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "One Last Kiss",
-  "artist": "宇多田ヒカル",
-  "collection": "８番手！夢川かなう：プラチナ 恋人がサンタクロース 夜撫でるメノウ One Last  アイリスKiss",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vZCTYbEGi?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "アイリス",
-  "artist": "夢川かなう",
-  "collection": "８番手！夢川かなう：プラチナ 恋人がサンタクロース 夜撫でるメノウ One Last  アイリスKiss",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vZCTYbEGi?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "カーテンコール",
-  "artist": "優里",
-  "collection": "9番手 獅子神レオナ 最后一棒",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rrCTYgE9k?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "すきっちゅーの！",
-  "artist": "HoneyWorks",
-  "collection": "9番手 獅子神レオナ 最后一棒",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rrCTYgE9k?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "元彼女のみなさまへ",
-  "artist": "コレサワ",
-  "collection": "9番手 獅子神レオナ 最后一棒",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rrCTYgE9k?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "僕らはいきものだから",
-  "artist": "緑黄色社会",
-  "collection": "9番手 獅子神レオナ 最后一棒",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rrCTYgE9k?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "風が吹いている",
-  "artist": "いきものがかり",
-  "collection": "9番手 獅子神レオナ 最后一棒",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rrCTYgE9k?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "空色デイズ",
-  "artist": "中川翔子",
-  "collection": "【 #CMYKProject 】初の歌枠リレー参加 ⸝⋆ 【 しほ 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kkRsYXESP?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "1・2・3",
-  "artist": "After the Rain(そらる × まふまふ)",
-  "collection": "【 #CMYKProject 】初の歌枠リレー参加 ⸝⋆ 【 しほ 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kkRsYXESP?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "ヒーローになれなかった僕らへ",
-  "artist": "しほ",
-  "collection": "【 #CMYKProject 】初の歌枠リレー参加 ⸝⋆ 【 しほ 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kkRsYXESP?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "栞",
-  "artist": "クリープハイプ",
-  "collection": "【 #CMYKProject 】初の歌枠リレー参加 ⸝⋆ 【 しほ 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kkRsYXESP?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "地球最後の告白を",
-  "artist": "kemu feat.GUMI",
-  "collection": "【 #CMYKProject 】初の歌枠リレー参加 ⸝⋆ 【 しほ 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kkRsYXESP?p=5",
   "source": "relay.js"
 },
     {
@@ -846,6 +806,46 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "【 #CMYKProject 】初の歌枠リレー参加 ⸝⋆ 【 しほ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kkRsYXESP?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "1・2・3",
+  "artist": "After the Rain(そらる × まふまふ)",
+  "collection": "【 #CMYKProject 】初の歌枠リレー参加 ⸝⋆ 【 しほ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kkRsYXESP?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "ヒーローになれなかった僕らへ",
+  "artist": "しほ",
+  "collection": "【 #CMYKProject 】初の歌枠リレー参加 ⸝⋆ 【 しほ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kkRsYXESP?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "栞",
+  "artist": "クリープハイプ",
+  "collection": "【 #CMYKProject 】初の歌枠リレー参加 ⸝⋆ 【 しほ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kkRsYXESP?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat.GUMI",
+  "collection": "【 #CMYKProject 】初の歌枠リレー参加 ⸝⋆ 【 しほ 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kkRsYXESP?p=5",
+  "source": "relay.js"
+},
+    {
   "title": "SWEET MEMORIES",
   "artist": "松田聖子",
   "collection": "接力歌切 唄街しの 2026-06-13 被温暖的吉他音色包围着…？",
@@ -1294,22 +1294,6 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
-  "title": "Alice",
-  "artist": "古川本舗",
-  "collection": "Alice - 古川本舗",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KpCdYmE3T?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "フクロウ~フクロウが知らせる客が来たと~",
-  "artist": "KOKIA",
-  "collection": "フクロウ~フクロウが知らせる客が来たと~ - KOKIA",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xHCdYEEzy?p=1",
-  "source": "relay.js"
-},
-    {
   "title": "忘れてください",
   "artist": "ヨルシカ",
   "collection": "忘れてください - ヨルシカ",
@@ -1318,11 +1302,27 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
+  "title": "Alice",
+  "artist": "古川本舗",
+  "collection": "Alice - 古川本舗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KpCdYmE3T?p=1",
+  "source": "relay.js"
+},
+    {
   "title": "僕が死のうと思ったのは",
   "artist": "中島美嘉",
   "collection": "僕が死のうと思ったのは - 中島美嘉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KHCdYEEdu?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "フクロウ~フクロウが知らせる客が来たと~",
+  "artist": "KOKIA",
+  "collection": "フクロウ~フクロウが知らせる客が来たと~ - KOKIA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHCdYEEzy?p=1",
   "source": "relay.js"
 },
     {
@@ -1366,30 +1366,6 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
-  "title": "小さきもの",
-  "artist": "林明日香",
-  "collection": "小さきもの - 林明日香",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ssCdYjEo8?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "viator",
-  "artist": "rionos",
-  "collection": "viator - rionos",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1NsCdY7EV4?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "キミソラキセキ",
-  "artist": "EGOIST",
-  "collection": "キミソラキセキ - EGOIST",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ujCdYQEK2?p=1",
-  "source": "relay.js"
-},
-    {
   "title": "星めぐる詩",
   "artist": "suis from ヨルシカ",
   "collection": "星めぐる詩 - suis from ヨルシカ",
@@ -1406,19 +1382,27 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
-  "title": "暁の車",
-  "artist": "FictionJunction Yuuka 『機動戦士ガンダムSEED』挿入歌",
-  "collection": "暁の車 - FictionJunction Yuuka 『機動戦士ガンダムSEED』挿入歌",
+  "title": "キミソラキセキ",
+  "artist": "EGOIST",
+  "collection": "キミソラキセキ - EGOIST",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uLCdYpETh?p=1",
+  "link": "https://www.bilibili.com/video/BV1ujCdYQEK2?p=1",
   "source": "relay.js"
 },
     {
-  "title": "The Everlasting Guilty Crown",
-  "artist": "EGOIST",
-  "collection": "The Everlasting Guilty Crown - EGOIST",
+  "title": "小さきもの",
+  "artist": "林明日香",
+  "collection": "小さきもの - 林明日香",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ULCdYnEXU?p=1",
+  "link": "https://www.bilibili.com/video/BV1ssCdYjEo8?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "viator",
+  "artist": "rionos",
+  "collection": "viator - rionos",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NsCdY7EV4?p=1",
   "source": "relay.js"
 },
     {
@@ -1438,11 +1422,19 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
-  "title": "マリーゴールド",
-  "artist": "あいみょん",
-  "collection": "マリーゴールド - あいみょん",
+  "title": "暁の車",
+  "artist": "FictionJunction Yuuka 『機動戦士ガンダムSEED』挿入歌",
+  "collection": "暁の車 - FictionJunction Yuuka 『機動戦士ガンダムSEED』挿入歌",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uLCdYpEmW?p=1",
+  "link": "https://www.bilibili.com/video/BV1uLCdYpETh?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "The Everlasting Guilty Crown",
+  "artist": "EGOIST",
+  "collection": "The Everlasting Guilty Crown - EGOIST",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ULCdYnEXU?p=1",
   "source": "relay.js"
 },
     {
@@ -1454,27 +1446,11 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
-  "title": "アルジャーノン",
-  "artist": "ヨルシカ",
-  "collection": "アルジャーノン - ヨルシカ",
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "マリーゴールド - あいみょん",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MECdYnEpS?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "奏",
-  "artist": "スキマスイッチ",
-  "collection": "奏 - スキマスイッチ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1TECdYnEBJ?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "満ちてゆく",
-  "artist": "藤井風",
-  "collection": "満ちてゆく - 藤井風",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mECdYnEvf?p=1",
+  "link": "https://www.bilibili.com/video/BV1uLCdYpEmW?p=1",
   "source": "relay.js"
 },
     {
@@ -1486,11 +1462,35 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "奏 - スキマスイッチ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TECdYnEBJ?p=1",
+  "source": "relay.js"
+},
+    {
   "title": "トロイメライ",
   "artist": "稀羽すう",
   "collection": "トロイメライ - 稀羽すう",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TECdYnE6v?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "アルジャーノン - ヨルシカ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MECdYnEpS?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "満ちてゆく",
+  "artist": "藤井風",
+  "collection": "満ちてゆく - 藤井風",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mECdYnEvf?p=1",
   "source": "relay.js"
 },
     {
@@ -1502,43 +1502,11 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
-  "title": "Precious",
-  "artist": "伊藤由奈",
-  "collection": "Precious - 伊藤由奈",
+  "title": "糸",
+  "artist": "中島みゆき",
+  "collection": "糸 - 中島みゆき",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1k5CfYSE1C?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "シルシ",
-  "artist": "LiSA",
-  "collection": "シルシ - LiSA",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1p5CfYDEPK?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "HANABI",
-  "artist": "Mr.Children",
-  "collection": "HANABI - Mr.Children",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1k5CfYSEmC?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "たしかなこと",
-  "artist": "小田和正",
-  "collection": "たしかなこと - 小田和正",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rhCdYGEXC?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "アムリタ",
-  "artist": "牧野由依",
-  "collection": "アムリタ - 牧野由依",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1w5CfYDEYZ?p=1",
+  "link": "https://www.bilibili.com/video/BV1chCdYGEQX?p=1",
   "source": "relay.js"
 },
     {
@@ -1550,51 +1518,43 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
-  "title": "糸",
-  "artist": "中島みゆき",
-  "collection": "糸 - 中島みゆき",
+  "title": "アムリタ",
+  "artist": "牧野由依",
+  "collection": "アムリタ - 牧野由依",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1chCdYGEQX?p=1",
+  "link": "https://www.bilibili.com/video/BV1w5CfYDEYZ?p=1",
   "source": "relay.js"
 },
     {
-  "title": "晚餐歌",
-  "artist": "tuki.",
-  "collection": "晚餐歌 - tuki.",
+  "title": "たしかなこと",
+  "artist": "小田和正",
+  "collection": "たしかなこと - 小田和正",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aC4ce2E5s?p=1",
+  "link": "https://www.bilibili.com/video/BV1rhCdYGEXC?p=1",
   "source": "relay.js"
 },
     {
-  "title": "食虫植物",
-  "artist": "理芽",
-  "collection": "食虫植物 - 理芽",
+  "title": "HANABI",
+  "artist": "Mr.Children",
+  "collection": "HANABI - Mr.Children",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aC4ce2E5B?p=1",
+  "link": "https://www.bilibili.com/video/BV1k5CfYSEmC?p=1",
   "source": "relay.js"
 },
     {
-  "title": "パラレルナイト",
-  "artist": "凛々咲",
-  "collection": "パラレルナイト - 凛々咲",
+  "title": "シルシ",
+  "artist": "LiSA",
+  "collection": "シルシ - LiSA",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QC4ce2ECG?p=1",
+  "link": "https://www.bilibili.com/video/BV1p5CfYDEPK?p=1",
   "source": "relay.js"
 },
     {
-  "title": "なんでもないや",
-  "artist": "RADWIMPS",
-  "collection": "なんでもないや - RADWIMPS",
+  "title": "Precious",
+  "artist": "伊藤由奈",
+  "collection": "Precious - 伊藤由奈",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aC4ce2E58?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "わたしの一番かわいいところ",
-  "artist": "FRUITS ZIPPER",
-  "collection": "わたしの一番かわいいところ - FRUITS ZIPPER",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QC4ce2EoQ?p=1",
+  "link": "https://www.bilibili.com/video/BV1k5CfYSE1C?p=1",
   "source": "relay.js"
 },
     {
@@ -1606,11 +1566,35 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
-  "title": "じょいふる",
-  "artist": "いきものがかり",
-  "collection": "じょいふる - いきものがかり",
+  "title": "わたしの一番かわいいところ",
+  "artist": "FRUITS ZIPPER",
+  "collection": "わたしの一番かわいいところ - FRUITS ZIPPER",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ii4ceHEAZ?p=1",
+  "link": "https://www.bilibili.com/video/BV1QC4ce2EoQ?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "なんでもないや - RADWIMPS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aC4ce2E58?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "パラレルナイト",
+  "artist": "凛々咲",
+  "collection": "パラレルナイト - 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QC4ce2ECG?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "食虫植物",
+  "artist": "理芽",
+  "collection": "食虫植物 - 理芽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aC4ce2E5B?p=1",
   "source": "relay.js"
 },
     {
@@ -1622,43 +1606,11 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
-  "title": "最強の推し！",
-  "artist": "鈴木愛理",
-  "collection": "最強の推し！ - 鈴木愛理",
+  "title": "晚餐歌",
+  "artist": "tuki.",
+  "collection": "晚餐歌 - tuki.",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vi4ceHE8R?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "愛包ダンスホール",
-  "artist": "HIMEHINA",
-  "collection": "愛包ダンスホール - HIMEHINA",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vi4ceHEhN?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "ルマ",
-  "artist": "かいりきベア",
-  "collection": "ルマ - かいりきベア",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Ri4ceHEfX?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "よくばり",
-  "artist": "Ayase",
-  "collection": "よくばり - Ayase",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vi4ceHEm6?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "勇者",
-  "artist": "YOASOBI",
-  "collection": "勇者 - YOASOBI",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vi4ceHESq?p=1",
+  "link": "https://www.bilibili.com/video/BV1aC4ce2E5s?p=1",
   "source": "relay.js"
 },
     {
@@ -1670,91 +1622,51 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
-  "title": "Stellar Stellar",
-  "artist": "星街すいせい",
-  "collection": "Stellar Stellar - 星街すいせい",
+  "title": "勇者",
+  "artist": "YOASOBI",
+  "collection": "勇者 - YOASOBI",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vq4ceDE7E?p=1",
+  "link": "https://www.bilibili.com/video/BV1vi4ceHESq?p=1",
   "source": "relay.js"
 },
     {
-  "title": "それがあなたの幸せとしても",
-  "artist": "鬱P feat. v flower",
-  "collection": "それがあなたの幸せとしても - 鬱P feat. v flower",
+  "title": "よくばり",
+  "artist": "Ayase",
+  "collection": "よくばり - Ayase",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Rq4ceDE2H?p=1",
+  "link": "https://www.bilibili.com/video/BV1vi4ceHEm6?p=1",
   "source": "relay.js"
 },
     {
-  "title": "ワールドイズマイン",
-  "artist": "supercell feat.初音ミク",
-  "collection": "ワールドイズマイン - supercell feat.初音ミク",
+  "title": "ルマ",
+  "artist": "かいりきベア",
+  "collection": "ルマ - かいりきベア",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Rq4ceDEYi?p=1",
+  "link": "https://www.bilibili.com/video/BV1Ri4ceHEfX?p=1",
   "source": "relay.js"
 },
     {
-  "title": "私は最強",
-  "artist": "Ado",
-  "collection": "私は最強 - Ado",
+  "title": "愛包ダンスホール",
+  "artist": "HIMEHINA",
+  "collection": "愛包ダンスホール - HIMEHINA",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eq4ceDE2V?p=1",
+  "link": "https://www.bilibili.com/video/BV1vi4ceHEhN?p=1",
   "source": "relay.js"
 },
     {
-  "title": "シル・ヴ・プレジデント",
-  "artist": "P丸様。",
-  "collection": "シル・ヴ・プレジデント - P丸様。",
+  "title": "じょいふる",
+  "artist": "いきものがかり",
+  "collection": "じょいふる - いきものがかり",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eq4ceDEmB?p=1",
+  "link": "https://www.bilibili.com/video/BV1ii4ceHEAZ?p=1",
   "source": "relay.js"
 },
     {
-  "title": "Bad Apple!!",
-  "artist": "nomico",
-  "collection": "Bad Apple!! - nomico",
+  "title": "天体観測",
+  "artist": "BUMP OF CHIKEN",
+  "collection": "天体観測 - BUMP OF CHIKEN",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Rq4ceDEmY?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "可愛くてごめん",
-  "artist": "HoneyWorks feat. かぴ",
-  "collection": "可愛くてごめん - HoneyWorks feat. かぴ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Rq4ceDE7J?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "アンダー・ザ・シー",
-  "artist": "PrincessCelesta",
-  "collection": "アンダー・ザ・シー - PrincessCelesta",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ez4ceJEHb?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "六等星の夜",
-  "artist": "Aimer",
-  "collection": "六等星の夜 - Aimer",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ez4ceJEeD?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "アカペラハート",
-  "artist": "40mp",
-  "collection": "アカペラハート - 40mp",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ez4ceJEvU?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "unravel",
-  "artist": "TK from 凛として時雨",
-  "collection": "unravel - TK from 凛として時雨",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ez4ceJEw9?p=1",
+  "link": "https://www.bilibili.com/video/BV1oe4ceXEGn?p=1",
   "source": "relay.js"
 },
     {
@@ -1766,11 +1678,99 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
-  "title": "天体観測",
-  "artist": "BUMP OF CHIKEN",
-  "collection": "天体観測 - BUMP OF CHIKEN",
+  "title": "最強の推し！",
+  "artist": "鈴木愛理",
+  "collection": "最強の推し！ - 鈴木愛理",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1oe4ceXEGn?p=1",
+  "link": "https://www.bilibili.com/video/BV1vi4ceHE8R?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "unravel - TK from 凛として時雨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ez4ceJEw9?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "アカペラハート",
+  "artist": "40mp",
+  "collection": "アカペラハート - 40mp",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ez4ceJEvU?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "六等星の夜",
+  "artist": "Aimer",
+  "collection": "六等星の夜 - Aimer",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ez4ceJEeD?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "可愛くてごめん",
+  "artist": "HoneyWorks feat. かぴ",
+  "collection": "可愛くてごめん - HoneyWorks feat. かぴ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rq4ceDE7J?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "Bad Apple!!",
+  "artist": "nomico",
+  "collection": "Bad Apple!! - nomico",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rq4ceDEmY?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "アンダー・ザ・シー",
+  "artist": "PrincessCelesta",
+  "collection": "アンダー・ザ・シー - PrincessCelesta",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ez4ceJEHb?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "シル・ヴ・プレジデント",
+  "artist": "P丸様。",
+  "collection": "シル・ヴ・プレジデント - P丸様。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eq4ceDEmB?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "私は最強 - Ado",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eq4ceDE2V?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "supercell feat.初音ミク",
+  "collection": "ワールドイズマイン - supercell feat.初音ミク",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rq4ceDEYi?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "鬱P feat. v flower",
+  "collection": "それがあなたの幸せとしても - 鬱P feat. v flower",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rq4ceDE2H?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "Stellar Stellar - 星街すいせい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vq4ceDE7E?p=1",
   "source": "relay.js"
 },
     {

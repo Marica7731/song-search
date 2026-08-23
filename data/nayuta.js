@@ -1,6 +1,6 @@
 // nayuta - 歌单数据 (多合集汇总)
 // 来源: BV1GXYFzXETo, BV1MPpUzsE1D, BV184W5zeE1Z
-// 生成时间: 8/23/2026, 1:59:33 PM
+// 生成时间: 8/23/2026, 3:51:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1310,6 +1310,70 @@ window.SONG_DATA.push(
   "source": "nayuta.js"
 },
     {
+  "title": "残響散歌",
+  "artist": "Aimer 「鬼滅の刃 遊郭編」OP",
+  "collection": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LhH9z7Eg9?p=1",
+  "source": "nayuta.js"
+},
+    {
+  "title": "GIRAFFE BLUES",
+  "artist": "ワルキューレ 「マクロスΔ」插入曲",
+  "collection": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LhH9z7Eg9?p=2",
+  "source": "nayuta.js"
+},
+    {
+  "title": "AXIA〜ダイスキでダイキライ〜",
+  "artist": "ワルキューレ 「マクロスΔ」插入曲",
+  "collection": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LhH9z7Eg9?p=3",
+  "source": "nayuta.js"
+},
+    {
+  "title": "トライアングラー",
+  "artist": "坂本真綾 「マクロスF」OP",
+  "collection": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LhH9z7Eg9?p=4",
+  "source": "nayuta.js"
+},
+    {
+  "title": "tune the rainbow",
+  "artist": "坂本真綾 「ラーゼフォン 多元変奏曲」主題歌",
+  "collection": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LhH9z7Eg9?p=5",
+  "source": "nayuta.js"
+},
+    {
+  "title": "Departures 〜あなたにおくるアイの歌〜",
+  "artist": "EGOIST 「ギルティクラウン」ED",
+  "collection": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LhH9z7Eg9?p=6",
+  "source": "nayuta.js"
+},
+    {
+  "title": "明日への扉",
+  "artist": "I WiSH 「伝えたい言葉 〜涙のおちる場所〜」収録",
+  "collection": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LhH9z7Eg9?p=7",
+  "source": "nayuta.js"
+},
+    {
+  "title": "結い結われ",
+  "artist": "nayuta 「刻む、時とともに。結い結われてゆく――」",
+  "collection": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LhH9z7Eg9?p=8",
+  "source": "nayuta.js"
+},
+    {
   "title": "Reason",
   "artist": "玉置成実 「機動戦士ガンダムSEED DESTINY」ED",
   "collection": "【nayuta会限11/21】突如其来的黄金周特辑～声乐和钢琴的现场演奏会 vol.11 【2023年5月6日】【生演奏系列】",
@@ -1411,110 +1475,6 @@ window.SONG_DATA.push(
   "collection": "【nayuta会限11/21】突如其来的黄金周特辑～声乐和钢琴的现场演奏会 vol.11 【2023年5月6日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15aH9z2EeH?p=13",
-  "source": "nayuta.js"
-},
-    {
-  "title": "残響散歌",
-  "artist": "Aimer 「鬼滅の刃 遊郭編」OP",
-  "collection": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LhH9z7Eg9?p=1",
-  "source": "nayuta.js"
-},
-    {
-  "title": "GIRAFFE BLUES",
-  "artist": "ワルキューレ 「マクロスΔ」插入曲",
-  "collection": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LhH9z7Eg9?p=2",
-  "source": "nayuta.js"
-},
-    {
-  "title": "AXIA〜ダイスキでダイキライ〜",
-  "artist": "ワルキューレ 「マクロスΔ」插入曲",
-  "collection": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LhH9z7Eg9?p=3",
-  "source": "nayuta.js"
-},
-    {
-  "title": "トライアングラー",
-  "artist": "坂本真綾 「マクロスF」OP",
-  "collection": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LhH9z7Eg9?p=4",
-  "source": "nayuta.js"
-},
-    {
-  "title": "tune the rainbow",
-  "artist": "坂本真綾 「ラーゼフォン 多元変奏曲」主題歌",
-  "collection": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LhH9z7Eg9?p=5",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Departures 〜あなたにおくるアイの歌〜",
-  "artist": "EGOIST 「ギルティクラウン」ED",
-  "collection": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LhH9z7Eg9?p=6",
-  "source": "nayuta.js"
-},
-    {
-  "title": "明日への扉",
-  "artist": "I WiSH 「伝えたい言葉 〜涙のおちる場所〜」収録",
-  "collection": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LhH9z7Eg9?p=7",
-  "source": "nayuta.js"
-},
-    {
-  "title": "結い結われ",
-  "artist": "nayuta 「刻む、時とともに。結い結われてゆく――」",
-  "collection": "【nayuta会限12/21】16 周年特别纪念～声乐和钢琴的现场演奏会 vol.12 【2023年2月23日】【生演奏系列】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LhH9z7Eg9?p=8",
-  "source": "nayuta.js"
-},
-    {
-  "title": "ニコニコ動画流星群",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【nayuta限定】nayuta Acoustic Live vol.12 ~续 为频道会员的追加安可曲目",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LhH9z7Ex2?p=1",
-  "source": "nayuta.js"
-},
-    {
-  "title": "celluloid",
-  "artist": "Baker",
-  "collection": "【nayuta限定】nayuta Acoustic Live vol.12 ~续 为频道会员的追加安可曲目",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LhH9z7Ex2?p=2",
-  "source": "nayuta.js"
-},
-    {
-  "title": "ダブルラリアット",
-  "artist": "アゴアニキP",
-  "collection": "【nayuta限定】nayuta Acoustic Live vol.12 ~续 为频道会员的追加安可曲目",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LhH9z7Ex2?p=3",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Bad Apple!!",
-  "artist": "縑島正佳 feat. Nomico",
-  "collection": "【nayuta限定】nayuta Acoustic Live vol.12 ~续 为频道会员的追加安可曲目",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LhH9z7Ex2?p=4",
-  "source": "nayuta.js"
-},
-    {
-  "title": "you",
-  "artist": "dai",
-  "collection": "【nayuta限定】nayuta Acoustic Live vol.12 ~续 为频道会员的追加安可曲目",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LhH9z7Ex2?p=5",
   "source": "nayuta.js"
 },
     {
@@ -2222,46 +2182,6 @@ window.SONG_DATA.push(
   "source": "nayuta.js"
 },
     {
-  "title": "1.春よ、来い",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wmQSY1EFu?p=1",
-  "source": "nayuta.js"
-},
-    {
-  "title": "2.旅立ちの日に",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wmQSY1EFu?p=2",
-  "source": "nayuta.js"
-},
-    {
-  "title": "3.明日への扉",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wmQSY1EFu?p=3",
-  "source": "nayuta.js"
-},
-    {
-  "title": "4.春泥棒",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wmQSY1EFu?p=4",
-  "source": "nayuta.js"
-},
-    {
-  "title": "5.さよならメモリーズ",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wmQSY1EFu?p=5",
-  "source": "nayuta.js"
-},
-    {
   "title": "リフレクティア",
   "artist": "eufonius 「true tears」OP",
   "collection": "【nayuta会限20 续/21】15万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.20 续~【2025年3月15日】【生演奏系列】",
@@ -2315,6 +2235,46 @@ window.SONG_DATA.push(
   "collection": "【nayuta会限20 续/21】15万粉丝耐久 ~ 声乐和钢琴的现场演奏会 vol.20 续~【2025年3月15日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VBHdznEU6?p=7",
+  "source": "nayuta.js"
+},
+    {
+  "title": "1.春よ、来い",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wmQSY1EFu?p=1",
+  "source": "nayuta.js"
+},
+    {
+  "title": "2.旅立ちの日に",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wmQSY1EFu?p=2",
+  "source": "nayuta.js"
+},
+    {
+  "title": "3.明日への扉",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wmQSY1EFu?p=3",
+  "source": "nayuta.js"
+},
+    {
+  "title": "4.春泥棒",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wmQSY1EFu?p=4",
+  "source": "nayuta.js"
+},
+    {
+  "title": "5.さよならメモリーズ",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wmQSY1EFu?p=5",
   "source": "nayuta.js"
 },
     {
@@ -2387,6 +2347,46 @@ window.SONG_DATA.push(
   "collection": "【nayuta会限21/21】18周年記念 ~ 声乐和钢琴的现场演奏会 vol.21 【2025年6月18日】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fDNJzmELd?p=9",
+  "source": "nayuta.js"
+},
+    {
+  "title": "ニコニコ動画流星群",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【nayuta限定】nayuta Acoustic Live vol.12 ~续 为频道会员的追加安可曲目",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LhH9z7Ex2?p=1",
+  "source": "nayuta.js"
+},
+    {
+  "title": "celluloid",
+  "artist": "Baker",
+  "collection": "【nayuta限定】nayuta Acoustic Live vol.12 ~续 为频道会员的追加安可曲目",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LhH9z7Ex2?p=2",
+  "source": "nayuta.js"
+},
+    {
+  "title": "ダブルラリアット",
+  "artist": "アゴアニキP",
+  "collection": "【nayuta限定】nayuta Acoustic Live vol.12 ~续 为频道会员的追加安可曲目",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LhH9z7Ex2?p=3",
+  "source": "nayuta.js"
+},
+    {
+  "title": "Bad Apple!!",
+  "artist": "縑島正佳 feat. Nomico",
+  "collection": "【nayuta限定】nayuta Acoustic Live vol.12 ~续 为频道会员的追加安可曲目",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LhH9z7Ex2?p=4",
+  "source": "nayuta.js"
+},
+    {
+  "title": "you",
+  "artist": "dai",
+  "collection": "【nayuta限定】nayuta Acoustic Live vol.12 ~续 为频道会员的追加安可曲目",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LhH9z7Ex2?p=5",
   "source": "nayuta.js"
 },
     {
@@ -2838,843 +2838,563 @@ window.SONG_DATA.push(
   "source": "nayuta.js"
 },
     {
-  "title": "ブラック★ロックシューター",
-  "artist": "supercell feat.初音ミク ('08)",
-  "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=1",
-  "source": "nayuta.js"
-},
-    {
-  "title": "ワールドイズマイン",
-  "artist": "supercell feat.初音ミク ('08)",
-  "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=2",
-  "source": "nayuta.js"
-},
-    {
-  "title": "あんなに一緒だったのに",
-  "artist": "See-Saw ('02)",
-  "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=3",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Reason",
-  "artist": "玉置成実 ('04)",
-  "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=4",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Life Goes On",
-  "artist": "有坂美香 ('05)",
-  "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=5",
-  "source": "nayuta.js"
-},
-    {
-  "title": "暁の車",
-  "artist": "FictionJunction YUUKA ('04)",
-  "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=6",
-  "source": "nayuta.js"
-},
-    {
-  "title": "聖少女領域",
-  "artist": "ALI PROJECT ('05)",
-  "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=7",
-  "source": "nayuta.js"
-},
-    {
-  "title": "薔薇獄乙女",
-  "artist": "ALI PROJECT ('06)",
-  "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=8",
-  "source": "nayuta.js"
-},
-    {
-  "title": "緋色の空",
-  "artist": "川田まみ ('05)",
-  "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=9",
-  "source": "nayuta.js"
-},
-    {
-  "title": "キラメキラリ",
-  "artist": "高槻やよい(CV.仁後真耶子) ('07)",
-  "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=10",
-  "source": "nayuta.js"
-},
-    {
-  "title": "メルト",
-  "artist": "supercell feat.初音ミク ('07)",
-  "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=11",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Reason",
-  "artist": "玉置成実 『機動戦士ガンダムSEED DESTINY』ED",
-  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=1",
-  "source": "nayuta.js"
-},
-    {
-  "title": "僕たちの行方",
-  "artist": "高橋瞳 『機動戦士ガンダムSEED DESTINY』OP",
-  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=2",
-  "source": "nayuta.js"
-},
-    {
-  "title": "青空のナミダ",
-  "artist": "高橋瞳 『BLOOD+』OP",
-  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=3",
-  "source": "nayuta.js"
-},
-    {
-  "title": "PRIDE",
-  "artist": "HIGH and MIGHTY COLOR 『機動戦士ガンダムSEED DESTINY』OP",
-  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=4",
-  "source": "nayuta.js"
-},
-    {
-  "title": "あんなに一緒だったのに",
-  "artist": "See-Saw 『機動戦士ガンダムSEED』ED",
-  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=5",
-  "source": "nayuta.js"
-},
-    {
-  "title": "暁の車",
-  "artist": "FictionJunction Yuuka 『機動戦士ガンダムSEED』挿入歌",
-  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=6",
-  "source": "nayuta.js"
-},
-    {
-  "title": "焔の扉",
-  "artist": "FictionJunction Yuuka 『機動戦士ガンダムSEED DESTINY』挿入歌",
-  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=7",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Life Goes On",
-  "artist": "有坂美香 『機動戦士ガンダムSEED DESTINY』ED",
-  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=8",
-  "source": "nayuta.js"
-},
-    {
-  "title": "水の証",
-  "artist": "ラクス・クライン（CV.田中理惠） 『機動戦士ガンダムSEED』挿入歌",
-  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=9",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Get Over",
-  "artist": "Dream 『ヒカルの碁』OP",
-  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=10",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Rolling star",
-  "artist": "YUI 『BLEACH』OP",
-  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=11",
-  "source": "nayuta.js"
-},
-    {
-  "title": "again",
-  "artist": "YUI 『鋼の錬金術師 FULLMETAL ALCHEMIST』OP",
-  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=12",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Shangri-La",
-  "artist": "angela 『蒼穹のファフナー』OP",
-  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=13",
-  "source": "nayuta.js"
-},
-    {
-  "title": "agony",
-  "artist": "KOTOKO 『神無月の巫女』ED",
-  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=14",
-  "source": "nayuta.js"
-},
-    {
   "title": "JOINT",
-  "artist": "川田まみ 『灼眼のシャナII』OP",
-  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
+  "artist": "川田まみ 『灼眼のシャナ2 OP』",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=15",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=1",
   "source": "nayuta.js"
 },
     {
-  "title": "Super Driver",
-  "artist": "涼宮ハルヒ（CV.平野綾） 『涼宮ハルヒの憂鬱』OP",
-  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
+  "title": "crossing field",
+  "artist": "LiSA 『Sword Art Online OP』",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=16",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=2",
   "source": "nayuta.js"
 },
     {
-  "title": "Lost my music",
-  "artist": "涼宮ハルヒ（CV.平野綾） 『涼宮ハルヒの憂鬱』挿入歌",
-  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
+  "title": "Sincerely",
+  "artist": "TRUE 『ヴァイオレット・エヴァーガーデン OP』",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=17",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=3",
   "source": "nayuta.js"
 },
     {
-  "title": "innocent starter",
-  "artist": "水樹奈々 『魔法少女リリカルなのは』OP",
-  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
+  "title": "シス×ラブ",
+  "artist": "HoneyWorks",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=1",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=4",
   "source": "nayuta.js"
 },
     {
-  "title": "恋せよ女の子",
-  "artist": "田村ゆかり 『極上生徒会』OP",
-  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
+  "title": "恋は渾沌の隷也",
+  "artist": "後ろから這いより隊G 『這いよれ！ニャル子さんW OP』",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=2",
-  "source": "nayuta.js"
-},
-    {
-  "title": "fancy baby doll",
-  "artist": "田村ゆかり 『銀の旋律、記憶の水音。』収録",
-  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=3",
-  "source": "nayuta.js"
-},
-    {
-  "title": "緋色の空",
-  "artist": "川田まみ 『灼眼のシャナ』OP",
-  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=4",
-  "source": "nayuta.js"
-},
-    {
-  "title": "ユーフォリア",
-  "artist": "牧野由依 『ARIA The NATURAL』OP",
-  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=5",
-  "source": "nayuta.js"
-},
-    {
-  "title": "君は僕に似ている",
-  "artist": "See-Saw 『機動戦士ガンダムSEED DESTINY』ED",
-  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=6",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Life Goes On",
-  "artist": "有坂美香 『機動戦士ガンダムSEED DESTINY』ED",
-  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=7",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Silly-Go-Round",
-  "artist": "Fiction Junction YUUKA 『hackRoots』OP",
-  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=8",
-  "source": "nayuta.js"
-},
-    {
-  "title": "オトメロディー",
-  "artist": "高橋美佳子 『おねがいマイメロディ』OP",
-  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=9",
-  "source": "nayuta.js"
-},
-    {
-  "title": "アンインストール",
-  "artist": "石川智晶 『ぼくらの』OP",
-  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=10",
-  "source": "nayuta.js"
-},
-    {
-  "title": "光の螺旋律",
-  "artist": "kukui 『ローゼンメイデン トロイメント』ED",
-  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=11",
-  "source": "nayuta.js"
-},
-    {
-  "title": "薔薇獄乙女",
-  "artist": "ALI PROJECT 『ローゼンメイデン オーベルテューレ』OP",
-  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=12",
-  "source": "nayuta.js"
-},
-    {
-  "title": "聖少女領域",
-  "artist": "ALI PROJECT 『ローゼンメイデン トロイメント』OP",
-  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=13",
-  "source": "nayuta.js"
-},
-    {
-  "title": "スケッチスイッチ",
-  "artist": "阿澄佳奈、水橋かおり、新谷良子、後藤邑子 『ひだまりスケッチ』OP",
-  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=14",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Go Tight!",
-  "artist": "AKINO 『創聖のアクエリオン』OP",
-  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=15",
-  "source": "nayuta.js"
-},
-    {
-  "title": "創聖のアクエリオン",
-  "artist": "AKINO 『創聖のアクエリオン』OP",
-  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=16",
-  "source": "nayuta.js"
-},
-    {
-  "title": "innocent starter",
-  "artist": "水樹奈々 『魔法少女リリカルなのは』OP",
-  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=17",
-  "source": "nayuta.js"
-},
-    {
-  "title": "恋せよ女の子",
-  "artist": "田村ゆかり 『極上生徒会』OP",
-  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=18",
-  "source": "nayuta.js"
-},
-    {
-  "title": "レッツゴー！陰陽師",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=1",
-  "source": "nayuta.js"
-},
-    {
-  "title": "ハッピー☆マテリアル",
-  "artist": "麻帆良学園中等部2-A 『魔法先生ネギま!』OP",
-  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=2",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=5",
   "source": "nayuta.js"
 },
     {
   "title": "経験値上昇中☆",
-  "artist": "みなみけ3姉妹 『みなみけ』OP",
-  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
+  "artist": "みなみけ 『みなみけ OP』",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=3",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=6",
   "source": "nayuta.js"
 },
     {
-  "title": "撲殺天使ドクロちゃん",
-  "artist": "ドクロちゃん 『撲殺天使ドクロちゃん』OP",
-  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
+  "title": "PUNCH☆MIND☆HAPPINESS",
+  "artist": "Happy Clover 『あんハピ♪ OP』",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=4",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=7",
   "source": "nayuta.js"
 },
     {
-  "title": "ハム太郎とっとこうた",
-  "artist": "ハムちゃんず 『とっとこハム太郎』OP",
-  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
+  "title": "友情物語",
+  "artist": "Aice 『いぬかみっ! ED』",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=5",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=8",
   "source": "nayuta.js"
 },
     {
-  "title": "もってけ!セーラーふく",
-  "artist": "泉こなた、柊かがみ、柊つかさ、高良みゆき 『らき☆すた』OP",
-  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
+  "title": "1000%SPARKING!",
+  "artist": "（ネギま! OP）",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=6",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=9",
   "source": "nayuta.js"
 },
     {
-  "title": "プラチナ",
-  "artist": "坂本真綾 『カードキャプターさくら』OP3",
-  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
+  "title": "お勉強しといてよ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=7",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=10",
   "source": "nayuta.js"
 },
     {
-  "title": "Bad Apple!!",
-  "artist": "nomico",
-  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
+  "title": "KING",
+  "artist": "Kanaria",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=8",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=11",
   "source": "nayuta.js"
 },
     {
-  "title": "暁の車",
-  "artist": "FictionJunction featuring YUUKA 『機動戦士ガンダムSEED』挿入歌",
-  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
+  "title": "シンデレラ",
+  "artist": "DECO*27",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=9",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=12",
   "source": "nayuta.js"
 },
     {
-  "title": "Reason",
-  "artist": "玉置成実 『機動戦士ガンダムSEED DESTINY』ED",
-  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
+  "title": "回レ! 雪月花",
+  "artist": "歌組雪月花 『機巧少女は傷つかない ED』",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=10",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=13",
   "source": "nayuta.js"
 },
     {
-  "title": "oblivious",
-  "artist": "Kalafina 『空の境界』劇場アニメ 第一章 俯瞰風景 ED",
-  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
+  "title": "冒険でしょでしょ？",
+  "artist": "平野綾 『涼宮ハルヒの憂鬱 OP』",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=11",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=14",
   "source": "nayuta.js"
 },
     {
-  "title": "sprinter",
-  "artist": "Kalafina 『空の境界』劇場アニメ 第五章 矛盾螺旋 ED",
-  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
+  "title": "Super Driver",
+  "artist": "平野綾 『涼宮ハルヒの憂鬱 OP』",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=12",
-  "source": "nayuta.js"
-},
-    {
-  "title": "鳥の詩",
-  "artist": "Lia 『AIR』主題歌",
-  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=13",
-  "source": "nayuta.js"
-},
-    {
-  "title": "エルの楽園 ［→ side：Ｅ →］",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=1",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Ark",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=2",
-  "source": "nayuta.js"
-},
-    {
-  "title": "エルの絵本 【魔女とラフレンツェ】",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=3",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Baroque",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=4",
-  "source": "nayuta.js"
-},
-    {
-  "title": "エルの肖像",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=5",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Yield",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=6",
-  "source": "nayuta.js"
-},
-    {
-  "title": "エルの天秤",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=7",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Sacrifice",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=8",
-  "source": "nayuta.js"
-},
-    {
-  "title": "エルの絵本 【笛吹き男とパレード】",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=9",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Stardust",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=10",
-  "source": "nayuta.js"
-},
-    {
-  "title": "エルの楽園 ［→ side：Ａ →］",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=11",
-  "source": "nayuta.js"
-},
-    {
-  "title": "星屑の革紐",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=12",
-  "source": "nayuta.js"
-},
-    {
-  "title": "澪音の世界",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=13",
-  "source": "nayuta.js"
-},
-    {
-  "title": "黒の予言書",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=14",
-  "source": "nayuta.js"
-},
-    {
-  "title": "ハジマリのChronicle",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=15",
-  "source": "nayuta.js"
-},
-    {
-  "title": "バーモント・キッス",
-  "artist": "相対性理論",
-  "collection": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KEpnz3EJY?p=1",
-  "source": "nayuta.js"
-},
-    {
-  "title": "LOVEずっきゅん",
-  "artist": "相対性理論",
-  "collection": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KEpnz3EJY?p=2",
-  "source": "nayuta.js"
-},
-    {
-  "title": "帝都モダン",
-  "artist": "相対性理論",
-  "collection": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KEpnz3EJY?p=3",
-  "source": "nayuta.js"
-},
-    {
-  "title": "地獄先生",
-  "artist": "相対性理論",
-  "collection": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KEpnz3EJY?p=4",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=15",
   "source": "nayuta.js"
 },
     {
   "title": "少年よ我に帰れ",
   "artist": "やくしまるえつこメトロオーケストラ",
-  "collection": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KEpnz3EJY?p=5",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=16",
   "source": "nayuta.js"
 },
     {
-  "title": "恋せよ女の子",
+  "title": "地獄先生",
+  "artist": "相対性理論",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=17",
+  "source": "nayuta.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=18",
+  "source": "nayuta.js"
+},
+    {
+  "title": "This game",
+  "artist": "鈴木このみ 『No Game No Life OP』",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=19",
+  "source": "nayuta.js"
+},
+    {
+  "title": "Los! Los! Los!",
+  "artist": "悠木 碧 『幼女戦記 ED』",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=20",
+  "source": "nayuta.js"
+},
+    {
+  "title": "終端の王と異世界の騎士 〜The Endia & The Knights〜",
+  "artist": "Sound Horizon",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=21",
+  "source": "nayuta.js"
+},
+    {
+  "title": "Ark",
+  "artist": "Sound Horizon",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=22",
+  "source": "nayuta.js"
+},
+    {
+  "title": "薔薇獄乙女",
+  "artist": "ALI PROJECT",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=23",
+  "source": "nayuta.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾 『カードキャプターさくら OP』",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=24",
+  "source": "nayuta.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー＝中島愛 『マクロスF OP』",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=25",
+  "source": "nayuta.js"
+},
+    {
+  "title": "灼熱スイッチ",
+  "artist": "雀が原中學卓球部 『灼熱の卓球娘 OP』",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=26",
+  "source": "nayuta.js"
+},
+    {
+  "title": "スケッチスイッチ",
+  "artist": "（ひだまりスケッチ OP）",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=27",
+  "source": "nayuta.js"
+},
+    {
+  "title": "撲殺天使ドクロちゃん",
+  "artist": "ドクロちゃん(CV.千葉紗子) 『撲殺天使ドクロちゃん OP』",
+  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=28",
+  "source": "nayuta.js"
+},
+    {
+  "title": "オトメロディー",
+  "artist": "高橋美佳子",
+  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=1",
+  "source": "nayuta.js"
+},
+    {
+  "title": "バーモント・キッス",
+  "artist": "相対性理論",
+  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=2",
+  "source": "nayuta.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=3",
+  "source": "nayuta.js"
+},
+    {
+  "title": "One Last Kiss",
+  "artist": "宇多田ヒカル",
+  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=4",
+  "source": "nayuta.js"
+},
+    {
+  "title": "Good-bye Days",
+  "artist": "YUI",
+  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=5",
+  "source": "nayuta.js"
+},
+    {
+  "title": "TOKYO",
+  "artist": "YUI",
+  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=6",
+  "source": "nayuta.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=7",
+  "source": "nayuta.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar",
+  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=8",
+  "source": "nayuta.js"
+},
+    {
+  "title": "噴罪",
+  "artist": "傘村トータ",
+  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=9",
+  "source": "nayuta.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=10",
+  "source": "nayuta.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=11",
+  "source": "nayuta.js"
+},
+    {
+  "title": "暗く黒く",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=12",
+  "source": "nayuta.js"
+},
+    {
+  "title": "ギー太に首ったけ",
+  "artist": "豊崎愛生",
+  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=13",
+  "source": "nayuta.js"
+},
+    {
+  "title": "ダダダダ天使",
+  "artist": "ナナヲアカリ",
+  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=14",
+  "source": "nayuta.js"
+},
+    {
+  "title": "ユーフォリア",
+  "artist": "牧野由依",
+  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=15",
+  "source": "nayuta.js"
+},
+    {
+  "title": "恋は渾沌の隷也",
+  "artist": "後ろから這いより隊G",
+  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=1",
+  "source": "nayuta.js"
+},
+    {
+  "title": "童話迷宮",
   "artist": "田村ゆかり",
-  "collection": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
+  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KEpnz3EJY?p=6",
+  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=2",
   "source": "nayuta.js"
 },
     {
-  "title": "fancy baby doll",
+  "title": "Fancy Baby Doll",
   "artist": "田村ゆかり",
-  "collection": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
+  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KEpnz3EJY?p=7",
+  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=3",
   "source": "nayuta.js"
 },
     {
-  "title": "YUBIKIRI-GENMAN",
-  "artist": "Mili",
-  "collection": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
+  "title": "春擬き",
+  "artist": "やなぎなぎ",
+  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KEpnz3EJY?p=8",
+  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=4",
   "source": "nayuta.js"
 },
     {
-  "title": "本当の音",
-  "artist": "KOKIA",
-  "collection": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
+  "title": "Shangri-La",
+  "artist": "angela",
+  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KEpnz3EJY?p=9",
+  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=5",
   "source": "nayuta.js"
 },
     {
-  "title": "バレンタイン・キッス",
-  "artist": "国生さゆり",
-  "collection": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KEpnz3EJY?p=10",
+  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=6",
   "source": "nayuta.js"
 },
     {
-  "title": "恋愛サーキュレーション",
-  "artist": "花澤香菜",
-  "collection": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
+  "title": "甲賀忍法帖",
+  "artist": "陰陽座",
+  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KEpnz3EJY?p=11",
+  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=7",
   "source": "nayuta.js"
 },
     {
-  "title": "恋人を射ち堕とした日",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
+  "title": "聖少女領域",
+  "artist": "ALI PROJECT",
+  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=1",
+  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=8",
   "source": "nayuta.js"
 },
     {
-  "title": "エルの楽園［→ sideE →］",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
+  "title": "U",
+  "artist": "millennium parade",
+  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=2",
+  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=9",
   "source": "nayuta.js"
 },
     {
-  "title": "エルの天秤",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
+  "title": "神っぽいな",
+  "artist": "ピノキオピー",
+  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=3",
+  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=10",
   "source": "nayuta.js"
 },
     {
-  "title": "エルの絵本【笛吹き男とパレード】",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
+  "title": "正しくなれない",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=4",
+  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=11",
   "source": "nayuta.js"
 },
     {
-  "title": "Stardust",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=5",
+  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=12",
   "source": "nayuta.js"
 },
     {
-  "title": "終端の王と異世界の騎士 ～The Endia & The Knights～",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
+  "title": "ヘミソフィア",
+  "artist": "坂本真綾",
+  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=6",
+  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=13",
   "source": "nayuta.js"
 },
     {
-  "title": "緋色の風車",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
+  "title": "Beautiful World",
+  "artist": "宇多田ヒカル",
+  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=7",
+  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=14",
   "source": "nayuta.js"
 },
     {
-  "title": "schwarzweiß 〜霧の向こうに繋がる世界〜",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
+  "title": "モザイクロール",
+  "artist": "DECO*27",
+  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=8",
+  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=15",
   "source": "nayuta.js"
 },
     {
-  "title": "雷神の系譜",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
+  "title": "緋色の花",
+  "artist": "Lost",
+  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=9",
-  "source": "nayuta.js"
-},
-    {
-  "title": "星屑の革紐",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=10",
-  "source": "nayuta.js"
-},
-    {
-  "title": "ARK",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=11",
+  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=1",
   "source": "nayuta.js"
 },
     {
   "title": "黒の予言書",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
+  "artist": "Chronicle 2nd",
+  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=12",
+  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=2",
+  "source": "nayuta.js"
+},
+    {
+  "title": "＜ハジマリ＞のクロニクル",
+  "artist": "Chronicle 2nd",
+  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=3",
   "source": "nayuta.js"
 },
     {
   "title": "澪音の世界",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
+  "artist": "Elysion",
+  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=13",
+  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=4",
   "source": "nayuta.js"
 },
     {
-  "title": "輪廻の砂時計",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
+  "title": "Ark",
+  "artist": "Elysion",
+  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=14",
+  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=5",
+  "source": "nayuta.js"
+},
+    {
+  "title": "StarDust",
+  "artist": "Elysion",
+  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=6",
+  "source": "nayuta.js"
+},
+    {
+  "title": "終端の王と異世界の騎士",
+  "artist": "少年は剣を",
+  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=7",
+  "source": "nayuta.js"
+},
+    {
+  "title": "星屑の革紐",
+  "artist": "Roman",
+  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=8",
   "source": "nayuta.js"
 },
     {
   "title": "美しきもの",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
+  "artist": "Roman",
+  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=15",
-  "source": "nayuta.js"
-},
-    {
-  "title": "沈んだ歌姫",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=16",
-  "source": "nayuta.js"
-},
-    {
-  "title": "朝と夜の物語",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=17",
-  "source": "nayuta.js"
-},
-    {
-  "title": "＜ハジマリ＞のChronicle",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=18",
-  "source": "nayuta.js"
-},
-    {
-  "title": "壊れたマリオネット",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=19",
+  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=9",
   "source": "nayuta.js"
 },
     {
   "title": "11文字の伝言",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
+  "artist": "Roman",
+  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=20",
+  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=10",
+  "source": "nayuta.js"
+},
+    {
+  "title": "朝と夜の物語",
+  "artist": "Roman",
+  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=11",
+  "source": "nayuta.js"
+},
+    {
+  "title": "侵略する者される者",
+  "artist": "聖戦のイベリア",
+  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=12",
   "source": "nayuta.js"
 },
     {
@@ -4102,563 +3822,843 @@ window.SONG_DATA.push(
   "source": "nayuta.js"
 },
     {
-  "title": "緋色の花",
-  "artist": "Lost",
-  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
+  "title": "恋人を射ち堕とした日",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=1",
+  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=1",
   "source": "nayuta.js"
 },
     {
-  "title": "黒の予言書",
-  "artist": "Chronicle 2nd",
-  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
+  "title": "エルの楽園［→ sideE →］",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=2",
+  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=2",
   "source": "nayuta.js"
 },
     {
-  "title": "＜ハジマリ＞のクロニクル",
-  "artist": "Chronicle 2nd",
-  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
+  "title": "エルの天秤",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=3",
+  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=3",
   "source": "nayuta.js"
 },
     {
-  "title": "澪音の世界",
-  "artist": "Elysion",
-  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
+  "title": "エルの絵本【笛吹き男とパレード】",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=4",
+  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=4",
   "source": "nayuta.js"
 },
     {
-  "title": "Ark",
-  "artist": "Elysion",
-  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
+  "title": "Stardust",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=5",
+  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=5",
   "source": "nayuta.js"
 },
     {
-  "title": "StarDust",
-  "artist": "Elysion",
-  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
+  "title": "終端の王と異世界の騎士 ～The Endia & The Knights～",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=6",
+  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=6",
   "source": "nayuta.js"
 },
     {
-  "title": "終端の王と異世界の騎士",
-  "artist": "少年は剣を",
-  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
+  "title": "緋色の風車",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=7",
+  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=7",
+  "source": "nayuta.js"
+},
+    {
+  "title": "schwarzweiß 〜霧の向こうに繋がる世界〜",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=8",
+  "source": "nayuta.js"
+},
+    {
+  "title": "雷神の系譜",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=9",
   "source": "nayuta.js"
 },
     {
   "title": "星屑の革紐",
-  "artist": "Roman",
-  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=8",
+  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=10",
+  "source": "nayuta.js"
+},
+    {
+  "title": "ARK",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=11",
+  "source": "nayuta.js"
+},
+    {
+  "title": "黒の予言書",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=12",
+  "source": "nayuta.js"
+},
+    {
+  "title": "澪音の世界",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=13",
+  "source": "nayuta.js"
+},
+    {
+  "title": "輪廻の砂時計",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=14",
   "source": "nayuta.js"
 },
     {
   "title": "美しきもの",
-  "artist": "Roman",
-  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=9",
+  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=15",
   "source": "nayuta.js"
 },
     {
-  "title": "11文字の伝言",
-  "artist": "Roman",
-  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
+  "title": "沈んだ歌姫",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=10",
+  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=16",
   "source": "nayuta.js"
 },
     {
   "title": "朝と夜の物語",
-  "artist": "Roman",
-  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=11",
+  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=17",
   "source": "nayuta.js"
 },
     {
-  "title": "侵略する者される者",
-  "artist": "聖戦のイベリア",
-  "collection": "【 nayuta 歌枠】Sound Horizon 兴趣限定歌回 1【#なまゆた】",
+  "title": "＜ハジマリ＞のChronicle",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12NpUzXEdF?p=12",
+  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=18",
   "source": "nayuta.js"
 },
     {
-  "title": "恋は渾沌の隷也",
-  "artist": "後ろから這いより隊G",
-  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
+  "title": "壊れたマリオネット",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=1",
+  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=19",
   "source": "nayuta.js"
 },
     {
-  "title": "童話迷宮",
-  "artist": "田村ゆかり",
-  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
+  "title": "11文字の伝言",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】兴趣歌回 ~ Sound Horizon限定 2022年12月23日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=2",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Fancy Baby Doll",
-  "artist": "田村ゆかり",
-  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=3",
-  "source": "nayuta.js"
-},
-    {
-  "title": "春擬き",
-  "artist": "やなぎなぎ",
-  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=4",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Shangri-La",
-  "artist": "angela",
-  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=5",
-  "source": "nayuta.js"
-},
-    {
-  "title": "いけないボーダーライン",
-  "artist": "ワルキューレ",
-  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=6",
-  "source": "nayuta.js"
-},
-    {
-  "title": "甲賀忍法帖",
-  "artist": "陰陽座",
-  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=7",
-  "source": "nayuta.js"
-},
-    {
-  "title": "聖少女領域",
-  "artist": "ALI PROJECT",
-  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=8",
-  "source": "nayuta.js"
-},
-    {
-  "title": "U",
-  "artist": "millennium parade",
-  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=9",
-  "source": "nayuta.js"
-},
-    {
-  "title": "神っぽいな",
-  "artist": "ピノキオピー",
-  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=10",
-  "source": "nayuta.js"
-},
-    {
-  "title": "正しくなれない",
-  "artist": "ずっと真夜中でいいのに。",
-  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=11",
-  "source": "nayuta.js"
-},
-    {
-  "title": "春泥棒",
-  "artist": "ヨルシカ",
-  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=12",
-  "source": "nayuta.js"
-},
-    {
-  "title": "ヘミソフィア",
-  "artist": "坂本真綾",
-  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=13",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Beautiful World",
-  "artist": "宇多田ヒカル",
-  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=14",
-  "source": "nayuta.js"
-},
-    {
-  "title": "モザイクロール",
-  "artist": "DECO*27",
-  "collection": "【会限】nayuta 3w粉丝倒计时歌回切片",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MPpUzsE1D?p=15",
-  "source": "nayuta.js"
-},
-    {
-  "title": "オトメロディー",
-  "artist": "高橋美佳子",
-  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=1",
+  "link": "https://www.bilibili.com/video/BV1nvpwz2EaH?p=20",
   "source": "nayuta.js"
 },
     {
   "title": "バーモント・キッス",
   "artist": "相対性理論",
-  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
+  "collection": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=2",
+  "link": "https://www.bilibili.com/video/BV1KEpnz3EJY?p=1",
   "source": "nayuta.js"
 },
     {
-  "title": "月のワルツ",
-  "artist": "諫山実生",
-  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
+  "title": "LOVEずっきゅん",
+  "artist": "相対性理論",
+  "collection": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=3",
+  "link": "https://www.bilibili.com/video/BV1KEpnz3EJY?p=2",
   "source": "nayuta.js"
 },
     {
-  "title": "One Last Kiss",
-  "artist": "宇多田ヒカル",
-  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
+  "title": "帝都モダン",
+  "artist": "相対性理論",
+  "collection": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=4",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Good-bye Days",
-  "artist": "YUI",
-  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=5",
-  "source": "nayuta.js"
-},
-    {
-  "title": "TOKYO",
-  "artist": "YUI",
-  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=6",
-  "source": "nayuta.js"
-},
-    {
-  "title": "いのちの名前",
-  "artist": "木村弓",
-  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=7",
-  "source": "nayuta.js"
-},
-    {
-  "title": "アスノヨゾラ哨戒班",
-  "artist": "Orangestar",
-  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=8",
-  "source": "nayuta.js"
-},
-    {
-  "title": "噴罪",
-  "artist": "傘村トータ",
-  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=9",
-  "source": "nayuta.js"
-},
-    {
-  "title": "藍二乗",
-  "artist": "ヨルシカ",
-  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=10",
-  "source": "nayuta.js"
-},
-    {
-  "title": "言って。",
-  "artist": "ヨルシカ",
-  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=11",
-  "source": "nayuta.js"
-},
-    {
-  "title": "暗く黒く",
-  "artist": "ずっと真夜中でいいのに。",
-  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=12",
-  "source": "nayuta.js"
-},
-    {
-  "title": "ギー太に首ったけ",
-  "artist": "豊崎愛生",
-  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=13",
-  "source": "nayuta.js"
-},
-    {
-  "title": "ダダダダ天使",
-  "artist": "ナナヲアカリ",
-  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=14",
-  "source": "nayuta.js"
-},
-    {
-  "title": "ユーフォリア",
-  "artist": "牧野由依",
-  "collection": "【nayuta 歌枠切片】唱自己喜欢的歌 3 2021年12月9日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DTpaz7EoL?p=15",
-  "source": "nayuta.js"
-},
-    {
-  "title": "JOINT",
-  "artist": "川田まみ 『灼眼のシャナ2 OP』",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=1",
-  "source": "nayuta.js"
-},
-    {
-  "title": "crossing field",
-  "artist": "LiSA 『Sword Art Online OP』",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=2",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Sincerely",
-  "artist": "TRUE 『ヴァイオレット・エヴァーガーデン OP』",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=3",
-  "source": "nayuta.js"
-},
-    {
-  "title": "シス×ラブ",
-  "artist": "HoneyWorks",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=4",
-  "source": "nayuta.js"
-},
-    {
-  "title": "恋は渾沌の隷也",
-  "artist": "後ろから這いより隊G 『這いよれ！ニャル子さんW OP』",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=5",
-  "source": "nayuta.js"
-},
-    {
-  "title": "経験値上昇中☆",
-  "artist": "みなみけ 『みなみけ OP』",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=6",
-  "source": "nayuta.js"
-},
-    {
-  "title": "PUNCH☆MIND☆HAPPINESS",
-  "artist": "Happy Clover 『あんハピ♪ OP』",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=7",
-  "source": "nayuta.js"
-},
-    {
-  "title": "友情物語",
-  "artist": "Aice 『いぬかみっ! ED』",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=8",
-  "source": "nayuta.js"
-},
-    {
-  "title": "1000%SPARKING!",
-  "artist": "（ネギま! OP）",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=9",
-  "source": "nayuta.js"
-},
-    {
-  "title": "お勉強しといてよ",
-  "artist": "ずっと真夜中でいいのに。",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=10",
-  "source": "nayuta.js"
-},
-    {
-  "title": "KING",
-  "artist": "Kanaria",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=11",
-  "source": "nayuta.js"
-},
-    {
-  "title": "シンデレラ",
-  "artist": "DECO*27",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=12",
-  "source": "nayuta.js"
-},
-    {
-  "title": "回レ! 雪月花",
-  "artist": "歌組雪月花 『機巧少女は傷つかない ED』",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=13",
-  "source": "nayuta.js"
-},
-    {
-  "title": "冒険でしょでしょ？",
-  "artist": "平野綾 『涼宮ハルヒの憂鬱 OP』",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=14",
-  "source": "nayuta.js"
-},
-    {
-  "title": "Super Driver",
-  "artist": "平野綾 『涼宮ハルヒの憂鬱 OP』",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=15",
-  "source": "nayuta.js"
-},
-    {
-  "title": "少年よ我に帰れ",
-  "artist": "やくしまるえつこメトロオーケストラ",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=16",
+  "link": "https://www.bilibili.com/video/BV1KEpnz3EJY?p=3",
   "source": "nayuta.js"
 },
     {
   "title": "地獄先生",
   "artist": "相対性理論",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "collection": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=17",
+  "link": "https://www.bilibili.com/video/BV1KEpnz3EJY?p=4",
   "source": "nayuta.js"
 },
     {
-  "title": "ノーチラス",
-  "artist": "ヨルシカ",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "title": "少年よ我に帰れ",
+  "artist": "やくしまるえつこメトロオーケストラ",
+  "collection": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=18",
+  "link": "https://www.bilibili.com/video/BV1KEpnz3EJY?p=5",
   "source": "nayuta.js"
 },
     {
-  "title": "This game",
-  "artist": "鈴木このみ 『No Game No Life OP』",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "title": "恋せよ女の子",
+  "artist": "田村ゆかり",
+  "collection": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=19",
+  "link": "https://www.bilibili.com/video/BV1KEpnz3EJY?p=6",
   "source": "nayuta.js"
 },
     {
-  "title": "Los! Los! Los!",
-  "artist": "悠木 碧 『幼女戦記 ED』",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "title": "fancy baby doll",
+  "artist": "田村ゆかり",
+  "collection": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=20",
+  "link": "https://www.bilibili.com/video/BV1KEpnz3EJY?p=7",
   "source": "nayuta.js"
 },
     {
-  "title": "終端の王と異世界の騎士 〜The Endia & The Knights〜",
-  "artist": "Sound Horizon",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "title": "YUBIKIRI-GENMAN",
+  "artist": "Mili",
+  "collection": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=21",
+  "link": "https://www.bilibili.com/video/BV1KEpnz3EJY?p=8",
+  "source": "nayuta.js"
+},
+    {
+  "title": "本当の音",
+  "artist": "KOKIA",
+  "collection": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KEpnz3EJY?p=9",
+  "source": "nayuta.js"
+},
+    {
+  "title": "バレンタイン・キッス",
+  "artist": "国生さゆり",
+  "collection": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KEpnz3EJY?p=10",
+  "source": "nayuta.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "花澤香菜",
+  "collection": "【会限nayuta Live切片】卡拉OK（相对性理论，应该属于可爱歌回 ~2023年2月14日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KEpnz3EJY?p=11",
+  "source": "nayuta.js"
+},
+    {
+  "title": "エルの楽園 ［→ side：Ｅ →］",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=1",
   "source": "nayuta.js"
 },
     {
   "title": "Ark",
-  "artist": "Sound Horizon",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=22",
+  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=2",
   "source": "nayuta.js"
 },
     {
-  "title": "薔薇獄乙女",
-  "artist": "ALI PROJECT",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "title": "エルの絵本 【魔女とラフレンツェ】",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=23",
+  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=3",
   "source": "nayuta.js"
 },
     {
-  "title": "プラチナ",
-  "artist": "坂本真綾 『カードキャプターさくら OP』",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "title": "Baroque",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=24",
+  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=4",
   "source": "nayuta.js"
 },
     {
-  "title": "星間飛行",
-  "artist": "ランカ・リー＝中島愛 『マクロスF OP』",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "title": "エルの肖像",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=25",
+  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=5",
   "source": "nayuta.js"
 },
     {
-  "title": "灼熱スイッチ",
-  "artist": "雀が原中學卓球部 『灼熱の卓球娘 OP』",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "title": "Yield",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=26",
+  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=6",
   "source": "nayuta.js"
 },
     {
-  "title": "スケッチスイッチ",
-  "artist": "（ひだまりスケッチ OP）",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "title": "エルの天秤",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=27",
+  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=7",
+  "source": "nayuta.js"
+},
+    {
+  "title": "Sacrifice",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=8",
+  "source": "nayuta.js"
+},
+    {
+  "title": "エルの絵本 【笛吹き男とパレード】",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=9",
+  "source": "nayuta.js"
+},
+    {
+  "title": "Stardust",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=10",
+  "source": "nayuta.js"
+},
+    {
+  "title": "エルの楽園 ［→ side：Ａ →］",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=11",
+  "source": "nayuta.js"
+},
+    {
+  "title": "星屑の革紐",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=12",
+  "source": "nayuta.js"
+},
+    {
+  "title": "澪音の世界",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=13",
+  "source": "nayuta.js"
+},
+    {
+  "title": "黒の予言書",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=14",
+  "source": "nayuta.js"
+},
+    {
+  "title": "ハジマリのChronicle",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】Sound Horizon专辑《Elysion〜楽園幻想物語組曲〜》翻唱 和几首前奏曲 2023年9月10日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UVpnzCEpW?p=15",
+  "source": "nayuta.js"
+},
+    {
+  "title": "レッツゴー！陰陽師",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=1",
+  "source": "nayuta.js"
+},
+    {
+  "title": "ハッピー☆マテリアル",
+  "artist": "麻帆良学園中等部2-A 『魔法先生ネギま!』OP",
+  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=2",
+  "source": "nayuta.js"
+},
+    {
+  "title": "経験値上昇中☆",
+  "artist": "みなみけ3姉妹 『みなみけ』OP",
+  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=3",
   "source": "nayuta.js"
 },
     {
   "title": "撲殺天使ドクロちゃん",
-  "artist": "ドクロちゃん(CV.千葉紗子) 『撲殺天使ドクロちゃん OP』",
-  "collection": "【nayuta 歌枠切片】HITORI KARAOKE 1 2021年10月25日",
+  "artist": "ドクロちゃん 『撲殺天使ドクロちゃん』OP",
+  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1dZphzWEWf?p=28",
+  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=4",
+  "source": "nayuta.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず 『とっとこハム太郎』OP",
+  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=5",
+  "source": "nayuta.js"
+},
+    {
+  "title": "もってけ!セーラーふく",
+  "artist": "泉こなた、柊かがみ、柊つかさ、高良みゆき 『らき☆すた』OP",
+  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=6",
+  "source": "nayuta.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾 『カードキャプターさくら』OP3",
+  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=7",
+  "source": "nayuta.js"
+},
+    {
+  "title": "Bad Apple!!",
+  "artist": "nomico",
+  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=8",
+  "source": "nayuta.js"
+},
+    {
+  "title": "暁の車",
+  "artist": "FictionJunction featuring YUUKA 『機動戦士ガンダムSEED』挿入歌",
+  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=9",
+  "source": "nayuta.js"
+},
+    {
+  "title": "Reason",
+  "artist": "玉置成実 『機動戦士ガンダムSEED DESTINY』ED",
+  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=10",
+  "source": "nayuta.js"
+},
+    {
+  "title": "oblivious",
+  "artist": "Kalafina 『空の境界』劇場アニメ 第一章 俯瞰風景 ED",
+  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=11",
+  "source": "nayuta.js"
+},
+    {
+  "title": "sprinter",
+  "artist": "Kalafina 『空の境界』劇場アニメ 第五章 矛盾螺旋 ED",
+  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=12",
+  "source": "nayuta.js"
+},
+    {
+  "title": "鳥の詩",
+  "artist": "Lia 『AIR』主題歌",
+  "collection": "【会限nayuta Live切片】2023年秋号 ～秋天还是感冒了 ~ 互联网老年人协会Live ~2023年11月19日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18mpEzkEtH?p=13",
+  "source": "nayuta.js"
+},
+    {
+  "title": "innocent starter",
+  "artist": "水樹奈々 『魔法少女リリカルなのは』OP",
+  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=1",
+  "source": "nayuta.js"
+},
+    {
+  "title": "恋せよ女の子",
+  "artist": "田村ゆかり 『極上生徒会』OP",
+  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=2",
+  "source": "nayuta.js"
+},
+    {
+  "title": "fancy baby doll",
+  "artist": "田村ゆかり 『銀の旋律、記憶の水音。』収録",
+  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=3",
+  "source": "nayuta.js"
+},
+    {
+  "title": "緋色の空",
+  "artist": "川田まみ 『灼眼のシャナ』OP",
+  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=4",
+  "source": "nayuta.js"
+},
+    {
+  "title": "ユーフォリア",
+  "artist": "牧野由依 『ARIA The NATURAL』OP",
+  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=5",
+  "source": "nayuta.js"
+},
+    {
+  "title": "君は僕に似ている",
+  "artist": "See-Saw 『機動戦士ガンダムSEED DESTINY』ED",
+  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=6",
+  "source": "nayuta.js"
+},
+    {
+  "title": "Life Goes On",
+  "artist": "有坂美香 『機動戦士ガンダムSEED DESTINY』ED",
+  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=7",
+  "source": "nayuta.js"
+},
+    {
+  "title": "Silly-Go-Round",
+  "artist": "Fiction Junction YUUKA 『hackRoots』OP",
+  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=8",
+  "source": "nayuta.js"
+},
+    {
+  "title": "オトメロディー",
+  "artist": "高橋美佳子 『おねがいマイメロディ』OP",
+  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=9",
+  "source": "nayuta.js"
+},
+    {
+  "title": "アンインストール",
+  "artist": "石川智晶 『ぼくらの』OP",
+  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=10",
+  "source": "nayuta.js"
+},
+    {
+  "title": "光の螺旋律",
+  "artist": "kukui 『ローゼンメイデン トロイメント』ED",
+  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=11",
+  "source": "nayuta.js"
+},
+    {
+  "title": "薔薇獄乙女",
+  "artist": "ALI PROJECT 『ローゼンメイデン オーベルテューレ』OP",
+  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=12",
+  "source": "nayuta.js"
+},
+    {
+  "title": "聖少女領域",
+  "artist": "ALI PROJECT 『ローゼンメイデン トロイメント』OP",
+  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=13",
+  "source": "nayuta.js"
+},
+    {
+  "title": "スケッチスイッチ",
+  "artist": "阿澄佳奈、水橋かおり、新谷良子、後藤邑子 『ひだまりスケッチ』OP",
+  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=14",
+  "source": "nayuta.js"
+},
+    {
+  "title": "Go Tight!",
+  "artist": "AKINO 『創聖のアクエリオン』OP",
+  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=15",
+  "source": "nayuta.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO 『創聖のアクエリオン』OP",
+  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=16",
+  "source": "nayuta.js"
+},
+    {
+  "title": "innocent starter",
+  "artist": "水樹奈々 『魔法少女リリカルなのは』OP",
+  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=17",
+  "source": "nayuta.js"
+},
+    {
+  "title": "恋せよ女の子",
+  "artist": "田村ゆかり 『極上生徒会』OP",
+  "collection": "【会限nayuta Live切片】2023年冬号 ～今年快结束了。2023年12月16日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bSpEz3ELy?p=18",
+  "source": "nayuta.js"
+},
+    {
+  "title": "Reason",
+  "artist": "玉置成実 『機動戦士ガンダムSEED DESTINY』ED",
+  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=1",
+  "source": "nayuta.js"
+},
+    {
+  "title": "僕たちの行方",
+  "artist": "高橋瞳 『機動戦士ガンダムSEED DESTINY』OP",
+  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=2",
+  "source": "nayuta.js"
+},
+    {
+  "title": "青空のナミダ",
+  "artist": "高橋瞳 『BLOOD+』OP",
+  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=3",
+  "source": "nayuta.js"
+},
+    {
+  "title": "PRIDE",
+  "artist": "HIGH and MIGHTY COLOR 『機動戦士ガンダムSEED DESTINY』OP",
+  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=4",
+  "source": "nayuta.js"
+},
+    {
+  "title": "あんなに一緒だったのに",
+  "artist": "See-Saw 『機動戦士ガンダムSEED』ED",
+  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=5",
+  "source": "nayuta.js"
+},
+    {
+  "title": "暁の車",
+  "artist": "FictionJunction Yuuka 『機動戦士ガンダムSEED』挿入歌",
+  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=6",
+  "source": "nayuta.js"
+},
+    {
+  "title": "焔の扉",
+  "artist": "FictionJunction Yuuka 『機動戦士ガンダムSEED DESTINY』挿入歌",
+  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=7",
+  "source": "nayuta.js"
+},
+    {
+  "title": "Life Goes On",
+  "artist": "有坂美香 『機動戦士ガンダムSEED DESTINY』ED",
+  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=8",
+  "source": "nayuta.js"
+},
+    {
+  "title": "水の証",
+  "artist": "ラクス・クライン（CV.田中理惠） 『機動戦士ガンダムSEED』挿入歌",
+  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=9",
+  "source": "nayuta.js"
+},
+    {
+  "title": "Get Over",
+  "artist": "Dream 『ヒカルの碁』OP",
+  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=10",
+  "source": "nayuta.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI 『BLEACH』OP",
+  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=11",
+  "source": "nayuta.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI 『鋼の錬金術師 FULLMETAL ALCHEMIST』OP",
+  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=12",
+  "source": "nayuta.js"
+},
+    {
+  "title": "Shangri-La",
+  "artist": "angela 『蒼穹のファフナー』OP",
+  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=13",
+  "source": "nayuta.js"
+},
+    {
+  "title": "agony",
+  "artist": "KOTOKO 『神無月の巫女』ED",
+  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=14",
+  "source": "nayuta.js"
+},
+    {
+  "title": "JOINT",
+  "artist": "川田まみ 『灼眼のシャナII』OP",
+  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=15",
+  "source": "nayuta.js"
+},
+    {
+  "title": "Super Driver",
+  "artist": "涼宮ハルヒ（CV.平野綾） 『涼宮ハルヒの憂鬱』OP",
+  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=16",
+  "source": "nayuta.js"
+},
+    {
+  "title": "Lost my music",
+  "artist": "涼宮ハルヒ（CV.平野綾） 『涼宮ハルヒの憂鬱』挿入歌",
+  "collection": "【会限nayuta Live切片】新年问候〜2024 年互联网老年人协会〜2024年1月7日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YbpGzhESm?p=17",
+  "source": "nayuta.js"
+},
+    {
+  "title": "ブラック★ロックシューター",
+  "artist": "supercell feat.初音ミク ('08)",
+  "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=1",
+  "source": "nayuta.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "supercell feat.初音ミク ('08)",
+  "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=2",
+  "source": "nayuta.js"
+},
+    {
+  "title": "あんなに一緒だったのに",
+  "artist": "See-Saw ('02)",
+  "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=3",
+  "source": "nayuta.js"
+},
+    {
+  "title": "Reason",
+  "artist": "玉置成実 ('04)",
+  "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=4",
+  "source": "nayuta.js"
+},
+    {
+  "title": "Life Goes On",
+  "artist": "有坂美香 ('05)",
+  "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=5",
+  "source": "nayuta.js"
+},
+    {
+  "title": "暁の車",
+  "artist": "FictionJunction YUUKA ('04)",
+  "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=6",
+  "source": "nayuta.js"
+},
+    {
+  "title": "聖少女領域",
+  "artist": "ALI PROJECT ('05)",
+  "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=7",
+  "source": "nayuta.js"
+},
+    {
+  "title": "薔薇獄乙女",
+  "artist": "ALI PROJECT ('06)",
+  "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=8",
+  "source": "nayuta.js"
+},
+    {
+  "title": "緋色の空",
+  "artist": "川田まみ ('05)",
+  "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=9",
+  "source": "nayuta.js"
+},
+    {
+  "title": "キラメキラリ",
+  "artist": "高槻やよい(CV.仁後真耶子) ('07)",
+  "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=10",
+  "source": "nayuta.js"
+},
+    {
+  "title": "メルト",
+  "artist": "supercell feat.初音ミク ('07)",
+  "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=11",
   "source": "nayuta.js"
 },
     {

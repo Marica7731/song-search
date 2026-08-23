@@ -1,6 +1,6 @@
 // 鈴花いのり - 歌单数据 (多合集汇总)
 // 来源: BV1jyjK6sEns
-// 生成时间: 8/23/2026, 2:54:09 PM
+// 生成时间: 8/23/2026, 4:41:22 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2062,342 +2062,6 @@ window.SONG_DATA.push(
   "source": "suzuhanainori.js"
 },
     {
-  "title": "Starry Heavens",
-  "artist": "day after tomorrow",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=1",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "世界一可愛い私",
-  "artist": "HoneyWorks 藤田ことね",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=2",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "ベテルギウス",
-  "artist": "優里",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=3",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "カラフル",
-  "artist": "ClariS",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=4",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "忘れてやらない",
-  "artist": "結束バンド",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=5",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "君色シグナル",
-  "artist": "春奈るな",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=6",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "忘れじの言の葉",
-  "artist": "未来古代楽団",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=7",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "白い雪のプリンセスは",
-  "artist": "のぼる↑",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=8",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "ないない",
-  "artist": "ReoNa",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=9",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "打上花火",
-  "artist": "DAOKO × 米津玄師",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=10",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "左右盲",
-  "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=11",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "怪獣の花唄",
-  "artist": "Vaundy",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=12",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "一番の宝物 ~Yui final ver.~",
-  "artist": "LiSA",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=13",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "ツギハギスタッカート",
-  "artist": "とあ",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=14",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "チャイナアドバイス",
-  "artist": "相対性理論",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=15",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "ワールドイズマイン CPK!Remix",
-  "artist": "ryo(supercell)",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=16",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "カタオモイ",
-  "artist": "Aimer",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=17",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "回る空うさぎ",
-  "artist": "Orangestar feat.初音ミク",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=18",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "ブレーメン",
-  "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=19",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "void",
-  "artist": "DUSTCELL",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=20",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "ぼくはくま",
-  "artist": "宇多田ヒカル",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=21",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "チェリーポップ",
-  "artist": "DECO*27 feat.初音ミク",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=22",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "Get Over",
-  "artist": "dream",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=23",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "聖少女領域",
-  "artist": "ALI PROJECT",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=24",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "POP IN 2",
-  "artist": "B小町(ルビー,有馬かな,MEMちょ)",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=25",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "sweets parade",
-  "artist": "髏々宮カルタ(花澤香菜)",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=26",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "メランコリック",
-  "artist": "Junky feat.鏡音リン",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=27",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "ずうっといっしょ!",
-  "artist": "キタニタツヤ",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=28",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "SUMMER SONG",
-  "artist": "YUI",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=29",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "スパークル",
-  "artist": "RADWIMPS",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=30",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "夜行",
-  "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=31",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "季節は次々死んでいく",
-  "artist": "amazarashi",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=32",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "おやすみ泣き声、さよなら歌姫",
-  "artist": "クリープハイプ",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=33",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "私、アイドル宣言",
-  "artist": "CHiCO",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=34",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "ただ君に晴れ",
-  "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=35",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "青春コンプレックス",
-  "artist": "結束バンド",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=36",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "天使にふれたよ!",
-  "artist": "放課後ティータイム",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=37",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "ドレミファロンド",
-  "artist": "40mP feat.初音ミク",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=38",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "ドーナツホール",
-  "artist": "米津玄師",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=39",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "瞬間センチメンタル",
-  "artist": "SCANDAL",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=40",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "crossing field",
-  "artist": "LiSA",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=41",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "約束の絆",
-  "artist": "妖夢討伐隊",
-  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=42",
-  "source": "suzuhanainori.js"
-},
-    {
   "title": "空色デイズ",
   "artist": "中川翔子",
   "collection": "【歌切】[2026-08-09]星期日定期歌回𝜗𝜚.⋆ 动漫歌曲限定🎤",
@@ -2846,6 +2510,342 @@ window.SONG_DATA.push(
   "source": "suzuhanainori.js"
 },
     {
+  "title": "Starry Heavens",
+  "artist": "day after tomorrow",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=1",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "世界一可愛い私",
+  "artist": "HoneyWorks 藤田ことね",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=2",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=3",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "カラフル",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=4",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "忘れてやらない",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=5",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "君色シグナル",
+  "artist": "春奈るな",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=6",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=7",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=8",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ないない",
+  "artist": "ReoNa",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=9",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=10",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=11",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=12",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "一番の宝物 ~Yui final ver.~",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=13",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ツギハギスタッカート",
+  "artist": "とあ",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=14",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "チャイナアドバイス",
+  "artist": "相対性理論",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=15",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ワールドイズマイン CPK!Remix",
+  "artist": "ryo(supercell)",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=16",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=17",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat.初音ミク",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=18",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ブレーメン",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=19",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "void",
+  "artist": "DUSTCELL",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=20",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ぼくはくま",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=21",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "チェリーポップ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=22",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Get Over",
+  "artist": "dream",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=23",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "聖少女領域",
+  "artist": "ALI PROJECT",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=24",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "POP IN 2",
+  "artist": "B小町(ルビー,有馬かな,MEMちょ)",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=25",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "sweets parade",
+  "artist": "髏々宮カルタ(花澤香菜)",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=26",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=27",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ずうっといっしょ!",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=28",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=29",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=30",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=31",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "季節は次々死んでいく",
+  "artist": "amazarashi",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=32",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=33",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "私、アイドル宣言",
+  "artist": "CHiCO",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=34",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=35",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "青春コンプレックス",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=36",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "天使にふれたよ!",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=37",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ドレミファロンド",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=38",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ドーナツホール",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=39",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "瞬間センチメンタル",
+  "artist": "SCANDAL",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=40",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "crossing field",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=41",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "約束の絆",
+  "artist": "妖夢討伐隊",
+  "collection": "【歌切】[2026-08-01]夜晚的治愈歌回♡也欢迎初次来的朋友！🎀🔔🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mHuL61EGK?p=42",
+  "source": "suzuhanainori.js"
+},
+    {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
   "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
@@ -3115,6 +3115,54 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-14]【歌回 / 卡拉OK】清晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤唱歌直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ANbm6jEw5?p=34",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ドレミファロンド",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-08-16]周日固定直播𝜗𝜚.⋆ 点歌歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hobb6ZEq4?p=1",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "音偽バナシ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-16]周日固定直播𝜗𝜚.⋆ 点歌歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hobb6ZEq4?p=2",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-08-16]周日固定直播𝜗𝜚.⋆ 点歌歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hobb6ZEq4?p=3",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-16]周日固定直播𝜗𝜚.⋆ 点歌歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hobb6ZEq4?p=4",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Starry Heavens",
+  "artist": "day after tomorrow",
+  "collection": "【歌切】[2026-08-16]周日固定直播𝜗𝜚.⋆ 点歌歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hobb6ZEq4?p=5",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "愛言葉Ⅲ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-16]周日固定直播𝜗𝜚.⋆ 点歌歌回🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hobb6ZEq4?p=6",
   "source": "suzuhanainori.js"
 },
     {
@@ -3499,54 +3547,6 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-16]周日固定直播𝜗𝜚.⋆ 点歌歌回🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Hfbb64EAR?p=48",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "ドレミファロンド",
-  "artist": "40mP feat.初音ミク",
-  "collection": "【歌切】[2026-08-16]周日固定直播𝜗𝜚.⋆ 点歌歌回🎤",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Hobb6ZEq4?p=1",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "音偽バナシ",
-  "artist": "DECO*27 feat.初音ミク",
-  "collection": "【歌切】[2026-08-16]周日固定直播𝜗𝜚.⋆ 点歌歌回🎤",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Hobb6ZEq4?p=2",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "残響散歌",
-  "artist": "Aimer",
-  "collection": "【歌切】[2026-08-16]周日固定直播𝜗𝜚.⋆ 点歌歌回🎤",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Hobb6ZEq4?p=3",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "CHE.R.RY",
-  "artist": "YUI",
-  "collection": "【歌切】[2026-08-16]周日固定直播𝜗𝜚.⋆ 点歌歌回🎤",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Hobb6ZEq4?p=4",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "Starry Heavens",
-  "artist": "day after tomorrow",
-  "collection": "【歌切】[2026-08-16]周日固定直播𝜗𝜚.⋆ 点歌歌回🎤",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Hobb6ZEq4?p=5",
-  "source": "suzuhanainori.js"
-},
-    {
-  "title": "愛言葉Ⅲ",
-  "artist": "DECO*27 feat.初音ミク",
-  "collection": "【歌切】[2026-08-16]周日固定直播𝜗𝜚.⋆ 点歌歌回🎤",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Hobb6ZEq4?p=6",
   "source": "suzuhanainori.js"
 },
     {

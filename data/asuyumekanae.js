@@ -1,10 +1,274 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 8/23/2026, 1:26:06 PM
+// 生成时间: 8/23/2026, 3:21:33 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
+    {
+  "title": "パレード",
+  "artist": "ヨルシカ[Lua4sn3i5EQ]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "イェイ!イェイ!イェイ!",
+  "artist": "吉田仁美[Lua4sn3i5EQ]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP[Lua4sn3i5EQ]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "みくみくにしてあげる♪",
+  "artist": "ika_mo[Lua4sn3i5EQ]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "裏表ラバーズ",
+  "artist": "wowaka[Lua4sn3i5EQ]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko[Lua4sn3i5EQ]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ブラック＊ロックシューター",
+  "artist": "ryo(supercell)[Lua4sn3i5EQ]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ジェヘナ",
+  "artist": "wotaku[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "magnet",
+  "artist": "minato[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "神っぽいな",
+  "artist": "ピノキオピー[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "マトリョシカ",
+  "artist": "ハチ[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "1925",
+  "artist": "冨田悠斗『とみー-T-POCKET』[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "カゲロウデイズ",
+  "artist": "じん[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花降らし",
+  "artist": "n-buna[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ニア",
+  "artist": "夏代孝明[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra、月見ヤチヨ『cv.早見沙織』[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "私は、わたしの事が好き。",
+  "artist": "HoneyWorks[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=21",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "瞬間、シンフォニー。",
+  "artist": "40mP、かぐや『cv.夏吉ゆうこ』[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=22",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=23",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono！[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=24",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=25",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=26",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "春ひさぎ",
+  "artist": "ヨルシカ[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=27",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "強盗と花束",
+  "artist": "ヨルシカ[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=28",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=29",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=30",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Snow halation",
+  "artist": "μ's[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=31",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo『supercell』[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=32",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "3月9日",
+  "artist": "レミオロメン[Vqq7BJ0Y__8]",
+  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=33",
+  "source": "asuyumekanae.js"
+},
     {
   "title": "3月9日",
   "artist": "レミオロメン[Y5ZJIaCbk_k]",
@@ -1603,270 +1867,6 @@ window.SONG_DATA.push(
   "collection": "3月9日就得听3月9日！明日夢かなえ 歌切",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GHNgz2E9x?p=200",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "パレード",
-  "artist": "ヨルシカ[Lua4sn3i5EQ]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=1",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "イェイ!イェイ!イェイ!",
-  "artist": "吉田仁美[Lua4sn3i5EQ]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=2",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "千本桜",
-  "artist": "黒うさP[Lua4sn3i5EQ]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=3",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "みくみくにしてあげる♪",
-  "artist": "ika_mo[Lua4sn3i5EQ]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=4",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "裏表ラバーズ",
-  "artist": "wowaka[Lua4sn3i5EQ]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=5",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "ロミオとシンデレラ",
-  "artist": "doriko[Lua4sn3i5EQ]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=6",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "ブラック＊ロックシューター",
-  "artist": "ryo(supercell)[Lua4sn3i5EQ]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=7",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "ジェヘナ",
-  "artist": "wotaku[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=8",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "magnet",
-  "artist": "minato[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=9",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "妄想感傷代償連盟",
-  "artist": "DECO*27[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=10",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "からくりピエロ",
-  "artist": "40mP[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=11",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "神っぽいな",
-  "artist": "ピノキオピー[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=12",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "マトリョシカ",
-  "artist": "ハチ[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=13",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "トリノコシティ",
-  "artist": "40mP[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=14",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "1925",
-  "artist": "冨田悠斗『とみー-T-POCKET』[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=15",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "乙女解剖",
-  "artist": "DECO*27[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=16",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "カゲロウデイズ",
-  "artist": "じん[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=17",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "花降らし",
-  "artist": "n-buna[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=18",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "ニア",
-  "artist": "夏代孝明[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=19",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "星降る海",
-  "artist": "Aqu3ra、月見ヤチヨ『cv.早見沙織』[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=20",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "私は、わたしの事が好き。",
-  "artist": "HoneyWorks[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=21",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "瞬間、シンフォニー。",
-  "artist": "40mP、かぐや『cv.夏吉ゆうこ』[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=22",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "ray",
-  "artist": "BUMP OF CHICKEN[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=23",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "初恋サイダー",
-  "artist": "Buono！[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=24",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "残響散歌",
-  "artist": "Aimer[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=25",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "思想犯",
-  "artist": "ヨルシカ[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=26",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "春ひさぎ",
-  "artist": "ヨルシカ[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=27",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "強盗と花束",
-  "artist": "ヨルシカ[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=28",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "だから僕は音楽を辞めた",
-  "artist": "ヨルシカ[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=29",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "晴る",
-  "artist": "ヨルシカ[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=30",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "Snow halation",
-  "artist": "μ's[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=31",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "メルト",
-  "artist": "ryo『supercell』[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=32",
-  "source": "asuyumekanae.js"
-},
-    {
-  "title": "3月9日",
-  "artist": "レミオロメン[Vqq7BJ0Y__8]",
-  "collection": "【明日夢 歌切】[2026-03-09]多多唱歌练习[Vqq7BJ0Y__8]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JRwUzoEpM?p=33",
   "source": "asuyumekanae.js"
 },
     {

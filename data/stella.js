@@ -1,330 +1,10 @@
 // 天ノ譜ステラ - 歌单数据 (多合集汇总)
 // 来源: BV1MEP8z4E1J
-// 生成时间: 8/23/2026, 1:52:56 PM
+// 生成时间: 8/23/2026, 3:45:16 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
-    {
-  "title": "flos",
-  "artist": "R Sound Design feat.初音ミク",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=1",
-  "source": "stella.js"
-},
-    {
-  "title": "夕景イエスタデイ",
-  "artist": "じん feat.IA",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=2",
-  "source": "stella.js"
-},
-    {
-  "title": "ムーンライト伝説",
-  "artist": "DALI [TVアニメ 美少女戦士セーラームーン]",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=3",
-  "source": "stella.js"
-},
-    {
-  "title": "ブラック★ロックシューター",
-  "artist": "ryo(supercell) feat.初音ミク",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=4",
-  "source": "stella.js"
-},
-    {
-  "title": "KICK BACK",
-  "artist": "米津玄師 [TVアニメ チェンソーマン]",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=5",
-  "source": "stella.js"
-},
-    {
-  "title": "堕天ダンス",
-  "artist": "天ノ譜ステラ",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=6",
-  "source": "stella.js"
-},
-    {
-  "title": "蛍の光",
-  "artist": "片霧烈火",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=7",
-  "source": "stella.js"
-},
-    {
-  "title": "Last Christmas",
-  "artist": "Wham!",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=8",
-  "source": "stella.js"
-},
-    {
-  "title": "トロイの花",
-  "artist": "原口沙輔, VACON & 天ノ譜ステラ",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=9",
-  "source": "stella.js"
-},
-    {
-  "title": "オリオンをなぞる",
-  "artist": "UNISON SQUARE GARDEN [TVアニメ TIGER & BUNNY]",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=10",
-  "source": "stella.js"
-},
-    {
-  "title": "Wherever you are",
-  "artist": "ONE OK ROCK",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=11",
-  "source": "stella.js"
-},
-    {
-  "title": "ルンがピカッと光ったら",
-  "artist": "ワルキューレ [TVアニメ マクロスΔ]",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=12",
-  "source": "stella.js"
-},
-    {
-  "title": "ルンがピカッと光ったら",
-  "artist": "ワルキューレ [TVアニメ マクロスΔ]",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=13",
-  "source": "stella.js"
-},
-    {
-  "title": "一度だけの恋なら",
-  "artist": "ワルキューレ [TVアニメ マクロスΔ]",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=14",
-  "source": "stella.js"
-},
-    {
-  "title": "一度だけの恋なら",
-  "artist": "ワルキューレ [TVアニメ マクロスΔ]",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=15",
-  "source": "stella.js"
-},
-    {
-  "title": "ルカルカ★ナイトフィーバー",
-  "artist": "samfree feat.巡音ルカ",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=16",
-  "source": "stella.js"
-},
-    {
-  "title": "glow",
-  "artist": "keeno feat.初音ミク",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=17",
-  "source": "stella.js"
-},
-    {
-  "title": "Booo!",
-  "artist": "TOKOTOKO(西沢さんP) feat.音街ウナ",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=18",
-  "source": "stella.js"
-},
-    {
-  "title": "Booo!",
-  "artist": "TOKOTOKO(西沢さんP) feat.音街ウナ",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=19",
-  "source": "stella.js"
-},
-    {
-  "title": "APT.",
-  "artist": "ROSÉ & Bruno Mars",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=20",
-  "source": "stella.js"
-},
-    {
-  "title": "APT.",
-  "artist": "ROSÉ & Bruno Mars",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=21",
-  "source": "stella.js"
-},
-    {
-  "title": "APT.",
-  "artist": "ROSÉ & Bruno Mars",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=22",
-  "source": "stella.js"
-},
-    {
-  "title": "そばかす",
-  "artist": "JUDY AND MARY [TVアニメ るろうに剣心 -明治剣客浪漫譚-]",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=23",
-  "source": "stella.js"
-},
-    {
-  "title": "砂の惑星",
-  "artist": "ハチ feat.初音ミク",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=24",
-  "source": "stella.js"
-},
-    {
-  "title": "晴る",
-  "artist": "ヨルシカ [TVアニメ 葬送のフリーレン]",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=25",
-  "source": "stella.js"
-},
-    {
-  "title": "アスノヨゾラ哨戒班",
-  "artist": "Orangestar feat.IA",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=26",
-  "source": "stella.js"
-},
-    {
-  "title": "トゥインクル トゥインクル",
-  "artist": "Wink",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=27",
-  "source": "stella.js"
-},
-    {
-  "title": "シザーハンズ",
-  "artist": "Nem feat.初音ミク",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=28",
-  "source": "stella.js"
-},
-    {
-  "title": "rain stops, good-bye",
-  "artist": "におP feat.初音ミク",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=29",
-  "source": "stella.js"
-},
-    {
-  "title": "曖昧劣情Lover",
-  "artist": "koyori(電ポルP) feat.初音ミク",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=30",
-  "source": "stella.js"
-},
-    {
-  "title": "ウタカタララバイ",
-  "artist": "Ado [映画 ONE PIECE FILM RED]",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=31",
-  "source": "stella.js"
-},
-    {
-  "title": "Overdose",
-  "artist": "なとり",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=32",
-  "source": "stella.js"
-},
-    {
-  "title": "少女レイ",
-  "artist": "みきとP feat.初音ミク",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=33",
-  "source": "stella.js"
-},
-    {
-  "title": "愛をこめて花束を",
-  "artist": "Superfly",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=34",
-  "source": "stella.js"
-},
-    {
-  "title": "タマシイレボリューション",
-  "artist": "Superfly",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=35",
-  "source": "stella.js"
-},
-    {
-  "title": "シザーハンズ",
-  "artist": "Nem feat.初音ミク",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=36",
-  "source": "stella.js"
-},
-    {
-  "title": "APT.",
-  "artist": "ROSÉ & Bruno Mars",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=37",
-  "source": "stella.js"
-},
-    {
-  "title": "PLATONIC GIRL",
-  "artist": "みきとP feat.GUMI",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=38",
-  "source": "stella.js"
-},
-    {
-  "title": "PLATONIC GIRL",
-  "artist": "みきとP feat.GUMI",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=39",
-  "source": "stella.js"
-},
-    {
-  "title": "クリスマスソング",
-  "artist": "back number [ドラマ 5→9〜私に恋したお坊さん〜]",
-  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=40",
-  "source": "stella.js"
-},
     {
   "title": "夜もすがら君想ふ",
   "artist": "TOKOTOKO(西沢さんP)[CgbEnc0dJvI]",
@@ -1579,6 +1259,326 @@ window.SONG_DATA.push(
   "collection": "【 🍚💫歌切】[2026-03-19]【㊗收益化恢复】周四22时⌚定期直播✨开始！[ZoMaQwSgSzE] 天ノ譜ステラ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XBALzpEc3?p=6",
+  "source": "stella.js"
+},
+    {
+  "title": "flos",
+  "artist": "R Sound Design feat.初音ミク",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=1",
+  "source": "stella.js"
+},
+    {
+  "title": "夕景イエスタデイ",
+  "artist": "じん feat.IA",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=2",
+  "source": "stella.js"
+},
+    {
+  "title": "ムーンライト伝説",
+  "artist": "DALI [TVアニメ 美少女戦士セーラームーン]",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=3",
+  "source": "stella.js"
+},
+    {
+  "title": "ブラック★ロックシューター",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=4",
+  "source": "stella.js"
+},
+    {
+  "title": "KICK BACK",
+  "artist": "米津玄師 [TVアニメ チェンソーマン]",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=5",
+  "source": "stella.js"
+},
+    {
+  "title": "堕天ダンス",
+  "artist": "天ノ譜ステラ",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=6",
+  "source": "stella.js"
+},
+    {
+  "title": "蛍の光",
+  "artist": "片霧烈火",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=7",
+  "source": "stella.js"
+},
+    {
+  "title": "Last Christmas",
+  "artist": "Wham!",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=8",
+  "source": "stella.js"
+},
+    {
+  "title": "トロイの花",
+  "artist": "原口沙輔, VACON & 天ノ譜ステラ",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=9",
+  "source": "stella.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN [TVアニメ TIGER & BUNNY]",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=10",
+  "source": "stella.js"
+},
+    {
+  "title": "Wherever you are",
+  "artist": "ONE OK ROCK",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=11",
+  "source": "stella.js"
+},
+    {
+  "title": "ルンがピカッと光ったら",
+  "artist": "ワルキューレ [TVアニメ マクロスΔ]",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=12",
+  "source": "stella.js"
+},
+    {
+  "title": "ルンがピカッと光ったら",
+  "artist": "ワルキューレ [TVアニメ マクロスΔ]",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=13",
+  "source": "stella.js"
+},
+    {
+  "title": "一度だけの恋なら",
+  "artist": "ワルキューレ [TVアニメ マクロスΔ]",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=14",
+  "source": "stella.js"
+},
+    {
+  "title": "一度だけの恋なら",
+  "artist": "ワルキューレ [TVアニメ マクロスΔ]",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=15",
+  "source": "stella.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat.巡音ルカ",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=16",
+  "source": "stella.js"
+},
+    {
+  "title": "glow",
+  "artist": "keeno feat.初音ミク",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=17",
+  "source": "stella.js"
+},
+    {
+  "title": "Booo!",
+  "artist": "TOKOTOKO(西沢さんP) feat.音街ウナ",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=18",
+  "source": "stella.js"
+},
+    {
+  "title": "Booo!",
+  "artist": "TOKOTOKO(西沢さんP) feat.音街ウナ",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=19",
+  "source": "stella.js"
+},
+    {
+  "title": "APT.",
+  "artist": "ROSÉ & Bruno Mars",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=20",
+  "source": "stella.js"
+},
+    {
+  "title": "APT.",
+  "artist": "ROSÉ & Bruno Mars",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=21",
+  "source": "stella.js"
+},
+    {
+  "title": "APT.",
+  "artist": "ROSÉ & Bruno Mars",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=22",
+  "source": "stella.js"
+},
+    {
+  "title": "そばかす",
+  "artist": "JUDY AND MARY [TVアニメ るろうに剣心 -明治剣客浪漫譚-]",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=23",
+  "source": "stella.js"
+},
+    {
+  "title": "砂の惑星",
+  "artist": "ハチ feat.初音ミク",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=24",
+  "source": "stella.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ [TVアニメ 葬送のフリーレン]",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=25",
+  "source": "stella.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat.IA",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=26",
+  "source": "stella.js"
+},
+    {
+  "title": "トゥインクル トゥインクル",
+  "artist": "Wink",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=27",
+  "source": "stella.js"
+},
+    {
+  "title": "シザーハンズ",
+  "artist": "Nem feat.初音ミク",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=28",
+  "source": "stella.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP feat.初音ミク",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=29",
+  "source": "stella.js"
+},
+    {
+  "title": "曖昧劣情Lover",
+  "artist": "koyori(電ポルP) feat.初音ミク",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=30",
+  "source": "stella.js"
+},
+    {
+  "title": "ウタカタララバイ",
+  "artist": "Ado [映画 ONE PIECE FILM RED]",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=31",
+  "source": "stella.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=32",
+  "source": "stella.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=33",
+  "source": "stella.js"
+},
+    {
+  "title": "愛をこめて花束を",
+  "artist": "Superfly",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=34",
+  "source": "stella.js"
+},
+    {
+  "title": "タマシイレボリューション",
+  "artist": "Superfly",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=35",
+  "source": "stella.js"
+},
+    {
+  "title": "シザーハンズ",
+  "artist": "Nem feat.初音ミク",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=36",
+  "source": "stella.js"
+},
+    {
+  "title": "APT.",
+  "artist": "ROSÉ & Bruno Mars",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=37",
+  "source": "stella.js"
+},
+    {
+  "title": "PLATONIC GIRL",
+  "artist": "みきとP feat.GUMI",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=38",
+  "source": "stella.js"
+},
+    {
+  "title": "PLATONIC GIRL",
+  "artist": "みきとP feat.GUMI",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=39",
+  "source": "stella.js"
+},
+    {
+  "title": "クリスマスソング",
+  "artist": "back number [ドラマ 5→9〜私に恋したお坊さん〜]",
+  "collection": "【 🍚💫歌切】花絮自用天ノ譜ステラ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QMAcz2Eqn?p=40",
   "source": "stella.js"
 },
     {

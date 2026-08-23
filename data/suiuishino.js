@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 8/23/2026, 3:06:30 PM
+// 生成时间: 8/23/2026, 4:52:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1094,6 +1094,78 @@ window.SONG_DATA.push(
   "source": "suiuishino.js"
 },
     {
+  "title": "太陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "遥か彼方",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat.初音ミク",
+  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "疾走",
+  "artist": "LAST ALLIANCE",
+  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "うるわしきひと",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=9",
+  "source": "suiuishino.js"
+},
+    {
   "title": "わたがし",
   "artist": "back number",
   "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
@@ -1203,78 +1275,6 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=14",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "太陽",
-  "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=1",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "風になる",
-  "artist": "つじあやの",
-  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=2",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "シルエット",
-  "artist": "KANA-BOON",
-  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=3",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "遥か彼方",
-  "artist": "ASIAN KUNG-FU GENERATION",
-  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=4",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "Calc.",
-  "artist": "ジミーサムP feat.初音ミク",
-  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=5",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "SUMMER SONG",
-  "artist": "YUI",
-  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=6",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "疾走",
-  "artist": "LAST ALLIANCE",
-  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=7",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "うるわしきひと",
-  "artist": "いきものがかり",
-  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=8",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "貴方の恋人になりたいのです",
-  "artist": "阿部真央",
-  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=9",
   "source": "suiuishino.js"
 },
     {

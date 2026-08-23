@@ -1,10 +1,90 @@
 // 優莉 yuri - 歌单数据 (多合集汇总)
 // 来源: BV1aDzEBBE3S
-// 生成时间: 8/23/2026, 1:47:32 PM
+// 生成时间: 8/23/2026, 3:41:45 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
+    {
+  "title": "初めての恋が終わる時",
+  "artist": "ryo(supercell)",
+  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=1",
+  "source": "yuri.js"
+},
+    {
+  "title": "想像フォレスト",
+  "artist": "じん",
+  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=2",
+  "source": "yuri.js"
+},
+    {
+  "title": "きゅうくらりん",
+  "artist": "Kyu-kurarin",
+  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=3",
+  "source": "yuri.js"
+},
+    {
+  "title": "銭に愛を",
+  "artist": "sabio",
+  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=4",
+  "source": "yuri.js"
+},
+    {
+  "title": "消えろ",
+  "artist": "優莉",
+  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=5",
+  "source": "yuri.js"
+},
+    {
+  "title": "残贈",
+  "artist": "優莉",
+  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=6",
+  "source": "yuri.js"
+},
+    {
+  "title": "瓦礫の塔",
+  "artist": "kemu",
+  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=7",
+  "source": "yuri.js"
+},
+    {
+  "title": "T.A.O.",
+  "artist": "じん",
+  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=8",
+  "source": "yuri.js"
+},
+    {
+  "title": "星に名前を",
+  "artist": "優莉",
+  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=9",
+  "source": "yuri.js"
+},
+    {
+  "title": "Enter!",
+  "artist": "優莉",
+  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=10",
+  "source": "yuri.js"
+},
     {
   "title": "なないろメモリー",
   "artist": "優莉",
@@ -291,86 +371,6 @@ window.SONG_DATA.push(
   "collection": "【優莉 弾き語り】7300粉丝耐久歌回 [2025-12-31] 耐久7300人登録までお歌配信♪ #vsinger #歌~ [oZ01tozAeSM]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aDzEBBE3S?p=36",
-  "source": "yuri.js"
-},
-    {
-  "title": "初めての恋が終わる時",
-  "artist": "ryo(supercell)",
-  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=1",
-  "source": "yuri.js"
-},
-    {
-  "title": "想像フォレスト",
-  "artist": "じん",
-  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=2",
-  "source": "yuri.js"
-},
-    {
-  "title": "きゅうくらりん",
-  "artist": "Kyu-kurarin",
-  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=3",
-  "source": "yuri.js"
-},
-    {
-  "title": "銭に愛を",
-  "artist": "sabio",
-  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=4",
-  "source": "yuri.js"
-},
-    {
-  "title": "消えろ",
-  "artist": "優莉",
-  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=5",
-  "source": "yuri.js"
-},
-    {
-  "title": "残贈",
-  "artist": "優莉",
-  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=6",
-  "source": "yuri.js"
-},
-    {
-  "title": "瓦礫の塔",
-  "artist": "kemu",
-  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=7",
-  "source": "yuri.js"
-},
-    {
-  "title": "T.A.O.",
-  "artist": "じん",
-  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=8",
-  "source": "yuri.js"
-},
-    {
-  "title": "星に名前を",
-  "artist": "優莉",
-  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=9",
-  "source": "yuri.js"
-},
-    {
-  "title": "Enter!",
-  "artist": "優莉",
-  "collection": "【優莉（ゆうり）歌切】[2026-01-22]好きなボカロ曲歌います！ [rjY_6Fj_I3s]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uwzcBEEGJ?p=10",
   "source": "yuri.js"
 },
     {

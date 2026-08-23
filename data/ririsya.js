@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 8/23/2026, 1:36:44 PM
+// 生成时间: 8/23/2026, 3:32:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7094,6 +7094,142 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "シェリル・ノーム",
+  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "星が瞬くこんな夜に",
+  "artist": "Supercell",
+  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "スターフィッシュ",
+  "artist": "ELLEGARDEN",
+  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Supernova",
+  "artist": "ELLEGARDEN",
+  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "瑠璃色の地球",
+  "artist": "松田聖子",
+  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "流星群",
+  "artist": "鬼束ちひろ",
+  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Fly Me to the Moon",
+  "artist": "カウント・ベイシー＆フランク・シナトラ",
+  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Plazma",
+  "artist": "米津玄師",
+  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "トレモロ",
+  "artist": "RADWIMPS",
+  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Andromeda",
+  "artist": "星街すいせい",
+  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "Supercell",
+  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=17",
+  "source": "ririsya.js"
+},
+    {
   "title": "サウダージ",
   "artist": "ポルノグラフィティ",
   "collection": "【 Acoustic / 弾き語り 】リクエストで歌う弾き語り🌙Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
@@ -7235,142 +7371,6 @@ window.SONG_DATA.push(
   "collection": "【 Acoustic / 弾き語り 】リクエストで歌う弾き語り🌙Sing with a guitar【 VTuber / 凛々咲 Ririsya 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rsueziEAc?p=18",
-  "source": "ririsya.js"
-},
-    {
-  "title": "星座になれたら",
-  "artist": "結束バンド",
-  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=1",
-  "source": "ririsya.js"
-},
-    {
-  "title": "星間飛行",
-  "artist": "ランカ・リー=中島愛",
-  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=2",
-  "source": "ririsya.js"
-},
-    {
-  "title": "ライオン",
-  "artist": "シェリル・ノーム",
-  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=3",
-  "source": "ririsya.js"
-},
-    {
-  "title": "天体観測",
-  "artist": "BUMP OF CHICKEN",
-  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=4",
-  "source": "ririsya.js"
-},
-    {
-  "title": "スパークル",
-  "artist": "RADWIMPS",
-  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=5",
-  "source": "ririsya.js"
-},
-    {
-  "title": "星が瞬くこんな夜に",
-  "artist": "Supercell",
-  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=6",
-  "source": "ririsya.js"
-},
-    {
-  "title": "スターフィッシュ",
-  "artist": "ELLEGARDEN",
-  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=7",
-  "source": "ririsya.js"
-},
-    {
-  "title": "Supernova",
-  "artist": "ELLEGARDEN",
-  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=8",
-  "source": "ririsya.js"
-},
-    {
-  "title": "瑠璃色の地球",
-  "artist": "松田聖子",
-  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=9",
-  "source": "ririsya.js"
-},
-    {
-  "title": "流星群",
-  "artist": "鬼束ちひろ",
-  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=10",
-  "source": "ririsya.js"
-},
-    {
-  "title": "Fly Me to the Moon",
-  "artist": "カウント・ベイシー＆フランク・シナトラ",
-  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=11",
-  "source": "ririsya.js"
-},
-    {
-  "title": "Plazma",
-  "artist": "米津玄師",
-  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=12",
-  "source": "ririsya.js"
-},
-    {
-  "title": "トレモロ",
-  "artist": "RADWIMPS",
-  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=13",
-  "source": "ririsya.js"
-},
-    {
-  "title": "Stellar Stellar",
-  "artist": "星街すいせい",
-  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=14",
-  "source": "ririsya.js"
-},
-    {
-  "title": "Andromeda",
-  "artist": "星街すいせい",
-  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=15",
-  "source": "ririsya.js"
-},
-    {
-  "title": "怪獣",
-  "artist": "サカナクション",
-  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=16",
-  "source": "ririsya.js"
-},
-    {
-  "title": "君の知らない物語",
-  "artist": "Supercell",
-  "collection": "【  凛々咲 Ririsya 】七夕歌枠🌌Would you like to go stargazing with me?",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EwuYzYE94?p=17",
   "source": "ririsya.js"
 },
     {
@@ -8670,6 +8670,150 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
+  "title": "Unknown under the city",
+  "artist": "凛々咲",
+  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "SnekQueen",
+  "artist": "凛々咲",
+  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat. IA",
+  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "真夏の果実",
+  "artist": "サザンオールスターズ",
+  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Close to you",
+  "artist": "凛々咲",
+  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Starring…",
+  "artist": "凛々咲",
+  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ソワレ",
+  "artist": "星街すいせい",
+  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "うたかた花火",
+  "artist": "supercell",
+  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "あの夢をなぞって",
+  "artist": "ヨルシカ",
+  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "アルストロメリア",
+  "artist": "かいりきベア feat. 初音ミク",
+  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "パラレルナイト",
+  "artist": "凛々咲",
+  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Re:Re:リスタート",
+  "artist": "凛々咲",
+  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Re,Future",
+  "artist": "凛々咲",
+  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=18",
+  "source": "ririsya.js"
+},
+    {
   "title": "名前のない怪物",
   "artist": "EGOIST",
   "collection": "【凛々咲活动五周年纪念】只有一个人的歌枠接力！",
@@ -8875,150 +9019,6 @@ window.SONG_DATA.push(
   "collection": "【凛々咲活动五周年纪念】只有一个人的歌枠接力！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EGeZzFESJ?p=26",
-  "source": "ririsya.js"
-},
-    {
-  "title": "Unknown under the city",
-  "artist": "凛々咲",
-  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=1",
-  "source": "ririsya.js"
-},
-    {
-  "title": "秒針を噛む",
-  "artist": "ずっと真夜中でいいのに。",
-  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=2",
-  "source": "ririsya.js"
-},
-    {
-  "title": "SnekQueen",
-  "artist": "凛々咲",
-  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=3",
-  "source": "ririsya.js"
-},
-    {
-  "title": "Bunny Girl",
-  "artist": "AKASAKI",
-  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=4",
-  "source": "ririsya.js"
-},
-    {
-  "title": "怪獣",
-  "artist": "サカナクション",
-  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=5",
-  "source": "ririsya.js"
-},
-    {
-  "title": "サマータイムレコード",
-  "artist": "じん feat. IA",
-  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=6",
-  "source": "ririsya.js"
-},
-    {
-  "title": "真夏の果実",
-  "artist": "サザンオールスターズ",
-  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=7",
-  "source": "ririsya.js"
-},
-    {
-  "title": "貴方の恋人になりたいのです",
-  "artist": "阿部真央",
-  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=8",
-  "source": "ririsya.js"
-},
-    {
-  "title": "君の知らない物語",
-  "artist": "supercell",
-  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=9",
-  "source": "ririsya.js"
-},
-    {
-  "title": "Close to you",
-  "artist": "凛々咲",
-  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=10",
-  "source": "ririsya.js"
-},
-    {
-  "title": "Starring…",
-  "artist": "凛々咲",
-  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=11",
-  "source": "ririsya.js"
-},
-    {
-  "title": "ソワレ",
-  "artist": "星街すいせい",
-  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=12",
-  "source": "ririsya.js"
-},
-    {
-  "title": "うたかた花火",
-  "artist": "supercell",
-  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=13",
-  "source": "ririsya.js"
-},
-    {
-  "title": "あの夢をなぞって",
-  "artist": "ヨルシカ",
-  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=14",
-  "source": "ririsya.js"
-},
-    {
-  "title": "アルストロメリア",
-  "artist": "かいりきベア feat. 初音ミク",
-  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=15",
-  "source": "ririsya.js"
-},
-    {
-  "title": "パラレルナイト",
-  "artist": "凛々咲",
-  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=16",
-  "source": "ririsya.js"
-},
-    {
-  "title": "Re:Re:リスタート",
-  "artist": "凛々咲",
-  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=17",
-  "source": "ririsya.js"
-},
-    {
-  "title": "Re,Future",
-  "artist": "凛々咲",
-  "collection": "【 #Ririsya5thAnniversary 】 凛々咲5周年記念Live歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZZvFzKEUr?p=18",
   "source": "ririsya.js"
 },
     {
@@ -11070,46 +11070,6 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "Bad Apple!!",
-  "artist": "東方Project",
-  "collection": "【凛々咲 切片】色彩斑斓的歌枠接力：黑色主题的低音V-Singe🖤黒が似合うダウナーボイスVSingerです",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Q2C8ByEUk?p=1",
-  "source": "ririsya.js"
-},
-    {
-  "title": "月光花",
-  "artist": "Janne Da Arc",
-  "collection": "【凛々咲 切片】色彩斑斓的歌枠接力：黑色主题的低音V-Singe🖤黒が似合うダウナーボイスVSingerです",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Q2C8ByEUk?p=2",
-  "source": "ririsya.js"
-},
-    {
-  "title": "怪獣",
-  "artist": "サカナクション",
-  "collection": "【凛々咲 切片】色彩斑斓的歌枠接力：黑色主题的低音V-Singe🖤黒が似合うダウナーボイスVSingerです",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Q2C8ByEUk?p=3",
-  "source": "ririsya.js"
-},
-    {
-  "title": "パラレルナイト",
-  "artist": "凛々咲",
-  "collection": "【凛々咲 切片】色彩斑斓的歌枠接力：黑色主题的低音V-Singe🖤黒が似合うダウナーボイスVSingerです",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Q2C8ByEUk?p=4",
-  "source": "ririsya.js"
-},
-    {
-  "title": "ブラック★ロックシューター",
-  "artist": "supercell",
-  "collection": "【凛々咲 切片】色彩斑斓的歌枠接力：黑色主题的低音V-Singe🖤黒が似合うダウナーボイスVSingerです",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Q2C8ByEUk?p=5",
-  "source": "ririsya.js"
-},
-    {
   "title": "空色デイズ",
   "artist": "中川翔子",
   "collection": "【凛々咲 切片】ALL GENRE SINGING 💜 オールジャンル歌枠 2025年11月17日",
@@ -11275,6 +11235,46 @@ window.SONG_DATA.push(
   "collection": "【凛々咲 切片】ALL GENRE SINGING 💜 オールジャンル歌枠 2025年11月17日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KYCBB4E8b?p=21",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Bad Apple!!",
+  "artist": "東方Project",
+  "collection": "【凛々咲 切片】色彩斑斓的歌枠接力：黑色主题的低音V-Singe🖤黒が似合うダウナーボイスVSingerです",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Q2C8ByEUk?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "月光花",
+  "artist": "Janne Da Arc",
+  "collection": "【凛々咲 切片】色彩斑斓的歌枠接力：黑色主题的低音V-Singe🖤黒が似合うダウナーボイスVSingerです",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Q2C8ByEUk?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【凛々咲 切片】色彩斑斓的歌枠接力：黑色主题的低音V-Singe🖤黒が似合うダウナーボイスVSingerです",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Q2C8ByEUk?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "パラレルナイト",
+  "artist": "凛々咲",
+  "collection": "【凛々咲 切片】色彩斑斓的歌枠接力：黑色主题的低音V-Singe🖤黒が似合うダウナーボイスVSingerです",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Q2C8ByEUk?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ブラック★ロックシューター",
+  "artist": "supercell",
+  "collection": "【凛々咲 切片】色彩斑斓的歌枠接力：黑色主题的低音V-Singe🖤黒が似合うダウナーボイスVSingerです",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Q2C8ByEUk?p=5",
   "source": "ririsya.js"
 },
     {
@@ -17526,6 +17526,14 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
+  "title": "「失楽園",
+  "artist": "Paradise Lost -」",
+  "collection": "「失楽園 - Paradise Lost -」",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JgMK6uEDQ?p=1",
+  "source": "ririsya.js"
+},
+    {
   "title": "マリーゴールド",
   "artist": "あいみょん",
   "collection": "【🐍歌切】[2026-07-03]波音与弹唱✧ 凛々咲 / Ririsya",
@@ -17611,14 +17619,6 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-07-03]波音与弹唱✧ 凛々咲 / Ririsya",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1T7TW6eEj9?p=11",
-  "source": "ririsya.js"
-},
-    {
-  "title": "「失楽園",
-  "artist": "Paradise Lost -」",
-  "collection": "「失楽園 - Paradise Lost -」",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1JgMK6uEDQ?p=1",
   "source": "ririsya.js"
 },
     {

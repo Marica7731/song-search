@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 8/23/2026, 2:37:44 PM
+// 生成时间: 8/23/2026, 4:24:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1110,38 +1110,6 @@ window.SONG_DATA.push(
   "source": "kanaruhanon.js"
 },
     {
-  "title": "恋になりたいAQUARIUM",
-  "artist": "Aqours",
-  "collection": "【歌切】[2026-07-25]夏日气息满满！开心快乐！偶像能量全开！🍧💗",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SX356pEGQ?p=1",
-  "source": "kanaruhanon.js"
-},
-    {
-  "title": "ビタミンSUMMER！",
-  "artist": "Liella!",
-  "collection": "【歌切】[2026-07-25]夏日气息满满！开心快乐！偶像能量全开！🍧💗",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SX356pEGQ?p=2",
-  "source": "kanaruhanon.js"
-},
-    {
-  "title": "Mermaid festa vol.1",
-  "artist": "μ's",
-  "collection": "【歌切】[2026-07-25]夏日气息满满！开心快乐！偶像能量全开！🍧💗",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SX356pEGQ?p=3",
-  "source": "kanaruhanon.js"
-},
-    {
-  "title": "Summer Is Over",
-  "artist": "Altimate!!",
-  "collection": "【歌切】[2026-07-25]夏日气息满满！开心快乐！偶像能量全开！🍧💗",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SX356pEGQ?p=4",
-  "source": "kanaruhanon.js"
-},
-    {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
   "collection": "【歌切】[2026-07-24]8/2有空的人……来被我缠上吧！有安排的人请转发给有空的人啊啊啊",
@@ -1219,6 +1187,38 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-24]8/2有空的人……来被我缠上吧！有安排的人请转发给有空的人啊啊啊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1td356HELs?p=10",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "恋になりたいAQUARIUM",
+  "artist": "Aqours",
+  "collection": "【歌切】[2026-07-25]夏日气息满满！开心快乐！偶像能量全开！🍧💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SX356pEGQ?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ビタミンSUMMER！",
+  "artist": "Liella!",
+  "collection": "【歌切】[2026-07-25]夏日气息满满！开心快乐！偶像能量全开！🍧💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SX356pEGQ?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Mermaid festa vol.1",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-07-25]夏日气息满满！开心快乐！偶像能量全开！🍧💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SX356pEGQ?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Summer Is Over",
+  "artist": "Altimate!!",
+  "collection": "【歌切】[2026-07-25]夏日气息满满！开心快乐！偶像能量全开！🍧💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SX356pEGQ?p=4",
   "source": "kanaruhanon.js"
 },
     {

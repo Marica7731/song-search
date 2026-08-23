@@ -1,98 +1,10 @@
 // 天籠りのん - 歌单数据 (多合集汇总)
 // 来源: BV1hw4m1i7qN
-// 生成时间: 8/23/2026, 1:51:07 PM
+// 生成时间: 8/23/2026, 3:43:57 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
-    {
-  "title": "ANIMA",
-  "artist": "ReoNa",
-  "collection": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1hw4m1i7qN?p=1",
-  "source": "linon.js"
-},
-    {
-  "title": "Cry Baby",
-  "artist": "Official髭男dism",
-  "collection": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1hw4m1i7qN?p=2",
-  "source": "linon.js"
-},
-    {
-  "title": "アイドル",
-  "artist": "YOASOBI",
-  "collection": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1hw4m1i7qN?p=3",
-  "source": "linon.js"
-},
-    {
-  "title": "トウキョウ・シャンディ・ランデヴ",
-  "artist": "MAISONdes",
-  "collection": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1hw4m1i7qN?p=4",
-  "source": "linon.js"
-},
-    {
-  "title": "ブルーバード",
-  "artist": "いきものがかり",
-  "collection": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1hw4m1i7qN?p=5",
-  "source": "linon.js"
-},
-    {
-  "title": "ただ君に晴れ",
-  "artist": "ヨルシカ",
-  "collection": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1hw4m1i7qN?p=6",
-  "source": "linon.js"
-},
-    {
-  "title": "だから僕は音楽を辞めた",
-  "artist": "ヨルシカ",
-  "collection": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1hw4m1i7qN?p=7",
-  "source": "linon.js"
-},
-    {
-  "title": "秒針を噛む",
-  "artist": "ずっと真夜中でいいのに。",
-  "collection": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1hw4m1i7qN?p=8",
-  "source": "linon.js"
-},
-    {
-  "title": "夜に駆ける",
-  "artist": "YOASOBI",
-  "collection": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1hw4m1i7qN?p=9",
-  "source": "linon.js"
-},
-    {
-  "title": "Calc.",
-  "artist": "ジミーサムP",
-  "collection": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1hw4m1i7qN?p=10",
-  "source": "linon.js"
-},
-    {
-  "title": "怪獣の花唄",
-  "artist": "Vaundy",
-  "collection": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1hw4m1i7qN?p=11",
-  "source": "linon.js"
-},
     {
   "title": "青春コンプレックス",
   "artist": "結束バンド",
@@ -211,222 +123,6 @@ window.SONG_DATA.push(
   "collection": "【Linon ch. 天籠りのん 】15】最强音压注意✧神曲狂欢♡【2024年5月4日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1af42127vH?p=15",
-  "source": "linon.js"
-},
-    {
-  "title": "God knows...",
-  "artist": "涼宮ハルヒ",
-  "collection": "【天籠りのん】5】God knows... 、only my railgun、空色デイズ、コネクト、オレンジ【240523直播翻唱合集】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zM4m1k7nQ?p=1",
-  "source": "linon.js"
-},
-    {
-  "title": "only my railgun",
-  "artist": "fripSide",
-  "collection": "【天籠りのん】5】God knows... 、only my railgun、空色デイズ、コネクト、オレンジ【240523直播翻唱合集】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zM4m1k7nQ?p=2",
-  "source": "linon.js"
-},
-    {
-  "title": "空色デイズ",
-  "artist": "中川翔子",
-  "collection": "【天籠りのん】5】God knows... 、only my railgun、空色デイズ、コネクト、オレンジ【240523直播翻唱合集】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zM4m1k7nQ?p=3",
-  "source": "linon.js"
-},
-    {
-  "title": "コネクト",
-  "artist": "ClariS",
-  "collection": "【天籠りのん】5】God knows... 、only my railgun、空色デイズ、コネクト、オレンジ【240523直播翻唱合集】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zM4m1k7nQ?p=4",
-  "source": "linon.js"
-},
-    {
-  "title": "オレンジ",
-  "artist": "とらドラ!",
-  "collection": "【天籠りのん】5】God knows... 、only my railgun、空色デイズ、コネクト、オレンジ【240523直播翻唱合集】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zM4m1k7nQ?p=5",
-  "source": "linon.js"
-},
-    {
-  "title": "Shouted Serenade",
-  "artist": "LiSA",
-  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=1",
-  "source": "linon.js"
-},
-    {
-  "title": "crossing field",
-  "artist": "LiSA",
-  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=2",
-  "source": "linon.js"
-},
-    {
-  "title": "ROCK",
-  "artist": "mode'18",
-  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=3",
-  "source": "linon.js"
-},
-    {
-  "title": "Rally Go Round",
-  "artist": "LiSA",
-  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=4",
-  "source": "linon.js"
-},
-    {
-  "title": "だってアタシのヒーロー。",
-  "artist": "LiSA",
-  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=5",
-  "source": "linon.js"
-},
-    {
-  "title": "紅蓮華",
-  "artist": "LiSA",
-  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=6",
-  "source": "linon.js"
-},
-    {
-  "title": "炎",
-  "artist": "LiSA",
-  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=7",
-  "source": "linon.js"
-},
-    {
-  "title": "Rising Hope",
-  "artist": "LiSA",
-  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=8",
-  "source": "linon.js"
-},
-    {
-  "title": "ADAMAS",
-  "artist": "LiSA",
-  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=9",
-  "source": "linon.js"
-},
-    {
-  "title": "シルシ",
-  "artist": "LiSA",
-  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=10",
-  "source": "linon.js"
-},
-    {
-  "title": "best day，best way",
-  "artist": "LiSA",
-  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=11",
-  "source": "linon.js"
-},
-    {
-  "title": "Catch the Moment",
-  "artist": "LiSA",
-  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=12",
-  "source": "linon.js"
-},
-    {
-  "title": "粛聖!! ロリ神レクイエム☆",
-  "artist": "しぐれうい",
-  "collection": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WD42137aX?p=1",
-  "source": "linon.js"
-},
-    {
-  "title": "ビビデバ",
-  "artist": "星街すいせい",
-  "collection": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WD42137aX?p=2",
-  "source": "linon.js"
-},
-    {
-  "title": "ソワレ",
-  "artist": "星街すいせい",
-  "collection": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WD42137aX?p=3",
-  "source": "linon.js"
-},
-    {
-  "title": "Don't say\"lazy\"",
-  "artist": "桜高軽音部",
-  "collection": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WD42137aX?p=4",
-  "source": "linon.js"
-},
-    {
-  "title": "NO, Thank You!",
-  "artist": "放課後ティータイム",
-  "collection": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WD42137aX?p=5",
-  "source": "linon.js"
-},
-    {
-  "title": "Shouted Serenade",
-  "artist": "LiSA",
-  "collection": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WD42137aX?p=6",
-  "source": "linon.js"
-},
-    {
-  "title": "阿修羅ちゃん",
-  "artist": "Ado",
-  "collection": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WD42137aX?p=7",
-  "source": "linon.js"
-},
-    {
-  "title": "マーシャル・マキシマイザー",
-  "artist": "柊マグネタイト",
-  "collection": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WD42137aX?p=8",
-  "source": "linon.js"
-},
-    {
-  "title": "ETERNAL BLAZE",
-  "artist": "水樹奈々",
-  "collection": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WD42137aX?p=9",
-  "source": "linon.js"
-},
-    {
-  "title": "花に亡霊",
-  "artist": "ヨルシカ",
-  "collection": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WD42137aX?p=10",
   "source": "linon.js"
 },
     {
@@ -1750,6 +1446,310 @@ window.SONG_DATA.push(
   "source": "linon.js"
 },
     {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ",
+  "collection": "【天籠りのん】5】God knows... 、only my railgun、空色デイズ、コネクト、オレンジ【240523直播翻唱合集】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zM4m1k7nQ?p=1",
+  "source": "linon.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "【天籠りのん】5】God knows... 、only my railgun、空色デイズ、コネクト、オレンジ【240523直播翻唱合集】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zM4m1k7nQ?p=2",
+  "source": "linon.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "【天籠りのん】5】God knows... 、only my railgun、空色デイズ、コネクト、オレンジ【240523直播翻唱合集】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zM4m1k7nQ?p=3",
+  "source": "linon.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【天籠りのん】5】God knows... 、only my railgun、空色デイズ、コネクト、オレンジ【240523直播翻唱合集】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zM4m1k7nQ?p=4",
+  "source": "linon.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "とらドラ!",
+  "collection": "【天籠りのん】5】God knows... 、only my railgun、空色デイズ、コネクト、オレンジ【240523直播翻唱合集】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zM4m1k7nQ?p=5",
+  "source": "linon.js"
+},
+    {
+  "title": "Shouted Serenade",
+  "artist": "LiSA",
+  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=1",
+  "source": "linon.js"
+},
+    {
+  "title": "crossing field",
+  "artist": "LiSA",
+  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=2",
+  "source": "linon.js"
+},
+    {
+  "title": "ROCK",
+  "artist": "mode'18",
+  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=3",
+  "source": "linon.js"
+},
+    {
+  "title": "Rally Go Round",
+  "artist": "LiSA",
+  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=4",
+  "source": "linon.js"
+},
+    {
+  "title": "だってアタシのヒーロー。",
+  "artist": "LiSA",
+  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=5",
+  "source": "linon.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=6",
+  "source": "linon.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=7",
+  "source": "linon.js"
+},
+    {
+  "title": "Rising Hope",
+  "artist": "LiSA",
+  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=8",
+  "source": "linon.js"
+},
+    {
+  "title": "ADAMAS",
+  "artist": "LiSA",
+  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=9",
+  "source": "linon.js"
+},
+    {
+  "title": "シルシ",
+  "artist": "LiSA",
+  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=10",
+  "source": "linon.js"
+},
+    {
+  "title": "best day，best way",
+  "artist": "LiSA",
+  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=11",
+  "source": "linon.js"
+},
+    {
+  "title": "Catch the Moment",
+  "artist": "LiSA",
+  "collection": "【Linon ch. 天籠りのん】LiSA 专场【240527】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yz421a7Vv?p=12",
+  "source": "linon.js"
+},
+    {
+  "title": "粛聖!! ロリ神レクイエム☆",
+  "artist": "しぐれうい",
+  "collection": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WD42137aX?p=1",
+  "source": "linon.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WD42137aX?p=2",
+  "source": "linon.js"
+},
+    {
+  "title": "ソワレ",
+  "artist": "星街すいせい",
+  "collection": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WD42137aX?p=3",
+  "source": "linon.js"
+},
+    {
+  "title": "Don't say\"lazy\"",
+  "artist": "桜高軽音部",
+  "collection": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WD42137aX?p=4",
+  "source": "linon.js"
+},
+    {
+  "title": "NO, Thank You!",
+  "artist": "放課後ティータイム",
+  "collection": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WD42137aX?p=5",
+  "source": "linon.js"
+},
+    {
+  "title": "Shouted Serenade",
+  "artist": "LiSA",
+  "collection": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WD42137aX?p=6",
+  "source": "linon.js"
+},
+    {
+  "title": "阿修羅ちゃん",
+  "artist": "Ado",
+  "collection": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WD42137aX?p=7",
+  "source": "linon.js"
+},
+    {
+  "title": "マーシャル・マキシマイザー",
+  "artist": "柊マグネタイト",
+  "collection": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WD42137aX?p=8",
+  "source": "linon.js"
+},
+    {
+  "title": "ETERNAL BLAZE",
+  "artist": "水樹奈々",
+  "collection": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WD42137aX?p=9",
+  "source": "linon.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【Linon ch. 天籠りのん】10】粛聖!! ロリ神レクイエム☆、ビビデバ、ソワレ【2024年5月29日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WD42137aX?p=10",
+  "source": "linon.js"
+},
+    {
+  "title": "ANIMA",
+  "artist": "ReoNa",
+  "collection": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hw4m1i7qN?p=1",
+  "source": "linon.js"
+},
+    {
+  "title": "Cry Baby",
+  "artist": "Official髭男dism",
+  "collection": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hw4m1i7qN?p=2",
+  "source": "linon.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hw4m1i7qN?p=3",
+  "source": "linon.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ",
+  "artist": "MAISONdes",
+  "collection": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hw4m1i7qN?p=4",
+  "source": "linon.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hw4m1i7qN?p=5",
+  "source": "linon.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hw4m1i7qN?p=6",
+  "source": "linon.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hw4m1i7qN?p=7",
+  "source": "linon.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hw4m1i7qN?p=8",
+  "source": "linon.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hw4m1i7qN?p=9",
+  "source": "linon.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP",
+  "collection": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hw4m1i7qN?p=10",
+  "source": "linon.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【天籠りのん】13】だから僕は音楽を辞めた、秒針を噛む、夜に駆ける、怪獣の花唄【240601】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hw4m1i7qN?p=11",
+  "source": "linon.js"
+},
+    {
   "title": "JOINT",
   "artist": "川田まみ",
   "collection": "【 Linon ch. 天籠りのん】13】复仇曲目较多的歌回【240609】",
@@ -2798,6 +2798,30 @@ window.SONG_DATA.push(
   "source": "linon.js"
 },
     {
+  "title": "キミとアイドルプリキュア",
+  "artist": "石井あみ・熊田茜音・吉武千颯",
+  "collection": "天籠りのん 朝活接力 2025年4月27日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16WNrz1EX5?p=1",
+  "source": "linon.js"
+},
+    {
+  "title": "わんだふるぷりきゅあ!",
+  "artist": "吉武千颯",
+  "collection": "天籠りのん 朝活接力 2025年4月27日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16WNrz1EX5?p=2",
+  "source": "linon.js"
+},
+    {
+  "title": "Trio Dreams",
+  "artist": "キミとアイドルプリキュア♪ED",
+  "collection": "天籠りのん 朝活接力 2025年4月27日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16WNrz1EX5?p=3",
+  "source": "linon.js"
+},
+    {
   "title": "ブリキノダンス",
   "artist": "日向電工",
   "collection": "天籠的接力 🎤✨",
@@ -2843,30 +2867,6 @@ window.SONG_DATA.push(
   "collection": "天籠的接力 🎤✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KmMGzEEsH?p=6",
-  "source": "linon.js"
-},
-    {
-  "title": "キミとアイドルプリキュア",
-  "artist": "石井あみ・熊田茜音・吉武千颯",
-  "collection": "天籠りのん 朝活接力 2025年4月27日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16WNrz1EX5?p=1",
-  "source": "linon.js"
-},
-    {
-  "title": "わんだふるぷりきゅあ!",
-  "artist": "吉武千颯",
-  "collection": "天籠りのん 朝活接力 2025年4月27日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16WNrz1EX5?p=2",
-  "source": "linon.js"
-},
-    {
-  "title": "Trio Dreams",
-  "artist": "キミとアイドルプリキュア♪ED",
-  "collection": "天籠りのん 朝活接力 2025年4月27日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16WNrz1EX5?p=3",
   "source": "linon.js"
 },
     {

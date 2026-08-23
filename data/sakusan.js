@@ -1,6 +1,6 @@
 // 酢酸 / SAKUSAN - 歌单数据 (多合集汇总)
 // 来源: BV1JSZHBrEVw
-// 生成时间: 8/23/2026, 1:42:20 PM
+// 生成时间: 8/23/2026, 3:36:49 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -43,110 +43,6 @@ window.SONG_DATA.push(
   "collection": "[酢酸/ 酢酸かのん ]💘心动砰砰的歌曲接力！！我想把Kyun💫送给大家…！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13bBcY4EiW?p=5",
-  "source": "sakusan.js"
-},
-    {
-  "title": "Mela！",
-  "artist": "緑黄色社会",
-  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=1",
-  "source": "sakusan.js"
-},
-    {
-  "title": "拍手喝采歌合",
-  "artist": "supercell",
-  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=2",
-  "source": "sakusan.js"
-},
-    {
-  "title": "うたかた花火",
-  "artist": "supercell",
-  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=3",
-  "source": "sakusan.js"
-},
-    {
-  "title": "悪魔の子",
-  "artist": "ヒグチアイ",
-  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=4",
-  "source": "sakusan.js"
-},
-    {
-  "title": "ノーザンクロス",
-  "artist": "May'n",
-  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=5",
-  "source": "sakusan.js"
-},
-    {
-  "title": "唱",
-  "artist": "Ado",
-  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=6",
-  "source": "sakusan.js"
-},
-    {
-  "title": "アイドルでよかった (feat.HoneyWorks)",
-  "artist": "mona(CV：夏川椎菜)",
-  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=7",
-  "source": "sakusan.js"
-},
-    {
-  "title": "ロックスター",
-  "artist": "Ado",
-  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=8",
-  "source": "sakusan.js"
-},
-    {
-  "title": "蝶々結び",
-  "artist": "Aimer",
-  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=9",
-  "source": "sakusan.js"
-},
-    {
-  "title": "たばこ",
-  "artist": "コレサワ",
-  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=10",
-  "source": "sakusan.js"
-},
-    {
-  "title": "明日への手紙",
-  "artist": "手嶌葵",
-  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=11",
-  "source": "sakusan.js"
-},
-    {
-  "title": "裸の心",
-  "artist": "あいみょん",
-  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=12",
-  "source": "sakusan.js"
-},
-    {
-  "title": "夢をかなえてドラえもん",
-  "artist": "Mao",
-  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=13",
   "source": "sakusan.js"
 },
     {
@@ -347,6 +243,110 @@ window.SONG_DATA.push(
   "collection": "酢酸かのん 2025.5.5直播 粉丝向花絮歌切",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ANVrzMEJC?p=25",
+  "source": "sakusan.js"
+},
+    {
+  "title": "Mela！",
+  "artist": "緑黄色社会",
+  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=1",
+  "source": "sakusan.js"
+},
+    {
+  "title": "拍手喝采歌合",
+  "artist": "supercell",
+  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=2",
+  "source": "sakusan.js"
+},
+    {
+  "title": "うたかた花火",
+  "artist": "supercell",
+  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=3",
+  "source": "sakusan.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=4",
+  "source": "sakusan.js"
+},
+    {
+  "title": "ノーザンクロス",
+  "artist": "May'n",
+  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=5",
+  "source": "sakusan.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=6",
+  "source": "sakusan.js"
+},
+    {
+  "title": "アイドルでよかった (feat.HoneyWorks)",
+  "artist": "mona(CV：夏川椎菜)",
+  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=7",
+  "source": "sakusan.js"
+},
+    {
+  "title": "ロックスター",
+  "artist": "Ado",
+  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=8",
+  "source": "sakusan.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=9",
+  "source": "sakusan.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=10",
+  "source": "sakusan.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=11",
+  "source": "sakusan.js"
+},
+    {
+  "title": "裸の心",
+  "artist": "あいみょん",
+  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=12",
+  "source": "sakusan.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "Mao",
+  "collection": "酢酸かのん 2025.5.5直播 主流程歌切",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wNVrzMELx?p=13",
   "source": "sakusan.js"
 },
     {
