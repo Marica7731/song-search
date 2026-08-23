@@ -45,6 +45,7 @@
 - 头像源：`scripts/source-profiles.json`（按来源文件名补充头像、YouTube 频道、首字和颜色）
 - GitHub 侧采集依赖入口 BV 展开到的小节/合集 BV；每个入口 BV 会单独维护候选池。
 - 默认每个入口 BV 随机抽取 3 个候选 BV 抓取 DOM，对比歌曲数量后采用数量更多的结果。
+- 普通多 P 视频不具备合集 DOM 时，可在来源配置中设置 `rawDataLoader: "bili-view-api"`，直接读取 B 站 view API 的分 P 标题；目前仅用于 `花丸晴琉` 和 `花鋏キョウ`。
 - 有历史成功记录时，上次可靠 winner 固定占用一个抽样名额，其余名额再用于探索，避免 recent 过滤把完整候选排除。
 - recent 状态按 `来源文件 + 入口 BV` 记录，优先避开最近几轮抽中过的 BV；候选不足时允许从 recent 中补足。
 - 抽样失败时先回退未过滤候选，再回退入口 BV 本身。
@@ -59,11 +60,11 @@
 ### 2) GitHub Actions 自动更新
 - 工作流：`.github/workflows/update.yml`
 - 触发：
-  - 雨云每 10 分钟分发 `workflow_dispatch`
+  - WDC 每 10 分钟检查一次；仅在没有活动 run 时分发 `workflow_dispatch`
   - 手动 `workflow_dispatch`
 - 行为：
   - 通过 Actions cache 恢复 `reports/github-bv-sampling-state.json`
-  - 先运行 `node --test scripts/update-songs-guard.test.js` 验证完整性门禁
+  - 先运行门禁、多 P API 和标题清洗回归测试
   - 运行 `scripts/update-songs.js`
   - 只检查 `data/*.js` 和 `data/index.json` 是否有变更
   - 数据更新与增长日报共用 `song-search-main-writer` 并发组，同一时间只允许一个主分支写任务
@@ -123,6 +124,8 @@ song-search/
 │                              # BV 抽样运行状态，cache 保存，不提交
 ├─ scripts/
 │  ├─ update-songs.js          # 数据抓取与生成脚本
+│  ├─ bilibili-page-api.js      # 普通多 P 视频的 view API 适配器
+│  ├─ bilibili-page-api.test.js # 多 P API 适配器回归测试
 │  ├─ update-songs-guard.js    # 来源完整性和异常回退门禁
 │  ├─ update-songs-guard.test.js # 门禁回归测试
 │  ├─ title-cleaning.js        # 保留语义括号后缀的标题清洗规则
@@ -138,10 +141,12 @@ song-search/
 | 文件路径 | 文件用途 | 主要函数或模块职责 | 与其他文件的关系 |
 |---|---|---|---|
 | `scripts/update-songs.js` | GitHub Pages 歌曲数据生成脚本 | `processEntryBvid` 负责入口 BV 候选刷新、抽样、fallback 与胜者选择；`parseRawDataToSongs` 负责 DOM 结果转歌曲；`loadSamplingState` / `saveSamplingState` 负责状态读写；`buildSourceProfile` 负责把头像配置写入 index | 读取脚本内 `SINGER_CONFIGS` 和 `scripts/source-profiles.json`，写入 `data/*.js`、`data/index.json` 和运行态 `reports/github-bv-sampling-state.json` |
+| `scripts/bilibili-page-api.js` | 普通多 P 视频适配器 | 校验 B 站 view API 响应并转换成老站既有 raw-data 结构；请求设置超时和公开页面请求头 | 仅由标记 `rawDataLoader: "bili-view-api"` 的来源调用 |
+| `scripts/bilibili-page-api.test.js` | 多 P API 回归测试 | 覆盖正常转换、API 错误、空分 P 和请求头 | 由 `.github/workflows/update.yml` 在抓取前执行 |
 | `scripts/update-songs-guard.js` | 来源更新门禁 | 校验所有入口 BV 均成功，并阻止单来源异常大幅回退覆盖旧文件 | 被 `scripts/update-songs.js` 调用，由同目录测试覆盖 |
 | `scripts/update-songs-guard.test.js` | 门禁回归测试 | 覆盖入口缺失、3373 到 1530 的异常回退、可靠 winner、小幅修正和首次生成 | 由 `.github/workflows/update.yml` 在抓取前执行 |
 | `scripts/source-profiles.json` | 来源头像与频道覆盖配置 | 按来源文件名维护 `avatarUrl`、`youtubeUrl`、`avatarText`、`accentColor` | 被 `scripts/update-songs.js` 合并进 `data/index.json` 的 `sourceProfiles` |
-| `.github/workflows/update.yml` | 自动更新工作流 | 每 10 分钟或手动运行脚本；恢复/保存 BV 抽样状态；与增长日报串行；只在数据文件变化且远端 HEAD 未前进时提交 | 调用 `scripts/update-songs.js`，提交 `data/*.js data/index.json` 到 `main` |
+| `.github/workflows/update.yml` | 自动更新工作流 | 由 WDC 在空闲时分发或手动运行；恢复/保存 BV 抽样状态；与增长日报串行；只在数据文件变化且远端 HEAD 未前进时提交 | 调用 `scripts/update-songs.js`，提交 `data/*.js data/index.json` 到 `main` |
 | `deploy/wdc/` | WDC 分发器模板 | 每 10 分钟检查一次 GitHub workflow，仅在没有活动 run 时触发，并使用 systemd journal 与独立状态文件 | 只迁移雨云分发逻辑，不在 WDC 克隆老站或运行 Puppeteer |
 | `.gitignore` | 本地和 workflow 的非提交文件规则 | 忽略 `reports/github-bv-sampling-state.json` | 配合 workflow cache，让 recent 状态保留但不刷主分支提交 |
 | `README.md` | 项目说明和维护说明 | 说明随机抽样规则、运行方式、测试方法和文件清单 | 作为 GitHub 侧维护入口文档 |
@@ -152,7 +157,7 @@ song-search/
 - 推送前建议本地用 HTTP 跑一遍关键页面
 - 推送前建议执行：
   - `node --check scripts/update-songs.js`
-  - `node --test scripts/update-songs-guard.test.js`
+  - `node --test scripts/update-songs-guard.test.js scripts/bilibili-page-api.test.js`
   - `node scripts/check-title-cleaning.js`
   - `node scripts/update-songs.js`
   - `git diff --check`

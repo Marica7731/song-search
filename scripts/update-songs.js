@@ -6,6 +6,7 @@ const {
     countStoredSongs,
     getReliableWinner
 } = require('./update-songs-guard');
+const { loadBiliPageList } = require('./bilibili-page-api');
 
 // ================= 关键兼容：适配全局安装的 Puppeteer =================
 let puppeteer;
@@ -196,8 +197,8 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1AFG66UEpL"], file: "chiyourachomi", alias: "千代浦蝶美" },
     { bvids: ["BV1nUMP6vE7N"], file: "tamamachipue", alias: "玉町ぷえ" },
     { bvids: ["BV1co7i6QEez"], file: "isshikiizu", alias: "一色イズ" },
-    { bvids: ["BV1jaYQeUEgM"], file: "hanamaruhareru", alias: "花丸晴琉" },
-    { bvids: ["BV1H9ekeiEaB"], file: "hanabasamikyo", alias: "花鋏キョウ" },
+    { bvids: ["BV1jaYQeUEgM"], file: "hanamaruhareru", alias: "花丸晴琉", rawDataLoader: "bili-view-api" },
+    { bvids: ["BV1H9ekeiEaB"], file: "hanabasamikyo", alias: "花鋏キョウ", rawDataLoader: "bili-view-api" },
     { bvids: ["BV1Qa9JB6EAw"], alias: "陽月るるふ" },
     { bvids: ["BV1oeMx6WEve"], file: "ronaru", alias: "炉なる" },
     { bvids: ["BV1oHAVzxE2q"], file: "manomueru", alias: "魔ノむえる" },
@@ -491,9 +492,11 @@ function dedupeSongs(songs) {
     });
 }
 
-async function loadRawDataWithRetry(bvid) {
+async function loadRawDataWithRetry(config, bvid) {
     return withRetry(async () => {
-        const data = await loadVideoPageWithBrowser(bvid);
+        const data = config.rawDataLoader === 'bili-view-api'
+            ? await loadBiliPageList(bvid)
+            : await loadVideoPageWithBrowser(bvid);
         if (!data || data.length === 0) {
             throw new Error('未解析到有效列表数据');
         }
@@ -502,7 +505,7 @@ async function loadRawDataWithRetry(bvid) {
 }
 
 async function parseCandidateBvid(config, bvid, cachedRawData = null) {
-    const rawData = cachedRawData || await loadRawDataWithRetry(bvid);
+    const rawData = cachedRawData || await loadRawDataWithRetry(config, bvid);
     const songs = parseRawDataToSongs(rawData, config);
     if (songs.length === 0) {
         throw new Error('未解析到有效歌曲数据');
@@ -522,7 +525,7 @@ async function processEntryBvid(config, entryBvid, samplingState) {
     let entryRawData = null;
     let discoveredCandidates = [];
     try {
-        entryRawData = await loadRawDataWithRetry(entryBvid);
+        entryRawData = await loadRawDataWithRetry(config, entryBvid);
         discoveredCandidates = extractCandidateBvids(entryRawData, entryBvid);
     } catch (err) {
         console.warn(`  ⚠️  入口BV候选刷新失败，将使用上次状态：${err.message}`);

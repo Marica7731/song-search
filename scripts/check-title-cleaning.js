@@ -7,6 +7,7 @@ const cases = [
     ['13. エルの絵本 【笛吹き男とパレード】', 'エルの絵本 【笛吹き男とパレード】'],
     ['14. エルの楽園 ［→ side：A →］', 'エルの楽園 ［→ side：A →］'],
     ['19. 終端の王と異世界の騎士 ～The Endia & The Knights～', '終端の王と異世界の騎士 ～The Endia & The Knights～'],
+    ['Cosmic Dancers -', 'Cosmic Dancers'],
     ['P12: upload_sub', 'upload']
 ];
 

@@ -38,8 +38,10 @@ jobs:
         with:
           node-version: '20'
 
-      - name: 验证来源完整性门禁
-        run: node --test scripts/update-songs-guard.test.js
+      - name: 验证更新脚本回归
+        run: |
+          node --test scripts/update-songs-guard.test.js scripts/bilibili-page-api.test.js
+          node scripts/check-title-cleaning.js
 
       - name: 安装系统依赖
         run: |
