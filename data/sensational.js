@@ -1,6 +1,6 @@
 // Sen†Sational - 歌单数据 (多合集汇总)
 // 来源: BV1ybNo67EQ5
-// 生成时间: 8/22/2026, 10:50:55 PM
+// 生成时间: 8/23/2026, 12:39:37 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1107,6 +1107,150 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-14]🔴 盂兰盆假期，在馆中熬夜。",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vnbm6KEro?p=19",
+  "source": "sensational.js"
+},
+    {
+  "title": "フライデー・ナイト",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-08-21]🔴 想看烟花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xs8p6JEyy?p=1",
+  "source": "sensational.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "【歌切】[2026-08-21]🔴 想看烟花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xs8p6JEyy?p=2",
+  "source": "sensational.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "JITTERIN'JINN",
+  "collection": "【歌切】[2026-08-21]🔴 想看烟花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xs8p6JEyy?p=3",
+  "source": "sensational.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat.flower",
+  "collection": "【歌切】[2026-08-21]🔴 想看烟花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xs8p6JEyy?p=4",
+  "source": "sensational.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-08-21]🔴 想看烟花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xs8p6JEyy?p=5",
+  "source": "sensational.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-08-21]🔴 想看烟花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xs8p6JEyy?p=6",
+  "source": "sensational.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-08-21]🔴 想看烟花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xs8p6JEyy?p=7",
+  "source": "sensational.js"
+},
+    {
+  "title": "ロスタイムメモリー",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-08-21]🔴 想看烟花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xs8p6JEyy?p=8",
+  "source": "sensational.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-08-21]🔴 想看烟花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xs8p6JEyy?p=9",
+  "source": "sensational.js"
+},
+    {
+  "title": "わたがし",
+  "artist": "back number",
+  "collection": "【歌切】[2026-08-21]🔴 想看烟花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xs8p6JEyy?p=10",
+  "source": "sensational.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "【歌切】[2026-08-21]🔴 想看烟花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xs8p6JEyy?p=11",
+  "source": "sensational.js"
+},
+    {
+  "title": "東京サマーセッション",
+  "artist": "HoneyWorks feat.GUMI、v flower",
+  "collection": "【歌切】[2026-08-21]🔴 想看烟花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xs8p6JEyy?p=12",
+  "source": "sensational.js"
+},
+    {
+  "title": "スターマイン",
+  "artist": "Da-iCE",
+  "collection": "【歌切】[2026-08-21]🔴 想看烟花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xs8p6JEyy?p=13",
+  "source": "sensational.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【歌切】[2026-08-21]🔴 想看烟花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xs8p6JEyy?p=14",
+  "source": "sensational.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【歌切】[2026-08-21]🔴 想看烟花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xs8p6JEyy?p=15",
+  "source": "sensational.js"
+},
+    {
+  "title": "SEXY BOY 〜そよ風に寄り添って〜",
+  "artist": "モーニング娘。",
+  "collection": "【歌切】[2026-08-21]🔴 想看烟花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xs8p6JEyy?p=16",
+  "source": "sensational.js"
+},
+    {
+  "title": "short hair",
+  "artist": "Base Ball Bear",
+  "collection": "【歌切】[2026-08-21]🔴 想看烟花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xs8p6JEyy?p=17",
+  "source": "sensational.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-08-21]🔴 想看烟花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xs8p6JEyy?p=18",
   "source": "sensational.js"
 }
 );

@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 8/22/2026, 10:29:02 PM
+// 生成时间: 8/23/2026, 12:16:15 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8387,6 +8387,174 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-18]从今天起固定歌回改到周二✋ 动漫歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Vh8G6vEEv?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Shout Baby",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-08-22]唱动画歌曲、术力口和JPOP✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEeH?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "【歌切】[2026-08-22]唱动画歌曲、术力口和JPOP✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEeH?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "さよーならまたいつか！",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-22]唱动画歌曲、术力口和JPOP✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEeH?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "StaRt",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-22]唱动画歌曲、术力口和JPOP✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEeH?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Magia",
+  "artist": "Kalafina",
+  "collection": "【歌切】[2026-08-22]唱动画歌曲、术力口和JPOP✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEeH?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "レディメイド",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-08-22]唱动画歌曲、术力口和JPOP✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEeH?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ペテン師が笑う頃に",
+  "artist": "梨本P feat.初音ミク",
+  "collection": "【歌切】[2026-08-22]唱动画歌曲、术力口和JPOP✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEeH?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "【歌切】[2026-08-22]唱动画歌曲、术力口和JPOP✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEeH?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "かくれんぼ",
+  "artist": "AliA",
+  "collection": "【歌切】[2026-08-22]唱动画歌曲、术力口和JPOP✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEeH?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "バイバイレイニー",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-08-22]唱动画歌曲、术力口和JPOP✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEeH?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "今宵、月が見えずとも",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-08-22]唱动画歌曲、术力口和JPOP✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEeH?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "うたかた花火",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-08-22]唱动画歌曲、术力口和JPOP✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEeH?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "シャル・ウィ・ダンス？",
+  "artist": "ReoNa",
+  "collection": "【歌切】[2026-08-22]唱动画歌曲、术力口和JPOP✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEeH?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ルーマー",
+  "artist": "ポリスピカデリー feat.GUMI",
+  "collection": "【歌切】[2026-08-22]唱动画歌曲、术力口和JPOP✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEeH?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "逆夢",
+  "artist": "King Gnu",
+  "collection": "【歌切】[2026-08-22]唱动画歌曲、术力口和JPOP✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEeH?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アイデンティティ",
+  "artist": "Kanaria feat.GUMI、初音ミク",
+  "collection": "【歌切】[2026-08-22]唱动画歌曲、术力口和JPOP✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEeH?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "エンヴィーベイビー",
+  "artist": "Kanaria feat.GUMI",
+  "collection": "【歌切】[2026-08-22]唱动画歌曲、术力口和JPOP✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEeH?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "EYE",
+  "artist": "Kanaria feat.GUMI",
+  "collection": "【歌切】[2026-08-22]唱动画歌曲、术力口和JPOP✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEeH?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "デーモンロード",
+  "artist": "Kanaria feat.初音ミク",
+  "collection": "【歌切】[2026-08-22]唱动画歌曲、术力口和JPOP✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEeH?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【歌切】[2026-08-22]唱动画歌曲、术力口和JPOP✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEeH?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "きみだけは。",
+  "artist": "天月-あまつき",
+  "collection": "【歌切】[2026-08-22]唱动画歌曲、术力口和JPOP✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEeH?p=21",
   "source": "ibaramuan.js"
 }
 );

@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 8/22/2026, 9:32:05 PM
+// 生成时间: 8/22/2026, 11:12:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12787,6 +12787,54 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=22",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Driver's High",
+  "artist": "L'Arc〜en〜Ciel",
+  "collection": "【歌切】[2026-08-22]为苦夏的你注入维生素的歌回🍊💊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1528p6NEhk?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-08-22]为苦夏的你注入维生素的歌回🍊💊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1528p6NEhk?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夜明け生まれ来る少女",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-08-22]为苦夏的你注入维生素的歌回🍊💊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1528p6NEhk?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "生きるよすが",
+  "artist": "月詠み",
+  "collection": "【歌切】[2026-08-22]为苦夏的你注入维生素的歌回🍊💊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1528p6NEhk?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "エンジェルウインク",
+  "artist": "照橋心美(茅野愛衣)",
+  "collection": "【歌切】[2026-08-22]为苦夏的你注入维生素的歌回🍊💊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1528p6NEhk?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "赤い罠(who loves it?)",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-08-22]为苦夏的你注入维生素的歌回🍊💊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1528p6NEhk?p=6",
   "source": "naraetan.js"
 },
     {

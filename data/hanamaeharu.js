@@ -1,6 +1,6 @@
 // 花前ハル - 歌单数据 (多合集汇总)
 // 来源: BV1dfjx61Eri
-// 生成时间: 8/22/2026, 10:51:59 PM
+// 生成时间: 8/23/2026, 12:41:01 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -931,6 +931,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-05-03]初次歌回❗️ Haru Ch. 花前ハル",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KuK16xE29?p=10",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-22]第一次的歌回接力✨️让我担任牵牛花队的压轴！❗️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L28p6NELH?p=1",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-22]第一次的歌回接力✨️让我担任牵牛花队的压轴！❗️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L28p6NELH?p=2",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-08-22]第一次的歌回接力✨️让我担任牵牛花队的压轴！❗️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L28p6NELH?p=3",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-08-22]第一次的歌回接力✨️让我担任牵牛花队的压轴！❗️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L28p6NELH?p=4",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-08-22]第一次的歌回接力✨️让我担任牵牛花队的压轴！❗️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1L28p6NELH?p=5",
   "source": "hanamaeharu.js"
 }
 );

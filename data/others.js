@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 8/22/2026, 10:37:34 PM
+// 生成时间: 8/23/2026, 12:24:44 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -19027,6 +19027,166 @@ window.SONG_DATA.push(
   "collection": "あかつき るき歌切 2026-08-19 耐久歌回！！🎤和大家一起冲击频道5万订阅！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Lg8K6REXx?p=61",
+  "source": "others.js"
+},
+    {
+  "title": "罪と罰",
+  "artist": "椎名林檎",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-22 石狩会加油的！！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gR8p6fE5L?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "真夏は誰のモノ?",
+  "artist": "黒澤ダイヤ(小宮有紗)、黒澤ルビィ(降幡愛)",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-22 石狩会加油的！！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gR8p6fE5L?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-22 石狩会加油的！！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gR8p6fE5L?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "Departures 〜あなたにおくるアイの歌〜",
+  "artist": "EGOIST",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-22 石狩会加油的！！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gR8p6fE5L?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-22 石狩会加油的！！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gR8p6fE5L?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-08-22 石狩会加油的！！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gR8p6fE5L?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona(CV:夏川椎菜)",
+  "collection": "暁月クララ歌切 2026-08-21 ✧︎*. 倒计时✨也会唱原创曲和翻唱曲哦！！！⋆꙳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xs8p6JEzG?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "キミイロクロニクル",
+  "artist": "Palette Project",
+  "collection": "暁月クララ歌切 2026-08-21 ✧︎*. 倒计时✨也会唱原创曲和翻唱曲哦！！！⋆꙳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xs8p6JEzG?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ドリームインブルーム！",
+  "artist": "Palette Project",
+  "collection": "暁月クララ歌切 2026-08-21 ✧︎*. 倒计时✨也会唱原创曲和翻唱曲哦！！！⋆꙳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xs8p6JEzG?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona(CV:夏川椎菜)",
+  "collection": "暁月クララ歌切 2026-08-21 ✧︎*. 倒计时✨也会唱原创曲和翻唱曲哦！！！⋆꙳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xs8p6JEzG?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ハレバレパレット",
+  "artist": "Palette Project",
+  "collection": "暁月クララ歌切 2026-08-22 ✧︎*. 8周年✨来唱パレプロ的原创神曲吧！有小通知！⋆꙳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JB8p66EWU?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "夏ゆきトキメキHigh Tension!",
+  "artist": "Palette Project",
+  "collection": "暁月クララ歌切 2026-08-22 ✧︎*. 8周年✨来唱パレプロ的原创神曲吧！有小通知！⋆꙳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JB8p66EWU?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "はあと♡がつけばさらに良し",
+  "artist": "暁月クララ",
+  "collection": "暁月クララ歌切 2026-08-22 ✧︎*. 8周年✨来唱パレプロ的原创神曲吧！有小通知！⋆꙳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JB8p66EWU?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "光の惑星",
+  "artist": "Sputrip",
+  "collection": "暁月クララ歌切 2026-08-22 ✧︎*. 8周年✨来唱パレプロ的原创神曲吧！有小通知！⋆꙳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JB8p66EWU?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "トイ×トイ☆パーティー！",
+  "artist": "Sputrip",
+  "collection": "暁月クララ歌切 2026-08-22 ✧︎*. 8周年✨来唱パレプロ的原创神曲吧！有小通知！⋆꙳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JB8p66EWU?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "青春の現在地",
+  "artist": "Palette Project",
+  "collection": "暁月クララ歌切 2026-08-22 ✧︎*. 8周年✨来唱パレプロ的原创神曲吧！有小通知！⋆꙳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JB8p66EWU?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "Own other side",
+  "artist": "Palette Project",
+  "collection": "暁月クララ歌切 2026-08-22 ✧︎*. 8周年✨来唱パレプロ的原创神曲吧！有小通知！⋆꙳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JB8p66EWU?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "Dreamin‘Train♡",
+  "artist": "Sputrip",
+  "collection": "暁月クララ歌切 2026-08-22 ✧︎*. 8周年✨来唱パレプロ的原创神曲吧！有小通知！⋆꙳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JB8p66EWU?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "君と歌いたい歌がある",
+  "artist": "Palette Project",
+  "collection": "暁月クララ歌切 2026-08-22 ✧︎*. 8周年✨来唱パレプロ的原创神曲吧！有小通知！⋆꙳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JB8p66EWU?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "はあと♡がつけばさらに良し",
+  "artist": "暁月クララ",
+  "collection": "暁月クララ歌切 2026-08-22 ✧︎*. 8周年✨来唱パレプロ的原创神曲吧！有小通知！⋆꙳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JB8p66EWU?p=10",
   "source": "others.js"
 },
     {

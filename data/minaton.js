@@ -1,6 +1,6 @@
 // みなとん - 歌单数据 (多合集汇总)
 // 来源: BV1TqGY6gEEf
-// 生成时间: 8/22/2026, 10:31:18 PM
+// 生成时间: 8/23/2026, 12:19:15 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1091,6 +1091,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-21]久违地唱一次歌🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ro8B6kEFo?p=12",
+  "source": "minaton.js"
+},
+    {
+  "title": "crossing field",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-08-22]在这个热情爆棚的夏天唱歌☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13R8p6fEcU?p=1",
+  "source": "minaton.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-08-22]在这个热情爆棚的夏天唱歌☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13R8p6fEcU?p=2",
+  "source": "minaton.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-08-22]在这个热情爆棚的夏天唱歌☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13R8p6fEcU?p=3",
+  "source": "minaton.js"
+},
+    {
+  "title": "夏の瞳",
+  "artist": "みなとん。",
+  "collection": "【歌切】[2026-08-22]在这个热情爆棚的夏天唱歌☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13R8p6fEcU?p=4",
+  "source": "minaton.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-08-22]在这个热情爆棚的夏天唱歌☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13R8p6fEcU?p=5",
   "source": "minaton.js"
 }
 );

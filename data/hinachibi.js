@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 8/22/2026, 10:24:28 PM
+// 生成时间: 8/23/2026, 12:11:14 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2235,6 +2235,70 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-20]想悠闲地唱些有格调的歌！🌟第一次来或只听不聊都非常欢迎！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17R8M6YEAe?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-08-22]想唱好多歌！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEvt?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "Loveit?",
+  "artist": "biz×ZERA feat.LOLUET",
+  "collection": "【歌切】[2026-08-22]想唱好多歌！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEvt?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "君という神話",
+  "artist": "やなぎなぎ",
+  "collection": "【歌切】[2026-08-22]想唱好多歌！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEvt?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "春擬き",
+  "artist": "やなぎなぎ",
+  "collection": "【歌切】[2026-08-22]想唱好多歌！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEvt?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ユキトキ",
+  "artist": "やなぎなぎ",
+  "collection": "【歌切】[2026-08-22]想唱好多歌！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEvt?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "夜明けの歌",
+  "artist": "M2U feat.ダズビー",
+  "collection": "【歌切】[2026-08-22]想唱好多歌！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEvt?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "カヌレ",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-08-22]想唱好多歌！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEvt?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "鳳仙花",
+  "artist": "黒澤まどか feat.結月ゆかり",
+  "collection": "【歌切】[2026-08-22]想唱好多歌！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uo8p6tEvt?p=8",
   "source": "hinachibi.js"
 }
 );

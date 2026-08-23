@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 8/22/2026, 9:55:22 PM
+// 生成时间: 8/22/2026, 11:39:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11779,6 +11779,246 @@ window.SONG_DATA.push(
   "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=39",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "サイダーのように言葉が湧き上がる",
+  "artist": "never young beach",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "繰り返し一粒",
+  "artist": "猫虫P feat.初音ミク",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "援助交際",
+  "artist": "銀杏BOYZ",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "三日月",
+  "artist": "くるり",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "携帯電話",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "国語",
+  "artist": "ハンバートハンバート",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "虹",
+  "artist": "菅田将暉",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "眼福",
+  "artist": "米津玄師",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "季節は次々死んでいく",
+  "artist": "amazarashi",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ハンドメイドホーム",
+  "artist": "大森靖子",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "性善説",
+  "artist": "amazarashi",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "RAIN",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "少年時代",
+  "artist": "井上陽水",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ぼくたちの失敗",
+  "artist": "森田童子",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "化粧",
+  "artist": "中島みゆき",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "化粧",
+  "artist": "中島みゆき",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "上を向いて歩こう",
+  "artist": "坂本九",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよなら人類",
+  "artist": "たま",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "深夜高速",
+  "artist": "フラワーカンパニーズ",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "無名のオリジナル",
+  "artist": "はるこたつぶとん俱楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ただ",
+  "artist": "はるこたつぶとん俱楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ウェンディの本質☘️",
+  "artist": "はるこたつぶとん俱楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ダディ・ダーリン",
+  "artist": "G-FREAK FACTORY",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アルバイター、無名",
+  "artist": "はるこたつぶとん俱楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "慈しみ深き",
+  "artist": "讃美歌",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "あなたへ－旅立ちに寄せるメッセージ",
+  "artist": "筒井雅子",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=29",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "神様、",
+  "artist": "はるこたつぶとん俱楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=30",
   "source": "kotatsu.js"
 }
 );

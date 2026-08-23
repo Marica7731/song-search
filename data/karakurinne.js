@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 8/22/2026, 10:16:05 PM
+// 生成时间: 8/23/2026, 12:02:41 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2619,6 +2619,94 @@ window.SONG_DATA.push(
   "collection": "【⚙️🎸歌切】[2026-08-16]沉浸于原声 Vol.4｜唱一首贴近你心的歌",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kobb6ZEFc?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "いつか",
+  "artist": "Saucy Dog",
+  "collection": "【⚙️🎸歌切】[2026-08-21]初次光临的朋友热烈欢迎！悠闲自在地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wt8p67EQf?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "東京",
+  "artist": "超☆社会的サンダル",
+  "collection": "【⚙️🎸歌切】[2026-08-21]初次光临的朋友热烈欢迎！悠闲自在地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wt8p67EQf?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN feat.鏡音リン",
+  "collection": "【⚙️🎸歌切】[2026-08-21]初次光临的朋友热烈欢迎！悠闲自在地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wt8p67EQf?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "勇魚",
+  "artist": "岩見拓馬",
+  "collection": "【⚙️🎸歌切】[2026-08-21]初次光临的朋友热烈欢迎！悠闲自在地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wt8p67EQf?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ダイビング",
+  "artist": "岩見拓馬",
+  "collection": "【⚙️🎸歌切】[2026-08-21]初次光临的朋友热烈欢迎！悠闲自在地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wt8p67EQf?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "カイコ",
+  "artist": "RADWIMPS",
+  "collection": "【⚙️🎸歌切】[2026-08-21]初次光临的朋友热烈欢迎！悠闲自在地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wt8p67EQf?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "君に最後の口づけを",
+  "artist": "majiko",
+  "collection": "【⚙️🎸歌切】[2026-08-21]初次光临的朋友热烈欢迎！悠闲自在地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wt8p67EQf?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat.GUMI",
+  "collection": "【⚙️🎸歌切】[2026-08-21]初次光临的朋友热烈欢迎！悠闲自在地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wt8p67EQf?p=8",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat.IA",
+  "collection": "【⚙️🎸歌切】[2026-08-21]初次光临的朋友热烈欢迎！悠闲自在地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wt8p67EQf?p=9",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "Shape of You",
+  "artist": "Ed Sheeran",
+  "collection": "【⚙️🎸歌切】[2026-08-21]初次光临的朋友热烈欢迎！悠闲自在地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wt8p67EQf?p=10",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【⚙️🎸歌切】[2026-08-21]初次光临的朋友热烈欢迎！悠闲自在地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wt8p67EQf?p=11",
   "source": "karakurinne.js"
 }
 );

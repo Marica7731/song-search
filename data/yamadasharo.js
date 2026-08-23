@@ -1,6 +1,6 @@
 // 山田シャロ - 歌单数据 (多合集汇总)
 // 来源: BV179L66pE1f
-// 生成时间: 8/22/2026, 10:21:03 PM
+// 生成时间: 8/23/2026, 12:07:19 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1651,6 +1651,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-06]深夜来一曲如何？DECO*27限定歌回🎤⭐",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Vsu56REV7?p=9",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "青空のラプソディ",
+  "artist": "fhána",
+  "collection": "【歌切】[2026-08-21]可爱的平成动画歌曲祭典！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tH8p6HEPM?p=1",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "完璧ぐ〜のね",
+  "artist": "渡り廊下走り隊",
+  "collection": "【歌切】[2026-08-21]可爱的平成动画歌曲祭典！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tH8p6HEPM?p=2",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Lovely Fruit",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-08-21]可爱的平成动画歌曲祭典！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tH8p6HEPM?p=3",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "神様はじめました",
+  "artist": "ハナエ",
+  "collection": "【歌切】[2026-08-21]可爱的平成动画歌曲祭典！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tH8p6HEPM?p=4",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "恋は渾沌の隷也",
+  "artist": "後ろから這いより隊G",
+  "collection": "【歌切】[2026-08-21]可爱的平成动画歌曲祭典！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tH8p6HEPM?p=5",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "もってけ！セーラーふく",
+  "artist": "泉こなた(平野綾)、柊かがみ(加藤英美里)、柊つかさ(福原香織)、高良みゆき(遠藤綾)",
+  "collection": "【歌切】[2026-08-21]可爱的平成动画歌曲祭典！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tH8p6HEPM?p=6",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "U & I",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-08-21]可爱的平成动画歌曲祭典！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tH8p6HEPM?p=7",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Angel Blossom",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-08-21]可爱的平成动画歌曲祭典！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tH8p6HEPM?p=8",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "DISCOTHEQUE",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-08-21]可爱的平成动画歌曲祭典！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tH8p6HEPM?p=9",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Baby Sweet Berry Love",
+  "artist": "小倉唯",
+  "collection": "【歌切】[2026-08-21]可爱的平成动画歌曲祭典！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tH8p6HEPM?p=10",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Fantastic future",
+  "artist": "田村ゆかり",
+  "collection": "【歌切】[2026-08-21]可爱的平成动画歌曲祭典！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tH8p6HEPM?p=11",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "You & Me",
+  "artist": "田村ゆかり",
+  "collection": "【歌切】[2026-08-21]可爱的平成动画歌曲祭典！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tH8p6HEPM?p=12",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "W:Wonder tale",
+  "artist": "田村ゆかり",
+  "collection": "【歌切】[2026-08-21]可爱的平成动画歌曲祭典！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tH8p6HEPM?p=13",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "童話迷宮",
+  "artist": "田村ゆかり",
+  "collection": "【歌切】[2026-08-21]可爱的平成动画歌曲祭典！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tH8p6HEPM?p=14",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "fancy baby doll",
+  "artist": "田村ゆかり",
+  "collection": "【歌切】[2026-08-21]可爱的平成动画歌曲祭典！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tH8p6HEPM?p=15",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子(花澤香菜)",
+  "collection": "【歌切】[2026-08-21]可爱的平成动画歌曲祭典！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tH8p6HEPM?p=16",
   "source": "yamadasharo.js"
 }
 );

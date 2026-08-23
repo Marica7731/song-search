@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 8/22/2026, 10:14:28 PM
+// 生成时间: 8/23/2026, 12:01:27 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1763,6 +1763,38 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-08-18]夜晚舒缓抒情歌弹唱🎸🍀 一起来放松一下吧？",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Vh8G6vEDj?p=8",
+  "source": "stratia.js"
+},
+    {
+  "title": "となりのトトロ",
+  "artist": "井上あずみ",
+  "collection": "【🎸🦋歌切】[2026-08-22]Chiru Akogi的时间🎸🎶 | 有通知‼️‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13R8p6fE7X?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "カントリー・ロード",
+  "artist": "本名陽子",
+  "collection": "【🎸🦋歌切】[2026-08-22]Chiru Akogi的时间🎸🎶 | 有通知‼️‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13R8p6fE7X?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "One more time, One more chance",
+  "artist": "山崎まさよし",
+  "collection": "【🎸🦋歌切】[2026-08-22]Chiru Akogi的时间🎸🎶 | 有通知‼️‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13R8p6fE7X?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "【🎸🦋歌切】[2026-08-22]Chiru Akogi的时间🎸🎶 | 有通知‼️‼️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13R8p6fE7X?p=4",
   "source": "stratia.js"
 }
 );
