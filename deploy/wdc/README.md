@@ -23,10 +23,11 @@ Token 只能通过 SSH 加密流单独迁移，文件权限必须是 `0600 root:
 
 ## 发布与验证
 
-1. 在 WDC 安装脚本、service 和 timer，先执行 `bash -n`、`v-slice-browser-dispatch.test.sh` 与 `systemd-analyze verify`。
-2. 迁入 Token 后手动启动一次 service，状态应为 `ok` 且 GitHub 出现一个新 run。
-3. 在该 run 仍活动时再次启动 service，应再次产生一个新 run；这是恢复迁移前执行量的预期行为。
-4. 以上验证通过后才启用 timer，并停用其他分发器。
-5. 用 `systemctl list-timers`、状态 JSON 和连续两个间隔约 10 分钟的 GitHub run ID 共同验收；只看到 HTTP 204 不算完整验证。
+1. 发布前在仓库运行 `bash deploy/wdc/v-slice-browser-dispatch.test.sh`。
+2. 在 WDC 安装脚本、service 和 timer，再执行 `bash -n` 与 `systemd-analyze verify`。
+3. 迁入 Token 后手动启动一次 service，状态应为 `ok` 且 GitHub 出现一个新 run。
+4. 在该 run 仍活动时再次启动 service，应再次产生一个新 run；这是恢复迁移前执行量的预期行为。
+5. 以上验证通过后才启用 timer，并停用其他分发器。
+6. 用 `systemctl list-timers`、状态 JSON 和连续两个间隔约 10 分钟的 GitHub run ID 共同验收；只看到 HTTP 204 不算完整验证。
 
 本分发器保留仓库 slug `song-search`，以维持现有 GitHub Pages 地址。仓库中文标识通过 GitHub description 维护为“v切片仓库 模拟浏览器版”。
