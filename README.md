@@ -43,15 +43,14 @@
 - 脚本：`scripts/update-songs.js`
 - 配置源：脚本内 `SINGER_CONFIGS`（BV 列表、文件名、别名）
 - 头像源：`scripts/source-profiles.json`（按来源文件名补充头像、YouTube 频道、首字和颜色）
-- GitHub 侧采集依赖入口 BV 展开到的小节/合集 BV；每个入口 BV 会单独维护候选池。
-- 默认每个入口 BV 随机抽取 3 个候选 BV 抓取 DOM，对比歌曲数量后采用数量更多的结果。
+- GitHub 侧先读取入口稿件的完整合集元数据，跨全部 section 按独立 BVID 计数；不使用页面虚拟列表的可见条数判断合集规模。
+- 合集少于 20 个独立 BVID 时只检查规模，不启动候选页面探针，也不覆盖该来源旧文件。达到 20 个后，固定选择稿件播放量最低的 3 个 BVID 抓取 DOM。
+- 三个探针都会执行，不随机补位或回退其他 BVID；成功结果仍按解析歌曲数择优，并继续经过来源完整性门禁。
 - 普通多 P 视频不具备合集 DOM 时，可在来源配置中设置 `rawDataLoader: "bili-view-api"`，直接读取 B 站 view API 的分 P 标题；目前仅用于 `花丸晴琉` 和 `花鋏キョウ`。
-- 有历史成功记录时，上次可靠 winner 固定占用一个抽样名额，其余名额再用于探索，避免 recent 过滤把完整候选排除。
-- recent 状态按 `来源文件 + 入口 BV` 记录，优先避开最近几轮抽中过的 BV；候选不足时允许从 recent 中补足。
-- 抽样失败时先回退未过滤候选，再回退入口 BV 本身。
+- 探针状态按 `来源文件 + 入口 BV` 保存历史 winner 和当轮播放量，用于异常回退比较，不参与候选排序。
 - 同一来源配置的任一入口 BV 失败时，本轮保留已有 `data/<source>.js`，不再用其余入口的部分结果覆盖完整来源。
 - 即使所有入口都返回成功，单来源同时减少至少 100 首且回退达到 15% 时也拒绝覆盖；可用 `MIN_SOURCE_DROP_SONGS` 和 `MAX_SOURCE_DROP_RATIO` 调整门禁。
-- 仅 GitHub Pages 数据生成使用这套抽样逻辑，culua 侧配置和运行方式不受影响。
+- 仅 GitHub Pages 数据生成使用这套探针逻辑，culua 侧配置和运行方式不受影响。
 - 产物：
   - `data/*.js`
   - `data/index.json`（包含文件列表、来源别名和 `sourceProfiles` 头像信息）
@@ -60,16 +59,16 @@
 ### 2) GitHub Actions 自动更新
 - 工作流：`.github/workflows/update.yml`
 - 触发：
-  - WDC 每 10 分钟检查一次；仅在没有活动 run 时分发 `workflow_dispatch`
+  - WDC 每 10 分钟触发一次完整更新，不等待上一轮结束
   - 手动 `workflow_dispatch`
 - 行为：
   - 通过 Actions cache 恢复 `reports/github-bv-sampling-state.json`
   - 先运行门禁、多 P API 和标题清洗回归测试
   - 运行 `scripts/update-songs.js`
   - 只检查 `data/*.js` 和 `data/index.json` 是否有变更
-  - 数据更新与增长日报共用 `song-search-main-writer` 并发组，同一时间只允许一个主分支写任务
+  - 更新工作流不设置并发组，每次分发都会完整扫描全部来源；多轮可以重叠
   - 自动提交 `data/*.js data/index.json` 到 `main`；如果抓取期间远端 `main` 已前进，则拒绝 rebase 生成文件并等待下一轮基于最新提交重跑
-  - 如果只有抽样状态变化，不触发主分支提交
+  - 重叠轮次允许在最终写入阶段失败；如果只有探针状态变化，不触发主分支提交
 
 ## 本地运行
 
@@ -95,9 +94,7 @@ node scripts/update-songs.js
 UPDATE_SONGS_ONLY='toka10summer' node scripts/update-songs.js
 ```
 
-常用抽样变量：
-- `GITHUB_BV_SAMPLE_SIZE`：每个入口 BV 的随机抽样数量，默认 `3`
-- `GITHUB_BV_RECENT_RUN_WINDOW`：recent 避免重复的轮数，默认 `5`
+常用运行变量：
 - `MAX_SOURCE_DROP_RATIO`：允许单来源回退的比例门槛，默认 `0.15`
 - `MIN_SOURCE_DROP_SONGS`：触发大幅回退门禁的最少减少曲目数，默认 `100`
 - `UPDATE_SONGS_ONLY`：本地调试用来源过滤，workflow 不设置
@@ -129,18 +126,20 @@ song-search/
 ├─ reports/
 │  ├─ song-growth-history.json  # 歌曲总量日报历史
 │  └─ github-bv-sampling-state.json
-│                              # BV 抽样运行状态，cache 保存，不提交
+│                              # BV 探针运行状态，cache 保存，不提交
 ├─ scripts/
 │  ├─ update-songs.js          # 数据抓取与生成脚本
-│  ├─ bilibili-page-api.js      # 普通多 P 视频的 view API 适配器
-│  ├─ bilibili-page-api.test.js # 多 P API 适配器回归测试
+│  ├─ bilibili-page-api.js      # view API 分 P 与合集稿件元数据适配器
+│  ├─ bilibili-page-api.test.js # view API 适配器回归测试
+│  ├─ bvid-probe-selection.js  # 20-BVID 门槛和最低播放量选择
+│  ├─ bvid-probe-selection.test.js # 候选选择回归测试
 │  ├─ update-songs-guard.js    # 来源完整性和异常回退门禁
 │  ├─ update-songs-guard.test.js # 门禁回归测试
 │  ├─ title-cleaning.js        # 保留语义括号后缀的标题清洗规则
 │  ├─ check-title-cleaning.js  # 标题清洗回归检查
 │  └─ source-profiles.json     # 来源头像与频道覆盖配置
 ├─ .gitignore                  # 忽略抽样状态文件
-├─ deploy/wdc/                 # WDC 空闲分发器模板
+├─ deploy/wdc/                 # WDC 每 10 分钟分发器模板
 └─ .github/workflows/
    ├─ update.yml               # 歌曲数据更新工作流
    └─ song-growth.yml          # 歌曲总量日报工作流
@@ -151,8 +150,8 @@ song-search/
 - 来源列表和 BV 配置维护在 `scripts/update-songs.js` 的 `SINGER_CONFIGS`；头像与频道信息维护在 `scripts/source-profiles.json`。
 - 页面功能修改对应的 HTML 或共享 JS；生成数据不要直接手改。
 - 涉及来源时先使用 `UPDATE_SONGS_ONLY` 做定向抓取，核对歌曲数量、分 P 范围和首尾链接，再运行完整更新。
-- 推送前执行语法检查、两组 Node 回归测试、标题清洗检查和 `git diff --check`，并通过本地 HTTP 服务检查相关页面。
-- `main` 由 GitHub Pages 直接发布。歌曲数据由 WDC 在没有活动任务时分发 `update.yml`，总量日报由 `song-growth.yml` 维护；两个工作流共用主分支写入并发组。
+- 推送前执行语法检查、Node 回归测试、分发器测试、标题清洗检查和 `git diff --check`，并通过本地 HTTP 服务检查相关页面。
+- `main` 由 GitHub Pages 直接发布。歌曲数据由 WDC 每 10 分钟触发一次完整更新，总量日报由 `song-growth.yml` 维护；并发抓取允许重叠，发生主分支写入冲突时该轮可以失败。
 - WDC 不托管本仓库和 Puppeteer，只保存分发器。分发器部署与验证方法见 [`deploy/wdc/README.md`](./deploy/wdc/README.md)。
 - 发布验收同时检查 Action 结果、远端提交和线上页面；仅本地测试通过不代表已经上线。
 

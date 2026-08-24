@@ -1,5 +1,5 @@
 [Unit]
-Description=Check the v-slice browser repository update every 10 minutes
+Description=Dispatch the full v-slice browser repository update every 10 minutes
 
 [Timer]
 OnCalendar=*-*-* *:00/10:00

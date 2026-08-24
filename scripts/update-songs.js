@@ -6,7 +6,12 @@ const {
     countStoredSongs,
     getReliableWinner
 } = require('./update-songs-guard');
-const { loadBiliPageList } = require('./bilibili-page-api');
+const { loadBiliCollectionCandidates, loadBiliPageList } = require('./bilibili-page-api');
+const {
+    DEFAULT_MIN_COLLECTION_BVIDS,
+    DEFAULT_PROBE_COUNT,
+    selectLowestViewCandidates
+} = require('./bvid-probe-selection');
 
 // ================= 关键兼容：适配全局安装的 Puppeteer =================
 let puppeteer;
@@ -123,8 +128,9 @@ async function withRetry(fn, maxRetries = 3, delay = 5000) {
 const DELAY_TIME = 1500;
 const BILI_VIDEO_PREFIX = 'https://www.bilibili.com/video/';
 const BV_REGEX = /BV[0-9a-zA-Z]+/;
-const SAMPLE_SIZE = readPositiveIntegerEnv('GITHUB_BV_SAMPLE_SIZE', 3);
-const RECENT_RUN_WINDOW = readPositiveIntegerEnv('GITHUB_BV_RECENT_RUN_WINDOW', 5);
+const SAMPLE_SIZE = DEFAULT_PROBE_COUNT;
+const MIN_COLLECTION_BVIDS = DEFAULT_MIN_COLLECTION_BVIDS;
+const HISTORY_RUN_WINDOW = 5;
 const MAX_SOURCE_DROP_RATIO = readRatioEnv('MAX_SOURCE_DROP_RATIO', 0.15);
 const MIN_SOURCE_DROP_SONGS = readPositiveIntegerEnv('MIN_SOURCE_DROP_SONGS', 100);
 const SOURCE_FILTER = String(process.env.UPDATE_SONGS_ONLY || '')
@@ -325,32 +331,6 @@ async function loadVideoPageWithBrowser(bvid) {
     }
 }
 
-function normalizeBvid(value) {
-    const matchResult = String(value || '').match(BV_REGEX);
-    return matchResult?.[0] || null;
-}
-
-function uniqueBvids(values) {
-    const seen = new Set();
-    const result = [];
-    values.forEach(value => {
-        const bvid = normalizeBvid(value);
-        if (!bvid || seen.has(bvid)) return;
-        seen.add(bvid);
-        result.push(bvid);
-    });
-    return result;
-}
-
-function shuffleCopy(values) {
-    const shuffled = [...values];
-    for (let i = shuffled.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-    }
-    return shuffled;
-}
-
 function loadSamplingState() {
     if (!fs.existsSync(SAMPLING_STATE_PATH)) {
         return { version: 1, updatedAt: null, entries: {} };
@@ -392,43 +372,6 @@ function getEntryState(state, config, entryBvid) {
         };
     }
     return state.entries[key];
-}
-
-function getRecentBvidSet(entryState) {
-    const recentRuns = Array.isArray(entryState.recentRuns)
-        ? entryState.recentRuns.slice(-RECENT_RUN_WINDOW)
-        : [];
-    const recent = new Set();
-    recentRuns.forEach(run => {
-        (run.sampled || run.selected || []).forEach(bvid => recent.add(bvid));
-        if (run.winner) recent.add(run.winner);
-    });
-    return recent;
-}
-
-function extractCandidateBvids(rawData, fallbackBvid) {
-    const collectionBvids = Array.isArray(rawData)
-        ? rawData.map(col => col?.collectionBv)
-        : [];
-    return uniqueBvids([...collectionBvids, fallbackBvid]);
-}
-
-function selectSampleCandidates(candidatePool, entryState) {
-    const normalizedPool = uniqueBvids(candidatePool);
-    const sampleLimit = Math.max(1, SAMPLE_SIZE);
-    const recent = getRecentBvidSet(entryState);
-    const reliableWinner = getReliableWinner(entryState, normalizedPool);
-    const selected = reliableWinner ? [reliableWinner.bvid] : [];
-    const freshCandidates = normalizedPool.filter(bvid => !recent.has(bvid) && !selected.includes(bvid));
-    selected.push(...shuffleCopy(freshCandidates).slice(0, sampleLimit - selected.length));
-
-    if (selected.length < sampleLimit) {
-        const fill = shuffleCopy(normalizedPool.filter(bvid => !selected.includes(bvid)))
-            .slice(0, sampleLimit - selected.length);
-        selected.push(...fill);
-    }
-
-    return selected;
 }
 
 function parseRawDataToSongs(rawData, config) {
@@ -513,77 +456,54 @@ async function parseCandidateBvid(config, bvid, cachedRawData = null) {
     return {
         bvid,
         rawData,
-        songs,
-        candidateBvids: extractCandidateBvids(rawData, bvid)
+        songs
     };
 }
 
 async function processEntryBvid(config, entryBvid, samplingState) {
     const entryState = getEntryState(samplingState, config, entryBvid);
-    console.log(`  🔎 入口 BV: ${entryBvid}，刷新候选池...`);
+    console.log(`  🔎 入口 BV: ${entryBvid}，读取完整合集稿件元数据...`);
 
-    let entryRawData = null;
-    let discoveredCandidates = [];
-    try {
-        entryRawData = await loadRawDataWithRetry(config, entryBvid);
-        discoveredCandidates = extractCandidateBvids(entryRawData, entryBvid);
-    } catch (err) {
-        console.warn(`  ⚠️  入口BV候选刷新失败，将使用上次状态：${err.message}`);
+    const collectionCandidates = await withRetry(
+        () => loadBiliCollectionCandidates(entryBvid),
+        3,
+        5000
+    );
+    const selection = selectLowestViewCandidates(collectionCandidates, {
+        minimumCollectionSize: MIN_COLLECTION_BVIDS,
+        probeCount: SAMPLE_SIZE
+    });
+    if (!selection.eligible) {
+        throw new Error(
+            `合集只有 ${selection.total} 个独立 BVID，少于 ${MIN_COLLECTION_BVIDS} 个；` +
+            '本轮不启动候选探针并保留旧文件'
+        );
     }
 
-    const candidatePool = uniqueBvids([
-        ...discoveredCandidates,
-        ...(Array.isArray(entryState.candidates) ? entryState.candidates : []),
-        entryBvid
-    ]);
+    const candidatePool = collectionCandidates.map(candidate => candidate.bvid);
     entryState.candidates = candidatePool;
-
-    const selected = selectSampleCandidates(candidatePool, entryState);
+    const selected = selection.selected;
     const attempted = new Set();
     const results = [];
 
-    console.log(`  🎲 候选 ${candidatePool.length} 个，抽样 ${selected.join(', ')}`);
-    for (const sampleBvid of selected) {
+    console.log(
+        `  📉 合集 ${selection.total} 个独立 BVID，探针最低播放量 3 个：` +
+        selected.map(candidate => `${candidate.bvid}(${candidate.viewCount})`).join(', ')
+    );
+    for (const candidate of selected) {
+        const sampleBvid = candidate.bvid;
         attempted.add(sampleBvid);
         try {
-            const cachedRawData = sampleBvid === entryBvid ? entryRawData : null;
-            const result = await parseCandidateBvid(config, sampleBvid, cachedRawData);
+            const result = await parseCandidateBvid(config, sampleBvid);
             results.push(result);
-            console.log(`    ✅ ${sampleBvid}: ${result.songs.length} 首`);
+            console.log(`    ✅ ${sampleBvid} (${candidate.viewCount} 播放): ${result.songs.length} 首`);
         } catch (err) {
-            console.warn(`    ⚠️  ${sampleBvid} 抽样失败：${err.message}`);
+            console.warn(`    ⚠️  ${sampleBvid} 探针失败：${err.message}`);
         }
     }
 
     if (results.length === 0) {
-        const fallbackCandidates = shuffleCopy(candidatePool.filter(bvid => !attempted.has(bvid)))
-            .slice(0, Math.max(1, SAMPLE_SIZE));
-        if (fallbackCandidates.length > 0) {
-            console.log(`  ↩️  抽样失败，回退未过滤候选：${fallbackCandidates.join(', ')}`);
-        }
-        for (const fallbackBvid of fallbackCandidates) {
-            attempted.add(fallbackBvid);
-            try {
-                const cachedRawData = fallbackBvid === entryBvid ? entryRawData : null;
-                const result = await parseCandidateBvid(config, fallbackBvid, cachedRawData);
-                results.push(result);
-                console.log(`    ✅ ${fallbackBvid}: ${result.songs.length} 首`);
-            } catch (err) {
-                console.warn(`    ⚠️  ${fallbackBvid} 回退失败：${err.message}`);
-            }
-        }
-    }
-
-    if (results.length === 0 && !attempted.has(entryBvid)) {
-        console.log(`  ↩️  未过滤候选仍失败，最终回退入口 BV: ${entryBvid}`);
-        const result = await parseCandidateBvid(config, entryBvid, entryRawData);
-        attempted.add(entryBvid);
-        results.push(result);
-        console.log(`    ✅ ${entryBvid}: ${result.songs.length} 首`);
-    }
-
-    if (results.length === 0) {
-        throw new Error(`入口 ${entryBvid} 未解析到任何有效歌曲数据`);
+        throw new Error(`入口 ${entryBvid} 的最低播放量 3 个探针均未解析到有效歌曲数据`);
     }
 
     const previousWinner = getReliableWinner(entryState, candidatePool);
@@ -598,22 +518,23 @@ async function processEntryBvid(config, entryBvid, samplingState) {
         maxDropRatio: MAX_SOURCE_DROP_RATIO,
         minDropSongs: MIN_SOURCE_DROP_SONGS
     });
-    entryState.candidates = uniqueBvids([
-        ...candidatePool,
-        ...results.flatMap(result => result.candidateBvids)
-    ]);
+    entryState.candidates = candidatePool;
     entryState.lastRunAt = new Date().toISOString();
     entryState.recentRuns = Array.isArray(entryState.recentRuns) ? entryState.recentRuns : [];
     const runRecord = {
         runAt: entryState.lastRunAt,
         sampled: Array.from(attempted),
+        sampledViewCounts: Object.fromEntries(
+            selected.map(candidate => [candidate.bvid, candidate.viewCount])
+        ),
+        selection: 'lowest-manuscript-views',
         winner: winner.bvid,
         winnerSongCount: winner.songs.length,
         candidateCount: entryState.candidates.length,
         accepted: false
     };
     entryState.recentRuns.push(runRecord);
-    entryState.recentRuns = entryState.recentRuns.slice(-RECENT_RUN_WINDOW);
+    entryState.recentRuns = entryState.recentRuns.slice(-HISTORY_RUN_WINDOW);
 
     console.log(`  🏆 采用 ${winner.bvid}: ${winner.songs.length} 首`);
     return { songs: winner.songs, runRecord };
@@ -634,7 +555,7 @@ function shouldProcessConfig(config) {
 }
 
 // ==========================================
-// 🔧 核心逻辑：入口BV随机抽样，保留后缀清洗
+// 🔧 核心逻辑：按稿件播放量选择入口BV探针，保留后缀清洗
 // ==========================================
 async function processSinger(config, samplingState) {
     const { bvids, alias, resolvedFile } = config;
@@ -714,7 +635,7 @@ function generateIndexJson() {
 
 async function main() {
     console.log("========================================");
-    console.log("   🚀 B站直播源解析工具 (入口BV随机抽样模式)");
+    console.log("   🚀 B站直播源解析工具 (最低稿件播放量探针模式)");
     console.log("========================================");
     if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
     const samplingState = loadSamplingState();
@@ -722,7 +643,10 @@ async function main() {
     if (SOURCE_FILTER.length > 0) {
         console.log(`   🔎 仅处理来源: ${SOURCE_FILTER.join(', ')}`);
     }
-    console.log(`   🎲 每个入口BV抽样 ${Math.max(1, SAMPLE_SIZE)} 个，recent窗口 ${RECENT_RUN_WINDOW} 轮`);
+    console.log(
+        `   📉 合集至少 ${MIN_COLLECTION_BVIDS} 个独立 BVID 才探针，` +
+        `每个入口固定选择播放量最低的 ${SAMPLE_SIZE} 个`
+    );
 
     let successCount = 0;
     for (const config of configsToProcess) {

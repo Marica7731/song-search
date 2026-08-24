@@ -8,12 +8,15 @@ function normalizeBvid(value) {
     return matched?.[0] || '';
 }
 
-function parseBiliViewPayload(payload, requestedBvid) {
+function assertBiliViewPayload(payload) {
     if (!payload || payload.code !== 0 || !payload.data) {
         throw new Error(`B站接口返回异常：code=${payload?.code ?? 'unknown'}`);
     }
+    return payload.data;
+}
 
-    const data = payload.data;
+function parseBiliViewPayload(payload, requestedBvid) {
+    const data = assertBiliViewPayload(payload);
     const collectionBv = normalizeBvid(data.bvid) || normalizeBvid(requestedBvid);
     if (!collectionBv) {
         throw new Error('B站接口未返回有效 BV 号');
@@ -38,7 +41,39 @@ function parseBiliViewPayload(payload, requestedBvid) {
     }];
 }
 
-async function loadBiliPageList(bvid, options = {}) {
+function parseBiliCollectionCandidates(payload, requestedBvid) {
+    const data = assertBiliViewPayload(payload);
+    const sections = Array.isArray(data.ugc_season?.sections)
+        ? data.ugc_season.sections
+        : [];
+    const episodes = sections.flatMap(section => (
+        Array.isArray(section?.episodes) ? section.episodes : []
+    ));
+    const records = episodes.length > 0
+        ? episodes
+        : [{ bvid: data.bvid || requestedBvid, arc: { stat: data.stat } }];
+    const candidates = new Map();
+
+    records.forEach(record => {
+        const bvid = normalizeBvid(record?.bvid);
+        if (!bvid) {
+            throw new Error('B站合集元数据包含无效 BV 号');
+        }
+        const rawViewCount = record?.arc?.stat?.view;
+        const viewCount = Number.isInteger(rawViewCount) && rawViewCount >= 0
+            ? rawViewCount
+            : null;
+        const previous = candidates.get(bvid);
+        if (previous && previous.viewCount !== viewCount) {
+            throw new Error(`B站合集元数据的播放量不一致：${bvid}`);
+        }
+        candidates.set(bvid, { bvid, viewCount });
+    });
+
+    return Array.from(candidates.values());
+}
+
+async function loadBiliViewPayload(bvid, options = {}) {
     const normalizedBvid = normalizeBvid(bvid);
     if (!normalizedBvid) {
         throw new Error(`无效 BV 号：${bvid}`);
@@ -66,14 +101,29 @@ async function loadBiliPageList(bvid, options = {}) {
         if (!response?.ok) {
             throw new Error(`B站接口 HTTP ${response?.status ?? 'unknown'}`);
         }
-        return parseBiliViewPayload(await response.json(), normalizedBvid);
+        const payload = await response.json();
+        assertBiliViewPayload(payload);
+        return payload;
     } finally {
         clearTimeout(timeout);
     }
 }
 
+async function loadBiliPageList(bvid, options = {}) {
+    const payload = await loadBiliViewPayload(bvid, options);
+    return parseBiliViewPayload(payload, bvid);
+}
+
+async function loadBiliCollectionCandidates(bvid, options = {}) {
+    const payload = await loadBiliViewPayload(bvid, options);
+    return parseBiliCollectionCandidates(payload, bvid);
+}
+
 module.exports = {
+    loadBiliCollectionCandidates,
     loadBiliPageList,
+    loadBiliViewPayload,
     normalizeBvid,
+    parseBiliCollectionCandidates,
     parseBiliViewPayload
 };

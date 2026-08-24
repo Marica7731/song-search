@@ -4,9 +4,9 @@ set -euo pipefail
 TOKEN_FILE="${TOKEN_FILE:-/etc/v-slice-browser/github-dispatch-token}"
 DISABLE_FLAG="${DISABLE_FLAG:-/etc/v-slice-browser/disabled}"
 STATUS_FILE="${STATUS_FILE:-/var/lib/v-slice-browser-dispatch/status.json}"
+CURL_BIN="${CURL_BIN:-/usr/bin/curl}"
 REPOSITORY="Marica7731/song-search"
 WORKFLOW="update.yml"
-RUNS_URL="https://api.github.com/repos/${REPOSITORY}/actions/workflows/${WORKFLOW}/runs"
 DISPATCH_URL="https://api.github.com/repos/${REPOSITORY}/actions/workflows/${WORKFLOW}/dispatches"
 
 write_status() {
@@ -53,43 +53,10 @@ if [[ -z "$TOKEN" ]]; then
   exit 11
 fi
 
-runs_file="$(/usr/bin/mktemp)"
 dispatch_file="$(/usr/bin/mktemp)"
-trap '/usr/bin/rm -f "$runs_file" "$dispatch_file"' EXIT
+trap '/usr/bin/rm -f "$dispatch_file"' EXIT
 
-if ! runs_code="$(/usr/bin/curl -sS --connect-timeout 10 --max-time 30 \
-  -o "$runs_file" -w '%{http_code}' \
-  -H 'Accept: application/vnd.github+json' \
-  -H "Authorization: Bearer ${TOKEN}" \
-  -H 'X-GitHub-Api-Version: 2022-11-28' \
-  "${RUNS_URL}?per_page=30&exclude_pull_requests=true")"; then
-  write_status "check_error" "workflow status request failed" "000"
-  exit 20
-fi
-
-if [[ "$runs_code" != "200" ]]; then
-  response="$(/usr/bin/tr -d '\r' < "$runs_file" | /usr/bin/head -c 800)"
-  write_status "check_error" "workflow status check failed: $response" "$runs_code"
-  exit 20
-fi
-
-active_count="$(/usr/bin/python3 - "$runs_file" <<'PY'
-import json
-import sys
-
-with open(sys.argv[1], encoding="utf-8") as handle:
-    payload = json.load(handle)
-active = {"queued", "in_progress", "waiting", "pending", "requested"}
-print(sum(1 for run in payload.get("workflow_runs", []) if run.get("status") in active))
-PY
-)"
-
-if (( active_count > 0 )); then
-  write_status "skipped_active" "workflow already has ${active_count} active run(s)" "200"
-  exit 0
-fi
-
-if ! dispatch_code="$(/usr/bin/curl -sS --connect-timeout 10 --max-time 30 \
+if ! dispatch_code="$("$CURL_BIN" -sS --connect-timeout 10 --max-time 30 \
   -o "$dispatch_file" -w '%{http_code}' -X POST \
   -H 'Accept: application/vnd.github+json' \
   -H "Authorization: Bearer ${TOKEN}" \

@@ -1,11 +1,7 @@
 name: Auto Update Song List
 
 on:
-  workflow_dispatch: # 由雨云定时分发或手动触发
-
-concurrency:
-  group: song-search-main-writer
-  cancel-in-progress: false
+  workflow_dispatch: # 由 WDC 定时分发或手动触发
 
 permissions:
   contents: write # 赋予提交代码权限
@@ -13,8 +9,6 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    env:
-      GITHUB_BV_SAMPLE_SIZE: '3'
     steps:
       - name: 拉取仓库代码
         uses: actions/checkout@v4
@@ -22,10 +16,10 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
-      - name: 准备抽样状态目录
+      - name: 准备探针状态目录
         run: mkdir -p reports
 
-      - name: 恢复 BV 抽样状态
+      - name: 恢复 BV 探针状态
         uses: actions/cache@v4
         with:
           path: reports/github-bv-sampling-state.json
@@ -40,8 +34,9 @@ jobs:
 
       - name: 验证更新脚本回归
         run: |
-          node --test scripts/update-songs-guard.test.js scripts/bilibili-page-api.test.js
+          node --test scripts/update-songs-guard.test.js scripts/bilibili-page-api.test.js scripts/bvid-probe-selection.test.js
           node scripts/check-title-cleaning.js
+          bash deploy/wdc/v-slice-browser-dispatch.test.sh
 
       - name: 安装系统依赖
         run: |

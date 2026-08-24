@@ -3,7 +3,9 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
 const {
+    loadBiliCollectionCandidates,
     loadBiliPageList,
+    parseBiliCollectionCandidates,
     parseBiliViewPayload
 } = require('./bilibili-page-api');
 
@@ -101,4 +103,51 @@ test('loads metadata with Bilibili request headers', async () => {
     assert.match(request.url, /view\?bvid=BV1request$/);
     assert.equal(request.options.headers.Referer, 'https://www.bilibili.com/');
     assert.equal(rawData[0].parts.length, 1);
+});
+
+test('extracts every unique BVID and manuscript view count from all season sections', () => {
+    const candidates = parseBiliCollectionCandidates({
+        code: 0,
+        data: {
+            bvid: 'BV1entry',
+            ugc_season: {
+                sections: [
+                    {
+                        episodes: [
+                            { bvid: 'BV1entry', arc: { stat: { view: 30 } } },
+                            { bvid: 'BV1low', arc: { stat: { view: 4 } } }
+                        ]
+                    },
+                    {
+                        episodes: [
+                            { bvid: 'BV1other', arc: { stat: { view: 12 } } },
+                            { bvid: 'BV1low', arc: { stat: { view: 4 } } }
+                        ]
+                    }
+                ]
+            }
+        }
+    }, 'BV1entry');
+
+    assert.deepEqual(candidates, [
+        { bvid: 'BV1entry', viewCount: 30 },
+        { bvid: 'BV1low', viewCount: 4 },
+        { bvid: 'BV1other', viewCount: 12 }
+    ]);
+});
+
+test('treats a standalone manuscript as a one-BVID collection', async () => {
+    const candidates = await loadBiliCollectionCandidates('BV1single', {
+        timeoutMs: 1000,
+        fetchImpl: async () => ({
+            ok: true,
+            status: 200,
+            json: async () => ({
+                code: 0,
+                data: { bvid: 'BV1single', stat: { view: 9 } }
+            })
+        })
+    });
+
+    assert.deepEqual(candidates, [{ bvid: 'BV1single', viewCount: 9 }]);
 });

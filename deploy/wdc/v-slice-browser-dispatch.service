@@ -1,5 +1,5 @@
 [Unit]
-Description=Dispatch the v-slice browser repository update when idle
+Description=Dispatch the full v-slice browser repository update
 Wants=network-online.target
 After=network-online.target
 
