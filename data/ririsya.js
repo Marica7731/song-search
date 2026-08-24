@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 8/23/2026, 9:05:49 PM
+// 生成时间: 8/23/2026, 11:47:34 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -18699,6 +18699,94 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-08-15]把夏日的歌声传遍世界🎆唱歌直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1r9bS6nE52?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "アルストロメリア",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-08-23]凛々咲6周年纪念特别歌回✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyA?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "パラレルナイト",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-08-23]凛々咲6周年纪念特别歌回✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyA?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Re:Re:リスタート",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-08-23]凛々咲6周年纪念特别歌回✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyA?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Starring...",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-08-23]凛々咲6周年纪念特别歌回✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyA?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Unknown under the city",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-08-23]凛々咲6周年纪念特别歌回✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyA?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Re,Future",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-08-23]凛々咲6周年纪念特别歌回✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyA?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat.IA",
+  "collection": "【🐍歌切】[2026-08-23]凛々咲6周年纪念特别歌回✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyA?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🐍歌切】[2026-08-23]凛々咲6周年纪念特别歌回✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyA?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ハレルヤスカイ",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-08-23]凛々咲6周年纪念特别歌回✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyA?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Close to you",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-08-23]凛々咲6周年纪念特别歌回✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyA?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "声の在処",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-08-23]凛々咲6周年纪念特别歌回✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyA?p=11",
   "source": "ririsya.js"
 }
 );

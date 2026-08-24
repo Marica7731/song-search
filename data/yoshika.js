@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 8/23/2026, 9:13:57 PM
+// 生成时间: 8/23/2026, 11:56:09 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -38571,6 +38571,46 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-08-18]欢迎第一次来的！开播成功了吗？",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eh8G6vEVw?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "GO MY WAY!!",
+  "artist": "765PRO ALLSTARS",
+  "collection": "【🍠🦍歌切】[2026-08-23]偶像最棒！请让我安利一下我的推⭐｜无敌偶像歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HE8W?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Bloomin'",
+  "artist": "山田涼介",
+  "collection": "【🍠🦍歌切】[2026-08-23]偶像最棒！请让我安利一下我的推⭐｜无敌偶像歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HE8W?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "愛 for you！",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-08-23]偶像最棒！请让我安利一下我的推⭐｜无敌偶像歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HE8W?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "希望の花を",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-08-23]偶像最棒！请让我安利一下我的推⭐｜无敌偶像歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HE8W?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Music S.T.A.R.T!!",
+  "artist": "μ's",
+  "collection": "【🍠🦍歌切】[2026-08-23]偶像最棒！请让我安利一下我的推⭐｜无敌偶像歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HE8W?p=5",
   "source": "yoshika.js"
 }
 );

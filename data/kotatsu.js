@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 8/23/2026, 9:29:55 PM
+// 生成时间: 8/24/2026, 12:13:27 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12019,6 +12019,30 @@ window.SONG_DATA.push(
   "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=30",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ねごと",
+  "artist": "ぴこんちゃん",
+  "collection": "【♣️🎸歌切】[2026-08-23]用自己的方式翻唱ぴこ前辈的名曲｜满足ぴこんちゃん私欲的歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gu8a6HELP?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "無名のオリジナル",
+  "artist": "はるこたつぶとん俱楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-23]用自己的方式翻唱ぴこ前辈的名曲｜满足ぴこんちゃん私欲的歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gu8a6HELP?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "花に嵐より",
+  "artist": "ぴこんちゃん",
+  "collection": "【♣️🎸歌切】[2026-08-23]用自己的方式翻唱ぴこ前辈的名曲｜满足ぴこんちゃん私欲的歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gu8a6HELP?p=3",
   "source": "kotatsu.js"
 }
 );

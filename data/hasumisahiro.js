@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 8/23/2026, 9:46:06 PM
+// 生成时间: 8/24/2026, 12:29:51 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2315,6 +2315,206 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-20]嗓子太沙哑了，所以不留回放哦♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pz8M6CEXw?p=23",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ルーマー",
+  "artist": "ポリスピカデリー feat.GUMI",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Heal Me",
+  "artist": "*Luna feat.マクネナナ",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "magnet",
+  "artist": "minato（流星P） feat.初音ミク・巡音ルカ",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太 feat.歌愛ユキ",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "八月の夜",
+  "artist": "SILENT SIREN",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "8ミリフィルム",
+  "artist": "アカシック",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "シアワセ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Booo!",
+  "artist": "TOKOTOKO（西沢さんP） feat.音街ウナ",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "グリズリーに襲われたら♡",
+  "artist": "神宿",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ウタカタララバイ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "アゲハ蝶",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "おしゃかしゃま",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "LOSER",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=14",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=15",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "全力少年",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=16",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "奏（かなで）",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=17",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "まちがいさがし",
+  "artist": "菅田将暉",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=18",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=19",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=20",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ヒロイン",
+  "artist": "back number",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=21",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=22",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=23",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=24",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=25",
   "source": "hasumisahiro.js"
 }
 );

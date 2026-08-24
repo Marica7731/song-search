@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 8/23/2026, 9:36:08 PM
+// 生成时间: 8/24/2026, 12:18:45 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3803,6 +3803,94 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-08-21 和蒼星すいちゃん一起唱歌哦！！ 翠雨 しの",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nv8p6kEpk?p=11",
+  "source": "friends.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "联动歌切 2026-08-23 6周年纪念特别歌回✧ 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XECy?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "联动歌切 2026-08-23 6周年纪念特别歌回✧ 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XECy?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "ふわふわ時間",
+  "artist": "放課後ティータイム",
+  "collection": "联动歌切 2026-08-23 6周年纪念特别歌回✧ 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XECy?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "Luv Rendezvous",
+  "artist": "七海うらら",
+  "collection": "【歌切】[2026-08-23]歌回联动周第7天！与七海うらら一起唱歌｜StarlightSession!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gu8a6HEsM?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "Love and Hate",
+  "artist": "七海うらら",
+  "collection": "【歌切】[2026-08-23]歌回联动周第7天！与七海うらら一起唱歌｜StarlightSession!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gu8a6HEsM?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【歌切】[2026-08-23]歌回联动周第7天！与七海うらら一起唱歌｜StarlightSession!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gu8a6HEsM?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "放課後オーバーフロウ",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "【歌切】[2026-08-23]歌回联动周第7天！与七海うらら一起唱歌｜StarlightSession!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gu8a6HEsM?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "ねこ日記",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "【歌切】[2026-08-23]歌回联动周第7天！与七海うらら一起唱歌｜StarlightSession!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gu8a6HEsM?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat.初音ミク",
+  "collection": "【歌切】[2026-08-23]歌回联动周第7天！与七海うらら一起唱歌｜StarlightSession!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gu8a6HEsM?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "茜光",
+  "artist": "七海うらら",
+  "collection": "【歌切】[2026-08-23]歌回联动周第7天！与七海うらら一起唱歌｜StarlightSession!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gu8a6HEsM?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "時の迷宮",
+  "artist": "ランカ・リー＝中島愛／シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-08-23]歌回联动周第7天！与七海うらら一起唱歌｜StarlightSession!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gu8a6HEsM?p=8",
   "source": "friends.js"
 }
 );

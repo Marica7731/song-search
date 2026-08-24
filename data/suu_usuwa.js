@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 8/23/2026, 9:07:43 PM
+// 生成时间: 8/23/2026, 11:48:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -22347,6 +22347,46 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-08-22]午后，来一曲如何？",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L88x6CEAY?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "シンデレラ",
+  "artist": "相対性理論",
+  "collection": "【🦢歌切】[2026-08-23]🛰️シンクロニシティーン🛰️｜夏日相対性理論歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gu8a6HEA5?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ミス・パラレルワールド",
+  "artist": "相対性理論",
+  "collection": "【🦢歌切】[2026-08-23]🛰️シンクロニシティーン🛰️｜夏日相対性理論歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gu8a6HEA5?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "チャイナアドバイス",
+  "artist": "相対性理論",
+  "collection": "【🦢歌切】[2026-08-23]🛰️シンクロニシティーン🛰️｜夏日相対性理論歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gu8a6HEA5?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "人工衛星",
+  "artist": "相対性理論",
+  "collection": "【🦢歌切】[2026-08-23]🛰️シンクロニシティーン🛰️｜夏日相対性理論歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gu8a6HEA5?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "小学館",
+  "artist": "相対性理論",
+  "collection": "【🦢歌切】[2026-08-23]🛰️シンクロニシティーン🛰️｜夏日相対性理論歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gu8a6HEA5?p=5",
   "source": "suu_usuwa.js"
 }
 );

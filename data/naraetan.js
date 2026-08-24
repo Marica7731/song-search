@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 8/23/2026, 9:01:14 PM
+// 生成时间: 8/23/2026, 11:43:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12835,6 +12835,118 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-22]为苦夏的你注入维生素的歌回🍊💊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1528p6NEhk?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ハルジオン",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "サウダージ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "リナリア",
+  "artist": "まるりとりゅうが",
+  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ツキミソウ",
+  "artist": "Novelbright",
+  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "あんずの花",
+  "artist": "すりぃ feat.ねね",
+  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "深愛",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "サクラミツツキ",
+  "artist": "SPYAIR",
+  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Hello, Worker",
+  "artist": "KEI feat.巡音ルカ",
+  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP feat.鏡音リン",
+  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Happy Happy Birthday!",
+  "artist": "SePTENTRION",
+  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "プラリネ",
+  "artist": "ジュリア（CV：愛美）",
+  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=14",
   "source": "naraetan.js"
 },
     {

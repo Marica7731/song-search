@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 8/23/2026, 8:55:56 PM
+// 生成时间: 8/23/2026, 11:36:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9875,6 +9875,110 @@ window.SONG_DATA.push(
   "collection": "【明日夢🎸弹唱歌切】[2026-08-16]为了能继续努力｜工作用BGM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Rub86SEPb?p=21",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-23]篝火与吉他的惬意时光｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyG?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-23]篝火与吉他的惬意时光｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyG?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-23]篝火与吉他的惬意时光｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyG?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-23]篝火与吉他的惬意时光｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyG?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-23]篝火与吉他的惬意时光｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyG?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "YOU",
+  "artist": "YUI",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-23]篝火与吉他的惬意时光｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyG?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-23]篝火与吉他的惬意时光｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyG?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "海の幽霊",
+  "artist": "米津玄師",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-23]篝火与吉他的惬意时光｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyG?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-23]篝火与吉他的惬意时光｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyG?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "歌うたいのバラッド",
+  "artist": "斉藤和義",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-23]篝火与吉他的惬意时光｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyG?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "アストロビスタ",
+  "artist": "ハルカミライ",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-23]篝火与吉他的惬意时光｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyG?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-23]篝火与吉他的惬意时光｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyG?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【明日夢🎸弹唱歌切】[2026-08-23]篝火与吉他的惬意时光｜工作用BGM",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13T8a6XEyG?p=13",
   "source": "asuyumekanae.js"
 }
 );

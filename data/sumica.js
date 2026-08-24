@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 8/23/2026, 9:31:43 PM
+// 生成时间: 8/24/2026, 12:15:20 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7907,6 +7907,86 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-08-16]夏日歌曲限定｜来一点为夏天添彩的弹唱如何～～🌞🌞🌞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Msb86zEtS?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "【💐🎸歌切】[2026-08-23]3D化众筹开始前稍微弹唱一下～～～缓解紧张……",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gg8a6DEJZ?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "二時頃",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-08-23]3D化众筹开始前稍微弹唱一下～～～缓解紧张……",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gg8a6DEJZ?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【💐🎸歌切】[2026-08-23]3D化众筹开始前稍微弹唱一下～～～缓解紧张……",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gg8a6DEJZ?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-08-23]3D化众筹开始前稍微弹唱一下～～～缓解紧张……",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gg8a6DEJZ?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【💐🎸歌切】[2026-08-23]3D化众筹开始前稍微弹唱一下～～～缓解紧张……",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gg8a6DEJZ?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "ブルーベリー・ナイツ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【💐🎸歌切】[2026-08-23]3D化众筹开始前稍微弹唱一下～～～缓解紧张……",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gg8a6DEJZ?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヰ世界の宝石譚",
+  "artist": "ヰ世界情緒",
+  "collection": "【💐🎸歌切】[2026-08-23]3D化众筹开始前稍微弹唱一下～～～缓解紧张……",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gg8a6DEJZ?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "【💐🎸歌切】[2026-08-23]3D化众筹开始前稍微弹唱一下～～～缓解紧张……",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gg8a6DEJZ?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "残ってる",
+  "artist": "吉澤嘉代子",
+  "collection": "【💐🎸歌切】[2026-08-23]3D化众筹开始前稍微弹唱一下～～～缓解紧张……",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gg8a6DEJZ?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "一日惚れ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-08-23]3D化众筹开始前稍微弹唱一下～～～缓解紧张……",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gg8a6DEJZ?p=10",
   "source": "sumica.js"
 }
 );
