@@ -75,8 +75,8 @@ jobs:
           git fetch origin main
           remote_commit="$(git rev-parse origin/main)"
           if [ "$start_commit" != "$remote_commit" ]; then
-            echo "main 在抓取期间已前进，拒绝合并生成文件；等待下一轮基于最新 main 重跑"
-            exit 1
+            echo "main 在抓取期间已前进，本轮生成结果已过期，跳过写入并以成功结束；下一轮基于最新 main 重跑"
+            exit 0
           fi
 
           git add -- data/*.js data/index.json
@@ -86,5 +86,17 @@ jobs:
           fi
 
           git commit -m "🤖 自动更新歌单数据（部分失败见日志）"
-          git push origin HEAD:main
+          if ! git push origin HEAD:main; then
+            if ! git fetch origin main; then
+              echo "数据更新推送失败，且无法确认远端 main 状态" >&2
+              exit 1
+            fi
+            latest_remote_commit="$(git rev-parse origin/main)"
+            if [ "$latest_remote_commit" != "$start_commit" ]; then
+              echo "另一个重叠轮次已写入 main，本轮跳过重复写入并以成功结束"
+              exit 0
+            fi
+            echo "数据更新推送失败，远端 main 未发生并发前进" >&2
+            exit 1
+          fi
           echo "数据更新已推送到 main"
