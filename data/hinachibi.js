@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 8/25/2026, 2:15:17 AM
+// 生成时间: 8/25/2026, 3:08:28 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2299,6 +2299,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-22]想唱好多歌！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uo8p6tEvt?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "未完成なサヨナラ",
+  "artist": "TAK feat.みきまりあ・初音ミク",
+  "collection": "【歌切】[2026-08-24]随心唱喜欢的歌！緋那ちび",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bth36rE3h?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-08-24]随心唱喜欢的歌！緋那ちび",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bth36rE3h?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "リードコントロール",
+  "artist": "なるみや",
+  "collection": "【歌切】[2026-08-24]随心唱喜欢的歌！緋那ちび",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bth36rE3h?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ルーマー",
+  "artist": "ポリスピカデリー feat.GUMI",
+  "collection": "【歌切】[2026-08-24]随心唱喜欢的歌！緋那ちび",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bth36rE3h?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "BALALAIKA",
+  "artist": "9Lana",
+  "collection": "【歌切】[2026-08-24]随心唱喜欢的歌！緋那ちび",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bth36rE3h?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "デスぺレート",
+  "artist": "TeddyLoid & Giga feat.LOLUET",
+  "collection": "【歌切】[2026-08-24]随心唱喜欢的歌！緋那ちび",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bth36rE3h?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-08-24]随心唱喜欢的歌！緋那ちび",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bth36rE3h?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "快晴",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-08-24]随心唱喜欢的歌！緋那ちび",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bth36rE3h?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "アイロニ",
+  "artist": "すこっぷ feat.初音ミク",
+  "collection": "【歌切】[2026-08-24]随心唱喜欢的歌！緋那ちび",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bth36rE3h?p=9",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "アルビレオ",
+  "artist": "ロクデナシ",
+  "collection": "【歌切】[2026-08-24]随心唱喜欢的歌！緋那ちび",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bth36rE3h?p=10",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "クライヤ",
+  "artist": "すこっぷ feat.初音ミク",
+  "collection": "【歌切】[2026-08-24]随心唱喜欢的歌！緋那ちび",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bth36rE3h?p=11",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ひゅるりらぱっぱ",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-08-24]随心唱喜欢的歌！緋那ちび",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bth36rE3h?p=12",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "quiet room",
+  "artist": "有機酸 feat.初音ミク",
+  "collection": "【歌切】[2026-08-24]随心唱喜欢的歌！緋那ちび",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bth36rE3h?p=13",
   "source": "hinachibi.js"
 }
 );

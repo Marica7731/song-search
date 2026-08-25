@@ -1,6 +1,6 @@
 // CULUA - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp
-// 生成时间: 8/25/2026, 2:20:06 AM
+// 生成时间: 8/25/2026, 3:13:11 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4411,6 +4411,78 @@ window.SONG_DATA.push(
   "collection": "【🦇歌切】[2026-08-19]唱歌",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16Nbo6TERA?p=9",
+  "source": "culua.js"
+},
+    {
+  "title": "ブルーアンバー",
+  "artist": "back number",
+  "collection": "【🦇歌切】[2026-08-24]来唱歌｜舒缓的歌单第36弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BWh365Em3?p=1",
+  "source": "culua.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "【🦇歌切】[2026-08-24]来唱歌｜舒缓的歌单第36弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BWh365Em3?p=2",
+  "source": "culua.js"
+},
+    {
+  "title": "君が夜の海に還るまで",
+  "artist": "キタニタツヤ",
+  "collection": "【🦇歌切】[2026-08-24]来唱歌｜舒缓的歌单第36弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BWh365Em3?p=3",
+  "source": "culua.js"
+},
+    {
+  "title": "ヒロイン",
+  "artist": "back number",
+  "collection": "【🦇歌切】[2026-08-24]来唱歌｜舒缓的歌单第36弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BWh365Em3?p=4",
+  "source": "culua.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【🦇歌切】[2026-08-24]来唱歌｜舒缓的歌单第36弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BWh365Em3?p=5",
+  "source": "culua.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat.GUMI",
+  "collection": "【🦇歌切】[2026-08-24]来唱歌｜舒缓的歌单第36弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BWh365Em3?p=6",
+  "source": "culua.js"
+},
+    {
+  "title": "灰色と青",
+  "artist": "米津玄師 feat.菅田将暉",
+  "collection": "【🦇歌切】[2026-08-24]来唱歌｜舒缓的歌单第36弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BWh365Em3?p=7",
+  "source": "culua.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【🦇歌切】[2026-08-24]来唱歌｜舒缓的歌单第36弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BWh365Em3?p=8",
+  "source": "culua.js"
+},
+    {
+  "title": "糸",
+  "artist": "中島みゆき",
+  "collection": "【🦇歌切】[2026-08-24]来唱歌｜舒缓的歌单第36弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BWh365Em3?p=9",
   "source": "culua.js"
 }
 );
