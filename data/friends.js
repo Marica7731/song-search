@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 8/25/2026, 2:53:55 AM
+// 生成时间: 8/25/2026, 3:48:24 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3891,6 +3891,78 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-23]歌回联动周第7天！与七海うらら一起唱歌｜StarlightSession!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsM?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "联动歌切 2026-08-24 与稀羽すう联动歌回周第8天！Starlight Session 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bth36rE3r?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "fake face dance music",
+  "artist": "音田雅則",
+  "collection": "联动歌切 2026-08-24 与稀羽すう联动歌回周第8天！Starlight Session 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bth36rE3r?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "シャル・ウィ・ダンス？",
+  "artist": "ReoNa",
+  "collection": "联动歌切 2026-08-24 与稀羽すう联动歌回周第8天！Starlight Session 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bth36rE3r?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "联动歌切 2026-08-24 与稀羽すう联动歌回周第8天！Starlight Session 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bth36rE3r?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "联动歌切 2026-08-24 与稀羽すう联动歌回周第8天！Starlight Session 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bth36rE3r?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "Plazma",
+  "artist": "米津玄師",
+  "collection": "联动歌切 2026-08-24 与稀羽すう联动歌回周第8天！Starlight Session 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bth36rE3r?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "联动歌切 2026-08-24 与稀羽すう联动歌回周第8天！Starlight Session 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bth36rE3r?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "联动歌切 2026-08-24 与稀羽すう联动歌回周第8天！Starlight Session 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bth36rE3r?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "クリームソーダとシャンデリア",
+  "artist": "mei × Henrii feat.ねんね",
+  "collection": "联动歌切 2026-08-24 与稀羽すう联动歌回周第8天！Starlight Session 陽月るるふ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bth36rE3r?p=9",
   "source": "friends.js"
 }
 );
