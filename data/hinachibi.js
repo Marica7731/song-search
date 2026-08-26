@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 8/26/2026, 9:41:24 PM
+// 生成时间: 8/26/2026, 10:22:45 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2403,6 +2403,38 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-24]随心唱喜欢的歌！緋那ちび",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Bth36rE3h?p=13",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "未完成なサヨナラ",
+  "artist": "TAK feat.みきまりあ",
+  "collection": "【歌切】[2026-08-26]周三过半！用歌声为大家送上元气！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEEe?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat.flower",
+  "collection": "【歌切】[2026-08-26]周三过半！用歌声为大家送上元气！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEEe?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-08-26]周三过半！用歌声为大家送上元气！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEEe?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat.GUMI",
+  "collection": "【歌切】[2026-08-26]周三过半！用歌声为大家送上元气！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEEe?p=4",
   "source": "hinachibi.js"
 }
 );

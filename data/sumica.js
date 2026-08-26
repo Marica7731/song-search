@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 8/26/2026, 9:29:50 PM
+// 生成时间: 8/26/2026, 10:11:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7987,6 +7987,262 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-08-23]3D化众筹开始前稍微弹唱一下～～～缓解紧张……",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gg8a6DEJZ?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "幸せ",
+  "artist": "back number",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "かなしくないよ",
+  "artist": "フジタカコ",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗 feat.ちびた",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "フラレガイガール",
+  "artist": "さユり",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "届かない",
+  "artist": "Saucy Dog",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "コンタクトケース",
+  "artist": "Saucy Dog",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "Hey my friend",
+  "artist": "Tommy heavenly6",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "Swallowtail Butterfly 〜あいのうた〜",
+  "artist": "YEN TOWN BAND",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "ときめき",
+  "artist": "チャットモンチー",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "未来予想図II",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "LOVE LOVE LOVE",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "やさしいキスをして",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "何度でも",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "大阪LOVER",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "花火",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "いつ逢えたら",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=20",
+  "source": "sumica.js"
+},
+    {
+  "title": "秘密",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=21",
+  "source": "sumica.js"
+},
+    {
+  "title": "秘密",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=22",
+  "source": "sumica.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=23",
+  "source": "sumica.js"
+},
+    {
+  "title": "鱗(うろこ)",
+  "artist": "秦基博",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=24",
+  "source": "sumica.js"
+},
+    {
+  "title": "ナイトルーティーン",
+  "artist": "キタニタツヤ feat.suis from ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=25",
+  "source": "sumica.js"
+},
+    {
+  "title": "アイ",
+  "artist": "秦基博",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=26",
+  "source": "sumica.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=27",
+  "source": "sumica.js"
+},
+    {
+  "title": "永遠のブルー",
+  "artist": "羊文学",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=28",
+  "source": "sumica.js"
+},
+    {
+  "title": "あの街に風吹けば",
+  "artist": "羊文学",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=29",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=30",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=31",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=32",
   "source": "sumica.js"
 }
 );
