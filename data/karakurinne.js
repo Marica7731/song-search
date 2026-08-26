@@ -1,6 +1,6 @@
 // からくりんね-KarakuRinne - 歌单数据 (多合集汇总)
 // 来源: BV1sU5S69E8r
-// 生成时间: 8/26/2026, 8:57:38 PM
+// 生成时间: 8/26/2026, 9:39:20 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2707,6 +2707,94 @@ window.SONG_DATA.push(
   "collection": "【⚙️🎸歌切】[2026-08-21]初次光临的朋友热烈欢迎！悠闲自在地唱歌！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wt8p67EQf?p=11",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "さよならミッドナイト",
+  "artist": "大柴広己(もじゃ)",
+  "collection": "【⚙️🎸歌切】[2026-08-26]以抒情歌为主的弹唱！傍晚一起悠闲放松吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nB8f6jEXt?p=1",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "あなたへ贈る歌",
+  "artist": "erica",
+  "collection": "【⚙️🎸歌切】[2026-08-26]以抒情歌为主的弹唱！傍晚一起悠闲放松吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nB8f6jEXt?p=2",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "15の言葉",
+  "artist": "阿部真央",
+  "collection": "【⚙️🎸歌切】[2026-08-26]以抒情歌为主的弹唱！傍晚一起悠闲放松吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nB8f6jEXt?p=3",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "悪い人",
+  "artist": "ヤングスキニー",
+  "collection": "【⚙️🎸歌切】[2026-08-26]以抒情歌为主的弹唱！傍晚一起悠闲放松吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nB8f6jEXt?p=4",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "さようなら、花泥棒さん",
+  "artist": "メル feat.初音ミク",
+  "collection": "【⚙️🎸歌切】[2026-08-26]以抒情歌为主的弹唱！傍晚一起悠闲放松吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nB8f6jEXt?p=5",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【⚙️🎸歌切】[2026-08-26]以抒情歌为主的弹唱！傍晚一起悠闲放松吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nB8f6jEXt?p=6",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat.安次嶺希和子",
+  "collection": "【⚙️🎸歌切】[2026-08-26]以抒情歌为主的弹唱！傍晚一起悠闲放松吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nB8f6jEXt?p=7",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "約束のしおり",
+  "artist": "ACE COLLECTION",
+  "collection": "【⚙️🎸歌切】[2026-08-26]以抒情歌为主的弹唱！傍晚一起悠闲放松吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nB8f6jEXt?p=8",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "好きが溢れていたの",
+  "artist": "もさを。",
+  "collection": "【⚙️🎸歌切】[2026-08-26]以抒情歌为主的弹唱！傍晚一起悠闲放松吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nB8f6jEXt?p=9",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "ヘビースモーク",
+  "artist": "にしな",
+  "collection": "【⚙️🎸歌切】[2026-08-26]以抒情歌为主的弹唱！傍晚一起悠闲放松吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nB8f6jEXt?p=10",
+  "source": "karakurinne.js"
+},
+    {
+  "title": "君が眩しいから僕は星が見えない",
+  "artist": "SIX LOUNGE",
+  "collection": "【⚙️🎸歌切】[2026-08-26]以抒情歌为主的弹唱！傍晚一起悠闲放松吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nB8f6jEXt?p=11",
   "source": "karakurinne.js"
 }
 );

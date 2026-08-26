@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 8/26/2026, 8:36:16 PM
+// 生成时间: 8/26/2026, 9:21:27 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -22387,6 +22387,110 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-08-23]🛰️シンクロニシティーン🛰️｜夏日相対性理論歌回接力",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEA5?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ヴィーナスとジーザス",
+  "artist": "やくしまるえつこ",
+  "collection": "【🦢歌切】#146[2026-08-26]周三固定直播：砰～💘",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hi8f6mE2c?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "口づけ",
+  "artist": "星野源",
+  "collection": "【🦢歌切】#146[2026-08-26]周三固定直播：砰～💘",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hi8f6mE2c?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "接吻",
+  "artist": "ORIGINAL LOVE",
+  "collection": "【🦢歌切】#146[2026-08-26]周三固定直播：砰～💘",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hi8f6mE2c?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🦢歌切】#146[2026-08-26]周三固定直播：砰～💘",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hi8f6mE2c?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Star-mine",
+  "artist": "Begrazia",
+  "collection": "【🦢歌切】#146[2026-08-26]周三固定直播：砰～💘",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hi8f6mE2c?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "空想フォレスト",
+  "artist": "じん feat.IA",
+  "collection": "【🦢歌切】#146[2026-08-26]周三固定直播：砰～💘",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hi8f6mE2c?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "夕景イエスタデイ",
+  "artist": "じん feat.IA",
+  "collection": "【🦢歌切】#146[2026-08-26]周三固定直播：砰～💘",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hi8f6mE2c?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "サ・ヨ・ナ・ラ Summer Holiday",
+  "artist": "S.E.M",
+  "collection": "【🦢歌切】#146[2026-08-26]周三固定直播：砰～💘",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hi8f6mE2c?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【🦢歌切】#146[2026-08-26]周三固定直播：砰～💘",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hi8f6mE2c?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ヨンジュウナナ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【🦢歌切】#146[2026-08-26]周三固定直播：砰～💘",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hi8f6mE2c?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "長く短い祭り",
+  "artist": "椎名林檎",
+  "collection": "【🦢歌切】#146[2026-08-26]周三固定直播：砰～💘",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hi8f6mE2c?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "【🦢歌切】#146[2026-08-26]周三固定直播：砰～💘",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hi8f6mE2c?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ゆーえふおー",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】#146[2026-08-26]周三固定直播：砰～💘",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hi8f6mE2c?p=13",
   "source": "suu_usuwa.js"
 }
 );
