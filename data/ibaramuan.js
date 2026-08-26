@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 8/26/2026, 10:24:52 PM
+// 生成时间: 8/26/2026, 11:13:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8555,6 +8555,206 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-22]唱动画歌曲、术力口和JPOP✊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uo8p6tEeH?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "オーバーライド",
+  "artist": "吉田夜世 feat.重音テト",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "モノクロのキス",
+  "artist": "シド",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "乱舞のメロディ",
+  "artist": "シド",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ハレンチ",
+  "artist": "ちゃんみな",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "一番綺麗な私を",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "たぶん",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Shout Baby",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "『んっあっあっ。』",
+  "artist": "SLAVE.V-V-R feat.初音ミク",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "威風堂々",
+  "artist": "梅とら feat.巡音ルカ・初音ミク・GUMI・IA・鏡音リン",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "抜錨",
+  "artist": "ナナホシ管弦楽団 feat.巡音ルカ",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "瞬間センチメンタル",
+  "artist": "SCANDAL",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "白日",
+  "artist": "King Gnu",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "モザイクカケラ",
+  "artist": "SunSet Swish",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "欲望に満ちた青年団",
+  "artist": "ONE OK ROCK",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "夢であるように",
+  "artist": "DEEN",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "狂乱 Hey Kids!!",
+  "artist": "THE ORAL CIGARETTES",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "エンヴィキャットウォーク",
+  "artist": "トーマ feat.初音ミク",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "コールボーイ",
+  "artist": "syudou feat.初音ミク",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "再教育",
+  "artist": "Neru feat.鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "曖昧劣情Lover",
+  "artist": "電ポルP feat.flower",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "PLATONIC GIRL",
+  "artist": "みきとP feat.GUMI",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "脱法ロック",
+  "artist": "Neru feat.鏡音レン",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "フィクサー",
+  "artist": "ぬゆり feat.flower",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "プロトディスコ",
+  "artist": "ぬゆり feat.flower",
+  "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=25",
   "source": "ibaramuan.js"
 }
 );

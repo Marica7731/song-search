@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 8/26/2026, 9:57:59 PM
+// 生成时间: 8/26/2026, 10:39:44 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12947,6 +12947,150 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Best Friend",
+  "artist": "Kiroro",
+  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "相思相愛",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "No title",
+  "artist": "Reol",
+  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "W/X/Y",
+  "artist": "Tani Yuuki",
+  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ぎゅっと。",
+  "artist": "もさを。",
+  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "寝・逃・げでリセット!",
+  "artist": "福原香織",
+  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "安次嶺希和子",
+  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "甲賀忍法帖",
+  "artist": "陰陽座",
+  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "片翼のイカロス",
+  "artist": "榊原ゆい",
+  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "盛れ!ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "好きすぎて滅!",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Ladybug",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "快晴",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夏影",
+  "artist": "Lia",
+  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=18",
   "source": "naraetan.js"
 }
 );
