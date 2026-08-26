@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 8/26/2026, 8:05:41 PM
+// 生成时间: 8/26/2026, 8:56:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1795,6 +1795,110 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-08-22]Chiru Akogi的时间🎸🎶 | 有通知‼️‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13R8p6fE7X?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "夏",
+  "artist": "さユり",
+  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "食虫植物",
+  "artist": "理芽",
+  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "過去を喰らう",
+  "artist": "花譜",
+  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "かいか",
+  "artist": "廻花",
+  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "あたしが死んでも",
+  "artist": "コレサワ",
+  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=6",
+  "source": "stratia.js"
+},
+    {
+  "title": "にゃんにゃんにゃん",
+  "artist": "コレサワ",
+  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=7",
+  "source": "stratia.js"
+},
+    {
+  "title": "LOVEずっきゅん",
+  "artist": "相対性理論",
+  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=8",
+  "source": "stratia.js"
+},
+    {
+  "title": "＊ハロー、プラネット。",
+  "artist": "sasakure.UK feat.初音ミク",
+  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=9",
+  "source": "stratia.js"
+},
+    {
+  "title": "シュガーバイン",
+  "artist": "Dixie Flatline feat.巡音ルカ",
+  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=10",
+  "source": "stratia.js"
+},
+    {
+  "title": "東京サマーセッション feat.CHiCO",
+  "artist": "HoneyWorks",
+  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=11",
+  "source": "stratia.js"
+},
+    {
+  "title": "ロケットサイダー",
+  "artist": "ナユタン星人 feat.初音ミク",
+  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=12",
+  "source": "stratia.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat.GUMI・鏡音リン",
+  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=13",
   "source": "stratia.js"
 }
 );
