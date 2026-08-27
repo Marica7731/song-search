@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 8/26/2026, 10:55:38 PM
+// 生成时间: 8/26/2026, 11:44:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12043,6 +12043,254 @@ window.SONG_DATA.push(
   "collection": "【♣️🎸歌切】[2026-08-23]用自己的方式翻唱ぴこ前辈的名曲｜满足ぴこんちゃん私欲的歌回接力",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HELP?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "笑えよ乙女",
+  "artist": "コレサワ",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ラヴ・イズ・オーヴァー",
+  "artist": "欧陽菲菲",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "fish",
+  "artist": "back number",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "どこにいても同じさ",
+  "artist": "ハンバートハンバート",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "修羅",
+  "artist": "DOES",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "サムライハート",
+  "artist": "SPYAIR",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "vivi",
+  "artist": "米津玄師",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "青い空",
+  "artist": "andymori",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "大空と大地の中で",
+  "artist": "松山千春",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "卒業写真",
+  "artist": "荒井由実",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Hello, Worker",
+  "artist": "KEI feat.巡音ルカ",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "革命",
+  "artist": "MOROHA",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ジェニファー山田さん",
+  "artist": "味噌汁's",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "Let's Search For Tomorrow",
+  "artist": "合唱曲",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "バレリーコ",
+  "artist": "みきとP feat.GUMI",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria feat.GUMI",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "手と手",
+  "artist": "クリープハイプ",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "踊り子",
+  "artist": "Vaundy",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "グリグリメガネと月光蟲",
+  "artist": "古川本舗 feat.初音ミク",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "さよならまたね",
+  "artist": "キクチリョウタ",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "スノースマイル",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=23",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "君の冒険",
+  "artist": "岡崎体育",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=24",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "家族になろうよ",
+  "artist": "福山雅治",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=25",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "仰げば尊し",
+  "artist": "唱歌",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=26",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=27",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "カフェオーレのうた",
+  "artist": "きっかレン",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=28",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=29",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=30",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夢見月に何想ふ",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=31",
   "source": "kotatsu.js"
 }
 );
