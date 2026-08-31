@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 8/31/2026, 2:06:12 AM
+// 生成时间: 8/31/2026, 2:55:30 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8755,6 +8755,198 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-25]周二固定直播🎙喜欢的歌有好多啊｜动漫歌曲",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iu8f6KERm?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "GLORIA",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ヒカリヘ",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "chAngE",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "元彼女のみなさまへ",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "浮気したらあかんで",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "I beg you",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "茜さす",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "さよならの夏～コクリコ坂から～",
+  "artist": "手嶌葵",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "点描の唄",
+  "artist": "Mrs. GREEN APPLE feat.井上苑子",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "勿忘",
+  "artist": "Awesome City Club",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師, 宇多田ヒカル",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO×米津玄師",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "八月のレイニー",
+  "artist": "はるまきごはん feat.初音ミク",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "銀の龍の背に乗って",
+  "artist": "中島みゆき",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "THE DAY",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "I",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=24",
   "source": "ibaramuan.js"
 }
 );

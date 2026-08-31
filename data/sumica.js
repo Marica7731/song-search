@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 8/31/2026, 1:51:45 AM
+// 生成时间: 8/31/2026, 2:42:07 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8243,6 +8243,110 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-08-26]欢迎初次来的观众｜想让弹唱声回荡在寂静的夜里🌌.·*.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ek8f6CEDa?p=32",
+  "source": "sumica.js"
+},
+    {
+  "title": "世界はふたり",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-08-28]有公告‼️夜晚一起悠闲弹唱到想睡为止⟡.*",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15otx6MEQp?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "世界はふたり~again~",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-08-28]有公告‼️夜晚一起悠闲弹唱到想睡为止⟡.*",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15otx6MEQp?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【💐🎸歌切】[2026-08-28]有公告‼️夜晚一起悠闲弹唱到想睡为止⟡.*",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15otx6MEQp?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "クリス・ハート",
+  "collection": "【💐🎸歌切】[2026-08-28]有公告‼️夜晚一起悠闲弹唱到想睡为止⟡.*",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15otx6MEQp?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヒカリヘ",
+  "artist": "miwa",
+  "collection": "【💐🎸歌切】[2026-08-28]有公告‼️夜晚一起悠闲弹唱到想睡为止⟡.*",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15otx6MEQp?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "ビンテージ",
+  "artist": "Official髭男dism",
+  "collection": "【💐🎸歌切】[2026-08-28]有公告‼️夜晚一起悠闲弹唱到想睡为止⟡.*",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15otx6MEQp?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "相思相愛",
+  "artist": "Official髭男dism",
+  "collection": "【💐🎸歌切】[2026-08-28]有公告‼️夜晚一起悠闲弹唱到想睡为止⟡.*",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15otx6MEQp?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "今夜は眠るまで",
+  "artist": "阿部真央",
+  "collection": "【💐🎸歌切】[2026-08-28]有公告‼️夜晚一起悠闲弹唱到想睡为止⟡.*",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15otx6MEQp?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-08-28]有公告‼️夜晚一起悠闲弹唱到想睡为止⟡.*",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15otx6MEQp?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-08-28]有公告‼️夜晚一起悠闲弹唱到想睡为止⟡.*",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15otx6MEQp?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-08-28]有公告‼️夜晚一起悠闲弹唱到想睡为止⟡.*",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15otx6MEQp?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-08-28]有公告‼️夜晚一起悠闲弹唱到想睡为止⟡.*",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15otx6MEQp?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "きにぴ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-08-28]有公告‼️夜晚一起悠闲弹唱到想睡为止⟡.*",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15otx6MEQp?p=13",
   "source": "sumica.js"
 }
 );
