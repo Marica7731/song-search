@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 8/31/2026, 6:51:06 AM
+// 生成时间: 8/31/2026, 7:39:30 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -34283,6 +34283,86 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-08-28]周末到来！夏天结束了！【Figaro】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yYtx69EBo?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "点描の唄",
+  "artist": "Mrs. GREEN APPLE feat.井上苑子",
+  "collection": "【💐歌切】[2026-08-30]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MYtt6aErJ?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-08-30]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MYtt6aErJ?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "【💐歌切】[2026-08-30]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MYtt6aErJ?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "対象a",
+  "artist": "anNina",
+  "collection": "【💐歌切】[2026-08-30]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MYtt6aErJ?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "nuit",
+  "artist": "春野 feat.初音ミク",
+  "collection": "【💐歌切】[2026-08-30]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MYtt6aErJ?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "深昏睡",
+  "artist": "春野 feat.初音ミク",
+  "collection": "【💐歌切】[2026-08-30]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MYtt6aErJ?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "テロメアの産声",
+  "artist": "Heavenz feat.初音ミク",
+  "collection": "【💐歌切】[2026-08-30]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MYtt6aErJ?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "エイリアンズ",
+  "artist": "キリンジ",
+  "collection": "【💐歌切】[2026-08-30]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MYtt6aErJ?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "花",
+  "artist": "藤井風",
+  "collection": "【💐歌切】[2026-08-30]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MYtt6aErJ?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "プラネテス",
+  "artist": "キタニタツヤ",
+  "collection": "【💐歌切】[2026-08-30]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MYtt6aErJ?p=10",
   "source": "figaro.js"
 }
 );
