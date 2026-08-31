@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 8/24/2026, 6:33:26 AM
+// 生成时间: 8/31/2026, 4:56:27 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2339,6 +2339,598 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=24",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "あの夏に咲け",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "負け犬にアンコールはいらない",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "爆弾魔",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "冬眠",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "パレード",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "八月、某、月明かり",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "詩書きとコーヒー",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "六月は雨上がりの街を書く",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=15",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "五月は花緑青の窓辺から",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=16",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "エルマ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=17",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=18",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=19",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=20",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "夕凪、某、花惑い",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=21",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=22",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=23",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=24",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=25",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=26",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=27",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=28",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "又三郎",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=29",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "月に吠える",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=30",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ブレーメン",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=31",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=32",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "テレパス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=33",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "チノカテ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=34",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=35",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=36",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=37",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=38",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=39",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=40",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "太陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=41",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=42",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=43",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=44",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "千鳥",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=45",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=46",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "あの夏のいつかは",
+  "artist": "*Luna feat.音街ウナ・鏡音レン",
+  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "花火",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "泡沫花火",
+  "artist": "神はサイコロを振らない",
+  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "HANABI",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "又三郎",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "secret base 〜君がくれたもの〜",
+  "artist": "ZONE",
+  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO×米津玄師",
+  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ねむるまち",
+  "artist": "くじら",
+  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス feat.可不",
+  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "妄想税",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "プロミスザスター",
+  "artist": "BiSH",
+  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Bling-Bang-Bang-Born",
+  "artist": "Creepy Nuts",
+  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "asphyxia",
+  "artist": "Cö shu Nie",
+  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "わたがし",
+  "artist": "back number",
+  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "六等星",
+  "artist": "ざらめ",
+  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "小さな恋のうた",
+  "artist": "MONGOL800",
+  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat.可不",
+  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "メロウ",
+  "artist": "須田景凪",
+  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ロストワンの号哭",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=15",
   "source": "suiuishino.js"
 }
 );

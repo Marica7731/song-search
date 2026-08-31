@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 8/31/2026, 3:22:23 AM
+// 生成时间: 8/31/2026, 4:20:47 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -34155,6 +34155,134 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-08-21]助眠歌回✨周末前的宁静时光🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zp8x67EYJ?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【💐歌切】[2026-08-28]周末到来！夏天结束了！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yYtx69EBo?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "サウダージ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【💐歌切】[2026-08-28]周末到来！夏天结束了！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yYtx69EBo?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【💐歌切】[2026-08-28]周末到来！夏天结束了！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yYtx69EBo?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "fake face dance music",
+  "artist": "音田雅則",
+  "collection": "【💐歌切】[2026-08-28]周末到来！夏天结束了！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yYtx69EBo?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "チャイナアドバイス",
+  "artist": "相対性理論",
+  "collection": "【💐歌切】[2026-08-28]周末到来！夏天结束了！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yYtx69EBo?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【💐歌切】[2026-08-28]周末到来！夏天结束了！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yYtx69EBo?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "人間みたいね",
+  "artist": "キタニタツヤ",
+  "collection": "【💐歌切】[2026-08-28]周末到来！夏天结束了！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yYtx69EBo?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "火種",
+  "artist": "キタニタツヤ",
+  "collection": "【💐歌切】[2026-08-28]周末到来！夏天结束了！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yYtx69EBo?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "Plazma",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-08-28]周末到来！夏天结束了！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yYtx69EBo?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "喜劇",
+  "artist": "星野源",
+  "collection": "【💐歌切】[2026-08-28]周末到来！夏天结束了！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yYtx69EBo?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【💐歌切】[2026-08-28]周末到来！夏天结束了！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yYtx69EBo?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "有頂天",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "【💐歌切】[2026-08-28]周末到来！夏天结束了！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yYtx69EBo?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "テレキャスター・ストライプ",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "【💐歌切】[2026-08-28]周末到来！夏天结束了！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yYtx69EBo?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "JET",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "【💐歌切】[2026-08-28]周末到来！夏天结束了！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yYtx69EBo?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "gravityWall",
+  "artist": "SawanoHiroyuki[nZk]:Tielle & Gemie",
+  "collection": "【💐歌切】[2026-08-28]周末到来！夏天结束了！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yYtx69EBo?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "【💐歌切】[2026-08-28]周末到来！夏天结束了！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yYtx69EBo?p=16",
   "source": "figaro.js"
 }
 );
