@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 8/31/2026, 2:28:12 AM
+// 生成时间: 8/31/2026, 3:20:37 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -13091,6 +13091,182 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "願いごとひとつだけ",
+  "artist": "小松未歩",
+  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Everlasting Guilty Crown",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "My Dearest",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Give a reason",
+  "artist": "林原めぐみ",
+  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "鳥の詩",
+  "artist": "Lia",
+  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Porque te vas",
+  "artist": "Jeanette",
+  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "大好きだよ。",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ゆずれない願い",
+  "artist": "田村直美",
+  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "カワキヲアメク",
+  "artist": "美波",
+  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n & 中島愛",
+  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "逆転劇",
+  "artist": "月詠み",
+  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "盛れ!ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "I'm so happy",
+  "artist": "Janne Da Arc",
+  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=19",
+  "source": "naraetan.js"
+},
+    {
+  "title": "adrenaline!!!",
+  "artist": "TrySail",
+  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=20",
+  "source": "naraetan.js"
+},
+    {
+  "title": "さよならメモリーズ",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=21",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Happy! Lucky! Dochy!",
+  "artist": "古手梨花(田村ゆかり)、北条沙都子(かないみか)、羽入(堀江由衣)",
+  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=22",
   "source": "naraetan.js"
 }
 );

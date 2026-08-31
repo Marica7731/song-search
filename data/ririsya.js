@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 8/31/2026, 2:31:19 AM
+// 生成时间: 8/31/2026, 3:24:21 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -18787,6 +18787,46 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-08-23]凛々咲6周年纪念特别歌回✧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13T8a6XEyA?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "青い珊瑚礁",
+  "artist": "松田聖子",
+  "collection": "【🐍歌切】[2026-08-28]清透夏日歌回接力｜送上属于这个夏天的歌 ✧【凛々咲】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEek?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🐍歌切】[2026-08-28]清透夏日歌回接力｜送上属于这个夏天的歌 ✧【凛々咲】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEek?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO×米津玄師",
+  "collection": "【🐍歌切】[2026-08-28]清透夏日歌回接力｜送上属于这个夏天的歌 ✧【凛々咲】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEek?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat.初音ミク",
+  "collection": "【🐍歌切】[2026-08-28]清透夏日歌回接力｜送上属于这个夏天的歌 ✧【凛々咲】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEek?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "GHOST",
+  "artist": "星街すいせい",
+  "collection": "【🐍歌切】[2026-08-28]清透夏日歌回接力｜送上属于这个夏天的歌 ✧【凛々咲】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17Qtx6rEek?p=5",
   "source": "ririsya.js"
 }
 );

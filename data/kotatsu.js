@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 8/31/2026, 2:41:24 AM
+// 生成时间: 8/31/2026, 3:35:35 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12291,6 +12291,190 @@ window.SONG_DATA.push(
   "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=31",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "明るい未来",
+  "artist": "never young beach",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=1",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ゴーゴー魚釣り",
+  "artist": "工藤裕次郎",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=2",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "革命",
+  "artist": "andymori",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=3",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=4",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=5",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "生きていたんだよな",
+  "artist": "あいみょん",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=6",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "人として",
+  "artist": "SUPER BEAVER",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=7",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "リグレット",
+  "artist": "sumika",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=8",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "正解",
+  "artist": "RADWIMPS",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=9",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "またね",
+  "artist": "ハンブレッダーズ",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=10",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "待ち合わせの途中",
+  "artist": "plenty",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=11",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "はなびら",
+  "artist": "奥華子",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=12",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "時をかけるメロディー",
+  "artist": "小山田壮平",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=13",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "岬",
+  "artist": "ハンバート ハンバート",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=14",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=15",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "拝啓、少年よ",
+  "artist": "Hump Back",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=16",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "かえるの唄",
+  "artist": "クリープハイプ",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=17",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "しあわせ",
+  "artist": "はるこたつぶとん俱楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=18",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "朝焼け、君の唄。",
+  "artist": "ナノウ feat.初音ミク",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=19",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "世界がひとつになるまで",
+  "artist": "Ya-Ya-yah",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=20",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "遠い君へ",
+  "artist": "はるこたつぶとん俱楽部♧",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=21",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "エクレア",
+  "artist": "岡崎体育",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=22",
+  "source": "kotatsu.js"
+},
+    {
+  "title": "ぼくらのレットイットビー",
+  "artist": "はりーP feat.初音ミク",
+  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=23",
   "source": "kotatsu.js"
 }
 );

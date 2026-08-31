@@ -1,6 +1,6 @@
 // CULUA - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp
-// 生成时间: 8/31/2026, 2:57:45 AM
+// 生成时间: 8/31/2026, 3:56:58 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4483,6 +4483,46 @@ window.SONG_DATA.push(
   "collection": "【🦇歌切】[2026-08-24]来唱歌｜舒缓的歌单第36弹【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BWh365Em3?p=9",
+  "source": "culua.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【🦇歌切】[2026-08-27]边聊边唱｜我要唱歌啦｜CULUA的歌单第36弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8tx6dEWt?p=1",
+  "source": "culua.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【🦇歌切】[2026-08-27]边聊边唱｜我要唱歌啦｜CULUA的歌单第36弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8tx6dEWt?p=2",
+  "source": "culua.js"
+},
+    {
+  "title": "G4L",
+  "artist": "Giga",
+  "collection": "【🦇歌切】[2026-08-27]边聊边唱｜我要唱歌啦｜CULUA的歌单第36弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8tx6dEWt?p=3",
+  "source": "culua.js"
+},
+    {
+  "title": "アイデンティティ",
+  "artist": "Kanaria feat.初音ミク・GUMI",
+  "collection": "【🦇歌切】[2026-08-27]边聊边唱｜我要唱歌啦｜CULUA的歌单第36弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8tx6dEWt?p=4",
+  "source": "culua.js"
+},
+    {
+  "title": "眩しいDNAだけ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【🦇歌切】[2026-08-27]边聊边唱｜我要唱歌啦｜CULUA的歌单第36弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K8tx6dEWt?p=5",
   "source": "culua.js"
 }
 );
