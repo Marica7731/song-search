@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 8/31/2026, 4:56:27 AM
+// 生成时间: 8/31/2026, 5:47:31 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2931,6 +2931,318 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=15",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "わたがし",
+  "artist": "back number",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Luna say maybe",
+  "artist": "初星学園(月村手毬)",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "拝啓、少年よ",
+  "artist": "Hump Back",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "G4L",
+  "artist": "Giga",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "可愛くなりたい",
+  "artist": "HoneyWorks feat.成海聖奈(CV:雨宮天)",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ソワレ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "最愛",
+  "artist": "KOH+",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "何度も",
+  "artist": "青山テルマ",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat.安次嶺希和子",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ありがとう",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=15",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "サブリナ",
+  "artist": "家入レオ",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=16",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ハルモニア",
+  "artist": "RYTHEM",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=17",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=18",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "どうにかなっちゃいそう!",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=19",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "季節は次々死んでいく",
+  "artist": "amazarashi",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=20",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子(花澤香菜)",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=21",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "身体は正直だって言ってんの",
+  "artist": "式浦。 feat.歌愛ユキ",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=22",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ただ声一つ",
+  "artist": "ロクデナシ",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=23",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "アサガオの散る頃に",
+  "artist": "じっぷす feat.初音ミク",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=24",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "GLAMOROUS SKY",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=25",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "あの夢をなぞって",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=26",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=27",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "夏の半券",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=28",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=29",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ノンブレス・オブリージュ",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=30",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=31",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=32",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "夏霞",
+  "artist": "あたらよ",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=33",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=34",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "あくあ色ぱれっと",
+  "artist": "湊あくあ",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=35",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=36",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ゴールデンタイムラバー",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=37",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "fight",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=38",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=39",
   "source": "suiuishino.js"
 }
 );
