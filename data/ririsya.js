@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 8/31/2026, 7:03:47 PM
+// 生成时间: 8/31/2026, 8:00:24 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -18827,6 +18827,198 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-08-28]清透夏日歌回接力｜送上属于这个夏天的歌 ✧【凛々咲】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Qtx6rEek?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "夏色",
+  "artist": "ゆず",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "君と夏フェス",
+  "artist": "SHISHAMO",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "少年時代",
+  "artist": "井上陽水",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "夏の日の1993",
+  "artist": "class",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "青い珊瑚礁",
+  "artist": "松田聖子",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ひと夏の経験",
+  "artist": "山口百恵",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "真夏の夜の夢",
+  "artist": "松任谷由実",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "you",
+  "artist": "癒月",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "鳥の詩",
+  "artist": "Lia",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "青い栞",
+  "artist": "Galileo Galilei",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "JITTERIN'JINN",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=18",
+  "source": "ririsya.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=19",
+  "source": "ririsya.js"
+},
+    {
+  "title": "わたがし",
+  "artist": "back number",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=20",
+  "source": "ririsya.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO×米津玄師",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=21",
+  "source": "ririsya.js"
+},
+    {
+  "title": "うたかた花火",
+  "artist": "supercell",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=22",
+  "source": "ririsya.js"
+},
+    {
+  "title": "あの夢をなぞって",
+  "artist": "YOASOBI",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=23",
+  "source": "ririsya.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=24",
   "source": "ririsya.js"
 }
 );

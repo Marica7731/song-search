@@ -1,6 +1,6 @@
 // CULUA - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp
-// 生成时间: 8/31/2026, 7:35:41 PM
+// 生成时间: 8/31/2026, 8:29:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4523,6 +4523,78 @@ window.SONG_DATA.push(
   "collection": "【🦇歌切】[2026-08-27]边聊边唱｜我要唱歌啦｜CULUA的歌单第36弹【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K8tx6dEWt?p=5",
+  "source": "culua.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat.初音ミク",
+  "collection": "【🦇歌切】[2026-08-31]出新歌了｜舒缓的歌单第37弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dUtY6dEsT?p=1",
+  "source": "culua.js"
+},
+    {
+  "title": "シリョクケンサ",
+  "artist": "40mP feat.GUMI",
+  "collection": "【🦇歌切】[2026-08-31]出新歌了｜舒缓的歌单第37弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dUtY6dEsT?p=2",
+  "source": "culua.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【🦇歌切】[2026-08-31]出新歌了｜舒缓的歌单第37弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dUtY6dEsT?p=3",
+  "source": "culua.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【🦇歌切】[2026-08-31]出新歌了｜舒缓的歌单第37弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dUtY6dEsT?p=4",
+  "source": "culua.js"
+},
+    {
+  "title": "わたしのアール",
+  "artist": "和田たけあき(くらげP) feat.初音ミク",
+  "collection": "【🦇歌切】[2026-08-31]出新歌了｜舒缓的歌单第37弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dUtY6dEsT?p=5",
+  "source": "culua.js"
+},
+    {
+  "title": "六兆年と一夜物語",
+  "artist": "kemu feat.IA",
+  "collection": "【🦇歌切】[2026-08-31]出新歌了｜舒缓的歌单第37弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dUtY6dEsT?p=6",
+  "source": "culua.js"
+},
+    {
+  "title": "カナデトモスソラ",
+  "artist": "25時、ナイトコードで。",
+  "collection": "【🦇歌切】[2026-08-31]出新歌了｜舒缓的歌单第37弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dUtY6dEsT?p=7",
+  "source": "culua.js"
+},
+    {
+  "title": "あなたの夜が明けるまで",
+  "artist": "傘村トータ feat.IA・Fukase",
+  "collection": "【🦇歌切】[2026-08-31]出新歌了｜舒缓的歌单第37弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dUtY6dEsT?p=8",
+  "source": "culua.js"
+},
+    {
+  "title": "夜明けの歌",
+  "artist": "M2U feat.ダズビー",
+  "collection": "【🦇歌切】[2026-08-31]出新歌了｜舒缓的歌单第37弹【CULUA】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dUtY6dEsT?p=9",
   "source": "culua.js"
 }
 );
