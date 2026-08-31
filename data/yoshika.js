@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 8/31/2026, 8:03:37 PM
+// 生成时间: 8/31/2026, 9:45:32 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -38755,6 +38755,142 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-08-30]欢迎初见！复健！只唱一会儿！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15Jtt63Egr?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-09-01]欢迎第一次来的观众！谢谢大家让我拿下冠军！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAte67Eky?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気分上々↑↑",
+  "artist": "mihimaru GT",
+  "collection": "【🍠🦍歌切】[2026-09-01]欢迎第一次来的观众！谢谢大家让我拿下冠军！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAte67Eky?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n／中島愛",
+  "collection": "【🍠🦍歌切】[2026-09-01]欢迎第一次来的观众！谢谢大家让我拿下冠军！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAte67Eky?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【🍠🦍歌切】[2026-09-01]欢迎第一次来的观众！谢谢大家让我拿下冠军！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAte67Eky?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "１・２・３",
+  "artist": "After the Rain（そらる×まふまふ）",
+  "collection": "【🍠🦍歌切】[2026-09-01]欢迎第一次来的观众！谢谢大家让我拿下冠军！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAte67Eky?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Bloomin'",
+  "artist": "Ryosuke Yamada",
+  "collection": "【🍠🦍歌切】[2026-09-01]欢迎第一次来的观众！谢谢大家让我拿下冠军！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAte67Eky?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "めざせポケモンマスター",
+  "artist": "松本梨香",
+  "collection": "【🍠🦍歌切】[2026-09-01]欢迎第一次来的观众！谢谢大家让我拿下冠军！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAte67Eky?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "departure!",
+  "artist": "小野正利",
+  "collection": "【🍠🦍歌切】[2026-09-01]欢迎第一次来的观众！谢谢大家让我拿下冠军！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAte67Eky?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【🍠🦍歌切】[2026-09-01]欢迎第一次来的观众！谢谢大家让我拿下冠军！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAte67Eky?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "未来のミュージアム",
+  "artist": "Perfume",
+  "collection": "【🍠🦍歌切】[2026-09-01]欢迎第一次来的观众！谢谢大家让我拿下冠军！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAte67Eky?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おどるポンポコリン",
+  "artist": "B.B.クィーンズ",
+  "collection": "【🍠🦍歌切】[2026-09-01]欢迎第一次来的观众！谢谢大家让我拿下冠军！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAte67Eky?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "島のうた",
+  "artist": "島民(ちいかわ)",
+  "collection": "【🍠🦍歌切】[2026-09-01]欢迎第一次来的观众！谢谢大家让我拿下冠军！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAte67Eky?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "時の歌",
+  "artist": "手嶌葵",
+  "collection": "【🍠🦍歌切】[2026-09-01]欢迎第一次来的观众！谢谢大家让我拿下冠军！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAte67Eky?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アメイジング・グレイス",
+  "artist": "本田美奈子.",
+  "collection": "【🍠🦍歌切】[2026-09-01]欢迎第一次来的观众！谢谢大家让我拿下冠军！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAte67Eky?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【🍠🦍歌切】[2026-09-01]欢迎第一次来的观众！谢谢大家让我拿下冠军！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAte67Eky?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "O mio babbino caro",
+  "artist": "Giacomo Puccini",
+  "collection": "【🍠🦍歌切】[2026-09-01]欢迎第一次来的观众！谢谢大家让我拿下冠军！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAte67Eky?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "天城越え",
+  "artist": "石川さゆり",
+  "collection": "【🍠🦍歌切】[2026-09-01]欢迎第一次来的观众！谢谢大家让我拿下冠军！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MAte67Eky?p=17",
   "source": "yoshika.js"
 }
 );

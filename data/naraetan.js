@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 8/31/2026, 7:58:02 PM
+// 生成时间: 8/31/2026, 9:38:18 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -13267,6 +13267,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=22",
+  "source": "naraetan.js"
+},
+    {
+  "title": "春はゆく",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "世界のつづき",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "もののけ姫",
+  "artist": "米良美一",
+  "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat.GUMI",
+  "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "今はいいんだよ。",
+  "artist": "MIMI feat.可不",
+  "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "虹の彼方に",
+  "artist": "ReoNa",
+  "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ヒロイン",
+  "artist": "back number",
+  "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat.GUMI",
+  "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "本当の音",
+  "artist": "KOKIA",
+  "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "光の方へ",
+  "artist": "KOKIA",
+  "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=11",
   "source": "naraetan.js"
 }
 );
