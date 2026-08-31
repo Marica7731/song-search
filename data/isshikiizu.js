@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 8/24/2026, 6:26:41 AM
+// 生成时间: 8/31/2026, 9:51:31 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3883,6 +3883,438 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-22]把满满的活力送给你！💫为你送上维生素🍋✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1g98p68Ehp?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "イケナイ太陽",
+  "artist": "ORANGE RANGE",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アポロ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "全力少年",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ハルカ",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "金魚花火",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "花火",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "sailing day",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "車輪の唄",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Greatful days",
+  "artist": "浜崎あゆみ",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "曖昧劣情Lover",
+  "artist": "koyori(電ポルP) feat.v flower",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "いますぐ輪廻",
+  "artist": "なきそ feat.初音ミク",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=22",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ラブカ？",
+  "artist": "柊キライ feat.v flower",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=23",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=24",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "フラレガイガール",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=25",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "月と花束",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=26",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=27",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-08-24]不来听听主角声线吗？✨元气&治愈，非常欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17hh366ELc?p=28",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "夜の踊り子",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "JITTERIN'JINN",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "一途",
+  "artist": "King Gnu",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アゲハ蝶",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "サウダージ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "3月9日",
+  "artist": "レミオロメン",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "チェリー",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Don't say \"lazy\"",
+  "artist": "桜高軽音部",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "会心の一撃",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "忘れてやらない",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "青春コンプレックス",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "君はロックを聴かない",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "女々しくて",
+  "artist": "ゴールデンボンバー",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "明日も",
+  "artist": "SHISHAMO",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "GLAMOROUS SKY",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "残機",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "シーソーゲーム ～勇敢な恋の歌～",
+  "artist": "Mr.Children",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=22",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=23",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "カルマ",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=24",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アルエ",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=25",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=26",
   "source": "isshikiizu.js"
 }
 );

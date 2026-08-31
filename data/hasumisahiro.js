@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 8/24/2026, 5:52:54 AM
+// 生成时间: 8/31/2026, 9:38:29 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2515,6 +2515,214 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-23]那个～我会唱歌，觉得还不错的话能订阅一下频道吗；；",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1x68h63EJn?p=25",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ホログラム",
+  "artist": "NICO Touches the Walls",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "恋する神様",
+  "artist": "Penthouse",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "カロン",
+  "artist": "ねごと",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "以心伝心",
+  "artist": "ORANGE RANGE",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "花になれ",
+  "artist": "flumpool",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "僕のかわい子ちゃん",
+  "artist": "MON7A",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "カプチーノ",
+  "artist": "ともさかりえ",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "華奢なリップ feat.ちゃんみな",
+  "artist": "ジェニーハイ",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=14",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ラブホテル",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=15",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ABCDC",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=16",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=17",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=18",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ホログラム",
+  "artist": "NICO Touches the Walls",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=19",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "恋する神様",
+  "artist": "Penthouse",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=20",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "DAYBYE",
+  "artist": "春野",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=21",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "君と夏フェス",
+  "artist": "SHISHAMO",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=22",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=23",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "W/X/Y",
+  "artist": "Tani Yuuki",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=24",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "チェックのワンピース",
+  "artist": "back number",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=25",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "恋",
+  "artist": "back number",
+  "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=26",
   "source": "hasumisahiro.js"
 }
 );

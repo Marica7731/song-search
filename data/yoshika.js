@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 8/31/2026, 8:28:13 AM
+// 生成时间: 8/31/2026, 9:21:31 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -38611,6 +38611,150 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-08-23]偶像最棒！请让我安利一下我的推⭐｜无敌偶像歌回接力",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gu8a6HE8W?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【🍠🦍歌切】[2026-08-30]欢迎初见！复健！只唱一会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Jtt63Egr?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-08-30]欢迎初见！复健！只唱一会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Jtt63Egr?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "GO!!!",
+  "artist": "FLOW",
+  "collection": "【🍠🦍歌切】[2026-08-30]欢迎初见！复健！只唱一会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Jtt63Egr?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍠🦍歌切】[2026-08-30]欢迎初见！复健！只唱一会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Jtt63Egr?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "【🍠🦍歌切】[2026-08-30]欢迎初见！复健！只唱一会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Jtt63Egr?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【🍠🦍歌切】[2026-08-30]欢迎初见！复健！只唱一会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Jtt63Egr?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "キミに100パーセント",
+  "artist": "きゃりーぱみゅぱみゅ",
+  "collection": "【🍠🦍歌切】[2026-08-30]欢迎初见！复健！只唱一会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Jtt63Egr?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "フローリア",
+  "artist": "佐香智久",
+  "collection": "【🍠🦍歌切】[2026-08-30]欢迎初见！复健！只唱一会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Jtt63Egr?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "好きすぎて滅!",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-08-30]欢迎初见！复健！只唱一会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Jtt63Egr?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハグしちゃお",
+  "artist": "夏川りみ",
+  "collection": "【🍠🦍歌切】[2026-08-30]欢迎初见！复健！只唱一会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Jtt63Egr?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "盛れ!ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【🍠🦍歌切】[2026-08-30]欢迎初见！复健！只唱一会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Jtt63Egr?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "DISCOTHEQUE",
+  "artist": "水樹奈々",
+  "collection": "【🍠🦍歌切】[2026-08-30]欢迎初见！复健！只唱一会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Jtt63Egr?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ドレミファロンド",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【🍠🦍歌切】[2026-08-30]欢迎初见！复健！只唱一会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Jtt63Egr?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+  "collection": "【🍠🦍歌切】[2026-08-30]欢迎初见！复健！只唱一会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Jtt63Egr?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "キリトリセン",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【🍠🦍歌切】[2026-08-30]欢迎初见！复健！只唱一会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Jtt63Egr?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Queens Bluff",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-08-30]欢迎初见！复健！只唱一会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Jtt63Egr?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋風",
+  "artist": "大石秀一郎(近藤孝行)",
+  "collection": "【🍠🦍歌切】[2026-08-30]欢迎初见！复健！只唱一会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Jtt63Egr?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "島のうた (セイレーンver.)",
+  "artist": "セイレーン(CV.鈴木みのり)、人魚(CV.大木咲絵子、七瀬彩夏)",
+  "collection": "【🍠🦍歌切】[2026-08-30]欢迎初见！复健！只唱一会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Jtt63Egr?p=18",
   "source": "yoshika.js"
 }
 );

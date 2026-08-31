@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 8/31/2026, 8:35:34 AM
+// 生成时间: 8/31/2026, 9:27:26 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8379,6 +8379,158 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-08-29]你的推是什么味道？歌回接力2｜感受“酸味”的弹唱⁉️要不要来尝一口⟡.*【澄花 / ぷろぶる】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nitt68EJj?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-08-27]弹唱｜中午来首歌放松一下怎么样🌞【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dbtt6NEbW?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "Family Song",
+  "artist": "星野源",
+  "collection": "【💐🎸歌切】[2026-08-27]弹唱｜中午来首歌放松一下怎么样🌞【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dbtt6NEbW?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "コントラスト",
+  "artist": "TOMOO",
+  "collection": "【💐🎸歌切】[2026-08-27]弹唱｜中午来首歌放松一下怎么样🌞【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dbtt6NEbW?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "ぷんぷん",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-08-27]弹唱｜中午来首歌放松一下怎么样🌞【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dbtt6NEbW?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "ベーコンエピ",
+  "artist": "TOMOO",
+  "collection": "【💐🎸歌切】[2026-08-27]弹唱｜中午来首歌放松一下怎么样🌞【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dbtt6NEbW?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "相思相愛",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-08-27]弹唱｜中午来首歌放松一下怎么样🌞【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dbtt6NEbW?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "横顔",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-08-27]弹唱｜中午来首歌放松一下怎么样🌞【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dbtt6NEbW?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "【💐🎸歌切】[2026-08-27]弹唱｜中午来首歌放松一下怎么样🌞【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dbtt6NEbW?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "雨晴るる",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-08-27]弹唱｜中午来首歌放松一下怎么样🌞【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dbtt6NEbW?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【💐🎸歌切】[2026-08-27]弹唱｜中午来首歌放松一下怎么样🌞【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dbtt6NEbW?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "恋人ごっこ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【💐🎸歌切】[2026-08-27]弹唱｜中午来首歌放松一下怎么样🌞【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dbtt6NEbW?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "メロウ",
+  "artist": "須田景凪",
+  "collection": "【💐🎸歌切】[2026-08-27]弹唱｜中午来首歌放松一下怎么样🌞【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dbtt6NEbW?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "inside you",
+  "artist": "milet",
+  "collection": "【💐🎸歌切】[2026-08-27]弹唱｜中午来首歌放松一下怎么样🌞【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dbtt6NEbW?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【💐🎸歌切】[2026-08-27]弹唱｜中午来首歌放松一下怎么样🌞【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dbtt6NEbW?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-08-27]弹唱｜中午来首歌放松一下怎么样🌞【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dbtt6NEbW?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "ロクデナシ",
+  "collection": "【💐🎸歌切】[2026-08-27]弹唱｜中午来首歌放松一下怎么样🌞【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dbtt6NEbW?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "アイのシナリオ",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【💐🎸歌切】[2026-08-27]弹唱｜中午来首歌放松一下怎么样🌞【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dbtt6NEbW?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "コイワズライ",
+  "artist": "Aimer",
+  "collection": "【💐🎸歌切】[2026-08-27]弹唱｜中午来首歌放松一下怎么样🌞【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dbtt6NEbW?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "メイクミー",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-08-27]弹唱｜中午来首歌放松一下怎么样🌞【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Dbtt6NEbW?p=19",
   "source": "sumica.js"
 }
 );
