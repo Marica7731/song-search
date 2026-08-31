@@ -1,6 +1,6 @@
 // AZKi - 歌单数据 (多合集汇总)
 // 来源: BV1dE42137AT
-// 生成时间: 8/31/2026, 8:02:16 AM
+// 生成时间: 8/31/2026, 8:48:37 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5451,6 +5451,94 @@ window.SONG_DATA.push(
   "collection": "AZKi 2026年08月20日20点场 歌って、告知！！！！！ Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gh1dYFEo2?p=10",
+  "source": "azki.js"
+},
+    {
+  "title": "金魚花火",
+  "artist": "大塚愛",
+  "collection": "AZKi歌切 2026年08月30日23点场 深夜舒缓地唱歌🌙【ホロライブ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hh1dYFEBY?p=1",
+  "source": "azki.js"
+},
+    {
+  "title": "why, or why not",
+  "artist": "大嶋啓之 feat.片霧烈火",
+  "collection": "AZKi歌切 2026年08月30日23点场 深夜舒缓地唱歌🌙【ホロライブ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hh1dYFEBY?p=2",
+  "source": "azki.js"
+},
+    {
+  "title": "days",
+  "artist": "じん ft.Lia",
+  "collection": "AZKi歌切 2026年08月30日23点场 深夜舒缓地唱歌🌙【ホロライブ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hh1dYFEBY?p=3",
+  "source": "azki.js"
+},
+    {
+  "title": "テレ東",
+  "artist": "相対性理論",
+  "collection": "AZKi歌切 2026年08月30日23点场 深夜舒缓地唱歌🌙【ホロライブ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hh1dYFEBY?p=4",
+  "source": "azki.js"
+},
+    {
+  "title": "バーモント・キッス",
+  "artist": "相対性理論",
+  "collection": "AZKi歌切 2026年08月30日23点场 深夜舒缓地唱歌🌙【ホロライブ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hh1dYFEBY?p=5",
+  "source": "azki.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "AZKi歌切 2026年08月30日23点场 深夜舒缓地唱歌🌙【ホロライブ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hh1dYFEBY?p=6",
+  "source": "azki.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "AZKi歌切 2026年08月30日23点场 深夜舒缓地唱歌🌙【ホロライブ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hh1dYFEBY?p=7",
+  "source": "azki.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "AZKi歌切 2026年08月30日23点场 深夜舒缓地唱歌🌙【ホロライブ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hh1dYFEBY?p=8",
+  "source": "azki.js"
+},
+    {
+  "title": "ninelie",
+  "artist": "Aimer with chelly(EGOIST)",
+  "collection": "AZKi歌切 2026年08月30日23点场 深夜舒缓地唱歌🌙【ホロライブ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hh1dYFEBY?p=9",
+  "source": "azki.js"
+},
+    {
+  "title": "それが、愛でしょう",
+  "artist": "下川みくに",
+  "collection": "AZKi歌切 2026年08月30日23点场 深夜舒缓地唱歌🌙【ホロライブ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hh1dYFEBY?p=10",
+  "source": "azki.js"
+},
+    {
+  "title": "ウンディーネ",
+  "artist": "牧野由依",
+  "collection": "AZKi歌切 2026年08月30日23点场 深夜舒缓地唱歌🌙【ホロライブ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hh1dYFEBY?p=11",
   "source": "azki.js"
 }
 );

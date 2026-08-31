@@ -1,6 +1,6 @@
 // 天籠りのん - 歌单数据 (多合集汇总)
 // 来源: BV1hw4m1i7qN
-// 生成时间: 8/31/2026, 7:46:18 AM
+// 生成时间: 8/31/2026, 8:31:02 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3355,6 +3355,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-19]3周年纪念日！用最强音质唱歌🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kNbo6TETB?p=6",
+  "source": "linon.js"
+},
+    {
+  "title": "帝国少女",
+  "artist": "R Sound Design feat.初音ミク",
+  "collection": "【歌切】[2026-08-30]融入夜色歌回接力｜最高音质×夜歌×最恐怖VSinger🌙🎶【天籠りのん / Sony Music VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B3tt62Een?p=1",
+  "source": "linon.js"
+},
+    {
+  "title": "余花にみとれて",
+  "artist": "keeno feat.初音ミク",
+  "collection": "【歌切】[2026-08-30]融入夜色歌回接力｜最高音质×夜歌×最恐怖VSinger🌙🎶【天籠りのん / Sony Music VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B3tt62Een?p=2",
+  "source": "linon.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "koyori(電ポルP) feat.初音ミク",
+  "collection": "【歌切】[2026-08-30]融入夜色歌回接力｜最高音质×夜歌×最恐怖VSinger🌙🎶【天籠りのん / Sony Music VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B3tt62Een?p=3",
+  "source": "linon.js"
+},
+    {
+  "title": "世田谷ナイトサファリ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-08-30]融入夜色歌回接力｜最高音质×夜歌×最恐怖VSinger🌙🎶【天籠りのん / Sony Music VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B3tt62Een?p=4",
+  "source": "linon.js"
+},
+    {
+  "title": "トレモロ",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-08-30]融入夜色歌回接力｜最高音质×夜歌×最恐怖VSinger🌙🎶【天籠りのん / Sony Music VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B3tt62Een?p=5",
   "source": "linon.js"
 }
 );
