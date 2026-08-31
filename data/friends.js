@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 8/31/2026, 9:29:16 AM
+// 生成时间: 8/31/2026, 11:06:11 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3963,6 +3963,86 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-08-24 与稀羽すう联动歌回周第8天！Starlight Session 陽月るるふ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Bth36rE3r?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "Blazing Out",
+  "artist": "松永依織",
+  "collection": "鈴鳴すばる（まりなす）歌切 2026-08-28 🍸🐶⚠全力原声歌回！！！与松永依織联动【#いおすばの歌】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7th6gEvB?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "Tiger",
+  "artist": "HANA",
+  "collection": "鈴鳴すばる（まりなす）歌切 2026-08-28 🍸🐶⚠全力原声歌回！！！与松永依織联动【#いおすばの歌】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7th6gEvB?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "PAIN IS BEAUTY",
+  "artist": "ちゃんみな",
+  "collection": "鈴鳴すばる（まりなす）歌切 2026-08-28 🍸🐶⚠全力原声歌回！！！与松永依織联动【#いおすばの歌】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7th6gEvB?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "Never Grow Up",
+  "artist": "ちゃんみな",
+  "collection": "鈴鳴すばる（まりなす）歌切 2026-08-28 🍸🐶⚠全力原声歌回！！！与松永依織联动【#いおすばの歌】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7th6gEvB?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "ツキミソウ",
+  "artist": "Novelbright",
+  "collection": "鈴鳴すばる（まりなす）歌切 2026-08-28 🍸🐶⚠全力原声歌回！！！与松永依織联动【#いおすばの歌】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7th6gEvB?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "鈴鳴すばる（まりなす）歌切 2026-08-28 🍸🐶⚠全力原声歌回！！！与松永依織联动【#いおすばの歌】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7th6gEvB?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "あなたのキスを数えましょう ～You were mine～",
+  "artist": "小柳ゆき",
+  "collection": "鈴鳴すばる（まりなす）歌切 2026-08-28 🍸🐶⚠全力原声歌回！！！与松永依織联动【#いおすばの歌】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7th6gEvB?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "鈴鳴すばる（まりなす）歌切 2026-08-28 🍸🐶⚠全力原声歌回！！！与松永依織联动【#いおすばの歌】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7th6gEvB?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "アイノカタチ",
+  "artist": "MISIA feat.HIDE(GReeeeN)",
+  "collection": "鈴鳴すばる（まりなす）歌切 2026-08-28 🍸🐶⚠全力原声歌回！！！与松永依織联动【#いおすばの歌】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7th6gEvB?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "Crazy Rock Girl",
+  "artist": "松永依織",
+  "collection": "鈴鳴すばる（まりなす）歌切 2026-08-28 🍸🐶⚠全力原声歌回！！！与松永依織联动【#いおすばの歌】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7th6gEvB?p=10",
   "source": "friends.js"
 }
 );
