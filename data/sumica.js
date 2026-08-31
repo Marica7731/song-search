@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 8/31/2026, 6:14:30 AM
+// 生成时间: 8/31/2026, 7:04:34 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8347,6 +8347,38 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-08-28]有公告‼️夜晚一起悠闲弹唱到想睡为止⟡.*",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15otx6MEQp?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "酸欠少女",
+  "artist": "さユり",
+  "collection": "【💐🎸歌切】[2026-08-29]你的推是什么味道？歌回接力2｜感受“酸味”的弹唱⁉️要不要来尝一口⟡.*【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nitt68EJj?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "【💐🎸歌切】[2026-08-29]你的推是什么味道？歌回接力2｜感受“酸味”的弹唱⁉️要不要来尝一口⟡.*【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nitt68EJj?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "レモン",
+  "artist": "TOMOO",
+  "collection": "【💐🎸歌切】[2026-08-29]你的推是什么味道？歌回接力2｜感受“酸味”的弹唱⁉️要不要来尝一口⟡.*【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nitt68EJj?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "いじわるさん",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-08-29]你的推是什么味道？歌回接力2｜感受“酸味”的弹唱⁉️要不要来尝一口⟡.*【澄花 / ぷろぶる】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Nitt68EJj?p=4",
   "source": "sumica.js"
 }
 );
