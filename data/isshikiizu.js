@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 8/31/2026, 6:43:32 PM
+// 生成时间: 8/31/2026, 7:39:06 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4315,6 +4315,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-29]让人打起精神🌟乐队歌曲限定🎸歌回🎤非常欢迎初见【一色イズ】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iwth6nEpz?p=26",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "可愛くてごめん",
+  "artist": "HoneyWorks feat.ちゅーたん（CV：早見沙織）",
+  "collection": "【歌切】[2026-08-31]萌系心动歌回接力｜又帅又可爱的一色イズ💘……很少见哦⁉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUtY6dEYm?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "チェリーポップ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-31]萌系心动歌回接力｜又帅又可爱的一色イズ💘……很少见哦⁉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUtY6dEYm?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ",
+  "artist": "MAISONdes feat.花譜,ツミキ",
+  "collection": "【歌切】[2026-08-31]萌系心动歌回接力｜又帅又可爱的一色イズ💘……很少见哦⁉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUtY6dEYm?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "とくべチュ、して",
+  "artist": "＝LOVE",
+  "collection": "【歌切】[2026-08-31]萌系心动歌回接力｜又帅又可爱的一色イズ💘……很少见哦⁉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUtY6dEYm?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "おじゃま虫",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-31]萌系心动歌回接力｜又帅又可爱的一色イズ💘……很少见哦⁉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eUtY6dEYm?p=5",
   "source": "isshikiizu.js"
 }
 );
