@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 9/1/2026, 5:30:44 AM
+// 生成时间: 9/1/2026, 8:55:01 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2435,6 +2435,38 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-26]周三过半！用歌声为大家送上元气！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ek8f6CEEe?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-09-01]9月第一次歌回！已经入秋了吧……？！ｗ 緋那ちび",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zAt56yE9L?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "季節と私の話。",
+  "artist": "めいちゃん",
+  "collection": "【歌切】[2026-09-01]9月第一次歌回！已经入秋了吧……？！ｗ 緋那ちび",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zAt56yE9L?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "8.32",
+  "artist": "*Luna feat.flower",
+  "collection": "【歌切】[2026-09-01]9月第一次歌回！已经入秋了吧……？！ｗ 緋那ちび",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zAt56yE9L?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "八月のレイニー",
+  "artist": "はるまきごはん feat.初音ミク",
+  "collection": "【歌切】[2026-09-01]9月第一次歌回！已经入秋了吧……？！ｗ 緋那ちび",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zAt56yE9L?p=4",
   "source": "hinachibi.js"
 }
 );
