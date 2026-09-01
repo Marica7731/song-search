@@ -1,0 +1,50 @@
+name: Export CULUA CSV
+on:
+  push:
+    branches:
+      - tmp-export-culua-csv
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Export CSV
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const vm = require('vm');
+          const code = fs.readFileSync('data/culua.js', 'utf8');
+          const sandbox = { window: {} };
+          vm.createContext(sandbox);
+          vm.runInContext(code, sandbox);
+          const rows = sandbox.window.SONG_DATA || [];
+          const esc = v => { const s=String(v??''); return /[",\n\r]/.test(s) ? '"'+s.replace(/"/g,'""')+'"' : s; };
+          const headers=['no','title','artist','collection','date','up','bvid','p','link','source'];
+          const out=[headers.join(',')];
+          rows.forEach((r,i)=>{
+            const link=String(r.link||'');
+            const bvid=(link.match(/\/video\/(BV[0-9A-Za-z]+)/)||[,''])[1];
+            const p=(link.match(/[?&]p=(\d+)/)||[,''])[1];
+            const c=String(r.collection||'');
+            const date=(c.match(/\[(\d{4}-\d{2}-\d{2})\]/)||c.match(/(\d{4}-\d{2}-\d{2})/)||[,''])[1];
+            out.push([i+1,r.title,r.artist,r.collection,date,r.up,bvid,p,r.link,r.source].map(esc).join(','));
+          });
+          fs.writeFileSync('culua_all.csv','\uFEFF'+out.join('\n'),'utf8');
+          console.log(`ROWS=${rows.length}`);
+          if(rows.length<574) process.exit(2);
+          NODE
+      - name: Verify
+        run: |
+          python - <<'PY'
+          import csv
+          with open('culua_all.csv', encoding='utf-8-sig', newline='') as f:
+              rows=list(csv.DictReader(f))
+          print('CSV_ROWS=', len(rows))
+          assert len(rows) >= 574
+          assert rows[0]['title'] and rows[-1]['title']
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: culua-csv
+          path: culua_all.csv
+          if-no-files-found: error
