@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 9/1/2026, 3:13:40 PM
+// 生成时间: 9/2/2026, 9:58:21 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8947,6 +8947,254 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-28]动漫歌曲｜回家路上绕个路的时间也很重要【茨むあん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Qtx6rEyM?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "星が瞬くこんな夜に",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "あなぐらぐらし",
+  "artist": "きくお feat.初音ミク",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス feat.可不",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "平行線",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "IGNITE",
+  "artist": "藍井エイル",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アポロ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "AIZO",
+  "artist": "King Gnu",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ANIMA",
+  "artist": "ReoNa",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "8.32",
+  "artist": "*Luna feat.flower",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "撫でんな",
+  "artist": "柊マグネタイト feat.可不",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ソワレ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "secret base 〜君がくれたもの〜",
+  "artist": "ZONE",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "from Y to Y",
+  "artist": "ジミーサムP feat.初音ミク",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ハッピーエンドで眠らせて",
+  "artist": "茨むあん",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Sanity",
+  "artist": "茨むあん",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat.初音ミク",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=26",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "さよーならまたいつか！",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=27",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太 feat.歌愛ユキ",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=28",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "今宵、月が見えずとも",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=29",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "夢であるように",
+  "artist": "DEEN",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=30",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "眠り姫",
+  "artist": "茨むあん",
+  "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=31",
   "source": "ibaramuan.js"
 }
 );

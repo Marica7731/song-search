@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 9/1/2026, 7:44:49 AM
+// 生成时间: 9/2/2026, 9:44:10 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4043,6 +4043,54 @@ window.SONG_DATA.push(
   "collection": "鈴鳴すばる（まりなす）歌切 2026-08-28 🍸🐶⚠全力原声歌回！！！与松永依織联动【#いおすばの歌】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1T7th6gEvB?p=10",
+  "source": "friends.js"
+},
+    {
+  "title": "ANIMA",
+  "artist": "ReoNa",
+  "collection": "联动歌切 2026-08-08 有超重大公告！！NiBOSHI生日3D Live 🎂🐈 NiBOSHI🪐💜-にぼし-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ynt56AEFz?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "联动歌切 2026-08-08 有超重大公告！！NiBOSHI生日3D Live 🎂🐈 NiBOSHI🪐💜-にぼし-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ynt56AEFz?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "逆光のフリューゲル",
+  "artist": "ツヴァイウィング",
+  "collection": "联动歌切 2026-08-08 有超重大公告！！NiBOSHI生日3D Live 🎂🐈 NiBOSHI🪐💜-にぼし-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ynt56AEFz?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "联动歌切 2026-08-08 有超重大公告！！NiBOSHI生日3D Live 🎂🐈 NiBOSHI🪐💜-にぼし-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ynt56AEFz?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "Meowlaxy Girl",
+  "artist": "NiBOSHI",
+  "collection": "联动歌切 2026-08-08 有超重大公告！！NiBOSHI生日3D Live 🎂🐈 NiBOSHI🪐💜-にぼし-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ynt56AEFz?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "戦場の華",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "联动歌切 2026-08-08 有超重大公告！！NiBOSHI生日3D Live 🎂🐈 NiBOSHI🪐💜-にぼし-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ynt56AEFz?p=6",
   "source": "friends.js"
 }
 );

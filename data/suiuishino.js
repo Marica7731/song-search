@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 9/1/2026, 3:49:26 AM
+// 生成时间: 9/2/2026, 10:04:35 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3246,19 +3246,11 @@ window.SONG_DATA.push(
   "source": "suiuishino.js"
 },
     {
-  "title": "恋人失格",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=1",
-  "source": "suiuishino.js"
-},
-    {
   "title": "光芒",
   "artist": "Hakubi",
   "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=2",
+  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=1",
   "source": "suiuishino.js"
 },
     {
@@ -3266,7 +3258,7 @@ window.SONG_DATA.push(
   "artist": "TOKOTOKO(西沢さんP) feat.初音ミク",
   "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=3",
+  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=2",
   "source": "suiuishino.js"
 },
     {
@@ -3274,7 +3266,7 @@ window.SONG_DATA.push(
   "artist": "椎名林檎",
   "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=4",
+  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=3",
   "source": "suiuishino.js"
 },
     {
@@ -3282,7 +3274,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=5",
+  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=4",
   "source": "suiuishino.js"
 },
     {
@@ -3290,7 +3282,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=6",
+  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=5",
   "source": "suiuishino.js"
 },
     {
@@ -3298,7 +3290,7 @@ window.SONG_DATA.push(
   "artist": "YOASOBI",
   "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=7",
+  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=6",
   "source": "suiuishino.js"
 },
     {
@@ -3306,7 +3298,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=8",
+  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=7",
   "source": "suiuishino.js"
 },
     {
@@ -3314,7 +3306,7 @@ window.SONG_DATA.push(
   "artist": "supercell",
   "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=9",
+  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=8",
   "source": "suiuishino.js"
 },
     {
@@ -3322,7 +3314,7 @@ window.SONG_DATA.push(
   "artist": "aiko",
   "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=10",
+  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=9",
   "source": "suiuishino.js"
 },
     {
@@ -3330,7 +3322,7 @@ window.SONG_DATA.push(
   "artist": "もさを。",
   "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=11",
+  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=10",
   "source": "suiuishino.js"
 },
     {
@@ -3338,7 +3330,7 @@ window.SONG_DATA.push(
   "artist": "ヨルシカ",
   "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=12",
+  "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=11",
   "source": "suiuishino.js"
 }
 );
