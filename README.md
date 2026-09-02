@@ -50,6 +50,7 @@
 - 探针状态按 `来源文件 + 入口 BV` 保存历史 winner 和当轮播放量，用于异常回退比较，不参与候选排序。
 - 同一来源配置的任一入口 BV 失败时，本轮保留已有 `data/<source>.js`，不再用其余入口的部分结果覆盖完整来源。
 - 即使所有入口都返回成功，单来源同时减少至少 100 首且回退达到 15% 时也拒绝覆盖；可用 `MIN_SOURCE_DROP_SONGS` 和 `MAX_SOURCE_DROP_RATIO` 调整门禁。
+- 候选结果必须覆盖旧文件中每个 `BV + 分P` 身份，等量替换或小幅残缺也会保留旧文件；人工确认确需删除旧身份时，仅在本地单次运行设置 `ALLOW_SOURCE_SHRINK=1`，workflow 不设置此变量。
 - B 站 view API 请求使用视频页 `Referer`、`Origin` 和内容协商头，不伪造浏览器 `User-Agent`；如果本轮所有来源都失败，脚本以非零状态退出，Action 不再把 `0/N` 空刷新显示为成功。
 - 仅 GitHub Pages 数据生成使用这套探针逻辑，culua 侧配置和运行方式不受影响。
 - 产物：
@@ -99,6 +100,7 @@ UPDATE_SONGS_ONLY='toka10summer' node scripts/update-songs.js
 常用运行变量：
 - `MAX_SOURCE_DROP_RATIO`：允许单来源回退的比例门槛，默认 `0.15`
 - `MIN_SOURCE_DROP_SONGS`：触发大幅回退门禁的最少减少曲目数，默认 `100`
+- `ALLOW_SOURCE_SHRINK`：人工确认来源确实删减时使用的单次本地覆盖开关，仅值 `1` 生效；workflow 禁止设置
 - `UPDATE_SONGS_ONLY`：本地调试用来源过滤，workflow 不设置
 
 在项目根目录启动 HTTP 服务：

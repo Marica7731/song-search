@@ -8,6 +8,71 @@ function countStoredSongs(content) {
     return matches ? matches.length : 0;
 }
 
+function parseStoredSongs(content) {
+    const text = String(content || '');
+    if (!text.trim()) return [];
+
+    const marker = 'window.SONG_DATA.push(';
+    const payloadStart = text.indexOf(marker);
+    const payloadEnd = text.lastIndexOf(');');
+    if (payloadStart < 0 || payloadEnd < payloadStart + marker.length) {
+        throw new Error('旧来源文件格式无法识别');
+    }
+
+    const payload = text.slice(payloadStart + marker.length, payloadEnd).trim();
+    if (!payload) return [];
+    const songs = JSON.parse(`[${payload}]`);
+    if (!Array.isArray(songs)) throw new Error('旧来源曲目不是数组');
+    return songs;
+}
+
+function getSongIdentity(link) {
+    const text = String(link || '').trim();
+    const match = text.match(/\/video\/(BV[0-9A-Za-z]+)(?:[/?#]|$)/);
+    if (!match) return '';
+
+    let page = 1;
+    try {
+        const parsedPage = Number.parseInt(new URL(text).searchParams.get('p') || '1', 10);
+        if (Number.isInteger(parsedPage) && parsedPage > 0) page = parsedPage;
+    } catch (_) {
+        return '';
+    }
+    return `${match[1]}?p=${page}`;
+}
+
+function assertCandidateCoversExisting({
+    alias,
+    existingContent,
+    nextSongs,
+    allowSourceShrink = false
+}) {
+    if (allowSourceShrink || !String(existingContent || '').trim()) return;
+
+    let existingSongs;
+    try {
+        existingSongs = parseStoredSongs(existingContent);
+    } catch (err) {
+        throw new Error(`${String(alias || 'unknown')} 旧来源文件解析失败：${err.message}；保留旧文件`);
+    }
+
+    const existingIdentities = new Set(existingSongs.map(song => getSongIdentity(song?.link)).filter(Boolean));
+    const nextIdentities = new Set(
+        (Array.isArray(nextSongs) ? nextSongs : []).map(song => getSongIdentity(song?.link)).filter(Boolean)
+    );
+    if (existingSongs.length > 0 && existingIdentities.size === 0) {
+        throw new Error(`${String(alias || 'unknown')} 旧来源文件没有可识别的 BV+分P 身份；保留旧文件`);
+    }
+
+    const missing = Array.from(existingIdentities).filter(identity => !nextIdentities.has(identity));
+    if (missing.length > 0) {
+        throw new Error(
+            `${String(alias || 'unknown')} 候选缺少 ${missing.length}/${existingIdentities.size} 个旧 BV+分P 身份：` +
+            `${missing.slice(0, 3).join(', ')}；保留旧文件`
+        );
+    }
+}
+
 function getReliableWinner(entryState, candidatePool) {
     const candidates = new Set(Array.isArray(candidatePool) ? candidatePool : []);
     const recentRuns = Array.isArray(entryState?.recentRuns) ? entryState.recentRuns : [];
@@ -68,8 +133,10 @@ function assertSourceRefreshSafe({
 module.exports = {
     DEFAULT_MAX_DROP_RATIO,
     DEFAULT_MIN_DROP_SONGS,
+    assertCandidateCoversExisting,
     assertSourceRefreshSafe,
     assertRunMadeProgress,
     countStoredSongs,
+    getSongIdentity,
     getReliableWinner
 };

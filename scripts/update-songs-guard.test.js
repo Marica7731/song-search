@@ -3,11 +3,20 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
 const {
+    assertCandidateCoversExisting,
     assertRunMadeProgress,
     assertSourceRefreshSafe,
     countStoredSongs,
     getReliableWinner
 } = require('./update-songs-guard');
+
+function buildStoredSongs(songs) {
+    return [
+        '// generated source data',
+        'window.SONG_DATA = window.SONG_DATA || [];',
+        `window.SONG_DATA.push(${songs.map(song => JSON.stringify(song)).join(',')});`
+    ].join('\n');
+}
 
 test('rejects a run when every selected source failed', () => {
     assert.throws(
@@ -75,5 +84,52 @@ test('allows a small correction and first generation', () => {
         failedBvids: [],
         previousCount: 0,
         nextCount: 20
+    }));
+});
+
+test('rejects an equal-sized candidate that replaces an existing BV and page', () => {
+    const existingContent = buildStoredSongs([
+        { title: 'old 1', link: 'https://www.bilibili.com/video/BV1oldSource?p=1' },
+        { title: 'old 2', link: 'https://www.bilibili.com/video/BV1oldSource?p=2' }
+    ]);
+    const nextSongs = [
+        { title: 'old 1', link: 'https://www.bilibili.com/video/BV1oldSource?p=1' },
+        { title: 'replacement', link: 'https://www.bilibili.com/video/BV1newSource?p=1' }
+    ];
+
+    assert.throws(() => assertCandidateCoversExisting({
+        alias: '来源',
+        existingContent,
+        nextSongs
+    }), /缺少 1\/2 个旧 BV\+分P 身份.*BV1oldSource\?p=2.*保留旧文件/);
+});
+
+test('allows reordered existing identities and additions', () => {
+    const existingContent = buildStoredSongs([
+        { title: 'old 1', link: 'https://www.bilibili.com/video/BV1sameSource?p=1' },
+        { title: 'old 2', link: 'https://www.bilibili.com/video/BV1sameSource?p=2' }
+    ]);
+
+    assert.doesNotThrow(() => assertCandidateCoversExisting({
+        alias: '来源',
+        existingContent,
+        nextSongs: [
+            { title: 'old 2 renamed', link: 'https://www.bilibili.com/video/BV1sameSource?p=2' },
+            { title: 'new', link: 'https://www.bilibili.com/video/BV1sameSource?p=3' },
+            { title: 'old 1', link: 'https://www.bilibili.com/video/BV1sameSource?p=1' }
+        ]
+    }));
+});
+
+test('allows an explicit local source shrink override', () => {
+    const existingContent = buildStoredSongs([
+        { title: 'old', link: 'https://www.bilibili.com/video/BV1manualFix?p=1' }
+    ]);
+
+    assert.doesNotThrow(() => assertCandidateCoversExisting({
+        alias: '来源',
+        existingContent,
+        nextSongs: [],
+        allowSourceShrink: true
     }));
 });

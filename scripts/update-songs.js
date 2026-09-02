@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const { cleanSongTitle } = require('./title-cleaning');
 const {
+    assertCandidateCoversExisting,
     assertRunMadeProgress,
     assertSourceRefreshSafe,
     countStoredSongs,
@@ -32,6 +33,7 @@ const DEFAULT_ARTIST_TEXT = '来源处未提供标准格式歌手';
 const SPECIAL_BRACKET_ARTIST_SET = new Set(['[Alexandros]', '[ALEXANDROS]']);
 const LEADING_SOURCE_REGEX = /^(?:\s*【[^】]+】)+\s*/;
 const SOURCE_PROFILE_PATH = path.join(__dirname, 'source-profiles.json');
+const ALLOW_SOURCE_SHRINK = process.env.ALLOW_SOURCE_SHRINK === '1';
 
 function stringHash(value) {
     let hash = 0;
@@ -583,9 +585,8 @@ async function processSinger(config, samplingState) {
 
     allSongs = dedupeSongs(allSongs);
     const outputPath = path.join(DATA_DIR, `${resolvedFile}.js`);
-    const previousCount = fs.existsSync(outputPath)
-        ? countStoredSongs(fs.readFileSync(outputPath, 'utf8'))
-        : 0;
+    const previousContent = fs.existsSync(outputPath) ? fs.readFileSync(outputPath, 'utf8') : '';
+    const previousCount = countStoredSongs(previousContent);
 
     assertSourceRefreshSafe({
         alias,
@@ -595,6 +596,12 @@ async function processSinger(config, samplingState) {
         nextCount: allSongs.length,
         maxDropRatio: MAX_SOURCE_DROP_RATIO,
         minDropSongs: MIN_SOURCE_DROP_SONGS
+    });
+    assertCandidateCoversExisting({
+        alias,
+        existingContent: previousContent,
+        nextSongs: allSongs,
+        allowSourceShrink: ALLOW_SOURCE_SHRINK
     });
 
     successfulRunRecords.forEach(run => {
