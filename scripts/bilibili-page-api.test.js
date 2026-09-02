@@ -3,6 +3,7 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
 const {
+    buildBiliRequestHeaders,
     loadBiliCollectionCandidates,
     loadBiliPageList,
     parseBiliCollectionCandidates,
@@ -101,7 +102,9 @@ test('loads metadata with Bilibili request headers', async () => {
     });
 
     assert.match(request.url, /view\?bvid=BV1request$/);
-    assert.equal(request.options.headers.Referer, 'https://www.bilibili.com/');
+    assert.deepEqual(request.options.headers, buildBiliRequestHeaders('BV1request'));
+    assert.equal(request.options.headers.Referer, 'https://www.bilibili.com/video/BV1request');
+    assert.equal(Object.hasOwn(request.options.headers, 'User-Agent'), false);
     assert.equal(rawData[0].parts.length, 1);
 });
 

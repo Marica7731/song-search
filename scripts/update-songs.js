@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const { cleanSongTitle } = require('./title-cleaning');
 const {
+    assertRunMadeProgress,
     assertSourceRefreshSafe,
     countStoredSongs,
     getReliableWinner
@@ -659,6 +660,7 @@ async function main() {
         saveSamplingState(samplingState);
         await new Promise(resolve => setTimeout(resolve, 2000));
     }
+    assertRunMadeProgress(successCount, configsToProcess.length);
     generateIndexJson();
     saveSamplingState(samplingState);
     console.log("\n========================================");

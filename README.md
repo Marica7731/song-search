@@ -50,6 +50,7 @@
 - 探针状态按 `来源文件 + 入口 BV` 保存历史 winner 和当轮播放量，用于异常回退比较，不参与候选排序。
 - 同一来源配置的任一入口 BV 失败时，本轮保留已有 `data/<source>.js`，不再用其余入口的部分结果覆盖完整来源。
 - 即使所有入口都返回成功，单来源同时减少至少 100 首且回退达到 15% 时也拒绝覆盖；可用 `MIN_SOURCE_DROP_SONGS` 和 `MAX_SOURCE_DROP_RATIO` 调整门禁。
+- B 站 view API 请求使用视频页 `Referer`、`Origin` 和内容协商头，不伪造浏览器 `User-Agent`；如果本轮所有来源都失败，脚本以非零状态退出，Action 不再把 `0/N` 空刷新显示为成功。
 - 仅 GitHub Pages 数据生成使用这套探针逻辑，culua 侧配置和运行方式不受影响。
 - 产物：
   - `data/*.js`
@@ -65,6 +66,7 @@
   - 通过 Actions cache 恢复 `reports/github-bv-sampling-state.json`
   - 先运行门禁、多 P API 和标题清洗回归测试
   - 运行 `scripts/update-songs.js`
+  - 如果全部来源都刷新失败则直接失败，保留旧数据并暴露真实 Action 状态
   - 只检查 `data/*.js` 和 `data/index.json` 是否有变更
   - 更新工作流不设置并发组，每次分发都会完整扫描全部来源；多轮可以重叠
   - 自动提交 `data/*.js data/index.json` 到 `main`；如果抓取期间远端 `main` 已前进，则跳过过期生成结果并以成功结束，下一轮基于最新提交重跑
@@ -181,4 +183,3 @@ song-search/
 | 2026-08-19 | 38280 | <span style="color:#28a745;">+109</span> |
 | 2026-08-18 | 38171 | <span style="color:#dc3545;">-1258</span> |
 <!-- SONG_GROWTH_END -->
-

@@ -1,11 +1,24 @@
 'use strict';
 
 const BILI_VIEW_API = 'https://api.bilibili.com/x/web-interface/view?bvid=';
+const BILI_VIDEO_PREFIX = 'https://www.bilibili.com/video/';
 const BV_REGEX = /BV[0-9a-zA-Z]+/;
 
 function normalizeBvid(value) {
     const matched = String(value || '').match(BV_REGEX);
     return matched?.[0] || '';
+}
+
+function buildBiliRequestHeaders(bvid) {
+    const normalizedBvid = normalizeBvid(bvid);
+    return {
+        Accept: 'application/json, text/plain, */*',
+        'Accept-Language': 'zh-CN,zh;q=0.9',
+        Origin: 'https://www.bilibili.com',
+        Referer: normalizedBvid
+            ? `${BILI_VIDEO_PREFIX}${encodeURIComponent(normalizedBvid)}`
+            : 'https://www.bilibili.com/'
+    };
 }
 
 function assertBiliViewPayload(payload) {
@@ -92,10 +105,7 @@ async function loadBiliViewPayload(bvid, options = {}) {
     try {
         const endpoint = options.endpoint || BILI_VIEW_API;
         const response = await fetchImpl(`${endpoint}${encodeURIComponent(normalizedBvid)}`, {
-            headers: {
-                'User-Agent': 'Mozilla/5.0',
-                Referer: 'https://www.bilibili.com/'
-            },
+            headers: buildBiliRequestHeaders(normalizedBvid),
             signal: controller.signal
         });
         if (!response?.ok) {
@@ -120,6 +130,7 @@ async function loadBiliCollectionCandidates(bvid, options = {}) {
 }
 
 module.exports = {
+    buildBiliRequestHeaders,
     loadBiliCollectionCandidates,
     loadBiliPageList,
     loadBiliViewPayload,

@@ -3,10 +3,20 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
 const {
+    assertRunMadeProgress,
     assertSourceRefreshSafe,
     countStoredSongs,
     getReliableWinner
 } = require('./update-songs-guard');
+
+test('rejects a run when every selected source failed', () => {
+    assert.throws(
+        () => assertRunMadeProgress(0, 63),
+        /全部来源刷新失败：0\/63/
+    );
+    assert.doesNotThrow(() => assertRunMadeProgress(1, 63));
+    assert.doesNotThrow(() => assertRunMadeProgress(0, 0));
+});
 
 test('counts only generated song title fields', () => {
     const content = [

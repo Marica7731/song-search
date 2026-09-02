@@ -25,6 +25,14 @@ function getReliableWinner(entryState, candidatePool) {
     return best;
 }
 
+function assertRunMadeProgress(successCount, totalCount) {
+    const succeeded = Number(successCount) || 0;
+    const total = Number(totalCount) || 0;
+    if (total > 0 && succeeded === 0) {
+        throw new Error(`本轮全部来源刷新失败：0/${total}；拒绝把空刷新标记为成功`);
+    }
+}
+
 function assertSourceRefreshSafe({
     alias,
     configuredBvids,
@@ -61,6 +69,7 @@ module.exports = {
     DEFAULT_MAX_DROP_RATIO,
     DEFAULT_MIN_DROP_SONGS,
     assertSourceRefreshSafe,
+    assertRunMadeProgress,
     countStoredSongs,
     getReliableWinner
 };
