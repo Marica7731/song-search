@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 9/3/2026, 9:13:24 PM
+// 生成时间: 9/3/2026, 10:13:22 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3331,6 +3331,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "愛言葉Ⅳ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ナチュラルに恋して",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "君が思い出になる前に",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "あの夏に咲け",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "私、アイドル宣言",
+  "artist": "HoneyWorks feat.初音ミク",
+  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat.安次嶺希和子",
+  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "15の言葉",
+  "artist": "阿部真央",
+  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "嘘",
+  "artist": "シド",
+  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "8.8",
+  "artist": "あたらよ",
+  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ヘビースモーク",
+  "artist": "にしな",
+  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "back number",
+  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ここでキスして。",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Wind",
+  "artist": "Akeboshi",
+  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=15",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "A Thousand Miles",
+  "artist": "Vanessa Carlton",
+  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=16",
   "source": "suiuishino.js"
 }
 );

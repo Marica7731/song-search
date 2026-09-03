@@ -1,6 +1,6 @@
 // CULUA - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp
-// 生成时间: 9/3/2026, 9:07:31 PM
+// 生成时间: 9/3/2026, 10:07:08 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4595,6 +4595,70 @@ window.SONG_DATA.push(
   "collection": "【🦇歌切】[2026-08-31]出新歌了｜舒缓的歌单第37弹【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dUtY6dEsT?p=9",
+  "source": "culua.js"
+},
+    {
+  "title": "HELLO～Paradise Kiss～",
+  "artist": "YUI",
+  "collection": "【🦇歌切】[2026-09-03]歌回｜CULUA的歌单第36弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eEze?p=1",
+  "source": "culua.js"
+},
+    {
+  "title": "きゅうくらりん",
+  "artist": "いよわ feat.可不",
+  "collection": "【🦇歌切】[2026-09-03]歌回｜CULUA的歌单第36弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eEze?p=2",
+  "source": "culua.js"
+},
+    {
+  "title": "気になるあの娘",
+  "artist": "相対性理論",
+  "collection": "【🦇歌切】[2026-09-03]歌回｜CULUA的歌单第36弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eEze?p=3",
+  "source": "culua.js"
+},
+    {
+  "title": "ヨワネハキ",
+  "artist": "MAISONdes feat.和ぬか,asmi",
+  "collection": "【🦇歌切】[2026-09-03]歌回｜CULUA的歌单第36弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eEze?p=4",
+  "source": "culua.js"
+},
+    {
+  "title": "寄り酔い",
+  "artist": "和ぬか",
+  "collection": "【🦇歌切】[2026-09-03]歌回｜CULUA的歌单第36弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eEze?p=5",
+  "source": "culua.js"
+},
+    {
+  "title": "(恋は)百年戦争",
+  "artist": "相対性理論",
+  "collection": "【🦇歌切】[2026-09-03]歌回｜CULUA的歌单第36弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eEze?p=6",
+  "source": "culua.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "【🦇歌切】[2026-09-03]歌回｜CULUA的歌单第36弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eEze?p=7",
+  "source": "culua.js"
+},
+    {
+  "title": "君がくれた夏",
+  "artist": "家入レオ",
+  "collection": "【🦇歌切】[2026-09-03]歌回｜CULUA的歌单第36弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eEze?p=8",
   "source": "culua.js"
 }
 );

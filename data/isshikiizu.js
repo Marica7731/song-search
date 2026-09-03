@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 9/3/2026, 9:11:10 PM
+// 生成时间: 9/3/2026, 10:11:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4355,6 +4355,214 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-31]萌系心动歌回接力｜又帅又可爱的一色イズ💘……很少见哦⁉",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eUtY6dEYm?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ムーンライト伝説",
+  "artist": "DALI",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "前前前世",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(CV.平野綾)",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "青空のラプソディ",
+  "artist": "fhána",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "一度だけの恋なら",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n/中島愛",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "MEMORIA",
+  "artist": "藍井エイル",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "oath sign",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Rising Hope",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "表裏一体",
+  "artist": "ゆず",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ジョジョ ～その血の運命～",
+  "artist": "富永TOMMY弘明",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Meteor -ミーティア-",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "INVOKE -インヴォーク-",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Snow halation",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=22",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=23",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "そばかす",
+  "artist": "JUDY AND MARY",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=24",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Catch the Moment",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=25",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=26",
   "source": "isshikiizu.js"
 }
 );
