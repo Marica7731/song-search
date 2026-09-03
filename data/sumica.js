@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 9/3/2026, 7:40:59 AM
+// 生成时间: 9/3/2026, 9:13:14 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7526,7 +7526,7 @@ window.SONG_DATA.push(
   "source": "sumica.js"
 },
     {
-  "title": "「KissHug」",
+  "title": "KissHug",
   "artist": "aiko",
   "collection": "【💐🎸歌切】[2026-08-07]周五辛苦啦🎐用心献唱～￤澄花 / ぷろぶる",
   "up": "前尘往事如昔故",
