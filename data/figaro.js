@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 9/3/2026, 9:30:58 PM
+// 生成时间: 9/3/2026, 10:29:31 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -34363,6 +34363,118 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-08-30]助眠歌回✨睡前来听吧🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MYtt6aErJ?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【💐歌切】[2026-09-02]歌回｜还是好热啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZbF6vEBf?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "ヒューマノイド",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【💐歌切】[2026-09-02]歌回｜还是好热啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZbF6vEBf?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "カガリビト",
+  "artist": "millstones feat.初音ミク",
+  "collection": "【💐歌切】[2026-09-02]歌回｜还是好热啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZbF6vEBf?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "アンインストール",
+  "artist": "石川智晶",
+  "collection": "【💐歌切】[2026-09-02]歌回｜还是好热啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZbF6vEBf?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【💐歌切】[2026-09-02]歌回｜还是好热啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZbF6vEBf?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "幻影",
+  "artist": "はるまきごはん feat.初音ミク",
+  "collection": "【💐歌切】[2026-09-02]歌回｜还是好热啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZbF6vEBf?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "ディナーベル",
+  "artist": "はるまきごはん feat.初音ミク",
+  "collection": "【💐歌切】[2026-09-02]歌回｜还是好热啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZbF6vEBf?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "愛のけだもの",
+  "artist": "神はサイコロを振らない × キタニタツヤ",
+  "collection": "【💐歌切】[2026-09-02]歌回｜还是好热啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZbF6vEBf?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "悪魔の踊り方",
+  "artist": "こんにちは谷田さん feat.鏡音リン",
+  "collection": "【💐歌切】[2026-09-02]歌回｜还是好热啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZbF6vEBf?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "ニュームーンに恋して",
+  "artist": "やくしまるえつこ",
+  "collection": "【💐歌切】[2026-09-02]歌回｜还是好热啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZbF6vEBf?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "Brave Shine",
+  "artist": "Aimer",
+  "collection": "【💐歌切】[2026-09-02]歌回｜还是好热啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZbF6vEBf?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "Limbo",
+  "artist": "春野",
+  "collection": "【💐歌切】[2026-09-02]歌回｜还是好热啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZbF6vEBf?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "モルト",
+  "artist": "Lavt",
+  "collection": "【💐歌切】[2026-09-02]歌回｜还是好热啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZbF6vEBf?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【💐歌切】[2026-09-02]歌回｜还是好热啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VZbF6vEBf?p=14",
   "source": "figaro.js"
 }
 );

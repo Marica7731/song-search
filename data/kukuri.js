@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 9/3/2026, 9:27:08 PM
+// 生成时间: 9/3/2026, 10:26:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5915,6 +5915,190 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-08-20]求一个永远的暑假。",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dV8K6DEAv?p=27",
+  "source": "kukuri.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "you",
+  "artist": "癒月",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "back number",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "瞳をとじて",
+  "artist": "平井堅",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "朝が来る前に",
+  "artist": "秦基博",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "側にいて",
+  "artist": "阿部真央",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Faith",
+  "artist": "伊藤由奈",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ナツノハナ",
+  "artist": "JUJU",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "眠れぬ夜は君のせい",
+  "artist": "MISIA",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "オリビアを聴きながら",
+  "artist": "杏里",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Everything",
+  "artist": "MISIA",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "未来予想図Ⅱ",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "M",
+  "artist": "PRINCESS PRINCESS",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "SWEET MEMORIES",
+  "artist": "松田聖子",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Can You Keep A Secret?",
+  "artist": "宇多田ヒカル",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Movin' on without you",
+  "artist": "宇多田ヒカル",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Automatic",
+  "artist": "宇多田ヒカル",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Flavor Of Life",
+  "artist": "宇多田ヒカル",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=21",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Beautiful World",
+  "artist": "宇多田ヒカル",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=22",
+  "source": "kukuri.js"
+},
+    {
+  "title": "One Last Kiss",
+  "artist": "宇多田ヒカル",
+  "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=23",
   "source": "kukuri.js"
 }
 );

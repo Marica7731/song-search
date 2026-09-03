@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 9/3/2026, 9:38:35 PM
+// 生成时间: 9/3/2026, 10:35:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -38891,6 +38891,142 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-09-01]欢迎第一次来的观众！谢谢大家让我拿下冠军！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MAte67Eky?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【🍠🦍歌切】[2026-09-02]歌回｜欢迎初见！九月，晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LZbF6vEqe?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【🍠🦍歌切】[2026-09-02]歌回｜欢迎初见！九月，晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LZbF6vEqe?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "【🍠🦍歌切】[2026-09-02]歌回｜欢迎初见！九月，晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LZbF6vEqe?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍠🦍歌切】[2026-09-02]歌回｜欢迎初见！九月，晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LZbF6vEqe?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "明日への扉",
+  "artist": "I WiSH",
+  "collection": "【🍠🦍歌切】[2026-09-02]歌回｜欢迎初见！九月，晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LZbF6vEqe?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "YUME日和",
+  "artist": "島谷ひとみ",
+  "collection": "【🍠🦍歌切】[2026-09-02]歌回｜欢迎初见！九月，晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LZbF6vEqe?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "小悪魔だってかまわない！",
+  "artist": "HoneyWorks feat.初音ミク",
+  "collection": "【🍠🦍歌切】[2026-09-02]歌回｜欢迎初见！九月，晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LZbF6vEqe?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "とくべチュ、して",
+  "artist": "＝LOVE",
+  "collection": "【🍠🦍歌切】[2026-09-02]歌回｜欢迎初见！九月，晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LZbF6vEqe?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ロマンスの神様",
+  "artist": "広瀬香美",
+  "collection": "【🍠🦍歌切】[2026-09-02]歌回｜欢迎初见！九月，晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LZbF6vEqe?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "イケナイ太陽",
+  "artist": "ORANGE RANGE",
+  "collection": "【🍠🦍歌切】[2026-09-02]歌回｜欢迎初见！九月，晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LZbF6vEqe?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "女々しくて",
+  "artist": "ゴールデンボンバー",
+  "collection": "【🍠🦍歌切】[2026-09-02]歌回｜欢迎初见！九月，晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LZbF6vEqe?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-09-02]歌回｜欢迎初见！九月，晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LZbF6vEqe?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おしえて",
+  "artist": "伊集加代子",
+  "collection": "【🍠🦍歌切】[2026-09-02]歌回｜欢迎初见！九月，晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LZbF6vEqe?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "DISCOTHEQUE",
+  "artist": "水樹奈々",
+  "collection": "【🍠🦍歌切】[2026-09-02]歌回｜欢迎初见！九月，晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LZbF6vEqe?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "旅の途中",
+  "artist": "清浦夏実",
+  "collection": "【🍠🦍歌切】[2026-09-02]歌回｜欢迎初见！九月，晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LZbF6vEqe?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "For フルーツバスケット",
+  "artist": "岡崎律子",
+  "collection": "【🍠🦍歌切】[2026-09-02]歌回｜欢迎初见！九月，晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LZbF6vEqe?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "島のうた",
+  "artist": "島民",
+  "collection": "【🍠🦍歌切】[2026-09-02]歌回｜欢迎初见！九月，晚上好！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LZbF6vEqe?p=17",
   "source": "yoshika.js"
 }
 );

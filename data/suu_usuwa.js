@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 9/3/2026, 9:34:14 PM
+// 生成时间: 9/3/2026, 10:32:49 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -22491,6 +22491,118 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】#146[2026-08-26]周三固定直播：砰～💘",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Hi8f6mE2c?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】#147[2026-09-02]进入9月还是很热……｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fDbF6uE79?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "まつり",
+  "artist": "藤井風",
+  "collection": "【🦢歌切】#147[2026-09-02]进入9月还是很热……｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fDbF6uE79?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "プラスティック・ラブ",
+  "artist": "竹内まりや",
+  "collection": "【🦢歌切】#147[2026-09-02]进入9月还是很热……｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fDbF6uE79?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "雨傘",
+  "artist": "TOKIO",
+  "collection": "【🦢歌切】#147[2026-09-02]进入9月还是很热……｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fDbF6uE79?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "神様、仏様",
+  "artist": "椎名林檎",
+  "collection": "【🦢歌切】#147[2026-09-02]进入9月还是很热……｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fDbF6uE79?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "異端なスター",
+  "artist": "Official髭男dism",
+  "collection": "【🦢歌切】#147[2026-09-02]进入9月还是很热……｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fDbF6uE79?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "チャイナアドバイス",
+  "artist": "相対性理論",
+  "collection": "【🦢歌切】#147[2026-09-02]进入9月还是很热……｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fDbF6uE79?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "【🦢歌切】#147[2026-09-02]进入9月还是很热……｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fDbF6uE79?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ゆーえふおー",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】#147[2026-09-02]进入9月还是很热……｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fDbF6uE79?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ルージュの伝言",
+  "artist": "松任谷由実",
+  "collection": "【🦢歌切】#147[2026-09-02]进入9月还是很热……｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fDbF6uE79?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "やさしさに包まれたなら",
+  "artist": "松任谷由実",
+  "collection": "【🦢歌切】#147[2026-09-02]进入9月还是很热……｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fDbF6uE79?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat.巡音ルカ",
+  "collection": "【🦢歌切】#147[2026-09-02]进入9月还是很热……｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fDbF6uE79?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat.巡音ルカ・GUMI",
+  "collection": "【🦢歌切】#147[2026-09-02]进入9月还是很热……｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fDbF6uE79?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ねぇ",
+  "artist": "Perfume",
+  "collection": "【🦢歌切】#147[2026-09-02]进入9月还是很热……｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fDbF6uE79?p=14",
   "source": "suu_usuwa.js"
 }
 );
