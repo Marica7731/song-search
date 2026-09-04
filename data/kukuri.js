@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 9/3/2026, 10:26:46 PM
+// 生成时间: 9/3/2026, 11:17:53 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6099,6 +6099,174 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-09-03]闻闻，这是秋天的味道🍠歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19ZbF6eE1Q?p=23",
+  "source": "kukuri.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-08-29]八月，已经要结束了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LGbF6KEZB?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-08-29]八月，已经要结束了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LGbF6KEZB?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "いさな",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-08-29]八月，已经要结束了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LGbF6KEZB?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-08-29]八月，已经要结束了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LGbF6KEZB?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-08-29]八月，已经要结束了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LGbF6KEZB?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "【💫✖歌切】[2026-08-29]八月，已经要结束了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LGbF6KEZB?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ボクノート",
+  "artist": "スキマスイッチ",
+  "collection": "【💫✖歌切】[2026-08-29]八月，已经要结束了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LGbF6KEZB?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-08-29]八月，已经要结束了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LGbF6KEZB?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "がらくた",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-08-29]八月，已经要结束了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LGbF6KEZB?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Pale Blue",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-08-29]八月，已经要结束了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LGbF6KEZB?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "海の幽霊",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-08-29]八月，已经要结束了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LGbF6KEZB?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "地球儀",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-08-29]八月，已经要结束了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LGbF6KEZB?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夜鷹",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-08-29]八月，已经要结束了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LGbF6KEZB?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "暁の車",
+  "artist": "FictionJunction YUUKA",
+  "collection": "【💫✖歌切】[2026-08-29]八月，已经要结束了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LGbF6KEZB?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "あんなに一緒だったのに",
+  "artist": "See-Saw",
+  "collection": "【💫✖歌切】[2026-08-29]八月，已经要结束了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LGbF6KEZB?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "君は僕に似ている",
+  "artist": "See-Saw",
+  "collection": "【💫✖歌切】[2026-08-29]八月，已经要结束了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LGbF6KEZB?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "僕たちの行方",
+  "artist": "高橋瞳",
+  "collection": "【💫✖歌切】[2026-08-29]八月，已经要结束了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LGbF6KEZB?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Magia",
+  "artist": "Kalafina",
+  "collection": "【💫✖歌切】[2026-08-29]八月，已经要结束了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LGbF6KEZB?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "oblivious",
+  "artist": "Kalafina",
+  "collection": "【💫✖歌切】[2026-08-29]八月，已经要结束了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LGbF6KEZB?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ARIA",
+  "artist": "Kalafina",
+  "collection": "【💫✖歌切】[2026-08-29]八月，已经要结束了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LGbF6KEZB?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "sprinter",
+  "artist": "Kalafina",
+  "collection": "【💫✖歌切】[2026-08-29]八月，已经要结束了吗？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LGbF6KEZB?p=21",
   "source": "kukuri.js"
 }
 );

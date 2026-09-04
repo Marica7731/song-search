@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 9/3/2026, 10:43:33 PM
+// 生成时间: 9/3/2026, 11:38:54 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8531,6 +8531,174 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-08-27]弹唱｜中午来首歌放松一下怎么样🌞【澄花 / ぷろぶる】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Dbtt6NEbW?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "back number",
+  "collection": "【💐🎸歌切】[2026-09-03]歌回｜边想着暑假最后要做什么边悠缓弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M8bF69EZH?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-09-03]歌回｜边想着暑假最后要做什么边悠缓弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M8bF69EZH?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-09-03]歌回｜边想着暑假最后要做什么边悠缓弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M8bF69EZH?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "幻",
+  "artist": "My Hair is Bad",
+  "collection": "【💐🎸歌切】[2026-09-03]歌回｜边想着暑假最后要做什么边悠缓弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M8bF69EZH?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【💐🎸歌切】[2026-09-03]歌回｜边想着暑假最后要做什么边悠缓弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M8bF69EZH?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "今更だって僕は言うかな",
+  "artist": "Saucy Dog",
+  "collection": "【💐🎸歌切】[2026-09-03]歌回｜边想着暑假最后要做什么边悠缓弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M8bF69EZH?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "BLUE",
+  "artist": "Saucy Dog",
+  "collection": "【💐🎸歌切】[2026-09-03]歌回｜边想着暑假最后要做什么边悠缓弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M8bF69EZH?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "声",
+  "artist": "羊文学",
+  "collection": "【💐🎸歌切】[2026-09-03]歌回｜边想着暑假最后要做什么边悠缓弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M8bF69EZH?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "そういう好き",
+  "artist": "wacci",
+  "collection": "【💐🎸歌切】[2026-09-03]歌回｜边想着暑假最后要做什么边悠缓弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M8bF69EZH?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "人として",
+  "artist": "SUPER BEAVER",
+  "collection": "【💐🎸歌切】[2026-09-03]歌回｜边想着暑假最后要做什么边悠缓弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M8bF69EZH?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "Automatic",
+  "artist": "宇多田ヒカル",
+  "collection": "【💐🎸歌切】[2026-09-03]歌回｜边想着暑假最后要做什么边悠缓弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M8bF69EZH?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "Forevermore",
+  "artist": "宇多田ヒカル",
+  "collection": "【💐🎸歌切】[2026-09-03]歌回｜边想着暑假最后要做什么边悠缓弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M8bF69EZH?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-03]歌回｜边想着暑假最后要做什么边悠缓弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M8bF69EZH?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "キラキラ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-03]歌回｜边想着暑假最后要做什么边悠缓弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M8bF69EZH?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-03]歌回｜边想着暑假最后要做什么边悠缓弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M8bF69EZH?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "いじわるさん",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-03]歌回｜边想着暑假最后要做什么边悠缓弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M8bF69EZH?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "世界はふたり",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-03]歌回｜边想着暑假最后要做什么边悠缓弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M8bF69EZH?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-03]歌回｜边想着暑假最后要做什么边悠缓弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M8bF69EZH?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-03]歌回｜边想着暑假最后要做什么边悠缓弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M8bF69EZH?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-03]歌回｜边想着暑假最后要做什么边悠缓弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M8bF69EZH?p=20",
+  "source": "sumica.js"
+},
+    {
+  "title": "きにぴ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-03]歌回｜边想着暑假最后要做什么边悠缓弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M8bF69EZH?p=21",
   "source": "sumica.js"
 }
 );
