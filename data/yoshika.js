@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 9/6/2026, 2:58:32 AM
+// 生成时间: 9/6/2026, 3:59:33 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -39027,6 +39027,182 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-09-02]歌回｜欢迎初见！九月，晚上好！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LZbF6vEqe?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハイタッチ!",
+  "artist": "サトシ(松本梨香)&ヒカリ(豊口めぐみ)",
+  "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋は渾沌の隷也",
+  "artist": "後ろから這いより隊G",
+  "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "マツケンサンバII",
+  "artist": "松平健",
+  "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子(花澤香菜)",
+  "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "DANZEN!ふたりはプリキュア",
+  "artist": "五條真由美",
+  "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "渡月橋 ～君 想ふ～",
+  "artist": "倉木麻衣",
+  "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Bling-Bang-Bang-Born",
+  "artist": "Creepy Nuts",
+  "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "セーラースターソング",
+  "artist": "花沢加絵",
+  "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "舞台少女心得",
+  "artist": "スタァライト九九組",
+  "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "スタァライトシアター",
+  "artist": "スタァライト九九組",
+  "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "愛言葉III",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Suspect",
+  "artist": "hololive IDOL PROJECT",
+  "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿偉功",
+  "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢の続きへ",
+  "artist": "SURFACE",
+  "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=22",
   "source": "yoshika.js"
 }
 );

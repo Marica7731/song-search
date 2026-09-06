@@ -1,6 +1,6 @@
 // 天籠りのん - 歌单数据 (多合集汇总)
 // 来源: BV1hw4m1i7qN
-// 生成时间: 9/6/2026, 3:01:50 AM
+// 生成时间: 9/6/2026, 4:04:00 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3395,6 +3395,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-30]融入夜色歌回接力｜最高音质×夜歌×最恐怖VSinger🌙🎶【天籠りのん / Sony Music VEE】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B3tt62Een?p=5",
+  "source": "linon.js"
+},
+    {
+  "title": "ユニバーサル・バニー",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-09-05]歌声怎么可能拯救银河嘛┊《超时空要塞F》限定歌回【天籠りのん / Sony Music VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCbn6vELQ?p=1",
+  "source": "linon.js"
+},
+    {
+  "title": "射手座☆午後九時 Don't be late",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-09-05]歌声怎么可能拯救银河嘛┊《超时空要塞F》限定歌回【天籠りのん / Sony Music VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCbn6vELQ?p=2",
+  "source": "linon.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "シェリル・ノーム starring May'n、ランカ・リー=中島愛",
+  "collection": "【歌切】[2026-09-05]歌声怎么可能拯救银河嘛┊《超时空要塞F》限定歌回【天籠りのん / Sony Music VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCbn6vELQ?p=3",
+  "source": "linon.js"
+},
+    {
+  "title": "ノーザンクロス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-09-05]歌声怎么可能拯救银河嘛┊《超时空要塞F》限定歌回【天籠りのん / Sony Music VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCbn6vELQ?p=4",
+  "source": "linon.js"
+},
+    {
+  "title": "ダイアモンド クレバス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-09-05]歌声怎么可能拯救银河嘛┊《超时空要塞F》限定歌回【天籠りのん / Sony Music VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCbn6vELQ?p=5",
+  "source": "linon.js"
+},
+    {
+  "title": "What 'bout my star? @Formo",
+  "artist": "ランカ・リー=中島愛、シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-09-05]歌声怎么可能拯救银河嘛┊《超时空要塞F》限定歌回【天籠りのん / Sony Music VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCbn6vELQ?p=6",
+  "source": "linon.js"
+},
+    {
+  "title": "インフィニティ #7",
+  "artist": "シェリル・ノーム starring May'n、ランカ・リー=中島愛",
+  "collection": "【歌切】[2026-09-05]歌声怎么可能拯救银河嘛┊《超时空要塞F》限定歌回【天籠りのん / Sony Music VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCbn6vELQ?p=7",
+  "source": "linon.js"
+},
+    {
+  "title": "私の彼はパイロット",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "【歌切】[2026-09-05]歌声怎么可能拯救银河嘛┊《超时空要塞F》限定歌回【天籠りのん / Sony Music VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCbn6vELQ?p=8",
+  "source": "linon.js"
+},
+    {
+  "title": "アナタノオト",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "【歌切】[2026-09-05]歌声怎么可能拯救银河嘛┊《超时空要塞F》限定歌回【天籠りのん / Sony Music VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCbn6vELQ?p=9",
+  "source": "linon.js"
+},
+    {
+  "title": "蒼のエーテル",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "【歌切】[2026-09-05]歌声怎么可能拯救银河嘛┊《超时空要塞F》限定歌回【天籠りのん / Sony Music VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCbn6vELQ?p=10",
+  "source": "linon.js"
+},
+    {
+  "title": "放課後オーバーフロウ",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "【歌切】[2026-09-05]歌声怎么可能拯救银河嘛┊《超时空要塞F》限定歌回【天籠りのん / Sony Music VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCbn6vELQ?p=11",
+  "source": "linon.js"
+},
+    {
+  "title": "サヨナラノツバサ ~ the end of triangle",
+  "artist": "シェリル・ノーム starring May'n、ランカ・リー=中島愛",
+  "collection": "【歌切】[2026-09-05]歌声怎么可能拯救银河嘛┊《超时空要塞F》限定歌回【天籠りのん / Sony Music VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JCbn6vELQ?p=12",
   "source": "linon.js"
 }
 );
