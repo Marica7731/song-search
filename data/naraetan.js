@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 9/6/2026, 1:50:01 AM
+// 生成时间: 9/6/2026, 2:50:01 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -13355,6 +13355,486 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "金曜日のおはよう",
+  "artist": "HoneyWorks",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "恋",
+  "artist": "星野源",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ヒトリゴト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Speaking",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "狂乱Hey Kids!!",
+  "artist": "THE ORAL CIGARETTES",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "さよーならまたいつか!",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "LADY",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Flamingo",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "LOSER",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "感電",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "もののけ姫",
+  "artist": "米良美一",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Rubia",
+  "artist": "Zhou Shen",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Sweet Dreams, My Dear",
+  "artist": "SoHyang",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=19",
+  "source": "naraetan.js"
+},
+    {
+  "title": "For フルーツバスケット",
+  "artist": "岡崎律子",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=20",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=21",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Brave Heart",
+  "artist": "宮崎歩",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=22",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ターゲット～赤い衝撃～",
+  "artist": "和田光司",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=23",
+  "source": "naraetan.js"
+},
+    {
+  "title": "FIRE!!",
+  "artist": "和田光司",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=24",
+  "source": "naraetan.js"
+},
+    {
+  "title": "departure!",
+  "artist": "小野正利",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=25",
+  "source": "naraetan.js"
+},
+    {
+  "title": "おはよう。",
+  "artist": "Keno",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=26",
+  "source": "naraetan.js"
+},
+    {
+  "title": "楓",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=27",
+  "source": "naraetan.js"
+},
+    {
+  "title": "オリビアを聴きながら",
+  "artist": "杏里",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=28",
+  "source": "naraetan.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=29",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=30",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=31",
+  "source": "naraetan.js"
+},
+    {
+  "title": "COLORS",
+  "artist": "FLOW",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=32",
+  "source": "naraetan.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=33",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=34",
+  "source": "naraetan.js"
+},
+    {
+  "title": "マイ フレンド",
+  "artist": "ZARD",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=35",
+  "source": "naraetan.js"
+},
+    {
+  "title": "あなただけ見つめてる",
+  "artist": "大黒摩季",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=36",
+  "source": "naraetan.js"
+},
+    {
+  "title": "fragile",
+  "artist": "Every Little Thing",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=37",
+  "source": "naraetan.js"
+},
+    {
+  "title": "恋文",
+  "artist": "Every Little Thing",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=38",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat.初音ミク",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=39",
+  "source": "naraetan.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=40",
+  "source": "naraetan.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat.flower",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=41",
+  "source": "naraetan.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=42",
+  "source": "naraetan.js"
+},
+    {
+  "title": "DISCOTHEQUE",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=43",
+  "source": "naraetan.js"
+},
+    {
+  "title": "冒険彗星",
+  "artist": "榎本くるみ",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=44",
+  "source": "naraetan.js"
+},
+    {
+  "title": "強盗と花束",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=45",
+  "source": "naraetan.js"
+},
+    {
+  "title": "聖少女領域",
+  "artist": "ALI PROJECT",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=46",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ヒャダインのカカカタ☆カタオモイ-C",
+  "artist": "ヒャダイン",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=47",
+  "source": "naraetan.js"
+},
+    {
+  "title": "オトノナルホウヘ→",
+  "artist": "Goose house",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=48",
+  "source": "naraetan.js"
+},
+    {
+  "title": "光るなら",
+  "artist": "Goose house",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=49",
+  "source": "naraetan.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=50",
+  "source": "naraetan.js"
+},
+    {
+  "title": "たぶん",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=51",
+  "source": "naraetan.js"
+},
+    {
+  "title": "UNDEAD",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=52",
+  "source": "naraetan.js"
+},
+    {
+  "title": "車輪の唄",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=53",
+  "source": "naraetan.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=54",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愛唄",
+  "artist": "GReeeeN",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=55",
+  "source": "naraetan.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師、宇多田ヒカル",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=56",
+  "source": "naraetan.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=57",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Shangri-La",
+  "artist": "angela",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=58",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ダンスホール",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=59",
+  "source": "naraetan.js"
+},
+    {
+  "title": "森の小さなレストラン",
+  "artist": "手嶌葵",
+  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=60",
   "source": "naraetan.js"
 }
 );

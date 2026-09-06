@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 9/6/2026, 2:20:50 AM
+// 生成时间: 9/6/2026, 3:23:23 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2467,6 +2467,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-01]9月第一次歌回！已经入秋了吧……？！ｗ 緋那ちび",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zAt56yE9L?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "1925",
+  "artist": "T-POCKET feat.初音ミク",
+  "collection": "【歌切】[2026-09-04]快乐周五♬不能熬夜，所以唱1小时！【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CECb?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "翡翠のまち",
+  "artist": "メル feat.初音ミク",
+  "collection": "【歌切】[2026-09-04]快乐周五♬不能熬夜，所以唱1小时！【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CECb?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ヨンジュウナナ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-09-04]快乐周五♬不能熬夜，所以唱1小时！【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CECb?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "金木犀",
+  "artist": "くじら",
+  "collection": "【歌切】[2026-09-04]快乐周五♬不能熬夜，所以唱1小时！【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CECb?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "S・K・Y",
+  "artist": "ライブP feat.鏡音リン",
+  "collection": "【歌切】[2026-09-04]快乐周五♬不能熬夜，所以唱1小时！【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CECb?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "glow",
+  "artist": "keeno feat.初音ミク",
+  "collection": "【歌切】[2026-09-04]快乐周五♬不能熬夜，所以唱1小时！【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CECb?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "私が選んだもの",
+  "artist": "『ユイカ』",
+  "collection": "【歌切】[2026-09-04]快乐周五♬不能熬夜，所以唱1小时！【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CECb?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "曲名はまだないです",
+  "artist": "Aogumo",
+  "collection": "【歌切】[2026-09-04]快乐周五♬不能熬夜，所以唱1小时！【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CECb?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ギターと孤独と蒼い惑星",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-09-05]唱动漫歌曲和术力口！！【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x5bH65ELZ?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "心とかいう名前の未発見の臓器の機能についての考察",
+  "artist": "adstlaxy feat.初音ミク",
+  "collection": "【歌切】[2026-09-05]唱动漫歌曲和术力口！！【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x5bH65ELZ?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "未完成なサヨナラ",
+  "artist": "TAK feat.Miki Maria",
+  "collection": "【歌切】[2026-09-05]唱动漫歌曲和术力口！！【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x5bH65ELZ?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "海へ",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-09-05]唱动漫歌曲和术力口！！【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x5bH65ELZ?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-09-05]唱动漫歌曲和术力口！！【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x5bH65ELZ?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-09-05]唱动漫歌曲和术力口！！【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x5bH65ELZ?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "のだ",
+  "artist": "大漠波新 feat.ずんだもん・初音ミク・重音テト",
+  "collection": "【歌切】[2026-09-05]唱动漫歌曲和术力口！！【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x5bH65ELZ?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ドーナツホール",
+  "artist": "ハチ feat.GUMI",
+  "collection": "【歌切】[2026-09-05]唱动漫歌曲和术力口！！【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x5bH65ELZ?p=8",
   "source": "hinachibi.js"
 }
 );

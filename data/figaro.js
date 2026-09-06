@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 9/6/2026, 1:51:04 AM
+// 生成时间: 9/6/2026, 2:51:04 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -34475,6 +34475,150 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-09-02]歌回｜还是好热啊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZbF6vEBf?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "小学館",
+  "artist": "相対性理論",
+  "collection": "【💐歌切】[2026-09-04]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CEWz?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "ミス・パラレルワールド",
+  "artist": "相対性理論",
+  "collection": "【💐歌切】[2026-09-04]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CEWz?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "金木犀",
+  "artist": "くじら feat.Ado",
+  "collection": "【💐歌切】[2026-09-04]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CEWz?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "幽霊東京",
+  "artist": "Ayase feat.初音ミク",
+  "collection": "【💐歌切】[2026-09-04]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CEWz?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "シニカルナイトプラン",
+  "artist": "Ayase feat.初音ミク",
+  "collection": "【💐歌切】[2026-09-04]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CEWz?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "ラストリゾート",
+  "artist": "Ayase feat.初音ミク",
+  "collection": "【💐歌切】[2026-09-04]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CEWz?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "命ばっかり",
+  "artist": "ぬゆり feat.flower・結月ゆかり",
+  "collection": "【💐歌切】[2026-09-04]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CEWz?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "フィクサー",
+  "artist": "ぬゆり feat.flower",
+  "collection": "【💐歌切】[2026-09-04]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CEWz?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "ドラマツルギー",
+  "artist": "Eve",
+  "collection": "【💐歌切】[2026-09-04]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CEWz?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "アウトサイダー",
+  "artist": "Eve",
+  "collection": "【💐歌切】[2026-09-04]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CEWz?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "アングレイデイズ",
+  "artist": "ツミキ feat.鏡音リン",
+  "collection": "【💐歌切】[2026-09-04]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CEWz?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "ハイド・アンド・シーク",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【💐歌切】[2026-09-04]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CEWz?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "帝国少女",
+  "artist": "R Sound Design feat.初音ミク",
+  "collection": "【💐歌切】[2026-09-04]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CEWz?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "quiet room",
+  "artist": "有機酸 feat.初音ミク",
+  "collection": "【💐歌切】[2026-09-04]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CEWz?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【💐歌切】[2026-09-04]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CEWz?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "夢見る少女じゃいられない",
+  "artist": "相川七瀬",
+  "collection": "【💐歌切】[2026-09-04]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CEWz?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【💐歌切】[2026-09-04]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CEWz?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "覚醒",
+  "artist": "Superfly",
+  "collection": "【💐歌切】[2026-09-04]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CEWz?p=18",
   "source": "figaro.js"
 }
 );

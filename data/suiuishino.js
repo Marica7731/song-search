@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 9/6/2026, 2:30:46 AM
+// 生成时间: 9/6/2026, 3:34:39 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3459,6 +3459,118 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=16",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "6900000000",
+  "artist": "(∵)キョトンP feat.初音ミク",
+  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "quiet room",
+  "artist": "有機酸 feat.初音ミク",
+  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Corruption",
+  "artist": "大沼パセリ feat.初音ミク",
+  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "記憶の水槽",
+  "artist": "こんにちは谷田さん feat.初音ミク",
+  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "夏の半券",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "フロイデ",
+  "artist": "笹川真生 feat.flower",
+  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "nuit",
+  "artist": "春野 feat.初音ミク",
+  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ドリームレス・ドリームス",
+  "artist": "はるまきごはん feat.初音ミク",
+  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ワールズエンド・イヴ",
+  "artist": "メル feat.初音ミク",
+  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "シンクロサイクロトロン・スピリチュアライザー。",
+  "artist": "砂粒 feat.GUMI",
+  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "シネマ",
+  "artist": "Ayase feat.初音ミク",
+  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ナイトルール",
+  "artist": "煮ル果実 feat.可不",
+  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "小夜子",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "深昏睡",
+  "artist": "春野 feat.初音ミク",
+  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=14",
   "source": "suiuishino.js"
 }
 );

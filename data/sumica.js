@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 9/6/2026, 2:07:03 AM
+// 生成时间: 9/6/2026, 3:07:41 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8699,6 +8699,158 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-09-03]歌回｜边想着暑假最后要做什么边悠缓弹唱～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M8bF69EZH?p=21",
+  "source": "sumica.js"
+},
+    {
+  "title": "シアワセ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-05]初见也欢迎!!要不要听会儿弹唱，放松一下？￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cqbn6zECd?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【💐🎸歌切】[2026-09-05]初见也欢迎!!要不要听会儿弹唱，放松一下？￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cqbn6zECd?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん feat.IA",
+  "collection": "【💐🎸歌切】[2026-09-05]初见也欢迎!!要不要听会儿弹唱，放松一下？￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cqbn6zECd?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "原罪と福音",
+  "artist": "東京事変",
+  "collection": "【💐🎸歌切】[2026-09-05]初见也欢迎!!要不要听会儿弹唱，放松一下？￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cqbn6zECd?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【💐🎸歌切】[2026-09-05]初见也欢迎!!要不要听会儿弹唱，放松一下？￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cqbn6zECd?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "太陽に笑え",
+  "artist": "Anly",
+  "collection": "【💐🎸歌切】[2026-09-05]初见也欢迎!!要不要听会儿弹唱，放松一下？￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cqbn6zECd?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-09-05]初见也欢迎!!要不要听会儿弹唱，放松一下？￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cqbn6zECd?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "夜撫でるメノウ",
+  "artist": "Ayase",
+  "collection": "【💐🎸歌切】[2026-09-05]初见也欢迎!!要不要听会儿弹唱，放松一下？￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cqbn6zECd?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "Burning",
+  "artist": "羊文学",
+  "collection": "【💐🎸歌切】[2026-09-05]初见也欢迎!!要不要听会儿弹唱，放松一下？￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cqbn6zECd?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【💐🎸歌切】[2026-09-05]初见也欢迎!!要不要听会儿弹唱，放松一下？￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cqbn6zECd?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "通り恋",
+  "artist": "indigo la End",
+  "collection": "【💐🎸歌切】[2026-09-05]初见也欢迎!!要不要听会儿弹唱，放松一下？￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cqbn6zECd?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "抱きしめて(少し)",
+  "artist": "indigo la End",
+  "collection": "【💐🎸歌切】[2026-09-05]初见也欢迎!!要不要听会儿弹唱，放松一下？￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cqbn6zECd?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "チューリップ",
+  "artist": "indigo la End",
+  "collection": "【💐🎸歌切】[2026-09-05]初见也欢迎!!要不要听会儿弹唱，放松一下？￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cqbn6zECd?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "桃源郷",
+  "artist": "シャイトープ",
+  "collection": "【💐🎸歌切】[2026-09-05]初见也欢迎!!要不要听会儿弹唱，放松一下？￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cqbn6zECd?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "pink",
+  "artist": "シャイトープ",
+  "collection": "【💐🎸歌切】[2026-09-05]初见也欢迎!!要不要听会儿弹唱，放松一下？￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cqbn6zECd?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat.GUMI",
+  "collection": "【💐🎸歌切】[2026-09-05]初见也欢迎!!要不要听会儿弹唱，放松一下？￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cqbn6zECd?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "センパイ。",
+  "artist": "HoneyWorks meets TrySail",
+  "collection": "【💐🎸歌切】[2026-09-05]初见也欢迎!!要不要听会儿弹唱，放松一下？￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cqbn6zECd?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【💐🎸歌切】[2026-09-05]初见也欢迎!!要不要听会儿弹唱，放松一下？￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cqbn6zECd?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "焦がれ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-05]初见也欢迎!!要不要听会儿弹唱，放松一下？￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Cqbn6zECd?p=19",
   "source": "sumica.js"
 }
 );

@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 9/6/2026, 2:23:42 AM
+// 生成时间: 9/6/2026, 3:26:36 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9195,6 +9195,166 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-01]周二定期🎙＋おいたん感谢祭点歌歌回！8月篇🌻 茨むあん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FAt561EDZ?p=31",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "キャットフード",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【歌切】[2026-09-05]初次见面吧∼！！【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CELC?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat.巡音ルカ・GUMI",
+  "collection": "【歌切】[2026-09-05]初次见面吧∼！！【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CELC?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "マカロン",
+  "artist": "ATOLS feat.初音ミク",
+  "collection": "【歌切】[2026-09-05]初次见面吧∼！！【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CELC?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "サマータイムシンデレラ",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-09-05]初次见面吧∼！！【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CELC?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "君と羊と青",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-05]初次见面吧∼！！【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CELC?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "抜錨",
+  "artist": "ナナホシ管弦楽団 feat.巡音ルカ",
+  "collection": "【歌切】[2026-09-05]初次见面吧∼！！【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CELC?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-09-05]初次见面吧∼！！【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CELC?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "G4L",
+  "artist": "Giga",
+  "collection": "【歌切】[2026-09-05]初次见面吧∼！！【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CELC?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Gimme×Gimme",
+  "artist": "八王子P × Giga feat.初音ミク・鏡音リン",
+  "collection": "【歌切】[2026-09-05]初次见面吧∼！！【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CELC?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "【歌切】[2026-09-05]初次见面吧∼！！【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CELC?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-05]初次见面吧∼！！【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CELC?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "太陽系デスコ",
+  "artist": "ナユタン星人 feat.初音ミク",
+  "collection": "【歌切】[2026-09-05]初次见面吧∼！！【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CELC?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "エイリアンエイリアン-Remix ver",
+  "artist": "ナユタン星人 feat.初音ミク",
+  "collection": "【歌切】[2026-09-05]初次见面吧∼！！【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CELC?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-05]初次见面吧∼！！【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CELC?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-09-05]初次见面吧∼！！【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CELC?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ロウワー",
+  "artist": "ぬゆり feat.flower",
+  "collection": "【歌切】[2026-09-05]初次见面吧∼！！【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CELC?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "あんなに一緒だったのに",
+  "artist": "See-Saw",
+  "collection": "【歌切】[2026-09-05]初次见面吧∼！！【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CELC?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "三原色",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-05]初次见面吧∼！！【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CELC?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-09-05]初次见面吧∼！！【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CELC?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-09-05]初次见面吧∼！！【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PLbH6CELC?p=20",
   "source": "ibaramuan.js"
 }
 );

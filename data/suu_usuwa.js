@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 9/6/2026, 1:54:50 AM
+// 生成时间: 9/6/2026, 2:55:22 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -22603,6 +22603,142 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】#147[2026-09-02]进入9月还是很热……｜周三定期歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fDbF6uE79?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Beautiful World",
+  "artist": "宇多田ヒカル",
+  "collection": "【🦢歌切】[2026-09-05]午后等你哦。【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ALbH6CE9k?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "【🦢歌切】[2026-09-05]午后等你哦。【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ALbH6CE9k?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【🦢歌切】[2026-09-05]午后等你哦。【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ALbH6CE9k?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【🦢歌切】[2026-09-05]午后等你哦。【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ALbH6CE9k?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "世界の約束",
+  "artist": "倍賞千恵子",
+  "collection": "【🦢歌切】[2026-09-05]午后等你哦。【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ALbH6CE9k?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ドキッ! こういうのが恋なの?",
+  "artist": "えり～な(キャナァーリ倶楽部)",
+  "collection": "【🦢歌切】[2026-09-05]午后等你哦。【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ALbH6CE9k?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-09-05]午后等你哦。【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ALbH6CE9k?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-09-05]午后等你哦。【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ALbH6CE9k?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat.初音ミク",
+  "collection": "【🦢歌切】[2026-09-05]午后等你哦。【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ALbH6CE9k?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Starry night",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-09-05]午后等你哦。【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ALbH6CE9k?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "seaglass",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-09-05]午后等你哦。【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ALbH6CE9k?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🦢歌切】[2026-09-05]午后等你哦。【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ALbH6CE9k?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Ready To Party",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-09-04]Re:AcT二期生8周年歌回接力｜第一棒～～～～～！！！【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WLbH6CEZm?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "star shine",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-09-04]Re:AcT二期生8周年歌回接力｜第一棒～～～～～！！！【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WLbH6CEZm?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ミスユー",
+  "artist": "星野源",
+  "collection": "【🦢歌切】[2026-09-04]Re:AcT二期生8周年歌回接力｜第一棒～～～～～！！！【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WLbH6CEZm?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "nuit",
+  "artist": "春野 feat.初音ミク",
+  "collection": "【🦢歌切】[2026-09-04]Re:AcT二期生8周年歌回接力｜第一棒～～～～～！！！【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WLbH6CEZm?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ゆーえふおー",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-09-04]Re:AcT二期生8周年歌回接力｜第一棒～～～～～！！！【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WLbH6CEZm?p=5",
   "source": "suu_usuwa.js"
 }
 );

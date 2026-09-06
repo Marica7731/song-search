@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 9/6/2026, 2:08:20 AM
+// 生成时间: 9/6/2026, 3:09:07 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4091,6 +4091,86 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-08-08 有超重大公告！！NiBOSHI生日3D Live 🎂🐈 NiBOSHI🪐💜-にぼし-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ynt56AEFz?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "联动歌切 2026-09-05 和ほしほちゃん第一次联动唱歌的夜晚✨🎤 鈴花いのり",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N5bH65E2Q?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "Starry Heavens",
+  "artist": "day after tomorrow",
+  "collection": "联动歌切 2026-09-05 和ほしほちゃん第一次联动唱歌的夜晚✨🎤 鈴花いのり",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N5bH65E2Q?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "联动歌切 2026-09-05 和ほしほちゃん第一次联动唱歌的夜晚✨🎤 鈴花いのり",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N5bH65E2Q?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "はじまりのセツナ",
+  "artist": "蝋梅学園中等部1年3組",
+  "collection": "联动歌切 2026-09-05 和ほしほちゃん第一次联动唱歌的夜晚✨🎤 鈴花いのり",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N5bH65E2Q?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "联动歌切 2026-09-05 和ほしほちゃん第一次联动唱歌的夜晚✨🎤 鈴花いのり",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N5bH65E2Q?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "联动歌切 2026-09-05 和ほしほちゃん第一次联动唱歌的夜晚✨🎤 鈴花いのり",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N5bH65E2Q?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "联动歌切 2026-09-05 和ほしほちゃん第一次联动唱歌的夜晚✨🎤 鈴花いのり",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N5bH65E2Q?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "一度だけの恋なら",
+  "artist": "ワルキューレ",
+  "collection": "联动歌切 2026-09-05 和ほしほちゃん第一次联动唱歌的夜晚✨🎤 鈴花いのり",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N5bH65E2Q?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "联动歌切 2026-09-05 和ほしほちゃん第一次联动唱歌的夜晚✨🎤 鈴花いのり",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N5bH65E2Q?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "联动歌切 2026-09-05 和ほしほちゃん第一次联动唱歌的夜晚✨🎤 鈴花いのり",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N5bH65E2Q?p=10",
   "source": "friends.js"
 }
 );

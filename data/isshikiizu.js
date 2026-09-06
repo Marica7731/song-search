@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 9/6/2026, 2:28:48 AM
+// 生成时间: 9/6/2026, 3:32:52 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4563,6 +4563,182 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-03]歌回｜神曲串烧‼经典动画歌曲限定🌟欢迎初见",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RZbF6eECo?p=26",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "キラキラ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+  "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "BLUE BIRD",
+  "artist": "浜崎あゆみ",
+  "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "koyori(電ポルP) feat.初音ミク",
+  "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "やさしさで溢れるように",
+  "artist": "JUJU",
+  "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "金魚花火",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Hello, Again ～昔からある場所～",
+  "artist": "My Little Lover",
+  "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "狭心症",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "セプテンバーさん",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "小さな恋のうた",
+  "artist": "MONGOL800",
+  "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アイのシナリオ",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "birthday song",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=22",
   "source": "isshikiizu.js"
 }
 );
