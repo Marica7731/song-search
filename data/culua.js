@@ -1,6 +1,6 @@
 // CULUA - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp
-// 生成时间: 9/7/2026, 6:39:43 PM
+// 生成时间: 9/7/2026, 8:30:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4659,6 +4659,86 @@ window.SONG_DATA.push(
   "collection": "【🦇歌切】[2026-09-03]歌回｜CULUA的歌单第36弹",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RZbF6eEze?p=8",
+  "source": "culua.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【🦇歌切】[2026-09-07]唱歌｜CULUA的歌单第37弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vXbu6fEgV?p=1",
+  "source": "culua.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "【🦇歌切】[2026-09-07]唱歌｜CULUA的歌单第37弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vXbu6fEgV?p=2",
+  "source": "culua.js"
+},
+    {
+  "title": "君はロックを聴かない",
+  "artist": "あいみょん",
+  "collection": "【🦇歌切】[2026-09-07]唱歌｜CULUA的歌单第37弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vXbu6fEgV?p=3",
+  "source": "culua.js"
+},
+    {
+  "title": "melt bitter",
+  "artist": "さとうもか",
+  "collection": "【🦇歌切】[2026-09-07]唱歌｜CULUA的歌单第37弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vXbu6fEgV?p=4",
+  "source": "culua.js"
+},
+    {
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ",
+  "collection": "【🦇歌切】[2026-09-07]唱歌｜CULUA的歌单第37弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vXbu6fEgV?p=5",
+  "source": "culua.js"
+},
+    {
+  "title": "ヘビースモーク",
+  "artist": "にしな",
+  "collection": "【🦇歌切】[2026-09-07]唱歌｜CULUA的歌单第37弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vXbu6fEgV?p=6",
+  "source": "culua.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "【🦇歌切】[2026-09-07]唱歌｜CULUA的歌单第37弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vXbu6fEgV?p=7",
+  "source": "culua.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【🦇歌切】[2026-09-07]唱歌｜CULUA的歌单第37弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vXbu6fEgV?p=8",
+  "source": "culua.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【🦇歌切】[2026-09-07]唱歌｜CULUA的歌单第37弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vXbu6fEgV?p=9",
+  "source": "culua.js"
+},
+    {
+  "title": "SAD SONG",
+  "artist": "ちゃんみな",
+  "collection": "【🦇歌切】[2026-09-07]唱歌｜CULUA的歌单第37弹",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vXbu6fEgV?p=10",
   "source": "culua.js"
 }
 );

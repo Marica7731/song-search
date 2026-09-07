@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 9/7/2026, 6:08:07 PM
+// 生成时间: 9/7/2026, 7:51:09 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -13835,6 +13835,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=60",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愛言葉Ⅲ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "セプテンバーさん",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "U&I",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "全力バタンキュー",
+  "artist": "A応P",
+  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アドレナ",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ロマンスの神様",
+  "artist": "広瀬香美",
+  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ハナノイロ",
+  "artist": "nano.RIPE",
+  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ルンがピカッと光ったら",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "わたしの一番かわいいところ",
+  "artist": "FRUITS ZIPPER",
+  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "mosi mosi?",
+  "artist": "楽音",
+  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=12",
   "source": "naraetan.js"
 }
 );

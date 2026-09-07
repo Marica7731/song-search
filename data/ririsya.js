@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 9/7/2026, 6:11:01 PM
+// 生成时间: 9/7/2026, 7:54:34 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -19019,6 +19019,182 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-08-31]唱夏日歌曲 ✧【凛々咲 / Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xute6GEbN?p=24",
+  "source": "ririsya.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ムーンライト伝説",
+  "artist": "DALI",
+  "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾、茅原実里、後藤邑子",
+  "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(CV.平野綾)",
+  "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "CHA-LA HEAD-CHA-LA",
+  "artist": "影山ヒロノブ",
+  "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "DAN DAN 心魅かれてく",
+  "artist": "FIELD OF VIEW",
+  "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ルージュの伝言",
+  "artist": "荒井由実",
+  "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "やさしさに包まれたなら",
+  "artist": "荒井由実",
+  "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=18",
+  "source": "ririsya.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=19",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Anytime Anywhere",
+  "artist": "milet",
+  "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=20",
+  "source": "ririsya.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=21",
+  "source": "ririsya.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=22",
   "source": "ririsya.js"
 }
 );
