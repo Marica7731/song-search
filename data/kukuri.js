@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 9/7/2026, 5:57:30 AM
+// 生成时间: 9/7/2026, 6:58:11 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6267,6 +6267,150 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-08-29]八月，已经要结束了吗？",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LGbF6KEZB?p=21",
+  "source": "kukuri.js"
+},
+    {
+  "title": "パレード",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-09-06]太阳快出来吧~☀️【戸鎖くくり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E7bP6EECL?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "よるのあと",
+  "artist": "adieu",
+  "collection": "【💫✖歌切】[2026-09-06]太阳快出来吧~☀️【戸鎖くくり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E7bP6EECL?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ラストシーン",
+  "artist": "eill",
+  "collection": "【💫✖歌切】[2026-09-06]太阳快出来吧~☀️【戸鎖くくり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E7bP6EECL?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "金魚花火",
+  "artist": "大塚愛",
+  "collection": "【💫✖歌切】[2026-09-06]太阳快出来吧~☀️【戸鎖くくり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E7bP6EECL?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "楔",
+  "artist": "奥華子",
+  "collection": "【💫✖歌切】[2026-09-06]太阳快出来吧~☀️【戸鎖くくり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E7bP6EECL?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【💫✖歌切】[2026-09-06]太阳快出来吧~☀️【戸鎖くくり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E7bP6EECL?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "fish",
+  "artist": "back number",
+  "collection": "【💫✖歌切】[2026-09-06]太阳快出来吧~☀️【戸鎖くくり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E7bP6EECL?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "LOVE LOVE LOVE",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【💫✖歌切】[2026-09-06]太阳快出来吧~☀️【戸鎖くくり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E7bP6EECL?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "おとなの掟",
+  "artist": "Doughnuts Hole",
+  "collection": "【💫✖歌切】[2026-09-06]太阳快出来吧~☀️【戸鎖くくり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E7bP6EECL?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "最愛",
+  "artist": "KOH+",
+  "collection": "【💫✖歌切】[2026-09-06]太阳快出来吧~☀️【戸鎖くくり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E7bP6EECL?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "かたち あるもの",
+  "artist": "柴咲コウ",
+  "collection": "【💫✖歌切】[2026-09-06]太阳快出来吧~☀️【戸鎖くくり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E7bP6EECL?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "いとしのエリー",
+  "artist": "サザンオールスターズ",
+  "collection": "【💫✖歌切】[2026-09-06]太阳快出来吧~☀️【戸鎖くくり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E7bP6EECL?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "最後の雨",
+  "artist": "中西保志",
+  "collection": "【💫✖歌切】[2026-09-06]太阳快出来吧~☀️【戸鎖くくり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E7bP6EECL?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "レイニー ブルー",
+  "artist": "徳永英明",
+  "collection": "【💫✖歌切】[2026-09-06]太阳快出来吧~☀️【戸鎖くくり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E7bP6EECL?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ワインレッドの心",
+  "artist": "安全地帯",
+  "collection": "【💫✖歌切】[2026-09-06]太阳快出来吧~☀️【戸鎖くくり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E7bP6EECL?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "糸",
+  "artist": "中島みゆき",
+  "collection": "【💫✖歌切】[2026-09-06]太阳快出来吧~☀️【戸鎖くくり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E7bP6EECL?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "歌うたいのバラッド",
+  "artist": "斉藤和義",
+  "collection": "【💫✖歌切】[2026-09-06]太阳快出来吧~☀️【戸鎖くくり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E7bP6EECL?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "secret base 〜君がくれたもの〜",
+  "artist": "ZONE",
+  "collection": "【💫✖歌切】[2026-09-06]太阳快出来吧~☀️【戸鎖くくり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E7bP6EECL?p=18",
   "source": "kukuri.js"
 }
 );
