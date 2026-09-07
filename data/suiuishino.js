@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 9/7/2026, 4:44:53 AM
+// 生成时间: 9/7/2026, 5:44:49 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3571,6 +3571,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "milk",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "虹",
+  "artist": "Aqua Timez",
+  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Planetes",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "flos",
+  "artist": "R Sound Design feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "カトラリー",
+  "artist": "有機酸 feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "疾走",
+  "artist": "LAST ALLIANCE",
+  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "鱗",
+  "artist": "秦基博",
+  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Happy Birthday to you you",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "リッツパーティ",
+  "artist": "back number",
+  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "アメヲマツ、",
+  "artist": "美波",
+  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "フクロウ 〜フクロウが知らせる客が来たと〜",
+  "artist": "KOKIA",
+  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "メロウ",
+  "artist": "須田景凪",
+  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ただ声一つ",
+  "artist": "ロクデナシ",
+  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=15",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "エルマ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=16",
   "source": "suiuishino.js"
 }
 );

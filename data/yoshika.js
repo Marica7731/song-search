@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 9/7/2026, 4:10:27 AM
+// 生成时间: 9/7/2026, 5:08:17 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -39203,6 +39203,158 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-09-05]欢迎初见！深夜嗨起来！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jSbn6hEzk?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【🍠🦍歌切】[2026-09-06]欢迎新观众！今天肯定只播一小会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbw6UEWm?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【🍠🦍歌切】[2026-09-06]欢迎新观众！今天肯定只播一小会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbw6UEWm?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "GO!!!",
+  "artist": "FLOW",
+  "collection": "【🍠🦍歌切】[2026-09-06]欢迎新观众！今天肯定只播一小会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbw6UEWm?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "【🍠🦍歌切】[2026-09-06]欢迎新观众！今天肯定只播一小会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbw6UEWm?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ANGELUS -アンジェラス-",
+  "artist": "島谷ひとみ",
+  "collection": "【🍠🦍歌切】[2026-09-06]欢迎新观众！今天肯定只播一小会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbw6UEWm?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【🍠🦍歌切】[2026-09-06]欢迎新观众！今天肯定只播一小会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbw6UEWm?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "唇からロマンチカ",
+  "artist": "AAA",
+  "collection": "【🍠🦍歌切】[2026-09-06]欢迎新观众！今天肯定只播一小会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbw6UEWm?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "I♥U",
+  "artist": "THE★SCANTY",
+  "collection": "【🍠🦍歌切】[2026-09-06]欢迎新观众！今天肯定只播一小会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbw6UEWm?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "破滅の純情",
+  "artist": "ワルキューレ",
+  "collection": "【🍠🦍歌切】[2026-09-06]欢迎新观众！今天肯定只播一小会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbw6UEWm?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "にんげんっていいな",
+  "artist": "山口あかり",
+  "collection": "【🍠🦍歌切】[2026-09-06]欢迎新观众！今天肯定只播一小会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbw6UEWm?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "勇気100%",
+  "artist": "光GENJI",
+  "collection": "【🍠🦍歌切】[2026-09-06]欢迎新观众！今天肯定只播一小会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbw6UEWm?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【🍠🦍歌切】[2026-09-06]欢迎新观众！今天肯定只播一小会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbw6UEWm?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "時には昔の話を",
+  "artist": "加藤登紀子",
+  "collection": "【🍠🦍歌切】[2026-09-06]欢迎新观众！今天肯定只播一小会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbw6UEWm?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat.可不",
+  "collection": "【🍠🦍歌切】[2026-09-06]欢迎新观众！今天肯定只播一小会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbw6UEWm?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【🍠🦍歌切】[2026-09-06]欢迎新观众！今天肯定只播一小会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbw6UEWm?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Falco-ファルコ-",
+  "artist": "島谷ひとみ",
+  "collection": "【🍠🦍歌切】[2026-09-06]欢迎新观众！今天肯定只播一小会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbw6UEWm?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【🍠🦍歌切】[2026-09-06]欢迎新观众！今天肯定只播一小会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbw6UEWm?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【🍠🦍歌切】[2026-09-06]欢迎新观众！今天肯定只播一小会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbw6UEWm?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "僕の心をつくってよ",
+  "artist": "平井堅",
+  "collection": "【🍠🦍歌切】[2026-09-06]欢迎新观众！今天肯定只播一小会儿！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kNbw6UEWm?p=19",
   "source": "yoshika.js"
 }
 );

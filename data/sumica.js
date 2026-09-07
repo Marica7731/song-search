@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 9/7/2026, 4:18:33 AM
+// 生成时间: 9/7/2026, 5:17:08 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8851,6 +8851,38 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-09-05]初见也欢迎!!要不要听会儿弹唱，放松一下？￤澄花 / ぷろぶる",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Cqbn6zECd?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "きにぴ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-06]⟬ 让梦想绽放的歌回接力 ⟭追逐梦想的创作歌手弹唱。请多指教‼️‼️￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TkbP6wENg?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "Hello, Worker",
+  "artist": "KEI feat.巡音ルカ",
+  "collection": "【💐🎸歌切】[2026-09-06]⟬ 让梦想绽放的歌回接力 ⟭追逐梦想的创作歌手弹唱。请多指教‼️‼️￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TkbP6wENg?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "やめるなら今",
+  "artist": "ヒグチアイ",
+  "collection": "【💐🎸歌切】[2026-09-06]⟬ 让梦想绽放的歌回接力 ⟭追逐梦想的创作歌手弹唱。请多指教‼️‼️￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TkbP6wENg?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "こんなよる",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-06]⟬ 让梦想绽放的歌回接力 ⟭追逐梦想的创作歌手弹唱。请多指教‼️‼️￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TkbP6wENg?p=4",
   "source": "sumica.js"
 }
 );
