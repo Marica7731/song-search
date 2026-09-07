@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 9/7/2026, 5:00:37 AM
+// 生成时间: 9/7/2026, 6:01:11 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -34619,6 +34619,134 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-09-04]欢迎回来——！【Figaro】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PLbH6CEWz?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "シュノーケル",
+  "artist": "文藝天国",
+  "collection": "【💐歌切】[2026-09-06]助眠✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PmbP6ZE5q?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-09-06]助眠✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PmbP6ZE5q?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "W/X/Y",
+  "artist": "Tani Yuuki",
+  "collection": "【💐歌切】[2026-09-06]助眠✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PmbP6ZE5q?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP feat.初音ミク",
+  "collection": "【💐歌切】[2026-09-06]助眠✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PmbP6ZE5q?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "またねがあれば",
+  "artist": "澤田空海理",
+  "collection": "【💐歌切】[2026-09-06]助眠✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PmbP6ZE5q?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "茜さす",
+  "artist": "Aimer",
+  "collection": "【💐歌切】[2026-09-06]助眠✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PmbP6ZE5q?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat.初音ミク",
+  "collection": "【💐歌切】[2026-09-06]助眠✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PmbP6ZE5q?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "ありあまる富",
+  "artist": "椎名林檎",
+  "collection": "【💐歌切】[2026-09-06]助眠✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PmbP6ZE5q?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "ひとりごつ",
+  "artist": "ハチワレ",
+  "collection": "【💐歌切】[2026-09-06]助眠✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PmbP6ZE5q?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-09-06]助眠✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PmbP6ZE5q?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "六月は雨上がりの街を書く",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-09-06]助眠✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PmbP6ZE5q?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "しずかだなあ",
+  "artist": "手嶌葵",
+  "collection": "【💐歌切】[2026-09-06]助眠✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PmbP6ZE5q?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-09-06]助眠✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PmbP6ZE5q?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "家族の風景",
+  "artist": "ハナレグミ",
+  "collection": "【💐歌切】[2026-09-06]助眠✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PmbP6ZE5q?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "やわらかな夜",
+  "artist": "orange pekoe",
+  "collection": "【💐歌切】[2026-09-06]助眠✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PmbP6ZE5q?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【💐歌切】[2026-09-06]助眠✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PmbP6ZE5q?p=16",
   "source": "figaro.js"
 }
 );
