@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 9/8/2026, 7:14:51 PM
+// 生成时间: 9/8/2026, 8:17:18 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3699,6 +3699,126 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=16",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "声",
+  "artist": "羊文学",
+  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "星街の駅で",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "雫",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "鱗",
+  "artist": "秦基博",
+  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "スイートマジック",
+  "artist": "ろん×Junky",
+  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "空想フォレスト",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=15",
   "source": "suiuishino.js"
 }
 );

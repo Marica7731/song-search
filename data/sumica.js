@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 9/8/2026, 6:52:36 PM
+// 生成时间: 9/8/2026, 7:48:41 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8883,6 +8883,198 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-09-06]⟬ 让梦想绽放的歌回接力 ⟭追逐梦想的创作歌手弹唱。请多指教‼️‼️￤澄花 / ぷろぶる",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TkbP6wENg?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "楓",
+  "artist": "スピッツ",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "残ってる",
+  "artist": "吉澤嘉代子",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "酸欠少女",
+  "artist": "さユり",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "チノカテ",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "愛着",
+  "artist": "My Hair is Bad",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "二時頃",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "ハチミツ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "パズルガール",
+  "artist": "とあ feat.初音ミク",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "月が綺麗",
+  "artist": "岩見拓馬",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "帰りの会",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "ノスタルジア",
+  "artist": "いきものがかり",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "幸せが溢れたら",
+  "artist": "indigo la End",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "貴方解剖純愛歌 〜死ね〜",
+  "artist": "あいみょん",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "キミソラキセキ",
+  "artist": "EGOIST",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=20",
+  "source": "sumica.js"
+},
+    {
+  "title": "猫とアレルギー",
+  "artist": "きのこ帝国",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=21",
+  "source": "sumica.js"
+},
+    {
+  "title": "世界はふたり",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=22",
+  "source": "sumica.js"
+},
+    {
+  "title": "いじわるさん",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=23",
+  "source": "sumica.js"
+},
+    {
+  "title": "こんなよる",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=24",
   "source": "sumica.js"
 }
 );

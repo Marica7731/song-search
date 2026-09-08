@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 9/8/2026, 6:53:52 PM
+// 生成时间: 9/8/2026, 7:51:12 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4171,6 +4171,86 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-09-05 和ほしほちゃん第一次联动唱歌的夜晚✨🎤 鈴花いのり",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N5bH65E2Q?p=10",
+  "source": "friends.js"
+},
+    {
+  "title": "未来への咆哮",
+  "artist": "JAM Project",
+  "collection": "联动歌切 2026-09-08 和松永依織前辈线下联动一起唱歌！！！ ✧ 伊月知世",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CECM?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "劣等上等",
+  "artist": "Giga feat.鏡音リン・鏡音レン",
+  "collection": "联动歌切 2026-09-08 和松永依織前辈线下联动一起唱歌！！！ ✧ 伊月知世",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CECM?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "悪ノ召使",
+  "artist": "mothy feat.鏡音レン",
+  "collection": "联动歌切 2026-09-08 和松永依織前辈线下联动一起唱歌！！！ ✧ 伊月知世",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CECM?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "嗚呼、素晴らしきニャン生",
+  "artist": "Nem feat.鏡音レン・GUMI",
+  "collection": "联动歌切 2026-09-08 和松永依織前辈线下联动一起唱歌！！！ ✧ 伊月知世",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CECM?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "I'm a mess",
+  "artist": "MY FIRST STORY",
+  "collection": "联动歌切 2026-09-08 和松永依織前辈线下联动一起唱歌！！！ ✧ 伊月知世",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CECM?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "Walking with you",
+  "artist": "Novelbright",
+  "collection": "联动歌切 2026-09-08 和松永依織前辈线下联动一起唱歌！！！ ✧ 伊月知世",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CECM?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "レトロスペクティカ",
+  "artist": "伊月知世",
+  "collection": "联动歌切 2026-09-08 和松永依織前辈线下联动一起唱歌！！！ ✧ 伊月知世",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CECM?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "Blazing Out",
+  "artist": "松永依織",
+  "collection": "联动歌切 2026-09-08 和松永依織前辈线下联动一起唱歌！！！ ✧ 伊月知世",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CECM?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "らしさ",
+  "artist": "Official髭男dism",
+  "collection": "联动歌切 2026-09-08 和松永依織前辈线下联动一起唱歌！！！ ✧ 伊月知世",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CECM?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "SPYAIR",
+  "collection": "联动歌切 2026-09-08 和松永依織前辈线下联动一起唱歌！！！ ✧ 伊月知世",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FBYn6CECM?p=10",
   "source": "friends.js"
 }
 );

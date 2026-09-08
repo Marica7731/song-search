@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 9/8/2026, 7:07:49 PM
+// 生成时间: 9/8/2026, 8:08:42 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9355,6 +9355,158 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-05]初次见面吧∼！！【茨むあん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PLbH6CELC?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-08]周二定期🎙第一次来的观众也进来看看吧【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kEbK?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-08]周二定期🎙第一次来的观众也进来看看吧【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kEbK?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-08]周二定期🎙第一次来的观众也进来看看吧【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kEbK?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【歌切】[2026-09-08]周二定期🎙第一次来的观众也进来看看吧【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kEbK?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "夏の半券",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-09-08]周二定期🎙第一次来的观众也进来看看吧【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kEbK?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "モノクロのキス",
+  "artist": "シド",
+  "collection": "【歌切】[2026-09-08]周二定期🎙第一次来的观众也进来看看吧【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kEbK?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "シニカルナイトプラン",
+  "artist": "Ayase feat.初音ミク",
+  "collection": "【歌切】[2026-09-08]周二定期🎙第一次来的观众也进来看看吧【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kEbK?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-09-08]周二定期🎙第一次来的观众也进来看看吧【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kEbK?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "雨き声残響",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-09-08]周二定期🎙第一次来的观众也进来看看吧【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kEbK?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-08]周二定期🎙第一次来的观众也进来看看吧【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kEbK?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "又三郎",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-08]周二定期🎙第一次来的观众也进来看看吧【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kEbK?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "死神",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-08]周二定期🎙第一次来的观众也进来看看吧【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kEbK?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "感電",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-08]周二定期🎙第一次来的观众也进来看看吧【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kEbK?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "エゴロック",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "【歌切】[2026-09-08]周二定期🎙第一次来的观众也进来看看吧【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kEbK?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑ feat.初音ミク",
+  "collection": "【歌切】[2026-09-08]周二定期🎙第一次来的观众也进来看看吧【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kEbK?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "懺悔参り",
+  "artist": "羽生まゐご feat.flower",
+  "collection": "【歌切】[2026-09-08]周二定期🎙第一次来的观众也进来看看吧【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kEbK?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ワールド・ランプシェード",
+  "artist": "buzzG feat.GUMI",
+  "collection": "【歌切】[2026-09-08]周二定期🎙第一次来的观众也进来看看吧【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kEbK?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "再会",
+  "artist": "LiSA×Uru",
+  "collection": "【歌切】[2026-09-08]周二定期🎙第一次来的观众也进来看看吧【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kEbK?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "また、脆い夢を見てた",
+  "artist": "茨むあん",
+  "collection": "【歌切】[2026-09-08]周二定期🎙第一次来的观众也进来看看吧【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYn6kEbK?p=19",
   "source": "ibaramuan.js"
 }
 );
