@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 9/9/2026, 7:47:37 PM
+// 生成时间: 9/9/2026, 8:49:50 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2723,6 +2723,70 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-29]LISMO!的话题也太多了，搞得我都想唱歌了啊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XNth67EXk?p=26",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "夢さえ描けない夜空には",
+  "artist": "BEYOOOOONDS",
+  "collection": "【歌切】[2026-09-09]今天状态相当不错♪稍微唱唱歌、聊聊天【羽澄さひろ┆VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uvYb6mEPa?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ビタミンME",
+  "artist": "BEYOOOOONDS",
+  "collection": "【歌切】[2026-09-09]今天状态相当不错♪稍微唱唱歌、聊聊天【羽澄さひろ┆VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uvYb6mEPa?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "こんなハズジャナカッター！",
+  "artist": "BEYOOOOONDS",
+  "collection": "【歌切】[2026-09-09]今天状态相当不错♪稍微唱唱歌、聊聊天【羽澄さひろ┆VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uvYb6mEPa?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "元年バンジージャンプ",
+  "artist": "BEYOOOOONDS",
+  "collection": "【歌切】[2026-09-09]今天状态相当不错♪稍微唱唱歌、聊聊天【羽澄さひろ┆VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uvYb6mEPa?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "あゝ君に転生",
+  "artist": "BEYOOOOONDS",
+  "collection": "【歌切】[2026-09-09]今天状态相当不错♪稍微唱唱歌、聊聊天【羽澄さひろ┆VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uvYb6mEPa?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Do-Did-Done",
+  "artist": "BEYOOOOONDS",
+  "collection": "【歌切】[2026-09-09]今天状态相当不错♪稍微唱唱歌、聊聊天【羽澄さひろ┆VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uvYb6mEPa?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "灰toダイヤモンド",
+  "artist": "BEYOOOOONDS",
+  "collection": "【歌切】[2026-09-09]今天状态相当不错♪稍微唱唱歌、聊聊天【羽澄さひろ┆VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uvYb6mEPa?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "夢想歌",
+  "artist": "Suara",
+  "collection": "【歌切】[2026-09-09]今天状态相当不错♪稍微唱唱歌、聊聊天【羽澄さひろ┆VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uvYb6mEPa?p=8",
   "source": "hasumisahiro.js"
 }
 );

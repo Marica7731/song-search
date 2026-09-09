@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 9/9/2026, 7:22:25 PM
+// 生成时间: 9/9/2026, 8:29:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -34747,6 +34747,142 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-09-06]助眠✨睡前来听吧🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PmbP6ZE5q?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-09-09]这雨是不是比梅雨季还要漫长？【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tvYb6mEbh?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-09-09]这雨是不是比梅雨季还要漫长？【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tvYb6mEbh?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "花も騒めく",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-09-09]这雨是不是比梅雨季还要漫长？【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tvYb6mEbh?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "ワールド・ランプシェード",
+  "artist": "buzzG feat.GUMI",
+  "collection": "【💐歌切】[2026-09-09]这雨是不是比梅雨季还要漫长？【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tvYb6mEbh?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "オーバーライド",
+  "artist": "吉田夜世 feat.重音テトSV",
+  "collection": "【💐歌切】[2026-09-09]这雨是不是比梅雨季还要漫长？【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tvYb6mEbh?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "マーシャル・マキシマイザー",
+  "artist": "柊マグネタイト feat.可不",
+  "collection": "【💐歌切】[2026-09-09]这雨是不是比梅雨季还要漫长？【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tvYb6mEbh?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat.可不",
+  "collection": "【💐歌切】[2026-09-09]这雨是不是比梅雨季还要漫长？【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tvYb6mEbh?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "惑星ループ",
+  "artist": "ナユタン星人 feat.初音ミク",
+  "collection": "【💐歌切】[2026-09-09]这雨是不是比梅雨季还要漫长？【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tvYb6mEbh?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "ライカ",
+  "artist": "yamada feat.初音ミク",
+  "collection": "【💐歌切】[2026-09-09]这雨是不是比梅雨季还要漫长？【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tvYb6mEbh?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "ニア",
+  "artist": "夏代孝明 feat.初音ミク",
+  "collection": "【💐歌切】[2026-09-09]这雨是不是比梅雨季还要漫长？【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tvYb6mEbh?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "クイーンオブハート",
+  "artist": "奏音69 feat.巡音ルカ",
+  "collection": "【💐歌切】[2026-09-09]这雨是不是比梅雨季还要漫长？【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tvYb6mEbh?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "シンデレラ",
+  "artist": "椿屋四重奏",
+  "collection": "【💐歌切】[2026-09-09]这雨是不是比梅雨季还要漫长？【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tvYb6mEbh?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "四月馬鹿",
+  "artist": "Cocco",
+  "collection": "【💐歌切】[2026-09-09]这雨是不是比梅雨季还要漫长？【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tvYb6mEbh?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "樹海の糸",
+  "artist": "Cocco",
+  "collection": "【💐歌切】[2026-09-09]这雨是不是比梅雨季还要漫长？【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tvYb6mEbh?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "フリィダム ロリィタ",
+  "artist": "ねじ式 feat.結月ゆかり",
+  "collection": "【💐歌切】[2026-09-09]这雨是不是比梅雨季还要漫长？【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tvYb6mEbh?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "fake face dance music",
+  "artist": "音田雅則",
+  "collection": "【💐歌切】[2026-09-09]这雨是不是比梅雨季还要漫长？【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tvYb6mEbh?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "ずうっといっしょ！",
+  "artist": "キタニタツヤ",
+  "collection": "【💐歌切】[2026-09-09]这雨是不是比梅雨季还要漫长？【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tvYb6mEbh?p=17",
   "source": "figaro.js"
 }
 );

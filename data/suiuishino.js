@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 9/9/2026, 8:04:20 PM
+// 生成时间: 9/9/2026, 9:02:35 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3819,6 +3819,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=15",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ",
+  "artist": "MAISONdes feat.花譜, ツミキ",
+  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Hello,Again～昔からある場所～",
+  "artist": "My Little Lover",
+  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "チノカテ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Surges",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ヘビースモーク",
+  "artist": "にしな",
+  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Laugh away",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "GLORIA",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "My Generation",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Oh My God",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "How crazy",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "LIFE",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=15",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "HELLO",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=16",
   "source": "suiuishino.js"
 }
 );

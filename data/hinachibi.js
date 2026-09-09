@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 9/9/2026, 7:53:48 PM
+// 生成时间: 9/9/2026, 8:53:40 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2595,6 +2595,70 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-05]唱动漫歌曲和术力口！！【緋那ちび】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1x5bH65ELZ?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-08]今天也辛苦一天啦！回家路上放松听听吧🎶【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gaYb6SE4F?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【歌切】[2026-09-08]今天也辛苦一天啦！回家路上放松听听吧🎶【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gaYb6SE4F?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo feat.初音ミク",
+  "collection": "【歌切】[2026-09-08]今天也辛苦一天啦！回家路上放松听听吧🎶【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gaYb6SE4F?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "洗脳",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-08]今天也辛苦一天啦！回家路上放松听听吧🎶【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gaYb6SE4F?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "テレパシ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-08]今天也辛苦一天啦！回家路上放松听听吧🎶【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gaYb6SE4F?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "メンタルチェンソー",
+  "artist": "かいりきベア feat.初音ミク",
+  "collection": "【歌切】[2026-09-08]今天也辛苦一天啦！回家路上放松听听吧🎶【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gaYb6SE4F?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "モザイクロール",
+  "artist": "DECO*27 feat.GUMI",
+  "collection": "【歌切】[2026-09-08]今天也辛苦一天啦！回家路上放松听听吧🎶【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gaYb6SE4F?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+  "collection": "【歌切】[2026-09-08]今天也辛苦一天啦！回家路上放松听听吧🎶【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gaYb6SE4F?p=8",
   "source": "hinachibi.js"
 }
 );

@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 9/9/2026, 8:02:32 PM
+// 生成时间: 9/9/2026, 9:00:33 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4739,6 +4739,286 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-05]可点歌◎夏末想听的歌🎤悠闲地唱🌟初见大欢迎【一色イズ】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1f1bn6PEpX?p=22",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "全力少年",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "さくらんぼ",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アタシは問題作",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "島のうた",
+  "artist": "セイレーン(CV.鈴木みのり)、人魚(CV.大木咲絵子、七瀬彩夏)",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "パジャマパーティーズのうた",
+  "artist": "パジャマパーティーズ",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ほんまやで☆なんでやねん☆しらんけど",
+  "artist": "モナキ",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "チャンカパーナ",
+  "artist": "NEWS",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "シル・ヴ・プレジデント",
+  "artist": "P丸様。",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ヒカリへ",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "大阪LOVER",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "セプテンバーさん",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "三原色",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アポロ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=22",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "オツキミリサイタル",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=23",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アンコール",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=24",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アンコール",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=25",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=26",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アノニマス",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=27",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "来世で会おう",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=28",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "有心論",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=29",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=30",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "忘れてやらない",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=31",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=32",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=33",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=34",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=35",
   "source": "isshikiizu.js"
 }
 );
