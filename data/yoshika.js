@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 9/9/2026, 8:35:14 PM
+// 生成时间: 9/9/2026, 9:27:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -39355,6 +39355,166 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-09-06]欢迎新观众！今天肯定只播一小会儿！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kNbw6UEWm?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-09-09]欢迎新观众！一起唱歌吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJYa6sEuk?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-09-09]欢迎新观众！一起唱歌吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJYa6sEuk?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾・茅原実里・後藤邑子",
+  "collection": "【🍠🦍歌切】[2026-09-09]欢迎新观众！一起唱歌吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJYa6sEuk?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "【🍠🦍歌切】[2026-09-09]欢迎新观众！一起唱歌吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJYa6sEuk?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【🍠🦍歌切】[2026-09-09]欢迎新观众！一起唱歌吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJYa6sEuk?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【🍠🦍歌切】[2026-09-09]欢迎新观众！一起唱歌吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJYa6sEuk?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Sweet(×5) Vintage!",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-09-09]欢迎新观众！一起唱歌吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJYa6sEuk?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Welcome to あざとさワールド",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-09-09]欢迎新观众！一起唱歌吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJYa6sEuk?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ムーンライト伝説",
+  "artist": "DALI",
+  "collection": "【🍠🦍歌切】[2026-09-09]欢迎新观众！一起唱歌吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJYa6sEuk?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "キリトリセン",
+  "artist": "40mP feat.GUMI",
+  "collection": "【🍠🦍歌切】[2026-09-09]欢迎新观众！一起唱歌吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJYa6sEuk?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "【🍠🦍歌切】[2026-09-09]欢迎新观众！一起唱歌吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJYa6sEuk?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "トライアングラー",
+  "artist": "坂本真綾",
+  "collection": "【🍠🦍歌切】[2026-09-09]欢迎新观众！一起唱歌吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJYa6sEuk?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アムリタ",
+  "artist": "牧野由依",
+  "collection": "【🍠🦍歌切】[2026-09-09]欢迎新观众！一起唱歌吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJYa6sEuk?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アントワネットブルー",
+  "artist": "北出菜奈",
+  "collection": "【🍠🦍歌切】[2026-09-09]欢迎新观众！一起唱歌吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJYa6sEuk?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "キミに100パーセント",
+  "artist": "きゃりーぱみゅぱみゅ",
+  "collection": "【🍠🦍歌切】[2026-09-09]欢迎新观众！一起唱歌吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJYa6sEuk?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "オラはにんきもの",
+  "artist": "のはらしんのすけ",
+  "collection": "【🍠🦍歌切】[2026-09-09]欢迎新观众！一起唱歌吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJYa6sEuk?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Believe in tomorrow",
+  "artist": "Sunflower's Garden",
+  "collection": "【🍠🦍歌切】[2026-09-09]欢迎新观众！一起唱歌吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJYa6sEuk?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Doubt & Trust 〜ダウト&トラスト〜",
+  "artist": "access",
+  "collection": "【🍠🦍歌切】[2026-09-09]欢迎新观众！一起唱歌吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJYa6sEuk?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "OLA!!",
+  "artist": "ゆず",
+  "collection": "【🍠🦍歌切】[2026-09-09]欢迎新观众！一起唱歌吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJYa6sEuk?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "小悪魔だってかまわない！",
+  "artist": "HoneyWorks feat.初音ミク",
+  "collection": "【🍠🦍歌切】[2026-09-09]欢迎新观众！一起唱歌吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SJYa6sEuk?p=20",
   "source": "yoshika.js"
 }
 );
