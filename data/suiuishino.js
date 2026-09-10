@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 9/10/2026, 6:49:14 PM
+// 生成时间: 9/10/2026, 8:11:09 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3947,6 +3947,142 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=16",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN feat.鏡音リン",
+  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "アイロニ",
+  "artist": "すこっぷ feat.初音ミク",
+  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "マカロニ",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "フラレガイガール",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "深い森",
+  "artist": "Do As Infinity",
+  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ポロメリア",
+  "artist": "Cocco",
+  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "アストロノーツ",
+  "artist": "椎名もた(ぽわぽわP) feat.初音ミク",
+  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "泡沫花火",
+  "artist": "神はサイコロを振らない",
+  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "すずめ feat.十明",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "-ERROR",
+  "artist": "niki feat.Lily",
+  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Departures ～あなたにおくるアイの歌～",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ウィアートル",
+  "artist": "rionos",
+  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=15",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "僕は...",
+  "artist": "あたらよ",
+  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=16",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "パレード",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=17",
   "source": "suiuishino.js"
 }
 );

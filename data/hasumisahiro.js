@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 9/10/2026, 6:32:39 PM
+// 生成时间: 9/10/2026, 7:56:25 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2787,6 +2787,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-09]今天状态相当不错♪稍微唱唱歌、聊聊天【羽澄さひろ┆VEE】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvYb6mEPa?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "土星の窓辺",
+  "artist": "TOKOTOKO(西沢さんP) feat.ちょまいよ",
+  "collection": "【歌切】[2026-09-10]唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xbYV6iEXv?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "僕のかわい子ちゃん",
+  "artist": "MON7A",
+  "collection": "【歌切】[2026-09-10]唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xbYV6iEXv?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "あなたは煙草　私はシャボン",
+  "artist": "ラブリーサマーちゃん",
+  "collection": "【歌切】[2026-09-10]唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xbYV6iEXv?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "思い出せなくなるその日まで",
+  "artist": "back number",
+  "collection": "【歌切】[2026-09-10]唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xbYV6iEXv?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "One Room",
+  "artist": "back number",
+  "collection": "【歌切】[2026-09-10]唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xbYV6iEXv?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "はじまりはじまり",
+  "artist": "back number",
+  "collection": "【歌切】[2026-09-10]唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xbYV6iEXv?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "君の恋人になったら",
+  "artist": "back number",
+  "collection": "【歌切】[2026-09-10]唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xbYV6iEXv?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "僕の名前を",
+  "artist": "back number",
+  "collection": "【歌切】[2026-09-10]唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xbYV6iEXv?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "楽園の地図",
+  "artist": "back number",
+  "collection": "【歌切】[2026-09-10]唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xbYV6iEXv?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "リッツパーティー",
+  "artist": "back number",
+  "collection": "【歌切】[2026-09-10]唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xbYV6iEXv?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "助演女優症",
+  "artist": "back number",
+  "collection": "【歌切】[2026-09-10]唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xbYV6iEXv?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "スーパースターになったら",
+  "artist": "back number",
+  "collection": "【歌切】[2026-09-10]唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xbYV6iEXv?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "君がドアを閉めた後",
+  "artist": "back number",
+  "collection": "【歌切】[2026-09-10]唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xbYV6iEXv?p=13",
   "source": "hasumisahiro.js"
 }
 );
