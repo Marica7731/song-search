@@ -1,6 +1,6 @@
 // 透夏 - 歌单数据 (多合集汇总)
 // 来源: BV1CbVk68ESd
-// 生成时间: 8/24/2026, 6:11:36 AM
+// 生成时间: 9/10/2026, 9:07:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -787,6 +787,14 @@ window.SONG_DATA.push(
   "collection": "歌切【透夏】[2026-08-10]8月的电台直播🎐",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jGuk6qEKk?p=6",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "空に免じて",
+  "artist": "傘村トータ feat.初音ミク",
+  "collection": "空に免じて - 傘村トータ feat.初音ミク",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gpYV6rEMw?p=1",
   "source": "toka10summer.js"
 }
 );

@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 9/10/2026, 7:28:34 PM
+// 生成时间: 9/10/2026, 8:29:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -13931,6 +13931,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ボクノート",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "RAIN",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "北埼玉ブルース",
+  "artist": "のはらひろし(藤原啓治)",
+  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Square",
+  "artist": "Yerin Baek",
+  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH//",
+  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "隣に…",
+  "artist": "三浦あずさ(CV.たかはし智秋)",
+  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愛とか恋とか",
+  "artist": "Novelbright",
+  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "あの夢をなぞって",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Pray",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "白銀",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "軌跡",
+  "artist": "Roselia",
+  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=12",
   "source": "naraetan.js"
 }
 );
