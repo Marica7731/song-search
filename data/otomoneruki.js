@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 9/10/2026, 8:41:06 PM
+// 生成时间: 9/10/2026, 9:39:37 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6147,6 +6147,134 @@ window.SONG_DATA.push(
   "collection": "【👿歌切】[2026-08-19]适合当广播听的午间歌回📻🎶进行各种直播测试👿💪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q5bo6cEFU?p=10",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "鬼事",
+  "artist": "中島健人",
+  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ひゅるりらぱっぱ",
+  "artist": "tuki.",
+  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Plazma",
+  "artist": "米津玄師",
+  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "コロンブス",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "飛ぶ時",
+  "artist": "Vaundy",
+  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=6",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ラフ・メイカー",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=7",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "CHA-LA HEAD-CHA-LA",
+  "artist": "影山ヒロノブ",
+  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=8",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Just Be Friends",
+  "artist": "Dixie Flatline feat.巡音ルカ",
+  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=9",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "STAND UP TO THE VICTORY ～トゥ・ザ・ヴィクトリー～",
+  "artist": "川添智久",
+  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=10",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "一体いつから",
+  "artist": "月村手毬(CV.小鹿なお)",
+  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=11",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=12",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH//",
+  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=13",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat.初音ミク",
+  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=14",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "JITTERIN'JINN",
+  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=15",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=16",
   "source": "otomoneruki.js"
 }
 );
