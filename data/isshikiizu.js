@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 9/13/2026, 2:43:53 AM
+// 生成时间: 9/13/2026, 3:43:01 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5019,6 +5019,246 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-09]为你送上治愈与活力！🌟🎤欢迎新观众【一色イズ】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ueYb6EErJ?p=35",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "わたしの一番かわいいところ",
+  "artist": "FRUITS ZIPPER",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "金曜日のおはよう",
+  "artist": "HoneyWorks feat.GUMI",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アイ・アイ・ア",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アイワナムチュー",
+  "artist": "MAISONdes feat.asmi,すりぃ",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "強風オールバック",
+  "artist": "Yukopi feat.歌愛ユキ",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "オーバーライド",
+  "artist": "吉田夜世 feat.重音テト",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "神っぽいな",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat.巡音ルカ",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "オトナブルー",
+  "artist": "新しい学校のリーダーズ",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "キューティーハニー",
+  "artist": "前川陽子",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "レディメイド",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ウタカタララバイ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "KICK BACK",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "UNDEAD",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "幽霊東京",
+  "artist": "Ayase feat.初音ミク",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "永遠のあくる日",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=22",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "愛唄",
+  "artist": "GReeeeN",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=23",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=24",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "パジャマパーティーズのうた",
+  "artist": "パジャマパーティーズ",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=25",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "わたしに花束",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=26",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=27",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "粛聖!! ロリ神レクイエム☆",
+  "artist": "しぐれうい",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=28",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=29",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=30",
   "source": "isshikiizu.js"
 }
 );
