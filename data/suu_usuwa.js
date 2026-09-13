@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 9/13/2026, 4:08:03 AM
+// 生成时间: 9/13/2026, 5:15:43 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -22779,6 +22779,46 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-09-12]REVERBERATION响彻四方歌回接力｜打头阵！！！！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxYY6gERM?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "夜空を煌めく星のように",
+  "artist": "DRAMATIC STARS & High×Joker",
+  "collection": "【🦢歌切】[2026-09-11]响彻宇宙歌回接力🌌满天星空下开唱！🛸【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EJYY65EfR?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Starry night",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-09-11]响彻宇宙歌回接力🌌满天星空下开唱！🛸【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EJYY65EfR?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【🦢歌切】[2026-09-11]响彻宇宙歌回接力🌌满天星空下开唱！🛸【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EJYY65EfR?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ゆーえふおー",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-09-11]响彻宇宙歌回接力🌌满天星空下开唱！🛸【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EJYY65EfR?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "What 'bout my star?",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【🦢歌切】[2026-09-11]响彻宇宙歌回接力🌌满天星空下开唱！🛸【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EJYY65EfR?p=5",
   "source": "suu_usuwa.js"
 }
 );

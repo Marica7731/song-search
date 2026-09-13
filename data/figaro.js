@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 9/13/2026, 4:03:14 AM
+// 生成时间: 9/13/2026, 5:11:51 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -34883,6 +34883,118 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-09-09]这雨是不是比梅雨季还要漫长？【Figaro】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tvYb6mEbh?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "SUN",
+  "artist": "星野源",
+  "collection": "【💐歌切】[2026-09-11]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcYY64EiB?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "ブレーメン",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-09-11]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcYY64EiB?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-09-11]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcYY64EiB?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-09-11]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcYY64EiB?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【💐歌切】[2026-09-11]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcYY64EiB?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "Plazma",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-09-11]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcYY64EiB?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【💐歌切】[2026-09-11]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcYY64EiB?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "GHOST",
+  "artist": "星街すいせい",
+  "collection": "【💐歌切】[2026-09-11]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcYY64EiB?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "天球、彗星は夜を跨いで",
+  "artist": "星街すいせい",
+  "collection": "【💐歌切】[2026-09-11]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcYY64EiB?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "放送室",
+  "artist": "星街すいせい",
+  "collection": "【💐歌切】[2026-09-11]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcYY64EiB?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "ルーマー",
+  "artist": "ポリスピカデリー feat.GUMI",
+  "collection": "【💐歌切】[2026-09-11]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcYY64EiB?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "さみしいひと",
+  "artist": "理芽",
+  "collection": "【💐歌切】[2026-09-11]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcYY64EiB?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "メルティランドナイトメア",
+  "artist": "はるまきごはん feat.初音ミク",
+  "collection": "【💐歌切】[2026-09-11]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcYY64EiB?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【💐歌切】[2026-09-11]欢迎回来——！【Figaro】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcYY64EiB?p=14",
   "source": "figaro.js"
 }
 );

@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 9/13/2026, 4:01:11 AM
+// 生成时间: 9/13/2026, 5:09:45 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14027,6 +14027,150 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "冒険でしょでしょ?",
+  "artist": "平野綾",
+  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾、茅原実里、後藤邑子",
+  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "courage",
+  "artist": "戸松遥",
+  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "リフレクティア",
+  "artist": "eufonius",
+  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "はなまるぴっぴはよいこだけ",
+  "artist": "A応P",
+  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Over Soul",
+  "artist": "林原めぐみ",
+  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ホウキ雲",
+  "artist": "RYTHEM",
+  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "1991",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アンインストール",
+  "artist": "石川智晶",
+  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "学園天国",
+  "artist": "フィンガー5",
+  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ピアノ泥棒",
+  "artist": "amazarashi",
+  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "不完全燃焼",
+  "artist": "石川智晶",
+  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "盛れ!ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=18",
   "source": "naraetan.js"
 }
 );

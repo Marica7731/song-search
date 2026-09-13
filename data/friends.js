@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 9/13/2026, 4:23:25 AM
+// 生成时间: 9/13/2026, 5:28:51 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4251,6 +4251,54 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-09-08 和松永依織前辈线下联动一起唱歌！！！ ✧ 伊月知世",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FBYn6CECM?p=10",
+  "source": "friends.js"
+},
+    {
+  "title": "Starry☆Melody",
+  "artist": "Sputrip",
+  "collection": "Sputrip パレプロ 2026-09-11 6周年纪念Live -演出环节-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bwYY6dE4g?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "Citylight Fantasy",
+  "artist": "Sputrip",
+  "collection": "Sputrip パレプロ 2026-09-11 6周年纪念Live -演出环节-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bwYY6dE4g?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "トイ×トイ☆パーティー！",
+  "artist": "Sputrip",
+  "collection": "Sputrip パレプロ 2026-09-11 6周年纪念Live -演出环节-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bwYY6dE4g?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "Breeze in the Sun",
+  "artist": "Sputrip",
+  "collection": "Sputrip パレプロ 2026-09-11 6周年纪念Live -演出环节-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bwYY6dE4g?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "Like A Night Cruising",
+  "artist": "Sputrip",
+  "collection": "Sputrip パレプロ 2026-09-11 6周年纪念Live -演出环节-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bwYY6dE4g?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "浮かれたってムテキ",
+  "artist": "Sputrip",
+  "collection": "Sputrip パレプロ 2026-09-11 6周年纪念Live -演出环节-",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bwYY6dE4g?p=6",
   "source": "friends.js"
 }
 );
