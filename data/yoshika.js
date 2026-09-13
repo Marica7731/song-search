@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 9/13/2026, 6:21:29 AM
+// 生成时间: 9/13/2026, 7:26:13 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -39515,6 +39515,182 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-09-09]欢迎新观众！一起唱歌吧～！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SJYa6sEuk?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【🍠🦍歌切】[2026-09-11]欢迎新观众！今天很凉快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYa6GEB3?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "松本梨香",
+  "collection": "【🍠🦍歌切】[2026-09-11]欢迎新观众！今天很凉快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYa6GEB3?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "【🍠🦍歌切】[2026-09-11]欢迎新观众！今天很凉快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYa6GEB3?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "盛れ!ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【🍠🦍歌切】[2026-09-11]欢迎新观众！今天很凉快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYa6GEB3?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ドレミファロンド",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【🍠🦍歌切】[2026-09-11]欢迎新观众！今天很凉快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYa6GEB3?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【🍠🦍歌切】[2026-09-11]欢迎新观众！今天很凉快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYa6GEB3?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Diamonds",
+  "artist": "PRINCESS PRINCESS",
+  "collection": "【🍠🦍歌切】[2026-09-11]欢迎新观众！今天很凉快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYa6GEB3?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "未来のミュージアム",
+  "artist": "Perfume",
+  "collection": "【🍠🦍歌切】[2026-09-11]欢迎新观众！今天很凉快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYa6GEB3?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "撲殺天使ドクロちゃん",
+  "artist": "ドクロちゃん(千葉紗子)",
+  "collection": "【🍠🦍歌切】[2026-09-11]欢迎新观众！今天很凉快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYa6GEB3?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "緋色の空",
+  "artist": "川田まみ",
+  "collection": "【🍠🦍歌切】[2026-09-11]欢迎新观众！今天很凉快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYa6GEB3?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "First kiss",
+  "artist": "ICHIKO",
+  "collection": "【🍠🦍歌切】[2026-09-11]欢迎新观众！今天很凉快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYa6GEB3?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "リアルワールド",
+  "artist": "nano.RIPE",
+  "collection": "【🍠🦍歌切】[2026-09-11]欢迎新观众！今天很凉快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYa6GEB3?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "departure!",
+  "artist": "小野正利",
+  "collection": "【🍠🦍歌切】[2026-09-11]欢迎新观众！今天很凉快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYa6GEB3?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "絶世美人",
+  "artist": "絶望少女達(風浦可符香、木津千里、木村カエレ、日塔奈美)",
+  "collection": "【🍠🦍歌切】[2026-09-11]欢迎新观众！今天很凉快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYa6GEB3?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "想い咲く時",
+  "artist": "アオイエマ。",
+  "collection": "【🍠🦍歌切】[2026-09-11]欢迎新观众！今天很凉快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYa6GEB3?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋はなんだろう",
+  "artist": "七海るちあ(中田あすみ)",
+  "collection": "【🍠🦍歌切】[2026-09-11]欢迎新观众！今天很凉快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYa6GEB3?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "希望の鐘音 ～Love goes on～",
+  "artist": "7Mermaid",
+  "collection": "【🍠🦍歌切】[2026-09-11]欢迎新观众！今天很凉快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYa6GEB3?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Bloomin'",
+  "artist": "山田涼介",
+  "collection": "【🍠🦍歌切】[2026-09-11]欢迎新观众！今天很凉快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYa6GEB3?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Over the Top",
+  "artist": "きただにひろし",
+  "collection": "【🍠🦍歌切】[2026-09-11]欢迎新观众！今天很凉快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYa6GEB3?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "スタァライトシアター",
+  "artist": "スタァライト九九組",
+  "collection": "【🍠🦍歌切】[2026-09-11]欢迎新观众！今天很凉快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYa6GEB3?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "かもめが翔んだ日",
+  "artist": "渡辺真知子",
+  "collection": "【🍠🦍歌切】[2026-09-11]欢迎新观众！今天很凉快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYa6GEB3?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "舞風",
+  "artist": "吉岡亜衣加",
+  "collection": "【🍠🦍歌切】[2026-09-11]欢迎新观众！今天很凉快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fBYa6GEB3?p=22",
   "source": "yoshika.js"
 }
 );
