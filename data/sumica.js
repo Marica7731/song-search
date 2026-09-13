@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 9/13/2026, 5:27:32 AM
+// 生成时间: 9/13/2026, 6:31:17 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9075,6 +9075,174 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-09-08]想在更加悠闲的氛围中度过夜晚‪𓂃 𓈒𓏸￤澄花 / ぷろぶる",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fBYn6kE8r?p=24",
+  "source": "sumica.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-09-12]晚饭前要大唱特唱！！！拿来当BGM吧～～🎧¦澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rvYa65EPt?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "そっけない",
+  "artist": "RADWIMPS",
+  "collection": "【💐🎸歌切】[2026-09-12]晚饭前要大唱特唱！！！拿来当BGM吧～～🎧¦澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rvYa65EPt?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【💐🎸歌切】[2026-09-12]晚饭前要大唱特唱！！！拿来当BGM吧～～🎧¦澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rvYa65EPt?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "花火",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-12]晚饭前要大唱特唱！！！拿来当BGM吧～～🎧¦澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rvYa65EPt?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "くちびる",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-12]晚饭前要大唱特唱！！！拿来当BGM吧～～🎧¦澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rvYa65EPt?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "ベーコンエピ",
+  "artist": "TOMOO",
+  "collection": "【💐🎸歌切】[2026-09-12]晚饭前要大唱特唱！！！拿来当BGM吧～～🎧¦澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rvYa65EPt?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "コントラスト",
+  "artist": "TOMOO",
+  "collection": "【💐🎸歌切】[2026-09-12]晚饭前要大唱特唱！！！拿来当BGM吧～～🎧¦澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rvYa65EPt?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【💐🎸歌切】[2026-09-12]晚饭前要大唱特唱！！！拿来当BGM吧～～🎧¦澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rvYa65EPt?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "魔法が解けたら",
+  "artist": "Saucy Dog",
+  "collection": "【💐🎸歌切】[2026-09-12]晚饭前要大唱特唱！！！拿来当BGM吧～～🎧¦澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rvYa65EPt?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "君とインドカレー",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-09-12]晚饭前要大唱特唱！！！拿来当BGM吧～～🎧¦澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rvYa65EPt?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "君がおじいちゃんあたしがおばあちゃん",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-09-12]晚饭前要大唱特唱！！！拿来当BGM吧～～🎧¦澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rvYa65EPt?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "【💐🎸歌切】[2026-09-12]晚饭前要大唱特唱！！！拿来当BGM吧～～🎧¦澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rvYa65EPt?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-09-12]晚饭前要大唱特唱！！！拿来当BGM吧～～🎧¦澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rvYa65EPt?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "【💐🎸歌切】[2026-09-12]晚饭前要大唱特唱！！！拿来当BGM吧～～🎧¦澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rvYa65EPt?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "パープル",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-09-12]晚饭前要大唱特唱！！！拿来当BGM吧～～🎧¦澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rvYa65EPt?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-09-12]晚饭前要大唱特唱！！！拿来当BGM吧～～🎧¦澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rvYa65EPt?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-09-12]晚饭前要大唱特唱！！！拿来当BGM吧～～🎧¦澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rvYa65EPt?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "Shout Baby",
+  "artist": "緑黄色社会",
+  "collection": "【💐🎸歌切】[2026-09-12]晚饭前要大唱特唱！！！拿来当BGM吧～～🎧¦澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rvYa65EPt?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "紡ぐ",
+  "artist": "とた",
+  "collection": "【💐🎸歌切】[2026-09-12]晚饭前要大唱特唱！！！拿来当BGM吧～～🎧¦澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rvYa65EPt?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヒカレイノチ",
+  "artist": "Kitri",
+  "collection": "【💐🎸歌切】[2026-09-12]晚饭前要大唱特唱！！！拿来当BGM吧～～🎧¦澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rvYa65EPt?p=20",
+  "source": "sumica.js"
+},
+    {
+  "title": "泣き虫上等",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-12]晚饭前要大唱特唱！！！拿来当BGM吧～～🎧¦澄花 / ぷろぶる",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rvYa65EPt?p=21",
   "source": "sumica.js"
 }
 );
