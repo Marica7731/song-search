@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 9/13/2026, 3:36:27 AM
+// 生成时间: 9/13/2026, 4:44:59 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9507,6 +9507,174 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-08]周二定期🎙第一次来的观众也进来看看吧【茨むあん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fBYn6kEbK?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-09-11]今天想多唱些舒缓的歌👆【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tfYa6ZE1V?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "【歌切】[2026-09-11]今天想多唱些舒缓的歌👆【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tfYa6ZE1V?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "やさしさで溢れるように",
+  "artist": "JUJU",
+  "collection": "【歌切】[2026-09-11]今天想多唱些舒缓的歌👆【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tfYa6ZE1V?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師、宇多田ヒカル",
+  "collection": "【歌切】[2026-09-11]今天想多唱些舒缓的歌👆【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tfYa6ZE1V?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "あなたがいることで",
+  "artist": "Uru",
+  "collection": "【歌切】[2026-09-11]今天想多唱些舒缓的歌👆【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tfYa6ZE1V?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "【歌切】[2026-09-11]今天想多唱些舒缓的歌👆【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tfYa6ZE1V?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ",
+  "collection": "【歌切】[2026-09-11]今天想多唱些舒缓的歌👆【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tfYa6ZE1V?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "レイン",
+  "artist": "シド",
+  "collection": "【歌切】[2026-09-11]今天想多唱些舒缓的歌👆【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tfYa6ZE1V?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "月光花",
+  "artist": "Janne Da Arc",
+  "collection": "【歌切】[2026-09-11]今天想多唱些舒缓的歌👆【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tfYa6ZE1V?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "モザイクカケラ",
+  "artist": "SunSet Swish",
+  "collection": "【歌切】[2026-09-11]今天想多唱些舒缓的歌👆【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tfYa6ZE1V?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "真っ赤な空を見ただろうか",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-09-11]今天想多唱些舒缓的歌👆【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tfYa6ZE1V?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-09-11]今天想多唱些舒缓的歌👆【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tfYa6ZE1V?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-09-11]今天想多唱些舒缓的歌👆【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tfYa6ZE1V?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-09-11]今天想多唱些舒缓的歌👆【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tfYa6ZE1V?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "CITRUS",
+  "artist": "Da-iCE",
+  "collection": "【歌切】[2026-09-11]今天想多唱些舒缓的歌👆【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tfYa6ZE1V?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "メトロノーム",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-11]今天想多唱些舒缓的歌👆【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tfYa6ZE1V?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "【歌切】[2026-09-11]今天想多唱些舒缓的歌👆【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tfYa6ZE1V?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ちっぽけな愛のうた",
+  "artist": "大原櫻子 as 小枝理子",
+  "collection": "【歌切】[2026-09-11]今天想多唱些舒缓的歌👆【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tfYa6ZE1V?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "YELL",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-09-11]今天想多唱些舒缓的歌👆【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tfYa6ZE1V?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "me me she",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-11]今天想多唱些舒缓的歌👆【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tfYa6ZE1V?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "たぶん",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-11]今天想多唱些舒缓的歌👆【茨むあん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tfYa6ZE1V?p=21",
   "source": "ibaramuan.js"
 }
 );

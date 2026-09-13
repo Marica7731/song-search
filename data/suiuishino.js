@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 9/13/2026, 3:45:13 AM
+// 生成时间: 9/13/2026, 4:53:29 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4083,6 +4083,198 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=17",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "UNDEAD",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "青い春",
+  "artist": "back number",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "翡翠のまち",
+  "artist": "メル feat.初音ミク",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "main actor",
+  "artist": "美波",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "透明だった世界",
+  "artist": "秦基博",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "少女S",
+  "artist": "SCANDAL",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "カヌレ",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat.初音ミク",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=15",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "スターライト",
+  "artist": "amazarashi",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=16",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=17",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=18",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "修羅",
+  "artist": "DOES",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=19",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ファジーネーブル",
+  "artist": "Conton Candy",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=20",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "あの夏のいつかは",
+  "artist": "*Luna feat.音街ウナ・鏡音レン",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=21",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "夜の踊り子",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=22",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "バレンタイン・キッス",
+  "artist": "国生さゆり",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=23",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV141YY64EWz?p=24",
   "source": "suiuishino.js"
 }
 );

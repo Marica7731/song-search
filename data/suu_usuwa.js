@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 9/13/2026, 3:07:19 AM
+// 生成时间: 9/13/2026, 4:08:03 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -22739,6 +22739,46 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-09-04]Re:AcT二期生8周年歌回接力｜第一棒～～～～～！！！【稀羽すう / Re:AcT】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WLbH6CEZm?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "独白",
+  "artist": "坂本真綾",
+  "collection": "【🦢歌切】[2026-09-12]REVERBERATION响彻四方歌回接力｜打头阵！！！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxYY6gERM?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ハレンチ",
+  "artist": "ちゃんみな",
+  "collection": "【🦢歌切】[2026-09-12]REVERBERATION响彻四方歌回接力｜打头阵！！！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxYY6gERM?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "右肩の蝶",
+  "artist": "のりぴー feat.鏡音リン",
+  "collection": "【🦢歌切】[2026-09-12]REVERBERATION响彻四方歌回接力｜打头阵！！！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxYY6gERM?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ナラタージュ",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-09-12]REVERBERATION响彻四方歌回接力｜打头阵！！！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxYY6gERM?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Cry Baby",
+  "artist": "Official髭男dism",
+  "collection": "【🦢歌切】[2026-09-12]REVERBERATION响彻四方歌回接力｜打头阵！！！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jxYY6gERM?p=5",
   "source": "suu_usuwa.js"
 }
 );
