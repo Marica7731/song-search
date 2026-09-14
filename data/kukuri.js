@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 9/14/2026, 8:27:48 PM
+// 生成时间: 9/14/2026, 9:28:44 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6411,6 +6411,166 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-09-06]太阳快出来吧~☀️【戸鎖くくり】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1E7bP6EECL?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-09-14]来听我唱歌吧~.ᐟ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oweL6dE9n?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Planetes",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-09-14]来听我唱歌吧~.ᐟ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oweL6dE9n?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "燈",
+  "artist": "崎山蒼志",
+  "collection": "【💫✖歌切】[2026-09-14]来听我唱歌吧~.ᐟ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oweL6dE9n?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "この世界で見つけたもの",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-09-14]来听我唱歌吧~.ᐟ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oweL6dE9n?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【💫✖歌切】[2026-09-14]来听我唱歌吧~.ᐟ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oweL6dE9n?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI",
+  "collection": "【💫✖歌切】[2026-09-14]来听我唱歌吧~.ᐟ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oweL6dE9n?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "片想い",
+  "artist": "miwa",
+  "collection": "【💫✖歌切】[2026-09-14]来听我唱歌吧~.ᐟ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oweL6dE9n?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "恋",
+  "artist": "奥華子",
+  "collection": "【💫✖歌切】[2026-09-14]来听我唱歌吧~.ᐟ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oweL6dE9n?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ninelie",
+  "artist": "Aimer with chelly (EGOIST)",
+  "collection": "【💫✖歌切】[2026-09-14]来听我唱歌吧~.ᐟ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oweL6dE9n?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "RE:I AM",
+  "artist": "Aimer",
+  "collection": "【💫✖歌切】[2026-09-14]来听我唱歌吧~.ᐟ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oweL6dE9n?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "I beg you",
+  "artist": "Aimer",
+  "collection": "【💫✖歌切】[2026-09-14]来听我唱歌吧~.ᐟ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oweL6dE9n?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "花の唄",
+  "artist": "Aimer",
+  "collection": "【💫✖歌切】[2026-09-14]来听我唱歌吧~.ᐟ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oweL6dE9n?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "六等星の夜",
+  "artist": "Aimer",
+  "collection": "【💫✖歌切】[2026-09-14]来听我唱歌吧~.ᐟ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oweL6dE9n?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ワルツ",
+  "artist": "いとうかなこ",
+  "collection": "【💫✖歌切】[2026-09-14]来听我唱歌吧~.ᐟ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oweL6dE9n?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "悲しみの向こうへ",
+  "artist": "いとうかなこ",
+  "collection": "【💫✖歌切】[2026-09-14]来听我唱歌吧~.ᐟ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oweL6dE9n?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "F.D.D.",
+  "artist": "いとうかなこ",
+  "collection": "【💫✖歌切】[2026-09-14]来听我唱歌吧~.ᐟ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oweL6dE9n?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "アマデウス",
+  "artist": "いとうかなこ",
+  "collection": "【💫✖歌切】[2026-09-14]来听我唱歌吧~.ᐟ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oweL6dE9n?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ファティマ",
+  "artist": "いとうかなこ",
+  "collection": "【💫✖歌切】[2026-09-14]来听我唱歌吧~.ᐟ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oweL6dE9n?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Hacking to the Gate",
+  "artist": "いとうかなこ",
+  "collection": "【💫✖歌切】[2026-09-14]来听我唱歌吧~.ᐟ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oweL6dE9n?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【💫✖歌切】[2026-09-14]来听我唱歌吧~.ᐟ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oweL6dE9n?p=20",
   "source": "kukuri.js"
 }
 );

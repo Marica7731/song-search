@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 9/14/2026, 8:35:18 PM
+// 生成时间: 9/14/2026, 9:36:54 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -19195,6 +19195,190 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-09-07]钢琴改编动画歌曲✧【凛々咲 / Ririsya】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vdbu6oEK6?p=22",
+  "source": "ririsya.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ないない",
+  "artist": "ReoNa",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "廻廻奇譚",
+  "artist": "Eve",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "聖少女領域",
+  "artist": "ALI PROJECT",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "独りんぼエンヴィ",
+  "artist": "電ポルP feat.初音ミク",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ヴィラン",
+  "artist": "てにをは feat.flower",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ボッカデラベリタ",
+  "artist": "柊キライ feat.flower",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ダーリンダンス",
+  "artist": "かいりきベア feat.初音ミク",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat.可不",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "神っぽいな",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "食虫植物",
+  "artist": "理芽",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "だーいすきだよ",
+  "artist": "Neko Hacker feat.をとは",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "失楽園",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=18",
+  "source": "ririsya.js"
+},
+    {
+  "title": "SnekQueen",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=19",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=20",
+  "source": "ririsya.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=21",
+  "source": "ririsya.js"
+},
+    {
+  "title": "罪と罰",
+  "artist": "椎名林檎",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=22",
+  "source": "ririsya.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス feat.可不",
+  "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=23",
   "source": "ririsya.js"
 }
 );

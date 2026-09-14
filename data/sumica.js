@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 9/14/2026, 8:47:20 PM
+// 生成时间: 9/14/2026, 9:51:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9243,6 +9243,102 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-09-12]晚饭前要大唱特唱！！！拿来当BGM吧～～🎧¦澄花 / ぷろぶる",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rvYa65EPt?p=21",
+  "source": "sumica.js"
+},
+    {
+  "title": "右手のネイル",
+  "artist": "とた",
+  "collection": "【💐🎸歌切】[2026-09-13]欢迎新观众！虽然比平时短一点，也要唱很多歌哦哦哦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1egeL6nEF4?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【💐🎸歌切】[2026-09-13]欢迎新观众！虽然比平时短一点，也要唱很多歌哦哦哦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1egeL6nEF4?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "ちょっと待って！",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-13]欢迎新观众！虽然比平时短一点，也要唱很多歌哦哦哦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1egeL6nEF4?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "心に穴が空いた",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-09-13]欢迎新观众！虽然比平时短一点，也要唱很多歌哦哦哦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1egeL6nEF4?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "爆弾魔",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-09-13]欢迎新观众！虽然比平时短一点，也要唱很多歌哦哦哦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1egeL6nEF4?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【💐🎸歌切】[2026-09-13]欢迎新观众！虽然比平时短一点，也要唱很多歌哦哦哦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1egeL6nEF4?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "西藤公園",
+  "artist": "back number",
+  "collection": "【💐🎸歌切】[2026-09-13]欢迎新观众！虽然比平时短一点，也要唱很多歌哦哦哦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1egeL6nEF4?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "メロウ",
+  "artist": "須田景凪",
+  "collection": "【💐🎸歌切】[2026-09-13]欢迎新观众！虽然比平时短一点，也要唱很多歌哦哦哦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1egeL6nEF4?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "あかときリロード",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-13]欢迎新观众！虽然比平时短一点，也要唱很多歌哦哦哦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1egeL6nEF4?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "センチメンタル・キス",
+  "artist": "汐れいら",
+  "collection": "【💐🎸歌切】[2026-09-13]欢迎新观众！虽然比平时短一点，也要唱很多歌哦哦哦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1egeL6nEF4?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "ミスター・ブルースカイ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【💐🎸歌切】[2026-09-13]欢迎新观众！虽然比平时短一点，也要唱很多歌哦哦哦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1egeL6nEF4?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "一日惚れ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-13]欢迎新观众！虽然比平时短一点，也要唱很多歌哦哦哦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1egeL6nEF4?p=12",
   "source": "sumica.js"
 }
 );
