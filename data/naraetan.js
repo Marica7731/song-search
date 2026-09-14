@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 9/14/2026, 4:58:34 AM
+// 生成时间: 9/14/2026, 5:51:16 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14171,6 +14171,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "カルマ",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "sailing day",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "BOW AND ARROW",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "記憶を歩く時間",
+  "artist": "NELL",
+  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アイノカタチ",
+  "artist": "MISIA",
+  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "セプテンバーさん",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "月灯りふんわり落ちてくる夜",
+  "artist": "小川七生",
+  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "あんなに一緒だったのに",
+  "artist": "See-Saw",
+  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Q&A リサイタル!",
+  "artist": "戸松遥",
+  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=12",
   "source": "naraetan.js"
 }
 );
