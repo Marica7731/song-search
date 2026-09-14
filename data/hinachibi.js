@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 9/14/2026, 2:25:33 AM
+// 生成时间: 9/14/2026, 3:27:02 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2659,6 +2659,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-08]今天也辛苦一天啦！回家路上放松听听吧🎶【緋那ちび】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gaYb6SE4F?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【歌切】[2026-09-13]准备明天的事情时也来听听吧♪随心唱！！【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1e1Yr6bEVX?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "magnet",
+  "artist": "minato feat.初音ミク・巡音ルカ",
+  "collection": "【歌切】[2026-09-13]准备明天的事情时也来听听吧♪随心唱！！【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1e1Yr6bEVX?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "快晴",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-09-13]准备明天的事情时也来听听吧♪随心唱！！【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1e1Yr6bEVX?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "東京オータムセッション",
+  "artist": "HoneyWorks feat.瀬戸口優(神谷浩史)・榎本夏樹(戸松遥)・望月蒼太(梶裕貴)・早坂あかり(阿澄佳奈)・芹沢春",
+  "collection": "【歌切】[2026-09-13]准备明天的事情时也来听听吧♪随心唱！！【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1e1Yr6bEVX?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "言葉のいらない約束",
+  "artist": "sana",
+  "collection": "【歌切】[2026-09-13]准备明天的事情时也来听听吧♪随心唱！！【緋那ちび】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1e1Yr6bEVX?p=5",
   "source": "hinachibi.js"
 }
 );
