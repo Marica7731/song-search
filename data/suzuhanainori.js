@@ -1,6 +1,6 @@
 // 鈴花いのり - 歌单数据 (多合集汇总)
 // 来源: BV1jyjK6sEns
-// 生成时间: 8/24/2026, 6:23:02 AM
+// 生成时间: 9/14/2026, 4:27:30 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4123,6 +4123,1374 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-22]早晨歌回𝜗𝜚.⋆ 用歌声送上清爽的早晨🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13R8p6fE48?p=40",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "夏色えがおで1, 2, Jump!",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=1",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "八月、某、月明かり",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=2",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "本気ボンバー!!",
+  "artist": "Berryz工房",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=3",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=4",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=5",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "東京サマーセッション",
+  "artist": "HoneyWorks feat.鎖那・CHiCO",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=6",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ヨワネハキ",
+  "artist": "MAISONdes feat.和ぬか, asmi",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=7",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "凍るサマー",
+  "artist": "Guiano",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=8",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "凍るサマー",
+  "artist": "Guiano",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=9",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "夕景イエスタデイ",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=10",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "オツキミリサイタル",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=11",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "如月アテンション",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=12",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "快晴",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=13",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=14",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=15",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=16",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "夕凪、某、花惑い",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=17",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=18",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=19",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "独白",
+  "artist": "DUSTCELL",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=20",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "寄り酔い",
+  "artist": "和ぬか",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=21",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Fire◎Flower",
+  "artist": "halyosy feat.鏡音レン",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=22",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=23",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "サマー",
+  "artist": "CY8ER",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=24",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "恋のうた",
+  "artist": "Yunomi feat.nicamoq",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=25",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ココロフロート",
+  "artist": "Yunomi feat.nicamoq",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=26",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ダンスフロアの果実",
+  "artist": "Yunomi feat.nicamoq",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=27",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=28",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=29",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "逃亡",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=30",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "チェリボム",
+  "artist": "SILENT SIREN",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=31",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "セプテンバーさん",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=32",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=33",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=34",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=35",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=36",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-08-27]夜间歌回𝜗𝜚.⋆ 久违地随心唱起来！🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV148tx6dE9f?p=37",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-09-04]Re:AcT二期生8周年歌回接力｜用歌声庆祝前辈8周年！🎀🔔‎🤍【鈴花いのり/Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2E?p=1",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "インドア系ならトラックメイカー",
+  "artist": "Yunomi & nicamoq",
+  "collection": "【歌切】[2026-09-04]Re:AcT二期生8周年歌回接力｜用歌声庆祝前辈8周年！🎀🔔‎🤍【鈴花いのり/Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2E?p=2",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki",
+  "collection": "【歌切】[2026-09-04]Re:AcT二期生8周年歌回接力｜用歌声庆祝前辈8周年！🎀🔔‎🤍【鈴花いのり/Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2E?p=3",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Catch the Moment",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-09-04]Re:AcT二期生8周年歌回接力｜用歌声庆祝前辈8周年！🎀🔔‎🤍【鈴花いのり/Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2E?p=4",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Happiness",
+  "artist": "嵐",
+  "collection": "【歌切】[2026-09-04]Re:AcT二期生8周年歌回接力｜用歌声庆祝前辈8周年！🎀🔔‎🤍【鈴花いのり/Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2E?p=5",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ドレミファロンド",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=1",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=2",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=3",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "エイリアンエイリアン",
+  "artist": "ナユタン星人 feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=4",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "おちゃめ機能",
+  "artist": "ゴジマジP feat.重音テト",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=5",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "神のまにまに",
+  "artist": "れるりり feat.初音ミク・鏡音リン・GUMI",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=6",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat.巡音ルカ・GUMI",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=7",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "メンタルチェンソー",
+  "artist": "P丸様。",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=8",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=9",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat.GUMI・鏡音リン",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=10",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "愛迷エレジー",
+  "artist": "DECO*27 feat.marina",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=11",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "1925",
+  "artist": "T-POCKET feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=12",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "妄想スケッチ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=13",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "妄想税",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=14",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "シャンティ",
+  "artist": "wotaku feat.KAITO",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=15",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "食虫植物",
+  "artist": "理芽",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=16",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "炉心融解",
+  "artist": "iroha(sasaki) feat.鏡音リン",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=17",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "おじゃま虫",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=18",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ゴーストルール",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=19",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "毒占欲",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=20",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "サイコグラム",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=21",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "愛言葉",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=22",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=23",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "霽れを待つ",
+  "artist": "Orangestar feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=24",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "セツナトリップ",
+  "artist": "Last Note. feat.GUMI",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=25",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "テレキャスタービーボーイ",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=26",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "敗北の少年",
+  "artist": "kemu feat.GUMI",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=27",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "カミサマネジマキ",
+  "artist": "kemu feat.GUMI",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=28",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "彗星ハネムーン",
+  "artist": "ナユタン星人 feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=29",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "初音ミクの消失",
+  "artist": "cosMo@暴走P feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=30",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "腐れ外道とチョコレゐト",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=31",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "エンヴィーキャットウォーク",
+  "artist": "トーマ feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=32",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "モノクロ∞ブルースカイ",
+  "artist": "のぼる↑ feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=33",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "アンハッピーリフレイン",
+  "artist": "wowaka feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=34",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ロストワンの号哭",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=35",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=36",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "アンノウン・マザーグース",
+  "artist": "wowaka feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=37",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "裏表ラバーズ",
+  "artist": "wowaka feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=38",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "脳漿炸裂ガール",
+  "artist": "れるりり feat.初音ミク・GUMI",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=39",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "聖槍爆裂ボーイ",
+  "artist": "れるりり・もじゃ feat.鏡音レン",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=40",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ギガンティックO.T.N",
+  "artist": "ギガP feat.鏡音レン",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=41",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "インビジブル",
+  "artist": "kemu feat.GUMI・鏡音リン",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=42",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "リスキーゲーム",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=43",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ミラーリング",
+  "artist": "バルーン feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=44",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "い〜やい〜やい〜や",
+  "artist": "Neru feat.鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=45",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria feat.GUMI",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=46",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "リンネ",
+  "artist": "ハチ feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=47",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=48",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ストリーミングハート",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=49",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "アイロニ",
+  "artist": "すこっぷ feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=50",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "トゥインクル",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=51",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "エイムレスウォーカー",
+  "artist": "*Luna feat.Rana",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=52",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Flyer!",
+  "artist": "Chinozo feat.flower",
+  "collection": "【歌切】[2026-09-06]周日定期直播𝜗𝜚.⋆ 为你送上最棒的周末🎤【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV194bP6GEPt?p=53",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=1",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=2",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "シリョクケンサ",
+  "artist": "40mP feat.GUMI",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=3",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "わたしのアール",
+  "artist": "和田たけあき(くらげP) feat.初音ミク",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=4",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=5",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Stay Alive",
+  "artist": "エミリア(高橋李依)",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=6",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=7",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "青春コンプレックス",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=8",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "忘れてやらない",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=9",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "タイムマシン",
+  "artist": "1640mP feat.初音ミク",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=10",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ウィアートル",
+  "artist": "rionos",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=11",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "あなたの夜が明けるまで",
+  "artist": "傘村トータ feat.IA・Fukase",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=12",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "心拍数♯0822",
+  "artist": "蝶々P feat.初音ミク",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=13",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "あいしていたのに",
+  "artist": "MARETU feat.初音ミク",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=14",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ケッペキショウ",
+  "artist": "すこっぷ feat.GUMI",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=15",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=16",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "All Alone With You",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=17",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=18",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Wishing",
+  "artist": "レム(水瀬いのり)",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=19",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太 feat.歌愛ユキ",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=20",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=21",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=22",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "koyori(電ポルP) feat.初音ミク",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=23",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "曖昧劣情Lover",
+  "artist": "koyori(電ポルP) feat.flower",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=24",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ネトゲ廃人シュプレヒコール",
+  "artist": "さつきがてんこもり feat.初音ミク",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=25",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat.初音ミク",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=26",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "六兆年と一夜物語",
+  "artist": "kemu feat.IA",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=27",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI for 雨音薫",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=28",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat.GUMI",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=29",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ブラック★ロックシューター",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=30",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=31",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat.GUMI",
+  "collection": "【歌切】[2026-09-10]夜晚歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hpYV66Ek5?p=32",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "GO! GO! MANIAC",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=1",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "雑魚",
+  "artist": "柊マグネタイト feat.亞北ネル",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=2",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "深い森",
+  "artist": "Do As Infinity",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=3",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "はなまるぴっぴはよいこだけ",
+  "artist": "A応P",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=4",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "This game",
+  "artist": "鈴木このみ",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=5",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "恋するフォーチュンクッキー",
+  "artist": "AKB48",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=6",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子(花澤香菜)",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=7",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Melty Magic",
+  "artist": "picco feat.初音ミク",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=8",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ホログラム",
+  "artist": "NICO Touches the Walls",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=9",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "聖少女領域",
+  "artist": "ALI PROJECT",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=10",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "夜行性ハイズ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=11",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "大阪LOVER",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=12",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=13",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "僕が最高だから",
+  "artist": "ハコニワリリィ",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=14",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=15",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=16",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "鎖の少女",
+  "artist": "のぼる↑ feat.初音ミク",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=17",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "インテグラル",
+  "artist": "Leo/need×初音ミク",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=18",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=19",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "春擬き",
+  "artist": "やなぎなぎ",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=20",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "なのです☆",
+  "artist": "羽入(堀江由衣)",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=21",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "瞬間センチメンタル",
+  "artist": "SCANDAL",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=22",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "夕景イエスタデイ",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=23",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "魔法少女とチョコレゐト",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=24",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Heaven and Hell",
+  "artist": "DUSTCELL",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=25",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Heaven and Hell",
+  "artist": "DUSTCELL",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=26",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "約束の絆",
+  "artist": "妖夢討伐隊",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=27",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=28",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "One Last Kiss",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=29",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=30",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "君色シグナル",
+  "artist": "春奈るな",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=31",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "こちら、幸福安心委員会です。",
+  "artist": "うたたP feat.初音ミク",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=32",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "パンダヒーロー",
+  "artist": "ハチ feat.GUMI",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=33",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Funny Sunny Day",
+  "artist": "SxOxU",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=34",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=35",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "世界一可愛い私",
+  "artist": "藤田ことね(飯田ヒカル)",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=36",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Beautiful World",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=37",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Fire◎Flower",
+  "artist": "halyosy feat.鏡音レン",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=38",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=39",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "愛言葉Ⅲ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=40",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "お断りします",
+  "artist": "さつきがてんこもり feat.初音ミク",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=41",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ポケッターリ モンスターリ",
+  "artist": "可名",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=42",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Happy! Lucky! Dochy!",
+  "artist": "古手梨花(田村ゆかり)＆北条沙都子(かないみか)＆羽入(堀江由衣)",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=43",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Fantastic future",
+  "artist": "田村ゆかり",
+  "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=44",
   "source": "suzuhanainori.js"
 }
 );
