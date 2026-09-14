@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 9/14/2026, 4:31:57 AM
+// 生成时间: 9/14/2026, 5:37:27 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4275,6 +4275,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=24",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "feel my soul",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "嘆きのキス",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "翡翠のまち",
+  "artist": "メル feat.初音ミク",
+  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "季節は次々死んでいく",
+  "artist": "amazarashi",
+  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "もののけ姫",
+  "artist": "米良美一",
+  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "フクロウ ～フクロウが知らせる客が来たと～",
+  "artist": "KOKIA",
+  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "嘘つき",
+  "artist": "阿部真央",
+  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "back number",
+  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "8.8",
+  "artist": "あたらよ",
+  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "カワキヲアメク",
+  "artist": "美波",
+  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "カワキヲアメク",
+  "artist": "美波",
+  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=12",
   "source": "suiuishino.js"
 }
 );

@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 9/14/2026, 3:52:04 AM
+// 生成时间: 9/14/2026, 4:59:48 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -34995,6 +34995,46 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-09-11]欢迎回来——！【Figaro】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tcYY64EiB?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "チノカテ",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-09-13]泪之夜歌回接力｜你喜欢让人落泪的抒情歌吗？🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BRY66YEdq?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "トワイライト",
+  "artist": "Figaro",
+  "collection": "【💐歌切】[2026-09-13]泪之夜歌回接力｜你喜欢让人落泪的抒情歌吗？🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BRY66YEdq?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "HEAVEN",
+  "artist": "はりーP feat.初音ミク",
+  "collection": "【💐歌切】[2026-09-13]泪之夜歌回接力｜你喜欢让人落泪的抒情歌吗？🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BRY66YEdq?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "月のしずく",
+  "artist": "RUI",
+  "collection": "【💐歌切】[2026-09-13]泪之夜歌回接力｜你喜欢让人落泪的抒情歌吗？🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BRY66YEdq?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【💐歌切】[2026-09-13]泪之夜歌回接力｜你喜欢让人落泪的抒情歌吗？🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BRY66YEdq?p=5",
   "source": "figaro.js"
 }
 );
