@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 9/14/2026, 7:46:31 PM
+// 生成时间: 9/14/2026, 9:06:06 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2699,6 +2699,62 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-13]准备明天的事情时也来听听吧♪随心唱！！【緋那ちび】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1e1Yr6bEVX?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "十面相",
+  "artist": "YM feat.GUMI",
+  "collection": "【歌切】[2026-09-14]欢迎新观众！周一辛苦啦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WbeL6MEdm?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "【歌切】[2026-09-14]欢迎新观众！周一辛苦啦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WbeL6MEdm?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "カメレオン",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "【歌切】[2026-09-14]欢迎新观众！周一辛苦啦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WbeL6MEdm?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【歌切】[2026-09-14]欢迎新观众！周一辛苦啦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WbeL6MEdm?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-09-14]欢迎新观众！周一辛苦啦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WbeL6MEdm?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "SAYONARA MAYBE",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-09-14]欢迎新观众！周一辛苦啦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WbeL6MEdm?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-09-14]欢迎新观众！周一辛苦啦！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WbeL6MEdm?p=7",
   "source": "hinachibi.js"
 }
 );
