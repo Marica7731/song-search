@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 9/15/2026, 8:02:07 PM
+// 生成时间: 9/15/2026, 8:58:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4299,6 +4299,110 @@ window.SONG_DATA.push(
   "collection": "Sputrip パレプロ 2026-09-11 6周年纪念Live -演出环节-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bwYY6dE4g?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "Believe",
+  "artist": "Folder5",
+  "collection": "联动歌切 2026-09-15 和让人心动又有点迷糊的新人華美雲ののあ一起唱动画歌曲！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CNeW6dET1?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "バリバリ最強No.1",
+  "artist": "FEEL SO BAD",
+  "collection": "联动歌切 2026-09-15 和让人心动又有点迷糊的新人華美雲ののあ一起唱动画歌曲！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CNeW6dET1?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "ロマンティックあげるよ",
+  "artist": "橋本潮",
+  "collection": "联动歌切 2026-09-15 和让人心动又有点迷糊的新人華美雲ののあ一起唱动画歌曲！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CNeW6dET1?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "お願いマッスル",
+  "artist": "紗倉ひびき(CV:ファイルーズあい)&街雄鳴造(CV:石川界人)",
+  "collection": "联动歌切 2026-09-15 和让人心动又有点迷糊的新人華美雲ののあ一起唱动画歌曲！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CNeW6dET1?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "联动歌切 2026-09-15 和让人心动又有点迷糊的新人華美雲ののあ一起唱动画歌曲！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CNeW6dET1?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "ギリギリchop",
+  "artist": "B'z",
+  "collection": "联动歌切 2026-09-15 和让人心动又有点迷糊的新人華美雲ののあ一起唱动画歌曲！🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1CNeW6dET1?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "美少女無罪♡パイレーツ",
+  "artist": "宝鐘マリン",
+  "collection": "联动歌切 2026-09-15 唱些让人热血沸腾的歌，把气氛拉满吧啊啊啊！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rNeW6dE6C?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "联动歌切 2026-09-15 唱些让人热血沸腾的歌，把气氛拉满吧啊啊啊！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rNeW6dE6C?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "気分上々↑↑",
+  "artist": "mihimaru GT",
+  "collection": "联动歌切 2026-09-15 唱些让人热血沸腾的歌，把气氛拉满吧啊啊啊！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rNeW6dE6C?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "ザ☆ピ〜ス！",
+  "artist": "モーニング娘。",
+  "collection": "联动歌切 2026-09-15 唱些让人热血沸腾的歌，把气氛拉满吧啊啊啊！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rNeW6dE6C?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "脱法ロック",
+  "artist": "Neru feat.鏡音レン",
+  "collection": "联动歌切 2026-09-15 唱些让人热血沸腾的歌，把气氛拉满吧啊啊啊！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rNeW6dE6C?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat.巡音ルカ",
+  "collection": "联动歌切 2026-09-15 唱些让人热血沸腾的歌，把气氛拉满吧啊啊啊！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rNeW6dE6C?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "联动歌切 2026-09-15 唱些让人热血沸腾的歌，把气氛拉满吧啊啊啊！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rNeW6dE6C?p=7",
   "source": "friends.js"
 }
 );
