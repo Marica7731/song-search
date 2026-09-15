@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 9/15/2026, 6:31:58 PM
+// 生成时间: 9/15/2026, 8:09:03 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2891,6 +2891,86 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-10]唱歌",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xbYV6iEXv?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "僕のかわい子ちゃん",
+  "artist": "MON7A",
+  "collection": "【歌切】[2026-09-15]睡前小声唱会儿歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a4eW6rEL9?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "昼夜逆転",
+  "artist": "SHISHAMO",
+  "collection": "【歌切】[2026-09-15]睡前小声唱会儿歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a4eW6rEL9?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "透明ドロップ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-09-15]睡前小声唱会儿歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a4eW6rEL9?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "fish",
+  "artist": "back number",
+  "collection": "【歌切】[2026-09-15]睡前小声唱会儿歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a4eW6rEL9?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "リグレット",
+  "artist": "sumika",
+  "collection": "【歌切】[2026-09-15]睡前小声唱会儿歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a4eW6rEL9?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "こわいはなし",
+  "artist": "back number",
+  "collection": "【歌切】[2026-09-15]睡前小声唱会儿歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a4eW6rEL9?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "電車の窓から",
+  "artist": "back number",
+  "collection": "【歌切】[2026-09-15]睡前小声唱会儿歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a4eW6rEL9?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "夢で逢う",
+  "artist": "SHISHAMO",
+  "collection": "【歌切】[2026-09-15]睡前小声唱会儿歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a4eW6rEL9?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "君との事",
+  "artist": "SHISHAMO",
+  "collection": "【歌切】[2026-09-15]睡前小声唱会儿歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a4eW6rEL9?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "熱帯夜",
+  "artist": "SHISHAMO",
+  "collection": "【歌切】[2026-09-15]睡前小声唱会儿歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a4eW6rEL9?p=10",
   "source": "hasumisahiro.js"
 }
 );

@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 9/15/2026, 6:08:09 PM
+// 生成时间: 9/15/2026, 7:48:41 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14267,6 +14267,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "女の子は泣かない",
+  "artist": "片平里菜",
+  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Ubiquitous dB",
+  "artist": "ユナ(CV:神田沙也加)",
+  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "PURE SNOW",
+  "artist": "佐々木ゆう子",
+  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "優しさの理由",
+  "artist": "ChouCho",
+  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "リフレクティア",
+  "artist": "eufonius",
+  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Last Piece",
+  "artist": "Kirari",
+  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Magia",
+  "artist": "Kalafina",
+  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "涙の種、笑顔の花",
+  "artist": "中川翔子",
+  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "破滅の純情",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "神のまにまに",
+  "artist": "れるりり feat.初音ミク・鏡音リン・GUMI",
+  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona(CV:夏川椎菜)",
+  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=12",
   "source": "naraetan.js"
 }
 );

@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 9/15/2026, 6:45:46 PM
+// 生成时间: 9/15/2026, 8:25:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4371,6 +4371,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "チノカテ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "負け犬にアンコールはいらない",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "It's all too much",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "fish",
+  "artist": "back number",
+  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ヘビースモーク",
+  "artist": "にしな",
+  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=12",
   "source": "suiuishino.js"
 }
 );
