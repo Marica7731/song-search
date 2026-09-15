@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 9/15/2026, 7:36:03 AM
+// 生成时间: 9/15/2026, 8:29:41 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -39694,6 +39694,134 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "螺旋",
+  "artist": "9Lana",
+  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Wake up!",
+  "artist": "AAA",
+  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "浪漫飛行",
+  "artist": "米米CLUB",
+  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "１・２・３",
+  "artist": "After the Rain（そらる×まふまふ）",
+  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "セーラースターソング",
+  "artist": "花沢加絵",
+  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "七色シンフォニー",
+  "artist": "コアラモード．",
+  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "螺旋",
+  "artist": "9Lana",
+  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "OLA!!",
+  "artist": "ゆず",
+  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=16",
+  "source": "yoshika.js"
+},
+    {
   "title": "懐かしい未来",
   "artist": "上白石萌音",
   "collection": "【🍠🦍歌切】[2026-09-14]居家3D｜UE5制作的3D房间完成✨首次展示🏠",
@@ -39827,134 +39955,6 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-09-14]居家3D｜UE5制作的3D房间完成✨首次展示🏠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kaeL6KEfp?p=17",
-  "source": "yoshika.js"
-},
-    {
-  "title": "バラライカ",
-  "artist": "月島きらり starring 久住小春(モーニング娘。)",
-  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Together",
-  "artist": "あきよしふみえ",
-  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "シルエット",
-  "artist": "KANA-BOON",
-  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "夢をかなえてドラえもん",
-  "artist": "mao",
-  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ウィーアー!",
-  "artist": "きただにひろし",
-  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "おジャ魔女カーニバル!!",
-  "artist": "MAHO堂",
-  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=6",
-  "source": "yoshika.js"
-},
-    {
-  "title": "螺旋",
-  "artist": "9Lana",
-  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=7",
-  "source": "yoshika.js"
-},
-    {
-  "title": "葛飾ラプソディー",
-  "artist": "堂島孝平",
-  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=8",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Wake up!",
-  "artist": "AAA",
-  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=9",
-  "source": "yoshika.js"
-},
-    {
-  "title": "HOT LIMIT",
-  "artist": "T.M.Revolution",
-  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=10",
-  "source": "yoshika.js"
-},
-    {
-  "title": "浪漫飛行",
-  "artist": "米米CLUB",
-  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=11",
-  "source": "yoshika.js"
-},
-    {
-  "title": "１・２・３",
-  "artist": "After the Rain（そらる×まふまふ）",
-  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=12",
-  "source": "yoshika.js"
-},
-    {
-  "title": "セーラースターソング",
-  "artist": "花沢加絵",
-  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=13",
-  "source": "yoshika.js"
-},
-    {
-  "title": "七色シンフォニー",
-  "artist": "コアラモード．",
-  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=14",
-  "source": "yoshika.js"
-},
-    {
-  "title": "螺旋",
-  "artist": "9Lana",
-  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=15",
-  "source": "yoshika.js"
-},
-    {
-  "title": "OLA!!",
-  "artist": "ゆず",
-  "collection": "【🍠🦍歌切】[2026-09-13]欢迎新观众！明天要展示UE5制作的3D房间啦！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1zRe56hExv?p=16",
   "source": "yoshika.js"
 }
 );
