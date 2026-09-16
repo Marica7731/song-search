@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 9/16/2026, 10:04:40 PM
+// 生成时间: 9/16/2026, 11:08:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2971,6 +2971,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-15]睡前小声唱会儿歌",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1a4eW6rEL9?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ホログラム",
+  "artist": "NICO Touches the Walls",
+  "collection": "【歌切】[2026-09-16]我也想唱英文歌词、说唱之类的帅气歌曲啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W3eT6mE7T?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "サムライハート",
+  "artist": "SPYAIR",
+  "collection": "【歌切】[2026-09-16]我也想唱英文歌词、说唱之类的帅气歌曲啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W3eT6mE7T?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "明日もし君が壊れても",
+  "artist": "WANDS",
+  "collection": "【歌切】[2026-09-16]我也想唱英文歌词、说唱之类的帅气歌曲啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W3eT6mE7T?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "渇いた叫び",
+  "artist": "FIELD OF VIEW",
+  "collection": "【歌切】[2026-09-16]我也想唱英文歌词、说唱之类的帅气歌曲啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W3eT6mE7T?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "HELP!!",
+  "artist": "Kobo Kanaeru",
+  "collection": "【歌切】[2026-09-16]我也想唱英文歌词、说唱之类的帅气歌曲啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W3eT6mE7T?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ウェカピポ",
+  "artist": "SOUL'd OUT",
+  "collection": "【歌切】[2026-09-16]我也想唱英文歌词、说唱之类的帅气歌曲啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W3eT6mE7T?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "堕天",
+  "artist": "Creepy Nuts",
+  "collection": "【歌切】[2026-09-16]我也想唱英文歌词、说唱之类的帅气歌曲啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W3eT6mE7T?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "完全感覚Dreamer",
+  "artist": "ONE OK ROCK",
+  "collection": "【歌切】[2026-09-16]我也想唱英文歌词、说唱之类的帅气歌曲啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W3eT6mE7T?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "GETCHA!",
+  "artist": "Giga & KIRA feat.初音ミク・GUMI",
+  "collection": "【歌切】[2026-09-16]我也想唱英文歌词、说唱之类的帅气歌曲啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W3eT6mE7T?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Superstar",
+  "artist": "Ayumu Imazu",
+  "collection": "【歌切】[2026-09-16]我也想唱英文歌词、说唱之类的帅气歌曲啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W3eT6mE7T?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ジェラシー ジェラシー",
+  "artist": "モーニング娘。'17",
+  "collection": "【歌切】[2026-09-16]我也想唱英文歌词、说唱之类的帅气歌曲啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W3eT6mE7T?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "青い花",
+  "artist": "カラーボトル",
+  "collection": "【歌切】[2026-09-16]我也想唱英文歌词、说唱之类的帅气歌曲啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W3eT6mE7T?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ツバサ",
+  "artist": "アンダーグラフ",
+  "collection": "【歌切】[2026-09-16]我也想唱英文歌词、说唱之类的帅气歌曲啊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W3eT6mE7T?p=13",
   "source": "hasumisahiro.js"
 }
 );

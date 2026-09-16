@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 9/16/2026, 9:40:37 PM
+// 生成时间: 9/16/2026, 10:47:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14363,6 +14363,118 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "青い栞",
+  "artist": "Galileo Galilei",
+  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "世界中の誰よりきっと",
+  "artist": "中山美穂&WANDS",
+  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "浪漫飛行",
+  "artist": "米米CLUB",
+  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ループ",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat.GUMI",
+  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "I beg you",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "おどるポンポコリン",
+  "artist": "B.B.クィーンズ",
+  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "사건의 지평선 (Event Horizon)",
+  "artist": "ユンナ",
+  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "もう恋なんてしない",
+  "artist": "槇原敬之",
+  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "LOVE SOMEBODY",
+  "artist": "福井麻利子",
+  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ダダダダ天使",
+  "artist": "ナナヲアカリ",
+  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=14",
   "source": "naraetan.js"
 }
 );

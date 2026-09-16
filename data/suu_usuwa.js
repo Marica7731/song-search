@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 9/16/2026, 9:44:43 PM
+// 生成时间: 9/16/2026, 10:52:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -22819,6 +22819,94 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-09-11]响彻宇宙歌回接力🌌满天星空下开唱！🛸【稀羽すう / Re:AcT】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EJYY65EfR?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【🦢歌切】[2026-09-16]我就在这里等你哦。会有公告！还有「那个」的新消息……",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCeT6dEn4?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "SWEET TWEET",
+  "artist": "Official髭男dism",
+  "collection": "【🦢歌切】[2026-09-16]我就在这里等你哦。会有公告！还有「那个」的新消息……",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCeT6dEn4?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "金木犀",
+  "artist": "くじら",
+  "collection": "【🦢歌切】[2026-09-16]我就在这里等你哦。会有公告！还有「那个」的新消息……",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCeT6dEn4?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "赤黄色の金木犀",
+  "artist": "フジファブリック",
+  "collection": "【🦢歌切】[2026-09-16]我就在这里等你哦。会有公告！还有「那个」的新消息……",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCeT6dEn4?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-09-16]我就在这里等你哦。会有公告！还有「那个」的新消息……",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCeT6dEn4?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-09-16]我就在这里等你哦。会有公告！还有「那个」的新消息……",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCeT6dEn4?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【🦢歌切】[2026-09-16]我就在这里等你哦。会有公告！还有「那个」的新消息……",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCeT6dEn4?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【🦢歌切】[2026-09-16]我就在这里等你哦。会有公告！还有「那个」的新消息……",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCeT6dEn4?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "須田景凪",
+  "collection": "【🦢歌切】[2026-09-16]我就在这里等你哦。会有公告！还有「那个」的新消息……",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCeT6dEn4?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "不可幸力",
+  "artist": "Vaundy",
+  "collection": "【🦢歌切】[2026-09-16]我就在这里等你哦。会有公告！还有「那个」的新消息……",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCeT6dEn4?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "star shine",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-09-16]我就在这里等你哦。会有公告！还有「那个」的新消息……",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MCeT6dEn4?p=11",
   "source": "suu_usuwa.js"
 }
 );

@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 9/16/2026, 9:53:23 PM
+// 生成时间: 9/16/2026, 11:01:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9339,6 +9339,150 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-09-13]欢迎新观众！虽然比平时短一点，也要唱很多歌哦哦哦",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1egeL6nEF4?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "ひみつを君に feat. 花譜",
+  "artist": "GLIM SPANKY",
+  "collection": "【💐🎸歌切】[2026-09-16]暑假最后一场弹唱，要哭着为这个夏天收尾了🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14MeT6SEg4?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "Ham",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【💐🎸歌切】[2026-09-16]暑假最后一场弹唱，要哭着为这个夏天收尾了🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14MeT6SEg4?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "勘冴えて悔しいわ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【💐🎸歌切】[2026-09-16]暑假最后一场弹唱，要哭着为这个夏天收尾了🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14MeT6SEg4?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "Fire◎Flower",
+  "artist": "halyosy feat.鏡音レン",
+  "collection": "【💐🎸歌切】[2026-09-16]暑假最后一场弹唱，要哭着为这个夏天收尾了🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14MeT6SEg4?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【💐🎸歌切】[2026-09-16]暑假最后一场弹唱，要哭着为这个夏天收尾了🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14MeT6SEg4?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "ラブホテル",
+  "artist": "クリープハイプ",
+  "collection": "【💐🎸歌切】[2026-09-16]暑假最后一场弹唱，要哭着为这个夏天收尾了🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14MeT6SEg4?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【💐🎸歌切】[2026-09-16]暑假最后一场弹唱，要哭着为这个夏天收尾了🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14MeT6SEg4?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "Swallowtail Butterfly ～あいのうた～",
+  "artist": "YEN TOWN BAND",
+  "collection": "【💐🎸歌切】[2026-09-16]暑假最后一场弹唱，要哭着为这个夏天收尾了🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14MeT6SEg4?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "又三郎",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-09-16]暑假最后一场弹唱，要哭着为这个夏天收尾了🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14MeT6SEg4?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-09-16]暑假最后一场弹唱，要哭着为这个夏天收尾了🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14MeT6SEg4?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "シアワセ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-16]暑假最后一场弹唱，要哭着为这个夏天收尾了🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14MeT6SEg4?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【💐🎸歌切】[2026-09-16]暑假最后一场弹唱，要哭着为这个夏天收尾了🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14MeT6SEg4?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "8.8",
+  "artist": "あたらよ",
+  "collection": "【💐🎸歌切】[2026-09-16]暑假最后一场弹唱，要哭着为这个夏天收尾了🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14MeT6SEg4?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【💐🎸歌切】[2026-09-16]暑假最后一场弹唱，要哭着为这个夏天收尾了🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14MeT6SEg4?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "横顔",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-16]暑假最后一场弹唱，要哭着为这个夏天收尾了🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14MeT6SEg4?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "ときめき",
+  "artist": "チャットモンチー",
+  "collection": "【💐🎸歌切】[2026-09-16]暑假最后一场弹唱，要哭着为这个夏天收尾了🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14MeT6SEg4?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "泣き虫上等",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-16]暑假最后一场弹唱，要哭着为这个夏天收尾了🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14MeT6SEg4?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "置とし陽",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-16]暑假最后一场弹唱，要哭着为这个夏天收尾了🎐",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14MeT6SEg4?p=18",
   "source": "sumica.js"
 }
 );
