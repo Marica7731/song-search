@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 9/20/2026, 6:16:03 AM
+// 生成时间: 9/20/2026, 7:20:29 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -40179,6 +40179,174 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=28",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【🍠🦍歌切】[2026-09-18]欢迎新观众！快乐星期五！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gtev66Eh6?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-09-18]欢迎新观众！快乐星期五！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gtev66Eh6?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "サトシ(CV:松本梨香) with ピカチュウ(CV:大谷育江)",
+  "collection": "【🍠🦍歌切】[2026-09-18]欢迎新观众！快乐星期五！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gtev66Eh6?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "1・2・3",
+  "artist": "そらる×まふまふ",
+  "collection": "【🍠🦍歌切】[2026-09-18]欢迎新观众！快乐星期五！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gtev66Eh6?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【🍠🦍歌切】[2026-09-18]欢迎新观众！快乐星期五！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gtev66Eh6?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "未来のミュージアム",
+  "artist": "Perfume",
+  "collection": "【🍠🦍歌切】[2026-09-18]欢迎新观众！快乐星期五！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gtev66Eh6?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "【🍠🦍歌切】[2026-09-18]欢迎新观众！快乐星期五！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gtev66Eh6?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気分上々↑↑",
+  "artist": "mihimaru GT",
+  "collection": "【🍠🦍歌切】[2026-09-18]欢迎新观众！快乐星期五！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gtev66Eh6?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "DISCOTHEQUE",
+  "artist": "水樹奈々",
+  "collection": "【🍠🦍歌切】[2026-09-18]欢迎新观众！快乐星期五！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gtev66Eh6?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋のヘキサゴン",
+  "artist": "Pabo",
+  "collection": "【🍠🦍歌切】[2026-09-18]欢迎新观众！快乐星期五！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gtev66Eh6?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ジッパー",
+  "artist": "NMB48 Team N",
+  "collection": "【🍠🦍歌切】[2026-09-18]欢迎新观众！快乐星期五！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gtev66Eh6?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "とくべチュ、して",
+  "artist": "=LOVE",
+  "collection": "【🍠🦍歌切】[2026-09-18]欢迎新观众！快乐星期五！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gtev66Eh6?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "一度だけの恋なら",
+  "artist": "ワルキューレ",
+  "collection": "【🍠🦍歌切】[2026-09-18]欢迎新观众！快乐星期五！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gtev66Eh6?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Shout Baby",
+  "artist": "緑黄色社会",
+  "collection": "【🍠🦍歌切】[2026-09-18]欢迎新观众！快乐星期五！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gtev66Eh6?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Queens Bluff",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-09-18]欢迎新观众！快乐星期五！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gtev66Eh6?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋風",
+  "artist": "大石秀一郎(CV:近藤孝行)",
+  "collection": "【🍠🦍歌切】[2026-09-18]欢迎新观众！快乐星期五！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gtev66Eh6?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "DEAR MY LOVER",
+  "artist": "Hey! Say! JUMP",
+  "collection": "【🍠🦍歌切】[2026-09-18]欢迎新观众！快乐星期五！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gtev66Eh6?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Bloomin",
+  "artist": "山田涼介",
+  "collection": "【🍠🦍歌切】[2026-09-18]欢迎新观众！快乐星期五！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gtev66Eh6?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋はなんだろう",
+  "artist": "七海るちあ(CV:中田あすみ)",
+  "collection": "【🍠🦍歌切】[2026-09-18]欢迎新观众！快乐星期五！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gtev66Eh6?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Legend of Mermaid",
+  "artist": "七海るちあ(CV:中田あすみ)・宝生波音(CV:寺門仁美)・洞院リナ(CV:浅野まゆみ)",
+  "collection": "【🍠🦍歌切】[2026-09-18]欢迎新观众！快乐星期五！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gtev66Eh6?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "暗黒の翼",
+  "artist": "レディ・バット(CV:小林沙苗)",
+  "collection": "【🍠🦍歌切】[2026-09-18]欢迎新观众！快乐星期五！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gtev66Eh6?p=21",
   "source": "yoshika.js"
 }
 );
