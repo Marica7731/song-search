@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 9/20/2026, 4:29:44 AM
+// 生成时间: 9/20/2026, 5:32:23 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9483,6 +9483,158 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-09-16]暑假最后一场弹唱，要哭着为这个夏天收尾了🎐",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14MeT6SEg4?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "嘆きのキス",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-19]既然是快乐星期五，就来场突击弹唱吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueev6iEc8?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "とくべチュ、して",
+  "artist": "=LOVE",
+  "collection": "【💐🎸歌切】[2026-09-19]既然是快乐星期五，就来场突击弹唱吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueev6iEc8?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "焦がれ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-19]既然是快乐星期五，就来场突击弹唱吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueev6iEc8?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "電柱の涙",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-19]既然是快乐星期五，就来场突击弹唱吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueev6iEc8?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "食べた愛",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-19]既然是快乐星期五，就来场突击弹唱吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueev6iEc8?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "夏恋のライフ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-19]既然是快乐星期五，就来场突击弹唱吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueev6iEc8?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "プラマイ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-19]既然是快乐星期五，就来场突击弹唱吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueev6iEc8?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "こんなよる",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-19]既然是快乐星期五，就来场突击弹唱吧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ueev6iEc8?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "失恋ソングを歌ったあとに",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-09-19]傍晚来听一场轻松惬意的弹唱吧!!🌆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cmev6oEmX?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【💐🎸歌切】[2026-09-19]傍晚来听一场轻松惬意的弹唱吧!!🌆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cmev6oEmX?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-09-19]傍晚来听一场轻松惬意的弹唱吧!!🌆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cmev6oEmX?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-09-19]傍晚来听一场轻松惬意的弹唱吧!!🌆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cmev6oEmX?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "【💐🎸歌切】[2026-09-19]傍晚来听一场轻松惬意的弹唱吧!!🌆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cmev6oEmX?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "三時のキス",
+  "artist": "ロクデナシ",
+  "collection": "【💐🎸歌切】[2026-09-19]傍晚来听一场轻松惬意的弹唱吧!!🌆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cmev6oEmX?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "くだらないの中に",
+  "artist": "星野源",
+  "collection": "【💐🎸歌切】[2026-09-19]傍晚来听一场轻松惬意的弹唱吧!!🌆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cmev6oEmX?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【💐🎸歌切】[2026-09-19]傍晚来听一场轻松惬意的弹唱吧!!🌆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cmev6oEmX?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "W/X/Y",
+  "artist": "Tani Yuuki",
+  "collection": "【💐🎸歌切】[2026-09-19]傍晚来听一场轻松惬意的弹唱吧!!🌆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cmev6oEmX?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "いつか",
+  "artist": "Saucy Dog",
+  "collection": "【💐🎸歌切】[2026-09-19]傍晚来听一场轻松惬意的弹唱吧!!🌆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cmev6oEmX?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "世界はふたり",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-19]傍晚来听一场轻松惬意的弹唱吧!!🌆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cmev6oEmX?p=11",
   "source": "sumica.js"
 }
 );

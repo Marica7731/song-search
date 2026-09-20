@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 9/20/2026, 4:16:39 AM
+// 生成时间: 9/20/2026, 5:23:21 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -22907,6 +22907,102 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-09-16]我就在这里等你哦。会有公告！还有「那个」的新消息……",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MCeT6dEn4?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【🦢歌切】[2026-09-18]动画歌曲限定！为即将到来的「ナガノアニエラフェスタ」做准备！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TEX7?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【🦢歌切】[2026-09-18]动画歌曲限定！为即将到来的「ナガノアニエラフェスタ」做准备！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TEX7?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "罠",
+  "artist": "THE BACK HORN",
+  "collection": "【🦢歌切】[2026-09-18]动画歌曲限定！为即将到来的「ナガノアニエラフェスタ」做准备！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TEX7?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【🦢歌切】[2026-09-18]动画歌曲限定！为即将到来的「ナガノアニエラフェスタ」做准备！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TEX7?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "潜在的太陽の証明",
+  "artist": "涼宮ハルヒ(CV:平野綾)・長門有希(CV:茅原実里)・朝比奈みくる(CV:後藤邑子)",
+  "collection": "【🦢歌切】[2026-09-18]动画歌曲限定！为即将到来的「ナガノアニエラフェスタ」做准备！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TEX7?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "雪、無音、窓辺にて。",
+  "artist": "長門有希(CV:茅原実里)",
+  "collection": "【🦢歌切】[2026-09-18]动画歌曲限定！为即将到来的「ナガノアニエラフェスタ」做准备！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TEX7?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "境界の彼方",
+  "artist": "茅原実里",
+  "collection": "【🦢歌切】[2026-09-18]动画歌曲限定！为即将到来的「ナガノアニエラフェスタ」做准备！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TEX7?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "少女S",
+  "artist": "SCANDAL",
+  "collection": "【🦢歌切】[2026-09-18]动画歌曲限定！为即将到来的「ナガノアニエラフェスタ」做准备！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TEX7?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "不確定性☆COSMIC MOVEMENT",
+  "artist": "ワルキューレ",
+  "collection": "【🦢歌切】[2026-09-18]动画歌曲限定！为即将到来的「ナガノアニエラフェスタ」做准备！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TEX7?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アイモ〜鳥のひと",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "【🦢歌切】[2026-09-18]动画歌曲限定！为即将到来的「ナガノアニエラフェスタ」做准备！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TEX7?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "pink monsoon",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【🦢歌切】[2026-09-18]动画歌曲限定！为即将到来的「ナガノアニエラフェスタ」做准备！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TEX7?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Mornin’ Bell",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-09-18]动画歌曲限定！为即将到来的「ナガノアニエラフェスタ」做准备！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TEX7?p=12",
   "source": "suu_usuwa.js"
 }
 );

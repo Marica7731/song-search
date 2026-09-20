@@ -1,6 +1,6 @@
 // 天籠りのん - 歌单数据 (多合集汇总)
 // 来源: BV1hw4m1i7qN
-// 生成时间: 9/20/2026, 4:22:51 AM
+// 生成时间: 9/20/2026, 5:28:15 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3491,6 +3491,78 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-05]歌声怎么可能拯救银河嘛┊《超时空要塞F》限定歌回【天籠りのん / Sony Music VEE】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JCbn6vELQ?p=12",
+  "source": "linon.js"
+},
+    {
+  "title": "Trancing Pulse",
+  "artist": "Triad Primus",
+  "collection": "【歌切】[2026-09-18]首次演唱曲目大放送！第一次挑战偶像歌曲限定歌回♡♡♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18Yev6TEoo?p=1",
+  "source": "linon.js"
+},
+    {
+  "title": "Tulip",
+  "artist": "LiPPS",
+  "collection": "【歌切】[2026-09-18]首次演唱曲目大放送！第一次挑战偶像歌曲限定歌回♡♡♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18Yev6TEoo?p=2",
+  "source": "linon.js"
+},
+    {
+  "title": "Love∞Destiny",
+  "artist": "Masque:Rade",
+  "collection": "【歌切】[2026-09-18]首次演唱曲目大放送！第一次挑战偶像歌曲限定歌回♡♡♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18Yev6TEoo?p=3",
+  "source": "linon.js"
+},
+    {
+  "title": "チクタク・Magicaる・アイドルタイム!",
+  "artist": "ゆい(CV:伊達朱里紗)",
+  "collection": "【歌切】[2026-09-18]首次演唱曲目大放送！第一次挑战偶像歌曲限定歌回♡♡♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18Yev6TEoo?p=4",
+  "source": "linon.js"
+},
+    {
+  "title": "ブランニュー・ハピネス",
+  "artist": "らぁら&ゆい(CV:茜屋日海夏&伊達朱里紗)",
+  "collection": "【歌切】[2026-09-18]首次演唱曲目大放送！第一次挑战偶像歌曲限定歌回♡♡♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18Yev6TEoo?p=5",
+  "source": "linon.js"
+},
+    {
+  "title": "Play Sound☆",
+  "artist": "メルティックスター(CV:芹澤優、若井友希)",
+  "collection": "【歌切】[2026-09-18]首次演唱曲目大放送！第一次挑战偶像歌曲限定歌回♡♡♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18Yev6TEoo?p=6",
+  "source": "linon.js"
+},
+    {
+  "title": "乙女アテンションプリーズ",
+  "artist": "ミラクル☆キラッツ(CV:林鼓子、久保田未夢、厚木那奈美)",
+  "collection": "【歌切】[2026-09-18]首次演唱曲目大放送！第一次挑战偶像歌曲限定歌回♡♡♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18Yev6TEoo?p=7",
+  "source": "linon.js"
+},
+    {
+  "title": "盛れ!ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【歌切】[2026-09-18]首次演唱曲目大放送！第一次挑战偶像歌曲限定歌回♡♡♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18Yev6TEoo?p=8",
+  "source": "linon.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【歌切】[2026-09-18]首次演唱曲目大放送！第一次挑战偶像歌曲限定歌回♡♡♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18Yev6TEoo?p=9",
   "source": "linon.js"
 }
 );

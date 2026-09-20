@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 9/20/2026, 4:11:47 AM
+// 生成时间: 9/20/2026, 5:18:55 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14475,6 +14475,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "きみにとどけ",
+  "artist": "タニザワトモフミ",
+  "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Dear you -Cry-",
+  "artist": "癒月",
+  "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ロビンソン",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Drowning",
+  "artist": "WOODZ",
+  "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "U",
+  "artist": "EOW",
+  "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "約束",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "トライアングラー",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "禁断のレジスタンス",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "JITTERIN'JINN",
+  "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+  "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=11",
   "source": "naraetan.js"
 }
 );

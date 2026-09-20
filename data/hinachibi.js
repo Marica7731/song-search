@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 9/20/2026, 4:45:56 AM
+// 生成时间: 9/20/2026, 5:44:59 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2755,6 +2755,182 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-14]欢迎新观众！周一辛苦啦！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WbeL6MEdm?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "君という神話",
+  "artist": "麻枝准×やなぎなぎ",
+  "collection": "【歌切】[2026-09-18]双人联合Live门票开放预约啦！大家快来～～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEsc?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "恥かしいか青春は",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-09-18]双人联合Live门票开放预约啦！大家快来～～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEsc?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "seeker",
+  "artist": "Novelbright",
+  "collection": "【歌切】[2026-09-18]双人联合Live门票开放预约啦！大家快来～～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEsc?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ダイアモンド クレバス",
+  "artist": "シェリル・ノーム starring May'n,ランカ・リー=中島愛",
+  "collection": "【歌切】[2026-09-18]双人联合Live门票开放预约啦！大家快来～～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEsc?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "天国",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-09-18]双人联合Live门票开放预约啦！大家快来～～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEsc?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "未完成なサヨナラ",
+  "artist": "TAK",
+  "collection": "【歌切】[2026-09-18]双人联合Live门票开放预约啦！大家快来～～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEsc?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-09-18]双人联合Live门票开放预约啦！大家快来～～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEsc?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ハロ/ハワユ",
+  "artist": "ナノウ feat.初音ミク",
+  "collection": "【歌切】[2026-09-17]为你送上适合夜晚聆听的歌曲♬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TE2U?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "鳳仙花",
+  "artist": "黒澤まどか feat.結月ゆかり",
+  "collection": "【歌切】[2026-09-17]为你送上适合夜晚聆听的歌曲♬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TE2U?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "罪の名前",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【歌切】[2026-09-17]为你送上适合夜晚聆听的歌曲♬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TE2U?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "夜明けの歌",
+  "artist": "M2U feat.ダズビー",
+  "collection": "【歌切】[2026-09-17]为你送上适合夜晚聆听的歌曲♬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TE2U?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "あなたは幸せになる",
+  "artist": "藤田麻衣子",
+  "collection": "【歌切】[2026-09-17]为你送上适合夜晚聆听的歌曲♬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TE2U?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "思い出す光になれたなら",
+  "artist": "Moi Records feat.菊花はる",
+  "collection": "【歌切】[2026-09-17]为你送上适合夜晚聆听的歌曲♬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TE2U?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-19]想多唱些抒情歌～～！听着睡着了也没关系！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FDev6REpN?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-09-19]想多唱些抒情歌～～！听着睡着了也没关系！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FDev6REpN?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH//",
+  "collection": "【歌切】[2026-09-19]想多唱些抒情歌～～！听着睡着了也没关系！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FDev6REpN?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ニア",
+  "artist": "夏代孝明 feat.初音ミク",
+  "collection": "【歌切】[2026-09-19]想多唱些抒情歌～～！听着睡着了也没关系！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FDev6REpN?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑ feat.初音ミク",
+  "collection": "【歌切】[2026-09-19]想多唱些抒情歌～～！听着睡着了也没关系！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FDev6REpN?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-19]想多唱些抒情歌～～！听着睡着了也没关系！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FDev6REpN?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-19]想多唱些抒情歌～～！听着睡着了也没关系！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FDev6REpN?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "シルシ",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-09-19]想多唱些抒情歌～～！听着睡着了也没关系！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FDev6REpN?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "深昏睡",
+  "artist": "春野 feat.初音ミク",
+  "collection": "【歌切】[2026-09-19]想多唱些抒情歌～～！听着睡着了也没关系！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FDev6REpN?p=9",
   "source": "hinachibi.js"
 }
 );

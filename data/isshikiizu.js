@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 9/20/2026, 4:57:01 AM
+// 生成时间: 9/20/2026, 5:53:08 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5259,6 +5259,230 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-12]不来听听主角声线吗？🎤💫欢迎新观众【一色イズ】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17PYe65EW2?p=30",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "セブンティーン",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "グッバイ宣言",
+  "artist": "Chinozo feat.flower",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona(CV:夏川椎菜)",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ハルジオン",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ハルカ",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat.可不",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ロウワー",
+  "artist": "ぬゆり feat.flower",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "右肩の蝶",
+  "artist": "のりぴー feat.鏡音レン",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat.巡音ルカ&GUMI",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "愛言葉III",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria feat.GUMI",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "テレキャスタービーボーイ",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "キュートなカノジョ",
+  "artist": "syudou feat.可不",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "メンタルチェンソー",
+  "artist": "かいりきベア feat.初音ミク",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "航海の唄",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "天樂",
+  "artist": "ゆうゆ feat.鏡音リン",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=22",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=23",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Ham",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=24",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=25",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=26",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "何度でも",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=27",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-09-17]新🆕麦克风🎤首次亮相！💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEix?p=28",
   "source": "isshikiizu.js"
 }
 );
