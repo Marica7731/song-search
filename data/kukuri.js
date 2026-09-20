@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 9/20/2026, 7:07:45 AM
+// 生成时间: 9/20/2026, 8:16:55 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6571,6 +6571,150 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-09-14]来听我唱歌吧~.ᐟ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oweL6dE9n?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "最後の花弁 (The meaning of love)",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-09-19]冰淇淋不管什么时候吃都好吃嘛🍨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gsev6kEij?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "エウテルペ",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-09-19]冰淇淋不管什么时候吃都好吃嘛🍨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gsev6kEij?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-09-19]冰淇淋不管什么时候吃都好吃嘛🍨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gsev6kEij?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "原罪の灯",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-09-19]冰淇淋不管什么时候吃都好吃嘛🍨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gsev6kEij?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Last Song",
+  "artist": "supercell",
+  "collection": "【💫✖歌切】[2026-09-19]冰淇淋不管什么时候吃都好吃嘛🍨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gsev6kEij?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "当事者",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-09-19]冰淇淋不管什么时候吃都好吃嘛🍨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gsev6kEij?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "The Everlasting Guilty Crown",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-09-19]冰淇淋不管什么时候吃都好吃嘛🍨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gsev6kEij?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-09-19]冰淇淋不管什么时候吃都好吃嘛🍨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gsev6kEij?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "鳥の詩",
+  "artist": "Lia",
+  "collection": "【💫✖歌切】[2026-09-19]冰淇淋不管什么时候吃都好吃嘛🍨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gsev6kEij?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "時を刻む唄",
+  "artist": "Lia",
+  "collection": "【💫✖歌切】[2026-09-19]冰淇淋不管什么时候吃都好吃嘛🍨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gsev6kEij?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "メグメル",
+  "artist": "riya",
+  "collection": "【💫✖歌切】[2026-09-19]冰淇淋不管什么时候吃都好吃嘛🍨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gsev6kEij?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "だんご大家族",
+  "artist": "茶太",
+  "collection": "【💫✖歌切】[2026-09-19]冰淇淋不管什么时候吃都好吃嘛🍨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gsev6kEij?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "【💫✖歌切】[2026-09-19]冰淇淋不管什么时候吃都好吃嘛🍨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gsev6kEij?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "【💫✖歌切】[2026-09-19]冰淇淋不管什么时候吃都好吃嘛🍨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gsev6kEij?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夢想歌",
+  "artist": "Suara",
+  "collection": "【💫✖歌切】[2026-09-19]冰淇淋不管什么时候吃都好吃嘛🍨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gsev6kEij?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "AXIA〜ダイスキでダイキライ〜",
+  "artist": "ワルキューレ",
+  "collection": "【💫✖歌切】[2026-09-19]冰淇淋不管什么时候吃都好吃嘛🍨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gsev6kEij?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "euphoric field",
+  "artist": "ELISA",
+  "collection": "【💫✖歌切】[2026-09-19]冰淇淋不管什么时候吃都好吃嘛🍨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gsev6kEij?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "対象a",
+  "artist": "anNina",
+  "collection": "【💫✖歌切】[2026-09-19]冰淇淋不管什么时候吃都好吃嘛🍨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Gsev6kEij?p=18",
   "source": "kukuri.js"
 }
 );
