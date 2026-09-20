@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 9/20/2026, 5:47:46 AM
+// 生成时间: 9/20/2026, 6:43:03 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9675,6 +9675,222 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-11]今天想多唱些舒缓的歌👆【茨むあん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tfYa6ZE1V?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "当事者",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "My Dearest",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "カーテンコール",
+  "artist": "優里",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "I",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "抜錨",
+  "artist": "ナナホシ管弦楽団 feat.巡音ルカ",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "CHAINSAW BLOOD",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "脳内革命ガール",
+  "artist": "MARETU feat.初音ミク",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ヒビカセ",
+  "artist": "Giga feat.初音ミク",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "DAYBREAK FRONTLINE",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Henceforth",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "快晴",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "サウダージ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ミュージック・アワー",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "可愛くてごめん",
+  "artist": "HoneyWorks feat.ちゅーたん(CV:早見沙織)",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ロメオ",
+  "artist": "LIP×LIP(CV:内山昂輝・島﨑信長)",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "じょいふる",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "スターラブレイション",
+  "artist": "ケラケラ",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "さくらんぼ",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "PEACH",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "SMILY",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat.初音ミク",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "負け犬にアンコールはいらない",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ERROR",
+  "artist": "niki feat.Lily",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=26",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アストロノーツ",
+  "artist": "ぽわぽわP feat.初音ミク",
+  "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=27",
   "source": "ibaramuan.js"
 }
 );

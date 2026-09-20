@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 9/20/2026, 5:25:53 AM
+// 生成时间: 9/20/2026, 6:16:03 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -39955,6 +39955,230 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-09-14]居家3D｜UE5制作的3D房间完成✨首次展示🏠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kaeL6KEfp?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "明日への扉",
+  "artist": "川嶋あい",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "懐かしい未来",
+  "artist": "上白石萌音",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "愛してる",
+  "artist": "高鈴",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "remember",
+  "artist": "Uru",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "螺旋",
+  "artist": "9Lana",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "空の欠片",
+  "artist": "池田綾子",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師・宇多田ヒカル",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "光るなら",
+  "artist": "Goose house",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "横顔",
+  "artist": "牧野由依",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ループ",
+  "artist": "坂本真綾",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "旅の途中",
+  "artist": "清浦夏実",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "みちしるべ",
+  "artist": "茅原実里",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "時の歌",
+  "artist": "手嶌葵",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "CLEAR",
+  "artist": "坂本真綾",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "心絵",
+  "artist": "ロードオブメジャー",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Spending",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "プリズム",
+  "artist": "池田綾子",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "AXIA〜ダイスキでダイキライ〜",
+  "artist": "ワルキューレ",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=25",
+  "source": "yoshika.js"
+},
+    {
+  "title": "最高の片想い",
+  "artist": "タイナカサチ",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=26",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Letter Song",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=27",
+  "source": "yoshika.js"
+},
+    {
+  "title": "想い咲く時",
+  "artist": "アオイエマ",
+  "collection": "【🍠🦍歌切】[2026-09-19]仿佛在看Live影像⁉用居家3D唱个痛快🏠",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cSev6xE6N?p=28",
   "source": "yoshika.js"
 }
 );
