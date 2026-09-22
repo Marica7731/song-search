@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 9/22/2026, 1:48:24 AM
+// 生成时间: 9/22/2026, 2:41:45 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14563,6 +14563,126 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "花占い",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ワタリドリ",
+  "artist": "[Alexandros]",
+  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "有心論",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "全力少年",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愛のかたまり",
+  "artist": "KinKi Kids",
+  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "DESIRE -情熱-",
+  "artist": "中森明菜",
+  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "SECRET AMBITION",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Magia",
+  "artist": "Kalafina",
+  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "翼",
+  "artist": "藍井エイル",
+  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ときめきの導火線",
+  "artist": "今野友加里",
+  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "晴れてハレルヤ",
+  "artist": "奥井亜紀",
+  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "一番の宝物",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "黒毛和牛上塩タン焼680円",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=15",
   "source": "naraetan.js"
 }
 );

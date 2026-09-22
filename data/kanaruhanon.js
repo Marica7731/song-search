@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 8/24/2026, 6:08:46 AM
+// 生成时间: 9/22/2026, 3:19:07 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1475,6 +1475,462 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-17]3D Live｜香鳴ハノン活动6周年纪念Live！ #モシモノハノ誕2026",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mLbq6ZEdG?p=12",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ビタミンSUMMER!",
+  "artist": "Liella!",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Color of Drops",
+  "artist": "MORE MORE JUMP!",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "カルマ",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "STAND-ALONE",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=4",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ハッピー・ジャムジャム",
+  "artist": "M・S・J",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=5",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ミラクル",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=6",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "オトシモノ",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=7",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "片想い",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=8",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=9",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "君のことが好きだから",
+  "artist": "AKB48",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=10",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "青春のラップタイム",
+  "artist": "NMB48",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=11",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "てもでもの涙",
+  "artist": "AKB48",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=12",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "人生イージー?",
+  "artist": "DIALOGUE+",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=13",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ドレミファロンド",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=14",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "踊れオーケストラ",
+  "artist": "YASUHIRO(康寛) feat.IA",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=15",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "夕景イエスタデイ",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=16",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "アイヲウタエ",
+  "artist": "春奈るな",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=17",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Overfly",
+  "artist": "春奈るな",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=18",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "courage",
+  "artist": "戸松遥",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=19",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Q&A リサイタル!",
+  "artist": "戸松遥",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=20",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "吹雪",
+  "artist": "西沢幸奏",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=21",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=22",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "超最強",
+  "artist": "超ときめき♡宣伝部",
+  "collection": "【歌切】[2026-09-12]首场个人Live「ミズイロノオト」现场票售罄感谢✨真的非常感谢！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PSYY69EDa?p=23",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "泪のムコウ",
+  "artist": "ステレオポニー",
+  "collection": "【歌切】[2026-09-17]从各种动画中精选热血歌曲✨🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TEnA?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "君色シグナル",
+  "artist": "春奈るな",
+  "collection": "【歌切】[2026-09-17]从各种动画中精选热血歌曲✨🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TEnA?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-09-17]从各种动画中精选热血歌曲✨🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TEnA?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-09-17]从各种动画中精选热血歌曲✨🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TEnA?p=4",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-09-17]从各种动画中精选热血歌曲✨🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TEnA?p=5",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ALIVE",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-09-17]从各种动画中精选热血歌曲✨🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TEnA?p=6",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "渡月橋 ～君 想ふ～",
+  "artist": "倉木麻衣",
+  "collection": "【歌切】[2026-09-17]从各种动画中精选热血歌曲✨🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TEnA?p=7",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ツキアカリのミチシルベ",
+  "artist": "ステレオポニー",
+  "collection": "【歌切】[2026-09-17]从各种动画中精选热血歌曲✨🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TEnA?p=8",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-09-17]从各种动画中精选热血歌曲✨🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TEnA?p=9",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "恋しさと せつなさと 心強さと",
+  "artist": "篠原涼子 with t.com",
+  "collection": "【歌切】[2026-09-17]从各种动画中精选热血歌曲✨🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TEnA?p=10",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "撲殺天使ドクロちゃん",
+  "artist": "千葉紗子",
+  "collection": "【歌切】[2026-09-17]从各种动画中精选热血歌曲✨🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TEnA?p=11",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ワンダー・スターター",
+  "artist": "TINGS",
+  "collection": "【歌切】[2026-09-17]从各种动画中精选热血歌曲✨🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TEnA?p=12",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "DANZEN! ふたりはプリキュア",
+  "artist": "五條真由美",
+  "collection": "【歌切】[2026-09-17]从各种动画中精选热血歌曲✨🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TEnA?p=13",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ラムのラブソング",
+  "artist": "松谷祐子",
+  "collection": "【歌切】[2026-09-17]从各种动画中精选热血歌曲✨🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TEnA?p=14",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "FRUITS CANDY",
+  "artist": "こじまめぐみ",
+  "collection": "【歌切】[2026-09-17]从各种动画中精选热血歌曲✨🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TEnA?p=15",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Catch You Catch Me",
+  "artist": "グミ",
+  "collection": "【歌切】[2026-09-17]从各种动画中精选热血歌曲✨🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TEnA?p=16",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "adrenaline!!!",
+  "artist": "TrySail",
+  "collection": "【歌切】[2026-09-17]从各种动画中精选热血歌曲✨🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TEnA?p=17",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Daytime Moon",
+  "artist": "月のテンペスト",
+  "collection": "【歌切】[2026-09-17]从各种动画中精选热血歌曲✨🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TEnA?p=18",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Shake & Shake",
+  "artist": "sumika",
+  "collection": "【歌切】[2026-09-17]从各种动画中精选热血歌曲✨🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TEnA?p=19",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "PAPERMOON",
+  "artist": "Tommy heavenly6",
+  "collection": "【歌切】[2026-09-17]从各种动画中精选热血歌曲✨🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TEnA?p=20",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ETERNAL BLAZE",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-09-17]从各种动画中精选热血歌曲✨🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TEnA?p=21",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "電脳スペクタクル",
+  "artist": "猫足蕾(CV:芹澤優)・阿岐留カミラ(CV:若井友希)",
+  "collection": "【歌切】[2026-09-21]没有安排歌单，随心唱几首～～🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hchC6nEs7?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ふわふわ時間",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-09-21]没有安排歌单，随心唱几首～～🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hchC6nEs7?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-09-21]没有安排歌单，随心唱几首～～🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hchC6nEs7?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+  "collection": "【歌切】[2026-09-21]没有安排歌单，随心唱几首～～🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hchC6nEs7?p=4",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ステラブリーズ",
+  "artist": "春奈るな",
+  "collection": "【歌切】[2026-09-21]没有安排歌单，随心唱几首～～🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hchC6nEs7?p=5",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ともに",
+  "artist": "WANIMA",
+  "collection": "【歌切】[2026-09-21]没有安排歌单，随心唱几首～～🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hchC6nEs7?p=6",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "宿命",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-09-21]没有安排歌单，随心唱几首～～🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hchC6nEs7?p=7",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-09-21]没有安排歌单，随心唱几首～～🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hchC6nEs7?p=8",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-09-21]没有安排歌单，随心唱几首～～🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hchC6nEs7?p=9",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-09-21]没有安排歌单，随心唱几首～～🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hchC6nEs7?p=10",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "オーケストラ",
+  "artist": "BiSH",
+  "collection": "【歌切】[2026-09-21]没有安排歌单，随心唱几首～～🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hchC6nEs7?p=11",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "HiDE the BLUE",
+  "artist": "BiSH",
+  "collection": "【歌切】[2026-09-21]没有安排歌单，随心唱几首～～🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hchC6nEs7?p=12",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-09-21]没有安排歌单，随心唱几首～～🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hchC6nEs7?p=13",
   "source": "kanaruhanon.js"
 }
 );

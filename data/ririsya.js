@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 9/22/2026, 1:52:15 AM
+// 生成时间: 9/22/2026, 2:47:36 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -19379,6 +19379,142 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-09-14]来唱些暗黑风的歌✧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1p8eL6qE7j?p=23",
+  "source": "ririsya.js"
+},
+    {
+  "title": "UNDEAD",
+  "artist": "YOASOBI",
+  "collection": "【🐍歌切】[2026-09-21]全程高能不停歇！✧ 一口气唱个痛快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6YEoF?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "【🐍歌切】[2026-09-21]全程高能不停歇！✧ 一口气唱个痛快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6YEoF?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【🐍歌切】[2026-09-21]全程高能不停歇！✧ 一口气唱个痛快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6YEoF?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【🐍歌切】[2026-09-21]全程高能不停歇！✧ 一口气唱个痛快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6YEoF?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【🐍歌切】[2026-09-21]全程高能不停歇！✧ 一口气唱个痛快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6YEoF?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ",
+  "artist": "MAISONdes feat.花譜&ツミキ",
+  "collection": "【🐍歌切】[2026-09-21]全程高能不停歇！✧ 一口气唱个痛快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6YEoF?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "帝国少女",
+  "artist": "R Sound Design feat.初音ミク",
+  "collection": "【🐍歌切】[2026-09-21]全程高能不停歇！✧ 一口气唱个痛快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6YEoF?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "フラジール",
+  "artist": "ぬゆり feat.GUMI",
+  "collection": "【🐍歌切】[2026-09-21]全程高能不停歇！✧ 一口气唱个痛快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6YEoF?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "【🐍歌切】[2026-09-21]全程高能不停歇！✧ 一口气唱个痛快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6YEoF?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "バニーガール",
+  "artist": "AKASAKI",
+  "collection": "【🐍歌切】[2026-09-21]全程高能不停歇！✧ 一口气唱个痛快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6YEoF?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "fake face dance music",
+  "artist": "音田雅則",
+  "collection": "【🐍歌切】[2026-09-21]全程高能不停歇！✧ 一口气唱个痛快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6YEoF?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ソワレ",
+  "artist": "星街すいせい",
+  "collection": "【🐍歌切】[2026-09-21]全程高能不停歇！✧ 一口气唱个痛快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6YEoF?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【🐍歌切】[2026-09-21]全程高能不停歇！✧ 一口气唱个痛快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6YEoF?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【🐍歌切】[2026-09-21]全程高能不停歇！✧ 一口气唱个痛快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6YEoF?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Starring...",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-09-21]全程高能不停歇！✧ 一口气唱个痛快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6YEoF?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "パラレルナイト",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-09-21]全程高能不停歇！✧ 一口气唱个痛快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6YEoF?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ハレルヤスカイ",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-09-21]全程高能不停歇！✧ 一口气唱个痛快！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17khk6YEoF?p=17",
   "source": "ririsya.js"
 }
 );
