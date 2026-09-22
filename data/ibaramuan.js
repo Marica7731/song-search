@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 9/22/2026, 4:27:57 AM
+// 生成时间: 9/22/2026, 5:37:49 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9891,6 +9891,230 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-19]假日也要元气满满地唱歌！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ELev6UETf?p=27",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ジェヘナ",
+  "artist": "wotaku feat.初音ミク",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "リライト",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "AIZO",
+  "artist": "King Gnu",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "UNDEAD",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "セブンティーン",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ノーダウト",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "イエスタデイ",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "StaRt",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アカシア",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "I",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP feat.鏡音リン",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "V",
+  "artist": "HIMEHINA",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "crossing field",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "逆夢",
+  "artist": "King Gnu",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "飛行艇",
+  "artist": "King Gnu",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アポロ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "THE DAY",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=26",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "眠り姫",
+  "artist": "茨むあん",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=27",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "シルク",
+  "artist": "茨むあん",
+  "collection": "【歌切】[2026-09-21]当然要把气氛炒热啊✊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HVhE6NEW7?p=28",
   "source": "ibaramuan.js"
 }
 );

@@ -1,6 +1,6 @@
 // 鈴花いのり - 歌单数据 (多合集汇总)
 // 来源: BV1jyjK6sEns
-// 生成时间: 9/22/2026, 4:35:15 AM
+// 生成时间: 9/22/2026, 5:44:31 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5491,6 +5491,318 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-13]周日定期直播𝜗𝜚.⋆ 来唱大家点的歌哦🎀🔔‎🤍【鈴花いのり】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KnYr6yErW?p=44",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ミス・パラレルワールド",
+  "artist": "相対性理論",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=1",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "マイハートハードピンチ",
+  "artist": "相対性理論",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=2",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=3",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=4",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "崖の上のポニョ",
+  "artist": "藤岡藤巻と大橋のぞみ",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=5",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Catch You Catch Me",
+  "artist": "グミ",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=6",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "泣き虫アンサンブル",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=7",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "君の好きな本",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=8",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=9",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "タイムマシン",
+  "artist": "1640mP feat.初音ミク",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=10",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ハロ/ハワユ",
+  "artist": "ナノウ feat.初音ミク",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=11",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "勘違い性反希望症",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=12",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "nekomeshi",
+  "artist": "やくしまるえつこ",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=13",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "少年よ我に帰れ",
+  "artist": "やくしまるえつこ",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=14",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "エルマ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=15",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=16",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=17",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "強盗と花束",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=18",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "白金ディスコ",
+  "artist": "阿良々木月火(井口裕香)",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=19",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "PAIN",
+  "artist": "DUSTCELL",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=20",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "命の行方",
+  "artist": "DUSTCELL",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=21",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ONE",
+  "artist": "DUSTCELL",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=22",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "純情スカート",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=23",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "キリトリセン",
+  "artist": "40mP feat.GUMI",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=24",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=25",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Hello,world!",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=26",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "staple stable",
+  "artist": "戦場ヶ原ひたぎ(斎藤千和)",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=27",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "世界寿命と最後の一日",
+  "artist": "スズム feat.GUMI",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=28",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Black Bird",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=29",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "おまえのドリームランド",
+  "artist": "4s4ki",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=30",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "相愛性理論",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=31",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "心壊サミット",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=32",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=33",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "CRAZY FOR YOU",
+  "artist": "Kylee",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=34",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "敗北の少年",
+  "artist": "kemu feat.GUMI",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=35",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Happiness",
+  "artist": "嵐",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=36",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "courage",
+  "artist": "戸松遥",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=37",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "境界の彼方",
+  "artist": "茅原実里",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=38",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Little Busters!",
+  "artist": "Rita",
+  "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hdh762EML?p=39",
   "source": "suzuhanainori.js"
 }
 );
