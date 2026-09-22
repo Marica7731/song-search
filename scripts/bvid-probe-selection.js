@@ -1,6 +1,6 @@
 'use strict';
 
-const DEFAULT_MIN_COLLECTION_BVIDS = 20;
+const DEFAULT_MIN_COLLECTION_BVIDS = 15;
 const DEFAULT_PROBE_COUNT = 3;
 const BV_REGEX = /BV[0-9a-zA-Z]+/;
 

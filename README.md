@@ -44,7 +44,7 @@
 - 配置源：脚本内 `SINGER_CONFIGS`（BV 列表、文件名、别名）
 - 头像源：`scripts/source-profiles.json`（按来源文件名补充头像、YouTube 频道、首字和颜色）
 - GitHub 侧先读取入口稿件的完整合集元数据，跨全部 section 按独立 BVID 计数；不使用页面虚拟列表的可见条数判断合集规模。
-- 合集少于 20 个独立 BVID 时只检查规模，不启动候选页面探针，也不覆盖该来源旧文件。达到 20 个后，固定选择稿件播放量最低的 3 个 BVID 抓取 DOM。
+- 合集少于 15 个独立 BVID 时只检查规模，不启动候选页面探针，也不覆盖该来源旧文件。达到 15 个后，固定选择稿件播放量最低的 3 个 BVID 抓取 DOM。
 - 三个探针都会执行，不随机补位或回退其他 BVID；成功结果仍按解析歌曲数择优，并继续经过来源完整性门禁。
 - 普通多 P 视频不具备合集 DOM 时，可在来源配置中设置 `rawDataLoader: "bili-view-api"`，直接读取 B 站 view API 的分 P 标题；目前仅用于 `花丸晴琉` 和 `花鋏キョウ`。
 - 探针状态按 `来源文件 + 入口 BV` 保存历史 winner 和当轮播放量，用于异常回退比较，不参与候选排序。
@@ -135,7 +135,7 @@ song-search/
 │  ├─ update-songs.js          # 数据抓取与生成脚本
 │  ├─ bilibili-page-api.js      # view API 分 P 与合集稿件元数据适配器
 │  ├─ bilibili-page-api.test.js # view API 适配器回归测试
-│  ├─ bvid-probe-selection.js  # 20-BVID 门槛和最低播放量选择
+│  ├─ bvid-probe-selection.js  # 15-BVID 门槛和最低播放量选择
 │  ├─ bvid-probe-selection.test.js # 候选选择回归测试
 │  ├─ update-songs-guard.js    # 来源完整性和异常回退门禁
 │  ├─ update-songs-guard.test.js # 门禁回归测试
