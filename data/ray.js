@@ -1,6 +1,6 @@
 // 來-Ray- - 歌单数据 (多合集汇总)
 // 来源: BV1mJZwB8EVa
-// 生成时间: 8/24/2026, 5:20:36 AM
+// 生成时间: 9/22/2026, 9:26:17 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5115,6 +5115,390 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-10]珍贵的竖屏歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m2ur6sErg?p=29",
+  "source": "ray.js"
+},
+    {
+  "title": "カノン",
+  "artist": "柊マグネタイト feat.可不",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=1",
+  "source": "ray.js"
+},
+    {
+  "title": "Distance",
+  "artist": "西野カナ",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=2",
+  "source": "ray.js"
+},
+    {
+  "title": "alternate",
+  "artist": "keeno feat.初音ミク",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=3",
+  "source": "ray.js"
+},
+    {
+  "title": "三冬月。雨と0時",
+  "artist": "キョータ(スコアP) feat.初音ミク",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=4",
+  "source": "ray.js"
+},
+    {
+  "title": "magnet",
+  "artist": "minato(流星P) feat.初音ミク・巡音ルカ",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=5",
+  "source": "ray.js"
+},
+    {
+  "title": "Beyond the way",
+  "artist": "Giga feat.初音ミク・鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=6",
+  "source": "ray.js"
+},
+    {
+  "title": "神っぽいな",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=7",
+  "source": "ray.js"
+},
+    {
+  "title": "Before the Dawn",
+  "artist": "forute feat.初音ミク",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=8",
+  "source": "ray.js"
+},
+    {
+  "title": "ハウトゥー世界征服",
+  "artist": "Neru feat.鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=9",
+  "source": "ray.js"
+},
+    {
+  "title": "可愛くなりたい",
+  "artist": "HoneyWorks feat.成海聖奈(CV:雨宮天)",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=10",
+  "source": "ray.js"
+},
+    {
+  "title": "マニック",
+  "artist": "*Luna feat.音街ウナ・Rana",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=11",
+  "source": "ray.js"
+},
+    {
+  "title": "ギミック",
+  "artist": "*Luna feat.正岡小豆・小林抹茶",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=12",
+  "source": "ray.js"
+},
+    {
+  "title": "Wintry Smile",
+  "artist": "forute feat.初音ミク",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=13",
+  "source": "ray.js"
+},
+    {
+  "title": "potatoになっていく",
+  "artist": "Neru feat.鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=14",
+  "source": "ray.js"
+},
+    {
+  "title": "Orca",
+  "artist": "irucaice feat.初音ミク",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=15",
+  "source": "ray.js"
+},
+    {
+  "title": "レントリリー",
+  "artist": "ジグ feat.初音ミク",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=16",
+  "source": "ray.js"
+},
+    {
+  "title": "Rabbit",
+  "artist": "dezzy(一億円P) feat.初音ミク・IA",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=17",
+  "source": "ray.js"
+},
+    {
+  "title": "アクシデントコーディネイター",
+  "artist": "ナポリP feat.GUMI",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=18",
+  "source": "ray.js"
+},
+    {
+  "title": "ノウナイディスコ",
+  "artist": "r-906 feat.IA",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=19",
+  "source": "ray.js"
+},
+    {
+  "title": "光彩",
+  "artist": "めろくる feat.初音ミク",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=20",
+  "source": "ray.js"
+},
+    {
+  "title": "jewel",
+  "artist": "梅とら feat.巡音ルカ・初音ミク・GUMI・IA・鏡音リン",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=21",
+  "source": "ray.js"
+},
+    {
+  "title": "ウタカタララバイ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=22",
+  "source": "ray.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=23",
+  "source": "ray.js"
+},
+    {
+  "title": "レディーレ",
+  "artist": "バルーン feat.flower",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=24",
+  "source": "ray.js"
+},
+    {
+  "title": "HEAVEN",
+  "artist": "はりーP feat.初音ミク",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=25",
+  "source": "ray.js"
+},
+    {
+  "title": "脳内革命ガール",
+  "artist": "MARETU feat.初音ミク",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=26",
+  "source": "ray.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=27",
+  "source": "ray.js"
+},
+    {
+  "title": "シニカルナイトプラン",
+  "artist": "Ayase feat.初音ミク",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=28",
+  "source": "ray.js"
+},
+    {
+  "title": "限りなく灰色へ",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=29",
+  "source": "ray.js"
+},
+    {
+  "title": "僕らの街に愛が降る夜だ",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=30",
+  "source": "ray.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=31",
+  "source": "ray.js"
+},
+    {
+  "title": "Gimme×Gimme",
+  "artist": "八王子P×Giga feat.初音ミク・鏡音リン",
+  "collection": "【歌切】[2026-08-30]久违地唱歌啦～～～【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w1tt6WEdk?p=32",
+  "source": "ray.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【歌切】[2026-09-06]今天只唱一会儿【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sCbP6hE4h?p=1",
+  "source": "ray.js"
+},
+    {
+  "title": "Shadow Shadow",
+  "artist": "Azari feat.flower",
+  "collection": "【歌切】[2026-09-06]今天只唱一会儿【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sCbP6hE4h?p=2",
+  "source": "ray.js"
+},
+    {
+  "title": "世界を壊している",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "【歌切】[2026-09-06]今天只唱一会儿【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sCbP6hE4h?p=3",
+  "source": "ray.js"
+},
+    {
+  "title": "阿修羅ちゃん",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-09-06]今天只唱一会儿【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sCbP6hE4h?p=4",
+  "source": "ray.js"
+},
+    {
+  "title": "ラズライト",
+  "artist": "*Luna feat.VY1",
+  "collection": "【歌切】[2026-09-06]今天只唱一会儿【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sCbP6hE4h?p=5",
+  "source": "ray.js"
+},
+    {
+  "title": "レゾンデイトル・カレイドスコウプ",
+  "artist": "ツミキ feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]今天只唱一会儿【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sCbP6hE4h?p=6",
+  "source": "ray.js"
+},
+    {
+  "title": "ラッシャイナ",
+  "artist": "柊マグネタイト feat.可不",
+  "collection": "【歌切】[2026-09-06]今天只唱一会儿【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sCbP6hE4h?p=7",
+  "source": "ray.js"
+},
+    {
+  "title": "エンドロール",
+  "artist": "夏代孝明 feat.VY1",
+  "collection": "【歌切】[2026-09-06]今天只唱一会儿【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sCbP6hE4h?p=8",
+  "source": "ray.js"
+},
+    {
+  "title": "ライカ",
+  "artist": "yamada feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]今天只唱一会儿【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sCbP6hE4h?p=9",
+  "source": "ray.js"
+},
+    {
+  "title": "ダブルラリアット",
+  "artist": "アゴアニキP feat.巡音ルカ",
+  "collection": "【歌切】[2026-09-06]今天只唱一会儿【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sCbP6hE4h?p=10",
+  "source": "ray.js"
+},
+    {
+  "title": "花となれ",
+  "artist": "雄之助 feat.可不",
+  "collection": "【歌切】[2026-09-06]今天只唱一会儿【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sCbP6hE4h?p=11",
+  "source": "ray.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]今天只唱一会儿【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sCbP6hE4h?p=12",
+  "source": "ray.js"
+},
+    {
+  "title": "ドナーソング",
+  "artist": "れるりり・もじゃ feat.GUMI",
+  "collection": "【歌切】[2026-09-06]今天只唱一会儿【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sCbP6hE4h?p=13",
+  "source": "ray.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]今天只唱一会儿【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sCbP6hE4h?p=14",
+  "source": "ray.js"
+},
+    {
+  "title": "KILLER B",
+  "artist": "梅とら feat.巡音ルカ・初音ミク・GUMI・IA・鏡音リン",
+  "collection": "【歌切】[2026-09-06]今天只唱一会儿【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sCbP6hE4h?p=15",
+  "source": "ray.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【歌切】[2026-09-06]今天只唱一会儿【來-Ray-】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sCbP6hE4h?p=16",
   "source": "ray.js"
 }
 );

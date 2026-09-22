@@ -1,6 +1,6 @@
 // 山田シャロ - 歌单数据 (多合集汇总)
 // 来源: BV179L66pE1f
-// 生成时间: 8/24/2026, 6:04:24 AM
+// 生成时间: 9/22/2026, 9:54:13 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1779,6 +1779,542 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-21]可爱的平成动画歌曲祭典！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tH8p6HEPM?p=16",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-08-28]超帅气！推荐动漫歌曲✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZQtx66EKr?p=1",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-08-28]超帅气！推荐动漫歌曲✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZQtx66EKr?p=2",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "拍手喝采歌合",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-08-28]超帅气！推荐动漫歌曲✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZQtx66EKr?p=3",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-08-28]超帅气！推荐动漫歌曲✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZQtx66EKr?p=4",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "カーストルーム",
+  "artist": "ZAQ",
+  "collection": "【歌切】[2026-08-28]超帅气！推荐动漫歌曲✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZQtx66EKr?p=5",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【歌切】[2026-08-28]超帅气！推荐动漫歌曲✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZQtx66EKr?p=6",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ノーザンクロス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-08-28]超帅气！推荐动漫歌曲✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZQtx66EKr?p=7",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "禁断のレジスタンス",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-08-28]超帅气！推荐动漫歌曲✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZQtx66EKr?p=8",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "一度だけの恋なら",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-08-28]超帅气！推荐动漫歌曲✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZQtx66EKr?p=9",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "【歌切】[2026-08-28]超帅气！推荐动漫歌曲✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZQtx66EKr?p=10",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "CHOIR JAIL",
+  "artist": "鈴木このみ",
+  "collection": "【歌切】[2026-08-28]超帅气！推荐动漫歌曲✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZQtx66EKr?p=11",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "革命デュアリズム",
+  "artist": "水樹奈々×T.M.Revolution",
+  "collection": "【歌切】[2026-08-28]超帅气！推荐动漫歌曲✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZQtx66EKr?p=12",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Preserved Roses",
+  "artist": "T.M.Revolution×水樹奈々",
+  "collection": "【歌切】[2026-08-28]超帅气！推荐动漫歌曲✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZQtx66EKr?p=13",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Pray",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-08-28]超帅气！推荐动漫歌曲✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZQtx66EKr?p=14",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Recall THE END",
+  "artist": "TRUSTRICK",
+  "collection": "【歌切】[2026-08-28]超帅气！推荐动漫歌曲✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZQtx66EKr?p=15",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-08-28]超帅气！推荐动漫歌曲✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZQtx66EKr?p=16",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-08-28]超帅气！推荐动漫歌曲✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZQtx66EKr?p=17",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-08-28]超帅气！推荐动漫歌曲✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZQtx66EKr?p=18",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "想い",
+  "artist": "山田シャロ",
+  "collection": "【歌切】[2026-08-28]超帅气！推荐动漫歌曲✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZQtx66EKr?p=19",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "僕らは今のなかで",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-09-04]《LoveLive!》限定歌回✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2h?p=1",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "START:DASH!!",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-09-04]《LoveLive!》限定歌回✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2h?p=2",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "きっと青春が聞こえる",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-09-04]《LoveLive!》限定歌回✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2h?p=3",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "輝夜の城で踊りたい",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-09-04]《LoveLive!》限定歌回✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2h?p=4",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Cutie Panther",
+  "artist": "BiBi",
+  "collection": "【歌切】[2026-09-04]《LoveLive!》限定歌回✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2h?p=5",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Baby Maybe 恋のボタン",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-09-04]《LoveLive!》限定歌回✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2h?p=6",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Mermaid festa vol.1",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-09-04]《LoveLive!》限定歌回✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2h?p=7",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "知らないLove*教えてLove",
+  "artist": "lily white",
+  "collection": "【歌切】[2026-09-04]《LoveLive!》限定歌回✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2h?p=8",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "No brand girls",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-09-04]《LoveLive!》限定歌回✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2h?p=9",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "もぎゅっと“love”で接近中!",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-09-04]《LoveLive!》限定歌回✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2h?p=10",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "夏色えがおで1,2,Jump!",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-09-04]《LoveLive!》限定歌回✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2h?p=11",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Snow halation",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-09-04]《LoveLive!》限定歌回✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2h?p=12",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Wonderful Rush",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-09-04]《LoveLive!》限定歌回✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2h?p=13",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Angelic Angel",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-09-04]《LoveLive!》限定歌回✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2h?p=14",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "SUNNY DAY SONG",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-09-04]《LoveLive!》限定歌回✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2h?p=15",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ユメノトビラ",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-09-04]《LoveLive!》限定歌回✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2h?p=16",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "僕たちはひとつの光",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-09-04]《LoveLive!》限定歌回✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE2h?p=17",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "うたかた花火",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-09-11]深夜助眠必备「抒情歌」限定✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnYY6CEp1?p=1",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "真夏の果実",
+  "artist": "サザンオールスターズ",
+  "collection": "【歌切】[2026-09-11]深夜助眠必备「抒情歌」限定✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnYY6CEp1?p=2",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-09-11]深夜助眠必备「抒情歌」限定✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnYY6CEp1?p=3",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【歌切】[2026-09-11]深夜助眠必备「抒情歌」限定✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnYY6CEp1?p=4",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "やさしさで溢れるように",
+  "artist": "JUJU",
+  "collection": "【歌切】[2026-09-11]深夜助眠必备「抒情歌」限定✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnYY6CEp1?p=5",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "【歌切】[2026-09-11]深夜助眠必备「抒情歌」限定✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnYY6CEp1?p=6",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ダイアモンド クレバス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-09-11]深夜助眠必备「抒情歌」限定✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnYY6CEp1?p=7",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-09-11]深夜助眠必备「抒情歌」限定✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnYY6CEp1?p=8",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【歌切】[2026-09-11]深夜助眠必备「抒情歌」限定✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnYY6CEp1?p=9",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-09-11]深夜助眠必备「抒情歌」限定✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnYY6CEp1?p=10",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【歌切】[2026-09-11]深夜助眠必备「抒情歌」限定✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnYY6CEp1?p=11",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-09-11]深夜助眠必备「抒情歌」限定✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnYY6CEp1?p=12",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "片想い",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-09-11]深夜助眠必备「抒情歌」限定✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnYY6CEp1?p=13",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "逢いたくていま",
+  "artist": "MISIA",
+  "collection": "【歌切】[2026-09-11]深夜助眠必备「抒情歌」限定✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnYY6CEp1?p=14",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "愛の星",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-09-11]深夜助眠必备「抒情歌」限定✨【山田シャロ】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnYY6CEp1?p=15",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "涼宮ハルヒ(CV:平野綾)・長門有希(CV:茅原実里)・朝比奈みくる(CV:後藤邑子)",
+  "collection": "【歌切】[2026-09-18]平成年代动画歌曲限定！！✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEqB?p=1",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "irony",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-09-18]平成年代动画歌曲限定！！✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEqB?p=2",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-09-18]平成年代动画歌曲限定！！✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEqB?p=3",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "翼",
+  "artist": "藍井エイル",
+  "collection": "【歌切】[2026-09-18]平成年代动画歌曲限定！！✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEqB?p=4",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【歌切】[2026-09-18]平成年代动画歌曲限定！！✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEqB?p=5",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "銀色飛行船",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-09-18]平成年代动画歌曲限定！！✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEqB?p=6",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "君がいるから",
+  "artist": "下川みくに",
+  "collection": "【歌切】[2026-09-18]平成年代动画歌曲限定！！✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEqB?p=7",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "夢の続き",
+  "artist": "鈴木このみ",
+  "collection": "【歌切】[2026-09-18]平成年代动画歌曲限定！！✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEqB?p=8",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "射手座☆午後九時Don’t be late",
+  "artist": "シェリル・ノーム starring May’n",
+  "collection": "【歌切】[2026-09-18]平成年代动画歌曲限定！！✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEqB?p=9",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "不確定性☆COSMIC MOVEMENT",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-09-18]平成年代动画歌曲限定！！✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEqB?p=10",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-09-18]平成年代动画歌曲限定！！✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEqB?p=11",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Synchrogazer",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-09-18]平成年代动画歌曲限定！！✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEqB?p=12",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ACROSS",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-09-18]平成年代动画歌曲限定！！✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEqB?p=13",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "天空のカナリア",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-09-18]平成年代动画歌曲限定！！✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEqB?p=14",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "BRIGHT STREAM",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-09-18]平成年代动画歌曲限定！！✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEqB?p=15",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ETERNAL BLAZE",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-09-18]平成年代动画歌曲限定！！✨🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYev6TEqB?p=16",
   "source": "yamadasharo.js"
 }
 );
