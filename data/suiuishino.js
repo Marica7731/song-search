@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 9/22/2026, 3:31:54 AM
+// 生成时间: 9/22/2026, 4:39:40 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4587,6 +4587,214 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-16]来唱你喜欢的动画歌曲！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17WeT6zEK4?p=15",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "又三郎",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "脳裏上のクラッカー",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "真赤",
+  "artist": "My Hair is Bad",
+  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ERROR",
+  "artist": "niki feat.Lily",
+  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師・宇多田ヒカル",
+  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "声",
+  "artist": "羊文学",
+  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "鳥の詩",
+  "artist": "Lia",
+  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=15",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Namidairo",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Beautiful World",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ヒカリヘ",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Rain",
+  "artist": "秦基博",
+  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "夜永唄",
+  "artist": "神はサイコロを振らない",
+  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=11",
   "source": "suiuishino.js"
 }
 );
