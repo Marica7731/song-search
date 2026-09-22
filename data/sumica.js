@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 9/22/2026, 5:19:32 AM
+// 生成时间: 9/22/2026, 6:16:46 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9635,6 +9635,70 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-09-19]傍晚来听一场轻松惬意的弹唱吧!!🌆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cmev6oEmX?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-09-20]距离首次线下Live还有两天‼️来听创作歌手弹唱一首吗～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NMhE6zEMQ?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "エンドレス",
+  "artist": "TOMOO",
+  "collection": "【💐🎸歌切】[2026-09-20]距离首次线下Live还有两天‼️来听创作歌手弹唱一首吗～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NMhE6zEMQ?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "君とインドカレー",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-09-20]距离首次线下Live还有两天‼️来听创作歌手弹唱一首吗～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NMhE6zEMQ?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "ぷんぷん",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-09-20]距离首次线下Live还有两天‼️来听创作歌手弹唱一首吗～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NMhE6zEMQ?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-09-20]距离首次线下Live还有两天‼️来听创作歌手弹唱一首吗～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NMhE6zEMQ?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【💐🎸歌切】[2026-09-20]距离首次线下Live还有两天‼️来听创作歌手弹唱一首吗～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NMhE6zEMQ?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-20]距离首次线下Live还有两天‼️来听创作歌手弹唱一首吗～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NMhE6zEMQ?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "ちょっと待って！",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-20]距离首次线下Live还有两天‼️来听创作歌手弹唱一首吗～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NMhE6zEMQ?p=8",
   "source": "sumica.js"
 }
 );
