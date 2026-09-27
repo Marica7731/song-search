@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 9/27/2026, 6:11:14 PM
+// 生成时间: 9/27/2026, 8:05:41 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -40347,6 +40347,142 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-09-18]欢迎新观众！快乐星期五！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gtev66Eh6?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【🍠🦍歌切】[2026-09-23]欢迎新观众！日本秋季连休不要结束啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MdaY6dExo?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【🍠🦍歌切】[2026-09-23]欢迎新观众！日本秋季连休不要结束啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MdaY6dExo?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-09-23]欢迎新观众！日本秋季连休不要结束啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MdaY6dExo?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-09-23]欢迎新观众！日本秋季连休不要结束啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MdaY6dExo?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "【🍠🦍歌切】[2026-09-23]欢迎新观众！日本秋季连休不要结束啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MdaY6dExo?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "西沢さんP feat.GUMI",
+  "collection": "【🍠🦍歌切】[2026-09-23]欢迎新观众！日本秋季连休不要结束啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MdaY6dExo?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "【🍠🦍歌切】[2026-09-23]欢迎新观众！日本秋季连休不要结束啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MdaY6dExo?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍠🦍歌切】[2026-09-23]欢迎新观众！日本秋季连休不要结束啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MdaY6dExo?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "【🍠🦍歌切】[2026-09-23]欢迎新观众！日本秋季连休不要结束啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MdaY6dExo?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "オラは人気者",
+  "artist": "クレヨンしんちゃん",
+  "collection": "【🍠🦍歌切】[2026-09-23]欢迎新观众！日本秋季连休不要结束啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MdaY6dExo?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "螺旋",
+  "artist": "9Lana",
+  "collection": "【🍠🦍歌切】[2026-09-23]欢迎新观众！日本秋季连休不要结束啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MdaY6dExo?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夕景イエスタデイ",
+  "artist": "じん feat.IA",
+  "collection": "【🍠🦍歌切】[2026-09-23]欢迎新观众！日本秋季连休不要结束啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MdaY6dExo?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Lovers",
+  "artist": "sumika",
+  "collection": "【🍠🦍歌切】[2026-09-23]欢迎新观众！日本秋季连休不要结束啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MdaY6dExo?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "【🍠🦍歌切】[2026-09-23]欢迎新观众！日本秋季连休不要结束啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MdaY6dExo?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "味楽る!ミミカ ナンバーワン",
+  "artist": "Goma",
+  "collection": "【🍠🦍歌切】[2026-09-23]欢迎新观众！日本秋季连休不要结束啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MdaY6dExo?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "HANABI",
+  "artist": "いきものがかり",
+  "collection": "【🍠🦍歌切】[2026-09-23]欢迎新观众！日本秋季连休不要结束啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MdaY6dExo?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Butterfly Kiss",
+  "artist": "米倉千尋",
+  "collection": "【🍠🦍歌切】[2026-09-23]欢迎新观众！日本秋季连休不要结束啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MdaY6dExo?p=17",
   "source": "yoshika.js"
 }
 );

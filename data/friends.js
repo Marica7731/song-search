@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 9/27/2026, 6:26:28 PM
+// 生成时间: 9/27/2026, 8:14:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4403,6 +4403,62 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-09-15 唱些让人热血沸腾的歌，把气氛拉满吧啊啊啊！！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rNeW6dE6C?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "联动歌切 2026-09-26 第一次和座敷わらび联动唱歌💛💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9ah6JEiH?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "联动歌切 2026-09-26 第一次和座敷わらび联动唱歌💛💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9ah6JEiH?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "联动歌切 2026-09-26 第一次和座敷わらび联动唱歌💛💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9ah6JEiH?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "愛包ダンスホール",
+  "artist": "HIMEHINA",
+  "collection": "联动歌切 2026-09-26 第一次和座敷わらび联动唱歌💛💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9ah6JEiH?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "シル・ヴ・プレジデント",
+  "artist": "P丸様。",
+  "collection": "联动歌切 2026-09-26 第一次和座敷わらび联动唱歌💛💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9ah6JEiH?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "联动歌切 2026-09-26 第一次和座敷わらび联动唱歌💛💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9ah6JEiH?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "ジョジョ～その血の運命～",
+  "artist": "富永TOMMY弘明",
+  "collection": "联动歌切 2026-09-26 第一次和座敷わらび联动唱歌💛💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9ah6JEiH?p=7",
   "source": "friends.js"
 }
 );

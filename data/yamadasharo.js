@@ -1,6 +1,6 @@
 // 山田シャロ - 歌单数据 (多合集汇总)
 // 来源: BV179L66pE1f
-// 生成时间: 9/27/2026, 6:44:23 PM
+// 生成时间: 9/27/2026, 8:27:09 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2358,8 +2358,8 @@ window.SONG_DATA.push(
   "source": "yamadasharo.js"
 },
     {
-  "title": "ステラ",
-  "artist": "じん feat.初音ミク",
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
   "collection": "【歌切】[2026-09-26]用歌声让你打起精神！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JEAi?p=6",
