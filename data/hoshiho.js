@@ -1,6 +1,6 @@
 // HoshiHo - 歌单数据 (多合集汇总)
 // 来源: BV11fQSB2ELX
-// 生成时间: 9/27/2026, 9:17:14 PM
+// 生成时间: 9/27/2026, 10:34:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3739,6 +3739,70 @@ window.SONG_DATA.push(
   "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=41",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【🌟💐HoshiHo歌切】#7[2026-09-27]VackON回顾＆唱歌聊天",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Puai6REao?p=1",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "優しい夜明け",
+  "artist": "See-Saw",
+  "collection": "【🌟💐HoshiHo歌切】#7[2026-09-27]VackON回顾＆唱歌聊天",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Puai6REao?p=2",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "君たちキウイ・パパイア・マンゴーだね。",
+  "artist": "中原めいこ",
+  "collection": "【🌟💐HoshiHo歌切】#7[2026-09-27]VackON回顾＆唱歌聊天",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Puai6REao?p=3",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "key to my heart",
+  "artist": "倉木麻衣",
+  "collection": "【🌟💐HoshiHo歌切】#7[2026-09-27]VackON回顾＆唱歌聊天",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Puai6REao?p=4",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "夢であるように",
+  "artist": "DEEN",
+  "collection": "【🌟💐HoshiHo歌切】#7[2026-09-27]VackON回顾＆唱歌聊天",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Puai6REao?p=5",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "夢は終わらない ～こぼれ落ちる時の雫～",
+  "artist": "吉田由香里",
+  "collection": "【🌟💐HoshiHo歌切】#7[2026-09-27]VackON回顾＆唱歌聊天",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Puai6REao?p=6",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "bonny ebony black swan",
+  "artist": "love solfege feat.Rose Panna",
+  "collection": "【🌟💐HoshiHo歌切】#7[2026-09-27]VackON回顾＆唱歌聊天",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Puai6REao?p=7",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "太陽が呼んでいる",
+  "artist": "加藤いづみ",
+  "collection": "【🌟💐HoshiHo歌切】#7[2026-09-27]VackON回顾＆唱歌聊天",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Puai6REao?p=8",
   "source": "hoshiho.js"
 }
 );
