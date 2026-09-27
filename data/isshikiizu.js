@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 9/27/2026, 3:01:07 PM
+// 生成时间: 9/27/2026, 4:20:00 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5715,6 +5715,62 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-20]为你送上治愈与活力🎤💫热烈欢迎新观众！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Hihk6qEe4?p=29",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-09-26]第一次和座敷わらび联动唱歌💛💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9ah6JEiH?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "【歌切】[2026-09-26]第一次和座敷わらび联动唱歌💛💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9ah6JEiH?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-09-26]第一次和座敷わらび联动唱歌💛💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9ah6JEiH?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "愛包ダンスホール",
+  "artist": "HIMEHINA",
+  "collection": "【歌切】[2026-09-26]第一次和座敷わらび联动唱歌💛💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9ah6JEiH?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "シル・ヴ・プレジデント",
+  "artist": "P丸様。",
+  "collection": "【歌切】[2026-09-26]第一次和座敷わらび联动唱歌💛💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9ah6JEiH?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "【歌切】[2026-09-26]第一次和座敷わらび联动唱歌💛💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9ah6JEiH?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ジョジョ～その血の運命～",
+  "artist": "富永TOMMY弘明",
+  "collection": "【歌切】[2026-09-26]第一次和座敷わらび联动唱歌💛💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t9ah6JEiH?p=7",
   "source": "isshikiizu.js"
 }
 );

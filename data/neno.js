@@ -1,6 +1,6 @@
 // 碧生ねの - 歌单数据 (多合集汇总)
 // 来源: BV1S4TT6pEn4
-// 生成时间: 9/27/2026, 2:57:00 PM
+// 生成时间: 9/27/2026, 4:15:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1691,6 +1691,78 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-21]早晨轻松开唱｜横竖屏双模式🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Jrhk6PE2e?p=10",
+  "source": "neno.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-25]悠闲的午间横竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEKS?p=1",
+  "source": "neno.js"
+},
+    {
+  "title": "快晴",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-09-25]悠闲的午间横竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEKS?p=2",
+  "source": "neno.js"
+},
+    {
+  "title": "迷子の僕に",
+  "artist": "KEI feat.GUMI",
+  "collection": "【歌切】[2026-09-25]悠闲的午间横竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEKS?p=3",
+  "source": "neno.js"
+},
+    {
+  "title": "金曜日のおはよう",
+  "artist": "HoneyWorks feat.GUMI",
+  "collection": "【歌切】[2026-09-25]悠闲的午间横竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEKS?p=4",
+  "source": "neno.js"
+},
+    {
+  "title": "らしさ",
+  "artist": "SUPER BEAVER",
+  "collection": "【歌切】[2026-09-25]悠闲的午间横竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEKS?p=5",
+  "source": "neno.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-25]悠闲的午间横竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEKS?p=6",
+  "source": "neno.js"
+},
+    {
+  "title": "紡ぐ",
+  "artist": "とた",
+  "collection": "【歌切】[2026-09-25]悠闲的午间横竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEKS?p=7",
+  "source": "neno.js"
+},
+    {
+  "title": "空に歌えば",
+  "artist": "amazarashi",
+  "collection": "【歌切】[2026-09-25]悠闲的午间横竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEKS?p=8",
+  "source": "neno.js"
+},
+    {
+  "title": "ハルキゲニア",
+  "artist": "Chevon",
+  "collection": "【歌切】[2026-09-25]悠闲的午间横竖屏歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEKS?p=9",
   "source": "neno.js"
 }
 );
