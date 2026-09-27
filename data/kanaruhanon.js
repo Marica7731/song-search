@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 9/27/2026, 5:29:18 PM
+// 生成时间: 9/27/2026, 6:46:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1931,6 +1931,126 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-21]没有安排歌单，随心唱几首～～🎤✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hchC6nEs7?p=13",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "さくらんぼ",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-09-23]大家一起玩前奏猜歌吧！！！超有名歌曲限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1F5ae6CEJj?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-09-23]大家一起玩前奏猜歌吧！！！超有名歌曲限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1F5ae6CEJj?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "女々しくて",
+  "artist": "ゴールデンボンバー",
+  "collection": "【歌切】[2026-09-23]大家一起玩前奏猜歌吧！！！超有名歌曲限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1F5ae6CEJj?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-09-23]大家一起玩前奏猜歌吧！！！超有名歌曲限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1F5ae6CEJj?p=4",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "恋するフォーチュンクッキー",
+  "artist": "AKB48",
+  "collection": "【歌切】[2026-09-23]大家一起玩前奏猜歌吧！！！超有名歌曲限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1F5ae6CEJj?p=5",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【歌切】[2026-09-23]大家一起玩前奏猜歌吧！！！超有名歌曲限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1F5ae6CEJj?p=6",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "桃色片想い♡",
+  "artist": "松浦亜弥",
+  "collection": "【歌切】[2026-09-23]大家一起玩前奏猜歌吧！！！超有名歌曲限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1F5ae6CEJj?p=7",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "愛唄",
+  "artist": "GReeeeN",
+  "collection": "【歌切】[2026-09-23]大家一起玩前奏猜歌吧！！！超有名歌曲限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1F5ae6CEJj?p=8",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "アゲハ蝶",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-09-23]大家一起玩前奏猜歌吧！！！超有名歌曲限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1F5ae6CEJj?p=9",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "前前前世",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-23]大家一起玩前奏猜歌吧！！！超有名歌曲限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1F5ae6CEJj?p=10",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾、茅原実里、後藤邑子",
+  "collection": "【歌切】[2026-09-23]大家一起玩前奏猜歌吧！！！超有名歌曲限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1F5ae6CEJj?p=11",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ナイショの話",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-09-23]大家一起玩前奏猜歌吧！！！超有名歌曲限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1F5ae6CEJj?p=12",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "わたしの一番かわいいところ",
+  "artist": "FRUITS ZIPPER",
+  "collection": "【歌切】[2026-09-23]大家一起玩前奏猜歌吧！！！超有名歌曲限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1F5ae6CEJj?p=13",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "新宝島",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-09-23]大家一起玩前奏猜歌吧！！！超有名歌曲限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1F5ae6CEJj?p=14",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "【歌切】[2026-09-23]大家一起玩前奏猜歌吧！！！超有名歌曲限定！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1F5ae6CEJj?p=15",
   "source": "kanaruhanon.js"
 }
 );

@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 9/27/2026, 5:06:04 PM
+// 生成时间: 9/27/2026, 6:21:45 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9811,6 +9811,102 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-09-24]🔥众筹中期汇报会🔥有东西想给大家看‼️之后悠闲弹唱～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMw?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "シアワセ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-27]aiko歌曲限定｜弹唱翻唱个够～时隔一年再开aiko专场✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16Xae62E2e?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "青空",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-27]aiko歌曲限定｜弹唱翻唱个够～时隔一年再开aiko专场✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16Xae62E2e?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "横顔",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-27]aiko歌曲限定｜弹唱翻唱个够～时隔一年再开aiko专场✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16Xae62E2e?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "二時頃",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-27]aiko歌曲限定｜弹唱翻唱个够～时隔一年再开aiko专场✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16Xae62E2e?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "果てしない2人",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-27]aiko歌曲限定｜弹唱翻唱个够～时隔一年再开aiko专场✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16Xae62E2e?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "ハチミツ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-27]aiko歌曲限定｜弹唱翻唱个够～时隔一年再开aiko专场✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16Xae62E2e?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "花火",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-27]aiko歌曲限定｜弹唱翻唱个够～时隔一年再开aiko专场✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16Xae62E2e?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "秘密",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-27]aiko歌曲限定｜弹唱翻唱个够～时隔一年再开aiko专场✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16Xae62E2e?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "相思相愛",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-27]aiko歌曲限定｜弹唱翻唱个够～时隔一年再开aiko专场✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16Xae62E2e?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "明日もいつも通りに",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-27]aiko歌曲限定｜弹唱翻唱个够～时隔一年再开aiko专场✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16Xae62E2e?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-27]aiko歌曲限定｜弹唱翻唱个够～时隔一年再开aiko专场✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16Xae62E2e?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "花火",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-27]aiko歌曲限定｜弹唱翻唱个够～时隔一年再开aiko专场✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16Xae62E2e?p=12",
   "source": "sumica.js"
 }
 );
