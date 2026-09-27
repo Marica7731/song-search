@@ -1,6 +1,6 @@
 // チョま - 歌单数据 (多合集汇总)
 // 来源: BV1kM3L6GEBV
-// 生成时间: 9/27/2026, 8:36:03 PM
+// 生成时间: 9/27/2026, 9:52:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3723,6 +3723,246 @@ window.SONG_DATA.push(
   "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=22",
+  "source": "choma.js"
+},
+    {
+  "title": "ハレンチ",
+  "artist": "ちゃんみな",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=1",
+  "source": "choma.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=2",
+  "source": "choma.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP feat.鏡音リン",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=3",
+  "source": "choma.js"
+},
+    {
+  "title": "ロストワンの号哭",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=4",
+  "source": "choma.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=5",
+  "source": "choma.js"
+},
+    {
+  "title": "高音厨音域テスト",
+  "artist": "木村わいP feat.初音ミク",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=6",
+  "source": "choma.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=7",
+  "source": "choma.js"
+},
+    {
+  "title": "リードコントロール",
+  "artist": "なるみや",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=8",
+  "source": "choma.js"
+},
+    {
+  "title": "ノンブレス・オブリージュ",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=9",
+  "source": "choma.js"
+},
+    {
+  "title": "ヤラララ",
+  "artist": "AnythingBecomeMoe feat.重音テトSV2",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=10",
+  "source": "choma.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=11",
+  "source": "choma.js"
+},
+    {
+  "title": "テレキャスタービーボーイ",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=12",
+  "source": "choma.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス feat.可不",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=13",
+  "source": "choma.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス feat.可不",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=14",
+  "source": "choma.js"
+},
+    {
+  "title": "ウタカタララバイ",
+  "artist": "Ado",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=15",
+  "source": "choma.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=16",
+  "source": "choma.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=17",
+  "source": "choma.js"
+},
+    {
+  "title": "小さきもの",
+  "artist": "林明日香",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=18",
+  "source": "choma.js"
+},
+    {
+  "title": "グッバイ宣言",
+  "artist": "Chinozo feat.flower",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=19",
+  "source": "choma.js"
+},
+    {
+  "title": "生きる",
+  "artist": "水野あつ feat.可不",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=20",
+  "source": "choma.js"
+},
+    {
+  "title": "一二三",
+  "artist": "Penthouse",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=21",
+  "source": "choma.js"
+},
+    {
+  "title": "めざせポケモンマスター",
+  "artist": "松本梨香",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=22",
+  "source": "choma.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "ロクデナシ",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=23",
+  "source": "choma.js"
+},
+    {
+  "title": "阿修羅ちゃん",
+  "artist": "Ado",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=24",
+  "source": "choma.js"
+},
+    {
+  "title": "Bad ∞ End ∞ Night",
+  "artist": "ひとしずく×やま△ feat.初音ミク・鏡音リン・鏡音レン・巡音ルカ・MEIKO・KAITO・神威がくぽ・GUM",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=25",
+  "source": "choma.js"
+},
+    {
+  "title": "十面相",
+  "artist": "YM feat.GUMI",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=26",
+  "source": "choma.js"
+},
+    {
+  "title": "可愛くてごめん",
+  "artist": "HoneyWorks feat.かぴ",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=27",
+  "source": "choma.js"
+},
+    {
+  "title": "Happy Halloween",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=28",
+  "source": "choma.js"
+},
+    {
+  "title": "Don't You Worry 'Bout A Thing",
+  "artist": "Stevie Wonder",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=29",
+  "source": "choma.js"
+},
+    {
+  "title": "誇り高きアイドル",
+  "artist": "HoneyWorks feat.mona(CV:夏川椎菜)",
+  "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=30",
   "source": "choma.js"
 }
 );

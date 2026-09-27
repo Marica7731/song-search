@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 9/27/2026, 8:05:41 PM
+// 生成时间: 9/27/2026, 9:12:25 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -40483,6 +40483,238 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-09-23]欢迎新观众！日本秋季连休不要结束啊！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MdaY6dExo?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾、茅原実里、後藤邑子",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ケロッ！とマーチ",
+  "artist": "角田信朗&いはたじゅり",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おはよう。",
+  "artist": "Keno",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "スタァライトシアター",
+  "artist": "スタァライト九九組",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Star Divine",
+  "artist": "スタァライト九九組",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "キミに100パーセント",
+  "artist": "きゃりーぱみゅぱみゅ",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "舞台少女心得",
+  "artist": "スタァライト九九組",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "I ♥ U",
+  "artist": "THE★SCANTY",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Spending",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アルティメット☆MAGIC",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Sweet(x5) Vintage!",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Bloomin",
+  "artist": "山田涼介",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "螺旋",
+  "artist": "9Lana",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "桜キッス",
+  "artist": "河辺千恵子",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ノーザンクロス",
+  "artist": "May'n",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=25",
+  "source": "yoshika.js"
+},
+    {
+  "title": "絶世美人",
+  "artist": "絶望少女達",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=26",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Over Soul",
+  "artist": "林原めぐみ",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=27",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ロマンスの神様",
+  "artist": "広瀬香美",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=28",
+  "source": "yoshika.js"
+},
+    {
+  "title": "リアルワールド",
+  "artist": "nano.RIPE",
+  "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=29",
   "source": "yoshika.js"
 }
 );

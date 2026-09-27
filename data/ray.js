@@ -1,6 +1,6 @@
 // 來-Ray- - 歌单数据 (多合集汇总)
 // 来源: BV1mJZwB8EVa
-// 生成时间: 9/27/2026, 8:02:59 PM
+// 生成时间: 9/27/2026, 9:08:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5499,6 +5499,198 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-06]今天只唱一会儿【來-Ray-】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sCbP6hE4h?p=16",
+  "source": "ray.js"
+},
+    {
+  "title": "海蛍",
+  "artist": "香椎モイミ feat.花隈千冬",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=1",
+  "source": "ray.js"
+},
+    {
+  "title": "プラネテス",
+  "artist": "seiza feat.初音ミク",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=2",
+  "source": "ray.js"
+},
+    {
+  "title": "エリカの憂い",
+  "artist": "香椎モイミ feat.星界",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=3",
+  "source": "ray.js"
+},
+    {
+  "title": "曖昧さ回避",
+  "artist": "ポリスピカデリー feat.闇音レンリ",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=4",
+  "source": "ray.js"
+},
+    {
+  "title": "花瓶に触れた",
+  "artist": "バルーン feat.flower",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=5",
+  "source": "ray.js"
+},
+    {
+  "title": "ジェンガ",
+  "artist": "40mP feat.初音ミク&GUMI",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=6",
+  "source": "ray.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=7",
+  "source": "ray.js"
+},
+    {
+  "title": "STAY",
+  "artist": "The Kid LAROI & Justin Bieber",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=8",
+  "source": "ray.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=9",
+  "source": "ray.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=10",
+  "source": "ray.js"
+},
+    {
+  "title": "Blood",
+  "artist": "Azari feat.flower",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=11",
+  "source": "ray.js"
+},
+    {
+  "title": "FOCUS",
+  "artist": "KIRA feat.GUMI",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=12",
+  "source": "ray.js"
+},
+    {
+  "title": "早春賦",
+  "artist": "ザ・チルドレン starring 平野綾&白石涼子&戸松遥",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=13",
+  "source": "ray.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=14",
+  "source": "ray.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=15",
+  "source": "ray.js"
+},
+    {
+  "title": "One Last Kiss",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=16",
+  "source": "ray.js"
+},
+    {
+  "title": "ロストワンの号哭",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=17",
+  "source": "ray.js"
+},
+    {
+  "title": "明正ロマン",
+  "artist": "亜沙 feat.重音テト",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=18",
+  "source": "ray.js"
+},
+    {
+  "title": "フタリボシ",
+  "artist": "40mP feat.初音ミク&GUMI",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=19",
+  "source": "ray.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat.巡音ルカ",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=20",
+  "source": "ray.js"
+},
+    {
+  "title": "シエレトワール",
+  "artist": "蝶々P feat.初音ミク",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=21",
+  "source": "ray.js"
+},
+    {
+  "title": "ディア",
+  "artist": "Reol",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=22",
+  "source": "ray.js"
+},
+    {
+  "title": "ヴァニタス",
+  "artist": "青栗鼠 feat.歌愛ユキ",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=23",
+  "source": "ray.js"
+},
+    {
+  "title": "SPiCa",
+  "artist": "とくP feat.初音ミク",
+  "collection": "【歌切】[2026-09-27]结果变成找状态的歌回了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1J8aY6CEAz?p=24",
   "source": "ray.js"
 }
 );

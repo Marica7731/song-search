@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 9/27/2026, 8:43:33 PM
+// 生成时间: 9/27/2026, 10:02:11 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5051,6 +5051,126 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-26]想遇见20位新观众！耐久挑战♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JEjr?p=18",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1onai6jErm?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1onai6jErm?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1onai6jErm?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "勿忘",
+  "artist": "Awesome City Club",
+  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1onai6jErm?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "瞬間センチメンタル",
+  "artist": "SCANDAL",
+  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1onai6jErm?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "声",
+  "artist": "羊文学",
+  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1onai6jErm?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "君が夜の海に還るまで",
+  "artist": "キタニタツヤ feat.初音ミク",
+  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1onai6jErm?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "8.8",
+  "artist": "あたらよ",
+  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1onai6jErm?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "季節は次々死んでいく",
+  "artist": "amazarashi",
+  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1onai6jErm?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Stay Alive",
+  "artist": "エミリア(CV:高橋李依)",
+  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1onai6jErm?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "-ERROR",
+  "artist": "niki feat.Lily",
+  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1onai6jErm?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1onai6jErm?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1onai6jErm?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "fix",
+  "artist": "keeno feat.初音ミク",
+  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1onai6jErm?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "crack",
+  "artist": "keeno feat.初音ミク",
+  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1onai6jErm?p=15",
   "source": "suiuishino.js"
 }
 );
