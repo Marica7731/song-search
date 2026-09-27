@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 9/27/2026, 3:42:32 PM
+// 生成时间: 9/27/2026, 5:06:04 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9699,6 +9699,118 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-09-20]距离首次线下Live还有两天‼️来听创作歌手弹唱一首吗～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NMhE6zEMQ?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "泣き虫上等",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-24]🔥众筹中期汇报会🔥有东西想给大家看‼️之后悠闲弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMw?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "レプリカント",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-09-24]🔥众筹中期汇报会🔥有东西想给大家看‼️之后悠闲弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMw?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【💐🎸歌切】[2026-09-24]🔥众筹中期汇报会🔥有东西想给大家看‼️之后悠闲弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMw?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "キラキラ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-09-24]🔥众筹中期汇报会🔥有东西想给大家看‼️之后悠闲弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMw?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "帰りの会",
+  "collection": "【💐🎸歌切】[2026-09-24]🔥众筹中期汇报会🔥有东西想给大家看‼️之后悠闲弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMw?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "GLAMOROUS SKY",
+  "artist": "NANA starring MIKA NAKASHIMA",
+  "collection": "【💐🎸歌切】[2026-09-24]🔥众筹中期汇报会🔥有东西想给大家看‼️之后悠闲弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMw?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "フラレガイガール",
+  "artist": "さユり",
+  "collection": "【💐🎸歌切】[2026-09-24]🔥众筹中期汇报会🔥有东西想给大家看‼️之后悠闲弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMw?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ",
+  "collection": "【💐🎸歌切】[2026-09-24]🔥众筹中期汇报会🔥有东西想给大家看‼️之后悠闲弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMw?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat.flower",
+  "collection": "【💐🎸歌切】[2026-09-24]🔥众筹中期汇报会🔥有东西想给大家看‼️之后悠闲弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMw?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+  "collection": "【💐🎸歌切】[2026-09-24]🔥众筹中期汇报会🔥有东西想给大家看‼️之后悠闲弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMw?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【💐🎸歌切】[2026-09-24]🔥众筹中期汇报会🔥有东西想给大家看‼️之后悠闲弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMw?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "【💐🎸歌切】[2026-09-24]🔥众筹中期汇报会🔥有东西想给大家看‼️之后悠闲弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMw?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "ラストデイ",
+  "artist": "きのこ帝国",
+  "collection": "【💐🎸歌切】[2026-09-24]🔥众筹中期汇报会🔥有东西想给大家看‼️之后悠闲弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMw?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "世界はふたり",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-24]🔥众筹中期汇报会🔥有东西想给大家看‼️之后悠闲弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMw?p=14",
   "source": "sumica.js"
 }
 );

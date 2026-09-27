@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 9/27/2026, 3:18:50 PM
+// 生成时间: 9/27/2026, 4:39:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6715,6 +6715,190 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-09-19]冰淇淋不管什么时候吃都好吃嘛🍨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gsev6kEij?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夜永唄",
+  "artist": "神はサイコロを振らない",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Door",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "最後の花弁",
+  "artist": "EGOIST",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "高鳴る",
+  "artist": "藤田麻衣子",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "君が手を伸ばす先に",
+  "artist": "藤田麻衣子",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "がらくた",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "落日",
+  "artist": "東京事変",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "旬",
+  "artist": "椎名林檎",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "青春の瞬き",
+  "artist": "椎名林檎",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "公然の秘密",
+  "artist": "椎名林檎",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "すべりだい",
+  "artist": "椎名林檎",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "修羅場",
+  "artist": "東京事変",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "死神",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Flamingo",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Pop Virus",
+  "artist": "星野源",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=21",
+  "source": "kukuri.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=22",
+  "source": "kukuri.js"
+},
+    {
+  "title": "おしゃかしゃま",
+  "artist": "RADWIMPS",
+  "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=23",
   "source": "kukuri.js"
 }
 );

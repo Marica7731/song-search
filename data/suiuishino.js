@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 9/27/2026, 4:22:21 PM
+// 生成时间: 9/27/2026, 5:44:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4590,6 +4590,94 @@ window.SONG_DATA.push(
   "source": "suiuishino.js"
 },
     {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Namidairo",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Beautiful World",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ヒカリヘ",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Rain",
+  "artist": "秦基博",
+  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "夜永唄",
+  "artist": "神はサイコロを振らない",
+  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=11",
+  "source": "suiuishino.js"
+},
+    {
   "title": "又三郎",
   "artist": "ヨルシカ",
   "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
@@ -4710,91 +4798,115 @@ window.SONG_DATA.push(
   "source": "suiuishino.js"
 },
     {
-  "title": "花に亡霊",
+  "title": "あくあ色ぱれっと",
+  "artist": "湊あくあ",
+  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "アルジャーノン",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=1",
+  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=3",
   "source": "suiuishino.js"
 },
     {
-  "title": "Namidairo",
-  "artist": "YUI",
-  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ",
+  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=2",
+  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=4",
   "source": "suiuishino.js"
 },
     {
-  "title": "美しい鰭",
-  "artist": "スピッツ",
-  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "title": "季節は次々死んでいく",
+  "artist": "amazarashi",
+  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=3",
+  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=5",
   "source": "suiuishino.js"
 },
     {
-  "title": "Beautiful World",
-  "artist": "宇多田ヒカル",
-  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=4",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "ミカヅキ",
+  "title": "花の塔",
   "artist": "さユり",
-  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=5",
+  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=6",
   "source": "suiuishino.js"
 },
     {
-  "title": "ヒカリヘ",
-  "artist": "miwa",
-  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "title": "ぼくらのレットイットビー",
+  "artist": "はりーP feat.初音ミク",
+  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=6",
+  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=7",
   "source": "suiuishino.js"
 },
     {
-  "title": "雨とカプチーノ",
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "シネマ",
+  "artist": "Ayase feat.初音ミク",
+  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "千鳥",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=7",
+  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=10",
   "source": "suiuishino.js"
 },
     {
-  "title": "Rain",
-  "artist": "秦基博",
-  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "title": "I believe",
+  "artist": "絢香",
+  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=8",
+  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=11",
   "source": "suiuishino.js"
 },
     {
-  "title": "夜永唄",
-  "artist": "神はサイコロを振らない",
-  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=9",
+  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=12",
   "source": "suiuishino.js"
 },
     {
-  "title": "テルーの唄",
-  "artist": "手嶌葵",
-  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "title": "月に住む君",
+  "artist": "Saucy Dog",
+  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=10",
+  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=13",
   "source": "suiuishino.js"
 },
     {
-  "title": "へび",
-  "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "title": "afterglow",
+  "artist": "翠雨しの",
+  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=11",
+  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=14",
   "source": "suiuishino.js"
 },
     {
@@ -4939,118 +5051,6 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-26]想遇见20位新观众！耐久挑战♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JEjr?p=18",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "あくあ色ぱれっと",
-  "artist": "湊あくあ",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=1",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "新時代",
-  "artist": "Ado",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=2",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "アルジャーノン",
-  "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=3",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "10月無口な君を忘れる",
-  "artist": "あたらよ",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=4",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "季節は次々死んでいく",
-  "artist": "amazarashi",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=5",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "花の塔",
-  "artist": "さユり",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=6",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "ぼくらのレットイットビー",
-  "artist": "はりーP feat.初音ミク",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=7",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "Mela!",
-  "artist": "緑黄色社会",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=8",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "シネマ",
-  "artist": "Ayase feat.初音ミク",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=9",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "千鳥",
-  "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=10",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "I believe",
-  "artist": "絢香",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=11",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "シンデレラボーイ",
-  "artist": "Saucy Dog",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=12",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "月に住む君",
-  "artist": "Saucy Dog",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=13",
-  "source": "suiuishino.js"
-},
-    {
-  "title": "afterglow",
-  "artist": "翠雨しの",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=14",
   "source": "suiuishino.js"
 }
 );

@@ -1,6 +1,6 @@
 // チョま - 歌单数据 (多合集汇总)
 // 来源: BV1kM3L6GEBV
-// 生成时间: 9/27/2026, 4:12:53 PM
+// 生成时间: 9/27/2026, 5:36:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3547,6 +3547,182 @@ window.SONG_DATA.push(
   "collection": "チョま歌切 2026年09月21日20点场 边唱歌边公布重大消息！ 2026-09-21",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aVhk6pEyW?p=15",
+  "source": "choma.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=1",
+  "source": "choma.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=2",
+  "source": "choma.js"
+},
+    {
+  "title": "Booo!",
+  "artist": "TOKOTOKO(西沢さんP) feat.音街ウナ",
+  "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=3",
+  "source": "choma.js"
+},
+    {
+  "title": "ときめきブローカー",
+  "artist": "P丸様。",
+  "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=4",
+  "source": "choma.js"
+},
+    {
+  "title": "シル・ヴ・プレジデント",
+  "artist": "P丸様。",
+  "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=5",
+  "source": "choma.js"
+},
+    {
+  "title": "ヤラララ",
+  "artist": "AnythingBecomeMoe feat.重音テトSV2",
+  "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=6",
+  "source": "choma.js"
+},
+    {
+  "title": "爆笑",
+  "artist": "syudou",
+  "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=7",
+  "source": "choma.js"
+},
+    {
+  "title": "インフェルノ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=8",
+  "source": "choma.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra、月見ヤチヨ(CV:早見沙織)",
+  "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=9",
+  "source": "choma.js"
+},
+    {
+  "title": "未完成婚姻論",
+  "artist": "Dannie May",
+  "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=10",
+  "source": "choma.js"
+},
+    {
+  "title": "ひゅるりらぱっぱ",
+  "artist": "tuki.",
+  "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=11",
+  "source": "choma.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=12",
+  "source": "choma.js"
+},
+    {
+  "title": "鬼の宴",
+  "artist": "友成空",
+  "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=13",
+  "source": "choma.js"
+},
+    {
+  "title": "紗痲",
+  "artist": "煮ル果実 feat.flower",
+  "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=14",
+  "source": "choma.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=15",
+  "source": "choma.js"
+},
+    {
+  "title": "ただ声一つ",
+  "artist": "ロクデナシ",
+  "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=16",
+  "source": "choma.js"
+},
+    {
+  "title": "ハナタバ",
+  "artist": "MIMI feat.可不",
+  "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=17",
+  "source": "choma.js"
+},
+    {
+  "title": "可愛くなりたい",
+  "artist": "HoneyWorks feat.成海聖奈(CV:雨宮天)",
+  "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=18",
+  "source": "choma.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=19",
+  "source": "choma.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=20",
+  "source": "choma.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=21",
+  "source": "choma.js"
+},
+    {
+  "title": "エメラルド侵☆略",
+  "artist": "チョま",
+  "collection": "チョま歌切 2026年09月25日20点场 集可爱、帅气与美丽于一身的歌曲 2026-09-25",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEt8?p=22",
   "source": "choma.js"
 }
 );

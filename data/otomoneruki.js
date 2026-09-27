@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 9/27/2026, 3:33:41 PM
+// 生成时间: 9/27/2026, 4:56:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6275,6 +6275,142 @@ window.SONG_DATA.push(
   "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=16",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "夜桜",
+  "artist": "くじら feat.めいちゃん",
+  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "タイムマシン",
+  "artist": "1640mP(164×40mP)",
+  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "愛迷エレジー",
+  "artist": "DECO*27 feat.marina",
+  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "イージーゲーム(feat. 和ぬか)",
+  "artist": "natsumi",
+  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "悪者",
+  "artist": "くじら",
+  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=6",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "物の怪の類",
+  "artist": "めいちゃん",
+  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=7",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=8",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "射手座☆︎午後九時Don't be late",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=9",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=10",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "アナタノオト",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=11",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Anytime Anywhere",
+  "artist": "milet",
+  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=12",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "東京",
+  "artist": "くじら",
+  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=13",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=14",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=15",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "アストロノーツ",
+  "artist": "ぽわぽわP(椎名もた) feat.初音ミク",
+  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=16",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "抱きしめたいほど美しい日々に",
+  "artist": "くじら",
+  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=17",
   "source": "otomoneruki.js"
 }
 );

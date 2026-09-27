@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 9/27/2026, 3:20:51 PM
+// 生成时间: 9/27/2026, 4:44:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14683,6 +14683,222 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "SPiCa",
+  "artist": "とくP feat.初音ミク",
+  "collection": "【歌切】[2026-09-26]ライドリ歌谣祭—九月篇—｜银河之秋，对月而歌🌌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T9ah6JE9o?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "明日へのbrilliant road",
+  "artist": "angela",
+  "collection": "【歌切】[2026-09-26]ライドリ歌谣祭—九月篇—｜银河之秋，对月而歌🌌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T9ah6JE9o?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "月光花",
+  "artist": "Janne Da Arc",
+  "collection": "【歌切】[2026-09-26]ライドリ歌谣祭—九月篇—｜银河之秋，对月而歌🌌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T9ah6JE9o?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ルンがピカッと光ったら",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-09-26]ライドリ歌谣祭—九月篇—｜银河之秋，对月而歌🌌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T9ah6JE9o?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "uni-verse",
+  "artist": "オーイシマサヨシ",
+  "collection": "【歌切】[2026-09-26]ライドリ歌谣祭—九月篇—｜银河之秋，对月而歌🌌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T9ah6JE9o?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "さぁ",
+  "artist": "SURFACE",
+  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ハロ/ハワユ",
+  "artist": "ナノウ(ほえほえP) feat.初音ミク",
+  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "耳の聞こえなくなった恋人とそのうたうたい",
+  "artist": "大石昌良",
+  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "再会",
+  "artist": "LiSA×Uru",
+  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "サムライハート",
+  "artist": "SPYAIR",
+  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "三十路岬",
+  "artist": "小神あきら(今野宏美)",
+  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "学園天国",
+  "artist": "フィンガー5",
+  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "君に最後の口づけを",
+  "artist": "majiko",
+  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ようこそジャパリパークへ",
+  "artist": "どうぶつビスケッツ×PPP",
+  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Grand Blue",
+  "artist": "湘南乃風",
+  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "生きるよすが",
+  "artist": "月詠み",
+  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "オトノナルホウヘ→",
+  "artist": "Goose house",
+  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Vitalization",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "あなたのキスを数えましょう",
+  "artist": "小柳ゆき",
+  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=19",
+  "source": "naraetan.js"
+},
+    {
+  "title": "adrenaline!!!",
+  "artist": "TrySail",
+  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=20",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愛して愛して愛して",
+  "artist": "きくお feat.初音ミク",
+  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=21",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=22",
   "source": "naraetan.js"
 }
 );

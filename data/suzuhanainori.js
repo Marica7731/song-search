@@ -1,6 +1,6 @@
 // 鈴花いのり - 歌单数据 (多合集汇总)
 // 来源: BV1jyjK6sEns
-// 生成时间: 9/27/2026, 4:16:41 PM
+// 生成时间: 9/27/2026, 5:40:33 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5803,6 +5803,318 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-20]周日定期直播𝜗𝜚.⋆ 一大早就来听小后辈唱歌吧🎀🔔‎🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdh762EML?p=39",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "sweets parade",
+  "artist": "髏々宮カルタ(花澤香菜)",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=1",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "おじゃま虫",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=2",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "枕元にゴースト",
+  "artist": "Aiobahn & Yunomi",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=3",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "大江戸コントローラー",
+  "artist": "Yunomi",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=4",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "エイリアンエイリアン",
+  "artist": "ナユタン星人 feat.初音ミク",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=5",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "猫猫的宇宙論",
+  "artist": "ナユタン星人 feat.初音ミク",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=6",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "おちゃめ機能",
+  "artist": "ゴジマジP feat.重音テト",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=7",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子(花澤香菜)",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=8",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "もうそう♡えくすぷれす",
+  "artist": "千石撫子(花澤香菜)",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=9",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ごはんはおかず",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=10",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "カレーのちライス",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=11",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Utauyo!!MIRACLE",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=12",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "いちごパフェが止まらない",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=13",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ときめきシュガー",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=14",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "可愛くてごめん",
+  "artist": "HoneyWorks feat.かぴ",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=15",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ヤキモチの答え",
+  "artist": "HoneyWorks feat.GUMI",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=16",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "チェリーポップ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=17",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "シル・ヴ・プレジデント",
+  "artist": "P丸様。",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=18",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "可愛くなりたい",
+  "artist": "HoneyWorks feat.成海聖奈(CV:雨宮天)",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=19",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat.巡音ルカ・GUMI",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=20",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=21",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "セツナトリップ",
+  "artist": "Last Note. feat.GUMI",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=22",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "寝起きヤシの木",
+  "artist": "ゆこぴ feat.歌愛ユキ",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=23",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=24",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "お願いダーリン",
+  "artist": "ナナホシ管弦楽団 feat.ONE",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=25",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "チャイナアドバイス",
+  "artist": "相対性理論",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=26",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ちゅ、多様性。",
+  "artist": "ano",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=27",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "太陽曰く燃えよカオス",
+  "artist": "後ろから這いより隊G",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=28",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "もってけ！セーラーふく",
+  "artist": "泉こなた(平野綾)/柊かがみ(加藤英美里)/柊つかさ(福原香織)/高良みゆき(遠藤綾)",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=29",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾、茅原実里、後藤邑子",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=30",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "SUNNY DAY SONG",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=31",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Angelic Angel",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=32",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "スイートマジック",
+  "artist": "Junky feat.ろん",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=33",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "オツキミリサイタル",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=34",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "私、アイドル宣言",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=35",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "サインはB",
+  "artist": "B小町",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=36",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "世界一可愛い私",
+  "artist": "藤田ことね(CV.飯田ヒカル)",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=37",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona(CV:夏川椎菜)",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=38",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【歌切】[2026-09-23]早晨歌回𝜗𝜚.⋆ 用后辈声线治愈你🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kQae67EKT?p=39",
   "source": "suzuhanainori.js"
 }
 );

@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 9/27/2026, 3:22:23 PM
+// 生成时间: 9/27/2026, 4:45:44 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -35035,6 +35035,54 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-09-13]泪之夜歌回接力｜你喜欢让人落泪的抒情歌吗？🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BRY66YEdq?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-09-26]ライドリ歌谣祭—九月篇—闭幕式！今年也谢谢大家！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14Qah6DEQK?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "トワイライト",
+  "artist": "Figaro",
+  "collection": "【💐歌切】[2026-09-26]ライドリ歌谣祭—九月篇—闭幕式！今年也谢谢大家！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14Qah6DEQK?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【💐歌切】[2026-09-26]ライドリ歌谣祭—九月篇—闭幕式！今年也谢谢大家！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14Qah6DEQK?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "【💐歌切】[2026-09-26]ライドリ歌谣祭—九月篇—闭幕式！今年也谢谢大家！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14Qah6DEQK?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "星の消えた夜に",
+  "artist": "Aimer",
+  "collection": "【💐歌切】[2026-09-26]ライドリ歌谣祭—九月篇—闭幕式！今年也谢谢大家！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14Qah6DEQK?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-09-26]ライドリ歌谣祭—九月篇—闭幕式！今年也谢谢大家！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14Qah6DEQK?p=6",
   "source": "figaro.js"
 }
 );

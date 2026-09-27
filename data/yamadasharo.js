@@ -1,6 +1,6 @@
 // 山田シャロ - 歌单数据 (多合集汇总)
 // 来源: BV179L66pE1f
-// 生成时间: 9/27/2026, 4:01:35 PM
+// 生成时间: 9/27/2026, 5:26:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2315,6 +2315,118 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-18]平成年代动画歌曲限定！！✨🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gYev6TEqB?p=16",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Bluerose",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-09-26]用歌声让你打起精神！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JEAi?p=1",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "NEXT COLOR PLANET",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-09-26]用歌声让你打起精神！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JEAi?p=2",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-26]用歌声让你打起精神！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JEAi?p=3",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-09-26]用歌声让你打起精神！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JEAi?p=4",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "正しくなれない",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-09-26]用歌声让你打起精神！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JEAi?p=5",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ステラ",
+  "artist": "じん feat.初音ミク",
+  "collection": "【歌切】[2026-09-26]用歌声让你打起精神！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JEAi?p=6",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-09-26]用歌声让你打起精神！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JEAi?p=7",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-26]用歌声让你打起精神！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JEAi?p=8",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "幽霊東京",
+  "artist": "Ayase feat.初音ミク",
+  "collection": "【歌切】[2026-09-26]用歌声让你打起精神！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JEAi?p=9",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "純情スカート",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-09-26]用歌声让你打起精神！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JEAi?p=10",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-09-26]用歌声让你打起精神！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JEAi?p=11",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "裏表ラバーズ",
+  "artist": "wowaka feat.初音ミク",
+  "collection": "【歌切】[2026-09-26]用歌声让你打起精神！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JEAi?p=12",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-26]用歌声让你打起精神！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JEAi?p=13",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【歌切】[2026-09-26]用歌声让你打起精神！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JEAi?p=14",
   "source": "yamadasharo.js"
 }
 );

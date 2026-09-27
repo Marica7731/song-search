@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 9/27/2026, 4:20:00 PM
+// 生成时间: 9/27/2026, 5:43:01 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5715,6 +5715,142 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-20]为你送上治愈与活力🎤💫热烈欢迎新观众！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Hihk6qEe4?p=29",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "UNDEAD",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-24]唱VackON!! Live上唱过的歌曲🎤回顾Live💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ykae6WEjY?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-24]唱VackON!! Live上唱过的歌曲🎤回顾Live💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ykae6WEjY?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Bのリベンジ",
+  "artist": "B小町",
+  "collection": "【歌切】[2026-09-24]唱VackON!! Live上唱过的歌曲🎤回顾Live💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ykae6WEjY?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "INVOKE-インヴォーク",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-09-24]唱VackON!! Live上唱过的歌曲🎤回顾Live💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ykae6WEjY?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "平行線",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-09-24]唱VackON!! Live上唱过的歌曲🎤回顾Live💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ykae6WEjY?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "The Everlasting Guilty Crown",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-09-24]唱VackON!! Live上唱过的歌曲🎤回顾Live💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ykae6WEjY?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-09-24]唱VackON!! Live上唱过的歌曲🎤回顾Live💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ykae6WEjY?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "【歌切】[2026-09-24]唱VackON!! Live上唱过的歌曲🎤回顾Live💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ykae6WEjY?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "天樂",
+  "artist": "ゆうゆ feat.鏡音リン",
+  "collection": "【歌切】[2026-09-24]唱VackON!! Live上唱过的歌曲🎤回顾Live💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ykae6WEjY?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "マーシャル・マキシマイザー",
+  "artist": "柊マグネタイト feat.可不",
+  "collection": "【歌切】[2026-09-24]唱VackON!! Live上唱过的歌曲🎤回顾Live💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ykae6WEjY?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat.初音ミク",
+  "collection": "【歌切】[2026-09-24]唱VackON!! Live上唱过的歌曲🎤回顾Live💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ykae6WEjY?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-24]唱VackON!! Live上唱过的歌曲🎤回顾Live💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ykae6WEjY?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ひゅるりらぱっぱ",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-09-24]唱VackON!! Live上唱过的歌曲🎤回顾Live💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ykae6WEjY?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat.初音ミク",
+  "collection": "【歌切】[2026-09-24]唱VackON!! Live上唱过的歌曲🎤回顾Live💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ykae6WEjY?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "六兆年と一夜物語",
+  "artist": "kemu feat.IA",
+  "collection": "【歌切】[2026-09-24]唱VackON!! Live上唱过的歌曲🎤回顾Live💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ykae6WEjY?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-24]唱VackON!! Live上唱过的歌曲🎤回顾Live💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ykae6WEjY?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-09-24]唱VackON!! Live上唱过的歌曲🎤回顾Live💫欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ykae6WEjY?p=17",
   "source": "isshikiizu.js"
 },
     {

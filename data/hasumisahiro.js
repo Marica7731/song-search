@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 9/27/2026, 3:55:33 PM
+// 生成时间: 9/27/2026, 5:21:12 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3075,6 +3075,110 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-16]我也想唱英文歌词、说唱之类的帅气歌曲啊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1W3eT6mE7T?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ハゼ馳せる果てるまで",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-09-27]本来想只唱ずっと真夜中でいいのに。，结果每首都记不太清了，好难过",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JETt?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "勘冴えて悔しいわ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-09-27]本来想只唱ずっと真夜中でいいのに。，结果每首都记不太清了，好难过",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JETt?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "お勉強しといてよ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-09-27]本来想只唱ずっと真夜中でいいのに。，结果每首都记不太清了，好难过",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JETt?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "居眠り遠征隊",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-09-27]本来想只唱ずっと真夜中でいいのに。，结果每首都记不太清了，好难过",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JETt?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "マイノリティ脈絡",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-09-27]本来想只唱ずっと真夜中でいいのに。，结果每首都记不太清了，好难过",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JETt?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "グラスとラムレーズン",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-09-27]本来想只唱ずっと真夜中でいいのに。，结果每首都记不太清了，好难过",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JETt?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "MILABO",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-09-27]本来想只唱ずっと真夜中でいいのに。，结果每首都记不太清了，好难过",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JETt?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Ham",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-09-27]本来想只唱ずっと真夜中でいいのに。，结果每首都记不太清了，好难过",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JETt?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ばかじゃないのに",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-09-27]本来想只唱ずっと真夜中でいいのに。，结果每首都记不太清了，好难过",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JETt?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "あいつら全員同窓会",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-09-27]本来想只唱ずっと真夜中でいいのに。，结果每首都记不太清了，好难过",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JETt?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "猫リセット",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-09-27]本来想只唱ずっと真夜中でいいのに。，结果每首都记不太清了，好难过",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JETt?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "サターン",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-09-27]本来想只唱ずっと真夜中でいいのに。，结果每首都记不太清了，好难过",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JETt?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "君がいて水になる",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-09-27]本来想只唱ずっと真夜中でいいのに。，结果每首都记不太清了，好难过",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1M9ah6JETt?p=13",
   "source": "hasumisahiro.js"
 }
 );
