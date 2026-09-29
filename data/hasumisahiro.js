@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 9/29/2026, 2:57:18 AM
+// 生成时间: 9/29/2026, 4:06:05 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3179,6 +3179,86 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-27]本来想只唱ずっと真夜中でいいのに。，结果每首都记不太清了，好难过",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JETt?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ふたりごと",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-28]被大豆气到的女人来唱RADWIMPS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLaE6oEw9?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "me me she",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-28]被大豆气到的女人来唱RADWIMPS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLaE6oEw9?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "メニメニマニマニ",
+  "artist": "高宮なすの（CV.鳴海杏子）",
+  "collection": "【歌切】[2026-09-28]被大豆气到的女人来唱RADWIMPS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLaE6oEw9?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "愛し",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-28]被大豆气到的女人来唱RADWIMPS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLaE6oEw9?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "05410-(ん)",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-28]被大豆气到的女人来唱RADWIMPS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLaE6oEw9?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "タユタ",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-28]被大豆气到的女人来唱RADWIMPS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLaE6oEw9?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "DARMA GRAND PRIX",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-28]被大豆气到的女人来唱RADWIMPS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLaE6oEw9?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "いいんですか?",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-28]被大豆气到的女人来唱RADWIMPS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLaE6oEw9?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "有心論",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-28]被大豆气到的女人来唱RADWIMPS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLaE6oEw9?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "夢見月に何想ふ",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-28]被大豆气到的女人来唱RADWIMPS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLaE6oEw9?p=10",
   "source": "hasumisahiro.js"
 }
 );

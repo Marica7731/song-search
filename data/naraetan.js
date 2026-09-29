@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 9/29/2026, 2:29:51 AM
+// 生成时间: 9/29/2026, 3:33:19 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -14899,6 +14899,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=22",
+  "source": "naraetan.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "強盗と花束",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "心に穴が空いた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=16",
   "source": "naraetan.js"
 }
 );
