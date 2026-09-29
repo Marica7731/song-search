@@ -1,6 +1,6 @@
 // チョま - 歌单数据 (多合集汇总)
 // 来源: BV1kM3L6GEBV
-// 生成时间: 9/29/2026, 7:38:29 PM
+// 生成时间: 9/29/2026, 9:40:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3963,6 +3963,166 @@ window.SONG_DATA.push(
   "collection": "チョま歌切 2026年09月26日13点场 欢迎点歌！ 2026-09-26",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=30",
+  "source": "choma.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "チョま歌切 2026年09月29日20点场 周二也要唱歌！🔥 2026-09-29",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aWaX6JEfk?p=1",
+  "source": "choma.js"
+},
+    {
+  "title": "ビリミリオン",
+  "artist": "優里",
+  "collection": "チョま歌切 2026年09月29日20点场 周二也要唱歌！🔥 2026-09-29",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aWaX6JEfk?p=2",
+  "source": "choma.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "チョま歌切 2026年09月29日20点场 周二也要唱歌！🔥 2026-09-29",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aWaX6JEfk?p=3",
+  "source": "choma.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "チョま歌切 2026年09月29日20点场 周二也要唱歌！🔥 2026-09-29",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aWaX6JEfk?p=4",
+  "source": "choma.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra & 月見ヤチヨ(cv.早見沙織)",
+  "collection": "チョま歌切 2026年09月29日20点场 周二也要唱歌！🔥 2026-09-29",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aWaX6JEfk?p=5",
+  "source": "choma.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat.安次嶺希和子",
+  "collection": "チョま歌切 2026年09月29日20点场 周二也要唱歌！🔥 2026-09-29",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aWaX6JEfk?p=6",
+  "source": "choma.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "チョま歌切 2026年09月29日20点场 周二也要唱歌！🔥 2026-09-29",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aWaX6JEfk?p=7",
+  "source": "choma.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "チョま歌切 2026年09月29日20点场 周二也要唱歌！🔥 2026-09-29",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aWaX6JEfk?p=8",
+  "source": "choma.js"
+},
+    {
+  "title": "勇気100%",
+  "artist": "光GENJI",
+  "collection": "チョま歌切 2026年09月29日20点场 周二也要唱歌！🔥 2026-09-29",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aWaX6JEfk?p=9",
+  "source": "choma.js"
+},
+    {
+  "title": "アンタに言ってんの！",
+  "artist": "ぴーなた feat.重音テト",
+  "collection": "チョま歌切 2026年09月29日20点场 周二也要唱歌！🔥 2026-09-29",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aWaX6JEfk?p=10",
+  "source": "choma.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "チョま歌切 2026年09月29日20点场 周二也要唱歌！🔥 2026-09-29",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aWaX6JEfk?p=11",
+  "source": "choma.js"
+},
+    {
+  "title": "愛言葉IV",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "チョま歌切 2026年09月29日20点场 周二也要唱歌！🔥 2026-09-29",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aWaX6JEfk?p=12",
+  "source": "choma.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "チョま歌切 2026年09月29日20点场 周二也要唱歌！🔥 2026-09-29",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aWaX6JEfk?p=13",
+  "source": "choma.js"
+},
+    {
+  "title": "ヤラララ",
+  "artist": "AnythingBecomeMoe feat.重音テト",
+  "collection": "チョま歌切 2026年09月29日20点场 周二也要唱歌！🔥 2026-09-29",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aWaX6JEfk?p=14",
+  "source": "choma.js"
+},
+    {
+  "title": "バグ",
+  "artist": "かいりきベア feat.初音ミク",
+  "collection": "チョま歌切 2026年09月29日20点场 周二也要唱歌！🔥 2026-09-29",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aWaX6JEfk?p=15",
+  "source": "choma.js"
+},
+    {
+  "title": "テレキャスタービーボーイ",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "チョま歌切 2026年09月29日20点场 周二也要唱歌！🔥 2026-09-29",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aWaX6JEfk?p=16",
+  "source": "choma.js"
+},
+    {
+  "title": "恋は渾沌の隷也",
+  "artist": "後ろから這いより隊G",
+  "collection": "チョま歌切 2026年09月29日20点场 周二也要唱歌！🔥 2026-09-29",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aWaX6JEfk?p=17",
+  "source": "choma.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo (supercell) feat.初音ミク",
+  "collection": "チョま歌切 2026年09月29日20点场 周二也要唱歌！🔥 2026-09-29",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aWaX6JEfk?p=18",
+  "source": "choma.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "チョま歌切 2026年09月29日20点场 周二也要唱歌！🔥 2026-09-29",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aWaX6JEfk?p=19",
+  "source": "choma.js"
+},
+    {
+  "title": "タセイジン",
+  "artist": "チョま",
+  "collection": "チョま歌切 2026年09月29日20点场 周二也要唱歌！🔥 2026-09-29",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aWaX6JEfk?p=20",
   "source": "choma.js"
 }
 );

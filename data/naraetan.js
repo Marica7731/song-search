@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 9/29/2026, 6:50:45 PM
+// 生成时间: 9/29/2026, 8:59:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15027,6 +15027,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "どうにもとまらない",
+  "artist": "山本リンダ",
+  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "プレイバックPart2",
+  "artist": "山口百恵",
+  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "オリビアを聴きながら",
+  "artist": "杏里",
+  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ブルーウォーター",
+  "artist": "森川美穂",
+  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "私がオバさんになっても",
+  "artist": "森高千里",
+  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "SUBMARINE STREET",
+  "artist": "Fire Bomber",
+  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "輪舞-revolution",
+  "artist": "奥井雅美",
+  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "僕が一番欲しかったもの",
+  "artist": "槇原敬之",
+  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "セプテンバーさん",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=12",
   "source": "naraetan.js"
 }
 );
