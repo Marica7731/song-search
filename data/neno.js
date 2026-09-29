@@ -1,6 +1,6 @@
 // 碧生ねの - 歌单数据 (多合集汇总)
 // 来源: BV1S4TT6pEn4
-// 生成时间: 9/29/2026, 2:03:01 AM
+// 生成时间: 9/29/2026, 3:11:21 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1763,6 +1763,86 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-25]悠闲的午间横竖屏歌回🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uQah6DEKS?p=9",
+  "source": "neno.js"
+},
+    {
+  "title": "月光浴",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-28]按平时的标准连续唱1小时🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEQg?p=1",
+  "source": "neno.js"
+},
+    {
+  "title": "死ぬにはいい日だった",
+  "artist": "ピコン feat.初音ミク",
+  "collection": "【歌切】[2026-09-28]按平时的标准连续唱1小时🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEQg?p=2",
+  "source": "neno.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-09-28]按平时的标准连续唱1小时🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEQg?p=3",
+  "source": "neno.js"
+},
+    {
+  "title": "第一夜",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-28]按平时的标准连续唱1小时🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEQg?p=4",
+  "source": "neno.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-28]按平时的标准连续唱1小时🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEQg?p=5",
+  "source": "neno.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-09-28]按平时的标准连续唱1小时🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEQg?p=6",
+  "source": "neno.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-09-28]按平时的标准连续唱1小时🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEQg?p=7",
+  "source": "neno.js"
+},
+    {
+  "title": "Planetes",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-09-28]按平时的标准连续唱1小时🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEQg?p=8",
+  "source": "neno.js"
+},
+    {
+  "title": "空中アクアリウム",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-09-28]按平时的标准连续唱1小时🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEQg?p=9",
+  "source": "neno.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat.初音ミク",
+  "collection": "【歌切】[2026-09-28]按平时的标准连续唱1小时🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17TaE6AEQg?p=10",
   "source": "neno.js"
 }
 );
