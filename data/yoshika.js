@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 9/29/2026, 3:41:59 AM
+// 生成时间: 9/29/2026, 5:08:04 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -40715,6 +40715,142 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-09-25]欢迎新观众！今晚是十五夜赏月啦！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sJaY6nEsy?p=29",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-09-28]欢迎新观众！刚从午睡中醒来，不过还是要唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCa76UE4E?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-09-28]欢迎新观众！刚从午睡中醒来，不过还是要唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCa76UE4E?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "サトシwithピカチュウ（CV:松本梨香/大谷育江）",
+  "collection": "【🍠🦍歌切】[2026-09-28]欢迎新观众！刚从午睡中醒来，不过还是要唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCa76UE4E?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "負けないで",
+  "artist": "ZARD",
+  "collection": "【🍠🦍歌切】[2026-09-28]欢迎新观众！刚从午睡中醒来，不过还是要唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCa76UE4E?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【🍠🦍歌切】[2026-09-28]欢迎新观众！刚从午睡中醒来，不过还是要唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCa76UE4E?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "【🍠🦍歌切】[2026-09-28]欢迎新观众！刚从午睡中醒来，不过还是要唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCa76UE4E?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【🍠🦍歌切】[2026-09-28]欢迎新观众！刚从午睡中醒来，不过还是要唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCa76UE4E?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【🍠🦍歌切】[2026-09-28]欢迎新观众！刚从午睡中醒来，不过还是要唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCa76UE4E?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【🍠🦍歌切】[2026-09-28]欢迎新观众！刚从午睡中醒来，不过还是要唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCa76UE4E?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気分上々↑↑",
+  "artist": "mihimaru GT",
+  "collection": "【🍠🦍歌切】[2026-09-28]欢迎新观众！刚从午睡中醒来，不过还是要唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCa76UE4E?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n／中島愛",
+  "collection": "【🍠🦍歌切】[2026-09-28]欢迎新观众！刚从午睡中醒来，不过还是要唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCa76UE4E?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Happy New World☆",
+  "artist": "i☆Ris",
+  "collection": "【🍠🦍歌切】[2026-09-28]欢迎新观众！刚从午睡中醒来，不过还是要唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCa76UE4E?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "愛言葉Ⅲ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【🍠🦍歌切】[2026-09-28]欢迎新观众！刚从午睡中醒来，不过还是要唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCa76UE4E?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【🍠🦍歌切】[2026-09-28]欢迎新观众！刚从午睡中醒来，不过还是要唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCa76UE4E?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋のヒメヒメぺったんこ",
+  "artist": "姫野湖鳥（CV:田村ゆかり）",
+  "collection": "【🍠🦍歌切】[2026-09-28]欢迎新观众！刚从午睡中醒来，不过还是要唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCa76UE4E?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🍠🦍歌切】[2026-09-28]欢迎新观众！刚从午睡中醒来，不过还是要唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCa76UE4E?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夏色えがおで1,2,Jump!",
+  "artist": "μ's",
+  "collection": "【🍠🦍歌切】[2026-09-28]欢迎新观众！刚从午睡中醒来，不过还是要唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SCa76UE4E?p=17",
   "source": "yoshika.js"
 }
 );
