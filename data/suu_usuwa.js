@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 9/30/2026, 1:35:28 PM
+// 生成时间: 9/30/2026, 2:54:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -23003,6 +23003,110 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-09-18]动画歌曲限定！为即将到来的「ナガノアニエラフェスタ」做准备！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uYev6TEX7?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ワールドイズマイン (CPK! Remix)",
+  "artist": "ryo (supercell) feat.初音ミク",
+  "collection": "【🦢歌切】#148[2026-09-30]我就在这儿等你哦。｜周三定期直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tkaf6hEnR?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "真夜中のドア～stay with me",
+  "artist": "松原みき",
+  "collection": "【🦢歌切】#148[2026-09-30]我就在这儿等你哦。｜周三定期直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tkaf6hEnR?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "クレイジークレイジー",
+  "artist": "一ノ瀬志希(CV.藍原ことみ)・宮本フレデリカ(CV.髙野麻美)",
+  "collection": "【🦢歌切】#148[2026-09-30]我就在这儿等你哦。｜周三定期直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tkaf6hEnR?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Crazy Crazy",
+  "artist": "星野源",
+  "collection": "【🦢歌切】#148[2026-09-30]我就在这儿等你哦。｜周三定期直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tkaf6hEnR?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【🦢歌切】#148[2026-09-30]我就在这儿等你哦。｜周三定期直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tkaf6hEnR?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "BRAIN",
+  "artist": "Kanaria",
+  "collection": "【🦢歌切】#148[2026-09-30]我就在这儿等你哦。｜周三定期直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tkaf6hEnR?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "sweets parade",
+  "artist": "髏々宮カルタ(花澤香菜)",
+  "collection": "【🦢歌切】#148[2026-09-30]我就在这儿等你哦。｜周三定期直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tkaf6hEnR?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ファジーネーブル",
+  "artist": "Conton Candy",
+  "collection": "【🦢歌切】#148[2026-09-30]我就在这儿等你哦。｜周三定期直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tkaf6hEnR?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【🦢歌切】#148[2026-09-30]我就在这儿等你哦。｜周三定期直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tkaf6hEnR?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】#148[2026-09-30]我就在这儿等你哦。｜周三定期直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tkaf6hEnR?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "逢坂大河(釘宮理恵)・櫛枝実乃梨(堀江由衣)・川嶋亜美(喜多村英梨)",
+  "collection": "【🦢歌切】#148[2026-09-30]我就在这儿等你哦。｜周三定期直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tkaf6hEnR?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "プレパレード",
+  "artist": "逢坂大河(釘宮理恵)・櫛枝実乃梨(堀江由衣)・川嶋亜美(喜多村英梨)",
+  "collection": "【🦢歌切】#148[2026-09-30]我就在这儿等你哦。｜周三定期直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tkaf6hEnR?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【🦢歌切】#148[2026-09-30]我就在这儿等你哦。｜周三定期直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Tkaf6hEnR?p=13",
   "source": "suu_usuwa.js"
 }
 );

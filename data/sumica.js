@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 9/30/2026, 1:49:21 PM
+// 生成时间: 9/30/2026, 3:06:15 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -9907,6 +9907,102 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-09-27]aiko歌曲限定｜弹唱翻唱个够～时隔一年再开aiko专场✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16Xae62E2e?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【💐🎸歌切】[2026-09-30]晨间直播☀️上学前精神满满地（？）唱歌！！！陪我一起早起～～🥱･°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZcYF67EQV?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【💐🎸歌切】[2026-09-30]晨间直播☀️上学前精神满满地（？）唱歌！！！陪我一起早起～～🥱･°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZcYF67EQV?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-09-30]晨间直播☀️上学前精神满满地（？）唱歌！！！陪我一起早起～～🥱･°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZcYF67EQV?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "give it back",
+  "artist": "Cö shu Nie",
+  "collection": "【💐🎸歌切】[2026-09-30]晨间直播☀️上学前精神满满地（？）唱歌！！！陪我一起早起～～🥱･°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZcYF67EQV?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-09-30]晨间直播☀️上学前精神满满地（？）唱歌！！！陪我一起早起～～🥱･°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZcYF67EQV?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【💐🎸歌切】[2026-09-30]晨间直播☀️上学前精神满满地（？）唱歌！！！陪我一起早起～～🥱･°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZcYF67EQV?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "【💐🎸歌切】[2026-09-30]晨间直播☀️上学前精神满满地（？）唱歌！！！陪我一起早起～～🥱･°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZcYF67EQV?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "ロマンチシズム",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【💐🎸歌切】[2026-09-30]晨间直播☀️上学前精神满满地（？）唱歌！！！陪我一起早起～～🥱･°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZcYF67EQV?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【💐🎸歌切】[2026-09-30]晨间直播☀️上学前精神满满地（？）唱歌！！！陪我一起早起～～🥱･°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZcYF67EQV?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【💐🎸歌切】[2026-09-30]晨间直播☀️上学前精神满满地（？）唱歌！！！陪我一起早起～～🥱･°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZcYF67EQV?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【💐🎸歌切】[2026-09-30]晨间直播☀️上学前精神满满地（？）唱歌！！！陪我一起早起～～🥱･°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZcYF67EQV?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "きにぴ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-09-30]晨间直播☀️上学前精神满满地（？）唱歌！！！陪我一起早起～～🥱･°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZcYF67EQV?p=12",
   "source": "sumica.js"
 }
 );

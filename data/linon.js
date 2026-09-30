@@ -1,6 +1,6 @@
 // 天籠りのん - 歌单数据 (多合集汇总)
 // 来源: BV1hw4m1i7qN
-// 生成时间: 9/30/2026, 1:41:46 PM
+// 生成时间: 9/30/2026, 3:00:29 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3563,6 +3563,54 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-18]首次演唱曲目大放送！第一次挑战偶像歌曲限定歌回♡♡♡",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18Yev6TEoo?p=9",
+  "source": "linon.js"
+},
+    {
+  "title": "絶対零度の世界から",
+  "artist": "VEE",
+  "collection": "【歌切】[2026-09-30]天籠りのん VEE毕业3D Live｜唱到最后也尽情放声！真的非常感谢！！！🎀🏳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mraf6wExm?p=1",
+  "source": "linon.js"
+},
+    {
+  "title": "メメメのメ",
+  "artist": "天籠りのん",
+  "collection": "【歌切】[2026-09-30]天籠りのん VEE毕业3D Live｜唱到最后也尽情放声！真的非常感谢！！！🎀🏳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mraf6wExm?p=2",
+  "source": "linon.js"
+},
+    {
+  "title": "虚無虚無です。",
+  "artist": "天籠りのん",
+  "collection": "【歌切】[2026-09-30]天籠りのん VEE毕业3D Live｜唱到最后也尽情放声！真的非常感谢！！！🎀🏳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mraf6wExm?p=3",
+  "source": "linon.js"
+},
+    {
+  "title": "雨はことだま",
+  "artist": "天籠りのん",
+  "collection": "【歌切】[2026-09-30]天籠りのん VEE毕业3D Live｜唱到最后也尽情放声！真的非常感谢！！！🎀🏳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mraf6wExm?p=4",
+  "source": "linon.js"
+},
+    {
+  "title": "アウトラージュ",
+  "artist": "VEE",
+  "collection": "【歌切】[2026-09-30]天籠りのん VEE毕业3D Live｜唱到最后也尽情放声！真的非常感谢！！！🎀🏳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mraf6wExm?p=5",
+  "source": "linon.js"
+},
+    {
+  "title": "ALIVE",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-09-30]天籠りのん VEE毕业3D Live｜唱到最后也尽情放声！真的非常感谢！！！🎀🏳",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mraf6wExm?p=6",
   "source": "linon.js"
 }
 );

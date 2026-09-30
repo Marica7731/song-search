@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 9/30/2026, 2:02:58 PM
+// 生成时间: 9/30/2026, 3:18:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3259,6 +3259,126 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-28]被大豆气到的女人来唱RADWIMPS",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dLaE6oEw9?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Q&Aリサイタル!",
+  "artist": "戸松遥",
+  "collection": "【歌切】[2026-09-30]耐久挑战｜距离加入事务所以来频道订阅增加1万人还差90人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mkaf6hErF?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-09-30]耐久挑战｜距离加入事务所以来频道订阅增加1万人还差90人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mkaf6hErF?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "バスロマンス",
+  "artist": "チャットモンチー",
+  "collection": "【歌切】[2026-09-30]耐久挑战｜距离加入事务所以来频道订阅增加1万人还差90人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mkaf6hErF?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ハンドメイドミライ",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+  "collection": "【歌切】[2026-09-30]耐久挑战｜距离加入事务所以来频道订阅增加1万人还差90人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mkaf6hErF?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ユーレイ",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+  "collection": "【歌切】[2026-09-30]耐久挑战｜距离加入事务所以来频道订阅增加1万人还差90人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mkaf6hErF?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "イケナイ太陽",
+  "artist": "ORANGE RANGE",
+  "collection": "【歌切】[2026-09-30]耐久挑战｜距离加入事务所以来频道订阅增加1万人还差90人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mkaf6hErF?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Dear",
+  "artist": "19's Sound Factory feat.初音ミク",
+  "collection": "【歌切】[2026-09-30]耐久挑战｜距离加入事务所以来频道订阅增加1万人还差90人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mkaf6hErF?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "鬼",
+  "artist": "吉澤嘉代子",
+  "collection": "【歌切】[2026-09-30]耐久挑战｜距离加入事务所以来频道订阅增加1万人还差90人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mkaf6hErF?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ファッとして桃源郷",
+  "artist": "新庄かなえ(CV:三森すずこ)",
+  "collection": "【歌切】[2026-09-30]耐久挑战｜距离加入事务所以来频道订阅增加1万人还差90人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mkaf6hErF?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "セプテンバーさん",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-09-30]耐久挑战｜距离加入事务所以来频道订阅增加1万人还差90人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mkaf6hErF?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ベルベットの詩",
+  "artist": "back number",
+  "collection": "【歌切】[2026-09-30]耐久挑战｜距离加入事务所以来频道订阅增加1万人还差90人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mkaf6hErF?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-09-30]耐久挑战｜距离加入事务所以来频道订阅增加1万人还差90人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mkaf6hErF?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "チュープリ",
+  "artist": "ZOC",
+  "collection": "【歌切】[2026-09-30]耐久挑战｜距离加入事务所以来频道订阅增加1万人还差90人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mkaf6hErF?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "断捨離彼氏",
+  "artist": "ZOC",
+  "collection": "【歌切】[2026-09-30]耐久挑战｜距离加入事务所以来频道订阅增加1万人还差90人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mkaf6hErF?p=14",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-30]耐久挑战｜距离加入事务所以来频道订阅增加1万人还差90人！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mkaf6hErF?p=15",
   "source": "hasumisahiro.js"
 }
 );
