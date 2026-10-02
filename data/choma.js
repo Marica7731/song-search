@@ -1,6 +1,6 @@
 // チョま - 歌单数据 (多合集汇总)
 // 来源: BV1kM3L6GEBV
-// 生成时间: 10/2/2026, 9:39:23 AM
+// 生成时间: 10/2/2026, 11:31:33 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4123,6 +4123,110 @@ window.SONG_DATA.push(
   "collection": "チョま歌切 2026年09月29日20点场 周二也要唱歌！🔥 2026-09-29",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aWaX6JEfk?p=20",
+  "source": "choma.js"
+},
+    {
+  "title": "渡月橋 ～君 想ふ～",
+  "artist": "倉木麻衣",
+  "collection": "チョま歌切 2026年10月01日20点场 唱些有秋日氛围的歌！！ 2026-10-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEhS?p=1",
+  "source": "choma.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "チョま歌切 2026年10月01日20点场 唱些有秋日氛围的歌！！ 2026-10-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEhS?p=2",
+  "source": "choma.js"
+},
+    {
+  "title": "ひゅるりらぱっぱ",
+  "artist": "tuki.",
+  "collection": "チョま歌切 2026年10月01日20点场 唱些有秋日氛围的歌！！ 2026-10-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEhS?p=3",
+  "source": "choma.js"
+},
+    {
+  "title": "紡唄",
+  "artist": "DATEKEN feat.鏡音リン・鏡音レン",
+  "collection": "チョま歌切 2026年10月01日20点场 唱些有秋日氛围的歌！！ 2026-10-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEhS?p=4",
+  "source": "choma.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "チョま歌切 2026年10月01日20点场 唱些有秋日氛围的歌！！ 2026-10-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEhS?p=5",
+  "source": "choma.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "チョま歌切 2026年10月01日20点场 唱些有秋日氛围的歌！！ 2026-10-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEhS?p=6",
+  "source": "choma.js"
+},
+    {
+  "title": "とんぼのめがね",
+  "artist": "童謡",
+  "collection": "チョま歌切 2026年10月01日20点场 唱些有秋日氛围的歌！！ 2026-10-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEhS?p=7",
+  "source": "choma.js"
+},
+    {
+  "title": "どんぐりころころ",
+  "artist": "童謡",
+  "collection": "チョま歌切 2026年10月01日20点场 唱些有秋日氛围的歌！！ 2026-10-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEhS?p=8",
+  "source": "choma.js"
+},
+    {
+  "title": "いろは唄",
+  "artist": "銀サク feat.鏡音リン",
+  "collection": "チョま歌切 2026年10月01日20点场 唱些有秋日氛围的歌！！ 2026-10-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEhS?p=9",
+  "source": "choma.js"
+},
+    {
+  "title": "オツキミリサイタル",
+  "artist": "じん feat.IA",
+  "collection": "チョま歌切 2026年10月01日20点场 唱些有秋日氛围的歌！！ 2026-10-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEhS?p=10",
+  "source": "choma.js"
+},
+    {
+  "title": "神のまにまに",
+  "artist": "れるりり feat.初音ミク・鏡音リン・GUMI",
+  "collection": "チョま歌切 2026年10月01日20点场 唱些有秋日氛围的歌！！ 2026-10-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEhS?p=11",
+  "source": "choma.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat.初音ミク",
+  "collection": "チョま歌切 2026年10月01日20点场 唱些有秋日氛围的歌！！ 2026-10-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEhS?p=12",
+  "source": "choma.js"
+},
+    {
+  "title": "六兆年と一夜物語",
+  "artist": "kemu feat.IA",
+  "collection": "チョま歌切 2026年10月01日20点场 唱些有秋日氛围的歌！！ 2026-10-01",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEhS?p=13",
   "source": "choma.js"
 }
 );

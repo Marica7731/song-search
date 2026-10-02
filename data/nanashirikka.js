@@ -1,6 +1,6 @@
 // ななし律歌 - 歌单数据 (多合集汇总)
 // 来源: BV1wHQVBTEU5
-// 生成时间: 10/2/2026, 9:24:49 AM
+// 生成时间: 10/2/2026, 11:17:46 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2171,6 +2171,86 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-19]偶尔也会突击开唱嘛",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ruev6XEAY?p=17",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-01]为了和新吉他好好磨合，来弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XiaS6CEFY?p=1",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "トレモロ",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-10-01]为了和新吉他好好磨合，来弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XiaS6CEFY?p=2",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ドーナツホール",
+  "artist": "ハチ feat.GUMI",
+  "collection": "【歌切】[2026-10-01]为了和新吉他好好磨合，来弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XiaS6CEFY?p=3",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz feat.巡音ルカ",
+  "collection": "【歌切】[2026-10-01]为了和新吉他好好磨合，来弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XiaS6CEFY?p=4",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "by your side",
+  "artist": "小川大輝 feat.初音ミク",
+  "collection": "【歌切】[2026-10-01]为了和新吉他好好磨合，来弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XiaS6CEFY?p=5",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-10-01]为了和新吉他好好磨合，来弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XiaS6CEFY?p=6",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗",
+  "collection": "【歌切】[2026-10-01]为了和新吉他好好磨合，来弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XiaS6CEFY?p=7",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【歌切】[2026-10-01]为了和新吉他好好磨合，来弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XiaS6CEFY?p=8",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "やさしさに包まれたなら",
+  "artist": "松任谷由実",
+  "collection": "【歌切】[2026-10-01]为了和新吉他好好磨合，来弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XiaS6CEFY?p=9",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-10-01]为了和新吉他好好磨合，来弹唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XiaS6CEFY?p=10",
   "source": "nanashirikka.js"
 }
 );

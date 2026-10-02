@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 10/2/2026, 9:30:26 AM
+// 生成时间: 10/2/2026, 11:22:48 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2931,6 +2931,38 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-19]想多唱些抒情歌～～！听着睡着了也没关系！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FDev6REpN?p=9",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "SAYONARA MAYBE",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-09-30]时隔一周！休息够了，开唱啦啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YiaS6CEC5?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "洗脳",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-30]时隔一周！休息够了，开唱啦啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YiaS6CEC5?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "うそつき",
+  "artist": "つなまる feat.初音ミク",
+  "collection": "【歌切】[2026-09-30]时隔一周！休息够了，开唱啦啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YiaS6CEC5?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "またフタリ恋をする",
+  "artist": "Meat Goodbye feat.IA",
+  "collection": "【歌切】[2026-09-30]时隔一周！休息够了，开唱啦啊啊啊！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YiaS6CEC5?p=4",
   "source": "hinachibi.js"
 }
 );

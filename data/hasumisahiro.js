@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 10/2/2026, 9:23:41 AM
+// 生成时间: 10/2/2026, 11:16:54 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3379,6 +3379,30 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-30]耐久挑战｜距离加入事务所以来频道订阅增加1万人还差90人！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Mkaf6hErF?p=15",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "遺書",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-09-30]耐久挑战｜加入事务所后频道订阅增加1万人的目标还差39人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YiaS6CE4g?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "SUN",
+  "artist": "星野源",
+  "collection": "【歌切】[2026-09-30]耐久挑战｜加入事务所后频道订阅增加1万人的目标还差39人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YiaS6CE4g?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-09-30]耐久挑战｜加入事务所后频道订阅增加1万人的目标还差39人",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YiaS6CE4g?p=3",
   "source": "hasumisahiro.js"
 }
 );

@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 10/2/2026, 9:47:57 AM
+// 生成时间: 10/2/2026, 11:41:49 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5171,6 +5171,118 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1onai6jErm?p=15",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ナイショの話",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "snow fairy",
+  "artist": "FUNKIST",
+  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "CLOSER",
+  "artist": "井上ジョー",
+  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ずうっといっしょ!",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ムーンライト伝説",
+  "artist": "DALI",
+  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=14",
   "source": "suiuishino.js"
 }
 );

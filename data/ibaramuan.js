@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 10/2/2026, 9:35:32 AM
+// 生成时间: 10/2/2026, 11:27:34 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10275,6 +10275,222 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-25]Vack-ON!!辛苦啦！来唱歌吧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uQah6DEGh?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Planetes",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "たぶん",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "優しい彗星",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ナハトムジーク",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "夏の半券",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP feat.初音ミク",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "シザーハンズ",
+  "artist": "Nem feat.初音ミク",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "me me she",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "花人局",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "YUME日和",
+  "artist": "島谷ひとみ",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "W/X/Y",
+  "artist": "Tani Yuuki",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Subtitle",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ツキミソウ",
+  "artist": "Novelbright",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "六等星[Rokutōsei]",
+  "artist": "ざらめ",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz feat.巡音ルカ",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "フリージア",
+  "artist": "Uru",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "虹の彼方に",
+  "artist": "ReoNa",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "夢であるように",
+  "artist": "DEEN",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "裸の心",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=26",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "鬼ノ宴",
+  "artist": "友成空",
+  "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=27",
   "source": "ibaramuan.js"
 }
 );
