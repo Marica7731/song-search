@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 10/2/2026, 10:50:58 AM
+// 生成时间: 10/2/2026, 12:14:15 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6411,6 +6411,94 @@ window.SONG_DATA.push(
   "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=17",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【👿歌切】[2026-10-01]转为个人活动后的首次歌回！傍晚当电台听吧📻🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YiaS6CEPM?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ソラニン",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "【👿歌切】[2026-10-01]转为个人活动后的首次歌回！傍晚当电台听吧📻🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YiaS6CEPM?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【👿歌切】[2026-10-01]转为个人活动后的首次歌回！傍晚当电台听吧📻🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YiaS6CEPM?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "メリッサ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【👿歌切】[2026-10-01]转为个人活动后的首次歌回！傍晚当电台听吧📻🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YiaS6CEPM?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ハロ/ハワユ",
+  "artist": "ナノウ feat.初音ミク",
+  "collection": "【👿歌切】[2026-10-01]转为个人活动后的首次歌回！傍晚当电台听吧📻🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YiaS6CEPM?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona(CV.夏川椎菜)",
+  "collection": "【👿歌切】[2026-10-01]转为个人活动后的首次歌回！傍晚当电台听吧📻🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YiaS6CEPM?p=6",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "初めての恋が終わる時",
+  "artist": "ryo feat.初音ミク",
+  "collection": "【👿歌切】[2026-10-01]转为个人活动后的首次歌回！傍晚当电台听吧📻🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YiaS6CEPM?p=7",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "【👿歌切】[2026-10-01]转为个人活动后的首次歌回！傍晚当电台听吧📻🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YiaS6CEPM?p=8",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "飛ぶ時",
+  "artist": "Vaundy",
+  "collection": "【👿歌切】[2026-10-01]转为个人活动后的首次歌回！傍晚当电台听吧📻🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YiaS6CEPM?p=9",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "めざせポケモンマスター",
+  "artist": "松本梨香",
+  "collection": "【👿歌切】[2026-10-01]转为个人活动后的首次歌回！傍晚当电台听吧📻🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YiaS6CEPM?p=10",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【👿歌切】[2026-10-01]转为个人活动后的首次歌回！傍晚当电台听吧📻🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YiaS6CEPM?p=11",
   "source": "otomoneruki.js"
 }
 );

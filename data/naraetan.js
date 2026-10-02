@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 10/2/2026, 10:41:09 AM
+// 生成时间: 10/2/2026, 12:01:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15123,6 +15123,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "1925",
+  "artist": "T-POCKET feat.初音ミク",
+  "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "The Biggest Dreamer",
+  "artist": "和田光司",
+  "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "微笑みの爆弾",
+  "artist": "馬渡松子",
+  "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "DAN DAN 心魅かれてく",
+  "artist": "FIELD OF VIEW",
+  "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ふわふわ時間",
+  "artist": "桜高軽音部",
+  "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Never Ending Story",
+  "artist": "부활",
+  "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "チキチキバンバン",
+  "artist": "QUEENDOM",
+  "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "涼宮ハルヒ(CV.平野綾),長門有希(CV.茅原実里),朝比奈みくる(CV.後藤邑子)",
+  "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=11",
   "source": "naraetan.js"
 }
 );
