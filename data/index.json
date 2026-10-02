@@ -63,7 +63,8 @@
     "koyoiinari.js",
     "otowarara.js",
     "yuni.js",
-    "peruciaten.js"
+    "peruciaten.js",
+    "shiyu.js"
   ],
   "fileToAlias": {
     "323": "323",
@@ -129,7 +130,8 @@
     "koyoiinari": "狐宵いなり",
     "otowarara": "音羽ララ",
     "yuni": "YuNi",
-    "peruciaten": "ぺるしあ・てん"
+    "peruciaten": "ぺるしあ・てん",
+    "shiyu": "しゆ。"
   },
   "sourceProfiles": {
     "323": {
@@ -644,6 +646,14 @@
       "avatarUrl": "https://i0.hdslb.com/bfs/archive/79f6fd34a915a7eaf3e8d5457a8e791fed790ba2.png",
       "youtubeUrl": "https://www.youtube.com/@perucia_ten",
       "accentColor": "hsl(187 55% 36%)",
+      "statsAvgSortDeferred": false
+    },
+    "shiyu": {
+      "alias": "しゆ。",
+      "avatarText": "し",
+      "avatarUrl": "https://yt3.googleusercontent.com/00T1oEEjm8hMxhsXqMJJDubHfWJvMaLTYavmRKBIKgtmFUYQESoamkTYfowHff7hNabtWeYv=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/channel/UC9b76pk9Re-focJF7X5GtKQ",
+      "accentColor": "hsl(204 55% 36%)",
       "statsAvgSortDeferred": false
     }
   }

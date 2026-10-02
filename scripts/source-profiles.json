@@ -400,6 +400,12 @@
       "youtubeUrl": "https://www.youtube.com/@perucia_ten",
       "avatarText": "ぺ",
       "accentColor": "hsl(187 55% 36%)"
+    },
+    "shiyu": {
+      "avatarUrl": "https://yt3.googleusercontent.com/00T1oEEjm8hMxhsXqMJJDubHfWJvMaLTYavmRKBIKgtmFUYQESoamkTYfowHff7hNabtWeYv=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/channel/UC9b76pk9Re-focJF7X5GtKQ",
+      "avatarText": "し",
+      "accentColor": "hsl(204 55% 36%)"
     }
   }
 }
