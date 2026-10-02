@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 10/2/2026, 12:02:57 PM
+// 生成时间: 10/2/2026, 1:54:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -35083,6 +35083,142 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-09-26]ライドリ歌谣祭—九月篇—闭幕式！今年也谢谢大家！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14Qah6DEQK?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "レディーレ",
+  "artist": "バルーン feat. flower",
+  "collection": "【💐歌切】[2026-10-02]唱歌也算Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z1aU6mELr?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "【💐歌切】[2026-10-02]唱歌也算Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z1aU6mELr?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "ミュージック",
+  "artist": "サカナクション",
+  "collection": "【💐歌切】[2026-10-02]唱歌也算Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z1aU6mELr?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "CANDY CANDY",
+  "artist": "きゃりーぱみゅぱみゅ",
+  "collection": "【💐歌切】[2026-10-02]唱歌也算Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z1aU6mELr?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "長く短い祭",
+  "artist": "椎名林檎",
+  "collection": "【💐歌切】[2026-10-02]唱歌也算Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z1aU6mELr?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "脱法ロック",
+  "artist": "Neru feat. 鏡音レン",
+  "collection": "【💐歌切】[2026-10-02]唱歌也算Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z1aU6mELr?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "トリカゴ",
+  "artist": "XX:me",
+  "collection": "【💐歌切】[2026-10-02]唱歌也算Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z1aU6mELr?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "ジェヘナ",
+  "artist": "wotaku feat. 初音ミク",
+  "collection": "【💐歌切】[2026-10-02]唱歌也算Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z1aU6mELr?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "ナイトルーティーン feat. suis from ヨルシカ",
+  "artist": "キタニタツヤ",
+  "collection": "【💐歌切】[2026-10-02]唱歌也算Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z1aU6mELr?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【💐歌切】[2026-10-02]唱歌也算Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z1aU6mELr?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "ダーリンダンス",
+  "artist": "かいりきベア feat. 初音ミク",
+  "collection": "【💐歌切】[2026-10-02]唱歌也算Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z1aU6mELr?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "妄想疾患■ガール",
+  "artist": "もじゃ feat. GUMI",
+  "collection": "【💐歌切】[2026-10-02]唱歌也算Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z1aU6mELr?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "シュガーバイン",
+  "artist": "Dixie Flatline feat. 巡音ルカ",
+  "collection": "【💐歌切】[2026-10-02]唱歌也算Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z1aU6mELr?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "カガリビト",
+  "artist": "millstones feat. 初音ミク",
+  "collection": "【💐歌切】[2026-10-02]唱歌也算Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z1aU6mELr?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "ライアーダンス",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【💐歌切】[2026-10-02]唱歌也算Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z1aU6mELr?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【💐歌切】[2026-10-02]唱歌也算Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z1aU6mELr?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "太陽系デスコ",
+  "artist": "ナユタン星人 feat. 初音ミク",
+  "collection": "【💐歌切】[2026-10-02]唱歌也算Live！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z1aU6mELr?p=17",
   "source": "figaro.js"
 }
 );

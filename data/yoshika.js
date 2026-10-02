@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 10/2/2026, 12:12:38 PM
+// 生成时间: 10/2/2026, 2:01:32 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -40851,6 +40851,246 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-09-28]欢迎新观众！刚从午睡中醒来，不过还是要唱歌！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SCa76UE4E?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "GO!!!",
+  "artist": "FLOW",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "1・2・3",
+  "artist": "そらる×まふまふ",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ニホンノミカタ -ネバダカラキマシタ-",
+  "artist": "矢島美容室",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "崖の上のポニョ",
+  "artist": "藤岡藤巻と大橋のぞみ",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Falco-ファルコ-",
+  "artist": "島谷ひとみ",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Northern Lights",
+  "artist": "林原めぐみ",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "渡月橋 ～君 想ふ～",
+  "artist": "倉木麻衣",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ANGELUS -アンジェラス-",
+  "artist": "島谷ひとみ",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "セーラースターソング",
+  "artist": "花沢加絵",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Pray",
+  "artist": "Tommy heavenly6",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "かさなる影",
+  "artist": "Hearts Grow",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "太陽の楽園～Promised Land～",
+  "artist": "神戸みゆき",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "サインはB",
+  "artist": "B小町",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Eternal Snow",
+  "artist": "Changin' My Life",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=25",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Myself",
+  "artist": "Changin' My Life",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=26",
+  "source": "yoshika.js"
+},
+    {
+  "title": "螺旋 -RASEN-",
+  "artist": "9Lana",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=27",
+  "source": "yoshika.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=28",
+  "source": "yoshika.js"
+},
+    {
+  "title": "鯨",
+  "artist": "Buzy",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=29",
+  "source": "yoshika.js"
+},
+    {
+  "title": "マツケンサンバII",
+  "artist": "松平健",
+  "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14taU6cExn?p=30",
   "source": "yoshika.js"
 }
 );
