@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 10/2/2026, 3:56:26 AM
+// 生成时间: 10/2/2026, 5:14:44 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10454,7 +10454,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "1.食虫植物",
+  "title": "食虫植物",
   "artist": "理芽",
   "collection": "捣蛋还是唱歌？？？🎃【凛々咲 】 [VTuber / #Ririsya][HalloweenDarkNightSingingStreamRelay]",
   "up": "前尘往事如昔故",
@@ -10462,7 +10462,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "2.SnekQueen",
+  "title": "SnekQueen",
   "artist": "凛々咲",
   "collection": "捣蛋还是唱歌？？？🎃【凛々咲 】 [VTuber / #Ririsya][HalloweenDarkNightSingingStreamRelay]",
   "up": "前尘往事如昔故",
@@ -10470,7 +10470,7 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "3.怪物",
+  "title": "怪物",
   "artist": "YOASOBI",
   "collection": "捣蛋还是唱歌？？？🎃【凛々咲 】 [VTuber / #Ririsya][HalloweenDarkNightSingingStreamRelay]",
   "up": "前尘往事如昔故",
@@ -10478,15 +10478,15 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "4.ゴーストルール",
-  "artist": "Cover 初音ミク",
+  "title": "ゴーストルール",
+  "artist": "DECO*27 feat. 初音ミク",
   "collection": "捣蛋还是唱歌？？？🎃【凛々咲 】 [VTuber / #Ririsya][HalloweenDarkNightSingingStreamRelay]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mesCzLEhk?p=4",
   "source": "ririsya.js"
 },
     {
-  "title": "5.unravel",
+  "title": "unravel",
   "artist": "TK from 凛として時雨",
   "collection": "捣蛋还是唱歌？？？🎃【凛々咲 】 [VTuber / #Ririsya][HalloweenDarkNightSingingStreamRelay]",
   "up": "前尘往事如昔故",
@@ -10494,16 +10494,16 @@ window.SONG_DATA.push(
   "source": "ririsya.js"
 },
     {
-  "title": "6.ビビデバ",
-  "artist": "星街彗星",
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
   "collection": "捣蛋还是唱歌？？？🎃【凛々咲 】 [VTuber / #Ririsya][HalloweenDarkNightSingingStreamRelay]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mesCzLEhk?p=6",
   "source": "ririsya.js"
 },
     {
-  "title": "7.ジャンキーナイトタウンオーケストラ",
-  "artist": "feat.鏡音レン",
+  "title": "ジャンキーナイトタウンオーケストラ",
+  "artist": "すりぃ feat. 鏡音レン",
   "collection": "捣蛋还是唱歌？？？🎃【凛々咲 】 [VTuber / #Ririsya][HalloweenDarkNightSingingStreamRelay]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mesCzLEhk?p=7",
