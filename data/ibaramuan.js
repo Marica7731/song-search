@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 10/3/2026, 2:56:10 PM
+// 生成时间: 10/3/2026, 4:01:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -623,7 +623,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "声",
-  "artist": "はりー",
+  "artist": "はりーP feat.初音ミク",
   "collection": "歌切 2026-04-02 Muan ch.茨むあん ibaramuan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LmDVBxEDe?p=3",
@@ -7263,7 +7263,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "声",
-  "artist": "はりー",
+  "artist": "はりーP feat.初音ミク",
   "collection": "【歌切】[2026-08-06]唱一些让人放松下来的歌",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11WuL65EVL?p=6",
