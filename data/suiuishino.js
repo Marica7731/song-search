@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 10/4/2026, 4:54:24 PM
+// 生成时间: 10/4/2026, 5:49:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5283,6 +5283,126 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "レーザービーム",
+  "artist": "Perfume",
+  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "チョコレイト・ディスコ",
+  "artist": "Perfume",
+  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "エレクトロ・ワールド",
+  "artist": "Perfume",
+  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Dream Fighter",
+  "artist": "Perfume",
+  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ワンルーム・ディスコ",
+  "artist": "Perfume",
+  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "不自然なガール",
+  "artist": "Perfume",
+  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Spending all my time",
+  "artist": "Perfume",
+  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ねぇ",
+  "artist": "Perfume",
+  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "パーフェクトスター・パーフェクトスタイル",
+  "artist": "Perfume",
+  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ナチュラルに恋して",
+  "artist": "Perfume",
+  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "コンピューターシティ",
+  "artist": "Perfume",
+  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "SEVENTH HEAVEN",
+  "artist": "Perfume",
+  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "セラミックガール",
+  "artist": "Perfume",
+  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "マカロニ",
+  "artist": "Perfume",
+  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "love the world",
+  "artist": "Perfume",
+  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=15",
   "source": "suiuishino.js"
 }
 );
