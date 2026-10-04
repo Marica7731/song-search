@@ -1,6 +1,6 @@
 // チョま - 歌单数据 (多合集汇总)
 // 来源: BV1kM3L6GEBV
-// 生成时间: 10/4/2026, 10:13:16 AM
+// 生成时间: 10/4/2026, 11:17:35 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4227,6 +4227,174 @@ window.SONG_DATA.push(
   "collection": "チョま歌切 2026年10月01日20点场 唱些有秋日氛围的歌！！ 2026-10-01",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEhS?p=13",
+  "source": "choma.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "チョま歌切 2026年10月03日13点场 要不要听一首歌再走？多声线・双声线 2026-10-03",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEtm?p=1",
+  "source": "choma.js"
+},
+    {
+  "title": "ヤラララ",
+  "artist": "AnythingBecomeMoe feat.重音テト",
+  "collection": "チョま歌切 2026年10月03日13点场 要不要听一首歌再走？多声线・双声线 2026-10-03",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEtm?p=2",
+  "source": "choma.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP feat.鏡音リン",
+  "collection": "チョま歌切 2026年10月03日13点场 要不要听一首歌再走？多声线・双声线 2026-10-03",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEtm?p=3",
+  "source": "choma.js"
+},
+    {
+  "title": "テレパシ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "チョま歌切 2026年10月03日13点场 要不要听一首歌再走？多声线・双声线 2026-10-03",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEtm?p=4",
+  "source": "choma.js"
+},
+    {
+  "title": "金曜日のおはよう",
+  "artist": "HoneyWorks feat.GUMI",
+  "collection": "チョま歌切 2026年10月03日13点场 要不要听一首歌再走？多声线・双声线 2026-10-03",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEtm?p=5",
+  "source": "choma.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "チョま歌切 2026年10月03日13点场 要不要听一首歌再走？多声线・双声线 2026-10-03",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEtm?p=6",
+  "source": "choma.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat.GUMI・鏡音リン",
+  "collection": "チョま歌切 2026年10月03日13点场 要不要听一首歌再走？多声线・双声线 2026-10-03",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEtm?p=7",
+  "source": "choma.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "チョま歌切 2026年10月03日13点场 要不要听一首歌再走？多声线・双声线 2026-10-03",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEtm?p=8",
+  "source": "choma.js"
+},
+    {
+  "title": "クエスチョン",
+  "artist": "meiyo",
+  "collection": "チョま歌切 2026年10月03日13点场 要不要听一首歌再走？多声线・双声线 2026-10-03",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEtm?p=9",
+  "source": "choma.js"
+},
+    {
+  "title": "マーシャル・マキシマイザー",
+  "artist": "柊マグネタイト feat.可不",
+  "collection": "チョま歌切 2026年10月03日13点场 要不要听一首歌再走？多声线・双声线 2026-10-03",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEtm?p=10",
+  "source": "choma.js"
+},
+    {
+  "title": "妄想税",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "チョま歌切 2026年10月03日13点场 要不要听一首歌再走？多声线・双声线 2026-10-03",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEtm?p=11",
+  "source": "choma.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "チョま歌切 2026年10月03日13点场 要不要听一首歌再走？多声线・双声线 2026-10-03",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEtm?p=12",
+  "source": "choma.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat.初音ミク",
+  "collection": "チョま歌切 2026年10月03日13点场 要不要听一首歌再走？多声线・双声线 2026-10-03",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEtm?p=13",
+  "source": "choma.js"
+},
+    {
+  "title": "夜の踊り子",
+  "artist": "サカナクション",
+  "collection": "チョま歌切 2026年10月03日13点场 要不要听一首歌再走？多声线・双声线 2026-10-03",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEtm?p=14",
+  "source": "choma.js"
+},
+    {
+  "title": "アンタに言ってんの！",
+  "artist": "ぴーなた feat.重音テト",
+  "collection": "チョま歌切 2026年10月03日13点场 要不要听一首歌再走？多声线・双声线 2026-10-03",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEtm?p=15",
+  "source": "choma.js"
+},
+    {
+  "title": "ロストワンの号哭",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "チョま歌切 2026年10月03日13点场 要不要听一首歌再走？多声线・双声线 2026-10-03",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEtm?p=16",
+  "source": "choma.js"
+},
+    {
+  "title": "一二三",
+  "artist": "Penthouse",
+  "collection": "チョま歌切 2026年10月03日13点场 要不要听一首歌再走？多声线・双声线 2026-10-03",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEtm?p=17",
+  "source": "choma.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra，月見ヤチヨ(cv.早見沙織)",
+  "collection": "チョま歌切 2026年10月03日13点场 要不要听一首歌再走？多声线・双声线 2026-10-03",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEtm?p=18",
+  "source": "choma.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo feat.初音ミク",
+  "collection": "チョま歌切 2026年10月03日13点场 要不要听一首歌再走？多声线・双声线 2026-10-03",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEtm?p=19",
+  "source": "choma.js"
+},
+    {
+  "title": "エンヴィーベイビー",
+  "artist": "Kanaria feat.GUMI",
+  "collection": "チョま歌切 2026年10月03日13点场 要不要听一首歌再走？多声线・双声线 2026-10-03",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEtm?p=20",
+  "source": "choma.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "チョま歌切 2026年10月03日13点场 要不要听一首歌再走？多声线・双声线 2026-10-03",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEtm?p=21",
   "source": "choma.js"
 }
 );

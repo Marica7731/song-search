@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 10/4/2026, 10:03:26 AM
+// 生成时间: 10/4/2026, 11:10:41 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2963,6 +2963,38 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-30]时隔一周！休息够了，开唱啦啊啊啊！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YiaS6CEC5?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "U",
+  "artist": "millennium parade × Belle",
+  "collection": "【歌切】[2026-10-02]都10月了！告诉我你喜欢的秋日歌曲吧～～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kRHL6TEAq?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "やはり雨は降るんだね",
+  "artist": "ツユ",
+  "collection": "【歌切】[2026-10-02]都10月了！告诉我你喜欢的秋日歌曲吧～～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kRHL6TEAq?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【歌切】[2026-10-02]都10月了！告诉我你喜欢的秋日歌曲吧～～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kRHL6TEAq?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "夜明けの歌",
+  "artist": "M2U x ダズビー",
+  "collection": "【歌切】[2026-10-02]都10月了！告诉我你喜欢的秋日歌曲吧～～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kRHL6TEAq?p=4",
   "source": "hinachibi.js"
 }
 );

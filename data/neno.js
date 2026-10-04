@@ -1,6 +1,6 @@
 // 碧生ねの - 歌单数据 (多合集汇总)
 // 来源: BV1S4TT6pEn4
-// 生成时间: 10/4/2026, 10:15:23 AM
+// 生成时间: 10/4/2026, 11:19:35 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1843,6 +1843,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-28]按平时的标准连续唱1小时🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17TaE6AEQg?p=10",
+  "source": "neno.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-02]悠闲的深夜歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEeh?p=1",
+  "source": "neno.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-02]悠闲的深夜歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEeh?p=2",
+  "source": "neno.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat.GUMI",
+  "collection": "【歌切】[2026-10-02]悠闲的深夜歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEeh?p=3",
+  "source": "neno.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-10-02]悠闲的深夜歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEeh?p=4",
+  "source": "neno.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【歌切】[2026-10-02]悠闲的深夜歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEeh?p=5",
+  "source": "neno.js"
+},
+    {
+  "title": "海の幽霊",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-10-02]悠闲的深夜歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEeh?p=6",
+  "source": "neno.js"
+},
+    {
+  "title": "馬と鹿",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-10-02]悠闲的深夜歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEeh?p=7",
+  "source": "neno.js"
+},
+    {
+  "title": "自由に捕らわれる。",
+  "artist": "カンザキイオリ feat.初音ミク",
+  "collection": "【歌切】[2026-10-02]悠闲的深夜歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEeh?p=8",
+  "source": "neno.js"
+},
+    {
+  "title": "深海のリトルクライ (feat. 土岐麻子)",
+  "artist": "sasakure.UK",
+  "collection": "【歌切】[2026-10-02]悠闲的深夜歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEeh?p=9",
+  "source": "neno.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat.初音ミク",
+  "collection": "【歌切】[2026-10-02]悠闲的深夜歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEeh?p=10",
+  "source": "neno.js"
+},
+    {
+  "title": "1991",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-10-02]悠闲的深夜歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEeh?p=11",
   "source": "neno.js"
 }
 );

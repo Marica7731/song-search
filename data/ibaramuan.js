@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 10/4/2026, 10:09:44 AM
+// 生成时间: 10/4/2026, 11:15:04 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10491,6 +10491,222 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-01]久违的深夜🌙欢迎新观众也来听听",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEpv?p=27",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "1925",
+  "artist": "T-POCKET feat.初音ミク",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ヴィラン",
+  "artist": "てにをは feat.flower",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "電ポルP feat.初音ミク",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ロウワー",
+  "artist": "ぬゆり feat.flower",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Can Do",
+  "artist": "GRANRODEO",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "CHAINSAW BLOOD",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "エゴロック",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Beyond the way",
+  "artist": "Giga feat.初音ミク・鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "臨界ダイバー",
+  "artist": "うみろ feat.flower",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "月陽-ツキアカリ-",
+  "artist": "みきとP feat.GUMI",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アポロ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アゲハ蝶",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ミュージック・アワー",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "虎視眈々",
+  "artist": "梅とら feat.巡音ルカ・初音ミク・GUMI・IA・鏡音リン",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "威風堂々",
+  "artist": "梅とら feat.巡音ルカ・初音ミク・鏡音リン・GUMI・IA",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "No Logic",
+  "artist": "ジミーサムP feat.巡音ルカ",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "気まぐれメルシィ",
+  "artist": "八王子P feat.初音ミク",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "廻廻奇譚",
+  "artist": "Eve",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "AIZO",
+  "artist": "King Gnu",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Sanity",
+  "artist": "茨むあん",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "あんなに一緒だったのに",
+  "artist": "See-Saw",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "オルフェンズの涙",
+  "artist": "MISIA",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=26",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春",
+  "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=27",
   "source": "ibaramuan.js"
 }
 );

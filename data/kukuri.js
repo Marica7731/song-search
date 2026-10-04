@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 10/4/2026, 9:18:51 AM
+// 生成时间: 10/4/2026, 10:36:31 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6899,6 +6899,166 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-09-24]终于出太阳了呢☀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uQah6DEwG?p=23",
+  "source": "kukuri.js"
+},
+    {
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ",
+  "collection": "【💫✖歌切】[2026-10-03]美好的午间时光，请配上一份戸鎖吧～🍴歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEvM?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Pale Blue",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-10-03]美好的午间时光，请配上一份戸鎖吧～🍴歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEvM?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "楔",
+  "artist": "奥華子",
+  "collection": "【💫✖歌切】[2026-10-03]美好的午间时光，请配上一份戸鎖吧～🍴歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEvM?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "いさな",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-10-03]美好的午间时光，请配上一份戸鎖吧～🍴歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEvM?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "夜永唄",
+  "artist": "神はサイコロを振らない",
+  "collection": "【💫✖歌切】[2026-10-03]美好的午间时光，请配上一份戸鎖吧～🍴歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEvM?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-10-03]美好的午间时光，请配上一份戸鎖吧～🍴歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEvM?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-10-03]美好的午间时光，请配上一份戸鎖吧～🍴歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEvM?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【💫✖歌切】[2026-10-03]美好的午间时光，请配上一份戸鎖吧～🍴歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEvM?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "RE:I AM",
+  "artist": "Aimer",
+  "collection": "【💫✖歌切】[2026-10-03]美好的午间时光，请配上一份戸鎖吧～🍴歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEvM?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師, 宇多田ヒカル",
+  "collection": "【💫✖歌切】[2026-10-03]美好的午间时光，请配上一份戸鎖吧～🍴歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEvM?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "地球儀",
+  "artist": "米津玄師",
+  "collection": "【💫✖歌切】[2026-10-03]美好的午间时光，请配上一份戸鎖吧～🍴歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEvM?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "秘密基地",
+  "artist": "高田梢枝",
+  "collection": "【💫✖歌切】[2026-10-03]美好的午间时光，请配上一份戸鎖吧～🍴歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEvM?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "きらり",
+  "artist": "藤井風",
+  "collection": "【💫✖歌切】[2026-10-03]美好的午间时光，请配上一份戸鎖吧～🍴歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEvM?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "くだらないの中に",
+  "artist": "星野源",
+  "collection": "【💫✖歌切】[2026-10-03]美好的午间时光，请配上一份戸鎖吧～🍴歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEvM?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ハレンチ",
+  "artist": "ちゃんみな",
+  "collection": "【💫✖歌切】[2026-10-03]美好的午间时光，请配上一份戸鎖吧～🍴歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEvM?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【💫✖歌切】[2026-10-03]美好的午间时光，请配上一份戸鎖吧～🍴歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEvM?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "あなたクランケン",
+  "artist": "tamon feat.初音ミク・v flower",
+  "collection": "【💫✖歌切】[2026-10-03]美好的午间时光，请配上一份戸鎖吧～🍴歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEvM?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "カノン",
+  "artist": "柊マグネタイト feat.可不",
+  "collection": "【💫✖歌切】[2026-10-03]美好的午间时光，请配上一份戸鎖吧～🍴歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEvM?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "マーシャル・マキシマイザー",
+  "artist": "柊マグネタイト feat.可不",
+  "collection": "【💫✖歌切】[2026-10-03]美好的午间时光，请配上一份戸鎖吧～🍴歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEvM?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "UNDEAD",
+  "artist": "YOASOBI",
+  "collection": "【💫✖歌切】[2026-10-03]美好的午间时光，请配上一份戸鎖吧～🍴歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TEvM?p=20",
   "source": "kukuri.js"
 }
 );

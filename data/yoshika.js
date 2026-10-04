@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 10/4/2026, 9:31:11 AM
+// 生成时间: 10/4/2026, 10:45:32 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -41091,6 +41091,102 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-10-01]欢迎新观众！大家……已经10月了哦！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14taU6cExn?p=30",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-10-03]欢迎新观众！竖屏能行吗！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEYp?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-10-03]欢迎新观众！竖屏能行吗！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEYp?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アローラ!!",
+  "artist": "サトシwithピカチュウ(CV:松本梨香／大谷育江)",
+  "collection": "【🍠🦍歌切】[2026-10-03]欢迎新观众！竖屏能行吗！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEYp?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "今宵はHalloween Night!",
+  "artist": "hololive IDOL PROJECT",
+  "collection": "【🍠🦍歌切】[2026-10-03]欢迎新观众！竖屏能行吗！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEYp?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【🍠🦍歌切】[2026-10-03]欢迎新观众！竖屏能行吗！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEYp?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "負けないで",
+  "artist": "ZARD",
+  "collection": "【🍠🦍歌切】[2026-10-03]欢迎新观众！竖屏能行吗！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEYp?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "キミに100パーセント",
+  "artist": "きゃりーぱみゅぱみゅ",
+  "collection": "【🍠🦍歌切】[2026-10-03]欢迎新观众！竖屏能行吗！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEYp?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "オラはにんきもの",
+  "artist": "のはらしんのすけ",
+  "collection": "【🍠🦍歌切】[2026-10-03]欢迎新观众！竖屏能行吗！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEYp?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋するフォーチュンクッキー",
+  "artist": "AKB48",
+  "collection": "【🍠🦍歌切】[2026-10-03]欢迎新观众！竖屏能行吗！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEYp?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "光るなら",
+  "artist": "Goose house",
+  "collection": "【🍠🦍歌切】[2026-10-03]欢迎新观众！竖屏能行吗！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEYp?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "唇からロマンチカ",
+  "artist": "AAA",
+  "collection": "【🍠🦍歌切】[2026-10-03]欢迎新观众！竖屏能行吗！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEYp?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【🍠🦍歌切】[2026-10-03]欢迎新观众！竖屏能行吗！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JfHL6eEYp?p=12",
   "source": "yoshika.js"
 }
 );

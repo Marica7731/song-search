@@ -1,6 +1,6 @@
 // 山田シャロ - 歌单数据 (多合集汇总)
 // 来源: BV179L66pE1f
-// 生成时间: 10/4/2026, 10:01:50 AM
+// 生成时间: 10/4/2026, 11:08:58 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2427,6 +2427,158 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-26]用歌声让你打起精神！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JEAi?p=14",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Shout Baby",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-10-02]也可以点歌！轻松来听吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rRHL6TEA1?p=1",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-10-02]也可以点歌！轻松来听吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rRHL6TEA1?p=2",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【歌切】[2026-10-02]也可以点歌！轻松来听吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rRHL6TEA1?p=3",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Crow Song",
+  "artist": "Girls Dead Monster",
+  "collection": "【歌切】[2026-10-02]也可以点歌！轻松来听吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rRHL6TEA1?p=4",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "粋恋",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-10-02]也可以点歌！轻松来听吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rRHL6TEA1?p=5",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【歌切】[2026-10-02]也可以点歌！轻松来听吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rRHL6TEA1?p=6",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "アオイイロ",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-10-02]也可以点歌！轻松来听吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rRHL6TEA1?p=7",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【歌切】[2026-10-02]也可以点歌！轻松来听吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rRHL6TEA1?p=8",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-10-02]也可以点歌！轻松来听吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rRHL6TEA1?p=9",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "GHOST",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-10-02]也可以点歌！轻松来听吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rRHL6TEA1?p=10",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "チキチキバンバン",
+  "artist": "QUEENDOM",
+  "collection": "【歌切】[2026-10-02]也可以点歌！轻松来听吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rRHL6TEA1?p=11",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ハレンチ",
+  "artist": "ちゃんみな",
+  "collection": "【歌切】[2026-10-02]也可以点歌！轻松来听吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rRHL6TEA1?p=12",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-10-02]也可以点歌！轻松来听吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rRHL6TEA1?p=13",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "群青日和",
+  "artist": "東京事変",
+  "collection": "【歌切】[2026-10-02]也可以点歌！轻松来听吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rRHL6TEA1?p=14",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-10-02]也可以点歌！轻松来听吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rRHL6TEA1?p=15",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "You & Me feat. motsu from m.o.v.e",
+  "artist": "田村ゆかり",
+  "collection": "【歌切】[2026-10-02]也可以点歌！轻松来听吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rRHL6TEA1?p=16",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "W:Wonder tale",
+  "artist": "田村ゆかり",
+  "collection": "【歌切】[2026-10-02]也可以点歌！轻松来听吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rRHL6TEA1?p=17",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "想い",
+  "artist": "山田シャロ",
+  "collection": "【歌切】[2026-10-02]也可以点歌！轻松来听吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rRHL6TEA1?p=18",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "マジカルタイム",
+  "artist": "山田シャロ",
+  "collection": "【歌切】[2026-10-02]也可以点歌！轻松来听吧！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rRHL6TEA1?p=19",
   "source": "yamadasharo.js"
 }
 );

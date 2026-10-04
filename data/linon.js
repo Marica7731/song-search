@@ -1,6 +1,6 @@
 // 天籠りのん - 歌单数据 (多合集汇总)
 // 来源: BV1hw4m1i7qN
-// 生成时间: 10/4/2026, 9:33:47 AM
+// 生成时间: 10/4/2026, 10:47:35 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3611,6 +3611,54 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-30]天籠りのん VEE毕业3D Live｜唱到最后也尽情放声！真的非常感谢！！！🎀🏳",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Mraf6wExm?p=6",
+  "source": "linon.js"
+},
+    {
+  "title": "マーシャル・マキシマイザー",
+  "artist": "柊マグネタイト feat.可不",
+  "collection": "【歌切】[2026-10-03]天籠りのん（VSinger形态）【すぺしゃりて】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TExj?p=1",
+  "source": "linon.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ feat. 花譜, ツミキ",
+  "artist": "MAISONdes",
+  "collection": "【歌切】[2026-10-03]天籠りのん（VSinger形态）【すぺしゃりて】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TExj?p=2",
+  "source": "linon.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-10-03]天籠りのん（VSinger形态）【すぺしゃりて】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TExj?p=3",
+  "source": "linon.js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-10-03]天籠りのん（VSinger形态）【すぺしゃりて】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TExj?p=4",
+  "source": "linon.js"
+},
+    {
+  "title": "This game",
+  "artist": "鈴木このみ",
+  "collection": "【歌切】[2026-10-03]天籠りのん（VSinger形态）【すぺしゃりて】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TExj?p=5",
+  "source": "linon.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-10-03]天籠りのん（VSinger形态）【すぺしゃりて】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HRHL6TExj?p=6",
   "source": "linon.js"
 }
 );
