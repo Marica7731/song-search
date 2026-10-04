@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 10/4/2026, 7:00:21 AM
+// 生成时间: 10/4/2026, 8:02:10 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -35219,6 +35219,54 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-10-02]唱歌也算Live！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Z1aU6mELr?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【💐歌切】[2026-10-03]AG03+DAW歌回测试",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Hj6LEgC?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "Limbo",
+  "artist": "春野",
+  "collection": "【💐歌切】[2026-10-03]AG03+DAW歌回测试",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Hj6LEgC?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-10-03]AG03+DAW歌回测试",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Hj6LEgC?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat.IA",
+  "collection": "【💐歌切】[2026-10-03]AG03+DAW歌回测试",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Hj6LEgC?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-10-03]AG03+DAW歌回测试",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Hj6LEgC?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "アンインストール",
+  "artist": "石川智晶",
+  "collection": "【💐歌切】[2026-10-03]AG03+DAW歌回测试",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N4Hj6LEgC?p=6",
   "source": "figaro.js"
 }
 );

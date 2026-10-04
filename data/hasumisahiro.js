@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 10/4/2026, 7:26:23 AM
+// 生成时间: 10/4/2026, 8:33:36 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3403,6 +3403,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-30]耐久挑战｜加入事务所后频道订阅增加1万人的目标还差39人",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YiaS6CE4g?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "投資家レコーズ",
+  "artist": "TOKOTOKO（西沢さんP） feat.GUMI",
+  "collection": "【歌切】[2026-10-03]不再隶属于任何事务所的人，夜里唱西沢さんP的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1weHj66E4s?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "君の好きな本",
+  "artist": "TOKOTOKO（西沢さんP） feat.GUMI",
+  "collection": "【歌切】[2026-10-03]不再隶属于任何事务所的人，夜里唱西沢さんP的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1weHj66E4s?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ヘルシーな生活",
+  "artist": "TOKOTOKO（西沢さんP） feat.GUMI",
+  "collection": "【歌切】[2026-10-03]不再隶属于任何事务所的人，夜里唱西沢さんP的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1weHj66E4s?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "格子の心臓",
+  "artist": "TOKOTOKO（西沢さんP） feat.GUMI",
+  "collection": "【歌切】[2026-10-03]不再隶属于任何事务所的人，夜里唱西沢さんP的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1weHj66E4s?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO（西沢さんP） feat.GUMI",
+  "collection": "【歌切】[2026-10-03]不再隶属于任何事务所的人，夜里唱西沢さんP的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1weHj66E4s?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "フライトタイム",
+  "artist": "TOKOTOKO（西沢さんP） feat.GUMI",
+  "collection": "【歌切】[2026-10-03]不再隶属于任何事务所的人，夜里唱西沢さんP的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1weHj66E4s?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "迷子ライフ",
+  "artist": "TOKOTOKO（西沢さんP） feat.鏡音リン",
+  "collection": "【歌切】[2026-10-03]不再隶属于任何事务所的人，夜里唱西沢さんP的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1weHj66E4s?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "少年少女モラトリアムサヴァイヴ",
+  "artist": "TOKOTOKO（西沢さんP） feat.GUMI",
+  "collection": "【歌切】[2026-10-03]不再隶属于任何事务所的人，夜里唱西沢さんP的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1weHj66E4s?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ヒロイックリトル",
+  "artist": "TOKOTOKO（西沢さんP） feat.GUMI",
+  "collection": "【歌切】[2026-10-03]不再隶属于任何事务所的人，夜里唱西沢さんP的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1weHj66E4s?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ユーレイ",
+  "artist": "TOKOTOKO（西沢さんP） feat.GUMI",
+  "collection": "【歌切】[2026-10-03]不再隶属于任何事务所的人，夜里唱西沢さんP的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1weHj66E4s?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "SUPER YELLOW",
+  "artist": "TOKOTOKO（西沢さんP） feat.GUMI",
+  "collection": "【歌切】[2026-10-03]不再隶属于任何事务所的人，夜里唱西沢さんP的歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1weHj66E4s?p=11",
   "source": "hasumisahiro.js"
 }
 );
