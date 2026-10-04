@@ -1,6 +1,6 @@
 // 玉町ぷえ - 歌单数据 (多合集汇总)
 // 来源: BV1nUMP6vE7N
-// 生成时间: 10/4/2026, 6:50:44 PM
+// 生成时间: 10/4/2026, 8:25:09 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1923,6 +1923,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-20]小鬼头歌回接力⌇我是ぷえ！来开开心心唱歌啦🐤📛",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N8hk6rESL?p=5",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "Tokimeki",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-10-04]最喜欢闪耀歌回接力⌇喜欢的心情会闪闪发光⊹♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iaHJ6BEhd?p=1",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "君とインドカレー",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-10-04]最喜欢闪耀歌回接力⌇喜欢的心情会闪闪发光⊹♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iaHJ6BEhd?p=2",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "いちごパフェが止まらない",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-10-04]最喜欢闪耀歌回接力⌇喜欢的心情会闪闪发光⊹♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iaHJ6BEhd?p=3",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "綺麗",
+  "artist": "吉澤嘉代子",
+  "collection": "【歌切】[2026-10-04]最喜欢闪耀歌回接力⌇喜欢的心情会闪闪发光⊹♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iaHJ6BEhd?p=4",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "うれしくて",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-10-04]最喜欢闪耀歌回接力⌇喜欢的心情会闪闪发光⊹♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iaHJ6BEhd?p=5",
   "source": "tamamachipue.js"
 }
 );
