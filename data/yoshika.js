@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 10/4/2026, 8:51:59 PM
+// 生成时间: 10/4/2026, 10:18:15 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -41187,6 +41187,278 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-10-03]欢迎新观众！竖屏能行吗！？",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JfHL6eEYp?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "負けないで",
+  "artist": "ZARD",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "remember",
+  "artist": "Uru",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "フリージア",
+  "artist": "Uru",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "懐かしい未来",
+  "artist": "上白石萌音",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "星街の駅で",
+  "artist": "tuki.",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "海の声",
+  "artist": "浦島太郎(桐谷健太)",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気分上々↑↑",
+  "artist": "mihimaru GT",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "安次嶺希和子",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "桜日和",
+  "artist": "星村麻衣",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "朧月夜〜祈り",
+  "artist": "中島美嘉",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "あなたがいることで",
+  "artist": "Uru",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "YELL",
+  "artist": "いきものがかり",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "涙そうそう",
+  "artist": "夏川りみ",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハグしちゃお",
+  "artist": "夏川りみ",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "桜日和とタイムマシン",
+  "artist": "Ado with 初音ミク",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=25",
+  "source": "yoshika.js"
+},
+    {
+  "title": "letter song",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=26",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ゴッド・ヘルプ",
+  "artist": "保坂知寿",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=27",
+  "source": "yoshika.js"
+},
+    {
+  "title": "小さな祈り",
+  "artist": "岡崎律子",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=28",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=29",
+  "source": "yoshika.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=30",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ウンディーネ",
+  "artist": "牧野由依",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=31",
+  "source": "yoshika.js"
+},
+    {
+  "title": "For フルーツバスケット",
+  "artist": "岡崎律子",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=32",
+  "source": "yoshika.js"
+},
+    {
+  "title": "星街の駅で",
+  "artist": "tuki.",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=33",
+  "source": "yoshika.js"
+},
+    {
+  "title": "虹",
+  "artist": "菅田将暉",
+  "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=34",
   "source": "yoshika.js"
 }
 );

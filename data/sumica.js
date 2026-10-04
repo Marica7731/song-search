@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 10/4/2026, 9:03:32 PM
+// 生成时间: 10/4/2026, 10:27:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10003,6 +10003,158 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-09-30]晨间直播☀️上学前精神满满地（？）唱歌！！！陪我一起早起～～🥱･°",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZcYF67EQV?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "Lap Tap Love",
+  "artist": "koyori feat.初音ミク",
+  "collection": "【💐🎸歌切】[2026-10-04]目标350个赞，悠闲弹唱～～来相遇吧来相遇吧～～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsQ?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "よるのあと",
+  "artist": "adieu",
+  "collection": "【💐🎸歌切】[2026-10-04]目标350个赞，悠闲弹唱～～来相遇吧来相遇吧～～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsQ?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "アンドロメダ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-10-04]目标350个赞，悠闲弹唱～～来相遇吧来相遇吧～～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsQ?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "雨晴るる",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-10-04]目标350个赞，悠闲弹唱～～来相遇吧来相遇吧～～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsQ?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "グランドエスケープ feat.三浦透子",
+  "artist": "RADWIMPS",
+  "collection": "【💐🎸歌切】[2026-10-04]目标350个赞，悠闲弹唱～～来相遇吧来相遇吧～～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsQ?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "バカでしょ",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-10-04]目标350个赞，悠闲弹唱～～来相遇吧来相遇吧～～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsQ?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "SSW",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-10-04]目标350个赞，悠闲弹唱～～来相遇吧来相遇吧～～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsQ?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "Booo!",
+  "artist": "TOKOTOKO（西沢さんP） feat.音街ウナ",
+  "collection": "【💐🎸歌切】[2026-10-04]目标350个赞，悠闲弹唱～～来相遇吧来相遇吧～～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsQ?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【💐🎸歌切】[2026-10-04]目标350个赞，悠闲弹唱～～来相遇吧来相遇吧～～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsQ?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "夏霞",
+  "artist": "あたらよ",
+  "collection": "【💐🎸歌切】[2026-10-04]目标350个赞，悠闲弹唱～～来相遇吧来相遇吧～～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsQ?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "ハレの日に",
+  "artist": "汐れいら",
+  "collection": "【💐🎸歌切】[2026-10-04]目标350个赞，悠闲弹唱～～来相遇吧来相遇吧～～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsQ?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "センチメンタル・キス",
+  "artist": "汐れいら",
+  "collection": "【💐🎸歌切】[2026-10-04]目标350个赞，悠闲弹唱～～来相遇吧来相遇吧～～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsQ?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "ベーコンエピ",
+  "artist": "TOMOO",
+  "collection": "【💐🎸歌切】[2026-10-04]目标350个赞，悠闲弹唱～～来相遇吧来相遇吧～～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsQ?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "告白",
+  "artist": "内緒のピアス feat.可不",
+  "collection": "【💐🎸歌切】[2026-10-04]目标350个赞，悠闲弹唱～～来相遇吧来相遇吧～～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsQ?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "まぶしい",
+  "artist": "上白石萌音",
+  "collection": "【💐🎸歌切】[2026-10-04]目标350个赞，悠闲弹唱～～来相遇吧来相遇吧～～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsQ?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-10-04]目标350个赞，悠闲弹唱～～来相遇吧来相遇吧～～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsQ?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "クリス・ハート",
+  "collection": "【💐🎸歌切】[2026-10-04]目标350个赞，悠闲弹唱～～来相遇吧来相遇吧～～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsQ?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-10-04]目标350个赞，悠闲弹唱～～来相遇吧来相遇吧～～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsQ?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "こんなよる",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-10-04]目标350个赞，悠闲弹唱～～来相遇吧来相遇吧～～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsQ?p=19",
   "source": "sumica.js"
 }
 );

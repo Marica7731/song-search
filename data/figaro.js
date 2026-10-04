@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 10/4/2026, 8:43:45 PM
+// 生成时间: 10/4/2026, 10:11:32 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -35267,6 +35267,118 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-10-03]AG03+DAW歌回测试",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N4Hj6LEgC?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "がらくだ",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-10-04]助眠歌回✨睡前请听🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsr?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN feat.鏡音リン",
+  "collection": "【💐歌切】[2026-10-04]助眠歌回✨睡前请听🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsr?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "【💐歌切】[2026-10-04]助眠歌回✨睡前请听🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsr?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【💐歌切】[2026-10-04]助眠歌回✨睡前请听🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsr?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "【💐歌切】[2026-10-04]助眠歌回✨睡前请听🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsr?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "白い恋人達",
+  "artist": "桑田佳祐",
+  "collection": "【💐歌切】[2026-10-04]助眠歌回✨睡前请听🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsr?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "星月夜",
+  "artist": "由薫",
+  "collection": "【💐歌切】[2026-10-04]助眠歌回✨睡前请听🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsr?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "しずかだなあ",
+  "artist": "手嶌葵",
+  "collection": "【💐歌切】[2026-10-04]助眠歌回✨睡前请听🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsr?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "【💐歌切】[2026-10-04]助眠歌回✨睡前请听🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsr?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-10-04]助眠歌回✨睡前请听🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsr?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【💐歌切】[2026-10-04]助眠歌回✨睡前请听🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsr?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "朝を呑む",
+  "artist": "バルーン feat.初音ミク",
+  "collection": "【💐歌切】[2026-10-04]助眠歌回✨睡前请听🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsr?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "痛いよ",
+  "artist": "清竜人",
+  "collection": "【💐歌切】[2026-10-04]助眠歌回✨睡前请听🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsr?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-10-04]助眠歌回✨睡前请听🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gEsr?p=14",
   "source": "figaro.js"
 }
 );
