@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 10/4/2026, 10:09:15 PM
+// 生成时间: 10/4/2026, 11:38:40 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15211,6 +15211,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "すずめ",
+  "artist": "RADWIMPS feat.十明",
+  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "私がオバさんになっても",
+  "artist": "森高千里",
+  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "みむかゥわナイストライ",
+  "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ feat.初音ミク",
+  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "No Logic",
+  "artist": "ジミーサムP feat.巡音ルカ",
+  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "sweets parade",
+  "artist": "髏々宮カルタ(花澤香菜)",
+  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Yells ～It's a beautiful life～",
+  "artist": "アニサマ2008出演アーティスト",
+  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "冬がはじまるよ",
+  "artist": "槇原敬之",
+  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "尾崎豊",
+  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Sweet Dreams, My Dear",
+  "artist": "Sohyang",
+  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=12",
   "source": "naraetan.js"
 }
 );
