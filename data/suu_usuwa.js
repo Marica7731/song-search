@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 10/5/2026, 2:14:04 PM
+// 生成时间: 10/5/2026, 3:18:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -23819,6 +23819,118 @@ window.SONG_DATA.push(
   "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=20",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Soul",
+  "artist": "星野源",
+  "collection": "【🦢歌切】[2026-10-05]傍晚我就在这里等你哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UEHx6rEYA?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "好き",
+  "artist": "星野源",
+  "collection": "【🦢歌切】[2026-10-05]傍晚我就在这里等你哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UEHx6rEYA?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "dear...",
+  "artist": "馬場このみ",
+  "collection": "【🦢歌切】[2026-10-05]傍晚我就在这里等你哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UEHx6rEYA?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Star-mine",
+  "artist": "初星学園",
+  "collection": "【🦢歌切】[2026-10-05]傍晚我就在这里等你哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UEHx6rEYA?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【🦢歌切】[2026-10-05]傍晚我就在这里等你哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UEHx6rEYA?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-10-05]傍晚我就在这里等你哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UEHx6rEYA?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】[2026-10-05]傍晚我就在这里等你哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UEHx6rEYA?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "カムパネルラ",
+  "artist": "sasakure.UK feat.GUMI",
+  "collection": "【🦢歌切】[2026-10-05]傍晚我就在这里等你哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UEHx6rEYA?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "koyori（電ポルP） feat.初音ミク",
+  "collection": "【🦢歌切】[2026-10-05]傍晚我就在这里等你哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UEHx6rEYA?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【🦢歌切】[2026-10-05]傍晚我就在这里等你哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UEHx6rEYA?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "赤黄色の金木犀",
+  "artist": "フジファブリック",
+  "collection": "【🦢歌切】[2026-10-05]傍晚我就在这里等你哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UEHx6rEYA?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【🦢歌切】[2026-10-05]傍晚我就在这里等你哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UEHx6rEYA?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "紅葉",
+  "artist": "童謡・唱歌",
+  "collection": "【🦢歌切】[2026-10-05]傍晚我就在这里等你哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UEHx6rEYA?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "3月9日",
+  "artist": "レミオロメン",
+  "collection": "【🦢歌切】[2026-10-05]傍晚我就在这里等你哦。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UEHx6rEYA?p=14",
   "source": "suu_usuwa.js"
 }
 );
