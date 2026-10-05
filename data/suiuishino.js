@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 10/5/2026, 9:51:37 PM
+// 生成时间: 10/5/2026, 11:23:41 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5288,7 +5288,7 @@ window.SONG_DATA.push(
     {
   "title": "レーザービーム",
   "artist": "Perfume",
-  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=1",
   "source": "suiuishino.js"
@@ -5296,7 +5296,7 @@ window.SONG_DATA.push(
     {
   "title": "チョコレイト・ディスコ",
   "artist": "Perfume",
-  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=2",
   "source": "suiuishino.js"
@@ -5304,7 +5304,7 @@ window.SONG_DATA.push(
     {
   "title": "エレクトロ・ワールド",
   "artist": "Perfume",
-  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=3",
   "source": "suiuishino.js"
@@ -5312,7 +5312,7 @@ window.SONG_DATA.push(
     {
   "title": "Dream Fighter",
   "artist": "Perfume",
-  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=4",
   "source": "suiuishino.js"
@@ -5320,7 +5320,7 @@ window.SONG_DATA.push(
     {
   "title": "ワンルーム・ディスコ",
   "artist": "Perfume",
-  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=5",
   "source": "suiuishino.js"
@@ -5328,7 +5328,7 @@ window.SONG_DATA.push(
     {
   "title": "不自然なガール",
   "artist": "Perfume",
-  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=6",
   "source": "suiuishino.js"
@@ -5336,7 +5336,7 @@ window.SONG_DATA.push(
     {
   "title": "Spending all my time",
   "artist": "Perfume",
-  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=7",
   "source": "suiuishino.js"
@@ -5344,7 +5344,7 @@ window.SONG_DATA.push(
     {
   "title": "ねぇ",
   "artist": "Perfume",
-  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=8",
   "source": "suiuishino.js"
@@ -5352,7 +5352,7 @@ window.SONG_DATA.push(
     {
   "title": "パーフェクトスター・パーフェクトスタイル",
   "artist": "Perfume",
-  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=9",
   "source": "suiuishino.js"
@@ -5360,7 +5360,7 @@ window.SONG_DATA.push(
     {
   "title": "ナチュラルに恋して",
   "artist": "Perfume",
-  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=10",
   "source": "suiuishino.js"
@@ -5368,7 +5368,7 @@ window.SONG_DATA.push(
     {
   "title": "コンピューターシティ",
   "artist": "Perfume",
-  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=11",
   "source": "suiuishino.js"
@@ -5376,7 +5376,7 @@ window.SONG_DATA.push(
     {
   "title": "SEVENTH HEAVEN",
   "artist": "Perfume",
-  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=12",
   "source": "suiuishino.js"
@@ -5384,7 +5384,7 @@ window.SONG_DATA.push(
     {
   "title": "セラミックガール",
   "artist": "Perfume",
-  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=13",
   "source": "suiuishino.js"
@@ -5392,7 +5392,7 @@ window.SONG_DATA.push(
     {
   "title": "マカロニ",
   "artist": "Perfume",
-  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=14",
   "source": "suiuishino.js"
@@ -5400,7 +5400,7 @@ window.SONG_DATA.push(
     {
   "title": "love the world",
   "artist": "Perfume",
-  "collection": "歌切 2026-10-04 翠雨 しの Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】 SABSnqf_HOA",
+  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=15",
   "source": "suiuishino.js"
