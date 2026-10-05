@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 10/5/2026, 8:10:28 AM
+// 生成时间: 10/5/2026, 9:14:41 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -41659,6 +41659,758 @@ window.SONG_DATA.push(
   "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "01.Love so sweet",
+  "artist": "嵐",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "キミがいれば",
+  "artist": "いおり",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさＰ feat 初音ミク",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Mrs Pumpkinの滑稽な夢",
+  "artist": "HACHI feat.初音ミク",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ODDS&ENDS",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋愛フィロソフィア",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ただいま",
+  "artist": "手嶌葵",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "DANZEN！ふたりはプリキュア",
+  "artist": "Mayumi Gojo",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Northern Lights",
+  "artist": "林原めぐみ",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Brave Heart",
+  "artist": "林原めぐみ",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Over Soul",
+  "artist": "林原めぐみ",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "タッチ",
+  "artist": "岩崎良美",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "悲しみをやさしさに",
+  "artist": "little by little",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "かくれんぼ",
+  "artist": "AliA",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "旅の途中",
+  "artist": "清浦夏実",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "舞風",
+  "artist": "吉岡亜衣加",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ねぇ",
+  "artist": "藤田麻衣子",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ねぇ、どろどろさん",
+  "artist": "YASUHIRO(康寛) feat.鏡音リン",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "茅蜩モラトリアム",
+  "artist": "れるりり feat. GUMI",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "リンカーネイション",
+  "artist": "kemu feat.GUMI・鏡音リン",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "涙そうそう",
+  "artist": "夏川りみ",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "COLORS",
+  "artist": "FLOW",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "ヨルシカ feat.初音ミク",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=25",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。    ）",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "輝夜の城で踊りたい",
+  "artist": "μ's",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "太陽曰く燃えよカオス",
+  "artist": "後ろから這いより隊G",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ラピスラズリ",
+  "artist": "藍井エイル",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Go!!!",
+  "artist": "FLOW",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "優しい彗星",
+  "artist": "YOASOBI",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "めざせポケモンマスター",
+  "artist": "松本梨香",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "I♥U",
+  "artist": "THE★SCANTY",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "希望峰",
+  "artist": "Strawberry JAM",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "鯨",
+  "artist": "Buzy",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢地図",
+  "artist": "40㍍ feat. GUMI",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "暗黒の翼",
+  "artist": "レディ･バット(小林沙苗)",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Letter Song",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "時の歌",
+  "artist": "手嶌葵",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "瑠璃色の地球",
+  "artist": "松田聖子",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さよならの夏~コクリコ坂から~",
+  "artist": "手嶌葵",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "優しい彗星",
+  "artist": "YOASOBI",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "僕の心をつくってよ",
+  "artist": "平井 堅",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "いとしき日々よ",
+  "artist": "平井 堅",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "瞳をとじて",
+  "artist": "平井 堅",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "もののけ姫",
+  "artist": "米良美一",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ODDS&ENDS",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "想い咲く時",
+  "artist": "アオイエマ",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "時には昔の話を",
+  "artist": "加藤登紀子",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "パート・オブ・ユア・ワールド",
+  "artist": "すずきまゆみ",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "桜日和",
+  "artist": "星村麻衣",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夏夕空",
+  "artist": "中 孝介",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "花は咲く",
+  "artist": "花は咲くプロジェクト",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "海の声",
+  "artist": "浦島太郎(桐谷健太)",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "世界に一つだけの花",
+  "artist": "SMAP",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アントワネットブルー",
+  "artist": "北出菜奈",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Legend of Mermaid",
+  "artist": "七海るちあ（CV. 中田あすみ）寶生波音（CV. 寺門仁美）洞院リナ（CV. 淺野まゆみ）",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "だいしきゅーだいしゅき",
+  "artist": "femme fatale",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "PARADOX",
+  "artist": "雨宮天",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ニホンノミカタ －ネバダカラキマシタ－",
+  "artist": "矢島美容室",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "てぃーてぃーてぃーてれっててれてぃてぃてぃ〜だれのケツ〜",
+  "artist": "舞祭組",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑ feat. 初音ミク",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "初音ミク(40㍍)",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "マトリョシカ",
+  "artist": "HACHI feat. 初音ミク・GUMI",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "桜日和とタイムマシン",
+  "artist": "Ado with 初音ミク",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋愛フィロソフィア",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "サンドリヨン",
+  "artist": "シグナルP feat.KAITO&MIKU",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "ヨルシカ feat.初音ミク",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "トルコ行進曲 オワタ＼^o^／",
+  "artist": "オワタP feat.初音ミク",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "須田景凪 feat.flower",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "remember",
+  "artist": "Uru",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "接力： 紅蓮華  マツケンサンバⅡ  悪魔の子  渡月橋～君想ふ～  天城越え",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EGGZzCEej?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "マツケンサンバⅡ",
+  "artist": "松平健",
+  "collection": "接力： 紅蓮華  マツケンサンバⅡ  悪魔の子  渡月橋～君想ふ～  天城越え",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EGGZzCEej?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "接力： 紅蓮華  マツケンサンバⅡ  悪魔の子  渡月橋～君想ふ～  天城越え",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EGGZzCEej?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "渡月橋～君想ふ～",
+  "artist": "倉木麻衣",
+  "collection": "接力： 紅蓮華  マツケンサンバⅡ  悪魔の子  渡月橋～君想ふ～  天城越え",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EGGZzCEej?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "天城越え",
+  "artist": "石川さゆり",
+  "collection": "接力： 紅蓮華  マツケンサンバⅡ  悪魔の子  渡月橋～君想ふ～  天城越え",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EGGZzCEej?p=5",
   "source": "yoshika.js"
 }
 );

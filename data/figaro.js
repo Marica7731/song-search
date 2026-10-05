@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 10/5/2026, 8:01:41 AM
+// 生成时间: 10/5/2026, 9:08:25 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12182,6 +12182,142 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "しっとり睡眠導入歌回🌙 すやラジ #215【 Vtuber 】【 2025年3月23日歌枠】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tpZNY1EtD?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "しっとり睡眠導入歌回🌙 すやラジ #215【 Vtuber 】【 2025年3月23日歌枠】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tpZNY1EtD?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz",
+  "collection": "しっとり睡眠導入歌回🌙 すやラジ #215【 Vtuber 】【 2025年3月23日歌枠】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tpZNY1EtD?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "すずめ",
+  "artist": "RADWIMPS",
+  "collection": "しっとり睡眠導入歌回🌙 すやラジ #215【 Vtuber 】【 2025年3月23日歌枠】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tpZNY1EtD?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "しっとり睡眠導入歌回🌙 すやラジ #215【 Vtuber 】【 2025年3月23日歌枠】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tpZNY1EtD?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "雛鳥",
+  "artist": "花譜",
+  "collection": "しっとり睡眠導入歌回🌙 すやラジ #215【 Vtuber 】【 2025年3月23日歌枠】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tpZNY1EtD?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "しっとり睡眠導入歌回🌙 すやラジ #215【 Vtuber 】【 2025年3月23日歌枠】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tpZNY1EtD?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "手紙 ～拝啓 十五の君へ～",
+  "artist": "Angela Aki",
+  "collection": "しっとり睡眠導入歌回🌙 すやラジ #215【 Vtuber 】【 2025年3月23日歌枠】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tpZNY1EtD?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "サクラ色",
+  "artist": "Angela Aki",
+  "collection": "しっとり睡眠導入歌回🌙 すやラジ #215【 Vtuber 】【 2025年3月23日歌枠】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tpZNY1EtD?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "さくら（独唱）",
+  "artist": "森山直太朗",
+  "collection": "しっとり睡眠導入歌回🌙 すやラジ #215【 Vtuber 】【 2025年3月23日歌枠】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tpZNY1EtD?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "しっとり睡眠導入歌回🌙 すやラジ #215【 Vtuber 】【 2025年3月23日歌枠】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tpZNY1EtD?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "しっとり睡眠導入歌回🌙 すやラジ #215【 Vtuber 】【 2025年3月23日歌枠】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tpZNY1EtD?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "しっとり睡眠導入歌回🌙 すやラジ #215【 Vtuber 】【 2025年3月23日歌枠】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tpZNY1EtD?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "はるのとなり",
+  "artist": "佐々木恵梨",
+  "collection": "しっとり睡眠導入歌回🌙 すやラジ #215【 Vtuber 】【 2025年3月23日歌枠】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tpZNY1EtD?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "Squall",
+  "artist": "福山雅治",
+  "collection": "しっとり睡眠導入歌回🌙 すやラジ #215【 Vtuber 】【 2025年3月23日歌枠】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tpZNY1EtD?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "側にいて",
+  "artist": "阿部真央",
+  "collection": "しっとり睡眠導入歌回🌙 すやラジ #215【 Vtuber 】【 2025年3月23日歌枠】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tpZNY1EtD?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "対象a",
+  "artist": "anNina",
+  "collection": "しっとり睡眠導入歌回🌙 すやラジ #215【 Vtuber 】【 2025年3月23日歌枠】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tpZNY1EtD?p=17",
+  "source": "figaro.js"
+},
+    {
   "title": "M",
   "artist": "浜崎あゆみ",
   "collection": "【 #Vsinger Figaro】青春の2000年代J-POP🎤あの頃に戻る夜(?)【#歌枠】",
@@ -12371,6 +12507,150 @@ window.SONG_DATA.push(
   "collection": "【 #Vsinger Figaro】青春の2000年代J-POP🎤あの頃に戻る夜(?)【#歌枠】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GqooYPEow?p=24",
+  "source": "figaro.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【 #歌枠 KARAOKE 】まったり睡眠導入歌回 - Calm Night Songs 🌙 すやラジ #216【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12GZHY4EyB?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【 #歌枠 KARAOKE 】まったり睡眠導入歌回 - Calm Night Songs 🌙 すやラジ #216【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12GZHY4EyB?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【 #歌枠 KARAOKE 】まったり睡眠導入歌回 - Calm Night Songs 🌙 すやラジ #216【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12GZHY4EyB?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "W/X/Y",
+  "artist": "Tani Yuuki",
+  "collection": "【 #歌枠 KARAOKE 】まったり睡眠導入歌回 - Calm Night Songs 🌙 すやラジ #216【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12GZHY4EyB?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "Awesome City Club「勿忘」 (电影《花束般的恋爱》印象曲)",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "【 #歌枠 KARAOKE 】まったり睡眠導入歌回 - Calm Night Songs 🌙 すやラジ #216【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12GZHY4EyB?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "心のそばに",
+  "artist": "Belle",
+  "collection": "【 #歌枠 KARAOKE 】まったり睡眠導入歌回 - Calm Night Songs 🌙 すやラジ #216【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12GZHY4EyB?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【 #歌枠 KARAOKE 】まったり睡眠導入歌回 - Calm Night Songs 🌙 すやラジ #216【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12GZHY4EyB?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "裸の心",
+  "artist": "あいみょん",
+  "collection": "【 #歌枠 KARAOKE 】まったり睡眠導入歌回 - Calm Night Songs 🌙 すやラジ #216【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12GZHY4EyB?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "おだやかな暮らし",
+  "artist": "おおはた雄一",
+  "collection": "【 #歌枠 KARAOKE 】まったり睡眠導入歌回 - Calm Night Songs 🌙 すやラジ #216【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12GZHY4EyB?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "サーカスナイト",
+  "artist": "七尾旅人",
+  "collection": "【 #歌枠 KARAOKE 】まったり睡眠導入歌回 - Calm Night Songs 🌙 すやラジ #216【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12GZHY4EyB?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "シリウスの心臓",
+  "artist": "ヰ世界情緒",
+  "collection": "【 #歌枠 KARAOKE 】まったり睡眠導入歌回 - Calm Night Songs 🌙 すやラジ #216【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12GZHY4EyB?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【 #歌枠 KARAOKE 】まったり睡眠導入歌回 - Calm Night Songs 🌙 すやラジ #216【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12GZHY4EyB?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "木蓮の涙",
+  "artist": "スターダスト☆レビュー",
+  "collection": "【 #歌枠 KARAOKE 】まったり睡眠導入歌回 - Calm Night Songs 🌙 すやラジ #216【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12GZHY4EyB?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街彗星",
+  "collection": "【 #歌枠 KARAOKE 】まったり睡眠導入歌回 - Calm Night Songs 🌙 すやラジ #216【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12GZHY4EyB?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "花瓶の花",
+  "artist": "石崎ひゅーい",
+  "collection": "【 #歌枠 KARAOKE 】まったり睡眠導入歌回 - Calm Night Songs 🌙 すやラジ #216【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12GZHY4EyB?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "いつも何度でも",
+  "artist": "木村弓",
+  "collection": "【 #歌枠 KARAOKE 】まったり睡眠導入歌回 - Calm Night Songs 🌙 すやラジ #216【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12GZHY4EyB?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【 #歌枠 KARAOKE 】まったり睡眠導入歌回 - Calm Night Songs 🌙 すやラジ #216【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12GZHY4EyB?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【 #歌枠 KARAOKE 】まったり睡眠導入歌回 - Calm Night Songs 🌙 すやラジ #216【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12GZHY4EyB?p=18",
   "source": "figaro.js"
 },
     {
@@ -13934,6 +14214,142 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
+  "title": "変わらないもの",
+  "artist": "奧華子",
+  "collection": "【すやラジ #221】眠れない夜に。しっとり癒しの睡眠導入歌配信｜【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16cEoz9ESz?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【すやラジ #221】眠れない夜に。しっとり癒しの睡眠導入歌配信｜【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16cEoz9ESz?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "月光浴",
+  "artist": "ヨルシカ",
+  "collection": "【すやラジ #221】眠れない夜に。しっとり癒しの睡眠導入歌配信｜【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16cEoz9ESz?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "【すやラジ #221】眠れない夜に。しっとり癒しの睡眠導入歌配信｜【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16cEoz9ESz?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【すやラジ #221】眠れない夜に。しっとり癒しの睡眠導入歌配信｜【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16cEoz9ESz?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【すやラジ #221】眠れない夜に。しっとり癒しの睡眠導入歌配信｜【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16cEoz9ESz?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "四角革命",
+  "artist": "相対性理論",
+  "collection": "【すやラジ #221】眠れない夜に。しっとり癒しの睡眠導入歌配信｜【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16cEoz9ESz?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "六月は雨上がりの街を書く",
+  "artist": "ヨルシカ",
+  "collection": "【すやラジ #221】眠れない夜に。しっとり癒しの睡眠導入歌配信｜【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16cEoz9ESz?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP",
+  "collection": "【すやラジ #221】眠れない夜に。しっとり癒しの睡眠導入歌配信｜【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16cEoz9ESz?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "すずめ",
+  "artist": "RADWIMPS",
+  "collection": "【すやラジ #221】眠れない夜に。しっとり癒しの睡眠導入歌配信｜【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16cEoz9ESz?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "フクロウ~フクロウが知らせる客が来たと~",
+  "artist": "KOKIA",
+  "collection": "【すやラジ #221】眠れない夜に。しっとり癒しの睡眠導入歌配信｜【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16cEoz9ESz?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "テロメアの産声",
+  "artist": "Heavenz",
+  "collection": "【すやラジ #221】眠れない夜に。しっとり癒しの睡眠導入歌配信｜【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16cEoz9ESz?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【すやラジ #221】眠れない夜に。しっとり癒しの睡眠導入歌配信｜【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16cEoz9ESz?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "灰色と青",
+  "artist": "米津玄師 & 菅田将暉",
+  "collection": "【すやラジ #221】眠れない夜に。しっとり癒しの睡眠導入歌配信｜【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16cEoz9ESz?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【すやラジ #221】眠れない夜に。しっとり癒しの睡眠導入歌配信｜【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16cEoz9ESz?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "from Y to Y",
+  "artist": "ジミーサムP",
+  "collection": "【すやラジ #221】眠れない夜に。しっとり癒しの睡眠導入歌配信｜【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16cEoz9ESz?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "シリウスの心臓",
+  "artist": "ヰ世界情緒",
+  "collection": "【すやラジ #221】眠れない夜に。しっとり癒しの睡眠導入歌配信｜【 Vtuber 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16cEoz9ESz?p=17",
+  "source": "figaro.js"
+},
+    {
   "title": "DRAMA",
   "artist": "SODA KIT",
   "collection": "【Figaro】SODA KIT原创曲コンプリート歌枠🎉全曲カバーで魅せる！",
@@ -14702,6 +15118,254 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
+  "title": "老人と海",
+  "artist": "ヨルシカ",
+  "collection": "【 #歌枠 / karaoke 】ランチタイムに癒しの歌声を🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jQMSzgEEH?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【 #歌枠 / karaoke 】ランチタイムに癒しの歌声を🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jQMSzgEEH?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【 #歌枠 / karaoke 】ランチタイムに癒しの歌声を🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jQMSzgEEH?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "【 #歌枠 / karaoke 】ランチタイムに癒しの歌声を🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jQMSzgEEH?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "真生活",
+  "artist": "案山子",
+  "collection": "【 #歌枠 / karaoke 】ランチタイムに癒しの歌声を🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jQMSzgEEH?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【 #歌枠 / karaoke 】ランチタイムに癒しの歌声を🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jQMSzgEEH?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【 #歌枠 / karaoke 】ランチタイムに癒しの歌声を🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jQMSzgEEH?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【 #歌枠 / karaoke 】ランチタイムに癒しの歌声を🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jQMSzgEEH?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "夏色",
+  "artist": "ゆず",
+  "collection": "【 #歌枠 / karaoke 】ランチタイムに癒しの歌声を🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jQMSzgEEH?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "海の幽霊",
+  "artist": "米津玄師",
+  "collection": "【 #歌枠 / karaoke 】ランチタイムに癒しの歌声を🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jQMSzgEEH?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "【 #歌枠 / karaoke 】ランチタイムに癒しの歌声を🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jQMSzgEEH?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【 #歌枠 / karaoke 】ランチタイムに癒しの歌声を🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jQMSzgEEH?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "キセキ",
+  "artist": "GReeeeN",
+  "collection": "【 #歌枠 / karaoke 】ランチタイムに癒しの歌声を🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jQMSzgEEH?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "【 #歌枠 / karaoke 】ランチタイムに癒しの歌声を🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jQMSzgEEH?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "手紙 ～拝啓 十五の君へ～",
+  "artist": "Angela Aki",
+  "collection": "【 #歌枠 / karaoke 】ランチタイムに癒しの歌声を🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jQMSzgEEH?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "晚餐歌",
+  "artist": "tuki.",
+  "collection": "【 #歌枠 / karaoke 】ランチタイムに癒しの歌声を🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jQMSzgEEH?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "フロントメモリー",
+  "artist": "鈴木瑛美子 × 亀田誠治",
+  "collection": "【 #歌枠 / karaoke 】ランチタイムに癒しの歌声を🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jQMSzgEEH?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "うたかた花火",
+  "artist": "supercell",
+  "collection": "【 #歌枠 / karaoke 】ランチタイムに癒しの歌声を🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jQMSzgEEH?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "【 #歌枠 / karaoke 】ランチタイムに癒しの歌声を🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jQMSzgEEH?p=19",
+  "source": "figaro.js"
+},
+    {
+  "title": "逃亡",
+  "artist": "ヨルシカ",
+  "collection": "【 #癒し / #深夜配信 】眠れない夜にそっと寄り添う、やさしい歌の時間【歌枠 / Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VWMhz2E2E?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【 #癒し / #深夜配信 】眠れない夜にそっと寄り添う、やさしい歌の時間【歌枠 / Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VWMhz2E2E?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "恋風",
+  "artist": "幾田りら",
+  "collection": "【 #癒し / #深夜配信 】眠れない夜にそっと寄り添う、やさしい歌の時間【歌枠 / Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VWMhz2E2E?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "星の消えた夜に",
+  "artist": "Aimer",
+  "collection": "【 #癒し / #深夜配信 】眠れない夜にそっと寄り添う、やさしい歌の時間【歌枠 / Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VWMhz2E2E?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "【 #癒し / #深夜配信 】眠れない夜にそっと寄り添う、やさしい歌の時間【歌枠 / Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VWMhz2E2E?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【 #癒し / #深夜配信 】眠れない夜にそっと寄り添う、やさしい歌の時間【歌枠 / Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VWMhz2E2E?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
+  "collection": "【 #癒し / #深夜配信 】眠れない夜にそっと寄り添う、やさしい歌の時間【歌枠 / Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VWMhz2E2E?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "対象a",
+  "artist": "anNina",
+  "collection": "【 #癒し / #深夜配信 】眠れない夜にそっと寄り添う、やさしい歌の時間【歌枠 / Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VWMhz2E2E?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P",
+  "collection": "【 #癒し / #深夜配信 】眠れない夜にそっと寄り添う、やさしい歌の時間【歌枠 / Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VWMhz2E2E?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "約束をしよう",
+  "artist": "supercell",
+  "collection": "【 #癒し / #深夜配信 】眠れない夜にそっと寄り添う、やさしい歌の時間【歌枠 / Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VWMhz2E2E?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【 #癒し / #深夜配信 】眠れない夜にそっと寄り添う、やさしい歌の時間【歌枠 / Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VWMhz2E2E?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "君が夜の海に還るまで",
+  "artist": "キタニタツヤ",
+  "collection": "【 #癒し / #深夜配信 】眠れない夜にそっと寄り添う、やさしい歌の時間【歌枠 / Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VWMhz2E2E?p=12",
+  "source": "figaro.js"
+},
+    {
   "title": "秒針を噛む",
   "artist": "ずっと真夜中でいいのに。",
   "collection": "【 #歌枠 / KARAOKE 】一息つける歌、そろえておきました。【Figaro / Vtuber】",
@@ -14979,6 +15643,254 @@ window.SONG_DATA.push(
   "collection": "【 #歌枠 / KARAOKE 】夜も暑いので少し涼んでいきません？【Figaro / Vtuber】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tiKrzhEHv?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【 #歌枠 / karaoke 】夜風にぴったりなうた、届けます💍 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mzKrzbEFF?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "幽霊東京",
+  "artist": "Ayase",
+  "collection": "【 #歌枠 / karaoke 】夜風にぴったりなうた、届けます💍 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mzKrzbEFF?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "シネマ",
+  "artist": "Ayase",
+  "collection": "【 #歌枠 / karaoke 】夜風にぴったりなうた、届けます💍 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mzKrzbEFF?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "ドラマツルギー",
+  "artist": "Eve",
+  "collection": "【 #歌枠 / karaoke 】夜風にぴったりなうた、届けます💍 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mzKrzbEFF?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "勘ぐれい",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【 #歌枠 / karaoke 】夜風にぴったりなうた、届けます💍 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mzKrzbEFF?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "ハゼ馳せる果てるまで",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【 #歌枠 / karaoke 】夜風にぴったりなうた、届けます💍 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mzKrzbEFF?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "ワンルーム・オール・ザット・ジャズ",
+  "artist": "DATEKEN",
+  "collection": "【 #歌枠 / karaoke 】夜風にぴったりなうた、届けます💍 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mzKrzbEFF?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "カガリビト",
+  "artist": "millstones",
+  "collection": "【 #歌枠 / karaoke 】夜風にぴったりなうた、届けます💍 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mzKrzbEFF?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "ワールド・ランプシェード",
+  "artist": "buzzG",
+  "collection": "【 #歌枠 / karaoke 】夜風にぴったりなうた、届けます💍 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mzKrzbEFF?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "眩暈",
+  "artist": "鬼束ちひろ",
+  "collection": "【 #歌枠 / karaoke 】夜風にぴったりなうた、届けます💍 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mzKrzbEFF?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【 #歌枠 / karaoke 】夜風にぴったりなうた、届けます💍 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mzKrzbEFF?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "盗作",
+  "artist": "ヨルシカ",
+  "collection": "【 #歌枠 / karaoke 】夜風にぴったりなうた、届けます💍 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mzKrzbEFF?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "昼鳶",
+  "artist": "ヨルシカ",
+  "collection": "【 #歌枠 / karaoke 】夜風にぴったりなうた、届けます💍 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mzKrzbEFF?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【 #歌枠 / karaoke 】夜風にぴったりなうた、届けます💍 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mzKrzbEFF?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【 #歌枠 / karaoke 】夜風にぴったりなうた、届けます💍 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mzKrzbEFF?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "【 #歌枠 / karaoke 】夜風にぴったりなうた、届けます💍 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mzKrzbEFF?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "さよーならまたいつか！",
+  "artist": "米津玄師",
+  "collection": "【 #歌枠 / karaoke 】夜風にぴったりなうた、届けます💍 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mzKrzbEFF?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "朱色の砂浜",
+  "artist": "みきとP",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "海の幽霊",
+  "artist": "米津玄師",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "翡翠のまち",
+  "artist": "メル",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "Shout Baby",
+  "artist": "緑黄色社会",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "ばらの花",
+  "artist": "くるり",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "メトロノーム",
+  "artist": "米津玄師",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "曖昧劣情Lover",
+  "artist": "電ポルP",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "Squall",
+  "artist": "福山雅治",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "心に穴が空いた",
+  "artist": "ヨルシカ",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=14",
   "source": "figaro.js"
 },
     {
@@ -15395,6 +16307,166 @@ window.SONG_DATA.push(
   "collection": "【 #歌枠 / KARAOKE 】元気なアニソンはお好きですか？【Figaro / Vtuber】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FYMRzZE1n?p=19",
+  "source": "figaro.js"
+},
+    {
+  "title": "ワンルーム・オール・ザット・ジャズ",
+  "artist": "DATEKEN",
+  "collection": "【 #歌枠 / karaoke 】ボカロを楽しむ週末のお昼🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYuYzGEEb?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "フリィダム ロリィタ",
+  "artist": "ねじ式",
+  "collection": "【 #歌枠 / karaoke 】ボカロを楽しむ週末のお昼🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYuYzGEEb?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "from Y to Y",
+  "artist": "ジミーサムP",
+  "collection": "【 #歌枠 / karaoke 】ボカロを楽しむ週末のお昼🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYuYzGEEb?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP",
+  "collection": "【 #歌枠 / karaoke 】ボカロを楽しむ週末のお昼🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYuYzGEEb?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "ラグトレイン",
+  "artist": "稲葉曇",
+  "collection": "【 #歌枠 / karaoke 】ボカロを楽しむ週末のお昼🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYuYzGEEb?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "DOGMA",
+  "artist": "wotaku",
+  "collection": "【 #歌枠 / karaoke 】ボカロを楽しむ週末のお昼🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYuYzGEEb?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "脱法ロック",
+  "artist": "Neru",
+  "collection": "【 #歌枠 / karaoke 】ボカロを楽しむ週末のお昼🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYuYzGEEb?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "ルマ",
+  "artist": "かいりきベア",
+  "collection": "【 #歌枠 / karaoke 】ボカロを楽しむ週末のお昼🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYuYzGEEb?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "アウトサイダー",
+  "artist": "Eve",
+  "collection": "【 #歌枠 / karaoke 】ボカロを楽しむ週末のお昼🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYuYzGEEb?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "ドラマツルギー",
+  "artist": "Eve",
+  "collection": "【 #歌枠 / karaoke 】ボカロを楽しむ週末のお昼🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYuYzGEEb?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ",
+  "collection": "【 #歌枠 / karaoke 】ボカロを楽しむ週末のお昼🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYuYzGEEb?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "flos",
+  "artist": "R Sound Design",
+  "collection": "【 #歌枠 / karaoke 】ボカロを楽しむ週末のお昼🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYuYzGEEb?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "マーシャル・マキシマイザー",
+  "artist": "柊マグネタイト",
+  "collection": "【 #歌枠 / karaoke 】ボカロを楽しむ週末のお昼🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYuYzGEEb?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "オルターエゴ",
+  "artist": "Misumi",
+  "collection": "【 #歌枠 / karaoke 】ボカロを楽しむ週末のお昼🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYuYzGEEb?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "帝国少女",
+  "artist": "R Sound Design",
+  "collection": "【 #歌枠 / karaoke 】ボカロを楽しむ週末のお昼🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYuYzGEEb?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "ルーマー",
+  "artist": "ポリスピカデリー",
+  "collection": "【 #歌枠 / karaoke 】ボカロを楽しむ週末のお昼🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYuYzGEEb?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工",
+  "collection": "【 #歌枠 / karaoke 】ボカロを楽しむ週末のお昼🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYuYzGEEb?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "Sunny Wave",
+  "artist": "GYARI",
+  "collection": "【 #歌枠 / karaoke 】ボカロを楽しむ週末のお昼🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYuYzGEEb?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "コバルトメモリーズ",
+  "artist": "はるまきごはん",
+  "collection": "【 #歌枠 / karaoke 】ボカロを楽しむ週末のお昼🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYuYzGEEb?p=19",
+  "source": "figaro.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん",
+  "collection": "【 #歌枠 / karaoke 】ボカロを楽しむ週末のお昼🌞 #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PYuYzGEEb?p=20",
   "source": "figaro.js"
 },
     {
@@ -16742,6 +17814,118 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
+  "title": "夜明けと蛍",
+  "artist": "ナブナ",
+  "collection": "【 #歌枠 / karaoke 】連休前の楽しい歌をお届け！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JqbTzGEcF?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "【 #歌枠 / karaoke 】連休前の楽しい歌をお届け！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JqbTzGEcF?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "蛍はいなかった",
+  "artist": "はるまきごはん",
+  "collection": "【 #歌枠 / karaoke 】連休前の楽しい歌をお届け！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JqbTzGEcF?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "第三の心臓",
+  "artist": "はるまきごはん",
+  "collection": "【 #歌枠 / karaoke 】連休前の楽しい歌をお届け！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JqbTzGEcF?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "僕と花",
+  "artist": "サカナクション",
+  "collection": "【 #歌枠 / karaoke 】連休前の楽しい歌をお届け！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JqbTzGEcF?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "三日月サンセット",
+  "artist": "サカナクション",
+  "collection": "【 #歌枠 / karaoke 】連休前の楽しい歌をお届け！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JqbTzGEcF?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "シンデレラ",
+  "artist": "椿屋四重奏",
+  "collection": "【 #歌枠 / karaoke 】連休前の楽しい歌をお届け！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JqbTzGEcF?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【 #歌枠 / karaoke 】連休前の楽しい歌をお届け！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JqbTzGEcF?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "キセキ",
+  "artist": "GReeeeN",
+  "collection": "【 #歌枠 / karaoke 】連休前の楽しい歌をお届け！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JqbTzGEcF?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "【 #歌枠 / karaoke 】連休前の楽しい歌をお届け！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JqbTzGEcF?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【 #歌枠 / karaoke 】連休前の楽しい歌をお届け！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JqbTzGEcF?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "新宝島",
+  "artist": "サカナクション",
+  "collection": "【 #歌枠 / karaoke 】連休前の楽しい歌をお届け！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JqbTzGEcF?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "白い恋人達",
+  "artist": "桑田佳祐",
+  "collection": "【 #歌枠 / karaoke 】連休前の楽しい歌をお届け！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JqbTzGEcF?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "夏の半券",
+  "artist": "みきとP",
+  "collection": "【 #歌枠 / karaoke 】連休前の楽しい歌をお届け！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JqbTzGEcF?p=14",
+  "source": "figaro.js"
+},
+    {
   "title": "修羅",
   "artist": "ヨルシカ",
   "collection": "【#歌枠/#KARAOKE】#232 涼しい歌声はこちら🎐 Singing Stream🌙 【 Figaro Vtuber 】",
@@ -17435,6 +18619,118 @@ window.SONG_DATA.push(
   "collection": "夏末 3D 迷你演唱会 夏の終わり3Dミニライブ【 Figaro / VTuber 】01. 少女レイ",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A4YuzaEat?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "Wherever you are",
+  "artist": "ONE OK ROCK",
+  "collection": "【 #歌枠 / KARAOKE 】适合炎热夏天夜晚的歌曲。まだまだ暑い夜の歌。 Singing Stream 01. Wherever you are",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PxYuzAELM?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【 #歌枠 / KARAOKE 】适合炎热夏天夜晚的歌曲。まだまだ暑い夜の歌。 Singing Stream 01. Wherever you are",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PxYuzAELM?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "ふゆびより",
+  "artist": "佐々木恵梨",
+  "collection": "【 #歌枠 / KARAOKE 】适合炎热夏天夜晚的歌曲。まだまだ暑い夜の歌。 Singing Stream 01. Wherever you are",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PxYuzAELM?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "【 #歌枠 / KARAOKE 】适合炎热夏天夜晚的歌曲。まだまだ暑い夜の歌。 Singing Stream 01. Wherever you are",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PxYuzAELM?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "Limbo",
+  "artist": "春野",
+  "collection": "【 #歌枠 / KARAOKE 】适合炎热夏天夜晚的歌曲。まだまだ暑い夜の歌。 Singing Stream 01. Wherever you are",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PxYuzAELM?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "地獄先生",
+  "artist": "相対性理論",
+  "collection": "【 #歌枠 / KARAOKE 】适合炎热夏天夜晚的歌曲。まだまだ暑い夜の歌。 Singing Stream 01. Wherever you are",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PxYuzAELM?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "テレ東",
+  "artist": "相対性理論",
+  "collection": "【 #歌枠 / KARAOKE 】适合炎热夏天夜晚的歌曲。まだまだ暑い夜の歌。 Singing Stream 01. Wherever you are",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PxYuzAELM?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【 #歌枠 / KARAOKE 】适合炎热夏天夜晚的歌曲。まだまだ暑い夜の歌。 Singing Stream 01. Wherever you are",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PxYuzAELM?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "8.32",
+  "artist": "Luna",
+  "collection": "【 #歌枠 / KARAOKE 】适合炎热夏天夜晚的歌曲。まだまだ暑い夜の歌。 Singing Stream 01. Wherever you are",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PxYuzAELM?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "ないものねだり",
+  "artist": "KANA-BOON",
+  "collection": "【 #歌枠 / KARAOKE 】适合炎热夏天夜晚的歌曲。まだまだ暑い夜の歌。 Singing Stream 01. Wherever you are",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PxYuzAELM?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【 #歌枠 / KARAOKE 】适合炎热夏天夜晚的歌曲。まだまだ暑い夜の歌。 Singing Stream 01. Wherever you are",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PxYuzAELM?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜空ノムコウ",
+  "artist": "SMAP",
+  "collection": "【 #歌枠 / KARAOKE 】适合炎热夏天夜晚的歌曲。まだまだ暑い夜の歌。 Singing Stream 01. Wherever you are",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PxYuzAELM?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "真夏の果実",
+  "artist": "サザンオールスターズ",
+  "collection": "【 #歌枠 / KARAOKE 】适合炎热夏天夜晚的歌曲。まだまだ暑い夜の歌。 Singing Stream 01. Wherever you are",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PxYuzAELM?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "ナブナ",
+  "collection": "【 #歌枠 / KARAOKE 】适合炎热夏天夜晚的歌曲。まだまだ暑い夜の歌。 Singing Stream 01. Wherever you are",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PxYuzAELM?p=14",
   "source": "figaro.js"
 },
     {
