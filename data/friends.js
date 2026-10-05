@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 10/5/2026, 7:14:05 PM
+// 生成时间: 10/5/2026, 9:15:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4595,6 +4595,94 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-09-26 第一次和座敷わらび联动唱歌💛💫",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t9ah6JEiH?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "CH4NGE",
+  "artist": "Giga feat. 可不",
+  "collection": "联动歌切 2026-10-05 和最喜欢的ファム大人首次歌回联动！？！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w9H46qE4j?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "联动歌切 2026-10-05 和最喜欢的ファム大人首次歌回联动！？！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w9H46qE4j?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP feat. 鏡音リン",
+  "collection": "联动歌切 2026-10-05 和最喜欢的ファム大人首次歌回联动！？！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w9H46qE4j?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat. GUMI・鏡音リン",
+  "collection": "联动歌切 2026-10-05 和最喜欢的ファム大人首次歌回联动！？！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w9H46qE4j?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "联动歌切 2026-10-05 和最喜欢的ファム大人首次歌回联动！？！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w9H46qE4j?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "联动歌切 2026-10-05 和最喜欢的ファム大人首次歌回联动！？！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w9H46qE4j?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "サウダージ",
+  "artist": "ポルノグラフィティ",
+  "collection": "联动歌切 2026-10-05 和最喜欢的ファム大人首次歌回联动！？！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w9H46qE4j?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "19才",
+  "artist": "スガシカオ",
+  "collection": "联动歌切 2026-10-05 和最喜欢的ファム大人首次歌回联动！？！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w9H46qE4j?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "レディメイド",
+  "artist": "Ado",
+  "collection": "联动歌切 2026-10-05 和最喜欢的ファム大人首次歌回联动！？！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w9H46qE4j?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "阿修羅ちゃん",
+  "artist": "Ado",
+  "collection": "联动歌切 2026-10-05 和最喜欢的ファム大人首次歌回联动！？！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w9H46qE4j?p=10",
+  "source": "friends.js"
+},
+    {
+  "title": "少女S",
+  "artist": "SCANDAL",
+  "collection": "联动歌切 2026-10-05 和最喜欢的ファム大人首次歌回联动！？！？",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w9H46qE4j?p=11",
   "source": "friends.js"
 }
 );
