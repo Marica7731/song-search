@@ -1,106 +1,10 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 10/5/2026, 3:23:42 PM
+// 生成时间: 10/5/2026, 4:47:56 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
-    {
-  "title": "ウィーアー!",
-  "artist": "きただにひろし",
-  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ANGELUS -アンジェラス-",
-  "artist": "島谷ひとみ",
-  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "メリッサ",
-  "artist": "Porno Graffitti",
-  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "極楽浄土",
-  "artist": "GARNiDELiA",
-  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "鯨",
-  "artist": "Buzy",
-  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "負けないで",
-  "artist": "ZARD",
-  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=6",
-  "source": "yoshika.js"
-},
-    {
-  "title": "祝福",
-  "artist": "YOASOBI",
-  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=7",
-  "source": "yoshika.js"
-},
-    {
-  "title": "赤いスイートピー",
-  "artist": "松田聖子",
-  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=8",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Alright!",
-  "artist": "ハートキャッチプリキュア!池田彩",
-  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=9",
-  "source": "yoshika.js"
-},
-    {
-  "title": "心絵",
-  "artist": "ロードオブメジャー",
-  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=10",
-  "source": "yoshika.js"
-},
-    {
-  "title": "アントワネットブルー",
-  "artist": "北出菜奈",
-  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=11",
-  "source": "yoshika.js"
-},
-    {
-  "title": "かもめが翔んだ日",
-  "artist": "渡辺真知子",
-  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=12",
-  "source": "yoshika.js"
-},
     {
   "title": "COLORS",
   "artist": "FLOW",
@@ -219,126 +123,6 @@ window.SONG_DATA.push(
   "collection": "【Yoshika】15横屏】COLORS-FLOW【2023年12月13日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Cw41177hA?p=15",
-  "source": "yoshika.js"
-},
-    {
-  "title": "COLORS",
-  "artist": "FLOW",
-  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "１・２・３",
-  "artist": "After the Rain(そらる × まふまふ)",
-  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "極楽浄土",
-  "artist": "GARNiDELiA",
-  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "可愛くなりたい",
-  "artist": "HoneyWorks feat.成海聖奈(CV.-雨宮天)",
-  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Love so sweet",
-  "artist": "嵐",
-  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "さよならの夏～コクリコ坂から～",
-  "artist": "手嶌葵",
-  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=6",
-  "source": "yoshika.js"
-},
-    {
-  "title": "破滅の純情",
-  "artist": "ワルキューレ",
-  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=7",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Butterfly Kiss",
-  "artist": "米倉千尋",
-  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=8",
-  "source": "yoshika.js"
-},
-    {
-  "title": "異邦人",
-  "artist": "久保田早紀",
-  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=9",
-  "source": "yoshika.js"
-},
-    {
-  "title": "空想メソロギヰ",
-  "artist": "妖精帝國",
-  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=10",
-  "source": "yoshika.js"
-},
-    {
-  "title": "偲芳歌",
-  "artist": "桑島 法子",
-  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=11",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Believe in tomorrow",
-  "artist": "Sunflower's Garden",
-  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=12",
-  "source": "yoshika.js"
-},
-    {
-  "title": "青のすみか",
-  "artist": "キタニタツヤ",
-  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=13",
-  "source": "yoshika.js"
-},
-    {
-  "title": "燈",
-  "artist": "崎山蒼志 咒术回战-怀玉·玉折 片尾曲",
-  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=14",
-  "source": "yoshika.js"
-},
-    {
-  "title": "メグメグ☆ファイアーエンドレスナイト",
-  "artist": "samfree feat.GUMI",
-  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=15",
   "source": "yoshika.js"
 },
     {
@@ -483,6 +267,398 @@ window.SONG_DATA.push(
   "collection": "【yoshika 】18横屏歌回】ウィーアー! 【2024年1月7日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sQ4y1w7sq?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "COLORS",
+  "artist": "FLOW",
+  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "１・２・３",
+  "artist": "After the Rain(そらる × まふまふ)",
+  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "極楽浄土",
+  "artist": "GARNiDELiA",
+  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "可愛くなりたい",
+  "artist": "HoneyWorks feat.成海聖奈(CV.-雨宮天)",
+  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Love so sweet",
+  "artist": "嵐",
+  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さよならの夏～コクリコ坂から～",
+  "artist": "手嶌葵",
+  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "破滅の純情",
+  "artist": "ワルキューレ",
+  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Butterfly Kiss",
+  "artist": "米倉千尋",
+  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "空想メソロギヰ",
+  "artist": "妖精帝國",
+  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "偲芳歌",
+  "artist": "桑島 法子",
+  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Believe in tomorrow",
+  "artist": "Sunflower's Garden",
+  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "燈",
+  "artist": "崎山蒼志 咒术回战-怀玉·玉折 片尾曲",
+  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "メグメグ☆ファイアーエンドレスナイト",
+  "artist": "samfree feat.GUMI",
+  "collection": "【yoshika 】14.5？横屏歌回】COLORS  FLOW【2023年12月21日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bb4y1P7wK?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ANGELUS -アンジェラス-",
+  "artist": "島谷ひとみ",
+  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "メリッサ",
+  "artist": "Porno Graffitti",
+  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "極楽浄土",
+  "artist": "GARNiDELiA",
+  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "鯨",
+  "artist": "Buzy",
+  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "負けないで",
+  "artist": "ZARD",
+  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Alright!",
+  "artist": "ハートキャッチプリキュア!池田彩",
+  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "心絵",
+  "artist": "ロードオブメジャー",
+  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アントワネットブルー",
+  "artist": "北出菜奈",
+  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "かもめが翔んだ日",
+  "artist": "渡辺真知子",
+  "collection": "【yoshika 】12横屏歌回】ウィーアー!  1【240117】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U64y1N7mx?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Love so sweet",
+  "artist": "嵐",
+  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Winter Bells",
+  "artist": "倉木麻衣",
+  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "コングラッCHU☆マーチ",
+  "artist": "ホロライブ桃鈴ねね",
+  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "粛聖!! ロリ神レクイエム☆",
+  "artist": "しぐれうい(9さい)",
+  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "美少女無罪♡パイレーツ",
+  "artist": "ホロライブ宝鐘マリン",
+  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Shiny Smily Story",
+  "artist": "ホロライブ",
+  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "だいしきゅーだいしゅき",
+  "artist": "femme fatale",
+  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気分上々↑↑",
+  "artist": "mihimaru GT",
+  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP Feat.初音ミク",
+  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "闇のBAROQUE -バロック-",
+  "artist": "土屋美紀、下屋則子(シェシェ、ミミ)",
+  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ループ",
+  "artist": "坂本真綾",
+  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢の続きへ",
+  "artist": "SURFACE",
+  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "想望",
+  "artist": "福山雅治",
+  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Amazing Grace",
+  "artist": "IL DIVO",
+  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シャルイース",
+  "artist": "ホロライブアキ・ローゼンタール",
+  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "magnet",
+  "artist": "流星P feat. 巡音ルカ × 初音ミク",
+  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "CLEAR",
+  "artist": "坂本真綾",
+  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona(CV-夏川椎菜)【HoneyWorks】",
+  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "§Rainbow",
+  "artist": "i☆Ris",
+  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=22",
   "source": "yoshika.js"
 },
     {
@@ -667,182 +843,6 @@ window.SONG_DATA.push(
   "collection": "【YOSHIKA⁂Ch.】23横屏】1-ハナミズキ、テルーの唄【2024年1月23日】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Lk4y1f7Cx?p=23",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Love so sweet",
-  "artist": "嵐",
-  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Winter Bells",
-  "artist": "倉木麻衣",
-  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "コングラッCHU☆マーチ",
-  "artist": "ホロライブ桃鈴ねね",
-  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "粛聖!! ロリ神レクイエム☆",
-  "artist": "しぐれうい(9さい)",
-  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "アイドル",
-  "artist": "YOASOBI",
-  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "美少女無罪♡パイレーツ",
-  "artist": "ホロライブ宝鐘マリン",
-  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=6",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Shiny Smily Story",
-  "artist": "ホロライブ",
-  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=7",
-  "source": "yoshika.js"
-},
-    {
-  "title": "だいしきゅーだいしゅき",
-  "artist": "femme fatale",
-  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=8",
-  "source": "yoshika.js"
-},
-    {
-  "title": "気分上々↑↑",
-  "artist": "mihimaru GT",
-  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=9",
-  "source": "yoshika.js"
-},
-    {
-  "title": "花の塔",
-  "artist": "さユり",
-  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=10",
-  "source": "yoshika.js"
-},
-    {
-  "title": "少女レイ",
-  "artist": "みきとP Feat.初音ミク",
-  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=11",
-  "source": "yoshika.js"
-},
-    {
-  "title": "闇のBAROQUE -バロック-",
-  "artist": "土屋美紀、下屋則子(シェシェ、ミミ)",
-  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=12",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ループ",
-  "artist": "坂本真綾",
-  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=13",
-  "source": "yoshika.js"
-},
-    {
-  "title": "夢の続きへ",
-  "artist": "SURFACE",
-  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=14",
-  "source": "yoshika.js"
-},
-    {
-  "title": "想望",
-  "artist": "福山雅治",
-  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=15",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Amazing Grace",
-  "artist": "IL DIVO",
-  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=16",
-  "source": "yoshika.js"
-},
-    {
-  "title": "シャルイース",
-  "artist": "ホロライブアキ・ローゼンタール",
-  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=17",
-  "source": "yoshika.js"
-},
-    {
-  "title": "magnet",
-  "artist": "流星P feat. 巡音ルカ × 初音ミク",
-  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=18",
-  "source": "yoshika.js"
-},
-    {
-  "title": "プラチナ",
-  "artist": "坂本真綾",
-  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=19",
-  "source": "yoshika.js"
-},
-    {
-  "title": "CLEAR",
-  "artist": "坂本真綾",
-  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=20",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ファンサ",
-  "artist": "mona(CV-夏川椎菜)【HoneyWorks】",
-  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=21",
-  "source": "yoshika.js"
-},
-    {
-  "title": "§Rainbow",
-  "artist": "i☆Ris",
-  "collection": "【22首横屏】【Yoshika歌切合集】[直播开始日期：2024年1月26日]2-4粛聖!! ロリ神レクイエム☆しぐれうい（9さい）",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Fk4y1f7vG?p=22",
   "source": "yoshika.js"
 },
     {
@@ -2158,102 +2158,6 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
-  "title": "ウィーアー!",
-  "artist": "きただにひろし",
-  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Rolling star",
-  "artist": "YUI",
-  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "キューティーハニー",
-  "artist": "前川陽子",
-  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "キミがいれば",
-  "artist": "いおり",
-  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "雪、無音、窓辺にて。",
-  "artist": "長門有希(CV.茅原実里) 『涼宮ハルヒの憂鬱』キャラクターソング",
-  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "世界に一つだけの花",
-  "artist": "SMAP",
-  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=6",
-  "source": "yoshika.js"
-},
-    {
-  "title": "となりのトトロ",
-  "artist": "井上あずみ",
-  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=7",
-  "source": "yoshika.js"
-},
-    {
-  "title": "only my railgun",
-  "artist": "fripSide",
-  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=8",
-  "source": "yoshika.js"
-},
-    {
-  "title": "残酷な天使のテーゼ",
-  "artist": "高橋洋子",
-  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=9",
-  "source": "yoshika.js"
-},
-    {
-  "title": "海の声",
-  "artist": "桐谷健太",
-  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=10",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ダイアの花",
-  "artist": "より子",
-  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=11",
-  "source": "yoshika.js"
-},
-    {
-  "title": "コッペリアの柩",
-  "artist": "ALI PROJECT",
-  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=12",
-  "source": "yoshika.js"
-},
-    {
   "title": "世界に一つだけの花",
   "artist": "SMAP",
   "collection": "【21首 0305 横屏】【 YOSHIKA⁂Ch.】01. 世界に一つだけの花",
@@ -2419,6 +2323,102 @@ window.SONG_DATA.push(
   "collection": "【21首 0305 横屏】【 YOSHIKA⁂Ch.】01. 世界に一つだけの花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fJ4m1a7qy?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "キューティーハニー",
+  "artist": "前川陽子",
+  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "キミがいれば",
+  "artist": "いおり",
+  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "雪、無音、窓辺にて。",
+  "artist": "長門有希(CV.茅原実里) 『涼宮ハルヒの憂鬱』キャラクターソング",
+  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "世界に一つだけの花",
+  "artist": "SMAP",
+  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "となりのトトロ",
+  "artist": "井上あずみ",
+  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "海の声",
+  "artist": "桐谷健太",
+  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ダイアの花",
+  "artist": "より子",
+  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "コッペリアの柩",
+  "artist": "ALI PROJECT",
+  "collection": "【12首 0304 竖屏】【 YOSHIKA⁂Ch.】01. ウィーアー!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xi421Z7Hy?p=12",
   "source": "yoshika.js"
 },
     {
@@ -6779,6 +6779,1782 @@ window.SONG_DATA.push(
   "collection": "【 YOSHIKA⁂Ch.🍠】30横屏】3D 正式亮相还有一周!🎉【240610】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1p442197Ht?p=30",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Love so sweet",
+  "artist": "嵐",
+  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ANGELUS -アンジェラス",
+  "artist": "島谷ひとみ",
+  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Catch You Catch Me",
+  "artist": "日向めぐみ",
+  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ソワレ",
+  "artist": "ホロライブ星街すいせい",
+  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "メイジ・オブ・ヴァイオレット",
+  "artist": "ホロライブ紫咲シオン",
+  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "デイ・ドリーム・ビリーバー",
+  "artist": "森川ココネ(高畑充希)",
+  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おどるポンポコリン",
+  "artist": "さくらももこ",
+  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アララの呪文",
+  "artist": "ちびまる子 & 爆チュー問題",
+  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ホワイトノイズ",
+  "artist": "Official髭男dism",
+  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "イエスタデイ",
+  "artist": "Official髭男dism",
+  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "海の声",
+  "artist": "浦島太郎(桐谷健太)",
+  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Love so sweet",
+  "artist": "嵐",
+  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おはよう。",
+  "artist": "Keno",
+  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "かもめが翔んだ日",
+  "artist": "渡辺真知子",
+  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "あっぱれ！馬鹿騒ぎ",
+  "artist": "i☆Ris",
+  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "COLORS",
+  "artist": "FLOW",
+  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さよならだけが人生だ",
+  "artist": "伊東歌詞太郎 feat.初音ミク",
+  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夏夕空",
+  "artist": "中 孝介",
+  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat 初音ミク",
+  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "紡唄",
+  "artist": "dateken feat.鏡音リン・レン",
+  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "燈",
+  "artist": "崎山蒼志",
+  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ただいま",
+  "artist": "手嶌葵",
+  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "会いたくて",
+  "artist": "Ado",
+  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アントワネットブルー",
+  "artist": "北出菜奈",
+  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "１・２・３",
+  "artist": "After the Rain（そらる×まふまふ）",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "十六夜涙",
+  "artist": "吉岡亜衣加",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "勇気100%",
+  "artist": "光GENJI",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "明日への扉",
+  "artist": "川嶋あい",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Butterfly Kiss",
+  "artist": "米倉千尋",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "舞風",
+  "artist": "吉岡亜衣加",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "雪、無音、窓辺にて。",
+  "artist": "茅原実里(長門有希)",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "CLEAR",
+  "artist": "坂本真綾",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Lacrimosa",
+  "artist": "Kalafina",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Myself",
+  "artist": "Changin' My Life",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "オーケストラ",
+  "artist": "BiSH",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "可愛くてごめん",
+  "artist": "HoneyWorks",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "糸",
+  "artist": "中島みゆき",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "星を仰ぐ",
+  "artist": "菅田将暉",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "桜日和",
+  "artist": "星村麻衣",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "YELL",
+  "artist": "いきものがかり",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風のゆくえ",
+  "artist": "Ado",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さよならの夏～コクリコ坂から～",
+  "artist": "手嶌葵",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ソワレ",
+  "artist": "ホロライブ星街すいせい",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "エンジョイ",
+  "artist": "Mey-chan",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シング・サイン・シンフォニー",
+  "artist": "よしか⁂",
+  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Pray",
+  "artist": "Tommy heavenly6",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さくらんぼ",
+  "artist": "大塚愛",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アルティメット☆MAGIC",
+  "artist": "i☆Ris",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "みちづれ",
+  "artist": "ホロライブ星街すいせい",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Shout Baby",
+  "artist": "緑黄色社会",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿偉功",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シル・ヴ・プレジデント",
+  "artist": "P丸様。",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋のヒメヒメぺったんこ",
+  "artist": "姫野湖鳥(CV田村ゆかり)",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ダイアの花",
+  "artist": "より子",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おさかな天国",
+  "artist": "柴矢裕美",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "月光花",
+  "artist": "Janne Da Arc",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(平野綾)",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "メイジ・オブ・ヴァイオレット",
+  "artist": "ホロライブ紫咲シオン",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おどるポンポコリン",
+  "artist": "さくらももこ",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バレンタイン・キッス",
+  "artist": "渡り廊下走り隊",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "西沢さんP feat.GUMI",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "粛聖!! ロリ神レクイエム☆",
+  "artist": "しぐれうい(9さい)",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "talkin' 2 myself",
+  "artist": "浜崎あゆみ",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=25",
+  "source": "yoshika.js"
+},
+    {
+  "title": "極楽浄土",
+  "artist": "GARNiDELiA",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=26",
+  "source": "yoshika.js"
+},
+    {
+  "title": "パンダヒーロー",
+  "artist": "HACHI",
+  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=27",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【 YOSHIKA⁂Ch. 】6横屏】3D披露LIVE【2024年6月16日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11a3xeTEzf?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "【 YOSHIKA⁂Ch. 】6横屏】3D披露LIVE【2024年6月16日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11a3xeTEzf?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ファンファーレ",
+  "artist": "よしか⁂",
+  "collection": "【 YOSHIKA⁂Ch. 】6横屏】3D披露LIVE【2024年6月16日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11a3xeTEzf?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "想望",
+  "artist": "福山雅治",
+  "collection": "【 YOSHIKA⁂Ch. 】6横屏】3D披露LIVE【2024年6月16日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11a3xeTEzf?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "ホロライブ星街すいせい",
+  "collection": "【 YOSHIKA⁂Ch. 】6横屏】3D披露LIVE【2024年6月16日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11a3xeTEzf?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シング・サイン・シンフォニー",
+  "artist": "よしか⁂",
+  "collection": "【 YOSHIKA⁂Ch. 】6横屏】3D披露LIVE【2024年6月16日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11a3xeTEzf?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Love so sweet",
+  "artist": "嵐",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "SAKURAスキップ",
+  "artist": "fourfolium（高田憂希／山口愛／戸田めぐみ／竹尾歩美）",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "AXIA～ダイスキでダイキライ",
+  "artist": "ワルキューレ",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Suspect",
+  "artist": "ホロライブロボ子アキ・ローゼンタール百鬼あやめ",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "エガオノキミへ",
+  "artist": "三森鈴子",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夕景イエスタデイ",
+  "artist": "じん",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Amazing Grace",
+  "artist": "IL DIVO",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Caro Mio Ben",
+  "artist": "G. Giordani",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シャルイース",
+  "artist": "ホロライブアキ・ローゼンタール",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "時には昔の話を",
+  "artist": "加藤登紀子",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Rose",
+  "artist": "Kaco",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "晴れのち夏の雨",
+  "artist": "シャーリー(折笠富美子)",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "私だけに",
+  "artist": "エリザベート",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "パート・オブ・ユア・ワールド",
+  "artist": "すずきまゆみ",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ホール・ニュー・ワールド",
+  "artist": "中村倫也×木下晴香",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "輝く未来",
+  "artist": "小此木麻里・畠中洋",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "愛の芽生え",
+  "artist": "美女と野獣",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "かくれんぼ",
+  "artist": "AliA",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Believe in tomorrow",
+  "artist": "Sunflower's Garden",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "鯨",
+  "artist": "Buzy",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=25",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢の続きへ",
+  "artist": "SURFACE",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=26",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Everything",
+  "artist": "MISIA",
+  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=27",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Love so sweet",
+  "artist": "嵐",
+  "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17qaLe1EeL?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(平野綾)",
+  "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17qaLe1EeL?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "会いに行くのに",
+  "artist": "あいみょん",
+  "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17qaLe1EeL?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "よろしく九九組",
+  "artist": "スタァライト九九組",
+  "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17qaLe1EeL?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ムーンライト伝説",
+  "artist": "DALI",
+  "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17qaLe1EeL?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Pray",
+  "artist": "Tommy heavenly6",
+  "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17qaLe1EeL?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "メグメグ☆ファイアーエンドレスナイト",
+  "artist": "samfree feat.GUMI",
+  "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17qaLe1EeL?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "みちづれ",
+  "artist": "ホロライブ星街すいせい",
+  "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17qaLe1EeL?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "勇気100%",
+  "artist": "光GENJI",
+  "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17qaLe1EeL?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "舞台少女心得",
+  "artist": "スタァライト九九組",
+  "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17qaLe1EeL?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気分上々↑↑",
+  "artist": "mihimaru GT",
+  "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17qaLe1EeL?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Suspect",
+  "artist": "ホロライブロボ子アキ・ローゼンタール百鬼あやめ",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "PARADOX",
+  "artist": "雨宮天",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "七色シンフォニー",
+  "artist": "コアラモード．",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "小悪魔だってかまわない!",
+  "artist": "HoneyWorks feat. 初音ミク",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "エンジョイ",
+  "artist": "Mey-chan",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Shiny Smily Story",
+  "artist": "ホロライブ",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Go!!!",
+  "artist": "FLOW",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Bling Bang Bang Born",
+  "artist": "Creepy Nuts",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "かくれんぼ",
+  "artist": "AliA",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アンパンマンのマーチ",
+  "artist": "ドリーミング",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おしえて",
+  "artist": "伊集加代子",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "unravel",
+  "artist": "凛として時雨",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "阿修羅ちゃん",
+  "artist": "Ado",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "安次嶺希和子",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "金曜日のおはよう",
+  "artist": "HoneyWorks feat. Gero",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "かくれんぼ",
+  "artist": "AliA",
+  "collection": "【YOSHIKA⁂Ch. 】5横屏】仲夏の最強V歌回接力 かくれんぼ、Butter-Fly、横顔【240712】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d7bteKEhK?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "【YOSHIKA⁂Ch. 】5横屏】仲夏の最強V歌回接力 かくれんぼ、Butter-Fly、横顔【240712】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d7bteKEhK?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "横顔",
+  "artist": "牧野由依",
+  "collection": "【YOSHIKA⁂Ch. 】5横屏】仲夏の最強V歌回接力 かくれんぼ、Butter-Fly、横顔【240712】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d7bteKEhK?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat. IA",
+  "collection": "【YOSHIKA⁂Ch. 】5横屏】仲夏の最強V歌回接力 かくれんぼ、Butter-Fly、横顔【240712】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d7bteKEhK?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "あっぱれ！馬鹿騒ぎ",
+  "artist": "i☆Ris",
+  "collection": "【YOSHIKA⁂Ch. 】5横屏】仲夏の最強V歌回接力 かくれんぼ、Butter-Fly、横顔【240712】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d7bteKEhK?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "学園天国",
+  "artist": "Dream5",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Love so sweet",
+  "artist": "嵐",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "会いに行くのに",
+  "artist": "あいみょん",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "涙そうそう",
+  "artist": "夏川りみ",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ちゃんとあるよ",
+  "artist": "傘村トータ feat. 可不",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "For フルーツバスケット",
+  "artist": "岡崎律子",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "横顔",
+  "artist": "牧野由依",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "時には昔の話を",
+  "artist": "加藤登紀子",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "みちしるべ",
+  "artist": "茅原實里",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ループ",
+  "artist": "坂本真綾",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "フクロウ ～フクロウが知らせる客が来たと",
+  "artist": "KOKIA",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "やさしさに包まれたなら",
+  "artist": "荒井由実",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さよならの夏～コクリコ坂から～",
+  "artist": "手嶌葵",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "明日への扉",
+  "artist": "川嶋あい",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Rose",
+  "artist": "Kaco",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=25",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "青春ライン",
+  "artist": "いきものがかり",
+  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Suspect",
+  "artist": "Hololive IDOL PROJECT",
+  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "メリッサ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "みちづれ",
+  "artist": "星街すいせい",
+  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "極楽浄土",
+  "artist": "GARNiDELiA",
+  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "departure!",
+  "artist": "小野正利",
+  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "想い咲く時",
+  "artist": "アオイエマ。",
+  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Cyclone",
+  "artist": "黒うさP",
+  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Falco -ファルコ-",
+  "artist": "島谷 ひとみ",
+  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Butterfly Kiss",
+  "artist": "米倉千尋",
+  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "負けないで",
+  "artist": "ZARD",
+  "collection": "【YOSHIKA⁂Ch.】11竖屏】台风早台【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RQe3eiE8p?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "メイジ・オブ・ヴァイオレット",
+  "artist": "紫咲シオン",
+  "collection": "【YOSHIKA⁂Ch.】11竖屏】台风早台【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RQe3eiE8p?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "十六夜涙",
+  "artist": "吉岡亜衣加",
+  "collection": "【YOSHIKA⁂Ch.】11竖屏】台风早台【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RQe3eiE8p?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ようかい体操第一",
+  "artist": "Dream5",
+  "collection": "【YOSHIKA⁂Ch.】11竖屏】台风早台【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RQe3eiE8p?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Ahoy!! 我ら宝鐘海賊団☆",
+  "artist": "宝鐘マリン",
+  "collection": "【YOSHIKA⁂Ch.】11竖屏】台风早台【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RQe3eiE8p?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "オラはにんきもの",
+  "artist": "のはらしんのすけ(矢島晶子)",
+  "collection": "【YOSHIKA⁂Ch.】11竖屏】台风早台【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RQe3eiE8p?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【YOSHIKA⁂Ch.】11竖屏】台风早台【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RQe3eiE8p?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【YOSHIKA⁂Ch.】11竖屏】台风早台【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RQe3eiE8p?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【YOSHIKA⁂Ch.】11竖屏】台风早台【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RQe3eiE8p?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "PARADOX",
+  "artist": "雨宮天",
+  "collection": "【YOSHIKA⁂Ch.】11竖屏】台风早台【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RQe3eiE8p?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アルティメット☆MAGIC",
+  "artist": "i☆Ris",
+  "collection": "【YOSHIKA⁂Ch.】11竖屏】台风早台【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RQe3eiE8p?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Love so sweet",
+  "artist": "嵐",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "１・２・３",
+  "artist": "After the Rain（そらる×まふまふ）",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ループ",
+  "artist": "坂本真綾",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Catch You Catch Me",
+  "artist": "日向めぐみ",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "虹",
+  "artist": "菅田将暉",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "想い咲く時",
+  "artist": "アオイエマ",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "渡月橋～君想ふ～",
+  "artist": "倉木麻衣",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "負けないで",
+  "artist": "ZARD",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "私だけに",
+  "artist": "エリザベート",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "学園天国",
+  "artist": "Dream5",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おどるポンポコリン",
+  "artist": "さくらももこ",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ちゃんとあるよ",
+  "artist": "傘村トータ feat. 可不",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ルル",
+  "artist": "Ado",
+  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=19",
   "source": "yoshika.js"
 },
     {
@@ -16302,6 +18078,542 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
+  "title": "海の声",
+  "artist": "浦島太郎(桐谷健太)",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "世界に一つだけの花",
+  "artist": "SMAP",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アントワネットブルー",
+  "artist": "北出菜奈",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Legend of Mermaid",
+  "artist": "七海るちあ（CV. 中田あすみ）寶生波音（CV. 寺門仁美）洞院リナ（CV. 淺野まゆみ）",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "だいしきゅーだいしゅき",
+  "artist": "femme fatale",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "PARADOX",
+  "artist": "雨宮天",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ニホンノミカタ －ネバダカラキマシタ－",
+  "artist": "矢島美容室",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "てぃーてぃーてぃーてれっててれてぃてぃてぃ〜だれのケツ〜",
+  "artist": "舞祭組",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑ feat. 初音ミク",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "初音ミク(40㍍)",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "マトリョシカ",
+  "artist": "HACHI feat. 初音ミク・GUMI",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "桜日和とタイムマシン",
+  "artist": "Ado with 初音ミク",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋愛フィロソフィア",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "サンドリヨン",
+  "artist": "シグナルP feat.KAITO&MIKU",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "ヨルシカ feat.初音ミク",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "トルコ行進曲 オワタ＼^o^／",
+  "artist": "オワタP feat.初音ミク",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "須田景凪 feat.flower",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "remember",
+  "artist": "Uru",
+  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "01.Love so sweet",
+  "artist": "嵐",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "キミがいれば",
+  "artist": "いおり",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさＰ feat 初音ミク",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Mrs Pumpkinの滑稽な夢",
+  "artist": "HACHI feat.初音ミク",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ODDS&ENDS",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋愛フィロソフィア",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ただいま",
+  "artist": "手嶌葵",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "DANZEN！ふたりはプリキュア",
+  "artist": "Mayumi Gojo",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Northern Lights",
+  "artist": "林原めぐみ",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Brave Heart",
+  "artist": "林原めぐみ",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Over Soul",
+  "artist": "林原めぐみ",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "タッチ",
+  "artist": "岩崎良美",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "悲しみをやさしさに",
+  "artist": "little by little",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "かくれんぼ",
+  "artist": "AliA",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "旅の途中",
+  "artist": "清浦夏実",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "舞風",
+  "artist": "吉岡亜衣加",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ねぇ",
+  "artist": "藤田麻衣子",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ねぇ、どろどろさん",
+  "artist": "YASUHIRO(康寛) feat.鏡音リン",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "茅蜩モラトリアム",
+  "artist": "れるりり feat. GUMI",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "リンカーネイション",
+  "artist": "kemu feat.GUMI・鏡音リン",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "涙そうそう",
+  "artist": "夏川りみ",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "COLORS",
+  "artist": "FLOW",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "ヨルシカ feat.初音ミク",
+  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=25",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Letter Song",
+  "artist": "doriko feat.初音ミク",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "時の歌",
+  "artist": "手嶌葵",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "瑠璃色の地球",
+  "artist": "松田聖子",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さよならの夏~コクリコ坂から~",
+  "artist": "手嶌葵",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "優しい彗星",
+  "artist": "YOASOBI",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "僕の心をつくってよ",
+  "artist": "平井 堅",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "いとしき日々よ",
+  "artist": "平井 堅",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "瞳をとじて",
+  "artist": "平井 堅",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "もののけ姫",
+  "artist": "米良美一",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ODDS&ENDS",
+  "artist": "ryo(supercell) feat.初音ミク",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "想い咲く時",
+  "artist": "アオイエマ",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "時には昔の話を",
+  "artist": "加藤登紀子",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "パート・オブ・ユア・ワールド",
+  "artist": "すずきまゆみ",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "桜日和",
+  "artist": "星村麻衣",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夏夕空",
+  "artist": "中 孝介",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "花は咲く",
+  "artist": "花は咲くプロジェクト",
+  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=23",
+  "source": "yoshika.js"
+},
+    {
   "title": "バラライカ",
   "artist": "月島きらり starring 久住小春（モーニング娘。）",
   "collection": "【 YOSHIKA⁂Ch. 歌枠】リクエスト曲を歌う歌回🎤Singing Stream🍠KARAOKE【Vtuber】",
@@ -16630,6 +18942,46 @@ window.SONG_DATA.push(
   "source": "yoshika.js"
 },
     {
+  "title": "女の子になりたい",
+  "artist": "まふまふ",
+  "collection": "YOSHIKA⁂Ch.竖屏 2025年04月11日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B5dhYFEcq?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "YOSHIKA⁂Ch.竖屏 2025年04月11日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B5dhYFEcq?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Shiny Smily Story",
+  "artist": "ホロライブ",
+  "collection": "YOSHIKA⁂Ch.竖屏 2025年04月11日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B5dhYFEcq?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "パイパイ仮面でどうかしらん？",
+  "artist": "ホロライブ宝鐘マリン",
+  "collection": "YOSHIKA⁂Ch.竖屏 2025年04月11日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B5dhYFEcq?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "YOSHIKA⁂Ch.竖屏 2025年04月11日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B5dhYFEcq?p=5",
+  "source": "yoshika.js"
+},
+    {
   "title": "Love so sweet",
   "artist": "嵐",
   "collection": "【 YOSHIKA⁂Ch. 】将大家在评论区提出的3首歌曲进行演唱！请求曲募集歌回",
@@ -16811,46 +19163,6 @@ window.SONG_DATA.push(
   "collection": "【 YOSHIKA⁂Ch. 】将大家在评论区提出的3首歌曲进行演唱！请求曲募集歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ijdhYZEtc?p=23",
-  "source": "yoshika.js"
-},
-    {
-  "title": "女の子になりたい",
-  "artist": "まふまふ",
-  "collection": "YOSHIKA⁂Ch.竖屏 2025年04月11日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1B5dhYFEcq?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "気まぐれロマンティック",
-  "artist": "いきものがかり",
-  "collection": "YOSHIKA⁂Ch.竖屏 2025年04月11日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1B5dhYFEcq?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Shiny Smily Story",
-  "artist": "ホロライブ",
-  "collection": "YOSHIKA⁂Ch.竖屏 2025年04月11日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1B5dhYFEcq?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "パイパイ仮面でどうかしらん？",
-  "artist": "ホロライブ宝鐘マリン",
-  "collection": "YOSHIKA⁂Ch.竖屏 2025年04月11日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1B5dhYFEcq?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "シュガーソングとビターステップ",
-  "artist": "UNISON SQUARE GARDEN",
-  "collection": "YOSHIKA⁂Ch.竖屏 2025年04月11日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1B5dhYFEcq?p=5",
   "source": "yoshika.js"
 },
     {
@@ -17939,6 +20251,46 @@ window.SONG_DATA.push(
   "collection": "YOSHIKA⁂Ch. 2025年5月2日 竖屏歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14iVEzmEGg?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "接力： 紅蓮華  マツケンサンバⅡ  悪魔の子  渡月橋～君想ふ～  天城越え",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EGGZzCEej?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "マツケンサンバⅡ",
+  "artist": "松平健",
+  "collection": "接力： 紅蓮華  マツケンサンバⅡ  悪魔の子  渡月橋～君想ふ～  天城越え",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EGGZzCEej?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "接力： 紅蓮華  マツケンサンバⅡ  悪魔の子  渡月橋～君想ふ～  天城越え",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EGGZzCEej?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "渡月橋～君想ふ～",
+  "artist": "倉木麻衣",
+  "collection": "接力： 紅蓮華  マツケンサンバⅡ  悪魔の子  渡月橋～君想ふ～  天城越え",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EGGZzCEej?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "天城越え",
+  "artist": "石川さゆり",
+  "collection": "接力： 紅蓮華  マツケンサンバⅡ  悪魔の子  渡月橋～君想ふ～  天城越え",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EGGZzCEej?p=5",
   "source": "yoshika.js"
 },
     {
@@ -19355,6 +21707,182 @@ window.SONG_DATA.push(
   "collection": "YOSHIKA⁂Ch. 竖屏 2025年6月16日",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1akNrzYECo?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。    ）",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "輝夜の城で踊りたい",
+  "artist": "μ's",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "太陽曰く燃えよカオス",
+  "artist": "後ろから這いより隊G",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ラピスラズリ",
+  "artist": "藍井エイル",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Go!!!",
+  "artist": "FLOW",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "優しい彗星",
+  "artist": "YOASOBI",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "めざせポケモンマスター",
+  "artist": "松本梨香",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "I♥U",
+  "artist": "THE★SCANTY",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "希望峰",
+  "artist": "Strawberry JAM",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "鯨",
+  "artist": "Buzy",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "夢地図",
+  "artist": "40㍍ feat. GUMI",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "暗黒の翼",
+  "artist": "レディ･バット(小林沙苗)",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=22",
   "source": "yoshika.js"
 },
     {
@@ -34456,230 +36984,6 @@ window.SONG_DATA.push(
     {
   "title": "バラライカ",
   "artist": "月島きらり starring 久住小春（モーニング娘。）",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Together",
-  "artist": "あきよしふみえ [TVアニメ ポケットモンスター ダイヤモンド&パール]",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ハレ晴レユカイ",
-  "artist": "平野綾・茅原実里・後藤邑子 [TVアニメ 涼宮ハルヒの憂鬱]",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "怪獣の花唄",
-  "artist": "Vaundy",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "味楽る!ミミカ ナンバーワン",
-  "artist": "おみむらまゆこ [TVアニメ 味楽る!ミミカ]",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Catch You Catch Me",
-  "artist": "グミ [TVアニメ カードキャプターさくら]",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=6",
-  "source": "yoshika.js"
-},
-    {
-  "title": "バレンタイン・キッス",
-  "artist": "国生さゆり with おニャン子クラブ",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=7",
-  "source": "yoshika.js"
-},
-    {
-  "title": "爆裂愛してる",
-  "artist": "M!LK",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=8",
-  "source": "yoshika.js"
-},
-    {
-  "title": "とくべチュ、して",
-  "artist": "＝LOVE",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=9",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Love so sweet",
-  "artist": "嵐",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=10",
-  "source": "yoshika.js"
-},
-    {
-  "title": "さくらんぼ",
-  "artist": "大塚愛",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=11",
-  "source": "yoshika.js"
-},
-    {
-  "title": "未来のミュージアム",
-  "artist": "Perfume [映画ドラえもん のび太のひみつ道具博物館]",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=12",
-  "source": "yoshika.js"
-},
-    {
-  "title": "風になる",
-  "artist": "つじあやの [映画 猫の恩返し]",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=13",
-  "source": "yoshika.js"
-},
-    {
-  "title": "空も飛べるはず",
-  "artist": "スピッツ",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=14",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Diamonds",
-  "artist": "PRINCESS PRINCESS",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=15",
-  "source": "yoshika.js"
-},
-    {
-  "title": "異邦人",
-  "artist": "久保田早紀",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=16",
-  "source": "yoshika.js"
-},
-    {
-  "title": "勇気100%",
-  "artist": "光GENJI [TVアニメ 忍たま乱太郎]",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=17",
-  "source": "yoshika.js"
-},
-    {
-  "title": "サインはB",
-  "artist": "B小町 アイ（高橋李依） [TVアニメ【推しの子】]",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=18",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Here",
-  "artist": "JUNNA [TVアニメ 魔法使いの嫁]",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=19",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ray",
-  "artist": "BUMP OF CHICKEN",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=20",
-  "source": "yoshika.js"
-},
-    {
-  "title": "HANAJI",
-  "artist": "小林ゆう [TVアニメ まりあ†ほりっく]",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=21",
-  "source": "yoshika.js"
-},
-    {
-  "title": "涙そうそう",
-  "artist": "夏川りみ",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=22",
-  "source": "yoshika.js"
-},
-    {
-  "title": "CLEAR",
-  "artist": "坂本真綾 [TVアニメ カードキャプターさくら クリアカード編]",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=23",
-  "source": "yoshika.js"
-},
-    {
-  "title": "悪魔の子",
-  "artist": "ヒグチアイ [TVアニメ 進撃の巨人 The Final Season]",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=24",
-  "source": "yoshika.js"
-},
-    {
-  "title": "OVER THE TOP",
-  "artist": "きただにひろし [TVアニメ ONE PIECE]",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=25",
-  "source": "yoshika.js"
-},
-    {
-  "title": "アムリタ",
-  "artist": "牧野由依 [劇場版ツバサ・クロニクル 鳥カゴの国の姫君]",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=26",
-  "source": "yoshika.js"
-},
-    {
-  "title": "いのちの名前",
-  "artist": "木村弓 [映画 千と千尋の神隠し]",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=27",
-  "source": "yoshika.js"
-},
-    {
-  "title": "フローリア",
-  "artist": "佐香智久 [TVアニメ 夏目友人帳 陸]",
-  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=28",
-  "source": "yoshika.js"
-},
-    {
-  "title": "バラライカ",
-  "artist": "月島きらり starring 久住小春（モーニング娘。）",
   "collection": "【🍠🦍歌切】[2026-07-11]初見さん歓迎中！土曜日暑い！ YOSHIKA⁂Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vgNP6SEHG?p=1",
@@ -35427,6 +37731,230 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-07-24]初見さん歓迎中！華金だ！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16T3V6NEDE?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ [TVアニメ ポケットモンスター ダイヤモンド&パール]",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾・茅原実里・後藤邑子 [TVアニメ 涼宮ハルヒの憂鬱]",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "味楽る!ミミカ ナンバーワン",
+  "artist": "おみむらまゆこ [TVアニメ 味楽る!ミミカ]",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Catch You Catch Me",
+  "artist": "グミ [TVアニメ カードキャプターさくら]",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バレンタイン・キッス",
+  "artist": "国生さゆり with おニャン子クラブ",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "とくべチュ、して",
+  "artist": "＝LOVE",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Love so sweet",
+  "artist": "嵐",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "さくらんぼ",
+  "artist": "大塚愛",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "未来のミュージアム",
+  "artist": "Perfume [映画ドラえもん のび太のひみつ道具博物館]",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの [映画 猫の恩返し]",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Diamonds",
+  "artist": "PRINCESS PRINCESS",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "勇気100%",
+  "artist": "光GENJI [TVアニメ 忍たま乱太郎]",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "サインはB",
+  "artist": "B小町 アイ（高橋李依） [TVアニメ【推しの子】]",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Here",
+  "artist": "JUNNA [TVアニメ 魔法使いの嫁]",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "HANAJI",
+  "artist": "小林ゆう [TVアニメ まりあ†ほりっく]",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "涙そうそう",
+  "artist": "夏川りみ",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "CLEAR",
+  "artist": "坂本真綾 [TVアニメ カードキャプターさくら クリアカード編]",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ [TVアニメ 進撃の巨人 The Final Season]",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "OVER THE TOP",
+  "artist": "きただにひろし [TVアニメ ONE PIECE]",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=25",
+  "source": "yoshika.js"
+},
+    {
+  "title": "アムリタ",
+  "artist": "牧野由依 [劇場版ツバサ・クロニクル 鳥カゴの国の姫君]",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=26",
+  "source": "yoshika.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓 [映画 千と千尋の神隠し]",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=27",
+  "source": "yoshika.js"
+},
+    {
+  "title": "フローリア",
+  "artist": "佐香智久 [TVアニメ 夏目友人帳 陸]",
+  "collection": "【🍠🦍歌切】[2026-07-10]初見さん歓迎中！新機能使ってみる！ YOSHIKA⁂Ch.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1coNc6QENA?p=28",
   "source": "yoshika.js"
 },
     {
@@ -39883,2534 +42411,6 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=34",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Love so sweet",
-  "artist": "嵐",
-  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "青のすみか",
-  "artist": "キタニタツヤ",
-  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ANGELUS -アンジェラス",
-  "artist": "島谷ひとみ",
-  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Catch You Catch Me",
-  "artist": "日向めぐみ",
-  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ソワレ",
-  "artist": "ホロライブ星街すいせい",
-  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "メイジ・オブ・ヴァイオレット",
-  "artist": "ホロライブ紫咲シオン",
-  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=6",
-  "source": "yoshika.js"
-},
-    {
-  "title": "気まぐれロマンティック",
-  "artist": "いきものがかり",
-  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=7",
-  "source": "yoshika.js"
-},
-    {
-  "title": "デイ・ドリーム・ビリーバー",
-  "artist": "森川ココネ(高畑充希)",
-  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=8",
-  "source": "yoshika.js"
-},
-    {
-  "title": "紅蓮華",
-  "artist": "LiSA",
-  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=9",
-  "source": "yoshika.js"
-},
-    {
-  "title": "おどるポンポコリン",
-  "artist": "さくらももこ",
-  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=10",
-  "source": "yoshika.js"
-},
-    {
-  "title": "アララの呪文",
-  "artist": "ちびまる子 & 爆チュー問題",
-  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=11",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ホワイトノイズ",
-  "artist": "Official髭男dism",
-  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=12",
-  "source": "yoshika.js"
-},
-    {
-  "title": "イエスタデイ",
-  "artist": "Official髭男dism",
-  "collection": "【 YOSHIKA⁂Ch.🍠】13竖屏】240608",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1HQGSevEAU?p=13",
-  "source": "yoshika.js"
-},
-    {
-  "title": "海の声",
-  "artist": "浦島太郎(桐谷健太)",
-  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Love so sweet",
-  "artist": "嵐",
-  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "おジャ魔女カーニバル!!",
-  "artist": "MAHO堂",
-  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "赤いスイートピー",
-  "artist": "松田聖子",
-  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "おはよう。",
-  "artist": "Keno",
-  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "残響散歌",
-  "artist": "Aimer",
-  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=6",
-  "source": "yoshika.js"
-},
-    {
-  "title": "かもめが翔んだ日",
-  "artist": "渡辺真知子",
-  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=7",
-  "source": "yoshika.js"
-},
-    {
-  "title": "あっぱれ！馬鹿騒ぎ",
-  "artist": "i☆Ris",
-  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=8",
-  "source": "yoshika.js"
-},
-    {
-  "title": "COLORS",
-  "artist": "FLOW",
-  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=9",
-  "source": "yoshika.js"
-},
-    {
-  "title": "さよならだけが人生だ",
-  "artist": "伊東歌詞太郎 feat.初音ミク",
-  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=10",
-  "source": "yoshika.js"
-},
-    {
-  "title": "夏夕空",
-  "artist": "中 孝介",
-  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=11",
-  "source": "yoshika.js"
-},
-    {
-  "title": "千本桜",
-  "artist": "黒うさP feat 初音ミク",
-  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=12",
-  "source": "yoshika.js"
-},
-    {
-  "title": "紡唄",
-  "artist": "dateken feat.鏡音リン・レン",
-  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=13",
-  "source": "yoshika.js"
-},
-    {
-  "title": "燈",
-  "artist": "崎山蒼志",
-  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=14",
-  "source": "yoshika.js"
-},
-    {
-  "title": "怪獣の花唄",
-  "artist": "Vaundy",
-  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=15",
-  "source": "yoshika.js"
-},
-    {
-  "title": "花になって",
-  "artist": "緑黄色社会",
-  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=16",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ただいま",
-  "artist": "手嶌葵",
-  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=17",
-  "source": "yoshika.js"
-},
-    {
-  "title": "会いたくて",
-  "artist": "Ado",
-  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=18",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ハナミズキ",
-  "artist": "一青窈",
-  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=19",
-  "source": "yoshika.js"
-},
-    {
-  "title": "いのちの名前",
-  "artist": "木村弓",
-  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=20",
-  "source": "yoshika.js"
-},
-    {
-  "title": "アントワネットブルー",
-  "artist": "北出菜奈",
-  "collection": "【 YOSHIKA⁂Ch. 】21横屏】3D感谢歌回 千本桜、怪獣の花唄【240620】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bH3WeKEfh?p=21",
-  "source": "yoshika.js"
-},
-    {
-  "title": "１・２・３",
-  "artist": "After the Rain（そらる×まふまふ）",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "十六夜涙",
-  "artist": "吉岡亜衣加",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "勇気100%",
-  "artist": "光GENJI",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "明日への扉",
-  "artist": "川嶋あい",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Butterfly Kiss",
-  "artist": "米倉千尋",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "夜に駆ける",
-  "artist": "YOASOBI",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=6",
-  "source": "yoshika.js"
-},
-    {
-  "title": "舞風",
-  "artist": "吉岡亜衣加",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=7",
-  "source": "yoshika.js"
-},
-    {
-  "title": "雪、無音、窓辺にて。",
-  "artist": "茅原実里(長門有希)",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=8",
-  "source": "yoshika.js"
-},
-    {
-  "title": "CLEAR",
-  "artist": "坂本真綾",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=9",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Lacrimosa",
-  "artist": "Kalafina",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=10",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Myself",
-  "artist": "Changin' My Life",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=11",
-  "source": "yoshika.js"
-},
-    {
-  "title": "オーケストラ",
-  "artist": "BiSH",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=12",
-  "source": "yoshika.js"
-},
-    {
-  "title": "可愛くてごめん",
-  "artist": "HoneyWorks",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=13",
-  "source": "yoshika.js"
-},
-    {
-  "title": "糸",
-  "artist": "中島みゆき",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=14",
-  "source": "yoshika.js"
-},
-    {
-  "title": "星を仰ぐ",
-  "artist": "菅田将暉",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=15",
-  "source": "yoshika.js"
-},
-    {
-  "title": "桜日和",
-  "artist": "星村麻衣",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=16",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ドライフラワー",
-  "artist": "優里",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=17",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ベテルギウス",
-  "artist": "優里",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=18",
-  "source": "yoshika.js"
-},
-    {
-  "title": "YELL",
-  "artist": "いきものがかり",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=19",
-  "source": "yoshika.js"
-},
-    {
-  "title": "風のゆくえ",
-  "artist": "Ado",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=20",
-  "source": "yoshika.js"
-},
-    {
-  "title": "さよならの夏～コクリコ坂から～",
-  "artist": "手嶌葵",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=21",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ソワレ",
-  "artist": "ホロライブ星街すいせい",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=22",
-  "source": "yoshika.js"
-},
-    {
-  "title": "エンジョイ",
-  "artist": "Mey-chan",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=23",
-  "source": "yoshika.js"
-},
-    {
-  "title": "シング・サイン・シンフォニー",
-  "artist": "よしか⁂",
-  "collection": "【 YOSHIKA⁂Ch.】24横屏】桜日和、さよならの夏~コクリコ坂から[2024年6月23日]",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1pi3xeeEfM?p=24",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Pray",
-  "artist": "Tommy heavenly6",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "さくらんぼ",
-  "artist": "大塚愛",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "アルティメット☆MAGIC",
-  "artist": "i☆Ris",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "みちづれ",
-  "artist": "ホロライブ星街すいせい",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Shout Baby",
-  "artist": "緑黄色社会",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Butter-Fly",
-  "artist": "和田光司",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=6",
-  "source": "yoshika.js"
-},
-    {
-  "title": "カサブタ",
-  "artist": "千綿偉功",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=7",
-  "source": "yoshika.js"
-},
-    {
-  "title": "魂のルフラン",
-  "artist": "高橋洋子",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=8",
-  "source": "yoshika.js"
-},
-    {
-  "title": "シル・ヴ・プレジデント",
-  "artist": "P丸様。",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=9",
-  "source": "yoshika.js"
-},
-    {
-  "title": "恋のヒメヒメぺったんこ",
-  "artist": "姫野湖鳥(CV田村ゆかり)",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=10",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ダイアの花",
-  "artist": "より子",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=11",
-  "source": "yoshika.js"
-},
-    {
-  "title": "おさかな天国",
-  "artist": "柴矢裕美",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=12",
-  "source": "yoshika.js"
-},
-    {
-  "title": "月光花",
-  "artist": "Janne Da Arc",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=13",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ウィーアー!",
-  "artist": "きただにひろし",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=14",
-  "source": "yoshika.js"
-},
-    {
-  "title": "残響散歌",
-  "artist": "Aimer",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=15",
-  "source": "yoshika.js"
-},
-    {
-  "title": "God knows...",
-  "artist": "涼宮ハルヒ(平野綾)",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=16",
-  "source": "yoshika.js"
-},
-    {
-  "title": "悪魔の子",
-  "artist": "ヒグチアイ",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=17",
-  "source": "yoshika.js"
-},
-    {
-  "title": "メイジ・オブ・ヴァイオレット",
-  "artist": "ホロライブ紫咲シオン",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=18",
-  "source": "yoshika.js"
-},
-    {
-  "title": "怪獣の花唄",
-  "artist": "Vaundy",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=19",
-  "source": "yoshika.js"
-},
-    {
-  "title": "おどるポンポコリン",
-  "artist": "さくらももこ",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=20",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ブルーバード",
-  "artist": "いきものがかり",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=21",
-  "source": "yoshika.js"
-},
-    {
-  "title": "バレンタイン・キッス",
-  "artist": "渡り廊下走り隊",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=22",
-  "source": "yoshika.js"
-},
-    {
-  "title": "夜もすがら君想ふ",
-  "artist": "西沢さんP feat.GUMI",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=23",
-  "source": "yoshika.js"
-},
-    {
-  "title": "粛聖!! ロリ神レクイエム☆",
-  "artist": "しぐれうい(9さい)",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=24",
-  "source": "yoshika.js"
-},
-    {
-  "title": "talkin' 2 myself",
-  "artist": "浜崎あゆみ",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=25",
-  "source": "yoshika.js"
-},
-    {
-  "title": "極楽浄土",
-  "artist": "GARNiDELiA",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=26",
-  "source": "yoshika.js"
-},
-    {
-  "title": "パンダヒーロー",
-  "artist": "HACHI",
-  "collection": "【 YOSHIKA⁂Ch. 】28竖屏】6.21+6.24两期竖屏的 Shout Baby、粛聖!! ロリ神レクイエム☆-しぐれうい",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV15V3xenEzR?p=27",
-  "source": "yoshika.js"
-},
-    {
-  "title": "アイドル",
-  "artist": "YOASOBI",
-  "collection": "【 YOSHIKA⁂Ch. 】6横屏】3D披露LIVE【2024年6月16日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11a3xeTEzf?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "新時代",
-  "artist": "Ado",
-  "collection": "【 YOSHIKA⁂Ch. 】6横屏】3D披露LIVE【2024年6月16日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11a3xeTEzf?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ファンファーレ",
-  "artist": "よしか⁂",
-  "collection": "【 YOSHIKA⁂Ch. 】6横屏】3D披露LIVE【2024年6月16日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11a3xeTEzf?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "想望",
-  "artist": "福山雅治",
-  "collection": "【 YOSHIKA⁂Ch. 】6横屏】3D披露LIVE【2024年6月16日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11a3xeTEzf?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Stellar Stellar",
-  "artist": "ホロライブ星街すいせい",
-  "collection": "【 YOSHIKA⁂Ch. 】6横屏】3D披露LIVE【2024年6月16日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11a3xeTEzf?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "シング・サイン・シンフォニー",
-  "artist": "よしか⁂",
-  "collection": "【 YOSHIKA⁂Ch. 】6横屏】3D披露LIVE【2024年6月16日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11a3xeTEzf?p=6",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Love so sweet",
-  "artist": "嵐",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "SAKURAスキップ",
-  "artist": "fourfolium（高田憂希／山口愛／戸田めぐみ／竹尾歩美）",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "AXIA～ダイスキでダイキライ",
-  "artist": "ワルキューレ",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "異邦人",
-  "artist": "久保田早紀",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "祝福",
-  "artist": "YOASOBI",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Suspect",
-  "artist": "ホロライブロボ子アキ・ローゼンタール百鬼あやめ",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=6",
-  "source": "yoshika.js"
-},
-    {
-  "title": "エガオノキミへ",
-  "artist": "三森鈴子",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=7",
-  "source": "yoshika.js"
-},
-    {
-  "title": "夕景イエスタデイ",
-  "artist": "じん",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=8",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Amazing Grace",
-  "artist": "IL DIVO",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=9",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Caro Mio Ben",
-  "artist": "G. Giordani",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=10",
-  "source": "yoshika.js"
-},
-    {
-  "title": "シャルイース",
-  "artist": "ホロライブアキ・ローゼンタール",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=11",
-  "source": "yoshika.js"
-},
-    {
-  "title": "時には昔の話を",
-  "artist": "加藤登紀子",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=12",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Rose",
-  "artist": "Kaco",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=13",
-  "source": "yoshika.js"
-},
-    {
-  "title": "晴れのち夏の雨",
-  "artist": "シャーリー(折笠富美子)",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=14",
-  "source": "yoshika.js"
-},
-    {
-  "title": "私だけに",
-  "artist": "エリザベート",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=15",
-  "source": "yoshika.js"
-},
-    {
-  "title": "パート・オブ・ユア・ワールド",
-  "artist": "すずきまゆみ",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=16",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ホール・ニュー・ワールド",
-  "artist": "中村倫也×木下晴香",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=17",
-  "source": "yoshika.js"
-},
-    {
-  "title": "輝く未来",
-  "artist": "小此木麻里・畠中洋",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=18",
-  "source": "yoshika.js"
-},
-    {
-  "title": "愛の芽生え",
-  "artist": "美女と野獣",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=19",
-  "source": "yoshika.js"
-},
-    {
-  "title": "赤いスイートピー",
-  "artist": "松田聖子",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=20",
-  "source": "yoshika.js"
-},
-    {
-  "title": "怪獣の花唄",
-  "artist": "Vaundy",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=21",
-  "source": "yoshika.js"
-},
-    {
-  "title": "かくれんぼ",
-  "artist": "AliA",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=22",
-  "source": "yoshika.js"
-},
-    {
-  "title": "青のすみか",
-  "artist": "キタニタツヤ",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=23",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Believe in tomorrow",
-  "artist": "Sunflower's Garden",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=24",
-  "source": "yoshika.js"
-},
-    {
-  "title": "鯨",
-  "artist": "Buzy",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=25",
-  "source": "yoshika.js"
-},
-    {
-  "title": "夢の続きへ",
-  "artist": "SURFACE",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=26",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Everything",
-  "artist": "MISIA",
-  "collection": "【YOSHIKA⁂Ch. 】27横屏】エガオノキミへ、夕景イエスタデイ、愛の芽生え、怪獣の花唄【240706】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1qmageYEZE?p=27",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Love so sweet",
-  "artist": "嵐",
-  "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17qaLe1EeL?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "God knows...",
-  "artist": "涼宮ハルヒ(平野綾)",
-  "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17qaLe1EeL?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "会いに行くのに",
-  "artist": "あいみょん",
-  "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17qaLe1EeL?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "よろしく九九組",
-  "artist": "スタァライト九九組",
-  "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17qaLe1EeL?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ムーンライト伝説",
-  "artist": "DALI",
-  "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17qaLe1EeL?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Pray",
-  "artist": "Tommy heavenly6",
-  "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17qaLe1EeL?p=6",
-  "source": "yoshika.js"
-},
-    {
-  "title": "メグメグ☆ファイアーエンドレスナイト",
-  "artist": "samfree feat.GUMI",
-  "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17qaLe1EeL?p=7",
-  "source": "yoshika.js"
-},
-    {
-  "title": "みちづれ",
-  "artist": "ホロライブ星街すいせい",
-  "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17qaLe1EeL?p=8",
-  "source": "yoshika.js"
-},
-    {
-  "title": "勇気100%",
-  "artist": "光GENJI",
-  "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17qaLe1EeL?p=9",
-  "source": "yoshika.js"
-},
-    {
-  "title": "舞台少女心得",
-  "artist": "スタァライト九九組",
-  "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17qaLe1EeL?p=10",
-  "source": "yoshika.js"
-},
-    {
-  "title": "気分上々↑↑",
-  "artist": "mihimaru GT",
-  "collection": "【YOSHIKA】11竖屏】God knows、Pray、舞台少女心得【240709】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17qaLe1EeL?p=11",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Suspect",
-  "artist": "ホロライブロボ子アキ・ローゼンタール百鬼あやめ",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "PARADOX",
-  "artist": "雨宮天",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "七色シンフォニー",
-  "artist": "コアラモード．",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "おジャ魔女カーニバル!!",
-  "artist": "MAHO堂",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "小悪魔だってかまわない!",
-  "artist": "HoneyWorks feat. 初音ミク",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "エンジョイ",
-  "artist": "Mey-chan",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=6",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ブルーバード",
-  "artist": "いきものがかり",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=7",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Shiny Smily Story",
-  "artist": "ホロライブ",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=8",
-  "source": "yoshika.js"
-},
-    {
-  "title": "青のすみか",
-  "artist": "キタニタツヤ",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=9",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Go!!!",
-  "artist": "FLOW",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=10",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Bling Bang Bang Born",
-  "artist": "Creepy Nuts",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=11",
-  "source": "yoshika.js"
-},
-    {
-  "title": "かくれんぼ",
-  "artist": "AliA",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=12",
-  "source": "yoshika.js"
-},
-    {
-  "title": "アンパンマンのマーチ",
-  "artist": "ドリーミング",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=13",
-  "source": "yoshika.js"
-},
-    {
-  "title": "おしえて",
-  "artist": "伊集加代子",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=14",
-  "source": "yoshika.js"
-},
-    {
-  "title": "unravel",
-  "artist": "凛として時雨",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=15",
-  "source": "yoshika.js"
-},
-    {
-  "title": "阿修羅ちゃん",
-  "artist": "Ado",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=16",
-  "source": "yoshika.js"
-},
-    {
-  "title": "忘れじの言の葉",
-  "artist": "安次嶺希和子",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=17",
-  "source": "yoshika.js"
-},
-    {
-  "title": "悪魔の子",
-  "artist": "ヒグチアイ",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=18",
-  "source": "yoshika.js"
-},
-    {
-  "title": "金曜日のおはよう",
-  "artist": "HoneyWorks feat. Gero",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】凌晨的 青のすみか、七色シンフォニー、unravel【240712】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sRbse5E57?p=19",
-  "source": "yoshika.js"
-},
-    {
-  "title": "かくれんぼ",
-  "artist": "AliA",
-  "collection": "【YOSHIKA⁂Ch. 】5横屏】仲夏の最強V歌回接力 かくれんぼ、Butter-Fly、横顔【240712】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d7bteKEhK?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Butter-Fly",
-  "artist": "和田光司",
-  "collection": "【YOSHIKA⁂Ch. 】5横屏】仲夏の最強V歌回接力 かくれんぼ、Butter-Fly、横顔【240712】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d7bteKEhK?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "横顔",
-  "artist": "牧野由依",
-  "collection": "【YOSHIKA⁂Ch. 】5横屏】仲夏の最強V歌回接力 かくれんぼ、Butter-Fly、横顔【240712】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d7bteKEhK?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "サマータイムレコード",
-  "artist": "じん feat. IA",
-  "collection": "【YOSHIKA⁂Ch. 】5横屏】仲夏の最強V歌回接力 かくれんぼ、Butter-Fly、横顔【240712】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d7bteKEhK?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "あっぱれ！馬鹿騒ぎ",
-  "artist": "i☆Ris",
-  "collection": "【YOSHIKA⁂Ch. 】5横屏】仲夏の最強V歌回接力 かくれんぼ、Butter-Fly、横顔【240712】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d7bteKEhK?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ウィーアー!",
-  "artist": "きただにひろし",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "夢をかなえてドラえもん",
-  "artist": "mao",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "学園天国",
-  "artist": "Dream5",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ハナミズキ",
-  "artist": "一青窈",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ひまわりの約束",
-  "artist": "秦基博",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Love so sweet",
-  "artist": "嵐",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=6",
-  "source": "yoshika.js"
-},
-    {
-  "title": "明日への手紙",
-  "artist": "手嶌葵",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=7",
-  "source": "yoshika.js"
-},
-    {
-  "title": "会いに行くのに",
-  "artist": "あいみょん",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=8",
-  "source": "yoshika.js"
-},
-    {
-  "title": "涙そうそう",
-  "artist": "夏川りみ",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=9",
-  "source": "yoshika.js"
-},
-    {
-  "title": "風になる",
-  "artist": "つじあやの",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=10",
-  "source": "yoshika.js"
-},
-    {
-  "title": "secret base ～君がくれたもの～",
-  "artist": "ZONE",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=11",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ちゃんとあるよ",
-  "artist": "傘村トータ feat. 可不",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=12",
-  "source": "yoshika.js"
-},
-    {
-  "title": "For フルーツバスケット",
-  "artist": "岡崎律子",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=13",
-  "source": "yoshika.js"
-},
-    {
-  "title": "横顔",
-  "artist": "牧野由依",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=14",
-  "source": "yoshika.js"
-},
-    {
-  "title": "時には昔の話を",
-  "artist": "加藤登紀子",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=15",
-  "source": "yoshika.js"
-},
-    {
-  "title": "みちしるべ",
-  "artist": "茅原實里",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=16",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ループ",
-  "artist": "坂本真綾",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=17",
-  "source": "yoshika.js"
-},
-    {
-  "title": "赤いスイートピー",
-  "artist": "松田聖子",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=18",
-  "source": "yoshika.js"
-},
-    {
-  "title": "フクロウ ～フクロウが知らせる客が来たと",
-  "artist": "KOKIA",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=19",
-  "source": "yoshika.js"
-},
-    {
-  "title": "やさしさに包まれたなら",
-  "artist": "荒井由実",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=20",
-  "source": "yoshika.js"
-},
-    {
-  "title": "さよならの夏～コクリコ坂から～",
-  "artist": "手嶌葵",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=21",
-  "source": "yoshika.js"
-},
-    {
-  "title": "明日への扉",
-  "artist": "川嶋あい",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=22",
-  "source": "yoshika.js"
-},
-    {
-  "title": "花に亡霊",
-  "artist": "ヨルシカ",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=23",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Rose",
-  "artist": "Kaco",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=24",
-  "source": "yoshika.js"
-},
-    {
-  "title": "いのちの名前",
-  "artist": "木村弓",
-  "collection": "【Yoshika】25横屏】学園天国、ハナミズキ、花に亡霊【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1uJeCeUERE?p=25",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ウィーアー!",
-  "artist": "きただにひろし",
-  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "青春ライン",
-  "artist": "いきものがかり",
-  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Suspect",
-  "artist": "Hololive IDOL PROJECT",
-  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "メリッサ",
-  "artist": "ポルノグラフィティ",
-  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "みちづれ",
-  "artist": "星街すいせい",
-  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Rolling star",
-  "artist": "YUI",
-  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=6",
-  "source": "yoshika.js"
-},
-    {
-  "title": "残酷な天使のテーゼ",
-  "artist": "高橋洋子",
-  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=7",
-  "source": "yoshika.js"
-},
-    {
-  "title": "極楽浄土",
-  "artist": "GARNiDELiA",
-  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=8",
-  "source": "yoshika.js"
-},
-    {
-  "title": "departure!",
-  "artist": "小野正利",
-  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=9",
-  "source": "yoshika.js"
-},
-    {
-  "title": "想い咲く時",
-  "artist": "アオイエマ。",
-  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=10",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Cyclone",
-  "artist": "黒うさP",
-  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=11",
-  "source": "yoshika.js"
-},
-    {
-  "title": "異邦人",
-  "artist": "久保田早紀",
-  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=12",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Falco -ファルコ-",
-  "artist": "島谷 ひとみ",
-  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=13",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Butterfly Kiss",
-  "artist": "米倉千尋",
-  "collection": "【Yoshika】14竖屏】 みちづれ、Rolling star、残酷な天使のテーゼ【240815】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eRepePEgS?p=14",
-  "source": "yoshika.js"
-},
-    {
-  "title": "負けないで",
-  "artist": "ZARD",
-  "collection": "【YOSHIKA⁂Ch.】11竖屏】台风早台【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RQe3eiE8p?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "メイジ・オブ・ヴァイオレット",
-  "artist": "紫咲シオン",
-  "collection": "【YOSHIKA⁂Ch.】11竖屏】台风早台【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RQe3eiE8p?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "十六夜涙",
-  "artist": "吉岡亜衣加",
-  "collection": "【YOSHIKA⁂Ch.】11竖屏】台风早台【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RQe3eiE8p?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ようかい体操第一",
-  "artist": "Dream5",
-  "collection": "【YOSHIKA⁂Ch.】11竖屏】台风早台【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RQe3eiE8p?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Ahoy!! 我ら宝鐘海賊団☆",
-  "artist": "宝鐘マリン",
-  "collection": "【YOSHIKA⁂Ch.】11竖屏】台风早台【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RQe3eiE8p?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "オラはにんきもの",
-  "artist": "のはらしんのすけ(矢島晶子)",
-  "collection": "【YOSHIKA⁂Ch.】11竖屏】台风早台【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RQe3eiE8p?p=6",
-  "source": "yoshika.js"
-},
-    {
-  "title": "残響散歌",
-  "artist": "Aimer",
-  "collection": "【YOSHIKA⁂Ch.】11竖屏】台风早台【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RQe3eiE8p?p=7",
-  "source": "yoshika.js"
-},
-    {
-  "title": "赤いスイートピー",
-  "artist": "松田聖子",
-  "collection": "【YOSHIKA⁂Ch.】11竖屏】台风早台【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RQe3eiE8p?p=8",
-  "source": "yoshika.js"
-},
-    {
-  "title": "青のすみか",
-  "artist": "キタニタツヤ",
-  "collection": "【YOSHIKA⁂Ch.】11竖屏】台风早台【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RQe3eiE8p?p=9",
-  "source": "yoshika.js"
-},
-    {
-  "title": "PARADOX",
-  "artist": "雨宮天",
-  "collection": "【YOSHIKA⁂Ch.】11竖屏】台风早台【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RQe3eiE8p?p=10",
-  "source": "yoshika.js"
-},
-    {
-  "title": "アルティメット☆MAGIC",
-  "artist": "i☆Ris",
-  "collection": "【YOSHIKA⁂Ch.】11竖屏】台风早台【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RQe3eiE8p?p=11",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Love so sweet",
-  "artist": "嵐",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "おジャ魔女カーニバル!!",
-  "artist": "MAHO堂",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "風になる",
-  "artist": "つじあやの",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "１・２・３",
-  "artist": "After the Rain（そらる×まふまふ）",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ループ",
-  "artist": "坂本真綾",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Catch You Catch Me",
-  "artist": "日向めぐみ",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=6",
-  "source": "yoshika.js"
-},
-    {
-  "title": "虹",
-  "artist": "菅田将暉",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=7",
-  "source": "yoshika.js"
-},
-    {
-  "title": "想い咲く時",
-  "artist": "アオイエマ",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=8",
-  "source": "yoshika.js"
-},
-    {
-  "title": "怪獣の花唄",
-  "artist": "Vaundy",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=9",
-  "source": "yoshika.js"
-},
-    {
-  "title": "晩餐歌",
-  "artist": "tuki",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=10",
-  "source": "yoshika.js"
-},
-    {
-  "title": "渡月橋～君想ふ～",
-  "artist": "倉木麻衣",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=11",
-  "source": "yoshika.js"
-},
-    {
-  "title": "負けないで",
-  "artist": "ZARD",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=12",
-  "source": "yoshika.js"
-},
-    {
-  "title": "私だけに",
-  "artist": "エリザベート",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=13",
-  "source": "yoshika.js"
-},
-    {
-  "title": "学園天国",
-  "artist": "Dream5",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=14",
-  "source": "yoshika.js"
-},
-    {
-  "title": "おどるポンポコリン",
-  "artist": "さくらももこ",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=15",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ちゃんとあるよ",
-  "artist": "傘村トータ feat. 可不",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=16",
-  "source": "yoshika.js"
-},
-    {
-  "title": "なんでもないや",
-  "artist": "RADWIMPS",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=17",
-  "source": "yoshika.js"
-},
-    {
-  "title": "晩餐歌",
-  "artist": "tuki",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=18",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ルル",
-  "artist": "Ado",
-  "collection": "【 YOSHIKA⁂Ch. 】19竖屏】怪獣の花唄、渡月橋、晩餐歌【240816】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Uxe3esE3U?p=19",
-  "source": "yoshika.js"
-},
-    {
-  "title": "01.Love so sweet",
-  "artist": "嵐",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "キミがいれば",
-  "artist": "いおり",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "千本桜",
-  "artist": "黒うさＰ feat 初音ミク",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Mrs Pumpkinの滑稽な夢",
-  "artist": "HACHI feat.初音ミク",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ODDS&ENDS",
-  "artist": "ryo(supercell) feat.初音ミク",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "恋愛フィロソフィア",
-  "artist": "黒うさP feat.初音ミク",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=6",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ただいま",
-  "artist": "手嶌葵",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=7",
-  "source": "yoshika.js"
-},
-    {
-  "title": "DANZEN！ふたりはプリキュア",
-  "artist": "Mayumi Gojo",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=8",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Northern Lights",
-  "artist": "林原めぐみ",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=9",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Brave Heart",
-  "artist": "林原めぐみ",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=10",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Over Soul",
-  "artist": "林原めぐみ",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=11",
-  "source": "yoshika.js"
-},
-    {
-  "title": "タッチ",
-  "artist": "岩崎良美",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=12",
-  "source": "yoshika.js"
-},
-    {
-  "title": "異邦人",
-  "artist": "久保田早紀",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=13",
-  "source": "yoshika.js"
-},
-    {
-  "title": "シルエット",
-  "artist": "KANA-BOON",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=14",
-  "source": "yoshika.js"
-},
-    {
-  "title": "悲しみをやさしさに",
-  "artist": "little by little",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=15",
-  "source": "yoshika.js"
-},
-    {
-  "title": "かくれんぼ",
-  "artist": "AliA",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=16",
-  "source": "yoshika.js"
-},
-    {
-  "title": "旅の途中",
-  "artist": "清浦夏実",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=17",
-  "source": "yoshika.js"
-},
-    {
-  "title": "舞風",
-  "artist": "吉岡亜衣加",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=18",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ねぇ",
-  "artist": "藤田麻衣子",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=19",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ねぇ、どろどろさん",
-  "artist": "YASUHIRO(康寛) feat.鏡音リン",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=20",
-  "source": "yoshika.js"
-},
-    {
-  "title": "茅蜩モラトリアム",
-  "artist": "れるりり feat. GUMI",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=21",
-  "source": "yoshika.js"
-},
-    {
-  "title": "リンカーネイション",
-  "artist": "kemu feat.GUMI・鏡音リン",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=22",
-  "source": "yoshika.js"
-},
-    {
-  "title": "涙そうそう",
-  "artist": "夏川りみ",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=23",
-  "source": "yoshika.js"
-},
-    {
-  "title": "COLORS",
-  "artist": "FLOW",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=24",
-  "source": "yoshika.js"
-},
-    {
-  "title": "メリュー",
-  "artist": "ヨルシカ feat.初音ミク",
-  "collection": "【#歌枠】歌回～元気歌回～🌟Singing Stream🍠KARAOKE【2025年03月19日】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18VXiYsE8Z?p=25",
-  "source": "yoshika.js"
-},
-    {
-  "title": "バラライカ",
-  "artist": "月島きらり starring 久住小春（モーニング娘。    ）",
-  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "輝夜の城で踊りたい",
-  "artist": "μ's",
-  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "太陽曰く燃えよカオス",
-  "artist": "後ろから這いより隊G",
-  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "コネクト",
-  "artist": "ClariS",
-  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ラピスラズリ",
-  "artist": "藍井エイル",
-  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "おジャ魔女カーニバル!!",
-  "artist": "MAHO堂",
-  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=6",
-  "source": "yoshika.js"
-},
-    {
-  "title": "気まぐれロマンティック",
-  "artist": "いきものがかり",
-  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=7",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Go!!!",
-  "artist": "FLOW",
-  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=8",
-  "source": "yoshika.js"
-},
-    {
-  "title": "残響散歌",
-  "artist": "Aimer",
-  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=9",
-  "source": "yoshika.js"
-},
-    {
-  "title": "紅蓮華",
-  "artist": "LiSA",
-  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=10",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ココロのちず",
-  "artist": "BOYSTYLE",
-  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=11",
-  "source": "yoshika.js"
-},
-    {
-  "title": "祝福",
-  "artist": "YOASOBI",
-  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=12",
-  "source": "yoshika.js"
-},
-    {
-  "title": "優しい彗星",
-  "artist": "YOASOBI",
-  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=13",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ハム太郎とっとこうた",
-  "artist": "ハムちゃんず",
-  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=14",
-  "source": "yoshika.js"
-},
-    {
-  "title": "めざせポケモンマスター",
-  "artist": "松本梨香",
-  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=15",
-  "source": "yoshika.js"
-},
-    {
-  "title": "I♥U",
-  "artist": "THE★SCANTY",
-  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=16",
-  "source": "yoshika.js"
-},
-    {
-  "title": "希望峰",
-  "artist": "Strawberry JAM",
-  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=17",
-  "source": "yoshika.js"
-},
-    {
-  "title": "鯨",
-  "artist": "Buzy",
-  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=18",
-  "source": "yoshika.js"
-},
-    {
-  "title": "夢地図",
-  "artist": "40㍍ feat. GUMI",
-  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=19",
-  "source": "yoshika.js"
-},
-    {
-  "title": "暗黒の翼",
-  "artist": "レディ･バット(小林沙苗)",
-  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=20",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Soranji",
-  "artist": "Mrs. GREEN APPLE",
-  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=21",
-  "source": "yoshika.js"
-},
-    {
-  "title": "クスシキ",
-  "artist": "Mrs. GREEN APPLE",
-  "collection": "2025年6月22日【#歌枠】6月最後歌枠！11万人突破ありがとう！ #shorts #vtuber #vsinger",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R3KxzaERd?p=22",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ハナミズキ",
-  "artist": "一青窈",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Letter Song",
-  "artist": "doriko feat.初音ミク",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "時の歌",
-  "artist": "手嶌葵",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "瑠璃色の地球",
-  "artist": "松田聖子",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "さよならの夏~コクリコ坂から~",
-  "artist": "手嶌葵",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "明日への手紙",
-  "artist": "手嶌葵",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=6",
-  "source": "yoshika.js"
-},
-    {
-  "title": "優しい彗星",
-  "artist": "YOASOBI",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=7",
-  "source": "yoshika.js"
-},
-    {
-  "title": "僕の心をつくってよ",
-  "artist": "平井 堅",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=8",
-  "source": "yoshika.js"
-},
-    {
-  "title": "いとしき日々よ",
-  "artist": "平井 堅",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=9",
-  "source": "yoshika.js"
-},
-    {
-  "title": "瞳をとじて",
-  "artist": "平井 堅",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=10",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Soranji",
-  "artist": "Mrs. GREEN APPLE",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=11",
-  "source": "yoshika.js"
-},
-    {
-  "title": "いのちの名前",
-  "artist": "木村弓",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=12",
-  "source": "yoshika.js"
-},
-    {
-  "title": "もののけ姫",
-  "artist": "米良美一",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=13",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ODDS&ENDS",
-  "artist": "ryo(supercell) feat.初音ミク",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=14",
-  "source": "yoshika.js"
-},
-    {
-  "title": "晩餐歌",
-  "artist": "tuki.",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=15",
-  "source": "yoshika.js"
-},
-    {
-  "title": "First Love",
-  "artist": "宇多田ヒカル",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=16",
-  "source": "yoshika.js"
-},
-    {
-  "title": "想い咲く時",
-  "artist": "アオイエマ",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=17",
-  "source": "yoshika.js"
-},
-    {
-  "title": "時には昔の話を",
-  "artist": "加藤登紀子",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=18",
-  "source": "yoshika.js"
-},
-    {
-  "title": "パート・オブ・ユア・ワールド",
-  "artist": "すずきまゆみ",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=19",
-  "source": "yoshika.js"
-},
-    {
-  "title": "テルーの唄",
-  "artist": "手嶌葵",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=20",
-  "source": "yoshika.js"
-},
-    {
-  "title": "桜日和",
-  "artist": "星村麻衣",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=21",
-  "source": "yoshika.js"
-},
-    {
-  "title": "夏夕空",
-  "artist": "中 孝介",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=22",
-  "source": "yoshika.js"
-},
-    {
-  "title": "花は咲く",
-  "artist": "花は咲くプロジェクト",
-  "collection": "【2025年3月22日歌枠】深夜睡眠前歌回💤Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1BPoYYBENB?p=23",
-  "source": "yoshika.js"
-},
-    {
-  "title": "海の声",
-  "artist": "浦島太郎(桐谷健太)",
-  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "世界に一つだけの花",
-  "artist": "SMAP",
-  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "アントワネットブルー",
-  "artist": "北出菜奈",
-  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "Legend of Mermaid",
-  "artist": "七海るちあ（CV. 中田あすみ）寶生波音（CV. 寺門仁美）洞院リナ（CV. 淺野まゆみ）",
-  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "だいしきゅーだいしゅき",
-  "artist": "femme fatale",
-  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=5",
-  "source": "yoshika.js"
-},
-    {
-  "title": "PARADOX",
-  "artist": "雨宮天",
-  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=6",
-  "source": "yoshika.js"
-},
-    {
-  "title": "ニホンノミカタ －ネバダカラキマシタ－",
-  "artist": "矢島美容室",
-  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=7",
-  "source": "yoshika.js"
-},
-    {
-  "title": "てぃーてぃーてぃーてれっててれてぃてぃてぃ〜だれのケツ〜",
-  "artist": "舞祭組",
-  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=8",
-  "source": "yoshika.js"
-},
-    {
-  "title": "白い雪のプリンセスは",
-  "artist": "のぼる↑ feat. 初音ミク",
-  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=9",
-  "source": "yoshika.js"
-},
-    {
-  "title": "からくりピエロ",
-  "artist": "初音ミク(40㍍)",
-  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=10",
-  "source": "yoshika.js"
-},
-    {
-  "title": "マトリョシカ",
-  "artist": "HACHI feat. 初音ミク・GUMI",
-  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=11",
-  "source": "yoshika.js"
-},
-    {
-  "title": "桜日和とタイムマシン",
-  "artist": "Ado with 初音ミク",
-  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=12",
-  "source": "yoshika.js"
-},
-    {
-  "title": "紅蓮華",
-  "artist": "LiSA",
-  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=13",
-  "source": "yoshika.js"
-},
-    {
-  "title": "恋愛フィロソフィア",
-  "artist": "黒うさP feat.初音ミク",
-  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=14",
-  "source": "yoshika.js"
-},
-    {
-  "title": "サンドリヨン",
-  "artist": "シグナルP feat.KAITO&MIKU",
-  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=15",
-  "source": "yoshika.js"
-},
-    {
-  "title": "メリュー",
-  "artist": "ヨルシカ feat.初音ミク",
-  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=16",
-  "source": "yoshika.js"
-},
-    {
-  "title": "トルコ行進曲 オワタ＼^o^／",
-  "artist": "オワタP feat.初音ミク",
-  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=17",
-  "source": "yoshika.js"
-},
-    {
-  "title": "シャルル",
-  "artist": "須田景凪 feat.flower",
-  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=18",
-  "source": "yoshika.js"
-},
-    {
-  "title": "remember",
-  "artist": "Uru",
-  "collection": "【2025年03月11日歌枠】㊗️10万人突破！深夜歌回✨Singing Stream🍠KARAOKE【Vtuber】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjRLYUEDt?p=19",
-  "source": "yoshika.js"
-},
-    {
-  "title": "紅蓮華",
-  "artist": "LiSA",
-  "collection": "接力： 紅蓮華  マツケンサンバⅡ  悪魔の子  渡月橋～君想ふ～  天城越え",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EGGZzCEej?p=1",
-  "source": "yoshika.js"
-},
-    {
-  "title": "マツケンサンバⅡ",
-  "artist": "松平健",
-  "collection": "接力： 紅蓮華  マツケンサンバⅡ  悪魔の子  渡月橋～君想ふ～  天城越え",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EGGZzCEej?p=2",
-  "source": "yoshika.js"
-},
-    {
-  "title": "悪魔の子",
-  "artist": "ヒグチアイ",
-  "collection": "接力： 紅蓮華  マツケンサンバⅡ  悪魔の子  渡月橋～君想ふ～  天城越え",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EGGZzCEej?p=3",
-  "source": "yoshika.js"
-},
-    {
-  "title": "渡月橋～君想ふ～",
-  "artist": "倉木麻衣",
-  "collection": "接力： 紅蓮華  マツケンサンバⅡ  悪魔の子  渡月橋～君想ふ～  天城越え",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EGGZzCEej?p=4",
-  "source": "yoshika.js"
-},
-    {
-  "title": "天城越え",
-  "artist": "石川さゆり",
-  "collection": "接力： 紅蓮華  マツケンサンバⅡ  悪魔の子  渡月橋～君想ふ～  天城越え",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EGGZzCEej?p=5",
   "source": "yoshika.js"
 }
 );

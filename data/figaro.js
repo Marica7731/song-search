@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 10/5/2026, 3:15:07 PM
+// 生成时间: 10/5/2026, 4:42:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -534,558 +534,6 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "春の歌",
-  "artist": "スピッツ",
-  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=1",
-  "source": "figaro.js"
-},
-    {
-  "title": "春泥棒",
-  "artist": "ヨルシカ",
-  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=2",
-  "source": "figaro.js"
-},
-    {
-  "title": "青のすみか",
-  "artist": "キタニタツヤ",
-  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=3",
-  "source": "figaro.js"
-},
-    {
-  "title": "プラネテス",
-  "artist": "キタニタツヤ",
-  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=4",
-  "source": "figaro.js"
-},
-    {
-  "title": "シネマ",
-  "artist": "Ayase",
-  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=5",
-  "source": "figaro.js"
-},
-    {
-  "title": "愛言葉III",
-  "artist": "DECO*27",
-  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=6",
-  "source": "figaro.js"
-},
-    {
-  "title": "メルト",
-  "artist": "ryo",
-  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=7",
-  "source": "figaro.js"
-},
-    {
-  "title": "粛聖!!ロリ神レクイエム☆",
-  "artist": "しぐれうい",
-  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=8",
-  "source": "figaro.js"
-},
-    {
-  "title": "美少女無罪♡パイレーツ",
-  "artist": "宝鐘マリン",
-  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=9",
-  "source": "figaro.js"
-},
-    {
-  "title": "君の知らない物語",
-  "artist": "supercell",
-  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=10",
-  "source": "figaro.js"
-},
-    {
-  "title": "酔いどれ知らず",
-  "artist": "Kanaria",
-  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=11",
-  "source": "figaro.js"
-},
-    {
-  "title": "可愛いあの子が気に入らない",
-  "artist": "なるみや",
-  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=12",
-  "source": "figaro.js"
-},
-    {
-  "title": "さそり座の女",
-  "artist": "美川憲一",
-  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=13",
-  "source": "figaro.js"
-},
-    {
-  "title": "唱",
-  "artist": "Ado",
-  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=14",
-  "source": "figaro.js"
-},
-    {
-  "title": "絶頂讃歌",
-  "artist": "和ぬか",
-  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=15",
-  "source": "figaro.js"
-},
-    {
-  "title": "月のワルツ",
-  "artist": "諫山実生",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=1",
-  "source": "figaro.js"
-},
-    {
-  "title": "いのちの名前",
-  "artist": "木村弓",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=2",
-  "source": "figaro.js"
-},
-    {
-  "title": "いつも何度でも",
-  "artist": "木村弓",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=3",
-  "source": "figaro.js"
-},
-    {
-  "title": "テルーの唄",
-  "artist": "手嶌葵",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=4",
-  "source": "figaro.js"
-},
-    {
-  "title": "君をのせて",
-  "artist": "井上あずみ",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=5",
-  "source": "figaro.js"
-},
-    {
-  "title": "六月は雨上がりの街を書く",
-  "artist": "ヨルシカ",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=6",
-  "source": "figaro.js"
-},
-    {
-  "title": "愛藍傘",
-  "artist": "エキゾチックかまたに",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=7",
-  "source": "figaro.js"
-},
-    {
-  "title": "晚餐歌",
-  "artist": "tuki.",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=8",
-  "source": "figaro.js"
-},
-    {
-  "title": "心做し",
-  "artist": "蝶々P",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=9",
-  "source": "figaro.js"
-},
-    {
-  "title": "春泥棒",
-  "artist": "ヨルシカ",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=10",
-  "source": "figaro.js"
-},
-    {
-  "title": "都落ち",
-  "artist": "ヨルシカ",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=11",
-  "source": "figaro.js"
-},
-    {
-  "title": "嘘月",
-  "artist": "ヨルシカ",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=12",
-  "source": "figaro.js"
-},
-    {
-  "title": "サーカスナイト",
-  "artist": "七尾旅人",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=13",
-  "source": "figaro.js"
-},
-    {
-  "title": "テロメアの産声",
-  "artist": "Heavenz",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=14",
-  "source": "figaro.js"
-},
-    {
-  "title": "雨宙寫眞",
-  "artist": "澤田 空海理",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=15",
-  "source": "figaro.js"
-},
-    {
-  "title": "花に亡霊",
-  "artist": "ヨルシカ",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=16",
-  "source": "figaro.js"
-},
-    {
-  "title": "砂糖玉の月",
-  "artist": "やなぎなぎ",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=17",
-  "source": "figaro.js"
-},
-    {
-  "title": "Currant",
-  "artist": "春野",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=18",
-  "source": "figaro.js"
-},
-    {
-  "title": "明けない夜のリリィ",
-  "artist": "傘村トータ",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=19",
-  "source": "figaro.js"
-},
-    {
-  "title": "蜜月アン・ドゥ・トロワ",
-  "artist": "DATEKEN",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=20",
-  "source": "figaro.js"
-},
-    {
-  "title": "深昏睡",
-  "artist": "春野",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=21",
-  "source": "figaro.js"
-},
-    {
-  "title": "夜間飛行",
-  "artist": "藍色にしもん",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=22",
-  "source": "figaro.js"
-},
-    {
-  "title": "ナイトルーティーン",
-  "artist": "キタニタツヤ",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=23",
-  "source": "figaro.js"
-},
-    {
-  "title": "私が明日死ぬなら",
-  "artist": "キタニタツヤ",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=24",
-  "source": "figaro.js"
-},
-    {
-  "title": "それがあなたの幸せとしても",
-  "artist": "Heavenz",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=25",
-  "source": "figaro.js"
-},
-    {
-  "title": "朝を呑む",
-  "artist": "バルーン",
-  "collection": "【240331】#172 Figaro 26首 睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=26",
-  "source": "figaro.js"
-},
-    {
-  "title": "雨とカプチーノ",
-  "artist": "ヨルシカ",
-  "collection": "【240403 Figaro #8 11首】定期歌枠  01. 雨とカプチーノ - ヨルシカ 02. SAKURA - いきものがかり",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Rx421m7Si?p=1",
-  "source": "figaro.js"
-},
-    {
-  "title": "SAKURA",
-  "artist": "いきものがかり",
-  "collection": "【240403 Figaro #8 11首】定期歌枠  01. 雨とカプチーノ - ヨルシカ 02. SAKURA - いきものがかり",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Rx421m7Si?p=2",
-  "source": "figaro.js"
-},
-    {
-  "title": "花は桜 君は美し",
-  "artist": "いきものがかり",
-  "collection": "【240403 Figaro #8 11首】定期歌枠  01. 雨とカプチーノ - ヨルシカ 02. SAKURA - いきものがかり",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Rx421m7Si?p=3",
-  "source": "figaro.js"
-},
-    {
-  "title": "カタオモイ",
-  "artist": "Aimer",
-  "collection": "【240403 Figaro #8 11首】定期歌枠  01. 雨とカプチーノ - ヨルシカ 02. SAKURA - いきものがかり",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Rx421m7Si?p=4",
-  "source": "figaro.js"
-},
-    {
-  "title": "Refrain",
-  "artist": "Aimer",
-  "collection": "【240403 Figaro #8 11首】定期歌枠  01. 雨とカプチーノ - ヨルシカ 02. SAKURA - いきものがかり",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Rx421m7Si?p=5",
-  "source": "figaro.js"
-},
-    {
-  "title": "六月は雨上がりの街を書く",
-  "artist": "ヨルシカ",
-  "collection": "【240403 Figaro #8 11首】定期歌枠  01. 雨とカプチーノ - ヨルシカ 02. SAKURA - いきものがかり",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Rx421m7Si?p=6",
-  "source": "figaro.js"
-},
-    {
-  "title": "愛藍傘",
-  "artist": "エキゾチックかまたに",
-  "collection": "【240403 Figaro #8 11首】定期歌枠  01. 雨とカプチーノ - ヨルシカ 02. SAKURA - いきものがかり",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Rx421m7Si?p=7",
-  "source": "figaro.js"
-},
-    {
-  "title": "スコール",
-  "artist": "春野",
-  "collection": "【240403 Figaro #8 11首】定期歌枠  01. 雨とカプチーノ - ヨルシカ 02. SAKURA - いきものがかり",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Rx421m7Si?p=8",
-  "source": "figaro.js"
-},
-    {
-  "title": "Limbo",
-  "artist": "春野",
-  "collection": "【240403 Figaro #8 11首】定期歌枠  01. 雨とカプチーノ - ヨルシカ 02. SAKURA - いきものがかり",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Rx421m7Si?p=9",
-  "source": "figaro.js"
-},
-    {
-  "title": "Wherever you are",
-  "artist": "ONE OK ROCK",
-  "collection": "【240403 Figaro #8 11首】定期歌枠  01. 雨とカプチーノ - ヨルシカ 02. SAKURA - いきものがかり",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Rx421m7Si?p=10",
-  "source": "figaro.js"
-},
-    {
-  "title": "チノカテ",
-  "artist": "ヨルシカ",
-  "collection": "【240403 Figaro #8 11首】定期歌枠  01. 雨とカプチーノ - ヨルシカ 02. SAKURA - いきものがかり",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Rx421m7Si?p=11",
-  "source": "figaro.js"
-},
-    {
-  "title": "第一夜",
-  "artist": "ヨルシカ",
-  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=1",
-  "source": "figaro.js"
-},
-    {
-  "title": "心に穴が空いた",
-  "artist": "ヨルシカ",
-  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=2",
-  "source": "figaro.js"
-},
-    {
-  "title": "ただ君に晴れ",
-  "artist": "ヨルシカ",
-  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=3",
-  "source": "figaro.js"
-},
-    {
-  "title": "ブレーメン",
-  "artist": "ヨルシカ",
-  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=4",
-  "source": "figaro.js"
-},
-    {
-  "title": "逃亡",
-  "artist": "ヨルシカ",
-  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=5",
-  "source": "figaro.js"
-},
-    {
-  "title": "夜行",
-  "artist": "ヨルシカ",
-  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=6",
-  "source": "figaro.js"
-},
-    {
-  "title": "春泥棒",
-  "artist": "ヨルシカ",
-  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=7",
-  "source": "figaro.js"
-},
-    {
-  "title": "爆弾魔",
-  "artist": "ヨルシカ",
-  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=8",
-  "source": "figaro.js"
-},
-    {
-  "title": "左右盲",
-  "artist": "ヨルシカ",
-  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=9",
-  "source": "figaro.js"
-},
-    {
-  "title": "月光浴",
-  "artist": "ヨルシカ",
-  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=10",
-  "source": "figaro.js"
-},
-    {
-  "title": "藍二乗",
-  "artist": "ヨルシカ",
-  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=11",
-  "source": "figaro.js"
-},
-    {
-  "title": "靴の花火",
-  "artist": "ヨルシカ",
-  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=12",
-  "source": "figaro.js"
-},
-    {
-  "title": "都落ち",
-  "artist": "ヨルシカ",
-  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=13",
-  "source": "figaro.js"
-},
-    {
-  "title": "斜陽",
-  "artist": "ヨルシカ",
-  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=14",
-  "source": "figaro.js"
-},
-    {
-  "title": "アルジャーノン",
-  "artist": "ヨルシカ",
-  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=15",
-  "source": "figaro.js"
-},
-    {
-  "title": "ノーチラス",
-  "artist": "ヨルシカ",
-  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=16",
-  "source": "figaro.js"
-},
-    {
-  "title": "だから僕は音楽を辞めた",
-  "artist": "ヨルシカ",
-  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=17",
-  "source": "figaro.js"
-},
-    {
   "title": "Squall",
   "artist": "福山雅治",
   "collection": "【240415 Figaro #174 23首】 睡眠广播  23. 雛鳥 - 花譜",
@@ -1459,6 +907,558 @@ window.SONG_DATA.push(
   "collection": "【240320】 Figaro 13首 定期歌枠#6 09. 怪獣の花唄 - Vaundy",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fM4m1S7rF?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "春の歌",
+  "artist": "スピッツ",
+  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "プラネテス",
+  "artist": "キタニタツヤ",
+  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "シネマ",
+  "artist": "Ayase",
+  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "愛言葉III",
+  "artist": "DECO*27",
+  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo",
+  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "粛聖!!ロリ神レクイエム☆",
+  "artist": "しぐれうい",
+  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "美少女無罪♡パイレーツ",
+  "artist": "宝鐘マリン",
+  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "酔いどれ知らず",
+  "artist": "Kanaria",
+  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "可愛いあの子が気に入らない",
+  "artist": "なるみや",
+  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "さそり座の女",
+  "artist": "美川憲一",
+  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "【240402】【Figaro 15首】 突击直播 06.愛言葉III - DECO*27 14.唱 - Ado 粛聖!!ロリ神レクイエム☆",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jH4y1K776?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "いつも何度でも",
+  "artist": "木村弓",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "六月は雨上がりの街を書く",
+  "artist": "ヨルシカ",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "愛藍傘",
+  "artist": "エキゾチックかまたに",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "晚餐歌",
+  "artist": "tuki.",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "サーカスナイト",
+  "artist": "七尾旅人",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "テロメアの産声",
+  "artist": "Heavenz",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "雨宙寫眞",
+  "artist": "澤田 空海理",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "砂糖玉の月",
+  "artist": "やなぎなぎ",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "Currant",
+  "artist": "春野",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "明けない夜のリリィ",
+  "artist": "傘村トータ",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=19",
+  "source": "figaro.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=20",
+  "source": "figaro.js"
+},
+    {
+  "title": "深昏睡",
+  "artist": "春野",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=21",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜間飛行",
+  "artist": "藍色にしもん",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=22",
+  "source": "figaro.js"
+},
+    {
+  "title": "ナイトルーティーン",
+  "artist": "キタニタツヤ",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=23",
+  "source": "figaro.js"
+},
+    {
+  "title": "私が明日死ぬなら",
+  "artist": "キタニタツヤ",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=24",
+  "source": "figaro.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=25",
+  "source": "figaro.js"
+},
+    {
+  "title": "朝を呑む",
+  "artist": "バルーン",
+  "collection": "【240331】#172 Figaro 26首 睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vD421n7oj?p=26",
+  "source": "figaro.js"
+},
+    {
+  "title": "第一夜",
+  "artist": "ヨルシカ",
+  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "心に穴が空いた",
+  "artist": "ヨルシカ",
+  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "ブレーメン",
+  "artist": "ヨルシカ",
+  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "逃亡",
+  "artist": "ヨルシカ",
+  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "爆弾魔",
+  "artist": "ヨルシカ",
+  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "月光浴",
+  "artist": "ヨルシカ",
+  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【240407 Figaro #173 17首 全都是ヨルシカ】  睡眠广播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kT42117Wj?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【240403 Figaro #8 11首】定期歌枠  01. 雨とカプチーノ - ヨルシカ 02. SAKURA - いきものがかり",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rx421m7Si?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "SAKURA",
+  "artist": "いきものがかり",
+  "collection": "【240403 Figaro #8 11首】定期歌枠  01. 雨とカプチーノ - ヨルシカ 02. SAKURA - いきものがかり",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rx421m7Si?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "花は桜 君は美し",
+  "artist": "いきものがかり",
+  "collection": "【240403 Figaro #8 11首】定期歌枠  01. 雨とカプチーノ - ヨルシカ 02. SAKURA - いきものがかり",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rx421m7Si?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【240403 Figaro #8 11首】定期歌枠  01. 雨とカプチーノ - ヨルシカ 02. SAKURA - いきものがかり",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rx421m7Si?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "Refrain",
+  "artist": "Aimer",
+  "collection": "【240403 Figaro #8 11首】定期歌枠  01. 雨とカプチーノ - ヨルシカ 02. SAKURA - いきものがかり",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rx421m7Si?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "六月は雨上がりの街を書く",
+  "artist": "ヨルシカ",
+  "collection": "【240403 Figaro #8 11首】定期歌枠  01. 雨とカプチーノ - ヨルシカ 02. SAKURA - いきものがかり",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rx421m7Si?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "愛藍傘",
+  "artist": "エキゾチックかまたに",
+  "collection": "【240403 Figaro #8 11首】定期歌枠  01. 雨とカプチーノ - ヨルシカ 02. SAKURA - いきものがかり",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rx421m7Si?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "スコール",
+  "artist": "春野",
+  "collection": "【240403 Figaro #8 11首】定期歌枠  01. 雨とカプチーノ - ヨルシカ 02. SAKURA - いきものがかり",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rx421m7Si?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "Limbo",
+  "artist": "春野",
+  "collection": "【240403 Figaro #8 11首】定期歌枠  01. 雨とカプチーノ - ヨルシカ 02. SAKURA - いきものがかり",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rx421m7Si?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "Wherever you are",
+  "artist": "ONE OK ROCK",
+  "collection": "【240403 Figaro #8 11首】定期歌枠  01. 雨とカプチーノ - ヨルシカ 02. SAKURA - いきものがかり",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rx421m7Si?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "チノカテ",
+  "artist": "ヨルシカ",
+  "collection": "【240403 Figaro #8 11首】定期歌枠  01. 雨とカプチーノ - ヨルシカ 02. SAKURA - いきものがかり",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Rx421m7Si?p=11",
   "source": "figaro.js"
 },
     {
@@ -4387,6 +4387,2062 @@ window.SONG_DATA.push(
   "collection": "【240604】【Figaro】25】拆隔音室前最后的歌回 憂一乗、藍二乗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tf421R7KX?p=25",
+  "source": "figaro.js"
+},
+    {
+  "title": "春の歌",
+  "artist": "スピッツ",
+  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "シリウスの心臓",
+  "artist": "ヰ世界情緒",
+  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "クリスマスソング",
+  "artist": "back number",
+  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "対象a",
+  "artist": "anNina",
+  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "ワールド・ランプシェード",
+  "artist": "buzzG",
+  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "白ゆき",
+  "artist": "ナブナ",
+  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight",
+  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "あなた",
+  "artist": "HY",
+  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "カガリビト",
+  "artist": "millstones",
+  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "フクロウ~フクロウが知らせる客が来たと~",
+  "artist": "KOKIA",
+  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "深昏睡",
+  "artist": "春野",
+  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "染まるよ",
+  "artist": "チャットモンチー",
+  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "Cry Baby",
+  "artist": "Official髭男dism",
+  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "ヴィーナスとジーザス",
+  "artist": "やくしまるえつこ",
+  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "少年よ我に帰れ",
+  "artist": "やくしまるえつこ",
+  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "第一夜",
+  "artist": "ヨルシカ",
+  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団",
+  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "Alice",
+  "artist": "古川本舗",
+  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "from Y to Y",
+  "artist": "ジミーサムP",
+  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40メートルP",
+  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP",
+  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "茜さす",
+  "artist": "Aimer",
+  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "夏の半券",
+  "artist": "みきとP",
+  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "ハロ／ハワユ",
+  "artist": "ナノウ",
+  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奧華子",
+  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "深海のリトルクライ",
+  "artist": "sasakure .UK",
+  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "六月は雨上がりの街を書く",
+  "artist": "ヨルシカ",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "ラストリゾート",
+  "artist": "Ayase feat.初音ミク",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "CH4NGE",
+  "artist": "Giga feat.可不",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "G4L",
+  "artist": "Giga [Artiswitch]",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "fake face dance music",
+  "artist": "音田雅則",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "月陽-ツキアカリ-",
+  "artist": "みきとP feat.GUMI",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "エンヴィーベイビー",
+  "artist": "Kanaria feat.GUMI",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "天球、彗星は夜を跨いで",
+  "artist": "星街すいせい",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ [TVアニメ 呪術廻戦 懐玉・玉折]",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "flos",
+  "artist": "R Sound Design feat.初音ミク",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "鏡面の波",
+  "artist": "YURiKA [TVアニメ 宝石の国]",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "雨とペトラ",
+  "artist": "バルーン feat.flower",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "バルーン feat.flower",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "ロウワー",
+  "artist": "ぬゆり feat.flower [プロジェクトセカイ カラフルステージ！]",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "ジェヘナ",
+  "artist": "wotaku feat.初音ミク",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "砂糖玉の月",
+  "artist": "やなぎなぎ [TVアニメ キノの旅 -the Beautiful World- the Animated Series]",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "真生活",
+  "artist": "案山子 feat.初音ミク",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "ルーマー",
+  "artist": "ポリスピカデリー feat.GUMI",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=19",
+  "source": "figaro.js"
+},
+    {
+  "title": "GURU",
+  "artist": "じん feat.可不",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=20",
+  "source": "figaro.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat.可不",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=21",
+  "source": "figaro.js"
+},
+    {
+  "title": "病名は愛だった",
+  "artist": "Neru & z'5 feat.鏡音リン・鏡音レン",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=22",
+  "source": "figaro.js"
+},
+    {
+  "title": "Gimme×Gimme",
+  "artist": "八王子P×Giga feat.初音ミク・鏡音リン",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=23",
+  "source": "figaro.js"
+},
+    {
+  "title": "第三の心臓",
+  "artist": "はるまきごはん feat.初音ミク",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=24",
+  "source": "figaro.js"
+},
+    {
+  "title": "鬼ノ宴",
+  "artist": "友成空",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=25",
+  "source": "figaro.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=26",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "ナブナ",
+  "collection": "【240627】【Figaro 】星期三定期歌回15",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "アイスクリーム シンドローム",
+  "artist": "スキマスイッチ",
+  "collection": "【240627】【Figaro 】星期三定期歌回15",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【240627】【Figaro 】星期三定期歌回15",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "夏色",
+  "artist": "ゆず",
+  "collection": "【240627】【Figaro 】星期三定期歌回15",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん",
+  "collection": "【240627】【Figaro 】星期三定期歌回15",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【240627】【Figaro 】星期三定期歌回15",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【240627】【Figaro 】星期三定期歌回15",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "ドリームレス・ドリームス",
+  "artist": "はるまきごはん",
+  "collection": "【240627】【Figaro 】星期三定期歌回15",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "うたかた花火",
+  "artist": "supercell",
+  "collection": "【240627】【Figaro 】星期三定期歌回15",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "【240627】【Figaro 】星期三定期歌回15",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "快晴",
+  "artist": "Orangestar",
+  "collection": "【240627】【Figaro 】星期三定期歌回15",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "夏の半券",
+  "artist": "みきとP",
+  "collection": "【240627】【Figaro 】星期三定期歌回15",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight",
+  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "[Short Ver.] 若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "陽炎",
+  "artist": "フジファブリック",
+  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "夏恋慕",
+  "artist": "コバソロ",
+  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "Refrain",
+  "artist": "Aimer",
+  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "逃亡",
+  "artist": "ヨルシカ",
+  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "to U",
+  "artist": "Bank Band with Salyu",
+  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "晚餐歌",
+  "artist": "tuki.",
+  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗",
+  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "初夏凛々",
+  "artist": "SINGER SONGER",
+  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "Squall",
+  "artist": "福山雅治",
+  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar",
+  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "アイノカタチ",
+  "artist": "MISIA",
+  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=19",
+  "source": "figaro.js"
+},
+    {
+  "title": "サーカスナイト",
+  "artist": "七尾旅人",
+  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=20",
+  "source": "figaro.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "中島愛",
+  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "One Last Kiss",
+  "artist": "宇多田ヒカル",
+  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "センチメンタルクライシス",
+  "artist": "halca",
+  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "正しくなれない",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "フリージア",
+  "artist": "Uru",
+  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "月光浴",
+  "artist": "ヨルシカ",
+  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "Avid",
+  "artist": "SawanoHiroyuki[nZk]mizuki",
+  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "ウィアートル",
+  "artist": "rionos",
+  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "スピラーレ",
+  "artist": "牧野由依",
+  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "はるのとなり",
+  "artist": "佐々木恵梨",
+  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿ヒデノリ",
+  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official HIGE DANdism",
+  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "キャットラビング",
+  "artist": "香椎モイミ",
+  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "ルマ",
+  "artist": "かいりきベア",
+  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "Shout Baby",
+  "artist": "緑黄色社会",
+  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "RE: I AM",
+  "artist": "Aimer",
+  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "コバルトメモリーズ",
+  "artist": "はるまきごはん",
+  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "フロントメモリー",
+  "artist": "鈴木瑛美子 × 亀田誠治",
+  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "夏祭り",
+  "artist": "ジッタリン・ジン",
+  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "踊",
+  "artist": "Ado",
+  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "鬼ノ宴",
+  "artist": "友成空",
+  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "長く短い祭",
+  "artist": "椎名林檎",
+  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "不埒な喝采",
+  "artist": "ポリスピカデリー",
+  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "ルーマー",
+  "artist": "ポリスピカデリー",
+  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=19",
+  "source": "figaro.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団",
+  "collection": "【240708】【Figaro】9】#184忘れじの言の葉、私とワルツを、最愛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sxabehEa2?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "パレード",
+  "artist": "ヨルシカ",
+  "collection": "【240708】【Figaro】9】#184忘れじの言の葉、私とワルツを、最愛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sxabehEa2?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "私とワルツを",
+  "artist": "鬼束ちひろ",
+  "collection": "【240708】【Figaro】9】#184忘れじの言の葉、私とワルツを、最愛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sxabehEa2?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "最愛",
+  "artist": "KOH+",
+  "collection": "【240708】【Figaro】9】#184忘れじの言の葉、私とワルツを、最愛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sxabehEa2?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "再会",
+  "artist": "LiSA × Uru",
+  "collection": "【240708】【Figaro】9】#184忘れじの言の葉、私とワルツを、最愛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sxabehEa2?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "フクロウ~フクロウが知らせる客が来たと~",
+  "artist": "KOKIA",
+  "collection": "【240708】【Figaro】9】#184忘れじの言の葉、私とワルツを、最愛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sxabehEa2?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "対象a",
+  "artist": "anNina",
+  "collection": "【240708】【Figaro】9】#184忘れじの言の葉、私とワルツを、最愛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sxabehEa2?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【240708】【Figaro】9】#184忘れじの言の葉、私とワルツを、最愛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sxabehEa2?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "さよならミッドナイト",
+  "artist": "大柴広己",
+  "collection": "【240708】【Figaro】9】#184忘れじの言の葉、私とワルツを、最愛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sxabehEa2?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "ナブナ",
+  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "雨き声残響",
+  "artist": "Orangestar",
+  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40メートルP",
+  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太",
+  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27",
+  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP",
+  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "アイロニ",
+  "artist": "すこっぷ",
+  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz",
+  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "明けない夜のリリィ",
+  "artist": "傘村トータ",
+  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P",
+  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "glow",
+  "artist": "keeno",
+  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "from Y to Y",
+  "artist": "ジミーサムP",
+  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "ワールド・ランプシェード",
+  "artist": "buzzG",
+  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "あの夏が飽和する。",
+  "artist": "カンザキイオリ",
+  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "群青日和",
+  "artist": "東京事変",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "GLAMOROUS SKY",
+  "artist": "中島美嘉",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "平野綾",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "ReRe",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "Missing",
+  "artist": "ELLEGARDEN",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "ゴーストルール",
+  "artist": "DECO*27",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "睨めっ娘",
+  "artist": "友成空",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "ハイド・アンド・シーク",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "ずうっといっしょ！",
+  "artist": "キタニタツヤ",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "メフィスト",
+  "artist": "女王蜂",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "テレキャスタービーボーイ",
+  "artist": "すりぃ",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "エゴロック",
+  "artist": "すりぃ",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "Brave Shine",
+  "artist": "Aimer",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "可愛くてごめん",
+  "artist": "HoneyWorks",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "バレリーコ",
+  "artist": "みきとP",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "三日月サンセット",
+  "artist": "サカナクション",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=19",
+  "source": "figaro.js"
+},
+    {
+  "title": "幽霊東京",
+  "artist": "Ayase",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=20",
+  "source": "figaro.js"
+},
+    {
+  "title": "fake face dance music",
+  "artist": "音田雅則",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=21",
+  "source": "figaro.js"
+},
+    {
+  "title": "サウダージ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=22",
+  "source": "figaro.js"
+},
+    {
+  "title": "世界五分前仮説",
+  "artist": "有形ランペイジ",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=23",
+  "source": "figaro.js"
+},
+    {
+  "title": "幾望の月",
+  "artist": "なきゃむりゃ",
+  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=24",
+  "source": "figaro.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団",
+  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz",
+  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "バルーン",
+  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "たぶん",
+  "artist": "YOASOBI",
+  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "楽園",
+  "artist": "春野",
+  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "小夜子",
+  "artist": "みきとP",
+  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "fix",
+  "artist": "keeno",
+  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "ほんの少しのさよなら",
+  "artist": "電ポルP",
+  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "メトロノーム",
+  "artist": "米津玄師",
+  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "Ham",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ",
+  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ",
+  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "盗作",
+  "artist": "ヨルシカ",
+  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "テロメアの産声",
+  "artist": "Heavenz",
+  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "W/X/Y",
+  "artist": "Tani Yuuki",
+  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "プラネテス",
+  "artist": "キタニタツヤ",
+  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "ありあまる富",
+  "artist": "椎名林檎",
+  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "食虫植物",
+  "artist": "理芽",
+  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "さみしいひと",
+  "artist": "理芽",
+  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜間飛行",
+  "artist": "藍色にしもん",
+  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "カガリビト",
+  "artist": "millstones",
+  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "フォトンブルー",
+  "artist": "はるまきごはん",
+  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "私が明日死ぬなら",
+  "artist": "キタニタツヤ",
+  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "記憶の水槽",
+  "artist": "キタニタツヤ",
+  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN",
+  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=19",
+  "source": "figaro.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP",
+  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "メトロノーム",
+  "artist": "米津玄師",
+  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "ナブナ",
+  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "可愛いあの子が気にゐらない",
+  "artist": "なるみや",
+  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "夏の半券",
+  "artist": "みきとP",
+  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "(恋は)百年戦争",
+  "artist": "相対性理論",
+  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団",
+  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "睨めっ娘",
+  "artist": "友成空",
+  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "nuit",
+  "artist": "春野",
+  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "少年時代",
+  "artist": "井上陽水",
+  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "secret base ～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "真夏の果実",
+  "artist": "サザンオールスターズ",
+  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奧華子",
+  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "海の幽霊",
+  "artist": "米津玄師",
+  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "すずめ",
+  "artist": "RADWIMPS",
+  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "月のしずく",
+  "artist": "柴咲コウ",
+  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "夕立のりぼん",
+  "artist": "みきとP",
+  "collection": "【240814【Figaro】9【定期歌回#20】夕立のりぼん、ツギハギスタッカート、チノカテ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rzYUejEuk?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "ツギハギスタッカート",
+  "artist": "とあ",
+  "collection": "【240814【Figaro】9【定期歌回#20】夕立のりぼん、ツギハギスタッカート、チノカテ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rzYUejEuk?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "チノカテ",
+  "artist": "ヨルシカ",
+  "collection": "【240814【Figaro】9【定期歌回#20】夕立のりぼん、ツギハギスタッカート、チノカテ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rzYUejEuk?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【240814【Figaro】9【定期歌回#20】夕立のりぼん、ツギハギスタッカート、チノカテ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rzYUejEuk?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "ふうせん",
+  "artist": "酸欠少女さユり",
+  "collection": "【240814【Figaro】9【定期歌回#20】夕立のりぼん、ツギハギスタッカート、チノカテ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rzYUejEuk?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【240814【Figaro】9【定期歌回#20】夕立のりぼん、ツギハギスタッカート、チノカテ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rzYUejEuk?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "【240814【Figaro】9【定期歌回#20】夕立のりぼん、ツギハギスタッカート、チノカテ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rzYUejEuk?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "【240814【Figaro】9【定期歌回#20】夕立のりぼん、ツギハギスタッカート、チノカテ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rzYUejEuk?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "家に帰ろう（マイ・スイート・ホーム）",
+  "artist": "竹内まりや",
+  "collection": "【240814【Figaro】9【定期歌回#20】夕立のりぼん、ツギハギスタッカート、チノカテ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rzYUejEuk?p=9",
   "source": "figaro.js"
 },
     {
@@ -15782,118 +17838,6 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
-  "title": "朱色の砂浜",
-  "artist": "みきとP",
-  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=1",
-  "source": "figaro.js"
-},
-    {
-  "title": "思想犯",
-  "artist": "ヨルシカ",
-  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=2",
-  "source": "figaro.js"
-},
-    {
-  "title": "オリオンをなぞる",
-  "artist": "UNISON SQUARE GARDEN",
-  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=3",
-  "source": "figaro.js"
-},
-    {
-  "title": "海の幽霊",
-  "artist": "米津玄師",
-  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=4",
-  "source": "figaro.js"
-},
-    {
-  "title": "翡翠のまち",
-  "artist": "メル",
-  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=5",
-  "source": "figaro.js"
-},
-    {
-  "title": "Shout Baby",
-  "artist": "緑黄色社会",
-  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=6",
-  "source": "figaro.js"
-},
-    {
-  "title": "花になって",
-  "artist": "緑黄色社会",
-  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=7",
-  "source": "figaro.js"
-},
-    {
-  "title": "ばらの花",
-  "artist": "くるり",
-  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=8",
-  "source": "figaro.js"
-},
-    {
-  "title": "メトロノーム",
-  "artist": "米津玄師",
-  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=9",
-  "source": "figaro.js"
-},
-    {
-  "title": "曖昧劣情Lover",
-  "artist": "電ポルP",
-  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=10",
-  "source": "figaro.js"
-},
-    {
-  "title": "Squall",
-  "artist": "福山雅治",
-  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=11",
-  "source": "figaro.js"
-},
-    {
-  "title": "準透明少年",
-  "artist": "ヨルシカ",
-  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=12",
-  "source": "figaro.js"
-},
-    {
-  "title": "心に穴が空いた",
-  "artist": "ヨルシカ",
-  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=13",
-  "source": "figaro.js"
-},
-    {
-  "title": "とても素敵な六月でした",
-  "artist": "Eight",
-  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=14",
-  "source": "figaro.js"
-},
-    {
   "title": "三日月",
   "artist": "絢香",
   "collection": "【#歌枠/#KARAOKE】七夕之夜寄托愿望🌙安眠 Singing Stream 【 Figaro Vtuber 】",
@@ -16011,6 +17955,118 @@ window.SONG_DATA.push(
   "collection": "【#歌枠/#KARAOKE】七夕之夜寄托愿望🌙安眠 Singing Stream 【 Figaro Vtuber 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AY31zmEBc?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "朱色の砂浜",
+  "artist": "みきとP",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "海の幽霊",
+  "artist": "米津玄師",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "翡翠のまち",
+  "artist": "メル",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "Shout Baby",
+  "artist": "緑黄色社会",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "ばらの花",
+  "artist": "くるり",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "メトロノーム",
+  "artist": "米津玄師",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "曖昧劣情Lover",
+  "artist": "電ポルP",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "Squall",
+  "artist": "福山雅治",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "心に穴が空いた",
+  "artist": "ヨルシカ",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight",
+  "collection": "【 #歌枠 / karaoke 】おかえりなさい！歌ってるよ～！ #vtuber #shorts",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N831zSEpg?p=14",
   "source": "figaro.js"
 },
     {
@@ -19886,6 +21942,134 @@ window.SONG_DATA.push(
   "source": "figaro.js"
 },
     {
+  "title": "パレード",
+  "artist": "ヨルシカ",
+  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "エルマ",
+  "artist": "ヨルシカ",
+  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "かたちあるもの",
+  "artist": "柴咲コウ",
+  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "恋に落ちて",
+  "artist": "藤田麻衣子",
+  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗",
+  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "朝を呑む",
+  "artist": "バルーン",
+  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "ふゆびより",
+  "artist": "佐々木恵梨",
+  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "はるのとなり",
+  "artist": "佐々木恵梨",
+  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=16",
+  "source": "figaro.js"
+},
+    {
   "title": "ロビンソン",
   "artist": "スピッツ",
   "collection": "【 Figaro】似乎可以同时进行纵向和横向直播！？ 2025年10月10日 #vtuber #shorts",
@@ -20019,134 +22203,6 @@ window.SONG_DATA.push(
   "collection": "【 Figaro】似乎可以同时进行纵向和横向直播！？ 2025年10月10日 #vtuber #shorts",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1r54zz8EVg?p=17",
-  "source": "figaro.js"
-},
-    {
-  "title": "パレード",
-  "artist": "ヨルシカ",
-  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=1",
-  "source": "figaro.js"
-},
-    {
-  "title": "エルマ",
-  "artist": "ヨルシカ",
-  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=2",
-  "source": "figaro.js"
-},
-    {
-  "title": "かたちあるもの",
-  "artist": "柴咲コウ",
-  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=3",
-  "source": "figaro.js"
-},
-    {
-  "title": "恋に落ちて",
-  "artist": "藤田麻衣子",
-  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=4",
-  "source": "figaro.js"
-},
-    {
-  "title": "366日",
-  "artist": "HY",
-  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=5",
-  "source": "figaro.js"
-},
-    {
-  "title": "月光",
-  "artist": "鬼束ちひろ",
-  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=6",
-  "source": "figaro.js"
-},
-    {
-  "title": "アポリア",
-  "artist": "ヨルシカ",
-  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=7",
-  "source": "figaro.js"
-},
-    {
-  "title": "怪獣",
-  "artist": "サカナクション",
-  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=8",
-  "source": "figaro.js"
-},
-    {
-  "title": "グレゴリオ",
-  "artist": "古川本舗",
-  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=9",
-  "source": "figaro.js"
-},
-    {
-  "title": "Lemon",
-  "artist": "米津玄師",
-  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=10",
-  "source": "figaro.js"
-},
-    {
-  "title": "左右盲",
-  "artist": "ヨルシカ",
-  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=11",
-  "source": "figaro.js"
-},
-    {
-  "title": "若者のすべて",
-  "artist": "フジファブリック",
-  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=12",
-  "source": "figaro.js"
-},
-    {
-  "title": "朝を呑む",
-  "artist": "バルーン",
-  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=13",
-  "source": "figaro.js"
-},
-    {
-  "title": "ふゆびより",
-  "artist": "佐々木恵梨",
-  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=14",
-  "source": "figaro.js"
-},
-    {
-  "title": "はるのとなり",
-  "artist": "佐々木恵梨",
-  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=15",
-  "source": "figaro.js"
-},
-    {
-  "title": "ドライフラワー",
-  "artist": "優里",
-  "collection": "【 Figaro】🌙 #239  安眠できる歌枠🌟ライブお疲れ様でした 2025年10月13日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rV4zzcE8K?p=16",
   "source": "figaro.js"
 },
     {
@@ -34867,2062 +36923,6 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-10-04]助眠歌回✨睡前请听🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YrHH6gEsr?p=14",
-  "source": "figaro.js"
-},
-    {
-  "title": "春の歌",
-  "artist": "スピッツ",
-  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=1",
-  "source": "figaro.js"
-},
-    {
-  "title": "ギラギラ",
-  "artist": "Ado",
-  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=2",
-  "source": "figaro.js"
-},
-    {
-  "title": "シリウスの心臓",
-  "artist": "ヰ世界情緒",
-  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=3",
-  "source": "figaro.js"
-},
-    {
-  "title": "クリスマスソング",
-  "artist": "back number",
-  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=4",
-  "source": "figaro.js"
-},
-    {
-  "title": "対象a",
-  "artist": "anNina",
-  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=5",
-  "source": "figaro.js"
-},
-    {
-  "title": "ノーチラス",
-  "artist": "ヨルシカ",
-  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=6",
-  "source": "figaro.js"
-},
-    {
-  "title": "ワールド・ランプシェード",
-  "artist": "buzzG",
-  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=7",
-  "source": "figaro.js"
-},
-    {
-  "title": "白ゆき",
-  "artist": "ナブナ",
-  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=8",
-  "source": "figaro.js"
-},
-    {
-  "title": "とても素敵な六月でした",
-  "artist": "Eight",
-  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=9",
-  "source": "figaro.js"
-},
-    {
-  "title": "あなた",
-  "artist": "HY",
-  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=10",
-  "source": "figaro.js"
-},
-    {
-  "title": "カガリビト",
-  "artist": "millstones",
-  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=11",
-  "source": "figaro.js"
-},
-    {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉",
-  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=12",
-  "source": "figaro.js"
-},
-    {
-  "title": "ビビデバ",
-  "artist": "星街すいせい",
-  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=13",
-  "source": "figaro.js"
-},
-    {
-  "title": "フクロウ~フクロウが知らせる客が来たと~",
-  "artist": "KOKIA",
-  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=14",
-  "source": "figaro.js"
-},
-    {
-  "title": "深昏睡",
-  "artist": "春野",
-  "collection": "【240610】【Figaro】#181春の歌\\ギラギラ\\シリウスの心臓\\クリスマスソング \\対象a",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1P83ceaEBe?p=15",
-  "source": "figaro.js"
-},
-    {
-  "title": "蝶々結び",
-  "artist": "Aimer",
-  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=1",
-  "source": "figaro.js"
-},
-    {
-  "title": "たばこ",
-  "artist": "コレサワ",
-  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=2",
-  "source": "figaro.js"
-},
-    {
-  "title": "染まるよ",
-  "artist": "チャットモンチー",
-  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=3",
-  "source": "figaro.js"
-},
-    {
-  "title": "Cry Baby",
-  "artist": "Official髭男dism",
-  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=4",
-  "source": "figaro.js"
-},
-    {
-  "title": "ヴィーナスとジーザス",
-  "artist": "やくしまるえつこ",
-  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=5",
-  "source": "figaro.js"
-},
-    {
-  "title": "少年よ我に帰れ",
-  "artist": "やくしまるえつこ",
-  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=6",
-  "source": "figaro.js"
-},
-    {
-  "title": "アルジャーノン",
-  "artist": "ヨルシカ",
-  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=7",
-  "source": "figaro.js"
-},
-    {
-  "title": "第一夜",
-  "artist": "ヨルシカ",
-  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=8",
-  "source": "figaro.js"
-},
-    {
-  "title": "忘れじの言の葉",
-  "artist": "未来古代楽団",
-  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=9",
-  "source": "figaro.js"
-},
-    {
-  "title": "Alice",
-  "artist": "古川本舗",
-  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=10",
-  "source": "figaro.js"
-},
-    {
-  "title": "マリーゴールド",
-  "artist": "あいみょん",
-  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=11",
-  "source": "figaro.js"
-},
-    {
-  "title": "炎",
-  "artist": "LiSA",
-  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=12",
-  "source": "figaro.js"
-},
-    {
-  "title": "ハナミズキ",
-  "artist": "一青窈",
-  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=13",
-  "source": "figaro.js"
-},
-    {
-  "title": "from Y to Y",
-  "artist": "ジミーサムP",
-  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=14",
-  "source": "figaro.js"
-},
-    {
-  "title": "からくりピエロ",
-  "artist": "40メートルP",
-  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=15",
-  "source": "figaro.js"
-},
-    {
-  "title": "rain stops, good-bye",
-  "artist": "におP",
-  "collection": "【240617】【Figaro】#182蝶々結び\\たばこ\\染まるよ \\少年よ我に帰れ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d13cenEy8?p=16",
-  "source": "figaro.js"
-},
-    {
-  "title": "斜陽",
-  "artist": "ヨルシカ",
-  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=1",
-  "source": "figaro.js"
-},
-    {
-  "title": "茜さす",
-  "artist": "Aimer",
-  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=2",
-  "source": "figaro.js"
-},
-    {
-  "title": "悪魔の子",
-  "artist": "ヒグチアイ",
-  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=3",
-  "source": "figaro.js"
-},
-    {
-  "title": "少女レイ",
-  "artist": "みきとP",
-  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=4",
-  "source": "figaro.js"
-},
-    {
-  "title": "夏の半券",
-  "artist": "みきとP",
-  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=5",
-  "source": "figaro.js"
-},
-    {
-  "title": "ハロ／ハワユ",
-  "artist": "ナノウ",
-  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=6",
-  "source": "figaro.js"
-},
-    {
-  "title": "花になって",
-  "artist": "緑黄色社会",
-  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=7",
-  "source": "figaro.js"
-},
-    {
-  "title": "晴る",
-  "artist": "ヨルシカ",
-  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=8",
-  "source": "figaro.js"
-},
-    {
-  "title": "変わらないもの",
-  "artist": "奧華子",
-  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=9",
-  "source": "figaro.js"
-},
-    {
-  "title": "怪獣の花唄",
-  "artist": "Vaundy",
-  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=10",
-  "source": "figaro.js"
-},
-    {
-  "title": "深海のリトルクライ",
-  "artist": "sasakure .UK",
-  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=11",
-  "source": "figaro.js"
-},
-    {
-  "title": "Mela!",
-  "artist": "緑黄色社会",
-  "collection": "【240605】 Figaro】#14星期三定期歌回 斜陽、変わらないもの",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jZ3TeqEFV?p=12",
-  "source": "figaro.js"
-},
-    {
-  "title": "雨とカプチーノ",
-  "artist": "ヨルシカ",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=1",
-  "source": "figaro.js"
-},
-    {
-  "title": "六月は雨上がりの街を書く",
-  "artist": "ヨルシカ",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=2",
-  "source": "figaro.js"
-},
-    {
-  "title": "ラストリゾート",
-  "artist": "Ayase feat.初音ミク",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=3",
-  "source": "figaro.js"
-},
-    {
-  "title": "CH4NGE",
-  "artist": "Giga feat.可不",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=4",
-  "source": "figaro.js"
-},
-    {
-  "title": "G4L",
-  "artist": "Giga [Artiswitch]",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=5",
-  "source": "figaro.js"
-},
-    {
-  "title": "fake face dance music",
-  "artist": "音田雅則",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=6",
-  "source": "figaro.js"
-},
-    {
-  "title": "月陽-ツキアカリ-",
-  "artist": "みきとP feat.GUMI",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=7",
-  "source": "figaro.js"
-},
-    {
-  "title": "エンヴィーベイビー",
-  "artist": "Kanaria feat.GUMI",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=8",
-  "source": "figaro.js"
-},
-    {
-  "title": "天球、彗星は夜を跨いで",
-  "artist": "星街すいせい",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=9",
-  "source": "figaro.js"
-},
-    {
-  "title": "青のすみか",
-  "artist": "キタニタツヤ [TVアニメ 呪術廻戦 懐玉・玉折]",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=10",
-  "source": "figaro.js"
-},
-    {
-  "title": "flos",
-  "artist": "R Sound Design feat.初音ミク",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=11",
-  "source": "figaro.js"
-},
-    {
-  "title": "鏡面の波",
-  "artist": "YURiKA [TVアニメ 宝石の国]",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=12",
-  "source": "figaro.js"
-},
-    {
-  "title": "雨とペトラ",
-  "artist": "バルーン feat.flower",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=13",
-  "source": "figaro.js"
-},
-    {
-  "title": "ダーリン",
-  "artist": "バルーン feat.flower",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=14",
-  "source": "figaro.js"
-},
-    {
-  "title": "ロウワー",
-  "artist": "ぬゆり feat.flower [プロジェクトセカイ カラフルステージ！]",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=15",
-  "source": "figaro.js"
-},
-    {
-  "title": "ジェヘナ",
-  "artist": "wotaku feat.初音ミク",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=16",
-  "source": "figaro.js"
-},
-    {
-  "title": "砂糖玉の月",
-  "artist": "やなぎなぎ [TVアニメ キノの旅 -the Beautiful World- the Animated Series]",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=17",
-  "source": "figaro.js"
-},
-    {
-  "title": "真生活",
-  "artist": "案山子 feat.初音ミク",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=18",
-  "source": "figaro.js"
-},
-    {
-  "title": "ルーマー",
-  "artist": "ポリスピカデリー feat.GUMI",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=19",
-  "source": "figaro.js"
-},
-    {
-  "title": "GURU",
-  "artist": "じん feat.可不",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=20",
-  "source": "figaro.js"
-},
-    {
-  "title": "フォニイ",
-  "artist": "ツミキ feat.可不",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=21",
-  "source": "figaro.js"
-},
-    {
-  "title": "病名は愛だった",
-  "artist": "Neru & z'5 feat.鏡音リン・鏡音レン",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=22",
-  "source": "figaro.js"
-},
-    {
-  "title": "Gimme×Gimme",
-  "artist": "八王子P×Giga feat.初音ミク・鏡音リン",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=23",
-  "source": "figaro.js"
-},
-    {
-  "title": "第三の心臓",
-  "artist": "はるまきごはん feat.初音ミク",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=24",
-  "source": "figaro.js"
-},
-    {
-  "title": "鬼ノ宴",
-  "artist": "友成空",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=25",
-  "source": "figaro.js"
-},
-    {
-  "title": "唱",
-  "artist": "Ado",
-  "collection": "【240621】【Figaro】竖屏25】ハロ/ハワユ 、真生活、GURU、唱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MQ3KeXEXG?p=26",
-  "source": "figaro.js"
-},
-    {
-  "title": "夜明けと蛍",
-  "artist": "ナブナ",
-  "collection": "【240627】【Figaro 】星期三定期歌回15",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=1",
-  "source": "figaro.js"
-},
-    {
-  "title": "アイスクリーム シンドローム",
-  "artist": "スキマスイッチ",
-  "collection": "【240627】【Figaro 】星期三定期歌回15",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=2",
-  "source": "figaro.js"
-},
-    {
-  "title": "ただ君に晴れ",
-  "artist": "ヨルシカ",
-  "collection": "【240627】【Figaro 】星期三定期歌回15",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=3",
-  "source": "figaro.js"
-},
-    {
-  "title": "夏色",
-  "artist": "ゆず",
-  "collection": "【240627】【Figaro 】星期三定期歌回15",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=4",
-  "source": "figaro.js"
-},
-    {
-  "title": "サマータイムレコード",
-  "artist": "じん",
-  "collection": "【240627】【Figaro 】星期三定期歌回15",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=5",
-  "source": "figaro.js"
-},
-    {
-  "title": "プラネタリウム",
-  "artist": "大塚愛",
-  "collection": "【240627】【Figaro 】星期三定期歌回15",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=6",
-  "source": "figaro.js"
-},
-    {
-  "title": "靴の花火",
-  "artist": "ヨルシカ",
-  "collection": "【240627】【Figaro 】星期三定期歌回15",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=7",
-  "source": "figaro.js"
-},
-    {
-  "title": "ドリームレス・ドリームス",
-  "artist": "はるまきごはん",
-  "collection": "【240627】【Figaro 】星期三定期歌回15",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=8",
-  "source": "figaro.js"
-},
-    {
-  "title": "うたかた花火",
-  "artist": "supercell",
-  "collection": "【240627】【Figaro 】星期三定期歌回15",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=9",
-  "source": "figaro.js"
-},
-    {
-  "title": "打上花火",
-  "artist": "DAOKO × 米津玄師",
-  "collection": "【240627】【Figaro 】星期三定期歌回15",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=10",
-  "source": "figaro.js"
-},
-    {
-  "title": "快晴",
-  "artist": "Orangestar",
-  "collection": "【240627】【Figaro 】星期三定期歌回15",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=11",
-  "source": "figaro.js"
-},
-    {
-  "title": "夏の半券",
-  "artist": "みきとP",
-  "collection": "【240627】【Figaro 】星期三定期歌回15",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1m63CeREuT?p=12",
-  "source": "figaro.js"
-},
-    {
-  "title": "とても素敵な六月でした",
-  "artist": "Eight",
-  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=1",
-  "source": "figaro.js"
-},
-    {
-  "title": "[Short Ver.] 若者のすべて",
-  "artist": "フジファブリック",
-  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=2",
-  "source": "figaro.js"
-},
-    {
-  "title": "陽炎",
-  "artist": "フジファブリック",
-  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=3",
-  "source": "figaro.js"
-},
-    {
-  "title": "君の知らない物語",
-  "artist": "supercell",
-  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=4",
-  "source": "figaro.js"
-},
-    {
-  "title": "夏恋慕",
-  "artist": "コバソロ",
-  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=5",
-  "source": "figaro.js"
-},
-    {
-  "title": "Refrain",
-  "artist": "Aimer",
-  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=6",
-  "source": "figaro.js"
-},
-    {
-  "title": "雲と幽霊",
-  "artist": "ヨルシカ",
-  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=7",
-  "source": "figaro.js"
-},
-    {
-  "title": "逃亡",
-  "artist": "ヨルシカ",
-  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=8",
-  "source": "figaro.js"
-},
-    {
-  "title": "都落ち",
-  "artist": "ヨルシカ",
-  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=9",
-  "source": "figaro.js"
-},
-    {
-  "title": "to U",
-  "artist": "Bank Band with Salyu",
-  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=10",
-  "source": "figaro.js"
-},
-    {
-  "title": "晚餐歌",
-  "artist": "tuki.",
-  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=11",
-  "source": "figaro.js"
-},
-    {
-  "title": "グレゴリオ",
-  "artist": "古川本舗",
-  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=12",
-  "source": "figaro.js"
-},
-    {
-  "title": "いのちの名前",
-  "artist": "木村弓",
-  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=13",
-  "source": "figaro.js"
-},
-    {
-  "title": "月光",
-  "artist": "鬼束ちひろ",
-  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=14",
-  "source": "figaro.js"
-},
-    {
-  "title": "初夏凛々",
-  "artist": "SINGER SONGER",
-  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=15",
-  "source": "figaro.js"
-},
-    {
-  "title": "Squall",
-  "artist": "福山雅治",
-  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=16",
-  "source": "figaro.js"
-},
-    {
-  "title": "回る空うさぎ",
-  "artist": "Orangestar",
-  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=17",
-  "source": "figaro.js"
-},
-    {
-  "title": "三日月",
-  "artist": "絢香",
-  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=18",
-  "source": "figaro.js"
-},
-    {
-  "title": "アイノカタチ",
-  "artist": "MISIA",
-  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=19",
-  "source": "figaro.js"
-},
-    {
-  "title": "サーカスナイト",
-  "artist": "七尾旅人",
-  "collection": "【240701】【 Figaro】20】#183💐陽炎、君の知らない物語、夏恋慕、雲と幽霊",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV16a8ZewEeW?p=20",
-  "source": "figaro.js"
-},
-    {
-  "title": "星間飛行",
-  "artist": "中島愛",
-  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=1",
-  "source": "figaro.js"
-},
-    {
-  "title": "新時代",
-  "artist": "Ado",
-  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=2",
-  "source": "figaro.js"
-},
-    {
-  "title": "残酷な天使のテーゼ",
-  "artist": "高橋洋子",
-  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=3",
-  "source": "figaro.js"
-},
-    {
-  "title": "One Last Kiss",
-  "artist": "宇多田ヒカル",
-  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=4",
-  "source": "figaro.js"
-},
-    {
-  "title": "センチメンタルクライシス",
-  "artist": "halca",
-  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=5",
-  "source": "figaro.js"
-},
-    {
-  "title": "コネクト",
-  "artist": "ClariS",
-  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=6",
-  "source": "figaro.js"
-},
-    {
-  "title": "空色デイズ",
-  "artist": "中川翔子",
-  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=7",
-  "source": "figaro.js"
-},
-    {
-  "title": "正しくなれない",
-  "artist": "ずっと真夜中でいいのに。",
-  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=8",
-  "source": "figaro.js"
-},
-    {
-  "title": "フリージア",
-  "artist": "Uru",
-  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=9",
-  "source": "figaro.js"
-},
-    {
-  "title": "月光浴",
-  "artist": "ヨルシカ",
-  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=10",
-  "source": "figaro.js"
-},
-    {
-  "title": "晴る",
-  "artist": "ヨルシカ",
-  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=11",
-  "source": "figaro.js"
-},
-    {
-  "title": "Avid",
-  "artist": "SawanoHiroyuki[nZk]mizuki",
-  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=12",
-  "source": "figaro.js"
-},
-    {
-  "title": "ウィアートル",
-  "artist": "rionos",
-  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=13",
-  "source": "figaro.js"
-},
-    {
-  "title": "スピラーレ",
-  "artist": "牧野由依",
-  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=14",
-  "source": "figaro.js"
-},
-    {
-  "title": "はるのとなり",
-  "artist": "佐々木恵梨",
-  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=15",
-  "source": "figaro.js"
-},
-    {
-  "title": "嘘月",
-  "artist": "ヨルシカ",
-  "collection": "【240704】【Figaro】水曜定期歌回#16 动漫主题歌回   新時代、残酷な天使のテーゼ、One Last Kiss",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1PKhyeiEYa?p=16",
-  "source": "figaro.js"
-},
-    {
-  "title": "カサブタ",
-  "artist": "千綿ヒデノリ",
-  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=1",
-  "source": "figaro.js"
-},
-    {
-  "title": "ミックスナッツ",
-  "artist": "Official HIGE DANdism",
-  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=2",
-  "source": "figaro.js"
-},
-    {
-  "title": "キャットラビング",
-  "artist": "香椎モイミ",
-  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=3",
-  "source": "figaro.js"
-},
-    {
-  "title": "ルマ",
-  "artist": "かいりきベア",
-  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=4",
-  "source": "figaro.js"
-},
-    {
-  "title": "ピースサイン",
-  "artist": "米津玄師",
-  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=5",
-  "source": "figaro.js"
-},
-    {
-  "title": "Shout Baby",
-  "artist": "緑黄色社会",
-  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=6",
-  "source": "figaro.js"
-},
-    {
-  "title": "RE: I AM",
-  "artist": "Aimer",
-  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=7",
-  "source": "figaro.js"
-},
-    {
-  "title": "コバルトメモリーズ",
-  "artist": "はるまきごはん",
-  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=8",
-  "source": "figaro.js"
-},
-    {
-  "title": "フロントメモリー",
-  "artist": "鈴木瑛美子 × 亀田誠治",
-  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=9",
-  "source": "figaro.js"
-},
-    {
-  "title": "夏祭り",
-  "artist": "ジッタリン・ジン",
-  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=10",
-  "source": "figaro.js"
-},
-    {
-  "title": "絶頂讃歌",
-  "artist": "和ぬか",
-  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=11",
-  "source": "figaro.js"
-},
-    {
-  "title": "踊",
-  "artist": "Ado",
-  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=12",
-  "source": "figaro.js"
-},
-    {
-  "title": "鬼ノ宴",
-  "artist": "友成空",
-  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=13",
-  "source": "figaro.js"
-},
-    {
-  "title": "打上花火",
-  "artist": "DAOKO × 米津玄師",
-  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=14",
-  "source": "figaro.js"
-},
-    {
-  "title": "長く短い祭",
-  "artist": "椎名林檎",
-  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=15",
-  "source": "figaro.js"
-},
-    {
-  "title": "不埒な喝采",
-  "artist": "ポリスピカデリー",
-  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=16",
-  "source": "figaro.js"
-},
-    {
-  "title": "ルーマー",
-  "artist": "ポリスピカデリー",
-  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=17",
-  "source": "figaro.js"
-},
-    {
-  "title": "群青",
-  "artist": "YOASOBI",
-  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=18",
-  "source": "figaro.js"
-},
-    {
-  "title": "ビビデバ",
-  "artist": "星街すいせい",
-  "collection": "【240705】【 Figaro】19竖屏】カサブタ、ミックスナッツ、キャットラビング、ルマ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1eBaweqEv5?p=19",
-  "source": "figaro.js"
-},
-    {
-  "title": "忘れじの言の葉",
-  "artist": "未来古代楽団",
-  "collection": "【240708】【Figaro】9】#184忘れじの言の葉、私とワルツを、最愛",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sxabehEa2?p=1",
-  "source": "figaro.js"
-},
-    {
-  "title": "パレード",
-  "artist": "ヨルシカ",
-  "collection": "【240708】【Figaro】9】#184忘れじの言の葉、私とワルツを、最愛",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sxabehEa2?p=2",
-  "source": "figaro.js"
-},
-    {
-  "title": "私とワルツを",
-  "artist": "鬼束ちひろ",
-  "collection": "【240708】【Figaro】9】#184忘れじの言の葉、私とワルツを、最愛",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sxabehEa2?p=3",
-  "source": "figaro.js"
-},
-    {
-  "title": "最愛",
-  "artist": "KOH+",
-  "collection": "【240708】【Figaro】9】#184忘れじの言の葉、私とワルツを、最愛",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sxabehEa2?p=4",
-  "source": "figaro.js"
-},
-    {
-  "title": "再会",
-  "artist": "LiSA × Uru",
-  "collection": "【240708】【Figaro】9】#184忘れじの言の葉、私とワルツを、最愛",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sxabehEa2?p=5",
-  "source": "figaro.js"
-},
-    {
-  "title": "フクロウ~フクロウが知らせる客が来たと~",
-  "artist": "KOKIA",
-  "collection": "【240708】【Figaro】9】#184忘れじの言の葉、私とワルツを、最愛",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sxabehEa2?p=6",
-  "source": "figaro.js"
-},
-    {
-  "title": "対象a",
-  "artist": "anNina",
-  "collection": "【240708】【Figaro】9】#184忘れじの言の葉、私とワルツを、最愛",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sxabehEa2?p=7",
-  "source": "figaro.js"
-},
-    {
-  "title": "アルジャーノン",
-  "artist": "ヨルシカ",
-  "collection": "【240708】【Figaro】9】#184忘れじの言の葉、私とワルツを、最愛",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sxabehEa2?p=8",
-  "source": "figaro.js"
-},
-    {
-  "title": "さよならミッドナイト",
-  "artist": "大柴広己",
-  "collection": "【240708】【Figaro】9】#184忘れじの言の葉、私とワルツを、最愛",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sxabehEa2?p=9",
-  "source": "figaro.js"
-},
-    {
-  "title": "夜明けと蛍",
-  "artist": "ナブナ",
-  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=1",
-  "source": "figaro.js"
-},
-    {
-  "title": "雨き声残響",
-  "artist": "Orangestar",
-  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=2",
-  "source": "figaro.js"
-},
-    {
-  "title": "からくりピエロ",
-  "artist": "40メートルP",
-  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=3",
-  "source": "figaro.js"
-},
-    {
-  "title": "いかないで",
-  "artist": "想太",
-  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=4",
-  "source": "figaro.js"
-},
-    {
-  "title": "妄想感傷代償連盟",
-  "artist": "DECO*27",
-  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=5",
-  "source": "figaro.js"
-},
-    {
-  "title": "rain stops, good-bye",
-  "artist": "におP",
-  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=6",
-  "source": "figaro.js"
-},
-    {
-  "title": "アイロニ",
-  "artist": "すこっぷ",
-  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=7",
-  "source": "figaro.js"
-},
-    {
-  "title": "それがあなたの幸せとしても",
-  "artist": "Heavenz",
-  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=8",
-  "source": "figaro.js"
-},
-    {
-  "title": "明けない夜のリリィ",
-  "artist": "傘村トータ",
-  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=9",
-  "source": "figaro.js"
-},
-    {
-  "title": "心做し",
-  "artist": "蝶々P",
-  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=10",
-  "source": "figaro.js"
-},
-    {
-  "title": "glow",
-  "artist": "keeno",
-  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=11",
-  "source": "figaro.js"
-},
-    {
-  "title": "from Y to Y",
-  "artist": "ジミーサムP",
-  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=12",
-  "source": "figaro.js"
-},
-    {
-  "title": "ワールド・ランプシェード",
-  "artist": "buzzG",
-  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=13",
-  "source": "figaro.js"
-},
-    {
-  "title": "あの夏が飽和する。",
-  "artist": "カンザキイオリ",
-  "collection": "【240711】【Figaro 】14】星期三定期歌回17 ボカロ专题",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1FJaneYEr1?p=14",
-  "source": "figaro.js"
-},
-    {
-  "title": "青のすみか",
-  "artist": "キタニタツヤ",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=1",
-  "source": "figaro.js"
-},
-    {
-  "title": "ロキ",
-  "artist": "みきとP",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=2",
-  "source": "figaro.js"
-},
-    {
-  "title": "群青日和",
-  "artist": "東京事変",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=3",
-  "source": "figaro.js"
-},
-    {
-  "title": "GLAMOROUS SKY",
-  "artist": "中島美嘉",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=4",
-  "source": "figaro.js"
-},
-    {
-  "title": "God knows...",
-  "artist": "平野綾",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=5",
-  "source": "figaro.js"
-},
-    {
-  "title": "ReRe",
-  "artist": "ASIAN KUNG-FU GENERATION",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=6",
-  "source": "figaro.js"
-},
-    {
-  "title": "Missing",
-  "artist": "ELLEGARDEN",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=7",
-  "source": "figaro.js"
-},
-    {
-  "title": "ヒバナ",
-  "artist": "DECO*27",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=8",
-  "source": "figaro.js"
-},
-    {
-  "title": "ゴーストルール",
-  "artist": "DECO*27",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=9",
-  "source": "figaro.js"
-},
-    {
-  "title": "睨めっ娘",
-  "artist": "友成空",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=10",
-  "source": "figaro.js"
-},
-    {
-  "title": "ハイド・アンド・シーク",
-  "artist": "NOMELON NOLEMON",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=11",
-  "source": "figaro.js"
-},
-    {
-  "title": "ずうっといっしょ！",
-  "artist": "キタニタツヤ",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=12",
-  "source": "figaro.js"
-},
-    {
-  "title": "メフィスト",
-  "artist": "女王蜂",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=13",
-  "source": "figaro.js"
-},
-    {
-  "title": "テレキャスタービーボーイ",
-  "artist": "すりぃ",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=14",
-  "source": "figaro.js"
-},
-    {
-  "title": "エゴロック",
-  "artist": "すりぃ",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=15",
-  "source": "figaro.js"
-},
-    {
-  "title": "Brave Shine",
-  "artist": "Aimer",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=16",
-  "source": "figaro.js"
-},
-    {
-  "title": "可愛くてごめん",
-  "artist": "HoneyWorks",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=17",
-  "source": "figaro.js"
-},
-    {
-  "title": "バレリーコ",
-  "artist": "みきとP",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=18",
-  "source": "figaro.js"
-},
-    {
-  "title": "三日月サンセット",
-  "artist": "サカナクション",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=19",
-  "source": "figaro.js"
-},
-    {
-  "title": "幽霊東京",
-  "artist": "Ayase",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=20",
-  "source": "figaro.js"
-},
-    {
-  "title": "fake face dance music",
-  "artist": "音田雅則",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=21",
-  "source": "figaro.js"
-},
-    {
-  "title": "サウダージ",
-  "artist": "ポルノグラフィティ",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=22",
-  "source": "figaro.js"
-},
-    {
-  "title": "世界五分前仮説",
-  "artist": "有形ランペイジ",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=23",
-  "source": "figaro.js"
-},
-    {
-  "title": "幾望の月",
-  "artist": "なきゃむりゃ",
-  "collection": "【240712】【Figaro】24竖屏】路上的突击歌回 青のすみか、ロキ、群青日和",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1U4bxeHEkT?p=24",
-  "source": "figaro.js"
-},
-    {
-  "title": "秒針を噛む",
-  "artist": "ずっと真夜中でいいのに。",
-  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=1",
-  "source": "figaro.js"
-},
-    {
-  "title": "忘れじの言の葉",
-  "artist": "未来古代楽団",
-  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=2",
-  "source": "figaro.js"
-},
-    {
-  "title": "月のワルツ",
-  "artist": "諫山実生",
-  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=3",
-  "source": "figaro.js"
-},
-    {
-  "title": "それがあなたの幸せとしても",
-  "artist": "Heavenz",
-  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=4",
-  "source": "figaro.js"
-},
-    {
-  "title": "ダーリン",
-  "artist": "バルーン",
-  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=5",
-  "source": "figaro.js"
-},
-    {
-  "title": "たぶん",
-  "artist": "YOASOBI",
-  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=6",
-  "source": "figaro.js"
-},
-    {
-  "title": "左右盲",
-  "artist": "ヨルシカ",
-  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=7",
-  "source": "figaro.js"
-},
-    {
-  "title": "楽園",
-  "artist": "春野",
-  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=8",
-  "source": "figaro.js"
-},
-    {
-  "title": "少女レイ",
-  "artist": "みきとP",
-  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=9",
-  "source": "figaro.js"
-},
-    {
-  "title": "君の知らない物語",
-  "artist": "supercell",
-  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=10",
-  "source": "figaro.js"
-},
-    {
-  "title": "ドライフラワー",
-  "artist": "優里",
-  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=11",
-  "source": "figaro.js"
-},
-    {
-  "title": "小夜子",
-  "artist": "みきとP",
-  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=12",
-  "source": "figaro.js"
-},
-    {
-  "title": "fix",
-  "artist": "keeno",
-  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=13",
-  "source": "figaro.js"
-},
-    {
-  "title": "ほんの少しのさよなら",
-  "artist": "電ポルP",
-  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=14",
-  "source": "figaro.js"
-},
-    {
-  "title": "メトロノーム",
-  "artist": "米津玄師",
-  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=15",
-  "source": "figaro.js"
-},
-    {
-  "title": "スパークル",
-  "artist": "RADWIMPS",
-  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=16",
-  "source": "figaro.js"
-},
-    {
-  "title": "なんでもないや",
-  "artist": "RADWIMPS",
-  "collection": "【240716】【Figaro】17】185 秒針を噛む、忘れじの言の葉、小夜子",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1QabaeGE1m?p=17",
-  "source": "figaro.js"
-},
-    {
-  "title": "Ham",
-  "artist": "ずっと真夜中でいいのに。",
-  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=1",
-  "source": "figaro.js"
-},
-    {
-  "title": "雪の華",
-  "artist": "中島美嘉",
-  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=2",
-  "source": "figaro.js"
-},
-    {
-  "title": "命に嫌われている。",
-  "artist": "カンザキイオリ",
-  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=3",
-  "source": "figaro.js"
-},
-    {
-  "title": "フォニイ",
-  "artist": "ツミキ",
-  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=4",
-  "source": "figaro.js"
-},
-    {
-  "title": "盗作",
-  "artist": "ヨルシカ",
-  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=5",
-  "source": "figaro.js"
-},
-    {
-  "title": "水平線",
-  "artist": "back number",
-  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=6",
-  "source": "figaro.js"
-},
-    {
-  "title": "テロメアの産声",
-  "artist": "Heavenz",
-  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=7",
-  "source": "figaro.js"
-},
-    {
-  "title": "W/X/Y",
-  "artist": "Tani Yuuki",
-  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=8",
-  "source": "figaro.js"
-},
-    {
-  "title": "プラネテス",
-  "artist": "キタニタツヤ",
-  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=9",
-  "source": "figaro.js"
-},
-    {
-  "title": "ありあまる富",
-  "artist": "椎名林檎",
-  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=10",
-  "source": "figaro.js"
-},
-    {
-  "title": "食虫植物",
-  "artist": "理芽",
-  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=11",
-  "source": "figaro.js"
-},
-    {
-  "title": "さみしいひと",
-  "artist": "理芽",
-  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=12",
-  "source": "figaro.js"
-},
-    {
-  "title": "夜間飛行",
-  "artist": "藍色にしもん",
-  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=13",
-  "source": "figaro.js"
-},
-    {
-  "title": "カガリビト",
-  "artist": "millstones",
-  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=14",
-  "source": "figaro.js"
-},
-    {
-  "title": "フォトンブルー",
-  "artist": "はるまきごはん",
-  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=15",
-  "source": "figaro.js"
-},
-    {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉",
-  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=16",
-  "source": "figaro.js"
-},
-    {
-  "title": "私が明日死ぬなら",
-  "artist": "キタニタツヤ",
-  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=17",
-  "source": "figaro.js"
-},
-    {
-  "title": "記憶の水槽",
-  "artist": "キタニタツヤ",
-  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=18",
-  "source": "figaro.js"
-},
-    {
-  "title": "蜜月アン・ドゥ・トロワ",
-  "artist": "DATEKEN",
-  "collection": "【240718【Figaro】19】星期三定期 #18 Ham、命に嫌われている。、盗作、食虫植物",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fq8je2EfA?p=19",
-  "source": "figaro.js"
-},
-    {
-  "title": "忘れてください",
-  "artist": "ヨルシカ",
-  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=1",
-  "source": "figaro.js"
-},
-    {
-  "title": "rain stops, good-bye",
-  "artist": "におP",
-  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=2",
-  "source": "figaro.js"
-},
-    {
-  "title": "メトロノーム",
-  "artist": "米津玄師",
-  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=3",
-  "source": "figaro.js"
-},
-    {
-  "title": "夜明けと蛍",
-  "artist": "ナブナ",
-  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=4",
-  "source": "figaro.js"
-},
-    {
-  "title": "可愛いあの子が気にゐらない",
-  "artist": "なるみや",
-  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=5",
-  "source": "figaro.js"
-},
-    {
-  "title": "若者のすべて",
-  "artist": "フジファブリック",
-  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=6",
-  "source": "figaro.js"
-},
-    {
-  "title": "夏の半券",
-  "artist": "みきとP",
-  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=7",
-  "source": "figaro.js"
-},
-    {
-  "title": "(恋は)百年戦争",
-  "artist": "相対性理論",
-  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=8",
-  "source": "figaro.js"
-},
-    {
-  "title": "蝶々結び",
-  "artist": "Aimer",
-  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=9",
-  "source": "figaro.js"
-},
-    {
-  "title": "忘れじの言の葉",
-  "artist": "未来古代楽団",
-  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=10",
-  "source": "figaro.js"
-},
-    {
-  "title": "睨めっ娘",
-  "artist": "友成空",
-  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=11",
-  "source": "figaro.js"
-},
-    {
-  "title": "nuit",
-  "artist": "春野",
-  "collection": "【240808】Figaro】周三歌回#19 忘れてください、メトロノーム、夏の半券、nuit",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1E6aQeJEpK?p=12",
-  "source": "figaro.js"
-},
-    {
-  "title": "いのちの名前",
-  "artist": "木村弓",
-  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=1",
-  "source": "figaro.js"
-},
-    {
-  "title": "プラネタリウム",
-  "artist": "大塚愛",
-  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=2",
-  "source": "figaro.js"
-},
-    {
-  "title": "少年時代",
-  "artist": "井上陽水",
-  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=3",
-  "source": "figaro.js"
-},
-    {
-  "title": "secret base ～君がくれたもの～",
-  "artist": "ZONE",
-  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=4",
-  "source": "figaro.js"
-},
-    {
-  "title": "真夏の果実",
-  "artist": "サザンオールスターズ",
-  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=5",
-  "source": "figaro.js"
-},
-    {
-  "title": "変わらないもの",
-  "artist": "奧華子",
-  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=6",
-  "source": "figaro.js"
-},
-    {
-  "title": "海の幽霊",
-  "artist": "米津玄師",
-  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=7",
-  "source": "figaro.js"
-},
-    {
-  "title": "打上花火",
-  "artist": "DAOKO × 米津玄師",
-  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=8",
-  "source": "figaro.js"
-},
-    {
-  "title": "すずめ",
-  "artist": "RADWIMPS",
-  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=9",
-  "source": "figaro.js"
-},
-    {
-  "title": "カブトムシ",
-  "artist": "aiko",
-  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=10",
-  "source": "figaro.js"
-},
-    {
-  "title": "月のしずく",
-  "artist": "柴咲コウ",
-  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=11",
-  "source": "figaro.js"
-},
-    {
-  "title": "靴の花火",
-  "artist": "ヨルシカ",
-  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=12",
-  "source": "figaro.js"
-},
-    {
-  "title": "花に亡霊",
-  "artist": "ヨルシカ",
-  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=13",
-  "source": "figaro.js"
-},
-    {
-  "title": "水平線",
-  "artist": "back number",
-  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=14",
-  "source": "figaro.js"
-},
-    {
-  "title": "忘れてください",
-  "artist": "ヨルシカ",
-  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=15",
-  "source": "figaro.js"
-},
-    {
-  "title": "ノーチラス",
-  "artist": "ヨルシカ",
-  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=16",
-  "source": "figaro.js"
-},
-    {
-  "title": "マリーゴールド",
-  "artist": "あいみょん",
-  "collection": "【240812】Figaro】#186】変わらないもの、海の幽霊、打上花火、すずめ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1N1YoeLEKu?p=17",
-  "source": "figaro.js"
-},
-    {
-  "title": "夕立のりぼん",
-  "artist": "みきとP",
-  "collection": "【240814【Figaro】9【定期歌回#20】夕立のりぼん、ツギハギスタッカート、チノカテ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rzYUejEuk?p=1",
-  "source": "figaro.js"
-},
-    {
-  "title": "ツギハギスタッカート",
-  "artist": "とあ",
-  "collection": "【240814【Figaro】9【定期歌回#20】夕立のりぼん、ツギハギスタッカート、チノカテ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rzYUejEuk?p=2",
-  "source": "figaro.js"
-},
-    {
-  "title": "チノカテ",
-  "artist": "ヨルシカ",
-  "collection": "【240814【Figaro】9【定期歌回#20】夕立のりぼん、ツギハギスタッカート、チノカテ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rzYUejEuk?p=3",
-  "source": "figaro.js"
-},
-    {
-  "title": "丸ノ内サディスティック",
-  "artist": "椎名林檎",
-  "collection": "【240814【Figaro】9【定期歌回#20】夕立のりぼん、ツギハギスタッカート、チノカテ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rzYUejEuk?p=4",
-  "source": "figaro.js"
-},
-    {
-  "title": "ふうせん",
-  "artist": "酸欠少女さユり",
-  "collection": "【240814【Figaro】9【定期歌回#20】夕立のりぼん、ツギハギスタッカート、チノカテ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rzYUejEuk?p=5",
-  "source": "figaro.js"
-},
-    {
-  "title": "花になって",
-  "artist": "緑黄色社会",
-  "collection": "【240814【Figaro】9【定期歌回#20】夕立のりぼん、ツギハギスタッカート、チノカテ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rzYUejEuk?p=6",
-  "source": "figaro.js"
-},
-    {
-  "title": "絶頂讃歌",
-  "artist": "和ぬか",
-  "collection": "【240814【Figaro】9【定期歌回#20】夕立のりぼん、ツギハギスタッカート、チノカテ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rzYUejEuk?p=7",
-  "source": "figaro.js"
-},
-    {
-  "title": "月光",
-  "artist": "鬼束ちひろ",
-  "collection": "【240814【Figaro】9【定期歌回#20】夕立のりぼん、ツギハギスタッカート、チノカテ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rzYUejEuk?p=8",
-  "source": "figaro.js"
-},
-    {
-  "title": "家に帰ろう（マイ・スイート・ホーム）",
-  "artist": "竹内まりや",
-  "collection": "【240814【Figaro】9【定期歌回#20】夕立のりぼん、ツギハギスタッカート、チノカテ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1rzYUejEuk?p=9",
   "source": "figaro.js"
 }
 );

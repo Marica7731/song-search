@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 10/5/2026, 3:18:38 PM
+// 生成时间: 10/5/2026, 4:44:45 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3110,6 +3110,134 @@ window.SONG_DATA.push(
   "source": "suu_usuwa.js"
 },
     {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "HELLO",
+  "artist": "Official髭男dism",
+  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Blooming♡Blooming",
+  "artist": "るか from AIKATSU☆STARS！",
+  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "灼熱スイッチ",
+  "artist": "雀が原中学卓球部",
+  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Shine!!",
+  "artist": "CINDERELLA PROJECT",
+  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "廻廻奇譚",
+  "artist": "Eve",
+  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=15",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=16",
+  "source": "suu_usuwa.js"
+},
+    {
   "title": "粉雪",
   "artist": "レミオロメン",
   "collection": "[2023-12-20]#57 稀羽すう 水曜日は定期歌枠粉雪 / レミオロメン",
@@ -3331,134 +3459,6 @@ window.SONG_DATA.push(
   "collection": "[2023-11-29]#55  稀羽すう 水曜日は定期歌枠 丸の内サディスティック / 椎名林檎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1k1421d7sv?p=15",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "群青",
-  "artist": "YOASOBI",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "怪物",
-  "artist": "YOASOBI",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "夜に駆ける",
-  "artist": "YOASOBI",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "春を告げる",
-  "artist": "yama",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Mela!",
-  "artist": "緑黄色社会",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ケセラセラ",
-  "artist": "Mrs. GREEN APPLE",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "HELLO",
-  "artist": "Official髭男dism",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Blooming♡Blooming",
-  "artist": "るか from AIKATSU☆STARS！",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "灼熱スイッチ",
-  "artist": "雀が原中学卓球部",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=9",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Shine!!",
-  "artist": "CINDERELLA PROJECT",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=10",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "アイドル",
-  "artist": "YOASOBI",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=11",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "青のすみか",
-  "artist": "キタニタツヤ",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=12",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "廻廻奇譚",
-  "artist": "Eve",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=13",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "晴る",
-  "artist": "ヨルシカ",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=14",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "アルジャーノン",
-  "artist": "ヨルシカ",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=15",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "空も飛べるはず",
-  "artist": "スピッツ",
-  "collection": "#67  20240417 稀羽すう 水曜定期歌枠🎶群青 / YOASOBI Mela! / 緑黄色社会",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Bp421D7wd?p=16",
   "source": "suu_usuwa.js"
 },
     {
@@ -4499,6 +4499,1830 @@ window.SONG_DATA.push(
   "collection": "【稀羽すう】🦢16竖屏】春を告げる、ダンスホール、プラチナ、オリオンをなぞる【240605】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1c442197eA?p=16",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "波乗りジョニー",
+  "artist": "桑田佳祐",
+  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "TSUNAMI",
+  "artist": "サザンオールスターズ",
+  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ファジーネーブル",
+  "artist": "Conton Candy",
+  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "まつり",
+  "artist": "藤井風",
+  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "神様、仏様",
+  "artist": "椎名林檎",
+  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ノルニル",
+  "artist": "やくしまるえつこ",
+  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "少年よ我に帰れ",
+  "artist": "やくしまるえつこ",
+  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "NOBODY KNOWS",
+  "artist": "スガシカオ",
+  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "はじまりの日 feat.Mummy-D",
+  "artist": "スガシカオ",
+  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "もっふ・いんざぼっくす♪",
+  "artist": "もふもふえん",
+  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Cafe Parade!",
+  "artist": "Cafe Parade",
+  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "MOON NIGHTのせいにして",
+  "artist": "DRAMATIC STARS",
+  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "空",
+  "artist": "音無小鳥(滝田樹里)",
+  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "夏色えがおで1, 2, Jump!",
+  "artist": "μ's",
+  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "キミの記憶",
+  "artist": "川村ゆみ",
+  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=15",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Never More",
+  "artist": "平田志穂子",
+  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=16",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "タッチ",
+  "artist": "岩崎良美",
+  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "宿命",
+  "artist": "Official髭男dism",
+  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "負けないで",
+  "artist": "ZARD",
+  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "DAN DAN 心魅かれてく",
+  "artist": "FIELD OF VIEW",
+  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "走れ正直者",
+  "artist": "西城秀樹",
+  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "勇気100%",
+  "artist": "光GENJI",
+  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "プリンプリン物語",
+  "artist": "石川ひとみ",
+  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "キューティーハニー",
+  "artist": "倖田來未",
+  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ひぐらしのなく頃に",
+  "artist": "島みやえい子",
+  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "奈落の花",
+  "artist": "島みやえい子",
+  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "you",
+  "artist": "癒月",
+  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アンインストール",
+  "artist": "石川智晶",
+  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "寝逃げでリセット!",
+  "artist": "柊つかさ(福原香織)",
+  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "炉心融解",
+  "artist": "iroha(sasaki)",
+  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=15",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru",
+  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=16",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=17",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=18",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=19",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "さよーならまたいつか！",
+  "artist": "米津玄師",
+  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=20",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ボーイフレンド",
+  "artist": "aiko",
+  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "君と夏フェス",
+  "artist": "SHISHAMO",
+  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "虹",
+  "artist": "福山雅治",
+  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI (1chorus)",
+  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "PEACH",
+  "artist": "大塚愛",
+  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "酔いどれ知らず",
+  "artist": "Kanaria",
+  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ベノム",
+  "artist": "かいりきベア",
+  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "須田景凪",
+  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "けーたいみしてよ",
+  "artist": "MAISONdes",
+  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ヨワネハキ",
+  "artist": "MAISONdes",
+  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "裏表ラバーズ",
+  "artist": "wowaka",
+  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ハロ／ハワユ",
+  "artist": "ナノウ",
+  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アイロニ",
+  "artist": "すこっぷ",
+  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=15",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "小夜子",
+  "artist": "みきとP",
+  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=16",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "刹那プラス",
+  "artist": "みきとP",
+  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=17",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "バレリーコ",
+  "artist": "みきとP",
+  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=18",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "きらきら武士",
+  "artist": "レキシ",
+  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=19",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アカシア",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "DANZEN!ふたりはプリキュア (ver.MaxHeart)",
+  "artist": "五條真由美",
+  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ビンクスの酒",
+  "artist": "麦わらの一味",
+  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "One Love",
+  "artist": "嵐",
+  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "I LOVE...",
+  "artist": "Official髭男dism",
+  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "SUN",
+  "artist": "星野源",
+  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アイデア",
+  "artist": "星野源",
+  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "TSUNAMI",
+  "artist": "サザンオールスターズ",
+  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "カントリーロード",
+  "artist": "本名陽子",
+  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ファジーネーブル",
+  "artist": "Conton Candy",
+  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=15",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ウィスキーが、お好きでしょ",
+  "artist": "SAYURI",
+  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=16",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "また君に恋してる",
+  "artist": "坂本冬美",
+  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=17",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "真赤な太陽",
+  "artist": "美空ひばり",
+  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=18",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=19",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "もう恋なんてしない",
+  "artist": "槇原敬之",
+  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=20",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "さよーならまたいつか!",
+  "artist": "米津玄師",
+  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=21",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "蒼のエーテル",
+  "artist": "ランカ・リー(中島愛)",
+  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アイモ ～鳥のひと",
+  "artist": "ランカ・リー(中島愛)",
+  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団",
+  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "世界の約束",
+  "artist": "倍賞千恵子",
+  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar",
+  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "you",
+  "artist": "癒月",
+  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "フリージア",
+  "artist": "Uru",
+  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "trust you",
+  "artist": "伊藤由奈",
+  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ループ",
+  "artist": "坂本真綾",
+  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "風待ちジェット",
+  "artist": "坂本真綾",
+  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "雫",
+  "artist": "スキマスイッチ",
+  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アンインストール",
+  "artist": "石川智晶",
+  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "インフィニティ",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "私の彼はパイロット",
+  "artist": "ランカ・リー(中島愛)",
+  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー(中島愛)",
+  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "可愛くなりたい",
+  "artist": "HoneyWorks",
+  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ヒアルロンリーガール",
+  "artist": "ZOC",
+  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "わたしの一番かわいいところ",
+  "artist": "FRUITS ZIPPER",
+  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "CLEAR",
+  "artist": "坂本真綾",
+  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "マジックナンバー",
+  "artist": "坂本真綾",
+  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "長く短い祭",
+  "artist": "椎名林檎",
+  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "女の子は誰でも",
+  "artist": "東京事変",
+  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=15",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "君と夏フェス",
+  "artist": "SHISHAMO",
+  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ミュージック・アワー",
+  "artist": "ポルノグラフィティ",
+  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "忘れてやらない",
+  "artist": "結束バンド",
+  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "LA・LA・LA LOVE SONG",
+  "artist": "久保田利伸",
+  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "TSUNAMI",
+  "artist": "サザンオールスターズ",
+  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【 稀羽すう】7竖屏】突击突击 カブトムシ、secret base～君がくれたもの～【240721】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SS8yeGEwP?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "secret base～君がくれたもの～",
+  "artist": "ZONE",
+  "collection": "【 稀羽すう】7竖屏】突击突击 カブトムシ、secret base～君がくれたもの～【240721】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SS8yeGEwP?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【 稀羽すう】7竖屏】突击突击 カブトムシ、secret base～君がくれたもの～【240721】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SS8yeGEwP?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【 稀羽すう】7竖屏】突击突击 カブトムシ、secret base～君がくれたもの～【240721】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SS8yeGEwP?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【 稀羽すう】7竖屏】突击突击 カブトムシ、secret base～君がくれたもの～【240721】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SS8yeGEwP?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【 稀羽すう】7竖屏】突击突击 カブトムシ、secret base～君がくれたもの～【240721】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SS8yeGEwP?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "夏色えがおで1, 2, Jump!",
+  "artist": "μ's",
+  "collection": "【 稀羽すう】7竖屏】突击突击 カブトムシ、secret base～君がくれたもの～【240721】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SS8yeGEwP?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Snow halation",
+  "artist": "μ's",
+  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YaekeDETy?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YaekeDETy?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "クリスマスソング",
+  "artist": "back number",
+  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YaekeDETy?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "粉雪",
+  "artist": "レミオロメン",
+  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YaekeDETy?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "初めての恋が終わる時",
+  "artist": "ryo",
+  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YaekeDETy?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑",
+  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YaekeDETy?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Subtitle",
+  "artist": "Official髭男dism",
+  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YaekeDETy?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YaekeDETy?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ダイアモンドクレバス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YaekeDETy?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "夜空ノムコウ",
+  "artist": "SMAP",
+  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YaekeDETy?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YaekeDETy?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "真生活",
+  "artist": "案山子",
+  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esv5e1Eor?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "君がいて水になる",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esv5e1Eor?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ガーデン",
+  "artist": "藤井風",
+  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esv5e1Eor?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "花",
+  "artist": "藤井風",
+  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esv5e1Eor?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "不思議",
+  "artist": "星野源",
+  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esv5e1Eor?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "喜劇",
+  "artist": "星野源",
+  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esv5e1Eor?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ルーマー",
+  "artist": "ポリスピカデリー",
+  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esv5e1Eor?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Stand by You",
+  "artist": "Official髭男dism",
+  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esv5e1Eor?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ミス・パラレルワールド",
+  "artist": "相対性理論",
+  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esv5e1Eor?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "(恋は)百年戦争",
+  "artist": "相対性理論",
+  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1esv5e1Eor?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "灼熱スイッチ",
+  "artist": "雀が原中学卓球部",
+  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "バレリーコ",
+  "artist": "みきとP",
+  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP",
+  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ないものねだり",
+  "artist": "KANA-BOON",
+  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Laughter",
+  "artist": "Official髭男dism",
+  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン",
+  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "須田景凪",
+  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "まつり",
+  "artist": "藤井風",
+  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ただ声一つ",
+  "artist": "ロクデナシ",
+  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=15",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "生きる",
+  "artist": "水野あつ",
+  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=16",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "またあした",
+  "artist": "想太",
+  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=17",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=18",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "さよーならまたいつか!",
+  "artist": "米津玄師",
+  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=19",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "fake face dance music",
+  "artist": "音田雅則",
+  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ダンスホール",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "須田景凪",
+  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "少年よ我に帰れ",
+  "artist": "やくしまるえつこ",
+  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "接吻",
+  "artist": "Original Love",
+  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "木綿のハンカチーフ",
+  "artist": "太田裕美",
+  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "渚のバルコニー",
+  "artist": "松田聖子",
+  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "キミの記憶",
+  "artist": "川村ゆみ",
+  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "透明人間",
+  "artist": "東京事変",
+  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "閃光少女",
+  "artist": "東京事変",
+  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "きらきら武士",
+  "artist": "レキシ",
+  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=15",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Rolling Star",
+  "artist": "YUI",
+  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アカシア",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ALIVE",
+  "artist": "ClariS",
+  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "フリージア",
+  "artist": "Uru",
+  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "My Dearest",
+  "artist": "supercell",
+  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Beautiful World",
+  "artist": "宇多田ヒカル",
+  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "接吻",
+  "artist": "Original Love",
+  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "SUN",
+  "artist": "星野源",
+  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "family song",
+  "artist": "星野源",
+  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "夜空ノムコウ",
+  "artist": "SMAP",
+  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Prisoner Of Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "One Last Kiss",
+  "artist": "宇多田ヒカル",
+  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "灰色と青",
+  "artist": "米津玄師 & 菅田将暉",
+  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar",
+  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ハロ／ハワユ",
+  "artist": "ナノウ",
+  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "小夜子",
+  "artist": "みきとP",
+  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=15",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "もののけ姫",
+  "artist": "米良美一",
+  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=16",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "リフレクション",
+  "artist": "ムーラン",
+  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=17",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ここにしか咲かない花",
+  "artist": "コブクロ (1chorus)",
+  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=18",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "帰ろう",
+  "artist": "藤井風",
+  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=19",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "コレサワ",
+  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "さよーならまたいつか!",
+  "artist": "米津玄師",
+  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "きらり",
+  "artist": "藤井 風",
+  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "napori",
+  "artist": "Vaundy",
+  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "東京フラッシュ",
+  "artist": "Vaundy",
+  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "踊り子",
+  "artist": "Vaundy",
+  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "接吻",
+  "artist": "Original Love",
+  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "やさしさに包まれたなら",
+  "artist": "松任谷由実",
+  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "大阪LOVER",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "涙のキッス",
+  "artist": "サザンオールスターズ",
+  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=14",
   "source": "suu_usuwa.js"
 },
     {
@@ -11070,6 +12894,238 @@ window.SONG_DATA.push(
   "source": "suu_usuwa.js"
 },
     {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー(中島愛)",
+  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky",
+  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ユニバーサル・バニー",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "NIGHTDANCER",
+  "artist": "imase",
+  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "fake face dance music",
+  "artist": "音田雅則",
+  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ワンルーム・オール・ザット・ジャズ",
+  "artist": "DATEKEN",
+  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "灰色と青",
+  "artist": "米津玄師＆菅田将暉",
+  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar",
+  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "やさしさに包まれたなら",
+  "artist": "松任谷由実",
+  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "朝ごはんの歌",
+  "artist": "手嶌葵",
+  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Mornin’ Belll",
+  "artist": "稀羽すう",
+  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アイデア",
+  "artist": "星野源",
+  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "マジックナンバー",
+  "artist": "坂本真綾",
+  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "白金ディスコ",
+  "artist": "阿良々木月火(井口裕香)",
+  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "空",
+  "artist": "音無小鳥(滝田樹里)",
+  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "スマイル・エンゲージ",
+  "artist": "Beit",
+  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Blooming♡Blooming",
+  "artist": "るか from AIKATSU☆STARS！",
+  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "忘れられないの",
+  "artist": "サカナクション",
+  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=15",
+  "source": "suu_usuwa.js"
+},
+    {
   "title": "Lemon",
   "artist": "米津玄師",
   "collection": "【稀羽すう 竖屏】 お昼から、歌う。 250517#shorts #vtuber",
@@ -11195,238 +13251,6 @@ window.SONG_DATA.push(
   "collection": "【稀羽すう 竖屏】 お昼から、歌う。 250517#shorts #vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BqJwzeENe?p=16",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "やさしさに包まれたなら",
-  "artist": "松任谷由実",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "朝ごはんの歌",
-  "artist": "手嶌葵",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Mornin’ Belll",
-  "artist": "稀羽すう",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ライラック",
-  "artist": "Mrs. GREEN APPLE",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ケセラセラ",
-  "artist": "Mrs. GREEN APPLE",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "晴る",
-  "artist": "ヨルシカ",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "へび",
-  "artist": "ヨルシカ",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "左右盲",
-  "artist": "ヨルシカ",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "アイデア",
-  "artist": "星野源",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=9",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "マジックナンバー",
-  "artist": "坂本真綾",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=10",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "白金ディスコ",
-  "artist": "阿良々木月火(井口裕香)",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=11",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "空",
-  "artist": "音無小鳥(滝田樹里)",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=12",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "スマイル・エンゲージ",
-  "artist": "Beit",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=13",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Blooming♡Blooming",
-  "artist": "るか from AIKATSU☆STARS！",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=14",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "忘れられないの",
-  "artist": "サカナクション",
-  "collection": "【稀羽すう / Re:AcT】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 2025年5月10日 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1iqJwzeEk5?p=15",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "君の知らない物語",
-  "artist": "supercell",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "星間飛行",
-  "artist": "ランカ・リー(中島愛)",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "オリオンをなぞる",
-  "artist": "UNISON SQUARE GARDEN",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "メランコリック",
-  "artist": "Junky",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ユニバーサル・バニー",
-  "artist": "シェリル・ノーム starring May'n",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "怪獣",
-  "artist": "サカナクション",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "アポリア",
-  "artist": "ヨルシカ",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "へび",
-  "artist": "ヨルシカ",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "NIGHTDANCER",
-  "artist": "imase",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=9",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "fake face dance music",
-  "artist": "音田雅則",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=10",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "月のワルツ",
-  "artist": "諫山実生",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=11",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ワンルーム・オール・ザット・ジャズ",
-  "artist": "DATEKEN",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=12",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "灰色と青",
-  "artist": "米津玄師＆菅田将暉",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=13",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "回る空うさぎ",
-  "artist": "Orangestar",
-  "collection": "【 稀羽すう / Re:AcT 】水曜20時は定期歌枠 Singing Stream #108",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VtJNzMEEe?p=14",
   "source": "suu_usuwa.js"
 },
     {
@@ -12598,6 +14422,134 @@ window.SONG_DATA.push(
   "source": "suu_usuwa.js"
 },
     {
+  "title": "右肩の蝶",
+  "artist": "のりP",
+  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ダブルラリアット",
+  "artist": "アゴアニキ",
+  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "magnet",
+  "artist": "流星P",
+  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "B級",
+  "artist": "ちゃんみな",
+  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "少女S",
+  "artist": "SCANDAL",
+  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ファジーネーブル",
+  "artist": "Conton Candy",
+  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "少年よ我に帰れ",
+  "artist": "やくしまるえつこ",
+  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ルーマー",
+  "artist": "ポリスピカデリー",
+  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "NIGHTDANCER",
+  "artist": "imase",
+  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "寄り酔い",
+  "artist": "和ぬか",
+  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太",
+  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "神のまにまに",
+  "artist": "れるりり",
+  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=15",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "たぶん",
+  "artist": "YOASOBI",
+  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=16",
+  "source": "suu_usuwa.js"
+},
+    {
   "title": "ドラえもん",
   "artist": "星野源",
   "collection": "【 #歌枠 / KARAOKE 】 お昼から朗らかに！ #shorts #vtuber",
@@ -12739,134 +14691,6 @@ window.SONG_DATA.push(
   "collection": "【 #歌枠 / KARAOKE 】 お昼から朗らかに！ #shorts #vtuber",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nPuYzwEgs?p=18",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "右肩の蝶",
-  "artist": "のりP",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "again",
-  "artist": "YUI",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ダブルラリアット",
-  "artist": "アゴアニキ",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "magnet",
-  "artist": "流星P",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "B級",
-  "artist": "ちゃんみな",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "少女S",
-  "artist": "SCANDAL",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ファジーネーブル",
-  "artist": "Conton Candy",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "少年よ我に帰れ",
-  "artist": "やくしまるえつこ",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ルーマー",
-  "artist": "ポリスピカデリー",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=9",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "NIGHTDANCER",
-  "artist": "imase",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=10",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "寄り酔い",
-  "artist": "和ぬか",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=11",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "いかないで",
-  "artist": "想太",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=12",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "神のまにまに",
-  "artist": "れるりり",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=13",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "都落ち",
-  "artist": "ヨルシカ",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=14",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "花に亡霊",
-  "artist": "ヨルシカ",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=15",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "たぶん",
-  "artist": "YOASOBI",
-  "collection": "【 #歌枠 / KARAOKE 】ただいま。 水曜日20時は定期歌枠 Singing Stream #113【 稀羽すう / Re:AcT 】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV17PuYzwEoB?p=16",
   "source": "suu_usuwa.js"
 },
     {
@@ -13326,6 +15150,86 @@ window.SONG_DATA.push(
   "source": "suu_usuwa.js"
 },
     {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bjbTzdE64?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bjbTzdE64?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "たぶん",
+  "artist": "YOASOBI",
+  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bjbTzdE64?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "帰ろう",
+  "artist": "藤井風",
+  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bjbTzdE64?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bjbTzdE64?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bjbTzdE64?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bjbTzdE64?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "地球儀",
+  "artist": "米津玄師",
+  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bjbTzdE64?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bjbTzdE64?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bjbTzdE64?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
   "title": "晴る",
   "artist": "ヨルシカ",
   "collection": "【 #歌枠 / KARAOKE 】昼下がりに歌を届けます【 稀羽すう / Re:AcT 】",
@@ -13443,86 +15347,6 @@ window.SONG_DATA.push(
   "collection": "【 #歌枠 / KARAOKE 】昼下がりに歌を届けます【 稀羽すう / Re:AcT 】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tEbTzsEaG?p=15",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "左右盲",
-  "artist": "ヨルシカ",
-  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bjbTzdE64?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ヒッチコック",
-  "artist": "ヨルシカ",
-  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bjbTzdE64?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "たぶん",
-  "artist": "YOASOBI",
-  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bjbTzdE64?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "帰ろう",
-  "artist": "藤井風",
-  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bjbTzdE64?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "アルジャーノン",
-  "artist": "ヨルシカ",
-  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bjbTzdE64?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "晩餐歌",
-  "artist": "tuki.",
-  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bjbTzdE64?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "変わらないもの",
-  "artist": "奥華子",
-  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bjbTzdE64?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "地球儀",
-  "artist": "米津玄師",
-  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bjbTzdE64?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ハナミズキ",
-  "artist": "一青窈",
-  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bjbTzdE64?p=9",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ひまわりの約束",
-  "artist": "秦基博",
-  "collection": "【 #歌枠 / KARAOKE 】 もしよかったら聴いていってくださいませんか #shorts #vtuber",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1bjbTzdE64?p=10",
   "source": "suu_usuwa.js"
 },
     {
@@ -21494,6 +23318,46 @@ window.SONG_DATA.push(
   "source": "suu_usuwa.js"
 },
     {
+  "title": "Ready To Party",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-09-04]Re:AcT二期生8周年歌回接力｜第一棒～～～～～！！！【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WLbH6CEZm?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "star shine",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-09-04]Re:AcT二期生8周年歌回接力｜第一棒～～～～～！！！【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WLbH6CEZm?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ミスユー",
+  "artist": "星野源",
+  "collection": "【🦢歌切】[2026-09-04]Re:AcT二期生8周年歌回接力｜第一棒～～～～～！！！【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WLbH6CEZm?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "nuit",
+  "artist": "春野 feat.初音ミク",
+  "collection": "【🦢歌切】[2026-09-04]Re:AcT二期生8周年歌回接力｜第一棒～～～～～！！！【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WLbH6CEZm?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ゆーえふおー",
+  "artist": "稀羽すう",
+  "collection": "【🦢歌切】[2026-09-04]Re:AcT二期生8周年歌回接力｜第一棒～～～～～！！！【稀羽すう / Re:AcT】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WLbH6CEZm?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
   "title": "Beautiful World",
   "artist": "宇多田ヒカル",
   "collection": "【🦢歌切】[2026-09-05]午后等你哦。【稀羽すう / Re:AcT】",
@@ -21587,46 +23451,6 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-09-05]午后等你哦。【稀羽すう / Re:AcT】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ALbH6CE9k?p=12",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Ready To Party",
-  "artist": "稀羽すう",
-  "collection": "【🦢歌切】[2026-09-04]Re:AcT二期生8周年歌回接力｜第一棒～～～～～！！！【稀羽すう / Re:AcT】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WLbH6CEZm?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "star shine",
-  "artist": "稀羽すう",
-  "collection": "【🦢歌切】[2026-09-04]Re:AcT二期生8周年歌回接力｜第一棒～～～～～！！！【稀羽すう / Re:AcT】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WLbH6CEZm?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ミスユー",
-  "artist": "星野源",
-  "collection": "【🦢歌切】[2026-09-04]Re:AcT二期生8周年歌回接力｜第一棒～～～～～！！！【稀羽すう / Re:AcT】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WLbH6CEZm?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "nuit",
-  "artist": "春野 feat.初音ミク",
-  "collection": "【🦢歌切】[2026-09-04]Re:AcT二期生8周年歌回接力｜第一棒～～～～～！！！【稀羽すう / Re:AcT】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WLbH6CEZm?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ゆーえふおー",
-  "artist": "稀羽すう",
-  "collection": "【🦢歌切】[2026-09-04]Re:AcT二期生8周年歌回接力｜第一棒～～～～～！！！【稀羽すう / Re:AcT】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1WLbH6CEZm?p=5",
   "source": "suu_usuwa.js"
 },
     {
@@ -21995,1830 +23819,6 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】#148[2026-09-30]我就在这儿等你哦。｜周三定期直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tkaf6hEnR?p=13",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "波乗りジョニー",
-  "artist": "桑田佳祐",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "TSUNAMI",
-  "artist": "サザンオールスターズ",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ファジーネーブル",
-  "artist": "Conton Candy",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "まつり",
-  "artist": "藤井風",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "神様、仏様",
-  "artist": "椎名林檎",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ノルニル",
-  "artist": "やくしまるえつこ",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "少年よ我に帰れ",
-  "artist": "やくしまるえつこ",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "NOBODY KNOWS",
-  "artist": "スガシカオ",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "はじまりの日 feat.Mummy-D",
-  "artist": "スガシカオ",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=9",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "もっふ・いんざぼっくす♪",
-  "artist": "もふもふえん",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=10",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Cafe Parade!",
-  "artist": "Cafe Parade",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=11",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "MOON NIGHTのせいにして",
-  "artist": "DRAMATIC STARS",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=12",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "空",
-  "artist": "音無小鳥(滝田樹里)",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=13",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "夏色えがおで1, 2, Jump!",
-  "artist": "μ's",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=14",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "キミの記憶",
-  "artist": "川村ゆみ",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=15",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Never More",
-  "artist": "平田志穂子",
-  "collection": "【稀羽すう】16】在绣球花的季节,我们一起唱歌吧。【240614】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1LCVeeUE5s?p=16",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "少女レイ",
-  "artist": "みきとP",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ボーイフレンド",
-  "artist": "aiko",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "KissHug",
-  "artist": "aiko",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "君と夏フェス",
-  "artist": "SHISHAMO",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "虹",
-  "artist": "福山雅治",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "SUMMER SONG",
-  "artist": "YUI (1chorus)",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "PEACH",
-  "artist": "大塚愛",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "酔いどれ知らず",
-  "artist": "Kanaria",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ベノム",
-  "artist": "かいりきベア",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=9",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ダーリン",
-  "artist": "須田景凪",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=10",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "けーたいみしてよ",
-  "artist": "MAISONdes",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=11",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ヨワネハキ",
-  "artist": "MAISONdes",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=12",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "裏表ラバーズ",
-  "artist": "wowaka",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=13",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ハロ／ハワユ",
-  "artist": "ナノウ",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=14",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "アイロニ",
-  "artist": "すこっぷ",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=15",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "小夜子",
-  "artist": "みきとP",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=16",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "刹那プラス",
-  "artist": "みきとP",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=17",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "バレリーコ",
-  "artist": "みきとP",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=18",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "きらきら武士",
-  "artist": "レキシ",
-  "collection": "【 稀羽すう】 #73水曜🎶少女レイ、酔いどれ知らず、裏表ラバーズ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MC31eaEJQ?p=19",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "水平線",
-  "artist": "back number",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "晴る",
-  "artist": "ヨルシカ",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "アカシア",
-  "artist": "BUMP OF CHICKEN",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "DANZEN!ふたりはプリキュア (ver.MaxHeart)",
-  "artist": "五條真由美",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "おジャ魔女カーニバル!!",
-  "artist": "MAHO堂",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ウィーアー!",
-  "artist": "きただにひろし",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ビンクスの酒",
-  "artist": "麦わらの一味",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "One Love",
-  "artist": "嵐",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "I LOVE...",
-  "artist": "Official髭男dism",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=9",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "SUN",
-  "artist": "星野源",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=10",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "アイデア",
-  "artist": "星野源",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=11",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "TSUNAMI",
-  "artist": "サザンオールスターズ",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=12",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "都落ち",
-  "artist": "ヨルシカ",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=13",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "カントリーロード",
-  "artist": "本名陽子",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=14",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ファジーネーブル",
-  "artist": "Conton Candy",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=15",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ウィスキーが、お好きでしょ",
-  "artist": "SAYURI",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=16",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "また君に恋してる",
-  "artist": "坂本冬美",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=17",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "真赤な太陽",
-  "artist": "美空ひばり",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=18",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ただ君に晴れ",
-  "artist": "ヨルシカ",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=19",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "もう恋なんてしない",
-  "artist": "槇原敬之",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=20",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "さよーならまたいつか!",
-  "artist": "米津玄師",
-  "collection": "【 稀羽すう】21竖屏】ウィーアー!、おジャ魔女カーニバル!!【2024年6月29日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1sgh5eHEQh?p=21",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "蒼のエーテル",
-  "artist": "ランカ・リー(中島愛)",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "アイモ ～鳥のひと",
-  "artist": "ランカ・リー(中島愛)",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "忘れじの言の葉",
-  "artist": "未来古代楽団",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "月のワルツ",
-  "artist": "諫山実生",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "世界の約束",
-  "artist": "倍賞千恵子",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "テルーの唄",
-  "artist": "手嶌葵",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "回る空うさぎ",
-  "artist": "Orangestar",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "you",
-  "artist": "癒月",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "フリージア",
-  "artist": "Uru",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=9",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "trust you",
-  "artist": "伊藤由奈",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=10",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ループ",
-  "artist": "坂本真綾",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=11",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "風待ちジェット",
-  "artist": "坂本真綾",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=12",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "雫",
-  "artist": "スキマスイッチ",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=13",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "アンインストール",
-  "artist": "石川智晶",
-  "collection": "【 稀羽すう】幻想的#74 アイモ ～鳥のひと-ランカ・リー、月のワルツ【240703】】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RxhyeQEnY?p=14",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "インフィニティ",
-  "artist": "シェリル・ノーム starring May'n",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "私の彼はパイロット",
-  "artist": "ランカ・リー(中島愛)",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "星間飛行",
-  "artist": "ランカ・リー(中島愛)",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "可愛くなりたい",
-  "artist": "HoneyWorks",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ヒアルロンリーガール",
-  "artist": "ZOC",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Overdose",
-  "artist": "なとり",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "わたしの一番かわいいところ",
-  "artist": "FRUITS ZIPPER",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "名前のない怪物",
-  "artist": "EGOIST",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "コネクト",
-  "artist": "ClariS",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=9",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "CLEAR",
-  "artist": "坂本真綾",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=10",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "マジックナンバー",
-  "artist": "坂本真綾",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=11",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "プラチナ",
-  "artist": "坂本真綾",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=12",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "長く短い祭",
-  "artist": "椎名林檎",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=13",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "女の子は誰でも",
-  "artist": "東京事変",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=14",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ベテルギウス",
-  "artist": "優里",
-  "collection": "【 稀羽すう 】🎶 #75 可愛くなりたい 、ヒアルロンリーガール、Overdose",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vya7eUEBY?p=15",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "青と夏",
-  "artist": "Mrs. GREEN APPLE",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "SUMMER SONG",
-  "artist": "YUI",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "青のすみか",
-  "artist": "キタニタツヤ",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "君と夏フェス",
-  "artist": "SHISHAMO",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "少女レイ",
-  "artist": "みきとP",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ミュージック・アワー",
-  "artist": "ポルノグラフィティ",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "忘れてやらない",
-  "artist": "結束バンド",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "LA・LA・LA LOVE SONG",
-  "artist": "久保田利伸",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "水平線",
-  "artist": "back number",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=9",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "花に亡霊",
-  "artist": "ヨルシカ",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=10",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "左右盲",
-  "artist": "ヨルシカ",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=11",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "TSUNAMI",
-  "artist": "サザンオールスターズ",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=12",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "君の知らない物語",
-  "artist": "supercell",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=13",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Together",
-  "artist": "あきよしふみえ",
-  "collection": "【稀羽すう】14】周三76 左右盲、君の知らない物語、少女レイ、ミュージック・アワー【240717】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1RU8jeuE62?p=14",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "カブトムシ",
-  "artist": "aiko",
-  "collection": "【 稀羽すう】7竖屏】突击突击 カブトムシ、secret base～君がくれたもの～【240721】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SS8yeGEwP?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "secret base～君がくれたもの～",
-  "artist": "ZONE",
-  "collection": "【 稀羽すう】7竖屏】突击突击 カブトムシ、secret base～君がくれたもの～【240721】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SS8yeGEwP?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ガーネット",
-  "artist": "奥華子",
-  "collection": "【 稀羽すう】7竖屏】突击突击 カブトムシ、secret base～君がくれたもの～【240721】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SS8yeGEwP?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "風になる",
-  "artist": "つじあやの",
-  "collection": "【 稀羽すう】7竖屏】突击突击 カブトムシ、secret base～君がくれたもの～【240721】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SS8yeGEwP?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "晴る",
-  "artist": "ヨルシカ",
-  "collection": "【 稀羽すう】7竖屏】突击突击 カブトムシ、secret base～君がくれたもの～【240721】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SS8yeGEwP?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "創聖のアクエリオン",
-  "artist": "AKINO",
-  "collection": "【 稀羽すう】7竖屏】突击突击 カブトムシ、secret base～君がくれたもの～【240721】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SS8yeGEwP?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "夏色えがおで1, 2, Jump!",
-  "artist": "μ's",
-  "collection": "【 稀羽すう】7竖屏】突击突击 カブトムシ、secret base～君がくれたもの～【240721】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SS8yeGEwP?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Snow halation",
-  "artist": "μ's",
-  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YaekeDETy?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "雪の華",
-  "artist": "中島美嘉",
-  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YaekeDETy?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "クリスマスソング",
-  "artist": "back number",
-  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YaekeDETy?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "粉雪",
-  "artist": "レミオロメン",
-  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YaekeDETy?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "初めての恋が終わる時",
-  "artist": "ryo",
-  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YaekeDETy?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "白い雪のプリンセスは",
-  "artist": "のぼる↑",
-  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YaekeDETy?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Subtitle",
-  "artist": "Official髭男dism",
-  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YaekeDETy?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ベテルギウス",
-  "artist": "優里",
-  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YaekeDETy?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ダイアモンドクレバス",
-  "artist": "シェリル・ノーム starring May'n",
-  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YaekeDETy?p=9",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "夜空ノムコウ",
-  "artist": "SMAP",
-  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YaekeDETy?p=10",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "青と夏",
-  "artist": "Mrs. GREEN APPLE",
-  "collection": "【稀羽すう】11】不要输给夏天！ Snow halation、雪の華、粉雪、初めての恋が終わる時【2024年7月23日",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1YaekeDETy?p=11",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "真生活",
-  "artist": "案山子",
-  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1esv5e1Eor?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "君がいて水になる",
-  "artist": "ずっと真夜中でいいのに。",
-  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1esv5e1Eor?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ガーデン",
-  "artist": "藤井風",
-  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1esv5e1Eor?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "花",
-  "artist": "藤井風",
-  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1esv5e1Eor?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "不思議",
-  "artist": "星野源",
-  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1esv5e1Eor?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "喜劇",
-  "artist": "星野源",
-  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1esv5e1Eor?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ルーマー",
-  "artist": "ポリスピカデリー",
-  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1esv5e1Eor?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Stand by You",
-  "artist": "Official髭男dism",
-  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1esv5e1Eor?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ミス・パラレルワールド",
-  "artist": "相対性理論",
-  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1esv5e1Eor?p=9",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "(恋は)百年戦争",
-  "artist": "相対性理論",
-  "collection": "【 稀羽すう】10】真生活、君がいて水になる、ルーマー【240726】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1esv5e1Eor?p=10",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "シンデレラボーイ",
-  "artist": "Saucy Dog",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "祝福",
-  "artist": "YOASOBI",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "灼熱スイッチ",
-  "artist": "雀が原中学卓球部",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "少女レイ",
-  "artist": "みきとP",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "バレリーコ",
-  "artist": "みきとP",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "サリシノハラ",
-  "artist": "みきとP",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ないものねだり",
-  "artist": "KANA-BOON",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Laughter",
-  "artist": "Official髭男dism",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "シャルル",
-  "artist": "バルーン",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=9",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ダーリン",
-  "artist": "須田景凪",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=10",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "雨とカプチーノ",
-  "artist": "ヨルシカ",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=11",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "悪魔の子",
-  "artist": "ヒグチアイ",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=12",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "again",
-  "artist": "YUI",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=13",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "まつり",
-  "artist": "藤井風",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=14",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ただ声一つ",
-  "artist": "ロクデナシ",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=15",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "生きる",
-  "artist": "水野あつ",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=16",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "またあした",
-  "artist": "想太",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=17",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "都落ち",
-  "artist": "ヨルシカ",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=18",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "さよーならまたいつか!",
-  "artist": "米津玄師",
-  "collection": "【稀羽すう】シンデレラボーイ、Laughter、ダーリン、生きる、またあした【240731】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1T1vtezE33?p=19",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "青と夏",
-  "artist": "Mrs. GREEN APPLE",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "少女レイ",
-  "artist": "みきとP",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "fake face dance music",
-  "artist": "音田雅則",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ダンスホール",
-  "artist": "Mrs. GREEN APPLE",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ブルーバード",
-  "artist": "いきものがかり",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ダーリン",
-  "artist": "須田景凪",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "少年よ我に帰れ",
-  "artist": "やくしまるえつこ",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "接吻",
-  "artist": "Original Love",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "木綿のハンカチーフ",
-  "artist": "太田裕美",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=9",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "渚のバルコニー",
-  "artist": "松田聖子",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=10",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "若者のすべて",
-  "artist": "フジファブリック",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=11",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "キミの記憶",
-  "artist": "川村ゆみ",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=12",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "透明人間",
-  "artist": "東京事変",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=13",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "閃光少女",
-  "artist": "東京事変",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=14",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "きらきら武士",
-  "artist": "レキシ",
-  "collection": "【 稀羽すう】 🎶 #77 少女レイ、fake face dance music 、ダンスホール",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1MwaXeNEVf?p=15",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "SUMMER SONG",
-  "artist": "YUI",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Rolling Star",
-  "artist": "YUI",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "晴る",
-  "artist": "ヨルシカ",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "アカシア",
-  "artist": "BUMP OF CHICKEN",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "コネクト",
-  "artist": "ClariS",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ALIVE",
-  "artist": "ClariS",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "フリージア",
-  "artist": "Uru",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "My Dearest",
-  "artist": "supercell",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Beautiful World",
-  "artist": "宇多田ヒカル",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=9",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "花に亡霊",
-  "artist": "ヨルシカ",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=10",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "いのちの名前",
-  "artist": "木村弓",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=11",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ガーネット",
-  "artist": "奥華子",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=12",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "残響散歌",
-  "artist": "Aimer",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=13",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "群青",
-  "artist": "YOASOBI",
-  "collection": "【稀羽すう】14竖屏】My Dearest、ガーネット、残響散歌、群青【240809】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1vfYnefEE1?p=14",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "雨とカプチーノ",
-  "artist": "ヨルシカ",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "接吻",
-  "artist": "Original Love",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "SUN",
-  "artist": "星野源",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "family song",
-  "artist": "星野源",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "夜空ノムコウ",
-  "artist": "SMAP",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Prisoner Of Love",
-  "artist": "宇多田ヒカル",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "One Last Kiss",
-  "artist": "宇多田ヒカル",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "Lemon",
-  "artist": "米津玄師",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "灰色と青",
-  "artist": "米津玄師 & 菅田将暉",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=9",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "晩餐歌",
-  "artist": "tuki.",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=10",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "アルジャーノン",
-  "artist": "ヨルシカ",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=11",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "左右盲",
-  "artist": "ヨルシカ",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=12",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "回る空うさぎ",
-  "artist": "Orangestar",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=13",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ハロ／ハワユ",
-  "artist": "ナノウ",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=14",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "小夜子",
-  "artist": "みきとP",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=15",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "もののけ姫",
-  "artist": "米良美一",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=16",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "リフレクション",
-  "artist": "ムーラン",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=17",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ここにしか咲かない花",
-  "artist": "コブクロ (1chorus)",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=18",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "帰ろう",
-  "artist": "藤井風",
-  "collection": "【稀羽すう】19】接吻、晩餐歌、小夜子、もののけ姫【240812】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12yYfeXEmj?p=19",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "たばこ",
-  "artist": "コレサワ",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "恋人失格",
-  "artist": "コレサワ",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "斜陽",
-  "artist": "ヨルシカ",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "さよーならまたいつか!",
-  "artist": "米津玄師",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "きらり",
-  "artist": "藤井 風",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "napori",
-  "artist": "Vaundy",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "東京フラッシュ",
-  "artist": "Vaundy",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "踊り子",
-  "artist": "Vaundy",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "KissHug",
-  "artist": "aiko",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=9",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "接吻",
-  "artist": "Original Love",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=10",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "First Love",
-  "artist": "宇多田ヒカル",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=11",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "やさしさに包まれたなら",
-  "artist": "松任谷由実",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=12",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "大阪LOVER",
-  "artist": "DREAMS COME TRUE",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=13",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "涙のキッス",
-  "artist": "サザンオールスターズ",
-  "collection": "【稀羽すう】竖屏14】たばこ、恋人失格、斜陽、さよーならまたいつか!【240817】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1EvpZeyECC?p=14",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "タッチ",
-  "artist": "岩崎良美",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=1",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "宿命",
-  "artist": "Official髭男dism",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=2",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "負けないで",
-  "artist": "ZARD",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=3",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "DAN DAN 心魅かれてく",
-  "artist": "FIELD OF VIEW",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=4",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "走れ正直者",
-  "artist": "西城秀樹",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=5",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "葛飾ラプソディー",
-  "artist": "堂島孝平",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=6",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "勇気100%",
-  "artist": "光GENJI",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=7",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "プリンプリン物語",
-  "artist": "石川ひとみ",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=8",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "キューティーハニー",
-  "artist": "倖田來未",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=9",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "ひぐらしのなく頃に",
-  "artist": "島みやえい子",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=10",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "奈落の花",
-  "artist": "島みやえい子",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=11",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "you",
-  "artist": "癒月",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=12",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "アンインストール",
-  "artist": "石川智晶",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=13",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "寝逃げでリセット!",
-  "artist": "柊つかさ(福原香織)",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=14",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "炉心融解",
-  "artist": "iroha(sasaki)",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=15",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "東京テディベア",
-  "artist": "Neru",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=16",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "晴る",
-  "artist": "ヨルシカ",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=17",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "三日月",
-  "artist": "絢香",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=18",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "天体観測",
-  "artist": "BUMP OF CHICKEN",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=19",
-  "source": "suu_usuwa.js"
-},
-    {
-  "title": "さよーならまたいつか！",
-  "artist": "米津玄師",
-  "collection": "【 稀羽すう】20】#72水曜定期歌枠 タッチ、you、炉心融解🎶",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1Mw3we6Emp?p=20",
   "source": "suu_usuwa.js"
 },
     {
