@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 10/7/2026, 11:33:29 AM
+// 生成时间: 10/7/2026, 12:41:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4683,6 +4683,182 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-10-05 和最喜欢的ファム大人首次歌回联动！？！？",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w9H46qE4j?p=11",
+  "source": "friends.js"
+},
+    {
+  "title": "Magia",
+  "artist": "Kalafina",
+  "collection": "联动歌切 2026-10-06 首次むあやや歌唱联动🎤还有公告 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GkHk6cE6h?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "ヒトリゴト",
+  "artist": "ClariS",
+  "collection": "联动歌切 2026-10-06 首次むあやや歌唱联动🎤还有公告 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GkHk6cE6h?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "INNOCENCE",
+  "artist": "藍井エイル",
+  "collection": "联动歌切 2026-10-06 首次むあやや歌唱联动🎤还有公告 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GkHk6cE6h?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "联动歌切 2026-10-06 首次むあやや歌唱联动🎤还有公告 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GkHk6cE6h?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "YUME日和",
+  "artist": "島谷ひとみ",
+  "collection": "联动歌切 2026-10-06 首次むあやや歌唱联动🎤还有公告 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GkHk6cE6h?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "うたかた花火",
+  "artist": "supercell",
+  "collection": "联动歌切 2026-10-06 首次むあやや歌唱联动🎤还有公告 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GkHk6cE6h?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "シャル・ウィ・ダンス？",
+  "artist": "ReoNa",
+  "collection": "联动歌切 2026-10-06 首次むあやや歌唱联动🎤还有公告 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GkHk6cE6h?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "联动歌切 2026-10-06 首次むあやや歌唱联动🎤还有公告 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GkHk6cE6h?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat.GUMI",
+  "collection": "联动歌切 2026-10-06 首次むあやや歌唱联动🎤还有公告 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GkHk6cE6h?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "联动歌切 2026-10-06 首次むあやや歌唱联动🎤还有公告 Muan ch.茨むあん",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GkHk6cE6h?p=10",
+  "source": "friends.js"
+},
+    {
+  "title": "桜ロック",
+  "artist": "CHERRYBLOSSOM",
+  "collection": "联动歌切 2026-10-06 动漫歌曲限定联动🌸心響咲良来袭！！！ UTANO ch. 白玖ウタノ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QkHk6FEXi?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "联动歌切 2026-10-06 动漫歌曲限定联动🌸心響咲良来袭！！！ UTANO ch. 白玖ウタノ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QkHk6FEXi?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "謎",
+  "artist": "小松未歩",
+  "collection": "联动歌切 2026-10-06 动漫歌曲限定联动🌸心響咲良来袭！！！ UTANO ch. 白玖ウタノ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QkHk6FEXi?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "Lost my music",
+  "artist": "涼宮ハルヒ(CV.平野綾)",
+  "collection": "联动歌切 2026-10-06 动漫歌曲限定联动🌸心響咲良来袭！！！ UTANO ch. 白玖ウタノ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QkHk6FEXi?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "träumerei",
+  "artist": "LiSA",
+  "collection": "联动歌切 2026-10-06 动漫歌曲限定联动🌸心響咲良来袭！！！ UTANO ch. 白玖ウタノ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QkHk6FEXi?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "革命デュアリズム",
+  "artist": "水樹奈々×T.M.Revolution",
+  "collection": "联动歌切 2026-10-06 动漫歌曲限定联动🌸心響咲良来袭！！！ UTANO ch. 白玖ウタノ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QkHk6FEXi?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "桜のあと (all quartets lead to the?)",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "联动歌切 2026-10-06 动漫歌曲限定联动🌸心響咲良来袭！！！ UTANO ch. 白玖ウタノ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QkHk6FEXi?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "くたばれPTA",
+  "artist": "梨本うい feat.初音ミク",
+  "collection": "联动歌切 2026-10-06 首次和白玖ウタノ前辈联动✨术力口限定歌回🎶 KOKONE Ch.心響咲良",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEhF?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "联动歌切 2026-10-06 首次和白玖ウタノ前辈联动✨术力口限定歌回🎶 KOKONE Ch.心響咲良",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEhF?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "モザイクロール",
+  "artist": "DECO*27 feat.GUMI",
+  "collection": "联动歌切 2026-10-06 首次和白玖ウタノ前辈联动✨术力口限定歌回🎶 KOKONE Ch.心響咲良",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEhF?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat.可不",
+  "collection": "联动歌切 2026-10-06 首次和白玖ウタノ前辈联动✨术力口限定歌回🎶 KOKONE Ch.心響咲良",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEhF?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "二息歩行",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "联动歌切 2026-10-06 首次和白玖ウタノ前辈联动✨术力口限定歌回🎶 KOKONE Ch.心響咲良",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEhF?p=5",
   "source": "friends.js"
 }
 );

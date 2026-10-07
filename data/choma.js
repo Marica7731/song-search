@@ -1,6 +1,6 @@
 // チョま - 歌单数据 (多合集汇总)
 // 来源: BV1kM3L6GEBV
-// 生成时间: 10/7/2026, 11:56:57 AM
+// 生成时间: 10/7/2026, 1:03:37 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4395,6 +4395,110 @@ window.SONG_DATA.push(
   "collection": "チョま歌切 2026年10月03日13点场 要不要听一首歌再走？多声线・双声线 2026-10-03",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JfHL6eEtm?p=21",
+  "source": "choma.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "チョま歌切 2026年10月06日20点场 要不要来听一首歌？｜多声线・双声线 2026-10-06",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEpn?p=1",
+  "source": "choma.js"
+},
+    {
+  "title": "trick and treat",
+  "artist": "OSTER project feat.鏡音リン・鏡音レン",
+  "collection": "チョま歌切 2026年10月06日20点场 要不要来听一首歌？｜多声线・双声线 2026-10-06",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEpn?p=2",
+  "source": "choma.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "チョま歌切 2026年10月06日20点场 要不要来听一首歌？｜多声线・双声线 2026-10-06",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEpn?p=3",
+  "source": "choma.js"
+},
+    {
+  "title": "可愛くてごめん feat.ちゅーたん（CV：早見沙織）",
+  "artist": "HoneyWorks",
+  "collection": "チョま歌切 2026年10月06日20点场 要不要来听一首歌？｜多声线・双声线 2026-10-06",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEpn?p=4",
+  "source": "choma.js"
+},
+    {
+  "title": "Femme Fatale",
+  "artist": "中王区 言の葉党",
+  "collection": "チョま歌切 2026年10月06日20点场 要不要来听一首歌？｜多声线・双声线 2026-10-06",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEpn?p=5",
+  "source": "choma.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "チョま歌切 2026年10月06日20点场 要不要来听一首歌？｜多声线・双声线 2026-10-06",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEpn?p=6",
+  "source": "choma.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "チョま歌切 2026年10月06日20点场 要不要来听一首歌？｜多声线・双声线 2026-10-06",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEpn?p=7",
+  "source": "choma.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "チョま歌切 2026年10月06日20点场 要不要来听一首歌？｜多声线・双声线 2026-10-06",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEpn?p=8",
+  "source": "choma.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra & 月見ヤチヨ(cv.早見沙織)",
+  "collection": "チョま歌切 2026年10月06日20点场 要不要来听一首歌？｜多声线・双声线 2026-10-06",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEpn?p=9",
+  "source": "choma.js"
+},
+    {
+  "title": "ハイドアンド・シーク",
+  "artist": "19 -iku- feat.初音ミク",
+  "collection": "チョま歌切 2026年10月06日20点场 要不要来听一首歌？｜多声线・双声线 2026-10-06",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEpn?p=10",
+  "source": "choma.js"
+},
+    {
+  "title": "一二三",
+  "artist": "Penthouse",
+  "collection": "チョま歌切 2026年10月06日20点场 要不要来听一首歌？｜多声线・双声线 2026-10-06",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEpn?p=11",
+  "source": "choma.js"
+},
+    {
+  "title": "READY FOR THIS",
+  "artist": "清水理沙、櫻庭有紗、佐藤せつじ、松嶌杏実",
+  "collection": "チョま歌切 2026年10月06日20点场 要不要来听一首歌？｜多声线・双声线 2026-10-06",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEpn?p=12",
+  "source": "choma.js"
+},
+    {
+  "title": "HELL'S GREATEST DAD",
+  "artist": "花輪英司、清水理沙、佐藤せつじ、松嶌杏実、櫻庭有紗",
+  "collection": "チョま歌切 2026年10月06日20点场 要不要来听一首歌？｜多声线・双声线 2026-10-06",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEpn?p=13",
   "source": "choma.js"
 }
 );
