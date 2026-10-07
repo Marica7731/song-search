@@ -219,7 +219,15 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1PE7J6CESH"], file: "otowarara", alias: "音羽ララ" },
     { bvids: ["BV1MAjT6GEF7"], file: "yuni", alias: "YuNi" },
     { bvids: ["BV1iXKY6qEKv"], file: "peruciaten", alias: "ぺるしあ・てん" },
-    { bvids: ["BV1aiaS6CEPE"], file: "shiyu", alias: "しゆ。" }
+    { bvids: ["BV1aiaS6CEPE"], file: "shiyu", alias: "しゆ。" },
+    {
+        bvids: ["BV1VPH26kESs"],
+        file: "natsumeikune",
+        alias: "なつかしちゃん",
+        rawDataLoader: "bili-view-api",
+        minimumCollectionBvids: 3,
+        probeCount: 15
+    }
 ];
 
 function resolveConfig(config) {
@@ -473,13 +481,20 @@ async function processEntryBvid(config, entryBvid, samplingState) {
         3,
         5000
     );
+    const minimumCollectionSize = Number.isInteger(config.minimumCollectionBvids)
+        ? config.minimumCollectionBvids
+        : MIN_COLLECTION_BVIDS;
+    const requestedProbeCount = Number.isInteger(config.probeCount)
+        ? config.probeCount
+        : SAMPLE_SIZE;
+    const probeCount = Math.min(requestedProbeCount, collectionCandidates.length);
     const selection = selectLowestViewCandidates(collectionCandidates, {
-        minimumCollectionSize: MIN_COLLECTION_BVIDS,
-        probeCount: SAMPLE_SIZE
+        minimumCollectionSize,
+        probeCount
     });
     if (!selection.eligible) {
         throw new Error(
-            `合集只有 ${selection.total} 个独立 BVID，少于 ${MIN_COLLECTION_BVIDS} 个；` +
+            `合集只有 ${selection.total} 个独立 BVID，少于 ${minimumCollectionSize} 个；` +
             '本轮不启动候选探针并保留旧文件'
         );
     }
@@ -491,7 +506,7 @@ async function processEntryBvid(config, entryBvid, samplingState) {
     const results = [];
 
     console.log(
-        `  📉 合集 ${selection.total} 个独立 BVID，探针最低播放量 3 个：` +
+        `  📉 合集 ${selection.total} 个独立 BVID，探针最低播放量 ${selection.selected.length} 个：` +
         selected.map(candidate => `${candidate.bvid}(${candidate.viewCount})`).join(', ')
     );
     for (const candidate of selected) {
@@ -507,7 +522,7 @@ async function processEntryBvid(config, entryBvid, samplingState) {
     }
 
     if (results.length === 0) {
-        throw new Error(`入口 ${entryBvid} 的最低播放量 3 个探针均未解析到有效歌曲数据`);
+        throw new Error(`入口 ${entryBvid} 的最低播放量 ${selection.selected.length} 个探针均未解析到有效歌曲数据`);
     }
 
     const previousWinner = getReliableWinner(entryState, candidatePool);
@@ -653,8 +668,8 @@ async function main() {
         console.log(`   🔎 仅处理来源: ${SOURCE_FILTER.join(', ')}`);
     }
     console.log(
-        `   📉 合集至少 ${MIN_COLLECTION_BVIDS} 个独立 BVID 才探针，` +
-        `每个入口固定选择播放量最低的 ${SAMPLE_SIZE} 个`
+        `   📉 默认合集门槛为 ${MIN_COLLECTION_BVIDS} 个独立 BVID，` +
+        `默认探测播放量最低的 ${SAMPLE_SIZE} 个；单来源可按配置调整`
     );
 
     let successCount = 0;

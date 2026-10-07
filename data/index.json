@@ -64,7 +64,8 @@
     "otowarara.js",
     "yuni.js",
     "peruciaten.js",
-    "shiyu.js"
+    "shiyu.js",
+    "natsumeikune.js"
   ],
   "fileToAlias": {
     "323": "323",
@@ -131,7 +132,8 @@
     "otowarara": "音羽ララ",
     "yuni": "YuNi",
     "peruciaten": "ぺるしあ・てん",
-    "shiyu": "しゆ。"
+    "shiyu": "しゆ。",
+    "natsumeikune": "なつかしちゃん"
   },
   "sourceProfiles": {
     "323": {
@@ -654,6 +656,14 @@
       "avatarUrl": "https://yt3.googleusercontent.com/00T1oEEjm8hMxhsXqMJJDubHfWJvMaLTYavmRKBIKgtmFUYQESoamkTYfowHff7hNabtWeYv=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/channel/UC9b76pk9Re-focJF7X5GtKQ",
       "accentColor": "hsl(204 55% 36%)",
+      "statsAvgSortDeferred": false
+    },
+    "natsumeikune": {
+      "alias": "なつかしちゃん",
+      "avatarText": "な",
+      "avatarUrl": "https://yt3.googleusercontent.com/gZeH0i8xfQ2fciQ7CozAsM7aIFjNruQ1KtKeQ1idrNJFYpcAnduaqVaAPlyjjvUe0C4f9a-Zsg8=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/channel/UC2J3YlHqkUJFkfkh57Zt33Q",
+      "accentColor": "hsl(88 55% 36%)",
       "statsAvgSortDeferred": false
     }
   }

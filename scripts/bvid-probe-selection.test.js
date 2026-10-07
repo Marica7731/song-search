@@ -40,6 +40,19 @@ test('selects exactly the three manuscripts with the lowest view counts at 15 BV
     ]);
 });
 
+test('allows a verified small collection to probe every available BVID', () => {
+    const candidates = makeCandidates(3);
+
+    const result = selectLowestViewCandidates(candidates, {
+        minimumCollectionSize: 3,
+        probeCount: 3
+    });
+
+    assert.equal(result.eligible, true);
+    assert.equal(result.total, 3);
+    assert.deepEqual(result.selected, [...candidates].reverse());
+});
+
 test('counts duplicate BVIDs once before applying the 15-BVID threshold', () => {
     const candidates = makeCandidates(14);
     candidates.push({ ...candidates[0] });

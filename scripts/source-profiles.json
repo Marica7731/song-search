@@ -406,6 +406,12 @@
       "youtubeUrl": "https://www.youtube.com/channel/UC9b76pk9Re-focJF7X5GtKQ",
       "avatarText": "し",
       "accentColor": "hsl(204 55% 36%)"
+    },
+    "natsumeikune": {
+      "avatarUrl": "https://yt3.googleusercontent.com/gZeH0i8xfQ2fciQ7CozAsM7aIFjNruQ1KtKeQ1idrNJFYpcAnduaqVaAPlyjjvUe0C4f9a-Zsg8=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/channel/UC2J3YlHqkUJFkfkh57Zt33Q",
+      "avatarText": "な",
+      "accentColor": "hsl(88 55% 36%)"
     }
   }
 }
