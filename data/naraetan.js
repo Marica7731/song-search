@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 10/7/2026, 12:20:51 PM
+// 生成时间: 10/7/2026, 1:31:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15307,6 +15307,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "雫",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "너만을 느끼며",
+  "artist": "정우,유연석,손호준",
+  "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Darling",
+  "artist": "西野カナ",
+  "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "departure!",
+  "artist": "小野正利",
+  "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ふたりごと",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "フィナーレ。",
+  "artist": "eill",
+  "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Pray",
+  "artist": "佐々木ゆう子",
+  "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "初めての恋が終わる時",
+  "artist": "ryo (supercell) feat.初音ミク",
+  "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "真赤な誓い",
+  "artist": "福山芳樹",
+  "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=11",
   "source": "naraetan.js"
 }
 );
