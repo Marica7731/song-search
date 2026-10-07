@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 10/7/2026, 2:08:08 PM
+// 生成时间: 10/7/2026, 3:19:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1899,6 +1899,150 @@ window.SONG_DATA.push(
   "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=13",
+  "source": "stratia.js"
+},
+    {
+  "title": "ストロー",
+  "artist": "aiko",
+  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=1",
+  "source": "stratia.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=2",
+  "source": "stratia.js"
+},
+    {
+  "title": "Os-宇宙人",
+  "artist": "エリオをかまってちゃん",
+  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=3",
+  "source": "stratia.js"
+},
+    {
+  "title": "フロントメモリー feat.川本真琴",
+  "artist": "神聖かまってちゃん",
+  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=4",
+  "source": "stratia.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=5",
+  "source": "stratia.js"
+},
+    {
+  "title": "スイートマジック",
+  "artist": "Junky feat.ろん",
+  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=6",
+  "source": "stratia.js"
+},
+    {
+  "title": "さようなら、花泥棒さん",
+  "artist": "メル feat.初音ミク",
+  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=7",
+  "source": "stratia.js"
+},
+    {
+  "title": "ブルーライト",
+  "artist": "muque",
+  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=8",
+  "source": "stratia.js"
+},
+    {
+  "title": "サインはB",
+  "artist": "B小町",
+  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=9",
+  "source": "stratia.js"
+},
+    {
+  "title": "メイジ・オブ・ヴァイオレット",
+  "artist": "紫咲シオン",
+  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=10",
+  "source": "stratia.js"
+},
+    {
+  "title": "もぐもぐYUMMY!",
+  "artist": "猫又おかゆ",
+  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=11",
+  "source": "stratia.js"
+},
+    {
+  "title": "サクラカゼ",
+  "artist": "さくらみこ",
+  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=12",
+  "source": "stratia.js"
+},
+    {
+  "title": "カヌレ",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=13",
+  "source": "stratia.js"
+},
+    {
+  "title": "アンサー",
+  "artist": "花譜",
+  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=14",
+  "source": "stratia.js"
+},
+    {
+  "title": "畢生よ",
+  "artist": "花譜",
+  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=15",
+  "source": "stratia.js"
+},
+    {
+  "title": "エジソン",
+  "artist": "水曜日のカンパネラ",
+  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=16",
+  "source": "stratia.js"
+},
+    {
+  "title": "シカせんべいのうた",
+  "artist": "鹿乃子のこ(CV.潘めぐみ)、虎視虎子(CV.藤田咲)",
+  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=17",
+  "source": "stratia.js"
+},
+    {
+  "title": "Last Tear",
+  "artist": "すとらてぃあ",
+  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=18",
   "source": "stratia.js"
 }
 );
