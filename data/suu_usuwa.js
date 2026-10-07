@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 10/7/2026, 6:43:31 PM
+// 生成时间: 10/7/2026, 7:52:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -23931,6 +23931,102 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-10-05]傍晚我就在这里等你哦。",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UEHx6rEYA?p=14",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Prisoner Of Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【🦢歌切】#149[2026-10-07]我就在这里等你哦。｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggH26BEu5?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】#149[2026-10-07]我就在这里等你哦。｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggH26BEu5?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】#149[2026-10-07]我就在这里等你哦。｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggH26BEu5?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "寄り酔い",
+  "artist": "和ぬか",
+  "collection": "【🦢歌切】#149[2026-10-07]我就在这里等你哦。｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggH26BEu5?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "【🦢歌切】#149[2026-10-07]我就在这里等你哦。｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggH26BEu5?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "I LOVE...",
+  "artist": "Official髭男dism",
+  "collection": "【🦢歌切】#149[2026-10-07]我就在这里等你哦。｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggH26BEu5?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【🦢歌切】#149[2026-10-07]我就在这里等你哦。｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggH26BEu5?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "One more time, One more chance",
+  "artist": "山崎まさよし",
+  "collection": "【🦢歌切】#149[2026-10-07]我就在这里等你哦。｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggH26BEu5?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【🦢歌切】#149[2026-10-07]我就在这里等你哦。｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggH26BEu5?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【🦢歌切】#149[2026-10-07]我就在这里等你哦。｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggH26BEu5?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "コレサワ",
+  "collection": "【🦢歌切】#149[2026-10-07]我就在这里等你哦。｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggH26BEu5?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "透明人間",
+  "artist": "東京事変",
+  "collection": "【🦢歌切】#149[2026-10-07]我就在这里等你哦。｜周三定期歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ggH26BEu5?p=12",
   "source": "suu_usuwa.js"
 }
 );

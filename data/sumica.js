@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 10/7/2026, 6:58:24 PM
+// 生成时间: 10/7/2026, 8:06:03 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10155,6 +10155,134 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-10-04]目标350个赞，悠闲弹唱～～来相遇吧来相遇吧～～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YrHH6gEsQ?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "【💐🎸歌切】[2026-10-07]有些寂寞的夜晚⟡.*悠闲地弹唱温柔的歌🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ugH26BE25?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "運命さがし",
+  "artist": "マカロニえんぴつ",
+  "collection": "【💐🎸歌切】[2026-10-07]有些寂寞的夜晚⟡.*悠闲地弹唱温柔的歌🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ugH26BE25?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【💐🎸歌切】[2026-10-07]有些寂寞的夜晚⟡.*悠闲地弹唱温柔的歌🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ugH26BE25?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "手紙 ～拝啓 十五の君へ～",
+  "artist": "アンジェラ・アキ",
+  "collection": "【💐🎸歌切】[2026-10-07]有些寂寞的夜晚⟡.*悠闲地弹唱温柔的歌🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ugH26BE25?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "楓",
+  "artist": "スピッツ",
+  "collection": "【💐🎸歌切】[2026-10-07]有些寂寞的夜晚⟡.*悠闲地弹唱温柔的歌🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ugH26BE25?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-10-07]有些寂寞的夜晚⟡.*悠闲地弹唱温柔的歌🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ugH26BE25?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【💐🎸歌切】[2026-10-07]有些寂寞的夜晚⟡.*悠闲地弹唱温柔的歌🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ugH26BE25?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【💐🎸歌切】[2026-10-07]有些寂寞的夜晚⟡.*悠闲地弹唱温柔的歌🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ugH26BE25?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "I LOVE ME",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-10-07]有些寂寞的夜晚⟡.*悠闲地弹唱温柔的歌🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ugH26BE25?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "笑顔",
+  "artist": "いきものがかり",
+  "collection": "【💐🎸歌切】[2026-10-07]有些寂寞的夜晚⟡.*悠闲地弹唱温柔的歌🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ugH26BE25?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヒカレイノチ",
+  "artist": "Kitri",
+  "collection": "【💐🎸歌切】[2026-10-07]有些寂寞的夜晚⟡.*悠闲地弹唱温柔的歌🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ugH26BE25?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "さよなら、涙目",
+  "artist": "Kitri",
+  "collection": "【💐🎸歌切】[2026-10-07]有些寂寞的夜晚⟡.*悠闲地弹唱温柔的歌🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ugH26BE25?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "水槽のブランコ",
+  "artist": "Kitri",
+  "collection": "【💐🎸歌切】[2026-10-07]有些寂寞的夜晚⟡.*悠闲地弹唱温柔的歌🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ugH26BE25?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "だから",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-10-07]有些寂寞的夜晚⟡.*悠闲地弹唱温柔的歌🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ugH26BE25?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "ひずみ",
+  "artist": "HARUHI",
+  "collection": "【💐🎸歌切】[2026-10-07]有些寂寞的夜晚⟡.*悠闲地弹唱温柔的歌🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ugH26BE25?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "世界はふたり",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-10-07]有些寂寞的夜晚⟡.*悠闲地弹唱温柔的歌🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ugH26BE25?p=16",
   "source": "sumica.js"
 }
 );

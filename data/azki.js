@@ -1,6 +1,6 @@
 // AZKi - 歌单数据 (多合集汇总)
 // 来源: BV1dE42137AT
-// 生成时间: 10/7/2026, 7:16:33 PM
+// 生成时间: 10/7/2026, 8:27:16 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5539,6 +5539,86 @@ window.SONG_DATA.push(
   "collection": "AZKi 2026年08月30日23点场 深夜舒缓地唱歌🌙【ホロライブ】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hh1dYFEBY?p=11",
+  "source": "azki.js"
+},
+    {
+  "title": "DAYS of DASH",
+  "artist": "鈴木このみ",
+  "collection": "AZKI 2026年10月07日22点场 要唱啦啊啊啊啊！用新应用「hololive raku」试着唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z319YPEbP?p=1",
+  "source": "azki.js"
+},
+    {
+  "title": "crossingdays",
+  "artist": "新谷良子",
+  "collection": "AZKI 2026年10月07日22点场 要唱啦啊啊啊啊！用新应用「hololive raku」试着唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z319YPEbP?p=2",
+  "source": "azki.js"
+},
+    {
+  "title": "Light My Fire",
+  "artist": "KOTOKO",
+  "collection": "AZKI 2026年10月07日22点场 要唱啦啊啊啊啊！用新应用「hololive raku」试着唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z319YPEbP?p=3",
+  "source": "azki.js"
+},
+    {
+  "title": "radiance",
+  "artist": "川田まみ",
+  "collection": "AZKI 2026年10月07日22点场 要唱啦啊啊啊啊！用新应用「hololive raku」试着唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z319YPEbP?p=4",
+  "source": "azki.js"
+},
+    {
+  "title": "鯨",
+  "artist": "Buzy",
+  "collection": "AZKI 2026年10月07日22点场 要唱啦啊啊啊啊！用新应用「hololive raku」试着唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z319YPEbP?p=5",
+  "source": "azki.js"
+},
+    {
+  "title": "アムリタ",
+  "artist": "牧野由依",
+  "collection": "AZKI 2026年10月07日22点场 要唱啦啊啊啊啊！用新应用「hololive raku」试着唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z319YPEbP?p=6",
+  "source": "azki.js"
+},
+    {
+  "title": "Beautiful World",
+  "artist": "宇多田ヒカル",
+  "collection": "AZKI 2026年10月07日22点场 要唱啦啊啊啊啊！用新应用「hololive raku」试着唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z319YPEbP?p=7",
+  "source": "azki.js"
+},
+    {
+  "title": "PHANTOM MINDS",
+  "artist": "水樹奈々",
+  "collection": "AZKI 2026年10月07日22点场 要唱啦啊啊啊啊！用新应用「hololive raku」试着唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z319YPEbP?p=8",
+  "source": "azki.js"
+},
+    {
+  "title": "星が瞬くこんな夜に",
+  "artist": "supercell",
+  "collection": "AZKI 2026年10月07日22点场 要唱啦啊啊啊啊！用新应用「hololive raku」试着唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z319YPEbP?p=9",
+  "source": "azki.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "AZKI 2026年10月07日22点场 要唱啦啊啊啊啊！用新应用「hololive raku」试着唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Z319YPEbP?p=10",
   "source": "azki.js"
 }
 );
