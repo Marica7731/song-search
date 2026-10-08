@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 10/7/2026, 11:07:59 PM
+// 生成时间: 10/8/2026, 12:10:59 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2051,6 +2051,230 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-09-23]大家一起玩前奏猜歌吧！！！超有名歌曲限定！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1F5ae6CEJj?p=15",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "オーバーライド",
+  "artist": "吉田夜世 feat.重音テト",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "きゅうくらりん",
+  "artist": "いよわ feat.可不",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat.GUMI・鏡音リン",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=4",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "マーシャル・マキシマイザー",
+  "artist": "柊マグネタイト",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=5",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=6",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=7",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=8",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=9",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=10",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "月光花",
+  "artist": "Janne Da Arc",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=11",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "恋はスリル、ショック、サスペンス",
+  "artist": "愛内里菜",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=12",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=13",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "とくべチュ、して",
+  "artist": "=LOVE",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=14",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "尾崎豊",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=15",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "瑠璃色の地球",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=16",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "愛は勝つ",
+  "artist": "KAN",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=17",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "負けないで",
+  "artist": "ZARD",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=18",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=19",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "負け犬にアンコールはいらない",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=20",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "正しくなれない",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=21",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=22",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "花束を君に",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=23",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ぼくはくま",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=24",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=25",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=26",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=27",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "尾崎豊",
+  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=28",
   "source": "kanaruhanon.js"
 }
 );
