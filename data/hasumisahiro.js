@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 10/8/2026, 10:04:33 PM
+// 生成时间: 10/8/2026, 11:12:40 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3491,6 +3491,174 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-03]不再隶属于任何事务所的人，夜里唱西沢さんP的歌",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1weHj66E4s?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ねぇ",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-10-09]微凉的天气里尽情听Perfume的歌，真是太棒了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t1pW6uEhv?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "スパイス",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-10-09]微凉的天气里尽情听Perfume的歌，真是太棒了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t1pW6uEhv?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "コミュニケーション",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-10-09]微凉的天气里尽情听Perfume的歌，真是太棒了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t1pW6uEhv?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Spring of Life",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-10-09]微凉的天气里尽情听Perfume的歌，真是太棒了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t1pW6uEhv?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Spending all my time",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-10-09]微凉的天气里尽情听Perfume的歌，真是太棒了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t1pW6uEhv?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "FAKE IT",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-10-09]微凉的天气里尽情听Perfume的歌，真是太棒了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t1pW6uEhv?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ポリリズム",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-10-09]微凉的天气里尽情听Perfume的歌，真是太棒了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t1pW6uEhv?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "マカロニ",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-10-09]微凉的天气里尽情听Perfume的歌，真是太棒了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t1pW6uEhv?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Baby cruising Love",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-10-09]微凉的天气里尽情听Perfume的歌，真是太棒了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t1pW6uEhv?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "心のスポーツ",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-10-09]微凉的天气里尽情听Perfume的歌，真是太棒了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t1pW6uEhv?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ナチュラルに恋して",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-10-09]微凉的天气里尽情听Perfume的歌，真是太棒了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t1pW6uEhv?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ワンルーム・ディスコ",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-10-09]微凉的天气里尽情听Perfume的歌，真是太棒了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t1pW6uEhv?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "VOICE",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-10-09]微凉的天气里尽情听Perfume的歌，真是太棒了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t1pW6uEhv?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "レーザービーム",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-10-09]微凉的天气里尽情听Perfume的歌，真是太棒了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t1pW6uEhv?p=14",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "微かなカオリ",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-10-09]微凉的天气里尽情听Perfume的歌，真是太棒了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t1pW6uEhv?p=15",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "不自然なガール",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-10-09]微凉的天气里尽情听Perfume的歌，真是太棒了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t1pW6uEhv?p=16",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "チョコレイト・ディスコ",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-10-09]微凉的天气里尽情听Perfume的歌，真是太棒了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t1pW6uEhv?p=17",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Magic of Love",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-10-09]微凉的天气里尽情听Perfume的歌，真是太棒了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t1pW6uEhv?p=18",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "love the world",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-10-09]微凉的天气里尽情听Perfume的歌，真是太棒了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t1pW6uEhv?p=19",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "セラミックガール",
+  "artist": "Perfume",
+  "collection": "【歌切】[2026-10-09]微凉的天气里尽情听Perfume的歌，真是太棒了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t1pW6uEhv?p=20",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "My Days for You",
+  "artist": "真野恵里菜",
+  "collection": "【歌切】[2026-10-09]微凉的天气里尽情听Perfume的歌，真是太棒了",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t1pW6uEhv?p=21",
   "source": "hasumisahiro.js"
 }
 );
