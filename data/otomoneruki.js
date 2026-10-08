@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 10/8/2026, 6:26:48 PM
+// 生成时间: 10/8/2026, 7:27:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6499,6 +6499,94 @@ window.SONG_DATA.push(
   "collection": "【👿歌切】[2026-10-01]转为个人活动后的首次歌回！傍晚当电台听吧📻🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YiaS6CEPM?p=11",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Carrying Happiness",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-10-08]适合当作广播听的午间歌回📻🎶可能闲聊比较多！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jVHR6BEkQ?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "【👿歌切】[2026-10-08]适合当作广播听的午间歌回📻🎶可能闲聊比较多！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jVHR6BEkQ?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【👿歌切】[2026-10-08]适合当作广播听的午间歌回📻🎶可能闲聊比较多！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jVHR6BEkQ?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "アカシア",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【👿歌切】[2026-10-08]适合当作广播听的午间歌回📻🎶可能闲聊比较多！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jVHR6BEkQ?p=4",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "カルマ",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【👿歌切】[2026-10-08]适合当作广播听的午间歌回📻🎶可能闲聊比较多！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jVHR6BEkQ?p=5",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat. flower",
+  "collection": "【👿歌切】[2026-10-08]适合当作广播听的午间歌回📻🎶可能闲聊比较多！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jVHR6BEkQ?p=6",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【👿歌切】[2026-10-08]适合当作广播听的午间歌回📻🎶可能闲聊比较多！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jVHR6BEkQ?p=7",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-10-08]适合当作广播听的午间歌回📻🎶可能闲聊比较多！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jVHR6BEkQ?p=8",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "花占い",
+  "artist": "Vaundy",
+  "collection": "【👿歌切】[2026-10-08]适合当作广播听的午间歌回📻🎶可能闲聊比较多！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jVHR6BEkQ?p=9",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "最高到達点",
+  "artist": "SEKAI NO OWARI",
+  "collection": "【👿歌切】[2026-10-08]适合当作广播听的午间歌回📻🎶可能闲聊比较多！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jVHR6BEkQ?p=10",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "Happiness",
+  "artist": "嵐",
+  "collection": "【👿歌切】[2026-10-08]适合当作广播听的午间歌回📻🎶可能闲聊比较多！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jVHR6BEkQ?p=11",
   "source": "otomoneruki.js"
 }
 );

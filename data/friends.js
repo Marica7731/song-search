@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 10/8/2026, 6:35:19 PM
+// 生成时间: 10/8/2026, 7:37:15 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4859,6 +4859,70 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-10-06 首次和白玖ウタノ前辈联动✨术力口限定歌回🎶 KOKONE Ch.心響咲良",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DkHk6FEhF?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "联动歌切 2026-10-08 与NEPHLA的联动歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LEHR6NEMv?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "traveling",
+  "artist": "宇多田ヒカル",
+  "collection": "联动歌切 2026-10-08 与NEPHLA的联动歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LEHR6NEMv?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "联动歌切 2026-10-08 与NEPHLA的联动歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LEHR6NEMv?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ feat. 花譜, ツミキ",
+  "artist": "MAISONdes",
+  "collection": "联动歌切 2026-10-08 与NEPHLA的联动歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LEHR6NEMv?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "联动歌切 2026-10-08 与NEPHLA的联动歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LEHR6NEMv?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "flos",
+  "artist": "R Sound Design feat. 初音ミク",
+  "collection": "联动歌切 2026-10-08 与NEPHLA的联动歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LEHR6NEMv?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "アイノカタチ feat.HIDE(GReeeeN)",
+  "artist": "MISIA",
+  "collection": "联动歌切 2026-10-08 与NEPHLA的联动歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LEHR6NEMv?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "One Journey",
+  "artist": "NEPHLA",
+  "collection": "联动歌切 2026-10-08 与NEPHLA的联动歌回！ Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LEHR6NEMv?p=8",
   "source": "friends.js"
 }
 );

@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 10/8/2026, 6:18:19 PM
+// 生成时间: 10/8/2026, 7:18:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15395,6 +15395,190 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "全力少年",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Everlasting Guilty Crown",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "clover",
+  "artist": "meg rock",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "月並みに輝け",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アゲハ蝶",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "夏の幻",
+  "artist": "GARNET CROW",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Little Wing",
+  "artist": "JAM Project featuring 奥井雅美",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ペガサス幻想 ver.Ω",
+  "artist": "MAKE-UP feat. 中川翔子",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ループ",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH//",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ウラオモテ・フォーチュン",
+  "artist": "佐倉千代(CV:小澤亜李)",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "白金ディスコ",
+  "artist": "阿良々木月火(井口裕香)",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "逆光",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Subtitle",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=19",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=20",
+  "source": "naraetan.js"
+},
+    {
+  "title": "オルフェンズの涙",
+  "artist": "MISIA",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=21",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Q&A リサイタル!",
+  "artist": "戸松遥",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=22",
+  "source": "naraetan.js"
+},
+    {
+  "title": "エンジェルウインク",
+  "artist": "照橋心美(CV:茅野愛衣)",
+  "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=23",
   "source": "naraetan.js"
 }
 );

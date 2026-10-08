@@ -1,6 +1,6 @@
 // ななし律歌 - 歌单数据 (多合集汇总)
 // 来源: BV1wHQVBTEU5
-// 生成时间: 10/8/2026, 6:43:50 PM
+// 生成时间: 10/8/2026, 7:46:04 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2251,6 +2251,86 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-01]为了和新吉他好好磨合，来弹唱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XiaS6CEFY?p=10",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【歌切】[2026-10-08]悠闲自在地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1soH96JEb9?p=1",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "【歌切】[2026-10-08]悠闲自在地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1soH96JEb9?p=2",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat. 巡音ルカ・GUMI",
+  "collection": "【歌切】[2026-10-08]悠闲自在地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1soH96JEb9?p=3",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-10-08]悠闲自在地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1soH96JEb9?p=4",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "アボカド",
+  "artist": "yonige",
+  "collection": "【歌切】[2026-10-08]悠闲自在地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1soH96JEb9?p=5",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "瞬き",
+  "artist": "back number",
+  "collection": "【歌切】[2026-10-08]悠闲自在地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1soH96JEb9?p=6",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "鱗（うろこ）",
+  "artist": "秦基博",
+  "collection": "【歌切】[2026-10-08]悠闲自在地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1soH96JEb9?p=7",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat. 初音ミク",
+  "collection": "【歌切】[2026-10-08]悠闲自在地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1soH96JEb9?p=8",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru feat. 鏡音リン",
+  "collection": "【歌切】[2026-10-08]悠闲自在地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1soH96JEb9?p=9",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "さよならだけが人生だ",
+  "artist": "伊東歌詞太郎",
+  "collection": "【歌切】[2026-10-08]悠闲自在地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1soH96JEb9?p=10",
   "source": "nanashirikka.js"
 }
 );
