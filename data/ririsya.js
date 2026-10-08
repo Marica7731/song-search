@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 10/8/2026, 7:21:32 PM
+// 生成时间: 10/8/2026, 9:41:19 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -19515,6 +19515,86 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-09-21]全程高能不停歇！✧ 一口气唱个痛快！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17khk6YEoF?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【🐍歌切】[2026-10-08]睡前助眠吉他弹唱✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x9H96HERV?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "くせのうた",
+  "artist": "星野源",
+  "collection": "【🐍歌切】[2026-10-08]睡前助眠吉他弹唱✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x9H96HERV?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "二十九、三十",
+  "artist": "クリープハイプ",
+  "collection": "【🐍歌切】[2026-10-08]睡前助眠吉他弹唱✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x9H96HERV?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ex ダーリン",
+  "artist": "クリープハイプ",
+  "collection": "【🐍歌切】[2026-10-08]睡前助眠吉他弹唱✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x9H96HERV?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "夜王子と月の姫",
+  "artist": "GOING STEADY",
+  "collection": "【🐍歌切】[2026-10-08]睡前助眠吉他弹唱✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x9H96HERV?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "銀河鉄道の夜",
+  "artist": "GOING STEADY",
+  "collection": "【🐍歌切】[2026-10-08]睡前助眠吉他弹唱✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x9H96HERV?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "BABY BABY",
+  "artist": "GOING STEADY",
+  "collection": "【🐍歌切】[2026-10-08]睡前助眠吉他弹唱✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x9H96HERV?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "夢で逢えたら",
+  "artist": "銀杏BOYZ",
+  "collection": "【🐍歌切】[2026-10-08]睡前助眠吉他弹唱✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x9H96HERV?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "サーカスナイト",
+  "artist": "七尾旅人",
+  "collection": "【🐍歌切】[2026-10-08]睡前助眠吉他弹唱✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x9H96HERV?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "歌うたいのバラッド",
+  "artist": "斉藤和義",
+  "collection": "【🐍歌切】[2026-10-08]睡前助眠吉他弹唱✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x9H96HERV?p=10",
   "source": "ririsya.js"
 }
 );

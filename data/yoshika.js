@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 10/8/2026, 7:26:23 PM
+// 生成时间: 10/8/2026, 9:44:34 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -42411,6 +42411,206 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-10-04]简直像Live影像⁉在家现场唱歌✨【#おうち3D】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YrHH6gExv?p=34",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "負けないで",
+  "artist": "ZARD",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハグしちゃお",
+  "artist": "夏川りみ",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Music S.T.A.R.T!!",
+  "artist": "μ's",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "愛言葉Ⅲ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "未来のミュージアム",
+  "artist": "Perfume",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "星街の駅で",
+  "artist": "tuki.",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "タッチ",
+  "artist": "岩崎良美",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "螺旋",
+  "artist": "9Lana",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "螺旋",
+  "artist": "9Lana",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "消せない罪",
+  "artist": "北出菜奈",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ルパン三世のテーマ",
+  "artist": "ピート・マック・ジュニア",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハッピー・ジャムジャム",
+  "artist": "しまじろう・とりっぴい・みみりん・らむりん",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "旅立ちの日に",
+  "artist": "合唱",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "螺旋",
+  "artist": "9Lana",
+  "collection": "【🍠🦍歌切】[2026-10-08]歌回欢迎新观众！大家快来～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV149H96HE7T?p=25",
   "source": "yoshika.js"
 }
 );
