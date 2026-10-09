@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 10/9/2026, 7:05:13 PM
+// 生成时间: 10/9/2026, 8:17:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2995,6 +2995,38 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-02]都10月了！告诉我你喜欢的秋日歌曲吧～～！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kRHL6TEAq?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "Alice lies",
+  "artist": "WARS iN CLOSET",
+  "collection": "【歌切】[2026-10-09]嗓子稍微恢复了，想悠闲地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEb2?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "無花果",
+  "artist": "CLAN QUEEN",
+  "collection": "【歌切】[2026-10-09]嗓子稍微恢复了，想悠闲地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEb2?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "Day & Night",
+  "artist": "Aqu3ra feat.初音ミク",
+  "collection": "【歌切】[2026-10-09]嗓子稍微恢复了，想悠闲地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEb2?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "消えてしまえたならいいのに、なんて",
+  "artist": "xotickamatani feat.初音ミク",
+  "collection": "【歌切】[2026-10-09]嗓子稍微恢复了，想悠闲地唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEb2?p=4",
   "source": "hinachibi.js"
 }
 );

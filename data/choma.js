@@ -1,6 +1,6 @@
 // チョま - 歌单数据 (多合集汇总)
 // 来源: BV1kM3L6GEBV
-// 生成时间: 10/9/2026, 7:14:30 PM
+// 生成时间: 10/9/2026, 8:24:31 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4499,6 +4499,150 @@ window.SONG_DATA.push(
   "collection": "チョま歌切 2026年10月06日20点场 要不要来听一首歌？｜多声线・双声线 2026-10-06",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DkHk6FEpn?p=13",
+  "source": "choma.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "ロクデナシ",
+  "collection": "チョま歌切 2026年10月09日20点场 「宇宙」歌曲限定！！ 2026-10-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tERJ?p=1",
+  "source": "choma.js"
+},
+    {
+  "title": "惑星ループ",
+  "artist": "Eve",
+  "collection": "チョま歌切 2026年10月09日20点场 「宇宙」歌曲限定！！ 2026-10-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tERJ?p=2",
+  "source": "choma.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "チョま歌切 2026年10月09日20点场 「宇宙」歌曲限定！！ 2026-10-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tERJ?p=3",
+  "source": "choma.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "チョま歌切 2026年10月09日20点场 「宇宙」歌曲限定！！ 2026-10-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tERJ?p=4",
+  "source": "choma.js"
+},
+    {
+  "title": "太陽系デスコ",
+  "artist": "ナユタン星人 feat.初音ミク",
+  "collection": "チョま歌切 2026年10月09日20点场 「宇宙」歌曲限定！！ 2026-10-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tERJ?p=5",
+  "source": "choma.js"
+},
+    {
+  "title": "エイリアンエイリアン",
+  "artist": "ナユタン星人 feat.初音ミク",
+  "collection": "チョま歌切 2026年10月09日20点场 「宇宙」歌曲限定！！ 2026-10-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tERJ?p=6",
+  "source": "choma.js"
+},
+    {
+  "title": "金星のダンス",
+  "artist": "ナユタン星人",
+  "collection": "チョま歌切 2026年10月09日20点场 「宇宙」歌曲限定！！ 2026-10-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tERJ?p=7",
+  "source": "choma.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra / 月見ヤチヨ(CV:早見沙織)",
+  "collection": "チョま歌切 2026年10月09日20点场 「宇宙」歌曲限定！！ 2026-10-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tERJ?p=8",
+  "source": "choma.js"
+},
+    {
+  "title": "ギターと孤独と蒼い惑星",
+  "artist": "結束バンド",
+  "collection": "チョま歌切 2026年10月09日20点场 「宇宙」歌曲限定！！ 2026-10-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tERJ?p=9",
+  "source": "choma.js"
+},
+    {
+  "title": "砂の惑星",
+  "artist": "ハチ feat.初音ミク",
+  "collection": "チョま歌切 2026年10月09日20点场 「宇宙」歌曲限定！！ 2026-10-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tERJ?p=10",
+  "source": "choma.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "チョま歌切 2026年10月09日20点场 「宇宙」歌曲限定！！ 2026-10-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tERJ?p=11",
+  "source": "choma.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "シェリル・ノーム starring May'n / ランカ・リー＝中島愛",
+  "collection": "チョま歌切 2026年10月09日20点场 「宇宙」歌曲限定！！ 2026-10-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tERJ?p=12",
+  "source": "choma.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "チョま歌切 2026年10月09日20点场 「宇宙」歌曲限定！！ 2026-10-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tERJ?p=13",
+  "source": "choma.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "チョま歌切 2026年10月09日20点场 「宇宙」歌曲限定！！ 2026-10-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tERJ?p=14",
+  "source": "choma.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat.IA",
+  "collection": "チョま歌切 2026年10月09日20点场 「宇宙」歌曲限定！！ 2026-10-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tERJ?p=15",
+  "source": "choma.js"
+},
+    {
+  "title": "タセイジン",
+  "artist": "チョま",
+  "collection": "チョま歌切 2026年10月09日20点场 「宇宙」歌曲限定！！ 2026-10-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tERJ?p=16",
+  "source": "choma.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "チョま歌切 2026年10月09日20点场 「宇宙」歌曲限定！！ 2026-10-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tERJ?p=17",
+  "source": "choma.js"
+},
+    {
+  "title": "小さきもの",
+  "artist": "林明日香",
+  "collection": "チョま歌切 2026年10月09日20点场 「宇宙」歌曲限定！！ 2026-10-09",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tERJ?p=18",
   "source": "choma.js"
 }
 );

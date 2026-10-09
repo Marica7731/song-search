@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 10/9/2026, 7:23:29 PM
+// 生成时间: 10/9/2026, 8:31:28 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5403,6 +5403,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=15",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "あの夏のいつかは",
+  "artist": "*Luna feat.音街ウナ・鏡音レン",
+  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "インフェルノ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Laugh away",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ネイティブダンサー",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "又三郎",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "きゅうくらりん",
+  "artist": "いよわ feat.可不",
+  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "美波",
+  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "快晴",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "花人局",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "チュルリラ・チュルリラ・ダッダッダ！",
+  "artist": "くらげP",
+  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ルーマー",
+  "artist": "ポリスピカデリー",
+  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=15",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=16",
   "source": "suiuishino.js"
 }
 );
