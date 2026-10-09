@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 10/9/2026, 7:50:45 PM
+// 生成时间: 10/9/2026, 9:02:12 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -24027,6 +24027,110 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】#149[2026-10-07]我就在这里等你哦。｜周三定期歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ggH26BEu5?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "勇気100%",
+  "artist": "光GENJI",
+  "collection": "【🦢歌切】[2026-10-09]傍晚时分，我会在这里等你。直播歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEee?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "SWEET MEMORIES",
+  "artist": "松田聖子",
+  "collection": "【🦢歌切】[2026-10-09]傍晚时分，我会在这里等你。直播歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEee?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "DAN DAN 心魅かれてく",
+  "artist": "FIELD OF VIEW",
+  "collection": "【🦢歌切】[2026-10-09]傍晚时分，我会在这里等你。直播歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEee?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Catch You Catch Me",
+  "artist": "グミ",
+  "collection": "【🦢歌切】[2026-10-09]傍晚时分，我会在这里等你。直播歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEee?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【🦢歌切】[2026-10-09]傍晚时分，我会在这里等你。直播歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEee?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ドラえもん",
+  "artist": "星野源",
+  "collection": "【🦢歌切】[2026-10-09]傍晚时分，我会在这里等你。直播歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEee?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "プリズム",
+  "artist": "池田綾子",
+  "collection": "【🦢歌切】[2026-10-09]傍晚时分，我会在这里等你。直播歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEee?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【🦢歌切】[2026-10-09]傍晚时分，我会在这里等你。直播歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEee?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【🦢歌切】[2026-10-09]傍晚时分，我会在这里等你。直播歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEee?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【🦢歌切】[2026-10-09]傍晚时分，我会在这里等你。直播歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEee?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "花ざかりWeekend✿",
+  "artist": "4 Luxury",
+  "collection": "【🦢歌切】[2026-10-09]傍晚时分，我会在这里等你。直播歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEee?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "フライデー・ナイト",
+  "artist": "なとり",
+  "collection": "【🦢歌切】[2026-10-09]傍晚时分，我会在这里等你。直播歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEee?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "DRESSING ROOM",
+  "artist": "なとり",
+  "collection": "【🦢歌切】[2026-10-09]傍晚时分，我会在这里等你。直播歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEee?p=13",
   "source": "suu_usuwa.js"
 }
 );

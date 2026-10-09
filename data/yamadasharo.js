@@ -1,6 +1,6 @@
 // 山田シャロ - 歌单数据 (多合集汇总)
 // 来源: BV179L66pE1f
-// 生成时间: 10/9/2026, 8:16:26 PM
+// 生成时间: 10/9/2026, 9:28:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2579,6 +2579,158 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-02]也可以点歌！轻松来听吧！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rRHL6TEA1?p=19",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ずっとずっとずっと",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-10-09]点歌也OK！欢迎随时来看看哦💓",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sNpY6tEZt?p=1",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【歌切】[2026-10-09]点歌也OK！欢迎随时来看看哦💓",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sNpY6tEZt?p=2",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-10-09]点歌也OK！欢迎随时来看看哦💓",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sNpY6tEZt?p=3",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "【歌切】[2026-10-09]点歌也OK！欢迎随时来看看哦💓",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sNpY6tEZt?p=4",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "絶対的幸福論",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-10-09]点歌也OK！欢迎随时来看看哦💓",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sNpY6tEZt?p=5",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "成海萌奈(CV:夏川椎菜) & HoneyWorks",
+  "collection": "【歌切】[2026-10-09]点歌也OK！欢迎随时来看看哦💓",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sNpY6tEZt?p=6",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "純潔パラドックス",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-10-09]点歌也OK！欢迎随时来看看哦💓",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sNpY6tEZt?p=7",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "カーストルーム",
+  "artist": "ZAQ",
+  "collection": "【歌切】[2026-10-09]点歌也OK！欢迎随时来看看哦💓",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sNpY6tEZt?p=8",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-10-09]点歌也OK！欢迎随时来看看哦💓",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sNpY6tEZt?p=9",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-10-09]点歌也OK！欢迎随时来看看哦💓",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sNpY6tEZt?p=10",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-10-09]点歌也OK！欢迎随时来看看哦💓",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sNpY6tEZt?p=11",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ないものねだり",
+  "artist": "KANA-BOON",
+  "collection": "【歌切】[2026-10-09]点歌也OK！欢迎随时来看看哦💓",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sNpY6tEZt?p=12",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【歌切】[2026-10-09]点歌也OK！欢迎随时来看看哦💓",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sNpY6tEZt?p=13",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Chase the World",
+  "artist": "May'n",
+  "collection": "【歌切】[2026-10-09]点歌也OK！欢迎随时来看看哦💓",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sNpY6tEZt?p=14",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【歌切】[2026-10-09]点歌也OK！欢迎随时来看看哦💓",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sNpY6tEZt?p=15",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "One・Two・Three",
+  "artist": "モーニング娘。",
+  "collection": "【歌切】[2026-10-09]点歌也OK！欢迎随时来看看哦💓",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sNpY6tEZt?p=16",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ジェラシー ジェラシー",
+  "artist": "モーニング娘。",
+  "collection": "【歌切】[2026-10-09]点歌也OK！欢迎随时来看看哦💓",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sNpY6tEZt?p=17",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-10-09]点歌也OK！欢迎随时来看看哦💓",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sNpY6tEZt?p=18",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "シル・ヴ・プレジデント",
+  "artist": "P丸様。",
+  "collection": "【歌切】[2026-10-09]点歌也OK！欢迎随时来看看哦💓",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sNpY6tEZt?p=19",
   "source": "yamadasharo.js"
 }
 );

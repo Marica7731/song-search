@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 10/9/2026, 7:48:10 PM
+// 生成时间: 10/9/2026, 8:59:08 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -36923,6 +36923,166 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-10-04]助眠歌回✨睡前请听🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YrHH6gEsr?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "睨めっ娘",
+  "artist": "友成空",
+  "collection": "【💐歌切】[2026-10-09]星期五就想精神满满地唱歌呢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEK6?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "鬼ノ宴",
+  "artist": "友成空",
+  "collection": "【💐歌切】[2026-10-09]星期五就想精神满满地唱歌呢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEK6?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "盗作",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-10-09]星期五就想精神满满地唱歌呢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEK6?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-10-09]星期五就想精神满满地唱歌呢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEK6?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "さよならモルテン",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-10-09]星期五就想精神满满地唱歌呢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEK6?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【💐歌切】[2026-10-09]星期五就想精神满满地唱歌呢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEK6?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "さよーならまたいつか！",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-10-09]星期五就想精神满满地唱歌呢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEK6?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "ひとりごつ",
+  "artist": "ハチワレ",
+  "collection": "【💐歌切】[2026-10-09]星期五就想精神满满地唱歌呢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEK6?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-10-09]星期五就想精神满满地唱歌呢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEK6?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【💐歌切】[2026-10-09]星期五就想精神满满地唱歌呢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEK6?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "Flamingo",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-10-09]星期五就想精神满满地唱歌呢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEK6?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "LOSER",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-10-09]星期五就想精神满满地唱歌呢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEK6?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "GLAMOROUS SKY",
+  "artist": "中島美嘉",
+  "collection": "【💐歌切】[2026-10-09]星期五就想精神满满地唱歌呢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEK6?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "SUN",
+  "artist": "星野源",
+  "collection": "【💐歌切】[2026-10-09]星期五就想精神满满地唱歌呢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEK6?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師・宇多田ヒカル",
+  "collection": "【💐歌切】[2026-10-09]星期五就想精神满满地唱歌呢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEK6?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "Hello, Again 〜昔からある場所〜",
+  "artist": "My Little Lover",
+  "collection": "【💐歌切】[2026-10-09]星期五就想精神满满地唱歌呢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEK6?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "家に帰ろう(マイ・スイート・ホーム)",
+  "artist": "竹内まりや",
+  "collection": "【💐歌切】[2026-10-09]星期五就想精神满满地唱歌呢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEK6?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "RE:I AM",
+  "artist": "Aimer",
+  "collection": "【💐歌切】[2026-10-09]星期五就想精神满满地唱歌呢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEK6?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "【💐歌切】[2026-10-09]星期五就想精神满满地唱歌呢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEK6?p=19",
+  "source": "figaro.js"
+},
+    {
+  "title": "Wherever you are",
+  "artist": "ONE OK ROCK",
+  "collection": "【💐歌切】[2026-10-09]星期五就想精神满满地唱歌呢",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xNpY6tEK6?p=20",
   "source": "figaro.js"
 }
 );

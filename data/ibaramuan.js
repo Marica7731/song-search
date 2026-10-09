@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 10/9/2026, 8:21:53 PM
+// 生成时间: 10/9/2026, 9:32:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10707,6 +10707,214 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-03]以动漫歌・J-POP为主来唱啦！欢迎新观众！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HRHL6TEjj?p=27",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "さよーならまたいつか！",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "V",
+  "artist": "HIMEHINA",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ルーマー",
+  "artist": "ポリスピカデリー",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "パメラ",
+  "artist": "バルーン",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "上弦の月",
+  "artist": "黒うさP",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "シザーハンズ",
+  "artist": "Nem",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ（平野綾）",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ETERNAL BLAZE",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "深愛",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Listen!!",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "NO, Thank You!",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "じょいふる",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "LIFE",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "少女S",
+  "artist": "SCANDAL",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "瞬間センチメンタル",
+  "artist": "SCANDAL",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ヴィラン",
+  "artist": "てにをは",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ないない",
+  "artist": "ReoNa",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ガジュマル ～Heaven in the Rain～",
+  "artist": "ReoNa",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "KABANERI OF THE IRON FORTRESS",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "BANG!!!",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "夜撫でるメノウ",
+  "artist": "Ayase",
+  "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=26",
   "source": "ibaramuan.js"
 }
 );

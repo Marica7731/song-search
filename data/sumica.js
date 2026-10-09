@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 10/9/2026, 8:02:30 PM
+// 生成时间: 10/9/2026, 9:12:55 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10283,6 +10283,150 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-10-07]有些寂寞的夜晚⟡.*悠闲地弹唱温柔的歌🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ugH26BE25?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "Do you think about me?",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-10-09]アコギで落ち着く夜時間はいかが～￤澄花 / 澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15spY6yEqp?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "果てしない二人",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-10-09]アコギで落ち着く夜時間はいかが～￤澄花 / 澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15spY6yEqp?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "Swallowtail Butterfly ～あいのうた～",
+  "artist": "YEN TOWN BAND",
+  "collection": "【💐🎸歌切】[2026-10-09]アコギで落ち着く夜時間はいかが～￤澄花 / 澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15spY6yEqp?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-10-09]アコギで落ち着く夜時間はいかが～￤澄花 / 澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15spY6yEqp?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "残ってる",
+  "artist": "吉澤嘉代子",
+  "collection": "【💐🎸歌切】[2026-10-09]アコギで落ち着く夜時間はいかが～￤澄花 / 澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15spY6yEqp?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "back number",
+  "collection": "【💐🎸歌切】[2026-10-09]アコギで落ち着く夜時間はいかが～￤澄花 / 澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15spY6yEqp?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【💐🎸歌切】[2026-10-09]アコギで落ち着く夜時間はいかが～￤澄花 / 澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15spY6yEqp?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "film",
+  "artist": "Saucy Dog",
+  "collection": "【💐🎸歌切】[2026-10-09]アコギで落ち着く夜時間はいかが～￤澄花 / 澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15spY6yEqp?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "太陽に笑え",
+  "artist": "Anly",
+  "collection": "【💐🎸歌切】[2026-10-09]アコギで落ち着く夜時間はいかが～￤澄花 / 澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15spY6yEqp?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "【💐🎸歌切】[2026-10-09]アコギで落ち着く夜時間はいかが～￤澄花 / 澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15spY6yEqp?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "センス・オブ・ワンダー",
+  "artist": "sumika",
+  "collection": "【💐🎸歌切】[2026-10-09]アコギで落ち着く夜時間はいかが～￤澄花 / 澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15spY6yEqp?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "酸欠少女",
+  "artist": "さユり",
+  "collection": "【💐🎸歌切】[2026-10-09]アコギで落ち着く夜時間はいかが～￤澄花 / 澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15spY6yEqp?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "怪獣の腕のなか",
+  "artist": "きのこ帝国",
+  "collection": "【💐🎸歌切】[2026-10-09]アコギで落ち着く夜時間はいかが～￤澄花 / 澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15spY6yEqp?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "金木犀の夜",
+  "artist": "きのこ帝国",
+  "collection": "【💐🎸歌切】[2026-10-09]アコギで落ち着く夜時間はいかが～￤澄花 / 澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15spY6yEqp?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【💐🎸歌切】[2026-10-09]アコギで落ち着く夜時間はいかが～￤澄花 / 澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15spY6yEqp?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "【💐🎸歌切】[2026-10-09]アコギで落ち着く夜時間はいかが～￤澄花 / 澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15spY6yEqp?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "BLUE",
+  "artist": "Saucy Dog",
+  "collection": "【💐🎸歌切】[2026-10-09]アコギで落ち着く夜時間はいかが～￤澄花 / 澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15spY6yEqp?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "いじわるさん",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-10-09]アコギで落ち着く夜時間はいかが～￤澄花 / 澄花",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15spY6yEqp?p=18",
   "source": "sumica.js"
 }
 );
