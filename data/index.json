@@ -65,7 +65,8 @@
     "yuni.js",
     "peruciaten.js",
     "shiyu.js",
-    "natsumeikune.js"
+    "natsumeikune.js",
+    "yadokaridolly.js"
   ],
   "fileToAlias": {
     "323": "323",
@@ -133,7 +134,8 @@
     "yuni": "YuNi",
     "peruciaten": "ぺるしあ・てん",
     "shiyu": "しゆ。",
-    "natsumeikune": "なつかしちゃん"
+    "natsumeikune": "なつかしちゃん",
+    "yadokaridolly": "ヤドカリのドリィ"
   },
   "sourceProfiles": {
     "323": {
@@ -664,6 +666,14 @@
       "avatarUrl": "https://yt3.googleusercontent.com/gZeH0i8xfQ2fciQ7CozAsM7aIFjNruQ1KtKeQ1idrNJFYpcAnduaqVaAPlyjjvUe0C4f9a-Zsg8=s176-c-k-c0x00ffffff-no-rj",
       "youtubeUrl": "https://www.youtube.com/channel/UC2J3YlHqkUJFkfkh57Zt33Q",
       "accentColor": "hsl(88 55% 36%)",
+      "statsAvgSortDeferred": false
+    },
+    "yadokaridolly": {
+      "alias": "ヤドカリのドリィ",
+      "avatarText": "ド",
+      "avatarUrl": "https://yt3.googleusercontent.com/SZSBbRTKvOP9deH0V2yS8nMkq-zrr0peo9s7qP6USvY2KrnPzz-wQkVJB9JHypZ3cQCtgcNKlw=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/channel/UCm5-a9_-yKFE-pLNy8D3xYQ",
+      "accentColor": "hsl(197 55% 36%)",
       "statsAvgSortDeferred": false
     }
   }

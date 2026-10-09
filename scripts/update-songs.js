@@ -227,6 +227,14 @@ const SINGER_CONFIGS = [
         rawDataLoader: "bili-view-api",
         minimumCollectionBvids: 3,
         probeCount: 15
+    },
+    {
+        bvids: ["BV1znpW6xECf"],
+        file: "yadokaridolly",
+        alias: "ヤドカリのドリィ",
+        rawDataLoader: "bili-view-api",
+        minimumCollectionBvids: 3,
+        probeCount: 15
     }
 ];
 

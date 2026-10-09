@@ -412,6 +412,12 @@
       "youtubeUrl": "https://www.youtube.com/channel/UC2J3YlHqkUJFkfkh57Zt33Q",
       "avatarText": "な",
       "accentColor": "hsl(88 55% 36%)"
+    },
+    "yadokaridolly": {
+      "avatarUrl": "https://yt3.googleusercontent.com/SZSBbRTKvOP9deH0V2yS8nMkq-zrr0peo9s7qP6USvY2KrnPzz-wQkVJB9JHypZ3cQCtgcNKlw=s176-c-k-c0x00ffffff-no-rj",
+      "youtubeUrl": "https://www.youtube.com/channel/UCm5-a9_-yKFE-pLNy8D3xYQ",
+      "avatarText": "ド",
+      "accentColor": "hsl(197 55% 36%)"
     }
   }
 }
