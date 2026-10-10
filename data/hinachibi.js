@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 10/10/2026, 1:51:30 AM
+// 生成时间: 10/10/2026, 4:20:41 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2998,8 +2998,8 @@ window.SONG_DATA.push(
   "source": "hinachibi.js"
 },
     {
-  "title": "Alice lies",
-  "artist": "WARS iN CLOSET",
+  "title": "アリスの嘘",
+  "artist": "CLAN QUEEN",
   "collection": "【歌切】[2026-10-09]嗓子稍微恢复了，想悠闲地唱歌！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xNpY6tEb2?p=1",
@@ -3014,7 +3014,7 @@ window.SONG_DATA.push(
   "source": "hinachibi.js"
 },
     {
-  "title": "Day & Night",
+  "title": "Day&Night",
   "artist": "Aqu3ra feat.初音ミク",
   "collection": "【歌切】[2026-10-09]嗓子稍微恢复了，想悠闲地唱歌！",
   "up": "前尘往事如昔故",
@@ -3023,7 +3023,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "消えてしまえたならいいのに、なんて",
-  "artist": "xotickamatani feat.初音ミク",
+  "artist": "エキゾチックかまたに feat.初音ミク",
   "collection": "【歌切】[2026-10-09]嗓子稍微恢复了，想悠闲地唱歌！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xNpY6tEb2?p=4",
