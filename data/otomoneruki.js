@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 10/10/2026, 12:02:58 PM
+// 生成时间: 10/10/2026, 1:08:54 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6587,6 +6587,38 @@ window.SONG_DATA.push(
   "collection": "【👿歌切】[2026-10-08]适合当作广播听的午间歌回📻🎶可能闲聊比较多！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jVHR6BEkQ?p=11",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "コロンブス",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【👿歌切】[2026-10-10]挑战5万订阅耐久歌回！这么晚还能达成吗😭还有重大公告✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BBpu6mE8s?p=1",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【👿歌切】[2026-10-10]挑战5万订阅耐久歌回！这么晚还能达成吗😭还有重大公告✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BBpu6mE8s?p=2",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【👿歌切】[2026-10-10]挑战5万订阅耐久歌回！这么晚还能达成吗😭还有重大公告✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BBpu6mE8s?p=3",
+  "source": "otomoneruki.js"
+},
+    {
+  "title": "きっとビタミン",
+  "artist": "音門るき",
+  "collection": "【👿歌切】[2026-10-10]挑战5万订阅耐久歌回！这么晚还能达成吗😭还有重大公告✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BBpu6mE8s?p=4",
   "source": "otomoneruki.js"
 }
 );

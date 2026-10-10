@@ -1,6 +1,6 @@
 // 玉町ぷえ - 歌单数据 (多合集汇总)
 // 来源: BV1nUMP6vE7N
-// 生成时间: 10/10/2026, 12:46:50 PM
+// 生成时间: 10/10/2026, 1:44:37 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1963,6 +1963,54 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-04]最喜欢闪耀歌回接力⌇喜欢的心情会闪闪发光⊹♡",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iaHJ6BEhd?p=5",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "愛包ダンスホール",
+  "artist": "HIMEHINA",
+  "collection": "【歌切】[2026-10-10]爱Love歌回接力⌇爱要趁能表达时说出口♡.゜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EBpu6mEFf?p=1",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "友情ノーチェンジ",
+  "artist": "μ's",
+  "collection": "【歌切】[2026-10-10]爱Love歌回接力⌇爱要趁能表达时说出口♡.゜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EBpu6mEFf?p=2",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-10-10]爱Love歌回接力⌇爱要趁能表达时说出口♡.゜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EBpu6mEFf?p=3",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "けーたいみしてよ",
+  "artist": "MAISONdes feat. はしメロ, maeshima soshi",
+  "collection": "【歌切】[2026-10-10]爱Love歌回接力⌇爱要趁能表达时说出口♡.゜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EBpu6mEFf?p=4",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "浮気したらあかんで",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-10-10]爱Love歌回接力⌇爱要趁能表达时说出口♡.゜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EBpu6mEFf?p=5",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "Family Song",
+  "artist": "星野源",
+  "collection": "【歌切】[2026-10-10]爱Love歌回接力⌇爱要趁能表达时说出口♡.゜",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EBpu6mEFf?p=6",
   "source": "tamamachipue.js"
 }
 );
