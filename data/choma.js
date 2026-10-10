@@ -1,6 +1,6 @@
 // チョま - 歌单数据 (多合集汇总)
 // 来源: BV1kM3L6GEBV
-// 生成时间: 10/10/2026, 4:29:05 AM
+// 生成时间: 10/10/2026, 5:23:57 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4511,7 +4511,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "惑星ループ",
-  "artist": "Eve",
+  "artist": "ナユタン星人 feat.初音ミク",
   "collection": "チョま歌切 2026年10月09日20点场 「宇宙」歌曲限定！！ 2026-10-09",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yNpY6tERJ?p=2",
