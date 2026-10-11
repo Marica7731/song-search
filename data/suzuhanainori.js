@@ -1,6 +1,6 @@
 // 鈴花いのり - 歌单数据 (多合集汇总)
 // 来源: BV1jyjK6sEns
-// 生成时间: 10/11/2026, 7:23:23 PM
+// 生成时间: 10/11/2026, 9:07:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6475,6 +6475,318 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-04]周日定期歌回𝜗𝜚.⋆ 来唱大家点的歌！欢迎新观众🎀🔔‎🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YYH76FE6C?p=45",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=1",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ハロ／ハワユ",
+  "artist": "ナノウ feat. 初音ミク",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=2",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "君の好きな本",
+  "artist": "TOKOTOKO（西沢さんP） feat. GUMI",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=3",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "泣き虫アンサンブル",
+  "artist": "TOKOTOKO（西沢さんP） feat. GUMI",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=4",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "格子の心臓",
+  "artist": "TOKOTOKO（西沢さんP） feat. GUMI",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=5",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "妄想スケッチ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=6",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "キリトリセン",
+  "artist": "40mP feat. GUMI",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=7",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "純情スカート",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=8",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "シリョクケンサ",
+  "artist": "40mP feat. GUMI",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=9",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=10",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "カミサマネジマキ",
+  "artist": "kemu feat. GUMI",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=11",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "敗北の少年",
+  "artist": "kemu feat. GUMI",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=12",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat. GUMI",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=13",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "相愛性理論",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=14",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "勘違い性反希望症",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=15",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "departure!",
+  "artist": "小野正利",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=16",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "表裏一体",
+  "artist": "ゆず",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=17",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=18",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "リライト",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=19",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ワンダーランドと羊の歌",
+  "artist": "ハチ feat. 初音ミク",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=20",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "vivi",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=21",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "LOSER",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=22",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ゴーゴー幽霊船",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=23",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Caffeine",
+  "artist": "秋山黄色",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=24",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "おしゃかしゃま",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=25",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "九龍レトロ",
+  "artist": "トーマ feat. GUMI",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=26",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ヤンキーボーイ・ヤンキーガール",
+  "artist": "トーマ feat. GUMI",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=27",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "1925",
+  "artist": "T-POCKET feat. 初音ミク",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=28",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=29",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "愛迷エレジー",
+  "artist": "DECO*27 feat. marina",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=30",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "サムライハート(Some Like It Hot!!)",
+  "artist": "SPYAIR",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=31",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=32",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "空に歌えば",
+  "artist": "amazarashi",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=33",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "季節は次々死んでいく",
+  "artist": "amazarashi",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=34",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=35",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat. 初音ミク",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=36",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Brave Shine",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=37",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=38",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "カラフル",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-10-11]周日固定歌回𝜗𝜚.⋆ 一早就送上后辈声线！欢迎新观众🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yNpH6ZEpz?p=39",
   "source": "suzuhanainori.js"
 }
 );

@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 10/11/2026, 6:32:50 PM
+// 生成时间: 10/11/2026, 8:12:06 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -37083,6 +37083,110 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-10-09]星期五就想精神满满地唱歌呢",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xNpY6tEK6?p=20",
+  "source": "figaro.js"
+},
+    {
+  "title": "メーベル",
+  "artist": "バルーン feat. flower",
+  "collection": "【💐歌切】[2026-10-11]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65Eoj?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "Ham",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【💐歌切】[2026-10-11]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65Eoj?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【💐歌切】[2026-10-11]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65Eoj?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat. 安次嶺希和子",
+  "collection": "【💐歌切】[2026-10-11]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65Eoj?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "glow",
+  "artist": "keeno feat. 初音ミク",
+  "collection": "【💐歌切】[2026-10-11]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65Eoj?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "【💐歌切】[2026-10-11]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65Eoj?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "【💐歌切】[2026-10-11]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65Eoj?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "NAO",
+  "artist": "HY",
+  "collection": "【💐歌切】[2026-10-11]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65Eoj?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "スコール",
+  "artist": "春野 feat. 初音ミク",
+  "collection": "【💐歌切】[2026-10-11]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65Eoj?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "楽園",
+  "artist": "春野 feat. 初音ミク",
+  "collection": "【💐歌切】[2026-10-11]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65Eoj?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "Currant",
+  "artist": "春野 feat. 初音ミク",
+  "collection": "【💐歌切】[2026-10-11]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65Eoj?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "対象a",
+  "artist": "anNina",
+  "collection": "【💐歌切】[2026-10-11]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65Eoj?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗 feat. ちびた",
+  "collection": "【💐歌切】[2026-10-11]助眠歌回✨睡前来听吧🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65Eoj?p=13",
   "source": "figaro.js"
 }
 );

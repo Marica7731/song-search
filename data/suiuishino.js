@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 10/11/2026, 7:28:23 PM
+// 生成时间: 10/11/2026, 9:11:54 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5531,6 +5531,118 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=16",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "修羅",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "テレパス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "パレード",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "夏の半券",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "君と羊と青",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ボクノート",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Just Be Friends",
+  "artist": "Dixie Flatline feat. 巡音ルカ",
+  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "君の体温",
+  "artist": "クワガタP feat. 初音ミク",
+  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "don't cry anymore",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "fight",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "クリスマスソング",
+  "artist": "back number",
+  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=14",
   "source": "suiuishino.js"
 }
 );

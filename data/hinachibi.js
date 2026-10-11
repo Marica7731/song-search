@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 10/11/2026, 7:11:25 PM
+// 生成时间: 10/11/2026, 8:56:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3027,6 +3027,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-09]嗓子稍微恢复了，想悠闲地唱歌！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xNpY6tEb2?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "洗脳",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-10-10]只想唱一个小时！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dxpH65Esm?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-10-10]只想唱一个小时！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dxpH65Esm?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ラストラス",
+  "artist": "*Luna feat. 初音ミク",
+  "collection": "【歌切】[2026-10-10]只想唱一个小时！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dxpH65Esm?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "No.1",
+  "artist": "mona（CV：夏川椎菜）",
+  "collection": "【歌切】[2026-10-10]只想唱一个小时！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dxpH65Esm?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "言葉のいらない約束",
+  "artist": "sana",
+  "collection": "【歌切】[2026-10-10]只想唱一个小时！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dxpH65Esm?p=5",
   "source": "hinachibi.js"
 }
 );

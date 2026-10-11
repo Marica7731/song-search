@@ -1,6 +1,6 @@
 // 天籠りのん - 歌单数据 (多合集汇总)
 // 来源: BV1hw4m1i7qN
-// 生成时间: 10/11/2026, 6:44:03 PM
+// 生成时间: 10/11/2026, 8:26:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3659,6 +3659,70 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-03]天籠りのん（VSinger形态）【すぺしゃりて】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HRHL6TExj?p=6",
+  "source": "linon.js"
+},
+    {
+  "title": "ソワレ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-10-10]钢琴伴奏｜あまこも的歌唱攻击！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dxpH65EwW?p=1",
+  "source": "linon.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-10-10]钢琴伴奏｜あまこも的歌唱攻击！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dxpH65EwW?p=2",
+  "source": "linon.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat. 可不",
+  "collection": "【歌切】[2026-10-10]钢琴伴奏｜あまこも的歌唱攻击！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dxpH65EwW?p=3",
+  "source": "linon.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-10-10]钢琴伴奏｜あまこも的歌唱攻击！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dxpH65EwW?p=4",
+  "source": "linon.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-10-10]钢琴伴奏｜あまこも的歌唱攻击！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dxpH65EwW?p=5",
+  "source": "linon.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-10-10]钢琴伴奏｜あまこも的歌唱攻击！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dxpH65EwW?p=6",
+  "source": "linon.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-10]钢琴伴奏｜あまこも的歌唱攻击！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dxpH65EwW?p=7",
+  "source": "linon.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "【歌切】[2026-10-10]钢琴伴奏｜あまこも的歌唱攻击！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dxpH65EwW?p=8",
   "source": "linon.js"
 }
 );

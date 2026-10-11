@@ -1,6 +1,6 @@
 // ななし律歌 - 歌单数据 (多合集汇总)
 // 来源: BV1wHQVBTEU5
-// 生成时间: 10/11/2026, 7:06:10 PM
+// 生成时间: 10/11/2026, 8:51:08 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2331,6 +2331,166 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-08]悠闲自在地唱歌",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1soH96JEb9?p=10",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "スキスキ絶頂症",
+  "artist": "電ポルP feat. GUMI",
+  "collection": "【歌切】[2026-10-10]一周年纪念✨与一路走来的回忆一起歌唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxpH65E8Q?p=1",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-10-10]一周年纪念✨与一路走来的回忆一起歌唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxpH65E8Q?p=2",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "アンノウン・マザーグース",
+  "artist": "wowaka feat. 初音ミク",
+  "collection": "【歌切】[2026-10-10]一周年纪念✨与一路走来的回忆一起歌唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxpH65E8Q?p=3",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-10-10]一周年纪念✨与一路走来的回忆一起歌唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxpH65E8Q?p=4",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-10-10]一周年纪念✨与一路走来的回忆一起歌唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxpH65E8Q?p=5",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "栞",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-10-10]一周年纪念✨与一路走来的回忆一起歌唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxpH65E8Q?p=6",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "車輪の唄",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-10-10]一周年纪念✨与一路走来的回忆一起歌唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxpH65E8Q?p=7",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat. 初音ミク",
+  "collection": "【歌切】[2026-10-10]一周年纪念✨与一路走来的回忆一起歌唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxpH65E8Q?p=8",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "狂乱 Hey Kids!!",
+  "artist": "THE ORAL CIGARETTES",
+  "collection": "【歌切】[2026-10-10]一周年纪念✨与一路走来的回忆一起歌唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxpH65E8Q?p=9",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-10-10]一周年纪念✨与一路走来的回忆一起歌唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxpH65E8Q?p=10",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "アトラクトライト",
+  "artist": "*Luna feat. 鏡音レン",
+  "collection": "【歌切】[2026-10-10]一周年纪念✨与一路走来的回忆一起歌唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxpH65E8Q?p=11",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "私は、私達は",
+  "artist": "Guiano feat. 可不",
+  "collection": "【歌切】[2026-10-10]一周年纪念✨与一路走来的回忆一起歌唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxpH65E8Q?p=12",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "今はいいんだよ。",
+  "artist": "MIMI feat. 可不",
+  "collection": "【歌切】[2026-10-10]一周年纪念✨与一路走来的回忆一起歌唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxpH65E8Q?p=13",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "空に歌えば",
+  "artist": "amazarashi",
+  "collection": "【歌切】[2026-10-10]一周年纪念✨与一路走来的回忆一起歌唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxpH65E8Q?p=14",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "27",
+  "artist": "SUPER BEAVER",
+  "collection": "【歌切】[2026-10-10]一周年纪念✨与一路走来的回忆一起歌唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxpH65E8Q?p=15",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ODDS&ENDS",
+  "artist": "ryo (supercell) feat. 初音ミク",
+  "collection": "【歌切】[2026-10-10]一周年纪念✨与一路走来的回忆一起歌唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxpH65E8Q?p=16",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "きみも悪い人でよかった",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "【歌切】[2026-10-10]一周年纪念✨与一路走来的回忆一起歌唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxpH65E8Q?p=17",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ファンファーレ",
+  "artist": "sumika",
+  "collection": "【歌切】[2026-10-10]一周年纪念✨与一路走来的回忆一起歌唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxpH65E8Q?p=18",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "我逢人",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-10-10]一周年纪念✨与一路走来的回忆一起歌唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxpH65E8Q?p=19",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-10-10]一周年纪念✨与一路走来的回忆一起歌唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RxpH65E8Q?p=20",
   "source": "nanashirikka.js"
 }
 );

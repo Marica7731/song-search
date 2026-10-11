@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 10/11/2026, 6:35:36 PM
+// 生成时间: 10/11/2026, 8:14:28 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -19595,6 +19595,54 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-10-08]睡前助眠吉他弹唱✧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1x9H96HERV?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【🐍歌切】[2026-10-10]会员限定｜轻松唱歌与闲聊 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1expH65ECQ?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "青春ライン",
+  "artist": "いきものがかり",
+  "collection": "【🐍歌切】[2026-10-10]会员限定｜轻松唱歌与闲聊 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1expH65ECQ?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "いきものがかり",
+  "collection": "【🐍歌切】[2026-10-10]会员限定｜轻松唱歌与闲聊 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1expH65ECQ?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "YELL",
+  "artist": "いきものがかり",
+  "collection": "【🐍歌切】[2026-10-10]会员限定｜轻松唱歌与闲聊 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1expH65ECQ?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ホタルノヒカリ",
+  "artist": "いきものがかり",
+  "collection": "【🐍歌切】[2026-10-10]会员限定｜轻松唱歌与闲聊 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1expH65ECQ?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "まちぶせ",
+  "artist": "三木聖子",
+  "collection": "【🐍歌切】[2026-10-10]会员限定｜轻松唱歌与闲聊 ✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1expH65ECQ?p=6",
   "source": "ririsya.js"
 }
 );
