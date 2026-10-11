@@ -1,6 +1,6 @@
 // 玉町ぷえ - 歌单数据 (多合集汇总)
 // 来源: BV1nUMP6vE7N
-// 生成时间: 10/11/2026, 5:10:38 PM
+// 生成时间: 10/11/2026, 6:10:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2011,6 +2011,54 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-10]爱Love歌回接力⌇爱要趁能表达时说出口♡.゜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EBpu6mEFf?p=6",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "【歌切】[2026-10-11]2025年出道的一年级生🌷我是行进乐队队长哦♪ ₊˚（ぶいっと歌回接力）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s4pp6YEb4?p=1",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "イイじゃん",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-10-11]2025年出道的一年级生🌷我是行进乐队队长哦♪ ₊˚（ぶいっと歌回接力）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s4pp6YEb4?p=2",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "Blue Jeans",
+  "artist": "HANA",
+  "collection": "【歌切】[2026-10-11]2025年出道的一年级生🌷我是行进乐队队长哦♪ ₊˚（ぶいっと歌回接力）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s4pp6YEb4?p=3",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "ハッピーラッキーチャッピー",
+  "artist": "ano",
+  "collection": "【歌切】[2026-10-11]2025年出道的一年级生🌷我是行进乐队队长哦♪ ₊˚（ぶいっと歌回接力）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s4pp6YEb4?p=4",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "チェリーポップ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-10-11]2025年出道的一年级生🌷我是行进乐队队长哦♪ ₊˚（ぶいっと歌回接力）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s4pp6YEb4?p=5",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "わたしに花束",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-10-11]2025年出道的一年级生🌷我是行进乐队队长哦♪ ₊˚（ぶいっと歌回接力）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s4pp6YEb4?p=6",
   "source": "tamamachipue.js"
 }
 );
