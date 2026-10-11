@@ -1,6 +1,6 @@
 // 碧生ねの - 歌单数据 (多合集汇总)
 // 来源: BV1S4TT6pEn4
-// 生成时间: 10/11/2026, 6:08:49 PM
+// 生成时间: 10/11/2026, 7:22:06 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1931,6 +1931,86 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-02]悠闲的深夜歌回🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HRHL6TEeh?p=11",
+  "source": "neno.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-11]深夜悠闲的后夜祭歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jcpp6nEy1?p=1",
+  "source": "neno.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【歌切】[2026-10-11]深夜悠闲的后夜祭歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jcpp6nEy1?p=2",
+  "source": "neno.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "【歌切】[2026-10-11]深夜悠闲的后夜祭歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jcpp6nEy1?p=3",
+  "source": "neno.js"
+},
+    {
+  "title": "前前前世",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-10-11]深夜悠闲的后夜祭歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jcpp6nEy1?p=4",
+  "source": "neno.js"
+},
+    {
+  "title": "Soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-10-11]深夜悠闲的后夜祭歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jcpp6nEy1?p=5",
+  "source": "neno.js"
+},
+    {
+  "title": "深海のリトルクライ",
+  "artist": "sasakure.UK feat. 土岐麻子",
+  "collection": "【歌切】[2026-10-11]深夜悠闲的后夜祭歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jcpp6nEy1?p=6",
+  "source": "neno.js"
+},
+    {
+  "title": "アストロノーツ",
+  "artist": "ぽわぽわP feat. 初音ミク",
+  "collection": "【歌切】[2026-10-11]深夜悠闲的后夜祭歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jcpp6nEy1?p=7",
+  "source": "neno.js"
+},
+    {
+  "title": "月光浴",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-11]深夜悠闲的后夜祭歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jcpp6nEy1?p=8",
+  "source": "neno.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat. 初音ミク",
+  "collection": "【歌切】[2026-10-11]深夜悠闲的后夜祭歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jcpp6nEy1?p=9",
+  "source": "neno.js"
+},
+    {
+  "title": "雫",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-10-11]深夜悠闲的后夜祭歌回🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jcpp6nEy1?p=10",
   "source": "neno.js"
 }
 );
