@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 10/11/2026, 12:09:44 AM
+// 生成时间: 10/11/2026, 1:08:22 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4923,6 +4923,86 @@ window.SONG_DATA.push(
   "collection": "联动歌切 2026-10-08 与NEPHLA的联动歌回！ Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LEHR6NEMv?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "联动歌切 2026-10-10 3D卡拉OK联动：和很棒的前辈们一起尽情歌唱哦✨ 夜羽咲クロネ × 魔光リサ × Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13Xpu6MErA?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "恋するフォーチュンクッキー",
+  "artist": "AKB48",
+  "collection": "联动歌切 2026-10-10 3D卡拉OK联动：和很棒的前辈们一起尽情歌唱哦✨ 夜羽咲クロネ × 魔光リサ × Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13Xpu6MErA?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "ANIMA",
+  "artist": "ReoNa",
+  "collection": "联动歌切 2026-10-10 3D卡拉OK联动：和很棒的前辈们一起尽情歌唱哦✨ 夜羽咲クロネ × 魔光リサ × Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13Xpu6MErA?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "联动歌切 2026-10-10 3D卡拉OK联动：和很棒的前辈们一起尽情歌唱哦✨ 夜羽咲クロネ × 魔光リサ × Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13Xpu6MErA?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "カットアウト",
+  "artist": "魔光リサ",
+  "collection": "联动歌切 2026-10-10 3D卡拉OK联动：和很棒的前辈们一起尽情歌唱哦✨ 夜羽咲クロネ × 魔光リサ × Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13Xpu6MErA?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "潮騒",
+  "artist": "Figaro",
+  "collection": "联动歌切 2026-10-10 3D卡拉OK联动：和很棒的前辈们一起尽情歌唱哦✨ 夜羽咲クロネ × 魔光リサ × Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13Xpu6MErA?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "あっちゅー魔！",
+  "artist": "夜羽咲クロネ",
+  "collection": "联动歌切 2026-10-10 3D卡拉OK联动：和很棒的前辈们一起尽情歌唱哦✨ 夜羽咲クロネ × 魔光リサ × Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13Xpu6MErA?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "联动歌切 2026-10-10 3D卡拉OK联动：和很棒的前辈们一起尽情歌唱哦✨ 夜羽咲クロネ × 魔光リサ × Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13Xpu6MErA?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "告白日和、です！",
+  "artist": "南ことり(内田彩)・小泉花陽(久保ユリカ)",
+  "collection": "联动歌切 2026-10-10 3D卡拉OK联动：和很棒的前辈们一起尽情歌唱哦✨ 夜羽咲クロネ × 魔光リサ × Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13Xpu6MErA?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "联动歌切 2026-10-10 3D卡拉OK联动：和很棒的前辈们一起尽情歌唱哦✨ 夜羽咲クロネ × 魔光リサ × Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13Xpu6MErA?p=10",
   "source": "friends.js"
 }
 );
