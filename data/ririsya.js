@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 10/12/2026, 5:50:51 PM
+// 生成时间: 10/12/2026, 6:53:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -19643,6 +19643,182 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-10-10]会员限定｜轻松唱歌与闲聊 ✧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1expH65ECQ?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "GHOST",
+  "artist": "星街すいせい",
+  "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "みちづれ",
+  "artist": "星街すいせい",
+  "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "瞬間ハートビート",
+  "artist": "ReGLOSS",
+  "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "もぐもぐYUMMY!",
+  "artist": "猫又おかゆ",
+  "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "#あくあ色ぱれっと",
+  "artist": "湊あくあ",
+  "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "I'm Your Treasure Box *あなたは マリンせんちょうを たからばこからみつけた。",
+  "artist": "宝鐘マリン",
+  "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "美少女無罪♡パイレーツ",
+  "artist": "宝鐘マリン",
+  "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "別世界",
+  "artist": "天音かなた",
+  "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Fleur",
+  "artist": "雪花ラミィ",
+  "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "あの日の僕らへ",
+  "artist": "Blue Journey",
+  "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "恋文前線",
+  "artist": "白上フブキ・百鬼あやめ・大神ミオ・さくらみこ",
+  "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "失礼しますが、RIP♡",
+  "artist": "Mori Calliope",
+  "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "PSYCHO",
+  "artist": "Hakos Baelz",
+  "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "HELP!!",
+  "artist": "Kobo Kanaeru",
+  "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "VIOLET",
+  "artist": "一伊那尓栖",
+  "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "愛の小さな歌",
+  "artist": "Moona Hoshinova",
+  "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Palette",
+  "artist": "常闇トワ",
+  "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "My song",
+  "artist": "角巻わため",
+  "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=18",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=19",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ソワレ",
+  "artist": "星街すいせい",
+  "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=20",
+  "source": "ririsya.js"
+},
+    {
+  "title": "キセキ結び",
+  "artist": "hololive 4th Generation",
+  "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=21",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Shiny Smily Story",
+  "artist": "hololive IDOL PROJECT",
+  "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=22",
   "source": "ririsya.js"
 }
 );

@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 10/12/2026, 6:11:42 PM
+// 生成时间: 10/12/2026, 7:17:37 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3659,6 +3659,30 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-09]微凉的天气里尽情听Perfume的歌，真是太棒了",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t1pW6uEhv?p=21",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Hello, Worker",
+  "artist": "KEI feat. 巡音ルカ",
+  "collection": "【歌切】[2026-10-12]彩虹交响曲歌回接力｜白色担当！羽澄さひろ！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV171po6EEaU?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ダスト",
+  "artist": "クワガタP feat. 初音ミク",
+  "collection": "【歌切】[2026-10-12]彩虹交响曲歌回接力｜白色担当！羽澄さひろ！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV171po6EEaU?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "君の好きな本",
+  "artist": "TOKOTOKO（西沢さんP） feat. GUMI",
+  "collection": "【歌切】[2026-10-12]彩虹交响曲歌回接力｜白色担当！羽澄さひろ！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV171po6EEaU?p=3",
   "source": "hasumisahiro.js"
 }
 );

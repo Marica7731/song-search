@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 10/12/2026, 6:20:28 PM
+// 生成时间: 10/12/2026, 7:27:50 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10915,6 +10915,78 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-09]绕个路怎么样？动漫歌、V家、J-POP",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nLpY6DEhV?p=26",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-10-12]茨むあん2026生日庆典｜即将迎来115（6）岁🎂倒计时直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67EuS?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "あの夢をなぞって",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-10-12]茨むあん2026生日庆典｜即将迎来115（6）岁🎂倒计时直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67EuS?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "UNDEAD",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-10-12]茨むあん2026生日庆典｜即将迎来115（6）岁🎂倒计时直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67EuS?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "セブンティーン",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-10-12]茨むあん2026生日庆典｜即将迎来115（6）岁🎂倒计时直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67EuS?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Absolute 5",
+  "artist": "ワルキューレ",
+  "collection": "【歌切】[2026-10-12]茨むあん2026生日庆典｜即将迎来115（6）岁🎂倒计时直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67EuS?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "I",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-10-12]茨むあん2026生日庆典｜即将迎来115（6）岁🎂倒计时直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67EuS?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ジェヘナ",
+  "artist": "wotaku feat. 初音ミク",
+  "collection": "【歌切】[2026-10-12]茨むあん2026生日庆典｜即将迎来115（6）岁🎂倒计时直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67EuS?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Sanity",
+  "artist": "茨むあん、マドロミ",
+  "collection": "【歌切】[2026-10-12]茨むあん2026生日庆典｜即将迎来115（6）岁🎂倒计时直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67EuS?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "シルク",
+  "artist": "茨むあん",
+  "collection": "【歌切】[2026-10-12]茨むあん2026生日庆典｜即将迎来115（6）岁🎂倒计时直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67EuS?p=9",
   "source": "ibaramuan.js"
 }
 );

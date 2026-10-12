@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 10/12/2026, 5:48:16 PM
+// 生成时间: 10/12/2026, 6:50:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15579,6 +15579,166 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-08]挑战300赞的耐久歌回👍❤️‍🔥",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qVHR6BEeY?p=23",
+  "source": "naraetan.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO×米津玄師",
+  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "相思相愛",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "奏（かなで）",
+  "artist": "スキマスイッチ",
+  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "勘ぐれい",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "FIND THE WAY",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "タイムマシン",
+  "artist": "1640mP feat. 初音ミク",
+  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "メテオ",
+  "artist": "じょん feat. 初音ミク",
+  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat. 可不",
+  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "アイノカタチ",
+  "artist": "MISIA feat. HIDE（GReeeeN）",
+  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "嵐の中で輝いて",
+  "artist": "米倉千尋",
+  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "六等星",
+  "artist": "ざらめ",
+  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "インドア系ならトラックメイカー",
+  "artist": "Yunomi feat. nicamoq",
+  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=13",
+  "source": "naraetan.js"
+},
+    {
+  "title": "愛♡スクリ～ム！",
+  "artist": "AiScReam",
+  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=14",
+  "source": "naraetan.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=15",
+  "source": "naraetan.js"
+},
+    {
+  "title": "トリセツ",
+  "artist": "西野カナ",
+  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=16",
+  "source": "naraetan.js"
+},
+    {
+  "title": "U&I",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=17",
+  "source": "naraetan.js"
+},
+    {
+  "title": "summertime",
+  "artist": "cinnamons×evening cinema",
+  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=18",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Last Night, Good Night",
+  "artist": "livetune feat. 初音ミク",
+  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=19",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ノーザンクロス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=20",
   "source": "naraetan.js"
 }
 );
