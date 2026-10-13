@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 10/13/2026, 5:42:48 PM
+// 生成时间: 10/13/2026, 6:47:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10427,6 +10427,166 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-10-09]アコギで落ち着く夜時間はいかが～￤澄花 / 澄花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15spY6yEqp?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "チノカテ",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-10-13]弹唱歌回！欢迎新观众，希望成为你舒适的午间背景音乐～🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MbpB67EFT?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "恋人ごっこ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【💐🎸歌切】[2026-10-13]弹唱歌回！欢迎新观众，希望成为你舒适的午间背景音乐～🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MbpB67EFT?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "【💐🎸歌切】[2026-10-13]弹唱歌回！欢迎新观众，希望成为你舒适的午间背景音乐～🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MbpB67EFT?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "【💐🎸歌切】[2026-10-13]弹唱歌回！欢迎新观众，希望成为你舒适的午间背景音乐～🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MbpB67EFT?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "横顔",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-10-13]弹唱歌回！欢迎新观众，希望成为你舒适的午间背景音乐～🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MbpB67EFT?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "Lap Tap Love",
+  "artist": "koyori feat.初音ミク",
+  "collection": "【💐🎸歌切】[2026-10-13]弹唱歌回！欢迎新观众，希望成为你舒适的午间背景音乐～🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MbpB67EFT?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "高嶺の花子さん",
+  "artist": "back number",
+  "collection": "【💐🎸歌切】[2026-10-13]弹唱歌回！欢迎新观众，希望成为你舒适的午间背景音乐～🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MbpB67EFT?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん feat.IA",
+  "collection": "【💐🎸歌切】[2026-10-13]弹唱歌回！欢迎新观众，希望成为你舒适的午间背景音乐～🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MbpB67EFT?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【💐🎸歌切】[2026-10-13]弹唱歌回！欢迎新观众，希望成为你舒适的午间背景音乐～🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MbpB67EFT?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "いただきます",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-10-13]弹唱歌回！欢迎新观众，希望成为你舒适的午间背景音乐～🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MbpB67EFT?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【💐🎸歌切】[2026-10-13]弹唱歌回！欢迎新观众，希望成为你舒适的午间背景音乐～🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MbpB67EFT?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "くちびる",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-10-13]弹唱歌回！欢迎新观众，希望成为你舒适的午间背景音乐～🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MbpB67EFT?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "長い髪",
+  "artist": "FOMARE",
+  "collection": "【💐🎸歌切】[2026-10-13]弹唱歌回！欢迎新观众，希望成为你舒适的午间背景音乐～🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MbpB67EFT?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-10-13]弹唱歌回！欢迎新观众，希望成为你舒适的午间背景音乐～🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MbpB67EFT?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "千鳥",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-10-13]弹唱歌回！欢迎新观众，希望成为你舒适的午间背景音乐～🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MbpB67EFT?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-10-13]弹唱歌回！欢迎新观众，希望成为你舒适的午间背景音乐～🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MbpB67EFT?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "紡ぐ",
+  "artist": "とた",
+  "collection": "【💐🎸歌切】[2026-10-13]弹唱歌回！欢迎新观众，希望成为你舒适的午间背景音乐～🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MbpB67EFT?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "まぶしい",
+  "artist": "上白石萌音",
+  "collection": "【💐🎸歌切】[2026-10-13]弹唱歌回！欢迎新观众，希望成为你舒适的午间背景音乐～🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MbpB67EFT?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "一日惚れ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-10-13]弹唱歌回！欢迎新观众，希望成为你舒适的午间背景音乐～🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MbpB67EFT?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "ちょっと待って！",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-10-13]弹唱歌回！欢迎新观众，希望成为你舒适的午间背景音乐～🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MbpB67EFT?p=20",
   "source": "sumica.js"
 }
 );
