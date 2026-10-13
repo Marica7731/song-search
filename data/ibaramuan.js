@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 10/13/2026, 5:01:47 PM
+// 生成时间: 10/13/2026, 6:05:27 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10987,6 +10987,94 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-12]茨むあん2026生日庆典｜即将迎来115（6）岁🎂倒计时直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67EuS?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "聖少女領域",
+  "artist": "ALI PROJECT",
+  "collection": "【歌切】[2026-10-13]茨むあん生日纪念3D Live！新发型公开！💛有嘉宾，还有重大公告！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18Mpz6SEGr?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "gift",
+  "artist": "茨むあん",
+  "collection": "【歌切】[2026-10-13]茨むあん生日纪念3D Live！新发型公开！💛有嘉宾，还有重大公告！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18Mpz6SEGr?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-13]茨むあん生日纪念3D Live！新发型公开！💛有嘉宾，还有重大公告！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18Mpz6SEGr?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-10-13]茨むあん生日纪念3D Live！新发型公开！💛有嘉宾，还有重大公告！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18Mpz6SEGr?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-10-13]茨むあん生日纪念3D Live！新发型公开！💛有嘉宾，还有重大公告！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18Mpz6SEGr?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ないない",
+  "artist": "ReoNa",
+  "collection": "【歌切】[2026-10-13]茨むあん生日纪念3D Live！新发型公开！💛有嘉宾，还有重大公告！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18Mpz6SEGr?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ALIVE",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-10-13]茨むあん生日纪念3D Live！新发型公开！💛有嘉宾，还有重大公告！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18Mpz6SEGr?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【歌切】[2026-10-13]茨むあん生日纪念3D Live！新发型公开！💛有嘉宾，还有重大公告！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18Mpz6SEGr?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ガジュマル ～Heaven in the Rain～",
+  "artist": "ReoNa",
+  "collection": "【歌切】[2026-10-13]茨むあん生日纪念3D Live！新发型公开！💛有嘉宾，还有重大公告！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18Mpz6SEGr?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Distant Letter",
+  "artist": "茨むあん",
+  "collection": "【歌切】[2026-10-13]茨むあん生日纪念3D Live！新发型公开！💛有嘉宾，还有重大公告！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18Mpz6SEGr?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "眠り姫",
+  "artist": "茨むあん",
+  "collection": "【歌切】[2026-10-13]茨むあん生日纪念3D Live！新发型公开！💛有嘉宾，还有重大公告！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18Mpz6SEGr?p=11",
   "source": "ibaramuan.js"
 }
 );

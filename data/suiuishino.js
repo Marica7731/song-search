@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 10/13/2026, 5:12:20 PM
+// 生成时间: 10/13/2026, 6:18:05 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5643,6 +5643,118 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "メランコリーキッチン",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "アイシテル",
+  "artist": "MONKEY MAJIK",
+  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "3月9日",
+  "artist": "レミオロメン",
+  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "スターライト",
+  "artist": "amazarashi",
+  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ツキミソウ",
+  "artist": "Novelbright",
+  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "アカシア",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "新宝島",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ブルーアンビエンス（feat. asmi）",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "小さな恋のうた",
+  "artist": "MONGOL800",
+  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "星になれたら",
+  "artist": "Mr.Children",
+  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=14",
   "source": "suiuishino.js"
 }
 );
