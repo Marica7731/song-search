@@ -1,6 +1,6 @@
 // 碧生ねの - 歌单数据 (多合集汇总)
 // 来源: BV1S4TT6pEn4
-// 生成时间: 10/14/2026, 7:52:12 AM
+// 生成时间: 10/14/2026, 8:56:11 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1934,6 +1934,46 @@ window.SONG_DATA.push(
   "source": "neno.js"
 },
     {
+  "title": "空奏列車",
+  "artist": "Orangestar feat. IA・初音ミク",
+  "collection": "【歌切】[2026-10-10]一起享受天空世界的歌声吧💫【天空祭】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1trpH6PE9F?p=1",
+  "source": "neno.js"
+},
+    {
+  "title": "推し色",
+  "artist": "メガテラ・ゼロ",
+  "collection": "【歌切】[2026-10-10]一起享受天空世界的歌声吧💫【天空祭】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1trpH6PE9F?p=2",
+  "source": "neno.js"
+},
+    {
+  "title": "いつか消えない星になって",
+  "artist": "傘村トータ feat. 初音ミク",
+  "collection": "【歌切】[2026-10-10]一起享受天空世界的歌声吧💫【天空祭】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1trpH6PE9F?p=3",
+  "source": "neno.js"
+},
+    {
+  "title": "GLAMOROUS SKY",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-10-10]一起享受天空世界的歌声吧💫【天空祭】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1trpH6PE9F?p=4",
+  "source": "neno.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra & 月見ヤチヨ（CV：早見沙織）",
+  "collection": "【歌切】[2026-10-10]一起享受天空世界的歌声吧💫【天空祭】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1trpH6PE9F?p=5",
+  "source": "neno.js"
+},
+    {
   "title": "ただ君に晴れ",
   "artist": "ヨルシカ",
   "collection": "【歌切】[2026-10-11]深夜悠闲的后夜祭歌回🎶",
@@ -2011,46 +2051,6 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-11]深夜悠闲的后夜祭歌回🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jcpp6nEy1?p=10",
-  "source": "neno.js"
-},
-    {
-  "title": "空奏列車",
-  "artist": "Orangestar feat. IA・初音ミク",
-  "collection": "【歌切】[2026-10-10]一起享受天空世界的歌声吧💫【天空祭】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1trpH6PE9F?p=1",
-  "source": "neno.js"
-},
-    {
-  "title": "推し色",
-  "artist": "メガテラ・ゼロ",
-  "collection": "【歌切】[2026-10-10]一起享受天空世界的歌声吧💫【天空祭】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1trpH6PE9F?p=2",
-  "source": "neno.js"
-},
-    {
-  "title": "いつか消えない星になって",
-  "artist": "傘村トータ feat. 初音ミク",
-  "collection": "【歌切】[2026-10-10]一起享受天空世界的歌声吧💫【天空祭】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1trpH6PE9F?p=3",
-  "source": "neno.js"
-},
-    {
-  "title": "GLAMOROUS SKY",
-  "artist": "中島美嘉",
-  "collection": "【歌切】[2026-10-10]一起享受天空世界的歌声吧💫【天空祭】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1trpH6PE9F?p=4",
-  "source": "neno.js"
-},
-    {
-  "title": "星降る海",
-  "artist": "Aqu3ra & 月見ヤチヨ（CV：早見沙織）",
-  "collection": "【歌切】[2026-10-10]一起享受天空世界的歌声吧💫【天空祭】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1trpH6PE9F?p=5",
   "source": "neno.js"
 }
 );
