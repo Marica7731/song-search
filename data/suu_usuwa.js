@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 10/14/2026, 4:15:00 PM
+// 生成时间: 10/14/2026, 5:32:42 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -24131,6 +24131,110 @@ window.SONG_DATA.push(
   "collection": "【🦢歌切】[2026-10-09]傍晚时分，我会在这里等你。直播歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xNpY6tEee?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "モニタリング (Best Friend Remix)",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【🦢歌切】#150[2026-10-14]值得纪念的第150场！周三固定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ukp26zETN?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "【🦢歌切】#150[2026-10-14]值得纪念的第150场！周三固定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ukp26zETN?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Week End",
+  "artist": "星野源",
+  "collection": "【🦢歌切】#150[2026-10-14]值得纪念的第150场！周三固定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ukp26zETN?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "恋",
+  "artist": "星野源",
+  "collection": "【🦢歌切】#150[2026-10-14]值得纪念的第150场！周三固定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ukp26zETN?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "SWEET TWEET",
+  "artist": "Official髭男dism",
+  "collection": "【🦢歌切】#150[2026-10-14]值得纪念的第150场！周三固定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ukp26zETN?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "POP STAR",
+  "artist": "平井堅",
+  "collection": "【🦢歌切】#150[2026-10-14]值得纪念的第150场！周三固定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ukp26zETN?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ラブレター",
+  "artist": "YOASOBI",
+  "collection": "【🦢歌切】#150[2026-10-14]值得纪念的第150场！周三固定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ukp26zETN?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "大阪LOVER",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【🦢歌切】#150[2026-10-14]值得纪念的第150场！周三固定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ukp26zETN?p=8",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat. 安次嶺希和子",
+  "collection": "【🦢歌切】#150[2026-10-14]值得纪念的第150场！周三固定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ukp26zETN?p=9",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "夜にダンス",
+  "artist": "フレンズ",
+  "collection": "【🦢歌切】#150[2026-10-14]值得纪念的第150场！周三固定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ukp26zETN?p=10",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【🦢歌切】#150[2026-10-14]值得纪念的第150场！周三固定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ukp26zETN?p=11",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ミスユー",
+  "artist": "星野源",
+  "collection": "【🦢歌切】#150[2026-10-14]值得纪念的第150场！周三固定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ukp26zETN?p=12",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "時よ",
+  "artist": "星野源",
+  "collection": "【🦢歌切】#150[2026-10-14]值得纪念的第150场！周三固定歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ukp26zETN?p=13",
   "source": "suu_usuwa.js"
 }
 );
