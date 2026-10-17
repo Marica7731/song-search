@@ -1,6 +1,6 @@
 // なつかしちゃん - 歌单数据 (多合集汇总)
-// 来源: BV1VPH26kESs, BV1JfHL6eEYg, BV1AzJ66qEjR
-// 生成时间: 2026/10/18 03:51:54
+// 来源: BV1VPH26kESs, BV1AzJ66qEjR
+// 生成时间: 2026/10/18 04:13:32
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -275,6 +275,302 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=34",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=1",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "チェリー",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=2",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "大好物",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=3",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=4",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "渚",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=5",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=6",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "みなと",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=7",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "春の歌",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=8",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "歌ウサギ",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=9",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "猫になりたい",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=10",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "魔法のコトバ",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=11",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "青い車",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=12",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "ロビンソン",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=13",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "タイム・トラベル",
+  "artist": "原田真二",
+  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=14",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "涙がキラリ☆",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=15",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "ランプ",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=16",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "若葉",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=17",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "楓",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=18",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "君が思い出になる前に",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=19",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "アンドロメダ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=1",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "彩り",
+  "artist": "Mr.Children",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=2",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "手紙",
+  "artist": "back number",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=3",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "koyori(電ポルP) feat. 初音ミク",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=4",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "traveling",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=5",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "フライングゲット",
+  "artist": "AKB48",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=6",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "Time",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=7",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "さよーならまたいつか！",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=8",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "時よ",
+  "artist": "星野源",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=9",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "くるみ",
+  "artist": "Mr.Children",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=10",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "冬がはじまるよ",
+  "artist": "槇原敬之",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=11",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "赤い糸",
+  "artist": "コブクロ",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=12",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "ヒロイン",
+  "artist": "back number",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=13",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "星屑ビーナス",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=14",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "ぼくはくま",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=15",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "ぼくはくま",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=16",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "恋焦がれて見た夢",
+  "artist": "絢香",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=17",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "ORION",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=18",
   "source": "natsumeikune.js"
 },
     {
@@ -659,158 +955,6 @@ window.SONG_DATA.push(
   "collection": "なつかしちゃん歌切 2026-10-03 耐久歌回！！目标同时在线100人或订阅15000人！！🎤🎀 欢迎新观众",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JfHL6eEYg?p=48",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "空も飛べるはず",
-  "artist": "スピッツ",
-  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=1",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "チェリー",
-  "artist": "スピッツ",
-  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=2",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "大好物",
-  "artist": "スピッツ",
-  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=3",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "美しい鰭",
-  "artist": "スピッツ",
-  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=4",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "渚",
-  "artist": "スピッツ",
-  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=5",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "スピカ",
-  "artist": "スピッツ",
-  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=6",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "みなと",
-  "artist": "スピッツ",
-  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=7",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "春の歌",
-  "artist": "スピッツ",
-  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=8",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "歌ウサギ",
-  "artist": "スピッツ",
-  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=9",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "猫になりたい",
-  "artist": "スピッツ",
-  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=10",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "魔法のコトバ",
-  "artist": "スピッツ",
-  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=11",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "青い車",
-  "artist": "スピッツ",
-  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=12",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "ロビンソン",
-  "artist": "スピッツ",
-  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=13",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "タイム・トラベル",
-  "artist": "原田真二",
-  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=14",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "涙がキラリ☆",
-  "artist": "スピッツ",
-  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=15",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "ランプ",
-  "artist": "スピッツ",
-  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=16",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "若葉",
-  "artist": "スピッツ",
-  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=17",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "楓",
-  "artist": "スピッツ",
-  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=18",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "君が思い出になる前に",
-  "artist": "スピッツ",
-  "collection": "【歌切】[2025-10-25]秋日想听的スピッツ限定歌回之夜，好想见你。🎧🍂",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1AzJ66qEjR?p=19",
   "source": "natsumeikune.js"
 }
 );

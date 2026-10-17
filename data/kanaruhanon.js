@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 10/9/2026, 1:15:27 PM
+// 生成时间: 2026/10/18 04:18:08
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2246,35 +2246,67 @@ window.SONG_DATA.push(
   "source": "kanaruhanon.js"
 },
     {
-  "title": "炎",
-  "artist": "LiSA",
-  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "title": "八月、某、月明かり",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-12]有首次演唱的歌曲！短时间歌回",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=25",
+  "link": "https://www.bilibili.com/video/BV1j1po6EEEH?p=1",
   "source": "kanaruhanon.js"
 },
     {
-  "title": "シルエット",
-  "artist": "KANA-BOON",
-  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "title": "くらべられっ子",
+  "artist": "ツユ",
+  "collection": "【歌切】[2026-10-12]有首次演唱的歌曲！短时间歌回",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=26",
+  "link": "https://www.bilibili.com/video/BV1j1po6EEEH?p=2",
   "source": "kanaruhanon.js"
 },
     {
-  "title": "炎",
-  "artist": "LiSA",
-  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-10-12]有首次演唱的歌曲！短时间歌回",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=27",
+  "link": "https://www.bilibili.com/video/BV1j1po6EEEH?p=3",
   "source": "kanaruhanon.js"
 },
     {
-  "title": "I LOVE YOU",
-  "artist": "尾崎豊",
-  "collection": "【歌切】[2026-10-07]久违的个人直播来啦！！！快来见我～～～！！！",
+  "title": "勘ぐれい",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-10-12]有首次演唱的歌曲！短时间歌回",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1R2HU6DEg6?p=28",
+  "link": "https://www.bilibili.com/video/BV1j1po6EEEH?p=4",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-10-12]有首次演唱的歌曲！短时间歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EEEH?p=5",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat. 可不",
+  "collection": "【歌切】[2026-10-12]有首次演唱的歌曲！短时间歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EEEH?p=6",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "神っぽいな",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "【歌切】[2026-10-12]有首次演唱的歌曲！短时间歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EEEH?p=7",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "リアライズ",
+  "artist": "柊マグネタイト feat. 初音ミク",
+  "collection": "【歌切】[2026-10-12]有首次演唱的歌曲！短时间歌回",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1j1po6EEEH?p=8",
   "source": "kanaruhanon.js"
 }
 );

@@ -6,6 +6,11 @@ const {
     assertRunMadeProgress,
     assertSourceRefreshSafe,
     countStoredSongs,
+    countStoredSongsForBvids,
+    getRequiredCandidateBvids,
+    getMissingStoredIdentitiesByBvid,
+    getSongIdentity,
+    getStoredSongIdentitiesByBvid,
     getReliableWinner
 } = require('./update-songs-guard');
 const { loadBiliCollectionCandidates, loadBiliPageList } = require('./bilibili-page-api');
@@ -222,7 +227,7 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1aiaS6CEPE"], file: "shiyu", alias: "しゆ。" },
     {
         bvids: ["BV1VPH26kESs"],
-        directBvids: ["BV1JfHL6eEYg", "BV1AzJ66qEjR"],
+        directBvids: ["BV1AzJ66qEjR"],
         file: "natsumeikune",
         alias: "なつかしちゃん",
         rawDataLoader: "bili-view-api",
@@ -446,6 +451,14 @@ function parseRawDataToSongs(rawData, config) {
     return songs;
 }
 
+function recordApiPageCounts(result, pageCounts) {
+    for (const record of Array.isArray(result?.rawData) ? result.rawData : []) {
+        const bvid = String(record?.collectionBv || '').trim();
+        const pageCount = Array.isArray(record?.parts) ? record.parts.length : 0;
+        if (bvid && pageCount > 0) pageCounts.set(bvid, pageCount);
+    }
+}
+
 function dedupeSongs(songs) {
     const seen = new Set();
     return songs.filter(song => {
@@ -481,7 +494,14 @@ async function parseCandidateBvid(config, bvid, cachedRawData = null) {
     };
 }
 
-async function processEntryBvid(config, entryBvid, samplingState) {
+async function processEntryBvid(
+    config,
+    entryBvid,
+    samplingState,
+    existingIdentitiesByBvid = new Map(),
+    requiredResultCache = new Map(),
+    currentPageCounts = new Map()
+) {
     const entryState = getEntryState(samplingState, config, entryBvid);
     console.log(`  🔎 入口 BV: ${entryBvid}，读取完整合集稿件元数据...`);
 
@@ -510,6 +530,11 @@ async function processEntryBvid(config, entryBvid, samplingState) {
 
     const candidatePool = collectionCandidates.map(candidate => candidate.bvid);
     entryState.candidates = candidatePool;
+    const requiredBvids = getRequiredCandidateBvids({
+        entryBvid,
+        candidatePool,
+        existingBvids: Array.from(existingIdentitiesByBvid.keys())
+    });
     const selected = selection.selected;
     const attempted = new Set();
     const results = [];
@@ -524,6 +549,8 @@ async function processEntryBvid(config, entryBvid, samplingState) {
         try {
             const result = await parseCandidateBvid(config, sampleBvid);
             results.push(result);
+            requiredResultCache.set(sampleBvid, result);
+            if (config.rawDataLoader === 'bili-view-api') recordApiPageCounts(result, currentPageCounts);
             console.log(`    ✅ ${sampleBvid} (${candidate.viewCount} 播放): ${result.songs.length} 首`);
         } catch (err) {
             console.warn(`    ⚠️  ${sampleBvid} 探针失败：${err.message}`);
@@ -564,8 +591,100 @@ async function processEntryBvid(config, entryBvid, samplingState) {
     entryState.recentRuns.push(runRecord);
     entryState.recentRuns = entryState.recentRuns.slice(-HISTORY_RUN_WINDOW);
 
+    const mergedSongs = [...winner.songs];
+    const mergedIdentities = new Set(mergedSongs.map(song => getSongIdentity(song?.link)).filter(Boolean));
+    const activeCandidateBvids = new Set([...candidatePool, entryBvid]);
+    const appendSongs = (songs, predicate = () => true) => {
+        for (const song of Array.isArray(songs) ? songs : []) {
+            const identity = getSongIdentity(song?.link);
+            if (!identity || mergedIdentities.has(identity) || !predicate(song, identity)) continue;
+            mergedIdentities.add(identity);
+            mergedSongs.push(song);
+        }
+    };
+    const missingAfterWinner = getMissingStoredIdentitiesByBvid(
+        existingIdentitiesByBvid,
+        mergedSongs,
+        candidatePool,
+        currentPageCounts
+    );
+    if (missingAfterWinner.size > 0) {
+        const missingSampleIdentities = new Set(Array.from(missingAfterWinner.values()).flat());
+        for (const result of results) {
+            if (result === winner) continue;
+            appendSongs(result.songs, (_song, identity) => missingSampleIdentities.has(identity));
+        }
+    }
+
+    const entryIsPresent = () => mergedSongs.some(song => {
+        const identity = getSongIdentity(song?.link);
+        return identity?.startsWith(`${entryBvid}?p=`);
+    });
+    if (!entryIsPresent()) {
+        for (const result of results) {
+            if (result === winner) continue;
+            appendSongs(result.songs, (_song, identity) => identity.startsWith(`${entryBvid}?p=`));
+        }
+    }
+    const bvidsToFetch = [];
+    if (!entryIsPresent()) bvidsToFetch.push(entryBvid);
+    for (const bvid of requiredBvids) {
+        if (bvid === entryBvid || !getMissingStoredIdentitiesByBvid(
+            existingIdentitiesByBvid,
+            mergedSongs,
+                candidatePool,
+                currentPageCounts
+        ).has(bvid)) continue;
+        bvidsToFetch.push(bvid);
+    }
+
+    for (const bvid of bvidsToFetch) {
+        const targetIsStillMissing = () => bvid === entryBvid
+            ? !entryIsPresent()
+            : getMissingStoredIdentitiesByBvid(
+                existingIdentitiesByBvid,
+                mergedSongs,
+                candidatePool,
+                currentPageCounts
+            ).has(bvid);
+        if (!targetIsStillMissing()) continue;
+
+        try {
+            let directResult = requiredResultCache.get(bvid);
+            if (directResult) {
+                appendSongs(directResult.songs, song => {
+                    const identity = getSongIdentity(song?.link);
+                    const match = identity?.match(/^(BV[0-9A-Za-z]+)\?p=/);
+                    return match && activeCandidateBvids.has(match[1]);
+                });
+            }
+            if (targetIsStillMissing() && (!directResult || directResult.bvid !== bvid || !currentPageCounts.has(bvid))) {
+                directResult = await parseCandidateBvid({ ...config, rawDataLoader: 'bili-view-api' }, bvid);
+                recordApiPageCounts(directResult, currentPageCounts);
+                requiredResultCache.set(bvid, directResult);
+                appendSongs(directResult.songs, song => {
+                    const identity = getSongIdentity(song?.link);
+                    const match = identity?.match(/^(BV[0-9A-Za-z]+)\?p=/);
+                    return match && activeCandidateBvids.has(match[1]);
+                });
+                console.log(`  🎯 自动补抓 BV ${bvid}: ${directResult.songs.length} 首候选数据`);
+            }
+        } catch (err) {
+            throw new Error(`必需 BV ${bvid} 自动补抓失败：${err.message}`);
+        }
+    }
+
+    if (!entryIsPresent()) {
+        throw new Error(`入口 BV ${entryBvid} 未出现在本轮候选结果中，且自动补抓后仍无有效分P`);
+    }
+
     console.log(`  🏆 采用 ${winner.bvid}: ${winner.songs.length} 首`);
-    return { songs: winner.songs, runRecord };
+    return {
+        songs: dedupeSongs(mergedSongs),
+        runRecord,
+        candidateBvids: candidatePool,
+        pageCounts: currentPageCounts
+    };
 }
 
 function shouldProcessConfig(config) {
@@ -596,14 +715,37 @@ async function processSinger(config, samplingState) {
     const configuredBvids = Array.from(new Set([...bvids, ...directBvids]));
     console.log(`\n[开始处理] ${alias} (共 ${bvids.length} 个入口BV，${directBvids.length} 个指定直取BV)...`);
 
+    const outputPath = path.join(DATA_DIR, `${resolvedFile}.js`);
+    const previousContent = fs.existsSync(outputPath) ? fs.readFileSync(outputPath, 'utf8') : '';
+    const previousCount = countStoredSongs(previousContent);
+    let existingIdentitiesByBvid = new Map();
+    if (!ALLOW_SOURCE_SHRINK && previousContent.trim()) {
+        try {
+            existingIdentitiesByBvid = getStoredSongIdentitiesByBvid(previousContent);
+        } catch (err) {
+            throw new Error(`${alias} 旧来源文件解析失败：${err.message}；保留旧文件`);
+        }
+    }
+    const activeBvids = new Set(configuredBvids);
+    const requiredResultCache = new Map();
+    const currentPageCounts = new Map();
+
     let allSongs = [];
     const failedBvids = [];
     const successfulRunRecords = [];
 
     for (const bvid of bvids) {
         try {
-            const entryResult = await processEntryBvid(config, bvid, samplingState);
+            const entryResult = await processEntryBvid(
+                config,
+                bvid,
+                samplingState,
+                existingIdentitiesByBvid,
+                requiredResultCache,
+                currentPageCounts
+            );
             allSongs.push(...entryResult.songs);
+            entryResult.candidateBvids.forEach(candidateBvid => activeBvids.add(candidateBvid));
             successfulRunRecords.push(entryResult.runRecord);
         } catch (err) {
             failedBvids.push(bvid);
@@ -617,7 +759,12 @@ async function processSinger(config, samplingState) {
 
     for (const bvid of directBvids) {
         try {
-            const directResult = await parseCandidateBvid(config, bvid);
+            let directResult = requiredResultCache.get(bvid);
+            if (!directResult || !currentPageCounts.has(bvid)) {
+                directResult = await parseCandidateBvid({ ...config, rawDataLoader: 'bili-view-api' }, bvid);
+                recordApiPageCounts(directResult, currentPageCounts);
+                requiredResultCache.set(bvid, directResult);
+            }
             allSongs.push(...directResult.songs);
             console.log(`  🎯 指定 BV ${bvid}: ${directResult.songs.length} 首`);
         } catch (err) {
@@ -627,15 +774,14 @@ async function processSinger(config, samplingState) {
     }
 
     allSongs = dedupeSongs(allSongs);
-    const outputPath = path.join(DATA_DIR, `${resolvedFile}.js`);
-    const previousContent = fs.existsSync(outputPath) ? fs.readFileSync(outputPath, 'utf8') : '';
-    const previousCount = countStoredSongs(previousContent);
 
     assertSourceRefreshSafe({
         alias,
         configuredBvids,
         failedBvids,
-        previousCount,
+        previousCount: ALLOW_SOURCE_SHRINK
+            ? previousCount
+            : countStoredSongsForBvids(previousContent, Array.from(activeBvids), currentPageCounts),
         nextCount: allSongs.length,
         maxDropRatio: MAX_SOURCE_DROP_RATIO,
         minDropSongs: MIN_SOURCE_DROP_SONGS
@@ -644,6 +790,8 @@ async function processSinger(config, samplingState) {
         alias,
         existingContent: previousContent,
         nextSongs: allSongs,
+        currentBvids: Array.from(activeBvids),
+        currentPageCounts,
         allowSourceShrink: ALLOW_SOURCE_SHRINK
     });
 

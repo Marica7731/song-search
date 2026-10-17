@@ -7,6 +7,10 @@ const {
     assertRunMadeProgress,
     assertSourceRefreshSafe,
     countStoredSongs,
+    countStoredSongsForBvids,
+    getRequiredCandidateBvids,
+    getMissingStoredIdentitiesByBvid,
+    getStoredBvids,
     getReliableWinner
 } = require('./update-songs-guard');
 
@@ -36,6 +40,53 @@ test('counts only generated song title fields', () => {
     ].join('\n');
 
     assert.equal(countStoredSongs(content), 2);
+});
+
+test('extracts prior BVIDs and directly includes the entry plus prior members still in the current collection', () => {
+    const existingContent = buildStoredSongs([
+        { title: 'same video page 1', link: 'https://www.bilibili.com/video/BV1retained?p=1' },
+        { title: 'same video page 2', link: 'https://www.bilibili.com/video/BV1retained?p=2' },
+        { title: 'moved video', link: 'https://www.bilibili.com/video/BV1moved?p=1' },
+        { title: 'without video identity' }
+    ]);
+
+    assert.deepEqual(getStoredBvids(existingContent), ['BV1retained', 'BV1moved']);
+    assert.deepEqual(getRequiredCandidateBvids({
+        entryBvid: 'BV1entry',
+        candidatePool: ['BV1retained', 'BV1entry'],
+        existingBvids: ['BV1retained', 'BV1moved', 'BV1retained']
+    }), ['BV1entry', 'BV1retained']);
+});
+
+test('uses only current source members as the previous-song regression baseline', () => {
+    const existingContent = buildStoredSongs([
+        { title: 'current member', link: 'https://www.bilibili.com/video/BV1current?p=1' },
+        { title: 'moved out member', link: 'https://www.bilibili.com/video/BV1moved?p=1' }
+    ]);
+
+    assert.equal(countStoredSongsForBvids(existingContent, ['BV1current']), 1);
+    assert.equal(countStoredSongsForBvids(existingContent, ['BV1current'], new Map([['BV1current', 0]])), 0);
+});
+
+test('requests only old page identities missing from the selected probe result', () => {
+    const existingIdentitiesByBvid = new Map([
+        ['BV1current', new Set(['BV1current?p=1', 'BV1current?p=2'])],
+        ['BV1moved', new Set(['BV1moved?p=1'])]
+    ]);
+
+    assert.deepEqual(getMissingStoredIdentitiesByBvid(existingIdentitiesByBvid, [
+        { link: 'https://www.bilibili.com/video/BV1current?p=1' }
+    ], ['BV1current']), new Map([
+        ['BV1current', ['BV1current?p=2']]
+    ]));
+    assert.deepEqual(getMissingStoredIdentitiesByBvid(existingIdentitiesByBvid, [
+        { link: 'https://www.bilibili.com/video/BV1current?p=1' },
+        { link: 'https://www.bilibili.com/video/BV1current?p=2' }
+    ], ['BV1current']), new Map());
+    assert.deepEqual(getMissingStoredIdentitiesByBvid(existingIdentitiesByBvid, [
+        { link: 'https://www.bilibili.com/video/BV1current?p=1' },
+        { link: 'https://www.bilibili.com/video/BV1current?p=2' }
+    ], ['BV1current'], new Map([['BV1current', 1]])), new Map());
 });
 
 test('rejects a multi-entry source when any configured BV fails', () => {
@@ -118,6 +169,55 @@ test('allows reordered existing identities and additions', () => {
             { title: 'new', link: 'https://www.bilibili.com/video/BV1sameSource?p=3' },
             { title: 'old 1', link: 'https://www.bilibili.com/video/BV1sameSource?p=1' }
         ]
+    }));
+});
+
+test('allows old BVIDs removed from all current source collections to leave the source', () => {
+    const existingContent = buildStoredSongs([
+        { title: 'current member', link: 'https://www.bilibili.com/video/BV1current?p=1' },
+        { title: 'moved out member', link: 'https://www.bilibili.com/video/BV1moved?p=1' }
+    ]);
+
+    assert.doesNotThrow(() => assertCandidateCoversExisting({
+        alias: '来源',
+        existingContent,
+        nextSongs: [
+            { title: 'current member', link: 'https://www.bilibili.com/video/BV1current?p=1' }
+        ],
+        currentBvids: ['BV1current']
+    }));
+});
+
+test('still rejects missing pages for BVIDs that remain in the current collection', () => {
+    const existingContent = buildStoredSongs([
+        { title: 'page 1', link: 'https://www.bilibili.com/video/BV1current?p=1' },
+        { title: 'page 2', link: 'https://www.bilibili.com/video/BV1current?p=2' }
+    ]);
+
+    assert.throws(() => assertCandidateCoversExisting({
+        alias: '来源',
+        existingContent,
+        nextSongs: [
+            { title: 'page 1', link: 'https://www.bilibili.com/video/BV1current?p=1' }
+        ],
+        currentBvids: ['BV1current']
+    }), /缺少 1\/2 个旧 BV\+分P 身份.*BV1current\?p=2/);
+});
+
+test('allows old pages above the verified current page count to leave the source', () => {
+    const existingContent = buildStoredSongs([
+        { title: 'current page', link: 'https://www.bilibili.com/video/BV1current?p=1' },
+        { title: 'removed page', link: 'https://www.bilibili.com/video/BV1current?p=2' }
+    ]);
+
+    assert.doesNotThrow(() => assertCandidateCoversExisting({
+        alias: '来源',
+        existingContent,
+        nextSongs: [
+            { title: 'current page', link: 'https://www.bilibili.com/video/BV1current?p=1' }
+        ],
+        currentBvids: ['BV1current'],
+        currentPageCounts: new Map([['BV1current', 1]])
     }));
 });
 

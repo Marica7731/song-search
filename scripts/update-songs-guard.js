@@ -8,6 +8,32 @@ function countStoredSongs(content) {
     return matches ? matches.length : 0;
 }
 
+function isIdentityInCurrentPageRange(identity, currentPageCounts) {
+    if (!(currentPageCounts instanceof Map)) return true;
+    const separator = String(identity || '').indexOf('?p=');
+    if (separator < 0) return true;
+    const bvid = identity.slice(0, separator);
+    const page = Number.parseInt(identity.slice(separator + 3), 10);
+    const pageCount = currentPageCounts.get(bvid);
+    return !Number.isInteger(pageCount) || page <= pageCount;
+}
+
+function countStoredSongsForBvids(content, bvids, currentPageCounts) {
+    const activeBvids = new Set(
+        (Array.isArray(bvids) ? bvids : [])
+            .map(value => String(value || '').trim())
+            .filter(Boolean)
+    );
+    if (activeBvids.size === 0 || !String(content || '').trim()) return 0;
+
+    return parseStoredSongs(content).filter(song => {
+        const identity = getSongIdentity(song?.link);
+        return identity &&
+            activeBvids.has(identity.slice(0, identity.indexOf('?p='))) &&
+            isIdentityInCurrentPageRange(identity, currentPageCounts);
+    }).length;
+}
+
 function parseStoredSongs(content) {
     const text = String(content || '');
     if (!text.trim()) return [];
@@ -41,10 +67,65 @@ function getSongIdentity(link) {
     return `${match[1]}?p=${page}`;
 }
 
+function getStoredSongIdentitiesByBvid(content) {
+    const identitiesByBvid = new Map();
+    for (const song of parseStoredSongs(content)) {
+        const identity = getSongIdentity(song?.link);
+        if (!identity) continue;
+        const bvid = identity.slice(0, identity.indexOf('?p='));
+        if (!identitiesByBvid.has(bvid)) identitiesByBvid.set(bvid, new Set());
+        identitiesByBvid.get(bvid).add(identity);
+    }
+    return identitiesByBvid;
+}
+
+function getStoredBvids(content) {
+    return Array.from(getStoredSongIdentitiesByBvid(content).keys());
+}
+
+function getRequiredCandidateBvids({ entryBvid, candidatePool, existingBvids } = {}) {
+    const required = new Set();
+    const entry = String(entryBvid || '').trim();
+    if (entry) required.add(entry);
+
+    const candidates = new Set(
+        (Array.isArray(candidatePool) ? candidatePool : [])
+            .map(value => String(value || '').trim())
+            .filter(Boolean)
+    );
+    for (const value of Array.isArray(existingBvids) ? existingBvids : []) {
+        const bvid = String(value || '').trim();
+        if (bvid && candidates.has(bvid)) required.add(bvid);
+    }
+    return Array.from(required);
+}
+
+function getMissingStoredIdentitiesByBvid(existingIdentitiesByBvid, songs, candidatePool, currentPageCounts) {
+    const candidates = new Set(Array.isArray(candidatePool) ? candidatePool : []);
+    const present = new Set(
+        (Array.isArray(songs) ? songs : [])
+            .map(song => getSongIdentity(song?.link))
+            .filter(Boolean)
+    );
+    const missing = new Map();
+    if (!(existingIdentitiesByBvid instanceof Map)) return missing;
+
+    for (const [bvid, identities] of existingIdentitiesByBvid) {
+        if (!candidates.has(bvid)) continue;
+        const missingForBvid = Array.from(identities).filter(identity => (
+            isIdentityInCurrentPageRange(identity, currentPageCounts) && !present.has(identity)
+        ));
+        if (missingForBvid.length > 0) missing.set(bvid, missingForBvid);
+    }
+    return missing;
+}
+
 function assertCandidateCoversExisting({
     alias,
     existingContent,
     nextSongs,
+    currentBvids,
+    currentPageCounts,
     allowSourceShrink = false
 }) {
     if (allowSourceShrink || !String(existingContent || '').trim()) return;
@@ -64,10 +145,19 @@ function assertCandidateCoversExisting({
         throw new Error(`${String(alias || 'unknown')} 旧来源文件没有可识别的 BV+分P 身份；保留旧文件`);
     }
 
-    const missing = Array.from(existingIdentities).filter(identity => !nextIdentities.has(identity));
+    const activeBvids = Array.isArray(currentBvids)
+        ? new Set(currentBvids.map(value => String(value || '').trim()).filter(Boolean))
+        : null;
+    const identitiesToKeep = activeBvids
+        ? Array.from(existingIdentities).filter(identity => (
+            activeBvids.has(identity.slice(0, identity.indexOf('?p='))) &&
+            isIdentityInCurrentPageRange(identity, currentPageCounts)
+        ))
+        : Array.from(existingIdentities).filter(identity => isIdentityInCurrentPageRange(identity, currentPageCounts));
+    const missing = identitiesToKeep.filter(identity => !nextIdentities.has(identity));
     if (missing.length > 0) {
         throw new Error(
-            `${String(alias || 'unknown')} 候选缺少 ${missing.length}/${existingIdentities.size} 个旧 BV+分P 身份：` +
+            `${String(alias || 'unknown')} 候选缺少 ${missing.length}/${identitiesToKeep.length} 个旧 BV+分P 身份：` +
             `${missing.slice(0, 3).join(', ')}；保留旧文件`
         );
     }
@@ -137,6 +227,12 @@ module.exports = {
     assertSourceRefreshSafe,
     assertRunMadeProgress,
     countStoredSongs,
+    countStoredSongsForBvids,
     getSongIdentity,
+    getStoredSongIdentitiesByBvid,
+    getStoredBvids,
+    getRequiredCandidateBvids,
+    getMissingStoredIdentitiesByBvid,
+    isIdentityInCurrentPageRange,
     getReliableWinner
 };
