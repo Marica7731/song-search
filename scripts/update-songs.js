@@ -222,6 +222,7 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1aiaS6CEPE"], file: "shiyu", alias: "しゆ。" },
     {
         bvids: ["BV1VPH26kESs"],
+        directBvids: ["BV1JfHL6eEYg", "BV1AzJ66qEjR"],
         file: "natsumeikune",
         alias: "なつかしちゃん",
         rawDataLoader: "bili-view-api",
@@ -576,7 +577,8 @@ function shouldProcessConfig(config) {
     const fields = [
         config.resolvedFile,
         config.alias,
-        ...(config.bvids || [])
+        ...(config.bvids || []),
+        ...(config.directBvids || [])
     ].map(value => String(value || '').toLowerCase());
     return SOURCE_FILTER.some(filter => fields.some(value => value.includes(filter)));
 }
@@ -586,7 +588,13 @@ function shouldProcessConfig(config) {
 // ==========================================
 async function processSinger(config, samplingState) {
     const { bvids, alias, resolvedFile } = config;
-    console.log(`\n[开始处理] ${alias} (共 ${bvids.length} 个入口BV)...`);
+    const directBvids = Array.isArray(config.directBvids)
+        ? Array.from(new Set(config.directBvids
+            .map(value => String(value || '').trim())
+            .filter(value => value && !bvids.includes(value))))
+        : [];
+    const configuredBvids = Array.from(new Set([...bvids, ...directBvids]));
+    console.log(`\n[开始处理] ${alias} (共 ${bvids.length} 个入口BV，${directBvids.length} 个指定直取BV)...`);
 
     let allSongs = [];
     const failedBvids = [];
@@ -607,6 +615,17 @@ async function processSinger(config, samplingState) {
         }
     }
 
+    for (const bvid of directBvids) {
+        try {
+            const directResult = await parseCandidateBvid(config, bvid);
+            allSongs.push(...directResult.songs);
+            console.log(`  🎯 指定 BV ${bvid}: ${directResult.songs.length} 首`);
+        } catch (err) {
+            failedBvids.push(bvid);
+            console.warn(`  ⚠️  指定 BV:${bvid} 处理失败，本轮不覆盖该来源。错误：${err.message}`);
+        }
+    }
+
     allSongs = dedupeSongs(allSongs);
     const outputPath = path.join(DATA_DIR, `${resolvedFile}.js`);
     const previousContent = fs.existsSync(outputPath) ? fs.readFileSync(outputPath, 'utf8') : '';
@@ -614,7 +633,7 @@ async function processSinger(config, samplingState) {
 
     assertSourceRefreshSafe({
         alias,
-        configuredBvids: bvids,
+        configuredBvids,
         failedBvids,
         previousCount,
         nextCount: allSongs.length,
@@ -635,7 +654,7 @@ async function processSinger(config, samplingState) {
     if (allSongs.length === 0) throw new Error(`未解析到任何有效歌曲数据（所有入口BV均失败或无数据）`);
 
     let outputContent = `// ${alias} - 歌单数据 (多合集汇总)\n`;
-    outputContent += `// 来源: ${bvids.join(', ')}\n`;
+    outputContent += `// 来源: ${configuredBvids.join(', ')}\n`;
     outputContent += `// 生成时间: ${new Date().toLocaleString()}\n\n`;
     outputContent += `window.SONG_DATA = window.SONG_DATA || [];\n\nwindow.SONG_DATA.push(\n`;
 
