@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 10/18/2026, 12:56:03 AM
+// 生成时间: 10/18/2026, 2:02:48 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11075,6 +11075,206 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-13]茨むあん生日纪念3D Live！新发型公开！💛有嘉宾，还有重大公告！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18Mpz6SEGr?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "曇天",
+  "artist": "DOES",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "カーテンコール",
+  "artist": "優里",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "モノクロのキス",
+  "artist": "シド",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "レイン",
+  "artist": "シド",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "絶え間なく藍色",
+  "artist": "獅子志司 feat.初音ミク",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "世田谷ナイトサファリ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "モザイクカケラ",
+  "artist": "SunSet Swish",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Flamingo",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "死神",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "灰色と青",
+  "artist": "米津玄師 feat. 菅田将暉",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "MIRA",
+  "artist": "Kanaria feat.小春六花",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アイデンティティ",
+  "artist": "Kanaria feat.GUMI・初音ミク",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "狂乱 Hey Kids!!",
+  "artist": "THE ORAL CIGARETTES",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "CHAINSAW BLOOD",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アカシア",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Shout Baby",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ホシアイ",
+  "artist": "レフティモンスター feat.GUMI",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "イデア",
+  "artist": "天月-あまつき-",
+  "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=25",
   "source": "ibaramuan.js"
 }
 );

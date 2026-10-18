@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 10/18/2026, 1:10:31 AM
+// 生成时间: 10/18/2026, 2:13:03 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5755,6 +5755,150 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Butterfly",
+  "artist": "木村カエラ",
+  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "病名恋ワズライ",
+  "artist": "HoneyWorks feat.GUMI",
+  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Luna say maybe",
+  "artist": "月村手毬(CV.小鹿なお)",
+  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "トーマ feat.初音ミク",
+  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN feat.鏡音リン",
+  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ",
+  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "DAYBREAK FRONTLINE",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "世界一可愛い私",
+  "artist": "藤田ことね(CV.飯田ヒカル)",
+  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "How crazy",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "千鳥",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-16]午间治愈系弹唱！！【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgnM6cEQh?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Never say die",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-10-16]午间治愈系弹唱！！【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgnM6cEQh?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "1000日間",
+  "artist": "乃紫",
+  "collection": "【歌切】[2026-10-16]午间治愈系弹唱！！【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgnM6cEQh?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-10-16]午间治愈系弹唱！！【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgnM6cEQh?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ユラユラ",
+  "artist": "Hearts Grow",
+  "collection": "【歌切】[2026-10-16]午间治愈系弹唱！！【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgnM6cEQh?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-16]午间治愈系弹唱！！【しのの仕立て屋】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgnM6cEQh?p=6",
   "source": "suiuishino.js"
 }
 );

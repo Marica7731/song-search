@@ -1,6 +1,6 @@
 // チョま - 歌单数据 (多合集汇总)
 // 来源: BV1kM3L6GEBV
-// 生成时间: 10/18/2026, 12:59:55 AM
+// 生成时间: 10/18/2026, 2:05:39 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4643,6 +4643,174 @@ window.SONG_DATA.push(
   "collection": "チョま歌切 2026年10月09日20点场 「宇宙」歌曲限定！！ 2026-10-09",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yNpY6tERJ?p=18",
+  "source": "choma.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "チョま歌切 2026年10月17日13点场 走过路过快来听歌！多种声线与男女声切换 2026-10-17",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEHh?p=1",
+  "source": "choma.js"
+},
+    {
+  "title": "渡月橋 ～君 想ふ～",
+  "artist": "倉木麻衣",
+  "collection": "チョま歌切 2026年10月17日13点场 走过路过快来听歌！多种声线与男女声切换 2026-10-17",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEHh?p=2",
+  "source": "choma.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "チョま歌切 2026年10月17日13点场 走过路过快来听歌！多种声线与男女声切换 2026-10-17",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEHh?p=3",
+  "source": "choma.js"
+},
+    {
+  "title": "ノーダウト",
+  "artist": "Official髭男dism",
+  "collection": "チョま歌切 2026年10月17日13点场 走过路过快来听歌！多种声线与男女声切换 2026-10-17",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEHh?p=4",
+  "source": "choma.js"
+},
+    {
+  "title": "ないものねだり",
+  "artist": "KANA-BOON",
+  "collection": "チョま歌切 2026年10月17日13点场 走过路过快来听歌！多种声线与男女声切换 2026-10-17",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEHh?p=5",
+  "source": "choma.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "チョま歌切 2026年10月17日13点场 走过路过快来听歌！多种声线与男女声切换 2026-10-17",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEHh?p=6",
+  "source": "choma.js"
+},
+    {
+  "title": "ハレンチ",
+  "artist": "ちゃんみな",
+  "collection": "チョま歌切 2026年10月17日13点场 走过路过快来听歌！多种声线与男女声切换 2026-10-17",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEHh?p=7",
+  "source": "choma.js"
+},
+    {
+  "title": "サムライハート(Some Like It Hot!!)",
+  "artist": "SPYAIR",
+  "collection": "チョま歌切 2026年10月17日13点场 走过路过快来听歌！多种声线与男女声切换 2026-10-17",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEHh?p=8",
+  "source": "choma.js"
+},
+    {
+  "title": "アゲハ蝶",
+  "artist": "ポルノグラフィティ",
+  "collection": "チョま歌切 2026年10月17日13点场 走过路过快来听歌！多种声线与男女声切换 2026-10-17",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEHh?p=9",
+  "source": "choma.js"
+},
+    {
+  "title": "カーテンコール",
+  "artist": "優里",
+  "collection": "チョま歌切 2026年10月17日13点场 走过路过快来听歌！多种声线与男女声切换 2026-10-17",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEHh?p=10",
+  "source": "choma.js"
+},
+    {
+  "title": "オーバーライド",
+  "artist": "吉田夜世 feat. 重音テト",
+  "collection": "チョま歌切 2026年10月17日13点场 走过路过快来听歌！多种声线与男女声切换 2026-10-17",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEHh?p=11",
+  "source": "choma.js"
+},
+    {
+  "title": "踊れオーケストラ",
+  "artist": "YASUHIRO(康寛) feat. IA",
+  "collection": "チョま歌切 2026年10月17日13点场 走过路过快来听歌！多种声线与男女声切换 2026-10-17",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEHh?p=12",
+  "source": "choma.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "チョま歌切 2026年10月17日13点场 走过路过快来听歌！多种声线与男女声切换 2026-10-17",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEHh?p=13",
+  "source": "choma.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "チョま歌切 2026年10月17日13点场 走过路过快来听歌！多种声线与男女声切换 2026-10-17",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEHh?p=14",
+  "source": "choma.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "チョま歌切 2026年10月17日13点场 走过路过快来听歌！多种声线与男女声切换 2026-10-17",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEHh?p=15",
+  "source": "choma.js"
+},
+    {
+  "title": "ヴィラン",
+  "artist": "てにをは feat. v flower",
+  "collection": "チョま歌切 2026年10月17日13点场 走过路过快来听歌！多种声线与男女声切换 2026-10-17",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEHh?p=16",
+  "source": "choma.js"
+},
+    {
+  "title": "爆笑",
+  "artist": "syudou",
+  "collection": "チョま歌切 2026年10月17日13点场 走过路过快来听歌！多种声线与男女声切换 2026-10-17",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEHh?p=17",
+  "source": "choma.js"
+},
+    {
+  "title": "メランコリーキッチン",
+  "artist": "米津玄師",
+  "collection": "チョま歌切 2026年10月17日13点场 走过路过快来听歌！多种声线与男女声切换 2026-10-17",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEHh?p=18",
+  "source": "choma.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "チョま歌切 2026年10月17日13点场 走过路过快来听歌！多种声线与男女声切换 2026-10-17",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEHh?p=19",
+  "source": "choma.js"
+},
+    {
+  "title": "僕のこと",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "チョま歌切 2026年10月17日13点场 走过路过快来听歌！多种声线与男女声切换 2026-10-17",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEHh?p=20",
+  "source": "choma.js"
+},
+    {
+  "title": "世界のつづき",
+  "artist": "Ado",
+  "collection": "チョま歌切 2026年10月17日13点场 走过路过快来听歌！多种声线与男女声切换 2026-10-17",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEHh?p=21",
   "source": "choma.js"
 }
 );

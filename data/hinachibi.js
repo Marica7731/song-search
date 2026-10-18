@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 10/18/2026, 12:51:50 AM
+// 生成时间: 10/18/2026, 1:59:40 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3067,6 +3067,62 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-10]只想唱一个小时！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dxpH65Esm?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-10-15]想唱歌！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cEmz?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "綺麗事",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-10-15]想唱歌！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cEmz?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "セツナトリップ",
+  "artist": "Last Note. feat.GUMI",
+  "collection": "【歌切】[2026-10-15]想唱歌！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cEmz?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【歌切】[2026-10-15]想唱歌！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cEmz?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "思い出す光になれたなら",
+  "artist": "Moi Records feat. 菊花はる",
+  "collection": "【歌切】[2026-10-15]想唱歌！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cEmz?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "シックス・フィート・アンダー",
+  "artist": "Aqu3ra feat.v flower",
+  "collection": "【歌切】[2026-10-15]想唱歌！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cEmz?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "SAYONARA MAYBE",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-10-15]想唱歌！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cEmz?p=7",
   "source": "hinachibi.js"
 }
 );

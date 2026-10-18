@@ -1,10 +1,106 @@
 // ヤドカリのドリィ - 歌单数据 (多合集汇总)
 // 来源: BV1znpW6xECf
-// 生成时间: 10/18/2026, 1:11:25 AM
+// 生成时间: 10/18/2026, 2:13:58 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
+    {
+  "title": "storia",
+  "artist": "Kalafina",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月17日20点场 被妖精的歌声吸引，迷失在森林深处",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G3nM68Ejq?p=1",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "カガリビト",
+  "artist": "millstones feat.初音ミク",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月17日20点场 被妖精的歌声吸引，迷失在森林深处",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G3nM68Ejq?p=2",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "雫",
+  "artist": "スキマスイッチ",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月17日20点场 被妖精的歌声吸引，迷失在森林深处",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G3nM68Ejq?p=3",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "時忘人",
+  "artist": "仕事してP feat.KAITO",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月17日20点场 被妖精的歌声吸引，迷失在森林深处",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G3nM68Ejq?p=4",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "蜃気楼に求め",
+  "artist": "ウォルピスカーター×SILVANA",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月17日20点场 被妖精的歌声吸引，迷失在森林深处",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G3nM68Ejq?p=5",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "谺、碧海、那由多を見定むアグラフォノスの詩篇",
+  "artist": "Neru×ざうに feat.GUMI",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月17日20点场 被妖精的歌声吸引，迷失在森林深处",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G3nM68Ejq?p=6",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "辿りつく詩",
+  "artist": "Sound Horizon",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月17日20点场 被妖精的歌声吸引，迷失在森林深处",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G3nM68Ejq?p=7",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "Arrietty's Song",
+  "artist": "Cécile Corbel",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月17日20点场 被妖精的歌声吸引，迷失在森林深处",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G3nM68Ejq?p=8",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "優しい夜明け",
+  "artist": "See-Saw",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月17日20点场 被妖精的歌声吸引，迷失在森林深处",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G3nM68Ejq?p=9",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat. 安次嶺希和子",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月17日20点场 被妖精的歌声吸引，迷失在森林深处",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G3nM68Ejq?p=10",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "亡國覚醒カタルシス",
+  "artist": "ALI PROJECT",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月17日20点场 被妖精的歌声吸引，迷失在森林深处",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G3nM68Ejq?p=11",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "フクロウ 〜フクロウが知らせる客が来たと〜",
+  "artist": "KOKIA",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月17日20点场 被妖精的歌声吸引，迷失在森林深处",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1G3nM68Ejq?p=12",
+  "source": "yadokaridolly.js"
+},
     {
   "title": "フライディ・チャイナタウン",
   "artist": "泰葉",
