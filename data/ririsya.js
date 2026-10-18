@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 10/18/2026, 2:44:11 PM
+// 生成时间: 10/18/2026, 7:04:24 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -19819,6 +19819,38 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-10-12]hololive歌曲专场✧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1j1po6EE5w?p=22",
+  "source": "ririsya.js"
+},
+    {
+  "title": "My Dearest",
+  "artist": "supercell",
+  "collection": "【🐍歌切】[2026-10-18]ぶいせかMinecraft歌回接力｜用我的歌让大家晕头转向！！！毕竟是Minecraft嘛😎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67EUa?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ANIMA",
+  "artist": "ReoNa",
+  "collection": "【🐍歌切】[2026-10-18]ぶいせかMinecraft歌回接力｜用我的歌让大家晕头转向！！！毕竟是Minecraft嘛😎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67EUa?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Departures ～あなたにおくるアイの歌～",
+  "artist": "EGOIST",
+  "collection": "【🐍歌切】[2026-10-18]ぶいせかMinecraft歌回接力｜用我的歌让大家晕头转向！！！毕竟是Minecraft嘛😎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67EUa?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "声の在処",
+  "artist": "凛々咲",
+  "collection": "【🐍歌切】[2026-10-18]ぶいせかMinecraft歌回接力｜用我的歌让大家晕头转向！！！毕竟是Minecraft嘛😎",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67EUa?p=4",
   "source": "ririsya.js"
 }
 );

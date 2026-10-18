@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 10/18/2026, 3:47:59 PM
+// 生成时间: 10/18/2026, 8:05:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11275,6 +11275,190 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-16]来听一首吧！门票开售啦！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13gnM6cE4m?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "負け犬にアンコールはいらない",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "マカロン",
+  "artist": "ATOLS feat. 初音ミク",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "D/N/A",
+  "artist": "Azari feat. 重音テト・v flower",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Casino",
+  "artist": "Azari feat. flower",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Dec.",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "誇り高きアイドル",
+  "artist": "HoneyWorks feat. Kotoha",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "生意気ハニー-another story- feat. 高見沢アリサ(東山奈央)",
+  "artist": "HoneyWorks",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "可愛くなりたい",
+  "artist": "HoneyWorks feat. 成海聖奈(雨宮天)",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "No.1",
+  "artist": "HoneyWorks feat. mona(夏川椎菜)",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ダーリンダンス",
+  "artist": "かいりきベア feat. 初音ミク",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ベノム",
+  "artist": "かいりきベア feat. flower",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "撫でんな",
+  "artist": "柊マグネタイト feat. 可不",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ルマ",
+  "artist": "かいりきベア feat. 初音ミク",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "かいしんのいちげき！",
+  "artist": "天月-あまつき-",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "月曜日の憂鬱",
+  "artist": "天月-あまつき-",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "惑星ループ",
+  "artist": "Eve",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "エイリアンエイリアン",
+  "artist": "ナユタン星人 feat. 初音ミク",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "インスタントヘヴン feat.Eve",
+  "artist": "ナナヲアカリ",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "完全放棄宣言",
+  "artist": "ナナヲアカリ",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ダダダダ天使",
+  "artist": "ナナヲアカリ",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "浮気したらあかんで",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-10-18]歌回｜快来听我唱歌！欢迎初次观看的朋友",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=23",
   "source": "ibaramuan.js"
 }
 );

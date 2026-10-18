@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 10/18/2026, 2:37:56 PM
+// 生成时间: 10/18/2026, 6:57:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7059,6 +7059,198 @@ window.SONG_DATA.push(
   "collection": "【💫✖歌切】[2026-10-03]美好的午间时光，请配上一份戸鎖吧～🍴歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HRHL6TEvM?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat. GUMI",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "君が夜の海に還るまで",
+  "artist": "こんにちは谷田さん feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN feat. 鏡音リン",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "流星群",
+  "artist": "鬼束ちひろ",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "プール",
+  "artist": "秦基博",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "鱗（うろこ）",
+  "artist": "秦基博",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "朝が来る前に",
+  "artist": "秦基博",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "私とワルツを",
+  "artist": "鬼束ちひろ",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "生きてることが辛いなら",
+  "artist": "森山直太朗",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "fish",
+  "artist": "back number",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "back number",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "napori",
+  "artist": "Vaundy",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "踊り子",
+  "artist": "Vaundy",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=21",
+  "source": "kukuri.js"
+},
+    {
+  "title": "17",
+  "artist": "椎名林檎",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=22",
+  "source": "kukuri.js"
+},
+    {
+  "title": "意識",
+  "artist": "椎名林檎",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=23",
+  "source": "kukuri.js"
+},
+    {
+  "title": "金魚の箱",
+  "artist": "東京事変",
+  "collection": "【💫✖歌切】[2026-10-18]歌回｜不知道能不能恢复，希望可以！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=24",
   "source": "kukuri.js"
 }
 );

@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 10/18/2026, 4:22:10 PM
+// 生成时间: 10/18/2026, 8:38:37 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5899,6 +5899,126 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-16]午间治愈系弹唱！！【しのの仕立て屋】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgnM6cEQh?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "雨音ノイズ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "冬眠",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "One more time, One more chance",
+  "artist": "山崎まさよし",
+  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "メトロノーム",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "光芒",
+  "artist": "Hakubi",
+  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "フクロウ ～フクロウが知らせる客が来たと～",
+  "artist": "KOKIA",
+  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ハイドアンド・シーク",
+  "artist": "19 -iku- feat. 初音ミク",
+  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "六等星",
+  "artist": "ざらめ",
+  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "心拍数#0822",
+  "artist": "蝶々P feat. 初音ミク",
+  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "嘘つき",
+  "artist": "あたらよ",
+  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "フラレガイガール",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "世田谷ナイトサファリ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=15",
   "source": "suiuishino.js"
 }
 );

@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 10/18/2026, 3:44:33 PM
+// 生成时间: 10/18/2026, 8:01:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3123,6 +3123,46 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-15]想唱歌！！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GgnM6cEmz?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ヒステリックナイトガール",
+  "artist": "PSYQUI feat. Such",
+  "collection": "【歌切】[2026-10-18]歌回｜发布翻唱作品啦～～～！还想继续沉浸在夏天里！（笑）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hUnL67EwJ?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "アンハッピーリフレイン",
+  "artist": "wowaka feat. 初音ミク",
+  "collection": "【歌切】[2026-10-18]歌回｜发布翻唱作品啦～～～！还想继续沉浸在夏天里！（笑）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hUnL67EwJ?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ワガママ",
+  "artist": "ふるーり feat. 可不",
+  "collection": "【歌切】[2026-10-18]歌回｜发布翻唱作品啦～～～！还想继续沉浸在夏天里！（笑）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hUnL67EwJ?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "嘘でも好きって。",
+  "artist": "すいそうぐらし",
+  "collection": "【歌切】[2026-10-18]歌回｜发布翻唱作品啦～～～！还想继续沉浸在夏天里！（笑）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hUnL67EwJ?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-10-18]歌回｜发布翻唱作品啦～～～！还想继续沉浸在夏天里！（笑）",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hUnL67EwJ?p=5",
   "source": "hinachibi.js"
 }
 );
