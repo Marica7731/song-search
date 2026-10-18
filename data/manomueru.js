@@ -1,6 +1,6 @@
 // 魔ノむえる - 歌单数据 (多合集汇总)
 // 来源: BV1oHAVzxE2q
-// 生成时间: 8/24/2026, 6:29:54 AM
+// 生成时间: 10/18/2026, 7:17:29 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -507,6 +507,206 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-17]初见观众◎较短歌回🎀喜欢反差声线吗？ 魔ノむえる -Mano Mueru-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEUQ?p=12",
+  "source": "manomueru.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=1",
+  "source": "manomueru.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=2",
+  "source": "manomueru.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=3",
+  "source": "manomueru.js"
+},
+    {
+  "title": "ストロー",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=4",
+  "source": "manomueru.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=5",
+  "source": "manomueru.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona(CV：夏川椎菜)",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=6",
+  "source": "manomueru.js"
+},
+    {
+  "title": "Honey sweet tea time",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=7",
+  "source": "manomueru.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=8",
+  "source": "manomueru.js"
+},
+    {
+  "title": "Walking with you",
+  "artist": "Novelbright",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=9",
+  "source": "manomueru.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=10",
+  "source": "manomueru.js"
+},
+    {
+  "title": "学猫叫",
+  "artist": "小潘潘&小峰峰",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=11",
+  "source": "manomueru.js"
+},
+    {
+  "title": "ハロ／ハワユ",
+  "artist": "ナノウ feat.初音ミク",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=12",
+  "source": "manomueru.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=13",
+  "source": "manomueru.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=14",
+  "source": "manomueru.js"
+},
+    {
+  "title": "もっと光を",
+  "artist": "BLUE ENCOUNT",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=15",
+  "source": "manomueru.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=16",
+  "source": "manomueru.js"
+},
+    {
+  "title": "アンパンマンのマーチ",
+  "artist": "ドリーミング",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=17",
+  "source": "manomueru.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=18",
+  "source": "manomueru.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=19",
+  "source": "manomueru.js"
+},
+    {
+  "title": "Heat Waves",
+  "artist": "Glass Animals",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=20",
+  "source": "manomueru.js"
+},
+    {
+  "title": "モンスター",
+  "artist": "ELLEGARDEN",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=21",
+  "source": "manomueru.js"
+},
+    {
+  "title": "高架線",
+  "artist": "ELLEGARDEN",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=22",
+  "source": "manomueru.js"
+},
+    {
+  "title": "風の日",
+  "artist": "ELLEGARDEN",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=23",
+  "source": "manomueru.js"
+},
+    {
+  "title": "Missing",
+  "artist": "ELLEGARDEN",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=24",
+  "source": "manomueru.js"
+},
+    {
+  "title": "アメフラシの歌～Beautiful Rain～",
+  "artist": "ニケ・ルメルシエ(CV:前田玲奈)",
+  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=25",
   "source": "manomueru.js"
 }
 );

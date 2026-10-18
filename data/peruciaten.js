@@ -1,6 +1,6 @@
 // ぺるしあ・てん - 歌单数据 (多合集汇总)
 // 来源: BV1iXKY6qEKv
-// 生成时间: 8/24/2026, 6:38:23 AM
+// 生成时间: 10/18/2026, 7:38:27 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -979,6 +979,374 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=18",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ホタルノヒカリ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=1",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "あの夢をなぞって",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=2",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=3",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ハルジオン",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=4",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "勇者",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=5",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ヤラララ",
+  "artist": "AnythingBecomeMoe feat.重音テト",
+  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=6",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=7",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "Bling-Bang-Bang-Born",
+  "artist": "Creepy Nuts",
+  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=8",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "たぶん",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=9",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "かくれんぼ",
+  "artist": "AliA",
+  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=10",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=11",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=12",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=13",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "crossing field",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=14",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "Wake up!",
+  "artist": "AAA",
+  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=15",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat.巡音ルカ&GUMI",
+  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=16",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "わたしの一番かわいいところ",
+  "artist": "FRUITS ZIPPER",
+  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=1",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "とくべチュ、して",
+  "artist": "=LOVE",
+  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=2",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "お願いマッスル",
+  "artist": "紗倉ひびき(ファイルーズあい)＆街雄鳴造(石川界人)",
+  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=3",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "私は、わたしの事が好き。",
+  "artist": "HoneyWorks feat.かぐや(CV:夏吉ゆうこ)",
+  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=4",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "POP IN 2",
+  "artist": "B小町",
+  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=5",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "愛言葉III",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=6",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "我ら完全無敵のアイドル!!",
+  "artist": "B小町",
+  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=7",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "テレパシ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=8",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=9",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ロストワンの号哭",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=10",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "INTERNET OVERDOSE",
+  "artist": "Aiobahn feat.KOTOKO",
+  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=11",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n、中島愛",
+  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=12",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "モエチャッカファイア",
+  "artist": "弌誠",
+  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=13",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "キャットラビング",
+  "artist": "香椎モイミ feat.可不",
+  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=14",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat.巡音ルカ・GUMI",
+  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=15",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=1",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "猫日",
+  "artist": "suis from ヨルシカ",
+  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=2",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "愛包ダンスホール",
+  "artist": "HIMEHINA",
+  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=3",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=4",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "さくらんぼ",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=5",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ヘビーローテーション",
+  "artist": "AKB48",
+  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=6",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ポニーテールとシュシュ",
+  "artist": "AKB48",
+  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=7",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=8",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "粛聖!!ロリ神レクイエム☆",
+  "artist": "しぐれうい",
+  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=9",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "かわいいだけじゃだめですか？",
+  "artist": "CUTIE STREET",
+  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=10",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(CV.平野綾)",
+  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=11",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "デビルじゃないもん",
+  "artist": "DECO*27×ピノキオピー feat.初音ミク",
+  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=12",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=13",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "Starry Wish",
+  "artist": "水瀬いのり",
+  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=14",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "カウントダウンラブ",
+  "artist": "I'm a Cutie Finder",
+  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=15",
   "source": "peruciaten.js"
 }
 );

@@ -1,6 +1,6 @@
 // 千代浦蝶美 - 歌单数据 (多合集汇总)
 // 来源: BV1AFG66UEpL
-// 生成时间: 8/24/2026, 6:24:04 AM
+// 生成时间: 10/18/2026, 7:04:27 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1403,6 +1403,998 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=100",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=1",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=2",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "恋は渾沌の隷也",
+  "artist": "後ろから這いより隊G",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=3",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "レッツゴー!陰陽師",
+  "artist": "矢部野彦麿&琴姫With坊主ダンサーズ",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=4",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "GO!!!",
+  "artist": "FLOW",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=5",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "TAKE ME HIGHER",
+  "artist": "V6",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=6",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=7",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "Reason",
+  "artist": "玉置成実",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=8",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "ETERNAL BLAZE",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=9",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "ヨドバシカメラの歌",
+  "artist": "MIQ",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=10",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "アンパンマンのマーチ",
+  "artist": "ドリーミング",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=11",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "ガチャガチャきゅ〜と・ふぃぎゅ@メイト",
+  "artist": "MOSAIC.WAV",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=12",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=13",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "君のそばで 〜ヒカリのテーマ〜",
+  "artist": "グリン",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=14",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "シル・ヴ・プレジデント",
+  "artist": "P丸様。",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=15",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "さくらんぼ",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=16",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "鬼ノ宴",
+  "artist": "友成空",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=17",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "CITRUS",
+  "artist": "Da-iCE",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=18",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "はいよろこんで",
+  "artist": "こっちのけんと",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=19",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "おにのパンツ",
+  "artist": "田中星児",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=20",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "MEN OF DESTINY",
+  "artist": "MIO",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=21",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "嵐の中で輝いて",
+  "artist": "米倉千尋",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=22",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "Resolution",
+  "artist": "ROMANTIC MODE",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=23",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "INVOKE -インヴォーク-",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=24",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "暁の車",
+  "artist": "FictionJunction YUUKA",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=25",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "ignited -イグナイテッド-",
+  "artist": "T.M.Revolution",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=26",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "閃光",
+  "artist": "[Alexandros]",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=27",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "FREEDOM",
+  "artist": "西川貴教 with t.komuro",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=28",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "去り際のロマンティクス",
+  "artist": "See-Saw",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=29",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "翔べ！ガンダム",
+  "artist": "池田鴻",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=30",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "Shangri-La",
+  "artist": "angela",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=31",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "heavenly blue",
+  "artist": "Kalafina",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=32",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "禁断のレジスタンス",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=33",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "突撃ラブハート",
+  "artist": "FIRE BOMBER",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=34",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "鳥の歌",
+  "artist": "千里愛風",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=35",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "SKILL",
+  "artist": "JAM Project",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=36",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "COLORS",
+  "artist": "FLOW",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=37",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "勇侠青春謳",
+  "artist": "ALI PROJECT",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=38",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "モザイクカケラ",
+  "artist": "SunSet Swish",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=39",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "O2",
+  "artist": "ORANGE RANGE",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=40",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "WORLD END",
+  "artist": "FLOW",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=41",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "おどるポンポコリン",
+  "artist": "B.B.クィーンズ",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=42",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "メリッサ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=43",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春(モーニング娘。)",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=44",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "甲賀忍法帖",
+  "artist": "陰陽座",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=45",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "YUME日和",
+  "artist": "島谷ひとみ",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=46",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(CV.平野綾)",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=47",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "Starry Heavens",
+  "artist": "day after tomorrow",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=48",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "そして僕にできるコト",
+  "artist": "day after tomorrow",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=49",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "カルマ",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=50",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "永遠の明日",
+  "artist": "DEEN",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=51",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "progress",
+  "artist": "浜崎あゆみ",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=52",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "LOVE & JOY",
+  "artist": "木村由姫",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=53",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "気分上々↑↑",
+  "artist": "mihimaru GT",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=54",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "羞恥心",
+  "artist": "羞恥心",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=55",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "風立ちぬ",
+  "artist": "中村中",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=56",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "Jupiter",
+  "artist": "平原綾香",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=57",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=58",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "世界はグー・チョキ・パー",
+  "artist": "武田鉄矢一座",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=59",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "かけがえのない詩",
+  "artist": "mihimaru GT",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=60",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "季節がいく時",
+  "artist": "SPEED",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=61",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "WILL",
+  "artist": "米倉千尋",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=62",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "YOU GET TO BURNING",
+  "artist": "松澤由美",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=63",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "Wind Climbing 〜風にあそばれて〜",
+  "artist": "奥井亜紀",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=64",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "はじめてのチュウ",
+  "artist": "あんしんパパ",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=65",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "ブルーウォーター",
+  "artist": "森川美穂",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=66",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "Boys & Girls",
+  "artist": "浜崎あゆみ",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=67",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=68",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "ロビンソン",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=69",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "ラブ・ストーリーは突然に",
+  "artist": "小田和正",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=70",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "ら・ら・ら",
+  "artist": "大黒摩季",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=71",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "LOVEマシーン",
+  "artist": "モーニング娘。",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=72",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "Crow Song",
+  "artist": "Girls Dead Monster starring marina",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=73",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "鳥の詩",
+  "artist": "Lia",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=74",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=75",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "風のとおり道",
+  "artist": "杉並児童合唱団",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=76",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "となりのトトロ",
+  "artist": "井上あずみ",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=77",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "ルージュの伝言",
+  "artist": "荒井由実",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=78",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "風になる",
+  "artist": "つじあやの",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=79",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "ミラクルショッピング 〜ドン・キホーテのテーマ〜",
+  "artist": "田中マイミ",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=80",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=81",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "おじゃま虫",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=82",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat.flower",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=83",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "炉心融解",
+  "artist": "iroha(sasaki) feat.鏡音リン",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=84",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "ロストワンの号哭",
+  "artist": "Neru feat.鏡音リン",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=85",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=86",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "Never say never",
+  "artist": "渋谷凛(CV.福原綾香)",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=87",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "きみわずらい",
+  "artist": "まねきケチャ",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=88",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "プロミスザスター",
+  "artist": "BiSH",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=89",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "フライングゲット",
+  "artist": "AKB48",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=90",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "群青日和",
+  "artist": "東京事変",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=91",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "遭難",
+  "artist": "東京事変",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=92",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "透明人間",
+  "artist": "東京事変",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=93",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "キミがいれば",
+  "artist": "伊織",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=94",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "Time after time 〜花舞う街で〜",
+  "artist": "倉木麻衣",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=95",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "謎",
+  "artist": "小松未歩",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=96",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "Dream×Dream",
+  "artist": "愛内里菜",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=97",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "SAKURAドロップス",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=98",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "集結の園へ",
+  "artist": "林原めぐみ",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=99",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "夢追いの蝶",
+  "artist": "千代浦蝶美",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=100",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "Oz.",
+  "artist": "yama",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=101",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "おはよう。",
+  "artist": "Keno",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=102",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "KABANERI OF THE IRON FORTRESS",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=103",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "輝きは君の中に",
+  "artist": "鈴木結女",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=104",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "THOUSAND VOICES",
+  "artist": "千代浦蝶美",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=105",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "ちあっぷ!",
+  "artist": "千代浦蝶美",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=106",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "VTuberのすべて",
+  "artist": "あおぎり高校",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=107",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "Aim for the Star",
+  "artist": "千代浦蝶美",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=108",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "ポップ・スナック・ジャンクなHUNNY",
+  "artist": "あおぎり高校",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=109",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "トリコロール・ステップ",
+  "artist": "あおぎり高校",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=110",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "Butterfly Dream",
+  "artist": "千代浦蝶美",
+  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=111",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "Butterfly Dream",
+  "artist": "千代浦蝶美",
+  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=1",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "GO!!!",
+  "artist": "FLOW",
+  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=2",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "VTuberのすべて",
+  "artist": "あおぎり高校",
+  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=3",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "THOUSAND VOICES",
+  "artist": "千代浦蝶美",
+  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=4",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "ちあっぷ!",
+  "artist": "千代浦蝶美",
+  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=5",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "sakura",
+  "artist": "NIRGILIS",
+  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=6",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "となりのトトロ",
+  "artist": "井上あずみ",
+  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=7",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "炉心融解",
+  "artist": "iroha(sasaki) feat.鏡音リン",
+  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=8",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "羞恥心",
+  "artist": "羞恥心",
+  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=9",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "ニホンノミカタ －ネバダカラキマシタ－",
+  "artist": "矢島美容室",
+  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=10",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "Aim for the Star",
+  "artist": "千代浦蝶美",
+  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=11",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "夢追いの蝶",
+  "artist": "千代浦蝶美",
+  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=12",
+  "source": "chiyourachomi.js"
+},
+    {
+  "title": "years of Memories",
+  "artist": "千代浦蝶美",
+  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=13",
   "source": "chiyourachomi.js"
 }
 );

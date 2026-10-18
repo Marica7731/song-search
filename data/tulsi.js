@@ -1,6 +1,6 @@
 // 魔王トゥルシー - 歌单数据 (多合集汇总)
 // 来源: BV1PLQVB3E9e
-// 生成时间: 8/24/2026, 6:05:11 AM
+// 生成时间: 10/18/2026, 6:39:16 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -315,6 +315,38 @@ window.SONG_DATA.push(
   "collection": "歌切 2026-04-11 魔王トゥルシー / Tulsi-Nightmare Madness IV kxAAY51-FNM",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UUQVBmERX?p=5",
+  "source": "tulsi.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat. 可不",
+  "collection": "【歌切】[2026-10-11]出道第4年！在歌回接力中唱动漫歌曲和术力口歌曲！【ぶいっと】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBpH6KEbF?p=1",
+  "source": "tulsi.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "【歌切】[2026-10-11]出道第4年！在歌回接力中唱动漫歌曲和术力口歌曲！【ぶいっと】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBpH6KEbF?p=2",
+  "source": "tulsi.js"
+},
+    {
+  "title": "キッカイケッタイ",
+  "artist": "メドミア feat. 初音ミク・可不",
+  "collection": "【歌切】[2026-10-11]出道第4年！在歌回接力中唱动漫歌曲和术力口歌曲！【ぶいっと】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBpH6KEbF?p=3",
+  "source": "tulsi.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-10-11]出道第4年！在歌回接力中唱动漫歌曲和术力口歌曲！【ぶいっと】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bBpH6KEbF?p=4",
   "source": "tulsi.js"
 }
 );

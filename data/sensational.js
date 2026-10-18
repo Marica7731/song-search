@@ -1,6 +1,6 @@
 // Sen†Sational - 歌单数据 (多合集汇总)
 // 来源: BV1ybNo67EQ5
-// 生成时间: 8/24/2026, 6:31:14 AM
+// 生成时间: 10/18/2026, 7:21:01 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1251,6 +1251,334 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-21]🔴 想看烟花",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xs8p6JEyy?p=18",
+  "source": "sensational.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "【歌切】[2026-09-04]🔴夏天要结束了吗？【Sen†Sational】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE5S?p=1",
+  "source": "sensational.js"
+},
+    {
+  "title": "Brave Shine",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-09-04]🔴夏天要结束了吗？【Sen†Sational】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE5S?p=2",
+  "source": "sensational.js"
+},
+    {
+  "title": "青いベンチ",
+  "artist": "サスケ",
+  "collection": "【歌切】[2026-09-04]🔴夏天要结束了吗？【Sen†Sational】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE5S?p=3",
+  "source": "sensational.js"
+},
+    {
+  "title": "Nighthawks",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-04]🔴夏天要结束了吗？【Sen†Sational】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE5S?p=4",
+  "source": "sensational.js"
+},
+    {
+  "title": "嘘",
+  "artist": "シド",
+  "collection": "【歌切】[2026-09-04]🔴夏天要结束了吗？【Sen†Sational】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE5S?p=5",
+  "source": "sensational.js"
+},
+    {
+  "title": "少女A",
+  "artist": "椎名もた feat.鏡音リン",
+  "collection": "【歌切】[2026-09-04]🔴夏天要结束了吗？【Sen†Sational】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE5S?p=6",
+  "source": "sensational.js"
+},
+    {
+  "title": "Re:make",
+  "artist": "ONE OK ROCK",
+  "collection": "【歌切】[2026-09-04]🔴夏天要结束了吗？【Sen†Sational】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE5S?p=7",
+  "source": "sensational.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-09-04]🔴夏天要结束了吗？【Sen†Sational】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE5S?p=8",
+  "source": "sensational.js"
+},
+    {
+  "title": "完全感覚Dreamer",
+  "artist": "ONE OK ROCK",
+  "collection": "【歌切】[2026-09-04]🔴夏天要结束了吗？【Sen†Sational】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE5S?p=9",
+  "source": "sensational.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん feat.IA",
+  "collection": "【歌切】[2026-09-04]🔴夏天要结束了吗？【Sen†Sational】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE5S?p=10",
+  "source": "sensational.js"
+},
+    {
+  "title": "わたしのアール",
+  "artist": "くらげP feat.初音ミク",
+  "collection": "【歌切】[2026-09-04]🔴夏天要结束了吗？【Sen†Sational】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE5S?p=11",
+  "source": "sensational.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "【歌切】[2026-09-04]🔴夏天要结束了吗？【Sen†Sational】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE5S?p=12",
+  "source": "sensational.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "シェリル・ノーム starring May'n、ランカ・リー=中島愛",
+  "collection": "【歌切】[2026-09-04]🔴夏天要结束了吗？【Sen†Sational】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE5S?p=13",
+  "source": "sensational.js"
+},
+    {
+  "title": "ダイアモンド クレバス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "【歌切】[2026-09-04]🔴夏天要结束了吗？【Sen†Sational】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE5S?p=14",
+  "source": "sensational.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "【歌切】[2026-09-04]🔴夏天要结束了吗？【Sen†Sational】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE5S?p=15",
+  "source": "sensational.js"
+},
+    {
+  "title": "Ghost of a smile",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-09-04]🔴夏天要结束了吗？【Sen†Sational】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NLbH6CE5S?p=16",
+  "source": "sensational.js"
+},
+    {
+  "title": "フライデー・ナイト",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=1",
+  "source": "sensational.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=2",
+  "source": "sensational.js"
+},
+    {
+  "title": "ずうっといっしょ！",
+  "artist": "キタニタツヤ",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=3",
+  "source": "sensational.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=4",
+  "source": "sensational.js"
+},
+    {
+  "title": "融解sink",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=5",
+  "source": "sensational.js"
+},
+    {
+  "title": "悪魔の踊り方",
+  "artist": "こんにちは谷田さん feat.鏡音リン",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=6",
+  "source": "sensational.js"
+},
+    {
+  "title": "ファタール",
+  "artist": "GEMN",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=7",
+  "source": "sensational.js"
+},
+    {
+  "title": "モエチャッカファイア",
+  "artist": "弌誠",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=8",
+  "source": "sensational.js"
+},
+    {
+  "title": "睨めっ娘",
+  "artist": "友成空",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=9",
+  "source": "sensational.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=10",
+  "source": "sensational.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=11",
+  "source": "sensational.js"
+},
+    {
+  "title": "もうどうなってもいいや",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=12",
+  "source": "sensational.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=13",
+  "source": "sensational.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=14",
+  "source": "sensational.js"
+},
+    {
+  "title": "TOXIC",
+  "artist": "Charm Holic",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=15",
+  "source": "sensational.js"
+},
+    {
+  "title": "Everything",
+  "artist": "MISIA",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=16",
+  "source": "sensational.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat.GUMI",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=17",
+  "source": "sensational.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス feat.可不",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=18",
+  "source": "sensational.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=19",
+  "source": "sensational.js"
+},
+    {
+  "title": "不可幸力",
+  "artist": "Vaundy",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=20",
+  "source": "sensational.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=21",
+  "source": "sensational.js"
+},
+    {
+  "title": "ヒステリックナイトガール",
+  "artist": "PSYQUI",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=22",
+  "source": "sensational.js"
+},
+    {
+  "title": "のびしろ",
+  "artist": "Creepy Nuts",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=23",
+  "source": "sensational.js"
+},
+    {
+  "title": "アルカナ (арканы)",
+  "artist": "Lezel",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=24",
+  "source": "sensational.js"
+},
+    {
+  "title": "CH4NGE",
+  "artist": "Giga feat.可不",
+  "collection": "【歌切】[2026-09-18]🔴今晚也要随心所欲地唱歌",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uYev6TELH?p=25",
   "source": "sensational.js"
 }
 );

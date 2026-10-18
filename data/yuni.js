@@ -1,6 +1,6 @@
 // YuNi - 歌单数据 (多合集汇总)
 // 来源: BV1MAjT6GEF7
-// 生成时间: 8/24/2026, 6:37:30 AM
+// 生成时间: 10/18/2026, 7:35:19 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -339,6 +339,38 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-22]唱平成夏日歌曲！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13R8p6fEF3?p=5",
+  "source": "yuni.js"
+},
+    {
+  "title": "Venus",
+  "artist": "タッキー&翼",
+  "collection": "【歌切】[2026-10-01]生日3D迷你Live｜请来庆祝生日！！！还有重大公告！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YiaS6CE1E?p=1",
+  "source": "yuni.js"
+},
+    {
+  "title": "素敵だね",
+  "artist": "RIKKI",
+  "collection": "【歌切】[2026-10-01]生日3D迷你Live｜请来庆祝生日！！！还有重大公告！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YiaS6CE1E?p=2",
+  "source": "yuni.js"
+},
+    {
+  "title": "Passion",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-10-01]生日3D迷你Live｜请来庆祝生日！！！还有重大公告！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YiaS6CE1E?p=3",
+  "source": "yuni.js"
+},
+    {
+  "title": "星空のディスタンス",
+  "artist": "THE ALFEE",
+  "collection": "【歌切】[2026-10-01]生日3D迷你Live｜请来庆祝生日！！！还有重大公告！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1YiaS6CE1E?p=4",
   "source": "yuni.js"
 }
 );

@@ -1,6 +1,6 @@
 // みなとん - 歌单数据 (多合集汇总)
 // 来源: BV1TqGY6gEEf
-// 生成时间: 8/24/2026, 6:15:10 AM
+// 生成时间: 10/18/2026, 6:52:47 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1131,6 +1131,174 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-22]在这个热情爆棚的夏天唱歌☀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13R8p6fEcU?p=5",
+  "source": "minaton.js"
+},
+    {
+  "title": "ETERNAL BLAZE",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-08-25]寻找新推V歌回接力！VEE代表！みなとん。来唱歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jm8f6gEyx?p=1",
+  "source": "minaton.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "【歌切】[2026-08-25]寻找新推V歌回接力！VEE代表！みなとん。来唱歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jm8f6gEyx?p=2",
+  "source": "minaton.js"
+},
+    {
+  "title": "遥か、シリウス",
+  "artist": "みなとん。",
+  "collection": "【歌切】[2026-08-25]寻找新推V歌回接力！VEE代表！みなとん。来唱歌啦",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jm8f6gEyx?p=3",
+  "source": "minaton.js"
+},
+    {
+  "title": "ムーンライト",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-09-17]3D歌回｜晚上来听些轻松舒缓的歌吧🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TE9H?p=1",
+  "source": "minaton.js"
+},
+    {
+  "title": "食虫植物",
+  "artist": "理芽",
+  "collection": "【歌切】[2026-09-17]3D歌回｜晚上来听些轻松舒缓的歌吧🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TE9H?p=2",
+  "source": "minaton.js"
+},
+    {
+  "title": "ハレンチ",
+  "artist": "ちゃんみな",
+  "collection": "【歌切】[2026-09-17]3D歌回｜晚上来听些轻松舒缓的歌吧🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TE9H?p=3",
+  "source": "minaton.js"
+},
+    {
+  "title": "寄り酔い",
+  "artist": "和ぬか",
+  "collection": "【歌切】[2026-09-17]3D歌回｜晚上来听些轻松舒缓的歌吧🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TE9H?p=4",
+  "source": "minaton.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-09-17]3D歌回｜晚上来听些轻松舒缓的歌吧🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TE9H?p=5",
+  "source": "minaton.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-09-17]3D歌回｜晚上来听些轻松舒缓的歌吧🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TE9H?p=6",
+  "source": "minaton.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-09-17]3D歌回｜晚上来听些轻松舒缓的歌吧🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TE9H?p=7",
+  "source": "minaton.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【歌切】[2026-09-17]3D歌回｜晚上来听些轻松舒缓的歌吧🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TE9H?p=8",
+  "source": "minaton.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-09-17]3D歌回｜晚上来听些轻松舒缓的歌吧🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TE9H?p=9",
+  "source": "minaton.js"
+},
+    {
+  "title": "inside you",
+  "artist": "milet",
+  "collection": "【歌切】[2026-09-17]3D歌回｜晚上来听些轻松舒缓的歌吧🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TE9H?p=10",
+  "source": "minaton.js"
+},
+    {
+  "title": "Automatic",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-09-17]3D歌回｜晚上来听些轻松舒缓的歌吧🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TE9H?p=11",
+  "source": "minaton.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師・宇多田ヒカル",
+  "collection": "【歌切】[2026-09-17]3D歌回｜晚上来听些轻松舒缓的歌吧🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TE9H?p=12",
+  "source": "minaton.js"
+},
+    {
+  "title": "ブルー・マンデイ",
+  "artist": "みなとん。",
+  "collection": "【歌切】[2026-09-17]3D歌回｜晚上来听些轻松舒缓的歌吧🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bYev6TE9H?p=13",
+  "source": "minaton.js"
+},
+    {
+  "title": "おもかげ",
+  "artist": "milet×Aimer×幾田りら",
+  "collection": "【歌切】[2026-09-25]「让我的歌声传达给你」歌回接力｜想把我的歌声传达给你🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DE7i?p=1",
+  "source": "minaton.js"
+},
+    {
+  "title": "冤罪の烙印",
+  "artist": "みけねこ。",
+  "collection": "【歌切】[2026-09-25]「让我的歌声传达给你」歌回接力｜想把我的歌声传达给你🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DE7i?p=2",
+  "source": "minaton.js"
+},
+    {
+  "title": "無題",
+  "artist": "みなとん。",
+  "collection": "【歌切】[2026-09-25]「让我的歌声传达给你」歌回接力｜想把我的歌声传达给你🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DE7i?p=3",
+  "source": "minaton.js"
+},
+    {
+  "title": "宿命",
+  "artist": "Official髭男dism",
+  "collection": "【歌切】[2026-09-25]「让我的歌声传达给你」歌回接力｜想把我的歌声传达给你🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DE7i?p=4",
+  "source": "minaton.js"
+},
+    {
+  "title": "満ちてゆく",
+  "artist": "藤井風",
+  "collection": "【歌切】[2026-09-25]「让我的歌声传达给你」歌回接力｜想把我的歌声传达给你🎤",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1TQah6DE7i?p=5",
   "source": "minaton.js"
 }
 );

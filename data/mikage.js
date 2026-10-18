@@ -1,6 +1,6 @@
 // 深影 - 歌单数据 (多合集汇总)
 // 来源: BV12mQ3B6EpP
-// 生成时间: 8/24/2026, 6:02:58 AM
+// 生成时间: 10/18/2026, 6:36:53 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -995,6 +995,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-06-19]频道订阅27000人耐久歌回 深影 - Mikage -",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pBjk6NEcG?p=23",
+  "source": "mikage.js"
+},
+    {
+  "title": "いってらっしゃい",
+  "artist": "ヒグチアイ",
+  "collection": "【歌切】[2026-09-11]竖屏｜正弦余弦，很简单嘛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PhaU6FEDr?p=1",
+  "source": "mikage.js"
+},
+    {
+  "title": "勘冴えて悔しいわ",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-09-11]竖屏｜正弦余弦，很简单嘛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PhaU6FEDr?p=2",
+  "source": "mikage.js"
+},
+    {
+  "title": "懐かしい未来",
+  "artist": "上白石萌音",
+  "collection": "【歌切】[2026-09-11]竖屏｜正弦余弦，很简单嘛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PhaU6FEDr?p=3",
+  "source": "mikage.js"
+},
+    {
+  "title": "輝いた",
+  "artist": "シギ",
+  "collection": "【歌切】[2026-09-11]竖屏｜正弦余弦，很简单嘛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PhaU6FEDr?p=4",
+  "source": "mikage.js"
+},
+    {
+  "title": "main actor",
+  "artist": "美波",
+  "collection": "【歌切】[2026-09-11]竖屏｜正弦余弦，很简单嘛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PhaU6FEDr?p=5",
+  "source": "mikage.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-09-11]竖屏｜正弦余弦，很简单嘛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PhaU6FEDr?p=6",
+  "source": "mikage.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-09-11]竖屏｜正弦余弦，很简单嘛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PhaU6FEDr?p=7",
+  "source": "mikage.js"
+},
+    {
+  "title": "最後の雨",
+  "artist": "中西保志",
+  "collection": "【歌切】[2026-09-11]竖屏｜正弦余弦，很简单嘛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PhaU6FEDr?p=8",
+  "source": "mikage.js"
+},
+    {
+  "title": "星屑ビーナス",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-09-11]竖屏｜正弦余弦，很简单嘛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PhaU6FEDr?p=9",
+  "source": "mikage.js"
+},
+    {
+  "title": "Beautiful World",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-09-11]竖屏｜正弦余弦，很简单嘛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PhaU6FEDr?p=10",
+  "source": "mikage.js"
+},
+    {
+  "title": "友達の唄",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-09-11]竖屏｜正弦余弦，很简单嘛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PhaU6FEDr?p=11",
+  "source": "mikage.js"
+},
+    {
+  "title": "透影",
+  "artist": "深影",
+  "collection": "【歌切】[2026-09-11]竖屏｜正弦余弦，很简单嘛",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PhaU6FEDr?p=12",
   "source": "mikage.js"
 }
 );

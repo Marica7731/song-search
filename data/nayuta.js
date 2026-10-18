@@ -1,6 +1,6 @@
 // nayuta - 歌单数据 (多合集汇总)
 // 来源: BV1GXYFzXETo, BV1MPpUzsE1D, BV184W5zeE1Z
-// 生成时间: 8/24/2026, 5:34:42 AM
+// 生成时间: 10/18/2026, 6:05:33 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2238,40 +2238,40 @@ window.SONG_DATA.push(
   "source": "nayuta.js"
 },
     {
-  "title": "1.春よ、来い",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "春よ、来い",
+  "artist": "松任谷由実",
   "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wmQSY1EFu?p=1",
   "source": "nayuta.js"
 },
     {
-  "title": "2.旅立ちの日に",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "旅立ちの日に",
+  "artist": "合唱曲",
   "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wmQSY1EFu?p=2",
   "source": "nayuta.js"
 },
     {
-  "title": "3.明日への扉",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "明日への扉",
+  "artist": "I WiSH",
   "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wmQSY1EFu?p=3",
   "source": "nayuta.js"
 },
     {
-  "title": "4.春泥棒",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
   "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wmQSY1EFu?p=4",
   "source": "nayuta.js"
 },
     {
-  "title": "5.さよならメモリーズ",
-  "artist": "来源处未提供标准格式歌手",
+  "title": "さよならメモリーズ",
+  "artist": "supercell",
   "collection": "【nayuta会限20/21】15万人耐久 声乐和钢琴的现场演奏会 vol.20 【2025】【生演奏系列】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wmQSY1EFu?p=5",
@@ -4659,6 +4659,30 @@ window.SONG_DATA.push(
   "collection": "【会限nayuta Live】互联网老年人协会Live ~2025年8月24日 なまゆた",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15AHqzaE5n?p=11",
+  "source": "nayuta.js"
+},
+    {
+  "title": "瞳の欠片",
+  "artist": "FictionJunction YUUKA",
+  "collection": "歌切 nayuta Happy Birthday 2026 ～生日纪念直播～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cRae6jEKv?p=1",
+  "source": "nayuta.js"
+},
+    {
+  "title": "あんなに一緒だったのに",
+  "artist": "See-Saw",
+  "collection": "歌切 nayuta Happy Birthday 2026 ～生日纪念直播～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cRae6jEKv?p=2",
+  "source": "nayuta.js"
+},
+    {
+  "title": "innocent starter",
+  "artist": "水樹奈々",
+  "collection": "歌切 nayuta Happy Birthday 2026 ～生日纪念直播～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cRae6jEKv?p=3",
   "source": "nayuta.js"
 },
     {

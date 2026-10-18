@@ -1,6 +1,6 @@
 // 炉なる - 歌单数据 (多合集汇总)
 // 来源: BV1oeMx6WEve
-// 生成时间: 8/24/2026, 6:28:40 AM
+// 生成时间: 10/18/2026, 7:15:06 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -731,6 +731,222 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-08-23]太久没唱，连怎么唱都忘了｜竖屏歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gG8a6JESf?p=17",
+  "source": "ronaru.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-28]竖屏｜ヨルシカ限定歌回【なるストリーム】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axtt6TEwY?p=1",
+  "source": "ronaru.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-28]竖屏｜ヨルシカ限定歌回【なるストリーム】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axtt6TEwY?p=2",
+  "source": "ronaru.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-28]竖屏｜ヨルシカ限定歌回【なるストリーム】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axtt6TEwY?p=3",
+  "source": "ronaru.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-28]竖屏｜ヨルシカ限定歌回【なるストリーム】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axtt6TEwY?p=4",
+  "source": "ronaru.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-28]竖屏｜ヨルシカ限定歌回【なるストリーム】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axtt6TEwY?p=5",
+  "source": "ronaru.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-28]竖屏｜ヨルシカ限定歌回【なるストリーム】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axtt6TEwY?p=6",
+  "source": "ronaru.js"
+},
+    {
+  "title": "負け犬にアンコールはいらない",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-08-28]竖屏｜ヨルシカ限定歌回【なるストリーム】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1axtt6TEwY?p=7",
+  "source": "ronaru.js"
+},
+    {
+  "title": "はなまるぴっぴはよいこだけ",
+  "artist": "A応P",
+  "collection": "【歌切】[2026-09-25]竖屏｜唱歌唱歌唱歌！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xnaY6SEas?p=1",
+  "source": "ronaru.js"
+},
+    {
+  "title": "SHINING SONG",
+  "artist": "B小町",
+  "collection": "【歌切】[2026-09-25]竖屏｜唱歌唱歌唱歌！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xnaY6SEas?p=2",
+  "source": "ronaru.js"
+},
+    {
+  "title": "星色トラベラー",
+  "artist": "iLiFE!",
+  "collection": "【歌切】[2026-09-25]竖屏｜唱歌唱歌唱歌！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xnaY6SEas?p=3",
+  "source": "ronaru.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-09-25]竖屏｜唱歌唱歌唱歌！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xnaY6SEas?p=4",
+  "source": "ronaru.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-09-25]竖屏｜唱歌唱歌唱歌！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xnaY6SEas?p=5",
+  "source": "ronaru.js"
+},
+    {
+  "title": "桜の咲く音がした",
+  "artist": "=LOVE",
+  "collection": "【歌切】[2026-09-25]竖屏｜唱歌唱歌唱歌！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xnaY6SEas?p=6",
+  "source": "ronaru.js"
+},
+    {
+  "title": "倍々FIGHT!",
+  "artist": "CANDY TUNE",
+  "collection": "【歌切】[2026-09-25]竖屏｜唱歌唱歌唱歌！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xnaY6SEas?p=7",
+  "source": "ronaru.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO×米津玄師",
+  "collection": "【歌切】[2026-09-25]竖屏｜唱歌唱歌唱歌！！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xnaY6SEas?p=8",
+  "source": "ronaru.js"
+},
+    {
+  "title": "超最強",
+  "artist": "超ときめき♡宣伝部",
+  "collection": "【歌切】[2026-10-08]偶像歌曲限定歌回！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoH96JEAT?p=1",
+  "source": "ronaru.js"
+},
+    {
+  "title": "はちゃめちゃわちゃライフ！",
+  "artist": "FRUITS ZIPPER",
+  "collection": "【歌切】[2026-10-08]偶像歌曲限定歌回！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoH96JEAT?p=2",
+  "source": "ronaru.js"
+},
+    {
+  "title": "ヒアルロンリーガール",
+  "artist": "ZOC",
+  "collection": "【歌切】[2026-10-08]偶像歌曲限定歌回！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoH96JEAT?p=3",
+  "source": "ronaru.js"
+},
+    {
+  "title": "初恋リバイバル",
+  "artist": "iLiFE!",
+  "collection": "【歌切】[2026-10-08]偶像歌曲限定歌回！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoH96JEAT?p=4",
+  "source": "ronaru.js"
+},
+    {
+  "title": "きよしのソーラン節",
+  "artist": "氷川きよし",
+  "collection": "【歌切】[2026-10-08]偶像歌曲限定歌回！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoH96JEAT?p=5",
+  "source": "ronaru.js"
+},
+    {
+  "title": "現役アイドルちゅ～",
+  "artist": "齊藤なぎさ（=LOVE）",
+  "collection": "【歌切】[2026-10-08]偶像歌曲限定歌回！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoH96JEAT?p=6",
+  "source": "ronaru.js"
+},
+    {
+  "title": "爆裂愛してる",
+  "artist": "M!LK",
+  "collection": "【歌切】[2026-10-08]偶像歌曲限定歌回！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoH96JEAT?p=7",
+  "source": "ronaru.js"
+},
+    {
+  "title": "ころころガール",
+  "artist": "iLiFE!",
+  "collection": "【歌切】[2026-10-08]偶像歌曲限定歌回！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoH96JEAT?p=8",
+  "source": "ronaru.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "【歌切】[2026-10-10]爱Love歌回接力｜最喜欢大家啦♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jBpu6mEbX?p=1",
+  "source": "ronaru.js"
+},
+    {
+  "title": "安眠swimming",
+  "artist": "femme fatale",
+  "collection": "【歌切】[2026-10-10]爱Love歌回接力｜最喜欢大家啦♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jBpu6mEbX?p=2",
+  "source": "ronaru.js"
+},
+    {
+  "title": "初めての恋が終わる時",
+  "artist": "supercell feat. 初音ミク",
+  "collection": "【歌切】[2026-10-10]爱Love歌回接力｜最喜欢大家啦♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jBpu6mEbX?p=3",
+  "source": "ronaru.js"
+},
+    {
+  "title": "milk boy",
+  "artist": "SILENT SIREN",
+  "collection": "【歌切】[2026-10-10]爱Love歌回接力｜最喜欢大家啦♡",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jBpu6mEbX?p=4",
   "source": "ronaru.js"
 }
 );
