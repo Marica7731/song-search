@@ -1,6 +1,6 @@
 // 山田シャロ - 歌单数据 (多合集汇总)
 // 来源: BV179L66pE1f
-// 生成时间: 10/18/2026, 1:58:23 AM
+// 生成时间: 10/18/2026, 3:08:00 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2731,6 +2731,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-09]点歌也OK！欢迎随时来看看哦💓",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sNpY6tEZt?p=19",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "【歌切】[2026-10-16]欢迎点歌！来轻松悠闲地听歌吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cE9r?p=1",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "やさしさで溢れるように",
+  "artist": "JUJU",
+  "collection": "【歌切】[2026-10-16]欢迎点歌！来轻松悠闲地听歌吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cE9r?p=2",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "FEARLESS HERO",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-10-16]欢迎点歌！来轻松悠闲地听歌吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cE9r?p=3",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Vitalization",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-10-16]欢迎点歌！来轻松悠闲地听歌吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cE9r?p=4",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(CV.平野綾)",
+  "collection": "【歌切】[2026-10-16]欢迎点歌！来轻松悠闲地听歌吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cE9r?p=5",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "みちづれ",
+  "artist": "星街すいせい",
+  "collection": "【歌切】[2026-10-16]欢迎点歌！来轻松悠闲地听歌吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cE9r?p=6",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "グッバイ宣言",
+  "artist": "Chinozo feat.flower",
+  "collection": "【歌切】[2026-10-16]欢迎点歌！来轻松悠闲地听歌吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cE9r?p=7",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "深愛",
+  "artist": "水樹奈々",
+  "collection": "【歌切】[2026-10-16]欢迎点歌！来轻松悠闲地听歌吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cE9r?p=8",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "好きって言ってよ",
+  "artist": "Juice=Juice",
+  "collection": "【歌切】[2026-10-16]欢迎点歌！来轻松悠闲地听歌吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cE9r?p=9",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "プライド・ブライト",
+  "artist": "Juice=Juice",
+  "collection": "【歌切】[2026-10-16]欢迎点歌！来轻松悠闲地听歌吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cE9r?p=10",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ハルジオン",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-10-16]欢迎点歌！来轻松悠闲地听歌吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cE9r?p=11",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-10-16]欢迎点歌！来轻松悠闲地听歌吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cE9r?p=12",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-10-16]欢迎点歌！来轻松悠闲地听歌吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cE9r?p=13",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "渡月橋 ～君 想ふ～",
+  "artist": "倉木麻衣",
+  "collection": "【歌切】[2026-10-16]欢迎点歌！来轻松悠闲地听歌吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cE9r?p=14",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "うっせぇわ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-10-16]欢迎点歌！来轻松悠闲地听歌吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cE9r?p=15",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-16]欢迎点歌！来轻松悠闲地听歌吧✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GgnM6cE9r?p=16",
   "source": "yamadasharo.js"
 }
 );

@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 10/18/2026, 1:43:27 AM
+// 生成时间: 10/18/2026, 2:50:00 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10587,6 +10587,182 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-10-13]弹唱歌回！欢迎新观众，希望成为你舒适的午间背景音乐～🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MbpB67EFT?p=20",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-10-16]深海Fes 2026开幕前夕‼️用心为大家弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "メロウ",
+  "artist": "須田景凪",
+  "collection": "【💐🎸歌切】[2026-10-16]深海Fes 2026开幕前夕‼️用心为大家弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "【💐🎸歌切】[2026-10-16]深海Fes 2026开幕前夕‼️用心为大家弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "【💐🎸歌切】[2026-10-16]深海Fes 2026开幕前夕‼️用心为大家弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "ラストバージン",
+  "artist": "RADWIMPS",
+  "collection": "【💐🎸歌切】[2026-10-16]深海Fes 2026开幕前夕‼️用心为大家弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-10-16]深海Fes 2026开幕前夕‼️用心为大家弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "キラキラ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-10-16]深海Fes 2026开幕前夕‼️用心为大家弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "Swallowtail Butterfly 〜あいのうた〜",
+  "artist": "YEN TOWN BAND",
+  "collection": "【💐🎸歌切】[2026-10-16]深海Fes 2026开幕前夕‼️用心为大家弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-10-16]深海Fes 2026开幕前夕‼️用心为大家弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "【💐🎸歌切】[2026-10-16]深海Fes 2026开幕前夕‼️用心为大家弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "ナイトルーティーン",
+  "artist": "キタニタツヤ",
+  "collection": "【💐🎸歌切】[2026-10-16]深海Fes 2026开幕前夕‼️用心为大家弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "太陽に笑え",
+  "artist": "Anly",
+  "collection": "【💐🎸歌切】[2026-10-16]深海Fes 2026开幕前夕‼️用心为大家弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "この闇を照らす光のむこうに",
+  "artist": "Anly＋スキマスイッチ＝",
+  "collection": "【💐🎸歌切】[2026-10-16]深海Fes 2026开幕前夕‼️用心为大家弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "Bye by me",
+  "artist": "Vaundy",
+  "collection": "【💐🎸歌切】[2026-10-16]深海Fes 2026开幕前夕‼️用心为大家弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "そういう好き",
+  "artist": "wacci",
+  "collection": "【💐🎸歌切】[2026-10-16]深海Fes 2026开幕前夕‼️用心为大家弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "染まるよ",
+  "artist": "チャットモンチー",
+  "collection": "【💐🎸歌切】[2026-10-16]深海Fes 2026开幕前夕‼️用心为大家弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "世界が終わる夜に",
+  "artist": "チャットモンチー",
+  "collection": "【💐🎸歌切】[2026-10-16]深海Fes 2026开幕前夕‼️用心为大家弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "ときめき",
+  "artist": "チャットモンチー",
+  "collection": "【💐🎸歌切】[2026-10-16]深海Fes 2026开幕前夕‼️用心为大家弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=18",
+  "source": "sumica.js"
+},
+    {
+  "title": "八月、某、月明り",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-10-16]深海Fes 2026开幕前夕‼️用心为大家弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=19",
+  "source": "sumica.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【💐🎸歌切】[2026-10-16]深海Fes 2026开幕前夕‼️用心为大家弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=20",
+  "source": "sumica.js"
+},
+    {
+  "title": "泣き虫上等",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-10-16]深海Fes 2026开幕前夕‼️用心为大家弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=21",
+  "source": "sumica.js"
+},
+    {
+  "title": "きにぴ",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-10-16]深海Fes 2026开幕前夕‼️用心为大家弹唱～",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=22",
   "source": "sumica.js"
 }
 );

@@ -1,6 +1,6 @@
 // HoshiHo - 歌单数据 (多合集汇总)
 // 来源: BV11fQSB2ELX
-// 生成时间: 10/18/2026, 1:37:51 AM
+// 生成时间: 10/18/2026, 2:44:16 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3744,7 +3744,7 @@ window.SONG_DATA.push(
     {
   "title": "創聖のアクエリオン",
   "artist": "AKINO",
-  "collection": "【🌟💐HoshiHo歌切】#7[2026-09-27]VackON回顾＆唱歌聊天",
+  "collection": "【🌟💐HoshiHo歌切】[2026-09-27]VackON回顾＆唱歌聊天",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Puai6REao?p=1",
   "source": "hoshiho.js"
@@ -3752,7 +3752,7 @@ window.SONG_DATA.push(
     {
   "title": "優しい夜明け",
   "artist": "See-Saw",
-  "collection": "【🌟💐HoshiHo歌切】#7[2026-09-27]VackON回顾＆唱歌聊天",
+  "collection": "【🌟💐HoshiHo歌切】[2026-09-27]VackON回顾＆唱歌聊天",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Puai6REao?p=2",
   "source": "hoshiho.js"
@@ -3760,7 +3760,7 @@ window.SONG_DATA.push(
     {
   "title": "君たちキウイ・パパイア・マンゴーだね。",
   "artist": "中原めいこ",
-  "collection": "【🌟💐HoshiHo歌切】#7[2026-09-27]VackON回顾＆唱歌聊天",
+  "collection": "【🌟💐HoshiHo歌切】[2026-09-27]VackON回顾＆唱歌聊天",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Puai6REao?p=3",
   "source": "hoshiho.js"
@@ -3768,7 +3768,7 @@ window.SONG_DATA.push(
     {
   "title": "key to my heart",
   "artist": "倉木麻衣",
-  "collection": "【🌟💐HoshiHo歌切】#7[2026-09-27]VackON回顾＆唱歌聊天",
+  "collection": "【🌟💐HoshiHo歌切】[2026-09-27]VackON回顾＆唱歌聊天",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Puai6REao?p=4",
   "source": "hoshiho.js"
@@ -3776,7 +3776,7 @@ window.SONG_DATA.push(
     {
   "title": "夢であるように",
   "artist": "DEEN",
-  "collection": "【🌟💐HoshiHo歌切】#7[2026-09-27]VackON回顾＆唱歌聊天",
+  "collection": "【🌟💐HoshiHo歌切】[2026-09-27]VackON回顾＆唱歌聊天",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Puai6REao?p=5",
   "source": "hoshiho.js"
@@ -3784,7 +3784,7 @@ window.SONG_DATA.push(
     {
   "title": "夢は終わらない ～こぼれ落ちる時の雫～",
   "artist": "吉田由香里",
-  "collection": "【🌟💐HoshiHo歌切】#7[2026-09-27]VackON回顾＆唱歌聊天",
+  "collection": "【🌟💐HoshiHo歌切】[2026-09-27]VackON回顾＆唱歌聊天",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Puai6REao?p=6",
   "source": "hoshiho.js"
@@ -3792,7 +3792,7 @@ window.SONG_DATA.push(
     {
   "title": "bonny ebony black swan",
   "artist": "love solfege feat.Rose Panna",
-  "collection": "【🌟💐HoshiHo歌切】#7[2026-09-27]VackON回顾＆唱歌聊天",
+  "collection": "【🌟💐HoshiHo歌切】[2026-09-27]VackON回顾＆唱歌聊天",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Puai6REao?p=7",
   "source": "hoshiho.js"
@@ -3800,9 +3800,105 @@ window.SONG_DATA.push(
     {
   "title": "太陽が呼んでいる",
   "artist": "加藤いづみ",
-  "collection": "【🌟💐HoshiHo歌切】#7[2026-09-27]VackON回顾＆唱歌聊天",
+  "collection": "【🌟💐HoshiHo歌切】[2026-09-27]VackON回顾＆唱歌聊天",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Puai6REao?p=8",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "渡月橋 ～君 想ふ～",
+  "artist": "倉木麻衣",
+  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=1",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Time after time ～花舞う街で～",
+  "artist": "倉木麻衣",
+  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=2",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Magia",
+  "artist": "Kalafina",
+  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=3",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=4",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "フライディ・チャイナタウン",
+  "artist": "泰葉",
+  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=5",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "みずいろの雨",
+  "artist": "八神純子",
+  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=6",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "FUTURE SESSION",
+  "artist": "オルケリア",
+  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=7",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "ゼッタイ歌姫宣言ッ！",
+  "artist": "オルケリア",
+  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=8",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "半永久的に愛してよ♡",
+  "artist": "堀江由衣",
+  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=9",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "JOINT",
+  "artist": "川田まみ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=10",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "flying",
+  "artist": "GARNET CROW",
+  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=11",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "夢は終わらない ～こぼれ落ちる時の雫～",
+  "artist": "よーみ",
+  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=12",
   "source": "hoshiho.js"
 }
 );

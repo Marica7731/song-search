@@ -1,6 +1,6 @@
 // よしか YOSHIKA - 歌单数据 (多合集汇总)
 // 来源: BV1p1zBBCEZ3, BV1J3MK6BEfL
-// 生成时间: 10/18/2026, 1:35:19 AM
+// 生成时间: 10/18/2026, 2:39:42 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -42787,6 +42787,206 @@ window.SONG_DATA.push(
   "collection": "【🍠🦍歌切】[2026-10-09]欢迎新观众！万圣节快到了…！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oBpu6mEvM?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=1",
+  "source": "yoshika.js"
+},
+    {
+  "title": "Together",
+  "artist": "あきよしふみえ",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=2",
+  "source": "yoshika.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=3",
+  "source": "yoshika.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=4",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾・茅原実里・後藤邑子",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=5",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=6",
+  "source": "yoshika.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=7",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=8",
+  "source": "yoshika.js"
+},
+    {
+  "title": "departure!",
+  "artist": "小野正利",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=9",
+  "source": "yoshika.js"
+},
+    {
+  "title": "きのこの唄",
+  "artist": "きのこオールスターズ",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=10",
+  "source": "yoshika.js"
+},
+    {
+  "title": "マツケンサンバⅡ",
+  "artist": "松平健",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=11",
+  "source": "yoshika.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=12",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=13",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ハイタッチ！",
+  "artist": "松本梨香 & 豊口めぐみ",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=14",
+  "source": "yoshika.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=15",
+  "source": "yoshika.js"
+},
+    {
+  "title": "恋",
+  "artist": "星野源",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=16",
+  "source": "yoshika.js"
+},
+    {
+  "title": "かつて君を愛した",
+  "artist": "说说Crystal",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=17",
+  "source": "yoshika.js"
+},
+    {
+  "title": "螺旋",
+  "artist": "9Lana",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=18",
+  "source": "yoshika.js"
+},
+    {
+  "title": "HANABI",
+  "artist": "いきものがかり",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=19",
+  "source": "yoshika.js"
+},
+    {
+  "title": "星街の駅で",
+  "artist": "tuki.",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=20",
+  "source": "yoshika.js"
+},
+    {
+  "title": "SAKURAスキップ",
+  "artist": "fourfolium",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=21",
+  "source": "yoshika.js"
+},
+    {
+  "title": "ヒトリゴト",
+  "artist": "ClariS",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=22",
+  "source": "yoshika.js"
+},
+    {
+  "title": "絶世美人",
+  "artist": "絶望少女達",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=23",
+  "source": "yoshika.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=24",
+  "source": "yoshika.js"
+},
+    {
+  "title": "かくれんぼ",
+  "artist": "AliA",
+  "collection": "【🍠🦍歌切】[2026-10-17]热烈欢迎新观众！至少听一首再走吧～！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cEmX?p=25",
   "source": "yoshika.js"
 }
 );

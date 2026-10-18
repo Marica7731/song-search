@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 10/18/2026, 1:29:44 AM
+// 生成时间: 10/18/2026, 2:32:50 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -37187,6 +37187,262 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-10-11]助眠歌回✨睡前来听吧🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vxpH65Eoj?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "喜劇",
+  "artist": "星野源",
+  "collection": "【💐歌切】[2026-10-17]比平时更早开始的助眠歌回🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE6S?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "たぶん",
+  "artist": "YOASOBI",
+  "collection": "【💐歌切】[2026-10-17]比平时更早开始的助眠歌回🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE6S?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "たしかなこと",
+  "artist": "小田和正",
+  "collection": "【💐歌切】[2026-10-17]比平时更早开始的助眠歌回🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE6S?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "One Last Kiss",
+  "artist": "宇多田ヒカル",
+  "collection": "【💐歌切】[2026-10-17]比平时更早开始的助眠歌回🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE6S?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "Fly Me to the Moon",
+  "artist": "Frank Sinatra",
+  "collection": "【💐歌切】[2026-10-17]比平时更早开始的助眠歌回🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE6S?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "アイノカタチ",
+  "artist": "MISIA feat. HIDE(GReeeeN)",
+  "collection": "【💐歌切】[2026-10-17]比平时更早开始的助眠歌回🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE6S?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "Starduster",
+  "artist": "ジミーサムP feat.初音ミク",
+  "collection": "【💐歌切】[2026-10-17]比平时更早开始的助眠歌回🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE6S?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【💐歌切】[2026-10-17]比平时更早开始的助眠歌回🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE6S?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "【💐歌切】[2026-10-17]比平时更早开始的助眠歌回🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE6S?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "Stellar Stellar",
+  "artist": "星街すいせい",
+  "collection": "【💐歌切】[2026-10-17]比平时更早开始的助眠歌回🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE6S?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【💐歌切】[2026-10-17]比平时更早开始的助眠歌回🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE6S?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "メリクリ",
+  "artist": "BoA",
+  "collection": "【💐歌切】[2026-10-17]比平时更早开始的助眠歌回🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE6S?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "【💐歌切】[2026-10-17]比平时更早开始的助眠歌回🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE6S?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "ガーネット",
+  "artist": "奥華子",
+  "collection": "【💐歌切】[2026-10-17]比平时更早开始的助眠歌回🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE6S?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "眩暈",
+  "artist": "鬼束ちひろ",
+  "collection": "【💐歌切】[2026-10-17]比平时更早开始的助眠歌回🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13gnM6cE6S?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "ありあまる富",
+  "artist": "椎名林檎",
+  "collection": "【💐歌切】[2026-10-15]让我唱歌转换一下心情吧——！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cE7w?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-10-15]让我唱歌转换一下心情吧——！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cE7w?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "シュノーケル",
+  "artist": "文藝天国",
+  "collection": "【💐歌切】[2026-10-15]让我唱歌转换一下心情吧——！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cE7w?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "【💐歌切】[2026-10-15]让我唱歌转换一下心情吧——！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cE7w?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "尾崎豊",
+  "collection": "【💐歌切】[2026-10-15]让我唱歌转换一下心情吧——！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cE7w?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "きみのかみ",
+  "artist": "澤田空海理",
+  "collection": "【💐歌切】[2026-10-15]让我唱歌转换一下心情吧——！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cE7w?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "裸の心",
+  "artist": "あいみょん",
+  "collection": "【💐歌切】[2026-10-15]让我唱歌转换一下心情吧——！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cE7w?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "最愛",
+  "artist": "KOH+",
+  "collection": "【💐歌切】[2026-10-15]让我唱歌转换一下心情吧——！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cE7w?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【💐歌切】[2026-10-15]让我唱歌转换一下心情吧——！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cE7w?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "【💐歌切】[2026-10-15]让我唱歌转换一下心情吧——！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cE7w?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "【💐歌切】[2026-10-15]让我唱歌转换一下心情吧——！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cE7w?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "チノカテ",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-10-15]让我唱歌转换一下心情吧——！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cE7w?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "おだやかな暮らし",
+  "artist": "おおはた雄一",
+  "collection": "【💐歌切】[2026-10-15]让我唱歌转换一下心情吧——！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cE7w?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "家族の風景",
+  "artist": "ハナレグミ",
+  "collection": "【💐歌切】[2026-10-15]让我唱歌转换一下心情吧——！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cE7w?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "さくら(独唱)",
+  "artist": "森山直太朗",
+  "collection": "【💐歌切】[2026-10-15]让我唱歌转换一下心情吧——！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cE7w?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "Alice",
+  "artist": "古川本舗 feat.初音ミク",
+  "collection": "【💐歌切】[2026-10-15]让我唱歌转换一下心情吧——！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cE7w?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "パレード",
+  "artist": "ヨルシカ",
+  "collection": "【💐歌切】[2026-10-15]让我唱歌转换一下心情吧——！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cE7w?p=17",
   "source": "figaro.js"
 }
 );

@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 10/18/2026, 2:00:40 AM
+// 生成时间: 10/18/2026, 3:10:11 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2307,6 +2307,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-12]有首次演唱的歌曲！短时间歌回",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1j1po6EEEH?p=8",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Shake & Shake",
+  "artist": "sumika",
+  "collection": "【歌切】[2026-10-16]周五晚上果然还是想唱歌～～～！来唱动漫歌曲！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cEtw?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Honto",
+  "artist": "sumika",
+  "collection": "【歌切】[2026-10-16]周五晚上果然还是想唱歌～～～！来唱动漫歌曲！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cEtw?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "CLICK",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-10-16]周五晚上果然还是想唱歌～～～！来唱动漫歌曲！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cEtw?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "staple stable",
+  "artist": "戦場ヶ原ひたぎ(CV.斎藤千和)",
+  "collection": "【歌切】[2026-10-16]周五晚上果然还是想唱歌～～～！来唱动漫歌曲！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cEtw?p=4",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "リテラチュア",
+  "artist": "上田麗奈",
+  "collection": "【歌切】[2026-10-16]周五晚上果然还是想唱歌～～～！来唱动漫歌曲！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cEtw?p=5",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ないない",
+  "artist": "ReoNa",
+  "collection": "【歌切】[2026-10-16]周五晚上果然还是想唱歌～～～！来唱动漫歌曲！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cEtw?p=6",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "シャル・ウィ・ダンス？",
+  "artist": "ReoNa",
+  "collection": "【歌切】[2026-10-16]周五晚上果然还是想唱歌～～～！来唱动漫歌曲！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cEtw?p=7",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-16]周五晚上果然还是想唱歌～～～！来唱动漫歌曲！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cEtw?p=8",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-16]周五晚上果然还是想唱歌～～～！来唱动漫歌曲！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cEtw?p=9",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-10-16]周五晚上果然还是想唱歌～～～！来唱动漫歌曲！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cEtw?p=10",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "PERSONAL",
+  "artist": "上戸彩",
+  "collection": "【歌切】[2026-10-16]周五晚上果然还是想唱歌～～～！来唱动漫歌曲！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cEtw?p=11",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "黒毛和牛上塩タン焼680円",
+  "artist": "大塚愛",
+  "collection": "【歌切】[2026-10-16]周五晚上果然还是想唱歌～～～！来唱动漫歌曲！！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1agnM6cEtw?p=12",
   "source": "kanaruhanon.js"
 }
 );
