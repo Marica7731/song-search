@@ -4,9 +4,9 @@
 
 ## 文件
 
-- `v-slice-browser-dispatch.sh`：先查询 main 分支的 `update.yml`；若有排队或运行中的 run，则记录 `skipped_active_run` 并跳过，否则发送一次完整 `workflow_dispatch`。
+- `v-slice-browser-dispatch.sh`：每次 service 触发都发送一次完整 `workflow_dispatch`，不查询或跳过已有的排队/运行中任务。
 - `v-slice-browser-dispatch.service`：带 `flock` 和 60 秒超时的 oneshot 服务。
-- `v-slice-browser-dispatch.timer`：每 10 分钟检查一次；不会取消或重叠启动完整更新。
+- `v-slice-browser-dispatch.timer`：每 10 分钟触发一次分发；不会取消已经启动的任务。
 
 ## 服务器路径
 
@@ -25,9 +25,9 @@ Token 只能通过 SSH 加密流单独迁移，文件权限必须是 `0600 root:
 
 1. 发布前在仓库运行 `bash deploy/wdc/v-slice-browser-dispatch.test.sh`。
 2. 在 WDC 安装脚本、service 和 timer，再执行 `bash -n` 与 `systemd-analyze verify`。
-3. 迁入 Token 后手动启动一次 service；无活动 run 时状态应为 `ok` 且 GitHub 出现一个新 run。
-4. 在该 run 仍活动时再次启动 service，应为 `skipped_active_run`，状态 JSON 指出活动 run ID，且不产生新 run、不取消原 run。
+3. 迁入 Token 后手动启动一次 service；状态应为 `ok` 且 GitHub 出现一个新 run。
+4. 在该 run 仍活动时再次启动 service，状态仍应为 `ok`，并额外产生一个新 run；原 run 继续运行。
 5. 以上验证通过后才启用 timer，并停用其他分发器。
-6. 用 `systemctl list-timers`、状态 JSON 和 GitHub run 列表验收：忙时每个 10 分钟 tick 都跳过，空闲后下一 tick 派发一轮；只看到 HTTP 204 不算完整验证。
+6. 用 `systemctl list-timers`、状态 JSON 和 GitHub run 列表验收：忙时每个 10 分钟 tick 也产生一个新 run；只看到 HTTP 204 不算完整验证。
 
 本分发器保留仓库 slug `song-search`，以维持现有 GitHub Pages 地址。仓库中文标识通过 GitHub description 维护为“v切片仓库 模拟浏览器版”。

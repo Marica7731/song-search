@@ -6,7 +6,7 @@
 
 - 本仓库 `Marica7731/song-search` 是“v切片仓库 模拟浏览器版”，`main` 同时承载 GitHub Pages 页面和 GitHub Actions 生成的数据。
 - 新站接口版位于独立私有仓库，不要在本仓库混入其服务端代码、部署文件、数据库或运行态数据。
-- WDC 只通过 `deploy/wdc/` 中的 systemd 分发器每 10 分钟检查并触发一次 `update.yml`；如果 main 分支已有排队或运行中的更新，记录 `skipped_active_run` 并跳过本轮，不取消已有任务。不要在 WDC 克隆老站或运行 Puppeteer。
+- WDC 只通过 `deploy/wdc/` 中的 systemd 分发器每 10 分钟触发一次 `update.yml`；即使 main 分支已有排队或运行中的更新，也照常派发，不取消已有任务。每个 Actions run 使用独立 runner；数据提交通过 workflow 的起始 commit 比较和非快进推送检查避免覆盖较新的 main。不要在 WDC 克隆老站或运行 Puppeteer。
 
 ## 修改边界
 
@@ -50,5 +50,5 @@ git diff --check
 
 - 只暂存本次任务相关文件，使用清晰的中文 commit message；不得覆盖或清理用户的无关改动。
 - 直接推送 `main` 前由 `update.yml` 检查远端 HEAD；如果抓取期间 `main` 已前进，本轮跳过过期生成结果并以成功结束，下一轮基于最新提交重跑。不要另建周期调度。
-- 数据更新由 WDC 每 10 分钟检查一次；仅在 main 分支没有排队或运行中的更新时发送 `workflow_dispatch`。活动 run 不会被取消，重复触发会安全跳过，避免多个完整抓取长期重叠。
+- 数据更新由 WDC 每 10 分钟发送一次 `workflow_dispatch`，不因已有活动 run 而跳过或取消任务。并行 run 各自在独立 runner 抓取；推送前的起始 commit 检查与非快进保护避免旧结果覆盖较新的 main。
 - 发布完成需要同时检查目标 Action、远端 `main`、GitHub Pages HTTP 状态和实际页面数据。只看到本地测试通过或分发接口 HTTP 204 不算上线完成。

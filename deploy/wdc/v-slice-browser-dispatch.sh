@@ -8,7 +8,6 @@ CURL_BIN="${CURL_BIN:-/usr/bin/curl}"
 REPOSITORY="Marica7731/song-search"
 WORKFLOW="update.yml"
 DISPATCH_URL="https://api.github.com/repos/${REPOSITORY}/actions/workflows/${WORKFLOW}/dispatches"
-RUNS_URL="https://api.github.com/repos/${REPOSITORY}/actions/workflows/${WORKFLOW}/runs?branch=main&per_page=100"
 
 write_status() {
   local state="$1"
@@ -54,55 +53,8 @@ if [[ -z "$TOKEN" ]]; then
   exit 11
 fi
 
-activity_file="$(/usr/bin/mktemp)"
 dispatch_file="$(/usr/bin/mktemp)"
-trap '/usr/bin/rm -f "$activity_file" "$dispatch_file"' EXIT
-
-if ! activity_code="$("$CURL_BIN" -sS --connect-timeout 10 --max-time 20 \
-  -o "$activity_file" -w '%{http_code}' \
-  -H 'Accept: application/vnd.github+json' \
-  -H "Authorization: Bearer ${TOKEN}" \
-  -H 'X-GitHub-Api-Version: 2022-11-28' \
-  "$RUNS_URL")"; then
-  write_status "activity_check_error" "workflow activity check request failed" "000"
-  exit 22
-fi
-
-if [[ "$activity_code" != "200" ]]; then
-  write_status "activity_check_error" "workflow activity check failed" "$activity_code"
-  exit 22
-fi
-
-if ! active_run="$(
-  /usr/bin/python3 - "$activity_file" 2>/dev/null <<'PY'
-import json
-import sys
-
-with open(sys.argv[1], encoding="utf-8") as handle:
-    payload = json.load(handle)
-runs = payload.get("workflow_runs") if isinstance(payload, dict) else None
-if not isinstance(runs, list):
-    raise SystemExit(2)
-
-active_statuses = {"queued", "in_progress", "waiting", "requested", "pending"}
-for run in runs:
-    if run.get("head_branch") != "main":
-        continue
-    status = run.get("status")
-    if status in active_statuses:
-        print(f"{run.get('id', 'unknown')} {status}")
-        break
-PY
-)"; then
-  write_status "activity_check_error" "workflow activity response was invalid" "$activity_code"
-  exit 22
-fi
-
-if [[ -n "$active_run" ]]; then
-  read -r active_run_id active_run_status <<< "$active_run"
-  write_status "skipped_active_run" "run ${active_run_id} is ${active_run_status}; dispatch skipped" "$activity_code"
-  exit 0
-fi
+trap '/usr/bin/rm -f "$dispatch_file"' EXIT
 
 if ! dispatch_code="$("$CURL_BIN" -sS --connect-timeout 10 --max-time 30 \
   -o "$dispatch_file" -w '%{http_code}' -X POST \

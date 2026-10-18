@@ -6,6 +6,7 @@ on:
 permissions:
   contents: write # 赋予提交代码权限
 
+# Do not add a concurrency group: every 10-minute WDC dispatch starts a run.
 jobs:
   update:
     runs-on: ubuntu-latest
