@@ -64,7 +64,7 @@
 ### 2) GitHub Actions 自动更新
 - 工作流：`.github/workflows/update.yml`
 - 触发：
-  - WDC 每 10 分钟触发一次完整更新，不等待上一轮结束
+  - WDC 每 10 分钟检查一次；如果 main 上已有排队或运行中的更新，本轮只记为 `skipped_active_run`，不再派发新任务
   - 手动 `workflow_dispatch`
 - 行为：
   - 通过 Actions cache 恢复 `reports/github-bv-sampling-state.json`
@@ -72,9 +72,8 @@
   - 运行 `scripts/update-songs.js`
   - 如果全部来源都刷新失败则直接失败，保留旧数据并暴露真实 Action 状态
   - 只检查 `data/*.js` 和 `data/index.json` 是否有变更
-  - 更新工作流不设置并发组，每次分发都会完整扫描全部来源；多轮可以重叠
   - 自动提交 `data/*.js data/index.json` 到 `main`；如果抓取期间远端 `main` 已前进，则跳过过期生成结果并以成功结束，下一轮基于最新提交重跑
-  - 重叠轮次在可确认的过期或并发写入冲突时跳过写入并成功收敛；如果只有探针状态变化，不触发主分支提交
+  - 分发器发现排队或运行中的更新时跳过本轮，不取消现有任务，避免重复启动完整来源扫描
 
 ## 本地运行
 
@@ -146,7 +145,7 @@ song-search/
 │  ├─ check-title-cleaning.js  # 标题清洗回归检查
 │  └─ source-profiles.json     # 来源头像与频道覆盖配置
 ├─ .gitignore                  # 忽略抽样状态文件
-├─ deploy/wdc/                 # WDC 每 10 分钟分发器模板
+├─ deploy/wdc/                 # WDC 每 10 分钟检查并分发的模板
 └─ .github/workflows/
    ├─ update.yml               # 歌曲数据更新工作流
    └─ song-growth.yml          # 歌曲总量日报工作流
@@ -158,7 +157,7 @@ song-search/
 - 页面功能修改对应的 HTML 或共享 JS；生成数据不要直接手改。
 - 涉及来源时先使用 `UPDATE_SONGS_ONLY` 做定向抓取，核对歌曲数量、分 P 范围和首尾链接，再运行完整更新。
 - 推送前执行语法检查、Node 回归测试、分发器测试、标题清洗检查和 `git diff --check`，并通过本地 HTTP 服务检查相关页面。
-- `main` 由 GitHub Pages 直接发布。歌曲数据由 WDC 每 10 分钟触发一次完整更新，总量日报由 `song-growth.yml` 维护；并发抓取允许重叠，过期结果或可确认的主分支写入冲突会跳过写入并成功结束。
+- `main` 由 GitHub Pages 直接发布。歌曲数据由 WDC 每 10 分钟检查并在没有活动更新时触发，总量日报由 `song-growth.yml` 维护。
 - WDC 不托管本仓库和 Puppeteer，只保存分发器。分发器部署与验证方法见 [`deploy/wdc/README.md`](./deploy/wdc/README.md)。
 - 发布验收同时检查 Action 结果、远端提交和线上页面；仅本地测试通过不代表已经上线。
 

@@ -224,7 +224,13 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1PE7J6CESH"], file: "otowarara", alias: "音羽ララ" },
     { bvids: ["BV1MAjT6GEF7"], file: "yuni", alias: "YuNi" },
     { bvids: ["BV1iXKY6qEKv"], file: "peruciaten", alias: "ぺるしあ・てん" },
-    { bvids: ["BV1aiaS6CEPE"], file: "shiyu", alias: "しゆ。" },
+    {
+        bvids: ["BV1aiaS6CEPE"],
+        file: "shiyu",
+        alias: "しゆ。",
+        minimumCollectionBvids: 3,
+        probeCount: 15
+    },
     {
         bvids: ["BV1VPH26kESs"],
         directBvids: ["BV1AzJ66qEjR"],

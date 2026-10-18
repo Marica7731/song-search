@@ -6,7 +6,7 @@
 
 - 本仓库 `Marica7731/song-search` 是“v切片仓库 模拟浏览器版”，`main` 同时承载 GitHub Pages 页面和 GitHub Actions 生成的数据。
 - 新站接口版位于独立私有仓库，不要在本仓库混入其服务端代码、部署文件、数据库或运行态数据。
-- WDC 只通过 `deploy/wdc/` 中的 systemd 分发器每 10 分钟触发一次 `update.yml`；不要在 WDC 克隆老站或运行 Puppeteer。
+- WDC 只通过 `deploy/wdc/` 中的 systemd 分发器每 10 分钟检查并触发一次 `update.yml`；如果 main 分支已有排队或运行中的更新，记录 `skipped_active_run` 并跳过本轮，不取消已有任务。不要在 WDC 克隆老站或运行 Puppeteer。
 
 ## 修改边界
 
@@ -19,7 +19,7 @@
 
 - 新增或修正来源时，核对 BVID、分 P 总数、首尾页标题、来源账号和视频可访问性；第三方转载不得写成官方来源。
 - 普通多 P 视频只有在合集 DOM 不适用且 view API 页数完整时，才使用 `rawDataLoader: "bili-view-api"`。
-- 合集规模按完整元数据中的独立 BVID 计数：少于 15 个时不启动候选页面探针；达到 15 个后只探针稿件播放量最低的 3 个 BVID，不做随机或失败补位。
+- 合集规模按完整元数据中的独立 BVID 计数：少于 15 个时默认不启动候选页面探针；确认完整的小合集可在来源配置中设置 `minimumCollectionBvids` 和 `probeCount`，不降低全局默认值。普通合集达到 15 个后只探针稿件播放量最低的 3 个 BVID，不做随机或失败补位。
 - 单个入口失败时必须保留该来源旧文件，不能用部分结果覆盖完整来源；候选必须覆盖旧文件全部 `BV + 分P` 身份，异常大幅减少也必须经过 `update-songs-guard.js` 门禁。
 - `ALLOW_SOURCE_SHRINK=1` 只允许人工确认删除旧身份后的本地单次运行使用，GitHub workflow 不得设置该变量。
 - B 站 view API 请求不得重新加入会触发 HTTP 412 的伪浏览器 `User-Agent`；本轮 `0/N` 来源成功时必须以失败退出，不能只因旧文件得到保留就把 Action 标成成功。
@@ -50,5 +50,5 @@ git diff --check
 
 - 只暂存本次任务相关文件，使用清晰的中文 commit message；不得覆盖或清理用户的无关改动。
 - 直接推送 `main` 前由 `update.yml` 检查远端 HEAD；如果抓取期间 `main` 已前进，本轮跳过过期生成结果并以成功结束，下一轮基于最新提交重跑。不要另建周期调度。
-- 数据更新由 WDC 每 10 分钟触发一次完整 `workflow_dispatch`；允许抓取任务重叠，过期结果和可确认的并发写入冲突都跳过写入并成功收敛，真实网络、权限或脚本错误仍须失败。
+- 数据更新由 WDC 每 10 分钟检查一次；仅在 main 分支没有排队或运行中的更新时发送 `workflow_dispatch`。活动 run 不会被取消，重复触发会安全跳过，避免多个完整抓取长期重叠。
 - 发布完成需要同时检查目标 Action、远端 `main`、GitHub Pages HTTP 状态和实际页面数据。只看到本地测试通过或分发接口 HTTP 204 不算上线完成。
