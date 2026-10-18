@@ -1,11 +1,22 @@
 'use strict';
 
-const DEFAULT_MIN_COLLECTION_BVIDS = 15;
+const DEFAULT_MIN_COLLECTION_BVIDS = 1;
 const DEFAULT_PROBE_COUNT = 3;
+const FULL_SCAN_BELOW_BVIDS = 15;
 const BV_REGEX = /BV[0-9a-zA-Z]+/;
 
 function normalizeBvid(value) {
     return String(value || '').match(BV_REGEX)?.[0] || '';
+}
+
+function getProbeCountForCollection(collectionSize, configuredProbeCount) {
+    if (!Number.isInteger(collectionSize) || collectionSize < 0) {
+        throw new Error('collectionSize 必须是非负整数');
+    }
+    if (configuredProbeCount !== undefined) return configuredProbeCount;
+    return collectionSize < FULL_SCAN_BELOW_BVIDS
+        ? Math.max(1, collectionSize)
+        : DEFAULT_PROBE_COUNT;
 }
 
 function selectLowestViewCandidates(candidates, options = {}) {
@@ -66,5 +77,7 @@ function selectLowestViewCandidates(candidates, options = {}) {
 module.exports = {
     DEFAULT_MIN_COLLECTION_BVIDS,
     DEFAULT_PROBE_COUNT,
+    FULL_SCAN_BELOW_BVIDS,
+    getProbeCountForCollection,
     selectLowestViewCandidates
 };

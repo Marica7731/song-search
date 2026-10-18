@@ -44,8 +44,8 @@
 - 配置源：脚本内 `SINGER_CONFIGS`（BV 列表、文件名、别名）
 - 头像源：`scripts/source-profiles.json`（按来源文件名补充头像、YouTube 频道、首字和颜色）
 - GitHub 侧先读取入口稿件的完整合集元数据，跨全部 section 按独立 BVID 计数；不使用页面虚拟列表的可见条数判断合集规模。
-- 合集少于 15 个独立 BVID 时只检查规模，不启动候选页面探针，也不覆盖该来源旧文件。达到 15 个后，固定选择稿件播放量最低的 3 个 BVID 抓取 DOM。
-- 已确认候选列表完整的小合集可按来源设置 `minimumCollectionBvids` 和 `probeCount`；探针数表示最多扫描数，候选少于该数时扫描全部。全局默认仍是 15 个候选和 3 个探针。
+- 非空合集都会参与刷新：少于 15 个独立 BVID 时抓取全部候选；达到 15 个后，默认选择稿件播放量最低的 3 个 BVID。当前来源中旧文件已有身份的 BVID 仍会按完整性逻辑补抓。
+- 单来源可按实际情况设置 `minimumCollectionBvids` 和 `probeCount`；探针数表示最多扫描数，候选少于该数时扫描全部。空合集仍然失败，不会覆盖旧文件。
 - 每个配置入口 BV 都会精确收录；只有当 winner 和其它已运行探针仍缺少旧数据中属于当前合集的 BV+分P 时，才自动补抓这些 BV。这样保留最低播放量探针和单一 winner 规则，也不会为已覆盖的旧身份重复请求。
 - `directBvids` 仍可为来源指定额外必须直取的 BV；这些视频的全部分 P 会与探针赢家合并，适用于入口以外的明确补充项。直取失败会阻止覆盖该来源旧文件。
 - 选中的探针都会执行，不随机补位或回退其他 BVID；成功结果仍按解析歌曲数择优，并继续经过来源完整性门禁。
@@ -137,7 +137,7 @@ song-search/
 │  ├─ update-songs.js          # 数据抓取与生成脚本
 │  ├─ bilibili-page-api.js      # view API 分 P 与合集稿件元数据适配器
 │  ├─ bilibili-page-api.test.js # view API 适配器回归测试
-│  ├─ bvid-probe-selection.js  # 15-BVID 门槛和最低播放量选择
+│  ├─ bvid-probe-selection.js  # 小合集全量探测和最低播放量抽样
 │  ├─ bvid-probe-selection.test.js # 候选选择回归测试
 │  ├─ update-songs-guard.js    # 来源完整性和异常回退门禁
 │  ├─ update-songs-guard.test.js # 门禁回归测试

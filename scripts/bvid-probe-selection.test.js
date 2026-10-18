@@ -5,6 +5,8 @@ const assert = require('node:assert/strict');
 const {
     DEFAULT_MIN_COLLECTION_BVIDS,
     DEFAULT_PROBE_COUNT,
+    FULL_SCAN_BELOW_BVIDS,
+    getProbeCountForCollection,
     selectLowestViewCandidates
 } = require('./bvid-probe-selection');
 
@@ -15,11 +17,33 @@ function makeCandidates(count) {
     }));
 }
 
-test('does not select probes when a collection has fewer than 15 unique BVIDs', () => {
-    const result = selectLowestViewCandidates(makeCandidates(14));
+test('scans every BVID in a non-empty collection smaller than 15', () => {
+    const candidates = makeCandidates(14);
+    const result = selectLowestViewCandidates(candidates, {
+        minimumCollectionSize: DEFAULT_MIN_COLLECTION_BVIDS,
+        probeCount: getProbeCountForCollection(candidates.length)
+    });
 
-    assert.equal(DEFAULT_MIN_COLLECTION_BVIDS, 15);
-    assert.deepEqual(result, { eligible: false, total: 14, selected: [] });
+    assert.equal(DEFAULT_MIN_COLLECTION_BVIDS, 1);
+    assert.equal(FULL_SCAN_BELOW_BVIDS, 15);
+    assert.equal(result.eligible, true);
+    assert.equal(result.total, 14);
+    assert.equal(result.selected.length, 14);
+});
+
+test('keeps the three-lowest-view sample for collections with at least 15 BVIDs', () => {
+    assert.equal(getProbeCountForCollection(15), DEFAULT_PROBE_COUNT);
+    assert.equal(getProbeCountForCollection(100), DEFAULT_PROBE_COUNT);
+});
+
+test('keeps empty collections ineligible and honors explicit probe counts', () => {
+    const result = selectLowestViewCandidates([], {
+        minimumCollectionSize: DEFAULT_MIN_COLLECTION_BVIDS,
+        probeCount: getProbeCountForCollection(0)
+    });
+
+    assert.deepEqual(result, { eligible: false, total: 0, selected: [] });
+    assert.equal(getProbeCountForCollection(4, 2), 2);
 });
 
 test('selects exactly the three manuscripts with the lowest view counts at 15 BVIDs', () => {
@@ -53,13 +77,19 @@ test('allows a verified small collection to probe every available BVID', () => {
     assert.deepEqual(result.selected, [...candidates].reverse());
 });
 
-test('counts duplicate BVIDs once before applying the 15-BVID threshold', () => {
+test('counts duplicate BVIDs once when selecting small-collection probes', () => {
     const candidates = makeCandidates(14);
     candidates.push({ ...candidates[0] });
 
-    const result = selectLowestViewCandidates(candidates);
+    const uniqueCount = new Set(candidates.map(candidate => candidate.bvid)).size;
+    const result = selectLowestViewCandidates(candidates, {
+        minimumCollectionSize: DEFAULT_MIN_COLLECTION_BVIDS,
+        probeCount: getProbeCountForCollection(uniqueCount)
+    });
 
-    assert.deepEqual(result, { eligible: false, total: 14, selected: [] });
+    assert.equal(result.eligible, true);
+    assert.equal(result.total, 14);
+    assert.equal(result.selected.length, 14);
 });
 
 test('fails closed when an eligible collection is missing a manuscript view count', () => {

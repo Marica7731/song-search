@@ -17,6 +17,7 @@ const { loadBiliCollectionCandidates, loadBiliPageList } = require('./bilibili-p
 const {
     DEFAULT_MIN_COLLECTION_BVIDS,
     DEFAULT_PROBE_COUNT,
+    getProbeCountForCollection,
     selectLowestViewCandidates
 } = require('./bvid-probe-selection');
 
@@ -228,7 +229,6 @@ const SINGER_CONFIGS = [
         bvids: ["BV1aiaS6CEPE"],
         file: "shiyu",
         alias: "しゆ。",
-        minimumCollectionBvids: 3,
         probeCount: 15
     },
     {
@@ -237,7 +237,6 @@ const SINGER_CONFIGS = [
         file: "natsumeikune",
         alias: "なつかしちゃん",
         rawDataLoader: "bili-view-api",
-        minimumCollectionBvids: 3,
         probeCount: 15
     },
     {
@@ -245,7 +244,6 @@ const SINGER_CONFIGS = [
         file: "yadokaridolly",
         alias: "ヤドカリのドリィ",
         rawDataLoader: "bili-view-api",
-        minimumCollectionBvids: 3,
         probeCount: 15
     }
 ];
@@ -519,9 +517,10 @@ async function processEntryBvid(
     const minimumCollectionSize = Number.isInteger(config.minimumCollectionBvids)
         ? config.minimumCollectionBvids
         : MIN_COLLECTION_BVIDS;
-    const requestedProbeCount = Number.isInteger(config.probeCount)
-        ? config.probeCount
-        : SAMPLE_SIZE;
+    const requestedProbeCount = getProbeCountForCollection(
+        collectionCandidates.length,
+        Number.isInteger(config.probeCount) ? config.probeCount : undefined
+    );
     const probeCount = Math.min(requestedProbeCount, collectionCandidates.length);
     const selection = selectLowestViewCandidates(collectionCandidates, {
         minimumCollectionSize,
@@ -849,8 +848,8 @@ async function main() {
         console.log(`   🔎 仅处理来源: ${SOURCE_FILTER.join(', ')}`);
     }
     console.log(
-        `   📉 默认合集门槛为 ${MIN_COLLECTION_BVIDS} 个独立 BVID，` +
-        `默认探测播放量最低的 ${SAMPLE_SIZE} 个；单来源可按配置调整`
+        `   📉 非空合集均参与刷新；少于 15 个独立 BVID 时探测全部，` +
+        `达到 15 个后默认探测播放量最低的 ${SAMPLE_SIZE} 个；单来源可按配置调整`
     );
 
     let successCount = 0;
