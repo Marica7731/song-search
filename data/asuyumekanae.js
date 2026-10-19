@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 10/18/2026, 1:24:37 AM
+// 生成时间: 10/19/2026, 1:25:03 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12371,6 +12371,598 @@ window.SONG_DATA.push(
   "collection": "【明日夢🎸弾き語り歌切】[2026-10-12]助眠弹唱电台",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Z1po67EPq?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "魔法",
+  "artist": "tayori",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "棗",
+  "artist": "saji",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ツキヨミ",
+  "artist": "saji",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花がら",
+  "artist": "tayori",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "春を待つ",
+  "artist": "Islet",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ダンス・ダンス・ダダ",
+  "artist": "MAISONdes feat. EMA・たなか",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "The Everlasting Guilty Crown",
+  "artist": "EGOIST",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ヒーロー",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "星が瞬くこんな夜に",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "LOVE&ROLL",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "終わりへ向かう始まりの歌",
+  "artist": "Supercell",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ブルーベリー・ナイツ",
+  "artist": "マカロニえんぴつ",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ANIMA",
+  "artist": "ReoNa",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "TAIDADA",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "嘘じゃない",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "形",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "生まれてはじめて",
+  "artist": "神田沙也加・松たか子",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "雪だるまつくろう",
+  "artist": "神田沙也加・稲葉菜月・諸星すみれ",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "朝の風景 (日本語バージョン)",
+  "artist": "伊東恵里",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "スピーチレス〜心の声",
+  "artist": "木下晴香",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=21",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ホール・ニュー・ワールド",
+  "artist": "中村倫也×木下晴香",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=22",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "自由への扉",
+  "artist": "小此木麻里",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=23",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "輝く未来",
+  "artist": "小此木麻里・畠中洋",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=24",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "U",
+  "artist": "millennium parade × Belle",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=25",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "歌よ",
+  "artist": "Belle",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=26",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "最強の推し！",
+  "artist": "鈴木愛理",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=27",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Deal with the devil",
+  "artist": "Tia",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=28",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Heart Goes Boom!!",
+  "artist": "日笠陽子",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=29",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "青空のラプソディ",
+  "artist": "Fhána",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=30",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "虹を編めたら",
+  "artist": "Fhána",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=31",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "優しさの理由",
+  "artist": "ChouCho",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=32",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【歌切】[2026-04-09]うたれんだー！！ 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEDtBrE24?p=33",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ray (超かぐや姫！ Version)",
+  "artist": "かぐや『cv.夏吉ゆうこ』&早見沙織",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra、月見ヤチヨ『cv.早見沙織』",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Ex-Otogibanashi",
+  "artist": "ryo(supercell)&かぐや『cv.夏吉ゆうこ』&早見沙織",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "瞬間、シンフォニー。",
+  "artist": "40mP、かぐや『cv.夏吉ゆうこ』",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Reply",
+  "artist": "かぐや『cv.夏吉ゆうこ』",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "フィクション",
+  "artist": "sumika",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Lovers",
+  "artist": "sumika",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "NEW KAWAII",
+  "artist": "FRUITS ZIPPER",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "わたしの一番かわいいところ",
+  "artist": "FRUITS ZIPPER",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Z伝説〜終わりなき革命〜",
+  "artist": "ももいろクローバーZ",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "サラバ、愛しき悲しみたちよ",
+  "artist": "ももいろクローバーZ",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "大声ダイヤモンド",
+  "artist": "AKB48",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "恋愛レボリューション21",
+  "artist": "モーニング娘",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "桃色片想い",
+  "artist": "松浦亜弥",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "不協和音",
+  "artist": "欅坂46",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "シンクロニシティ",
+  "artist": "乃木坂46",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "もっと",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Aitai",
+  "artist": "加藤ミリヤ",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "chAngE",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=21",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ムーンライト伝説",
+  "artist": "DALI",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=22",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=23",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "オドループ",
+  "artist": "フレデリック",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=24",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "君と夏フェス",
+  "artist": "SHISHAMO",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=25",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ないものねだり",
+  "artist": "KANA-BOON",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=26",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "狂乱 Hey Kids!!",
+  "artist": "THE ORAL CIGARETTES",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=27",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "Survivor",
+  "artist": "BLUE ENCOUNT",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=28",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ワタリドリ",
+  "artist": "[Alexandros]",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=29",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "サムライハート",
+  "artist": "SPYAIR",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=30",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=31",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "可愛くてごめん",
+  "artist": "HoneyWorks",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=32",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子(花澤香菜)",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=33",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=34",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=35",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=36",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=37",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=38",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "フリージア",
+  "artist": "Uru",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=39",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=40",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【歌切】[2026-04-17]深夜歌回练习开始 明日夢かなえ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UAdsBXE32?p=41",
   "source": "asuyumekanae.js"
 }
 );
