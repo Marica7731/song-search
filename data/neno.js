@@ -1,6 +1,6 @@
 // 碧生ねの - 歌单数据 (多合集汇总)
 // 来源: BV1S4TT6pEn4
-// 生成时间: 10/19/2026, 2:42:34 AM
+// 生成时间: 10/19/2026, 5:13:03 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2051,6 +2051,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-11]深夜悠闲的后夜祭歌回🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jcpp6nEy1?p=10",
+  "source": "neno.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-10-19]悠闲的早晨歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ffnE6TEFo?p=1",
+  "source": "neno.js"
+},
+    {
+  "title": "天使にふれたよ！",
+  "artist": "放課後ティータイム",
+  "collection": "【歌切】[2026-10-19]悠闲的早晨歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ffnE6TEFo?p=2",
+  "source": "neno.js"
+},
+    {
+  "title": "空に歌えば",
+  "artist": "amazarashi",
+  "collection": "【歌切】[2026-10-19]悠闲的早晨歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ffnE6TEFo?p=3",
+  "source": "neno.js"
+},
+    {
+  "title": "サムライハート(Some Like It Hot!!)",
+  "artist": "SPYAIR",
+  "collection": "【歌切】[2026-10-19]悠闲的早晨歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ffnE6TEFo?p=4",
+  "source": "neno.js"
+},
+    {
+  "title": "紡ぐ",
+  "artist": "とた",
+  "collection": "【歌切】[2026-10-19]悠闲的早晨歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ffnE6TEFo?p=5",
+  "source": "neno.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-10-19]悠闲的早晨歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ffnE6TEFo?p=6",
+  "source": "neno.js"
+},
+    {
+  "title": "ハルキゲニア",
+  "artist": "Chevon",
+  "collection": "【歌切】[2026-10-19]悠闲的早晨歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ffnE6TEFo?p=7",
+  "source": "neno.js"
+},
+    {
+  "title": "歩く",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-19]悠闲的早晨歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ffnE6TEFo?p=8",
+  "source": "neno.js"
+},
+    {
+  "title": "太陽",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-19]悠闲的早晨歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ffnE6TEFo?p=9",
+  "source": "neno.js"
+},
+    {
+  "title": "死んでしまったのだろうか",
+  "artist": "Guiano feat.flower",
+  "collection": "【歌切】[2026-10-19]悠闲的早晨歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ffnE6TEFo?p=10",
+  "source": "neno.js"
+},
+    {
+  "title": "イヤホンと蝉時雨",
+  "artist": "Orangestar feat.IA",
+  "collection": "【歌切】[2026-10-19]悠闲的早晨歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ffnE6TEFo?p=11",
+  "source": "neno.js"
+},
+    {
+  "title": "アサガオの散る頃に",
+  "artist": "じっぷす feat.初音ミク",
+  "collection": "【歌切】[2026-10-19]悠闲的早晨歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ffnE6TEFo?p=12",
+  "source": "neno.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-19]悠闲的早晨歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ffnE6TEFo?p=13",
+  "source": "neno.js"
+},
+    {
+  "title": "いつか消えない星になって",
+  "artist": "傘村トータ feat.初音ミク",
+  "collection": "【歌切】[2026-10-19]悠闲的早晨歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ffnE6TEFo?p=14",
+  "source": "neno.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat.初音ミク",
+  "collection": "【歌切】[2026-10-19]悠闲的早晨歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ffnE6TEFo?p=15",
+  "source": "neno.js"
+},
+    {
+  "title": "8.32",
+  "artist": "*Luna feat.flower",
+  "collection": "【歌切】[2026-10-19]悠闲的早晨歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ffnE6TEFo?p=16",
   "source": "neno.js"
 }
 );
