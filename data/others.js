@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 10/19/2026, 6:48:08 PM
+// 生成时间: 10/19/2026, 10:48:39 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -25243,6 +25243,246 @@ window.SONG_DATA.push(
   "collection": "空跳つもり歌切 2026-10-08 久违的悠闲弹唱歌回🎸连聊天也想轻松惬意",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mapB65EaR?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "スイートマジック",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "こまいぬ🐶⛩🐶歌切 2026-10-18 3D术力口歌曲专场💖新观众快来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRJZ6JE19?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "こちら、幸福安心委員会です。",
+  "artist": "うたたP feat.初音ミク",
+  "collection": "こまいぬ🐶⛩🐶歌切 2026-10-18 3D术力口歌曲专场💖新观众快来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRJZ6JE19?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "こまいぬ🐶⛩🐶歌切 2026-10-18 3D术力口歌曲专场💖新观众快来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRJZ6JE19?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat.巡音ルカ",
+  "collection": "こまいぬ🐶⛩🐶歌切 2026-10-18 3D术力口歌曲专场💖新观众快来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRJZ6JE19?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "みくみくにしてあげる♪【してやんよ】",
+  "artist": "ika feat.初音ミク",
+  "collection": "こまいぬ🐶⛩🐶歌切 2026-10-18 3D术力口歌曲专场💖新观众快来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRJZ6JE19?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "こまいぬ🐶⛩🐶歌切 2026-10-18 3D术力口歌曲专场💖新观众快来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRJZ6JE19?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat.GUMI・鏡音リン",
+  "collection": "こまいぬ🐶⛩🐶歌切 2026-10-18 3D术力口歌曲专场💖新观众快来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRJZ6JE19?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ローリンガール",
+  "artist": "wowaka feat.初音ミク",
+  "collection": "こまいぬ🐶⛩🐶歌切 2026-10-18 3D术力口歌曲专场💖新观众快来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRJZ6JE19?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "ダーリンダンス",
+  "artist": "かいりきベア feat.初音ミク",
+  "collection": "こまいぬ🐶⛩🐶歌切 2026-10-18 3D术力口歌曲专场💖新观众快来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRJZ6JE19?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat.GUMI",
+  "collection": "こまいぬ🐶⛩🐶歌切 2026-10-18 3D术力口歌曲专场💖新观众快来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRJZ6JE19?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "ドレミファロンド",
+  "artist": "40mP feat.初音ミク",
+  "collection": "こまいぬ🐶⛩🐶歌切 2026-10-18 3D术力口歌曲专场💖新观众快来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRJZ6JE19?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "オツキミリサイタル",
+  "artist": "じん feat.IA",
+  "collection": "こまいぬ🐶⛩🐶歌切 2026-10-18 3D术力口歌曲专场💖新观众快来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRJZ6JE19?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "おちゃめ機能",
+  "artist": "ゴジマジP feat.重音テト",
+  "collection": "こまいぬ🐶⛩🐶歌切 2026-10-18 3D术力口歌曲专场💖新观众快来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRJZ6JE19?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "ハロ/ハワユ",
+  "artist": "ナノウ feat.初音ミク",
+  "collection": "こまいぬ🐶⛩🐶歌切 2026-10-18 3D术力口歌曲专场💖新观众快来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRJZ6JE19?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "ブラック★ロックシューター",
+  "artist": "ryo (supercell) feat.初音ミク",
+  "collection": "こまいぬ🐶⛩🐶歌切 2026-10-18 3D术力口歌曲专场💖新观众快来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRJZ6JE19?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "神のまにまに",
+  "artist": "れるりり feat.初音ミク・鏡音リン・GUMI",
+  "collection": "こまいぬ🐶⛩🐶歌切 2026-10-18 3D术力口歌曲专场💖新观众快来！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1zRJZ6JE19?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "人鳥哀歌",
+  "artist": "tacica",
+  "collection": "RARA -ララ-歌切 2026-10-19 🍏YouTube直播半周年纪念🍏",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iPJf6VEEp?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "果てのない旅",
+  "artist": "鈴木愛奈",
+  "collection": "RARA -ララ-歌切 2026-10-19 🍏YouTube直播半周年纪念🍏",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iPJf6VEEp?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "RARA -ララ-歌切 2026-10-19 🍏YouTube直播半周年纪念🍏",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iPJf6VEEp?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "転生林檎",
+  "artist": "ピノキオピー feat.初音ミク",
+  "collection": "RARA -ララ-歌切 2026-10-19 🍏YouTube直播半周年纪念🍏",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iPJf6VEEp?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "月が満ちる",
+  "artist": "月詠み",
+  "collection": "RARA -ララ-歌切 2026-10-19 🍏YouTube直播半周年纪念🍏",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iPJf6VEEp?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "林檎売りの泡沫少女",
+  "artist": "yukkedoluce feat.GUMI",
+  "collection": "RARA -ララ-歌切 2026-10-19 🍏YouTube直播半周年纪念🍏",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iPJf6VEEp?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "赤ずきん",
+  "artist": "水曜日のカンパネラ",
+  "collection": "RARA -ララ-歌切 2026-10-19 🍏YouTube直播半周年纪念🍏",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iPJf6VEEp?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ぼくのかみさま",
+  "artist": "羽生まゐご feat.flower",
+  "collection": "RARA -ララ-歌切 2026-10-19 🍏YouTube直播半周年纪念🍏",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iPJf6VEEp?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "生きるよすが",
+  "artist": "月詠み",
+  "collection": "RARA -ララ-歌切 2026-10-19 🍏YouTube直播半周年纪念🍏",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iPJf6VEEp?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat.初音ミク",
+  "collection": "RARA -ララ-歌切 2026-10-19 🍏YouTube直播半周年纪念🍏",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iPJf6VEEp?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "RARA -ララ-歌切 2026-10-19 🍏YouTube直播半周年纪念🍏",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iPJf6VEEp?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "ベノム",
+  "artist": "かいりきベア feat.flower",
+  "collection": "RARA -ララ-歌切 2026-10-19 🍏YouTube直播半周年纪念🍏",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iPJf6VEEp?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "RARA -ララ-歌切 2026-10-19 🍏YouTube直播半周年纪念🍏",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iPJf6VEEp?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "RARA -ララ-歌切 2026-10-19 🍏YouTube直播半周年纪念🍏",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iPJf6VEEp?p=14",
   "source": "others.js"
 },
     {

@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 10/19/2026, 7:06:01 PM
+// 生成时间: 10/19/2026, 11:09:00 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6019,6 +6019,126 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=15",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "恋風",
+  "artist": "幾田りら",
+  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "金木犀",
+  "artist": "くじら feat.Ado",
+  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "カワキヲアメク",
+  "artist": "美波",
+  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "夏の肖像",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "須田景凪",
+  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "告白予行練習",
+  "artist": "HoneyWorks feat.GUMI",
+  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ポラリス",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat.初音ミク",
+  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat.flower",
+  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=15",
   "source": "suiuishino.js"
 }
 );
