@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 10/20/2026, 5:28:17 PM
+// 生成时间: 10/20/2026, 9:07:08 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3163,6 +3163,54 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-18]歌回｜发布翻唱作品啦～～～！还想继续沉浸在夏天里！（笑）",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hUnL67EwJ?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "アストロノーツ",
+  "artist": "椎名もた feat.初音ミク",
+  "collection": "【歌切】[2026-10-20]晚上也要元气满满地唱🎶术力口┊动漫歌曲┊J-POP，各种歌都想唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dBnP6sENn?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ナハトムジーク",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-10-20]晚上也要元气满满地唱🎶术力口┊动漫歌曲┊J-POP，各种歌都想唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dBnP6sENn?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ギターと孤独と蒼い惑星",
+  "artist": "結束バンド",
+  "collection": "【歌切】[2026-10-20]晚上也要元气满满地唱🎶术力口┊动漫歌曲┊J-POP，各种歌都想唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dBnP6sENn?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "嘘",
+  "artist": "シド",
+  "collection": "【歌切】[2026-10-20]晚上也要元气满满地唱🎶术力口┊动漫歌曲┊J-POP，各种歌都想唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dBnP6sENn?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "シカ色デイズ",
+  "artist": "シカ部",
+  "collection": "【歌切】[2026-10-20]晚上也要元气满满地唱🎶术力口┊动漫歌曲┊J-POP，各种歌都想唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dBnP6sENn?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "DAYS of DASH",
+  "artist": "鈴木このみ",
+  "collection": "【歌切】[2026-10-20]晚上也要元气满满地唱🎶术力口┊动漫歌曲┊J-POP，各种歌都想唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dBnP6sENn?p=6",
   "source": "hinachibi.js"
 }
 );

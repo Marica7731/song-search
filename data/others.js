@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 10/20/2026, 5:43:39 PM
+// 生成时间: 10/20/2026, 9:20:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -13422,8 +13422,8 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
-  "title": "今はいいんだよ",
-  "artist": "MIMI feat. 可不",
+  "title": "今はいいんだよ。",
+  "artist": "MIMI feat.可不",
   "collection": "😭毕业前最后的歌回🎙不留遗憾地唱！！白傘くらげ歌切 2026-07-02",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1g3TW6BEHU?p=9",
@@ -25483,6 +25483,78 @@ window.SONG_DATA.push(
   "collection": "RARA -ララ-歌切 2026-10-19 🍏YouTube直播半周年纪念🍏",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iPJf6VEEp?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "花の唄",
+  "artist": "Aimer",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-10-20 距离Live不到两周，今天按大家的点歌来唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fhnP6FEY9?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "春はゆく",
+  "artist": "Aimer",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-10-20 距离Live不到两周，今天按大家的点歌来唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fhnP6FEY9?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-10-20 距离Live不到两周，今天按大家的点歌来唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fhnP6FEY9?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-10-20 距离Live不到两周，今天按大家的点歌来唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fhnP6FEY9?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "教室モノクローム",
+  "artist": "雪音クリス(CV.高垣彩陽)",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-10-20 距离Live不到两周，今天按大家的点歌来唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fhnP6FEY9?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "W/X/Y",
+  "artist": "Tani Yuuki",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-10-20 距离Live不到两周，今天按大家的点歌来唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fhnP6FEY9?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "花",
+  "artist": "ORANGE RANGE",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-10-20 距离Live不到两周，今天按大家的点歌来唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fhnP6FEY9?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-10-20 距离Live不到两周，今天按大家的点歌来唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fhnP6FEY9?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師, 宇多田ヒカル",
+  "collection": "石狩あかり/あおぎり高校歌切 2026-10-20 距离Live不到两周，今天按大家的点歌来唱！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fhnP6FEY9?p=9",
   "source": "others.js"
 },
     {

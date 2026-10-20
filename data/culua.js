@@ -1,6 +1,6 @@
 // CULUA - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp
-// 生成时间: 10/20/2026, 5:38:17 PM
+// 生成时间: 10/20/2026, 9:15:15 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3230,8 +3230,8 @@ window.SONG_DATA.push(
   "source": "culua.js"
 },
     {
-  "title": "今はいいんだよ",
-  "artist": "MIMI",
+  "title": "今はいいんだよ。",
+  "artist": "MIMI feat.可不",
   "collection": "【歌切】[2026-04-27]LIVE情报出了不少｜舒缓的歌单第30弹 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uLLa67EZy?p=7",

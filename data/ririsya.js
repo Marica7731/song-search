@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 10/20/2026, 4:32:16 PM
+// 生成时间: 10/20/2026, 8:12:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -19851,6 +19851,190 @@ window.SONG_DATA.push(
   "collection": "【🐍歌切】[2026-10-18]ぶいせかMinecraft歌回接力｜用我的歌让大家晕头转向！！！毕竟是Minecraft嘛😎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bUnL67EUa?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "私とワルツを",
+  "artist": "鬼束ちひろ",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "トレモロ",
+  "artist": "RADWIMPS",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "me me she",
+  "artist": "RADWIMPS",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "渡月橋 ～君 想ふ～",
+  "artist": "倉木麻衣",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "秋桜",
+  "artist": "山口百恵",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "恋におちて -Fall in love-",
+  "artist": "小林明子",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "今宵の月のように",
+  "artist": "エレファントカシマシ",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "サウダージ",
+  "artist": "ポルノグラフィティ",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "月光花",
+  "artist": "Janne Da Arc",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "君はロックを聴かない",
+  "artist": "あいみょん",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "裸の心",
+  "artist": "あいみょん",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス feat.可不",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "歌うたいのバラッド",
+  "artist": "斉藤和義",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=18",
+  "source": "ririsya.js"
+},
+    {
+  "title": "カントリー・ロード",
+  "artist": "本名陽子",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=19",
+  "source": "ririsya.js"
+},
+    {
+  "title": "I remember you",
+  "artist": "YUI",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=20",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=21",
+  "source": "ririsya.js"
+},
+    {
+  "title": "空も飛べるはず",
+  "artist": "スピッツ",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=22",
+  "source": "ririsya.js"
+},
+    {
+  "title": "楓",
+  "artist": "スピッツ",
+  "collection": "【🐍歌切】[2026-10-20]秋日苦甜交织✧唱些充满秋意的伤感歌曲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19znP69E9R?p=23",
   "source": "ririsya.js"
 }
 );

@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 10/20/2026, 5:49:23 PM
+// 生成时间: 10/20/2026, 9:26:28 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6699,6 +6699,190 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-13]重唱Vack-ON!! Live上演唱过的歌曲🎤回顾Live💫欢迎新观众",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV184pS67EYq?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "百花繚乱",
+  "artist": "幾田りら",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "あの夢をなぞって",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "世界は恋に落ちている",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "くつずれ",
+  "artist": "ハチワレ(CV.田中誠人)",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "パジャマパーティーズのうた",
+  "artist": "パジャマパーティーズ",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "島のうた",
+  "artist": "セイレーン(CV.鈴木みのり)、人魚(CV.大木咲絵子)、人魚(CV.七瀬彩夏)",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ひとりごつ",
+  "artist": "ハチワレ(CV.田中誠人)",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ダーリン",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "わたしに花束",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "One Love",
+  "artist": "嵐",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "有心論",
+  "artist": "RADWIMPS",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "瞳をとじて",
+  "artist": "平井堅",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "弱虫モンブラン",
+  "artist": "DECO*27 feat.GUMI",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "月と花束",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra, 月見ヤチヨ(CV.早見沙織)",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "フラレガイガール",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "愛言葉Ⅲ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat.初音ミク",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=22",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ハルカ",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-10-20]把治愈与活力送给你🎤💫欢迎初次观看的朋友！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=23",
   "source": "isshikiizu.js"
 }
 );

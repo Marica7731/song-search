@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 10/20/2026, 4:30:29 PM
+// 生成时间: 10/20/2026, 8:10:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -37443,6 +37443,46 @@ window.SONG_DATA.push(
   "collection": "【💐歌切】[2026-10-15]让我唱歌转换一下心情吧——！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agnM6cE7w?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "アンインストール",
+  "artist": "石川智晶",
+  "collection": "【💐歌切】[2026-10-20]庆祝CONNECT V Fes举办！前夜祭来啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EbnP6aEKb?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "【💐歌切】[2026-10-20]庆祝CONNECT V Fes举办！前夜祭来啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EbnP6aEKb?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "モルト",
+  "artist": "Lavt",
+  "collection": "【💐歌切】[2026-10-20]庆祝CONNECT V Fes举办！前夜祭来啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EbnP6aEKb?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "【💐歌切】[2026-10-20]庆祝CONNECT V Fes举办！前夜祭来啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EbnP6aEKb?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "咲き跡",
+  "artist": "Figaro",
+  "collection": "【💐歌切】[2026-10-20]庆祝CONNECT V Fes举办！前夜祭来啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EbnP6aEKb?p=5",
   "source": "figaro.js"
 }
 );
