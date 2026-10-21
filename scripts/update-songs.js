@@ -239,8 +239,7 @@ const SINGER_CONFIGS = [
     },
     {
         bvids: ["BV1VPH26kESs"],
-        // 低播放量探针若不是 winner 不会自动入库，需显式直取。
-        directBvids: ["BV1ZjnT6TEVN", "BV1AzJ66qEjR"],
+        directBvids: ["BV1AzJ66qEjR"],
         file: "natsumeikune",
         alias: "なつかしちゃん",
         rawDataLoader: "bili-view-api",
