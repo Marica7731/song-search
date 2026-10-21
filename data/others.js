@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 10/20/2026, 9:20:48 PM
+// 生成时间: 10/20/2026, 11:36:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -25555,6 +25555,590 @@ window.SONG_DATA.push(
   "collection": "石狩あかり/あおぎり高校歌切 2026-10-20 距离Live不到两周，今天按大家的点歌来唱！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fhnP6FEY9?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "流星",
+  "artist": "藍井エイル",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ラピスラズリ",
+  "artist": "藍井エイル",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "翼",
+  "artist": "藍井エイル",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "INNOCENCE",
+  "artist": "藍井エイル",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "IGNITE",
+  "artist": "藍井エイル",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "Overfly",
+  "artist": "春奈るな",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "Startear",
+  "artist": "春奈るな",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "Brave Shine",
+  "artist": "Aimer",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "LAST STARDUST",
+  "artist": "Aimer",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "I beg you",
+  "artist": "Aimer",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "believe",
+  "artist": "Kalafina",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "to the beginning",
+  "artist": "Kalafina",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "Désir",
+  "artist": "GARNiDELiA",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "grilletto",
+  "artist": "GARNiDELiA",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "Rising Hope",
+  "artist": "LiSA",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "Rally Go Round",
+  "artist": "LiSA",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "crossing field",
+  "artist": "LiSA",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "シルシ",
+  "artist": "LiSA",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "Catch the Moment",
+  "artist": "LiSA",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "CHOIR JAIL",
+  "artist": "鈴木このみ",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "Absolute Soul",
+  "artist": "鈴木このみ",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "Redo",
+  "artist": "鈴木このみ",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "Love is MY RAIL",
+  "artist": "鈴木このみ",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "DAYS of DASH",
+  "artist": "鈴木このみ",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "Brain Diver",
+  "artist": "May'n",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "Scarlet Ballet",
+  "artist": "May'n",
+  "collection": "UTANO ch. 白玖ウタノ歌切 2026-10-20 LiSA、藍井エイル、鈴木このみ等，2010年起的超燃动漫歌🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgnT63EJ7?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "ハイド・アンド・シーク",
+  "artist": "NOMELON NOLEMON",
+  "collection": "うりん歌切 2026-10-19 迷你歌唱时间",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16MnT6kEds?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat.初音ミク",
+  "collection": "うりん歌切 2026-10-19 迷你歌唱时间",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16MnT6kEds?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "花に風",
+  "artist": "須田景凪",
+  "collection": "うりん歌切 2026-10-19 迷你歌唱时间",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16MnT6kEds?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "愛迷エレジー",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "うりん歌切 2026-10-19 迷你歌唱时间",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16MnT6kEds?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ジャバヲッキー・ジャバヲッカ",
+  "artist": "カラスヤサボウ feat.鏡音リン・鏡音レン",
+  "collection": "うりん歌切 2026-10-19 迷你歌唱时间",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16MnT6kEds?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "君の体温",
+  "artist": "クワガタP feat.初音ミク",
+  "collection": "うりん歌切 2026-10-19 迷你歌唱时间",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16MnT6kEds?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "魔女裁判 feat.否",
+  "artist": "Len",
+  "collection": "うりん歌切 2026-10-19 迷你歌唱时间",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16MnT6kEds?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "カプティヴ feat.mochari",
+  "artist": "Len",
+  "collection": "うりん歌切 2026-10-19 迷你歌唱时间",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16MnT6kEds?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "クイーンオブハート",
+  "artist": "Royal Scandal",
+  "collection": "うりん歌切 2026-10-19 迷你歌唱时间",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16MnT6kEds?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "アンチ・クイーンオブハート feat. Fuki",
+  "artist": "Royal Scandal",
+  "collection": "うりん歌切 2026-10-19 迷你歌唱时间",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16MnT6kEds?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗 feat.ちびた",
+  "collection": "うりん歌切 2026-10-19 迷你歌唱时间",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16MnT6kEds?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "星の唄",
+  "artist": "buzzG feat.GUMI",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "カトラリー",
+  "artist": "有機酸 feat.初音ミク",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "リードコントロール",
+  "artist": "なるみや",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "シンデレラシンドローム",
+  "artist": "カラスヤサボウ feat.鏡音リン",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "右肩の蝶",
+  "artist": "のりP feat.鏡音レン",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "デビットビット",
+  "artist": "アボガド6 feat.カロガド",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "TOXY!",
+  "artist": "鯨木",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "レクイエム",
+  "artist": "Kanaria feat.星街すいせい",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "紅一葉",
+  "artist": "黒うさP feat.巡音ルカ",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "心とかいう名前の未発見の臓器の機能についての考察",
+  "artist": "adstlaxy feat.初音ミク",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "ゴーストルール",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "私が明日死ぬなら",
+  "artist": "キタニタツヤ",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "Rapport",
+  "artist": "キタニタツヤ",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "I beg you",
+  "artist": "Aimer",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "熱異常",
+  "artist": "いよわ feat.足立レイ",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "1000年生きてる",
+  "artist": "いよわ feat.初音ミク",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "ももいろの鍵",
+  "artist": "いよわ feat.初音ミク",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "幸福刑",
+  "artist": "LonePi feat.初音ミク",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "廃墟の国のアリス",
+  "artist": "まふまふ feat.初音ミク",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "うそつき",
+  "artist": "めざめP feat.初音ミク",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "ヒアソビ",
+  "artist": "かめりあ feat.初音ミク",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "ピエロ",
+  "artist": "KEI feat.初音ミク",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "寄り酔い",
+  "artist": "和ぬか",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "君がための常夜灯",
+  "artist": "うりん",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "月見ヤチヨ（CV.早見沙織）",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "DAYBYE",
+  "artist": "春野",
+  "collection": "うりん歌切 2026-10-16 悠闲的夜间歌唱时间🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV19knK68Ev3?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "おまじない",
+  "artist": "まんじゅう",
+  "collection": "まんじゅう - pnmcmnj歌切 2026-08-14 弹唱｜まんじゅう2026年生日啦～💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FanK6MEzp?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ファンファーレ",
+  "artist": "理芽",
+  "collection": "まんじゅう - pnmcmnj歌切 2026-08-14 弹唱｜まんじゅう2026年生日啦～💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FanK6MEzp?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "宿木",
+  "artist": "理芽",
+  "collection": "まんじゅう - pnmcmnj歌切 2026-08-14 弹唱｜まんじゅう2026年生日啦～💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FanK6MEzp?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "つきだけ",
+  "artist": "まんじゅう",
+  "collection": "まんじゅう - pnmcmnj歌切 2026-08-14 弹唱｜まんじゅう2026年生日啦～💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FanK6MEzp?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "アストロノーツ",
+  "artist": "ぽわぽわP feat.初音ミク",
+  "collection": "まんじゅう - pnmcmnj歌切 2026-08-14 弹唱｜まんじゅう2026年生日啦～💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FanK6MEzp?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "なつき",
+  "artist": "まんじゅう",
+  "collection": "まんじゅう - pnmcmnj歌切 2026-08-14 弹唱｜まんじゅう2026年生日啦～💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FanK6MEzp?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "なきむし",
+  "artist": "まんじゅう",
+  "collection": "まんじゅう - pnmcmnj歌切 2026-08-14 弹唱｜まんじゅう2026年生日啦～💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FanK6MEzp?p=7",
   "source": "others.js"
 },
     {
