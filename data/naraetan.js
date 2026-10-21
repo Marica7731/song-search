@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 10/21/2026, 9:39:59 AM
+// 生成时间: 10/21/2026, 12:21:47 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8,7 +8,7 @@ window.SONG_DATA.push(
     {
   "title": "3月9日",
   "artist": "レミオロメン[us2MJt3HbVo]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=1",
   "source": "naraetan.js"
@@ -16,7 +16,7 @@ window.SONG_DATA.push(
     {
   "title": "恐山ル・ヴォワール",
   "artist": "かぴたろう[us2MJt3HbVo]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=2",
   "source": "naraetan.js"
@@ -24,7 +24,7 @@ window.SONG_DATA.push(
     {
   "title": "夢と葉桜",
   "artist": "青木月光[us2MJt3HbVo]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=3",
   "source": "naraetan.js"
@@ -32,7 +32,7 @@ window.SONG_DATA.push(
     {
   "title": "相思相愛",
   "artist": "aiko[us2MJt3HbVo]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=4",
   "source": "naraetan.js"
@@ -40,7 +40,7 @@ window.SONG_DATA.push(
     {
   "title": "今好きになる。",
   "artist": "HoneyWorks[us2MJt3HbVo]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=5",
   "source": "naraetan.js"
@@ -48,7 +48,7 @@ window.SONG_DATA.push(
     {
   "title": "愉快な鼓動",
   "artist": "米倉千尋[us2MJt3HbVo]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=6",
   "source": "naraetan.js"
@@ -56,7 +56,7 @@ window.SONG_DATA.push(
     {
   "title": "空の青さを知る人よ",
   "artist": "あいみょん[us2MJt3HbVo]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=7",
   "source": "naraetan.js"
@@ -64,7 +64,7 @@ window.SONG_DATA.push(
     {
   "title": "瞳をとじて",
   "artist": "平井堅[us2MJt3HbVo]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=8",
   "source": "naraetan.js"
@@ -72,7 +72,7 @@ window.SONG_DATA.push(
     {
   "title": "生きるよすが",
   "artist": "月詠み[us2MJt3HbVo]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=9",
   "source": "naraetan.js"
@@ -80,7 +80,7 @@ window.SONG_DATA.push(
     {
   "title": "幾億光年",
   "artist": "Omoinotake[us2MJt3HbVo]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=10",
   "source": "naraetan.js"
@@ -88,7 +88,7 @@ window.SONG_DATA.push(
     {
   "title": "よくばり",
   "artist": "Ayase[us2MJt3HbVo]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=11",
   "source": "naraetan.js"
@@ -96,7 +96,7 @@ window.SONG_DATA.push(
     {
   "title": "For Real",
   "artist": "徳山秀典[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=12",
   "source": "naraetan.js"
@@ -104,7 +104,7 @@ window.SONG_DATA.push(
     {
   "title": "STILL TIME",
   "artist": "徳山秀典[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=13",
   "source": "naraetan.js"
@@ -112,7 +112,7 @@ window.SONG_DATA.push(
     {
   "title": "シュガーソングとビターステップ",
   "artist": "UNISON SQUARE GARDEN[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=14",
   "source": "naraetan.js"
@@ -120,7 +120,7 @@ window.SONG_DATA.push(
     {
   "title": "じゃじゃ馬にさせないで",
   "artist": "西尾えつ子[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=15",
   "source": "naraetan.js"
@@ -128,7 +128,7 @@ window.SONG_DATA.push(
     {
   "title": "夢の中へ",
   "artist": "井上陽水[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=16",
   "source": "naraetan.js"
@@ -136,7 +136,7 @@ window.SONG_DATA.push(
     {
   "title": "夜に駆ける",
   "artist": "YOASOBI[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=17",
   "source": "naraetan.js"
@@ -144,7 +144,7 @@ window.SONG_DATA.push(
     {
   "title": "LEVEL5-judgelight-",
   "artist": "fripSide[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=18",
   "source": "naraetan.js"
@@ -152,7 +152,7 @@ window.SONG_DATA.push(
     {
   "title": "スカイクラッドの観測者",
   "artist": "いとうかなこ[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=19",
   "source": "naraetan.js"
@@ -160,7 +160,7 @@ window.SONG_DATA.push(
     {
   "title": "Habit",
   "artist": "SEKAI NO OWARI[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=20",
   "source": "naraetan.js"
@@ -168,7 +168,7 @@ window.SONG_DATA.push(
     {
   "title": "貴方の恋人になりたい",
   "artist": "チョーキューメイ[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=21",
   "source": "naraetan.js"
@@ -176,7 +176,7 @@ window.SONG_DATA.push(
     {
   "title": "天使にふれたよ！",
   "artist": "放課後ティータイム[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=22",
   "source": "naraetan.js"
@@ -184,7 +184,7 @@ window.SONG_DATA.push(
     {
   "title": "愛唄",
   "artist": "GReeeeN[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=23",
   "source": "naraetan.js"
@@ -192,7 +192,7 @@ window.SONG_DATA.push(
     {
   "title": "Wind Climbing ～風にあそばれて～",
   "artist": "奥井亜紀[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=24",
   "source": "naraetan.js"
@@ -200,7 +200,7 @@ window.SONG_DATA.push(
     {
   "title": "Ubiquitous dB",
   "artist": "ユナ（CV：神田沙也加）[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=25",
   "source": "naraetan.js"
@@ -208,7 +208,7 @@ window.SONG_DATA.push(
     {
   "title": "星になる",
   "artist": "Islet feat.倚水[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=26",
   "source": "naraetan.js"
@@ -216,7 +216,7 @@ window.SONG_DATA.push(
     {
   "title": "なんでもないや",
   "artist": "RADWIMPS[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=27",
   "source": "naraetan.js"
@@ -224,7 +224,7 @@ window.SONG_DATA.push(
     {
   "title": "長い間",
   "artist": "Kiroro[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=28",
   "source": "naraetan.js"
@@ -232,7 +232,7 @@ window.SONG_DATA.push(
     {
   "title": "いのちの名前",
   "artist": "木村弓[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=29",
   "source": "naraetan.js"
@@ -240,7 +240,7 @@ window.SONG_DATA.push(
     {
   "title": "remember",
   "artist": "Uru[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=30",
   "source": "naraetan.js"
@@ -248,7 +248,7 @@ window.SONG_DATA.push(
     {
   "title": "白日",
   "artist": "King Gnu[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=31",
   "source": "naraetan.js"
@@ -256,7 +256,7 @@ window.SONG_DATA.push(
     {
   "title": "フィナーレ。",
   "artist": "eill[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=32",
   "source": "naraetan.js"
@@ -264,7 +264,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=33",
   "source": "naraetan.js"
@@ -272,7 +272,7 @@ window.SONG_DATA.push(
     {
   "title": "青春ライン",
   "artist": "いきものがかり[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=34",
   "source": "naraetan.js"
@@ -280,7 +280,7 @@ window.SONG_DATA.push(
     {
   "title": "涙の種、笑顔の花",
   "artist": "中川翔子[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=35",
   "source": "naraetan.js"
@@ -288,7 +288,7 @@ window.SONG_DATA.push(
     {
   "title": "NO, Thank You!",
   "artist": "放課後ティータイム[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=36",
   "source": "naraetan.js"
@@ -296,7 +296,7 @@ window.SONG_DATA.push(
     {
   "title": "私は最強",
   "artist": "Ado[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=37",
   "source": "naraetan.js"
@@ -304,7 +304,7 @@ window.SONG_DATA.push(
     {
   "title": "破滅の純情",
   "artist": "ワルキューレ[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=38",
   "source": "naraetan.js"
@@ -312,7 +312,7 @@ window.SONG_DATA.push(
     {
   "title": "ライオン",
   "artist": "May'n&中島愛[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=39",
   "source": "naraetan.js"
@@ -320,7 +320,7 @@ window.SONG_DATA.push(
     {
   "title": "深愛",
   "artist": "水樹奈々[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=40",
   "source": "naraetan.js"
@@ -328,7 +328,7 @@ window.SONG_DATA.push(
     {
   "title": "カワキヲアメク",
   "artist": "美波[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=41",
   "source": "naraetan.js"
@@ -336,7 +336,7 @@ window.SONG_DATA.push(
     {
   "title": "み む かｩ わ ナ イ ス ト ラ イ",
   "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ[eiiYLRoPVb",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=42",
   "source": "naraetan.js"
@@ -344,7 +344,7 @@ window.SONG_DATA.push(
     {
   "title": "ダダダダ天使",
   "artist": "ナナヲアカリ[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=43",
   "source": "naraetan.js"
@@ -352,7 +352,7 @@ window.SONG_DATA.push(
     {
   "title": "アイドル",
   "artist": "YOASOBI[eiiYLRoPVbw]",
-  "collection": "3月9日就得听3月9日！【なれたん歌切】Naraetan",
+  "collection": "March 9th must listen to March 9th! 【Naraetan's song cover】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NuNNznEnE?p=44",
   "source": "naraetan.js"
@@ -360,7 +360,7 @@ window.SONG_DATA.push(
     {
   "title": "愛をとりもどせ!!",
   "artist": "クリスタルキング",
-  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02] Foreigners Singing Famous Showa Songs👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1hRZPB5EDD?p=1",
   "source": "naraetan.js"
@@ -368,7 +368,7 @@ window.SONG_DATA.push(
     {
   "title": "ペガサス幻想",
   "artist": "MAKE-UP",
-  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02] Foreigners Singing Famous Showa Songs👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1hRZPB5EDD?p=2",
   "source": "naraetan.js"
@@ -376,7 +376,7 @@ window.SONG_DATA.push(
     {
   "title": "キューティーハニー",
   "artist": "前川陽子",
-  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02] Foreigners Singing Famous Showa Songs👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1hRZPB5EDD?p=3",
   "source": "naraetan.js"
@@ -384,7 +384,7 @@ window.SONG_DATA.push(
     {
   "title": "プレイバック Part2",
   "artist": "山口百恵",
-  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02] Foreigners Singing Famous Showa Songs👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1hRZPB5EDD?p=4",
   "source": "naraetan.js"
@@ -392,7 +392,7 @@ window.SONG_DATA.push(
     {
   "title": "DESIRE 情熱",
   "artist": "中森明菜",
-  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02] Foreigners Singing Famous Showa Songs👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1hRZPB5EDD?p=5",
   "source": "naraetan.js"
@@ -400,7 +400,7 @@ window.SONG_DATA.push(
     {
   "title": "フライディ・チャイナタウン",
   "artist": "泰葉",
-  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02] Foreigners Singing Famous Showa Songs👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1hRZPB5EDD?p=6",
   "source": "naraetan.js"
@@ -408,7 +408,7 @@ window.SONG_DATA.push(
     {
   "title": "天城越え",
   "artist": "石川さゆり",
-  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02] Foreigners Singing Famous Showa Songs👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1hRZPB5EDD?p=7",
   "source": "naraetan.js"
@@ -416,7 +416,7 @@ window.SONG_DATA.push(
     {
   "title": "レイニーブルー",
   "artist": "徳永英明",
-  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02] Foreigners Singing Famous Showa Songs👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1hRZPB5EDD?p=8",
   "source": "naraetan.js"
@@ -424,7 +424,7 @@ window.SONG_DATA.push(
     {
   "title": "Plastic Love",
   "artist": "竹内まりや",
-  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02] Foreigners Singing Famous Showa Songs👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1hRZPB5EDD?p=9",
   "source": "naraetan.js"
@@ -432,7 +432,7 @@ window.SONG_DATA.push(
     {
   "title": "ロマンティックあげるよ",
   "artist": "橋本潮",
-  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02] Foreigners Singing Famous Showa Songs👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1hRZPB5EDD?p=10",
   "source": "naraetan.js"
@@ -440,7 +440,7 @@ window.SONG_DATA.push(
     {
   "title": "青い珊瑚礁",
   "artist": "松田聖子",
-  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02] Foreigners Singing Famous Showa Songs👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1hRZPB5EDD?p=11",
   "source": "naraetan.js"
@@ -448,7 +448,7 @@ window.SONG_DATA.push(
     {
   "title": "ルージュの伝言",
   "artist": "荒井由実",
-  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02] Foreigners Singing Famous Showa Songs👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1hRZPB5EDD?p=12",
   "source": "naraetan.js"
@@ -456,7 +456,7 @@ window.SONG_DATA.push(
     {
   "title": "夢の中へ",
   "artist": "斉藤由貴",
-  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02] Foreigners Singing Famous Showa Songs👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1hRZPB5EDD?p=13",
   "source": "naraetan.js"
@@ -464,7 +464,7 @@ window.SONG_DATA.push(
     {
   "title": "Get Wild",
   "artist": "TM NETWORK",
-  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02] Foreigners Singing Famous Showa Songs👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1hRZPB5EDD?p=14",
   "source": "naraetan.js"
@@ -472,7 +472,7 @@ window.SONG_DATA.push(
     {
   "title": "やさしさに包まれたなら",
   "artist": "荒井由実",
-  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02] Foreigners Singing Famous Showa Songs👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1hRZPB5EDD?p=15",
   "source": "naraetan.js"
@@ -480,7 +480,7 @@ window.SONG_DATA.push(
     {
   "title": "愛・おぼえていますか",
   "artist": "飯島真理",
-  "collection": "[2025-12-02]外国人が歌う昭和の名曲👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-02] Foreigners Singing Famous Showa Songs👘Showa KARAOKE[SckCF1JLAhU][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1hRZPB5EDD?p=16",
   "source": "naraetan.js"
@@ -488,263 +488,263 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "お気に召すまま",
   "artist": "Eve",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "1／2",
   "artist": "川本真琴",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "花束",
   "artist": "back number",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "強盗と花束",
   "artist": "ヨルシカ",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "森の小さなレストラン",
   "artist": "手嶌葵",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "ヒトリゴト",
   "artist": "ClariS",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "逆転劇",
   "artist": "月詠み",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "ETERNAL BLAZE",
   "artist": "水樹奈々",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "Shangri-La",
   "artist": "angela",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "明日へのbrilliant road",
   "artist": "angela",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=13",
   "source": "naraetan.js"
 },
     {
   "title": "JANE DOE",
   "artist": "米津玄師・宇多田ヒカル",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=14",
   "source": "naraetan.js"
 },
     {
   "title": "ロマンスの神様",
   "artist": "広瀬香美",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=15",
   "source": "naraetan.js"
 },
     {
   "title": "uni-verse",
   "artist": "オーイシマサヨシ",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=16",
   "source": "naraetan.js"
 },
     {
   "title": "Driver's High",
   "artist": "L'Arc～en～Ciel",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=17",
   "source": "naraetan.js"
 },
     {
   "title": "Don't say \"lazy\"",
   "artist": "桜高軽音部",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=18",
   "source": "naraetan.js"
 },
     {
   "title": "シリウス",
   "artist": "藍井エイル",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=19",
   "source": "naraetan.js"
 },
     {
   "title": "Here",
   "artist": "JUNNA",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=20",
   "source": "naraetan.js"
 },
     {
   "title": "白い雪のプリンセスは",
   "artist": "のぼる↑",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=21",
   "source": "naraetan.js"
 },
     {
   "title": "貴方の恋人になりたい",
   "artist": "チョーキューメイ",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=22",
   "source": "naraetan.js"
 },
     {
   "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=23",
   "source": "naraetan.js"
 },
     {
   "title": "地球最後の告白を",
   "artist": "kemu feat.GUMI",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=24",
   "source": "naraetan.js"
 },
     {
   "title": "ゴールデンタイムラバー",
   "artist": "スキマスイッチ",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=25",
   "source": "naraetan.js"
 },
     {
   "title": "恋文",
   "artist": "Every Little Thing",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=26",
   "source": "naraetan.js"
 },
     {
   "title": "愛の星",
   "artist": "水樹奈々",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=27",
   "source": "naraetan.js"
 },
     {
   "title": "GIRAFFE BLUES",
   "artist": "ワルキューレ",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=28",
   "source": "naraetan.js"
 },
     {
   "title": "Darling",
   "artist": "西野カナ",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=29",
   "source": "naraetan.js"
 },
     {
   "title": "ぎゅっと。",
   "artist": "もさを。",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=30",
   "source": "naraetan.js"
 },
     {
   "title": "ダンスホール",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=31",
   "source": "naraetan.js"
 },
     {
   "title": "adrenaline!!!",
   "artist": "TrySail",
-  "collection": "[2025-12-04]高評価300まで歌い続ける！+お知らせあり💘Singing until 300 likes![なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-04] Singing until 300 likes! + Announcement 💘 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1jxZABLEWJ?p=32",
   "source": "naraetan.js"
 },
     {
   "title": "丸ノ内サディスティック",
   "artist": "椎名林檎",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-06] Saturday late-night singing stream 💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
   "up": "Go[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEtf?p=1",
   "source": "naraetan.js"
@@ -752,7 +752,7 @@ window.SONG_DATA.push(
     {
   "title": "光るなら",
   "artist": "Goose house",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-06] Saturday late-night singing stream 💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
   "up": "Go[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEtf?p=2",
   "source": "naraetan.js"
@@ -760,7 +760,7 @@ window.SONG_DATA.push(
     {
   "title": "名前を呼ぶよ",
   "artist": "ラックライフ",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-06] Saturday late-night singing stream 💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
   "up": "Go[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEtf?p=3",
   "source": "naraetan.js"
@@ -768,7 +768,7 @@ window.SONG_DATA.push(
     {
   "title": "白日",
   "artist": "King Gnu",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-06] Saturday late-night singing stream 💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
   "up": "Go[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEtf?p=4",
   "source": "naraetan.js"
@@ -776,7 +776,7 @@ window.SONG_DATA.push(
     {
   "title": "Good-bye days",
   "artist": "YUI for 雨音薫",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-06] Saturday late-night singing stream 💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
   "up": "Go[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEtf?p=5",
   "source": "naraetan.js"
@@ -784,7 +784,7 @@ window.SONG_DATA.push(
     {
   "title": "愛唄",
   "artist": "GReeeeN",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-06] Saturday late-night singing stream 💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
   "up": "Go[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEtf?p=6",
   "source": "naraetan.js"
@@ -792,7 +792,7 @@ window.SONG_DATA.push(
     {
   "title": "手紙 ～拝啓十五の君へ～",
   "artist": "アンジェラ・アキ",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-06] Saturday late-night singing stream 💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
   "up": "Go[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEtf?p=7",
   "source": "naraetan.js"
@@ -800,7 +800,7 @@ window.SONG_DATA.push(
     {
   "title": "愛のかたまり",
   "artist": "DOMOTO",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-06] Saturday late-night singing stream 💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
   "up": "Go[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEtf?p=8",
   "source": "naraetan.js"
@@ -808,7 +808,7 @@ window.SONG_DATA.push(
     {
   "title": "炎",
   "artist": "LiSA",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-06] Saturday late-night singing stream 💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
   "up": "Go[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEtf?p=9",
   "source": "naraetan.js"
@@ -816,7 +816,7 @@ window.SONG_DATA.push(
     {
   "title": "レオ",
   "artist": "優里",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-06] Saturday late-night singing stream 💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
   "up": "Go[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEtf?p=10",
   "source": "naraetan.js"
@@ -824,7 +824,7 @@ window.SONG_DATA.push(
     {
   "title": "猫",
   "artist": "DISH//",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-06] Saturday late-night singing stream 💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
   "up": "Go[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEtf?p=11",
   "source": "naraetan.js"
@@ -832,7 +832,7 @@ window.SONG_DATA.push(
     {
   "title": "ライオン",
   "artist": "May'n&中島愛",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-06] Saturday late-night singing stream 💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
   "up": "Go[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEtf?p=12",
   "source": "naraetan.js"
@@ -840,7 +840,7 @@ window.SONG_DATA.push(
     {
   "title": "Unlasting",
   "artist": "LiSA",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-06] Saturday late-night singing stream 💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
   "up": "Go[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEtf?p=13",
   "source": "naraetan.js"
@@ -848,7 +848,7 @@ window.SONG_DATA.push(
     {
   "title": "Glorious Break",
   "artist": "水樹奈々",
-  "collection": "[2025-12-06]土曜日の深夜歌枠💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-06] Saturday late-night singing stream 💤Saturday late-night singing stream[Go[なれたん Naraetan Ch.🌷]",
   "up": "Go[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEtf?p=14",
   "source": "naraetan.js"
@@ -856,191 +856,191 @@ window.SONG_DATA.push(
     {
   "title": "I Love U",
   "artist": "THE★SCANTY",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-08] Singing my favorite songs energetically 🍀 Singing my favorite songs energetic [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV13vZABuEpK?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "HOT LIMIT",
   "artist": "T.M.Revolution",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-08] Singing my favorite songs energetically 🍀 Singing my favorite songs energetic [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV13vZABuEpK?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "浪漫飛行",
   "artist": "米米CLUB",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-08] Singing my favorite songs energetically 🍀 Singing my favorite songs energetic [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV13vZABuEpK?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "幾億光年",
   "artist": "OMOINOTAKE",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-08] Singing my favorite songs energetically 🍀 Singing my favorite songs energetic [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV13vZABuEpK?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "好きすぎて滅！",
   "artist": "M!LK",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-08] Singing my favorite songs energetically 🍀 Singing my favorite songs energetic [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV13vZABuEpK?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "愛とか恋とか",
   "artist": "Novelbright",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-08] Singing my favorite songs energetically 🍀 Singing my favorite songs energetic [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV13vZABuEpK?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "愛のかたまり",
   "artist": "DOMOTO",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-08] Singing my favorite songs energetically 🍀 Singing my favorite songs energetic [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV13vZABuEpK?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "かわいいだけじゃだめですか？",
   "artist": "CUTIE STREET",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-08] Singing my favorite songs energetically 🍀 Singing my favorite songs energetic [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV13vZABuEpK?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "わたしの一番かわいいところ",
   "artist": "FRUITS ZIPPER",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-08] Singing my favorite songs energetically 🍀 Singing my favorite songs energetic [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV13vZABuEpK?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "Lost My Music",
   "artist": "涼宮ハルヒ(CV平野綾)",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-08] Singing my favorite songs energetically 🍀 Singing my favorite songs energetic [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV13vZABuEpK?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "Letters to ME",
   "artist": "LiSA",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-08] Singing my favorite songs energetically 🍀 Singing my favorite songs energetic [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV13vZABuEpK?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "Super Driver",
   "artist": "平野綾",
-  "collection": "[2025-12-08]元気に好きな曲を歌う🍀Singing my favorite songs energetic[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-08] Singing my favorite songs energetically 🍀 Singing my favorite songs energetic [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV13vZABuEpK?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "微笑みの爆弾",
   "artist": "馬渡松子",
-  "collection": "[2025-12-09]少年ジャンプ縛り歌枠👒Shonen Jump–only singing stream[7Rt[なれたん Naraetan Ch.🌷]",
-  "up": "7Rt[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-09] Shonen Jump-only singing stream👒 [7Rt[Naraetan Ch.🌷]]",
+  "up": "7Rt[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1gvZABuE16?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "1／3の純情な感情",
   "artist": "SIAM SHADE",
-  "collection": "[2025-12-09]少年ジャンプ縛り歌枠👒Shonen Jump–only singing stream[7Rt[なれたん Naraetan Ch.🌷]",
-  "up": "7Rt[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-09] Shonen Jump-only singing stream👒 [7Rt[Naraetan Ch.🌷]]",
+  "up": "7Rt[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1gvZABuE16?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "～アスタリスク～",
   "artist": "ORANGE RANGE",
-  "collection": "[2025-12-09]少年ジャンプ縛り歌枠👒Shonen Jump–only singing stream[7Rt[なれたん Naraetan Ch.🌷]",
-  "up": "7Rt[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-09] Shonen Jump-only singing stream👒 [7Rt[Naraetan Ch.🌷]]",
+  "up": "7Rt[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1gvZABuE16?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "ウィーアー!",
   "artist": "きただにひろし",
-  "collection": "[2025-12-09]少年ジャンプ縛り歌枠👒Shonen Jump–only singing stream[7Rt[なれたん Naraetan Ch.🌷]",
-  "up": "7Rt[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-09] Shonen Jump-only singing stream👒 [7Rt[Naraetan Ch.🌷]]",
+  "up": "7Rt[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1gvZABuE16?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "あなただけ見つめてる",
   "artist": "大黒摩季",
-  "collection": "[2025-12-09]少年ジャンプ縛り歌枠👒Shonen Jump–only singing stream[7Rt[なれたん Naraetan Ch.🌷]",
-  "up": "7Rt[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-09] Shonen Jump-only singing stream👒 [7Rt[Naraetan Ch.🌷]]",
+  "up": "7Rt[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1gvZABuE16?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "Northern Lights",
   "artist": "林原めぐみ",
-  "collection": "[2025-12-09]少年ジャンプ縛り歌枠👒Shonen Jump–only singing stream[7Rt[なれたん Naraetan Ch.🌷]",
-  "up": "7Rt[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-09] Shonen Jump-only singing stream👒 [7Rt[Naraetan Ch.🌷]]",
+  "up": "7Rt[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1gvZABuE16?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "WILL",
   "artist": "米倉千尋",
-  "collection": "[2025-12-09]少年ジャンプ縛り歌枠👒Shonen Jump–only singing stream[7Rt[なれたん Naraetan Ch.🌷]",
-  "up": "7Rt[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-09] Shonen Jump-only singing stream👒 [7Rt[Naraetan Ch.🌷]]",
+  "up": "7Rt[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1gvZABuE16?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "ピースサイン",
   "artist": "米津玄師",
-  "collection": "[2025-12-09]少年ジャンプ縛り歌枠👒Shonen Jump–only singing stream[7Rt[なれたん Naraetan Ch.🌷]",
-  "up": "7Rt[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-09] Shonen Jump-only singing stream👒 [7Rt[Naraetan Ch.🌷]]",
+  "up": "7Rt[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1gvZABuE16?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "departure!",
   "artist": "小野正利",
-  "collection": "[2025-12-09]少年ジャンプ縛り歌枠👒Shonen Jump–only singing stream[7Rt[なれたん Naraetan Ch.🌷]",
-  "up": "7Rt[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-09] Shonen Jump-only singing stream👒 [7Rt[Naraetan Ch.🌷]]",
+  "up": "7Rt[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1gvZABuE16?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "ブルーバード",
   "artist": "いきものがかり",
-  "collection": "[2025-12-09]少年ジャンプ縛り歌枠👒Shonen Jump–only singing stream[7Rt[なれたん Naraetan Ch.🌷]",
-  "up": "7Rt[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-09] Shonen Jump-only singing stream👒 [7Rt[Naraetan Ch.🌷]]",
+  "up": "7Rt[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1gvZABuE16?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "サムライハート(Some Like It Hot!!)",
   "artist": "SPYAIR",
-  "collection": "[2025-12-09]少年ジャンプ縛り歌枠👒Shonen Jump–only singing stream[7Rt[なれたん Naraetan Ch.🌷]",
-  "up": "7Rt[なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-09] Shonen Jump-only singing stream👒 [7Rt[Naraetan Ch.🌷]]",
+  "up": "7Rt[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1gvZABuE16?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "夜もすがら君想ふ",
   "artist": "TOKOTOKO",
-  "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-18] With gratitude, 3rd anniversary🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
   "up": "DsL[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEgQ?p=1",
   "source": "naraetan.js"
@@ -1048,7 +1048,7 @@ window.SONG_DATA.push(
     {
   "title": "Sunday",
   "artist": "ザ・ベイビースターズ",
-  "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-18] With gratitude, 3rd anniversary🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
   "up": "DsL[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEgQ?p=2",
   "source": "naraetan.js"
@@ -1056,7 +1056,7 @@ window.SONG_DATA.push(
     {
   "title": "uni-verse",
   "artist": "オーイシマサヨシ",
-  "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-18] With gratitude, 3rd anniversary🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
   "up": "DsL[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEgQ?p=3",
   "source": "naraetan.js"
@@ -1064,7 +1064,7 @@ window.SONG_DATA.push(
     {
   "title": "Ubiquitous dB",
   "artist": "ユナ(CV神田沙也加)",
-  "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-18] With gratitude, 3rd anniversary🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
   "up": "DsL[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEgQ?p=4",
   "source": "naraetan.js"
@@ -1072,7 +1072,7 @@ window.SONG_DATA.push(
     {
   "title": "生きるよすが",
   "artist": "月詠み",
-  "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-18] With gratitude, 3rd anniversary🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
   "up": "DsL[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEgQ?p=5",
   "source": "naraetan.js"
@@ -1080,7 +1080,7 @@ window.SONG_DATA.push(
     {
   "title": "プラリネ",
   "artist": "ジュリア(愛美)",
-  "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-18] With gratitude, 3rd anniversary🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
   "up": "DsL[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEgQ?p=6",
   "source": "naraetan.js"
@@ -1088,7 +1088,7 @@ window.SONG_DATA.push(
     {
   "title": "花の塔",
   "artist": "さユり",
-  "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-18] With gratitude, 3rd anniversary🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
   "up": "DsL[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEgQ?p=7",
   "source": "naraetan.js"
@@ -1096,7 +1096,7 @@ window.SONG_DATA.push(
     {
   "title": "好きすぎて滅!",
   "artist": "M!LK",
-  "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-18] With gratitude, 3rd anniversary🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
   "up": "DsL[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEgQ?p=8",
   "source": "naraetan.js"
@@ -1104,7 +1104,7 @@ window.SONG_DATA.push(
     {
   "title": "ジェットロケット",
   "artist": "LiSA",
-  "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-18] With gratitude, 3rd anniversary🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
   "up": "DsL[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEgQ?p=9",
   "source": "naraetan.js"
@@ -1112,7 +1112,7 @@ window.SONG_DATA.push(
     {
   "title": "ファンサ",
   "artist": "mona (CV夏川椎菜)",
-  "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-18] With gratitude, 3rd anniversary🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
   "up": "DsL[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEgQ?p=10",
   "source": "naraetan.js"
@@ -1120,7 +1120,7 @@ window.SONG_DATA.push(
     {
   "title": "愛言葉Ⅲ",
   "artist": "DECO*27",
-  "collection": "[2025-12-18]感謝を込めて、3周年🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-18] With gratitude, 3rd anniversary🎂With gratitude, 3rd anniversary[DsL[なれたん Naraetan Ch.🌷]",
   "up": "DsL[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1V8ZABkEgQ?p=11",
   "source": "naraetan.js"
@@ -1128,7 +1128,7 @@ window.SONG_DATA.push(
     {
   "title": "Breeze",
   "artist": "林原めぐみ",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-21] Sunday Song Slot🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZPZPBEEs6?p=1",
   "source": "naraetan.js"
@@ -1136,7 +1136,7 @@ window.SONG_DATA.push(
     {
   "title": "マリーゴールド",
   "artist": "あいみょん",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-21] Sunday Song Slot🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZPZPBEEs6?p=2",
   "source": "naraetan.js"
@@ -1144,7 +1144,7 @@ window.SONG_DATA.push(
     {
   "title": "真昼の月明かり",
   "artist": "月詠み",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-21] Sunday Song Slot🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZPZPBEEs6?p=3",
   "source": "naraetan.js"
@@ -1152,7 +1152,7 @@ window.SONG_DATA.push(
     {
   "title": "宿命",
   "artist": "Official髭男dism",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-21] Sunday Song Slot🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZPZPBEEs6?p=4",
   "source": "naraetan.js"
@@ -1160,7 +1160,7 @@ window.SONG_DATA.push(
     {
   "title": "冒険彗星",
   "artist": "榎本くるみ",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-21] Sunday Song Slot🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZPZPBEEs6?p=5",
   "source": "naraetan.js"
@@ -1168,7 +1168,7 @@ window.SONG_DATA.push(
     {
   "title": "ロビンソン",
   "artist": "スピッツ",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-21] Sunday Song Slot🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZPZPBEEs6?p=6",
   "source": "naraetan.js"
@@ -1176,7 +1176,7 @@ window.SONG_DATA.push(
     {
   "title": "紅茶",
   "artist": "坂本真綾",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-21] Sunday Song Slot🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZPZPBEEs6?p=7",
   "source": "naraetan.js"
@@ -1184,7 +1184,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-21] Sunday Song Slot🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZPZPBEEs6?p=8",
   "source": "naraetan.js"
@@ -1192,7 +1192,7 @@ window.SONG_DATA.push(
     {
   "title": "言って。",
   "artist": "ヨルシカ",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-21] Sunday Song Slot🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZPZPBEEs6?p=9",
   "source": "naraetan.js"
@@ -1200,7 +1200,7 @@ window.SONG_DATA.push(
     {
   "title": "APT.",
   "artist": "ROSÉ & Bruno Mars",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-21] Sunday Song Slot🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZPZPBEEs6?p=10",
   "source": "naraetan.js"
@@ -1208,7 +1208,7 @@ window.SONG_DATA.push(
     {
   "title": "誇り高きアイドル",
   "artist": "HoneyWorks",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-21] Sunday Song Slot🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZPZPBEEs6?p=11",
   "source": "naraetan.js"
@@ -1216,7 +1216,7 @@ window.SONG_DATA.push(
     {
   "title": "太陽曰く燃えよカオス",
   "artist": "後ろから這いより隊",
-  "collection": "[2025-12-21]日曜日の歌枠🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-21] Sunday Song Slot🎈Sunday singing stream[HpFe-RLf0Qk][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZPZPBEEs6?p=12",
   "source": "naraetan.js"
@@ -1224,7 +1224,7 @@ window.SONG_DATA.push(
     {
   "title": "BOW AND ARROW",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-23]Today's the day! Kenshi Yonezu-only Singing Stream🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1iWZAB2EqK?p=1",
   "source": "naraetan.js"
@@ -1232,7 +1232,7 @@ window.SONG_DATA.push(
     {
   "title": "感電",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-23]Today's the day! Kenshi Yonezu-only Singing Stream🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1iWZAB2EqK?p=2",
   "source": "naraetan.js"
@@ -1240,7 +1240,7 @@ window.SONG_DATA.push(
     {
   "title": "Flamingo",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-23]Today's the day! Kenshi Yonezu-only Singing Stream🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1iWZAB2EqK?p=3",
   "source": "naraetan.js"
@@ -1248,7 +1248,7 @@ window.SONG_DATA.push(
     {
   "title": "LOSER",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-23]Today's the day! Kenshi Yonezu-only Singing Stream🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1iWZAB2EqK?p=4",
   "source": "naraetan.js"
@@ -1256,7 +1256,7 @@ window.SONG_DATA.push(
     {
   "title": "ピースサイン",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-23]Today's the day! Kenshi Yonezu-only Singing Stream🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1iWZAB2EqK?p=5",
   "source": "naraetan.js"
@@ -1264,7 +1264,7 @@ window.SONG_DATA.push(
     {
   "title": "KICKBACK",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-23]Today's the day! Kenshi Yonezu-only Singing Stream🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1iWZAB2EqK?p=6",
   "source": "naraetan.js"
@@ -1272,7 +1272,7 @@ window.SONG_DATA.push(
     {
   "title": "LADY",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-23]Today's the day! Kenshi Yonezu-only Singing Stream🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1iWZAB2EqK?p=7",
   "source": "naraetan.js"
@@ -1280,7 +1280,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか！",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-23]Today's the day! Kenshi Yonezu-only Singing Stream🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1iWZAB2EqK?p=8",
   "source": "naraetan.js"
@@ -1288,7 +1288,7 @@ window.SONG_DATA.push(
     {
   "title": "orion",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-23]Today's the day! Kenshi Yonezu-only Singing Stream🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1iWZAB2EqK?p=9",
   "source": "naraetan.js"
@@ -1296,7 +1296,7 @@ window.SONG_DATA.push(
     {
   "title": "アイネクライネ",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-23]Today's the day! Kenshi Yonezu-only Singing Stream🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1iWZAB2EqK?p=10",
   "source": "naraetan.js"
@@ -1304,7 +1304,7 @@ window.SONG_DATA.push(
     {
   "title": "1991",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-23]Today's the day! Kenshi Yonezu-only Singing Stream🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1iWZAB2EqK?p=11",
   "source": "naraetan.js"
@@ -1312,7 +1312,7 @@ window.SONG_DATA.push(
     {
   "title": "灰色と青",
   "artist": "米津玄師 (+菅田将暉)",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-23]Today's the day! Kenshi Yonezu-only Singing Stream🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1iWZAB2EqK?p=12",
   "source": "naraetan.js"
@@ -1320,7 +1320,7 @@ window.SONG_DATA.push(
     {
   "title": "JANE DOE",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-23]Today's the day! Kenshi Yonezu-only Singing Stream🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1iWZAB2EqK?p=13",
   "source": "naraetan.js"
@@ -1328,7 +1328,7 @@ window.SONG_DATA.push(
     {
   "title": "IRIS OUT",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-23]Today's the day! Kenshi Yonezu-only Singing Stream🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1iWZAB2EqK?p=14",
   "source": "naraetan.js"
@@ -1336,7 +1336,7 @@ window.SONG_DATA.push(
     {
   "title": "Lemon",
   "artist": "米津玄師",
-  "collection": "[2025-12-23]今日こそ！米津玄師さん縛り歌枠🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-23]Today's the day! Kenshi Yonezu-only Singing Stream🖤🎤Kenshi Yonezu–only singing s[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1iWZAB2EqK?p=15",
   "source": "naraetan.js"
@@ -1344,135 +1344,135 @@ window.SONG_DATA.push(
     {
   "title": "ロマンスの神様",
   "artist": "広瀬香美",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-25] At Christmas, all there is to do is eat and sing 🎅🏼🦌 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1AdZNBYEZp?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "WISH",
   "artist": "嵐",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-25] At Christmas, all there is to do is eat and sing 🎅🏼🦌 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1AdZNBYEZp?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "冬がはじまるよ",
   "artist": "槇原敬之",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-25] At Christmas, all there is to do is eat and sing 🎅🏼🦌 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1AdZNBYEZp?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "クリスマス・イブ",
   "artist": "山下達郎",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-25] At Christmas, all there is to do is eat and sing 🎅🏼🦌 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1AdZNBYEZp?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "Subtitle",
   "artist": "Official髭男dism",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-25] At Christmas, all there is to do is eat and sing 🎅🏼🦌 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1AdZNBYEZp?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "粉雪",
   "artist": "レミオロメン",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-25] At Christmas, all there is to do is eat and sing 🎅🏼🦌 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1AdZNBYEZp?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "深愛",
   "artist": "水樹奈々",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-25] At Christmas, all there is to do is eat and sing 🎅🏼🦌 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1AdZNBYEZp?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "クリスマスソング",
   "artist": "back number",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-25] At Christmas, all there is to do is eat and sing 🎅🏼🦌 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1AdZNBYEZp?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "Let It Go",
   "artist": "Idina Menzel",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-25] At Christmas, all there is to do is eat and sing 🎅🏼🦌 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1AdZNBYEZp?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "All I Want for Christmas Is You",
   "artist": "Mariah Carey",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-25] At Christmas, all there is to do is eat and sing 🎅🏼🦌 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1AdZNBYEZp?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "メリクリ",
   "artist": "BoA",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-25] At Christmas, all there is to do is eat and sing 🎅🏼🦌 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1AdZNBYEZp?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "愛のかたまり",
   "artist": "DOMOTO",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-25] At Christmas, all there is to do is eat and sing 🎅🏼🦌 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1AdZNBYEZp?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "再会",
   "artist": "Lisa × Uru",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-25] At Christmas, all there is to do is eat and sing 🎅🏼🦌 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1AdZNBYEZp?p=13",
   "source": "naraetan.js"
 },
     {
   "title": "雪の華",
   "artist": "中島美嘉",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-25] At Christmas, all there is to do is eat and sing 🎅🏼🦌 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1AdZNBYEZp?p=14",
   "source": "naraetan.js"
 },
     {
   "title": "Snow halation",
   "artist": "μ's",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-25] At Christmas, all there is to do is eat and sing 🎅🏼🦌 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1AdZNBYEZp?p=15",
   "source": "naraetan.js"
 },
     {
   "title": "白い雪のプリンセスは",
   "artist": "のぼる↑",
-  "collection": "[2025-12-25]クリスマスには食べて歌うしかない🎅🏼🦌At Christmas, all there i[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-25] At Christmas, all there is to do is eat and sing 🎅🏼🦌 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1AdZNBYEZp?p=16",
   "source": "naraetan.js"
 },
     {
   "title": "車輪の唄",
   "artist": "BUMP OF CHICKEN",
-  "collection": "[2025-12-27]土曜日の深夜歌枠🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-27] Saturday late-night singing stream 🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
   "up": "e[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1sQZNBKEsS?p=1",
   "source": "naraetan.js"
@@ -1480,7 +1480,7 @@ window.SONG_DATA.push(
     {
   "title": "Last Piece",
   "artist": "Kirari",
-  "collection": "[2025-12-27]土曜日の深夜歌枠🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-27] Saturday late-night singing stream 🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
   "up": "e[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1sQZNBKEsS?p=2",
   "source": "naraetan.js"
@@ -1488,7 +1488,7 @@ window.SONG_DATA.push(
     {
   "title": "イエスタデイ",
   "artist": "Official髭男dism",
-  "collection": "[2025-12-27]土曜日の深夜歌枠🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-27] Saturday late-night singing stream 🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
   "up": "e[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1sQZNBKEsS?p=3",
   "source": "naraetan.js"
@@ -1496,7 +1496,7 @@ window.SONG_DATA.push(
     {
   "title": "秒針を噛む",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "[2025-12-27]土曜日の深夜歌枠🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-27] Saturday late-night singing stream 🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
   "up": "e[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1sQZNBKEsS?p=4",
   "source": "naraetan.js"
@@ -1504,7 +1504,7 @@ window.SONG_DATA.push(
     {
   "title": "Alone",
   "artist": "下川みくに",
-  "collection": "[2025-12-27]土曜日の深夜歌枠🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-27] Saturday late-night singing stream 🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
   "up": "e[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1sQZNBKEsS?p=5",
   "source": "naraetan.js"
@@ -1512,7 +1512,7 @@ window.SONG_DATA.push(
     {
   "title": "六等星の夜",
   "artist": "Aimer",
-  "collection": "[2025-12-27]土曜日の深夜歌枠🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-27] Saturday late-night singing stream 🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
   "up": "e[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1sQZNBKEsS?p=6",
   "source": "naraetan.js"
@@ -1520,7 +1520,7 @@ window.SONG_DATA.push(
     {
   "title": "Rubia",
   "artist": "周深",
-  "collection": "[2025-12-27]土曜日の深夜歌枠🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-27] Saturday late-night singing stream 🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
   "up": "e[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1sQZNBKEsS?p=7",
   "source": "naraetan.js"
@@ -1528,7 +1528,7 @@ window.SONG_DATA.push(
     {
   "title": "よくばり",
   "artist": "Ayase",
-  "collection": "[2025-12-27]土曜日の深夜歌枠🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-27] Saturday late-night singing stream 🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
   "up": "e[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1sQZNBKEsS?p=8",
   "source": "naraetan.js"
@@ -1536,7 +1536,7 @@ window.SONG_DATA.push(
     {
   "title": "夜に駆ける",
   "artist": "YOASOBI",
-  "collection": "[2025-12-27]土曜日の深夜歌枠🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-27] Saturday late-night singing stream 🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
   "up": "e[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1sQZNBKEsS?p=9",
   "source": "naraetan.js"
@@ -1544,7 +1544,7 @@ window.SONG_DATA.push(
     {
   "title": "初めての恋が終わる時",
   "artist": "ryo",
-  "collection": "[2025-12-27]土曜日の深夜歌枠🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-27] Saturday late-night singing stream 🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
   "up": "e[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1sQZNBKEsS?p=10",
   "source": "naraetan.js"
@@ -1552,7 +1552,7 @@ window.SONG_DATA.push(
     {
   "title": "夢ノカケラ",
   "artist": "AAA",
-  "collection": "[2025-12-27]土曜日の深夜歌枠🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-27] Saturday late-night singing stream 🌨️Saturday late-night singing stream[e[なれたん Naraetan Ch.🌷]",
   "up": "e[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1sQZNBKEsS?p=11",
   "source": "naraetan.js"
@@ -1560,127 +1560,127 @@ window.SONG_DATA.push(
     {
   "title": "火星人",
   "artist": "ヨルシカ",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-29] I’ll sing my favorite songs from 2025 🐍 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1R3ZKBHEBf?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "ナツメグ",
   "artist": "PURPLE BUBBLE",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-29] I’ll sing my favorite songs from 2025 🐍 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1R3ZKBHEBf?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE [TVアニメ 忘却バッテリー]",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-29] I’ll sing my favorite songs from 2025 🐍 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1R3ZKBHEBf?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "今はいいんだよ。",
   "artist": "MIMI feat.可不",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-29] I’ll sing my favorite songs from 2025 🐍 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1R3ZKBHEBf?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "六等星",
   "artist": "ざらめ",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-29] I’ll sing my favorite songs from 2025 🐍 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1R3ZKBHEBf?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "愛とか恋とか",
   "artist": "Novelbright",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-29] I’ll sing my favorite songs from 2025 🐍 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1R3ZKBHEBf?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "浪漫飛行",
   "artist": "米米CLUB",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-29] I’ll sing my favorite songs from 2025 🐍 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1R3ZKBHEBf?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "みむかゥわナイストライ",
   "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ feat.初音ミク",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-29] I’ll sing my favorite songs from 2025 🐍 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1R3ZKBHEBf?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "愛♡スクリーム！",
   "artist": "AiScReam [ラブライブ！シリーズ]",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-29] I’ll sing my favorite songs from 2025 🐍 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1R3ZKBHEBf?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド [TVアニメ ダンダダン 第2期]",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-29] I’ll sing my favorite songs from 2025 🐍 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1R3ZKBHEBf?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "好きすぎて滅！",
   "artist": "M!LK",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-29] I’ll sing my favorite songs from 2025 🐍 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1R3ZKBHEBf?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "uni-verse",
   "artist": "オーイシマサヨシ [映画 グリッドマン ユニバース]",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-29] I’ll sing my favorite songs from 2025 🐍 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1R3ZKBHEBf?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "愛言葉III",
   "artist": "DECO*27 feat.初音ミク",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-29] I’ll sing my favorite songs from 2025 🐍 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1R3ZKBHEBf?p=13",
   "source": "naraetan.js"
 },
     {
   "title": "優しさの理由",
   "artist": "ChouCho [TVアニメ 氷菓]",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-29] I’ll sing my favorite songs from 2025 🐍 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1R3ZKBHEBf?p=14",
   "source": "naraetan.js"
 },
     {
   "title": "アイドル",
   "artist": "YOASOBI [TVアニメ 【推しの子】]",
-  "collection": "[2025-12-29]2025年大好きになった曲を歌うぜ🐍I’ll sing my favorite songs [なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2025-12-29] I’ll sing my favorite songs from 2025 🐍 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1R3ZKBHEBf?p=15",
   "source": "naraetan.js"
 },
     {
   "title": "StarDust",
   "artist": "Sound Horizon",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-31] New Year's Countdown Request Karaoke🎤Request Karaoke until the New Year [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1WXZNBvEg4?p=1",
   "source": "naraetan.js"
@@ -1688,7 +1688,7 @@ window.SONG_DATA.push(
     {
   "title": "GO!!!",
   "artist": "FLOW",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-31] New Year's Countdown Request Karaoke🎤Request Karaoke until the New Year [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1WXZNBvEg4?p=2",
   "source": "naraetan.js"
@@ -1696,7 +1696,7 @@ window.SONG_DATA.push(
     {
   "title": "ClimaxJump",
   "artist": "AAA",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-31] New Year's Countdown Request Karaoke🎤Request Karaoke until the New Year [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1WXZNBvEg4?p=3",
   "source": "naraetan.js"
@@ -1704,7 +1704,7 @@ window.SONG_DATA.push(
     {
   "title": "RAIN",
   "artist": "SEKAI NO OWARI",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-31] New Year's Countdown Request Karaoke🎤Request Karaoke until the New Year [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1WXZNBvEg4?p=4",
   "source": "naraetan.js"
@@ -1712,7 +1712,7 @@ window.SONG_DATA.push(
     {
   "title": "SPiCa",
   "artist": "とくP",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-31] New Year's Countdown Request Karaoke🎤Request Karaoke until the New Year [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1WXZNBvEg4?p=5",
   "source": "naraetan.js"
@@ -1720,7 +1720,7 @@ window.SONG_DATA.push(
     {
   "title": "月光",
   "artist": "鬼束ちひろ",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-31] New Year's Countdown Request Karaoke🎤Request Karaoke until the New Year [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1WXZNBvEg4?p=6",
   "source": "naraetan.js"
@@ -1728,7 +1728,7 @@ window.SONG_DATA.push(
     {
   "title": "七転八起☆至上主義",
   "artist": "KOTOKO",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-31] New Year's Countdown Request Karaoke🎤Request Karaoke until the New Year [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1WXZNBvEg4?p=7",
   "source": "naraetan.js"
@@ -1736,7 +1736,7 @@ window.SONG_DATA.push(
     {
   "title": "ハナマル☆センセイション",
   "artist": "Little Non",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-31] New Year's Countdown Request Karaoke🎤Request Karaoke until the New Year [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1WXZNBvEg4?p=8",
   "source": "naraetan.js"
@@ -1744,7 +1744,7 @@ window.SONG_DATA.push(
     {
   "title": "Blessing",
   "artist": "halyosy",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-31] New Year's Countdown Request Karaoke🎤Request Karaoke until the New Year [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1WXZNBvEg4?p=9",
   "source": "naraetan.js"
@@ -1752,7 +1752,7 @@ window.SONG_DATA.push(
     {
   "title": "letter song",
   "artist": "doriko",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-31] New Year's Countdown Request Karaoke🎤Request Karaoke until the New Year [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1WXZNBvEg4?p=10",
   "source": "naraetan.js"
@@ -1760,7 +1760,7 @@ window.SONG_DATA.push(
     {
   "title": "愛のかたまり",
   "artist": "Kinki Kids",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-31] New Year's Countdown Request Karaoke🎤Request Karaoke until the New Year [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1WXZNBvEg4?p=11",
   "source": "naraetan.js"
@@ -1768,7 +1768,7 @@ window.SONG_DATA.push(
     {
   "title": "LAST STARDUST",
   "artist": "Aimer",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-31] New Year's Countdown Request Karaoke🎤Request Karaoke until the New Year [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1WXZNBvEg4?p=12",
   "source": "naraetan.js"
@@ -1776,7 +1776,7 @@ window.SONG_DATA.push(
     {
   "title": "ダブルラリアット",
   "artist": "アゴアニキ",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-31] New Year's Countdown Request Karaoke🎤Request Karaoke until the New Year [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1WXZNBvEg4?p=13",
   "source": "naraetan.js"
@@ -1784,7 +1784,7 @@ window.SONG_DATA.push(
     {
   "title": "JANE DOE",
   "artist": "米津玄師・宇多田ヒカル",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-31] New Year's Countdown Request Karaoke🎤Request Karaoke until the New Year [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1WXZNBvEg4?p=14",
   "source": "naraetan.js"
@@ -1792,7 +1792,7 @@ window.SONG_DATA.push(
     {
   "title": "不死鳥のフランメ",
   "artist": "マリア(日笠陽子)×風鳴翼(水樹奈々)",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-31] New Year's Countdown Request Karaoke🎤Request Karaoke until the New Year [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1WXZNBvEg4?p=15",
   "source": "naraetan.js"
@@ -1800,7 +1800,7 @@ window.SONG_DATA.push(
     {
   "title": "My Dearest",
   "artist": "supercell",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-31] New Year's Countdown Request Karaoke🎤Request Karaoke until the New Year [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1WXZNBvEg4?p=16",
   "source": "naraetan.js"
@@ -1808,7 +1808,7 @@ window.SONG_DATA.push(
     {
   "title": "Event Horizon",
   "artist": "ユンナ",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-31] New Year's Countdown Request Karaoke🎤Request Karaoke until the New Year [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1WXZNBvEg4?p=17",
   "source": "naraetan.js"
@@ -1816,7 +1816,7 @@ window.SONG_DATA.push(
     {
   "title": "FIRE BIRD",
   "artist": "Roselia",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-31] New Year's Countdown Request Karaoke🎤Request Karaoke until the New Year [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1WXZNBvEg4?p=18",
   "source": "naraetan.js"
@@ -1824,7 +1824,7 @@ window.SONG_DATA.push(
     {
   "title": "Os-宇宙人",
   "artist": "エリオをかまってちゃん",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-31] New Year's Countdown Request Karaoke🎤Request Karaoke until the New Year [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1WXZNBvEg4?p=19",
   "source": "naraetan.js"
@@ -1832,7 +1832,7 @@ window.SONG_DATA.push(
     {
   "title": "You & Me",
   "artist": "田村ゆかり",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-31] New Year's Countdown Request Karaoke🎤Request Karaoke until the New Year [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1WXZNBvEg4?p=20",
   "source": "naraetan.js"
@@ -1840,7 +1840,7 @@ window.SONG_DATA.push(
     {
   "title": "軌跡",
   "artist": "Roselia",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-31] New Year's Countdown Request Karaoke🎤Request Karaoke until the New Year [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1WXZNBvEg4?p=21",
   "source": "naraetan.js"
@@ -1848,7 +1848,7 @@ window.SONG_DATA.push(
     {
   "title": "僕が一番欲しかったもの",
   "artist": "槇原敬之",
-  "collection": "[2025-12-31]年越しまでリクエスト歌枠やるぞ🩷Request Karaoke until the New [なれたん Naraetan Ch.🌷]",
+  "collection": "[2025-12-31] New Year's Countdown Request Karaoke🎤Request Karaoke until the New Year [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1WXZNBvEg4?p=22",
   "source": "naraetan.js"
@@ -1856,7 +1856,7 @@ window.SONG_DATA.push(
     {
   "title": "Butter-Fly",
   "artist": "和田光司",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-01] New Year’s Song Stream! Delivering Energy 🎍✨ [j_exchLMXHw] [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZWcGzEEQi?p=1",
   "source": "naraetan.js"
@@ -1864,7 +1864,7 @@ window.SONG_DATA.push(
     {
   "title": "さぁ",
   "artist": "SURFACE",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-01] New Year’s Song Stream! Delivering Energy 🎍✨ [j_exchLMXHw] [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZWcGzEEQi?p=2",
   "source": "naraetan.js"
@@ -1872,7 +1872,7 @@ window.SONG_DATA.push(
     {
   "title": "いーあるふぁんくらぶ",
   "artist": "みきとP",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-01] New Year’s Song Stream! Delivering Energy 🎍✨ [j_exchLMXHw] [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZWcGzEEQi?p=3",
   "source": "naraetan.js"
@@ -1880,7 +1880,7 @@ window.SONG_DATA.push(
     {
   "title": "ロキ",
   "artist": "みきとP",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-01] New Year’s Song Stream! Delivering Energy 🎍✨ [j_exchLMXHw] [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZWcGzEEQi?p=4",
   "source": "naraetan.js"
@@ -1888,7 +1888,7 @@ window.SONG_DATA.push(
     {
   "title": "115万キロのフィルム",
   "artist": "Official 髭男dism",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-01] New Year’s Song Stream! Delivering Energy 🎍✨ [j_exchLMXHw] [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZWcGzEEQi?p=5",
   "source": "naraetan.js"
@@ -1896,7 +1896,7 @@ window.SONG_DATA.push(
     {
   "title": "祝福",
   "artist": "YOASOBI",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-01] New Year’s Song Stream! Delivering Energy 🎍✨ [j_exchLMXHw] [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZWcGzEEQi?p=6",
   "source": "naraetan.js"
@@ -1904,7 +1904,7 @@ window.SONG_DATA.push(
     {
   "title": "Letters to ME",
   "artist": "LiSA",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-01] New Year’s Song Stream! Delivering Energy 🎍✨ [j_exchLMXHw] [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZWcGzEEQi?p=7",
   "source": "naraetan.js"
@@ -1912,7 +1912,7 @@ window.SONG_DATA.push(
     {
   "title": "天城越え",
   "artist": "石川さゆり",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-01] New Year’s Song Stream! Delivering Energy 🎍✨ [j_exchLMXHw] [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZWcGzEEQi?p=8",
   "source": "naraetan.js"
@@ -1920,7 +1920,7 @@ window.SONG_DATA.push(
     {
   "title": "私は最強",
   "artist": "Ado",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-01] New Year’s Song Stream! Delivering Energy 🎍✨ [j_exchLMXHw] [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZWcGzEEQi?p=9",
   "source": "naraetan.js"
@@ -1928,7 +1928,7 @@ window.SONG_DATA.push(
     {
   "title": "シル・ヴ・プレジデント",
   "artist": "P丸様。",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-01] New Year’s Song Stream! Delivering Energy 🎍✨ [j_exchLMXHw] [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZWcGzEEQi?p=10",
   "source": "naraetan.js"
@@ -1936,7 +1936,7 @@ window.SONG_DATA.push(
     {
   "title": "おどるポンポコリン",
   "artist": "B.B.クィンズ",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-01] New Year’s Song Stream! Delivering Energy 🎍✨ [j_exchLMXHw] [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZWcGzEEQi?p=11",
   "source": "naraetan.js"
@@ -1944,7 +1944,7 @@ window.SONG_DATA.push(
     {
   "title": "I'm so happy",
   "artist": "Janne Da Arc",
-  "collection": "[2026-01-01]新年初歌枠！元気を届ける🎍✨[j_exchLMXHw][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-01] New Year’s Song Stream! Delivering Energy 🎍✨ [j_exchLMXHw] [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1ZWcGzEEQi?p=12",
   "source": "naraetan.js"
@@ -1952,191 +1952,191 @@ window.SONG_DATA.push(
     {
   "title": "花束",
   "artist": "back number",
-  "collection": "[2026-01-03]土曜日の深夜歌枠🧧[vCnyeDS-Vh0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-03] Late Night Saturday Singing Slot 🧧[vCnyeDS-Vh0][Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qHcGzSE44?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "Love Chronicle",
   "artist": "Changin' My Life",
-  "collection": "[2026-01-03]土曜日の深夜歌枠🧧[vCnyeDS-Vh0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-03] Late Night Saturday Singing Slot 🧧[vCnyeDS-Vh0][Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qHcGzSE44?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "アヤノの幸福理論",
   "artist": "じん",
-  "collection": "[2026-01-03]土曜日の深夜歌枠🧧[vCnyeDS-Vh0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-03] Late Night Saturday Singing Slot 🧧[vCnyeDS-Vh0][Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qHcGzSE44?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "Refrain",
   "artist": "Aimer",
-  "collection": "[2026-01-03]土曜日の深夜歌枠🧧[vCnyeDS-Vh0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-03] Late Night Saturday Singing Slot 🧧[vCnyeDS-Vh0][Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qHcGzSE44?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "For フルーツバスケット",
   "artist": "岡崎律子",
-  "collection": "[2026-01-03]土曜日の深夜歌枠🧧[vCnyeDS-Vh0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-03] Late Night Saturday Singing Slot 🧧[vCnyeDS-Vh0][Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qHcGzSE44?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "わかっていたはず",
   "artist": "佐藤朱美",
-  "collection": "[2026-01-03]土曜日の深夜歌枠🧧[vCnyeDS-Vh0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-03] Late Night Saturday Singing Slot 🧧[vCnyeDS-Vh0][Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qHcGzSE44?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "ロビンソン",
   "artist": "スピッツ",
-  "collection": "[2026-01-03]土曜日の深夜歌枠🧧[vCnyeDS-Vh0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-03] Late Night Saturday Singing Slot 🧧[vCnyeDS-Vh0][Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qHcGzSE44?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "楓",
   "artist": "スピッツ",
-  "collection": "[2026-01-03]土曜日の深夜歌枠🧧[vCnyeDS-Vh0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-03] Late Night Saturday Singing Slot 🧧[vCnyeDS-Vh0][Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qHcGzSE44?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "愛の星",
   "artist": "水樹奈々",
-  "collection": "[2026-01-03]土曜日の深夜歌枠🧧[vCnyeDS-Vh0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-03] Late Night Saturday Singing Slot 🧧[vCnyeDS-Vh0][Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qHcGzSE44?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "春はゆく",
   "artist": "Aimer",
-  "collection": "[2026-01-03]土曜日の深夜歌枠🧧[vCnyeDS-Vh0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-03] Late Night Saturday Singing Slot 🧧[vCnyeDS-Vh0][Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qHcGzSE44?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "桜流し",
   "artist": "宇多田ヒカル",
-  "collection": "[2026-01-03]土曜日の深夜歌枠🧧[vCnyeDS-Vh0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-03] Late Night Saturday Singing Slot 🧧[vCnyeDS-Vh0][Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qHcGzSE44?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "夜に駆ける",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-06] YOASOBI-san's Dedicated Singing Stream💓🎤 YOASOBI–only [KROhHaQNGn0][Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV167cGzpEVa?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "アンコール",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-06] YOASOBI-san's Dedicated Singing Stream💓🎤 YOASOBI–only [KROhHaQNGn0][Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV167cGzpEVa?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "群青",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-06] YOASOBI-san's Dedicated Singing Stream💓🎤 YOASOBI–only [KROhHaQNGn0][Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV167cGzpEVa?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "あの夢をなぞって",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-06] YOASOBI-san's Dedicated Singing Stream💓🎤 YOASOBI–only [KROhHaQNGn0][Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV167cGzpEVa?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "ハルジオン",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-06] YOASOBI-san's Dedicated Singing Stream💓🎤 YOASOBI–only [KROhHaQNGn0][Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV167cGzpEVa?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "勇者",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-06] YOASOBI-san's Dedicated Singing Stream💓🎤 YOASOBI–only [KROhHaQNGn0][Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV167cGzpEVa?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "たぶん",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-06] YOASOBI-san's Dedicated Singing Stream💓🎤 YOASOBI–only [KROhHaQNGn0][Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV167cGzpEVa?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "怪物",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-06] YOASOBI-san's Dedicated Singing Stream💓🎤 YOASOBI–only [KROhHaQNGn0][Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV167cGzpEVa?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "祝福",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-06] YOASOBI-san's Dedicated Singing Stream💓🎤 YOASOBI–only [KROhHaQNGn0][Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV167cGzpEVa?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "UNDEAD",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-06] YOASOBI-san's Dedicated Singing Stream💓🎤 YOASOBI–only [KROhHaQNGn0][Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV167cGzpEVa?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "アドレナ",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-06] YOASOBI-san's Dedicated Singing Stream💓🎤 YOASOBI–only [KROhHaQNGn0][Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV167cGzpEVa?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "アイドル",
   "artist": "YOASOBI",
-  "collection": "[2026-01-06]YOASOBIさん縛り歌枠💓🎤YOASOBI–only[KROhHaQNGn0][なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-06] YOASOBI-san's Dedicated Singing Stream💓🎤 YOASOBI–only [KROhHaQNGn0][Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV167cGzpEVa?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "カクテル",
   "artist": "Hysteric Blue",
-  "collection": "[2026-01-09]気ままに歌う金曜日[FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-09] Casual Singing Friday [FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1aYcGzGEfX?p=1",
   "source": "naraetan.js"
@@ -2144,7 +2144,7 @@ window.SONG_DATA.push(
     {
   "title": "innocent starter",
   "artist": "水樹奈々",
-  "collection": "[2026-01-09]気ままに歌う金曜日[FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-09] Casual Singing Friday [FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1aYcGzGEfX?p=2",
   "source": "naraetan.js"
@@ -2152,7 +2152,7 @@ window.SONG_DATA.push(
     {
   "title": "Wind Climbing ～風にあそばれて～",
   "artist": "奥井亜紀",
-  "collection": "[2026-01-09]気ままに歌う金曜日[FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-09] Casual Singing Friday [FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1aYcGzGEfX?p=3",
   "source": "naraetan.js"
@@ -2160,7 +2160,7 @@ window.SONG_DATA.push(
     {
   "title": "シュガーソングとビターステップ",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "[2026-01-09]気ままに歌う金曜日[FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-09] Casual Singing Friday [FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1aYcGzGEfX?p=4",
   "source": "naraetan.js"
@@ -2168,7 +2168,7 @@ window.SONG_DATA.push(
     {
   "title": "アドレナ",
   "artist": "YOASOBI",
-  "collection": "[2026-01-09]気ままに歌う金曜日[FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-09] Casual Singing Friday [FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1aYcGzGEfX?p=5",
   "source": "naraetan.js"
@@ -2176,7 +2176,7 @@ window.SONG_DATA.push(
     {
   "title": "ワタリドリ",
   "artist": "『Alexandros』",
-  "collection": "[2026-01-09]気ままに歌う金曜日[FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-09] Casual Singing Friday [FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1aYcGzGEfX?p=6",
   "source": "naraetan.js"
@@ -2184,7 +2184,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "[2026-01-09]気ままに歌う金曜日[FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-09] Casual Singing Friday [FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1aYcGzGEfX?p=7",
   "source": "naraetan.js"
@@ -2192,7 +2192,7 @@ window.SONG_DATA.push(
     {
   "title": "楓",
   "artist": "スピッツ",
-  "collection": "[2026-01-09]気ままに歌う金曜日[FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-09] Casual Singing Friday [FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1aYcGzGEfX?p=8",
   "source": "naraetan.js"
@@ -2200,7 +2200,7 @@ window.SONG_DATA.push(
     {
   "title": "c／2022YH",
   "artist": "ユンナ",
-  "collection": "[2026-01-09]気ままに歌う金曜日[FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-09] Casual Singing Friday [FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1aYcGzGEfX?p=9",
   "source": "naraetan.js"
@@ -2208,7 +2208,7 @@ window.SONG_DATA.push(
     {
   "title": "愛♡スクリーム!",
   "artist": "AiScReam",
-  "collection": "[2026-01-09]気ままに歌う金曜日[FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-09] Casual Singing Friday [FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1aYcGzGEfX?p=10",
   "source": "naraetan.js"
@@ -2216,7 +2216,7 @@ window.SONG_DATA.push(
     {
   "title": "コットンキャンディえいえいおー!",
   "artist": "黒澤ルビィ(降幡愛)",
-  "collection": "[2026-01-09]気ままに歌う金曜日[FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-09] Casual Singing Friday [FmZAKo9Aq-Q][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1aYcGzGEfX?p=11",
   "source": "naraetan.js"
@@ -2224,495 +2224,495 @@ window.SONG_DATA.push(
     {
   "title": "あなたがいた森",
   "artist": "樹海",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-10] Saturday Late-Night Singing Stream🍵Saturday late-night singing stream[NA[Naraetan Ch.🌷]",
+  "up": "NA[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1YecGzrE8j?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "大好きだよ。",
   "artist": "大塚愛",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-10] Saturday Late-Night Singing Stream🍵Saturday late-night singing stream[NA[Naraetan Ch.🌷]",
+  "up": "NA[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1YecGzrE8j?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "アンインストール",
   "artist": "石川智晶",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-10] Saturday Late-Night Singing Stream🍵Saturday late-night singing stream[NA[Naraetan Ch.🌷]",
+  "up": "NA[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1YecGzrE8j?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "あんなに一緒だったのに",
   "artist": "See-Saw",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-10] Saturday Late-Night Singing Stream🍵Saturday late-night singing stream[NA[Naraetan Ch.🌷]",
+  "up": "NA[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1YecGzrE8j?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "あんずの花",
   "artist": "すりぃ",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-10] Saturday Late-Night Singing Stream🍵Saturday late-night singing stream[NA[Naraetan Ch.🌷]",
+  "up": "NA[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1YecGzrE8j?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "いのちの名前",
   "artist": "木村弓",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-10] Saturday Late-Night Singing Stream🍵Saturday late-night singing stream[NA[Naraetan Ch.🌷]",
+  "up": "NA[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1YecGzrE8j?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "Plastic Love",
   "artist": "竹内まりや",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-10] Saturday Late-Night Singing Stream🍵Saturday late-night singing stream[NA[Naraetan Ch.🌷]",
+  "up": "NA[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1YecGzrE8j?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "Square",
   "artist": "Yerin Baek",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-10] Saturday Late-Night Singing Stream🍵Saturday late-night singing stream[NA[Naraetan Ch.🌷]",
+  "up": "NA[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1YecGzrE8j?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "猫",
   "artist": "DISH／／",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-10] Saturday Late-Night Singing Stream🍵Saturday late-night singing stream[NA[Naraetan Ch.🌷]",
+  "up": "NA[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1YecGzrE8j?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "僕が一番欲しかったもの",
   "artist": "槇原敬之",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-10] Saturday Late-Night Singing Stream🍵Saturday late-night singing stream[NA[Naraetan Ch.🌷]",
+  "up": "NA[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1YecGzrE8j?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "Sweet Dreams, My Dear",
   "artist": "SoHyang",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-10] Saturday Late-Night Singing Stream🍵Saturday late-night singing stream[NA[Naraetan Ch.🌷]",
+  "up": "NA[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1YecGzrE8j?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "希望峰",
   "artist": "Strawberry JAM",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-10] Saturday Late-Night Singing Stream🍵Saturday late-night singing stream[NA[Naraetan Ch.🌷]",
+  "up": "NA[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1YecGzrE8j?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "三日月",
   "artist": "絢香",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-10] Saturday Late-Night Singing Stream🍵Saturday late-night singing stream[NA[Naraetan Ch.🌷]",
+  "up": "NA[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1YecGzrE8j?p=13",
   "source": "naraetan.js"
 },
     {
   "title": "God knows...",
   "artist": "涼宮ハルヒ(平野綾)",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-10] Saturday Late-Night Singing Stream🍵Saturday late-night singing stream[NA[Naraetan Ch.🌷]",
+  "up": "NA[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1YecGzrE8j?p=14",
   "source": "naraetan.js"
 },
     {
   "title": "コネクト",
   "artist": "ClariS",
-  "collection": "[2026-01-10]土曜日の深夜歌枠🍵Saturday late-night singing stream[NA[なれたん Naraetan Ch.🌷]",
-  "up": "NA[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-10] Saturday Late-Night Singing Stream🍵Saturday late-night singing stream[NA[Naraetan Ch.🌷]",
+  "up": "NA[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1YecGzrE8j?p=15",
   "source": "naraetan.js"
 },
     {
   "title": "可愛くてごめん",
   "artist": "HoneyWorks",
-  "collection": "[2026-01-14]キュートをお届け！歌枠💝Delivering cuteness! KARAOKE[-eNT5[なれたん Naraetan Ch.🌷]",
-  "up": "-eNT5[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-14]Delivering cuteness! Karaoke💝[-eNT5[Naraetan Ch.🌷]",
+  "up": "-eNT5[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV19Uc3zGEDr?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "恋愛サーキュレーション",
   "artist": "千石撫子(CV.花澤香菜)",
-  "collection": "[2026-01-14]キュートをお届け！歌枠💝Delivering cuteness! KARAOKE[-eNT5[なれたん Naraetan Ch.🌷]",
-  "up": "-eNT5[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-14]Delivering cuteness! Karaoke💝[-eNT5[Naraetan Ch.🌷]",
+  "up": "-eNT5[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV19Uc3zGEDr?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "わたしの一番かわいいところ",
   "artist": "FRUITS ZIPPER",
-  "collection": "[2026-01-14]キュートをお届け！歌枠💝Delivering cuteness! KARAOKE[-eNT5[なれたん Naraetan Ch.🌷]",
-  "up": "-eNT5[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-14]Delivering cuteness! Karaoke💝[-eNT5[Naraetan Ch.🌷]",
+  "up": "-eNT5[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV19Uc3zGEDr?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "愛♡スクリーム!",
   "artist": "AiScReam",
-  "collection": "[2026-01-14]キュートをお届け！歌枠💝Delivering cuteness! KARAOKE[-eNT5[なれたん Naraetan Ch.🌷]",
-  "up": "-eNT5[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-14]Delivering cuteness! Karaoke💝[-eNT5[Naraetan Ch.🌷]",
+  "up": "-eNT5[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV19Uc3zGEDr?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "Cagayake!GIRLS",
   "artist": "放課後ティータイム",
-  "collection": "[2026-01-14]キュートをお届け！歌枠💝Delivering cuteness! KARAOKE[-eNT5[なれたん Naraetan Ch.🌷]",
-  "up": "-eNT5[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-14]Delivering cuteness! Karaoke💝[-eNT5[Naraetan Ch.🌷]",
+  "up": "-eNT5[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV19Uc3zGEDr?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "U&I",
   "artist": "放課後ティータイム",
-  "collection": "[2026-01-14]キュートをお届け！歌枠💝Delivering cuteness! KARAOKE[-eNT5[なれたん Naraetan Ch.🌷]",
-  "up": "-eNT5[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-14]Delivering cuteness! Karaoke💝[-eNT5[Naraetan Ch.🌷]",
+  "up": "-eNT5[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV19Uc3zGEDr?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "トウキョウ・シャンディ・ランデヴ",
   "artist": "MAISONdes",
-  "collection": "[2026-01-14]キュートをお届け！歌枠💝Delivering cuteness! KARAOKE[-eNT5[なれたん Naraetan Ch.🌷]",
-  "up": "-eNT5[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-14]Delivering cuteness! Karaoke💝[-eNT5[Naraetan Ch.🌷]",
+  "up": "-eNT5[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV19Uc3zGEDr?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "はじめて♡しましょ!",
   "artist": "釘宮理恵",
-  "collection": "[2026-01-14]キュートをお届け！歌枠💝Delivering cuteness! KARAOKE[-eNT5[なれたん Naraetan Ch.🌷]",
-  "up": "-eNT5[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-14]Delivering cuteness! Karaoke💝[-eNT5[Naraetan Ch.🌷]",
+  "up": "-eNT5[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV19Uc3zGEDr?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "スキキライ!スキ!!!",
   "artist": "ルイズ・フランソワーズ・ル・ブラン・ド・ラ・ヴァリエール(釘宮理恵)",
-  "collection": "[2026-01-14]キュートをお届け！歌枠💝Delivering cuteness! KARAOKE[-eNT5[なれたん Naraetan Ch.🌷]",
-  "up": "-eNT5[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-14]Delivering cuteness! Karaoke💝[-eNT5[Naraetan Ch.🌷]",
+  "up": "-eNT5[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV19Uc3zGEDr?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "アドレナ",
   "artist": "YOASOBI",
-  "collection": "[2026-01-14]キュートをお届け！歌枠💝Delivering cuteness! KARAOKE[-eNT5[なれたん Naraetan Ch.🌷]",
-  "up": "-eNT5[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-14]Delivering cuteness! Karaoke💝[-eNT5[Naraetan Ch.🌷]",
+  "up": "-eNT5[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV19Uc3zGEDr?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "adrenaline!!!",
   "artist": "TrySail",
-  "collection": "[2026-01-14]キュートをお届け！歌枠💝Delivering cuteness! KARAOKE[-eNT5[なれたん Naraetan Ch.🌷]",
-  "up": "-eNT5[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-14]Delivering cuteness! Karaoke💝[-eNT5[Naraetan Ch.🌷]",
+  "up": "-eNT5[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV19Uc3zGEDr?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "ヒトリノ夜",
   "artist": "ポルノグラフィティ",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "オリオンをなぞる",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "サウダージ",
   "artist": "ポルノグラフィティ",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "インフェルノ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "courage",
   "artist": "戸松遥",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "Hacking to the Gate",
   "artist": "いとうかなこ",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "NO, Thank You!",
   "artist": "放課後ティータイム",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "only my railgun",
   "artist": "fripSide",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "新時代",
   "artist": "Ado",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "Crossing Field",
   "artist": "LiSA",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "白銀",
   "artist": "LiSA",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "花になって",
   "artist": "緑黄色社会",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=13",
   "source": "naraetan.js"
 },
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=14",
   "source": "naraetan.js"
 },
     {
   "title": "IRIS OUT",
   "artist": "米津玄師",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=15",
   "source": "naraetan.js"
 },
     {
   "title": "Pretender",
   "artist": "Official髭男dism",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=16",
   "source": "naraetan.js"
 },
     {
   "title": "you",
   "artist": "癒月",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=17",
   "source": "naraetan.js"
 },
     {
   "title": "ENDLESS STORY",
   "artist": "REIRA starring YUNA ITO",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=18",
   "source": "naraetan.js"
 },
     {
   "title": "楓",
   "artist": "スピッツ",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=19",
   "source": "naraetan.js"
 },
     {
   "title": "隣に…",
   "artist": "三浦あずさ(たかはし智秋)",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=20",
   "source": "naraetan.js"
 },
     {
   "title": "なんでもないや(movie edit ver.)",
   "artist": "RADWIMPS",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=21",
   "source": "naraetan.js"
 },
     {
   "title": "狂乱Hey Kids!!",
   "artist": "THE ORAL CIGARETTES",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=22",
   "source": "naraetan.js"
 },
     {
   "title": "許婚っきゅん",
   "artist": "ano",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=23",
   "source": "naraetan.js"
 },
     {
   "title": "Hello, Worker",
   "artist": "KEI",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=24",
   "source": "naraetan.js"
 },
     {
   "title": "Grip!",
   "artist": "Every Little Thing",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=25",
   "source": "naraetan.js"
 },
     {
   "title": "Sincerely",
   "artist": "TRUE",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=26",
   "source": "naraetan.js"
 },
     {
   "title": "DUET",
   "artist": "ZICO & 幾田りら",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=27",
   "source": "naraetan.js"
 },
     {
   "title": "好きすぎて滅!",
   "artist": "M!LK",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=28",
   "source": "naraetan.js"
 },
     {
   "title": "シフクノトキ",
   "artist": "LiSA",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=29",
   "source": "naraetan.js"
 },
     {
   "title": "妄想感傷代償連盟",
   "artist": "DECO*27",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=30",
   "source": "naraetan.js"
 },
     {
   "title": "すずめ",
   "artist": "RADWIMPS feat.十明",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=31",
   "source": "naraetan.js"
 },
     {
   "title": "月灯りふんわり落ちてくる夜",
   "artist": "小川七生",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=32",
   "source": "naraetan.js"
 },
     {
   "title": "remember",
   "artist": "Uru",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=33",
   "source": "naraetan.js"
 },
     {
   "title": "娘々サービスメドレー(特盛り)",
   "artist": "マクロスフロンティアより",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=34",
   "source": "naraetan.js"
 },
     {
   "title": "uni-verse",
   "artist": "オーイシマサヨシ",
-  "collection": "[2026-01-16]耐久歌枠-あなたの高評価が必要です❣️Your like is needed[6ss37GL-[なれたん Naraetan Ch.🌷]",
-  "up": "6ss37GL-[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-16] Endurance Singing Stream - Your likes are needed❣️Your like is needed[6ss37GL-[Naraetan Ch.🌷]",
+  "up": "6ss37GL-[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1uwcGzeE3q?p=35",
   "source": "naraetan.js"
 },
     {
   "title": "夢の中へ",
   "artist": "井上陽水",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-17] Saturday late-night singing stream🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Ggc3zuECe?p=1",
   "source": "naraetan.js"
@@ -2720,7 +2720,7 @@ window.SONG_DATA.push(
     {
   "title": "プラチナ",
   "artist": "坂本真綾",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-17] Saturday late-night singing stream🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Ggc3zuECe?p=2",
   "source": "naraetan.js"
@@ -2728,7 +2728,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "コレサワ",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-17] Saturday late-night singing stream🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Ggc3zuECe?p=3",
   "source": "naraetan.js"
@@ -2736,7 +2736,7 @@ window.SONG_DATA.push(
     {
   "title": "恋人失格",
   "artist": "コレサワ",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-17] Saturday late-night singing stream🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Ggc3zuECe?p=4",
   "source": "naraetan.js"
@@ -2744,7 +2744,7 @@ window.SONG_DATA.push(
     {
   "title": "glow",
   "artist": "keeno",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-17] Saturday late-night singing stream🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Ggc3zuECe?p=5",
   "source": "naraetan.js"
@@ -2752,7 +2752,7 @@ window.SONG_DATA.push(
     {
   "title": "有心論",
   "artist": "RADWIMPS",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-17] Saturday late-night singing stream🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Ggc3zuECe?p=6",
   "source": "naraetan.js"
@@ -2760,7 +2760,7 @@ window.SONG_DATA.push(
     {
   "title": "星になる",
   "artist": "Islet feat.倚水",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-17] Saturday late-night singing stream🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Ggc3zuECe?p=7",
   "source": "naraetan.js"
@@ -2768,7 +2768,7 @@ window.SONG_DATA.push(
     {
   "title": "U",
   "artist": "EOW",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-17] Saturday late-night singing stream🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Ggc3zuECe?p=8",
   "source": "naraetan.js"
@@ -2776,7 +2776,7 @@ window.SONG_DATA.push(
     {
   "title": "ラブソング",
   "artist": "サンボマスター",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-17] Saturday late-night singing stream🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Ggc3zuECe?p=9",
   "source": "naraetan.js"
@@ -2784,7 +2784,7 @@ window.SONG_DATA.push(
     {
   "title": "春よ、来い",
   "artist": "松任谷由実",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-17] Saturday late-night singing stream🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Ggc3zuECe?p=10",
   "source": "naraetan.js"
@@ -2792,7 +2792,7 @@ window.SONG_DATA.push(
     {
   "title": "空の青さを知る人よ",
   "artist": "あいみょん",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-17] Saturday late-night singing stream🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Ggc3zuECe?p=11",
   "source": "naraetan.js"
@@ -2800,7 +2800,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならメモリーズ",
   "artist": "supercell",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-17] Saturday late-night singing stream🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Ggc3zuECe?p=12",
   "source": "naraetan.js"
@@ -2808,7 +2808,7 @@ window.SONG_DATA.push(
     {
   "title": "Snow rain",
   "artist": "八神はやて(植田佳奈)",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-17] Saturday late-night singing stream🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Ggc3zuECe?p=13",
   "source": "naraetan.js"
@@ -2816,7 +2816,7 @@ window.SONG_DATA.push(
     {
   "title": "一番の宝物 ～Yui final ver.～",
   "artist": "LiSA",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-17] Saturday late-night singing stream🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Ggc3zuECe?p=14",
   "source": "naraetan.js"
@@ -2824,7 +2824,7 @@ window.SONG_DATA.push(
     {
   "title": "森の小さなレストラン",
   "artist": "手嶌葵",
-  "collection": "[2026-01-17]土曜日の深夜歌枠🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-17] Saturday late-night singing stream🐞Saturday late-night singing stream[なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Ggc3zuECe?p=15",
   "source": "naraetan.js"
@@ -2832,7 +2832,7 @@ window.SONG_DATA.push(
     {
   "title": "ピースサイン",
   "artist": "米津玄師",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-20] I’ll sing in a vertical stream 🎙️ [PDBIi[なれたん Naraetan Ch.🌷]",
   "up": "PDBIi[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV15Mc3z6Ewh?p=1",
   "source": "naraetan.js"
@@ -2840,7 +2840,7 @@ window.SONG_DATA.push(
     {
   "title": "君はロックを聴かない",
   "artist": "あいみょん",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-20] I’ll sing in a vertical stream 🎙️ [PDBIi[なれたん Naraetan Ch.🌷]",
   "up": "PDBIi[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV15Mc3z6Ewh?p=2",
   "source": "naraetan.js"
@@ -2848,7 +2848,7 @@ window.SONG_DATA.push(
     {
   "title": "DAN DAN 心魅かれてく",
   "artist": "FIELD OF VIEW",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-20] I’ll sing in a vertical stream 🎙️ [PDBIi[なれたん Naraetan Ch.🌷]",
   "up": "PDBIi[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV15Mc3z6Ewh?p=3",
   "source": "naraetan.js"
@@ -2856,7 +2856,7 @@ window.SONG_DATA.push(
     {
   "title": "創聖のアクエリオン",
   "artist": "AKINO",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-20] I’ll sing in a vertical stream 🎙️ [PDBIi[なれたん Naraetan Ch.🌷]",
   "up": "PDBIi[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV15Mc3z6Ewh?p=4",
   "source": "naraetan.js"
@@ -2864,7 +2864,7 @@ window.SONG_DATA.push(
     {
   "title": "恋",
   "artist": "星野源",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-20] I’ll sing in a vertical stream 🎙️ [PDBIi[なれたん Naraetan Ch.🌷]",
   "up": "PDBIi[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV15Mc3z6Ewh?p=5",
   "source": "naraetan.js"
@@ -2872,7 +2872,7 @@ window.SONG_DATA.push(
     {
   "title": "ミックスナッツ",
   "artist": "Official髭男dism",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-20] I’ll sing in a vertical stream 🎙️ [PDBIi[なれたん Naraetan Ch.🌷]",
   "up": "PDBIi[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV15Mc3z6Ewh?p=6",
   "source": "naraetan.js"
@@ -2880,7 +2880,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら",
   "artist": "結束バンド",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-20] I’ll sing in a vertical stream 🎙️ [PDBIi[なれたん Naraetan Ch.🌷]",
   "up": "PDBIi[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV15Mc3z6Ewh?p=7",
   "source": "naraetan.js"
@@ -2888,7 +2888,7 @@ window.SONG_DATA.push(
     {
   "title": "LADYBUG",
   "artist": "緑黄色社会",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-20] I’ll sing in a vertical stream 🎙️ [PDBIi[なれたん Naraetan Ch.🌷]",
   "up": "PDBIi[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV15Mc3z6Ewh?p=8",
   "source": "naraetan.js"
@@ -2896,7 +2896,7 @@ window.SONG_DATA.push(
     {
   "title": "優しさの理由",
   "artist": "ChouCho",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-20] I’ll sing in a vertical stream 🎙️ [PDBIi[なれたん Naraetan Ch.🌷]",
   "up": "PDBIi[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV15Mc3z6Ewh?p=9",
   "source": "naraetan.js"
@@ -2904,7 +2904,7 @@ window.SONG_DATA.push(
     {
   "title": "さくらんぼ",
   "artist": "大塚愛",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-20] I’ll sing in a vertical stream 🎙️ [PDBIi[なれたん Naraetan Ch.🌷]",
   "up": "PDBIi[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV15Mc3z6Ewh?p=10",
   "source": "naraetan.js"
@@ -2912,7 +2912,7 @@ window.SONG_DATA.push(
     {
   "title": "Mela!",
   "artist": "緑黄色社会",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-20] I’ll sing in a vertical stream 🎙️ [PDBIi[なれたん Naraetan Ch.🌷]",
   "up": "PDBIi[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV15Mc3z6Ewh?p=11",
   "source": "naraetan.js"
@@ -2920,7 +2920,7 @@ window.SONG_DATA.push(
     {
   "title": "Over Soul",
   "artist": "林原めぐみ",
-  "collection": "[2026-01-20]縦型配信で歌うよ🎙️I’ll sing in a vertical stream[PDBIi[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-20] I’ll sing in a vertical stream 🎙️ [PDBIi[なれたん Naraetan Ch.🌷]",
   "up": "PDBIi[なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV15Mc3z6Ewh?p=12",
   "source": "naraetan.js"
@@ -2928,7 +2928,7 @@ window.SONG_DATA.push(
     {
   "title": "Cagayake!GIRLS",
   "artist": "放課後ティータイム",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-21] What I really love is anime song-themed streams 🐹 [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qcc3zLEzd?p=1",
   "source": "naraetan.js"
@@ -2936,7 +2936,7 @@ window.SONG_DATA.push(
     {
   "title": "ギターと孤独と蒼い惑星",
   "artist": "結束バンド",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-21] What I really love is anime song-themed streams 🐹 [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qcc3zLEzd?p=2",
   "source": "naraetan.js"
@@ -2944,7 +2944,7 @@ window.SONG_DATA.push(
     {
   "title": "ゆずれない願い",
   "artist": "田村直美",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-21] What I really love is anime song-themed streams 🐹 [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qcc3zLEzd?p=3",
   "source": "naraetan.js"
@@ -2952,7 +2952,7 @@ window.SONG_DATA.push(
     {
   "title": "バラライカ",
   "artist": "月島きらり starring 久住小春",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-21] What I really love is anime song-themed streams 🐹 [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qcc3zLEzd?p=4",
   "source": "naraetan.js"
@@ -2960,7 +2960,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒャダインのカカカタ☆カタオモイ-C",
   "artist": "ヒャダイン",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-21] What I really love is anime song-themed streams 🐹 [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qcc3zLEzd?p=5",
   "source": "naraetan.js"
@@ -2968,7 +2968,7 @@ window.SONG_DATA.push(
     {
   "title": "全力☆Summer!",
   "artist": "angela",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-21] What I really love is anime song-themed streams 🐹 [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qcc3zLEzd?p=6",
   "source": "naraetan.js"
@@ -2976,7 +2976,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-21] What I really love is anime song-themed streams 🐹 [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qcc3zLEzd?p=7",
   "source": "naraetan.js"
@@ -2984,7 +2984,7 @@ window.SONG_DATA.push(
     {
   "title": "Shangri-La",
   "artist": "angela",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-21] What I really love is anime song-themed streams 🐹 [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qcc3zLEzd?p=8",
   "source": "naraetan.js"
@@ -2992,7 +2992,7 @@ window.SONG_DATA.push(
     {
   "title": "ADAMAS",
   "artist": "LiSA",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-21] What I really love is anime song-themed streams 🐹 [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qcc3zLEzd?p=9",
   "source": "naraetan.js"
@@ -3000,7 +3000,7 @@ window.SONG_DATA.push(
     {
   "title": "CANDY☆POP☆SWEET☆HEART",
   "artist": "新谷良子",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-21] What I really love is anime song-themed streams 🐹 [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qcc3zLEzd?p=10",
   "source": "naraetan.js"
@@ -3008,7 +3008,7 @@ window.SONG_DATA.push(
     {
   "title": "お願いマッスル",
   "artist": "紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人)",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-21] What I really love is anime song-themed streams 🐹 [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qcc3zLEzd?p=11",
   "source": "naraetan.js"
@@ -3016,7 +3016,7 @@ window.SONG_DATA.push(
     {
   "title": "シリウス",
   "artist": "藍井エイル",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-21] What I really love is anime song-themed streams 🐹 [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qcc3zLEzd?p=12",
   "source": "naraetan.js"
@@ -3024,7 +3024,7 @@ window.SONG_DATA.push(
     {
   "title": "集結の園へ",
   "artist": "林原めぐみ",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-21] What I really love is anime song-themed streams 🐹 [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qcc3zLEzd?p=13",
   "source": "naraetan.js"
@@ -3032,7 +3032,7 @@ window.SONG_DATA.push(
     {
   "title": "甲賀忍法帖",
   "artist": "陰陽座",
-  "collection": "[2026-01-21]だぁい好きなのはアニソン縛り歌枠🐹What I really love is an anim[なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-01-21] What I really love is anime song-themed streams 🐹 [なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1qcc3zLEzd?p=14",
   "source": "naraetan.js"
@@ -3040,503 +3040,503 @@ window.SONG_DATA.push(
     {
   "title": "残響散歌",
   "artist": "Aimer",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-27] Drinking Songs for Lightweights 🥴🍺 Lightweight drinking & KARAOKE [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Mpc3zcEuJ?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "Speaking",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-27] Drinking Songs for Lightweights 🥴🍺 Lightweight drinking & KARAOKE [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Mpc3zcEuJ?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-27] Drinking Songs for Lightweights 🥴🍺 Lightweight drinking & KARAOKE [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Mpc3zcEuJ?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "ハレ晴レユカイ",
   "artist": "涼宮ハルヒ(平野綾), 長門有希(茅原実里), 朝比奈みくる(後藤邑子)",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-27] Drinking Songs for Lightweights 🥴🍺 Lightweight drinking & KARAOKE [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Mpc3zcEuJ?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "少女レイ",
   "artist": "みきとP",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-27] Drinking Songs for Lightweights 🥴🍺 Lightweight drinking & KARAOKE [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Mpc3zcEuJ?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "ビビデバ",
   "artist": "星街すいせい",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-27] Drinking Songs for Lightweights 🥴🍺 Lightweight drinking & KARAOKE [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Mpc3zcEuJ?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-27] Drinking Songs for Lightweights 🥴🍺 Lightweight drinking & KARAOKE [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Mpc3zcEuJ?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "DUET",
   "artist": "ZICO & 幾田りら",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-27] Drinking Songs for Lightweights 🥴🍺 Lightweight drinking & KARAOKE [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Mpc3zcEuJ?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "小さな恋のうた",
   "artist": "MONGOL800",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-27] Drinking Songs for Lightweights 🥴🍺 Lightweight drinking & KARAOKE [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Mpc3zcEuJ?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "Catch the Moment",
   "artist": "LiSA",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-27] Drinking Songs for Lightweights 🥴🍺 Lightweight drinking & KARAOKE [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Mpc3zcEuJ?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "ワールドイズマイン",
   "artist": "supercell",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-27] Drinking Songs for Lightweights 🥴🍺 Lightweight drinking & KARAOKE [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Mpc3zcEuJ?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "White Reflection",
   "artist": "TWO-MIX",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-27] Drinking Songs for Lightweights 🥴🍺 Lightweight drinking & KARAOKE [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Mpc3zcEuJ?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "心做し",
   "artist": "蝶々P feat.GUMI",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-27] Drinking Songs for Lightweights 🥴🍺 Lightweight drinking & KARAOKE [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Mpc3zcEuJ?p=13",
   "source": "naraetan.js"
 },
     {
   "title": "オレンジ",
   "artist": "7!!",
-  "collection": "[2026-01-27]アルコール弱い人の飲酒歌枠🥴🍺Lightweight drinking & KARAOKE[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-27] Drinking Songs for Lightweights 🥴🍺 Lightweight drinking & KARAOKE [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Mpc3zcEuJ?p=14",
   "source": "naraetan.js"
 },
     {
   "title": "CHE.R.RY",
   "artist": "YUI",
-  "collection": "[2026-01-29]一曲聞いてってください💗Please listen to one song[Nu9wHKoN[なれたん Naraetan Ch.🌷]",
-  "up": "Nu9wHKoN[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-29] Please listen to this one song💗 [Nu9wHKoN[Naraetan Ch.🌷]]",
+  "up": "Nu9wHKoN[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Tnc3zaEXc?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "[2026-01-29]一曲聞いてってください💗Please listen to one song[Nu9wHKoN[なれたん Naraetan Ch.🌷]",
-  "up": "Nu9wHKoN[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-29] Please listen to this one song💗 [Nu9wHKoN[Naraetan Ch.🌷]]",
+  "up": "Nu9wHKoN[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Tnc3zaEXc?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "[2026-01-29]一曲聞いてってください💗Please listen to one song[Nu9wHKoN[なれたん Naraetan Ch.🌷]",
-  "up": "Nu9wHKoN[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-29] Please listen to this one song💗 [Nu9wHKoN[Naraetan Ch.🌷]]",
+  "up": "Nu9wHKoN[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Tnc3zaEXc?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "115万キロのフィルム",
   "artist": "Official髭男dism",
-  "collection": "[2026-01-29]一曲聞いてってください💗Please listen to one song[Nu9wHKoN[なれたん Naraetan Ch.🌷]",
-  "up": "Nu9wHKoN[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-29] Please listen to this one song💗 [Nu9wHKoN[Naraetan Ch.🌷]]",
+  "up": "Nu9wHKoN[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Tnc3zaEXc?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "オトノナルホウヘ→",
   "artist": "Goose house",
-  "collection": "[2026-01-29]一曲聞いてってください💗Please listen to one song[Nu9wHKoN[なれたん Naraetan Ch.🌷]",
-  "up": "Nu9wHKoN[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-29] Please listen to this one song💗 [Nu9wHKoN[Naraetan Ch.🌷]]",
+  "up": "Nu9wHKoN[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Tnc3zaEXc?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "幾億光年",
   "artist": "omoinotake",
-  "collection": "[2026-01-29]一曲聞いてってください💗Please listen to one song[Nu9wHKoN[なれたん Naraetan Ch.🌷]",
-  "up": "Nu9wHKoN[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-29] Please listen to this one song💗 [Nu9wHKoN[Naraetan Ch.🌷]]",
+  "up": "Nu9wHKoN[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Tnc3zaEXc?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "No title",
   "artist": "Reol",
-  "collection": "[2026-01-29]一曲聞いてってください💗Please listen to one song[Nu9wHKoN[なれたん Naraetan Ch.🌷]",
-  "up": "Nu9wHKoN[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-29] Please listen to this one song💗 [Nu9wHKoN[Naraetan Ch.🌷]]",
+  "up": "Nu9wHKoN[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Tnc3zaEXc?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "ヒロイン",
   "artist": "back number",
-  "collection": "[2026-01-29]一曲聞いてってください💗Please listen to one song[Nu9wHKoN[なれたん Naraetan Ch.🌷]",
-  "up": "Nu9wHKoN[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-29] Please listen to this one song💗 [Nu9wHKoN[Naraetan Ch.🌷]]",
+  "up": "Nu9wHKoN[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Tnc3zaEXc?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "アスノヨゾラ哨戒班",
   "artist": "Orangestar",
-  "collection": "[2026-01-29]一曲聞いてってください💗Please listen to one song[Nu9wHKoN[なれたん Naraetan Ch.🌷]",
-  "up": "Nu9wHKoN[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-29] Please listen to this one song💗 [Nu9wHKoN[Naraetan Ch.🌷]]",
+  "up": "Nu9wHKoN[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Tnc3zaEXc?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "君の神話～アクエリオン第二章",
   "artist": "AKINO with bless4",
-  "collection": "[2026-01-29]一曲聞いてってください💗Please listen to one song[Nu9wHKoN[なれたん Naraetan Ch.🌷]",
-  "up": "Nu9wHKoN[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-29] Please listen to this one song💗 [Nu9wHKoN[Naraetan Ch.🌷]]",
+  "up": "Nu9wHKoN[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Tnc3zaEXc?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "THERE IS A REASON",
   "artist": "鈴木このみ",
-  "collection": "[2026-01-29]一曲聞いてってください💗Please listen to one song[Nu9wHKoN[なれたん Naraetan Ch.🌷]",
-  "up": "Nu9wHKoN[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-29] Please listen to this one song💗 [Nu9wHKoN[Naraetan Ch.🌷]]",
+  "up": "Nu9wHKoN[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Tnc3zaEXc?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "UNDO",
   "artist": "COOL JOKE",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-30] Please send me song requests!💋Please send me song requests![6s3[Naraetan Ch.🌷]",
+  "up": "6s3[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "Plastic Love",
   "artist": "竹内まりや",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-30] Please send me song requests!💋Please send me song requests![6s3[Naraetan Ch.🌷]",
+  "up": "6s3[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "リナリア",
   "artist": "まるりとりゅうが",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-30] Please send me song requests!💋Please send me song requests![6s3[Naraetan Ch.🌷]",
+  "up": "6s3[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "再会",
   "artist": "LiSA×Uru",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-30] Please send me song requests!💋Please send me song requests![6s3[Naraetan Ch.🌷]",
+  "up": "6s3[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "SPiCa",
   "artist": "とくP",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-30] Please send me song requests!💋Please send me song requests![6s3[Naraetan Ch.🌷]",
+  "up": "6s3[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "unravel",
   "artist": "TK from 凛として時雨",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-30] Please send me song requests!💋Please send me song requests![6s3[Naraetan Ch.🌷]",
+  "up": "6s3[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "思い出は億千万",
   "artist": "ゴム",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-30] Please send me song requests!💋Please send me song requests![6s3[Naraetan Ch.🌷]",
+  "up": "6s3[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "恋のヒメヒメぺったんこ",
   "artist": "姫野湖鳥(田村ゆかり)",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-30] Please send me song requests!💋Please send me song requests![6s3[Naraetan Ch.🌷]",
+  "up": "6s3[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "ドレミファロンド",
   "artist": "40mP",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-30] Please send me song requests!💋Please send me song requests![6s3[Naraetan Ch.🌷]",
+  "up": "6s3[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "愛♡スクリーム!",
   "artist": "AiScReam",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-30] Please send me song requests!💋Please send me song requests![6s3[Naraetan Ch.🌷]",
+  "up": "6s3[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "ダンスホール",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-30] Please send me song requests!💋Please send me song requests![6s3[Naraetan Ch.🌷]",
+  "up": "6s3[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "天樂",
   "artist": "ゆうゆ",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-30] Please send me song requests!💋Please send me song requests![6s3[Naraetan Ch.🌷]",
+  "up": "6s3[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "LOUDER",
   "artist": "Roselia",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-30] Please send me song requests!💋Please send me song requests![6s3[Naraetan Ch.🌷]",
+  "up": "6s3[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=13",
   "source": "naraetan.js"
 },
     {
   "title": "あなたのキスを数えましょう ～You were mine～",
   "artist": "小柳ゆき",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-30] Please send me song requests!💋Please send me song requests![6s3[Naraetan Ch.🌷]",
+  "up": "6s3[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=14",
   "source": "naraetan.js"
 },
     {
   "title": "Grip!",
   "artist": "Every Little Thing",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-30] Please send me song requests!💋Please send me song requests![6s3[Naraetan Ch.🌷]",
+  "up": "6s3[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=15",
   "source": "naraetan.js"
 },
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-30] Please send me song requests!💋Please send me song requests![6s3[Naraetan Ch.🌷]",
+  "up": "6s3[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=16",
   "source": "naraetan.js"
 },
     {
   "title": "ツギハギスタッカート",
   "artist": "とあ",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-30] Please send me song requests!💋Please send me song requests![6s3[Naraetan Ch.🌷]",
+  "up": "6s3[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=17",
   "source": "naraetan.js"
 },
     {
   "title": "ロキ",
   "artist": "みきとP",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-30] Please send me song requests!💋Please send me song requests![6s3[Naraetan Ch.🌷]",
+  "up": "6s3[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=18",
   "source": "naraetan.js"
 },
     {
   "title": "IN MY DREAM",
   "artist": "真行寺恵理",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-30] Please send me song requests!💋Please send me song requests![6s3[Naraetan Ch.🌷]",
+  "up": "6s3[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=19",
   "source": "naraetan.js"
 },
     {
   "title": "今はいいんだよ。",
   "artist": "MIMI",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-30] Please send me song requests!💋Please send me song requests![6s3[Naraetan Ch.🌷]",
+  "up": "6s3[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=20",
   "source": "naraetan.js"
 },
     {
   "title": "New Future",
   "artist": "Changin' My Life",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-30] Please send me song requests!💋Please send me song requests![6s3[Naraetan Ch.🌷]",
+  "up": "6s3[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=21",
   "source": "naraetan.js"
 },
     {
   "title": "FIRE BIRD",
   "artist": "Roselia",
-  "collection": "[2026-01-30]お歌リクエストください！💋Please send me song requests![6s3[なれたん Naraetan Ch.🌷]",
-  "up": "6s3[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-30] Please send me song requests!💋Please send me song requests![6s3[Naraetan Ch.🌷]",
+  "up": "6s3[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1GVc3zTEeu?p=22",
   "source": "naraetan.js"
 },
     {
   "title": "火星人",
   "artist": "ヨルシカ",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-31] Saturday late-night singing stream💅[-w[Naraetan Ch.🌷]",
+  "up": "-w[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV18jc3zNEzC?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "勘ぐれい",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-31] Saturday late-night singing stream💅[-w[Naraetan Ch.🌷]",
+  "up": "-w[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV18jc3zNEzC?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "イフ",
   "artist": "月詠み",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-31] Saturday late-night singing stream💅[-w[Naraetan Ch.🌷]",
+  "up": "-w[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV18jc3zNEzC?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "ハナノイロ",
   "artist": "nano.RIPE",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-31] Saturday late-night singing stream💅[-w[Naraetan Ch.🌷]",
+  "up": "-w[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV18jc3zNEzC?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "鳥の詩",
   "artist": "Lia",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-31] Saturday late-night singing stream💅[-w[Naraetan Ch.🌷]",
+  "up": "-w[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV18jc3zNEzC?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "Way Back Home",
   "artist": "SHAUN",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-31] Saturday late-night singing stream💅[-w[Naraetan Ch.🌷]",
+  "up": "-w[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV18jc3zNEzC?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "花",
   "artist": "ORANGE RANGE",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-31] Saturday late-night singing stream💅[-w[Naraetan Ch.🌷]",
+  "up": "-w[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV18jc3zNEzC?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "Never Ending Story",
   "artist": "IU",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-31] Saturday late-night singing stream💅[-w[Naraetan Ch.🌷]",
+  "up": "-w[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV18jc3zNEzC?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "自傷無色",
   "artist": "ねこぼーろ feat.初音ミク",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-31] Saturday late-night singing stream💅[-w[Naraetan Ch.🌷]",
+  "up": "-w[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV18jc3zNEzC?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "オレンジ",
   "artist": "7!!",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-31] Saturday late-night singing stream💅[-w[Naraetan Ch.🌷]",
+  "up": "-w[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV18jc3zNEzC?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "メルト",
   "artist": "supercell",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-31] Saturday late-night singing stream💅[-w[Naraetan Ch.🌷]",
+  "up": "-w[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV18jc3zNEzC?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "恋文",
   "artist": "Every Little Thing",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-31] Saturday late-night singing stream💅[-w[Naraetan Ch.🌷]",
+  "up": "-w[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV18jc3zNEzC?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "TSUNAMI",
   "artist": "サザンオールスターズ",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-31] Saturday late-night singing stream💅[-w[Naraetan Ch.🌷]",
+  "up": "-w[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV18jc3zNEzC?p=13",
   "source": "naraetan.js"
 },
     {
   "title": "Golden",
   "artist": "KPop Demon Hunters",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-31] Saturday late-night singing stream💅[-w[Naraetan Ch.🌷]",
+  "up": "-w[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV18jc3zNEzC?p=14",
   "source": "naraetan.js"
 },
     {
   "title": "モザイクカケラ",
   "artist": "SunSet Swish",
-  "collection": "[2026-01-31]土曜日の深夜歌枠💅Saturday late-night singing stream[-w[なれたん Naraetan Ch.🌷]",
-  "up": "-w[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-01-31] Saturday late-night singing stream💅[-w[Naraetan Ch.🌷]",
+  "up": "-w[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV18jc3zNEzC?p=15",
   "source": "naraetan.js"
 },
     {
   "title": "Lovely Fruit",
   "artist": "水樹奈々",
-  "collection": "[2026-02-03]フルーツ縛りで歌うよ🍑🍒Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-02-03] Singing with a fruit theme🍑🍒 Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Swc5z3EWD?p=1",
   "source": "naraetan.js"
@@ -3544,7 +3544,7 @@ window.SONG_DATA.push(
     {
   "title": "♡桃色片想い♡",
   "artist": "松浦亜弥",
-  "collection": "[2026-02-03]フルーツ縛りで歌うよ🍑🍒Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-02-03] Singing with a fruit theme🍑🍒 Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Swc5z3EWD?p=2",
   "source": "naraetan.js"
@@ -3552,7 +3552,7 @@ window.SONG_DATA.push(
     {
   "title": "桃ノ花ビラ",
   "artist": "大塚愛",
-  "collection": "[2026-02-03]フルーツ縛りで歌うよ🍑🍒Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-02-03] Singing with a fruit theme🍑🍒 Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Swc5z3EWD?p=3",
   "source": "naraetan.js"
@@ -3560,7 +3560,7 @@ window.SONG_DATA.push(
     {
   "title": "Baby Sweet Berry Love",
   "artist": "小倉唯",
-  "collection": "[2026-02-03]フルーツ縛りで歌うよ🍑🍒Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-02-03] Singing with a fruit theme🍑🍒 Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Swc5z3EWD?p=4",
   "source": "naraetan.js"
@@ -3568,7 +3568,7 @@ window.SONG_DATA.push(
     {
   "title": "オレンジ",
   "artist": "逢坂大河(釘宮理恵) 櫛枝実乃梨(堀江由衣) 川嶋亜美(喜多村英梨)",
-  "collection": "[2026-02-03]フルーツ縛りで歌うよ🍑🍒Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-02-03] Singing with a fruit theme🍑🍒 Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Swc5z3EWD?p=5",
   "source": "naraetan.js"
@@ -3576,7 +3576,7 @@ window.SONG_DATA.push(
     {
   "title": "チェリー",
   "artist": "スピッツ",
-  "collection": "[2026-02-03]フルーツ縛りで歌うよ🍑🍒Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-02-03] Singing with a fruit theme🍑🍒 Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Swc5z3EWD?p=6",
   "source": "naraetan.js"
@@ -3584,7 +3584,7 @@ window.SONG_DATA.push(
     {
   "title": "Lemon",
   "artist": "米津玄師",
-  "collection": "[2026-02-03]フルーツ縛りで歌うよ🍑🍒Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-02-03] Singing with a fruit theme🍑🍒 Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Swc5z3EWD?p=7",
   "source": "naraetan.js"
@@ -3592,7 +3592,7 @@ window.SONG_DATA.push(
     {
   "title": "あんずの花",
   "artist": "すりぃ",
-  "collection": "[2026-02-03]フルーツ縛りで歌うよ🍑🍒Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-02-03] Singing with a fruit theme🍑🍒 Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Swc5z3EWD?p=8",
   "source": "naraetan.js"
@@ -3600,7 +3600,7 @@ window.SONG_DATA.push(
     {
   "title": "ラズベリー＊モンスター",
   "artist": "HoneyWorks",
-  "collection": "[2026-02-03]フルーツ縛りで歌うよ🍑🍒Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-02-03] Singing with a fruit theme🍑🍒 Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Swc5z3EWD?p=9",
   "source": "naraetan.js"
@@ -3608,7 +3608,7 @@ window.SONG_DATA.push(
     {
   "title": "PEACH",
   "artist": "大塚愛",
-  "collection": "[2026-02-03]フルーツ縛りで歌うよ🍑🍒Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-02-03] Singing with a fruit theme🍑🍒 Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Swc5z3EWD?p=10",
   "source": "naraetan.js"
@@ -3616,7 +3616,7 @@ window.SONG_DATA.push(
     {
   "title": "さくらんぼ",
   "artist": "大塚愛",
-  "collection": "[2026-02-03]フルーツ縛りで歌うよ🍑🍒Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-02-03] Singing with a fruit theme🍑🍒 Fruit-themed KARAOKE[9RARtsp7ong][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1Swc5z3EWD?p=11",
   "source": "naraetan.js"
@@ -3624,7 +3624,7 @@ window.SONG_DATA.push(
     {
   "title": "LADY",
   "artist": "米津玄師",
-  "collection": "[2026-02-04]気ままに歌う歌枠🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-02-04]A Carefree Karaoke Stream🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1QdcVzLEqB?p=1",
   "source": "naraetan.js"
@@ -3632,7 +3632,7 @@ window.SONG_DATA.push(
     {
   "title": "青空のラプソディ",
   "artist": "Fhána",
-  "collection": "[2026-02-04]気ままに歌う歌枠🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-02-04]A Carefree Karaoke Stream🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1QdcVzLEqB?p=2",
   "source": "naraetan.js"
@@ -3640,7 +3640,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "[2026-02-04]気ままに歌う歌枠🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-02-04]A Carefree Karaoke Stream🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1QdcVzLEqB?p=3",
   "source": "naraetan.js"
@@ -3648,7 +3648,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "[2026-02-04]気ままに歌う歌枠🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-02-04]A Carefree Karaoke Stream🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1QdcVzLEqB?p=4",
   "source": "naraetan.js"
@@ -3656,7 +3656,7 @@ window.SONG_DATA.push(
     {
   "title": "冒険彗星",
   "artist": "榎本くるみ",
-  "collection": "[2026-02-04]気ままに歌う歌枠🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-02-04]A Carefree Karaoke Stream🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1QdcVzLEqB?p=5",
   "source": "naraetan.js"
@@ -3664,7 +3664,7 @@ window.SONG_DATA.push(
     {
   "title": "花の塔",
   "artist": "さユり",
-  "collection": "[2026-02-04]気ままに歌う歌枠🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-02-04]A Carefree Karaoke Stream🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1QdcVzLEqB?p=6",
   "source": "naraetan.js"
@@ -3672,7 +3672,7 @@ window.SONG_DATA.push(
     {
   "title": "フォニイ",
   "artist": "ツミキ",
-  "collection": "[2026-02-04]気ままに歌う歌枠🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-02-04]A Carefree Karaoke Stream🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1QdcVzLEqB?p=7",
   "source": "naraetan.js"
@@ -3680,7 +3680,7 @@ window.SONG_DATA.push(
     {
   "title": "ワールドイズマイン",
   "artist": "from  超かぐや姫",
-  "collection": "[2026-02-04]気ままに歌う歌枠🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-02-04]A Carefree Karaoke Stream🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1QdcVzLEqB?p=8",
   "source": "naraetan.js"
@@ -3688,7 +3688,7 @@ window.SONG_DATA.push(
     {
   "title": "so much love for you♡",
   "artist": "KOKIA",
-  "collection": "[2026-02-04]気ままに歌う歌枠🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-02-04]A Carefree Karaoke Stream🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1QdcVzLEqB?p=9",
   "source": "naraetan.js"
@@ -3696,7 +3696,7 @@ window.SONG_DATA.push(
     {
   "title": "桜ロック",
   "artist": "CHERRYBLOSSOM",
-  "collection": "[2026-02-04]気ままに歌う歌枠🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-02-04]A Carefree Karaoke Stream🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1QdcVzLEqB?p=10",
   "source": "naraetan.js"
@@ -3704,7 +3704,7 @@ window.SONG_DATA.push(
     {
   "title": "ファンサ",
   "artist": "HoneyWorks",
-  "collection": "[2026-02-04]気ままに歌う歌枠🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
+  "collection": "[2026-02-04]A Carefree Karaoke Stream🛁A laid-back KARAOKE[Eq2A66Su6WM][なれたん Naraetan Ch.🌷]",
   "up": "なれたん Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV1QdcVzLEqB?p=11",
   "source": "naraetan.js"
@@ -3712,583 +3712,583 @@ window.SONG_DATA.push(
     {
   "title": "それが、愛でしょう",
   "artist": "下川みくに",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-07] Saturday late-night singing stream 🕊️ [Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV123c5zNEV5?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "静かな夜に",
   "artist": "ラクス・クライン(田中理恵)",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-07] Saturday late-night singing stream 🕊️ [Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV123c5zNEV5?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "蒼のエーテル",
   "artist": "ランカ・リー＝中島愛",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-07] Saturday late-night singing stream 🕊️ [Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV123c5zNEV5?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "冬がくれた予感",
   "artist": "BiBi",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-07] Saturday late-night singing stream 🕊️ [Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV123c5zNEV5?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "secret base 〜君がくれたもの〜",
   "artist": "ZONE",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-07] Saturday late-night singing stream 🕊️ [Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV123c5zNEV5?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "隣に…",
   "artist": "三浦あずさ(たかはし智秋)",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-07] Saturday late-night singing stream 🕊️ [Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV123c5zNEV5?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "1991",
   "artist": "米津玄師",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-07] Saturday late-night singing stream 🕊️ [Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV123c5zNEV5?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "Way Back Home",
   "artist": "SHAUN",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-07] Saturday late-night singing stream 🕊️ [Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV123c5zNEV5?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "Motherland",
   "artist": "Crystal Kay",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-07] Saturday late-night singing stream 🕊️ [Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV123c5zNEV5?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "Subtitle",
   "artist": "Official髭男dism",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-07] Saturday late-night singing stream 🕊️ [Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV123c5zNEV5?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "あの夢をなぞって",
   "artist": "YOASOBI",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-07] Saturday late-night singing stream 🕊️ [Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV123c5zNEV5?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-07] Saturday late-night singing stream 🕊️ [Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV123c5zNEV5?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "Link",
   "artist": "L'Arc～en～Ciel",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-07] Saturday late-night singing stream 🕊️ [Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV123c5zNEV5?p=13",
   "source": "naraetan.js"
 },
     {
   "title": "新宝島",
   "artist": "サカナクション",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-07] Saturday late-night singing stream 🕊️ [Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV123c5zNEV5?p=14",
   "source": "naraetan.js"
 },
     {
   "title": "Get along",
   "artist": "林原めぐみ・奥井雅美",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-07] Saturday late-night singing stream 🕊️ [Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV123c5zNEV5?p=15",
   "source": "naraetan.js"
 },
     {
   "title": "破滅の純情",
   "artist": "ワルキューレ",
-  "collection": "[2026-02-07]土曜日の深夜歌枠🕊️Saturday late-night singing stream[_[なれたん Naraetan Ch.🌷]",
-  "up": "_[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-07] Saturday late-night singing stream 🕊️ [Naretan Ch.🌷]",
+  "up": "Naretan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV123c5zNEV5?p=16",
   "source": "naraetan.js"
 },
     {
   "title": "ドラマツルギー",
   "artist": "Eve",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-10] I’ll be singing Vocaloid songs only💚 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV12uc5ziEQZ?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "タイムマシン",
   "artist": "40mP",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-10] I’ll be singing Vocaloid songs only💚 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV12uc5ziEQZ?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "天ノ弱",
   "artist": "164",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-10] I’ll be singing Vocaloid songs only💚 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV12uc5ziEQZ?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "KING",
   "artist": "Kanaria",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-10] I’ll be singing Vocaloid songs only💚 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV12uc5ziEQZ?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "ロキ",
   "artist": "みきとP",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-10] I’ll be singing Vocaloid songs only💚 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV12uc5ziEQZ?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "踊れオーケストラ",
   "artist": "YASUHIRO(康寛)",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-10] I’ll be singing Vocaloid songs only💚 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV12uc5ziEQZ?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "スキキライ",
   "artist": "HoneyWorks",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-10] I’ll be singing Vocaloid songs only💚 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV12uc5ziEQZ?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "モニタリング",
   "artist": "DECO*27",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-10] I’ll be singing Vocaloid songs only💚 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV12uc5ziEQZ?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "ハロ／ハワユ",
   "artist": "ナノウ feat. 初音ミク",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-10] I’ll be singing Vocaloid songs only💚 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV12uc5ziEQZ?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "ドナーソング",
   "artist": "れるりり×もじゃ",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-10] I’ll be singing Vocaloid songs only💚 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV12uc5ziEQZ?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "泥中に咲く",
   "artist": "HarryP",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-10] I’ll be singing Vocaloid songs only💚 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV12uc5ziEQZ?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "メルト",
   "artist": "ryo(supercell)",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-10] I’ll be singing Vocaloid songs only💚 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV12uc5ziEQZ?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "夜もすがら君想ふ",
   "artist": "TOKOTOKO",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-10] I’ll be singing Vocaloid songs only💚 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV12uc5ziEQZ?p=13",
   "source": "naraetan.js"
 },
     {
   "title": "二息歩行",
   "artist": "DECO*27",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-10] I’ll be singing Vocaloid songs only💚 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV12uc5ziEQZ?p=14",
   "source": "naraetan.js"
 },
     {
   "title": "劣等上等",
   "artist": "Giga",
-  "collection": "[2026-02-10]ボカロ曲縛りで歌うよ💚I’ll be singing Vocaloid songs only[なれたん Naraetan Ch.🌷]",
-  "up": "なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-10] I’ll be singing Vocaloid songs only💚 [Naraetan Ch.🌷]",
+  "up": "Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV12uc5ziEQZ?p=15",
   "source": "naraetan.js"
 },
     {
   "title": "夏色",
   "artist": "ゆず",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-12] Anime songs and J-POP 🎀Anime songs and J-POP[rt53XKla57[Naraetan Ch.🌷]",
+  "up": "rt53XKla57[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV16qZPBdEz1?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "Driver's High",
   "artist": "L'Arc〜en〜Ciel",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-12] Anime songs and J-POP 🎀Anime songs and J-POP[rt53XKla57[Naraetan Ch.🌷]",
+  "up": "rt53XKla57[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV16qZPBdEz1?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "IRIS OUT",
   "artist": "米津玄師",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-12] Anime songs and J-POP 🎀Anime songs and J-POP[rt53XKla57[Naraetan Ch.🌷]",
+  "up": "rt53XKla57[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV16qZPBdEz1?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "花になって",
   "artist": "緑黄色社会",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-12] Anime songs and J-POP 🎀Anime songs and J-POP[rt53XKla57[Naraetan Ch.🌷]",
+  "up": "rt53XKla57[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV16qZPBdEz1?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "麻痺",
   "artist": "yama",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-12] Anime songs and J-POP 🎀Anime songs and J-POP[rt53XKla57[Naraetan Ch.🌷]",
+  "up": "rt53XKla57[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV16qZPBdEz1?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "生きるよすが",
   "artist": "月詠み",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-12] Anime songs and J-POP 🎀Anime songs and J-POP[rt53XKla57[Naraetan Ch.🌷]",
+  "up": "rt53XKla57[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV16qZPBdEz1?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "GO MY WAY!!",
   "artist": "765PRO ALLSTARS",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-12] Anime songs and J-POP 🎀Anime songs and J-POP[rt53XKla57[Naraetan Ch.🌷]",
+  "up": "rt53XKla57[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV16qZPBdEz1?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "Do-Dai",
   "artist": "高槻やよい(仁後真耶子)",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-12] Anime songs and J-POP 🎀Anime songs and J-POP[rt53XKla57[Naraetan Ch.🌷]",
+  "up": "rt53XKla57[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV16qZPBdEz1?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "ワガママMIRROR HEART",
   "artist": "大橋彩香",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-12] Anime songs and J-POP 🎀Anime songs and J-POP[rt53XKla57[Naraetan Ch.🌷]",
+  "up": "rt53XKla57[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV16qZPBdEz1?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "いのちの名前",
   "artist": "木村弓",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-12] Anime songs and J-POP 🎀Anime songs and J-POP[rt53XKla57[Naraetan Ch.🌷]",
+  "up": "rt53XKla57[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV16qZPBdEz1?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "ジェットロケット",
   "artist": "LiSA",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-12] Anime songs and J-POP 🎀Anime songs and J-POP[rt53XKla57[Naraetan Ch.🌷]",
+  "up": "rt53XKla57[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV16qZPBdEz1?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "好きすぎて滅!",
   "artist": "M!LK",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-12] Anime songs and J-POP 🎀Anime songs and J-POP[rt53XKla57[Naraetan Ch.🌷]",
+  "up": "rt53XKla57[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV16qZPBdEz1?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "Nobody's Home",
   "artist": "ONE OK ROCK",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-12] Anime songs and J-POP 🎀Anime songs and J-POP[rt53XKla57[Naraetan Ch.🌷]",
+  "up": "rt53XKla57[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV16qZPBdEz1?p=13",
   "source": "naraetan.js"
 },
     {
   "title": "経験値上昇中",
   "artist": "南春香(佐藤利奈)・南夏奈(井上麻里奈)・南千秋(茅原実里)",
-  "collection": "[2026-02-12]アニソンとかJ-POPとか🎀Anime songs and J-pop[rt53XKla57[なれたん Naraetan Ch.🌷]",
-  "up": "rt53XKla57[なれたん Naraetan Ch.🌷",
+  "collection": "[2026-02-12] Anime songs and J-POP 🎀Anime songs and J-POP[rt53XKla57[Naraetan Ch.🌷]",
+  "up": "rt53XKla57[Naraetan Ch.🌷",
   "link": "https://www.bilibili.com/video/BV16qZPBdEz1?p=14",
   "source": "naraetan.js"
 },
     {
   "title": "夏の幻",
   "artist": "GARNET CROW",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-15] Time for Guerrilla Karaoke [xOa40qXXz_g][Naretann Ch.🌷 Song Cut]",
+  "up": "Naretann Ch.🌷 Song Cut",
   "link": "https://www.bilibili.com/video/BV1qyZiB3ECQ?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-15] Time for Guerrilla Karaoke [xOa40qXXz_g][Naretann Ch.🌷 Song Cut]",
+  "up": "Naretann Ch.🌷 Song Cut",
   "link": "https://www.bilibili.com/video/BV1qyZiB3ECQ?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "ダダダダ天使",
   "artist": "ナナヲアカリ",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-15] Time for Guerrilla Karaoke [xOa40qXXz_g][Naretann Ch.🌷 Song Cut]",
+  "up": "Naretann Ch.🌷 Song Cut",
   "link": "https://www.bilibili.com/video/BV1qyZiB3ECQ?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "テレキャスタービーボーイ",
   "artist": "すりぃ",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-15] Time for Guerrilla Karaoke [xOa40qXXz_g][Naretann Ch.🌷 Song Cut]",
+  "up": "Naretann Ch.🌷 Song Cut",
   "link": "https://www.bilibili.com/video/BV1qyZiB3ECQ?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "Unnamed World",
   "artist": "平野綾",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-15] Time for Guerrilla Karaoke [xOa40qXXz_g][Naretann Ch.🌷 Song Cut]",
+  "up": "Naretann Ch.🌷 Song Cut",
   "link": "https://www.bilibili.com/video/BV1qyZiB3ECQ?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "Seize The Day",
   "artist": "亜咲花",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-15] Time for Guerrilla Karaoke [xOa40qXXz_g][Naretann Ch.🌷 Song Cut]",
+  "up": "Naretann Ch.🌷 Song Cut",
   "link": "https://www.bilibili.com/video/BV1qyZiB3ECQ?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "Quiet Night C.E.73",
   "artist": "ミーア・キャンベル(田中理恵)",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-15] Time for Guerrilla Karaoke [xOa40qXXz_g][Naretann Ch.🌷 Song Cut]",
+  "up": "Naretann Ch.🌷 Song Cut",
   "link": "https://www.bilibili.com/video/BV1qyZiB3ECQ?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "トキヲコエテ",
   "artist": "GFRIEND",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-15] Time for Guerrilla Karaoke [xOa40qXXz_g][Naretann Ch.🌷 Song Cut]",
+  "up": "Naretann Ch.🌷 Song Cut",
   "link": "https://www.bilibili.com/video/BV1qyZiB3ECQ?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "今日から私たちは",
   "artist": "GFRIEND",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-15] Time for Guerrilla Karaoke [xOa40qXXz_g][Naretann Ch.🌷 Song Cut]",
+  "up": "Naretann Ch.🌷 Song Cut",
   "link": "https://www.bilibili.com/video/BV1qyZiB3ECQ?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "そばかす",
   "artist": "JUDY AND MARY",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-15] Time for Guerrilla Karaoke [xOa40qXXz_g][Naretann Ch.🌷 Song Cut]",
+  "up": "Naretann Ch.🌷 Song Cut",
   "link": "https://www.bilibili.com/video/BV1qyZiB3ECQ?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "バレンタイン・キッス",
   "artist": "国生さゆり",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-15] Time for Guerrilla Karaoke [xOa40qXXz_g][Naretann Ch.🌷 Song Cut]",
+  "up": "Naretann Ch.🌷 Song Cut",
   "link": "https://www.bilibili.com/video/BV1qyZiB3ECQ?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "Never Ending Story",
   "artist": "IU",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-15] Time for Guerrilla Karaoke [xOa40qXXz_g][Naretann Ch.🌷 Song Cut]",
+  "up": "Naretann Ch.🌷 Song Cut",
   "link": "https://www.bilibili.com/video/BV1qyZiB3ECQ?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "Falco-ファルコ-",
   "artist": "島谷ひとみ",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-15] Time for Guerrilla Karaoke [xOa40qXXz_g][Naretann Ch.🌷 Song Cut]",
+  "up": "Naretann Ch.🌷 Song Cut",
   "link": "https://www.bilibili.com/video/BV1qyZiB3ECQ?p=13",
   "source": "naraetan.js"
 },
     {
   "title": "シルエット",
   "artist": "KANA-BOON",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-15] Time for Guerrilla Karaoke [xOa40qXXz_g][Naretann Ch.🌷 Song Cut]",
+  "up": "Naretann Ch.🌷 Song Cut",
   "link": "https://www.bilibili.com/video/BV1qyZiB3ECQ?p=14",
   "source": "naraetan.js"
 },
     {
   "title": "FEARLESS HERO",
   "artist": "水樹奈々",
-  "collection": "[2026-02-15]ゲリラ歌枠の時間だよ[xOa40qXXz_g][なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-15] Time for Guerrilla Karaoke [xOa40qXXz_g][Naretann Ch.🌷 Song Cut]",
+  "up": "Naretann Ch.🌷 Song Cut",
   "link": "https://www.bilibili.com/video/BV1qyZiB3ECQ?p=15",
   "source": "naraetan.js"
 },
     {
   "title": "君じゃなきゃダメみたい",
   "artist": "オーイシマサヨシ",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-16] It's Monday so cheer up🎧[なれたん Ch.🌷 song cut]",
+  "up": "なれたん Ch.🌷 song cut",
   "link": "https://www.bilibili.com/video/BV1qkZiBkEaY?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "Rolling star",
   "artist": "YUI",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-16] It's Monday so cheer up🎧[なれたん Ch.🌷 song cut]",
+  "up": "なれたん Ch.🌷 song cut",
   "link": "https://www.bilibili.com/video/BV1qkZiBkEaY?p=2",
   "source": "naraetan.js"
 },
     {
   "title": "SMILY",
   "artist": "大塚愛",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-16] It's Monday so cheer up🎧[なれたん Ch.🌷 song cut]",
+  "up": "なれたん Ch.🌷 song cut",
   "link": "https://www.bilibili.com/video/BV1qkZiBkEaY?p=3",
   "source": "naraetan.js"
 },
     {
   "title": "115万キロのフィルム",
   "artist": "Official髭男dism",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-16] It's Monday so cheer up🎧[なれたん Ch.🌷 song cut]",
+  "up": "なれたん Ch.🌷 song cut",
   "link": "https://www.bilibili.com/video/BV1qkZiBkEaY?p=4",
   "source": "naraetan.js"
 },
     {
   "title": "lulu.",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-16] It's Monday so cheer up🎧[なれたん Ch.🌷 song cut]",
+  "up": "なれたん Ch.🌷 song cut",
   "link": "https://www.bilibili.com/video/BV1qkZiBkEaY?p=5",
   "source": "naraetan.js"
 },
     {
   "title": "涙の種、笑顔の花",
   "artist": "中川翔子",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-16] It's Monday so cheer up🎧[なれたん Ch.🌷 song cut]",
+  "up": "なれたん Ch.🌷 song cut",
   "link": "https://www.bilibili.com/video/BV1qkZiBkEaY?p=6",
   "source": "naraetan.js"
 },
     {
   "title": "愛のかたまり",
   "artist": "DOMOTO",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-16] It's Monday so cheer up🎧[なれたん Ch.🌷 song cut]",
+  "up": "なれたん Ch.🌷 song cut",
   "link": "https://www.bilibili.com/video/BV1qkZiBkEaY?p=7",
   "source": "naraetan.js"
 },
     {
   "title": "最高の片想い",
   "artist": "タイナカサチ",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-16] It's Monday so cheer up🎧[なれたん Ch.🌷 song cut]",
+  "up": "なれたん Ch.🌷 song cut",
   "link": "https://www.bilibili.com/video/BV1qkZiBkEaY?p=8",
   "source": "naraetan.js"
 },
     {
   "title": "アドレナ",
   "artist": "YOASOBI",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-16] It's Monday so cheer up🎧[なれたん Ch.🌷 song cut]",
+  "up": "なれたん Ch.🌷 song cut",
   "link": "https://www.bilibili.com/video/BV1qkZiBkEaY?p=9",
   "source": "naraetan.js"
 },
     {
   "title": "赤い罠(who loves it)",
   "artist": "LiSA",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-16] It's Monday so cheer up🎧[なれたん Ch.🌷 song cut]",
+  "up": "なれたん Ch.🌷 song cut",
   "link": "https://www.bilibili.com/video/BV1qkZiBkEaY?p=10",
   "source": "naraetan.js"
 },
     {
   "title": "ワールドイズマイン",
   "artist": "from  超かぐや姫",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-16] It's Monday so cheer up🎧[なれたん Ch.🌷 song cut]",
+  "up": "なれたん Ch.🌷 song cut",
   "link": "https://www.bilibili.com/video/BV1qkZiBkEaY?p=11",
   "source": "naraetan.js"
 },
     {
   "title": "Cutie Panther",
   "artist": "BiBi",
-  "collection": "[2026-02-16]月曜日だから元気出してこ🎧[なれたん Ch.🌷 歌切]",
-  "up": "なれたん Ch.🌷 歌切",
+  "collection": "[2026-02-16] It's Monday so cheer up🎧[なれたん Ch.🌷 song cut]",
+  "up": "なれたん Ch.🌷 song cut",
   "link": "https://www.bilibili.com/video/BV1qkZiBkEaY?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "1925",
   "artist": "冨田悠斗(とみー／T-POCKET)",
-  "collection": "【なれたん 歌切🌷】因为嗓子不舒服，所以慢慢来 [2026-02-20]【#雑談 #歌枠】喉の調子が悪いのでのんびり[KTSFm_zWibg]",
+  "collection": "[Naretann Song Cut🌷] Taking it easy because my throat is uncomfortable [2026-02-20][#Chat #SingingStream] Taking it easy due to throat discomfort[KTSFm_zWibg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=1",
   "source": "naraetan.js"
@@ -4296,7 +4296,7 @@ window.SONG_DATA.push(
     {
   "title": "可愛くなりたい",
   "artist": "HoneyWorks",
-  "collection": "【なれたん 歌切🌷】因为嗓子不舒服，所以慢慢来 [2026-02-20]【#雑談 #歌枠】喉の調子が悪いのでのんびり[KTSFm_zWibg]",
+  "collection": "[Naretann Song Cut🌷] Taking it easy because my throat is uncomfortable [2026-02-20][#Chat #SingingStream] Taking it easy due to throat discomfort[KTSFm_zWibg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=2",
   "source": "naraetan.js"
@@ -4304,7 +4304,7 @@ window.SONG_DATA.push(
     {
   "title": "浪漫飛行",
   "artist": "米米CLUB",
-  "collection": "【なれたん 歌切🌷】因为嗓子不舒服，所以慢慢来 [2026-02-20]【#雑談 #歌枠】喉の調子が悪いのでのんびり[KTSFm_zWibg]",
+  "collection": "[Naretann Song Cut🌷] Taking it easy because my throat is uncomfortable [2026-02-20][#Chat #SingingStream] Taking it easy due to throat discomfort[KTSFm_zWibg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=3",
   "source": "naraetan.js"
@@ -4312,7 +4312,7 @@ window.SONG_DATA.push(
     {
   "title": "冒険彗星",
   "artist": "榎本くるみ",
-  "collection": "【なれたん 歌切🌷】因为嗓子不舒服，所以慢慢来 [2026-02-20]【#雑談 #歌枠】喉の調子が悪いのでのんびり[KTSFm_zWibg]",
+  "collection": "[Naretann Song Cut🌷] Taking it easy because my throat is uncomfortable [2026-02-20][#Chat #SingingStream] Taking it easy due to throat discomfort[KTSFm_zWibg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=4",
   "source": "naraetan.js"
@@ -4320,7 +4320,7 @@ window.SONG_DATA.push(
     {
   "title": "フタリボシ",
   "artist": "40mP",
-  "collection": "【なれたん 歌切🌷】因为嗓子不舒服，所以慢慢来 [2026-02-20]【#雑談 #歌枠】喉の調子が悪いのでのんびり[KTSFm_zWibg]",
+  "collection": "[Naretann Song Cut🌷] Taking it easy because my throat is uncomfortable [2026-02-20][#Chat #SingingStream] Taking it easy due to throat discomfort[KTSFm_zWibg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=5",
   "source": "naraetan.js"
@@ -4328,7 +4328,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒトリゴト",
   "artist": "ClariS",
-  "collection": "【なれたん 歌切🌷】因为嗓子不舒服，所以慢慢来 [2026-02-20]【#雑談 #歌枠】喉の調子が悪いのでのんびり[KTSFm_zWibg]",
+  "collection": "[Naretann Song Cut🌷] Taking it easy because my throat is uncomfortable [2026-02-20][#Chat #SingingStream] Taking it easy due to throat discomfort[KTSFm_zWibg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G6fLB7Efr?p=6",
   "source": "naraetan.js"
@@ -4336,7 +4336,7 @@ window.SONG_DATA.push(
     {
   "title": "約束をしよう",
   "artist": "supercell",
-  "collection": "【なれたん歌切🌷】土曜日の深夜歌枠🥱[2026-02-21][bGD_OXxoyTg]",
+  "collection": "【Naretann Song Cut🌷】Late-night singing slot on Saturday🥱[2026-02-21][bGD_OXxoyTg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zcfHBMEzU?p=1",
   "source": "naraetan.js"
@@ -4344,7 +4344,7 @@ window.SONG_DATA.push(
     {
   "title": "夜に駆ける",
   "artist": "YOASOBI",
-  "collection": "【なれたん歌切🌷】土曜日の深夜歌枠🥱[2026-02-21][bGD_OXxoyTg]",
+  "collection": "【Naretann Song Cut🌷】Late-night singing slot on Saturday🥱[2026-02-21][bGD_OXxoyTg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zcfHBMEzU?p=2",
   "source": "naraetan.js"
@@ -4352,7 +4352,7 @@ window.SONG_DATA.push(
     {
   "title": "Spiritual Garden",
   "artist": "田村ゆかり",
-  "collection": "【なれたん歌切🌷】土曜日の深夜歌枠🥱[2026-02-21][bGD_OXxoyTg]",
+  "collection": "【Naretann Song Cut🌷】Late-night singing slot on Saturday🥱[2026-02-21][bGD_OXxoyTg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zcfHBMEzU?p=3",
   "source": "naraetan.js"
@@ -4360,7 +4360,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【なれたん歌切🌷】土曜日の深夜歌枠🥱[2026-02-21][bGD_OXxoyTg]",
+  "collection": "【Naretann Song Cut🌷】Late-night singing slot on Saturday🥱[2026-02-21][bGD_OXxoyTg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zcfHBMEzU?p=4",
   "source": "naraetan.js"
@@ -4368,7 +4368,7 @@ window.SONG_DATA.push(
     {
   "title": "虹の彼方に",
   "artist": "ReoNa",
-  "collection": "【なれたん歌切🌷】土曜日の深夜歌枠🥱[2026-02-21][bGD_OXxoyTg]",
+  "collection": "【Naretann Song Cut🌷】Late-night singing slot on Saturday🥱[2026-02-21][bGD_OXxoyTg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zcfHBMEzU?p=5",
   "source": "naraetan.js"
@@ -4376,39 +4376,39 @@ window.SONG_DATA.push(
     {
   "title": "8.32",
   "artist": "*Luna",
-  "collection": "【なれたん歌切🌷】土曜日の深夜歌枠🥱[2026-02-21][bGD_OXxoyTg]",
+  "collection": "【Naretann Song Cut🌷】Late-night singing slot on Saturday🥱[2026-02-21][bGD_OXxoyTg]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zcfHBMEzU?p=6",
   "source": "naraetan.js"
 },
     {
-  "title": "エルの絵本 【笛吹き男とパレード】",
-  "artist": "Sound Horizon cover by なれたん",
-  "collection": "エルの絵本 【笛吹き男とパレード】 - Sound Horizon cover by なれたん",
+  "title": "El's Picture Book [The Pied Piper and the Parade]",
+  "artist": "Sound Horizon cover by Naretann",
+  "collection": "El's Picture Book [The Pied Piper and the Parade] - Sound Horizon cover by Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DfZfBFEDN?p=1",
   "source": "naraetan.js"
 },
     {
   "title": "1／ｆ",
-  "artist": "LISA Cover by なれたん",
-  "collection": "1／ｆ - LISA Cover by なれたん",
+  "artist": "LISA Cover by Naretane",
+  "collection": "1／ｆ - LISA Cover by Naretane",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTfFB9Ekj?p=1",
   "source": "naraetan.js"
 },
     {
-  "title": "奏",
-  "artist": "スキマスイッチ cover by なれたん",
-  "collection": "奏 - スキマスイッチ cover by なれたん",
+  "title": "Kanade",
+  "artist": "Sukima Switch cover by Naretann",
+  "collection": "Kanade - Sukima Switch cover by Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XcfBBGEL5?p=1",
   "source": "naraetan.js"
 },
     {
-  "title": "声",
+  "title": "Voice",
   "artist": "HarryP cover by なれたん",
-  "collection": "声 - HarryP cover by なれたん",
+  "collection": "Voice - HarryP cover by なれたん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EsfmBmE1z?p=1",
   "source": "naraetan.js"
@@ -4416,7 +4416,7 @@ window.SONG_DATA.push(
     {
   "title": "LOSER",
   "artist": "米津玄師",
-  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "collection": "[Naretangu Song Cut🌷] Please stay and listen to at least one song[2026-02-24]💕Please stay and listen to at least one so",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=1",
   "source": "naraetan.js"
@@ -4424,7 +4424,7 @@ window.SONG_DATA.push(
     {
   "title": "嘘",
   "artist": "シド",
-  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "collection": "[Naretangu Song Cut🌷] Please stay and listen to at least one song[2026-02-24]💕Please stay and listen to at least one so",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=2",
   "source": "naraetan.js"
@@ -4432,7 +4432,7 @@ window.SONG_DATA.push(
     {
   "title": "アゲハ蝶",
   "artist": "ポルノグラフィティ",
-  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "collection": "[Naretangu Song Cut🌷] Please stay and listen to at least one song[2026-02-24]💕Please stay and listen to at least one so",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=3",
   "source": "naraetan.js"
@@ -4440,7 +4440,7 @@ window.SONG_DATA.push(
     {
   "title": "DUET",
   "artist": "ZICO & 幾田りら",
-  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "collection": "[Naretangu Song Cut🌷] Please stay and listen to at least one song[2026-02-24]💕Please stay and listen to at least one so",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=4",
   "source": "naraetan.js"
@@ -4448,7 +4448,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "collection": "[Naretangu Song Cut🌷] Please stay and listen to at least one song[2026-02-24]💕Please stay and listen to at least one so",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=5",
   "source": "naraetan.js"
@@ -4456,7 +4456,7 @@ window.SONG_DATA.push(
     {
   "title": "愛を伝えたいだとか",
   "artist": "あいみょん",
-  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "collection": "[Naretangu Song Cut🌷] Please stay and listen to at least one song[2026-02-24]💕Please stay and listen to at least one so",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=6",
   "source": "naraetan.js"
@@ -4464,7 +4464,7 @@ window.SONG_DATA.push(
     {
   "title": "私は最強",
   "artist": "Ado",
-  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "collection": "[Naretangu Song Cut🌷] Please stay and listen to at least one song[2026-02-24]💕Please stay and listen to at least one so",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=7",
   "source": "naraetan.js"
@@ -4472,7 +4472,7 @@ window.SONG_DATA.push(
     {
   "title": "拍手喝采歌合",
   "artist": "supercell",
-  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "collection": "[Naretangu Song Cut🌷] Please stay and listen to at least one song[2026-02-24]💕Please stay and listen to at least one so",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=8",
   "source": "naraetan.js"
@@ -4480,7 +4480,7 @@ window.SONG_DATA.push(
     {
   "title": "猫",
   "artist": "DISH／／",
-  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "collection": "[Naretangu Song Cut🌷] Please stay and listen to at least one song[2026-02-24]💕Please stay and listen to at least one so",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=9",
   "source": "naraetan.js"
@@ -4488,7 +4488,7 @@ window.SONG_DATA.push(
     {
   "title": "モニタリング",
   "artist": "DECO*27",
-  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "collection": "[Naretangu Song Cut🌷] Please stay and listen to at least one song[2026-02-24]💕Please stay and listen to at least one so",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=10",
   "source": "naraetan.js"
@@ -4496,7 +4496,7 @@ window.SONG_DATA.push(
     {
   "title": "ミックスナッツ",
   "artist": "Official髭男dism",
-  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "collection": "[Naretangu Song Cut🌷] Please stay and listen to at least one song[2026-02-24]💕Please stay and listen to at least one so",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=11",
   "source": "naraetan.js"
@@ -4504,31 +4504,31 @@ window.SONG_DATA.push(
     {
   "title": "ごはんはおかず",
   "artist": "放課後ティータイム",
-  "collection": "【なれたん歌切🌷】一曲だけでも聞いてってください[2026-02-24]💕Please stay and listen to at least one so",
+  "collection": "[Naretangu Song Cut🌷] Please stay and listen to at least one song[2026-02-24]💕Please stay and listen to at least one so",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Q4fUBNEKb?p=12",
   "source": "naraetan.js"
 },
     {
   "title": "カワキヲアメク",
-  "artist": "美波 cover by なれたん",
-  "collection": "カワキヲアメク - 美波 cover by なれたん",
+  "artist": "Minami cover by Naretto",
+  "collection": "カワキヲアメク - Minami cover by Naretto",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dif4BUENb?p=1",
   "source": "naraetan.js"
 },
     {
-  "title": "今はいいんだよ。",
-  "artist": "MIMI cover by なれたん",
-  "collection": "今はいいんだよ。 - MIMI cover by なれたん",
+  "title": "It's okay now.",
+  "artist": "MIMI cover by Naretann",
+  "collection": "It's okay now. - MIMI cover by Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13KAkzcEYu?p=1",
   "source": "naraetan.js"
 },
     {
-  "title": "フィナーレ。",
-  "artist": "eill cover by なれたん",
-  "collection": "フィナーレ。 - eill cover by なれたん",
+  "title": "Finale.",
+  "artist": "eill cover by Naretto",
+  "collection": "Finale. - eill cover by Naretto",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV174ASzfEnK?p=1",
   "source": "naraetan.js"
@@ -4536,7 +4536,7 @@ window.SONG_DATA.push(
     {
   "title": "FIRE!!",
   "artist": "和田光司",
-  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "collection": "[Naretan Singing🌷] [2026-02-27] Might sing requests🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=1",
   "source": "naraetan.js"
@@ -4544,7 +4544,7 @@ window.SONG_DATA.push(
     {
   "title": "近道したい",
   "artist": "木村良平",
-  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "collection": "[Naretan Singing🌷] [2026-02-27] Might sing requests🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=2",
   "source": "naraetan.js"
@@ -4552,7 +4552,7 @@ window.SONG_DATA.push(
     {
   "title": "砂の惑星",
   "artist": "米津玄師",
-  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "collection": "[Naretan Singing🌷] [2026-02-27] Might sing requests🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=3",
   "source": "naraetan.js"
@@ -4560,7 +4560,7 @@ window.SONG_DATA.push(
     {
   "title": "祈り～You Raise Me Up",
   "artist": "川合結人",
-  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "collection": "[Naretan Singing🌷] [2026-02-27] Might sing requests🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=4",
   "source": "naraetan.js"
@@ -4568,7 +4568,7 @@ window.SONG_DATA.push(
     {
   "title": "RAIN",
   "artist": "SEKAI NO OWARI",
-  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "collection": "[Naretan Singing🌷] [2026-02-27] Might sing requests🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=5",
   "source": "naraetan.js"
@@ -4576,7 +4576,7 @@ window.SONG_DATA.push(
     {
   "title": "愛唄",
   "artist": "GReeeeN",
-  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "collection": "[Naretan Singing🌷] [2026-02-27] Might sing requests🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=6",
   "source": "naraetan.js"
@@ -4584,7 +4584,7 @@ window.SONG_DATA.push(
     {
   "title": "恋人を射ち堕とした日",
   "artist": "Sound Horizon",
-  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "collection": "[Naretan Singing🌷] [2026-02-27] Might sing requests🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=7",
   "source": "naraetan.js"
@@ -4592,7 +4592,7 @@ window.SONG_DATA.push(
     {
   "title": "カクテル",
   "artist": "Hysteric Blue",
-  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "collection": "[Naretan Singing🌷] [2026-02-27] Might sing requests🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=8",
   "source": "naraetan.js"
@@ -4600,7 +4600,7 @@ window.SONG_DATA.push(
     {
   "title": "初めての恋が終わる時",
   "artist": "ryo(supercell)",
-  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "collection": "[Naretan Singing🌷] [2026-02-27] Might sing requests🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=9",
   "source": "naraetan.js"
@@ -4608,7 +4608,7 @@ window.SONG_DATA.push(
     {
   "title": "軌跡",
   "artist": "Roselia",
-  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "collection": "[Naretan Singing🌷] [2026-02-27] Might sing requests🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=10",
   "source": "naraetan.js"
@@ -4616,7 +4616,7 @@ window.SONG_DATA.push(
     {
   "title": "最高の片想い",
   "artist": "タイナカサチ",
-  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "collection": "[Naretan Singing🌷] [2026-02-27] Might sing requests🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=11",
   "source": "naraetan.js"
@@ -4624,7 +4624,7 @@ window.SONG_DATA.push(
     {
   "title": "ロビンソン",
   "artist": "スピッツ",
-  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "collection": "[Naretan Singing🌷] [2026-02-27] Might sing requests🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=12",
   "source": "naraetan.js"
@@ -4632,7 +4632,7 @@ window.SONG_DATA.push(
     {
   "title": "Connecting",
   "artist": "halyosy、初音ミク",
-  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "collection": "[Naretan Singing🌷] [2026-02-27] Might sing requests🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=13",
   "source": "naraetan.js"
@@ -4640,7 +4640,7 @@ window.SONG_DATA.push(
     {
   "title": "私は最強",
   "artist": "Ado",
-  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "collection": "[Naretan Singing🌷] [2026-02-27] Might sing requests🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=14",
   "source": "naraetan.js"
@@ -4648,7 +4648,7 @@ window.SONG_DATA.push(
     {
   "title": "願い事ひとつだけ",
   "artist": "小松未歩",
-  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "collection": "[Naretan Singing🌷] [2026-02-27] Might sing requests🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=15",
   "source": "naraetan.js"
@@ -4656,7 +4656,7 @@ window.SONG_DATA.push(
     {
   "title": "ゴーストルール",
   "artist": "DECO*27",
-  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "collection": "[Naretan Singing🌷] [2026-02-27] Might sing requests🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=16",
   "source": "naraetan.js"
@@ -4664,7 +4664,7 @@ window.SONG_DATA.push(
     {
   "title": "優しさの理由",
   "artist": "ChouCho",
-  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "collection": "[Naretan Singing🌷] [2026-02-27] Might sing requests🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=17",
   "source": "naraetan.js"
@@ -4672,7 +4672,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "collection": "[Naretan Singing🌷] [2026-02-27] Might sing requests🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=18",
   "source": "naraetan.js"
@@ -4680,7 +4680,7 @@ window.SONG_DATA.push(
     {
   "title": "Shining Tears",
   "artist": "保志総一朗",
-  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "collection": "[Naretan Singing🌷] [2026-02-27] Might sing requests🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=19",
   "source": "naraetan.js"
@@ -4688,7 +4688,7 @@ window.SONG_DATA.push(
     {
   "title": "TESTAMENT",
   "artist": "水樹奈々",
-  "collection": "【なれたん歌切🌷】[2026-02-27]リクエストで歌おうかなあ🎼I might sing it as a request[3ABDDJYHW9Y]",
+  "collection": "[Naretan Singing🌷] [2026-02-27] Might sing requests🎼I might sing it as a request[3ABDDJYHW9Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jRAXzTEU8?p=20",
   "source": "naraetan.js"
@@ -4696,7 +4696,7 @@ window.SONG_DATA.push(
     {
   "title": "2人",
   "artist": "ともさかりえ",
-  "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
+  "collection": "[Naretann Singing🌷] [2026-02-28] Saturday Late Night Singing Session🍊 [gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=1",
   "source": "naraetan.js"
@@ -4704,7 +4704,7 @@ window.SONG_DATA.push(
     {
   "title": "遠いこの街で",
   "artist": "皆谷尚美",
-  "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
+  "collection": "[Naretann Singing🌷] [2026-02-28] Saturday Late Night Singing Session🍊 [gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=2",
   "source": "naraetan.js"
@@ -4712,7 +4712,7 @@ window.SONG_DATA.push(
     {
   "title": "永遠の花",
   "artist": "石田燿子",
-  "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
+  "collection": "[Naretann Singing🌷] [2026-02-28] Saturday Late Night Singing Session🍊 [gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=3",
   "source": "naraetan.js"
@@ -4720,7 +4720,7 @@ window.SONG_DATA.push(
     {
   "title": "永遠の花",
   "artist": "石田燿子(续)",
-  "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
+  "collection": "[Naretann Singing🌷] [2026-02-28] Saturday Late Night Singing Session🍊 [gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=4",
   "source": "naraetan.js"
@@ -4728,7 +4728,7 @@ window.SONG_DATA.push(
     {
   "title": "lulu.",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
+  "collection": "[Naretann Singing🌷] [2026-02-28] Saturday Late Night Singing Session🍊 [gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=5",
   "source": "naraetan.js"
@@ -4736,7 +4736,7 @@ window.SONG_DATA.push(
     {
   "title": "Square",
   "artist": "Yerin Baek",
-  "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
+  "collection": "[Naretann Singing🌷] [2026-02-28] Saturday Late Night Singing Session🍊 [gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=6",
   "source": "naraetan.js"
@@ -4744,7 +4744,7 @@ window.SONG_DATA.push(
     {
   "title": "W／X／Y",
   "artist": "Tani Yuuki",
-  "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
+  "collection": "[Naretann Singing🌷] [2026-02-28] Saturday Late Night Singing Session🍊 [gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=7",
   "source": "naraetan.js"
@@ -4752,7 +4752,7 @@ window.SONG_DATA.push(
     {
   "title": "愛をこめて花束を",
   "artist": "Superfly",
-  "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
+  "collection": "[Naretann Singing🌷] [2026-02-28] Saturday Late Night Singing Session🍊 [gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=8",
   "source": "naraetan.js"
@@ -4760,7 +4760,7 @@ window.SONG_DATA.push(
     {
   "title": "虹の彼方に",
   "artist": "ReoNa",
-  "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
+  "collection": "[Naretann Singing🌷] [2026-02-28] Saturday Late Night Singing Session🍊 [gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=9",
   "source": "naraetan.js"
@@ -4768,7 +4768,7 @@ window.SONG_DATA.push(
     {
   "title": "レイニーブルー",
   "artist": "徳永英明",
-  "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
+  "collection": "[Naretann Singing🌷] [2026-02-28] Saturday Late Night Singing Session🍊 [gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=10",
   "source": "naraetan.js"
@@ -4776,7 +4776,7 @@ window.SONG_DATA.push(
     {
   "title": "扉の向こうへ",
   "artist": "YeLLOW Generation",
-  "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
+  "collection": "[Naretann Singing🌷] [2026-02-28] Saturday Late Night Singing Session🍊 [gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=11",
   "source": "naraetan.js"
@@ -4784,7 +4784,7 @@ window.SONG_DATA.push(
     {
   "title": "月光花",
   "artist": "Janne Da Arc",
-  "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
+  "collection": "[Naretann Singing🌷] [2026-02-28] Saturday Late Night Singing Session🍊 [gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=12",
   "source": "naraetan.js"
@@ -4792,7 +4792,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピーシンセサイザ",
   "artist": "EasyPop",
-  "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
+  "collection": "[Naretann Singing🌷] [2026-02-28] Saturday Late Night Singing Session🍊 [gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=13",
   "source": "naraetan.js"
@@ -4800,7 +4800,7 @@ window.SONG_DATA.push(
     {
   "title": "I'm so Happy",
   "artist": "Janne Da Arc",
-  "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
+  "collection": "[Naretann Singing🌷] [2026-02-28] Saturday Late Night Singing Session🍊 [gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=14",
   "source": "naraetan.js"
@@ -4808,7 +4808,7 @@ window.SONG_DATA.push(
     {
   "title": "君がくれたあの日",
   "artist": "茅原実里",
-  "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
+  "collection": "[Naretann Singing🌷] [2026-02-28] Saturday Late Night Singing Session🍊 [gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=15",
   "source": "naraetan.js"
@@ -4816,15 +4816,15 @@ window.SONG_DATA.push(
     {
   "title": "ルンに花咲く恋もある",
   "artist": "ワルキューレ",
-  "collection": "【なれたん歌切🌷】[2026-02-28]土曜日の深夜歌枠🍊[gwKYOXeCfR0]",
+  "collection": "[Naretann Singing🌷] [2026-02-28] Saturday Late Night Singing Session🍊 [gwKYOXeCfR0]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LsAizXEXp?p=16",
   "source": "naraetan.js"
 },
     {
-  "title": "夜明け生まれ来る少女",
-  "artist": "高橋洋子 cover by ねれたん",
-  "collection": "夜明け生まれ来る少女 - 高橋洋子 cover by ねれたん",
+  "title": "Girl Born at Dawn",
+  "artist": "Yoko Takahashi cover by Neretan",
+  "collection": "Girl Born at Dawn - Yoko Takahashi cover by Neretan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13uAdzvEJw?p=1",
   "source": "naraetan.js"
@@ -4832,7 +4832,7 @@ window.SONG_DATA.push(
     {
   "title": "恋",
   "artist": "星野源",
-  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-03] A Noon Singing Stream After 100 Million Years☕A Noon Singing Stream After 100 Million Years☕[u_jJcVG6818] Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=1",
   "source": "naraetan.js"
@@ -4840,7 +4840,7 @@ window.SONG_DATA.push(
     {
   "title": "Breeze",
   "artist": "林原めぐみ",
-  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-03] A Noon Singing Stream After 100 Million Years☕A Noon Singing Stream After 100 Million Years☕[u_jJcVG6818] Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=2",
   "source": "naraetan.js"
@@ -4848,7 +4848,7 @@ window.SONG_DATA.push(
     {
   "title": "Butter-Fly",
   "artist": "和田光司",
-  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-03] A Noon Singing Stream After 100 Million Years☕A Noon Singing Stream After 100 Million Years☕[u_jJcVG6818] Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=3",
   "source": "naraetan.js"
@@ -4856,7 +4856,7 @@ window.SONG_DATA.push(
     {
   "title": "My Dearest",
   "artist": "supercell",
-  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-03] A Noon Singing Stream After 100 Million Years☕A Noon Singing Stream After 100 Million Years☕[u_jJcVG6818] Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=4",
   "source": "naraetan.js"
@@ -4864,7 +4864,7 @@ window.SONG_DATA.push(
     {
   "title": "うたかた花火",
   "artist": "supercell",
-  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-03] A Noon Singing Stream After 100 Million Years☕A Noon Singing Stream After 100 Million Years☕[u_jJcVG6818] Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=5",
   "source": "naraetan.js"
@@ -4872,7 +4872,7 @@ window.SONG_DATA.push(
     {
   "title": "fragile",
   "artist": "Every Little Thing",
-  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-03] A Noon Singing Stream After 100 Million Years☕A Noon Singing Stream After 100 Million Years☕[u_jJcVG6818] Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=6",
   "source": "naraetan.js"
@@ -4880,7 +4880,7 @@ window.SONG_DATA.push(
     {
   "title": "青い珊瑚礁",
   "artist": "松田聖子",
-  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-03] A Noon Singing Stream After 100 Million Years☕A Noon Singing Stream After 100 Million Years☕[u_jJcVG6818] Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=7",
   "source": "naraetan.js"
@@ -4888,7 +4888,7 @@ window.SONG_DATA.push(
     {
   "title": "全部ホントで全部ウソ",
   "artist": "ナナヲアカリ",
-  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-03] A Noon Singing Stream After 100 Million Years☕A Noon Singing Stream After 100 Million Years☕[u_jJcVG6818] Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=8",
   "source": "naraetan.js"
@@ -4896,7 +4896,7 @@ window.SONG_DATA.push(
     {
   "title": "Lost my music",
   "artist": "涼宮ハルヒ(CV平野綾)",
-  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-03] A Noon Singing Stream After 100 Million Years☕A Noon Singing Stream After 100 Million Years☕[u_jJcVG6818] Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=9",
   "source": "naraetan.js"
@@ -4904,7 +4904,7 @@ window.SONG_DATA.push(
     {
   "title": "APT.",
   "artist": "ROSÉ & Bruno Mars",
-  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-03] A Noon Singing Stream After 100 Million Years☕A Noon Singing Stream After 100 Million Years☕[u_jJcVG6818] Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=10",
   "source": "naraetan.js"
@@ -4912,7 +4912,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-03] A Noon Singing Stream After 100 Million Years☕A Noon Singing Stream After 100 Million Years☕[u_jJcVG6818] Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=11",
   "source": "naraetan.js"
@@ -4920,7 +4920,7 @@ window.SONG_DATA.push(
     {
   "title": "Wind Climbing ～風にあそばれて～",
   "artist": "奥井亜紀",
-  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-03] A Noon Singing Stream After 100 Million Years☕A Noon Singing Stream After 100 Million Years☕[u_jJcVG6818] Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=12",
   "source": "naraetan.js"
@@ -4928,7 +4928,7 @@ window.SONG_DATA.push(
     {
   "title": "ダイアモンドクレバス",
   "artist": "シェリル・ノーム starring May'n",
-  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-03] A Noon Singing Stream After 100 Million Years☕A Noon Singing Stream After 100 Million Years☕[u_jJcVG6818] Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=13",
   "source": "naraetan.js"
@@ -4936,7 +4936,7 @@ window.SONG_DATA.push(
     {
   "title": "黒毛和牛上塩タン焼680円",
   "artist": "大塚愛",
-  "collection": "【🌷歌切】[2026-03-03]时隔一亿年的午间歌枠☕一億年ぶりのお昼歌枠☕[u_jJcVG6818]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-03] A Noon Singing Stream After 100 Million Years☕A Noon Singing Stream After 100 Million Years☕[u_jJcVG6818] Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CGAfzFE68?p=14",
   "source": "naraetan.js"
@@ -4944,7 +4944,7 @@ window.SONG_DATA.push(
     {
   "title": "ベテルギウス",
   "artist": "優里",
-  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-05] No Switch2 So I Sing 👩‍🎤No Switch2 So I Sing 👩‍🎤[qQ8iAqxacm4] Naretanda",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=1",
   "source": "naraetan.js"
@@ -4952,7 +4952,7 @@ window.SONG_DATA.push(
     {
   "title": "愛とか恋とか",
   "artist": "Novelbright",
-  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-05] No Switch2 So I Sing 👩‍🎤No Switch2 So I Sing 👩‍🎤[qQ8iAqxacm4] Naretanda",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=2",
   "source": "naraetan.js"
@@ -4960,7 +4960,7 @@ window.SONG_DATA.push(
     {
   "title": "again",
   "artist": "YUI",
-  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-05] No Switch2 So I Sing 👩‍🎤No Switch2 So I Sing 👩‍🎤[qQ8iAqxacm4] Naretanda",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=3",
   "source": "naraetan.js"
@@ -4968,7 +4968,7 @@ window.SONG_DATA.push(
     {
   "title": "アイのシナリオ",
   "artist": "CHiCO with HoneyWorks 『まじっく快斗』OP",
-  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-05] No Switch2 So I Sing 👩‍🎤No Switch2 So I Sing 👩‍🎤[qQ8iAqxacm4] Naretanda",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=4",
   "source": "naraetan.js"
@@ -4976,7 +4976,7 @@ window.SONG_DATA.push(
     {
   "title": "Drowning",
   "artist": "WOODZ",
-  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-05] No Switch2 So I Sing 👩‍🎤No Switch2 So I Sing 👩‍🎤[qQ8iAqxacm4] Naretanda",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=5",
   "source": "naraetan.js"
@@ -4984,7 +4984,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-05] No Switch2 So I Sing 👩‍🎤No Switch2 So I Sing 👩‍🎤[qQ8iAqxacm4] Naretanda",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=6",
   "source": "naraetan.js"
@@ -4992,7 +4992,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-05] No Switch2 So I Sing 👩‍🎤No Switch2 So I Sing 👩‍🎤[qQ8iAqxacm4] Naretanda",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=7",
   "source": "naraetan.js"
@@ -5000,7 +5000,7 @@ window.SONG_DATA.push(
     {
   "title": "ロマンスの神様",
   "artist": "広瀬香美",
-  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-05] No Switch2 So I Sing 👩‍🎤No Switch2 So I Sing 👩‍🎤[qQ8iAqxacm4] Naretanda",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=8",
   "source": "naraetan.js"
@@ -5008,7 +5008,7 @@ window.SONG_DATA.push(
     {
   "title": "モニタリング",
   "artist": "DECO*27",
-  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-05] No Switch2 So I Sing 👩‍🎤No Switch2 So I Sing 👩‍🎤[qQ8iAqxacm4] Naretanda",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=9",
   "source": "naraetan.js"
@@ -5016,7 +5016,7 @@ window.SONG_DATA.push(
     {
   "title": "嘆きの華",
   "artist": "水樹奈々",
-  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-05] No Switch2 So I Sing 👩‍🎤No Switch2 So I Sing 👩‍🎤[qQ8iAqxacm4] Naretanda",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=10",
   "source": "naraetan.js"
@@ -5024,7 +5024,7 @@ window.SONG_DATA.push(
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド",
-  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-05] No Switch2 So I Sing 👩‍🎤No Switch2 So I Sing 👩‍🎤[qQ8iAqxacm4] Naretanda",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=11",
   "source": "naraetan.js"
@@ -5032,7 +5032,7 @@ window.SONG_DATA.push(
     {
   "title": "最強○×計画",
   "artist": "MOSAIC.WAV",
-  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-05] No Switch2 So I Sing 👩‍🎤No Switch2 So I Sing 👩‍🎤[qQ8iAqxacm4] Naretanda",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=12",
   "source": "naraetan.js"
@@ -5040,7 +5040,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-05] No Switch2 So I Sing 👩‍🎤No Switch2 So I Sing 👩‍🎤[qQ8iAqxacm4] Naretanda",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=13",
   "source": "naraetan.js"
@@ -5048,7 +5048,7 @@ window.SONG_DATA.push(
     {
   "title": "世界に一つだけの花",
   "artist": "SMAP",
-  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-05] No Switch2 So I Sing 👩‍🎤No Switch2 So I Sing 👩‍🎤[qQ8iAqxacm4] Naretanda",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=14",
   "source": "naraetan.js"
@@ -5056,7 +5056,7 @@ window.SONG_DATA.push(
     {
   "title": "金曜日のおはよう",
   "artist": "HoneyWorks",
-  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-05] No Switch2 So I Sing 👩‍🎤No Switch2 So I Sing 👩‍🎤[qQ8iAqxacm4] Naretanda",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=15",
   "source": "naraetan.js"
@@ -5064,7 +5064,7 @@ window.SONG_DATA.push(
     {
   "title": "消せない罪",
   "artist": "北出菜奈",
-  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-05] No Switch2 So I Sing 👩‍🎤No Switch2 So I Sing 👩‍🎤[qQ8iAqxacm4] Naretanda",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=16",
   "source": "naraetan.js"
@@ -5072,7 +5072,7 @@ window.SONG_DATA.push(
     {
   "title": "空色デイズ",
   "artist": "中川翔子",
-  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-05] No Switch2 So I Sing 👩‍🎤No Switch2 So I Sing 👩‍🎤[qQ8iAqxacm4] Naretanda",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=17",
   "source": "naraetan.js"
@@ -5080,7 +5080,7 @@ window.SONG_DATA.push(
     {
   "title": "uni-verse",
   "artist": "オーイシマサヨシ",
-  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-05] No Switch2 So I Sing 👩‍🎤No Switch2 So I Sing 👩‍🎤[qQ8iAqxacm4] Naretanda",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=18",
   "source": "naraetan.js"
@@ -5088,7 +5088,7 @@ window.SONG_DATA.push(
     {
   "title": "シリウス",
   "artist": "藍井エイル",
-  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-05] No Switch2 So I Sing 👩‍🎤No Switch2 So I Sing 👩‍🎤[qQ8iAqxacm4] Naretanda",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=19",
   "source": "naraetan.js"
@@ -5096,15 +5096,15 @@ window.SONG_DATA.push(
     {
   "title": "森の小さなレストラン",
   "artist": "手嶌葵",
-  "collection": "【🌷歌切】[2026-03-05]没Switch2所以唱歌👩‍🎤Switch2持ってないから歌う👩‍🎤[qQ8iAqxacm4]なれたん",
+  "collection": "【🌷Song Cover】[2026-03-05] No Switch2 So I Sing 👩‍🎤No Switch2 So I Sing 👩‍🎤[qQ8iAqxacm4] Naretanda",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fTPmzoEka?p=20",
   "source": "naraetan.js"
 },
     {
-  "title": "変わらないもの",
-  "artist": "奥華子 cover by なれたん",
-  "collection": "変わらないもの - 奥華子 cover by なれたん",
+  "title": "Unchanging Things",
+  "artist": "Cover by Okuhana, performed by Naretann",
+  "collection": "Unchanging Things - Cover by Okuhana, performed by Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fcPpzREyR?p=1",
   "source": "naraetan.js"
@@ -5112,7 +5112,7 @@ window.SONG_DATA.push(
     {
   "title": "車輪の唄",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【なれたん歌切】[2026-03-08]康复后的歌枠🦵リハビリ後の歌枠🦵[CLKz5TTP2rM] Naraetan",
+  "collection": "【Naretans Singing Stream】[2026-03-08] Post-recovery singing stream 🦵 Singing stream after rehabilitation 🦵 [CLKz5TTP2rM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h2N3zEEvW?p=1",
   "source": "naraetan.js"
@@ -5120,7 +5120,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒーロー",
   "artist": "supercell",
-  "collection": "【なれたん歌切】[2026-03-08]康复后的歌枠🦵リハビリ後の歌枠🦵[CLKz5TTP2rM] Naraetan",
+  "collection": "【Naretans Singing Stream】[2026-03-08] Post-recovery singing stream 🦵 Singing stream after rehabilitation 🦵 [CLKz5TTP2rM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h2N3zEEvW?p=2",
   "source": "naraetan.js"
@@ -5128,7 +5128,7 @@ window.SONG_DATA.push(
     {
   "title": "晴れてハレルヤ",
   "artist": "奥井亜紀",
-  "collection": "【なれたん歌切】[2026-03-08]康复后的歌枠🦵リハビリ後の歌枠🦵[CLKz5TTP2rM] Naraetan",
+  "collection": "【Naretans Singing Stream】[2026-03-08] Post-recovery singing stream 🦵 Singing stream after rehabilitation 🦵 [CLKz5TTP2rM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h2N3zEEvW?p=3",
   "source": "naraetan.js"
@@ -5136,7 +5136,7 @@ window.SONG_DATA.push(
     {
   "title": "Cagayake!GIRLS",
   "artist": "放課後ティータイム",
-  "collection": "【なれたん歌切】[2026-03-08]康复后的歌枠🦵リハビリ後の歌枠🦵[CLKz5TTP2rM] Naraetan",
+  "collection": "【Naretans Singing Stream】[2026-03-08] Post-recovery singing stream 🦵 Singing stream after rehabilitation 🦵 [CLKz5TTP2rM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h2N3zEEvW?p=4",
   "source": "naraetan.js"
@@ -5144,7 +5144,7 @@ window.SONG_DATA.push(
     {
   "title": "紅蓮華",
   "artist": "LiSA",
-  "collection": "【なれたん歌切】[2026-03-08]康复后的歌枠🦵リハビリ後の歌枠🦵[CLKz5TTP2rM] Naraetan",
+  "collection": "【Naretans Singing Stream】[2026-03-08] Post-recovery singing stream 🦵 Singing stream after rehabilitation 🦵 [CLKz5TTP2rM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h2N3zEEvW?p=5",
   "source": "naraetan.js"
@@ -5152,7 +5152,7 @@ window.SONG_DATA.push(
     {
   "title": "ほうき星",
   "artist": "ユンナ",
-  "collection": "【なれたん歌切】[2026-03-08]康复后的歌枠🦵リハビリ後の歌枠🦵[CLKz5TTP2rM] Naraetan",
+  "collection": "【Naretans Singing Stream】[2026-03-08] Post-recovery singing stream 🦵 Singing stream after rehabilitation 🦵 [CLKz5TTP2rM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h2N3zEEvW?p=6",
   "source": "naraetan.js"
@@ -5160,7 +5160,7 @@ window.SONG_DATA.push(
     {
   "title": "おジャ魔女カーニバル！！",
   "artist": "MAHO堂",
-  "collection": "【なれたん歌切】[2026-03-08]康复后的歌枠🦵リハビリ後の歌枠🦵[CLKz5TTP2rM] Naraetan",
+  "collection": "【Naretans Singing Stream】[2026-03-08] Post-recovery singing stream 🦵 Singing stream after rehabilitation 🦵 [CLKz5TTP2rM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h2N3zEEvW?p=7",
   "source": "naraetan.js"
@@ -5168,7 +5168,7 @@ window.SONG_DATA.push(
     {
   "title": "ホタルノヒカリ",
   "artist": "いきものがかり",
-  "collection": "【なれたん歌切】[2026-03-08]康复后的歌枠🦵リハビリ後の歌枠🦵[CLKz5TTP2rM] Naraetan",
+  "collection": "【Naretans Singing Stream】[2026-03-08] Post-recovery singing stream 🦵 Singing stream after rehabilitation 🦵 [CLKz5TTP2rM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h2N3zEEvW?p=8",
   "source": "naraetan.js"
@@ -5176,7 +5176,7 @@ window.SONG_DATA.push(
     {
   "title": "宵々古今",
   "artist": "REOL",
-  "collection": "【なれたん歌切】[2026-03-08]康复后的歌枠🦵リハビリ後の歌枠🦵[CLKz5TTP2rM] Naraetan",
+  "collection": "【Naretans Singing Stream】[2026-03-08] Post-recovery singing stream 🦵 Singing stream after rehabilitation 🦵 [CLKz5TTP2rM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h2N3zEEvW?p=9",
   "source": "naraetan.js"
@@ -5184,7 +5184,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "【なれたん歌切】[2026-03-08]康复后的歌枠🦵リハビリ後の歌枠🦵[CLKz5TTP2rM] Naraetan",
+  "collection": "【Naretans Singing Stream】[2026-03-08] Post-recovery singing stream 🦵 Singing stream after rehabilitation 🦵 [CLKz5TTP2rM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h2N3zEEvW?p=10",
   "source": "naraetan.js"
@@ -5192,7 +5192,7 @@ window.SONG_DATA.push(
     {
   "title": "3月9日",
   "artist": "レミオロメン",
-  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "collection": "[Naretans Song Cut] [2026-03-09] 3Q's Singing Stream🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=1",
   "source": "naraetan.js"
@@ -5200,7 +5200,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "collection": "[Naretans Song Cut] [2026-03-09] 3Q's Singing Stream🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=2",
   "source": "naraetan.js"
@@ -5208,7 +5208,7 @@ window.SONG_DATA.push(
     {
   "title": "1／2",
   "artist": "川本真琴",
-  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "collection": "[Naretans Song Cut] [2026-03-09] 3Q's Singing Stream🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=3",
   "source": "naraetan.js"
@@ -5216,7 +5216,7 @@ window.SONG_DATA.push(
     {
   "title": "Drop Pop Candy",
   "artist": "Giga",
-  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "collection": "[Naretans Song Cut] [2026-03-09] 3Q's Singing Stream🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=4",
   "source": "naraetan.js"
@@ -5224,7 +5224,7 @@ window.SONG_DATA.push(
     {
   "title": "너만을 느끼며",
   "artist": "정우,유연석,손호준",
-  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "collection": "[Naretans Song Cut] [2026-03-09] 3Q's Singing Stream🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=5",
   "source": "naraetan.js"
@@ -5232,7 +5232,7 @@ window.SONG_DATA.push(
     {
   "title": "世界中の誰よりきっと",
   "artist": "中山美穂＆WANDS",
-  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "collection": "[Naretans Song Cut] [2026-03-09] 3Q's Singing Stream🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=6",
   "source": "naraetan.js"
@@ -5240,7 +5240,7 @@ window.SONG_DATA.push(
     {
   "title": "Hello, Worker",
   "artist": "KEI",
-  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "collection": "[Naretans Song Cut] [2026-03-09] 3Q's Singing Stream🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=7",
   "source": "naraetan.js"
@@ -5248,7 +5248,7 @@ window.SONG_DATA.push(
     {
   "title": "Drowing",
   "artist": "WOODZ",
-  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "collection": "[Naretans Song Cut] [2026-03-09] 3Q's Singing Stream🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=8",
   "source": "naraetan.js"
@@ -5256,7 +5256,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒロイン",
   "artist": "back number",
-  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "collection": "[Naretans Song Cut] [2026-03-09] 3Q's Singing Stream🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=9",
   "source": "naraetan.js"
@@ -5264,7 +5264,7 @@ window.SONG_DATA.push(
     {
   "title": "Snow halation",
   "artist": "μ's",
-  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "collection": "[Naretans Song Cut] [2026-03-09] 3Q's Singing Stream🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=10",
   "source": "naraetan.js"
@@ -5272,7 +5272,7 @@ window.SONG_DATA.push(
     {
   "title": "Pretender",
   "artist": "Official髭男dism",
-  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "collection": "[Naretans Song Cut] [2026-03-09] 3Q's Singing Stream🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=11",
   "source": "naraetan.js"
@@ -5280,7 +5280,7 @@ window.SONG_DATA.push(
     {
   "title": "勇侠青春謳",
   "artist": "ALI PROJECT",
-  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "collection": "[Naretans Song Cut] [2026-03-09] 3Q's Singing Stream🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=12",
   "source": "naraetan.js"
@@ -5288,7 +5288,7 @@ window.SONG_DATA.push(
     {
   "title": "今日から私たちは",
   "artist": "GFRIEND",
-  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "collection": "[Naretans Song Cut] [2026-03-09] 3Q's Singing Stream🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=13",
   "source": "naraetan.js"
@@ -5296,7 +5296,7 @@ window.SONG_DATA.push(
     {
   "title": "聖少女領域",
   "artist": "ALI PROJECT",
-  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "collection": "[Naretans Song Cut] [2026-03-09] 3Q's Singing Stream🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=14",
   "source": "naraetan.js"
@@ -5304,7 +5304,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーザンクロス",
   "artist": "シェリル・ノーム starring May'n",
-  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "collection": "[Naretans Song Cut] [2026-03-09] 3Q's Singing Stream🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=15",
   "source": "naraetan.js"
@@ -5312,7 +5312,7 @@ window.SONG_DATA.push(
     {
   "title": "Anemone heart",
   "artist": "南ことり(内田彩), 園田海未(三森すずこ)",
-  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "collection": "[Naretans Song Cut] [2026-03-09] 3Q's Singing Stream🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=16",
   "source": "naraetan.js"
@@ -5320,7 +5320,7 @@ window.SONG_DATA.push(
     {
   "title": "プラリネ",
   "artist": "ジュリア(愛美)",
-  "collection": "【なれたん歌切】[2026-03-09]3Q的歌回🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
+  "collection": "[Naretans Song Cut] [2026-03-09] 3Q's Singing Stream🧚‍♀️3⧸9[-D1jX3Iofpw] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wLPdzsERg?p=17",
   "source": "naraetan.js"
@@ -5328,7 +5328,7 @@ window.SONG_DATA.push(
     {
   "title": "鬼ノ宴",
   "artist": "友成空",
-  "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
+  "collection": "[Naretan singing clip] [2026-03-10] Just woke up singing stream 🥺 [yaEpe_J0gDM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=1",
   "source": "naraetan.js"
@@ -5336,7 +5336,7 @@ window.SONG_DATA.push(
     {
   "title": "I beg you",
   "artist": "Aimer",
-  "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
+  "collection": "[Naretan singing clip] [2026-03-10] Just woke up singing stream 🥺 [yaEpe_J0gDM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=2",
   "source": "naraetan.js"
@@ -5344,7 +5344,7 @@ window.SONG_DATA.push(
     {
   "title": "愛のかたまり",
   "artist": "DOMOTO",
-  "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
+  "collection": "[Naretan singing clip] [2026-03-10] Just woke up singing stream 🥺 [yaEpe_J0gDM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=3",
   "source": "naraetan.js"
@@ -5352,7 +5352,7 @@ window.SONG_DATA.push(
     {
   "title": "君という名の翼",
   "artist": "コブクロ",
-  "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
+  "collection": "[Naretan singing clip] [2026-03-10] Just woke up singing stream 🥺 [yaEpe_J0gDM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=4",
   "source": "naraetan.js"
@@ -5360,7 +5360,7 @@ window.SONG_DATA.push(
     {
   "title": "光の破片",
   "artist": "高橋優",
-  "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
+  "collection": "[Naretan singing clip] [2026-03-10] Just woke up singing stream 🥺 [yaEpe_J0gDM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=5",
   "source": "naraetan.js"
@@ -5368,7 +5368,7 @@ window.SONG_DATA.push(
     {
   "title": "新宝島",
   "artist": "サカナクション",
-  "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
+  "collection": "[Naretan singing clip] [2026-03-10] Just woke up singing stream 🥺 [yaEpe_J0gDM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=6",
   "source": "naraetan.js"
@@ -5376,7 +5376,7 @@ window.SONG_DATA.push(
     {
   "title": "フォニイ",
   "artist": "ツミキ",
-  "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
+  "collection": "[Naretan singing clip] [2026-03-10] Just woke up singing stream 🥺 [yaEpe_J0gDM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=7",
   "source": "naraetan.js"
@@ -5384,7 +5384,7 @@ window.SONG_DATA.push(
     {
   "title": "ユニバース",
   "artist": "夏代孝明 feat. GUMI",
-  "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
+  "collection": "[Naretan singing clip] [2026-03-10] Just woke up singing stream 🥺 [yaEpe_J0gDM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=8",
   "source": "naraetan.js"
@@ -5392,7 +5392,7 @@ window.SONG_DATA.push(
     {
   "title": "桜キッス",
   "artist": "河辺千恵子",
-  "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
+  "collection": "[Naretan singing clip] [2026-03-10] Just woke up singing stream 🥺 [yaEpe_J0gDM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=9",
   "source": "naraetan.js"
@@ -5400,7 +5400,7 @@ window.SONG_DATA.push(
     {
   "title": "シマウマノヨル",
   "artist": "越智千恵子",
-  "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
+  "collection": "[Naretan singing clip] [2026-03-10] Just woke up singing stream 🥺 [yaEpe_J0gDM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=10",
   "source": "naraetan.js"
@@ -5408,7 +5408,7 @@ window.SONG_DATA.push(
     {
   "title": "Beyond the BLADE",
   "artist": "水樹奈々",
-  "collection": "【なれたん歌切】[2026-03-10]刚刚睡醒的歌枠🥺[yaEpe_J0gDM] Naraetan",
+  "collection": "[Naretan singing clip] [2026-03-10] Just woke up singing stream 🥺 [yaEpe_J0gDM] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7cRzpEXb?p=11",
   "source": "naraetan.js"
@@ -5416,7 +5416,7 @@ window.SONG_DATA.push(
     {
   "title": "ちゅ、多様性。",
   "artist": "ano",
-  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-13]Spend Friday with songs!🌷Celebrate Friday with singing![46qT0pcmtkg] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=1",
   "source": "naraetan.js"
@@ -5424,7 +5424,7 @@ window.SONG_DATA.push(
     {
   "title": "勇者",
   "artist": "YOASOBI",
-  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-13]Spend Friday with songs!🌷Celebrate Friday with singing![46qT0pcmtkg] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=2",
   "source": "naraetan.js"
@@ -5432,7 +5432,7 @@ window.SONG_DATA.push(
     {
   "title": "신호등",
   "artist": "李茂珍",
-  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-13]Spend Friday with songs!🌷Celebrate Friday with singing![46qT0pcmtkg] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=3",
   "source": "naraetan.js"
@@ -5440,7 +5440,7 @@ window.SONG_DATA.push(
     {
   "title": "ギターと孤独と蒼い惑星",
   "artist": "結束バンド",
-  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-13]Spend Friday with songs!🌷Celebrate Friday with singing![46qT0pcmtkg] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=4",
   "source": "naraetan.js"
@@ -5448,7 +5448,7 @@ window.SONG_DATA.push(
     {
   "title": "光るなら",
   "artist": "Goose house",
-  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-13]Spend Friday with songs!🌷Celebrate Friday with singing![46qT0pcmtkg] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=5",
   "source": "naraetan.js"
@@ -5456,7 +5456,7 @@ window.SONG_DATA.push(
     {
   "title": "白い雪のプリンセスは",
   "artist": "のぼる↑",
-  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-13]Spend Friday with songs!🌷Celebrate Friday with singing![46qT0pcmtkg] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=6",
   "source": "naraetan.js"
@@ -5464,7 +5464,7 @@ window.SONG_DATA.push(
     {
   "title": "Make Me Wonder",
   "artist": "Official髭男dism",
-  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-13]Spend Friday with songs!🌷Celebrate Friday with singing![46qT0pcmtkg] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=7",
   "source": "naraetan.js"
@@ -5472,7 +5472,7 @@ window.SONG_DATA.push(
     {
   "title": "Rubia",
   "artist": "周深",
-  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-13]Spend Friday with songs!🌷Celebrate Friday with singing![46qT0pcmtkg] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=8",
   "source": "naraetan.js"
@@ -5480,7 +5480,7 @@ window.SONG_DATA.push(
     {
   "title": "Little Wing",
   "artist": "Jimi Hendrix",
-  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-13]Spend Friday with songs!🌷Celebrate Friday with singing![46qT0pcmtkg] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=9",
   "source": "naraetan.js"
@@ -5488,7 +5488,7 @@ window.SONG_DATA.push(
     {
   "title": "百花",
   "artist": "Mirror,Mirror",
-  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-13]Spend Friday with songs!🌷Celebrate Friday with singing![46qT0pcmtkg] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=10",
   "source": "naraetan.js"
@@ -5496,7 +5496,7 @@ window.SONG_DATA.push(
     {
   "title": "希望峰",
   "artist": "Strawberry JAM",
-  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-13]Spend Friday with songs!🌷Celebrate Friday with singing![46qT0pcmtkg] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=11",
   "source": "naraetan.js"
@@ -5504,7 +5504,7 @@ window.SONG_DATA.push(
     {
   "title": "好きすぎて滅！",
   "artist": "M!LK",
-  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-13]Spend Friday with songs!🌷Celebrate Friday with singing![46qT0pcmtkg] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=12",
   "source": "naraetan.js"
@@ -5512,7 +5512,7 @@ window.SONG_DATA.push(
     {
   "title": "TOMORROW",
   "artist": "岡本真夜",
-  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-13]Spend Friday with songs!🌷Celebrate Friday with singing![46qT0pcmtkg] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=13",
   "source": "naraetan.js"
@@ -5520,7 +5520,7 @@ window.SONG_DATA.push(
     {
   "title": "なのです☆",
   "artist": "堀江由衣",
-  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-13]Spend Friday with songs!🌷Celebrate Friday with singing![46qT0pcmtkg] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=14",
   "source": "naraetan.js"
@@ -5528,7 +5528,7 @@ window.SONG_DATA.push(
     {
   "title": "Baby Sweet Berry Love",
   "artist": "小倉唯",
-  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-13]Spend Friday with songs!🌷Celebrate Friday with singing![46qT0pcmtkg] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=15",
   "source": "naraetan.js"
@@ -5536,7 +5536,7 @@ window.SONG_DATA.push(
     {
   "title": "호랑풍류가",
   "artist": "나래",
-  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-13]Spend Friday with songs!🌷Celebrate Friday with singing![46qT0pcmtkg] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=16",
   "source": "naraetan.js"
@@ -5544,7 +5544,7 @@ window.SONG_DATA.push(
     {
   "title": "Super Driver",
   "artist": "涼宮ハルヒ『涼宮ハルヒの憂鬱』OP",
-  "collection": "【なれたん歌切】[2026-03-13]和歌一起过华金！🌷用歌声共度周五！[46qT0pcmtkg] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-13]Spend Friday with songs!🌷Celebrate Friday with singing![46qT0pcmtkg] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C5wnznEGB?p=17",
   "source": "naraetan.js"
@@ -5552,7 +5552,7 @@ window.SONG_DATA.push(
     {
   "title": "Rain",
   "artist": "秦基博",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-15] Sunday Energy Singing Slot [FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=1",
   "source": "naraetan.js"
@@ -5560,7 +5560,7 @@ window.SONG_DATA.push(
     {
   "title": "Way Back Home",
   "artist": "SHAUN",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-15] Sunday Energy Singing Slot [FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=2",
   "source": "naraetan.js"
@@ -5568,7 +5568,7 @@ window.SONG_DATA.push(
     {
   "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-15] Sunday Energy Singing Slot [FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=3",
   "source": "naraetan.js"
@@ -5576,7 +5576,7 @@ window.SONG_DATA.push(
     {
   "title": "星になる",
   "artist": "Islet feat.倚水",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-15] Sunday Energy Singing Slot [FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=4",
   "source": "naraetan.js"
@@ -5584,7 +5584,7 @@ window.SONG_DATA.push(
     {
   "title": "lulu.",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-15] Sunday Energy Singing Slot [FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=5",
   "source": "naraetan.js"
@@ -5592,7 +5592,7 @@ window.SONG_DATA.push(
     {
   "title": "Just Be Friends",
   "artist": "Dixie Flatline",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-15] Sunday Energy Singing Slot [FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=6",
   "source": "naraetan.js"
@@ -5600,7 +5600,7 @@ window.SONG_DATA.push(
     {
   "title": "たぶん",
   "artist": "YOASOBI",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-15] Sunday Energy Singing Slot [FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=7",
   "source": "naraetan.js"
@@ -5608,7 +5608,7 @@ window.SONG_DATA.push(
     {
   "title": "アドレナ",
   "artist": "YOASOBI",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-15] Sunday Energy Singing Slot [FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=8",
   "source": "naraetan.js"
@@ -5616,7 +5616,7 @@ window.SONG_DATA.push(
     {
   "title": "花になって",
   "artist": "緑黄色社会",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-15] Sunday Energy Singing Slot [FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=9",
   "source": "naraetan.js"
@@ -5624,7 +5624,7 @@ window.SONG_DATA.push(
     {
   "title": "ハナノイロ",
   "artist": "nano.RIPE",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-15] Sunday Energy Singing Slot [FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=10",
   "source": "naraetan.js"
@@ -5632,7 +5632,7 @@ window.SONG_DATA.push(
     {
   "title": "ツキミソウ",
   "artist": "Novelbright",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-15] Sunday Energy Singing Slot [FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=11",
   "source": "naraetan.js"
@@ -5640,7 +5640,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか！",
   "artist": "米津玄師",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-15] Sunday Energy Singing Slot [FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=12",
   "source": "naraetan.js"
@@ -5648,7 +5648,7 @@ window.SONG_DATA.push(
     {
   "title": "DUET",
   "artist": "ZICO & 幾田りら",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-15] Sunday Energy Singing Slot [FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=13",
   "source": "naraetan.js"
@@ -5656,7 +5656,7 @@ window.SONG_DATA.push(
     {
   "title": "幾億光年",
   "artist": "Omoinotake",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-15] Sunday Energy Singing Slot [FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=14",
   "source": "naraetan.js"
@@ -5664,7 +5664,7 @@ window.SONG_DATA.push(
     {
   "title": "マイ フレンド",
   "artist": "ZARD",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-15] Sunday Energy Singing Slot [FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=15",
   "source": "naraetan.js"
@@ -5672,7 +5672,7 @@ window.SONG_DATA.push(
     {
   "title": "サインはB",
   "artist": "B小町",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-15] Sunday Energy Singing Slot [FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=16",
   "source": "naraetan.js"
@@ -5680,7 +5680,7 @@ window.SONG_DATA.push(
     {
   "title": "Give a reason",
   "artist": "林原めぐみ",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-15] Sunday Energy Singing Slot [FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=17",
   "source": "naraetan.js"
@@ -5688,7 +5688,7 @@ window.SONG_DATA.push(
     {
   "title": "花束",
   "artist": "back number",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-15] Sunday Energy Singing Slot [FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=18",
   "source": "naraetan.js"
@@ -5696,7 +5696,7 @@ window.SONG_DATA.push(
     {
   "title": "花の塔",
   "artist": "さユり",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-15] Sunday Energy Singing Slot [FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=19",
   "source": "naraetan.js"
@@ -5704,7 +5704,7 @@ window.SONG_DATA.push(
     {
   "title": "優しさの理由",
   "artist": "ChouCho",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-15] Sunday Energy Singing Slot [FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=20",
   "source": "naraetan.js"
@@ -5712,7 +5712,7 @@ window.SONG_DATA.push(
     {
   "title": "ルンがピカッと光ったら",
   "artist": "ワルキューレ",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-15] Sunday Energy Singing Slot [FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=21",
   "source": "naraetan.js"
@@ -5720,7 +5720,7 @@ window.SONG_DATA.push(
     {
   "title": "恋文",
   "artist": "Every Little Thing",
-  "collection": "【なれたん歌切】[2026-03-15]周日的元气歌枠[FzYxPxfnn1Y] Naraetan",
+  "collection": "【Naraetan Song Cut】[2026-03-15] Sunday Energy Singing Slot [FzYxPxfnn1Y] Naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VZwgz3Eqe?p=22",
   "source": "naraetan.js"
@@ -5728,7 +5728,7 @@ window.SONG_DATA.push(
     {
   "title": "INVOKE",
   "artist": "T.M.Revolution",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=1",
   "source": "naraetan.js"
@@ -5736,7 +5736,7 @@ window.SONG_DATA.push(
     {
   "title": "残響散歌",
   "artist": "Aimer",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=2",
   "source": "naraetan.js"
@@ -5744,7 +5744,7 @@ window.SONG_DATA.push(
     {
   "title": "新宝島",
   "artist": "サカナクション",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=3",
   "source": "naraetan.js"
@@ -5752,7 +5752,7 @@ window.SONG_DATA.push(
     {
   "title": "サウダージ",
   "artist": "ポルノグラフィティ",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=4",
   "source": "naraetan.js"
@@ -5760,7 +5760,7 @@ window.SONG_DATA.push(
     {
   "title": "Drowing",
   "artist": "WOODZ",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=5",
   "source": "naraetan.js"
@@ -5768,7 +5768,7 @@ window.SONG_DATA.push(
     {
   "title": "Butter-Fly",
   "artist": "和田光司",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=6",
   "source": "naraetan.js"
@@ -5776,7 +5776,7 @@ window.SONG_DATA.push(
     {
   "title": "お気に召すまま",
   "artist": "Eve",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=7",
   "source": "naraetan.js"
@@ -5784,7 +5784,7 @@ window.SONG_DATA.push(
     {
   "title": "shake it!",
   "artist": "emon(Tes.)",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=8",
   "source": "naraetan.js"
@@ -5792,7 +5792,7 @@ window.SONG_DATA.push(
     {
   "title": "カサブタ",
   "artist": "千綿偉功",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=9",
   "source": "naraetan.js"
@@ -5800,7 +5800,7 @@ window.SONG_DATA.push(
     {
   "title": "IRIS OUT",
   "artist": "米津玄師",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=10",
   "source": "naraetan.js"
@@ -5808,7 +5808,7 @@ window.SONG_DATA.push(
     {
   "title": "ETERNAL BLAZE",
   "artist": "水樹奈々",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=11",
   "source": "naraetan.js"
@@ -5816,7 +5816,7 @@ window.SONG_DATA.push(
     {
   "title": "NO, Thank You!",
   "artist": "放課後ティータイム",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=12",
   "source": "naraetan.js"
@@ -5824,7 +5824,7 @@ window.SONG_DATA.push(
     {
   "title": "あんなに一緒だったのに",
   "artist": "See-Saw",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=13",
   "source": "naraetan.js"
@@ -5832,7 +5832,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明け生まれ来る少女",
   "artist": "高橋洋子",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=14",
   "source": "naraetan.js"
@@ -5840,7 +5840,7 @@ window.SONG_DATA.push(
     {
   "title": "Shangri-La",
   "artist": "angela",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=15",
   "source": "naraetan.js"
@@ -5848,7 +5848,7 @@ window.SONG_DATA.push(
     {
   "title": "oath sign",
   "artist": "LiSA",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=16",
   "source": "naraetan.js"
@@ -5856,7 +5856,7 @@ window.SONG_DATA.push(
     {
   "title": "片翼のイカロス",
   "artist": "榊原ゆい",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=17",
   "source": "naraetan.js"
@@ -5864,7 +5864,7 @@ window.SONG_DATA.push(
     {
   "title": "WILL",
   "artist": "米倉千尋",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=18",
   "source": "naraetan.js"
@@ -5872,7 +5872,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒトリノ夜",
   "artist": "ポルノグラフィティ",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=19",
   "source": "naraetan.js"
@@ -5880,7 +5880,7 @@ window.SONG_DATA.push(
     {
   "title": "ピアノ泥棒",
   "artist": "Amazarashi",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=20",
   "source": "naraetan.js"
@@ -5888,7 +5888,7 @@ window.SONG_DATA.push(
     {
   "title": "1/f",
   "artist": "LiSA",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=21",
   "source": "naraetan.js"
@@ -5896,7 +5896,7 @@ window.SONG_DATA.push(
     {
   "title": "Mela!",
   "artist": "緑黄色社会",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=22",
   "source": "naraetan.js"
@@ -5904,7 +5904,7 @@ window.SONG_DATA.push(
     {
   "title": "真赤な誓い",
   "artist": "福山芳樹",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=23",
   "source": "naraetan.js"
@@ -5912,7 +5912,7 @@ window.SONG_DATA.push(
     {
   "title": "グロウアップ",
   "artist": "Hysteric Blue",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=24",
   "source": "naraetan.js"
@@ -5920,7 +5920,7 @@ window.SONG_DATA.push(
     {
   "title": "Letters to ME",
   "artist": "LiSA",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=25",
   "source": "naraetan.js"
@@ -5928,7 +5928,7 @@ window.SONG_DATA.push(
     {
   "title": "Ark",
   "artist": "Sound Horizon",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=26",
   "source": "naraetan.js"
@@ -5936,7 +5936,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=27",
   "source": "naraetan.js"
@@ -5944,7 +5944,7 @@ window.SONG_DATA.push(
     {
   "title": "COLORS",
   "artist": "FLOW",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=28",
   "source": "naraetan.js"
@@ -5952,7 +5952,7 @@ window.SONG_DATA.push(
     {
   "title": "誇り高きアイドル",
   "artist": "HoneyWorks",
-  "collection": "【なれたん歌切】[2026-03-17]力争达到1万人目标的耐久歌枠(+达到时会有公告！)❤️‍🔥[bB-VjePLc0I]",
+  "collection": "【Naretatsu Song Cut】[2026-03-17] Endurance Stream Aiming for 10,000 Viewers (Announcement at Goal!) ❤️‍🔥 [bB-VjePLc0I]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15ZwYz6ENS?p=29",
   "source": "naraetan.js"
@@ -5960,7 +5960,7 @@ window.SONG_DATA.push(
     {
   "title": "コネクト",
   "artist": "ClariS",
-  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "collection": "[Naretan Song Cut] [2026-03-21] Late-night Saturday song session 🍊 [EjXhu_L6HxM] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=1",
   "source": "naraetan.js"
@@ -5968,7 +5968,7 @@ window.SONG_DATA.push(
     {
   "title": "ハルジオン",
   "artist": "YOASOBI",
-  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "collection": "[Naretan Song Cut] [2026-03-21] Late-night Saturday song session 🍊 [EjXhu_L6HxM] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=2",
   "source": "naraetan.js"
@@ -5976,7 +5976,7 @@ window.SONG_DATA.push(
     {
   "title": "カントリー・ロード",
   "artist": "本名陽子",
-  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "collection": "[Naretan Song Cut] [2026-03-21] Late-night Saturday song session 🍊 [EjXhu_L6HxM] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=3",
   "source": "naraetan.js"
@@ -5984,7 +5984,7 @@ window.SONG_DATA.push(
     {
   "title": "シンデレラボーイ",
   "artist": "Saucy Dog",
-  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "collection": "[Naretan Song Cut] [2026-03-21] Late-night Saturday song session 🍊 [EjXhu_L6HxM] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=4",
   "source": "naraetan.js"
@@ -5992,7 +5992,7 @@ window.SONG_DATA.push(
     {
   "title": "もらい泣き",
   "artist": "一青窈",
-  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "collection": "[Naretan Song Cut] [2026-03-21] Late-night Saturday song session 🍊 [EjXhu_L6HxM] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=5",
   "source": "naraetan.js"
@@ -6000,7 +6000,7 @@ window.SONG_DATA.push(
     {
   "title": "楓",
   "artist": "スピッツ",
-  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "collection": "[Naretan Song Cut] [2026-03-21] Late-night Saturday song session 🍊 [EjXhu_L6HxM] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=6",
   "source": "naraetan.js"
@@ -6008,7 +6008,7 @@ window.SONG_DATA.push(
     {
   "title": "灼け落ちない翼",
   "artist": "多田葵",
-  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "collection": "[Naretan Song Cut] [2026-03-21] Late-night Saturday song session 🍊 [EjXhu_L6HxM] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=7",
   "source": "naraetan.js"
@@ -6016,7 +6016,7 @@ window.SONG_DATA.push(
     {
   "title": "指輪",
   "artist": "坂本真綾",
-  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "collection": "[Naretan Song Cut] [2026-03-21] Late-night Saturday song session 🍊 [EjXhu_L6HxM] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=8",
   "source": "naraetan.js"
@@ -6024,7 +6024,7 @@ window.SONG_DATA.push(
     {
   "title": "オレンジ",
   "artist": "7!!",
-  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "collection": "[Naretan Song Cut] [2026-03-21] Late-night Saturday song session 🍊 [EjXhu_L6HxM] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=9",
   "source": "naraetan.js"
@@ -6032,7 +6032,7 @@ window.SONG_DATA.push(
     {
   "title": "remember",
   "artist": "Uru",
-  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "collection": "[Naretan Song Cut] [2026-03-21] Late-night Saturday song session 🍊 [EjXhu_L6HxM] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=10",
   "source": "naraetan.js"
@@ -6040,7 +6040,7 @@ window.SONG_DATA.push(
     {
   "title": "世界は恋に落ちている",
   "artist": "CHiCO with HoneyWorks",
-  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "collection": "[Naretan Song Cut] [2026-03-21] Late-night Saturday song session 🍊 [EjXhu_L6HxM] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=11",
   "source": "naraetan.js"
@@ -6048,7 +6048,7 @@ window.SONG_DATA.push(
     {
   "title": "少女レイ",
   "artist": "みきとP",
-  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "collection": "[Naretan Song Cut] [2026-03-21] Late-night Saturday song session 🍊 [EjXhu_L6HxM] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=12",
   "source": "naraetan.js"
@@ -6056,7 +6056,7 @@ window.SONG_DATA.push(
     {
   "title": "つないだ手",
   "artist": "Lil'B",
-  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "collection": "[Naretan Song Cut] [2026-03-21] Late-night Saturday song session 🍊 [EjXhu_L6HxM] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=13",
   "source": "naraetan.js"
@@ -6064,7 +6064,7 @@ window.SONG_DATA.push(
     {
   "title": "浪漫飛行",
   "artist": "米米CLUB",
-  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "collection": "[Naretan Song Cut] [2026-03-21] Late-night Saturday song session 🍊 [EjXhu_L6HxM] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=14",
   "source": "naraetan.js"
@@ -6072,7 +6072,7 @@ window.SONG_DATA.push(
     {
   "title": "SOUL TAKER",
   "artist": "JAM Project",
-  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "collection": "[Naretan Song Cut] [2026-03-21] Late-night Saturday song session 🍊 [EjXhu_L6HxM] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=15",
   "source": "naraetan.js"
@@ -6080,7 +6080,7 @@ window.SONG_DATA.push(
     {
   "title": "Catch the Moment",
   "artist": "LiSA",
-  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "collection": "[Naretan Song Cut] [2026-03-21] Late-night Saturday song session 🍊 [EjXhu_L6HxM] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=16",
   "source": "naraetan.js"
@@ -6088,7 +6088,7 @@ window.SONG_DATA.push(
     {
   "title": "キョリ感",
   "artist": "ハコニワリリィ",
-  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "collection": "[Naretan Song Cut] [2026-03-21] Late-night Saturday song session 🍊 [EjXhu_L6HxM] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=17",
   "source": "naraetan.js"
@@ -6096,7 +6096,7 @@ window.SONG_DATA.push(
     {
   "title": "恋文",
   "artist": "Every Little Thing",
-  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "collection": "[Naretan Song Cut] [2026-03-21] Late-night Saturday song session 🍊 [EjXhu_L6HxM] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=18",
   "source": "naraetan.js"
@@ -6104,7 +6104,7 @@ window.SONG_DATA.push(
     {
   "title": "adrenaline!!!",
   "artist": "TrySail",
-  "collection": "【なれたん歌切】[2026-03-21]周六深夜歌回🍊[EjXhu_L6HxM]naraetan",
+  "collection": "[Naretan Song Cut] [2026-03-21] Late-night Saturday song session 🍊 [EjXhu_L6HxM] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MCAPznEe9?p=19",
   "source": "naraetan.js"
@@ -6112,7 +6112,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "collection": "[Naretane Song Cut] [2026-03-23] Giving it my all this week too🐶[NgqsYZlhA3o]naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=1",
   "source": "naraetan.js"
@@ -6120,7 +6120,7 @@ window.SONG_DATA.push(
     {
   "title": "Habit",
   "artist": "SEKAI NO OWARI",
-  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "collection": "[Naretane Song Cut] [2026-03-23] Giving it my all this week too🐶[NgqsYZlhA3o]naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=2",
   "source": "naraetan.js"
@@ -6128,7 +6128,7 @@ window.SONG_DATA.push(
     {
   "title": "GLAMOROUS SKY",
   "artist": "中島美嘉",
-  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "collection": "[Naretane Song Cut] [2026-03-23] Giving it my all this week too🐶[NgqsYZlhA3o]naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=3",
   "source": "naraetan.js"
@@ -6136,7 +6136,7 @@ window.SONG_DATA.push(
     {
   "title": "ワタリドリ",
   "artist": "『Alexandros』",
-  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "collection": "[Naretane Song Cut] [2026-03-23] Giving it my all this week too🐶[NgqsYZlhA3o]naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=4",
   "source": "naraetan.js"
@@ -6144,7 +6144,7 @@ window.SONG_DATA.push(
     {
   "title": "怪物",
   "artist": "YOASOBI",
-  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "collection": "[Naretane Song Cut] [2026-03-23] Giving it my all this week too🐶[NgqsYZlhA3o]naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=5",
   "source": "naraetan.js"
@@ -6152,7 +6152,7 @@ window.SONG_DATA.push(
     {
   "title": "Grip!",
   "artist": "Every Little Thing",
-  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "collection": "[Naretane Song Cut] [2026-03-23] Giving it my all this week too🐶[NgqsYZlhA3o]naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=6",
   "source": "naraetan.js"
@@ -6160,7 +6160,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーバード",
   "artist": "いきものがかり",
-  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "collection": "[Naretane Song Cut] [2026-03-23] Giving it my all this week too🐶[NgqsYZlhA3o]naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=7",
   "source": "naraetan.js"
@@ -6168,7 +6168,7 @@ window.SONG_DATA.push(
     {
   "title": "きみにとどけ",
   "artist": "タニザワトモフミ",
-  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "collection": "[Naretane Song Cut] [2026-03-23] Giving it my all this week too🐶[NgqsYZlhA3o]naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=8",
   "source": "naraetan.js"
@@ -6176,7 +6176,7 @@ window.SONG_DATA.push(
     {
   "title": "白日",
   "artist": "King Gnu",
-  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "collection": "[Naretane Song Cut] [2026-03-23] Giving it my all this week too🐶[NgqsYZlhA3o]naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=9",
   "source": "naraetan.js"
@@ -6184,7 +6184,7 @@ window.SONG_DATA.push(
     {
   "title": "DAYBREAK FRONTLINE",
   "artist": "Orangestar",
-  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "collection": "[Naretane Song Cut] [2026-03-23] Giving it my all this week too🐶[NgqsYZlhA3o]naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=10",
   "source": "naraetan.js"
@@ -6192,7 +6192,7 @@ window.SONG_DATA.push(
     {
   "title": "サムライハート",
   "artist": "SPYAIR",
-  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "collection": "[Naretane Song Cut] [2026-03-23] Giving it my all this week too🐶[NgqsYZlhA3o]naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=11",
   "source": "naraetan.js"
@@ -6200,7 +6200,7 @@ window.SONG_DATA.push(
     {
   "title": "変わらない場所",
   "artist": "アリエP",
-  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "collection": "[Naretane Song Cut] [2026-03-23] Giving it my all this week too🐶[NgqsYZlhA3o]naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=12",
   "source": "naraetan.js"
@@ -6208,7 +6208,7 @@ window.SONG_DATA.push(
     {
   "title": "あの夢をなぞって",
   "artist": "YOASOBI",
-  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "collection": "[Naretane Song Cut] [2026-03-23] Giving it my all this week too🐶[NgqsYZlhA3o]naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=13",
   "source": "naraetan.js"
@@ -6216,7 +6216,7 @@ window.SONG_DATA.push(
     {
   "title": "微笑みの爆弾",
   "artist": "馬渡松子",
-  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "collection": "[Naretane Song Cut] [2026-03-23] Giving it my all this week too🐶[NgqsYZlhA3o]naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=14",
   "source": "naraetan.js"
@@ -6224,7 +6224,7 @@ window.SONG_DATA.push(
     {
   "title": "White Reflection",
   "artist": "TWO-MIX",
-  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "collection": "[Naretane Song Cut] [2026-03-23] Giving it my all this week too🐶[NgqsYZlhA3o]naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=15",
   "source": "naraetan.js"
@@ -6232,7 +6232,7 @@ window.SONG_DATA.push(
     {
   "title": "宿命",
   "artist": "Official髭男dism",
-  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "collection": "[Naretane Song Cut] [2026-03-23] Giving it my all this week too🐶[NgqsYZlhA3o]naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=16",
   "source": "naraetan.js"
@@ -6240,7 +6240,7 @@ window.SONG_DATA.push(
     {
   "title": "いけないボーダーライン",
   "artist": "ワルキューレ",
-  "collection": "【なれたん歌切】[2026-03-23]本周也全力以赴🐶[NgqsYZlhA3o]naraetan",
+  "collection": "[Naretane Song Cut] [2026-03-23] Giving it my all this week too🐶[NgqsYZlhA3o]naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UgQfB3EZP?p=17",
   "source": "naraetan.js"
@@ -6248,7 +6248,7 @@ window.SONG_DATA.push(
     {
   "title": "Get Wild",
   "artist": "TM NETWORK",
-  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "collection": "【Naraetan's Song Cover】[2026-03-26] Suddenly it got cold [ZutL4auiGKg] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=1",
   "source": "naraetan.js"
@@ -6256,7 +6256,7 @@ window.SONG_DATA.push(
     {
   "title": "狂乱Hey Kids!!",
   "artist": "THE ORAL CIGARETTES",
-  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "collection": "【Naraetan's Song Cover】[2026-03-26] Suddenly it got cold [ZutL4auiGKg] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=2",
   "source": "naraetan.js"
@@ -6264,7 +6264,7 @@ window.SONG_DATA.push(
     {
   "title": "サクラミツツキ",
   "artist": "SPYAIR",
-  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "collection": "【Naraetan's Song Cover】[2026-03-26] Suddenly it got cold [ZutL4auiGKg] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=3",
   "source": "naraetan.js"
@@ -6272,7 +6272,7 @@ window.SONG_DATA.push(
     {
   "title": "翼はPleasure Line",
   "artist": "栗林みな実",
-  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "collection": "【Naraetan's Song Cover】[2026-03-26] Suddenly it got cold [ZutL4auiGKg] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=4",
   "source": "naraetan.js"
@@ -6280,7 +6280,7 @@ window.SONG_DATA.push(
     {
   "title": "心よ原始に戻れ",
   "artist": "高橋洋子",
-  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "collection": "【Naraetan's Song Cover】[2026-03-26] Suddenly it got cold [ZutL4auiGKg] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=5",
   "source": "naraetan.js"
@@ -6288,7 +6288,7 @@ window.SONG_DATA.push(
     {
   "title": "stone cold",
   "artist": "FictionJunction",
-  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "collection": "【Naraetan's Song Cover】[2026-03-26] Suddenly it got cold [ZutL4auiGKg] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=6",
   "source": "naraetan.js"
@@ -6296,7 +6296,7 @@ window.SONG_DATA.push(
     {
   "title": "BOY MEETS GIRL",
   "artist": "TRF",
-  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "collection": "【Naraetan's Song Cover】[2026-03-26] Suddenly it got cold [ZutL4auiGKg] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=7",
   "source": "naraetan.js"
@@ -6304,7 +6304,7 @@ window.SONG_DATA.push(
     {
   "title": "創聖のアクエリオン",
   "artist": "AKINO",
-  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "collection": "【Naraetan's Song Cover】[2026-03-26] Suddenly it got cold [ZutL4auiGKg] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=8",
   "source": "naraetan.js"
@@ -6312,7 +6312,7 @@ window.SONG_DATA.push(
     {
   "title": "プレイバックPart2",
   "artist": "山口百恵",
-  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "collection": "【Naraetan's Song Cover】[2026-03-26] Suddenly it got cold [ZutL4auiGKg] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=9",
   "source": "naraetan.js"
@@ -6320,7 +6320,7 @@ window.SONG_DATA.push(
     {
   "title": "オルフェンズの涙",
   "artist": "Misia",
-  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "collection": "【Naraetan's Song Cover】[2026-03-26] Suddenly it got cold [ZutL4auiGKg] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=10",
   "source": "naraetan.js"
@@ -6328,7 +6328,7 @@ window.SONG_DATA.push(
     {
   "title": "はつ恋",
   "artist": "水樹奈々",
-  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "collection": "【Naraetan's Song Cover】[2026-03-26] Suddenly it got cold [ZutL4auiGKg] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=11",
   "source": "naraetan.js"
@@ -6336,7 +6336,7 @@ window.SONG_DATA.push(
     {
   "title": "First Love",
   "artist": "宇多田ヒカル",
-  "collection": "【なれたん歌切】[2026-03-26]突然冷起来了[ZutL4auiGKg]naraetan",
+  "collection": "【Naraetan's Song Cover】[2026-03-26] Suddenly it got cold [ZutL4auiGKg] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12TXbBRE1U?p=12",
   "source": "naraetan.js"
@@ -6344,7 +6344,7 @@ window.SONG_DATA.push(
     {
   "title": "花占い",
   "artist": "Vaundy",
-  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "collection": "【Naretan Song Cut】[2026-03-27] The requested song is back! 🎀[JONT8yDdBuY] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=1",
   "source": "naraetan.js"
@@ -6352,7 +6352,7 @@ window.SONG_DATA.push(
     {
   "title": "貴方の恋人になりたい",
   "artist": "チョーキューメイ",
-  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "collection": "【Naretan Song Cut】[2026-03-27] The requested song is back! 🎀[JONT8yDdBuY] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=2",
   "source": "naraetan.js"
@@ -6360,7 +6360,7 @@ window.SONG_DATA.push(
     {
   "title": "夢と葉桜",
   "artist": "青木月光",
-  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "collection": "【Naretan Song Cut】[2026-03-27] The requested song is back! 🎀[JONT8yDdBuY] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=3",
   "source": "naraetan.js"
@@ -6368,7 +6368,7 @@ window.SONG_DATA.push(
     {
   "title": "ムーンライト伝説",
   "artist": "DALI",
-  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "collection": "【Naretan Song Cut】[2026-03-27] The requested song is back! 🎀[JONT8yDdBuY] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=4",
   "source": "naraetan.js"
@@ -6376,7 +6376,7 @@ window.SONG_DATA.push(
     {
   "title": "God knows",
   "artist": "涼宮ハルヒ（平野綾）",
-  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "collection": "【Naretan Song Cut】[2026-03-27] The requested song is back! 🎀[JONT8yDdBuY] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=5",
   "source": "naraetan.js"
@@ -6384,7 +6384,7 @@ window.SONG_DATA.push(
     {
   "title": "W/X/Y",
   "artist": "Tani Yuuki",
-  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "collection": "【Naretan Song Cut】[2026-03-27] The requested song is back! 🎀[JONT8yDdBuY] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=6",
   "source": "naraetan.js"
@@ -6392,7 +6392,7 @@ window.SONG_DATA.push(
     {
   "title": "GLAMOROUS SKY",
   "artist": "中島美嘉",
-  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "collection": "【Naretan Song Cut】[2026-03-27] The requested song is back! 🎀[JONT8yDdBuY] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=7",
   "source": "naraetan.js"
@@ -6400,7 +6400,7 @@ window.SONG_DATA.push(
     {
   "title": "宵々古今",
   "artist": "REOL",
-  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "collection": "【Naretan Song Cut】[2026-03-27] The requested song is back! 🎀[JONT8yDdBuY] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=8",
   "source": "naraetan.js"
@@ -6408,7 +6408,7 @@ window.SONG_DATA.push(
     {
   "title": "Alone",
   "artist": "下川みくに",
-  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "collection": "【Naretan Song Cut】[2026-03-27] The requested song is back! 🎀[JONT8yDdBuY] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=9",
   "source": "naraetan.js"
@@ -6416,7 +6416,7 @@ window.SONG_DATA.push(
     {
   "title": "車輪の唄",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "collection": "【Naretan Song Cut】[2026-03-27] The requested song is back! 🎀[JONT8yDdBuY] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=10",
   "source": "naraetan.js"
@@ -6424,7 +6424,7 @@ window.SONG_DATA.push(
     {
   "title": "この広い空の下で",
   "artist": "sevenoops",
-  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "collection": "【Naretan Song Cut】[2026-03-27] The requested song is back! 🎀[JONT8yDdBuY] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=11",
   "source": "naraetan.js"
@@ -6432,7 +6432,7 @@ window.SONG_DATA.push(
     {
   "title": "Stellar Stellar",
   "artist": "星街すいせい",
-  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "collection": "【Naretan Song Cut】[2026-03-27] The requested song is back! 🎀[JONT8yDdBuY] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=12",
   "source": "naraetan.js"
@@ -6440,7 +6440,7 @@ window.SONG_DATA.push(
     {
   "title": "極楽浄土",
   "artist": "GARNiDELiA",
-  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "collection": "【Naretan Song Cut】[2026-03-27] The requested song is back! 🎀[JONT8yDdBuY] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=13",
   "source": "naraetan.js"
@@ -6448,7 +6448,7 @@ window.SONG_DATA.push(
     {
   "title": "射手座☆午後九時Don't be late",
   "artist": "シェリル・ノーム starring May'n",
-  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "collection": "【Naretan Song Cut】[2026-03-27] The requested song is back! 🎀[JONT8yDdBuY] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=14",
   "source": "naraetan.js"
@@ -6456,7 +6456,7 @@ window.SONG_DATA.push(
     {
   "title": "鎖の少女",
   "artist": "のぼる↑",
-  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "collection": "【Naretan Song Cut】[2026-03-27] The requested song is back! 🎀[JONT8yDdBuY] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=15",
   "source": "naraetan.js"
@@ -6464,7 +6464,7 @@ window.SONG_DATA.push(
     {
   "title": "Sound of destiny",
   "artist": "水樹奈々",
-  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "collection": "【Naretan Song Cut】[2026-03-27] The requested song is back! 🎀[JONT8yDdBuY] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=16",
   "source": "naraetan.js"
@@ -6472,7 +6472,7 @@ window.SONG_DATA.push(
     {
   "title": "Golden",
   "artist": "KPop Demon Hunters",
-  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "collection": "【Naretan Song Cut】[2026-03-27] The requested song is back! 🎀[JONT8yDdBuY] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=17",
   "source": "naraetan.js"
@@ -6480,7 +6480,7 @@ window.SONG_DATA.push(
     {
   "title": "1／3の純情な感情",
   "artist": "SIAM SHADE",
-  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "collection": "【Naretan Song Cut】[2026-03-27] The requested song is back! 🎀[JONT8yDdBuY] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=18",
   "source": "naraetan.js"
@@ -6488,7 +6488,7 @@ window.SONG_DATA.push(
     {
   "title": "Glorious Break",
   "artist": "水樹奈々",
-  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "collection": "【Naretan Song Cut】[2026-03-27] The requested song is back! 🎀[JONT8yDdBuY] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=19",
   "source": "naraetan.js"
@@ -6496,7 +6496,7 @@ window.SONG_DATA.push(
     {
   "title": "Grand Blue",
   "artist": "湘南乃風",
-  "collection": "【なれたん歌切】[2026-03-27]请求歌回来了！🎀[JONT8yDdBuY] naraetan",
+  "collection": "【Naretan Song Cut】[2026-03-27] The requested song is back! 🎀[JONT8yDdBuY] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xEXyBYEbp?p=20",
   "source": "naraetan.js"
@@ -6504,7 +6504,7 @@ window.SONG_DATA.push(
     {
   "title": "もう恋なんてしない",
   "artist": "槇原敬之",
-  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "collection": "【Naretann Song Cut】[2026-03-28] Late Night Saturday Song Session💐[xwfLaTHh6hI] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=1",
   "source": "naraetan.js"
@@ -6512,7 +6512,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら",
   "artist": "結束バンド",
-  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "collection": "【Naretann Song Cut】[2026-03-28] Late Night Saturday Song Session💐[xwfLaTHh6hI] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=2",
   "source": "naraetan.js"
@@ -6520,7 +6520,7 @@ window.SONG_DATA.push(
     {
   "title": "渡月橋～君 想ふ～",
   "artist": "倉木麻衣",
-  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "collection": "【Naretann Song Cut】[2026-03-28] Late Night Saturday Song Session💐[xwfLaTHh6hI] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=3",
   "source": "naraetan.js"
@@ -6528,7 +6528,7 @@ window.SONG_DATA.push(
     {
   "title": "花束",
   "artist": "back number",
-  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "collection": "【Naretann Song Cut】[2026-03-28] Late Night Saturday Song Session💐[xwfLaTHh6hI] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=4",
   "source": "naraetan.js"
@@ -6536,7 +6536,7 @@ window.SONG_DATA.push(
     {
   "title": "First Love",
   "artist": "宇多田ヒカル",
-  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "collection": "【Naretann Song Cut】[2026-03-28] Late Night Saturday Song Session💐[xwfLaTHh6hI] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=5",
   "source": "naraetan.js"
@@ -6544,7 +6544,7 @@ window.SONG_DATA.push(
     {
   "title": "手紙 〜拝啓 十五の君へ〜",
   "artist": "アンジェラ・アキ",
-  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "collection": "【Naretann Song Cut】[2026-03-28] Late Night Saturday Song Session💐[xwfLaTHh6hI] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=6",
   "source": "naraetan.js"
@@ -6552,7 +6552,7 @@ window.SONG_DATA.push(
     {
   "title": "月光",
   "artist": "鬼束ちひろ",
-  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "collection": "【Naretann Song Cut】[2026-03-28] Late Night Saturday Song Session💐[xwfLaTHh6hI] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=7",
   "source": "naraetan.js"
@@ -6560,7 +6560,7 @@ window.SONG_DATA.push(
     {
   "title": "JANE DOE",
   "artist": "米津玄師,宇多田ヒカル",
-  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "collection": "【Naretann Song Cut】[2026-03-28] Late Night Saturday Song Session💐[xwfLaTHh6hI] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=8",
   "source": "naraetan.js"
@@ -6568,7 +6568,7 @@ window.SONG_DATA.push(
     {
   "title": "春はゆく",
   "artist": "Aimer",
-  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "collection": "【Naretann Song Cut】[2026-03-28] Late Night Saturday Song Session💐[xwfLaTHh6hI] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=9",
   "source": "naraetan.js"
@@ -6576,7 +6576,7 @@ window.SONG_DATA.push(
     {
   "title": "Sweet Dreams, My Dear",
   "artist": "SoHyang",
-  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "collection": "【Naretann Song Cut】[2026-03-28] Late Night Saturday Song Session💐[xwfLaTHh6hI] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=10",
   "source": "naraetan.js"
@@ -6584,7 +6584,7 @@ window.SONG_DATA.push(
     {
   "title": "Rubia",
   "artist": "周深",
-  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "collection": "【Naretann Song Cut】[2026-03-28] Late Night Saturday Song Session💐[xwfLaTHh6hI] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=11",
   "source": "naraetan.js"
@@ -6592,7 +6592,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れじの言の葉",
   "artist": "未来古代楽団 feat. 安次嶺希和子",
-  "collection": "【なれたん歌切】[2026-03-28]周六深夜歌回💐[xwfLaTHh6hI] naraetan",
+  "collection": "【Naretann Song Cut】[2026-03-28] Late Night Saturday Song Session💐[xwfLaTHh6hI] naraetan",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AHXyBaEUZ?p=12",
   "source": "naraetan.js"
@@ -6600,7 +6600,7 @@ window.SONG_DATA.push(
     {
   "title": "マリーゴールド",
   "artist": "あいみょん",
-  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-03-31] Flower-themed song stream limited🌸なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=1",
   "source": "naraetan.js"
@@ -6608,7 +6608,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-03-31] Flower-themed song stream limited🌸なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=2",
   "source": "naraetan.js"
@@ -6616,7 +6616,7 @@ window.SONG_DATA.push(
     {
   "title": "ハルジオン",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-03-31] Flower-themed song stream limited🌸なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=3",
   "source": "naraetan.js"
@@ -6624,7 +6624,7 @@ window.SONG_DATA.push(
     {
   "title": "桜",
   "artist": "コブクロ",
-  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-03-31] Flower-themed song stream limited🌸なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=4",
   "source": "naraetan.js"
@@ -6632,7 +6632,7 @@ window.SONG_DATA.push(
     {
   "title": "サクラミツツキ",
   "artist": "SPYAIR",
-  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-03-31] Flower-themed song stream limited🌸なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=5",
   "source": "naraetan.js"
@@ -6640,7 +6640,7 @@ window.SONG_DATA.push(
     {
   "title": "赤いスイートピー",
   "artist": "松田聖子",
-  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-03-31] Flower-themed song stream limited🌸なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=6",
   "source": "naraetan.js"
@@ -6648,7 +6648,7 @@ window.SONG_DATA.push(
     {
   "title": "愛をこめて花束を",
   "artist": "Superfly",
-  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-03-31] Flower-themed song stream limited🌸なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=7",
   "source": "naraetan.js"
@@ -6656,7 +6656,7 @@ window.SONG_DATA.push(
     {
   "title": "花になって",
   "artist": "緑黄色社会",
-  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-03-31] Flower-themed song stream limited🌸なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=8",
   "source": "naraetan.js"
@@ -6664,7 +6664,7 @@ window.SONG_DATA.push(
     {
   "title": "紅蓮華",
   "artist": "LiSA",
-  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-03-31] Flower-themed song stream limited🌸なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=9",
   "source": "naraetan.js"
@@ -6672,7 +6672,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-03-31] Flower-themed song stream limited🌸なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=10",
   "source": "naraetan.js"
@@ -6680,7 +6680,7 @@ window.SONG_DATA.push(
     {
   "title": "アイノカタチ",
   "artist": "misia",
-  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-03-31] Flower-themed song stream limited🌸なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=11",
   "source": "naraetan.js"
@@ -6688,7 +6688,7 @@ window.SONG_DATA.push(
     {
   "title": "涙の種、笑顔の花",
   "artist": "中川翔子",
-  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-03-31] Flower-themed song stream limited🌸なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=12",
   "source": "naraetan.js"
@@ -6696,7 +6696,7 @@ window.SONG_DATA.push(
     {
   "title": "月光花",
   "artist": "Janne Da Arc",
-  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-03-31] Flower-themed song stream limited🌸なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=13",
   "source": "naraetan.js"
@@ -6704,7 +6704,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-03-31] Flower-themed song stream limited🌸なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=14",
   "source": "naraetan.js"
@@ -6712,7 +6712,7 @@ window.SONG_DATA.push(
     {
   "title": "봄이좋냐？？",
   "artist": "10cm",
-  "collection": "【歌切】[2026-03-31]限定与花相关的歌回🌸なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-03-31] Flower-themed song stream limited🌸なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NC9JBPEan?p=15",
   "source": "naraetan.js"
@@ -6720,7 +6720,7 @@ window.SONG_DATA.push(
     {
   "title": "めざせポケモンマスター",
   "artist": "松本梨香",
-  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-02] April's singing stream 🎼 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=1",
   "source": "naraetan.js"
@@ -6728,7 +6728,7 @@ window.SONG_DATA.push(
     {
   "title": "Butterfly Kiss",
   "artist": "米倉千尋",
-  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-02] April's singing stream 🎼 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=2",
   "source": "naraetan.js"
@@ -6736,7 +6736,7 @@ window.SONG_DATA.push(
     {
   "title": "光るなら",
   "artist": "Goose house",
-  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-02] April's singing stream 🎼 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=3",
   "source": "naraetan.js"
@@ -6744,7 +6744,7 @@ window.SONG_DATA.push(
     {
   "title": "ピースサイン",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-02] April's singing stream 🎼 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=4",
   "source": "naraetan.js"
@@ -6752,7 +6752,7 @@ window.SONG_DATA.push(
     {
   "title": "Q&A リサイタル！",
   "artist": "戸松遥",
-  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-02] April's singing stream 🎼 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=5",
   "source": "naraetan.js"
@@ -6760,7 +6760,7 @@ window.SONG_DATA.push(
     {
   "title": "PEACH",
   "artist": "大塚愛",
-  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-02] April's singing stream 🎼 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=6",
   "source": "naraetan.js"
@@ -6768,7 +6768,7 @@ window.SONG_DATA.push(
     {
   "title": "秒針を噛む",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-02] April's singing stream 🎼 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=7",
   "source": "naraetan.js"
@@ -6776,7 +6776,7 @@ window.SONG_DATA.push(
     {
   "title": "モニタリング",
   "artist": "DECO*27",
-  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-02] April's singing stream 🎼 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=8",
   "source": "naraetan.js"
@@ -6784,7 +6784,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-02] April's singing stream 🎼 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=9",
   "source": "naraetan.js"
@@ -6792,7 +6792,7 @@ window.SONG_DATA.push(
     {
   "title": "好きすぎて滅！",
   "artist": "M!LK",
-  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-02] April's singing stream 🎼 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=10",
   "source": "naraetan.js"
@@ -6800,7 +6800,7 @@ window.SONG_DATA.push(
     {
   "title": "恋はスリル、ショック、サスペンス",
   "artist": "愛内里菜",
-  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-02] April's singing stream 🎼 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=11",
   "source": "naraetan.js"
@@ -6808,7 +6808,7 @@ window.SONG_DATA.push(
     {
   "title": "新時代",
   "artist": "Ado",
-  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-02] April's singing stream 🎼 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=12",
   "source": "naraetan.js"
@@ -6816,7 +6816,7 @@ window.SONG_DATA.push(
     {
   "title": "ADAMAS",
   "artist": "LiSA",
-  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-02] April's singing stream 🎼 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=13",
   "source": "naraetan.js"
@@ -6824,7 +6824,7 @@ window.SONG_DATA.push(
     {
   "title": "逆転劇",
   "artist": "月詠み",
-  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-02] April's singing stream 🎼 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=14",
   "source": "naraetan.js"
@@ -6832,7 +6832,7 @@ window.SONG_DATA.push(
     {
   "title": "Cry Baby",
   "artist": "Official髭男dism",
-  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-02] April's singing stream 🎼 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=15",
   "source": "naraetan.js"
@@ -6840,7 +6840,7 @@ window.SONG_DATA.push(
     {
   "title": "地球最後の告白を",
   "artist": "kemu feat.GUMI",
-  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-02] April's singing stream 🎼 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=16",
   "source": "naraetan.js"
@@ -6848,7 +6848,7 @@ window.SONG_DATA.push(
     {
   "title": "かわいいだけじゃだめですか？",
   "artist": "CUTIE STREET",
-  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-02] April's singing stream 🎼 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=17",
   "source": "naraetan.js"
@@ -6856,7 +6856,7 @@ window.SONG_DATA.push(
     {
   "title": "→unfinished→",
   "artist": "KOTOKO",
-  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-02] April's singing stream 🎼 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=18",
   "source": "naraetan.js"
@@ -6864,7 +6864,7 @@ window.SONG_DATA.push(
     {
   "title": "Wherever You Are",
   "artist": "ONE OK ROCK",
-  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-02] April's singing stream 🎼 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=19",
   "source": "naraetan.js"
@@ -6872,7 +6872,7 @@ window.SONG_DATA.push(
     {
   "title": "森の小さなレストラン",
   "artist": "手嶌葵",
-  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-02] April's singing stream 🎼 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=20",
   "source": "naraetan.js"
@@ -6880,7 +6880,7 @@ window.SONG_DATA.push(
     {
   "title": "空耳ケーキ",
   "artist": "Oranges&Lemons",
-  "collection": "【歌切】[2026-04-02]4月初的歌回🎼なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-02] April's singing stream 🎼 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ur9cBQEk3?p=21",
   "source": "naraetan.js"
@@ -6888,7 +6888,7 @@ window.SONG_DATA.push(
     {
   "title": "アイネクライネ",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-04] Late-night singing stream begins! Saturday midnight exclusive heart-throbbing stage 💓 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=1",
   "source": "naraetan.js"
@@ -6896,7 +6896,7 @@ window.SONG_DATA.push(
     {
   "title": "変わらないもの",
   "artist": "奥華子",
-  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-04] Late-night singing stream begins! Saturday midnight exclusive heart-throbbing stage 💓 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=2",
   "source": "naraetan.js"
@@ -6904,7 +6904,7 @@ window.SONG_DATA.push(
     {
   "title": "すずめ",
   "artist": "RADWIMPS feat.十明",
-  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-04] Late-night singing stream begins! Saturday midnight exclusive heart-throbbing stage 💓 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=3",
   "source": "naraetan.js"
@@ -6912,7 +6912,7 @@ window.SONG_DATA.push(
     {
   "title": "lulu.",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-04] Late-night singing stream begins! Saturday midnight exclusive heart-throbbing stage 💓 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=4",
   "source": "naraetan.js"
@@ -6920,7 +6920,7 @@ window.SONG_DATA.push(
     {
   "title": "First Love",
   "artist": "宇多田ヒカル",
-  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-04] Late-night singing stream begins! Saturday midnight exclusive heart-throbbing stage 💓 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=5",
   "source": "naraetan.js"
@@ -6928,7 +6928,7 @@ window.SONG_DATA.push(
     {
   "title": "再会",
   "artist": "LiSA×Uru",
-  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-04] Late-night singing stream begins! Saturday midnight exclusive heart-throbbing stage 💓 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=6",
   "source": "naraetan.js"
@@ -6936,7 +6936,7 @@ window.SONG_DATA.push(
     {
   "title": "Diary",
   "artist": "KK",
-  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-04] Late-night singing stream begins! Saturday midnight exclusive heart-throbbing stage 💓 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=7",
   "source": "naraetan.js"
@@ -6944,7 +6944,7 @@ window.SONG_DATA.push(
     {
   "title": "君に最後の口づけを",
   "artist": "majiko",
-  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-04] Late-night singing stream begins! Saturday midnight exclusive heart-throbbing stage 💓 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=8",
   "source": "naraetan.js"
@@ -6952,7 +6952,7 @@ window.SONG_DATA.push(
     {
   "title": "愛唄",
   "artist": "GReeeeN",
-  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-04] Late-night singing stream begins! Saturday midnight exclusive heart-throbbing stage 💓 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=9",
   "source": "naraetan.js"
@@ -6960,7 +6960,7 @@ window.SONG_DATA.push(
     {
   "title": "アイノカタチ",
   "artist": "MISIA",
-  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-04] Late-night singing stream begins! Saturday midnight exclusive heart-throbbing stage 💓 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=10",
   "source": "naraetan.js"
@@ -6968,7 +6968,7 @@ window.SONG_DATA.push(
     {
   "title": "シルシ",
   "artist": "LiSA",
-  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-04] Late-night singing stream begins! Saturday midnight exclusive heart-throbbing stage 💓 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=11",
   "source": "naraetan.js"
@@ -6976,7 +6976,7 @@ window.SONG_DATA.push(
     {
   "title": "Pray",
   "artist": "水樹奈々",
-  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-04] Late-night singing stream begins! Saturday midnight exclusive heart-throbbing stage 💓 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=12",
   "source": "naraetan.js"
@@ -6984,7 +6984,7 @@ window.SONG_DATA.push(
     {
   "title": "ロビンソン",
   "artist": "スピッツ",
-  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-04] Late-night singing stream begins! Saturday midnight exclusive heart-throbbing stage 💓 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=13",
   "source": "naraetan.js"
@@ -6992,7 +6992,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-04] Late-night singing stream begins! Saturday midnight exclusive heart-throbbing stage 💓 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=14",
   "source": "naraetan.js"
@@ -7000,7 +7000,7 @@ window.SONG_DATA.push(
     {
   "title": "猫",
   "artist": "DISH//",
-  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-04] Late-night singing stream begins! Saturday midnight exclusive heart-throbbing stage 💓 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=15",
   "source": "naraetan.js"
@@ -7008,7 +7008,7 @@ window.SONG_DATA.push(
     {
   "title": "月灯りふんわり落ちてくる夜",
   "artist": "小川七生",
-  "collection": "【歌切】[2026-04-04]深夜歌回开唱！周六午夜限定心动舞台💓なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-04] Late-night singing stream begins! Saturday midnight exclusive heart-throbbing stage 💓 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ktSUBwEjv?p=16",
   "source": "naraetan.js"
@@ -7016,7 +7016,7 @@ window.SONG_DATA.push(
     {
   "title": "ハルノヒ",
   "artist": "あいみょん",
-  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "collection": "[Song Cover] [2026-04-06] 🌺🐝 Want to sing some songs about spring Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=1",
   "source": "naraetan.js"
@@ -7024,7 +7024,7 @@ window.SONG_DATA.push(
     {
   "title": "花占い",
   "artist": "Vaundy",
-  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "collection": "[Song Cover] [2026-04-06] 🌺🐝 Want to sing some songs about spring Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=2",
   "source": "naraetan.js"
@@ -7032,7 +7032,7 @@ window.SONG_DATA.push(
     {
   "title": "君色に染まる",
   "artist": "西沢さんP",
-  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "collection": "[Song Cover] [2026-04-06] 🌺🐝 Want to sing some songs about spring Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=3",
   "source": "naraetan.js"
@@ -7040,7 +7040,7 @@ window.SONG_DATA.push(
     {
   "title": "ホウキ雲",
   "artist": "RYTHEM",
-  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "collection": "[Song Cover] [2026-04-06] 🌺🐝 Want to sing some songs about spring Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=4",
   "source": "naraetan.js"
@@ -7048,7 +7048,7 @@ window.SONG_DATA.push(
     {
   "title": "CLEAR",
   "artist": "坂本真綾",
-  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "collection": "[Song Cover] [2026-04-06] 🌺🐝 Want to sing some songs about spring Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=5",
   "source": "naraetan.js"
@@ -7056,7 +7056,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならメモリーズ",
   "artist": "supercell",
-  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "collection": "[Song Cover] [2026-04-06] 🌺🐝 Want to sing some songs about spring Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=6",
   "source": "naraetan.js"
@@ -7064,7 +7064,7 @@ window.SONG_DATA.push(
     {
   "title": "赤いスイートピー",
   "artist": "松田聖子",
-  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "collection": "[Song Cover] [2026-04-06] 🌺🐝 Want to sing some songs about spring Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=7",
   "source": "naraetan.js"
@@ -7072,7 +7072,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "collection": "[Song Cover] [2026-04-06] 🌺🐝 Want to sing some songs about spring Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=8",
   "source": "naraetan.js"
@@ -7080,7 +7080,7 @@ window.SONG_DATA.push(
     {
   "title": "Ez Do Dance",
   "artist": "Prizmmy☆",
-  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "collection": "[Song Cover] [2026-04-06] 🌺🐝 Want to sing some songs about spring Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=9",
   "source": "naraetan.js"
@@ -7088,7 +7088,7 @@ window.SONG_DATA.push(
     {
   "title": "そばかす",
   "artist": "JUDY AND MARY",
-  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "collection": "[Song Cover] [2026-04-06] 🌺🐝 Want to sing some songs about spring Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=10",
   "source": "naraetan.js"
@@ -7096,7 +7096,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "collection": "[Song Cover] [2026-04-06] 🌺🐝 Want to sing some songs about spring Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=11",
   "source": "naraetan.js"
@@ -7104,7 +7104,7 @@ window.SONG_DATA.push(
     {
   "title": "기우제(祈雨祭)",
   "artist": "everain",
-  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "collection": "[Song Cover] [2026-04-06] 🌺🐝 Want to sing some songs about spring Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=12",
   "source": "naraetan.js"
@@ -7112,7 +7112,7 @@ window.SONG_DATA.push(
     {
   "title": "Reason",
   "artist": "玉置成実",
-  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "collection": "[Song Cover] [2026-04-06] 🌺🐝 Want to sing some songs about spring Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=13",
   "source": "naraetan.js"
@@ -7120,7 +7120,7 @@ window.SONG_DATA.push(
     {
   "title": "Little Busters!",
   "artist": "Rita",
-  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "collection": "[Song Cover] [2026-04-06] 🌺🐝 Want to sing some songs about spring Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=14",
   "source": "naraetan.js"
@@ -7128,7 +7128,7 @@ window.SONG_DATA.push(
     {
   "title": "もらい泣き",
   "artist": "一青窈",
-  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "collection": "[Song Cover] [2026-04-06] 🌺🐝 Want to sing some songs about spring Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=15",
   "source": "naraetan.js"
@@ -7136,7 +7136,7 @@ window.SONG_DATA.push(
     {
   "title": "Synchrogazer",
   "artist": "水樹奈々",
-  "collection": "【歌切】[2026-04-06]🌺🐝想唱一些关于春天的歌 なれたん",
+  "collection": "[Song Cover] [2026-04-06] 🌺🐝 Want to sing some songs about spring Naretann",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BDDbBBE3Q?p=16",
   "source": "naraetan.js"
@@ -7144,7 +7144,7 @@ window.SONG_DATA.push(
     {
   "title": "Pretender",
   "artist": "Official髭男dism",
-  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-08] Let's Sing Karaoke 🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=1",
   "source": "naraetan.js"
@@ -7152,7 +7152,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-08] Let's Sing Karaoke 🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=2",
   "source": "naraetan.js"
@@ -7160,7 +7160,7 @@ window.SONG_DATA.push(
     {
   "title": "アイノカタチ",
   "artist": "MISIA",
-  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-08] Let's Sing Karaoke 🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=3",
   "source": "naraetan.js"
@@ -7168,7 +7168,7 @@ window.SONG_DATA.push(
     {
   "title": "月曜日の朝、スカートを切られた",
   "artist": "欅坂46",
-  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-08] Let's Sing Karaoke 🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=4",
   "source": "naraetan.js"
@@ -7176,7 +7176,7 @@ window.SONG_DATA.push(
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド",
-  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-08] Let's Sing Karaoke 🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=5",
   "source": "naraetan.js"
@@ -7184,7 +7184,7 @@ window.SONG_DATA.push(
     {
   "title": "青い珊瑚礁",
   "artist": "松田聖子",
-  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-08] Let's Sing Karaoke 🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=6",
   "source": "naraetan.js"
@@ -7192,7 +7192,7 @@ window.SONG_DATA.push(
     {
   "title": "新宝島",
   "artist": "サカナクション",
-  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-08] Let's Sing Karaoke 🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=7",
   "source": "naraetan.js"
@@ -7200,7 +7200,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "コレサワ",
-  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-08] Let's Sing Karaoke 🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=8",
   "source": "naraetan.js"
@@ -7208,7 +7208,7 @@ window.SONG_DATA.push(
     {
   "title": "ビビデバ",
   "artist": "星街すいせい",
-  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-08] Let's Sing Karaoke 🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=9",
   "source": "naraetan.js"
@@ -7216,7 +7216,7 @@ window.SONG_DATA.push(
     {
   "title": "さくらんぼ",
   "artist": "大塚愛",
-  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-08] Let's Sing Karaoke 🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=10",
   "source": "naraetan.js"
@@ -7224,7 +7224,7 @@ window.SONG_DATA.push(
     {
   "title": "Q&A リサイタル!",
   "artist": "戸松遥",
-  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-08] Let's Sing Karaoke 🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=11",
   "source": "naraetan.js"
@@ -7232,7 +7232,7 @@ window.SONG_DATA.push(
     {
   "title": "LOSER",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-08] Let's Sing Karaoke 🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=12",
   "source": "naraetan.js"
@@ -7240,7 +7240,7 @@ window.SONG_DATA.push(
     {
   "title": "アイドル",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-08] Let's Sing Karaoke 🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=13",
   "source": "naraetan.js"
@@ -7248,7 +7248,7 @@ window.SONG_DATA.push(
     {
   "title": "たぶん",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-08] Let's Sing Karaoke 🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=14",
   "source": "naraetan.js"
@@ -7256,7 +7256,7 @@ window.SONG_DATA.push(
     {
   "title": "私は最強",
   "artist": "Ado",
-  "collection": "【歌切】[2026-04-08]来唱会儿卡拉OK吧🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-08] Let's Sing Karaoke 🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RFDnB6EQ8?p=15",
   "source": "naraetan.js"
@@ -7264,7 +7264,7 @@ window.SONG_DATA.push(
     {
   "title": "orion",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "collection": "[Karaoke Cut] [2026-04-18] Saturday Late-Night Karaoke 🩶 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=1",
   "source": "naraetan.js"
@@ -7272,7 +7272,7 @@ window.SONG_DATA.push(
     {
   "title": "1991",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "collection": "[Karaoke Cut] [2026-04-18] Saturday Late-Night Karaoke 🩶 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=2",
   "source": "naraetan.js"
@@ -7280,7 +7280,7 @@ window.SONG_DATA.push(
     {
   "title": "相思相愛",
   "artist": "aiko",
-  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "collection": "[Karaoke Cut] [2026-04-18] Saturday Late-Night Karaoke 🩶 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=3",
   "source": "naraetan.js"
@@ -7288,7 +7288,7 @@ window.SONG_DATA.push(
     {
   "title": "Calc.",
   "artist": "ジミーサムP",
-  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "collection": "[Karaoke Cut] [2026-04-18] Saturday Late-Night Karaoke 🩶 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=4",
   "source": "naraetan.js"
@@ -7296,7 +7296,7 @@ window.SONG_DATA.push(
     {
   "title": "心に穴が空いた",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "collection": "[Karaoke Cut] [2026-04-18] Saturday Late-Night Karaoke 🩶 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=5",
   "source": "naraetan.js"
@@ -7304,7 +7304,7 @@ window.SONG_DATA.push(
     {
   "title": "イフ",
   "artist": "月詠み",
-  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "collection": "[Karaoke Cut] [2026-04-18] Saturday Late-Night Karaoke 🩶 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=6",
   "source": "naraetan.js"
@@ -7312,7 +7312,7 @@ window.SONG_DATA.push(
     {
   "title": "レイニーブルー",
   "artist": "徳永英明",
-  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "collection": "[Karaoke Cut] [2026-04-18] Saturday Late-Night Karaoke 🩶 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=7",
   "source": "naraetan.js"
@@ -7320,7 +7320,7 @@ window.SONG_DATA.push(
     {
   "title": "桜流し",
   "artist": "宇多田ヒカル",
-  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "collection": "[Karaoke Cut] [2026-04-18] Saturday Late-Night Karaoke 🩶 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=8",
   "source": "naraetan.js"
@@ -7328,7 +7328,7 @@ window.SONG_DATA.push(
     {
   "title": "愛の星",
   "artist": "水樹奈々",
-  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "collection": "[Karaoke Cut] [2026-04-18] Saturday Late-Night Karaoke 🩶 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=9",
   "source": "naraetan.js"
@@ -7336,7 +7336,7 @@ window.SONG_DATA.push(
     {
   "title": "Paradise of Rumor",
   "artist": "AKMU",
-  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "collection": "[Karaoke Cut] [2026-04-18] Saturday Late-Night Karaoke 🩶 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=10",
   "source": "naraetan.js"
@@ -7344,7 +7344,7 @@ window.SONG_DATA.push(
     {
   "title": "花の塔",
   "artist": "さユり",
-  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "collection": "[Karaoke Cut] [2026-04-18] Saturday Late-Night Karaoke 🩶 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=11",
   "source": "naraetan.js"
@@ -7352,7 +7352,7 @@ window.SONG_DATA.push(
     {
   "title": "僕が死のうと思ったのは",
   "artist": "中島美嘉",
-  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "collection": "[Karaoke Cut] [2026-04-18] Saturday Late-Night Karaoke 🩶 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=12",
   "source": "naraetan.js"
@@ -7360,7 +7360,7 @@ window.SONG_DATA.push(
     {
   "title": "歌に形はないけれど",
   "artist": "doriko",
-  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "collection": "[Karaoke Cut] [2026-04-18] Saturday Late-Night Karaoke 🩶 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=13",
   "source": "naraetan.js"
@@ -7368,7 +7368,7 @@ window.SONG_DATA.push(
     {
   "title": "LADY",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "collection": "[Karaoke Cut] [2026-04-18] Saturday Late-Night Karaoke 🩶 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=14",
   "source": "naraetan.js"
@@ -7376,7 +7376,7 @@ window.SONG_DATA.push(
     {
   "title": "ピアノ泥棒",
   "artist": "Amazarashi",
-  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "collection": "[Karaoke Cut] [2026-04-18] Saturday Late-Night Karaoke 🩶 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=15",
   "source": "naraetan.js"
@@ -7384,7 +7384,7 @@ window.SONG_DATA.push(
     {
   "title": "brave heart",
   "artist": "林原めぐみ",
-  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "collection": "[Karaoke Cut] [2026-04-18] Saturday Late-Night Karaoke 🩶 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=16",
   "source": "naraetan.js"
@@ -7392,7 +7392,7 @@ window.SONG_DATA.push(
     {
   "title": "エンジェルウインク",
   "artist": "照橋心美(茅野愛衣)",
-  "collection": "【歌切】[2026-04-18]周六深夜歌回🩶 なれたん Naraetan Ch.",
+  "collection": "[Karaoke Cut] [2026-04-18] Saturday Late-Night Karaoke 🩶 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oBd9BHE7R?p=17",
   "source": "naraetan.js"
@@ -7400,7 +7400,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒトリゴト",
   "artist": "ClariS",
-  "collection": "【歌切】[2026-04-20]🥳なれたん的首次生日倒计时 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-20]🥳 Naraetan's First Birthday Countdown - Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18GdkB6E7p?p=1",
   "source": "naraetan.js"
@@ -7408,7 +7408,7 @@ window.SONG_DATA.push(
     {
   "title": "サウダージ",
   "artist": "ポルノグラフィティ",
-  "collection": "【歌切】[2026-04-20]🥳なれたん的首次生日倒计时 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-20]🥳 Naraetan's First Birthday Countdown - Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18GdkB6E7p?p=2",
   "source": "naraetan.js"
@@ -7416,7 +7416,7 @@ window.SONG_DATA.push(
     {
   "title": "IRIS OUT",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-04-20]🥳なれたん的首次生日倒计时 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-20]🥳 Naraetan's First Birthday Countdown - Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18GdkB6E7p?p=3",
   "source": "naraetan.js"
@@ -7424,7 +7424,7 @@ window.SONG_DATA.push(
     {
   "title": "ぴゅあぴゅあはーと",
   "artist": "放課後ティータイム",
-  "collection": "【歌切】[2026-04-20]🥳なれたん的首次生日倒计时 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-20]🥳 Naraetan's First Birthday Countdown - Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18GdkB6E7p?p=4",
   "source": "naraetan.js"
@@ -7432,7 +7432,7 @@ window.SONG_DATA.push(
     {
   "title": "DISCOTHEQUE",
   "artist": "水樹奈々",
-  "collection": "【歌切】[2026-04-20]🥳なれたん的首次生日倒计时 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-20]🥳 Naraetan's First Birthday Countdown - Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18GdkB6E7p?p=5",
   "source": "naraetan.js"
@@ -7440,7 +7440,7 @@ window.SONG_DATA.push(
     {
   "title": "愛、テキサス",
   "artist": "山下智久",
-  "collection": "【歌切】[2026-04-20]🥳なれたん的首次生日倒计时 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-20]🥳 Naraetan's First Birthday Countdown - Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18GdkB6E7p?p=6",
   "source": "naraetan.js"
@@ -7448,7 +7448,7 @@ window.SONG_DATA.push(
     {
   "title": "Growing of my heart",
   "artist": "倉木麻衣",
-  "collection": "【歌切】[2026-04-20]🥳なれたん的首次生日倒计时 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-20]🥳 Naraetan's First Birthday Countdown - Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18GdkB6E7p?p=7",
   "source": "naraetan.js"
@@ -7456,7 +7456,7 @@ window.SONG_DATA.push(
     {
   "title": "インフェルノ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-04-20]🥳なれたん的首次生日倒计时 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-20]🥳 Naraetan's First Birthday Countdown - Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18GdkB6E7p?p=8",
   "source": "naraetan.js"
@@ -7464,7 +7464,7 @@ window.SONG_DATA.push(
     {
   "title": "Driver's High",
   "artist": "L'Arc〜en〜Ciel",
-  "collection": "【歌切】[2026-04-20]🥳なれたん的首次生日倒计时 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-20]🥳 Naraetan's First Birthday Countdown - Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18GdkB6E7p?p=9",
   "source": "naraetan.js"
@@ -7472,7 +7472,7 @@ window.SONG_DATA.push(
     {
   "title": "Super Driver",
   "artist": "涼宮ハルヒ(平野綾)",
-  "collection": "【歌切】[2026-04-20]🥳なれたん的首次生日倒计时 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-20]🥳 Naraetan's First Birthday Countdown - Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18GdkB6E7p?p=10",
   "source": "naraetan.js"
@@ -7480,7 +7480,7 @@ window.SONG_DATA.push(
     {
   "title": "Happy Happy Birthday!",
   "artist": "SePTENTRION",
-  "collection": "【歌切】[2026-04-20]🥳なれたん的首次生日倒计时 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-20]🥳 Naraetan's First Birthday Countdown - Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18GdkB6E7p?p=11",
   "source": "naraetan.js"
@@ -7488,7 +7488,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピーシンセサイザ",
   "artist": "EasyPop",
-  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-21] Birthday Celebration! New Model Release + Announcement🎈🎉 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=1",
   "source": "naraetan.js"
@@ -7496,7 +7496,7 @@ window.SONG_DATA.push(
     {
   "title": "踊れオーケストラ",
   "artist": "YASUHIRO(康寛)",
-  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-21] Birthday Celebration! New Model Release + Announcement🎈🎉 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=2",
   "source": "naraetan.js"
@@ -7504,7 +7504,7 @@ window.SONG_DATA.push(
     {
   "title": "Q&A リサイタル！",
   "artist": "戸松遥",
-  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-21] Birthday Celebration! New Model Release + Announcement🎈🎉 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=3",
   "source": "naraetan.js"
@@ -7512,7 +7512,7 @@ window.SONG_DATA.push(
     {
   "title": "シリウス",
   "artist": "藍井エイル",
-  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-21] Birthday Celebration! New Model Release + Announcement🎈🎉 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=4",
   "source": "naraetan.js"
@@ -7520,7 +7520,7 @@ window.SONG_DATA.push(
     {
   "title": "浪漫飛行",
   "artist": "米米CLUB",
-  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-21] Birthday Celebration! New Model Release + Announcement🎈🎉 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=5",
   "source": "naraetan.js"
@@ -7528,7 +7528,7 @@ window.SONG_DATA.push(
     {
   "title": "冒険彗星",
   "artist": "榎本くるみ",
-  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-21] Birthday Celebration! New Model Release + Announcement🎈🎉 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=6",
   "source": "naraetan.js"
@@ -7536,7 +7536,7 @@ window.SONG_DATA.push(
     {
   "title": "U&I",
   "artist": "放課後ティータイム",
-  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-21] Birthday Celebration! New Model Release + Announcement🎈🎉 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=7",
   "source": "naraetan.js"
@@ -7544,7 +7544,7 @@ window.SONG_DATA.push(
     {
   "title": "夢ノカケラ",
   "artist": "AAA",
-  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-21] Birthday Celebration! New Model Release + Announcement🎈🎉 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=8",
   "source": "naraetan.js"
@@ -7552,7 +7552,7 @@ window.SONG_DATA.push(
     {
   "title": "Letters to ME",
   "artist": "LiSA",
-  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-21] Birthday Celebration! New Model Release + Announcement🎈🎉 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=9",
   "source": "naraetan.js"
@@ -7560,7 +7560,7 @@ window.SONG_DATA.push(
     {
   "title": "uni-verse",
   "artist": "オーイシマサヨシ",
-  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-21] Birthday Celebration! New Model Release + Announcement🎈🎉 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=10",
   "source": "naraetan.js"
@@ -7568,7 +7568,7 @@ window.SONG_DATA.push(
     {
   "title": "ダダダダ天使",
   "artist": "ナナヲアカリ",
-  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-21] Birthday Celebration! New Model Release + Announcement🎈🎉 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=11",
   "source": "naraetan.js"
@@ -7576,7 +7576,7 @@ window.SONG_DATA.push(
     {
   "title": "Happy Birthday to You",
   "artist": "Kwon Jin-won",
-  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-21] Birthday Celebration! New Model Release + Announcement🎈🎉 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=12",
   "source": "naraetan.js"
@@ -7584,7 +7584,7 @@ window.SONG_DATA.push(
     {
   "title": "I'm so Happy",
   "artist": "Janne Da Arc",
-  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-21] Birthday Celebration! New Model Release + Announcement🎈🎉 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=13",
   "source": "naraetan.js"
@@ -7592,7 +7592,7 @@ window.SONG_DATA.push(
     {
   "title": "生きるよすが",
   "artist": "月詠み",
-  "collection": "【歌切】[2026-04-21]生日纪念！新模型发布+通知🎈🎉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-21] Birthday Celebration! New Model Release + Announcement🎈🎉 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oZdXBUEJS?p=14",
   "source": "naraetan.js"
@@ -7600,7 +7600,7 @@ window.SONG_DATA.push(
     {
   "title": "火星人",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-24] Friday singing stream🪴なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=1",
   "source": "naraetan.js"
@@ -7608,7 +7608,7 @@ window.SONG_DATA.push(
     {
   "title": "女の子は泣かない",
   "artist": "片平里菜",
-  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-24] Friday singing stream🪴なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=2",
   "source": "naraetan.js"
@@ -7616,7 +7616,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON",
-  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-24] Friday singing stream🪴なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=3",
   "source": "naraetan.js"
@@ -7624,7 +7624,7 @@ window.SONG_DATA.push(
     {
   "title": "お気に召すまま",
   "artist": "Eve",
-  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-24] Friday singing stream🪴なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=4",
   "source": "naraetan.js"
@@ -7632,7 +7632,7 @@ window.SONG_DATA.push(
     {
   "title": "TOMORROW",
   "artist": "岡本真夜",
-  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-24] Friday singing stream🪴なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=5",
   "source": "naraetan.js"
@@ -7640,7 +7640,7 @@ window.SONG_DATA.push(
     {
   "title": "READY STEADY GO",
   "artist": "L'Arc-en-Ciel",
-  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-24] Friday singing stream🪴なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=6",
   "source": "naraetan.js"
@@ -7648,7 +7648,7 @@ window.SONG_DATA.push(
     {
   "title": "ホログラム",
   "artist": "NICO Touches the Walls",
-  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-24] Friday singing stream🪴なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=7",
   "source": "naraetan.js"
@@ -7656,7 +7656,7 @@ window.SONG_DATA.push(
     {
   "title": "祝福",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-24] Friday singing stream🪴なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=8",
   "source": "naraetan.js"
@@ -7664,7 +7664,7 @@ window.SONG_DATA.push(
     {
   "title": "トライアングラー",
   "artist": "坂本真綾",
-  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-24] Friday singing stream🪴なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=9",
   "source": "naraetan.js"
@@ -7672,7 +7672,7 @@ window.SONG_DATA.push(
     {
   "title": "幾億光年",
   "artist": "Omoinotake",
-  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-24] Friday singing stream🪴なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=10",
   "source": "naraetan.js"
@@ -7680,7 +7680,7 @@ window.SONG_DATA.push(
     {
   "title": "優しさの理由",
   "artist": "ChouCho",
-  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-24] Friday singing stream🪴なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=11",
   "source": "naraetan.js"
@@ -7688,7 +7688,7 @@ window.SONG_DATA.push(
     {
   "title": "ありがとう",
   "artist": "SunSet Swish",
-  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-24] Friday singing stream🪴なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=12",
   "source": "naraetan.js"
@@ -7696,7 +7696,7 @@ window.SONG_DATA.push(
     {
   "title": "恋文",
   "artist": "Every Little Thing",
-  "collection": "【歌切】[2026-04-24]星期五歌回🪴なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-24] Friday singing stream🪴なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gonB4EY8?p=13",
   "source": "naraetan.js"
@@ -7704,7 +7704,7 @@ window.SONG_DATA.push(
     {
   "title": "ミックスナッツ",
   "artist": "Official髭男dism",
-  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-27]🎤Welcome first-time viewers Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=1",
   "source": "naraetan.js"
@@ -7712,7 +7712,7 @@ window.SONG_DATA.push(
     {
   "title": "1925",
   "artist": "T-POCKET feat. 初音ミク",
-  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-27]🎤Welcome first-time viewers Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=2",
   "source": "naraetan.js"
@@ -7720,7 +7720,7 @@ window.SONG_DATA.push(
     {
   "title": "GLAMOROUS SKY",
   "artist": "NANA starring MIKA NAKASHIMA",
-  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-27]🎤Welcome first-time viewers Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=3",
   "source": "naraetan.js"
@@ -7728,7 +7728,7 @@ window.SONG_DATA.push(
     {
   "title": "桜色舞うころ",
   "artist": "中島美嘉",
-  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-27]🎤Welcome first-time viewers Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=4",
   "source": "naraetan.js"
@@ -7736,7 +7736,7 @@ window.SONG_DATA.push(
     {
   "title": "One more time, One more chance",
   "artist": "山崎まさよし",
-  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-27]🎤Welcome first-time viewers Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=5",
   "source": "naraetan.js"
@@ -7744,7 +7744,7 @@ window.SONG_DATA.push(
     {
   "title": "fragile",
   "artist": "Every Little Thing",
-  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-27]🎤Welcome first-time viewers Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=6",
   "source": "naraetan.js"
@@ -7752,7 +7752,7 @@ window.SONG_DATA.push(
     {
   "title": "夜に駆ける",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-27]🎤Welcome first-time viewers Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=7",
   "source": "naraetan.js"
@@ -7760,7 +7760,7 @@ window.SONG_DATA.push(
     {
   "title": "innocent starter",
   "artist": "水樹奈々",
-  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-27]🎤Welcome first-time viewers Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=8",
   "source": "naraetan.js"
@@ -7768,7 +7768,7 @@ window.SONG_DATA.push(
     {
   "title": "嵐の中で輝いて",
   "artist": "米倉千尋",
-  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-27]🎤Welcome first-time viewers Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=9",
   "source": "naraetan.js"
@@ -7776,7 +7776,7 @@ window.SONG_DATA.push(
     {
   "title": "翼",
   "artist": "藍井エイル",
-  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-27]🎤Welcome first-time viewers Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=10",
   "source": "naraetan.js"
@@ -7784,7 +7784,7 @@ window.SONG_DATA.push(
     {
   "title": "only my railgun",
   "artist": "fripSide",
-  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-27]🎤Welcome first-time viewers Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=11",
   "source": "naraetan.js"
@@ -7792,7 +7792,7 @@ window.SONG_DATA.push(
     {
   "title": "はなまるぴっぴはよいこだけ",
   "artist": "A応P",
-  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-27]🎤Welcome first-time viewers Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=12",
   "source": "naraetan.js"
@@ -7800,7 +7800,7 @@ window.SONG_DATA.push(
     {
   "title": "1/3の純情な感情",
   "artist": "SIAM SHADE",
-  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-27]🎤Welcome first-time viewers Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=13",
   "source": "naraetan.js"
@@ -7808,7 +7808,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-27]🎤Welcome first-time viewers Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=14",
   "source": "naraetan.js"
@@ -7816,7 +7816,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ君に晴れ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-27]🎤Welcome first-time viewers Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=15",
   "source": "naraetan.js"
@@ -7824,7 +7824,7 @@ window.SONG_DATA.push(
     {
   "title": "ハナノイロ",
   "artist": "nano.RIPE",
-  "collection": "【歌切】[2026-04-27]🎤欢迎第一次观看的观众 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-04-27]🎤Welcome first-time viewers Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oboyB8Ecj?p=16",
   "source": "naraetan.js"
@@ -7832,7 +7832,7 @@ window.SONG_DATA.push(
     {
   "title": "BOY MEETS GIRL",
   "artist": "TRF",
-  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-28] How Would It Sound to Sing Famous Anime Songs in Korean?🤭 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=1",
   "source": "naraetan.js"
@@ -7840,7 +7840,7 @@ window.SONG_DATA.push(
     {
   "title": "勇気100％",
   "artist": "光GENJI",
-  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-28] How Would It Sound to Sing Famous Anime Songs in Korean?🤭 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=2",
   "source": "naraetan.js"
@@ -7848,7 +7848,7 @@ window.SONG_DATA.push(
     {
   "title": "Breeze",
   "artist": "林原めぐみ",
-  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-28] How Would It Sound to Sing Famous Anime Songs in Korean?🤭 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=3",
   "source": "naraetan.js"
@@ -7856,7 +7856,7 @@ window.SONG_DATA.push(
     {
   "title": "カクテル",
   "artist": "Hysteric Blue",
-  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-28] How Would It Sound to Sing Famous Anime Songs in Korean?🤭 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=4",
   "source": "naraetan.js"
@@ -7864,7 +7864,7 @@ window.SONG_DATA.push(
     {
   "title": "きみにとどけ",
   "artist": "タニザワトモフミ",
-  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-28] How Would It Sound to Sing Famous Anime Songs in Korean?🤭 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=5",
   "source": "naraetan.js"
@@ -7872,7 +7872,7 @@ window.SONG_DATA.push(
     {
   "title": "For フルーツバスケット",
   "artist": "岡崎律子",
-  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-28] How Would It Sound to Sing Famous Anime Songs in Korean?🤭 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=6",
   "source": "naraetan.js"
@@ -7880,7 +7880,7 @@ window.SONG_DATA.push(
     {
   "title": "Love Chronicle",
   "artist": "Changin’ My Life",
-  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-28] How Would It Sound to Sing Famous Anime Songs in Korean?🤭 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=7",
   "source": "naraetan.js"
@@ -7888,7 +7888,7 @@ window.SONG_DATA.push(
     {
   "title": "Driver's High",
   "artist": "L'Arc〜en〜Ciel",
-  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-28] How Would It Sound to Sing Famous Anime Songs in Korean?🤭 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=8",
   "source": "naraetan.js"
@@ -7896,7 +7896,7 @@ window.SONG_DATA.push(
     {
   "title": "ほうき星",
   "artist": "ユンナ",
-  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-28] How Would It Sound to Sing Famous Anime Songs in Korean?🤭 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=9",
   "source": "naraetan.js"
@@ -7904,7 +7904,7 @@ window.SONG_DATA.push(
     {
   "title": "Grip!",
   "artist": "Every Little Thing",
-  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-28] How Would It Sound to Sing Famous Anime Songs in Korean?🤭 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=10",
   "source": "naraetan.js"
@@ -7912,7 +7912,7 @@ window.SONG_DATA.push(
     {
   "title": "Butter-Fly",
   "artist": "和田光司",
-  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-28] How Would It Sound to Sing Famous Anime Songs in Korean?🤭 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=11",
   "source": "naraetan.js"
@@ -7920,7 +7920,7 @@ window.SONG_DATA.push(
     {
   "title": "恋のヒメヒメぺったんこ",
   "artist": "姫野湖鳥(田村ゆかり)",
-  "collection": "【歌切】[2026-04-28]用韩语唱著名的动漫歌曲会是怎样呢🤭 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-04-28] How Would It Sound to Sing Famous Anime Songs in Korean?🤭 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1489sB7E5N?p=12",
   "source": "naraetan.js"
@@ -7928,7 +7928,7 @@ window.SONG_DATA.push(
     {
   "title": "Sailing Day",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-04-30] Request singing stream, please send your requests!🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=1",
   "source": "naraetan.js"
@@ -7936,7 +7936,7 @@ window.SONG_DATA.push(
     {
   "title": "ターゲット～赤い衝撃～",
   "artist": "和田光司",
-  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-04-30] Request singing stream, please send your requests!🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=2",
   "source": "naraetan.js"
@@ -7944,7 +7944,7 @@ window.SONG_DATA.push(
     {
   "title": "スクランブル",
   "artist": "堀江由衣",
-  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-04-30] Request singing stream, please send your requests!🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=3",
   "source": "naraetan.js"
@@ -7952,7 +7952,7 @@ window.SONG_DATA.push(
     {
   "title": "かわいいだけじゃだめですか？",
   "artist": "CUTIE STREET",
-  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-04-30] Request singing stream, please send your requests!🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=4",
   "source": "naraetan.js"
@@ -7960,7 +7960,7 @@ window.SONG_DATA.push(
     {
   "title": "いつもこの場所で",
   "artist": "彩音",
-  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-04-30] Request singing stream, please send your requests!🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=5",
   "source": "naraetan.js"
@@ -7968,7 +7968,7 @@ window.SONG_DATA.push(
     {
   "title": "初めての恋が終わる時",
   "artist": "supercell",
-  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-04-30] Request singing stream, please send your requests!🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=6",
   "source": "naraetan.js"
@@ -7976,7 +7976,7 @@ window.SONG_DATA.push(
     {
   "title": "鎖の少女",
   "artist": "のぼる↑",
-  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-04-30] Request singing stream, please send your requests!🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=7",
   "source": "naraetan.js"
@@ -7984,7 +7984,7 @@ window.SONG_DATA.push(
     {
   "title": "今はいいんだよ。",
   "artist": "MIMI",
-  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-04-30] Request singing stream, please send your requests!🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=8",
   "source": "naraetan.js"
@@ -7992,7 +7992,7 @@ window.SONG_DATA.push(
     {
   "title": "Only Human",
   "artist": "K",
-  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-04-30] Request singing stream, please send your requests!🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=9",
   "source": "naraetan.js"
@@ -8000,7 +8000,7 @@ window.SONG_DATA.push(
     {
   "title": "君がいる限り",
   "artist": "ステファニー",
-  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-04-30] Request singing stream, please send your requests!🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=10",
   "source": "naraetan.js"
@@ -8008,7 +8008,7 @@ window.SONG_DATA.push(
     {
   "title": "シンデレラボーイ",
   "artist": "Saucy Dog",
-  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-04-30] Request singing stream, please send your requests!🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=11",
   "source": "naraetan.js"
@@ -8016,7 +8016,7 @@ window.SONG_DATA.push(
     {
   "title": "Little Busters!",
   "artist": "リタ",
-  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-04-30] Request singing stream, please send your requests!🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=12",
   "source": "naraetan.js"
@@ -8024,7 +8024,7 @@ window.SONG_DATA.push(
     {
   "title": "innocent starter",
   "artist": "水樹奈々",
-  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-04-30] Request singing stream, please send your requests!🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=13",
   "source": "naraetan.js"
@@ -8032,7 +8032,7 @@ window.SONG_DATA.push(
     {
   "title": "BRIGHT STREAM",
   "artist": "水樹奈々",
-  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-04-30] Request singing stream, please send your requests!🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=14",
   "source": "naraetan.js"
@@ -8040,7 +8040,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明け生まれ来る少女",
   "artist": "高橋洋子",
-  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-04-30] Request singing stream, please send your requests!🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=15",
   "source": "naraetan.js"
@@ -8048,7 +8048,7 @@ window.SONG_DATA.push(
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド",
-  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-04-30] Request singing stream, please send your requests!🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=16",
   "source": "naraetan.js"
@@ -8056,7 +8056,7 @@ window.SONG_DATA.push(
     {
   "title": "白日",
   "artist": "King Gnu",
-  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-04-30] Request singing stream, please send your requests!🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=17",
   "source": "naraetan.js"
@@ -8064,7 +8064,7 @@ window.SONG_DATA.push(
     {
   "title": "One Last Kiss",
   "artist": "宇多田ヒカル",
-  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-04-30] Request singing stream, please send your requests!🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=18",
   "source": "naraetan.js"
@@ -8072,7 +8072,7 @@ window.SONG_DATA.push(
     {
   "title": "天樂",
   "artist": "ゆうゆ",
-  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-04-30] Request singing stream, please send your requests!🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=19",
   "source": "naraetan.js"
@@ -8080,7 +8080,7 @@ window.SONG_DATA.push(
     {
   "title": "黒毛和牛上塩タン焼680円",
   "artist": "大塚愛",
-  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-04-30] Request singing stream, please send your requests!🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=20",
   "source": "naraetan.js"
@@ -8088,7 +8088,7 @@ window.SONG_DATA.push(
     {
   "title": "オトノナルホウヘ→",
   "artist": "Goose house",
-  "collection": "【歌切】[2026-04-30]请求歌回、请大家提出请求！🍎 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-04-30] Request singing stream, please send your requests!🍎 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1frRMBZEdu?p=21",
   "source": "naraetan.js"
@@ -8096,7 +8096,7 @@ window.SONG_DATA.push(
     {
   "title": "おはよう。",
   "artist": "Keno",
-  "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-02] Saturday Late Night Singing Stream 💙 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=1",
   "source": "naraetan.js"
@@ -8104,7 +8104,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-02] Saturday Late Night Singing Stream 💙 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=2",
   "source": "naraetan.js"
@@ -8112,7 +8112,7 @@ window.SONG_DATA.push(
     {
   "title": "Ubiquitous dB",
   "artist": "ユナ",
-  "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-02] Saturday Late Night Singing Stream 💙 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=3",
   "source": "naraetan.js"
@@ -8120,7 +8120,7 @@ window.SONG_DATA.push(
     {
   "title": "LIFE",
   "artist": "YUI",
-  "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-02] Saturday Late Night Singing Stream 💙 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=4",
   "source": "naraetan.js"
@@ -8128,7 +8128,7 @@ window.SONG_DATA.push(
     {
   "title": "Good-bye days",
   "artist": "YUI for 雨音薫",
-  "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-02] Saturday Late Night Singing Stream 💙 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=5",
   "source": "naraetan.js"
@@ -8136,7 +8136,7 @@ window.SONG_DATA.push(
     {
   "title": "桜色舞うころ",
   "artist": "中島美嘉",
-  "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-02] Saturday Late Night Singing Stream 💙 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=6",
   "source": "naraetan.js"
@@ -8144,7 +8144,7 @@ window.SONG_DATA.push(
     {
   "title": "なんでもないや",
   "artist": "RADWIMPS",
-  "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-02] Saturday Late Night Singing Stream 💙 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=7",
   "source": "naraetan.js"
@@ -8152,7 +8152,7 @@ window.SONG_DATA.push(
     {
   "title": "ミスト",
   "artist": "上北健",
-  "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-02] Saturday Late Night Singing Stream 💙 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=8",
   "source": "naraetan.js"
@@ -8160,7 +8160,7 @@ window.SONG_DATA.push(
     {
   "title": "六等星の夜",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-02] Saturday Late Night Singing Stream 💙 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=9",
   "source": "naraetan.js"
@@ -8168,7 +8168,7 @@ window.SONG_DATA.push(
     {
   "title": "よくばり",
   "artist": "Ayase feat. 初音ミク",
-  "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-02] Saturday Late Night Singing Stream 💙 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=10",
   "source": "naraetan.js"
@@ -8176,7 +8176,7 @@ window.SONG_DATA.push(
     {
   "title": "美しき残酷な世界",
   "artist": "日笠陽子",
-  "collection": "【歌切】[2026-05-02]星期六深夜歌回💙 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-02] Saturday Late Night Singing Stream 💙 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qh99BuEMV?p=11",
   "source": "naraetan.js"
@@ -8184,7 +8184,7 @@ window.SONG_DATA.push(
     {
   "title": "斜陽",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-06] Singing stream on the last day of Golden Week🥺🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=1",
   "source": "naraetan.js"
@@ -8192,7 +8192,7 @@ window.SONG_DATA.push(
     {
   "title": "TOMORROW",
   "artist": "岡本真夜",
-  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-06] Singing stream on the last day of Golden Week🥺🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=2",
   "source": "naraetan.js"
@@ -8200,7 +8200,7 @@ window.SONG_DATA.push(
     {
   "title": "真昼の月明かり",
   "artist": "月詠み",
-  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-06] Singing stream on the last day of Golden Week🥺🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=3",
   "source": "naraetan.js"
@@ -8208,7 +8208,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-06] Singing stream on the last day of Golden Week🥺🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=4",
   "source": "naraetan.js"
@@ -8216,7 +8216,7 @@ window.SONG_DATA.push(
     {
   "title": "サクラミツツキ",
   "artist": "SPYAIR",
-  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-06] Singing stream on the last day of Golden Week🥺🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=5",
   "source": "naraetan.js"
@@ -8224,7 +8224,7 @@ window.SONG_DATA.push(
     {
   "title": "涙の種、笑顔の花",
   "artist": "中川翔子",
-  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-06] Singing stream on the last day of Golden Week🥺🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=6",
   "source": "naraetan.js"
@@ -8232,7 +8232,7 @@ window.SONG_DATA.push(
     {
   "title": "集結の園へ",
   "artist": "林原めぐみ",
-  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-06] Singing stream on the last day of Golden Week🥺🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=7",
   "source": "naraetan.js"
@@ -8240,7 +8240,7 @@ window.SONG_DATA.push(
     {
   "title": "ゆずれない願い",
   "artist": "田村直美",
-  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-06] Singing stream on the last day of Golden Week🥺🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=8",
   "source": "naraetan.js"
@@ -8248,7 +8248,7 @@ window.SONG_DATA.push(
     {
   "title": "愛♡スクリ～ム！",
   "artist": "AiScReam",
-  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-06] Singing stream on the last day of Golden Week🥺🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=9",
   "source": "naraetan.js"
@@ -8256,7 +8256,7 @@ window.SONG_DATA.push(
     {
   "title": "アドレナ",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-06] Singing stream on the last day of Golden Week🥺🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=10",
   "source": "naraetan.js"
@@ -8264,7 +8264,7 @@ window.SONG_DATA.push(
     {
   "title": "ワールドイズマイン",
   "artist": "ryo",
-  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-06] Singing stream on the last day of Golden Week🥺🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=11",
   "source": "naraetan.js"
@@ -8272,7 +8272,7 @@ window.SONG_DATA.push(
     {
   "title": "StarDust",
   "artist": "Sound Horizon",
-  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-06] Singing stream on the last day of Golden Week🥺🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=12",
   "source": "naraetan.js"
@@ -8280,7 +8280,7 @@ window.SONG_DATA.push(
     {
   "title": "unravel",
   "artist": "TK from 凛として時雨",
-  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-06] Singing stream on the last day of Golden Week🥺🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=13",
   "source": "naraetan.js"
@@ -8288,7 +8288,7 @@ window.SONG_DATA.push(
     {
   "title": "ニンジーン Loves you yeah!",
   "artist": "ランカ・リー=中島愛",
-  "collection": "【歌切】[2026-05-06]黄金周假期最后一天的歌回🥺🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-06] Singing stream on the last day of Golden Week🥺🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AVR8BtE77?p=14",
   "source": "naraetan.js"
@@ -8296,7 +8296,7 @@ window.SONG_DATA.push(
     {
   "title": "カルマ",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-10] Relaxing Sunday Singing Stream 🫐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1275H63Ens?p=1",
   "source": "naraetan.js"
@@ -8304,7 +8304,7 @@ window.SONG_DATA.push(
     {
   "title": "Flamingo",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-10] Relaxing Sunday Singing Stream 🫐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1275H63Ens?p=2",
   "source": "naraetan.js"
@@ -8312,7 +8312,7 @@ window.SONG_DATA.push(
     {
   "title": "丸ノ内サディスティック",
   "artist": "椎名林檎",
-  "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-10] Relaxing Sunday Singing Stream 🫐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1275H63Ens?p=3",
   "source": "naraetan.js"
@@ -8320,7 +8320,7 @@ window.SONG_DATA.push(
     {
   "title": "強盗と花束",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-10] Relaxing Sunday Singing Stream 🫐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1275H63Ens?p=4",
   "source": "naraetan.js"
@@ -8328,7 +8328,7 @@ window.SONG_DATA.push(
     {
   "title": "青春コンプレックス",
   "artist": "結束バンド",
-  "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-10] Relaxing Sunday Singing Stream 🫐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1275H63Ens?p=5",
   "source": "naraetan.js"
@@ -8336,7 +8336,7 @@ window.SONG_DATA.push(
     {
   "title": "Subtitle",
   "artist": "Official髭男dism",
-  "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-10] Relaxing Sunday Singing Stream 🫐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1275H63Ens?p=6",
   "source": "naraetan.js"
@@ -8344,7 +8344,7 @@ window.SONG_DATA.push(
     {
   "title": "手紙～拝啓 十五の君へ～",
   "artist": "アンジェラ・アキ",
-  "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-10] Relaxing Sunday Singing Stream 🫐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1275H63Ens?p=7",
   "source": "naraetan.js"
@@ -8352,7 +8352,7 @@ window.SONG_DATA.push(
     {
   "title": "あんなに一緒だったのに",
   "artist": "See-Saw",
-  "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-10] Relaxing Sunday Singing Stream 🫐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1275H63Ens?p=8",
   "source": "naraetan.js"
@@ -8360,7 +8360,7 @@ window.SONG_DATA.push(
     {
   "title": "フォニイ",
   "artist": "ツミキ",
-  "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-10] Relaxing Sunday Singing Stream 🫐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1275H63Ens?p=9",
   "source": "naraetan.js"
@@ -8368,7 +8368,7 @@ window.SONG_DATA.push(
     {
   "title": "シャルル",
   "artist": "バルーン",
-  "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-10] Relaxing Sunday Singing Stream 🫐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1275H63Ens?p=10",
   "source": "naraetan.js"
@@ -8376,7 +8376,7 @@ window.SONG_DATA.push(
     {
   "title": "メフィスト",
   "artist": "女王蜂",
-  "collection": "【歌切】[2026-05-10]悠闲星期日歌回 🫐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-10] Relaxing Sunday Singing Stream 🫐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1275H63Ens?p=11",
   "source": "naraetan.js"
@@ -8384,7 +8384,7 @@ window.SONG_DATA.push(
     {
   "title": "HOT LIMIT",
   "artist": "T.M.Revolution",
-  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-12] How about a song🧶A song dedicated to you Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=1",
   "source": "naraetan.js"
@@ -8392,7 +8392,7 @@ window.SONG_DATA.push(
     {
   "title": "My Sweet Darlin'",
   "artist": "矢井田瞳",
-  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-12] How about a song🧶A song dedicated to you Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=2",
   "source": "naraetan.js"
@@ -8400,7 +8400,7 @@ window.SONG_DATA.push(
     {
   "title": "サタデー・ナイト・クエスチョン",
   "artist": "中島愛",
-  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-12] How about a song🧶A song dedicated to you Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=3",
   "source": "naraetan.js"
@@ -8408,7 +8408,7 @@ window.SONG_DATA.push(
     {
   "title": "PONPONPON",
   "artist": "きゃりーぱみゅぱみゅ",
-  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-12] How about a song🧶A song dedicated to you Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=4",
   "source": "naraetan.js"
@@ -8416,7 +8416,7 @@ window.SONG_DATA.push(
     {
   "title": "インドア系ならトラックメイカー",
   "artist": "Yunomi & nicamoq",
-  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-12] How about a song🧶A song dedicated to you Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=5",
   "source": "naraetan.js"
@@ -8424,7 +8424,7 @@ window.SONG_DATA.push(
     {
   "title": "EMOTION",
   "artist": "ミーア・キャンベル",
-  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-12] How about a song🧶A song dedicated to you Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=6",
   "source": "naraetan.js"
@@ -8432,7 +8432,7 @@ window.SONG_DATA.push(
     {
   "title": "ユニバース",
   "artist": "夏代孝明 feat. GUMI",
-  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-12] How about a song🧶A song dedicated to you Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=7",
   "source": "naraetan.js"
@@ -8440,7 +8440,7 @@ window.SONG_DATA.push(
     {
   "title": "ドラマチック",
   "artist": "YUKI",
-  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-12] How about a song🧶A song dedicated to you Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=8",
   "source": "naraetan.js"
@@ -8448,7 +8448,7 @@ window.SONG_DATA.push(
     {
   "title": "愉快な鼓動",
   "artist": "米倉千尋",
-  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-12] How about a song🧶A song dedicated to you Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=9",
   "source": "naraetan.js"
@@ -8456,7 +8456,7 @@ window.SONG_DATA.push(
     {
   "title": "青春ライン",
   "artist": "いきものがかり",
-  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-12] How about a song🧶A song dedicated to you Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=10",
   "source": "naraetan.js"
@@ -8464,7 +8464,7 @@ window.SONG_DATA.push(
     {
   "title": "夏祭り",
   "artist": "Whiteberry",
-  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-12] How about a song🧶A song dedicated to you Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=11",
   "source": "naraetan.js"
@@ -8472,7 +8472,7 @@ window.SONG_DATA.push(
     {
   "title": "INVOKE",
   "artist": "T.M.Revolution",
-  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-12] How about a song🧶A song dedicated to you Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=12",
   "source": "naraetan.js"
@@ -8480,7 +8480,7 @@ window.SONG_DATA.push(
     {
   "title": "WILL",
   "artist": "米倉千尋",
-  "collection": "【歌切】[2026-05-12]来一首如何🧶献给你的一首歌 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-12] How about a song🧶A song dedicated to you Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14d5g61ErW?p=13",
   "source": "naraetan.js"
@@ -8488,7 +8488,7 @@ window.SONG_DATA.push(
     {
   "title": "新宝島",
   "artist": "サカナクション",
-  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-13]Anime songs and J-pop💃 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=1",
   "source": "naraetan.js"
@@ -8496,7 +8496,7 @@ window.SONG_DATA.push(
     {
   "title": "さぁ",
   "artist": "SURFACE",
-  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-13]Anime songs and J-pop💃 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=2",
   "source": "naraetan.js"
@@ -8504,7 +8504,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行",
   "artist": "ランカ・リー=中島愛",
-  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-13]Anime songs and J-pop💃 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=3",
   "source": "naraetan.js"
@@ -8512,7 +8512,7 @@ window.SONG_DATA.push(
     {
   "title": "ふわふわ時間",
   "artist": "放課後ティータイム",
-  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-13]Anime songs and J-pop💃 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=4",
   "source": "naraetan.js"
@@ -8520,7 +8520,7 @@ window.SONG_DATA.push(
     {
   "title": "ようこそジャパリパークへ",
   "artist": "どうぶつビスケッツ×PPP",
-  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-13]Anime songs and J-pop💃 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=5",
   "source": "naraetan.js"
@@ -8528,7 +8528,7 @@ window.SONG_DATA.push(
     {
   "title": "瞬間センチメンタル",
   "artist": "SCANDAL",
-  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-13]Anime songs and J-pop💃 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=6",
   "source": "naraetan.js"
@@ -8536,7 +8536,7 @@ window.SONG_DATA.push(
     {
   "title": "ANGELUS-アンジェラス",
   "artist": "島谷ひとみ",
-  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-13]Anime songs and J-pop💃 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=7",
   "source": "naraetan.js"
@@ -8544,7 +8544,7 @@ window.SONG_DATA.push(
     {
   "title": "小さな恋のうた",
   "artist": "MONGOL800",
-  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-13]Anime songs and J-pop💃 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=8",
   "source": "naraetan.js"
@@ -8552,7 +8552,7 @@ window.SONG_DATA.push(
     {
   "title": "トウキョウ・シャンディ・ランデヴ",
   "artist": "MAISONdes",
-  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-13]Anime songs and J-pop💃 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=9",
   "source": "naraetan.js"
@@ -8560,7 +8560,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-13]Anime songs and J-pop💃 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=10",
   "source": "naraetan.js"
@@ -8568,7 +8568,7 @@ window.SONG_DATA.push(
     {
   "title": "花の塔",
   "artist": "さユり",
-  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-13]Anime songs and J-pop💃 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=11",
   "source": "naraetan.js"
@@ -8576,7 +8576,7 @@ window.SONG_DATA.push(
     {
   "title": "もってけ！セーラーふく",
   "artist": "泉こなた(平野綾),柊かがみ(加藤英美里),柊つかさ(福原香織),高良みゆき(遠藤綾)",
-  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-13]Anime songs and J-pop💃 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=12",
   "source": "naraetan.js"
@@ -8584,7 +8584,7 @@ window.SONG_DATA.push(
     {
   "title": "優しさの理由",
   "artist": "ChouCho",
-  "collection": "【歌切】[2026-05-13]动画歌曲和J-POP💃 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-05-13]Anime songs and J-pop💃 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FZ5S6mE2y?p=13",
   "source": "naraetan.js"
@@ -8592,7 +8592,7 @@ window.SONG_DATA.push(
     {
   "title": "花束",
   "artist": "back number",
-  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-17] Sunday Relaxing Singing Stream🌟 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=1",
   "source": "naraetan.js"
@@ -8600,7 +8600,7 @@ window.SONG_DATA.push(
     {
   "title": "lulu.",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-17] Sunday Relaxing Singing Stream🌟 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=2",
   "source": "naraetan.js"
@@ -8608,7 +8608,7 @@ window.SONG_DATA.push(
     {
   "title": "春に一番近い街",
   "artist": "40mP",
-  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-17] Sunday Relaxing Singing Stream🌟 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=3",
   "source": "naraetan.js"
@@ -8616,7 +8616,7 @@ window.SONG_DATA.push(
     {
   "title": "春はゆく",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-17] Sunday Relaxing Singing Stream🌟 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=4",
   "source": "naraetan.js"
@@ -8624,7 +8624,7 @@ window.SONG_DATA.push(
     {
   "title": "いのちの名前",
   "artist": "木村弓",
-  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-17] Sunday Relaxing Singing Stream🌟 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=5",
   "source": "naraetan.js"
@@ -8632,7 +8632,7 @@ window.SONG_DATA.push(
     {
   "title": "アイノカタチ",
   "artist": "MISIA",
-  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-17] Sunday Relaxing Singing Stream🌟 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=6",
   "source": "naraetan.js"
@@ -8640,7 +8640,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-17] Sunday Relaxing Singing Stream🌟 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=7",
   "source": "naraetan.js"
@@ -8648,7 +8648,7 @@ window.SONG_DATA.push(
     {
   "title": "青と夏",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-17] Sunday Relaxing Singing Stream🌟 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=8",
   "source": "naraetan.js"
@@ -8656,7 +8656,7 @@ window.SONG_DATA.push(
     {
   "title": "好きすぎて滅！",
   "artist": "M!LK",
-  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-17] Sunday Relaxing Singing Stream🌟 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=9",
   "source": "naraetan.js"
@@ -8664,7 +8664,7 @@ window.SONG_DATA.push(
     {
   "title": "Mela!",
   "artist": "緑黄色社会",
-  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-17] Sunday Relaxing Singing Stream🌟 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=10",
   "source": "naraetan.js"
@@ -8672,7 +8672,7 @@ window.SONG_DATA.push(
     {
   "title": "サインはB",
   "artist": "B小町",
-  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-17] Sunday Relaxing Singing Stream🌟 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=11",
   "source": "naraetan.js"
@@ -8680,7 +8680,7 @@ window.SONG_DATA.push(
     {
   "title": "恋文",
   "artist": "Every Little Thing",
-  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-17] Sunday Relaxing Singing Stream🌟 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=12",
   "source": "naraetan.js"
@@ -8688,7 +8688,7 @@ window.SONG_DATA.push(
     {
   "title": "FLY ME TO THE MOON",
   "artist": "CLAIRE",
-  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-17] Sunday Relaxing Singing Stream🌟 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=13",
   "source": "naraetan.js"
@@ -8696,7 +8696,7 @@ window.SONG_DATA.push(
     {
   "title": "ムーンライト伝説",
   "artist": "DALI",
-  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-17] Sunday Relaxing Singing Stream🌟 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=14",
   "source": "naraetan.js"
@@ -8704,7 +8704,7 @@ window.SONG_DATA.push(
     {
   "title": "白い雪のプリンセスは",
   "artist": "のぼる↑",
-  "collection": "【歌切】[2026-05-17]星期日的悠闲歌回🌟 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-17] Sunday Relaxing Singing Stream🌟 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yC5o6gEM1?p=15",
   "source": "naraetan.js"
@@ -8712,7 +8712,7 @@ window.SONG_DATA.push(
     {
   "title": "DAN DAN 心魅かれてく",
   "artist": "FIELD OF VIEW",
-  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-05-19] Come listen to how well I sing‼️👩‍🎤 Please tell me after listening なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=1",
   "source": "naraetan.js"
@@ -8720,7 +8720,7 @@ window.SONG_DATA.push(
     {
   "title": "ナツメグ",
   "artist": "PURPLE BUBBLE",
-  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-05-19] Come listen to how well I sing‼️👩‍🎤 Please tell me after listening なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=2",
   "source": "naraetan.js"
@@ -8728,7 +8728,7 @@ window.SONG_DATA.push(
     {
   "title": "残酷な天使のテーゼ",
   "artist": "高橋洋子",
-  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-05-19] Come listen to how well I sing‼️👩‍🎤 Please tell me after listening なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=3",
   "source": "naraetan.js"
@@ -8736,7 +8736,7 @@ window.SONG_DATA.push(
     {
   "title": "ロミオとシンデレラ",
   "artist": "doriko feat. 初音ミク",
-  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-05-19] Come listen to how well I sing‼️👩‍🎤 Please tell me after listening なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=4",
   "source": "naraetan.js"
@@ -8744,7 +8744,7 @@ window.SONG_DATA.push(
     {
   "title": "花になって",
   "artist": "緑黄色社会",
-  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-05-19] Come listen to how well I sing‼️👩‍🎤 Please tell me after listening なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=5",
   "source": "naraetan.js"
@@ -8752,7 +8752,7 @@ window.SONG_DATA.push(
     {
   "title": "いけないボーダーライン",
   "artist": "ワルキューレ",
-  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-05-19] Come listen to how well I sing‼️👩‍🎤 Please tell me after listening なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=6",
   "source": "naraetan.js"
@@ -8760,7 +8760,7 @@ window.SONG_DATA.push(
     {
   "title": "愛のかたまり",
   "artist": "DOMOTO",
-  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-05-19] Come listen to how well I sing‼️👩‍🎤 Please tell me after listening なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=7",
   "source": "naraetan.js"
@@ -8768,7 +8768,7 @@ window.SONG_DATA.push(
     {
   "title": "Stellar Stellar",
   "artist": "星街すいせい",
-  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-05-19] Come listen to how well I sing‼️👩‍🎤 Please tell me after listening なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=8",
   "source": "naraetan.js"
@@ -8776,7 +8776,7 @@ window.SONG_DATA.push(
     {
   "title": "炉心融解",
   "artist": "iroha feat. 鏡音リン",
-  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-05-19] Come listen to how well I sing‼️👩‍🎤 Please tell me after listening なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=9",
   "source": "naraetan.js"
@@ -8784,7 +8784,7 @@ window.SONG_DATA.push(
     {
   "title": "Pretender",
   "artist": "Official髭男dism",
-  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-05-19] Come listen to how well I sing‼️👩‍🎤 Please tell me after listening なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=10",
   "source": "naraetan.js"
@@ -8792,7 +8792,7 @@ window.SONG_DATA.push(
     {
   "title": "Super Driver",
   "artist": "平野綾",
-  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-05-19] Come listen to how well I sing‼️👩‍🎤 Please tell me after listening なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=11",
   "source": "naraetan.js"
@@ -8800,7 +8800,7 @@ window.SONG_DATA.push(
     {
   "title": "メリッサ",
   "artist": "ポルノグラフィティ",
-  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-05-19] Come listen to how well I sing‼️👩‍🎤 Please tell me after listening なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=12",
   "source": "naraetan.js"
@@ -8808,7 +8808,7 @@ window.SONG_DATA.push(
     {
   "title": "ロビンソン",
   "artist": "スピッツ",
-  "collection": "【歌切】[2026-05-19]来听听看我唱得好不好‼️👩‍🎤请听完告诉我吧 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-05-19] Come listen to how well I sing‼️👩‍🎤 Please tell me after listening なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1apL66CE2i?p=13",
   "source": "naraetan.js"
@@ -8816,7 +8816,7 @@ window.SONG_DATA.push(
     {
   "title": "おジャ魔女カーニバル!!",
   "artist": "MAHO堂",
-  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-20] Warm welcome to both first-time visitors and long-time viewers😉 Naretann Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=1",
   "source": "naraetan.js"
@@ -8824,7 +8824,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-20] Warm welcome to both first-time visitors and long-time viewers😉 Naretann Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=2",
   "source": "naraetan.js"
@@ -8832,7 +8832,7 @@ window.SONG_DATA.push(
     {
   "title": "赤いスイートピー",
   "artist": "松田聖子",
-  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-20] Warm welcome to both first-time visitors and long-time viewers😉 Naretann Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=3",
   "source": "naraetan.js"
@@ -8840,7 +8840,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーチラス",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-20] Warm welcome to both first-time visitors and long-time viewers😉 Naretann Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=4",
   "source": "naraetan.js"
@@ -8848,7 +8848,7 @@ window.SONG_DATA.push(
     {
   "title": "DUET",
   "artist": "ZICO & 幾田りら",
-  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-20] Warm welcome to both first-time visitors and long-time viewers😉 Naretann Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=5",
   "source": "naraetan.js"
@@ -8856,7 +8856,7 @@ window.SONG_DATA.push(
     {
   "title": "可愛くてごめん",
   "artist": "HoneyWorks",
-  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-20] Warm welcome to both first-time visitors and long-time viewers😉 Naretann Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=6",
   "source": "naraetan.js"
@@ -8864,7 +8864,7 @@ window.SONG_DATA.push(
     {
   "title": "PEACH",
   "artist": "大塚愛",
-  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-20] Warm welcome to both first-time visitors and long-time viewers😉 Naretann Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=7",
   "source": "naraetan.js"
@@ -8872,7 +8872,7 @@ window.SONG_DATA.push(
     {
   "title": "わたしの一番かわいいところ",
   "artist": "FRUITS ZIPPER",
-  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-20] Warm welcome to both first-time visitors and long-time viewers😉 Naretann Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=8",
   "source": "naraetan.js"
@@ -8880,7 +8880,7 @@ window.SONG_DATA.push(
     {
   "title": "森の小さなレストラン",
   "artist": "手嶌葵",
-  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-20] Warm welcome to both first-time visitors and long-time viewers😉 Naretann Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=9",
   "source": "naraetan.js"
@@ -8888,7 +8888,7 @@ window.SONG_DATA.push(
     {
   "title": "adrenaline!!!",
   "artist": "TrySail",
-  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-20] Warm welcome to both first-time visitors and long-time viewers😉 Naretann Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=10",
   "source": "naraetan.js"
@@ -8896,7 +8896,7 @@ window.SONG_DATA.push(
     {
   "title": "モニタリング",
   "artist": "DECO*27",
-  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-20] Warm welcome to both first-time visitors and long-time viewers😉 Naretann Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=11",
   "source": "naraetan.js"
@@ -8904,7 +8904,7 @@ window.SONG_DATA.push(
     {
   "title": "青空のラプソディ",
   "artist": "Fhána",
-  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-20] Warm welcome to both first-time visitors and long-time viewers😉 Naretann Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=12",
   "source": "naraetan.js"
@@ -8912,7 +8912,7 @@ window.SONG_DATA.push(
     {
   "title": "God knows...",
   "artist": "涼宮ハルヒ(平野綾)",
-  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-20] Warm welcome to both first-time visitors and long-time viewers😉 Naretann Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=13",
   "source": "naraetan.js"
@@ -8920,7 +8920,7 @@ window.SONG_DATA.push(
     {
   "title": "ライオン",
   "artist": "シェリル・ノーム starring May'n ランカ・リー=中島愛",
-  "collection": "【歌切】[2026-05-20]初次来访的朋友和老观众们都热烈欢迎😉 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-20] Warm welcome to both first-time visitors and long-time viewers😉 Naretann Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jbLW6vEY9?p=14",
   "source": "naraetan.js"
@@ -8928,7 +8928,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-22] Live Pre-Festival! Relaxing Singing 🌸 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=1",
   "source": "naraetan.js"
@@ -8936,7 +8936,7 @@ window.SONG_DATA.push(
     {
   "title": "orion",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-22] Live Pre-Festival! Relaxing Singing 🌸 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=2",
   "source": "naraetan.js"
@@ -8944,7 +8944,7 @@ window.SONG_DATA.push(
     {
   "title": "インドア系ならトラックメイカー",
   "artist": "Yunomi & nicamoq",
-  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-22] Live Pre-Festival! Relaxing Singing 🌸 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=3",
   "source": "naraetan.js"
@@ -8952,7 +8952,7 @@ window.SONG_DATA.push(
     {
   "title": "シュガーソングとビターステップ",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-22] Live Pre-Festival! Relaxing Singing 🌸 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=4",
   "source": "naraetan.js"
@@ -8960,7 +8960,7 @@ window.SONG_DATA.push(
     {
   "title": "消せない罪",
   "artist": "北出菜奈",
-  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-22] Live Pre-Festival! Relaxing Singing 🌸 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=5",
   "source": "naraetan.js"
@@ -8968,7 +8968,7 @@ window.SONG_DATA.push(
     {
   "title": "愛は勝つ",
   "artist": "KAN",
-  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-22] Live Pre-Festival! Relaxing Singing 🌸 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=6",
   "source": "naraetan.js"
@@ -8976,7 +8976,7 @@ window.SONG_DATA.push(
     {
   "title": "浪漫飛行",
   "artist": "米米CLUB",
-  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-22] Live Pre-Festival! Relaxing Singing 🌸 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=7",
   "source": "naraetan.js"
@@ -8984,7 +8984,7 @@ window.SONG_DATA.push(
     {
   "title": "打上花火",
   "artist": "DAOKO×米津玄師",
-  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-22] Live Pre-Festival! Relaxing Singing 🌸 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=8",
   "source": "naraetan.js"
@@ -8992,7 +8992,7 @@ window.SONG_DATA.push(
     {
   "title": "W/X/Y",
   "artist": "Tani Yuuki",
-  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-22] Live Pre-Festival! Relaxing Singing 🌸 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=9",
   "source": "naraetan.js"
@@ -9000,7 +9000,7 @@ window.SONG_DATA.push(
     {
   "title": "First Love",
   "artist": "宇多田ヒカル",
-  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-22] Live Pre-Festival! Relaxing Singing 🌸 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=10",
   "source": "naraetan.js"
@@ -9008,7 +9008,7 @@ window.SONG_DATA.push(
     {
   "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-22] Live Pre-Festival! Relaxing Singing 🌸 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=11",
   "source": "naraetan.js"
@@ -9016,7 +9016,7 @@ window.SONG_DATA.push(
     {
   "title": "エンジェルウインク",
   "artist": "茅野愛衣",
-  "collection": "【歌切】[2026-05-22]Live前夜祭！悠闲唱歌哦🌸 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-22] Live Pre-Festival! Relaxing Singing 🌸 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15aGq6FE29?p=12",
   "source": "naraetan.js"
@@ -9024,7 +9024,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒトリゴト",
   "artist": "ClariS",
-  "collection": "【歌切】[2026-05-25]突击！稍微唱一会儿歌👀 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-25] Surprise! Singing for a bit 👀 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gVc6aEdT?p=1",
   "source": "naraetan.js"
@@ -9032,7 +9032,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒトリノ夜",
   "artist": "ポルノグラフィティ",
-  "collection": "【歌切】[2026-05-25]突击！稍微唱一会儿歌👀 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-25] Surprise! Singing for a bit 👀 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gVc6aEdT?p=2",
   "source": "naraetan.js"
@@ -9040,7 +9040,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "【歌切】[2026-05-25]突击！稍微唱一会儿歌👀 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-25] Surprise! Singing for a bit 👀 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gVc6aEdT?p=3",
   "source": "naraetan.js"
@@ -9048,7 +9048,7 @@ window.SONG_DATA.push(
     {
   "title": "愛唄",
   "artist": "GReeeeN",
-  "collection": "【歌切】[2026-05-25]突击！稍微唱一会儿歌👀 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-25] Surprise! Singing for a bit 👀 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gVc6aEdT?p=4",
   "source": "naraetan.js"
@@ -9056,7 +9056,7 @@ window.SONG_DATA.push(
     {
   "title": "フィナーレ。",
   "artist": "eill",
-  "collection": "【歌切】[2026-05-25]突击！稍微唱一会儿歌👀 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-25] Surprise! Singing for a bit 👀 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gVc6aEdT?p=5",
   "source": "naraetan.js"
@@ -9064,7 +9064,7 @@ window.SONG_DATA.push(
     {
   "title": "自傷無色",
   "artist": "ねこぼーろ feat.初音ミク",
-  "collection": "【歌切】[2026-05-25]突击！稍微唱一会儿歌👀 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-25] Surprise! Singing for a bit 👀 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gVc6aEdT?p=6",
   "source": "naraetan.js"
@@ -9072,7 +9072,7 @@ window.SONG_DATA.push(
     {
   "title": "Q&A リサイタル！",
   "artist": "戸松遥",
-  "collection": "【歌切】[2026-05-25]突击！稍微唱一会儿歌👀 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-25] Surprise! Singing for a bit 👀 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gVc6aEdT?p=7",
   "source": "naraetan.js"
@@ -9080,7 +9080,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON",
-  "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-26] Singing happily in a cozy home 3D setting 🫶 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=1",
   "source": "naraetan.js"
@@ -9088,7 +9088,7 @@ window.SONG_DATA.push(
     {
   "title": "晴れてハレルヤ",
   "artist": "奥井亜紀",
-  "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-26] Singing happily in a cozy home 3D setting 🫶 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=2",
   "source": "naraetan.js"
@@ -9096,7 +9096,7 @@ window.SONG_DATA.push(
     {
   "title": "嵐の中で輝いて",
   "artist": "米倉千尋",
-  "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-26] Singing happily in a cozy home 3D setting 🫶 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=3",
   "source": "naraetan.js"
@@ -9104,7 +9104,7 @@ window.SONG_DATA.push(
     {
   "title": "SECRET AMBITION",
   "artist": "水樹奈々",
-  "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-26] Singing happily in a cozy home 3D setting 🫶 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=4",
   "source": "naraetan.js"
@@ -9112,7 +9112,7 @@ window.SONG_DATA.push(
     {
   "title": "深愛",
   "artist": "水樹奈々",
-  "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-26] Singing happily in a cozy home 3D setting 🫶 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=5",
   "source": "naraetan.js"
@@ -9120,7 +9120,7 @@ window.SONG_DATA.push(
     {
   "title": "Sincerely",
   "artist": "TRUE",
-  "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-26] Singing happily in a cozy home 3D setting 🫶 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=6",
   "source": "naraetan.js"
@@ -9128,7 +9128,7 @@ window.SONG_DATA.push(
     {
   "title": "猫",
   "artist": "DISH//",
-  "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-26] Singing happily in a cozy home 3D setting 🫶 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=7",
   "source": "naraetan.js"
@@ -9136,7 +9136,7 @@ window.SONG_DATA.push(
     {
   "title": "GIRAFFE BLUES",
   "artist": "ワルキューレ",
-  "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-26] Singing happily in a cozy home 3D setting 🫶 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=8",
   "source": "naraetan.js"
@@ -9144,7 +9144,7 @@ window.SONG_DATA.push(
     {
   "title": "ロキ",
   "artist": "みきとP",
-  "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-26] Singing happily in a cozy home 3D setting 🫶 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=9",
   "source": "naraetan.js"
@@ -9152,7 +9152,7 @@ window.SONG_DATA.push(
     {
   "title": "8.32",
   "artist": "*Luna",
-  "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-26] Singing happily in a cozy home 3D setting 🫶 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=10",
   "source": "naraetan.js"
@@ -9160,7 +9160,7 @@ window.SONG_DATA.push(
     {
   "title": "ADAMAS",
   "artist": "LiSA",
-  "collection": "【歌切】[2026-05-26]在温馨的家用3D里开心唱歌🫶 なれたん Naraetan Ch.",
+  "collection": "[Song Cut][2026-05-26] Singing happily in a cozy home 3D setting 🫶 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eyVK6CEdZ?p=11",
   "source": "naraetan.js"
@@ -9168,7 +9168,7 @@ window.SONG_DATA.push(
     {
   "title": "HOT LIMIT",
   "artist": "T.M.Revolution",
-  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-27] Collaborative Playlist 🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=1",
   "source": "naraetan.js"
@@ -9176,7 +9176,7 @@ window.SONG_DATA.push(
     {
   "title": "狂乱Hey Kids!!",
   "artist": "THE ORAL CIGARETTES",
-  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-27] Collaborative Playlist 🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=2",
   "source": "naraetan.js"
@@ -9184,7 +9184,7 @@ window.SONG_DATA.push(
     {
   "title": "貴方の恋人になりたい",
   "artist": "チョーキューメイ",
-  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-27] Collaborative Playlist 🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=3",
   "source": "naraetan.js"
@@ -9192,7 +9192,7 @@ window.SONG_DATA.push(
     {
   "title": "終わりの世界から",
   "artist": "やなぎなぎ",
-  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-27] Collaborative Playlist 🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=4",
   "source": "naraetan.js"
@@ -9200,7 +9200,7 @@ window.SONG_DATA.push(
     {
   "title": "星になる",
   "artist": "Islet feat.倚水",
-  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-27] Collaborative Playlist 🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=5",
   "source": "naraetan.js"
@@ -9208,7 +9208,7 @@ window.SONG_DATA.push(
     {
   "title": "Plastic Love",
   "artist": "竹内まりや",
-  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-27] Collaborative Playlist 🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=6",
   "source": "naraetan.js"
@@ -9216,7 +9216,7 @@ window.SONG_DATA.push(
     {
   "title": "どんなときも",
   "artist": "槇原敬之",
-  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-27] Collaborative Playlist 🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=7",
   "source": "naraetan.js"
@@ -9224,7 +9224,7 @@ window.SONG_DATA.push(
     {
   "title": "奇跡の海",
   "artist": "坂本真綾",
-  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-27] Collaborative Playlist 🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=8",
   "source": "naraetan.js"
@@ -9232,7 +9232,7 @@ window.SONG_DATA.push(
     {
   "title": "courage",
   "artist": "戸松遥",
-  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-27] Collaborative Playlist 🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=9",
   "source": "naraetan.js"
@@ -9240,7 +9240,7 @@ window.SONG_DATA.push(
     {
   "title": "極楽浄土",
   "artist": "GARNiDELiA",
-  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-27] Collaborative Playlist 🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=10",
   "source": "naraetan.js"
@@ -9248,7 +9248,7 @@ window.SONG_DATA.push(
     {
   "title": "again",
   "artist": "YUI",
-  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-27] Collaborative Playlist 🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=11",
   "source": "naraetan.js"
@@ -9256,7 +9256,7 @@ window.SONG_DATA.push(
     {
   "title": "夏の在りか",
   "artist": "H△G",
-  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-27] Collaborative Playlist 🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=12",
   "source": "naraetan.js"
@@ -9264,7 +9264,7 @@ window.SONG_DATA.push(
     {
   "title": "Hello, Worker",
   "artist": "KEI",
-  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-27] Collaborative Playlist 🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=13",
   "source": "naraetan.js"
@@ -9272,7 +9272,7 @@ window.SONG_DATA.push(
     {
   "title": "Wherever You Are",
   "artist": "ONE OK ROCK",
-  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-27] Collaborative Playlist 🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=14",
   "source": "naraetan.js"
@@ -9280,7 +9280,7 @@ window.SONG_DATA.push(
     {
   "title": "Every Heart",
   "artist": "BoA",
-  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-27] Collaborative Playlist 🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=15",
   "source": "naraetan.js"
@@ -9288,7 +9288,7 @@ window.SONG_DATA.push(
     {
   "title": "あなたのキスを数えましょう",
   "artist": "小柳ゆき",
-  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-27] Collaborative Playlist 🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=16",
   "source": "naraetan.js"
@@ -9296,7 +9296,7 @@ window.SONG_DATA.push(
     {
   "title": "LEVEL5-Judgelight",
   "artist": "fripSide",
-  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-27] Collaborative Playlist 🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=17",
   "source": "naraetan.js"
@@ -9304,7 +9304,7 @@ window.SONG_DATA.push(
     {
   "title": "最強パレパレード",
   "artist": "涼宮ハルヒ(平野綾),長門有希(茅原実里),朝比奈みくる(後藤邑子)",
-  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-27] Collaborative Playlist 🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=18",
   "source": "naraetan.js"
@@ -9312,7 +9312,7 @@ window.SONG_DATA.push(
     {
   "title": "輪舞-revolution",
   "artist": "奥井雅美",
-  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-27] Collaborative Playlist 🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=19",
   "source": "naraetan.js"
@@ -9320,7 +9320,7 @@ window.SONG_DATA.push(
     {
   "title": "IN MY DREAM",
   "artist": "真行寺恵理",
-  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-27] Collaborative Playlist 🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=20",
   "source": "naraetan.js"
@@ -9328,7 +9328,7 @@ window.SONG_DATA.push(
     {
   "title": "夜もすがら君想ふ",
   "artist": "TOKOTOKO",
-  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-27] Collaborative Playlist 🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=21",
   "source": "naraetan.js"
@@ -9336,7 +9336,7 @@ window.SONG_DATA.push(
     {
   "title": "ファンサ",
   "artist": "HoneyWorks",
-  "collection": "【歌切】[2026-05-27]大家一起制作的歌单🪇 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-27] Collaborative Playlist 🪇 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wEGD6jEBT?p=22",
   "source": "naraetan.js"
@@ -9344,7 +9344,7 @@ window.SONG_DATA.push(
     {
   "title": "ホログラム",
   "artist": "NICO Touches the Walls",
-  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-29] May's Last Friday Song Livestream 🍎 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=1",
   "source": "naraetan.js"
@@ -9352,7 +9352,7 @@ window.SONG_DATA.push(
     {
   "title": "ゴールデンタイムラバー",
   "artist": "スキマスイッチ",
-  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-29] May's Last Friday Song Livestream 🍎 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=2",
   "source": "naraetan.js"
@@ -9360,7 +9360,7 @@ window.SONG_DATA.push(
     {
   "title": "115万キロのフィルム",
   "artist": "Official髭男dism",
-  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-29] May's Last Friday Song Livestream 🍎 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=3",
   "source": "naraetan.js"
@@ -9368,7 +9368,7 @@ window.SONG_DATA.push(
     {
   "title": "I♥U",
   "artist": "THE★SCANTY",
-  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-29] May's Last Friday Song Livestream 🍎 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=4",
   "source": "naraetan.js"
@@ -9376,7 +9376,7 @@ window.SONG_DATA.push(
     {
   "title": "DISCOTHEQUE",
   "artist": "水樹奈々",
-  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-29] May's Last Friday Song Livestream 🍎 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=5",
   "source": "naraetan.js"
@@ -9384,7 +9384,7 @@ window.SONG_DATA.push(
     {
   "title": "ブラック★ロックシューター",
   "artist": "supercell",
-  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-29] May's Last Friday Song Livestream 🍎 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=6",
   "source": "naraetan.js"
@@ -9392,7 +9392,7 @@ window.SONG_DATA.push(
     {
   "title": "NO, Thank You!",
   "artist": "放課後ティータイム",
-  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-29] May's Last Friday Song Livestream 🍎 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=7",
   "source": "naraetan.js"
@@ -9400,7 +9400,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら",
   "artist": "結束バンド",
-  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-29] May's Last Friday Song Livestream 🍎 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=8",
   "source": "naraetan.js"
@@ -9408,7 +9408,7 @@ window.SONG_DATA.push(
     {
   "title": "巣立ち",
   "artist": "鴉",
-  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-29] May's Last Friday Song Livestream 🍎 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=9",
   "source": "naraetan.js"
@@ -9416,7 +9416,7 @@ window.SONG_DATA.push(
     {
   "title": "Speaking",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-29] May's Last Friday Song Livestream 🍎 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=10",
   "source": "naraetan.js"
@@ -9424,7 +9424,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛裁判",
   "artist": "40mP",
-  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-29] May's Last Friday Song Livestream 🍎 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=11",
   "source": "naraetan.js"
@@ -9432,7 +9432,7 @@ window.SONG_DATA.push(
     {
   "title": "月並みに輝け",
   "artist": "結束バンド",
-  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-29] May's Last Friday Song Livestream 🍎 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=12",
   "source": "naraetan.js"
@@ -9440,7 +9440,7 @@ window.SONG_DATA.push(
     {
   "title": "ごはんはおかず",
   "artist": "放課後ティータイム",
-  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-29] May's Last Friday Song Livestream 🍎 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=13",
   "source": "naraetan.js"
@@ -9448,7 +9448,7 @@ window.SONG_DATA.push(
     {
   "title": "楓",
   "artist": "スピッツ",
-  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-29] May's Last Friday Song Livestream 🍎 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=14",
   "source": "naraetan.js"
@@ -9456,7 +9456,7 @@ window.SONG_DATA.push(
     {
   "title": "Nobody's Home",
   "artist": "ONE OK ROCK",
-  "collection": "【歌切】[2026-05-29]5月最后的星期五歌回🍎 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-05-29] May's Last Friday Song Livestream 🍎 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15bVu6HEmH?p=15",
   "source": "naraetan.js"
@@ -9464,7 +9464,7 @@ window.SONG_DATA.push(
     {
   "title": "斜陽",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "collection": "[Song Cover] [2026-06-02] It's June! Let's sing! 🎼🎧 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=1",
   "source": "naraetan.js"
@@ -9472,7 +9472,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "collection": "[Song Cover] [2026-06-02] It's June! Let's sing! 🎼🎧 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=2",
   "source": "naraetan.js"
@@ -9480,7 +9480,7 @@ window.SONG_DATA.push(
     {
   "title": "departure!",
   "artist": "小野正利",
-  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "collection": "[Song Cover] [2026-06-02] It's June! Let's sing! 🎼🎧 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=3",
   "source": "naraetan.js"
@@ -9488,7 +9488,7 @@ window.SONG_DATA.push(
     {
   "title": "疾走",
   "artist": "LAST ALLIANCE",
-  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "collection": "[Song Cover] [2026-06-02] It's June! Let's sing! 🎼🎧 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=4",
   "source": "naraetan.js"
@@ -9496,7 +9496,7 @@ window.SONG_DATA.push(
     {
   "title": "LADY",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "collection": "[Song Cover] [2026-06-02] It's June! Let's sing! 🎼🎧 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=5",
   "source": "naraetan.js"
@@ -9504,7 +9504,7 @@ window.SONG_DATA.push(
     {
   "title": "地球最後の告白を",
   "artist": "kemu",
-  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "collection": "[Song Cover] [2026-06-02] It's June! Let's sing! 🎼🎧 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=6",
   "source": "naraetan.js"
@@ -9512,7 +9512,7 @@ window.SONG_DATA.push(
     {
   "title": "冒険彗星",
   "artist": "榎本くるみ",
-  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "collection": "[Song Cover] [2026-06-02] It's June! Let's sing! 🎼🎧 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=7",
   "source": "naraetan.js"
@@ -9520,7 +9520,7 @@ window.SONG_DATA.push(
     {
   "title": "君の神話～アクエリオン第二章",
   "artist": "AKINO",
-  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "collection": "[Song Cover] [2026-06-02] It's June! Let's sing! 🎼🎧 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=8",
   "source": "naraetan.js"
@@ -9528,7 +9528,7 @@ window.SONG_DATA.push(
     {
   "title": "プラリネ",
   "artist": "ジュリア(愛美)",
-  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "collection": "[Song Cover] [2026-06-02] It's June! Let's sing! 🎼🎧 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=9",
   "source": "naraetan.js"
@@ -9536,7 +9536,7 @@ window.SONG_DATA.push(
     {
   "title": "光るなら",
   "artist": "Goose house",
-  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "collection": "[Song Cover] [2026-06-02] It's June! Let's sing! 🎼🎧 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=10",
   "source": "naraetan.js"
@@ -9544,7 +9544,7 @@ window.SONG_DATA.push(
     {
   "title": "Catch You Catch Me",
   "artist": "グミ",
-  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "collection": "[Song Cover] [2026-06-02] It's June! Let's sing! 🎼🎧 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=11",
   "source": "naraetan.js"
@@ -9552,7 +9552,7 @@ window.SONG_DATA.push(
     {
   "title": "ピースサイン",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "collection": "[Song Cover] [2026-06-02] It's June! Let's sing! 🎼🎧 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=12",
   "source": "naraetan.js"
@@ -9560,7 +9560,7 @@ window.SONG_DATA.push(
     {
   "title": "ハム太郎とっとこうた",
   "artist": "ハムちゃんず",
-  "collection": "【歌切】[2026-06-02]6月到了！来唱歌吧！🎼🎧 なれたん Naraetan Ch.",
+  "collection": "[Song Cover] [2026-06-02] It's June! Let's sing! 🎼🎧 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dKVk6LEvi?p=13",
   "source": "naraetan.js"
@@ -9568,7 +9568,7 @@ window.SONG_DATA.push(
     {
   "title": "灰色と青",
   "artist": "米津玄師 + 菅田将暉",
-  "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
+  "collection": "【Singing Stream】[2026-06-03] A singing stream that even storms and typhoons can't defeat 😶‍🌫️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fY796cE51?p=1",
   "source": "naraetan.js"
@@ -9576,7 +9576,7 @@ window.SONG_DATA.push(
     {
   "title": "Myself",
   "artist": "Changin' My Life",
-  "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
+  "collection": "【Singing Stream】[2026-06-03] A singing stream that even storms and typhoons can't defeat 😶‍🌫️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fY796cE51?p=2",
   "source": "naraetan.js"
@@ -9584,7 +9584,7 @@ window.SONG_DATA.push(
     {
   "title": "アンコール",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
+  "collection": "【Singing Stream】[2026-06-03] A singing stream that even storms and typhoons can't defeat 😶‍🌫️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fY796cE51?p=3",
   "source": "naraetan.js"
@@ -9592,7 +9592,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒロイン",
   "artist": "back number",
-  "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
+  "collection": "【Singing Stream】[2026-06-03] A singing stream that even storms and typhoons can't defeat 😶‍🌫️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fY796cE51?p=4",
   "source": "naraetan.js"
@@ -9600,7 +9600,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
+  "collection": "【Singing Stream】[2026-06-03] A singing stream that even storms and typhoons can't defeat 😶‍🌫️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fY796cE51?p=5",
   "source": "naraetan.js"
@@ -9608,7 +9608,7 @@ window.SONG_DATA.push(
     {
   "title": "ツキミソウ",
   "artist": "Novelbright",
-  "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
+  "collection": "【Singing Stream】[2026-06-03] A singing stream that even storms and typhoons can't defeat 😶‍🌫️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fY796cE51?p=6",
   "source": "naraetan.js"
@@ -9616,7 +9616,7 @@ window.SONG_DATA.push(
     {
   "title": "月並みに輝け",
   "artist": "結束バンド",
-  "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
+  "collection": "【Singing Stream】[2026-06-03] A singing stream that even storms and typhoons can't defeat 😶‍🌫️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fY796cE51?p=7",
   "source": "naraetan.js"
@@ -9624,7 +9624,7 @@ window.SONG_DATA.push(
     {
   "title": "青い珊瑚礁",
   "artist": "松田聖子",
-  "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
+  "collection": "【Singing Stream】[2026-06-03] A singing stream that even storms and typhoons can't defeat 😶‍🌫️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fY796cE51?p=8",
   "source": "naraetan.js"
@@ -9632,7 +9632,7 @@ window.SONG_DATA.push(
     {
   "title": "バイバイレイニー",
   "artist": "星街すいせい",
-  "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
+  "collection": "【Singing Stream】[2026-06-03] A singing stream that even storms and typhoons can't defeat 😶‍🌫️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fY796cE51?p=9",
   "source": "naraetan.js"
@@ -9640,7 +9640,7 @@ window.SONG_DATA.push(
     {
   "title": "crossing field",
   "artist": "LiSA",
-  "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
+  "collection": "【Singing Stream】[2026-06-03] A singing stream that even storms and typhoons can't defeat 😶‍🌫️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fY796cE51?p=10",
   "source": "naraetan.js"
@@ -9648,7 +9648,7 @@ window.SONG_DATA.push(
     {
   "title": "This game",
   "artist": "鈴木このみ",
-  "collection": "【歌切】[2026-06-03]风雨台风都不敌的歌回😶‍🌫️ なれたん Naraetan Ch.",
+  "collection": "【Singing Stream】[2026-06-03] A singing stream that even storms and typhoons can't defeat 😶‍🌫️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fY796cE51?p=11",
   "source": "naraetan.js"
@@ -9656,7 +9656,7 @@ window.SONG_DATA.push(
     {
   "title": "1991",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-07] Rainy Sunday Singing Stream 🌧️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=1",
   "source": "naraetan.js"
@@ -9664,7 +9664,7 @@ window.SONG_DATA.push(
     {
   "title": "すずめ",
   "artist": "RADWIMPS feat.十明",
-  "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-07] Rainy Sunday Singing Stream 🌧️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=2",
   "source": "naraetan.js"
@@ -9672,7 +9672,7 @@ window.SONG_DATA.push(
     {
   "title": "紅茶",
   "artist": "坂本真綾",
-  "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-07] Rainy Sunday Singing Stream 🌧️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=3",
   "source": "naraetan.js"
@@ -9680,7 +9680,7 @@ window.SONG_DATA.push(
     {
   "title": "レイニーブルー",
   "artist": "徳永英明",
-  "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-07] Rainy Sunday Singing Stream 🌧️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=4",
   "source": "naraetan.js"
@@ -9688,7 +9688,7 @@ window.SONG_DATA.push(
     {
   "title": "六等星",
   "artist": "ざらめ",
-  "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-07] Rainy Sunday Singing Stream 🌧️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=5",
   "source": "naraetan.js"
@@ -9696,7 +9696,7 @@ window.SONG_DATA.push(
     {
   "title": "I beg you",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-07] Rainy Sunday Singing Stream 🌧️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=6",
   "source": "naraetan.js"
@@ -9704,7 +9704,7 @@ window.SONG_DATA.push(
     {
   "title": "グランドエスケープ",
   "artist": "RADWIMPS",
-  "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-07] Rainy Sunday Singing Stream 🌧️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=7",
   "source": "naraetan.js"
@@ -9712,7 +9712,7 @@ window.SONG_DATA.push(
     {
   "title": "Hello,星を数えて",
   "artist": "星空凛(飯田里穂),西木野真姫(Pile),小泉花陽(久保ユリカ)",
-  "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-07] Rainy Sunday Singing Stream 🌧️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=8",
   "source": "naraetan.js"
@@ -9720,7 +9720,7 @@ window.SONG_DATA.push(
     {
   "title": "TOMORROW",
   "artist": "岡本真夜",
-  "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-07] Rainy Sunday Singing Stream 🌧️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=9",
   "source": "naraetan.js"
@@ -9728,7 +9728,7 @@ window.SONG_DATA.push(
     {
   "title": "Letters to ME",
   "artist": "LiSA",
-  "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-07] Rainy Sunday Singing Stream 🌧️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=10",
   "source": "naraetan.js"
@@ -9736,7 +9736,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-06-07]雨天的星期日歌回🌧️ なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-07] Rainy Sunday Singing Stream 🌧️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wBEa6GESc?p=11",
   "source": "naraetan.js"
@@ -9744,7 +9744,7 @@ window.SONG_DATA.push(
     {
   "title": "君はロックを聴かない",
   "artist": "あいみょん",
-  "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-08] First vertical karaoke stream appearance! 👐🏻🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=1",
   "source": "naraetan.js"
@@ -9752,7 +9752,7 @@ window.SONG_DATA.push(
     {
   "title": "祝福",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-08] First vertical karaoke stream appearance! 👐🏻🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=2",
   "source": "naraetan.js"
@@ -9760,7 +9760,7 @@ window.SONG_DATA.push(
     {
   "title": "マイ フレンド",
   "artist": "ZARD",
-  "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-08] First vertical karaoke stream appearance! 👐🏻🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=3",
   "source": "naraetan.js"
@@ -9768,7 +9768,7 @@ window.SONG_DATA.push(
     {
   "title": "Habit",
   "artist": "SEKAI NO OWARI",
-  "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-08] First vertical karaoke stream appearance! 👐🏻🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=4",
   "source": "naraetan.js"
@@ -9776,7 +9776,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-08] First vertical karaoke stream appearance! 👐🏻🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=5",
   "source": "naraetan.js"
@@ -9784,7 +9784,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーバード",
   "artist": "いきものがかり",
-  "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-08] First vertical karaoke stream appearance! 👐🏻🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=6",
   "source": "naraetan.js"
@@ -9792,7 +9792,7 @@ window.SONG_DATA.push(
     {
   "title": "lulu.",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-08] First vertical karaoke stream appearance! 👐🏻🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=7",
   "source": "naraetan.js"
@@ -9800,7 +9800,7 @@ window.SONG_DATA.push(
     {
   "title": "Here",
   "artist": "JUNNA",
-  "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-08] First vertical karaoke stream appearance! 👐🏻🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=8",
   "source": "naraetan.js"
@@ -9808,7 +9808,7 @@ window.SONG_DATA.push(
     {
   "title": "JANE DOE",
   "artist": "米津玄師,宇多田ヒカル",
-  "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-08] First vertical karaoke stream appearance! 👐🏻🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=9",
   "source": "naraetan.js"
@@ -9816,7 +9816,7 @@ window.SONG_DATA.push(
     {
   "title": "オルフェンズの涙",
   "artist": "Misia",
-  "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-08] First vertical karaoke stream appearance! 👐🏻🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=10",
   "source": "naraetan.js"
@@ -9824,7 +9824,7 @@ window.SONG_DATA.push(
     {
   "title": "アイノカタチ",
   "artist": "MISIA",
-  "collection": "【歌切】[2026-06-08]首次竖屏歌回登场！👐🏻🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-08] First vertical karaoke stream appearance! 👐🏻🎤 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wFE36mEND?p=11",
   "source": "naraetan.js"
@@ -9832,7 +9832,7 @@ window.SONG_DATA.push(
     {
   "title": "LOSER",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-09] Cool June Singing Stream🎐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV151ED6JEen?p=1",
   "source": "naraetan.js"
@@ -9840,7 +9840,7 @@ window.SONG_DATA.push(
     {
   "title": "あんなに一緒だったのに",
   "artist": "See-Saw [TVアニメ 機動戦士ガンダムSEED]",
-  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-09] Cool June Singing Stream🎐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV151ED6JEen?p=2",
   "source": "naraetan.js"
@@ -9848,7 +9848,7 @@ window.SONG_DATA.push(
     {
   "title": "名前を呼ぶよ",
   "artist": "ラックライフ [TVアニメ 文豪ストレイドッグス]",
-  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-09] Cool June Singing Stream🎐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV151ED6JEen?p=3",
   "source": "naraetan.js"
@@ -9856,7 +9856,7 @@ window.SONG_DATA.push(
     {
   "title": "夏の幻",
   "artist": "GARNET CROW [TVアニメ 名探偵コナン]",
-  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-09] Cool June Singing Stream🎐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV151ED6JEen?p=4",
   "source": "naraetan.js"
@@ -9864,7 +9864,7 @@ window.SONG_DATA.push(
     {
   "title": "夏の在りか",
   "artist": "H△G",
-  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-09] Cool June Singing Stream🎐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV151ED6JEen?p=5",
   "source": "naraetan.js"
@@ -9872,7 +9872,7 @@ window.SONG_DATA.push(
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド [TVアニメ ダンダダン 第2期]",
-  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-09] Cool June Singing Stream🎐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV151ED6JEen?p=6",
   "source": "naraetan.js"
@@ -9880,7 +9880,7 @@ window.SONG_DATA.push(
     {
   "title": "シャボン玉",
   "artist": "モーニング娘。",
-  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-09] Cool June Singing Stream🎐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV151ED6JEen?p=7",
   "source": "naraetan.js"
@@ -9888,7 +9888,7 @@ window.SONG_DATA.push(
     {
   "title": "怪物",
   "artist": "YOASOBI [TVアニメ BEASTARS]",
-  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-09] Cool June Singing Stream🎐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV151ED6JEen?p=8",
   "source": "naraetan.js"
@@ -9896,7 +9896,7 @@ window.SONG_DATA.push(
     {
   "title": "不完全燃焼",
   "artist": "石川智晶 [TVアニメ 神様ドォルズ]",
-  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-09] Cool June Singing Stream🎐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV151ED6JEen?p=9",
   "source": "naraetan.js"
@@ -9904,7 +9904,7 @@ window.SONG_DATA.push(
     {
   "title": "プレイバックPart2",
   "artist": "山口百恵",
-  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-09] Cool June Singing Stream🎐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV151ED6JEen?p=10",
   "source": "naraetan.js"
@@ -9912,7 +9912,7 @@ window.SONG_DATA.push(
     {
   "title": "Catch the Moment",
   "artist": "LiSA [映画 ソードアート・オンライン -オーディナル・スケール-]",
-  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-09] Cool June Singing Stream🎐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV151ED6JEen?p=11",
   "source": "naraetan.js"
@@ -9920,7 +9920,7 @@ window.SONG_DATA.push(
     {
   "title": "甲賀忍法帖",
   "artist": "陰陽座 [TVアニメ バジリスク 〜甲賀忍法帖〜]",
-  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-09] Cool June Singing Stream🎐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV151ED6JEen?p=12",
   "source": "naraetan.js"
@@ -9928,7 +9928,7 @@ window.SONG_DATA.push(
     {
   "title": "君をのせて",
   "artist": "井上あずみ [映画 天空の城ラピュタ]",
-  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-09] Cool June Singing Stream🎐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV151ED6JEen?p=13",
   "source": "naraetan.js"
@@ -9936,7 +9936,7 @@ window.SONG_DATA.push(
     {
   "title": "ダイアモンドクレバス",
   "artist": "シェリル・ノーム starring May'n [TVアニメ マクロスF]",
-  "collection": "【歌切】[2026-06-09]凉爽的六月歌回🎐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-09] Cool June Singing Stream🎐 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV151ED6JEen?p=14",
   "source": "naraetan.js"
@@ -9944,7 +9944,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-06-11] Pouring Heart into the Song! 🩷 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=1",
   "source": "naraetan.js"
@@ -9952,7 +9952,7 @@ window.SONG_DATA.push(
     {
   "title": "サムライハート(Some Like It Hot!!)",
   "artist": "SPYAIR",
-  "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-06-11] Pouring Heart into the Song! 🩷 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=2",
   "source": "naraetan.js"
@@ -9960,7 +9960,7 @@ window.SONG_DATA.push(
     {
   "title": "Growing of my heart",
   "artist": "倉木麻衣",
-  "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-06-11] Pouring Heart into the Song! 🩷 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=3",
   "source": "naraetan.js"
@@ -9968,7 +9968,7 @@ window.SONG_DATA.push(
     {
   "title": "スカイクラッドの観測者",
   "artist": "いとうかなこ",
-  "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-06-11] Pouring Heart into the Song! 🩷 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=4",
   "source": "naraetan.js"
@@ -9976,7 +9976,7 @@ window.SONG_DATA.push(
     {
   "title": "勇侠青春謳",
   "artist": "ALI PROJECT",
-  "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-06-11] Pouring Heart into the Song! 🩷 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=5",
   "source": "naraetan.js"
@@ -9984,7 +9984,7 @@ window.SONG_DATA.push(
     {
   "title": "異邦人",
   "artist": "久保田早紀",
-  "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-06-11] Pouring Heart into the Song! 🩷 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=6",
   "source": "naraetan.js"
@@ -9992,7 +9992,7 @@ window.SONG_DATA.push(
     {
   "title": "フライディ・チャイナタウン",
   "artist": "泰葉",
-  "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-06-11] Pouring Heart into the Song! 🩷 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=7",
   "source": "naraetan.js"
@@ -10000,7 +10000,7 @@ window.SONG_DATA.push(
     {
   "title": "夢を過ぎても",
   "artist": "有坂美香 [TVアニメ 無限のリヴァイアス]",
-  "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-06-11] Pouring Heart into the Song! 🩷 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=8",
   "source": "naraetan.js"
@@ -10008,7 +10008,7 @@ window.SONG_DATA.push(
     {
   "title": "秒針を噛む",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-06-11] Pouring Heart into the Song! 🩷 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=9",
   "source": "naraetan.js"
@@ -10016,7 +10016,7 @@ window.SONG_DATA.push(
     {
   "title": "uni-verse",
   "artist": "オーイシマサヨシ [映画 グリッドマン ユニバース]",
-  "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-06-11] Pouring Heart into the Song! 🩷 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=10",
   "source": "naraetan.js"
@@ -10024,7 +10024,7 @@ window.SONG_DATA.push(
     {
   "title": "トリセツ",
   "artist": "西野カナ",
-  "collection": "【歌切】[2026-06-11]将心意融入歌声！ 🩷 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-06-11] Pouring Heart into the Song! 🩷 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PDE66KEFx?p=11",
   "source": "naraetan.js"
@@ -10032,7 +10032,7 @@ window.SONG_DATA.push(
     {
   "title": "青い栞",
   "artist": "Galileo Galilei [TVアニメ あの日見た花の名前を僕達はまだ知らない。]",
-  "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-06-16] Karaoke Time⭐️ Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=1",
   "source": "naraetan.js"
@@ -10040,7 +10040,7 @@ window.SONG_DATA.push(
     {
   "title": "青のすみか",
   "artist": "キタニタツヤ [TVアニメ 呪術廻戦 懐玉・玉折]",
-  "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-06-16] Karaoke Time⭐️ Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=2",
   "source": "naraetan.js"
@@ -10048,7 +10048,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ君に晴れ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-06-16] Karaoke Time⭐️ Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=3",
   "source": "naraetan.js"
@@ -10056,7 +10056,7 @@ window.SONG_DATA.push(
     {
   "title": "JUST COMMUNICATION",
   "artist": "TWO-MIX [TVアニメ 新機動戦記ガンダムW]",
-  "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-06-16] Karaoke Time⭐️ Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=4",
   "source": "naraetan.js"
@@ -10064,7 +10064,7 @@ window.SONG_DATA.push(
     {
   "title": "月並みに輝け",
   "artist": "結束バンド [映画 劇場総集編ぼっち・ざ・ろっく！Re:]",
-  "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-06-16] Karaoke Time⭐️ Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=5",
   "source": "naraetan.js"
@@ -10072,7 +10072,7 @@ window.SONG_DATA.push(
     {
   "title": "キミがいれば",
   "artist": "伊織 [TVアニメ 名探偵コナン]",
-  "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-06-16] Karaoke Time⭐️ Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=6",
   "source": "naraetan.js"
@@ -10080,7 +10080,7 @@ window.SONG_DATA.push(
     {
   "title": "きみの名前",
   "artist": "藤川千愛 [TVアニメ 盾の勇者の成り上がり]",
-  "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-06-16] Karaoke Time⭐️ Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=7",
   "source": "naraetan.js"
@@ -10088,7 +10088,7 @@ window.SONG_DATA.push(
     {
   "title": "魂のルフラン",
   "artist": "高橋洋子 [映画 新世紀エヴァンゲリオン劇場版 シト新生]",
-  "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-06-16] Karaoke Time⭐️ Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=8",
   "source": "naraetan.js"
@@ -10096,7 +10096,7 @@ window.SONG_DATA.push(
     {
   "title": "カワキヲアメク",
   "artist": "美波 [TVアニメ ドメスティックな彼女]",
-  "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-06-16] Karaoke Time⭐️ Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=9",
   "source": "naraetan.js"
@@ -10104,7 +10104,7 @@ window.SONG_DATA.push(
     {
   "title": "DISCOTHEQUE",
   "artist": "水樹奈々 [TVアニメ ロザリオとバンパイア CAPU2]",
-  "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-06-16] Karaoke Time⭐️ Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=10",
   "source": "naraetan.js"
@@ -10112,7 +10112,7 @@ window.SONG_DATA.push(
     {
   "title": "Mela!",
   "artist": "緑黄色社会",
-  "collection": "【歌切】[2026-06-16]卡拉OK时间⭐️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-06-16] Karaoke Time⭐️ Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14qj56wEjW?p=11",
   "source": "naraetan.js"
@@ -10120,7 +10120,7 @@ window.SONG_DATA.push(
     {
   "title": "ウィーアー!",
   "artist": "きただにひろし [TVアニメ ONE PIECE]",
-  "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-18] Anime-limited Song Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=1",
   "source": "naraetan.js"
@@ -10128,7 +10128,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE [TVアニメ 忘却バッテリー]",
-  "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-18] Anime-limited Song Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=2",
   "source": "naraetan.js"
@@ -10136,7 +10136,7 @@ window.SONG_DATA.push(
     {
   "title": "冒険でしょでしょ？",
   "artist": "平野綾 [TVアニメ 涼宮ハルヒの憂鬱]",
-  "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-18] Anime-limited Song Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=3",
   "source": "naraetan.js"
@@ -10144,7 +10144,7 @@ window.SONG_DATA.push(
     {
   "title": "Unnamed world",
   "artist": "平野綾 [TVアニメ 二十面相の娘]",
-  "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-18] Anime-limited Song Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=4",
   "source": "naraetan.js"
@@ -10152,7 +10152,7 @@ window.SONG_DATA.push(
     {
   "title": "Northern lights",
   "artist": "林原めぐみ [TVアニメ シャーマンキング]",
-  "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-18] Anime-limited Song Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=5",
   "source": "naraetan.js"
@@ -10160,7 +10160,7 @@ window.SONG_DATA.push(
     {
   "title": "Q&A リサイタル！",
   "artist": "戸松遥 [TVアニメ となりの怪物くん]",
-  "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-18] Anime-limited Song Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=6",
   "source": "naraetan.js"
@@ -10168,7 +10168,7 @@ window.SONG_DATA.push(
     {
   "title": "Link",
   "artist": "L'Arc〜en〜Ciel [映画 鋼の錬金術師 シャンバラを征く者]",
-  "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-18] Anime-limited Song Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=7",
   "source": "naraetan.js"
@@ -10176,7 +10176,7 @@ window.SONG_DATA.push(
     {
   "title": "あなただけ見つめてる",
   "artist": "大黒摩季 [TVアニメ SLAM DUNK]",
-  "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-18] Anime-limited Song Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=8",
   "source": "naraetan.js"
@@ -10184,7 +10184,7 @@ window.SONG_DATA.push(
     {
   "title": "Synchrogazer",
   "artist": "水樹奈々 [TVアニメ 戦姫絶唱シンフォギア]",
-  "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-18] Anime-limited Song Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=9",
   "source": "naraetan.js"
@@ -10192,7 +10192,7 @@ window.SONG_DATA.push(
     {
   "title": "翼",
   "artist": "藍井エイル [TVアニメ アルスラーン戦記 風塵乱舞]",
-  "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-18] Anime-limited Song Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=10",
   "source": "naraetan.js"
@@ -10200,7 +10200,7 @@ window.SONG_DATA.push(
     {
   "title": "紅蓮華",
   "artist": "LiSA [TVアニメ 鬼滅の刃]",
-  "collection": "【歌切】[2026-06-18]动漫限定歌回🫧 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-18] Anime-limited Song Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyj66pEED?p=11",
   "source": "naraetan.js"
@@ -10208,7 +10208,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-22] Make Monday Happy 🫐 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=1",
   "source": "naraetan.js"
@@ -10216,7 +10216,7 @@ window.SONG_DATA.push(
     {
   "title": "赤いスイートピー",
   "artist": "松田聖子",
-  "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-22] Make Monday Happy 🫐 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=2",
   "source": "naraetan.js"
@@ -10224,7 +10224,7 @@ window.SONG_DATA.push(
     {
   "title": "カクテル",
   "artist": "Hysteric Blue",
-  "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-22] Make Monday Happy 🫐 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=3",
   "source": "naraetan.js"
@@ -10232,7 +10232,7 @@ window.SONG_DATA.push(
     {
   "title": "少女レイ",
   "artist": "みきとP feat. 初音ミク",
-  "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-22] Make Monday Happy 🫐 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=4",
   "source": "naraetan.js"
@@ -10240,7 +10240,7 @@ window.SONG_DATA.push(
     {
   "title": "so much love for you",
   "artist": "KOKIA",
-  "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-22] Make Monday Happy 🫐 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=5",
   "source": "naraetan.js"
@@ -10248,7 +10248,7 @@ window.SONG_DATA.push(
     {
   "title": "ツギハギスタッカート",
   "artist": "とあ feat. 初音ミク",
-  "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-22] Make Monday Happy 🫐 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=6",
   "source": "naraetan.js"
@@ -10256,7 +10256,7 @@ window.SONG_DATA.push(
     {
   "title": "Drowning",
   "artist": "WOODZ",
-  "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-22] Make Monday Happy 🫐 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=7",
   "source": "naraetan.js"
@@ -10264,7 +10264,7 @@ window.SONG_DATA.push(
     {
   "title": "リナリア",
   "artist": "まるりとりゅうが",
-  "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-22] Make Monday Happy 🫐 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=8",
   "source": "naraetan.js"
@@ -10272,7 +10272,7 @@ window.SONG_DATA.push(
     {
   "title": "小さな恋のうた",
   "artist": "MONGOL800",
-  "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-22] Make Monday Happy 🫐 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=9",
   "source": "naraetan.js"
@@ -10280,7 +10280,7 @@ window.SONG_DATA.push(
     {
   "title": "幾億光年",
   "artist": "Omoinotake",
-  "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-22] Make Monday Happy 🫐 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=10",
   "source": "naraetan.js"
@@ -10288,7 +10288,7 @@ window.SONG_DATA.push(
     {
   "title": "赤い罠(who loves it?)",
   "artist": "LiSA",
-  "collection": "【歌切】[2026-06-22]让星期一变得开心起来🫐 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-22] Make Monday Happy 🫐 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Fkj96wERA?p=11",
   "source": "naraetan.js"
@@ -10296,7 +10296,7 @@ window.SONG_DATA.push(
     {
   "title": "夢をかなえてドラえもん",
   "artist": "mao",
-  "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-23] Onion Sugar is back 🧅🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=1",
   "source": "naraetan.js"
@@ -10304,7 +10304,7 @@ window.SONG_DATA.push(
     {
   "title": "翼をください",
   "artist": "桜高軽音部",
-  "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-23] Onion Sugar is back 🧅🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=2",
   "source": "naraetan.js"
@@ -10312,7 +10312,7 @@ window.SONG_DATA.push(
     {
   "title": "青と夏",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-23] Onion Sugar is back 🧅🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=3",
   "source": "naraetan.js"
@@ -10320,7 +10320,7 @@ window.SONG_DATA.push(
     {
   "title": "桃ノ花ビラ",
   "artist": "大塚愛",
-  "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-23] Onion Sugar is back 🧅🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=4",
   "source": "naraetan.js"
@@ -10328,7 +10328,7 @@ window.SONG_DATA.push(
     {
   "title": "ありがとう",
   "artist": "SunSet Swish",
-  "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-23] Onion Sugar is back 🧅🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=5",
   "source": "naraetan.js"
@@ -10336,7 +10336,7 @@ window.SONG_DATA.push(
     {
   "title": "LET IT OUT",
   "artist": "福原美穂",
-  "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-23] Onion Sugar is back 🧅🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=6",
   "source": "naraetan.js"
@@ -10344,7 +10344,7 @@ window.SONG_DATA.push(
     {
   "title": "secret base ～君がくれたもの～",
   "artist": "ZONE",
-  "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-23] Onion Sugar is back 🧅🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=7",
   "source": "naraetan.js"
@@ -10352,7 +10352,7 @@ window.SONG_DATA.push(
     {
   "title": "星合",
   "artist": "all at once",
-  "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-23] Onion Sugar is back 🧅🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=8",
   "source": "naraetan.js"
@@ -10360,7 +10360,7 @@ window.SONG_DATA.push(
     {
   "title": "アイのシナリオ",
   "artist": "CHiCO with HoneyWorks",
-  "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-23] Onion Sugar is back 🧅🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=9",
   "source": "naraetan.js"
@@ -10368,7 +10368,7 @@ window.SONG_DATA.push(
     {
   "title": "はなまるぴっぴはよいこだけ",
   "artist": "A応P",
-  "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-23] Onion Sugar is back 🧅🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=10",
   "source": "naraetan.js"
@@ -10376,7 +10376,7 @@ window.SONG_DATA.push(
     {
   "title": "好きすぎて滅！",
   "artist": "M!LK",
-  "collection": "【歌切】[2026-06-23]洋葱糖回来啦🧅🎤 なれたん Naraetan Ch.",
+  "collection": "[Song Cut] [2026-06-23] Onion Sugar is back 🧅🎤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1U1jX6gEby?p=11",
   "source": "naraetan.js"
@@ -10384,7 +10384,7 @@ window.SONG_DATA.push(
     {
   "title": "ミックスナッツ",
   "artist": "Official髭男dism [TVアニメ SPY×FAMILY]",
-  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "collection": "【Singing Clip】[2026-06-24] The Last Singing Stream Before Moving🛸 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=1",
   "source": "naraetan.js"
@@ -10392,7 +10392,7 @@ window.SONG_DATA.push(
     {
   "title": "ピースサイン",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "collection": "【Singing Clip】[2026-06-24] The Last Singing Stream Before Moving🛸 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=2",
   "source": "naraetan.js"
@@ -10400,7 +10400,7 @@ window.SONG_DATA.push(
     {
   "title": "蒼のエーテル",
   "artist": "ランカ・リー＝中島愛 [マクロスF]",
-  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "collection": "【Singing Clip】[2026-06-24] The Last Singing Stream Before Moving🛸 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=3",
   "source": "naraetan.js"
@@ -10408,7 +10408,7 @@ window.SONG_DATA.push(
     {
   "title": "耳の聞こえなくなった恋人とそのうたうたい",
   "artist": "大石昌良",
-  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "collection": "【Singing Clip】[2026-06-24] The Last Singing Stream Before Moving🛸 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=4",
   "source": "naraetan.js"
@@ -10416,7 +10416,7 @@ window.SONG_DATA.push(
     {
   "title": "Sweet Dreams, My Dear",
   "artist": "LOST ARK & Sohyang [ゲーム LOST ARK]",
-  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "collection": "【Singing Clip】[2026-06-24] The Last Singing Stream Before Moving🛸 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=5",
   "source": "naraetan.js"
@@ -10424,7 +10424,7 @@ window.SONG_DATA.push(
     {
   "title": "COLORS",
   "artist": "FLOW [TVアニメ コードギアス 反逆のルルーシュ]",
-  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "collection": "【Singing Clip】[2026-06-24] The Last Singing Stream Before Moving🛸 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=6",
   "source": "naraetan.js"
@@ -10432,7 +10432,7 @@ window.SONG_DATA.push(
     {
   "title": "グロウアップ",
   "artist": "Hysteric Blue [TVアニメ 学校の怪談]",
-  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "collection": "【Singing Clip】[2026-06-24] The Last Singing Stream Before Moving🛸 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=7",
   "source": "naraetan.js"
@@ -10440,7 +10440,7 @@ window.SONG_DATA.push(
     {
   "title": "全力バタンキュー",
   "artist": "A応P [TVアニメ おそ松さん]",
-  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "collection": "【Singing Clip】[2026-06-24] The Last Singing Stream Before Moving🛸 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=8",
   "source": "naraetan.js"
@@ -10448,7 +10448,7 @@ window.SONG_DATA.push(
     {
   "title": "天使のウィンク",
   "artist": "松田聖子",
-  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "collection": "【Singing Clip】[2026-06-24] The Last Singing Stream Before Moving🛸 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=9",
   "source": "naraetan.js"
@@ -10456,7 +10456,7 @@ window.SONG_DATA.push(
     {
   "title": "娘々スペシャルサービスメドレー（特盛り）",
   "artist": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛 [マクロスF]",
-  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "collection": "【Singing Clip】[2026-06-24] The Last Singing Stream Before Moving🛸 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=10",
   "source": "naraetan.js"
@@ -10464,7 +10464,7 @@ window.SONG_DATA.push(
     {
   "title": "Snow halation",
   "artist": "μ's [ラブライブ! School idol project]",
-  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "collection": "【Singing Clip】[2026-06-24] The Last Singing Stream Before Moving🛸 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=11",
   "source": "naraetan.js"
@@ -10472,7 +10472,7 @@ window.SONG_DATA.push(
     {
   "title": "ひぐらしのなく頃に",
   "artist": "島みやえい子 [TVアニメ ひぐらしのなく頃に]",
-  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "collection": "【Singing Clip】[2026-06-24] The Last Singing Stream Before Moving🛸 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=12",
   "source": "naraetan.js"
@@ -10480,7 +10480,7 @@ window.SONG_DATA.push(
     {
   "title": "TOMORROW",
   "artist": "岡本真夜 [ドラマ セカンド・チャンス]",
-  "collection": "【歌切】[2026-06-24]搬家前最后的歌回🛸 なれたん Naraetan Ch.",
+  "collection": "【Singing Clip】[2026-06-24] The Last Singing Stream Before Moving🛸 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cf7i6nESi?p=13",
   "source": "naraetan.js"
@@ -10488,7 +10488,7 @@ window.SONG_DATA.push(
     {
   "title": "マリーゴールド",
   "artist": "あいみょん",
-  "collection": "【歌切】[2026-07-03]七月的首次歌回🚤 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-03] July's first singing stream 🚤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w6Mw6AEX6?p=1",
   "source": "naraetan.js"
@@ -10496,7 +10496,7 @@ window.SONG_DATA.push(
     {
   "title": "夢の中へ",
   "artist": "井上陽水",
-  "collection": "【歌切】[2026-07-03]七月的首次歌回🚤 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-03] July's first singing stream 🚤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w6Mw6AEX6?p=2",
   "source": "naraetan.js"
@@ -10504,7 +10504,7 @@ window.SONG_DATA.push(
     {
   "title": "世界中の誰よりきっと",
   "artist": "中山美穂 & WANDS",
-  "collection": "【歌切】[2026-07-03]七月的首次歌回🚤 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-03] July's first singing stream 🚤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w6Mw6AEX6?p=3",
   "source": "naraetan.js"
@@ -10512,7 +10512,7 @@ window.SONG_DATA.push(
     {
   "title": "遠いこの街で",
   "artist": "皆谷尚美",
-  "collection": "【歌切】[2026-07-03]七月的首次歌回🚤 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-03] July's first singing stream 🚤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w6Mw6AEX6?p=4",
   "source": "naraetan.js"
@@ -10520,7 +10520,7 @@ window.SONG_DATA.push(
     {
   "title": "ありがとう",
   "artist": "木之本桜(丹下桜)",
-  "collection": "【歌切】[2026-07-03]七月的首次歌回🚤 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-03] July's first singing stream 🚤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w6Mw6AEX6?p=5",
   "source": "naraetan.js"
@@ -10528,7 +10528,7 @@ window.SONG_DATA.push(
     {
   "title": "First Love",
   "artist": "宇多田ヒカル",
-  "collection": "【歌切】[2026-07-03]七月的首次歌回🚤 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-03] July's first singing stream 🚤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w6Mw6AEX6?p=6",
   "source": "naraetan.js"
@@ -10536,7 +10536,7 @@ window.SONG_DATA.push(
     {
   "title": "猫",
   "artist": "DISH//",
-  "collection": "【歌切】[2026-07-03]七月的首次歌回🚤 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-03] July's first singing stream 🚤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w6Mw6AEX6?p=7",
   "source": "naraetan.js"
@@ -10544,7 +10544,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒャダインのカカカタ☆カタオモイ-C",
   "artist": "ヒャダイン",
-  "collection": "【歌切】[2026-07-03]七月的首次歌回🚤 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-03] July's first singing stream 🚤 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w6Mw6AEX6?p=8",
   "source": "naraetan.js"
@@ -10552,7 +10552,7 @@ window.SONG_DATA.push(
     {
   "title": "恋",
   "artist": "星野源",
-  "collection": "【歌切】[2026-07-07]哪怕只有一点点也想唱歌🤍",
+  "collection": "【Song Clip】[2026-07-07] Even if it's just a little bit, I want to sing 🖤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BpMv6XECU?p=1",
   "source": "naraetan.js"
@@ -10560,7 +10560,7 @@ window.SONG_DATA.push(
     {
   "title": "オリオンをなぞる",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "【歌切】[2026-07-07]哪怕只有一点点也想唱歌🤍",
+  "collection": "【Song Clip】[2026-07-07] Even if it's just a little bit, I want to sing 🖤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BpMv6XECU?p=2",
   "source": "naraetan.js"
@@ -10568,7 +10568,7 @@ window.SONG_DATA.push(
     {
   "title": "集まって星座になれたら",
   "artist": "結束バンド",
-  "collection": "【歌切】[2026-07-07]哪怕只有一点点也想唱歌🤍",
+  "collection": "【Song Clip】[2026-07-07] Even if it's just a little bit, I want to sing 🖤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BpMv6XECU?p=3",
   "source": "naraetan.js"
@@ -10576,7 +10576,7 @@ window.SONG_DATA.push(
     {
   "title": "ベテルギウス",
   "artist": "優里",
-  "collection": "【歌切】[2026-07-07]哪怕只有一点点也想唱歌🤍",
+  "collection": "【Song Clip】[2026-07-07] Even if it's just a little bit, I want to sing 🖤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BpMv6XECU?p=4",
   "source": "naraetan.js"
@@ -10584,7 +10584,7 @@ window.SONG_DATA.push(
     {
   "title": "LAST STARDUST",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-07-07]哪怕只有一点点也想唱歌🤍",
+  "collection": "【Song Clip】[2026-07-07] Even if it's just a little bit, I want to sing 🖤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BpMv6XECU?p=5",
   "source": "naraetan.js"
@@ -10592,7 +10592,7 @@ window.SONG_DATA.push(
     {
   "title": "Stellar Stellar",
   "artist": "星街すいせい",
-  "collection": "【歌切】[2026-07-07]哪怕只有一点点也想唱歌🤍",
+  "collection": "【Song Clip】[2026-07-07] Even if it's just a little bit, I want to sing 🖤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BpMv6XECU?p=6",
   "source": "naraetan.js"
@@ -10600,7 +10600,7 @@ window.SONG_DATA.push(
     {
   "title": "星になる",
   "artist": "Islet feat. 倚水",
-  "collection": "【歌切】[2026-07-07]哪怕只有一点点也想唱歌🤍",
+  "collection": "【Song Clip】[2026-07-07] Even if it's just a little bit, I want to sing 🖤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BpMv6XECU?p=7",
   "source": "naraetan.js"
@@ -10608,7 +10608,7 @@ window.SONG_DATA.push(
     {
   "title": "プラネタリウム",
   "artist": "大塚愛",
-  "collection": "【歌切】[2026-07-07]哪怕只有一点点也想唱歌🤍",
+  "collection": "【Song Clip】[2026-07-07] Even if it's just a little bit, I want to sing 🖤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BpMv6XECU?p=8",
   "source": "naraetan.js"
@@ -10616,7 +10616,7 @@ window.SONG_DATA.push(
     {
   "title": "鬼ノ宴",
   "artist": "友成空",
-  "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-14] Naraetan's Return Karaoke Stream 🌈 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=1",
   "source": "naraetan.js"
@@ -10624,7 +10624,7 @@ window.SONG_DATA.push(
     {
   "title": "courage",
   "artist": "戸松遥",
-  "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-14] Naraetan's Return Karaoke Stream 🌈 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=2",
   "source": "naraetan.js"
@@ -10632,7 +10632,7 @@ window.SONG_DATA.push(
     {
   "title": "departure!",
   "artist": "小野正利",
-  "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-14] Naraetan's Return Karaoke Stream 🌈 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=3",
   "source": "naraetan.js"
@@ -10640,7 +10640,7 @@ window.SONG_DATA.push(
     {
   "title": "HOT LIMIT",
   "artist": "T.M.Revolution",
-  "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-14] Naraetan's Return Karaoke Stream 🌈 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=4",
   "source": "naraetan.js"
@@ -10648,7 +10648,7 @@ window.SONG_DATA.push(
     {
   "title": "月並みに輝け",
   "artist": "結束バンド",
-  "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-14] Naraetan's Return Karaoke Stream 🌈 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=5",
   "source": "naraetan.js"
@@ -10656,7 +10656,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-14] Naraetan's Return Karaoke Stream 🌈 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=6",
   "source": "naraetan.js"
@@ -10664,7 +10664,7 @@ window.SONG_DATA.push(
     {
   "title": "crossing field",
   "artist": "LiSA",
-  "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-14] Naraetan's Return Karaoke Stream 🌈 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=7",
   "source": "naraetan.js"
@@ -10672,7 +10672,7 @@ window.SONG_DATA.push(
     {
   "title": "ハナノイロ",
   "artist": "nano.RIPE",
-  "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-14] Naraetan's Return Karaoke Stream 🌈 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=8",
   "source": "naraetan.js"
@@ -10680,7 +10680,7 @@ window.SONG_DATA.push(
     {
   "title": "アイドル",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-14] Naraetan's Return Karaoke Stream 🌈 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=9",
   "source": "naraetan.js"
@@ -10688,7 +10688,7 @@ window.SONG_DATA.push(
     {
   "title": "Pretender",
   "artist": "Official髭男dism",
-  "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-14] Naraetan's Return Karaoke Stream 🌈 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=10",
   "source": "naraetan.js"
@@ -10696,7 +10696,7 @@ window.SONG_DATA.push(
     {
   "title": "愛♡スクリ～ム！",
   "artist": "AiScReam",
-  "collection": "【歌切】[2026-07-14]Naraetan回归歌回 🌈 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-14] Naraetan's Return Karaoke Stream 🌈 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEfd?p=11",
   "source": "naraetan.js"
@@ -10704,7 +10704,7 @@ window.SONG_DATA.push(
     {
   "title": "夏色",
   "artist": "ゆず",
-  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-16] Let's sing summer songs together🐬 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=1",
   "source": "naraetan.js"
@@ -10712,7 +10712,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーウォーター",
   "artist": "森川美穂",
-  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-16] Let's sing summer songs together🐬 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=2",
   "source": "naraetan.js"
@@ -10720,7 +10720,7 @@ window.SONG_DATA.push(
     {
   "title": "夏の在りか",
   "artist": "H△G",
-  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-16] Let's sing summer songs together🐬 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=3",
   "source": "naraetan.js"
@@ -10728,7 +10728,7 @@ window.SONG_DATA.push(
     {
   "title": "青と夏",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-16] Let's sing summer songs together🐬 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=4",
   "source": "naraetan.js"
@@ -10736,7 +10736,7 @@ window.SONG_DATA.push(
     {
   "title": "サウダージ",
   "artist": "ポルノグラフィティ",
-  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-16] Let's sing summer songs together🐬 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=5",
   "source": "naraetan.js"
@@ -10744,7 +10744,7 @@ window.SONG_DATA.push(
     {
   "title": "夏の幻",
   "artist": "GARNET CROW",
-  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-16] Let's sing summer songs together🐬 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=6",
   "source": "naraetan.js"
@@ -10752,7 +10752,7 @@ window.SONG_DATA.push(
     {
   "title": "夏祭り",
   "artist": "Whiteberry",
-  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-16] Let's sing summer songs together🐬 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=7",
   "source": "naraetan.js"
@@ -10760,7 +10760,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-16] Let's sing summer songs together🐬 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=8",
   "source": "naraetan.js"
@@ -10768,7 +10768,7 @@ window.SONG_DATA.push(
     {
   "title": "前前前世",
   "artist": "RADWIMPS",
-  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-16] Let's sing summer songs together🐬 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=9",
   "source": "naraetan.js"
@@ -10776,7 +10776,7 @@ window.SONG_DATA.push(
     {
   "title": "you",
   "artist": "癒月",
-  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-16] Let's sing summer songs together🐬 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=10",
   "source": "naraetan.js"
@@ -10784,7 +10784,7 @@ window.SONG_DATA.push(
     {
   "title": "夏影",
   "artist": "Lia",
-  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-16] Let's sing summer songs together🐬 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=11",
   "source": "naraetan.js"
@@ -10792,7 +10792,7 @@ window.SONG_DATA.push(
     {
   "title": "オリオンをなぞる",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-16] Let's sing summer songs together🐬 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=12",
   "source": "naraetan.js"
@@ -10800,7 +10800,7 @@ window.SONG_DATA.push(
     {
   "title": "時を刻む唄",
   "artist": "Lia",
-  "collection": "【歌切】[2026-07-16]一起来唱夏天的歌吧🐬 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-16] Let's sing summer songs together🐬 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ybNo67EdN?p=13",
   "source": "naraetan.js"
@@ -10808,7 +10808,7 @@ window.SONG_DATA.push(
     {
   "title": "Zzz",
   "artist": "佐咲紗花",
-  "collection": "【歌切】[2026-07-18]星期六深夜歌回🫧 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-18] Saturday Late Night Singing Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEX8?p=1",
   "source": "naraetan.js"
@@ -10816,7 +10816,7 @@ window.SONG_DATA.push(
     {
   "title": "fragile",
   "artist": "Every Little Thing",
-  "collection": "【歌切】[2026-07-18]星期六深夜歌回🫧 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-18] Saturday Late Night Singing Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEX8?p=2",
   "source": "naraetan.js"
@@ -10824,7 +10824,7 @@ window.SONG_DATA.push(
     {
   "title": "たぶん",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-07-18]星期六深夜歌回🫧 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-18] Saturday Late Night Singing Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEX8?p=3",
   "source": "naraetan.js"
@@ -10832,7 +10832,7 @@ window.SONG_DATA.push(
     {
   "title": "LOVE LETTER",
   "artist": "槇原敬之",
-  "collection": "【歌切】[2026-07-18]星期六深夜歌回🫧 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-18] Saturday Late Night Singing Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEX8?p=4",
   "source": "naraetan.js"
@@ -10840,7 +10840,7 @@ window.SONG_DATA.push(
     {
   "title": "プラチナ",
   "artist": "坂本真綾",
-  "collection": "【歌切】[2026-07-18]星期六深夜歌回🫧 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-18] Saturday Late Night Singing Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEX8?p=5",
   "source": "naraetan.js"
@@ -10848,7 +10848,7 @@ window.SONG_DATA.push(
     {
   "title": "うたかた花火",
   "artist": "supercell",
-  "collection": "【歌切】[2026-07-18]星期六深夜歌回🫧 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-18] Saturday Late Night Singing Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEX8?p=6",
   "source": "naraetan.js"
@@ -10856,7 +10856,7 @@ window.SONG_DATA.push(
     {
   "title": "Dear you Cry",
   "artist": "癒月",
-  "collection": "【歌切】[2026-07-18]星期六深夜歌回🫧 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-18] Saturday Late Night Singing Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEX8?p=7",
   "source": "naraetan.js"
@@ -10864,7 +10864,7 @@ window.SONG_DATA.push(
     {
   "title": "フィナーレ。",
   "artist": "eill",
-  "collection": "【歌切】[2026-07-18]星期六深夜歌回🫧 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-18] Saturday Late Night Singing Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEX8?p=8",
   "source": "naraetan.js"
@@ -10872,7 +10872,7 @@ window.SONG_DATA.push(
     {
   "title": "瞳をとじて",
   "artist": "平井堅",
-  "collection": "【歌切】[2026-07-18]星期六深夜歌回🫧 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-18] Saturday Late Night Singing Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEX8?p=9",
   "source": "naraetan.js"
@@ -10880,7 +10880,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "【歌切】[2026-07-18]星期六深夜歌回🫧 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-18] Saturday Late Night Singing Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEX8?p=10",
   "source": "naraetan.js"
@@ -10888,7 +10888,7 @@ window.SONG_DATA.push(
     {
   "title": "光の方へ",
   "artist": "KOKIA",
-  "collection": "【歌切】[2026-07-18]星期六深夜歌回🫧 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-18] Saturday Late Night Singing Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEX8?p=11",
   "source": "naraetan.js"
@@ -10896,7 +10896,7 @@ window.SONG_DATA.push(
     {
   "title": "本当の音",
   "artist": "KOKIA",
-  "collection": "【歌切】[2026-07-18]星期六深夜歌回🫧 なれたん Naraetan Ch.",
+  "collection": "【Song Clip】[2026-07-18] Saturday Late Night Singing Stream 🫧 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEX8?p=12",
   "source": "naraetan.js"
@@ -10904,7 +10904,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピーシンセサイザ",
   "artist": "EasyPop feat.巡音ルカ・GUMI",
-  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "collection": "【Singing Cut】[2026-07-21] Home 3D Cute Singing Stream 🦩 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=1",
   "source": "naraetan.js"
@@ -10912,7 +10912,7 @@ window.SONG_DATA.push(
     {
   "title": "ドレミファロンド",
   "artist": "40mP feat.初音ミク",
-  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "collection": "【Singing Cut】[2026-07-21] Home 3D Cute Singing Stream 🦩 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=2",
   "source": "naraetan.js"
@@ -10920,7 +10920,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒトリゴト",
   "artist": "ClariS",
-  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "collection": "【Singing Cut】[2026-07-21] Home 3D Cute Singing Stream 🦩 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=3",
   "source": "naraetan.js"
@@ -10928,7 +10928,7 @@ window.SONG_DATA.push(
     {
   "title": "可愛くなりたい",
   "artist": "HoneyWorks feat.成海聖奈(CV:雨宮天)",
-  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "collection": "【Singing Cut】[2026-07-21] Home 3D Cute Singing Stream 🦩 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=4",
   "source": "naraetan.js"
@@ -10936,7 +10936,7 @@ window.SONG_DATA.push(
     {
   "title": "白金ディスコ",
   "artist": "阿良々木月火(井口裕香)",
-  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "collection": "【Singing Cut】[2026-07-21] Home 3D Cute Singing Stream 🦩 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=5",
   "source": "naraetan.js"
@@ -10944,7 +10944,7 @@ window.SONG_DATA.push(
     {
   "title": "PEACH",
   "artist": "大塚愛",
-  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "collection": "【Singing Cut】[2026-07-21] Home 3D Cute Singing Stream 🦩 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=6",
   "source": "naraetan.js"
@@ -10952,7 +10952,7 @@ window.SONG_DATA.push(
     {
   "title": "なのです☆",
   "artist": "羽入(堀江由衣)",
-  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "collection": "【Singing Cut】[2026-07-21] Home 3D Cute Singing Stream 🦩 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=7",
   "source": "naraetan.js"
@@ -10960,7 +10960,7 @@ window.SONG_DATA.push(
     {
   "title": "Happy! Lucky! Dochy!",
   "artist": "古手梨花(田村ゆかり)・北条沙都子(かないみか)・羽入(堀江由衣)",
-  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "collection": "【Singing Cut】[2026-07-21] Home 3D Cute Singing Stream 🦩 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=8",
   "source": "naraetan.js"
@@ -10968,7 +10968,7 @@ window.SONG_DATA.push(
     {
   "title": "Spiritual Garden",
   "artist": "田村ゆかり",
-  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "collection": "【Singing Cut】[2026-07-21] Home 3D Cute Singing Stream 🦩 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=9",
   "source": "naraetan.js"
@@ -10976,7 +10976,7 @@ window.SONG_DATA.push(
     {
   "title": "You & Me",
   "artist": "田村ゆかり feat.motsu from m.o.v.e",
-  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "collection": "【Singing Cut】[2026-07-21] Home 3D Cute Singing Stream 🦩 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=10",
   "source": "naraetan.js"
@@ -10984,7 +10984,7 @@ window.SONG_DATA.push(
     {
   "title": "さくらんぼ",
   "artist": "大塚愛",
-  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "collection": "【Singing Cut】[2026-07-21] Home 3D Cute Singing Stream 🦩 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=11",
   "source": "naraetan.js"
@@ -10992,7 +10992,7 @@ window.SONG_DATA.push(
     {
   "title": "アドレナ",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-07-21]居家3D可爱歌回🦩 なれたん Naraetan Ch.",
+  "collection": "【Singing Cut】[2026-07-21] Home 3D Cute Singing Stream 🦩 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bPKe6FEh4?p=12",
   "source": "naraetan.js"
@@ -11000,7 +11000,7 @@ window.SONG_DATA.push(
     {
   "title": "新宝島",
   "artist": "サカナクション",
-  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-22] Energetic Daytime Karaoke Singer🧚‍♀️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=1",
   "source": "naraetan.js"
@@ -11008,7 +11008,7 @@ window.SONG_DATA.push(
     {
   "title": "Habit",
   "artist": "SEKAI NO OWARI",
-  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-22] Energetic Daytime Karaoke Singer🧚‍♀️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=2",
   "source": "naraetan.js"
@@ -11016,7 +11016,7 @@ window.SONG_DATA.push(
     {
   "title": "Grand Blue",
   "artist": "湘南乃風",
-  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-22] Energetic Daytime Karaoke Singer🧚‍♀️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=3",
   "source": "naraetan.js"
@@ -11024,7 +11024,7 @@ window.SONG_DATA.push(
     {
   "title": "夢をかなえてドラえもん",
   "artist": "mao",
-  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-22] Energetic Daytime Karaoke Singer🧚‍♀️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=4",
   "source": "naraetan.js"
@@ -11032,7 +11032,7 @@ window.SONG_DATA.push(
     {
   "title": "Butter-Fly",
   "artist": "和田光司",
-  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-22] Energetic Daytime Karaoke Singer🧚‍♀️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=5",
   "source": "naraetan.js"
@@ -11040,7 +11040,7 @@ window.SONG_DATA.push(
     {
   "title": "Cagayake!GIRLS",
   "artist": "桜高軽音部",
-  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-22] Energetic Daytime Karaoke Singer🧚‍♀️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=6",
   "source": "naraetan.js"
@@ -11048,7 +11048,7 @@ window.SONG_DATA.push(
     {
   "title": "only my railgun",
   "artist": "fripSide",
-  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-22] Energetic Daytime Karaoke Singer🧚‍♀️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=7",
   "source": "naraetan.js"
@@ -11056,7 +11056,7 @@ window.SONG_DATA.push(
     {
   "title": "IRIS OUT",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-22] Energetic Daytime Karaoke Singer🧚‍♀️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=8",
   "source": "naraetan.js"
@@ -11064,7 +11064,7 @@ window.SONG_DATA.push(
     {
   "title": "告白",
   "artist": "supercell",
-  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-22] Energetic Daytime Karaoke Singer🧚‍♀️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=9",
   "source": "naraetan.js"
@@ -11072,7 +11072,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-22] Energetic Daytime Karaoke Singer🧚‍♀️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=10",
   "source": "naraetan.js"
@@ -11080,7 +11080,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-22] Energetic Daytime Karaoke Singer🧚‍♀️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=11",
   "source": "naraetan.js"
@@ -11088,7 +11088,7 @@ window.SONG_DATA.push(
     {
   "title": "DAYBREAK FRONTLINE",
   "artist": "Orangestar feat.IA",
-  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-22] Energetic Daytime Karaoke Singer🧚‍♀️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=12",
   "source": "naraetan.js"
@@ -11096,7 +11096,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON",
-  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-22] Energetic Daytime Karaoke Singer🧚‍♀️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=13",
   "source": "naraetan.js"
@@ -11104,7 +11104,7 @@ window.SONG_DATA.push(
     {
   "title": "HOT LIMIT",
   "artist": "T.M.Revolution",
-  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-22] Energetic Daytime Karaoke Singer🧚‍♀️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=14",
   "source": "naraetan.js"
@@ -11112,7 +11112,7 @@ window.SONG_DATA.push(
     {
   "title": "ADAMAS",
   "artist": "LiSA",
-  "collection": "【歌切】[2026-07-22]元气午间歌回🧚‍♀️ なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-22] Energetic Daytime Karaoke Singer🧚‍♀️ なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pag26PEgw?p=15",
   "source": "naraetan.js"
@@ -11120,7 +11120,7 @@ window.SONG_DATA.push(
     {
   "title": "TOMORROW",
   "artist": "岡本真夜",
-  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-24] Target 300 Likes Endurance 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=1",
   "source": "naraetan.js"
@@ -11128,7 +11128,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか!",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-24] Target 300 Likes Endurance 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=2",
   "source": "naraetan.js"
@@ -11136,7 +11136,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-24] Target 300 Likes Endurance 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=3",
   "source": "naraetan.js"
@@ -11144,7 +11144,7 @@ window.SONG_DATA.push(
     {
   "title": "残響散歌",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-24] Target 300 Likes Endurance 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=4",
   "source": "naraetan.js"
@@ -11152,7 +11152,7 @@ window.SONG_DATA.push(
     {
   "title": "Give a reason",
   "artist": "林原めぐみ",
-  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-24] Target 300 Likes Endurance 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=5",
   "source": "naraetan.js"
@@ -11160,7 +11160,7 @@ window.SONG_DATA.push(
     {
   "title": "月並みに輝け",
   "artist": "結束バンド",
-  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-24] Target 300 Likes Endurance 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=6",
   "source": "naraetan.js"
@@ -11168,7 +11168,7 @@ window.SONG_DATA.push(
     {
   "title": "GLAMOROUS SKY",
   "artist": "中島美嘉",
-  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-24] Target 300 Likes Endurance 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=7",
   "source": "naraetan.js"
@@ -11176,7 +11176,7 @@ window.SONG_DATA.push(
     {
   "title": "ロマンスの神様",
   "artist": "広瀬香美",
-  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-24] Target 300 Likes Endurance 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=8",
   "source": "naraetan.js"
@@ -11184,7 +11184,7 @@ window.SONG_DATA.push(
     {
   "title": "烈の瞬",
   "artist": "ジャパハリネット",
-  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-24] Target 300 Likes Endurance 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=9",
   "source": "naraetan.js"
@@ -11192,7 +11192,7 @@ window.SONG_DATA.push(
     {
   "title": "ナツメグ",
   "artist": "PURPLE BUBBLE",
-  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-24] Target 300 Likes Endurance 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=10",
   "source": "naraetan.js"
@@ -11200,7 +11200,7 @@ window.SONG_DATA.push(
     {
   "title": "天空のカナリア",
   "artist": "水樹奈々",
-  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-24] Target 300 Likes Endurance 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=11",
   "source": "naraetan.js"
@@ -11208,7 +11208,7 @@ window.SONG_DATA.push(
     {
   "title": "メリッサ",
   "artist": "ポルノグラフィティ",
-  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-24] Target 300 Likes Endurance 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=12",
   "source": "naraetan.js"
@@ -11216,7 +11216,7 @@ window.SONG_DATA.push(
     {
   "title": "LEVEL5-Judgelight",
   "artist": "fripSide",
-  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-24] Target 300 Likes Endurance 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=13",
   "source": "naraetan.js"
@@ -11224,7 +11224,7 @@ window.SONG_DATA.push(
     {
   "title": "フォニイ",
   "artist": "ツミキ feat.可不",
-  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-24] Target 300 Likes Endurance 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=14",
   "source": "naraetan.js"
@@ -11232,7 +11232,7 @@ window.SONG_DATA.push(
     {
   "title": "Don't say \"lazy\"",
   "artist": "桜高軽音部",
-  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-24] Target 300 Likes Endurance 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=15",
   "source": "naraetan.js"
@@ -11240,7 +11240,7 @@ window.SONG_DATA.push(
     {
   "title": "謎",
   "artist": "小松未歩",
-  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-24] Target 300 Likes Endurance 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=16",
   "source": "naraetan.js"
@@ -11248,7 +11248,7 @@ window.SONG_DATA.push(
     {
   "title": "Cry baby",
   "artist": "Official髭男dism",
-  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-24] Target 300 Likes Endurance 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=17",
   "source": "naraetan.js"
@@ -11256,7 +11256,7 @@ window.SONG_DATA.push(
     {
   "title": "逆転劇",
   "artist": "月詠み",
-  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-24] Target 300 Likes Endurance 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=18",
   "source": "naraetan.js"
@@ -11264,7 +11264,7 @@ window.SONG_DATA.push(
     {
   "title": "ロビンソン",
   "artist": "スピッツ",
-  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-24] Target 300 Likes Endurance 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=19",
   "source": "naraetan.js"
@@ -11272,7 +11272,7 @@ window.SONG_DATA.push(
     {
   "title": "花の塔",
   "artist": "さユり",
-  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-24] Target 300 Likes Endurance 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=20",
   "source": "naraetan.js"
@@ -11280,7 +11280,7 @@ window.SONG_DATA.push(
     {
   "title": "め組のひと",
   "artist": "鈴木雅之",
-  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-24] Target 300 Likes Endurance 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=21",
   "source": "naraetan.js"
@@ -11288,7 +11288,7 @@ window.SONG_DATA.push(
     {
   "title": "Stellar Stellar",
   "artist": "星街すいせい",
-  "collection": "【歌切】[2026-07-24]目标300赞耐久 👍 なれたん Naraetan Ch.",
+  "collection": "【Song Cut】[2026-07-24] Target 300 Likes Endurance 👍 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tv3L69ELg?p=22",
   "source": "naraetan.js"
@@ -11296,7 +11296,7 @@ window.SONG_DATA.push(
     {
   "title": "夜に駆ける",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-25] Saturday Late Night Song Karaoke 🐾 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=1",
   "source": "naraetan.js"
@@ -11304,7 +11304,7 @@ window.SONG_DATA.push(
     {
   "title": "明日、僕は君に会いに行く。",
   "artist": "ワカバ",
-  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-25] Saturday Late Night Song Karaoke 🐾 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=2",
   "source": "naraetan.js"
@@ -11312,7 +11312,7 @@ window.SONG_DATA.push(
     {
   "title": "愉快な鼓動",
   "artist": "米倉千尋",
-  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-25] Saturday Late Night Song Karaoke 🐾 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=3",
   "source": "naraetan.js"
@@ -11320,7 +11320,7 @@ window.SONG_DATA.push(
     {
   "title": "いのちの名前",
   "artist": "木村弓",
-  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-25] Saturday Late Night Song Karaoke 🐾 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=4",
   "source": "naraetan.js"
@@ -11328,7 +11328,7 @@ window.SONG_DATA.push(
     {
   "title": "いつも何度でも",
   "artist": "木村弓",
-  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-25] Saturday Late Night Song Karaoke 🐾 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=5",
   "source": "naraetan.js"
@@ -11336,7 +11336,7 @@ window.SONG_DATA.push(
     {
   "title": "THROUGH THE YEARS AND FAR AWAY",
   "artist": "LOW",
-  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-25] Saturday Late Night Song Karaoke 🐾 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=6",
   "source": "naraetan.js"
@@ -11344,7 +11344,7 @@ window.SONG_DATA.push(
     {
   "title": "恋",
   "artist": "奥華子",
-  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-25] Saturday Late Night Song Karaoke 🐾 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=7",
   "source": "naraetan.js"
@@ -11352,7 +11352,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-25] Saturday Late Night Song Karaoke 🐾 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=8",
   "source": "naraetan.js"
@@ -11360,7 +11360,7 @@ window.SONG_DATA.push(
     {
   "title": "ENDLESS STORY",
   "artist": "REIRA starring YUNA ITO",
-  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-25] Saturday Late Night Song Karaoke 🐾 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=9",
   "source": "naraetan.js"
@@ -11368,7 +11368,7 @@ window.SONG_DATA.push(
     {
   "title": "あたしが隣にいるうちに",
   "artist": "藤川千愛",
-  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-25] Saturday Late Night Song Karaoke 🐾 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=10",
   "source": "naraetan.js"
@@ -11376,7 +11376,7 @@ window.SONG_DATA.push(
     {
   "title": "アイノカタチ",
   "artist": "MISIA feat.HIDE(GReeeeN)",
-  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-25] Saturday Late Night Song Karaoke 🐾 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=11",
   "source": "naraetan.js"
@@ -11384,7 +11384,7 @@ window.SONG_DATA.push(
     {
   "title": "幾億光年",
   "artist": "Omoinotake",
-  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-25] Saturday Late Night Song Karaoke 🐾 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=12",
   "source": "naraetan.js"
@@ -11392,7 +11392,7 @@ window.SONG_DATA.push(
     {
   "title": "FIRE BIRD",
   "artist": "Roselia",
-  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-25] Saturday Late Night Song Karaoke 🐾 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=13",
   "source": "naraetan.js"
@@ -11400,7 +11400,7 @@ window.SONG_DATA.push(
     {
   "title": "サインはB",
   "artist": "B小町",
-  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-25] Saturday Late Night Song Karaoke 🐾 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=14",
   "source": "naraetan.js"
@@ -11408,7 +11408,7 @@ window.SONG_DATA.push(
     {
   "title": "IN MY DREAM",
   "artist": "真行寺恵里",
-  "collection": "【歌切】[2026-07-25]星期六深夜歌回🐾 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-25] Saturday Late Night Song Karaoke 🐾 なれたん Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kN3L65E8v?p=15",
   "source": "naraetan.js"
@@ -11416,7 +11416,7 @@ window.SONG_DATA.push(
     {
   "title": "花占い",
   "artist": "Vaundy",
-  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-27] Happy Singing is the Winner 🥳 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=1",
   "source": "naraetan.js"
@@ -11424,7 +11424,7 @@ window.SONG_DATA.push(
     {
   "title": "Love so sweet",
   "artist": "嵐",
-  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-27] Happy Singing is the Winner 🥳 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=2",
   "source": "naraetan.js"
@@ -11432,7 +11432,7 @@ window.SONG_DATA.push(
     {
   "title": "1/3の純情な感情",
   "artist": "SIAM SHADE",
-  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-27] Happy Singing is the Winner 🥳 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=3",
   "source": "naraetan.js"
@@ -11440,7 +11440,7 @@ window.SONG_DATA.push(
     {
   "title": "笑顔・はっぴぃ・ピース♪",
   "artist": "竜宮レナ（CV:中原麻衣）",
-  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-27] Happy Singing is the Winner 🥳 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=4",
   "source": "naraetan.js"
@@ -11448,7 +11448,7 @@ window.SONG_DATA.push(
     {
   "title": "イフ",
   "artist": "月詠み",
-  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-27] Happy Singing is the Winner 🥳 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=5",
   "source": "naraetan.js"
@@ -11456,7 +11456,7 @@ window.SONG_DATA.push(
     {
   "title": "強盗と花束",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-27] Happy Singing is the Winner 🥳 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=6",
   "source": "naraetan.js"
@@ -11464,7 +11464,7 @@ window.SONG_DATA.push(
     {
   "title": "アゲハ蝶",
   "artist": "ポルノグラフィティ",
-  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-27] Happy Singing is the Winner 🥳 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=7",
   "source": "naraetan.js"
@@ -11472,7 +11472,7 @@ window.SONG_DATA.push(
     {
   "title": "バラライカ",
   "artist": "月島きらり starring 久住小春(モーニング娘。)",
-  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-27] Happy Singing is the Winner 🥳 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=8",
   "source": "naraetan.js"
@@ -11480,7 +11480,7 @@ window.SONG_DATA.push(
     {
   "title": "全力☆Summer!",
   "artist": "angela",
-  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-27] Happy Singing is the Winner 🥳 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=9",
   "source": "naraetan.js"
@@ -11488,7 +11488,7 @@ window.SONG_DATA.push(
     {
   "title": "祝福",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-27] Happy Singing is the Winner 🥳 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=10",
   "source": "naraetan.js"
@@ -11496,7 +11496,7 @@ window.SONG_DATA.push(
     {
   "title": "안녕",
   "artist": "박혜경",
-  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-27] Happy Singing is the Winner 🥳 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=11",
   "source": "naraetan.js"
@@ -11504,7 +11504,7 @@ window.SONG_DATA.push(
     {
   "title": "Ubiquitous dB",
   "artist": "ユナ(CV:神田沙也加)",
-  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-27] Happy Singing is the Winner 🥳 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=12",
   "source": "naraetan.js"
@@ -11512,7 +11512,7 @@ window.SONG_DATA.push(
     {
   "title": "Get チュー!",
   "artist": "AAA",
-  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-27] Happy Singing is the Winner 🥳 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=13",
   "source": "naraetan.js"
@@ -11520,7 +11520,7 @@ window.SONG_DATA.push(
     {
   "title": "ETERNAL BLAZE",
   "artist": "水樹奈々",
-  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-27] Happy Singing is the Winner 🥳 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=14",
   "source": "naraetan.js"
@@ -11528,7 +11528,7 @@ window.SONG_DATA.push(
     {
   "title": "雪、無音、窓辺にて。",
   "artist": "長門有希（CV:茅原実里）",
-  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-27] Happy Singing is the Winner 🥳 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=15",
   "source": "naraetan.js"
@@ -11536,7 +11536,7 @@ window.SONG_DATA.push(
     {
   "title": "めざせポケモンマスター",
   "artist": "松本梨香",
-  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-27] Happy Singing is the Winner 🥳 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=16",
   "source": "naraetan.js"
@@ -11544,7 +11544,7 @@ window.SONG_DATA.push(
     {
   "title": "青い珊瑚礁",
   "artist": "松田聖子",
-  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-27] Happy Singing is the Winner 🥳 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=17",
   "source": "naraetan.js"
@@ -11552,7 +11552,7 @@ window.SONG_DATA.push(
     {
   "title": "学園天国",
   "artist": "フィンガー5",
-  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-27] Happy Singing is the Winner 🥳 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=18",
   "source": "naraetan.js"
@@ -11560,7 +11560,7 @@ window.SONG_DATA.push(
     {
   "title": "全部ホントで全部ウソ",
   "artist": "ナナヲアカリ",
-  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-27] Happy Singing is the Winner 🥳 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=19",
   "source": "naraetan.js"
@@ -11568,7 +11568,7 @@ window.SONG_DATA.push(
     {
   "title": "ジェットロケット",
   "artist": "LiSA",
-  "collection": "【歌切】[2026-07-27]开心唱歌才是赢家🥳 なれたん Naraetan Ch.",
+  "collection": "【Song Cover】[2026-07-27] Happy Singing is the Winner 🥳 Naraetan Ch.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11y3669E1Q?p=20",
   "source": "naraetan.js"
@@ -11576,7 +11576,7 @@ window.SONG_DATA.push(
     {
   "title": "インフェルノ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "collection": "[Song Cut] [2026-07-29] Homework BGM, anyone? 💻",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=1",
   "source": "naraetan.js"
@@ -11584,7 +11584,7 @@ window.SONG_DATA.push(
     {
   "title": "ドラマツルギー",
   "artist": "Eve",
-  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "collection": "[Song Cut] [2026-07-29] Homework BGM, anyone? 💻",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=2",
   "source": "naraetan.js"
@@ -11592,7 +11592,7 @@ window.SONG_DATA.push(
     {
   "title": "カサブタ",
   "artist": "千綿ヒデノリ",
-  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "collection": "[Song Cut] [2026-07-29] Homework BGM, anyone? 💻",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=3",
   "source": "naraetan.js"
@@ -11600,7 +11600,7 @@ window.SONG_DATA.push(
     {
   "title": "テレキャスタービーボーイ",
   "artist": "すりぃ feat.鏡音レン",
-  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "collection": "[Song Cut] [2026-07-29] Homework BGM, anyone? 💻",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=4",
   "source": "naraetan.js"
@@ -11608,7 +11608,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛裁判",
   "artist": "40mP feat.初音ミク",
-  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "collection": "[Song Cut] [2026-07-29] Homework BGM, anyone? 💻",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=5",
   "source": "naraetan.js"
@@ -11616,7 +11616,7 @@ window.SONG_DATA.push(
     {
   "title": "CHE.R.RY",
   "artist": "YUI",
-  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "collection": "[Song Cut] [2026-07-29] Homework BGM, anyone? 💻",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=6",
   "source": "naraetan.js"
@@ -11624,7 +11624,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "collection": "[Song Cut] [2026-07-29] Homework BGM, anyone? 💻",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=7",
   "source": "naraetan.js"
@@ -11632,7 +11632,7 @@ window.SONG_DATA.push(
     {
   "title": "火星人",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "collection": "[Song Cut] [2026-07-29] Homework BGM, anyone? 💻",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=8",
   "source": "naraetan.js"
@@ -11640,7 +11640,7 @@ window.SONG_DATA.push(
     {
   "title": "じゃじゃ馬にさせないで",
   "artist": "西尾えつ子",
-  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "collection": "[Song Cut] [2026-07-29] Homework BGM, anyone? 💻",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=9",
   "source": "naraetan.js"
@@ -11648,7 +11648,7 @@ window.SONG_DATA.push(
     {
   "title": "許婚っきゅん",
   "artist": "ano",
-  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "collection": "[Song Cut] [2026-07-29] Homework BGM, anyone? 💻",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=10",
   "source": "naraetan.js"
@@ -11656,7 +11656,7 @@ window.SONG_DATA.push(
     {
   "title": "愛は勝つ",
   "artist": "KAN",
-  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "collection": "[Song Cut] [2026-07-29] Homework BGM, anyone? 💻",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=11",
   "source": "naraetan.js"
@@ -11664,7 +11664,7 @@ window.SONG_DATA.push(
     {
   "title": "浪漫飛行",
   "artist": "米米CLUB",
-  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "collection": "[Song Cut] [2026-07-29] Homework BGM, anyone? 💻",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=12",
   "source": "naraetan.js"
@@ -11672,7 +11672,7 @@ window.SONG_DATA.push(
     {
   "title": "冒険彗星",
   "artist": "榎本くるみ",
-  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "collection": "[Song Cut] [2026-07-29] Homework BGM, anyone? 💻",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=13",
   "source": "naraetan.js"
@@ -11680,7 +11680,7 @@ window.SONG_DATA.push(
     {
   "title": "115万キロのフィルム",
   "artist": "Official髭男dism",
-  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "collection": "[Song Cut] [2026-07-29] Homework BGM, anyone? 💻",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=14",
   "source": "naraetan.js"
@@ -11688,7 +11688,7 @@ window.SONG_DATA.push(
     {
   "title": "ミックスナッツ",
   "artist": "Official髭男dism",
-  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "collection": "[Song Cut] [2026-07-29] Homework BGM, anyone? 💻",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=15",
   "source": "naraetan.js"
@@ -11696,7 +11696,7 @@ window.SONG_DATA.push(
     {
   "title": "ANGELUS -アンジェラス",
   "artist": "島谷ひとみ",
-  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "collection": "[Song Cut] [2026-07-29] Homework BGM, anyone? 💻",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=16",
   "source": "naraetan.js"
@@ -11704,7 +11704,7 @@ window.SONG_DATA.push(
     {
   "title": "心よ原始に戻れ",
   "artist": "高橋洋子",
-  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "collection": "[Song Cut] [2026-07-29] Homework BGM, anyone? 💻",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=17",
   "source": "naraetan.js"
@@ -11712,7 +11712,7 @@ window.SONG_DATA.push(
     {
   "title": "魂のルフラン",
   "artist": "高橋洋子",
-  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "collection": "[Song Cut] [2026-07-29] Homework BGM, anyone? 💻",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=18",
   "source": "naraetan.js"
@@ -11720,7 +11720,7 @@ window.SONG_DATA.push(
     {
   "title": "モニタリング",
   "artist": "DECO*27 feat.初音ミク",
-  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "collection": "[Song Cut] [2026-07-29] Homework BGM, anyone? 💻",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=19",
   "source": "naraetan.js"
@@ -11728,7 +11728,7 @@ window.SONG_DATA.push(
     {
   "title": "Preserved Roses",
   "artist": "T.M.Revolution×水樹奈々",
-  "collection": "【歌切】[2026-07-29]作业用BGM来一点？💻",
+  "collection": "[Song Cut] [2026-07-29] Homework BGM, anyone? 💻",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wd3H6eETw?p=20",
   "source": "naraetan.js"
@@ -11736,7 +11736,7 @@ window.SONG_DATA.push(
     {
   "title": "さぁ",
   "artist": "SURFACE",
-  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "collection": "【Song Cut】[2026-07-31] Song request is back～💁‍♀️ Time to request a song",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=1",
   "source": "naraetan.js"
@@ -11744,7 +11744,7 @@ window.SONG_DATA.push(
     {
   "title": "弱虫モンブラン",
   "artist": "DECO*27 feat.GUMI",
-  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "collection": "【Song Cut】[2026-07-31] Song request is back～💁‍♀️ Time to request a song",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=2",
   "source": "naraetan.js"
@@ -11752,7 +11752,7 @@ window.SONG_DATA.push(
     {
   "title": "優しさの理由",
   "artist": "ChouCho",
-  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "collection": "【Song Cut】[2026-07-31] Song request is back～💁‍♀️ Time to request a song",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=3",
   "source": "naraetan.js"
@@ -11760,7 +11760,7 @@ window.SONG_DATA.push(
     {
   "title": "RAIN",
   "artist": "SEKAI NO OWARI",
-  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "collection": "【Song Cut】[2026-07-31] Song request is back～💁‍♀️ Time to request a song",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=4",
   "source": "naraetan.js"
@@ -11768,7 +11768,7 @@ window.SONG_DATA.push(
     {
   "title": "群青",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "collection": "【Song Cut】[2026-07-31] Song request is back～💁‍♀️ Time to request a song",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=5",
   "source": "naraetan.js"
@@ -11776,7 +11776,7 @@ window.SONG_DATA.push(
     {
   "title": "粉雪",
   "artist": "レミオロメン",
-  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "collection": "【Song Cut】[2026-07-31] Song request is back～💁‍♀️ Time to request a song",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=6",
   "source": "naraetan.js"
@@ -11784,7 +11784,7 @@ window.SONG_DATA.push(
     {
   "title": "全力☆Summer!",
   "artist": "angela",
-  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "collection": "【Song Cut】[2026-07-31] Song request is back～💁‍♀️ Time to request a song",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=7",
   "source": "naraetan.js"
@@ -11792,7 +11792,7 @@ window.SONG_DATA.push(
     {
   "title": "青空のナミダ",
   "artist": "高橋瞳",
-  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "collection": "【Song Cut】[2026-07-31] Song request is back～💁‍♀️ Time to request a song",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=8",
   "source": "naraetan.js"
@@ -11800,7 +11800,7 @@ window.SONG_DATA.push(
     {
   "title": "tomorrow",
   "artist": "下川みくに",
-  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "collection": "【Song Cut】[2026-07-31] Song request is back～💁‍♀️ Time to request a song",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=9",
   "source": "naraetan.js"
@@ -11808,7 +11808,7 @@ window.SONG_DATA.push(
     {
   "title": "DIARY",
   "artist": "上北健",
-  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "collection": "【Song Cut】[2026-07-31] Song request is back～💁‍♀️ Time to request a song",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=10",
   "source": "naraetan.js"
@@ -11816,7 +11816,7 @@ window.SONG_DATA.push(
     {
   "title": "レオ",
   "artist": "優里",
-  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "collection": "【Song Cut】[2026-07-31] Song request is back～💁‍♀️ Time to request a song",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=11",
   "source": "naraetan.js"
@@ -11824,7 +11824,7 @@ window.SONG_DATA.push(
     {
   "title": "ニワカアメ",
   "artist": "花たん",
-  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "collection": "【Song Cut】[2026-07-31] Song request is back～💁‍♀️ Time to request a song",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=12",
   "source": "naraetan.js"
@@ -11832,7 +11832,7 @@ window.SONG_DATA.push(
     {
   "title": "天城越え",
   "artist": "石川さゆり",
-  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "collection": "【Song Cut】[2026-07-31] Song request is back～💁‍♀️ Time to request a song",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=13",
   "source": "naraetan.js"
@@ -11840,7 +11840,7 @@ window.SONG_DATA.push(
     {
   "title": "生きるよすが",
   "artist": "月詠み",
-  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "collection": "【Song Cut】[2026-07-31] Song request is back～💁‍♀️ Time to request a song",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=14",
   "source": "naraetan.js"
@@ -11848,7 +11848,7 @@ window.SONG_DATA.push(
     {
   "title": "Golden",
   "artist": "HUNTR/X",
-  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "collection": "【Song Cut】[2026-07-31] Song request is back～💁‍♀️ Time to request a song",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=15",
   "source": "naraetan.js"
@@ -11856,7 +11856,7 @@ window.SONG_DATA.push(
     {
   "title": "ツンデレの歌!",
   "artist": "小宮真央",
-  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "collection": "【Song Cut】[2026-07-31] Song request is back～💁‍♀️ Time to request a song",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=16",
   "source": "naraetan.js"
@@ -11864,7 +11864,7 @@ window.SONG_DATA.push(
     {
   "title": "青空のラプソディ",
   "artist": "fhána",
-  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "collection": "【Song Cut】[2026-07-31] Song request is back～💁‍♀️ Time to request a song",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=17",
   "source": "naraetan.js"
@@ -11872,7 +11872,7 @@ window.SONG_DATA.push(
     {
   "title": "夜もすがら君想ふ",
   "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
-  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "collection": "【Song Cut】[2026-07-31] Song request is back～💁‍♀️ Time to request a song",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=18",
   "source": "naraetan.js"
@@ -11880,7 +11880,7 @@ window.SONG_DATA.push(
     {
   "title": "虹の彼方に",
   "artist": "ReoNa",
-  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "collection": "【Song Cut】[2026-07-31] Song request is back～💁‍♀️ Time to request a song",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=19",
   "source": "naraetan.js"
@@ -11888,7 +11888,7 @@ window.SONG_DATA.push(
     {
   "title": "あの夢をなぞって",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-07-31]点歌歌回来啦～💁‍♀️该点歌啦",
+  "collection": "【Song Cut】[2026-07-31] Song request is back～💁‍♀️ Time to request a song",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18G3U6UEQd?p=20",
   "source": "naraetan.js"
@@ -11896,7 +11896,7 @@ window.SONG_DATA.push(
     {
   "title": "雫",
   "artist": "スキマスイッチ",
-  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "collection": "【Song Clip】[2026-08-06] Singing leisurely for a while 🐌 I'll take it slow and relax",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=1",
   "source": "naraetan.js"
@@ -11904,7 +11904,7 @@ window.SONG_DATA.push(
     {
   "title": "Butter-Fly",
   "artist": "和田光司",
-  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "collection": "【Song Clip】[2026-08-06] Singing leisurely for a while 🐌 I'll take it slow and relax",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=2",
   "source": "naraetan.js"
@@ -11912,7 +11912,7 @@ window.SONG_DATA.push(
     {
   "title": "君はロックを聴かない",
   "artist": "あいみょん",
-  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "collection": "【Song Clip】[2026-08-06] Singing leisurely for a while 🐌 I'll take it slow and relax",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=3",
   "source": "naraetan.js"
@@ -11920,7 +11920,7 @@ window.SONG_DATA.push(
     {
   "title": "勇者",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "collection": "【Song Clip】[2026-08-06] Singing leisurely for a while 🐌 I'll take it slow and relax",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=4",
   "source": "naraetan.js"
@@ -11928,7 +11928,7 @@ window.SONG_DATA.push(
     {
   "title": "ロマンティックあげるよ",
   "artist": "橋本潮",
-  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "collection": "【Song Clip】[2026-08-06] Singing leisurely for a while 🐌 I'll take it slow and relax",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=5",
   "source": "naraetan.js"
@@ -11936,7 +11936,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛サーキュレーション",
   "artist": "千石撫子(花澤香菜)",
-  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "collection": "【Song Clip】[2026-08-06] Singing leisurely for a while 🐌 I'll take it slow and relax",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=6",
   "source": "naraetan.js"
@@ -11944,7 +11944,7 @@ window.SONG_DATA.push(
     {
   "title": "君じゃなきゃダメみたい",
   "artist": "オーイシマサヨシ",
-  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "collection": "【Song Clip】[2026-08-06] Singing leisurely for a while 🐌 I'll take it slow and relax",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=7",
   "source": "naraetan.js"
@@ -11952,7 +11952,7 @@ window.SONG_DATA.push(
     {
   "title": "Wind Climbing ~風にあそばれて~",
   "artist": "奥井亜紀",
-  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "collection": "【Song Clip】[2026-08-06] Singing leisurely for a while 🐌 I'll take it slow and relax",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=8",
   "source": "naraetan.js"
@@ -11960,7 +11960,7 @@ window.SONG_DATA.push(
     {
   "title": "Thanks",
   "artist": "ゆきのさつき",
-  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "collection": "【Song Clip】[2026-08-06] Singing leisurely for a while 🐌 I'll take it slow and relax",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=9",
   "source": "naraetan.js"
@@ -11968,7 +11968,7 @@ window.SONG_DATA.push(
     {
   "title": "私は最強",
   "artist": "Ado",
-  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "collection": "【Song Clip】[2026-08-06] Singing leisurely for a while 🐌 I'll take it slow and relax",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=10",
   "source": "naraetan.js"
@@ -11976,7 +11976,7 @@ window.SONG_DATA.push(
     {
   "title": "嗚呼、素晴らしきニャン生",
   "artist": "Nem feat.GUMI・鏡音レン",
-  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "collection": "【Song Clip】[2026-08-06] Singing leisurely for a while 🐌 I'll take it slow and relax",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=11",
   "source": "naraetan.js"
@@ -11984,7 +11984,7 @@ window.SONG_DATA.push(
     {
   "title": "トウキョウ・シャンディ・ランデヴ",
   "artist": "MAISONdes",
-  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "collection": "【Song Clip】[2026-08-06] Singing leisurely for a while 🐌 I'll take it slow and relax",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=12",
   "source": "naraetan.js"
@@ -11992,7 +11992,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "collection": "【Song Clip】[2026-08-06] Singing leisurely for a while 🐌 I'll take it slow and relax",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=13",
   "source": "naraetan.js"
@@ -12000,7 +12000,7 @@ window.SONG_DATA.push(
     {
   "title": "おもかげ",
   "artist": "milet×Aimer×幾田りら",
-  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "collection": "【Song Clip】[2026-08-06] Singing leisurely for a while 🐌 I'll take it slow and relax",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=14",
   "source": "naraetan.js"
@@ -12008,7 +12008,7 @@ window.SONG_DATA.push(
     {
   "title": "인연(絆)",
   "artist": "이선희(イ・ソニ)",
-  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "collection": "【Song Clip】[2026-08-06] Singing leisurely for a while 🐌 I'll take it slow and relax",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=15",
   "source": "naraetan.js"
@@ -12016,7 +12016,7 @@ window.SONG_DATA.push(
     {
   "title": "麻痺",
   "artist": "yama",
-  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "collection": "【Song Clip】[2026-08-06] Singing leisurely for a while 🐌 I'll take it slow and relax",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=16",
   "source": "naraetan.js"
@@ -12024,7 +12024,7 @@ window.SONG_DATA.push(
     {
   "title": "太陽曰く燃えよカオス",
   "artist": "後ろから這いより隊G",
-  "collection": "【歌切】[2026-08-06]悠闲地唱一会儿歌🐌我会慢慢来，放松地唱",
+  "collection": "【Song Clip】[2026-08-06] Singing leisurely for a while 🐌 I'll take it slow and relax",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NWuL6LEdv?p=17",
   "source": "naraetan.js"
@@ -12032,7 +12032,7 @@ window.SONG_DATA.push(
     {
   "title": "The Biggest Dreamer",
   "artist": "和田光司",
-  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "collection": "【Song Cover】[2026-08-07] Huajin Song Session 🌸Happy Friday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=1",
   "source": "naraetan.js"
@@ -12040,7 +12040,7 @@ window.SONG_DATA.push(
     {
   "title": "Fire◎Flower",
   "artist": "halyosy feat.鏡音レン",
-  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "collection": "【Song Cover】[2026-08-07] Huajin Song Session 🌸Happy Friday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=2",
   "source": "naraetan.js"
@@ -12048,7 +12048,7 @@ window.SONG_DATA.push(
     {
   "title": "打上花火",
   "artist": "DAOKO×米津玄師",
-  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "collection": "【Song Cover】[2026-08-07] Huajin Song Session 🌸Happy Friday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=3",
   "source": "naraetan.js"
@@ -12056,7 +12056,7 @@ window.SONG_DATA.push(
     {
   "title": "Way Back Home",
   "artist": "SHAUN",
-  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "collection": "【Song Cover】[2026-08-07] Huajin Song Session 🌸Happy Friday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=4",
   "source": "naraetan.js"
@@ -12064,7 +12064,7 @@ window.SONG_DATA.push(
     {
   "title": "Lemon",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "collection": "【Song Cover】[2026-08-07] Huajin Song Session 🌸Happy Friday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=5",
   "source": "naraetan.js"
@@ -12072,7 +12072,7 @@ window.SONG_DATA.push(
     {
   "title": "JANE DOE",
   "artist": "米津玄師,宇多田ヒカル",
-  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "collection": "【Song Cover】[2026-08-07] Huajin Song Session 🌸Happy Friday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=6",
   "source": "naraetan.js"
@@ -12080,7 +12080,7 @@ window.SONG_DATA.push(
     {
   "title": "だから僕は音楽をやめた",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "collection": "【Song Cover】[2026-08-07] Huajin Song Session 🌸Happy Friday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=7",
   "source": "naraetan.js"
@@ -12088,7 +12088,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "collection": "【Song Cover】[2026-08-07] Huajin Song Session 🌸Happy Friday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=8",
   "source": "naraetan.js"
@@ -12096,7 +12096,7 @@ window.SONG_DATA.push(
     {
   "title": "インドア系ならトラックメイカー",
   "artist": "Yunomi & nicamoq",
-  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "collection": "【Song Cover】[2026-08-07] Huajin Song Session 🌸Happy Friday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=9",
   "source": "naraetan.js"
@@ -12104,7 +12104,7 @@ window.SONG_DATA.push(
     {
   "title": "天使にふれたよ!",
   "artist": "放課後ティータイム",
-  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "collection": "【Song Cover】[2026-08-07] Huajin Song Session 🌸Happy Friday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=10",
   "source": "naraetan.js"
@@ -12112,7 +12112,7 @@ window.SONG_DATA.push(
     {
   "title": "いーあるふぁんくらぶ",
   "artist": "みきとP feat.GUMI・鏡音リン",
-  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "collection": "【Song Cover】[2026-08-07] Huajin Song Session 🌸Happy Friday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=11",
   "source": "naraetan.js"
@@ -12120,7 +12120,7 @@ window.SONG_DATA.push(
     {
   "title": "お願いマッスル",
   "artist": "紗倉ひびき(CV:ファイルーズあい)&街雄鳴造(CV:石川界人)",
-  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "collection": "【Song Cover】[2026-08-07] Huajin Song Session 🌸Happy Friday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=12",
   "source": "naraetan.js"
@@ -12128,7 +12128,7 @@ window.SONG_DATA.push(
     {
   "title": "エンジェルウインク",
   "artist": "照橋心美(茅野愛衣)",
-  "collection": "【歌切】[2026-08-07]华金歌回 🌸Happy Friday",
+  "collection": "【Song Cover】[2026-08-07] Huajin Song Session 🌸Happy Friday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRu56NE4m?p=13",
   "source": "naraetan.js"
@@ -12136,7 +12136,7 @@ window.SONG_DATA.push(
     {
   "title": "おはよう。",
   "artist": "Keno",
-  "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
+  "collection": "[Song Clip] [2026-08-10] Give Me Your Monday 🙌 Give me your Monday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=1",
   "source": "naraetan.js"
@@ -12144,7 +12144,7 @@ window.SONG_DATA.push(
     {
   "title": "2人",
   "artist": "ともさかりえ",
-  "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
+  "collection": "[Song Clip] [2026-08-10] Give Me Your Monday 🙌 Give me your Monday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=2",
   "source": "naraetan.js"
@@ -12152,7 +12152,7 @@ window.SONG_DATA.push(
     {
   "title": "それが、愛でしょう",
   "artist": "下川みくに",
-  "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
+  "collection": "[Song Clip] [2026-08-10] Give Me Your Monday 🙌 Give me your Monday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=3",
   "source": "naraetan.js"
@@ -12160,7 +12160,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーチラス",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
+  "collection": "[Song Clip] [2026-08-10] Give Me Your Monday 🙌 Give me your Monday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=4",
   "source": "naraetan.js"
@@ -12168,7 +12168,7 @@ window.SONG_DATA.push(
     {
   "title": "remember",
   "artist": "Uru",
-  "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
+  "collection": "[Song Clip] [2026-08-10] Give Me Your Monday 🙌 Give me your Monday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=5",
   "source": "naraetan.js"
@@ -12176,7 +12176,7 @@ window.SONG_DATA.push(
     {
   "title": "lulu.",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
+  "collection": "[Song Clip] [2026-08-10] Give Me Your Monday 🙌 Give me your Monday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=6",
   "source": "naraetan.js"
@@ -12184,7 +12184,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛裁判",
   "artist": "40mP feat.初音ミク",
-  "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
+  "collection": "[Song Clip] [2026-08-10] Give Me Your Monday 🙌 Give me your Monday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=7",
   "source": "naraetan.js"
@@ -12192,7 +12192,7 @@ window.SONG_DATA.push(
     {
   "title": "Q&A リサイタル!",
   "artist": "戸松遥",
-  "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
+  "collection": "[Song Clip] [2026-08-10] Give Me Your Monday 🙌 Give me your Monday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=8",
   "source": "naraetan.js"
@@ -12200,7 +12200,7 @@ window.SONG_DATA.push(
     {
   "title": "1/2",
   "artist": "川本真琴",
-  "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
+  "collection": "[Song Clip] [2026-08-10] Give Me Your Monday 🙌 Give me your Monday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=9",
   "source": "naraetan.js"
@@ -12208,7 +12208,7 @@ window.SONG_DATA.push(
     {
   "title": "そばかす",
   "artist": "JUDY AND MARY",
-  "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
+  "collection": "[Song Clip] [2026-08-10] Give Me Your Monday 🙌 Give me your Monday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=10",
   "source": "naraetan.js"
@@ -12216,7 +12216,7 @@ window.SONG_DATA.push(
     {
   "title": "白い雪のプリンセスは",
   "artist": "のぼる↑ feat.初音ミク",
-  "collection": "【歌切】[2026-08-10]把你的星期一给我🙌Give me your Monday",
+  "collection": "[Song Clip] [2026-08-10] Give Me Your Monday 🙌 Give me your Monday",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Wour6mEY1?p=11",
   "source": "naraetan.js"
@@ -12224,7 +12224,7 @@ window.SONG_DATA.push(
     {
   "title": "お気に召すまま",
   "artist": "Eve",
-  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "collection": "[Song Cut] [2026-08-12] Midday Energetic Singing Session ⏰ Vigorous Daytime Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=1",
   "source": "naraetan.js"
@@ -12232,7 +12232,7 @@ window.SONG_DATA.push(
     {
   "title": "FOR REAL",
   "artist": "徳山秀典",
-  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "collection": "[Song Cut] [2026-08-12] Midday Energetic Singing Session ⏰ Vigorous Daytime Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=2",
   "source": "naraetan.js"
@@ -12240,7 +12240,7 @@ window.SONG_DATA.push(
     {
   "title": "ネオメロドラマティック",
   "artist": "ポルノグラフィティ",
-  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "collection": "[Song Cut] [2026-08-12] Midday Energetic Singing Session ⏰ Vigorous Daytime Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=3",
   "source": "naraetan.js"
@@ -12248,7 +12248,7 @@ window.SONG_DATA.push(
     {
   "title": "SUNDAY",
   "artist": "ザ・ベイビースターズ",
-  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "collection": "[Song Cut] [2026-08-12] Midday Energetic Singing Session ⏰ Vigorous Daytime Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=4",
   "source": "naraetan.js"
@@ -12256,7 +12256,7 @@ window.SONG_DATA.push(
     {
   "title": "INVOKE -インヴォーク-",
   "artist": "T.M.Revolution",
-  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "collection": "[Song Cut] [2026-08-12] Midday Energetic Singing Session ⏰ Vigorous Daytime Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=5",
   "source": "naraetan.js"
@@ -12264,7 +12264,7 @@ window.SONG_DATA.push(
     {
   "title": "Butterfly Kiss",
   "artist": "米倉千尋",
-  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "collection": "[Song Cut] [2026-08-12] Midday Energetic Singing Session ⏰ Vigorous Daytime Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=6",
   "source": "naraetan.js"
@@ -12272,7 +12272,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ君に晴れ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "collection": "[Song Cut] [2026-08-12] Midday Energetic Singing Session ⏰ Vigorous Daytime Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=7",
   "source": "naraetan.js"
@@ -12280,7 +12280,7 @@ window.SONG_DATA.push(
     {
   "title": "嵐の中で輝いて",
   "artist": "米倉千尋",
-  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "collection": "[Song Cut] [2026-08-12] Midday Energetic Singing Session ⏰ Vigorous Daytime Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=8",
   "source": "naraetan.js"
@@ -12288,7 +12288,7 @@ window.SONG_DATA.push(
     {
   "title": "ピカピカの太陽",
   "artist": "佐倉蜜柑(植田佳奈)",
-  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "collection": "[Song Cut] [2026-08-12] Midday Energetic Singing Session ⏰ Vigorous Daytime Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=9",
   "source": "naraetan.js"
@@ -12296,7 +12296,7 @@ window.SONG_DATA.push(
     {
   "title": "扉の向こうへ",
   "artist": "YeLLOW Generation",
-  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "collection": "[Song Cut] [2026-08-12] Midday Energetic Singing Session ⏰ Vigorous Daytime Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=10",
   "source": "naraetan.js"
@@ -12304,7 +12304,7 @@ window.SONG_DATA.push(
     {
   "title": "光の破片",
   "artist": "高橋優",
-  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "collection": "[Song Cut] [2026-08-12] Midday Energetic Singing Session ⏰ Vigorous Daytime Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=11",
   "source": "naraetan.js"
@@ -12312,7 +12312,7 @@ window.SONG_DATA.push(
     {
   "title": "Dear you -Cry-",
   "artist": "癒月",
-  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "collection": "[Song Cut] [2026-08-12] Midday Energetic Singing Session ⏰ Vigorous Daytime Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=12",
   "source": "naraetan.js"
@@ -12320,7 +12320,7 @@ window.SONG_DATA.push(
     {
   "title": "宿命",
   "artist": "Official髭男dism",
-  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "collection": "[Song Cut] [2026-08-12] Midday Energetic Singing Session ⏰ Vigorous Daytime Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=13",
   "source": "naraetan.js"
@@ -12328,7 +12328,7 @@ window.SONG_DATA.push(
     {
   "title": "青春コンプレックス",
   "artist": "結束バンド",
-  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "collection": "[Song Cut] [2026-08-12] Midday Energetic Singing Session ⏰ Vigorous Daytime Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=14",
   "source": "naraetan.js"
@@ -12336,7 +12336,7 @@ window.SONG_DATA.push(
     {
   "title": "DUET",
   "artist": "ZICO, 幾田りら",
-  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "collection": "[Song Cut] [2026-08-12] Midday Energetic Singing Session ⏰ Vigorous Daytime Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=15",
   "source": "naraetan.js"
@@ -12344,7 +12344,7 @@ window.SONG_DATA.push(
     {
   "title": "今好きになる。",
   "artist": "HoneyWorks feat.初音ミク",
-  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "collection": "[Song Cut] [2026-08-12] Midday Energetic Singing Session ⏰ Vigorous Daytime Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=16",
   "source": "naraetan.js"
@@ -12352,7 +12352,7 @@ window.SONG_DATA.push(
     {
   "title": "ルル",
   "artist": "やくしまるえつこ",
-  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "collection": "[Song Cut] [2026-08-12] Midday Energetic Singing Session ⏰ Vigorous Daytime Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=17",
   "source": "naraetan.js"
@@ -12360,7 +12360,7 @@ window.SONG_DATA.push(
     {
   "title": "異邦人",
   "artist": "久保田早紀",
-  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "collection": "[Song Cut] [2026-08-12] Midday Energetic Singing Session ⏰ Vigorous Daytime Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=18",
   "source": "naraetan.js"
@@ -12368,7 +12368,7 @@ window.SONG_DATA.push(
     {
   "title": "SKILL",
   "artist": "JAM Project",
-  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "collection": "[Song Cut] [2026-08-12] Midday Energetic Singing Session ⏰ Vigorous Daytime Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=19",
   "source": "naraetan.js"
@@ -12376,7 +12376,7 @@ window.SONG_DATA.push(
     {
   "title": "Little Wing",
   "artist": "JAM Project featuring 奥井雅美",
-  "collection": "【歌切】[2026-08-12]中午的元气歌回⏰活力白昼歌唱直播",
+  "collection": "[Song Cut] [2026-08-12] Midday Energetic Singing Session ⏰ Vigorous Daytime Singing Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uug76xEpg?p=20",
   "source": "naraetan.js"
@@ -12384,7 +12384,7 @@ window.SONG_DATA.push(
     {
   "title": "嘘",
   "artist": "シド",
-  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "collection": "【Singing Clip】[2026-08-16] Singing Stream Where You Can Enjoy Both Low and High Notes 💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=1",
   "source": "naraetan.js"
@@ -12392,7 +12392,7 @@ window.SONG_DATA.push(
     {
   "title": "GO!!!",
   "artist": "FLOW",
-  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "collection": "【Singing Clip】[2026-08-16] Singing Stream Where You Can Enjoy Both Low and High Notes 💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=2",
   "source": "naraetan.js"
@@ -12400,7 +12400,7 @@ window.SONG_DATA.push(
     {
   "title": "宝石",
   "artist": "B-VOICE",
-  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "collection": "【Singing Clip】[2026-08-16] Singing Stream Where You Can Enjoy Both Low and High Notes 💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=3",
   "source": "naraetan.js"
@@ -12408,7 +12408,7 @@ window.SONG_DATA.push(
     {
   "title": "カルマ",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "collection": "【Singing Clip】[2026-08-16] Singing Stream Where You Can Enjoy Both Low and High Notes 💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=4",
   "source": "naraetan.js"
@@ -12416,7 +12416,7 @@ window.SONG_DATA.push(
     {
   "title": "丸ノ内サディスティック",
   "artist": "椎名林檎",
-  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "collection": "【Singing Clip】[2026-08-16] Singing Stream Where You Can Enjoy Both Low and High Notes 💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=5",
   "source": "naraetan.js"
@@ -12424,7 +12424,7 @@ window.SONG_DATA.push(
     {
   "title": "신호등",
   "artist": "이무진",
-  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "collection": "【Singing Clip】[2026-08-16] Singing Stream Where You Can Enjoy Both Low and High Notes 💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=6",
   "source": "naraetan.js"
@@ -12432,7 +12432,7 @@ window.SONG_DATA.push(
     {
   "title": "創聖のアクエリオン",
   "artist": "AKINO",
-  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "collection": "【Singing Clip】[2026-08-16] Singing Stream Where You Can Enjoy Both Low and High Notes 💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=7",
   "source": "naraetan.js"
@@ -12440,7 +12440,7 @@ window.SONG_DATA.push(
     {
   "title": "Grip!",
   "artist": "Every Little Thing",
-  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "collection": "【Singing Clip】[2026-08-16] Singing Stream Where You Can Enjoy Both Low and High Notes 💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=8",
   "source": "naraetan.js"
@@ -12448,7 +12448,7 @@ window.SONG_DATA.push(
     {
   "title": "Get Over",
   "artist": "dream",
-  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "collection": "【Singing Clip】[2026-08-16] Singing Stream Where You Can Enjoy Both Low and High Notes 💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=9",
   "source": "naraetan.js"
@@ -12456,7 +12456,7 @@ window.SONG_DATA.push(
     {
   "title": "Wherever you are",
   "artist": "ONE OK ROCK",
-  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "collection": "【Singing Clip】[2026-08-16] Singing Stream Where You Can Enjoy Both Low and High Notes 💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=10",
   "source": "naraetan.js"
@@ -12464,7 +12464,7 @@ window.SONG_DATA.push(
     {
   "title": "手紙 ～拝啓 十五の君へ～",
   "artist": "アンジェラ・アキ",
-  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "collection": "【Singing Clip】[2026-08-16] Singing Stream Where You Can Enjoy Both Low and High Notes 💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=11",
   "source": "naraetan.js"
@@ -12472,7 +12472,7 @@ window.SONG_DATA.push(
     {
   "title": "ドナーソング",
   "artist": "れるりり×もじゃ feat.GUMI",
-  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "collection": "【Singing Clip】[2026-08-16] Singing Stream Where You Can Enjoy Both Low and High Notes 💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=12",
   "source": "naraetan.js"
@@ -12480,7 +12480,7 @@ window.SONG_DATA.push(
     {
   "title": "Sweet Sweet Sweet",
   "artist": "一条シン(CV.寺島惇太)",
-  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "collection": "【Singing Clip】[2026-08-16] Singing Stream Where You Can Enjoy Both Low and High Notes 💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=13",
   "source": "naraetan.js"
@@ -12488,7 +12488,7 @@ window.SONG_DATA.push(
     {
   "title": "希望峰",
   "artist": "Strawberry JAM",
-  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "collection": "【Singing Clip】[2026-08-16] Singing Stream Where You Can Enjoy Both Low and High Notes 💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=14",
   "source": "naraetan.js"
@@ -12496,7 +12496,7 @@ window.SONG_DATA.push(
     {
   "title": "シル・ヴ・プレジデント",
   "artist": "P丸様。",
-  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "collection": "【Singing Clip】[2026-08-16] Singing Stream Where You Can Enjoy Both Low and High Notes 💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=15",
   "source": "naraetan.js"
@@ -12504,7 +12504,7 @@ window.SONG_DATA.push(
     {
   "title": "如月アテンション",
   "artist": "じん feat.IA",
-  "collection": "【歌切】[2026-08-16]低音高音都能尽情享受的歌回💃",
+  "collection": "【Singing Clip】[2026-08-16] Singing Stream Where You Can Enjoy Both Low and High Notes 💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tsb86zEuC?p=16",
   "source": "naraetan.js"
@@ -12512,7 +12512,7 @@ window.SONG_DATA.push(
     {
   "title": "HEART OF SWORD ～夜明け前～",
   "artist": "T.M.Revolution",
-  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "collection": "[Song Clip][2026-08-19] Midweek! Recharge your energy👽",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=1",
   "source": "naraetan.js"
@@ -12520,7 +12520,7 @@ window.SONG_DATA.push(
     {
   "title": "ナツメグ",
   "artist": "PURPLE BUBBLE",
-  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "collection": "[Song Clip][2026-08-19] Midweek! Recharge your energy👽",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=2",
   "source": "naraetan.js"
@@ -12528,7 +12528,7 @@ window.SONG_DATA.push(
     {
   "title": "TOMORROW",
   "artist": "岡本真夜",
-  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "collection": "[Song Clip][2026-08-19] Midweek! Recharge your energy👽",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=3",
   "source": "naraetan.js"
@@ -12536,7 +12536,7 @@ window.SONG_DATA.push(
     {
   "title": "マリーゴールド",
   "artist": "あいみょん",
-  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "collection": "[Song Clip][2026-08-19] Midweek! Recharge your energy👽",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=4",
   "source": "naraetan.js"
@@ -12544,7 +12544,7 @@ window.SONG_DATA.push(
     {
   "title": "secret base ～君がくれたもの～",
   "artist": "ZONE",
-  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "collection": "[Song Clip][2026-08-19] Midweek! Recharge your energy👽",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=5",
   "source": "naraetan.js"
@@ -12552,7 +12552,7 @@ window.SONG_DATA.push(
     {
   "title": "君に最後の口づけを",
   "artist": "majiko",
-  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "collection": "[Song Clip][2026-08-19] Midweek! Recharge your energy👽",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=6",
   "source": "naraetan.js"
@@ -12560,7 +12560,7 @@ window.SONG_DATA.push(
     {
   "title": "ゆずれない願い",
   "artist": "田村直美",
-  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "collection": "[Song Clip][2026-08-19] Midweek! Recharge your energy👽",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=7",
   "source": "naraetan.js"
@@ -12568,7 +12568,7 @@ window.SONG_DATA.push(
     {
   "title": "mosi mosi?",
   "artist": "楽音",
-  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "collection": "[Song Clip][2026-08-19] Midweek! Recharge your energy👽",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=8",
   "source": "naraetan.js"
@@ -12576,7 +12576,7 @@ window.SONG_DATA.push(
     {
   "title": "Happy! Lucky! Dochy!",
   "artist": "古手梨花(田村ゆかり)＆北条沙都子(かないみか)＆羽入(堀江由衣)",
-  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "collection": "[Song Clip][2026-08-19] Midweek! Recharge your energy👽",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=9",
   "source": "naraetan.js"
@@ -12584,7 +12584,7 @@ window.SONG_DATA.push(
     {
   "title": "あの夢をなぞって",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "collection": "[Song Clip][2026-08-19] Midweek! Recharge your energy👽",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=10",
   "source": "naraetan.js"
@@ -12592,7 +12592,7 @@ window.SONG_DATA.push(
     {
   "title": "departure!",
   "artist": "小野正利",
-  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "collection": "[Song Clip][2026-08-19] Midweek! Recharge your energy👽",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=11",
   "source": "naraetan.js"
@@ -12600,7 +12600,7 @@ window.SONG_DATA.push(
     {
   "title": "ツギハギスタッカート",
   "artist": "とあ feat.初音ミク",
-  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "collection": "[Song Clip][2026-08-19] Midweek! Recharge your energy👽",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=12",
   "source": "naraetan.js"
@@ -12608,7 +12608,7 @@ window.SONG_DATA.push(
     {
   "title": "moment",
   "artist": "Vivian or Kazuma",
-  "collection": "【歌切】[2026-08-19]周中！补充元气👽",
+  "collection": "[Song Clip][2026-08-19] Midweek! Recharge your energy👽",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iLbo68EPx?p=13",
   "source": "naraetan.js"
@@ -12616,7 +12616,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "collection": "【Song Cut】[2026-08-20] Even if you only listen to one song, listen before you leave 🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=1",
   "source": "naraetan.js"
@@ -12624,7 +12624,7 @@ window.SONG_DATA.push(
     {
   "title": "プラスティック・ラブ",
   "artist": "竹内まりや",
-  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "collection": "【Song Cut】[2026-08-20] Even if you only listen to one song, listen before you leave 🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=2",
   "source": "naraetan.js"
@@ -12632,7 +12632,7 @@ window.SONG_DATA.push(
     {
   "title": "カントリー・ロード",
   "artist": "本名陽子",
-  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "collection": "【Song Cut】[2026-08-20] Even if you only listen to one song, listen before you leave 🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=3",
   "source": "naraetan.js"
@@ -12640,7 +12640,7 @@ window.SONG_DATA.push(
     {
   "title": "オリビアを聴きながら",
   "artist": "杏里",
-  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "collection": "【Song Cut】[2026-08-20] Even if you only listen to one song, listen before you leave 🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=4",
   "source": "naraetan.js"
@@ -12648,7 +12648,7 @@ window.SONG_DATA.push(
     {
   "title": "約束をしよう",
   "artist": "supercell",
-  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "collection": "【Song Cut】[2026-08-20] Even if you only listen to one song, listen before you leave 🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=5",
   "source": "naraetan.js"
@@ -12656,7 +12656,7 @@ window.SONG_DATA.push(
     {
   "title": "奏（かなで）",
   "artist": "スキマスイッチ",
-  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "collection": "【Song Cut】[2026-08-20] Even if you only listen to one song, listen before you leave 🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=6",
   "source": "naraetan.js"
@@ -12664,7 +12664,7 @@ window.SONG_DATA.push(
     {
   "title": "楓",
   "artist": "スピッツ",
-  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "collection": "【Song Cut】[2026-08-20] Even if you only listen to one song, listen before you leave 🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=7",
   "source": "naraetan.js"
@@ -12672,7 +12672,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒロイン",
   "artist": "back number",
-  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "collection": "【Song Cut】[2026-08-20] Even if you only listen to one song, listen before you leave 🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=8",
   "source": "naraetan.js"
@@ -12680,7 +12680,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "collection": "【Song Cut】[2026-08-20] Even if you only listen to one song, listen before you leave 🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=9",
   "source": "naraetan.js"
@@ -12688,7 +12688,7 @@ window.SONG_DATA.push(
     {
   "title": "innocent starter",
   "artist": "水樹奈々",
-  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "collection": "【Song Cut】[2026-08-20] Even if you only listen to one song, listen before you leave 🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=10",
   "source": "naraetan.js"
@@ -12696,7 +12696,7 @@ window.SONG_DATA.push(
     {
   "title": "愛を伝えたいだとか",
   "artist": "あいみょん",
-  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "collection": "【Song Cut】[2026-08-20] Even if you only listen to one song, listen before you leave 🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=11",
   "source": "naraetan.js"
@@ -12704,7 +12704,7 @@ window.SONG_DATA.push(
     {
   "title": "月並みに輝け",
   "artist": "結束バンド",
-  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "collection": "【Song Cut】[2026-08-20] Even if you only listen to one song, listen before you leave 🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=12",
   "source": "naraetan.js"
@@ -12712,7 +12712,7 @@ window.SONG_DATA.push(
     {
   "title": "UNDEAD",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "collection": "【Song Cut】[2026-08-20] Even if you only listen to one song, listen before you leave 🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=13",
   "source": "naraetan.js"
@@ -12720,7 +12720,7 @@ window.SONG_DATA.push(
     {
   "title": "mosi mosi?",
   "artist": "楽音",
-  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "collection": "【Song Cut】[2026-08-20] Even if you only listen to one song, listen before you leave 🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=14",
   "source": "naraetan.js"
@@ -12728,7 +12728,7 @@ window.SONG_DATA.push(
     {
   "title": "夏の在りか",
   "artist": "H△G",
-  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "collection": "【Song Cut】[2026-08-20] Even if you only listen to one song, listen before you leave 🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=15",
   "source": "naraetan.js"
@@ -12736,7 +12736,7 @@ window.SONG_DATA.push(
     {
   "title": "8.32",
   "artist": "*Luna feat.flower",
-  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "collection": "【Song Cut】[2026-08-20] Even if you only listen to one song, listen before you leave 🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=16",
   "source": "naraetan.js"
@@ -12744,7 +12744,7 @@ window.SONG_DATA.push(
     {
   "title": "夏に去りし君を想フ",
   "artist": "baker feat.初音ミク",
-  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "collection": "【Song Cut】[2026-08-20] Even if you only listen to one song, listen before you leave 🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=17",
   "source": "naraetan.js"
@@ -12752,7 +12752,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "collection": "【Song Cut】[2026-08-20] Even if you only listen to one song, listen before you leave 🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=18",
   "source": "naraetan.js"
@@ -12760,7 +12760,7 @@ window.SONG_DATA.push(
     {
   "title": "よくばり",
   "artist": "Ayase feat.初音ミク",
-  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "collection": "【Song Cut】[2026-08-20] Even if you only listen to one song, listen before you leave 🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=19",
   "source": "naraetan.js"
@@ -12768,7 +12768,7 @@ window.SONG_DATA.push(
     {
   "title": "群青",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "collection": "【Song Cut】[2026-08-20] Even if you only listen to one song, listen before you leave 🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=20",
   "source": "naraetan.js"
@@ -12776,7 +12776,7 @@ window.SONG_DATA.push(
     {
   "title": "青春コンプレックス",
   "artist": "結束バンド",
-  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "collection": "【Song Cut】[2026-08-20] Even if you only listen to one song, listen before you leave 🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=21",
   "source": "naraetan.js"
@@ -12784,7 +12784,7 @@ window.SONG_DATA.push(
     {
   "title": "Get Wild",
   "artist": "TM NETWORK",
-  "collection": "【歌切】[2026-08-20]哪怕只听一首也好，听完再走吧🍆",
+  "collection": "【Song Cut】[2026-08-20] Even if you only listen to one song, listen before you leave 🍆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Py8M6gEEP?p=22",
   "source": "naraetan.js"
@@ -12792,7 +12792,7 @@ window.SONG_DATA.push(
     {
   "title": "Driver's High",
   "artist": "L'Arc〜en〜Ciel",
-  "collection": "【歌切】[2026-08-22]为苦夏的你注入维生素的歌回🍊💊",
+  "collection": "【Singing Clip】[2026-08-22] A singing stream to inject vitamins into your suffering summer 🍊💊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1528p6NEhk?p=1",
   "source": "naraetan.js"
@@ -12800,7 +12800,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【歌切】[2026-08-22]为苦夏的你注入维生素的歌回🍊💊",
+  "collection": "【Singing Clip】[2026-08-22] A singing stream to inject vitamins into your suffering summer 🍊💊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1528p6NEhk?p=2",
   "source": "naraetan.js"
@@ -12808,7 +12808,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明け生まれ来る少女",
   "artist": "高橋洋子",
-  "collection": "【歌切】[2026-08-22]为苦夏的你注入维生素的歌回🍊💊",
+  "collection": "【Singing Clip】[2026-08-22] A singing stream to inject vitamins into your suffering summer 🍊💊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1528p6NEhk?p=3",
   "source": "naraetan.js"
@@ -12816,7 +12816,7 @@ window.SONG_DATA.push(
     {
   "title": "生きるよすが",
   "artist": "月詠み",
-  "collection": "【歌切】[2026-08-22]为苦夏的你注入维生素的歌回🍊💊",
+  "collection": "【Singing Clip】[2026-08-22] A singing stream to inject vitamins into your suffering summer 🍊💊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1528p6NEhk?p=4",
   "source": "naraetan.js"
@@ -12824,7 +12824,7 @@ window.SONG_DATA.push(
     {
   "title": "エンジェルウインク",
   "artist": "照橋心美(茅野愛衣)",
-  "collection": "【歌切】[2026-08-22]为苦夏的你注入维生素的歌回🍊💊",
+  "collection": "【Singing Clip】[2026-08-22] A singing stream to inject vitamins into your suffering summer 🍊💊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1528p6NEhk?p=5",
   "source": "naraetan.js"
@@ -12832,7 +12832,7 @@ window.SONG_DATA.push(
     {
   "title": "赤い罠(who loves it?)",
   "artist": "LiSA",
-  "collection": "【歌切】[2026-08-22]为苦夏的你注入维生素的歌回🍊💊",
+  "collection": "【Singing Clip】[2026-08-22] A singing stream to inject vitamins into your suffering summer 🍊💊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1528p6NEhk?p=6",
   "source": "naraetan.js"
@@ -12840,7 +12840,7 @@ window.SONG_DATA.push(
     {
   "title": "ハルジオン",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "collection": "[Song Clip] [2026-08-23] Sunday Singing Time 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=1",
   "source": "naraetan.js"
@@ -12848,7 +12848,7 @@ window.SONG_DATA.push(
     {
   "title": "少女レイ",
   "artist": "みきとP feat.初音ミク",
-  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "collection": "[Song Clip] [2026-08-23] Sunday Singing Time 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=2",
   "source": "naraetan.js"
@@ -12856,7 +12856,7 @@ window.SONG_DATA.push(
     {
   "title": "サウダージ",
   "artist": "ポルノグラフィティ",
-  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "collection": "[Song Clip] [2026-08-23] Sunday Singing Time 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=3",
   "source": "naraetan.js"
@@ -12864,7 +12864,7 @@ window.SONG_DATA.push(
     {
   "title": "リナリア",
   "artist": "まるりとりゅうが",
-  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "collection": "[Song Clip] [2026-08-23] Sunday Singing Time 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=4",
   "source": "naraetan.js"
@@ -12872,7 +12872,7 @@ window.SONG_DATA.push(
     {
   "title": "アイネクライネ",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "collection": "[Song Clip] [2026-08-23] Sunday Singing Time 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=5",
   "source": "naraetan.js"
@@ -12880,7 +12880,7 @@ window.SONG_DATA.push(
     {
   "title": "ツキミソウ",
   "artist": "Novelbright",
-  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "collection": "[Song Clip] [2026-08-23] Sunday Singing Time 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=6",
   "source": "naraetan.js"
@@ -12888,7 +12888,7 @@ window.SONG_DATA.push(
     {
   "title": "あんずの花",
   "artist": "すりぃ feat.ねね",
-  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "collection": "[Song Clip] [2026-08-23] Sunday Singing Time 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=7",
   "source": "naraetan.js"
@@ -12896,7 +12896,7 @@ window.SONG_DATA.push(
     {
   "title": "深愛",
   "artist": "水樹奈々",
-  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "collection": "[Song Clip] [2026-08-23] Sunday Singing Time 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=8",
   "source": "naraetan.js"
@@ -12904,7 +12904,7 @@ window.SONG_DATA.push(
     {
   "title": "サクラミツツキ",
   "artist": "SPYAIR",
-  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "collection": "[Song Clip] [2026-08-23] Sunday Singing Time 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=9",
   "source": "naraetan.js"
@@ -12912,7 +12912,7 @@ window.SONG_DATA.push(
     {
   "title": "Hello, Worker",
   "artist": "KEI feat.巡音ルカ",
-  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "collection": "[Song Clip] [2026-08-23] Sunday Singing Time 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=10",
   "source": "naraetan.js"
@@ -12920,7 +12920,7 @@ window.SONG_DATA.push(
     {
   "title": "ロキ",
   "artist": "みきとP feat.鏡音リン",
-  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "collection": "[Song Clip] [2026-08-23] Sunday Singing Time 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=11",
   "source": "naraetan.js"
@@ -12928,7 +12928,7 @@ window.SONG_DATA.push(
     {
   "title": "Happy Happy Birthday!",
   "artist": "SePTENTRION",
-  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "collection": "[Song Clip] [2026-08-23] Sunday Singing Time 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=12",
   "source": "naraetan.js"
@@ -12936,7 +12936,7 @@ window.SONG_DATA.push(
     {
   "title": "コネクト",
   "artist": "ClariS",
-  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "collection": "[Song Clip] [2026-08-23] Sunday Singing Time 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=13",
   "source": "naraetan.js"
@@ -12944,7 +12944,7 @@ window.SONG_DATA.push(
     {
   "title": "プラリネ",
   "artist": "ジュリア（CV：愛美）",
-  "collection": "【歌切】[2026-08-23]周日唱歌时间🎈",
+  "collection": "[Song Clip] [2026-08-23] Sunday Singing Time 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gu8a6HEGq?p=14",
   "source": "naraetan.js"
@@ -12952,7 +12952,7 @@ window.SONG_DATA.push(
     {
   "title": "Best Friend",
   "artist": "Kiroro",
-  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "collection": "【Song Clip】[2026-08-25] Passionate singing 🌹💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=1",
   "source": "naraetan.js"
@@ -12960,7 +12960,7 @@ window.SONG_DATA.push(
     {
   "title": "相思相愛",
   "artist": "aiko",
-  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "collection": "【Song Clip】[2026-08-25] Passionate singing 🌹💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=2",
   "source": "naraetan.js"
@@ -12968,7 +12968,7 @@ window.SONG_DATA.push(
     {
   "title": "No title",
   "artist": "Reol",
-  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "collection": "【Song Clip】[2026-08-25] Passionate singing 🌹💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=3",
   "source": "naraetan.js"
@@ -12976,7 +12976,7 @@ window.SONG_DATA.push(
     {
   "title": "W/X/Y",
   "artist": "Tani Yuuki",
-  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "collection": "【Song Clip】[2026-08-25] Passionate singing 🌹💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=4",
   "source": "naraetan.js"
@@ -12984,7 +12984,7 @@ window.SONG_DATA.push(
     {
   "title": "ぎゅっと。",
   "artist": "もさを。",
-  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "collection": "【Song Clip】[2026-08-25] Passionate singing 🌹💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=5",
   "source": "naraetan.js"
@@ -12992,7 +12992,7 @@ window.SONG_DATA.push(
     {
   "title": "Good-bye days",
   "artist": "YUI",
-  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "collection": "【Song Clip】[2026-08-25] Passionate singing 🌹💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=6",
   "source": "naraetan.js"
@@ -13000,7 +13000,7 @@ window.SONG_DATA.push(
     {
   "title": "First Love",
   "artist": "宇多田ヒカル",
-  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "collection": "【Song Clip】[2026-08-25] Passionate singing 🌹💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=7",
   "source": "naraetan.js"
@@ -13008,7 +13008,7 @@ window.SONG_DATA.push(
     {
   "title": "寝・逃・げでリセット!",
   "artist": "福原香織",
-  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "collection": "【Song Clip】[2026-08-25] Passionate singing 🌹💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=8",
   "source": "naraetan.js"
@@ -13016,7 +13016,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れじの言の葉",
   "artist": "安次嶺希和子",
-  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "collection": "【Song Clip】[2026-08-25] Passionate singing 🌹💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=9",
   "source": "naraetan.js"
@@ -13024,7 +13024,7 @@ window.SONG_DATA.push(
     {
   "title": "甲賀忍法帖",
   "artist": "陰陽座",
-  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "collection": "【Song Clip】[2026-08-25] Passionate singing 🌹💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=10",
   "source": "naraetan.js"
@@ -13032,7 +13032,7 @@ window.SONG_DATA.push(
     {
   "title": "片翼のイカロス",
   "artist": "榊原ゆい",
-  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "collection": "【Song Clip】[2026-08-25] Passionate singing 🌹💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=11",
   "source": "naraetan.js"
@@ -13040,7 +13040,7 @@ window.SONG_DATA.push(
     {
   "title": "ビビデバ",
   "artist": "星街すいせい",
-  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "collection": "【Song Clip】[2026-08-25] Passionate singing 🌹💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=12",
   "source": "naraetan.js"
@@ -13048,7 +13048,7 @@ window.SONG_DATA.push(
     {
   "title": "盛れ!ミ・アモーレ",
   "artist": "Juice=Juice",
-  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "collection": "【Song Clip】[2026-08-25] Passionate singing 🌹💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=13",
   "source": "naraetan.js"
@@ -13056,7 +13056,7 @@ window.SONG_DATA.push(
     {
   "title": "好きすぎて滅!",
   "artist": "M!LK",
-  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "collection": "【Song Clip】[2026-08-25] Passionate singing 🌹💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=14",
   "source": "naraetan.js"
@@ -13064,7 +13064,7 @@ window.SONG_DATA.push(
     {
   "title": "Ladybug",
   "artist": "緑黄色社会",
-  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "collection": "【Song Clip】[2026-08-25] Passionate singing 🌹💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=15",
   "source": "naraetan.js"
@@ -13072,7 +13072,7 @@ window.SONG_DATA.push(
     {
   "title": "と夏",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "collection": "【Song Clip】[2026-08-25] Passionate singing 🌹💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=16",
   "source": "naraetan.js"
@@ -13080,7 +13080,7 @@ window.SONG_DATA.push(
     {
   "title": "快晴",
   "artist": "Orangestar feat.IA",
-  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "collection": "【Song Clip】[2026-08-25] Passionate singing 🌹💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=17",
   "source": "naraetan.js"
@@ -13088,7 +13088,7 @@ window.SONG_DATA.push(
     {
   "title": "夏影",
   "artist": "Lia",
-  "collection": "【歌切】[2026-08-25]充满激情的演唱🌹💃",
+  "collection": "【Song Clip】[2026-08-25] Passionate singing 🌹💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qT8f6qEPj?p=18",
   "source": "naraetan.js"
@@ -13096,7 +13096,7 @@ window.SONG_DATA.push(
     {
   "title": "オリオンをなぞる",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "collection": "[Song Cut] [2026-08-28] August Song Request 💙 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=1",
   "source": "naraetan.js"
@@ -13104,7 +13104,7 @@ window.SONG_DATA.push(
     {
   "title": "青のすみか",
   "artist": "キタニタツヤ",
-  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "collection": "[Song Cut] [2026-08-28] August Song Request 💙 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=2",
   "source": "naraetan.js"
@@ -13112,7 +13112,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "collection": "[Song Cut] [2026-08-28] August Song Request 💙 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=3",
   "source": "naraetan.js"
@@ -13120,7 +13120,7 @@ window.SONG_DATA.push(
     {
   "title": "願いごとひとつだけ",
   "artist": "小松未歩",
-  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "collection": "[Song Cut] [2026-08-28] August Song Request 💙 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=4",
   "source": "naraetan.js"
@@ -13128,7 +13128,7 @@ window.SONG_DATA.push(
     {
   "title": "Everlasting Guilty Crown",
   "artist": "EGOIST",
-  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "collection": "[Song Cut] [2026-08-28] August Song Request 💙 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=5",
   "source": "naraetan.js"
@@ -13136,7 +13136,7 @@ window.SONG_DATA.push(
     {
   "title": "My Dearest",
   "artist": "supercell",
-  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "collection": "[Song Cut] [2026-08-28] August Song Request 💙 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=6",
   "source": "naraetan.js"
@@ -13144,7 +13144,7 @@ window.SONG_DATA.push(
     {
   "title": "アスノヨゾラ哨戒班",
   "artist": "Orangestar feat.IA",
-  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "collection": "[Song Cut] [2026-08-28] August Song Request 💙 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=7",
   "source": "naraetan.js"
@@ -13152,7 +13152,7 @@ window.SONG_DATA.push(
     {
   "title": "Give a reason",
   "artist": "林原めぐみ",
-  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "collection": "[Song Cut] [2026-08-28] August Song Request 💙 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=8",
   "source": "naraetan.js"
@@ -13160,7 +13160,7 @@ window.SONG_DATA.push(
     {
   "title": "鳥の詩",
   "artist": "Lia",
-  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "collection": "[Song Cut] [2026-08-28] August Song Request 💙 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=9",
   "source": "naraetan.js"
@@ -13168,7 +13168,7 @@ window.SONG_DATA.push(
     {
   "title": "Porque te vas",
   "artist": "Jeanette",
-  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "collection": "[Song Cut] [2026-08-28] August Song Request 💙 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=10",
   "source": "naraetan.js"
@@ -13176,7 +13176,7 @@ window.SONG_DATA.push(
     {
   "title": "大好きだよ。",
   "artist": "大塚愛",
-  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "collection": "[Song Cut] [2026-08-28] August Song Request 💙 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=11",
   "source": "naraetan.js"
@@ -13184,7 +13184,7 @@ window.SONG_DATA.push(
     {
   "title": "ゆずれない願い",
   "artist": "田村直美",
-  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "collection": "[Song Cut] [2026-08-28] August Song Request 💙 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=12",
   "source": "naraetan.js"
@@ -13192,7 +13192,7 @@ window.SONG_DATA.push(
     {
   "title": "カワキヲアメク",
   "artist": "美波",
-  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "collection": "[Song Cut] [2026-08-28] August Song Request 💙 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=13",
   "source": "naraetan.js"
@@ -13200,7 +13200,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "コレサワ",
-  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "collection": "[Song Cut] [2026-08-28] August Song Request 💙 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=14",
   "source": "naraetan.js"
@@ -13208,7 +13208,7 @@ window.SONG_DATA.push(
     {
   "title": "ライオン",
   "artist": "May'n & 中島愛",
-  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "collection": "[Song Cut] [2026-08-28] August Song Request 💙 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=15",
   "source": "naraetan.js"
@@ -13216,7 +13216,7 @@ window.SONG_DATA.push(
     {
   "title": "逆転劇",
   "artist": "月詠み",
-  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "collection": "[Song Cut] [2026-08-28] August Song Request 💙 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=16",
   "source": "naraetan.js"
@@ -13224,7 +13224,7 @@ window.SONG_DATA.push(
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド",
-  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "collection": "[Song Cut] [2026-08-28] August Song Request 💙 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=17",
   "source": "naraetan.js"
@@ -13232,7 +13232,7 @@ window.SONG_DATA.push(
     {
   "title": "盛れ!ミ・アモーレ",
   "artist": "Juice=Juice",
-  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "collection": "[Song Cut] [2026-08-28] August Song Request 💙 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=18",
   "source": "naraetan.js"
@@ -13240,7 +13240,7 @@ window.SONG_DATA.push(
     {
   "title": "I'm so happy",
   "artist": "Janne Da Arc",
-  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "collection": "[Song Cut] [2026-08-28] August Song Request 💙 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=19",
   "source": "naraetan.js"
@@ -13248,7 +13248,7 @@ window.SONG_DATA.push(
     {
   "title": "adrenaline!!!",
   "artist": "TrySail",
-  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "collection": "[Song Cut] [2026-08-28] August Song Request 💙 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=20",
   "source": "naraetan.js"
@@ -13256,7 +13256,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならメモリーズ",
   "artist": "supercell",
-  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "collection": "[Song Cut] [2026-08-28] August Song Request 💙 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=21",
   "source": "naraetan.js"
@@ -13264,7 +13264,7 @@ window.SONG_DATA.push(
     {
   "title": "Happy! Lucky! Dochy!",
   "artist": "古手梨花(田村ゆかり)、北条沙都子(かないみか)、羽入(堀江由衣)",
-  "collection": "【歌切】[2026-08-28]8月点歌💙【なれたん】",
+  "collection": "[Song Cut] [2026-08-28] August Song Request 💙 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t3t46ZEUG?p=22",
   "source": "naraetan.js"
@@ -13272,7 +13272,7 @@ window.SONG_DATA.push(
     {
   "title": "春はゆく",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
+  "collection": "[Song Cut] [2026-08-31] Let's try a sleep aid song stream (nervous) 🌃 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=1",
   "source": "naraetan.js"
@@ -13280,7 +13280,7 @@ window.SONG_DATA.push(
     {
   "title": "藍二乗",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
+  "collection": "[Song Cut] [2026-08-31] Let's try a sleep aid song stream (nervous) 🌃 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=2",
   "source": "naraetan.js"
@@ -13288,7 +13288,7 @@ window.SONG_DATA.push(
     {
   "title": "世界のつづき",
   "artist": "Ado",
-  "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
+  "collection": "[Song Cut] [2026-08-31] Let's try a sleep aid song stream (nervous) 🌃 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=3",
   "source": "naraetan.js"
@@ -13296,7 +13296,7 @@ window.SONG_DATA.push(
     {
   "title": "もののけ姫",
   "artist": "米良美一",
-  "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
+  "collection": "[Song Cut] [2026-08-31] Let's try a sleep aid song stream (nervous) 🌃 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=4",
   "source": "naraetan.js"
@@ -13304,7 +13304,7 @@ window.SONG_DATA.push(
     {
   "title": "天ノ弱",
   "artist": "164 feat.GUMI",
-  "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
+  "collection": "[Song Cut] [2026-08-31] Let's try a sleep aid song stream (nervous) 🌃 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=5",
   "source": "naraetan.js"
@@ -13312,7 +13312,7 @@ window.SONG_DATA.push(
     {
   "title": "今はいいんだよ。",
   "artist": "MIMI feat.可不",
-  "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
+  "collection": "[Song Cut] [2026-08-31] Let's try a sleep aid song stream (nervous) 🌃 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=6",
   "source": "naraetan.js"
@@ -13320,7 +13320,7 @@ window.SONG_DATA.push(
     {
   "title": "虹の彼方に",
   "artist": "ReoNa",
-  "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
+  "collection": "[Song Cut] [2026-08-31] Let's try a sleep aid song stream (nervous) 🌃 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=7",
   "source": "naraetan.js"
@@ -13328,7 +13328,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒロイン",
   "artist": "back number",
-  "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
+  "collection": "[Song Cut] [2026-08-31] Let's try a sleep aid song stream (nervous) 🌃 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=8",
   "source": "naraetan.js"
@@ -13336,7 +13336,7 @@ window.SONG_DATA.push(
     {
   "title": "心做し",
   "artist": "蝶々P feat.GUMI",
-  "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
+  "collection": "[Song Cut] [2026-08-31] Let's try a sleep aid song stream (nervous) 🌃 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=9",
   "source": "naraetan.js"
@@ -13344,7 +13344,7 @@ window.SONG_DATA.push(
     {
   "title": "本当の音",
   "artist": "KOKIA",
-  "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
+  "collection": "[Song Cut] [2026-08-31] Let's try a sleep aid song stream (nervous) 🌃 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=10",
   "source": "naraetan.js"
@@ -13352,7 +13352,7 @@ window.SONG_DATA.push(
     {
   "title": "光の方へ",
   "artist": "KOKIA",
-  "collection": "【歌切】[2026-08-31]来试试助眠歌回吧（紧张）🌃【なれたん】",
+  "collection": "[Song Cut] [2026-08-31] Let's try a sleep aid song stream (nervous) 🌃 [Naretan]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WGte6gEf1?p=11",
   "source": "naraetan.js"
@@ -13360,7 +13360,7 @@ window.SONG_DATA.push(
     {
   "title": "金曜日のおはよう",
   "artist": "HoneyWorks",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=1",
   "source": "naraetan.js"
@@ -13368,7 +13368,7 @@ window.SONG_DATA.push(
     {
   "title": "恋",
   "artist": "星野源",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=2",
   "source": "naraetan.js"
@@ -13376,7 +13376,7 @@ window.SONG_DATA.push(
     {
   "title": "TOMORROW",
   "artist": "岡本真夜",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=3",
   "source": "naraetan.js"
@@ -13384,7 +13384,7 @@ window.SONG_DATA.push(
     {
   "title": "コネクト",
   "artist": "ClariS",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=4",
   "source": "naraetan.js"
@@ -13392,7 +13392,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒトリゴト",
   "artist": "ClariS",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=5",
   "source": "naraetan.js"
@@ -13400,7 +13400,7 @@ window.SONG_DATA.push(
     {
   "title": "ミックスナッツ",
   "artist": "Official髭男dism",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=6",
   "source": "naraetan.js"
@@ -13408,7 +13408,7 @@ window.SONG_DATA.push(
     {
   "title": "Speaking",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=7",
   "source": "naraetan.js"
@@ -13416,7 +13416,7 @@ window.SONG_DATA.push(
     {
   "title": "狂乱Hey Kids!!",
   "artist": "THE ORAL CIGARETTES",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=8",
   "source": "naraetan.js"
@@ -13424,7 +13424,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか!",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=9",
   "source": "naraetan.js"
@@ -13432,7 +13432,7 @@ window.SONG_DATA.push(
     {
   "title": "LADY",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=10",
   "source": "naraetan.js"
@@ -13440,7 +13440,7 @@ window.SONG_DATA.push(
     {
   "title": "Flamingo",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=11",
   "source": "naraetan.js"
@@ -13448,7 +13448,7 @@ window.SONG_DATA.push(
     {
   "title": "LOSER",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=12",
   "source": "naraetan.js"
@@ -13456,7 +13456,7 @@ window.SONG_DATA.push(
     {
   "title": "感電",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=13",
   "source": "naraetan.js"
@@ -13464,7 +13464,7 @@ window.SONG_DATA.push(
     {
   "title": "ピースサイン",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=14",
   "source": "naraetan.js"
@@ -13472,7 +13472,7 @@ window.SONG_DATA.push(
     {
   "title": "IRIS OUT",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=15",
   "source": "naraetan.js"
@@ -13480,7 +13480,7 @@ window.SONG_DATA.push(
     {
   "title": "もののけ姫",
   "artist": "米良美一",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=16",
   "source": "naraetan.js"
@@ -13488,7 +13488,7 @@ window.SONG_DATA.push(
     {
   "title": "なんでもないや",
   "artist": "RADWIMPS",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=17",
   "source": "naraetan.js"
@@ -13496,7 +13496,7 @@ window.SONG_DATA.push(
     {
   "title": "Rubia",
   "artist": "Zhou Shen",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=18",
   "source": "naraetan.js"
@@ -13504,7 +13504,7 @@ window.SONG_DATA.push(
     {
   "title": "Sweet Dreams, My Dear",
   "artist": "SoHyang",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=19",
   "source": "naraetan.js"
@@ -13512,7 +13512,7 @@ window.SONG_DATA.push(
     {
   "title": "For フルーツバスケット",
   "artist": "岡崎律子",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=20",
   "source": "naraetan.js"
@@ -13520,7 +13520,7 @@ window.SONG_DATA.push(
     {
   "title": "Butter-Fly",
   "artist": "和田光司",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=21",
   "source": "naraetan.js"
@@ -13528,7 +13528,7 @@ window.SONG_DATA.push(
     {
   "title": "Brave Heart",
   "artist": "宮崎歩",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=22",
   "source": "naraetan.js"
@@ -13536,7 +13536,7 @@ window.SONG_DATA.push(
     {
   "title": "ターゲット～赤い衝撃～",
   "artist": "和田光司",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=23",
   "source": "naraetan.js"
@@ -13544,7 +13544,7 @@ window.SONG_DATA.push(
     {
   "title": "FIRE!!",
   "artist": "和田光司",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=24",
   "source": "naraetan.js"
@@ -13552,7 +13552,7 @@ window.SONG_DATA.push(
     {
   "title": "departure!",
   "artist": "小野正利",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=25",
   "source": "naraetan.js"
@@ -13560,7 +13560,7 @@ window.SONG_DATA.push(
     {
   "title": "おはよう。",
   "artist": "Keno",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=26",
   "source": "naraetan.js"
@@ -13568,7 +13568,7 @@ window.SONG_DATA.push(
     {
   "title": "楓",
   "artist": "スピッツ",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=27",
   "source": "naraetan.js"
@@ -13576,7 +13576,7 @@ window.SONG_DATA.push(
     {
   "title": "オリビアを聴きながら",
   "artist": "杏里",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=28",
   "source": "naraetan.js"
@@ -13584,7 +13584,7 @@ window.SONG_DATA.push(
     {
   "title": "変わらないもの",
   "artist": "奥華子",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=29",
   "source": "naraetan.js"
@@ -13592,7 +13592,7 @@ window.SONG_DATA.push(
     {
   "title": "ガーネット",
   "artist": "奥華子",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=30",
   "source": "naraetan.js"
@@ -13600,7 +13600,7 @@ window.SONG_DATA.push(
     {
   "title": "ウィーアー!",
   "artist": "きただにひろし",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=31",
   "source": "naraetan.js"
@@ -13608,7 +13608,7 @@ window.SONG_DATA.push(
     {
   "title": "COLORS",
   "artist": "FLOW",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=32",
   "source": "naraetan.js"
@@ -13616,7 +13616,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=33",
   "source": "naraetan.js"
@@ -13624,7 +13624,7 @@ window.SONG_DATA.push(
     {
   "title": "Rolling star",
   "artist": "YUI",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=34",
   "source": "naraetan.js"
@@ -13632,7 +13632,7 @@ window.SONG_DATA.push(
     {
   "title": "マイ フレンド",
   "artist": "ZARD",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=35",
   "source": "naraetan.js"
@@ -13640,7 +13640,7 @@ window.SONG_DATA.push(
     {
   "title": "あなただけ見つめてる",
   "artist": "大黒摩季",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=36",
   "source": "naraetan.js"
@@ -13648,7 +13648,7 @@ window.SONG_DATA.push(
     {
   "title": "fragile",
   "artist": "Every Little Thing",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=37",
   "source": "naraetan.js"
@@ -13656,7 +13656,7 @@ window.SONG_DATA.push(
     {
   "title": "恋文",
   "artist": "Every Little Thing",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=38",
   "source": "naraetan.js"
@@ -13664,7 +13664,7 @@ window.SONG_DATA.push(
     {
   "title": "Calc.",
   "artist": "ジミーサムP feat.初音ミク",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=39",
   "source": "naraetan.js"
@@ -13672,7 +13672,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛裁判",
   "artist": "40mP feat.初音ミク",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=40",
   "source": "naraetan.js"
@@ -13680,7 +13680,7 @@ window.SONG_DATA.push(
     {
   "title": "シャルル",
   "artist": "バルーン feat.flower",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=41",
   "source": "naraetan.js"
@@ -13688,7 +13688,7 @@ window.SONG_DATA.push(
     {
   "title": "モニタリング",
   "artist": "DECO*27 feat.初音ミク",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=42",
   "source": "naraetan.js"
@@ -13696,7 +13696,7 @@ window.SONG_DATA.push(
     {
   "title": "DISCOTHEQUE",
   "artist": "水樹奈々",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=43",
   "source": "naraetan.js"
@@ -13704,7 +13704,7 @@ window.SONG_DATA.push(
     {
   "title": "冒険彗星",
   "artist": "榎本くるみ",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=44",
   "source": "naraetan.js"
@@ -13712,7 +13712,7 @@ window.SONG_DATA.push(
     {
   "title": "強盗と花束",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=45",
   "source": "naraetan.js"
@@ -13720,7 +13720,7 @@ window.SONG_DATA.push(
     {
   "title": "聖少女領域",
   "artist": "ALI PROJECT",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=46",
   "source": "naraetan.js"
@@ -13728,7 +13728,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒャダインのカカカタ☆カタオモイ-C",
   "artist": "ヒャダイン",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=47",
   "source": "naraetan.js"
@@ -13736,7 +13736,7 @@ window.SONG_DATA.push(
     {
   "title": "オトノナルホウヘ→",
   "artist": "Goose house",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=48",
   "source": "naraetan.js"
@@ -13744,7 +13744,7 @@ window.SONG_DATA.push(
     {
   "title": "光るなら",
   "artist": "Goose house",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=49",
   "source": "naraetan.js"
@@ -13752,7 +13752,7 @@ window.SONG_DATA.push(
     {
   "title": "空色デイズ",
   "artist": "中川翔子",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=50",
   "source": "naraetan.js"
@@ -13760,7 +13760,7 @@ window.SONG_DATA.push(
     {
   "title": "たぶん",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=51",
   "source": "naraetan.js"
@@ -13768,7 +13768,7 @@ window.SONG_DATA.push(
     {
   "title": "UNDEAD",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=52",
   "source": "naraetan.js"
@@ -13776,7 +13776,7 @@ window.SONG_DATA.push(
     {
   "title": "車輪の唄",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=53",
   "source": "naraetan.js"
@@ -13784,7 +13784,7 @@ window.SONG_DATA.push(
     {
   "title": "藍二乗",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=54",
   "source": "naraetan.js"
@@ -13792,7 +13792,7 @@ window.SONG_DATA.push(
     {
   "title": "愛唄",
   "artist": "GReeeeN",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=55",
   "source": "naraetan.js"
@@ -13800,7 +13800,7 @@ window.SONG_DATA.push(
     {
   "title": "JANE DOE",
   "artist": "米津玄師、宇多田ヒカル",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=56",
   "source": "naraetan.js"
@@ -13808,7 +13808,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=57",
   "source": "naraetan.js"
@@ -13816,7 +13816,7 @@ window.SONG_DATA.push(
     {
   "title": "Shangri-La",
   "artist": "angela",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=58",
   "source": "naraetan.js"
@@ -13824,7 +13824,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンスホール",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=59",
   "source": "naraetan.js"
@@ -13832,7 +13832,7 @@ window.SONG_DATA.push(
     {
   "title": "森の小さなレストラン",
   "artist": "手嶌葵",
-  "collection": "【歌切】[2026-09-04]耐久歌回｜唱到11,111人！(＋公开新衣装？)💫【#なれたん】",
+  "collection": "【Song Clip】[2026-09-04] Endurance Singing Stream｜Sing until 11,111 viewers! (＋New outfit reveal?) 💫【#Naretang】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CE2r?p=60",
   "source": "naraetan.js"
@@ -13840,7 +13840,7 @@ window.SONG_DATA.push(
     {
   "title": "愛言葉Ⅲ",
   "artist": "DECO*27 feat.初音ミク",
-  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "collection": "【Song Cover】[2026-09-07] Forgot to show off the new look 🏄【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=1",
   "source": "naraetan.js"
@@ -13848,7 +13848,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ君に晴れ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "collection": "【Song Cover】[2026-09-07] Forgot to show off the new look 🏄【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=2",
   "source": "naraetan.js"
@@ -13856,7 +13856,7 @@ window.SONG_DATA.push(
     {
   "title": "セプテンバーさん",
   "artist": "RADWIMPS",
-  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "collection": "【Song Cover】[2026-09-07] Forgot to show off the new look 🏄【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=3",
   "source": "naraetan.js"
@@ -13864,7 +13864,7 @@ window.SONG_DATA.push(
     {
   "title": "U&I",
   "artist": "放課後ティータイム",
-  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "collection": "【Song Cover】[2026-09-07] Forgot to show off the new look 🏄【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=4",
   "source": "naraetan.js"
@@ -13872,7 +13872,7 @@ window.SONG_DATA.push(
     {
   "title": "おジャ魔女カーニバル!!",
   "artist": "MAHO堂",
-  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "collection": "【Song Cover】[2026-09-07] Forgot to show off the new look 🏄【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=5",
   "source": "naraetan.js"
@@ -13880,7 +13880,7 @@ window.SONG_DATA.push(
     {
   "title": "全力バタンキュー",
   "artist": "A応P",
-  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "collection": "【Song Cover】[2026-09-07] Forgot to show off the new look 🏄【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=6",
   "source": "naraetan.js"
@@ -13888,7 +13888,7 @@ window.SONG_DATA.push(
     {
   "title": "アドレナ",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "collection": "【Song Cover】[2026-09-07] Forgot to show off the new look 🏄【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=7",
   "source": "naraetan.js"
@@ -13896,7 +13896,7 @@ window.SONG_DATA.push(
     {
   "title": "ロマンスの神様",
   "artist": "広瀬香美",
-  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "collection": "【Song Cover】[2026-09-07] Forgot to show off the new look 🏄【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=8",
   "source": "naraetan.js"
@@ -13904,7 +13904,7 @@ window.SONG_DATA.push(
     {
   "title": "ハナノイロ",
   "artist": "nano.RIPE",
-  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "collection": "【Song Cover】[2026-09-07] Forgot to show off the new look 🏄【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=9",
   "source": "naraetan.js"
@@ -13912,7 +13912,7 @@ window.SONG_DATA.push(
     {
   "title": "ルンがピカッと光ったら",
   "artist": "ワルキューレ",
-  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "collection": "【Song Cover】[2026-09-07] Forgot to show off the new look 🏄【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=10",
   "source": "naraetan.js"
@@ -13920,7 +13920,7 @@ window.SONG_DATA.push(
     {
   "title": "わたしの一番かわいいところ",
   "artist": "FRUITS ZIPPER",
-  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "collection": "【Song Cover】[2026-09-07] Forgot to show off the new look 🏄【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=11",
   "source": "naraetan.js"
@@ -13928,7 +13928,7 @@ window.SONG_DATA.push(
     {
   "title": "mosi mosi?",
   "artist": "楽音",
-  "collection": "【歌切】[2026-09-07]居然忘记展示新造型了🏄【なれたん】",
+  "collection": "【Song Cover】[2026-09-07] Forgot to show off the new look 🏄【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXbu6fEtV?p=12",
   "source": "naraetan.js"
@@ -13936,7 +13936,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "collection": "【Song Clip】[2026-09-10] Do you like listening to singing streams? 🩵【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=1",
   "source": "naraetan.js"
@@ -13944,7 +13944,7 @@ window.SONG_DATA.push(
     {
   "title": "ボクノート",
   "artist": "スキマスイッチ",
-  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "collection": "【Song Clip】[2026-09-10] Do you like listening to singing streams? 🩵【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=2",
   "source": "naraetan.js"
@@ -13952,7 +13952,7 @@ window.SONG_DATA.push(
     {
   "title": "RAIN",
   "artist": "SEKAI NO OWARI",
-  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "collection": "【Song Clip】[2026-09-10] Do you like listening to singing streams? 🩵【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=3",
   "source": "naraetan.js"
@@ -13960,7 +13960,7 @@ window.SONG_DATA.push(
     {
   "title": "北埼玉ブルース",
   "artist": "のはらひろし(藤原啓治)",
-  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "collection": "【Song Clip】[2026-09-10] Do you like listening to singing streams? 🩵【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=4",
   "source": "naraetan.js"
@@ -13968,7 +13968,7 @@ window.SONG_DATA.push(
     {
   "title": "Square",
   "artist": "Yerin Baek",
-  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "collection": "【Song Clip】[2026-09-10] Do you like listening to singing streams? 🩵【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=5",
   "source": "naraetan.js"
@@ -13976,7 +13976,7 @@ window.SONG_DATA.push(
     {
   "title": "猫",
   "artist": "DISH//",
-  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "collection": "【Song Clip】[2026-09-10] Do you like listening to singing streams? 🩵【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=6",
   "source": "naraetan.js"
@@ -13984,7 +13984,7 @@ window.SONG_DATA.push(
     {
   "title": "隣に…",
   "artist": "三浦あずさ(CV.たかはし智秋)",
-  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "collection": "【Song Clip】[2026-09-10] Do you like listening to singing streams? 🩵【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=7",
   "source": "naraetan.js"
@@ -13992,7 +13992,7 @@ window.SONG_DATA.push(
     {
   "title": "愛とか恋とか",
   "artist": "Novelbright",
-  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "collection": "【Song Clip】[2026-09-10] Do you like listening to singing streams? 🩵【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=8",
   "source": "naraetan.js"
@@ -14000,7 +14000,7 @@ window.SONG_DATA.push(
     {
   "title": "あの夢をなぞって",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "collection": "【Song Clip】[2026-09-10] Do you like listening to singing streams? 🩵【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=9",
   "source": "naraetan.js"
@@ -14008,7 +14008,7 @@ window.SONG_DATA.push(
     {
   "title": "Pray",
   "artist": "水樹奈々",
-  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "collection": "【Song Clip】[2026-09-10] Do you like listening to singing streams? 🩵【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=10",
   "source": "naraetan.js"
@@ -14016,7 +14016,7 @@ window.SONG_DATA.push(
     {
   "title": "白銀",
   "artist": "LiSA",
-  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "collection": "【Song Clip】[2026-09-10] Do you like listening to singing streams? 🩵【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=11",
   "source": "naraetan.js"
@@ -14024,7 +14024,7 @@ window.SONG_DATA.push(
     {
   "title": "軌跡",
   "artist": "Roselia",
-  "collection": "【歌切】[2026-09-10]你喜欢听歌回吗？🩵【なれたん】",
+  "collection": "【Song Clip】[2026-09-10] Do you like listening to singing streams? 🩵【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1txYV6BEfD?p=12",
   "source": "naraetan.js"
@@ -14032,7 +14032,7 @@ window.SONG_DATA.push(
     {
   "title": "冒険でしょでしょ?",
   "artist": "平野綾",
-  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "collection": "【Song Clip】[2026-09-11]Friday Afternoon! Sing with Full Spirit🌈【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=1",
   "source": "naraetan.js"
@@ -14040,7 +14040,7 @@ window.SONG_DATA.push(
     {
   "title": "ハレ晴レユカイ",
   "artist": "平野綾、茅原実里、後藤邑子",
-  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "collection": "【Song Clip】[2026-09-11]Friday Afternoon! Sing with Full Spirit🌈【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=2",
   "source": "naraetan.js"
@@ -14048,7 +14048,7 @@ window.SONG_DATA.push(
     {
   "title": "courage",
   "artist": "戸松遥",
-  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "collection": "【Song Clip】[2026-09-11]Friday Afternoon! Sing with Full Spirit🌈【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=3",
   "source": "naraetan.js"
@@ -14056,7 +14056,7 @@ window.SONG_DATA.push(
     {
   "title": "リフレクティア",
   "artist": "eufonius",
-  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "collection": "【Song Clip】[2026-09-11]Friday Afternoon! Sing with Full Spirit🌈【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=4",
   "source": "naraetan.js"
@@ -14064,7 +14064,7 @@ window.SONG_DATA.push(
     {
   "title": "はなまるぴっぴはよいこだけ",
   "artist": "A応P",
-  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "collection": "【Song Clip】[2026-09-11]Friday Afternoon! Sing with Full Spirit🌈【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=5",
   "source": "naraetan.js"
@@ -14072,7 +14072,7 @@ window.SONG_DATA.push(
     {
   "title": "Over Soul",
   "artist": "林原めぐみ",
-  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "collection": "【Song Clip】[2026-09-11]Friday Afternoon! Sing with Full Spirit🌈【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=6",
   "source": "naraetan.js"
@@ -14080,7 +14080,7 @@ window.SONG_DATA.push(
     {
   "title": "花になって",
   "artist": "緑黄色社会",
-  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "collection": "【Song Clip】[2026-09-11]Friday Afternoon! Sing with Full Spirit🌈【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=7",
   "source": "naraetan.js"
@@ -14088,7 +14088,7 @@ window.SONG_DATA.push(
     {
   "title": "ホウキ雲",
   "artist": "RYTHEM",
-  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "collection": "【Song Clip】[2026-09-11]Friday Afternoon! Sing with Full Spirit🌈【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=8",
   "source": "naraetan.js"
@@ -14096,7 +14096,7 @@ window.SONG_DATA.push(
     {
   "title": "1991",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "collection": "【Song Clip】[2026-09-11]Friday Afternoon! Sing with Full Spirit🌈【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=9",
   "source": "naraetan.js"
@@ -14104,7 +14104,7 @@ window.SONG_DATA.push(
     {
   "title": "あぶく",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "collection": "【Song Clip】[2026-09-11]Friday Afternoon! Sing with Full Spirit🌈【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=10",
   "source": "naraetan.js"
@@ -14112,7 +14112,7 @@ window.SONG_DATA.push(
     {
   "title": "アンインストール",
   "artist": "石川智晶",
-  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "collection": "【Song Clip】[2026-09-11]Friday Afternoon! Sing with Full Spirit🌈【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=11",
   "source": "naraetan.js"
@@ -14120,7 +14120,7 @@ window.SONG_DATA.push(
     {
   "title": "怪物",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "collection": "【Song Clip】[2026-09-11]Friday Afternoon! Sing with Full Spirit🌈【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=12",
   "source": "naraetan.js"
@@ -14128,7 +14128,7 @@ window.SONG_DATA.push(
     {
   "title": "学園天国",
   "artist": "フィンガー5",
-  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "collection": "【Song Clip】[2026-09-11]Friday Afternoon! Sing with Full Spirit🌈【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=13",
   "source": "naraetan.js"
@@ -14136,7 +14136,7 @@ window.SONG_DATA.push(
     {
   "title": "Mela!",
   "artist": "緑黄色社会",
-  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "collection": "【Song Clip】[2026-09-11]Friday Afternoon! Sing with Full Spirit🌈【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=14",
   "source": "naraetan.js"
@@ -14144,7 +14144,7 @@ window.SONG_DATA.push(
     {
   "title": "ピアノ泥棒",
   "artist": "amazarashi",
-  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "collection": "【Song Clip】[2026-09-11]Friday Afternoon! Sing with Full Spirit🌈【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=15",
   "source": "naraetan.js"
@@ -14152,7 +14152,7 @@ window.SONG_DATA.push(
     {
   "title": "不完全燃焼",
   "artist": "石川智晶",
-  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "collection": "【Song Clip】[2026-09-11]Friday Afternoon! Sing with Full Spirit🌈【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=16",
   "source": "naraetan.js"
@@ -14160,7 +14160,7 @@ window.SONG_DATA.push(
     {
   "title": "盛れ!ミ・アモーレ",
   "artist": "Juice=Juice",
-  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "collection": "【Song Clip】[2026-09-11]Friday Afternoon! Sing with Full Spirit🌈【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=17",
   "source": "naraetan.js"
@@ -14168,7 +14168,7 @@ window.SONG_DATA.push(
     {
   "title": "HOT LIMIT",
   "artist": "T.M.Revolution",
-  "collection": "【歌切】[2026-09-11]周五下午！精神满满地唱吧🌈【なれたん】",
+  "collection": "【Song Clip】[2026-09-11]Friday Afternoon! Sing with Full Spirit🌈【なれたん】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mPYY6sEmf?p=18",
   "source": "naraetan.js"
@@ -14176,7 +14176,7 @@ window.SONG_DATA.push(
     {
   "title": "カルマ",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "collection": "【Song Cover】[2026-09-13] Cramming session here we go here we go here we go🎤٩(ˊОˋ*)🎶【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=1",
   "source": "naraetan.js"
@@ -14184,7 +14184,7 @@ window.SONG_DATA.push(
     {
   "title": "sailing day",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "collection": "【Song Cover】[2026-09-13] Cramming session here we go here we go here we go🎤٩(ˊОˋ*)🎶【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=2",
   "source": "naraetan.js"
@@ -14192,7 +14192,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "collection": "【Song Cover】[2026-09-13] Cramming session here we go here we go here we go🎤٩(ˊОˋ*)🎶【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=3",
   "source": "naraetan.js"
@@ -14200,7 +14200,7 @@ window.SONG_DATA.push(
     {
   "title": "BOW AND ARROW",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "collection": "【Song Cover】[2026-09-13] Cramming session here we go here we go here we go🎤٩(ˊОˋ*)🎶【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=4",
   "source": "naraetan.js"
@@ -14208,7 +14208,7 @@ window.SONG_DATA.push(
     {
   "title": "あぶく",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "collection": "【Song Cover】[2026-09-13] Cramming session here we go here we go here we go🎤٩(ˊОˋ*)🎶【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=5",
   "source": "naraetan.js"
@@ -14216,7 +14216,7 @@ window.SONG_DATA.push(
     {
   "title": "記憶を歩く時間",
   "artist": "NELL",
-  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "collection": "【Song Cover】[2026-09-13] Cramming session here we go here we go here we go🎤٩(ˊОˋ*)🎶【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=6",
   "source": "naraetan.js"
@@ -14224,7 +14224,7 @@ window.SONG_DATA.push(
     {
   "title": "アイノカタチ",
   "artist": "MISIA",
-  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "collection": "【Song Cover】[2026-09-13] Cramming session here we go here we go here we go🎤٩(ˊОˋ*)🎶【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=7",
   "source": "naraetan.js"
@@ -14232,7 +14232,7 @@ window.SONG_DATA.push(
     {
   "title": "セプテンバーさん",
   "artist": "RADWIMPS",
-  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "collection": "【Song Cover】[2026-09-13] Cramming session here we go here we go here we go🎤٩(ˊОˋ*)🎶【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=8",
   "source": "naraetan.js"
@@ -14240,7 +14240,7 @@ window.SONG_DATA.push(
     {
   "title": "only my railgun",
   "artist": "fripSide",
-  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "collection": "【Song Cover】[2026-09-13] Cramming session here we go here we go here we go🎤٩(ˊОˋ*)🎶【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=9",
   "source": "naraetan.js"
@@ -14248,7 +14248,7 @@ window.SONG_DATA.push(
     {
   "title": "月灯りふんわり落ちてくる夜",
   "artist": "小川七生",
-  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "collection": "【Song Cover】[2026-09-13] Cramming session here we go here we go here we go🎤٩(ˊОˋ*)🎶【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=10",
   "source": "naraetan.js"
@@ -14256,7 +14256,7 @@ window.SONG_DATA.push(
     {
   "title": "あんなに一緒だったのに",
   "artist": "See-Saw",
-  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "collection": "【Song Cover】[2026-09-13] Cramming session here we go here we go here we go🎤٩(ˊОˋ*)🎶【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=11",
   "source": "naraetan.js"
@@ -14264,7 +14264,7 @@ window.SONG_DATA.push(
     {
   "title": "Q&A リサイタル!",
   "artist": "戸松遥",
-  "collection": "【歌切】[2026-09-13]突击来啦来啦来啦🎤٩(ˊОˋ*)🎶【なれたん】",
+  "collection": "【Song Cover】[2026-09-13] Cramming session here we go here we go here we go🎤٩(ˊОˋ*)🎶【Naretan】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vcYr6bEfU?p=12",
   "source": "naraetan.js"
@@ -14272,7 +14272,7 @@ window.SONG_DATA.push(
     {
   "title": "女の子は泣かない",
   "artist": "片平里菜",
-  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "collection": "【Song Cut】[2026-09-15] The weather is gradually getting cooler 🍂",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=1",
   "source": "naraetan.js"
@@ -14280,7 +14280,7 @@ window.SONG_DATA.push(
     {
   "title": "Ubiquitous dB",
   "artist": "ユナ(CV:神田沙也加)",
-  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "collection": "【Song Cut】[2026-09-15] The weather is gradually getting cooler 🍂",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=2",
   "source": "naraetan.js"
@@ -14288,7 +14288,7 @@ window.SONG_DATA.push(
     {
   "title": "PURE SNOW",
   "artist": "佐々木ゆう子",
-  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "collection": "【Song Cut】[2026-09-15] The weather is gradually getting cooler 🍂",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=3",
   "source": "naraetan.js"
@@ -14296,7 +14296,7 @@ window.SONG_DATA.push(
     {
   "title": "優しさの理由",
   "artist": "ChouCho",
-  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "collection": "【Song Cut】[2026-09-15] The weather is gradually getting cooler 🍂",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=4",
   "source": "naraetan.js"
@@ -14304,7 +14304,7 @@ window.SONG_DATA.push(
     {
   "title": "リフレクティア",
   "artist": "eufonius",
-  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "collection": "【Song Cut】[2026-09-15] The weather is gradually getting cooler 🍂",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=5",
   "source": "naraetan.js"
@@ -14312,7 +14312,7 @@ window.SONG_DATA.push(
     {
   "title": "Last Piece",
   "artist": "Kirari",
-  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "collection": "【Song Cut】[2026-09-15] The weather is gradually getting cooler 🍂",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=6",
   "source": "naraetan.js"
@@ -14320,7 +14320,7 @@ window.SONG_DATA.push(
     {
   "title": "Magia",
   "artist": "Kalafina",
-  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "collection": "【Song Cut】[2026-09-15] The weather is gradually getting cooler 🍂",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=7",
   "source": "naraetan.js"
@@ -14328,7 +14328,7 @@ window.SONG_DATA.push(
     {
   "title": "涙の種、笑顔の花",
   "artist": "中川翔子",
-  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "collection": "【Song Cut】[2026-09-15] The weather is gradually getting cooler 🍂",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=8",
   "source": "naraetan.js"
@@ -14336,7 +14336,7 @@ window.SONG_DATA.push(
     {
   "title": "破滅の純情",
   "artist": "ワルキューレ",
-  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "collection": "【Song Cut】[2026-09-15] The weather is gradually getting cooler 🍂",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=9",
   "source": "naraetan.js"
@@ -14344,7 +14344,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーチラス",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "collection": "【Song Cut】[2026-09-15] The weather is gradually getting cooler 🍂",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=10",
   "source": "naraetan.js"
@@ -14352,7 +14352,7 @@ window.SONG_DATA.push(
     {
   "title": "神のまにまに",
   "artist": "れるりり feat.初音ミク・鏡音リン・GUMI",
-  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "collection": "【Song Cut】[2026-09-15] The weather is gradually getting cooler 🍂",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=11",
   "source": "naraetan.js"
@@ -14360,7 +14360,7 @@ window.SONG_DATA.push(
     {
   "title": "ファンサ",
   "artist": "mona(CV:夏川椎菜)",
-  "collection": "【歌切】[2026-09-15]天气渐渐凉快起来了呢🍂",
+  "collection": "【Song Cut】[2026-09-15] The weather is gradually getting cooler 🍂",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14BeW6PEaL?p=12",
   "source": "naraetan.js"
@@ -14368,7 +14368,7 @@ window.SONG_DATA.push(
     {
   "title": "青い栞",
   "artist": "Galileo Galilei",
-  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "collection": "【Song Cover】[2026-09-16] A season that feels a bit lonely 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=1",
   "source": "naraetan.js"
@@ -14376,7 +14376,7 @@ window.SONG_DATA.push(
     {
   "title": "世界中の誰よりきっと",
   "artist": "中山美穂&WANDS",
-  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "collection": "【Song Cover】[2026-09-16] A season that feels a bit lonely 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=2",
   "source": "naraetan.js"
@@ -14384,7 +14384,7 @@ window.SONG_DATA.push(
     {
   "title": "浪漫飛行",
   "artist": "米米CLUB",
-  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "collection": "【Song Cover】[2026-09-16] A season that feels a bit lonely 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=3",
   "source": "naraetan.js"
@@ -14392,7 +14392,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "collection": "【Song Cover】[2026-09-16] A season that feels a bit lonely 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=4",
   "source": "naraetan.js"
@@ -14400,7 +14400,7 @@ window.SONG_DATA.push(
     {
   "title": "ループ",
   "artist": "坂本真綾",
-  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "collection": "【Song Cover】[2026-09-16] A season that feels a bit lonely 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=5",
   "source": "naraetan.js"
@@ -14408,7 +14408,7 @@ window.SONG_DATA.push(
     {
   "title": "地球最後の告白を",
   "artist": "kemu feat.GUMI",
-  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "collection": "【Song Cover】[2026-09-16] A season that feels a bit lonely 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=6",
   "source": "naraetan.js"
@@ -14416,7 +14416,7 @@ window.SONG_DATA.push(
     {
   "title": "魂のルフラン",
   "artist": "高橋洋子",
-  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "collection": "【Song Cover】[2026-09-16] A season that feels a bit lonely 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=7",
   "source": "naraetan.js"
@@ -14424,7 +14424,7 @@ window.SONG_DATA.push(
     {
   "title": "I beg you",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "collection": "【Song Cover】[2026-09-16] A season that feels a bit lonely 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=8",
   "source": "naraetan.js"
@@ -14432,7 +14432,7 @@ window.SONG_DATA.push(
     {
   "title": "おどるポンポコリン",
   "artist": "B.B.クィーンズ",
-  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "collection": "【Song Cover】[2026-09-16] A season that feels a bit lonely 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=9",
   "source": "naraetan.js"
@@ -14440,7 +14440,7 @@ window.SONG_DATA.push(
     {
   "title": "사건의 지평선 (Event Horizon)",
   "artist": "ユンナ",
-  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "collection": "【Song Cover】[2026-09-16] A season that feels a bit lonely 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=10",
   "source": "naraetan.js"
@@ -14448,7 +14448,7 @@ window.SONG_DATA.push(
     {
   "title": "もう恋なんてしない",
   "artist": "槇原敬之",
-  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "collection": "【Song Cover】[2026-09-16] A season that feels a bit lonely 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=11",
   "source": "naraetan.js"
@@ -14456,7 +14456,7 @@ window.SONG_DATA.push(
     {
   "title": "LOVE SOMEBODY",
   "artist": "福井麻利子",
-  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "collection": "【Song Cover】[2026-09-16] A season that feels a bit lonely 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=12",
   "source": "naraetan.js"
@@ -14464,7 +14464,7 @@ window.SONG_DATA.push(
     {
   "title": "あぶく",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "collection": "【Song Cover】[2026-09-16] A season that feels a bit lonely 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=13",
   "source": "naraetan.js"
@@ -14472,7 +14472,7 @@ window.SONG_DATA.push(
     {
   "title": "ダダダダ天使",
   "artist": "ナナヲアカリ",
-  "collection": "【歌切】[2026-09-16]有些让人感到寂寞的季节🎈",
+  "collection": "【Song Cover】[2026-09-16] A season that feels a bit lonely 🎈",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M1eT6sEQN?p=14",
   "source": "naraetan.js"
@@ -14480,7 +14480,7 @@ window.SONG_DATA.push(
     {
   "title": "きみにとどけ",
   "artist": "タニザワトモフミ",
-  "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
+  "collection": "【Song Clip】[2026-09-18] Summer vacation is coming to an end🎐🌊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=1",
   "source": "naraetan.js"
@@ -14488,7 +14488,7 @@ window.SONG_DATA.push(
     {
   "title": "Dear you -Cry-",
   "artist": "癒月",
-  "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
+  "collection": "【Song Clip】[2026-09-18] Summer vacation is coming to an end🎐🌊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=2",
   "source": "naraetan.js"
@@ -14496,7 +14496,7 @@ window.SONG_DATA.push(
     {
   "title": "ロビンソン",
   "artist": "スピッツ",
-  "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
+  "collection": "【Song Clip】[2026-09-18] Summer vacation is coming to an end🎐🌊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=3",
   "source": "naraetan.js"
@@ -14504,7 +14504,7 @@ window.SONG_DATA.push(
     {
   "title": "Drowning",
   "artist": "WOODZ",
-  "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
+  "collection": "【Song Clip】[2026-09-18] Summer vacation is coming to an end🎐🌊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=4",
   "source": "naraetan.js"
@@ -14512,7 +14512,7 @@ window.SONG_DATA.push(
     {
   "title": "U",
   "artist": "EOW",
-  "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
+  "collection": "【Song Clip】[2026-09-18] Summer vacation is coming to an end🎐🌊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=5",
   "source": "naraetan.js"
@@ -14520,7 +14520,7 @@ window.SONG_DATA.push(
     {
   "title": "約束",
   "artist": "水樹奈々",
-  "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
+  "collection": "【Song Clip】[2026-09-18] Summer vacation is coming to an end🎐🌊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=6",
   "source": "naraetan.js"
@@ -14528,7 +14528,7 @@ window.SONG_DATA.push(
     {
   "title": "トライアングラー",
   "artist": "坂本真綾",
-  "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
+  "collection": "【Song Clip】[2026-09-18] Summer vacation is coming to an end🎐🌊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=7",
   "source": "naraetan.js"
@@ -14536,7 +14536,7 @@ window.SONG_DATA.push(
     {
   "title": "禁断のレジスタンス",
   "artist": "水樹奈々",
-  "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
+  "collection": "【Song Clip】[2026-09-18] Summer vacation is coming to an end🎐🌊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=8",
   "source": "naraetan.js"
@@ -14544,7 +14544,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーバード",
   "artist": "いきものがかり",
-  "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
+  "collection": "【Song Clip】[2026-09-18] Summer vacation is coming to an end🎐🌊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=9",
   "source": "naraetan.js"
@@ -14552,7 +14552,7 @@ window.SONG_DATA.push(
     {
   "title": "夏祭り",
   "artist": "JITTERIN'JINN",
-  "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
+  "collection": "【Song Clip】[2026-09-18] Summer vacation is coming to an end🎐🌊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=10",
   "source": "naraetan.js"
@@ -14560,7 +14560,7 @@ window.SONG_DATA.push(
     {
   "title": "夜もすがら君想ふ",
   "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
-  "collection": "【歌切】[2026-09-18]暑假就要结束了呢🎐🌊",
+  "collection": "【Song Clip】[2026-09-18] Summer vacation is coming to an end🎐🌊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MYev6TExV?p=11",
   "source": "naraetan.js"
@@ -14568,7 +14568,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON",
-  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "collection": "[Song Cut] [2026-09-21] Having fun during the five-day autumn holiday? 😎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=1",
   "source": "naraetan.js"
@@ -14576,7 +14576,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "collection": "[Song Cut] [2026-09-21] Having fun during the five-day autumn holiday? 😎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=2",
   "source": "naraetan.js"
@@ -14584,7 +14584,7 @@ window.SONG_DATA.push(
     {
   "title": "花占い",
   "artist": "Vaundy",
-  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "collection": "[Song Cut] [2026-09-21] Having fun during the five-day autumn holiday? 😎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=3",
   "source": "naraetan.js"
@@ -14592,7 +14592,7 @@ window.SONG_DATA.push(
     {
   "title": "ワタリドリ",
   "artist": "[Alexandros]",
-  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "collection": "[Song Cut] [2026-09-21] Having fun during the five-day autumn holiday? 😎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=4",
   "source": "naraetan.js"
@@ -14600,7 +14600,7 @@ window.SONG_DATA.push(
     {
   "title": "有心論",
   "artist": "RADWIMPS",
-  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "collection": "[Song Cut] [2026-09-21] Having fun during the five-day autumn holiday? 😎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=5",
   "source": "naraetan.js"
@@ -14608,7 +14608,7 @@ window.SONG_DATA.push(
     {
   "title": "全力少年",
   "artist": "スキマスイッチ",
-  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "collection": "[Song Cut] [2026-09-21] Having fun during the five-day autumn holiday? 😎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=6",
   "source": "naraetan.js"
@@ -14616,7 +14616,7 @@ window.SONG_DATA.push(
     {
   "title": "愛のかたまり",
   "artist": "KinKi Kids",
-  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "collection": "[Song Cut] [2026-09-21] Having fun during the five-day autumn holiday? 😎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=7",
   "source": "naraetan.js"
@@ -14624,7 +14624,7 @@ window.SONG_DATA.push(
     {
   "title": "DESIRE -情熱-",
   "artist": "中森明菜",
-  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "collection": "[Song Cut] [2026-09-21] Having fun during the five-day autumn holiday? 😎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=8",
   "source": "naraetan.js"
@@ -14632,7 +14632,7 @@ window.SONG_DATA.push(
     {
   "title": "SECRET AMBITION",
   "artist": "水樹奈々",
-  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "collection": "[Song Cut] [2026-09-21] Having fun during the five-day autumn holiday? 😎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=9",
   "source": "naraetan.js"
@@ -14640,7 +14640,7 @@ window.SONG_DATA.push(
     {
   "title": "Magia",
   "artist": "Kalafina",
-  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "collection": "[Song Cut] [2026-09-21] Having fun during the five-day autumn holiday? 😎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=10",
   "source": "naraetan.js"
@@ -14648,7 +14648,7 @@ window.SONG_DATA.push(
     {
   "title": "翼",
   "artist": "藍井エイル",
-  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "collection": "[Song Cut] [2026-09-21] Having fun during the five-day autumn holiday? 😎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=11",
   "source": "naraetan.js"
@@ -14656,7 +14656,7 @@ window.SONG_DATA.push(
     {
   "title": "ときめきの導火線",
   "artist": "今野友加里",
-  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "collection": "[Song Cut] [2026-09-21] Having fun during the five-day autumn holiday? 😎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=12",
   "source": "naraetan.js"
@@ -14664,7 +14664,7 @@ window.SONG_DATA.push(
     {
   "title": "晴れてハレルヤ",
   "artist": "奥井亜紀",
-  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "collection": "[Song Cut] [2026-09-21] Having fun during the five-day autumn holiday? 😎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=13",
   "source": "naraetan.js"
@@ -14672,7 +14672,7 @@ window.SONG_DATA.push(
     {
   "title": "一番の宝物",
   "artist": "LiSA",
-  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "collection": "[Song Cut] [2026-09-21] Having fun during the five-day autumn holiday? 😎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=14",
   "source": "naraetan.js"
@@ -14680,7 +14680,7 @@ window.SONG_DATA.push(
     {
   "title": "黒毛和牛上塩タン焼680円",
   "artist": "大塚愛",
-  "collection": "【歌切】[2026-09-21]秋季五连休过得开心吗？😎",
+  "collection": "[Song Cut] [2026-09-21] Having fun during the five-day autumn holiday? 😎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17khk6aEzn?p=15",
   "source": "naraetan.js"
@@ -14688,7 +14688,7 @@ window.SONG_DATA.push(
     {
   "title": "SPiCa",
   "artist": "とくP feat.初音ミク",
-  "collection": "【歌切】[2026-09-26]ライドリ歌谣祭—九月篇—｜银河之秋，对月而歌🌌",
+  "collection": "【Song Cut】[2026-09-26] RIDORI Song Festival — September Edition — | Autumn of the Galaxy, Singing to the Moon🌌",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1T9ah6JE9o?p=1",
   "source": "naraetan.js"
@@ -14696,7 +14696,7 @@ window.SONG_DATA.push(
     {
   "title": "明日へのbrilliant road",
   "artist": "angela",
-  "collection": "【歌切】[2026-09-26]ライドリ歌谣祭—九月篇—｜银河之秋，对月而歌🌌",
+  "collection": "【Song Cut】[2026-09-26] RIDORI Song Festival — September Edition — | Autumn of the Galaxy, Singing to the Moon🌌",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1T9ah6JE9o?p=2",
   "source": "naraetan.js"
@@ -14704,7 +14704,7 @@ window.SONG_DATA.push(
     {
   "title": "月光花",
   "artist": "Janne Da Arc",
-  "collection": "【歌切】[2026-09-26]ライドリ歌谣祭—九月篇—｜银河之秋，对月而歌🌌",
+  "collection": "【Song Cut】[2026-09-26] RIDORI Song Festival — September Edition — | Autumn of the Galaxy, Singing to the Moon🌌",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1T9ah6JE9o?p=3",
   "source": "naraetan.js"
@@ -14712,7 +14712,7 @@ window.SONG_DATA.push(
     {
   "title": "ルンがピカッと光ったら",
   "artist": "ワルキューレ",
-  "collection": "【歌切】[2026-09-26]ライドリ歌谣祭—九月篇—｜银河之秋，对月而歌🌌",
+  "collection": "【Song Cut】[2026-09-26] RIDORI Song Festival — September Edition — | Autumn of the Galaxy, Singing to the Moon🌌",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1T9ah6JE9o?p=4",
   "source": "naraetan.js"
@@ -14720,7 +14720,7 @@ window.SONG_DATA.push(
     {
   "title": "uni-verse",
   "artist": "オーイシマサヨシ",
-  "collection": "【歌切】[2026-09-26]ライドリ歌谣祭—九月篇—｜银河之秋，对月而歌🌌",
+  "collection": "【Song Cut】[2026-09-26] RIDORI Song Festival — September Edition — | Autumn of the Galaxy, Singing to the Moon🌌",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1T9ah6JE9o?p=5",
   "source": "naraetan.js"
@@ -14728,7 +14728,7 @@ window.SONG_DATA.push(
     {
   "title": "さぁ",
   "artist": "SURFACE",
-  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "collection": "【Song Cover】[2026-09-24] 17th Song Request Special🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=1",
   "source": "naraetan.js"
@@ -14736,7 +14736,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "collection": "【Song Cover】[2026-09-24] 17th Song Request Special🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=2",
   "source": "naraetan.js"
@@ -14744,7 +14744,7 @@ window.SONG_DATA.push(
     {
   "title": "ハロ/ハワユ",
   "artist": "ナノウ(ほえほえP) feat.初音ミク",
-  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "collection": "【Song Cover】[2026-09-24] 17th Song Request Special🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=3",
   "source": "naraetan.js"
@@ -14752,7 +14752,7 @@ window.SONG_DATA.push(
     {
   "title": "青のすみか",
   "artist": "キタニタツヤ",
-  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "collection": "【Song Cover】[2026-09-24] 17th Song Request Special🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=4",
   "source": "naraetan.js"
@@ -14760,7 +14760,7 @@ window.SONG_DATA.push(
     {
   "title": "耳の聞こえなくなった恋人とそのうたうたい",
   "artist": "大石昌良",
-  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "collection": "【Song Cover】[2026-09-24] 17th Song Request Special🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=5",
   "source": "naraetan.js"
@@ -14768,7 +14768,7 @@ window.SONG_DATA.push(
     {
   "title": "再会",
   "artist": "LiSA×Uru",
-  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "collection": "【Song Cover】[2026-09-24] 17th Song Request Special🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=6",
   "source": "naraetan.js"
@@ -14776,7 +14776,7 @@ window.SONG_DATA.push(
     {
   "title": "サムライハート",
   "artist": "SPYAIR",
-  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "collection": "【Song Cover】[2026-09-24] 17th Song Request Special🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=7",
   "source": "naraetan.js"
@@ -14784,7 +14784,7 @@ window.SONG_DATA.push(
     {
   "title": "三十路岬",
   "artist": "小神あきら(今野宏美)",
-  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "collection": "【Song Cover】[2026-09-24] 17th Song Request Special🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=8",
   "source": "naraetan.js"
@@ -14792,7 +14792,7 @@ window.SONG_DATA.push(
     {
   "title": "学園天国",
   "artist": "フィンガー5",
-  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "collection": "【Song Cover】[2026-09-24] 17th Song Request Special🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=9",
   "source": "naraetan.js"
@@ -14800,7 +14800,7 @@ window.SONG_DATA.push(
     {
   "title": "君に最後の口づけを",
   "artist": "majiko",
-  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "collection": "【Song Cover】[2026-09-24] 17th Song Request Special🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=10",
   "source": "naraetan.js"
@@ -14808,7 +14808,7 @@ window.SONG_DATA.push(
     {
   "title": "ようこそジャパリパークへ",
   "artist": "どうぶつビスケッツ×PPP",
-  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "collection": "【Song Cover】[2026-09-24] 17th Song Request Special🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=11",
   "source": "naraetan.js"
@@ -14816,7 +14816,7 @@ window.SONG_DATA.push(
     {
   "title": "月光",
   "artist": "鬼束ちひろ",
-  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "collection": "【Song Cover】[2026-09-24] 17th Song Request Special🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=12",
   "source": "naraetan.js"
@@ -14824,7 +14824,7 @@ window.SONG_DATA.push(
     {
   "title": "Grand Blue",
   "artist": "湘南乃風",
-  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "collection": "【Song Cover】[2026-09-24] 17th Song Request Special🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=13",
   "source": "naraetan.js"
@@ -14832,7 +14832,7 @@ window.SONG_DATA.push(
     {
   "title": "生きるよすが",
   "artist": "月詠み",
-  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "collection": "【Song Cover】[2026-09-24] 17th Song Request Special🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=14",
   "source": "naraetan.js"
@@ -14840,7 +14840,7 @@ window.SONG_DATA.push(
     {
   "title": "オトノナルホウヘ→",
   "artist": "Goose house",
-  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "collection": "【Song Cover】[2026-09-24] 17th Song Request Special🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=15",
   "source": "naraetan.js"
@@ -14848,7 +14848,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "collection": "【Song Cover】[2026-09-24] 17th Song Request Special🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=16",
   "source": "naraetan.js"
@@ -14856,7 +14856,7 @@ window.SONG_DATA.push(
     {
   "title": "Vitalization",
   "artist": "水樹奈々",
-  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "collection": "【Song Cover】[2026-09-24] 17th Song Request Special🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=17",
   "source": "naraetan.js"
@@ -14864,7 +14864,7 @@ window.SONG_DATA.push(
     {
   "title": "HOT LIMIT",
   "artist": "T.M.Revolution",
-  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "collection": "【Song Cover】[2026-09-24] 17th Song Request Special🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=18",
   "source": "naraetan.js"
@@ -14872,7 +14872,7 @@ window.SONG_DATA.push(
     {
   "title": "あなたのキスを数えましょう",
   "artist": "小柳ゆき",
-  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "collection": "【Song Cover】[2026-09-24] 17th Song Request Special🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=19",
   "source": "naraetan.js"
@@ -14880,7 +14880,7 @@ window.SONG_DATA.push(
     {
   "title": "adrenaline!!!",
   "artist": "TrySail",
-  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "collection": "【Song Cover】[2026-09-24] 17th Song Request Special🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=20",
   "source": "naraetan.js"
@@ -14888,7 +14888,7 @@ window.SONG_DATA.push(
     {
   "title": "愛して愛して愛して",
   "artist": "きくお feat.初音ミク",
-  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "collection": "【Song Cover】[2026-09-24] 17th Song Request Special🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=21",
   "source": "naraetan.js"
@@ -14896,7 +14896,7 @@ window.SONG_DATA.push(
     {
   "title": "ロミオとシンデレラ",
   "artist": "doriko feat.初音ミク",
-  "collection": "【歌切】[2026-09-24]第17次点歌专场🌟",
+  "collection": "【Song Cover】[2026-09-24] 17th Song Request Special🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DEMz?p=22",
   "source": "naraetan.js"
@@ -14904,7 +14904,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "collection": "【Song Cover】[2026-09-28] Yorushika Songs Only 🌃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=1",
   "source": "naraetan.js"
@@ -14912,7 +14912,7 @@ window.SONG_DATA.push(
     {
   "title": "修羅",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "collection": "【Song Cover】[2026-09-28] Yorushika Songs Only 🌃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=2",
   "source": "naraetan.js"
@@ -14920,7 +14920,7 @@ window.SONG_DATA.push(
     {
   "title": "強盗と花束",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "collection": "【Song Cover】[2026-09-28] Yorushika Songs Only 🌃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=3",
   "source": "naraetan.js"
@@ -14928,7 +14928,7 @@ window.SONG_DATA.push(
     {
   "title": "斜陽",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "collection": "【Song Cover】[2026-09-28] Yorushika Songs Only 🌃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=4",
   "source": "naraetan.js"
@@ -14936,7 +14936,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "collection": "【Song Cover】[2026-09-28] Yorushika Songs Only 🌃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=5",
   "source": "naraetan.js"
@@ -14944,7 +14944,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "collection": "【Song Cover】[2026-09-28] Yorushika Songs Only 🌃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=6",
   "source": "naraetan.js"
@@ -14952,7 +14952,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ君に晴れ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "collection": "【Song Cover】[2026-09-28] Yorushika Songs Only 🌃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=7",
   "source": "naraetan.js"
@@ -14960,7 +14960,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "collection": "【Song Cover】[2026-09-28] Yorushika Songs Only 🌃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=8",
   "source": "naraetan.js"
@@ -14968,7 +14968,7 @@ window.SONG_DATA.push(
     {
   "title": "火星人",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "collection": "【Song Cover】[2026-09-28] Yorushika Songs Only 🌃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=9",
   "source": "naraetan.js"
@@ -14976,7 +14976,7 @@ window.SONG_DATA.push(
     {
   "title": "言って。",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "collection": "【Song Cover】[2026-09-28] Yorushika Songs Only 🌃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=10",
   "source": "naraetan.js"
@@ -14984,7 +14984,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーチラス",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "collection": "【Song Cover】[2026-09-28] Yorushika Songs Only 🌃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=11",
   "source": "naraetan.js"
@@ -14992,7 +14992,7 @@ window.SONG_DATA.push(
     {
   "title": "心に穴が空いた",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "collection": "【Song Cover】[2026-09-28] Yorushika Songs Only 🌃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=12",
   "source": "naraetan.js"
@@ -15000,7 +15000,7 @@ window.SONG_DATA.push(
     {
   "title": "藍二乗",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "collection": "【Song Cover】[2026-09-28] Yorushika Songs Only 🌃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=13",
   "source": "naraetan.js"
@@ -15008,7 +15008,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "collection": "【Song Cover】[2026-09-28] Yorushika Songs Only 🌃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=14",
   "source": "naraetan.js"
@@ -15016,7 +15016,7 @@ window.SONG_DATA.push(
     {
   "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "collection": "【Song Cover】[2026-09-28] Yorushika Songs Only 🌃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=15",
   "source": "naraetan.js"
@@ -15024,7 +15024,7 @@ window.SONG_DATA.push(
     {
   "title": "あぶく",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-28]ヨルシカ歌曲限定🌃",
+  "collection": "【Song Cover】[2026-09-28] Yorushika Songs Only 🌃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17TaE6AEq1?p=16",
   "source": "naraetan.js"
@@ -15032,7 +15032,7 @@ window.SONG_DATA.push(
     {
   "title": "どうにもとまらない",
   "artist": "山本リンダ",
-  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "collection": "【Song Cut】[2026-09-29] How many can you recognize? Classic old songs session💜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=1",
   "source": "naraetan.js"
@@ -15040,7 +15040,7 @@ window.SONG_DATA.push(
     {
   "title": "プレイバックPart2",
   "artist": "山口百恵",
-  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "collection": "【Song Cut】[2026-09-29] How many can you recognize? Classic old songs session💜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=2",
   "source": "naraetan.js"
@@ -15048,7 +15048,7 @@ window.SONG_DATA.push(
     {
   "title": "オリビアを聴きながら",
   "artist": "杏里",
-  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "collection": "【Song Cut】[2026-09-29] How many can you recognize? Classic old songs session💜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=3",
   "source": "naraetan.js"
@@ -15056,7 +15056,7 @@ window.SONG_DATA.push(
     {
   "title": "フライディ・チャイナタウン",
   "artist": "泰葉",
-  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "collection": "【Song Cut】[2026-09-29] How many can you recognize? Classic old songs session💜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=4",
   "source": "naraetan.js"
@@ -15064,7 +15064,7 @@ window.SONG_DATA.push(
     {
   "title": "赤いスイートピー",
   "artist": "松田聖子",
-  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "collection": "【Song Cut】[2026-09-29] How many can you recognize? Classic old songs session💜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=5",
   "source": "naraetan.js"
@@ -15072,7 +15072,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーウォーター",
   "artist": "森川美穂",
-  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "collection": "【Song Cut】[2026-09-29] How many can you recognize? Classic old songs session💜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=6",
   "source": "naraetan.js"
@@ -15080,7 +15080,7 @@ window.SONG_DATA.push(
     {
   "title": "私がオバさんになっても",
   "artist": "森高千里",
-  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "collection": "【Song Cut】[2026-09-29] How many can you recognize? Classic old songs session💜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=7",
   "source": "naraetan.js"
@@ -15088,7 +15088,7 @@ window.SONG_DATA.push(
     {
   "title": "SUBMARINE STREET",
   "artist": "Fire Bomber",
-  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "collection": "【Song Cut】[2026-09-29] How many can you recognize? Classic old songs session💜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=8",
   "source": "naraetan.js"
@@ -15096,7 +15096,7 @@ window.SONG_DATA.push(
     {
   "title": "輪舞-revolution",
   "artist": "奥井雅美",
-  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "collection": "【Song Cut】[2026-09-29] How many can you recognize? Classic old songs session💜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=9",
   "source": "naraetan.js"
@@ -15104,7 +15104,7 @@ window.SONG_DATA.push(
     {
   "title": "僕が一番欲しかったもの",
   "artist": "槇原敬之",
-  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "collection": "【Song Cut】[2026-09-29] How many can you recognize? Classic old songs session💜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=10",
   "source": "naraetan.js"
@@ -15112,7 +15112,7 @@ window.SONG_DATA.push(
     {
   "title": "創聖のアクエリオン",
   "artist": "AKINO",
-  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "collection": "【Song Cut】[2026-09-29] How many can you recognize? Classic old songs session💜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=11",
   "source": "naraetan.js"
@@ -15120,7 +15120,7 @@ window.SONG_DATA.push(
     {
   "title": "セプテンバーさん",
   "artist": "RADWIMPS",
-  "collection": "【歌切】[2026-09-29]能认出几首？经典老歌歌回💜",
+  "collection": "【Song Cut】[2026-09-29] How many can you recognize? Classic old songs session💜",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tUaQ6VE3b?p=12",
   "source": "naraetan.js"
@@ -15128,7 +15128,7 @@ window.SONG_DATA.push(
     {
   "title": "1925",
   "artist": "T-POCKET feat.初音ミク",
-  "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
+  "collection": "【Song Cut】[2026-10-01] A clear autumn day💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=1",
   "source": "naraetan.js"
@@ -15136,7 +15136,7 @@ window.SONG_DATA.push(
     {
   "title": "The Biggest Dreamer",
   "artist": "和田光司",
-  "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
+  "collection": "【Song Cut】[2026-10-01] A clear autumn day💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=2",
   "source": "naraetan.js"
@@ -15144,7 +15144,7 @@ window.SONG_DATA.push(
     {
   "title": "微笑みの爆弾",
   "artist": "馬渡松子",
-  "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
+  "collection": "【Song Cut】[2026-10-01] A clear autumn day💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=3",
   "source": "naraetan.js"
@@ -15152,7 +15152,7 @@ window.SONG_DATA.push(
     {
   "title": "DAN DAN 心魅かれてく",
   "artist": "FIELD OF VIEW",
-  "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
+  "collection": "【Song Cut】[2026-10-01] A clear autumn day💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=4",
   "source": "naraetan.js"
@@ -15160,7 +15160,7 @@ window.SONG_DATA.push(
     {
   "title": "夢をかなえてドラえもん",
   "artist": "mao",
-  "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
+  "collection": "【Song Cut】[2026-10-01] A clear autumn day💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=5",
   "source": "naraetan.js"
@@ -15168,7 +15168,7 @@ window.SONG_DATA.push(
     {
   "title": "ふわふわ時間",
   "artist": "桜高軽音部",
-  "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
+  "collection": "【Song Cut】[2026-10-01] A clear autumn day💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=6",
   "source": "naraetan.js"
@@ -15176,7 +15176,7 @@ window.SONG_DATA.push(
     {
   "title": "Never Ending Story",
   "artist": "부활",
-  "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
+  "collection": "【Song Cut】[2026-10-01] A clear autumn day💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=7",
   "source": "naraetan.js"
@@ -15184,7 +15184,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
+  "collection": "【Song Cut】[2026-10-01] A clear autumn day💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=8",
   "source": "naraetan.js"
@@ -15192,7 +15192,7 @@ window.SONG_DATA.push(
     {
   "title": "チキチキバンバン",
   "artist": "QUEENDOM",
-  "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
+  "collection": "【Song Cut】[2026-10-01] A clear autumn day💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=9",
   "source": "naraetan.js"
@@ -15200,7 +15200,7 @@ window.SONG_DATA.push(
     {
   "title": "lulu.",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
+  "collection": "【Song Cut】[2026-10-01] A clear autumn day💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=10",
   "source": "naraetan.js"
@@ -15208,7 +15208,7 @@ window.SONG_DATA.push(
     {
   "title": "ハレ晴レユカイ",
   "artist": "涼宮ハルヒ(CV.平野綾),長門有希(CV.茅原実里),朝比奈みくる(CV.後藤邑子)",
-  "collection": "【歌切】[2026-10-01]一个晴朗的秋日💃",
+  "collection": "【Song Cut】[2026-10-01] A clear autumn day💃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEWj?p=11",
   "source": "naraetan.js"
@@ -15216,7 +15216,7 @@ window.SONG_DATA.push(
     {
   "title": "ミックスナッツ",
   "artist": "Official髭男dism",
-  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "collection": "【Song Clip】[2026-10-04] Sing a while, chat a while 😊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=1",
   "source": "naraetan.js"
@@ -15224,7 +15224,7 @@ window.SONG_DATA.push(
     {
   "title": "すずめ",
   "artist": "RADWIMPS feat.十明",
-  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "collection": "【Song Clip】[2026-10-04] Sing a while, chat a while 😊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=2",
   "source": "naraetan.js"
@@ -15232,7 +15232,7 @@ window.SONG_DATA.push(
     {
   "title": "祝福",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "collection": "【Song Clip】[2026-10-04] Sing a while, chat a while 😊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=3",
   "source": "naraetan.js"
@@ -15240,7 +15240,7 @@ window.SONG_DATA.push(
     {
   "title": "私がオバさんになっても",
   "artist": "森高千里",
-  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "collection": "【Song Clip】[2026-10-04] Sing a while, chat a while 😊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=4",
   "source": "naraetan.js"
@@ -15248,7 +15248,7 @@ window.SONG_DATA.push(
     {
   "title": "みむかゥわナイストライ",
   "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ feat.初音ミク",
-  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "collection": "【Song Clip】[2026-10-04] Sing a while, chat a while 😊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=5",
   "source": "naraetan.js"
@@ -15256,7 +15256,7 @@ window.SONG_DATA.push(
     {
   "title": "No Logic",
   "artist": "ジミーサムP feat.巡音ルカ",
-  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "collection": "【Song Clip】[2026-10-04] Sing a while, chat a while 😊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=6",
   "source": "naraetan.js"
@@ -15264,7 +15264,7 @@ window.SONG_DATA.push(
     {
   "title": "sweets parade",
   "artist": "髏々宮カルタ(花澤香菜)",
-  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "collection": "【Song Clip】[2026-10-04] Sing a while, chat a while 😊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=7",
   "source": "naraetan.js"
@@ -15272,7 +15272,7 @@ window.SONG_DATA.push(
     {
   "title": "Yells ～It's a beautiful life～",
   "artist": "アニサマ2008出演アーティスト",
-  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "collection": "【Song Clip】[2026-10-04] Sing a while, chat a while 😊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=8",
   "source": "naraetan.js"
@@ -15280,7 +15280,7 @@ window.SONG_DATA.push(
     {
   "title": "冬がはじまるよ",
   "artist": "槇原敬之",
-  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "collection": "【Song Clip】[2026-10-04] Sing a while, chat a while 😊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=9",
   "source": "naraetan.js"
@@ -15288,7 +15288,7 @@ window.SONG_DATA.push(
     {
   "title": "I LOVE YOU",
   "artist": "尾崎豊",
-  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "collection": "【Song Clip】[2026-10-04] Sing a while, chat a while 😊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=10",
   "source": "naraetan.js"
@@ -15296,7 +15296,7 @@ window.SONG_DATA.push(
     {
   "title": "First Love",
   "artist": "宇多田ヒカル",
-  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "collection": "【Song Clip】[2026-10-04] Sing a while, chat a while 😊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=11",
   "source": "naraetan.js"
@@ -15304,7 +15304,7 @@ window.SONG_DATA.push(
     {
   "title": "Sweet Dreams, My Dear",
   "artist": "Sohyang",
-  "collection": "【歌切】[2026-10-04]唱一会儿，聊一会儿😊",
+  "collection": "【Song Clip】[2026-10-04] Sing a while, chat a while 😊",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YrHH6gE74?p=12",
   "source": "naraetan.js"
@@ -15312,7 +15312,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
+  "collection": "【Song Clip】[2026-10-06] Keep it up——Keep it up🌸You can do it!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=1",
   "source": "naraetan.js"
@@ -15320,7 +15320,7 @@ window.SONG_DATA.push(
     {
   "title": "雫",
   "artist": "スキマスイッチ",
-  "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
+  "collection": "【Song Clip】[2026-10-06] Keep it up——Keep it up🌸You can do it!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=2",
   "source": "naraetan.js"
@@ -15328,7 +15328,7 @@ window.SONG_DATA.push(
     {
   "title": "너만을 느끼며",
   "artist": "정우,유연석,손호준",
-  "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
+  "collection": "【Song Clip】[2026-10-06] Keep it up——Keep it up🌸You can do it!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=3",
   "source": "naraetan.js"
@@ -15336,7 +15336,7 @@ window.SONG_DATA.push(
     {
   "title": "Darling",
   "artist": "西野カナ",
-  "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
+  "collection": "【Song Clip】[2026-10-06] Keep it up——Keep it up🌸You can do it!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=4",
   "source": "naraetan.js"
@@ -15344,7 +15344,7 @@ window.SONG_DATA.push(
     {
   "title": "departure!",
   "artist": "小野正利",
-  "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
+  "collection": "【Song Clip】[2026-10-06] Keep it up——Keep it up🌸You can do it!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=5",
   "source": "naraetan.js"
@@ -15352,7 +15352,7 @@ window.SONG_DATA.push(
     {
   "title": "ふたりごと",
   "artist": "RADWIMPS",
-  "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
+  "collection": "【Song Clip】[2026-10-06] Keep it up——Keep it up🌸You can do it!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=6",
   "source": "naraetan.js"
@@ -15360,7 +15360,7 @@ window.SONG_DATA.push(
     {
   "title": "フィナーレ。",
   "artist": "eill",
-  "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
+  "collection": "【Song Clip】[2026-10-06] Keep it up——Keep it up🌸You can do it!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=7",
   "source": "naraetan.js"
@@ -15368,7 +15368,7 @@ window.SONG_DATA.push(
     {
   "title": "Pray",
   "artist": "佐々木ゆう子",
-  "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
+  "collection": "【Song Clip】[2026-10-06] Keep it up——Keep it up🌸You can do it!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=8",
   "source": "naraetan.js"
@@ -15376,7 +15376,7 @@ window.SONG_DATA.push(
     {
   "title": "初めての恋が終わる時",
   "artist": "ryo (supercell) feat.初音ミク",
-  "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
+  "collection": "【Song Clip】[2026-10-06] Keep it up——Keep it up🌸You can do it!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=9",
   "source": "naraetan.js"
@@ -15384,7 +15384,7 @@ window.SONG_DATA.push(
     {
   "title": "真赤な誓い",
   "artist": "福山芳樹",
-  "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
+  "collection": "【Song Clip】[2026-10-06] Keep it up——Keep it up🌸You can do it!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=10",
   "source": "naraetan.js"
@@ -15392,7 +15392,7 @@ window.SONG_DATA.push(
     {
   "title": "Pretender",
   "artist": "Official髭男dism",
-  "collection": "【歌切】[2026-10-06]加油——加油🌸你可以的！",
+  "collection": "【Song Clip】[2026-10-06] Keep it up——Keep it up🌸You can do it!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DkHk6FEn1?p=11",
   "source": "naraetan.js"
@@ -15584,7 +15584,7 @@ window.SONG_DATA.push(
     {
   "title": "打上花火",
   "artist": "DAOKO×米津玄師",
-  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "collection": "【Song Clip】[2026-10-12] The last singing stream before the break 🍒",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=1",
   "source": "naraetan.js"
@@ -15592,7 +15592,7 @@ window.SONG_DATA.push(
     {
   "title": "相思相愛",
   "artist": "aiko",
-  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "collection": "【Song Clip】[2026-10-12] The last singing stream before the break 🍒",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=2",
   "source": "naraetan.js"
@@ -15600,7 +15600,7 @@ window.SONG_DATA.push(
     {
   "title": "奏（かなで）",
   "artist": "スキマスイッチ",
-  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "collection": "【Song Clip】[2026-10-12] The last singing stream before the break 🍒",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=3",
   "source": "naraetan.js"
@@ -15608,7 +15608,7 @@ window.SONG_DATA.push(
     {
   "title": "勘ぐれい",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "collection": "【Song Clip】[2026-10-12] The last singing stream before the break 🍒",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=4",
   "source": "naraetan.js"
@@ -15616,7 +15616,7 @@ window.SONG_DATA.push(
     {
   "title": "FIND THE WAY",
   "artist": "中島美嘉",
-  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "collection": "【Song Clip】[2026-10-12] The last singing stream before the break 🍒",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=5",
   "source": "naraetan.js"
@@ -15624,7 +15624,7 @@ window.SONG_DATA.push(
     {
   "title": "タイムマシン",
   "artist": "1640mP feat. 初音ミク",
-  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "collection": "【Song Clip】[2026-10-12] The last singing stream before the break 🍒",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=6",
   "source": "naraetan.js"
@@ -15632,7 +15632,7 @@ window.SONG_DATA.push(
     {
   "title": "メテオ",
   "artist": "じょん feat. 初音ミク",
-  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "collection": "【Song Clip】[2026-10-12] The last singing stream before the break 🍒",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=7",
   "source": "naraetan.js"
@@ -15640,7 +15640,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "collection": "【Song Clip】[2026-10-12] The last singing stream before the break 🍒",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=8",
   "source": "naraetan.js"
@@ -15648,7 +15648,7 @@ window.SONG_DATA.push(
     {
   "title": "フォニイ",
   "artist": "ツミキ feat. 可不",
-  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "collection": "【Song Clip】[2026-10-12] The last singing stream before the break 🍒",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=9",
   "source": "naraetan.js"
@@ -15656,7 +15656,7 @@ window.SONG_DATA.push(
     {
   "title": "アイノカタチ",
   "artist": "MISIA feat. HIDE（GReeeeN）",
-  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "collection": "【Song Clip】[2026-10-12] The last singing stream before the break 🍒",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=10",
   "source": "naraetan.js"
@@ -15664,7 +15664,7 @@ window.SONG_DATA.push(
     {
   "title": "嵐の中で輝いて",
   "artist": "米倉千尋",
-  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "collection": "【Song Clip】[2026-10-12] The last singing stream before the break 🍒",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=11",
   "source": "naraetan.js"
@@ -15672,7 +15672,7 @@ window.SONG_DATA.push(
     {
   "title": "六等星",
   "artist": "ざらめ",
-  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "collection": "【Song Clip】[2026-10-12] The last singing stream before the break 🍒",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=12",
   "source": "naraetan.js"
@@ -15680,7 +15680,7 @@ window.SONG_DATA.push(
     {
   "title": "インドア系ならトラックメイカー",
   "artist": "Yunomi feat. nicamoq",
-  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "collection": "【Song Clip】[2026-10-12] The last singing stream before the break 🍒",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=13",
   "source": "naraetan.js"
@@ -15688,7 +15688,7 @@ window.SONG_DATA.push(
     {
   "title": "愛♡スクリ～ム！",
   "artist": "AiScReam",
-  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "collection": "【Song Clip】[2026-10-12] The last singing stream before the break 🍒",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=14",
   "source": "naraetan.js"
@@ -15696,7 +15696,7 @@ window.SONG_DATA.push(
     {
   "title": "あぶく",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "collection": "【Song Clip】[2026-10-12] The last singing stream before the break 🍒",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=15",
   "source": "naraetan.js"
@@ -15704,7 +15704,7 @@ window.SONG_DATA.push(
     {
   "title": "トリセツ",
   "artist": "西野カナ",
-  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "collection": "【Song Clip】[2026-10-12] The last singing stream before the break 🍒",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=16",
   "source": "naraetan.js"
@@ -15712,7 +15712,7 @@ window.SONG_DATA.push(
     {
   "title": "U&I",
   "artist": "放課後ティータイム",
-  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "collection": "【Song Clip】[2026-10-12] The last singing stream before the break 🍒",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=17",
   "source": "naraetan.js"
@@ -15720,7 +15720,7 @@ window.SONG_DATA.push(
     {
   "title": "summertime",
   "artist": "cinnamons×evening cinema",
-  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "collection": "【Song Clip】[2026-10-12] The last singing stream before the break 🍒",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=18",
   "source": "naraetan.js"
@@ -15728,7 +15728,7 @@ window.SONG_DATA.push(
     {
   "title": "Last Night, Good Night",
   "artist": "livetune feat. 初音ミク",
-  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "collection": "【Song Clip】[2026-10-12] The last singing stream before the break 🍒",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=19",
   "source": "naraetan.js"
@@ -15736,7 +15736,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーザンクロス",
   "artist": "シェリル・ノーム starring May'n",
-  "collection": "【歌切】[2026-10-12]休息前的最后一场歌回🍒",
+  "collection": "【Song Clip】[2026-10-12] The last singing stream before the break 🍒",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=20",
   "source": "naraetan.js"
