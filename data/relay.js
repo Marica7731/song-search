@@ -1,6 +1,6 @@
 // 接力 - 歌单数据 (多合集汇总)
 // 来源: BV1rkCTYzEZN, BV1wt421j7gT, BV1KpCdYmE3T, BV1aC4ce2E5s, BV1JbX9BmE5m, BV1nJ5S6CETQ, BV1duSRBBEkb
-// 生成时间: 10/20/2026, 11:01:19 PM
+// 生成时间: 10/21/2026, 3:34:16 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3174,62 +3174,6 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
-  "title": "忘れてください",
-  "artist": "ヨルシカ【治愈接力【Figaro】",
-  "collection": "忘れてください - ヨルシカ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xHCdYEEka?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "Alice",
-  "artist": "古川本舗【治愈接力【Figaro】",
-  "collection": "Alice - 古川本舗",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KpCdYmE3T?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉【治愈接力【Figaro】",
-  "collection": "僕が死のうと思ったのは - 中島美嘉",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KHCdYEEdu?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "フクロウ~フクロウが知らせる客が来たと~",
-  "artist": "KOKIA【治愈接力【Figaro】",
-  "collection": "フクロウ~フクロウが知らせる客が来たと~ - KOKIA",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xHCdYEEzy?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "人間みたいね",
-  "artist": "キタニタツヤ【治愈接力【Figaro】",
-  "collection": "人間みたいね - キタニタツヤ",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12HCdYEEGA?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "シリウスの心臓",
-  "artist": "ヰ世界情緒【治愈接力【Figaro】",
-  "collection": "シリウスの心臓 - ヰ世界情緒",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1xHCdYEErB?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "若者のすべて",
-  "artist": "フジファブリック【治愈接力【Figaro】",
-  "collection": "若者のすべて - フジファブリック",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KHCdYEEoY?p=1",
-  "source": "relay.js"
-},
-    {
   "title": "ティニタス",
   "artist": "Diα",
   "collection": "接力歌切 Diα - ディアディア 2026-04-05 oBAmEXovsv0 RKMusic歌回接力",
@@ -3907,6 +3851,158 @@ window.SONG_DATA.push(
   "collection": "接力歌切 焔魔るり CH. / Ruri Enma 2026-04-05 00hsIPPlHvw RKMusic歌回接力",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1utSRB4EMs?p=6",
+  "source": "relay.js"
+},
+    {
+  "title": "わたしの一番かわいいところ",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "わたしの一番かわいいところ - FRUITS ZIPPER",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QC4ce2EoQ?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "なんでもないや - RADWIMPS",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aC4ce2E58?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "パラレルナイト",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "パラレルナイト - 凛々咲",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QC4ce2ECG?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "食虫植物",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "食虫植物 - 理芽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aC4ce2E5B?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "ラティオ・ユィリス 】01. ビビデバ",
+  "artist": "Hoshimachi Suisei",
+  "collection": "ビビデバ - 星街すいせい",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15i4cenEiq?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "晚餐歌+花与亡灵",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "晚餐歌 - tuki.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aC4ce2E5s?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "ラティオ・ユィリス 】07. だから僕は音楽を辞めた",
+  "artist": "Yorushika",
+  "collection": "だから僕は音楽を辞めた - ヨルシカ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vi4ceHEbj?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "ラティオ・ユィリス 】03. 勇者",
+  "artist": "YOASOBI",
+  "collection": "勇者 - YOASOBI",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vi4ceHESq?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "ラティオ・ユィリス 】08. よくばり",
+  "artist": "Ayase ft. Hatsune Miku",
+  "collection": "よくばり - Ayase",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vi4ceHEm6?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ【治愈接力【Figaro】",
+  "collection": "忘れてください - ヨルシカ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHCdYEEka?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "Alice",
+  "artist": "古川本舗【治愈接力【Figaro】",
+  "collection": "Alice - 古川本舗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KpCdYmE3T?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉【治愈接力【Figaro】",
+  "collection": "僕が死のうと思ったのは - 中島美嘉",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHCdYEEdu?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "フクロウ~フクロウが知らせる客が来たと~",
+  "artist": "KOKIA【治愈接力【Figaro】",
+  "collection": "フクロウ~フクロウが知らせる客が来たと~ - KOKIA",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHCdYEEzy?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "人間みたいね",
+  "artist": "キタニタツヤ【治愈接力【Figaro】",
+  "collection": "人間みたいね - キタニタツヤ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12HCdYEEGA?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "シリウスの心臓",
+  "artist": "ヰ世界情緒【治愈接力【Figaro】",
+  "collection": "シリウスの心臓 - ヰ世界情緒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHCdYEErB?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック【治愈接力【Figaro】",
+  "collection": "若者のすべて - フジファブリック",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KHCdYEEoY?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "約束をしよう",
+  "artist": "Supercell【 花丸はれる】【治愈接力",
+  "collection": "約束をしよう - Supercell",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PsCdYjEmZ?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat. 初音ミク【 花丸はれる】【治愈接力",
+  "collection": "回る空うさぎ - Orangestar feat. 初音ミク",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1NsCdYjE4S?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "星めぐる詩",
+  "artist": "suis from ヨルシカ【 花丸はれる】【治愈接力",
+  "collection": "星めぐる詩 - suis from ヨルシカ",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1bjCdYQEvL?p=1",
   "source": "relay.js"
 }
 );

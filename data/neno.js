@@ -1,6 +1,6 @@
 // 碧生ねの - 歌单数据 (多合集汇总)
 // 来源: BV1S4TT6pEn4
-// 生成时间: 10/20/2026, 11:37:19 PM
+// 生成时间: 10/21/2026, 4:16:41 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2179,6 +2179,102 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-19]悠闲的早晨歌唱直播🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ffnE6TEFo?p=16",
+  "source": "neno.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-21]悠闲的早晨竖屏歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t4nv6PEcd?p=1",
+  "source": "neno.js"
+},
+    {
+  "title": "空中アクアリウム",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-10-21]悠闲的早晨竖屏歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t4nv6PEcd?p=2",
+  "source": "neno.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat.GUMI",
+  "collection": "【歌切】[2026-10-21]悠闲的早晨竖屏歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t4nv6PEcd?p=3",
+  "source": "neno.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat.初音ミク",
+  "collection": "【歌切】[2026-10-21]悠闲的早晨竖屏歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t4nv6PEcd?p=4",
+  "source": "neno.js"
+},
+    {
+  "title": "朝を呑む",
+  "artist": "バルーン feat.初音ミク",
+  "collection": "【歌切】[2026-10-21]悠闲的早晨竖屏歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t4nv6PEcd?p=5",
+  "source": "neno.js"
+},
+    {
+  "title": "Palette",
+  "artist": "ゆよゆっぺ feat.巡音ルカ",
+  "collection": "【歌切】[2026-10-21]悠闲的早晨竖屏歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t4nv6PEcd?p=6",
+  "source": "neno.js"
+},
+    {
+  "title": "死んでしまったのだろうか",
+  "artist": "Guiano feat.flower",
+  "collection": "【歌切】[2026-10-21]悠闲的早晨竖屏歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t4nv6PEcd?p=7",
+  "source": "neno.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "【歌切】[2026-10-21]悠闲的早晨竖屏歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t4nv6PEcd?p=8",
+  "source": "neno.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【歌切】[2026-10-21]悠闲的早晨竖屏歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t4nv6PEcd?p=9",
+  "source": "neno.js"
+},
+    {
+  "title": "灰色と青（＋菅田将暉）",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-10-21]悠闲的早晨竖屏歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t4nv6PEcd?p=10",
+  "source": "neno.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-21]悠闲的早晨竖屏歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t4nv6PEcd?p=11",
+  "source": "neno.js"
+},
+    {
+  "title": "赤猫",
+  "artist": "水曜日のカンパネラ",
+  "collection": "【歌切】[2026-10-21]悠闲的早晨竖屏歌唱直播🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1t4nv6PEcd?p=12",
   "source": "neno.js"
 }
 );
