@@ -1,6 +1,6 @@
 // 千代浦蝶美 - 歌单数据 (多合集汇总)
 // 来源: BV1AFG66UEpL
-// 生成时间: 10/21/2026, 7:05:20 AM
+// 生成时间: 10/21/2026, 11:16:54 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8,7 +8,7 @@ window.SONG_DATA.push(
     {
   "title": "テトリス",
   "artist": "柊マグネタイト feat.重音テト",
-  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "collection": "【Song Cover】[2026-01-04] Please listen to at least one song✨Using Vocaloid to break through New Year's high notes and limits!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEpi?p=1",
   "source": "chiyourachomi.js"
@@ -16,7 +16,7 @@ window.SONG_DATA.push(
     {
   "title": "ルカルカ★ナイトフィーバー",
   "artist": "samfree feat.巡音ルカ",
-  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "collection": "【Song Cover】[2026-01-04] Please listen to at least one song✨Using Vocaloid to break through New Year's high notes and limits!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEpi?p=2",
   "source": "chiyourachomi.js"
@@ -24,7 +24,7 @@ window.SONG_DATA.push(
     {
   "title": "天ノ弱",
   "artist": "164 feat.GUMI",
-  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "collection": "【Song Cover】[2026-01-04] Please listen to at least one song✨Using Vocaloid to break through New Year's high notes and limits!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEpi?p=3",
   "source": "chiyourachomi.js"
@@ -32,7 +32,7 @@ window.SONG_DATA.push(
     {
   "title": "シャルル",
   "artist": "バルーン feat.flower",
-  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "collection": "【Song Cover】[2026-01-04] Please listen to at least one song✨Using Vocaloid to break through New Year's high notes and limits!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEpi?p=4",
   "source": "chiyourachomi.js"
@@ -40,7 +40,7 @@ window.SONG_DATA.push(
     {
   "title": "千本桜",
   "artist": "黒うさP feat.初音ミク",
-  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "collection": "【Song Cover】[2026-01-04] Please listen to at least one song✨Using Vocaloid to break through New Year's high notes and limits!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEpi?p=5",
   "source": "chiyourachomi.js"
@@ -48,7 +48,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピーシンセサイザ",
   "artist": "EasyPop feat.巡音ルカ・GUMI",
-  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "collection": "【Song Cover】[2026-01-04] Please listen to at least one song✨Using Vocaloid to break through New Year's high notes and limits!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEpi?p=6",
   "source": "chiyourachomi.js"
@@ -56,7 +56,7 @@ window.SONG_DATA.push(
     {
   "title": "命に嫌われている。",
   "artist": "カンザキイオリ feat.初音ミク",
-  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "collection": "【Song Cover】[2026-01-04] Please listen to at least one song✨Using Vocaloid to break through New Year's high notes and limits!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEpi?p=7",
   "source": "chiyourachomi.js"
@@ -64,7 +64,7 @@ window.SONG_DATA.push(
     {
   "title": "少女レイ",
   "artist": "みきとP feat.初音ミク",
-  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "collection": "【Song Cover】[2026-01-04] Please listen to at least one song✨Using Vocaloid to break through New Year's high notes and limits!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEpi?p=8",
   "source": "chiyourachomi.js"
@@ -72,7 +72,7 @@ window.SONG_DATA.push(
     {
   "title": "みむかゥわナイストライ",
   "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ feat.初音ミク",
-  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "collection": "【Song Cover】[2026-01-04] Please listen to at least one song✨Using Vocaloid to break through New Year's high notes and limits!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEpi?p=9",
   "source": "chiyourachomi.js"
@@ -80,7 +80,7 @@ window.SONG_DATA.push(
     {
   "title": "ペテン師が笑う頃に",
   "artist": "梨本うい feat.初音ミク",
-  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "collection": "【Song Cover】[2026-01-04] Please listen to at least one song✨Using Vocaloid to break through New Year's high notes and limits!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEpi?p=10",
   "source": "chiyourachomi.js"
@@ -88,7 +88,7 @@ window.SONG_DATA.push(
     {
   "title": "六兆年と一夜物語",
   "artist": "kemu feat.IA",
-  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "collection": "【Song Cover】[2026-01-04] Please listen to at least one song✨Using Vocaloid to break through New Year's high notes and limits!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEpi?p=11",
   "source": "chiyourachomi.js"
@@ -96,7 +96,7 @@ window.SONG_DATA.push(
     {
   "title": "からくりピエロ",
   "artist": "40mP feat.初音ミク",
-  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "collection": "【Song Cover】[2026-01-04] Please listen to at least one song✨Using Vocaloid to break through New Year's high notes and limits!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEpi?p=12",
   "source": "chiyourachomi.js"
@@ -104,7 +104,7 @@ window.SONG_DATA.push(
     {
   "title": "東京テディベア",
   "artist": "Neru feat.鏡音リン",
-  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "collection": "【Song Cover】[2026-01-04] Please listen to at least one song✨Using Vocaloid to break through New Year's high notes and limits!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEpi?p=13",
   "source": "chiyourachomi.js"
@@ -112,7 +112,7 @@ window.SONG_DATA.push(
     {
   "title": "ロストワンの号哭",
   "artist": "Neru feat.鏡音リン",
-  "collection": "【歌切】[2026-01-04]请至少听一首歌吧✨用术力口突破新年高音和极限！！",
+  "collection": "【Song Cover】[2026-01-04] Please listen to at least one song✨Using Vocaloid to break through New Year's high notes and limits!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEpi?p=14",
   "source": "chiyourachomi.js"
@@ -120,7 +120,7 @@ window.SONG_DATA.push(
     {
   "title": "Butter-Fly ～tri.Version～",
   "artist": "和田光司",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "collection": "Song Cut 2026-05-23 Chiyomi ch. Chiyoura Choumi / Aogiri High School atJv_8hKyQI Ultimate sound pressure! Let's hype up the weekend with Shōwa, Heisei, and Reiwa anime songs!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=1",
   "source": "chiyourachomi.js"
@@ -128,7 +128,7 @@ window.SONG_DATA.push(
     {
   "title": "残酷な天使のテーゼ",
   "artist": "高橋洋子",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "collection": "Song Cut 2026-05-23 Chiyomi ch. Chiyoura Choumi / Aogiri High School atJv_8hKyQI Ultimate sound pressure! Let's hype up the weekend with Shōwa, Heisei, and Reiwa anime songs!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=2",
   "source": "chiyourachomi.js"
@@ -136,7 +136,7 @@ window.SONG_DATA.push(
     {
   "title": "嵐の中で輝いて",
   "artist": "米倉千尋",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "collection": "Song Cut 2026-05-23 Chiyomi ch. Chiyoura Choumi / Aogiri High School atJv_8hKyQI Ultimate sound pressure! Let's hype up the weekend with Shōwa, Heisei, and Reiwa anime songs!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=3",
   "source": "chiyourachomi.js"
@@ -144,7 +144,7 @@ window.SONG_DATA.push(
     {
   "title": "鳥の詩",
   "artist": "Lia",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "collection": "Song Cut 2026-05-23 Chiyomi ch. Chiyoura Choumi / Aogiri High School atJv_8hKyQI Ultimate sound pressure! Let's hype up the weekend with Shōwa, Heisei, and Reiwa anime songs!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=4",
   "source": "chiyourachomi.js"
@@ -152,7 +152,7 @@ window.SONG_DATA.push(
     {
   "title": "メリッサ",
   "artist": "ポルノグラフィティ",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "collection": "Song Cut 2026-05-23 Chiyomi ch. Chiyoura Choumi / Aogiri High School atJv_8hKyQI Ultimate sound pressure! Let's hype up the weekend with Shōwa, Heisei, and Reiwa anime songs!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=5",
   "source": "chiyourachomi.js"
@@ -160,7 +160,7 @@ window.SONG_DATA.push(
     {
   "title": "Get Wild",
   "artist": "TM NETWORK",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "collection": "Song Cut 2026-05-23 Chiyomi ch. Chiyoura Choumi / Aogiri High School atJv_8hKyQI Ultimate sound pressure! Let's hype up the weekend with Shōwa, Heisei, and Reiwa anime songs!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=6",
   "source": "chiyourachomi.js"
@@ -168,7 +168,7 @@ window.SONG_DATA.push(
     {
   "title": "ラムのラブソング",
   "artist": "松谷祐子",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "collection": "Song Cut 2026-05-23 Chiyomi ch. Chiyoura Choumi / Aogiri High School atJv_8hKyQI Ultimate sound pressure! Let's hype up the weekend with Shōwa, Heisei, and Reiwa anime songs!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=7",
   "source": "chiyourachomi.js"
@@ -176,7 +176,7 @@ window.SONG_DATA.push(
     {
   "title": "Shangri-La",
   "artist": "angela",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "collection": "Song Cut 2026-05-23 Chiyomi ch. Chiyoura Choumi / Aogiri High School atJv_8hKyQI Ultimate sound pressure! Let's hype up the weekend with Shōwa, Heisei, and Reiwa anime songs!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=8",
   "source": "chiyourachomi.js"
@@ -184,7 +184,7 @@ window.SONG_DATA.push(
     {
   "title": "明日へのbrilliant road",
   "artist": "angela",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "collection": "Song Cut 2026-05-23 Chiyomi ch. Chiyoura Choumi / Aogiri High School atJv_8hKyQI Ultimate sound pressure! Let's hype up the weekend with Shōwa, Heisei, and Reiwa anime songs!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=9",
   "source": "chiyourachomi.js"
@@ -192,7 +192,7 @@ window.SONG_DATA.push(
     {
   "title": "となりのトトロ",
   "artist": "井上あずみ",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "collection": "Song Cut 2026-05-23 Chiyomi ch. Chiyoura Choumi / Aogiri High School atJv_8hKyQI Ultimate sound pressure! Let's hype up the weekend with Shōwa, Heisei, and Reiwa anime songs!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=10",
   "source": "chiyourachomi.js"
@@ -200,7 +200,7 @@ window.SONG_DATA.push(
     {
   "title": "風のとおり道",
   "artist": "杉並児童合唱団",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "collection": "Song Cut 2026-05-23 Chiyomi ch. Chiyoura Choumi / Aogiri High School atJv_8hKyQI Ultimate sound pressure! Let's hype up the weekend with Shōwa, Heisei, and Reiwa anime songs!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=11",
   "source": "chiyourachomi.js"
@@ -208,7 +208,7 @@ window.SONG_DATA.push(
     {
   "title": "Ready Go!",
   "artist": "田村直美",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "collection": "Song Cut 2026-05-23 Chiyomi ch. Chiyoura Choumi / Aogiri High School atJv_8hKyQI Ultimate sound pressure! Let's hype up the weekend with Shōwa, Heisei, and Reiwa anime songs!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=12",
   "source": "chiyourachomi.js"
@@ -216,7 +216,7 @@ window.SONG_DATA.push(
     {
   "title": "明日の私に幸あれ",
   "artist": "ナナヲアカリ",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "collection": "Song Cut 2026-05-23 Chiyomi ch. Chiyoura Choumi / Aogiri High School atJv_8hKyQI Ultimate sound pressure! Let's hype up the weekend with Shōwa, Heisei, and Reiwa anime songs!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=13",
   "source": "chiyourachomi.js"
@@ -224,7 +224,7 @@ window.SONG_DATA.push(
     {
   "title": "花の塔",
   "artist": "さユり",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "collection": "Song Cut 2026-05-23 Chiyomi ch. Chiyoura Choumi / Aogiri High School atJv_8hKyQI Ultimate sound pressure! Let's hype up the weekend with Shōwa, Heisei, and Reiwa anime songs!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=14",
   "source": "chiyourachomi.js"
@@ -232,7 +232,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "collection": "Song Cut 2026-05-23 Chiyomi ch. Chiyoura Choumi / Aogiri High School atJv_8hKyQI Ultimate sound pressure! Let's hype up the weekend with Shōwa, Heisei, and Reiwa anime songs!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=15",
   "source": "chiyourachomi.js"
@@ -240,7 +240,7 @@ window.SONG_DATA.push(
     {
   "title": "BRAVE GROOVE",
   "artist": "iLiFE!",
-  "collection": "歌切 2026-05-23 ちよみch. 千代浦蝶美 /あおぎり高校 atJv_8hKyQI 最强音压！用昭和、平成、令和的动画歌曲让周末也嗨起来吧ーー！！",
+  "collection": "Song Cut 2026-05-23 Chiyomi ch. Chiyoura Choumi / Aogiri High School atJv_8hKyQI Ultimate sound pressure! Let's hype up the weekend with Shōwa, Heisei, and Reiwa anime songs!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AFG66UEpL?p=16",
   "source": "chiyourachomi.js"
@@ -248,7 +248,7 @@ window.SONG_DATA.push(
     {
   "title": "アイドル",
   "artist": "YOASOBI",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=1",
   "source": "chiyourachomi.js"
@@ -256,7 +256,7 @@ window.SONG_DATA.push(
     {
   "title": "INVOKE -インヴォーク-",
   "artist": "T.M.Revolution",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=2",
   "source": "chiyourachomi.js"
@@ -264,7 +264,7 @@ window.SONG_DATA.push(
     {
   "title": "ウィーアー!",
   "artist": "きただにひろし",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=3",
   "source": "chiyourachomi.js"
@@ -272,7 +272,7 @@ window.SONG_DATA.push(
     {
   "title": "Aim for the Star",
   "artist": "千代浦蝶美",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=4",
   "source": "chiyourachomi.js"
@@ -280,7 +280,7 @@ window.SONG_DATA.push(
     {
   "title": "鬼ノ宴",
   "artist": "友成空",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=5",
   "source": "chiyourachomi.js"
@@ -288,7 +288,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=6",
   "source": "chiyourachomi.js"
@@ -296,7 +296,7 @@ window.SONG_DATA.push(
     {
   "title": "気まぐれロマンティック",
   "artist": "いきものがかり",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=7",
   "source": "chiyourachomi.js"
@@ -304,7 +304,7 @@ window.SONG_DATA.push(
     {
   "title": "Climax Jump",
   "artist": "AAA DEN-O form",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=8",
   "source": "chiyourachomi.js"
@@ -312,7 +312,7 @@ window.SONG_DATA.push(
     {
   "title": "Get Wild",
   "artist": "TM NETWORK",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=9",
   "source": "chiyourachomi.js"
@@ -320,7 +320,7 @@ window.SONG_DATA.push(
     {
   "title": "God knows...",
   "artist": "涼宮ハルヒ（平野綾）",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=10",
   "source": "chiyourachomi.js"
@@ -328,7 +328,7 @@ window.SONG_DATA.push(
     {
   "title": "さんぽ",
   "artist": "井上あずみ",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=11",
   "source": "chiyourachomi.js"
@@ -336,7 +336,7 @@ window.SONG_DATA.push(
     {
   "title": "唱",
   "artist": "Ado",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=12",
   "source": "chiyourachomi.js"
@@ -344,7 +344,7 @@ window.SONG_DATA.push(
     {
   "title": "Starry Heavens",
   "artist": "day after tomorrow",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=13",
   "source": "chiyourachomi.js"
@@ -352,7 +352,7 @@ window.SONG_DATA.push(
     {
   "title": "閃光",
   "artist": "[Alexandros]",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=14",
   "source": "chiyourachomi.js"
@@ -360,7 +360,7 @@ window.SONG_DATA.push(
     {
   "title": "そして僕にできるコト",
   "artist": "day after tomorrow",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=15",
   "source": "chiyourachomi.js"
@@ -368,7 +368,7 @@ window.SONG_DATA.push(
     {
   "title": "魂のルフラン",
   "artist": "高橋洋子",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=16",
   "source": "chiyourachomi.js"
@@ -376,7 +376,7 @@ window.SONG_DATA.push(
     {
   "title": "ちあっぷ！",
   "artist": "千代浦蝶美",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=17",
   "source": "chiyourachomi.js"
@@ -384,7 +384,7 @@ window.SONG_DATA.push(
     {
   "title": "月のワルツ",
   "artist": "諫山実生",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=18",
   "source": "chiyourachomi.js"
@@ -392,7 +392,7 @@ window.SONG_DATA.push(
     {
   "title": "departure!",
   "artist": "小野正利",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=19",
   "source": "chiyourachomi.js"
@@ -400,7 +400,7 @@ window.SONG_DATA.push(
     {
   "title": "トウキョウ・シャンディ・ランデヴ",
   "artist": "MAISONdes feat. 花譜・ツミキ",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=20",
   "source": "chiyourachomi.js"
@@ -408,7 +408,7 @@ window.SONG_DATA.push(
     {
   "title": "名前のない怪物",
   "artist": "EGOIST",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=21",
   "source": "chiyourachomi.js"
@@ -416,7 +416,7 @@ window.SONG_DATA.push(
     {
   "title": "1/2",
   "artist": "川本真琴",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=22",
   "source": "chiyourachomi.js"
@@ -424,7 +424,7 @@ window.SONG_DATA.push(
     {
   "title": "NUDIE★",
   "artist": "城ヶ崎美嘉（佳村はるか）",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=23",
   "source": "chiyourachomi.js"
@@ -432,7 +432,7 @@ window.SONG_DATA.push(
     {
   "title": "ネコに風船",
   "artist": "大塚愛",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=24",
   "source": "chiyourachomi.js"
@@ -440,7 +440,7 @@ window.SONG_DATA.push(
     {
   "title": "No way to say",
   "artist": "浜崎あゆみ",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=25",
   "source": "chiyourachomi.js"
@@ -448,7 +448,7 @@ window.SONG_DATA.push(
     {
   "title": "Butterfly Dream",
   "artist": "千代浦蝶美",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=26",
   "source": "chiyourachomi.js"
@@ -456,7 +456,7 @@ window.SONG_DATA.push(
     {
   "title": "光るなら",
   "artist": "Goose house",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=27",
   "source": "chiyourachomi.js"
@@ -464,7 +464,7 @@ window.SONG_DATA.push(
     {
   "title": "プラネタリウム",
   "artist": "大塚愛",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=28",
   "source": "chiyourachomi.js"
@@ -472,7 +472,7 @@ window.SONG_DATA.push(
     {
   "title": "平行線",
   "artist": "さユり",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=29",
   "source": "chiyourachomi.js"
@@ -480,7 +480,7 @@ window.SONG_DATA.push(
     {
   "title": "炎",
   "artist": "LiSA",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=30",
   "source": "chiyourachomi.js"
@@ -488,7 +488,7 @@ window.SONG_DATA.push(
     {
   "title": "負けないで",
   "artist": "ZARD",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=31",
   "source": "chiyourachomi.js"
@@ -496,7 +496,7 @@ window.SONG_DATA.push(
     {
   "title": "Meteor -ミーティア-",
   "artist": "T.M.Revolution",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=32",
   "source": "chiyourachomi.js"
@@ -504,7 +504,7 @@ window.SONG_DATA.push(
     {
   "title": "ムーンライト伝説",
   "artist": "DALI",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=33",
   "source": "chiyourachomi.js"
@@ -512,7 +512,7 @@ window.SONG_DATA.push(
     {
   "title": "Mela!",
   "artist": "緑黄色社会",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=34",
   "source": "chiyourachomi.js"
@@ -520,7 +520,7 @@ window.SONG_DATA.push(
     {
   "title": "モノクロのキス",
   "artist": "シド",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=35",
   "source": "chiyourachomi.js"
@@ -528,7 +528,7 @@ window.SONG_DATA.push(
     {
   "title": "やさしさに包まれたなら",
   "artist": "荒井由実",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=36",
   "source": "chiyourachomi.js"
@@ -536,7 +536,7 @@ window.SONG_DATA.push(
     {
   "title": "YUME日和",
   "artist": "島谷ひとみ",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=37",
   "source": "chiyourachomi.js"
@@ -544,7 +544,7 @@ window.SONG_DATA.push(
     {
   "title": "ようこそジャパリパークへ",
   "artist": "どうぶつビスケッツ×PPP",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=38",
   "source": "chiyourachomi.js"
@@ -552,7 +552,7 @@ window.SONG_DATA.push(
     {
   "title": "ら・ら・ら",
   "artist": "大黒摩季",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=39",
   "source": "chiyourachomi.js"
@@ -560,7 +560,7 @@ window.SONG_DATA.push(
     {
   "title": "リライト",
   "artist": "ASIAN KUNG-FU GENERATION",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=40",
   "source": "chiyourachomi.js"
@@ -568,7 +568,7 @@ window.SONG_DATA.push(
     {
   "title": "ルージュの伝言",
   "artist": "荒井由実",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=41",
   "source": "chiyourachomi.js"
@@ -576,7 +576,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛サーキュレーション",
   "artist": "千石撫子（花澤香菜）",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=42",
   "source": "chiyourachomi.js"
@@ -584,7 +584,7 @@ window.SONG_DATA.push(
     {
   "title": "炉心融解",
   "artist": "iroha(sasaki) feat. 鏡音リン",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=43",
   "source": "chiyourachomi.js"
@@ -592,7 +592,7 @@ window.SONG_DATA.push(
     {
   "title": "私は最強",
   "artist": "Ado",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=44",
   "source": "chiyourachomi.js"
@@ -600,7 +600,7 @@ window.SONG_DATA.push(
     {
   "title": "ン・パカ マーチ",
   "artist": "徳光由香",
-  "collection": "ちよみch. 千代浦蝶美 /あおぎり高校歌切 2026-06-28 按五十音顺序唱动漫歌、J-POP、术力口等，嗨起来吧～～！！🎤",
+  "collection": "Chiyomi ch. Chiyoura Choumi / Aogiri High School Utagiri 2026-06-28 Sing anime songs, J-POP, Vocaloid, etc., in gojuon order. Let's get hype～～！！🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agKS63EKM?p=45",
   "source": "chiyourachomi.js"
@@ -608,7 +608,7 @@ window.SONG_DATA.push(
     {
   "title": "銀河鉄道999",
   "artist": "ゴダイゴ",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=1",
   "source": "chiyourachomi.js"
@@ -616,7 +616,7 @@ window.SONG_DATA.push(
     {
   "title": "Catch the Moment",
   "artist": "LiSA",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=2",
   "source": "chiyourachomi.js"
@@ -624,7 +624,7 @@ window.SONG_DATA.push(
     {
   "title": "crossing field",
   "artist": "LiSA",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=3",
   "source": "chiyourachomi.js"
@@ -632,7 +632,7 @@ window.SONG_DATA.push(
     {
   "title": "ANIMA",
   "artist": "ReoNa",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=4",
   "source": "chiyourachomi.js"
@@ -640,7 +640,7 @@ window.SONG_DATA.push(
     {
   "title": "学園天国",
   "artist": "フィンガー5",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=5",
   "source": "chiyourachomi.js"
@@ -648,7 +648,7 @@ window.SONG_DATA.push(
     {
   "title": "さぁ",
   "artist": "SURFACE",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=6",
   "source": "chiyourachomi.js"
@@ -656,7 +656,7 @@ window.SONG_DATA.push(
     {
   "title": "HOT LIMIT",
   "artist": "T.M.Revolution",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=7",
   "source": "chiyourachomi.js"
@@ -664,7 +664,7 @@ window.SONG_DATA.push(
     {
   "title": "カルマ",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=8",
   "source": "chiyourachomi.js"
@@ -672,7 +672,7 @@ window.SONG_DATA.push(
     {
   "title": "カラノココロ",
   "artist": "Anly",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=9",
   "source": "chiyourachomi.js"
@@ -680,7 +680,7 @@ window.SONG_DATA.push(
     {
   "title": "ミラクルショッピング ～ドン・キホーテのテーマ～",
   "artist": "田中マイミ",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=10",
   "source": "chiyourachomi.js"
@@ -688,7 +688,7 @@ window.SONG_DATA.push(
     {
   "title": "鳥の詩",
   "artist": "Lia",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=11",
   "source": "chiyourachomi.js"
@@ -696,7 +696,7 @@ window.SONG_DATA.push(
     {
   "title": "ハレ晴レユカイ",
   "artist": "平野綾、茅原実里、後藤邑子",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=12",
   "source": "chiyourachomi.js"
@@ -704,7 +704,7 @@ window.SONG_DATA.push(
     {
   "title": "only my railgun",
   "artist": "fripSide",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=13",
   "source": "chiyourachomi.js"
@@ -712,7 +712,7 @@ window.SONG_DATA.push(
     {
   "title": "オドループ",
   "artist": "フレデリック",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=14",
   "source": "chiyourachomi.js"
@@ -720,7 +720,7 @@ window.SONG_DATA.push(
     {
   "title": "TAKE ME HIGHER",
   "artist": "V6",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=15",
   "source": "chiyourachomi.js"
@@ -728,7 +728,7 @@ window.SONG_DATA.push(
     {
   "title": "Alive A life",
   "artist": "松本梨香",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=16",
   "source": "chiyourachomi.js"
@@ -736,7 +736,7 @@ window.SONG_DATA.push(
     {
   "title": "Anything Goes!",
   "artist": "大黒摩季",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=17",
   "source": "chiyourachomi.js"
@@ -744,7 +744,7 @@ window.SONG_DATA.push(
     {
   "title": "Be The One",
   "artist": "PANDORA feat. Beverly",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=18",
   "source": "chiyourachomi.js"
@@ -752,7 +752,7 @@ window.SONG_DATA.push(
     {
   "title": "英雄",
   "artist": "doa",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=19",
   "source": "chiyourachomi.js"
@@ -760,7 +760,7 @@ window.SONG_DATA.push(
     {
   "title": "ヨドバシカメラの歌",
   "artist": "MIQ",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=20",
   "source": "chiyourachomi.js"
@@ -768,7 +768,7 @@ window.SONG_DATA.push(
     {
   "title": "嵐の中で輝いて",
   "artist": "米倉千尋",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=21",
   "source": "chiyourachomi.js"
@@ -776,7 +776,7 @@ window.SONG_DATA.push(
     {
   "title": "Reason",
   "artist": "玉置成実",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=22",
   "source": "chiyourachomi.js"
@@ -784,7 +784,7 @@ window.SONG_DATA.push(
     {
   "title": "君は僕に似ている",
   "artist": "See-Saw",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=23",
   "source": "chiyourachomi.js"
@@ -792,7 +792,7 @@ window.SONG_DATA.push(
     {
   "title": "Life Goes On",
   "artist": "有坂美香",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=24",
   "source": "chiyourachomi.js"
@@ -800,7 +800,7 @@ window.SONG_DATA.push(
     {
   "title": "BEYOND THE TIME (メビウスの宇宙を越えて)",
   "artist": "TM NETWORK",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=25",
   "source": "chiyourachomi.js"
@@ -808,7 +808,7 @@ window.SONG_DATA.push(
     {
   "title": "STAND UP TO THE VICTORY 〜トゥ・ザ・ヴィクトリー〜",
   "artist": "川添智久",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=26",
   "source": "chiyourachomi.js"
@@ -816,7 +816,7 @@ window.SONG_DATA.push(
     {
   "title": "いけないボーダーライン",
   "artist": "ワルキューレ",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=27",
   "source": "chiyourachomi.js"
@@ -824,7 +824,7 @@ window.SONG_DATA.push(
     {
   "title": "heavenly blue",
   "artist": "Kalafina",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=28",
   "source": "chiyourachomi.js"
@@ -832,7 +832,7 @@ window.SONG_DATA.push(
     {
   "title": "Shangri-La",
   "artist": "angela",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=29",
   "source": "chiyourachomi.js"
@@ -840,7 +840,7 @@ window.SONG_DATA.push(
     {
   "title": "Knights of Cydonia",
   "artist": "Muse",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=30",
   "source": "chiyourachomi.js"
@@ -848,7 +848,7 @@ window.SONG_DATA.push(
     {
   "title": "ダイアモンド クレバス",
   "artist": "シェリル・ノーム starring May'n",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=31",
   "source": "chiyourachomi.js"
@@ -856,7 +856,7 @@ window.SONG_DATA.push(
     {
   "title": "粛聖!! ロリ神レクイエム☆",
   "artist": "しぐれうい",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=32",
   "source": "chiyourachomi.js"
@@ -864,7 +864,7 @@ window.SONG_DATA.push(
     {
   "title": "ギミー！レボリューション",
   "artist": "内田真礼",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=33",
   "source": "chiyourachomi.js"
@@ -872,7 +872,7 @@ window.SONG_DATA.push(
     {
   "title": "Los! Los! Los!",
   "artist": "ターニャ・デグレチャフ(CV:悠木碧)",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=34",
   "source": "chiyourachomi.js"
@@ -880,7 +880,7 @@ window.SONG_DATA.push(
     {
   "title": "Together",
   "artist": "あきよしふみえ",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=35",
   "source": "chiyourachomi.js"
@@ -888,7 +888,7 @@ window.SONG_DATA.push(
     {
   "title": "君のそばで 〜ヒカリのテーマ〜",
   "artist": "グリン",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=36",
   "source": "chiyourachomi.js"
@@ -896,7 +896,7 @@ window.SONG_DATA.push(
     {
   "title": "ポケモン言えるかな?",
   "artist": "イマクニ?",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=37",
   "source": "chiyourachomi.js"
@@ -904,7 +904,7 @@ window.SONG_DATA.push(
     {
   "title": "タイプ：ワイルド",
   "artist": "松本梨香",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=38",
   "source": "chiyourachomi.js"
@@ -912,7 +912,7 @@ window.SONG_DATA.push(
     {
   "title": "めざせポケモンマスター",
   "artist": "松本梨香",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=39",
   "source": "chiyourachomi.js"
@@ -920,7 +920,7 @@ window.SONG_DATA.push(
     {
   "title": "深い森",
   "artist": "Do As Infinity",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=40",
   "source": "chiyourachomi.js"
@@ -928,7 +928,7 @@ window.SONG_DATA.push(
     {
   "title": "決意の朝に",
   "artist": "Aqua Timez",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=41",
   "source": "chiyourachomi.js"
@@ -936,7 +936,7 @@ window.SONG_DATA.push(
     {
   "title": "緋色の空",
   "artist": "川田まみ",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=42",
   "source": "chiyourachomi.js"
@@ -944,7 +944,7 @@ window.SONG_DATA.push(
     {
   "title": "メリッサ",
   "artist": "ポルノグラフィティ",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=43",
   "source": "chiyourachomi.js"
@@ -952,7 +952,7 @@ window.SONG_DATA.push(
     {
   "title": "バラライカ",
   "artist": "月島きらり starring 久住小春",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=44",
   "source": "chiyourachomi.js"
@@ -960,7 +960,7 @@ window.SONG_DATA.push(
     {
   "title": "MEN OF DESTINY",
   "artist": "MIO",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=45",
   "source": "chiyourachomi.js"
@@ -968,7 +968,7 @@ window.SONG_DATA.push(
     {
   "title": "紅",
   "artist": "X JAPAN",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=46",
   "source": "chiyourachomi.js"
@@ -976,7 +976,7 @@ window.SONG_DATA.push(
     {
   "title": "完全感覚Dreamer",
   "artist": "ONE OK ROCK",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=47",
   "source": "chiyourachomi.js"
@@ -984,7 +984,7 @@ window.SONG_DATA.push(
     {
   "title": "ハム太郎とっとこうた",
   "artist": "ハムちゃんず",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=48",
   "source": "chiyourachomi.js"
@@ -992,7 +992,7 @@ window.SONG_DATA.push(
     {
   "title": "翼をください",
   "artist": "赤い鳥",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=49",
   "source": "chiyourachomi.js"
@@ -1000,7 +1000,7 @@ window.SONG_DATA.push(
     {
   "title": "マイ フレンド",
   "artist": "ZARD",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=50",
   "source": "chiyourachomi.js"
@@ -1008,7 +1008,7 @@ window.SONG_DATA.push(
     {
   "title": "煌めく瞬間に捕われて",
   "artist": "MANISH",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=51",
   "source": "chiyourachomi.js"
@@ -1016,7 +1016,7 @@ window.SONG_DATA.push(
     {
   "title": "微笑みの爆弾",
   "artist": "馬渡松子",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=52",
   "source": "chiyourachomi.js"
@@ -1024,7 +1024,7 @@ window.SONG_DATA.push(
     {
   "title": "晴れてハレルヤ",
   "artist": "奥井亜紀",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=53",
   "source": "chiyourachomi.js"
@@ -1032,7 +1032,7 @@ window.SONG_DATA.push(
     {
   "title": "ゆずれない願い",
   "artist": "田村直美",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=54",
   "source": "chiyourachomi.js"
@@ -1040,7 +1040,7 @@ window.SONG_DATA.push(
     {
   "title": "Bling-Bang-Bang-Born",
   "artist": "Creepy Nuts",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=55",
   "source": "chiyourachomi.js"
@@ -1048,7 +1048,7 @@ window.SONG_DATA.push(
     {
   "title": "すずめ",
   "artist": "RADWIMPS feat. 十明",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=56",
   "source": "chiyourachomi.js"
@@ -1056,7 +1056,7 @@ window.SONG_DATA.push(
     {
   "title": "裸の勇者",
   "artist": "Vaundy",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=57",
   "source": "chiyourachomi.js"
@@ -1064,7 +1064,7 @@ window.SONG_DATA.push(
     {
   "title": "ポップ・スナック・ジャンクなHUNNY",
   "artist": "あおぎり高校",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=58",
   "source": "chiyourachomi.js"
@@ -1072,7 +1072,7 @@ window.SONG_DATA.push(
     {
   "title": "サインはB",
   "artist": "B小町",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=59",
   "source": "chiyourachomi.js"
@@ -1080,7 +1080,7 @@ window.SONG_DATA.push(
     {
   "title": "ちあっぷ!",
   "artist": "千代浦蝶美",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=60",
   "source": "chiyourachomi.js"
@@ -1088,7 +1088,7 @@ window.SONG_DATA.push(
     {
   "title": "風のとおり道",
   "artist": "杉並児童合唱団",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=61",
   "source": "chiyourachomi.js"
@@ -1096,7 +1096,7 @@ window.SONG_DATA.push(
     {
   "title": "テルーの唄",
   "artist": "手嶌葵",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=62",
   "source": "chiyourachomi.js"
@@ -1104,7 +1104,7 @@ window.SONG_DATA.push(
     {
   "title": "めぐる季節",
   "artist": "井上あずみ",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=63",
   "source": "chiyourachomi.js"
@@ -1112,7 +1112,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=64",
   "source": "chiyourachomi.js"
@@ -1120,7 +1120,7 @@ window.SONG_DATA.push(
     {
   "title": "君をのせて",
   "artist": "井上あずみ",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=65",
   "source": "chiyourachomi.js"
@@ -1128,7 +1128,7 @@ window.SONG_DATA.push(
     {
   "title": "ブラック★ロックシューター",
   "artist": "ryo feat. 初音ミク",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=66",
   "source": "chiyourachomi.js"
@@ -1136,7 +1136,7 @@ window.SONG_DATA.push(
     {
   "title": "ロミオとシンデレラ",
   "artist": "doriko feat. 初音ミク",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=67",
   "source": "chiyourachomi.js"
@@ -1144,7 +1144,7 @@ window.SONG_DATA.push(
     {
   "title": "心做し",
   "artist": "蝶々P feat. GUMI",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=68",
   "source": "chiyourachomi.js"
@@ -1152,7 +1152,7 @@ window.SONG_DATA.push(
     {
   "title": "サザエさん",
   "artist": "宇野ゆう子",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=69",
   "source": "chiyourachomi.js"
@@ -1160,7 +1160,7 @@ window.SONG_DATA.push(
     {
   "title": "Story",
   "artist": "AI",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=70",
   "source": "chiyourachomi.js"
@@ -1168,7 +1168,7 @@ window.SONG_DATA.push(
     {
   "title": "三日月",
   "artist": "絢香",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=71",
   "source": "chiyourachomi.js"
@@ -1176,7 +1176,7 @@ window.SONG_DATA.push(
     {
   "title": "Time goes by",
   "artist": "Every Little Thing",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=72",
   "source": "chiyourachomi.js"
@@ -1184,7 +1184,7 @@ window.SONG_DATA.push(
     {
   "title": "ニホンノミカタ -ネバダカラキマシタ-",
   "artist": "矢島美容室",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=73",
   "source": "chiyourachomi.js"
@@ -1192,7 +1192,7 @@ window.SONG_DATA.push(
     {
   "title": "火炎",
   "artist": "女王蜂",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=74",
   "source": "chiyourachomi.js"
@@ -1200,7 +1200,7 @@ window.SONG_DATA.push(
     {
   "title": "sakura",
   "artist": "NIRGILIS",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=75",
   "source": "chiyourachomi.js"
@@ -1208,7 +1208,7 @@ window.SONG_DATA.push(
     {
   "title": "BRAVE GROOVE",
   "artist": "iLiFE!",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=76",
   "source": "chiyourachomi.js"
@@ -1216,7 +1216,7 @@ window.SONG_DATA.push(
     {
   "title": "わたしの一番かわいいところ",
   "artist": "FRUITS ZIPPER",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=77",
   "source": "chiyourachomi.js"
@@ -1224,7 +1224,7 @@ window.SONG_DATA.push(
     {
   "title": "大声ダイヤモンド",
   "artist": "AKB48",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=78",
   "source": "chiyourachomi.js"
@@ -1232,7 +1232,7 @@ window.SONG_DATA.push(
     {
   "title": "初恋サイダー",
   "artist": "Buono!",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=79",
   "source": "chiyourachomi.js"
@@ -1240,7 +1240,7 @@ window.SONG_DATA.push(
     {
   "title": "アンパンマンのマーチ",
   "artist": "ドリーミング",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=80",
   "source": "chiyourachomi.js"
@@ -1248,7 +1248,7 @@ window.SONG_DATA.push(
     {
   "title": "GONG",
   "artist": "JAM Project",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=81",
   "source": "chiyourachomi.js"
@@ -1256,7 +1256,7 @@ window.SONG_DATA.push(
     {
   "title": "SKILL",
   "artist": "JAM Project",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=82",
   "source": "chiyourachomi.js"
@@ -1264,7 +1264,7 @@ window.SONG_DATA.push(
     {
   "title": "トリコロール・ステップ 2025",
   "artist": "あおぎり高校",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=83",
   "source": "chiyourachomi.js"
@@ -1272,7 +1272,7 @@ window.SONG_DATA.push(
     {
   "title": "恋は渾沌の隷也",
   "artist": "後ろから這いより隊G",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=84",
   "source": "chiyourachomi.js"
@@ -1280,7 +1280,7 @@ window.SONG_DATA.push(
     {
   "title": "おジャ魔女カーニバル!!",
   "artist": "MAHO堂",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=85",
   "source": "chiyourachomi.js"
@@ -1288,7 +1288,7 @@ window.SONG_DATA.push(
     {
   "title": "レッツゴー！陰陽師",
   "artist": "矢部野彦麿&琴姫 With 坊主ダンサーズ",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=86",
   "source": "chiyourachomi.js"
@@ -1296,7 +1296,7 @@ window.SONG_DATA.push(
     {
   "title": "ひとりじゃない",
   "artist": "DEEN",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=87",
   "source": "chiyourachomi.js"
@@ -1304,7 +1304,7 @@ window.SONG_DATA.push(
     {
   "title": "Kabaneri Of The Iron Fortress",
   "artist": "EGOIST",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=88",
   "source": "chiyourachomi.js"
@@ -1312,7 +1312,7 @@ window.SONG_DATA.push(
     {
   "title": "GO!!!",
   "artist": "FLOW",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=89",
   "source": "chiyourachomi.js"
@@ -1320,7 +1320,7 @@ window.SONG_DATA.push(
     {
   "title": "VTuberのすべて",
   "artist": "あおぎり高校 & USAGI Production",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=90",
   "source": "chiyourachomi.js"
@@ -1328,7 +1328,7 @@ window.SONG_DATA.push(
     {
   "title": "となりのトトロ",
   "artist": "井上あずみ",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=91",
   "source": "chiyourachomi.js"
@@ -1336,7 +1336,7 @@ window.SONG_DATA.push(
     {
   "title": "心臓を捧げよ!",
   "artist": "Linked Horizon",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=92",
   "source": "chiyourachomi.js"
@@ -1344,7 +1344,7 @@ window.SONG_DATA.push(
     {
   "title": "創聖のアクエリオン",
   "artist": "AKINO",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=93",
   "source": "chiyourachomi.js"
@@ -1352,7 +1352,7 @@ window.SONG_DATA.push(
     {
   "title": "IN MY DREAM",
   "artist": "真行寺恵里",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=94",
   "source": "chiyourachomi.js"
@@ -1360,7 +1360,7 @@ window.SONG_DATA.push(
     {
   "title": "千本桜",
   "artist": "黒うさP feat. 初音ミク",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=95",
   "source": "chiyourachomi.js"
@@ -1368,7 +1368,7 @@ window.SONG_DATA.push(
     {
   "title": "閃光",
   "artist": "[Alexandros]",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=96",
   "source": "chiyourachomi.js"
@@ -1376,7 +1376,7 @@ window.SONG_DATA.push(
     {
   "title": "ファンサ",
   "artist": "mona(CV:夏川椎菜)",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=97",
   "source": "chiyourachomi.js"
@@ -1384,7 +1384,7 @@ window.SONG_DATA.push(
     {
   "title": "Aim for the Star",
   "artist": "千代浦蝶美",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=98",
   "source": "chiyourachomi.js"
@@ -1392,7 +1392,7 @@ window.SONG_DATA.push(
     {
   "title": "Butterfly Dream",
   "artist": "千代浦蝶美",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=99",
   "source": "chiyourachomi.js"
@@ -1400,7 +1400,7 @@ window.SONG_DATA.push(
     {
   "title": "夢追いの蝶",
   "artist": "千代浦蝶美",
-  "collection": "【歌切】[2026-07-04]100首耐久歌回，最强音压！为祈愿个人Live门票售罄，长时间持续歌唱！ ちよみch. 千代浦蝶美 /あおぎり高校",
+  "collection": "【Vocal Cover】[2026-07-04]100-song endurance singing stream, strongest vocal pressure! Long-duration singing to pray for personal Live tickets to sell out! ちよみch. Chiyo Pochimi / Aogiri High School",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1LyMu6CEFa?p=100",
   "source": "chiyourachomi.js"
@@ -1408,7 +1408,7 @@ window.SONG_DATA.push(
     {
   "title": "ウィーアー!",
   "artist": "きただにひろし",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=1",
   "source": "chiyourachomi.js"
@@ -1416,7 +1416,7 @@ window.SONG_DATA.push(
     {
   "title": "おジャ魔女カーニバル!!",
   "artist": "MAHO堂",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=2",
   "source": "chiyourachomi.js"
@@ -1424,7 +1424,7 @@ window.SONG_DATA.push(
     {
   "title": "恋は渾沌の隷也",
   "artist": "後ろから這いより隊G",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=3",
   "source": "chiyourachomi.js"
@@ -1432,7 +1432,7 @@ window.SONG_DATA.push(
     {
   "title": "レッツゴー!陰陽師",
   "artist": "矢部野彦麿&琴姫With坊主ダンサーズ",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=4",
   "source": "chiyourachomi.js"
@@ -1440,7 +1440,7 @@ window.SONG_DATA.push(
     {
   "title": "GO!!!",
   "artist": "FLOW",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=5",
   "source": "chiyourachomi.js"
@@ -1448,7 +1448,7 @@ window.SONG_DATA.push(
     {
   "title": "TAKE ME HIGHER",
   "artist": "V6",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=6",
   "source": "chiyourachomi.js"
@@ -1456,7 +1456,7 @@ window.SONG_DATA.push(
     {
   "title": "魂のルフラン",
   "artist": "高橋洋子",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=7",
   "source": "chiyourachomi.js"
@@ -1464,7 +1464,7 @@ window.SONG_DATA.push(
     {
   "title": "Reason",
   "artist": "玉置成実",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=8",
   "source": "chiyourachomi.js"
@@ -1472,7 +1472,7 @@ window.SONG_DATA.push(
     {
   "title": "ETERNAL BLAZE",
   "artist": "水樹奈々",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=9",
   "source": "chiyourachomi.js"
@@ -1480,7 +1480,7 @@ window.SONG_DATA.push(
     {
   "title": "ヨドバシカメラの歌",
   "artist": "MIQ",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=10",
   "source": "chiyourachomi.js"
@@ -1488,7 +1488,7 @@ window.SONG_DATA.push(
     {
   "title": "アンパンマンのマーチ",
   "artist": "ドリーミング",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=11",
   "source": "chiyourachomi.js"
@@ -1496,7 +1496,7 @@ window.SONG_DATA.push(
     {
   "title": "ガチャガチャきゅ〜と・ふぃぎゅ@メイト",
   "artist": "MOSAIC.WAV",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=12",
   "source": "chiyourachomi.js"
@@ -1504,7 +1504,7 @@ window.SONG_DATA.push(
     {
   "title": "Together",
   "artist": "あきよしふみえ",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=13",
   "source": "chiyourachomi.js"
@@ -1512,7 +1512,7 @@ window.SONG_DATA.push(
     {
   "title": "君のそばで 〜ヒカリのテーマ〜",
   "artist": "グリン",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=14",
   "source": "chiyourachomi.js"
@@ -1520,7 +1520,7 @@ window.SONG_DATA.push(
     {
   "title": "シル・ヴ・プレジデント",
   "artist": "P丸様。",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=15",
   "source": "chiyourachomi.js"
@@ -1528,7 +1528,7 @@ window.SONG_DATA.push(
     {
   "title": "さくらんぼ",
   "artist": "大塚愛",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=16",
   "source": "chiyourachomi.js"
@@ -1536,7 +1536,7 @@ window.SONG_DATA.push(
     {
   "title": "鬼ノ宴",
   "artist": "友成空",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=17",
   "source": "chiyourachomi.js"
@@ -1544,7 +1544,7 @@ window.SONG_DATA.push(
     {
   "title": "CITRUS",
   "artist": "Da-iCE",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=18",
   "source": "chiyourachomi.js"
@@ -1552,7 +1552,7 @@ window.SONG_DATA.push(
     {
   "title": "はいよろこんで",
   "artist": "こっちのけんと",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=19",
   "source": "chiyourachomi.js"
@@ -1560,7 +1560,7 @@ window.SONG_DATA.push(
     {
   "title": "おにのパンツ",
   "artist": "田中星児",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=20",
   "source": "chiyourachomi.js"
@@ -1568,7 +1568,7 @@ window.SONG_DATA.push(
     {
   "title": "MEN OF DESTINY",
   "artist": "MIO",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=21",
   "source": "chiyourachomi.js"
@@ -1576,7 +1576,7 @@ window.SONG_DATA.push(
     {
   "title": "嵐の中で輝いて",
   "artist": "米倉千尋",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=22",
   "source": "chiyourachomi.js"
@@ -1584,7 +1584,7 @@ window.SONG_DATA.push(
     {
   "title": "Resolution",
   "artist": "ROMANTIC MODE",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=23",
   "source": "chiyourachomi.js"
@@ -1592,7 +1592,7 @@ window.SONG_DATA.push(
     {
   "title": "INVOKE -インヴォーク-",
   "artist": "T.M.Revolution",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=24",
   "source": "chiyourachomi.js"
@@ -1600,7 +1600,7 @@ window.SONG_DATA.push(
     {
   "title": "暁の車",
   "artist": "FictionJunction YUUKA",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=25",
   "source": "chiyourachomi.js"
@@ -1608,7 +1608,7 @@ window.SONG_DATA.push(
     {
   "title": "ignited -イグナイテッド-",
   "artist": "T.M.Revolution",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=26",
   "source": "chiyourachomi.js"
@@ -1616,7 +1616,7 @@ window.SONG_DATA.push(
     {
   "title": "閃光",
   "artist": "[Alexandros]",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=27",
   "source": "chiyourachomi.js"
@@ -1624,7 +1624,7 @@ window.SONG_DATA.push(
     {
   "title": "FREEDOM",
   "artist": "西川貴教 with t.komuro",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=28",
   "source": "chiyourachomi.js"
@@ -1632,7 +1632,7 @@ window.SONG_DATA.push(
     {
   "title": "去り際のロマンティクス",
   "artist": "See-Saw",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=29",
   "source": "chiyourachomi.js"
@@ -1640,7 +1640,7 @@ window.SONG_DATA.push(
     {
   "title": "翔べ！ガンダム",
   "artist": "池田鴻",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=30",
   "source": "chiyourachomi.js"
@@ -1648,7 +1648,7 @@ window.SONG_DATA.push(
     {
   "title": "Shangri-La",
   "artist": "angela",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=31",
   "source": "chiyourachomi.js"
@@ -1656,7 +1656,7 @@ window.SONG_DATA.push(
     {
   "title": "heavenly blue",
   "artist": "Kalafina",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=32",
   "source": "chiyourachomi.js"
@@ -1664,7 +1664,7 @@ window.SONG_DATA.push(
     {
   "title": "禁断のレジスタンス",
   "artist": "水樹奈々",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=33",
   "source": "chiyourachomi.js"
@@ -1672,7 +1672,7 @@ window.SONG_DATA.push(
     {
   "title": "突撃ラブハート",
   "artist": "FIRE BOMBER",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=34",
   "source": "chiyourachomi.js"
@@ -1680,7 +1680,7 @@ window.SONG_DATA.push(
     {
   "title": "鳥の歌",
   "artist": "千里愛風",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=35",
   "source": "chiyourachomi.js"
@@ -1688,7 +1688,7 @@ window.SONG_DATA.push(
     {
   "title": "SKILL",
   "artist": "JAM Project",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=36",
   "source": "chiyourachomi.js"
@@ -1696,7 +1696,7 @@ window.SONG_DATA.push(
     {
   "title": "COLORS",
   "artist": "FLOW",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=37",
   "source": "chiyourachomi.js"
@@ -1704,7 +1704,7 @@ window.SONG_DATA.push(
     {
   "title": "勇侠青春謳",
   "artist": "ALI PROJECT",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=38",
   "source": "chiyourachomi.js"
@@ -1712,7 +1712,7 @@ window.SONG_DATA.push(
     {
   "title": "モザイクカケラ",
   "artist": "SunSet Swish",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=39",
   "source": "chiyourachomi.js"
@@ -1720,7 +1720,7 @@ window.SONG_DATA.push(
     {
   "title": "O2",
   "artist": "ORANGE RANGE",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=40",
   "source": "chiyourachomi.js"
@@ -1728,7 +1728,7 @@ window.SONG_DATA.push(
     {
   "title": "WORLD END",
   "artist": "FLOW",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=41",
   "source": "chiyourachomi.js"
@@ -1736,7 +1736,7 @@ window.SONG_DATA.push(
     {
   "title": "おどるポンポコリン",
   "artist": "B.B.クィーンズ",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=42",
   "source": "chiyourachomi.js"
@@ -1744,7 +1744,7 @@ window.SONG_DATA.push(
     {
   "title": "メリッサ",
   "artist": "ポルノグラフィティ",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=43",
   "source": "chiyourachomi.js"
@@ -1752,7 +1752,7 @@ window.SONG_DATA.push(
     {
   "title": "バラライカ",
   "artist": "月島きらり starring 久住小春(モーニング娘。)",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=44",
   "source": "chiyourachomi.js"
@@ -1760,7 +1760,7 @@ window.SONG_DATA.push(
     {
   "title": "甲賀忍法帖",
   "artist": "陰陽座",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=45",
   "source": "chiyourachomi.js"
@@ -1768,7 +1768,7 @@ window.SONG_DATA.push(
     {
   "title": "YUME日和",
   "artist": "島谷ひとみ",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=46",
   "source": "chiyourachomi.js"
@@ -1776,7 +1776,7 @@ window.SONG_DATA.push(
     {
   "title": "God knows...",
   "artist": "涼宮ハルヒ(CV.平野綾)",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=47",
   "source": "chiyourachomi.js"
@@ -1784,7 +1784,7 @@ window.SONG_DATA.push(
     {
   "title": "Starry Heavens",
   "artist": "day after tomorrow",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=48",
   "source": "chiyourachomi.js"
@@ -1792,7 +1792,7 @@ window.SONG_DATA.push(
     {
   "title": "そして僕にできるコト",
   "artist": "day after tomorrow",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=49",
   "source": "chiyourachomi.js"
@@ -1800,7 +1800,7 @@ window.SONG_DATA.push(
     {
   "title": "カルマ",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=50",
   "source": "chiyourachomi.js"
@@ -1808,7 +1808,7 @@ window.SONG_DATA.push(
     {
   "title": "永遠の明日",
   "artist": "DEEN",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=51",
   "source": "chiyourachomi.js"
@@ -1816,7 +1816,7 @@ window.SONG_DATA.push(
     {
   "title": "progress",
   "artist": "浜崎あゆみ",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=52",
   "source": "chiyourachomi.js"
@@ -1824,7 +1824,7 @@ window.SONG_DATA.push(
     {
   "title": "LOVE & JOY",
   "artist": "木村由姫",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=53",
   "source": "chiyourachomi.js"
@@ -1832,7 +1832,7 @@ window.SONG_DATA.push(
     {
   "title": "気分上々↑↑",
   "artist": "mihimaru GT",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=54",
   "source": "chiyourachomi.js"
@@ -1840,7 +1840,7 @@ window.SONG_DATA.push(
     {
   "title": "羞恥心",
   "artist": "羞恥心",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=55",
   "source": "chiyourachomi.js"
@@ -1848,7 +1848,7 @@ window.SONG_DATA.push(
     {
   "title": "風立ちぬ",
   "artist": "中村中",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=56",
   "source": "chiyourachomi.js"
@@ -1856,7 +1856,7 @@ window.SONG_DATA.push(
     {
   "title": "Jupiter",
   "artist": "平原綾香",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=57",
   "source": "chiyourachomi.js"
@@ -1864,7 +1864,7 @@ window.SONG_DATA.push(
     {
   "title": "夢をかなえてドラえもん",
   "artist": "mao",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=58",
   "source": "chiyourachomi.js"
@@ -1872,7 +1872,7 @@ window.SONG_DATA.push(
     {
   "title": "世界はグー・チョキ・パー",
   "artist": "武田鉄矢一座",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=59",
   "source": "chiyourachomi.js"
@@ -1880,7 +1880,7 @@ window.SONG_DATA.push(
     {
   "title": "かけがえのない詩",
   "artist": "mihimaru GT",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=60",
   "source": "chiyourachomi.js"
@@ -1888,7 +1888,7 @@ window.SONG_DATA.push(
     {
   "title": "季節がいく時",
   "artist": "SPEED",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=61",
   "source": "chiyourachomi.js"
@@ -1896,7 +1896,7 @@ window.SONG_DATA.push(
     {
   "title": "WILL",
   "artist": "米倉千尋",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=62",
   "source": "chiyourachomi.js"
@@ -1904,7 +1904,7 @@ window.SONG_DATA.push(
     {
   "title": "YOU GET TO BURNING",
   "artist": "松澤由美",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=63",
   "source": "chiyourachomi.js"
@@ -1912,7 +1912,7 @@ window.SONG_DATA.push(
     {
   "title": "Wind Climbing 〜風にあそばれて〜",
   "artist": "奥井亜紀",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=64",
   "source": "chiyourachomi.js"
@@ -1920,7 +1920,7 @@ window.SONG_DATA.push(
     {
   "title": "はじめてのチュウ",
   "artist": "あんしんパパ",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=65",
   "source": "chiyourachomi.js"
@@ -1928,7 +1928,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーウォーター",
   "artist": "森川美穂",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=66",
   "source": "chiyourachomi.js"
@@ -1936,7 +1936,7 @@ window.SONG_DATA.push(
     {
   "title": "Boys & Girls",
   "artist": "浜崎あゆみ",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=67",
   "source": "chiyourachomi.js"
@@ -1944,7 +1944,7 @@ window.SONG_DATA.push(
     {
   "title": "丸ノ内サディスティック",
   "artist": "椎名林檎",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=68",
   "source": "chiyourachomi.js"
@@ -1952,7 +1952,7 @@ window.SONG_DATA.push(
     {
   "title": "ロビンソン",
   "artist": "スピッツ",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=69",
   "source": "chiyourachomi.js"
@@ -1960,7 +1960,7 @@ window.SONG_DATA.push(
     {
   "title": "ラブ・ストーリーは突然に",
   "artist": "小田和正",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=70",
   "source": "chiyourachomi.js"
@@ -1968,7 +1968,7 @@ window.SONG_DATA.push(
     {
   "title": "ら・ら・ら",
   "artist": "大黒摩季",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=71",
   "source": "chiyourachomi.js"
@@ -1976,7 +1976,7 @@ window.SONG_DATA.push(
     {
   "title": "LOVEマシーン",
   "artist": "モーニング娘。",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=72",
   "source": "chiyourachomi.js"
@@ -1984,7 +1984,7 @@ window.SONG_DATA.push(
     {
   "title": "Crow Song",
   "artist": "Girls Dead Monster starring marina",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=73",
   "source": "chiyourachomi.js"
@@ -1992,7 +1992,7 @@ window.SONG_DATA.push(
     {
   "title": "鳥の詩",
   "artist": "Lia",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=74",
   "source": "chiyourachomi.js"
@@ -2000,7 +2000,7 @@ window.SONG_DATA.push(
     {
   "title": "君をのせて",
   "artist": "井上あずみ",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=75",
   "source": "chiyourachomi.js"
@@ -2008,7 +2008,7 @@ window.SONG_DATA.push(
     {
   "title": "風のとおり道",
   "artist": "杉並児童合唱団",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=76",
   "source": "chiyourachomi.js"
@@ -2016,7 +2016,7 @@ window.SONG_DATA.push(
     {
   "title": "となりのトトロ",
   "artist": "井上あずみ",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=77",
   "source": "chiyourachomi.js"
@@ -2024,7 +2024,7 @@ window.SONG_DATA.push(
     {
   "title": "ルージュの伝言",
   "artist": "荒井由実",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=78",
   "source": "chiyourachomi.js"
@@ -2032,7 +2032,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=79",
   "source": "chiyourachomi.js"
@@ -2040,7 +2040,7 @@ window.SONG_DATA.push(
     {
   "title": "ミラクルショッピング 〜ドン・キホーテのテーマ〜",
   "artist": "田中マイミ",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=80",
   "source": "chiyourachomi.js"
@@ -2048,7 +2048,7 @@ window.SONG_DATA.push(
     {
   "title": "千本桜",
   "artist": "黒うさP feat.初音ミク",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=81",
   "source": "chiyourachomi.js"
@@ -2056,7 +2056,7 @@ window.SONG_DATA.push(
     {
   "title": "おじゃま虫",
   "artist": "DECO*27 feat.初音ミク",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=82",
   "source": "chiyourachomi.js"
@@ -2064,7 +2064,7 @@ window.SONG_DATA.push(
     {
   "title": "シャルル",
   "artist": "バルーン feat.flower",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=83",
   "source": "chiyourachomi.js"
@@ -2072,7 +2072,7 @@ window.SONG_DATA.push(
     {
   "title": "炉心融解",
   "artist": "iroha(sasaki) feat.鏡音リン",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=84",
   "source": "chiyourachomi.js"
@@ -2080,7 +2080,7 @@ window.SONG_DATA.push(
     {
   "title": "ロストワンの号哭",
   "artist": "Neru feat.鏡音リン",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=85",
   "source": "chiyourachomi.js"
@@ -2088,7 +2088,7 @@ window.SONG_DATA.push(
     {
   "title": "初恋サイダー",
   "artist": "Buono!",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=86",
   "source": "chiyourachomi.js"
@@ -2096,7 +2096,7 @@ window.SONG_DATA.push(
     {
   "title": "Never say never",
   "artist": "渋谷凛(CV.福原綾香)",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=87",
   "source": "chiyourachomi.js"
@@ -2104,7 +2104,7 @@ window.SONG_DATA.push(
     {
   "title": "きみわずらい",
   "artist": "まねきケチャ",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=88",
   "source": "chiyourachomi.js"
@@ -2112,7 +2112,7 @@ window.SONG_DATA.push(
     {
   "title": "プロミスザスター",
   "artist": "BiSH",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=89",
   "source": "chiyourachomi.js"
@@ -2120,7 +2120,7 @@ window.SONG_DATA.push(
     {
   "title": "フライングゲット",
   "artist": "AKB48",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=90",
   "source": "chiyourachomi.js"
@@ -2128,7 +2128,7 @@ window.SONG_DATA.push(
     {
   "title": "群青日和",
   "artist": "東京事変",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=91",
   "source": "chiyourachomi.js"
@@ -2136,7 +2136,7 @@ window.SONG_DATA.push(
     {
   "title": "遭難",
   "artist": "東京事変",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=92",
   "source": "chiyourachomi.js"
@@ -2144,7 +2144,7 @@ window.SONG_DATA.push(
     {
   "title": "透明人間",
   "artist": "東京事変",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=93",
   "source": "chiyourachomi.js"
@@ -2152,7 +2152,7 @@ window.SONG_DATA.push(
     {
   "title": "キミがいれば",
   "artist": "伊織",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=94",
   "source": "chiyourachomi.js"
@@ -2160,7 +2160,7 @@ window.SONG_DATA.push(
     {
   "title": "Time after time 〜花舞う街で〜",
   "artist": "倉木麻衣",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=95",
   "source": "chiyourachomi.js"
@@ -2168,7 +2168,7 @@ window.SONG_DATA.push(
     {
   "title": "謎",
   "artist": "小松未歩",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=96",
   "source": "chiyourachomi.js"
@@ -2176,7 +2176,7 @@ window.SONG_DATA.push(
     {
   "title": "Dream×Dream",
   "artist": "愛内里菜",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=97",
   "source": "chiyourachomi.js"
@@ -2184,7 +2184,7 @@ window.SONG_DATA.push(
     {
   "title": "SAKURAドロップス",
   "artist": "宇多田ヒカル",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=98",
   "source": "chiyourachomi.js"
@@ -2192,7 +2192,7 @@ window.SONG_DATA.push(
     {
   "title": "集結の園へ",
   "artist": "林原めぐみ",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=99",
   "source": "chiyourachomi.js"
@@ -2200,7 +2200,7 @@ window.SONG_DATA.push(
     {
   "title": "夢追いの蝶",
   "artist": "千代浦蝶美",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=100",
   "source": "chiyourachomi.js"
@@ -2208,7 +2208,7 @@ window.SONG_DATA.push(
     {
   "title": "Oz.",
   "artist": "yama",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=101",
   "source": "chiyourachomi.js"
@@ -2216,7 +2216,7 @@ window.SONG_DATA.push(
     {
   "title": "おはよう。",
   "artist": "Keno",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=102",
   "source": "chiyourachomi.js"
@@ -2224,7 +2224,7 @@ window.SONG_DATA.push(
     {
   "title": "KABANERI OF THE IRON FORTRESS",
   "artist": "EGOIST",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=103",
   "source": "chiyourachomi.js"
@@ -2232,7 +2232,7 @@ window.SONG_DATA.push(
     {
   "title": "輝きは君の中に",
   "artist": "鈴木結女",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=104",
   "source": "chiyourachomi.js"
@@ -2240,7 +2240,7 @@ window.SONG_DATA.push(
     {
   "title": "THOUSAND VOICES",
   "artist": "千代浦蝶美",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=105",
   "source": "chiyourachomi.js"
@@ -2248,7 +2248,7 @@ window.SONG_DATA.push(
     {
   "title": "ちあっぷ!",
   "artist": "千代浦蝶美",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=106",
   "source": "chiyourachomi.js"
@@ -2256,7 +2256,7 @@ window.SONG_DATA.push(
     {
   "title": "VTuberのすべて",
   "artist": "あおぎり高校",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=107",
   "source": "chiyourachomi.js"
@@ -2264,7 +2264,7 @@ window.SONG_DATA.push(
     {
   "title": "Aim for the Star",
   "artist": "千代浦蝶美",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=108",
   "source": "chiyourachomi.js"
@@ -2272,7 +2272,7 @@ window.SONG_DATA.push(
     {
   "title": "ポップ・スナック・ジャンクなHUNNY",
   "artist": "あおぎり高校",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=109",
   "source": "chiyourachomi.js"
@@ -2280,7 +2280,7 @@ window.SONG_DATA.push(
     {
   "title": "トリコロール・ステップ",
   "artist": "あおぎり高校",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=110",
   "source": "chiyourachomi.js"
@@ -2288,7 +2288,7 @@ window.SONG_DATA.push(
     {
   "title": "Butterfly Dream",
   "artist": "千代浦蝶美",
-  "collection": "【歌切】[2026-09-05]111曲耐久！距离线下Live还有1周！会唱动画歌曲、J-POP、术力口等！【あおぎり高校 / 千代浦蝶美】",
+  "collection": "【Song Cut】[2026-09-05] 111 Songs Endurance! 1 Week Until Offline Live! Will sing anime songs, J-POP, Vocaloid, etc.! 【Aogiri High School / Chiyoura Chomi】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nubP69EyY?p=111",
   "source": "chiyourachomi.js"
@@ -2296,7 +2296,7 @@ window.SONG_DATA.push(
     {
   "title": "Butterfly Dream",
   "artist": "千代浦蝶美",
-  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "collection": "【Song Cover】[2026-09-13]Dedicated to everyone who has always supported me.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=1",
   "source": "chiyourachomi.js"
@@ -2304,7 +2304,7 @@ window.SONG_DATA.push(
     {
   "title": "GO!!!",
   "artist": "FLOW",
-  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "collection": "【Song Cover】[2026-09-13]Dedicated to everyone who has always supported me.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=2",
   "source": "chiyourachomi.js"
@@ -2312,7 +2312,7 @@ window.SONG_DATA.push(
     {
   "title": "VTuberのすべて",
   "artist": "あおぎり高校",
-  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "collection": "【Song Cover】[2026-09-13]Dedicated to everyone who has always supported me.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=3",
   "source": "chiyourachomi.js"
@@ -2320,7 +2320,7 @@ window.SONG_DATA.push(
     {
   "title": "THOUSAND VOICES",
   "artist": "千代浦蝶美",
-  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "collection": "【Song Cover】[2026-09-13]Dedicated to everyone who has always supported me.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=4",
   "source": "chiyourachomi.js"
@@ -2328,7 +2328,7 @@ window.SONG_DATA.push(
     {
   "title": "ちあっぷ!",
   "artist": "千代浦蝶美",
-  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "collection": "【Song Cover】[2026-09-13]Dedicated to everyone who has always supported me.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=5",
   "source": "chiyourachomi.js"
@@ -2336,7 +2336,7 @@ window.SONG_DATA.push(
     {
   "title": "sakura",
   "artist": "NIRGILIS",
-  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "collection": "【Song Cover】[2026-09-13]Dedicated to everyone who has always supported me.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=6",
   "source": "chiyourachomi.js"
@@ -2344,7 +2344,7 @@ window.SONG_DATA.push(
     {
   "title": "となりのトトロ",
   "artist": "井上あずみ",
-  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "collection": "【Song Cover】[2026-09-13]Dedicated to everyone who has always supported me.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=7",
   "source": "chiyourachomi.js"
@@ -2352,7 +2352,7 @@ window.SONG_DATA.push(
     {
   "title": "炉心融解",
   "artist": "iroha(sasaki) feat.鏡音リン",
-  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "collection": "【Song Cover】[2026-09-13]Dedicated to everyone who has always supported me.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=8",
   "source": "chiyourachomi.js"
@@ -2360,7 +2360,7 @@ window.SONG_DATA.push(
     {
   "title": "羞恥心",
   "artist": "羞恥心",
-  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "collection": "【Song Cover】[2026-09-13]Dedicated to everyone who has always supported me.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=9",
   "source": "chiyourachomi.js"
@@ -2368,7 +2368,7 @@ window.SONG_DATA.push(
     {
   "title": "ニホンノミカタ －ネバダカラキマシタ－",
   "artist": "矢島美容室",
-  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "collection": "【Song Cover】[2026-09-13]Dedicated to everyone who has always supported me.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=10",
   "source": "chiyourachomi.js"
@@ -2376,7 +2376,7 @@ window.SONG_DATA.push(
     {
   "title": "Aim for the Star",
   "artist": "千代浦蝶美",
-  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "collection": "【Song Cover】[2026-09-13]Dedicated to everyone who has always supported me.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=11",
   "source": "chiyourachomi.js"
@@ -2384,7 +2384,7 @@ window.SONG_DATA.push(
     {
   "title": "夢追いの蝶",
   "artist": "千代浦蝶美",
-  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "collection": "【Song Cover】[2026-09-13]Dedicated to everyone who has always supported me.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=12",
   "source": "chiyourachomi.js"
@@ -2392,7 +2392,7 @@ window.SONG_DATA.push(
     {
   "title": "years of Memories",
   "artist": "千代浦蝶美",
-  "collection": "【歌切】[2026-09-13]献给一直支持我的大家。",
+  "collection": "【Song Cover】[2026-09-13]Dedicated to everyone who has always supported me.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NyY663Ex6?p=13",
   "source": "chiyourachomi.js"

@@ -1,6 +1,6 @@
 // すとらてぃあ-Stratia - 歌单数据 (多合集汇总)
 // 来源: BV1KSRXBwE2v
-// 生成时间: 10/21/2026, 6:26:51 AM
+// 生成时间: 10/21/2026, 10:39:59 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8,7 +8,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "歌切 2026-05-09 すとらてぃあ-Stratia GQb-XxU3u0Q 送给触动你心灵的你，让你心弦共鸣的歌声🦋",
+  "collection": "Song cut 2026-05-09 すとらてぃあ-Stratia GQb-XxU3u0Q For the one who touched your heart, melodies that resonate with your soul🦋",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KSRXBwE2v?p=1",
   "source": "stratia.js"
@@ -16,7 +16,7 @@ window.SONG_DATA.push(
     {
   "title": "チャイナアドバイス",
   "artist": "相対性理論",
-  "collection": "歌切 2026-05-09 すとらてぃあ-Stratia GQb-XxU3u0Q 送给触动你心灵的你，让你心弦共鸣的歌声🦋",
+  "collection": "Song cut 2026-05-09 すとらてぃあ-Stratia GQb-XxU3u0Q For the one who touched your heart, melodies that resonate with your soul🦋",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KSRXBwE2v?p=2",
   "source": "stratia.js"
@@ -24,7 +24,7 @@ window.SONG_DATA.push(
     {
   "title": "準透明少年",
   "artist": "ヨルシカ",
-  "collection": "歌切 2026-05-09 すとらてぃあ-Stratia GQb-XxU3u0Q 送给触动你心灵的你，让你心弦共鸣的歌声🦋",
+  "collection": "Song cut 2026-05-09 すとらてぃあ-Stratia GQb-XxU3u0Q For the one who touched your heart, melodies that resonate with your soul🦋",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KSRXBwE2v?p=3",
   "source": "stratia.js"
@@ -32,7 +32,7 @@ window.SONG_DATA.push(
     {
   "title": "LastTear",
   "artist": "すとらてぃあ",
-  "collection": "歌切 2026-05-09 すとらてぃあ-Stratia GQb-XxU3u0Q 送给触动你心灵的你，让你心弦共鸣的歌声🦋",
+  "collection": "Song cut 2026-05-09 すとらてぃあ-Stratia GQb-XxU3u0Q For the one who touched your heart, melodies that resonate with your soul🦋",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KSRXBwE2v?p=4",
   "source": "stratia.js"
@@ -40,7 +40,7 @@ window.SONG_DATA.push(
     {
   "title": "憂、燦々",
   "artist": "クリープハイプ",
-  "collection": "歌切 2026-05-12 すとらてぃあ-Stratia lRz9Sa9sVuA 第一次歌回🦋🫧",
+  "collection": "Song Cut 2026-05-12 Stratia lRz9Sa9sVuA First Singing Stream 🦋🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h25g6QEmA?p=1",
   "source": "stratia.js"
@@ -48,7 +48,7 @@ window.SONG_DATA.push(
     {
   "title": "過去を喰らう",
   "artist": "花譜",
-  "collection": "歌切 2026-05-12 すとらてぃあ-Stratia lRz9Sa9sVuA 第一次歌回🦋🫧",
+  "collection": "Song Cut 2026-05-12 Stratia lRz9Sa9sVuA First Singing Stream 🦋🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h25g6QEmA?p=2",
   "source": "stratia.js"
@@ -56,7 +56,7 @@ window.SONG_DATA.push(
     {
   "title": "雛鳥",
   "artist": "花譜",
-  "collection": "歌切 2026-05-12 すとらてぃあ-Stratia lRz9Sa9sVuA 第一次歌回🦋🫧",
+  "collection": "Song Cut 2026-05-12 Stratia lRz9Sa9sVuA First Singing Stream 🦋🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h25g6QEmA?p=3",
   "source": "stratia.js"
@@ -64,7 +64,7 @@ window.SONG_DATA.push(
     {
   "title": "フラレガイガール",
   "artist": "さユり",
-  "collection": "歌切 2026-05-12 すとらてぃあ-Stratia lRz9Sa9sVuA 第一次歌回🦋🫧",
+  "collection": "Song Cut 2026-05-12 Stratia lRz9Sa9sVuA First Singing Stream 🦋🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h25g6QEmA?p=4",
   "source": "stratia.js"
@@ -72,7 +72,7 @@ window.SONG_DATA.push(
     {
   "title": "夏",
   "artist": "さユり",
-  "collection": "歌切 2026-05-12 すとらてぃあ-Stratia lRz9Sa9sVuA 第一次歌回🦋🫧",
+  "collection": "Song Cut 2026-05-12 Stratia lRz9Sa9sVuA First Singing Stream 🦋🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h25g6QEmA?p=5",
   "source": "stratia.js"
@@ -80,7 +80,7 @@ window.SONG_DATA.push(
     {
   "title": "さようなら、花泥棒さん",
   "artist": "メル",
-  "collection": "歌切 2026-05-12 すとらてぃあ-Stratia lRz9Sa9sVuA 第一次歌回🦋🫧",
+  "collection": "Song Cut 2026-05-12 Stratia lRz9Sa9sVuA First Singing Stream 🦋🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h25g6QEmA?p=6",
   "source": "stratia.js"
@@ -88,7 +88,7 @@ window.SONG_DATA.push(
     {
   "title": "パズルガール",
   "artist": "とあの",
-  "collection": "歌切 2026-05-12 すとらてぃあ-Stratia lRz9Sa9sVuA 第一次歌回🦋🫧",
+  "collection": "Song Cut 2026-05-12 Stratia lRz9Sa9sVuA First Singing Stream 🦋🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h25g6QEmA?p=7",
   "source": "stratia.js"
@@ -96,7 +96,7 @@ window.SONG_DATA.push(
     {
   "title": "もぐもぐYUMMY！",
   "artist": "猫又おかゆ",
-  "collection": "歌切 2026-05-12 すとらてぃあ-Stratia lRz9Sa9sVuA 第一次歌回🦋🫧",
+  "collection": "Song Cut 2026-05-12 Stratia lRz9Sa9sVuA First Singing Stream 🦋🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h25g6QEmA?p=8",
   "source": "stratia.js"
@@ -104,7 +104,7 @@ window.SONG_DATA.push(
     {
   "title": "車輪の唄",
   "artist": "BUMP OF CHICKEN",
-  "collection": "歌切 2026-05-12 すとらてぃあ-Stratia lRz9Sa9sVuA 第一次歌回🦋🫧",
+  "collection": "Song Cut 2026-05-12 Stratia lRz9Sa9sVuA First Singing Stream 🦋🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h25g6QEmA?p=9",
   "source": "stratia.js"
@@ -112,7 +112,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "歌切 2026-05-12 すとらてぃあ-Stratia lRz9Sa9sVuA 第一次歌回🦋🫧",
+  "collection": "Song Cut 2026-05-12 Stratia lRz9Sa9sVuA First Singing Stream 🦋🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h25g6QEmA?p=10",
   "source": "stratia.js"
@@ -120,7 +120,7 @@ window.SONG_DATA.push(
     {
   "title": "ロビンソン",
   "artist": "スピッツ",
-  "collection": "【歌切】[2026-05-16]只听一首也好，要进来听吗？悠闲弹唱🎸🦋 すとらてぃあ-Stratia",
+  "collection": "[Song Cut] [2026-05-16] Even just one song is fine, want to come in and listen? Casual singing and playing🎸🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ELV6aEJa?p=1",
   "source": "stratia.js"
@@ -128,7 +128,7 @@ window.SONG_DATA.push(
     {
   "title": "春の歌",
   "artist": "スピッツ",
-  "collection": "【歌切】[2026-05-16]只听一首也好，要进来听吗？悠闲弹唱🎸🦋 すとらてぃあ-Stratia",
+  "collection": "[Song Cut] [2026-05-16] Even just one song is fine, want to come in and listen? Casual singing and playing🎸🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ELV6aEJa?p=2",
   "source": "stratia.js"
@@ -136,7 +136,7 @@ window.SONG_DATA.push(
     {
   "title": "君の体温",
   "artist": "クワガタP",
-  "collection": "【歌切】[2026-05-16]只听一首也好，要进来听吗？悠闲弹唱🎸🦋 すとらてぃあ-Stratia",
+  "collection": "[Song Cut] [2026-05-16] Even just one song is fine, want to come in and listen? Casual singing and playing🎸🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ELV6aEJa?p=3",
   "source": "stratia.js"
@@ -144,7 +144,7 @@ window.SONG_DATA.push(
     {
   "title": "インタビュア",
   "artist": "クワガタP",
-  "collection": "【歌切】[2026-05-16]只听一首也好，要进来听吗？悠闲弹唱🎸🦋 すとらてぃあ-Stratia",
+  "collection": "[Song Cut] [2026-05-16] Even just one song is fine, want to come in and listen? Casual singing and playing🎸🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ELV6aEJa?p=4",
   "source": "stratia.js"
@@ -152,7 +152,7 @@ window.SONG_DATA.push(
     {
   "title": "夜もすがら君想ふ",
   "artist": "TOKOTOKO(西沢さんP)",
-  "collection": "【歌切】[2026-05-16]只听一首也好，要进来听吗？悠闲弹唱🎸🦋 すとらてぃあ-Stratia",
+  "collection": "[Song Cut] [2026-05-16] Even just one song is fine, want to come in and listen? Casual singing and playing🎸🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ELV6aEJa?p=5",
   "source": "stratia.js"
@@ -160,7 +160,7 @@ window.SONG_DATA.push(
     {
   "title": "Booo!",
   "artist": "TOKOTOKO(西沢さんP)",
-  "collection": "【歌切】[2026-05-16]只听一首也好，要进来听吗？悠闲弹唱🎸🦋 すとらてぃあ-Stratia",
+  "collection": "[Song Cut] [2026-05-16] Even just one song is fine, want to come in and listen? Casual singing and playing🎸🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ELV6aEJa?p=6",
   "source": "stratia.js"
@@ -168,7 +168,7 @@ window.SONG_DATA.push(
     {
   "title": "さわやか社員",
   "artist": "相対性理論",
-  "collection": "【歌切】[2026-05-16]只听一首也好，要进来听吗？悠闲弹唱🎸🦋 すとらてぃあ-Stratia",
+  "collection": "[Song Cut] [2026-05-16] Even just one song is fine, want to come in and listen? Casual singing and playing🎸🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ELV6aEJa?p=7",
   "source": "stratia.js"
@@ -176,7 +176,7 @@ window.SONG_DATA.push(
     {
   "title": "人工衛星",
   "artist": "相対性理論",
-  "collection": "【歌切】[2026-05-16]只听一首也好，要进来听吗？悠闲弹唱🎸🦋 すとらてぃあ-Stratia",
+  "collection": "[Song Cut] [2026-05-16] Even just one song is fine, want to come in and listen? Casual singing and playing🎸🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ELV6aEJa?p=8",
   "source": "stratia.js"
@@ -184,7 +184,7 @@ window.SONG_DATA.push(
     {
   "title": "SWEET TWEET",
   "artist": "Official髭男dism",
-  "collection": "【歌切】[2026-05-16]只听一首也好，要进来听吗？悠闲弹唱🎸🦋 すとらてぃあ-Stratia",
+  "collection": "[Song Cut] [2026-05-16] Even just one song is fine, want to come in and listen? Casual singing and playing🎸🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ELV6aEJa?p=9",
   "source": "stratia.js"
@@ -192,7 +192,7 @@ window.SONG_DATA.push(
     {
   "title": "コーヒーとシロップ",
   "artist": "Official髭男dism",
-  "collection": "【歌切】[2026-05-16]只听一首也好，要进来听吗？悠闲弹唱🎸🦋 すとらてぃあ-Stratia",
+  "collection": "[Song Cut] [2026-05-16] Even just one song is fine, want to come in and listen? Casual singing and playing🎸🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13ELV6aEJa?p=10",
   "source": "stratia.js"
@@ -200,7 +200,7 @@ window.SONG_DATA.push(
     {
   "title": "オールドファッション",
   "artist": "back number [ドラマ 大恋愛〜僕を忘れる君と]",
-  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "collection": "【Song Cover】[2026-05-17] The mood to sing a ballad...💭🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=1",
   "source": "stratia.js"
@@ -208,7 +208,7 @@ window.SONG_DATA.push(
     {
   "title": "赤いスイートピー",
   "artist": "松田聖子",
-  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "collection": "【Song Cover】[2026-05-17] The mood to sing a ballad...💭🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=2",
   "source": "stratia.js"
@@ -216,7 +216,7 @@ window.SONG_DATA.push(
     {
   "title": "I LOVE YOU",
   "artist": "尾崎豊",
-  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "collection": "【Song Cover】[2026-05-17] The mood to sing a ballad...💭🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=3",
   "source": "stratia.js"
@@ -224,7 +224,7 @@ window.SONG_DATA.push(
     {
   "title": "花瓶の花",
   "artist": "石崎ひゅーい",
-  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "collection": "【Song Cover】[2026-05-17] The mood to sing a ballad...💭🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=4",
   "source": "stratia.js"
@@ -232,7 +232,7 @@ window.SONG_DATA.push(
     {
   "title": "小夜子",
   "artist": "みきとP feat.初音ミク",
-  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "collection": "【Song Cover】[2026-05-17] The mood to sing a ballad...💭🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=5",
   "source": "stratia.js"
@@ -240,7 +240,7 @@ window.SONG_DATA.push(
     {
   "title": "きえないで",
   "artist": "アイナ・ジ・エンド",
-  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "collection": "【Song Cover】[2026-05-17] The mood to sing a ballad...💭🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=6",
   "source": "stratia.js"
@@ -248,7 +248,7 @@ window.SONG_DATA.push(
     {
   "title": "渡月橋 〜君 想ふ〜",
   "artist": "倉木麻衣 [映画 名探偵コナン から紅の恋歌]",
-  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "collection": "【Song Cover】[2026-05-17] The mood to sing a ballad...💭🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=7",
   "source": "stratia.js"
@@ -256,7 +256,7 @@ window.SONG_DATA.push(
     {
   "title": "アカツキの詩",
   "artist": "スキマスイッチ",
-  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "collection": "【Song Cover】[2026-05-17] The mood to sing a ballad...💭🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=8",
   "source": "stratia.js"
@@ -264,7 +264,7 @@ window.SONG_DATA.push(
     {
   "title": "藍",
   "artist": "スキマスイッチ",
-  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "collection": "【Song Cover】[2026-05-17] The mood to sing a ballad...💭🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=9",
   "source": "stratia.js"
@@ -272,7 +272,7 @@ window.SONG_DATA.push(
     {
   "title": "片想い",
   "artist": "miwa",
-  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "collection": "【Song Cover】[2026-05-17] The mood to sing a ballad...💭🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=10",
   "source": "stratia.js"
@@ -280,7 +280,7 @@ window.SONG_DATA.push(
     {
   "title": "陽",
   "artist": "クリープハイプ",
-  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "collection": "【Song Cover】[2026-05-17] The mood to sing a ballad...💭🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=11",
   "source": "stratia.js"
@@ -288,7 +288,7 @@ window.SONG_DATA.push(
     {
   "title": "ex ダーリン",
   "artist": "クリープハイプ",
-  "collection": "【歌切】[2026-05-17]想唱抒情歌的心情...💭🦋 すとらてぃあ-Stratia",
+  "collection": "【Song Cover】[2026-05-17] The mood to sing a ballad...💭🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bL5Z6EEpn?p=12",
   "source": "stratia.js"
@@ -296,7 +296,7 @@ window.SONG_DATA.push(
     {
   "title": "からくりピエロ",
   "artist": "40mP",
-  "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
+  "collection": "[Song Cut][2026-05-20] Relaxing Singing Session 🦋🩵 Please listen to a song before you go! すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=1",
   "source": "stratia.js"
@@ -304,7 +304,7 @@ window.SONG_DATA.push(
     {
   "title": "サマータイムレコード",
   "artist": "じん",
-  "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
+  "collection": "[Song Cut][2026-05-20] Relaxing Singing Session 🦋🩵 Please listen to a song before you go! すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=2",
   "source": "stratia.js"
@@ -312,7 +312,7 @@ window.SONG_DATA.push(
     {
   "title": "アヤノの幸福理論",
   "artist": "じん",
-  "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
+  "collection": "[Song Cut][2026-05-20] Relaxing Singing Session 🦋🩵 Please listen to a song before you go! すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=3",
   "source": "stratia.js"
@@ -320,7 +320,7 @@ window.SONG_DATA.push(
     {
   "title": "少年ブレイヴ",
   "artist": "じん",
-  "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
+  "collection": "[Song Cut][2026-05-20] Relaxing Singing Session 🦋🩵 Please listen to a song before you go! すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=4",
   "source": "stratia.js"
@@ -328,7 +328,7 @@ window.SONG_DATA.push(
     {
   "title": "あなたは煙草 私はシャボン",
   "artist": "ラブリーサマーちゃん",
-  "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
+  "collection": "[Song Cut][2026-05-20] Relaxing Singing Session 🦋🩵 Please listen to a song before you go! すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=5",
   "source": "stratia.js"
@@ -336,7 +336,7 @@ window.SONG_DATA.push(
     {
   "title": "夜王子と月の姫",
   "artist": "セントチヒロ・チッチ(BiSH)",
-  "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
+  "collection": "[Song Cut][2026-05-20] Relaxing Singing Session 🦋🩵 Please listen to a song before you go! すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=6",
   "source": "stratia.js"
@@ -344,7 +344,7 @@ window.SONG_DATA.push(
     {
   "title": "地球-まる",
   "artist": "坂口有望",
-  "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
+  "collection": "[Song Cut][2026-05-20] Relaxing Singing Session 🦋🩵 Please listen to a song before you go! すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=7",
   "source": "stratia.js"
@@ -352,7 +352,7 @@ window.SONG_DATA.push(
     {
   "title": "好-じょし",
   "artist": "坂口有望",
-  "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
+  "collection": "[Song Cut][2026-05-20] Relaxing Singing Session 🦋🩵 Please listen to a song before you go! すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=8",
   "source": "stratia.js"
@@ -360,7 +360,7 @@ window.SONG_DATA.push(
     {
   "title": "シュノーケル",
   "artist": "文藝天国",
-  "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
+  "collection": "[Song Cut][2026-05-20] Relaxing Singing Session 🦋🩵 Please listen to a song before you go! すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=9",
   "source": "stratia.js"
@@ -368,7 +368,7 @@ window.SONG_DATA.push(
     {
   "title": "明日も",
   "artist": "SHISHAMO",
-  "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
+  "collection": "[Song Cut][2026-05-20] Relaxing Singing Session 🦋🩵 Please listen to a song before you go! すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=10",
   "source": "stratia.js"
@@ -376,7 +376,7 @@ window.SONG_DATA.push(
     {
   "title": "明日も",
   "artist": "SHISHAMO",
-  "collection": "【歌切】[2026-05-20]悠闲地唱会儿歌🦋🩵请听一首歌再走吧！ すとらてぃあ-Stratia",
+  "collection": "[Song Cut][2026-05-20] Relaxing Singing Session 🦋🩵 Please listen to a song before you go! すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AZLW61EAP?p=11",
   "source": "stratia.js"
@@ -384,7 +384,7 @@ window.SONG_DATA.push(
     {
   "title": "秒針を嚙む",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【歌切】[2026-05-27]🦋庆祝！收益化纪念🦋真的非常感谢大家...！ すとらてぃあ-Stratia",
+  "collection": "【Song Cut】[2026-05-27]🦋Celebration! Monetization Anniversary🦋Thank you all so much...! すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KMGU6LE2e?p=1",
   "source": "stratia.js"
@@ -392,7 +392,7 @@ window.SONG_DATA.push(
     {
   "title": "Ham",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【歌切】[2026-05-27]🦋庆祝！收益化纪念🦋真的非常感谢大家...！ すとらてぃあ-Stratia",
+  "collection": "【Song Cut】[2026-05-27]🦋Celebration! Monetization Anniversary🦋Thank you all so much...! すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KMGU6LE2e?p=2",
   "source": "stratia.js"
@@ -400,7 +400,7 @@ window.SONG_DATA.push(
     {
   "title": "おばけでいいからはやくきて",
   "artist": "クリープハイプ",
-  "collection": "【歌切】[2026-05-27]🦋庆祝！收益化纪念🦋真的非常感谢大家...！ すとらてぃあ-Stratia",
+  "collection": "【Song Cut】[2026-05-27]🦋Celebration! Monetization Anniversary🦋Thank you all so much...! すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KMGU6LE2e?p=3",
   "source": "stratia.js"
@@ -408,7 +408,7 @@ window.SONG_DATA.push(
     {
   "title": "おやすみ泣き声、さよなら歌姫",
   "artist": "クリープハイプ",
-  "collection": "【歌切】[2026-05-27]🦋庆祝！收益化纪念🦋真的非常感谢大家...！ すとらてぃあ-Stratia",
+  "collection": "【Song Cut】[2026-05-27]🦋Celebration! Monetization Anniversary🦋Thank you all so much...! すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KMGU6LE2e?p=4",
   "source": "stratia.js"
@@ -416,7 +416,7 @@ window.SONG_DATA.push(
     {
   "title": "キラキラ",
   "artist": "aiko",
-  "collection": "【歌切】[2026-05-27]🦋庆祝！收益化纪念🦋真的非常感谢大家...！ すとらてぃあ-Stratia",
+  "collection": "【Song Cut】[2026-05-27]🦋Celebration! Monetization Anniversary🦋Thank you all so much...! すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KMGU6LE2e?p=5",
   "source": "stratia.js"
@@ -424,7 +424,7 @@ window.SONG_DATA.push(
     {
   "title": "ワンルーム",
   "artist": "にしな",
-  "collection": "【歌切】[2026-05-27]🦋庆祝！收益化纪念🦋真的非常感谢大家...！ すとらてぃあ-Stratia",
+  "collection": "【Song Cut】[2026-05-27]🦋Celebration! Monetization Anniversary🦋Thank you all so much...! すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KMGU6LE2e?p=6",
   "source": "stratia.js"
@@ -432,7 +432,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の腕のなか",
   "artist": "きのこ帝国",
-  "collection": "【歌切】[2026-05-27]🦋庆祝！收益化纪念🦋真的非常感谢大家...！ すとらてぃあ-Stratia",
+  "collection": "【Song Cut】[2026-05-27]🦋Celebration! Monetization Anniversary🦋Thank you all so much...! すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KMGU6LE2e?p=7",
   "source": "stratia.js"
@@ -440,7 +440,7 @@ window.SONG_DATA.push(
     {
   "title": "鬼",
   "artist": "吉澤嘉代子",
-  "collection": "【歌切】[2026-05-27]🦋庆祝！收益化纪念🦋真的非常感谢大家...！ すとらてぃあ-Stratia",
+  "collection": "【Song Cut】[2026-05-27]🦋Celebration! Monetization Anniversary🦋Thank you all so much...! すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KMGU6LE2e?p=8",
   "source": "stratia.js"
@@ -448,7 +448,7 @@ window.SONG_DATA.push(
     {
   "title": "フェイバリットボーイ",
   "artist": "SHISHAMO",
-  "collection": "【歌切】[2026-05-27]🦋庆祝！收益化纪念🦋真的非常感谢大家...！ すとらてぃあ-Stratia",
+  "collection": "【Song Cut】[2026-05-27]🦋Celebration! Monetization Anniversary🦋Thank you all so much...! すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KMGU6LE2e?p=9",
   "source": "stratia.js"
@@ -456,7 +456,7 @@ window.SONG_DATA.push(
     {
   "title": "Last Tear",
   "artist": "すとらてぃあ",
-  "collection": "【歌切】[2026-05-27]🦋庆祝！收益化纪念🦋真的非常感谢大家...！ すとらてぃあ-Stratia",
+  "collection": "【Song Cut】[2026-05-27]🦋Celebration! Monetization Anniversary🦋Thank you all so much...! すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KMGU6LE2e?p=10",
   "source": "stratia.js"
@@ -464,7 +464,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "【歌切】[2026-05-30]游击歌回❕悠闲午间时光🦋🫧 すとらてぃあ-Stratia",
+  "collection": "【Song Cut】[2026-05-30] Guerrilla Singing Stream❕Relaxing Afternoon Time🦋🫧 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HHVV6kEmF?p=1",
   "source": "stratia.js"
@@ -472,7 +472,7 @@ window.SONG_DATA.push(
     {
   "title": "恋人ごっこ",
   "artist": "マカロニえんぴつ",
-  "collection": "【歌切】[2026-05-30]游击歌回❕悠闲午间时光🦋🫧 すとらてぃあ-Stratia",
+  "collection": "【Song Cut】[2026-05-30] Guerrilla Singing Stream❕Relaxing Afternoon Time🦋🫧 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HHVV6kEmF?p=2",
   "source": "stratia.js"
@@ -480,7 +480,7 @@ window.SONG_DATA.push(
     {
   "title": "アジアの純真",
   "artist": "PUFFY",
-  "collection": "【歌切】[2026-05-30]游击歌回❕悠闲午间时光🦋🫧 すとらてぃあ-Stratia",
+  "collection": "【Song Cut】[2026-05-30] Guerrilla Singing Stream❕Relaxing Afternoon Time🦋🫧 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HHVV6kEmF?p=3",
   "source": "stratia.js"
@@ -488,7 +488,7 @@ window.SONG_DATA.push(
     {
   "title": "君は1000％",
   "artist": "1986 オメガトライブ",
-  "collection": "【歌切】[2026-05-30]游击歌回❕悠闲午间时光🦋🫧 すとらてぃあ-Stratia",
+  "collection": "【Song Cut】[2026-05-30] Guerrilla Singing Stream❕Relaxing Afternoon Time🦋🫧 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HHVV6kEmF?p=4",
   "source": "stratia.js"
@@ -496,7 +496,7 @@ window.SONG_DATA.push(
     {
   "title": "フレンズ",
   "artist": "レベッカ",
-  "collection": "【歌切】[2026-05-30]游击歌回❕悠闲午间时光🦋🫧 すとらてぃあ-Stratia",
+  "collection": "【Song Cut】[2026-05-30] Guerrilla Singing Stream❕Relaxing Afternoon Time🦋🫧 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HHVV6kEmF?p=5",
   "source": "stratia.js"
@@ -504,7 +504,7 @@ window.SONG_DATA.push(
     {
   "title": "もう恋なんてしない",
   "artist": "槇原敬之",
-  "collection": "【歌切】[2026-05-30]游击歌回❕悠闲午间时光🦋🫧 すとらてぃあ-Stratia",
+  "collection": "【Song Cut】[2026-05-30] Guerrilla Singing Stream❕Relaxing Afternoon Time🦋🫧 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HHVV6kEmF?p=6",
   "source": "stratia.js"
@@ -512,7 +512,7 @@ window.SONG_DATA.push(
     {
   "title": "タッチ",
   "artist": "岩崎良美",
-  "collection": "【歌切】[2026-05-30]游击歌回❕悠闲午间时光🦋🫧 すとらてぃあ-Stratia",
+  "collection": "【Song Cut】[2026-05-30] Guerrilla Singing Stream❕Relaxing Afternoon Time🦋🫧 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HHVV6kEmF?p=7",
   "source": "stratia.js"
@@ -520,7 +520,7 @@ window.SONG_DATA.push(
     {
   "title": "おジャ魔女カーニバル",
   "artist": "MAHO堂",
-  "collection": "【歌切】[2026-05-30]游击歌回❕悠闲午间时光🦋🫧 すとらてぃあ-Stratia",
+  "collection": "【Song Cut】[2026-05-30] Guerrilla Singing Stream❕Relaxing Afternoon Time🦋🫧 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HHVV6kEmF?p=8",
   "source": "stratia.js"
@@ -528,7 +528,7 @@ window.SONG_DATA.push(
     {
   "title": "美しい鰭",
   "artist": "スピッツ",
-  "collection": "【🎸🦋歌切】[2026-05-31]治愈的弹唱 🎸🦋 歌回 🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-05-31] Healing acoustic performance 🎸🦋 singing stream 🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UvVD6tEtR?p=1",
   "source": "stratia.js"
@@ -536,7 +536,7 @@ window.SONG_DATA.push(
     {
   "title": "オリオンをなぞる",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "【🎸🦋歌切】[2026-05-31]治愈的弹唱 🎸🦋 歌回 🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-05-31] Healing acoustic performance 🎸🦋 singing stream 🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UvVD6tEtR?p=2",
   "source": "stratia.js"
@@ -544,7 +544,7 @@ window.SONG_DATA.push(
     {
   "title": "CHE.R.RY",
   "artist": "YUI",
-  "collection": "【🎸🦋歌切】[2026-05-31]治愈的弹唱 🎸🦋 歌回 🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-05-31] Healing acoustic performance 🎸🦋 singing stream 🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UvVD6tEtR?p=3",
   "source": "stratia.js"
@@ -552,7 +552,7 @@ window.SONG_DATA.push(
     {
   "title": "again",
   "artist": "YUI",
-  "collection": "【🎸🦋歌切】[2026-05-31]治愈的弹唱 🎸🦋 歌回 🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-05-31] Healing acoustic performance 🎸🦋 singing stream 🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UvVD6tEtR?p=4",
   "source": "stratia.js"
@@ -560,7 +560,7 @@ window.SONG_DATA.push(
     {
   "title": "嘘",
   "artist": "シド",
-  "collection": "【🎸🦋歌切】[2026-05-31]治愈的弹唱 🎸🦋 歌回 🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-05-31] Healing acoustic performance 🎸🦋 singing stream 🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UvVD6tEtR?p=5",
   "source": "stratia.js"
@@ -568,7 +568,7 @@ window.SONG_DATA.push(
     {
   "title": "KissHug",
   "artist": "aiko",
-  "collection": "【🎸🦋歌切】[2026-06-03]夜晚的抒情弹唱直播🌃🎶🦋 すとらてぃあ-Stratia",
+  "collection": "[🎸🦋Song Cut] [2026-06-03] Night Lyric Singing Livestream 🌃🎶🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B77R6cESx?p=1",
   "source": "stratia.js"
@@ -576,7 +576,7 @@ window.SONG_DATA.push(
     {
   "title": "花人局",
   "artist": "ヨルシカ",
-  "collection": "【🎸🦋歌切】[2026-06-03]夜晚的抒情弹唱直播🌃🎶🦋 すとらてぃあ-Stratia",
+  "collection": "[🎸🦋Song Cut] [2026-06-03] Night Lyric Singing Livestream 🌃🎶🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B77R6cESx?p=2",
   "source": "stratia.js"
@@ -584,7 +584,7 @@ window.SONG_DATA.push(
     {
   "title": "AIDA",
   "artist": "ano",
-  "collection": "【🎸🦋歌切】[2026-06-03]夜晚的抒情弹唱直播🌃🎶🦋 すとらてぃあ-Stratia",
+  "collection": "[🎸🦋Song Cut] [2026-06-03] Night Lyric Singing Livestream 🌃🎶🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B77R6cESx?p=3",
   "source": "stratia.js"
@@ -592,7 +592,7 @@ window.SONG_DATA.push(
     {
   "title": "YOU&愛Heaven",
   "artist": "ano",
-  "collection": "【🎸🦋歌切】[2026-06-03]夜晚的抒情弹唱直播🌃🎶🦋 すとらてぃあ-Stratia",
+  "collection": "[🎸🦋Song Cut] [2026-06-03] Night Lyric Singing Livestream 🌃🎶🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B77R6cESx?p=4",
   "source": "stratia.js"
@@ -600,7 +600,7 @@ window.SONG_DATA.push(
     {
   "title": "夕暮れの鳥",
   "artist": "神聖かまってちゃん",
-  "collection": "【🎸🦋歌切】[2026-06-03]夜晚的抒情弹唱直播🌃🎶🦋 すとらてぃあ-Stratia",
+  "collection": "[🎸🦋Song Cut] [2026-06-03] Night Lyric Singing Livestream 🌃🎶🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B77R6cESx?p=5",
   "source": "stratia.js"
@@ -608,7 +608,7 @@ window.SONG_DATA.push(
     {
   "title": "翳りの讃歌",
   "artist": "文藝天国",
-  "collection": "【🎸🦋歌切】[2026-06-03]夜晚的抒情弹唱直播🌃🎶🦋 すとらてぃあ-Stratia",
+  "collection": "[🎸🦋Song Cut] [2026-06-03] Night Lyric Singing Livestream 🌃🎶🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B77R6cESx?p=6",
   "source": "stratia.js"
@@ -616,7 +616,7 @@ window.SONG_DATA.push(
     {
   "title": "彗星ハネムーン",
   "artist": "ナユタン星人",
-  "collection": "【🎸🦋歌切】[2026-06-03]夜晚的抒情弹唱直播🌃🎶🦋 すとらてぃあ-Stratia",
+  "collection": "[🎸🦋Song Cut] [2026-06-03] Night Lyric Singing Livestream 🌃🎶🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B77R6cESx?p=7",
   "source": "stratia.js"
@@ -624,7 +624,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら",
   "artist": "結束バンド",
-  "collection": "【🎸🦋歌切】[2026-06-03]夜晚的抒情弹唱直播🌃🎶🦋 すとらてぃあ-Stratia",
+  "collection": "[🎸🦋Song Cut] [2026-06-03] Night Lyric Singing Livestream 🌃🎶🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B77R6cESx?p=8",
   "source": "stratia.js"
@@ -632,7 +632,7 @@ window.SONG_DATA.push(
     {
   "title": "大阪ロマネスク",
   "artist": "SUPER EIGHT",
-  "collection": "【🎸🦋歌切】[2026-06-03]夜晚的抒情弹唱直播🌃🎶🦋 すとらてぃあ-Stratia",
+  "collection": "[🎸🦋Song Cut] [2026-06-03] Night Lyric Singing Livestream 🌃🎶🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B77R6cESx?p=9",
   "source": "stratia.js"
@@ -640,7 +640,7 @@ window.SONG_DATA.push(
     {
   "title": "メランコリック",
   "artist": "Junky feat.鏡音リン",
-  "collection": "【🎸🦋歌切】[2026-06-05]弹唱时间到啦🎸🎶🦋 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-06-05] Time for some guitar singing🎸🎶🦋 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fHEJ6eE8X?p=1",
   "source": "stratia.js"
@@ -648,7 +648,7 @@ window.SONG_DATA.push(
     {
   "title": "病名恋ワズライ",
   "artist": "HoneyWorks feat.GUMI",
-  "collection": "【🎸🦋歌切】[2026-06-05]弹唱时间到啦🎸🎶🦋 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-06-05] Time for some guitar singing🎸🎶🦋 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fHEJ6eE8X?p=2",
   "source": "stratia.js"
@@ -656,7 +656,7 @@ window.SONG_DATA.push(
     {
   "title": "ノスタルジックJ-POP",
   "artist": "大森靖子",
-  "collection": "【🎸🦋歌切】[2026-06-05]弹唱时间到啦🎸🎶🦋 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-06-05] Time for some guitar singing🎸🎶🦋 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fHEJ6eE8X?p=3",
   "source": "stratia.js"
@@ -664,7 +664,7 @@ window.SONG_DATA.push(
     {
   "title": "君と映画",
   "artist": "大森靖子",
-  "collection": "【🎸🦋歌切】[2026-06-05]弹唱时间到啦🎸🎶🦋 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-06-05] Time for some guitar singing🎸🎶🦋 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fHEJ6eE8X?p=4",
   "source": "stratia.js"
@@ -672,7 +672,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒロイン",
   "artist": "back number",
-  "collection": "【🎸🦋歌切】[2026-06-05]弹唱时间到啦🎸🎶🦋 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-06-05] Time for some guitar singing🎸🎶🦋 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fHEJ6eE8X?p=5",
   "source": "stratia.js"
@@ -680,7 +680,7 @@ window.SONG_DATA.push(
     {
   "title": "星丘公園",
   "artist": "Hump Back",
-  "collection": "【🎸🦋歌切】[2026-06-05]弹唱时间到啦🎸🎶🦋 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-06-05] Time for some guitar singing🎸🎶🦋 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fHEJ6eE8X?p=6",
   "source": "stratia.js"
@@ -688,7 +688,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛裁判",
   "artist": "40mP feat.初音ミク",
-  "collection": "【🎸🦋歌切】[2026-06-06]突击歌枠 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-06-06] Surprise Singing Stream - Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yaE36REzV?p=1",
   "source": "stratia.js"
@@ -696,7 +696,7 @@ window.SONG_DATA.push(
     {
   "title": "スキスキ絶頂症",
   "artist": "koyori(電ポルP) feat.GUMI",
-  "collection": "【🎸🦋歌切】[2026-06-06]突击歌枠 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-06-06] Surprise Singing Stream - Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yaE36REzV?p=2",
   "source": "stratia.js"
@@ -704,7 +704,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならテンダー",
   "artist": "koyori(電ポルP) feat.初音ミク",
-  "collection": "【🎸🦋歌切】[2026-06-06]突击歌枠 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-06-06] Surprise Singing Stream - Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yaE36REzV?p=3",
   "source": "stratia.js"
@@ -712,7 +712,7 @@ window.SONG_DATA.push(
     {
   "title": "きゅうくらりん",
   "artist": "いよわ feat.可不",
-  "collection": "【🎸🦋歌切】[2026-06-06]突击歌枠 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-06-06] Surprise Singing Stream - Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yaE36REzV?p=4",
   "source": "stratia.js"
@@ -720,7 +720,7 @@ window.SONG_DATA.push(
     {
   "title": "おちゃめ機能",
   "artist": "ゴジマジP feat.重音テト",
-  "collection": "【🎸🦋歌切】[2026-06-06]突击歌枠 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-06-06] Surprise Singing Stream - Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yaE36REzV?p=5",
   "source": "stratia.js"
@@ -728,7 +728,7 @@ window.SONG_DATA.push(
     {
   "title": "いーあるふぁんくらぶ",
   "artist": "みきとP feat.GUMI・鏡音リン",
-  "collection": "【🎸🦋歌切】[2026-06-06]突击歌枠 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-06-06] Surprise Singing Stream - Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yaE36REzV?p=6",
   "source": "stratia.js"
@@ -736,7 +736,7 @@ window.SONG_DATA.push(
     {
   "title": "栞",
   "artist": "クリープハイプ",
-  "collection": "【🎸🦋歌切】[2026-06-09]今日是初次直播满一个月‼ 歌回🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-06-09] Today marks one month since the first live stream‼ Singing Stream🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B9Em6jEYC?p=1",
   "source": "stratia.js"
@@ -744,7 +744,7 @@ window.SONG_DATA.push(
     {
   "title": "今夜このまま",
   "artist": "あいみょん [ドラマ 獣になれない私たち]",
-  "collection": "【🎸🦋歌切】[2026-06-09]今日是初次直播满一个月‼ 歌回🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-06-09] Today marks one month since the first live stream‼ Singing Stream🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B9Em6jEYC?p=2",
   "source": "stratia.js"
@@ -752,7 +752,7 @@ window.SONG_DATA.push(
     {
   "title": "裸の心",
   "artist": "あいみょん [ドラマ 私の家政夫ナギサさん]",
-  "collection": "【🎸🦋歌切】[2026-06-09]今日是初次直播满一个月‼ 歌回🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-06-09] Today marks one month since the first live stream‼ Singing Stream🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B9Em6jEYC?p=3",
   "source": "stratia.js"
@@ -760,7 +760,7 @@ window.SONG_DATA.push(
     {
   "title": "オッドアイ",
   "artist": "さユり",
-  "collection": "【🎸🦋歌切】[2026-06-09]今日是初次直播满一个月‼ 歌回🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-06-09] Today marks one month since the first live stream‼ Singing Stream🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B9Em6jEYC?p=4",
   "source": "stratia.js"
@@ -768,7 +768,7 @@ window.SONG_DATA.push(
     {
   "title": "ふうせん",
   "artist": "さユり",
-  "collection": "【🎸🦋歌切】[2026-06-09]今日是初次直播满一个月‼ 歌回🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-06-09] Today marks one month since the first live stream‼ Singing Stream🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B9Em6jEYC?p=5",
   "source": "stratia.js"
@@ -776,7 +776,7 @@ window.SONG_DATA.push(
     {
   "title": "はじめてのチュウ",
   "artist": "あんしんパパ [TVアニメ キテレツ大百科]",
-  "collection": "【🎸🦋歌切】[2026-06-09]今日是初次直播满一个月‼ 歌回🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-06-09] Today marks one month since the first live stream‼ Singing Stream🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B9Em6jEYC?p=6",
   "source": "stratia.js"
@@ -784,7 +784,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【🎸🦋歌切】[2026-06-09]今日是初次直播满一个月‼ 歌回🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-06-09] Today marks one month since the first live stream‼ Singing Stream🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B9Em6jEYC?p=7",
   "source": "stratia.js"
@@ -792,7 +792,7 @@ window.SONG_DATA.push(
     {
   "title": "スイカ",
   "artist": "アイナ・ジ・エンド",
-  "collection": "【🎸🦋歌切】[2026-06-10]㊗会员开通纪念歌回‼️🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋 Song Cut】[2026-06-10]㊗ Membership Anniversary Song Celebration‼️🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18xEo64EQi?p=1",
   "source": "stratia.js"
@@ -800,7 +800,7 @@ window.SONG_DATA.push(
     {
   "title": "心臓と絡繰",
   "artist": "花譜",
-  "collection": "【🎸🦋歌切】[2026-06-10]㊗会员开通纪念歌回‼️🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋 Song Cut】[2026-06-10]㊗ Membership Anniversary Song Celebration‼️🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18xEo64EQi?p=2",
   "source": "stratia.js"
@@ -808,7 +808,7 @@ window.SONG_DATA.push(
     {
   "title": "アンサー",
   "artist": "花譜",
-  "collection": "【🎸🦋歌切】[2026-06-10]㊗会员开通纪念歌回‼️🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋 Song Cut】[2026-06-10]㊗ Membership Anniversary Song Celebration‼️🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18xEo64EQi?p=3",
   "source": "stratia.js"
@@ -816,7 +816,7 @@ window.SONG_DATA.push(
     {
   "title": "きっと良くなるさ",
   "artist": "神聖かまってちゃん",
-  "collection": "【🎸🦋歌切】[2026-06-10]㊗会员开通纪念歌回‼️🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋 Song Cut】[2026-06-10]㊗ Membership Anniversary Song Celebration‼️🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18xEo64EQi?p=4",
   "source": "stratia.js"
@@ -824,7 +824,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "コレサワ",
-  "collection": "【🎸🦋歌切】[2026-06-10]㊗会员开通纪念歌回‼️🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋 Song Cut】[2026-06-10]㊗ Membership Anniversary Song Celebration‼️🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18xEo64EQi?p=5",
   "source": "stratia.js"
@@ -832,7 +832,7 @@ window.SONG_DATA.push(
     {
   "title": "かみつきたい",
   "artist": "カネコアヤノ",
-  "collection": "【🎸🦋歌切】[2026-06-13]要不要听一首歌？🎸🎤🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋 Song Cut】[2026-06-13] Want to listen to a song? 🎸🎤🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w1JH6DEqv?p=1",
   "source": "stratia.js"
@@ -840,7 +840,7 @@ window.SONG_DATA.push(
     {
   "title": "愛のままを",
   "artist": "カネコアヤノ",
-  "collection": "【🎸🦋歌切】[2026-06-13]要不要听一首歌？🎸🎤🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋 Song Cut】[2026-06-13] Want to listen to a song? 🎸🎤🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w1JH6DEqv?p=2",
   "source": "stratia.js"
@@ -848,7 +848,7 @@ window.SONG_DATA.push(
     {
   "title": "明日への手紙",
   "artist": "手嶌葵 [ドラマ いつかこの恋を思い出してきっと泣いてしまう]",
-  "collection": "【🎸🦋歌切】[2026-06-13]要不要听一首歌？🎸🎤🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋 Song Cut】[2026-06-13] Want to listen to a song? 🎸🎤🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w1JH6DEqv?p=3",
   "source": "stratia.js"
@@ -856,7 +856,7 @@ window.SONG_DATA.push(
     {
   "title": "ラプンツェル",
   "artist": "n-buna feat.初音ミク",
-  "collection": "【🎸🦋歌切】[2026-06-13]要不要听一首歌？🎸🎤🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋 Song Cut】[2026-06-13] Want to listen to a song? 🎸🎤🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w1JH6DEqv?p=4",
   "source": "stratia.js"
@@ -864,7 +864,7 @@ window.SONG_DATA.push(
     {
   "title": "バスタイムプラネタリウム",
   "artist": "HACHI",
-  "collection": "【🎸🦋歌切】[2026-06-13]要不要听一首歌？🎸🎤🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋 Song Cut】[2026-06-13] Want to listen to a song? 🎸🎤🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w1JH6DEqv?p=5",
   "source": "stratia.js"
@@ -872,7 +872,7 @@ window.SONG_DATA.push(
     {
   "title": "とてと",
   "artist": "パペットスンスン",
-  "collection": "【🎸🦋歌切】[2026-06-13]要不要听一首歌？🎸🎤🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋 Song Cut】[2026-06-13] Want to listen to a song? 🎸🎤🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w1JH6DEqv?p=6",
   "source": "stratia.js"
@@ -880,7 +880,7 @@ window.SONG_DATA.push(
     {
   "title": "生活革命",
   "artist": "PEDRO",
-  "collection": "【🎸🦋歌切】[2026-06-13]要不要听一首歌？🎸🎤🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋 Song Cut】[2026-06-13] Want to listen to a song? 🎸🎤🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w1JH6DEqv?p=7",
   "source": "stratia.js"
@@ -888,7 +888,7 @@ window.SONG_DATA.push(
     {
   "title": "フリージア",
   "artist": "Uru [TVアニメ 機動戦士ガンダム 鉄血のオルフェンズ]",
-  "collection": "【🎸🦋歌切】[2026-06-13]要不要听一首歌？🎸🎤🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋 Song Cut】[2026-06-13] Want to listen to a song? 🎸🎤🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w1JH6DEqv?p=8",
   "source": "stratia.js"
@@ -896,7 +896,7 @@ window.SONG_DATA.push(
     {
   "title": "からくりピエロ",
   "artist": "40mP feat.初音ミク",
-  "collection": "【🎸🦋歌切】[2026-06-13]要不要听一首歌？🎸🎤🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋 Song Cut】[2026-06-13] Want to listen to a song? 🎸🎤🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1w1JH6DEqv?p=9",
   "source": "stratia.js"
@@ -904,7 +904,7 @@ window.SONG_DATA.push(
     {
   "title": "ハンドメイドホーム",
   "artist": "大森靖子",
-  "collection": "【🎸🦋歌切】[2026-06-17]弹唱治愈时光，不来听听吗？ 🦋🫧 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-06-17] Healing time with acoustic singing, won't you come listen? 🦋🫧 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fKLf6TED1?p=1",
   "source": "stratia.js"
@@ -912,7 +912,7 @@ window.SONG_DATA.push(
     {
   "title": "糸ノ意図",
   "artist": "スキマスイッチ",
-  "collection": "【🎸🦋歌切】[2026-06-17]弹唱治愈时光，不来听听吗？ 🦋🫧 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-06-17] Healing time with acoustic singing, won't you come listen? 🦋🫧 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fKLf6TED1?p=2",
   "source": "stratia.js"
@@ -920,7 +920,7 @@ window.SONG_DATA.push(
     {
   "title": "ガラナ",
   "artist": "スキマスイッチ",
-  "collection": "【🎸🦋歌切】[2026-06-17]弹唱治愈时光，不来听听吗？ 🦋🫧 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-06-17] Healing time with acoustic singing, won't you come listen? 🦋🫧 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fKLf6TED1?p=3",
   "source": "stratia.js"
@@ -928,7 +928,7 @@ window.SONG_DATA.push(
     {
   "title": "ライオン",
   "artist": "May'n & 中島愛",
-  "collection": "【🎸🦋歌切】[2026-06-17]弹唱治愈时光，不来听听吗？ 🦋🫧 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-06-17] Healing time with acoustic singing, won't you come listen? 🦋🫧 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fKLf6TED1?p=4",
   "source": "stratia.js"
@@ -936,7 +936,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行",
   "artist": "ランカ・リー(中島愛)",
-  "collection": "【🎸🦋歌切】[2026-06-17]弹唱治愈时光，不来听听吗？ 🦋🫧 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-06-17] Healing time with acoustic singing, won't you come listen? 🦋🫧 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fKLf6TED1?p=5",
   "source": "stratia.js"
@@ -944,7 +944,7 @@ window.SONG_DATA.push(
     {
   "title": "ヘビースモーク",
   "artist": "にしな",
-  "collection": "【🎸🦋歌切】[2026-06-17]弹唱治愈时光，不来听听吗？ 🦋🫧 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-06-17] Healing time with acoustic singing, won't you come listen? 🦋🫧 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fKLf6TED1?p=6",
   "source": "stratia.js"
@@ -952,7 +952,7 @@ window.SONG_DATA.push(
     {
   "title": "白金ディスコ",
   "artist": "阿良々木月火(井口裕香)",
-  "collection": "【🎸🦋歌切】[2026-06-17]弹唱治愈时光，不来听听吗？ 🦋🫧 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-06-17] Healing time with acoustic singing, won't you come listen? 🦋🫧 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fKLf6TED1?p=7",
   "source": "stratia.js"
@@ -960,7 +960,7 @@ window.SONG_DATA.push(
     {
   "title": "るーららるーらーるららるーらー",
   "artist": "さユり",
-  "collection": "【🎸🦋歌切】[2026-06-22]今天也辛苦了！治愈的悠闲弹唱歌回 🦋🕯 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-06-22] Good work today! A healing and relaxing singing stream 🦋🕯 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Y7M6eEGt?p=1",
   "source": "stratia.js"
@@ -968,7 +968,7 @@ window.SONG_DATA.push(
     {
   "title": "vivi",
   "artist": "米津玄師",
-  "collection": "【🎸🦋歌切】[2026-06-22]今天也辛苦了！治愈的悠闲弹唱歌回 🦋🕯 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-06-22] Good work today! A healing and relaxing singing stream 🦋🕯 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Y7M6eEGt?p=2",
   "source": "stratia.js"
@@ -976,7 +976,7 @@ window.SONG_DATA.push(
     {
   "title": "乾涸びたバスひとつ",
   "artist": "米津玄師",
-  "collection": "【🎸🦋歌切】[2026-06-22]今天也辛苦了！治愈的悠闲弹唱歌回 🦋🕯 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-06-22] Good work today! A healing and relaxing singing stream 🦋🕯 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Y7M6eEGt?p=3",
   "source": "stratia.js"
@@ -984,7 +984,7 @@ window.SONG_DATA.push(
     {
   "title": "憂、燦々",
   "artist": "クリープハイプ",
-  "collection": "【🎸🦋歌切】[2026-06-22]今天也辛苦了！治愈的悠闲弹唱歌回 🦋🕯 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-06-22] Good work today! A healing and relaxing singing stream 🦋🕯 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Y7M6eEGt?p=4",
   "source": "stratia.js"
@@ -992,7 +992,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れてやらない",
   "artist": "結束バンド",
-  "collection": "【🎸🦋歌切】[2026-06-22]今天也辛苦了！治愈的悠闲弹唱歌回 🦋🕯 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-06-22] Good work today! A healing and relaxing singing stream 🦋🕯 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Y7M6eEGt?p=5",
   "source": "stratia.js"
@@ -1000,7 +1000,7 @@ window.SONG_DATA.push(
     {
   "title": "ヤミタイガール",
   "artist": "れるりり feat. GUMI",
-  "collection": "【🎸🦋歌切】[2026-06-26]突击歌回❕悠闲吉他直播🦋🫧 すとらてぃあ-Stratia",
+  "collection": "[🎸🦋Song Cut] [2026-06-26] Surprise Singing Stream❕ Casual Guitar Livestream 🦋🫧 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b87E6jE63?p=1",
   "source": "stratia.js"
@@ -1008,7 +1008,7 @@ window.SONG_DATA.push(
     {
   "title": "月光潤色ガール",
   "artist": "れるりり feat. 初音ミク・GUMI",
-  "collection": "【🎸🦋歌切】[2026-06-26]突击歌回❕悠闲吉他直播🦋🫧 すとらてぃあ-Stratia",
+  "collection": "[🎸🦋Song Cut] [2026-06-26] Surprise Singing Stream❕ Casual Guitar Livestream 🦋🫧 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b87E6jE63?p=2",
   "source": "stratia.js"
@@ -1016,7 +1016,7 @@ window.SONG_DATA.push(
     {
   "title": "だからなんだって話",
   "artist": "クリープハイプ",
-  "collection": "【🎸🦋歌切】[2026-06-26]突击歌回❕悠闲吉他直播🦋🫧 すとらてぃあ-Stratia",
+  "collection": "[🎸🦋Song Cut] [2026-06-26] Surprise Singing Stream❕ Casual Guitar Livestream 🦋🫧 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b87E6jE63?p=3",
   "source": "stratia.js"
@@ -1024,7 +1024,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【🎸🦋歌切】[2026-06-26]突击歌回❕悠闲吉他直播🦋🫧 すとらてぃあ-Stratia",
+  "collection": "[🎸🦋Song Cut] [2026-06-26] Surprise Singing Stream❕ Casual Guitar Livestream 🦋🫧 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b87E6jE63?p=4",
   "source": "stratia.js"
@@ -1032,7 +1032,7 @@ window.SONG_DATA.push(
     {
   "title": "Hello, Worker",
   "artist": "KEI feat. 巡音ルカ",
-  "collection": "【🎸🦋歌切】[2026-07-03]欢迎初次观看❕尽情弹唱喜欢的歌🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-07-03] Welcome for the first viewing❕Feel free to sing and play your favorite songs🦋🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EyMw68EqS?p=1",
   "source": "stratia.js"
@@ -1040,7 +1040,7 @@ window.SONG_DATA.push(
     {
   "title": "東京",
   "artist": "超☆社会的サンダル",
-  "collection": "【🎸🦋歌切】[2026-07-03]欢迎初次观看❕尽情弹唱喜欢的歌🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-07-03] Welcome for the first viewing❕Feel free to sing and play your favorite songs🦋🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EyMw68EqS?p=2",
   "source": "stratia.js"
@@ -1048,7 +1048,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【🎸🦋歌切】[2026-07-03]欢迎初次观看❕尽情弹唱喜欢的歌🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-07-03] Welcome for the first viewing❕Feel free to sing and play your favorite songs🦋🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EyMw68EqS?p=3",
   "source": "stratia.js"
@@ -1056,7 +1056,7 @@ window.SONG_DATA.push(
     {
   "title": "絆創膏",
   "artist": "サカグチアミ",
-  "collection": "【🎸🦋歌切】[2026-07-03]欢迎初次观看❕尽情弹唱喜欢的歌🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-07-03] Welcome for the first viewing❕Feel free to sing and play your favorite songs🦋🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EyMw68EqS?p=4",
   "source": "stratia.js"
@@ -1064,7 +1064,7 @@ window.SONG_DATA.push(
     {
   "title": "またねがあれば",
   "artist": "ちんまりP feat. 初音ミク",
-  "collection": "【🎸🦋歌切】[2026-07-03]欢迎初次观看❕尽情弹唱喜欢的歌🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-07-03] Welcome for the first viewing❕Feel free to sing and play your favorite songs🦋🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EyMw68EqS?p=5",
   "source": "stratia.js"
@@ -1072,7 +1072,7 @@ window.SONG_DATA.push(
     {
   "title": "閃きは彼方",
   "artist": "カネコアヤノ",
-  "collection": "【🎸🦋歌切】[2026-07-03]欢迎初次观看❕尽情弹唱喜欢的歌🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-07-03] Welcome for the first viewing❕Feel free to sing and play your favorite songs🦋🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EyMw68EqS?p=6",
   "source": "stratia.js"
@@ -1080,7 +1080,7 @@ window.SONG_DATA.push(
     {
   "title": "マンハッタン・キス",
   "artist": "竹内まりや",
-  "collection": "【🎸🦋歌切】[2026-07-03]欢迎初次观看❕尽情弹唱喜欢的歌🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-07-03] Welcome for the first viewing❕Feel free to sing and play your favorite songs🦋🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EyMw68EqS?p=7",
   "source": "stratia.js"
@@ -1088,7 +1088,7 @@ window.SONG_DATA.push(
     {
   "title": "星空のディスタンス",
   "artist": "THE ALFEE",
-  "collection": "【🎸🦋歌切】[2026-07-03]欢迎初次观看❕尽情弹唱喜欢的歌🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-07-03] Welcome for the first viewing❕Feel free to sing and play your favorite songs🦋🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EyMw68EqS?p=8",
   "source": "stratia.js"
@@ -1096,7 +1096,7 @@ window.SONG_DATA.push(
     {
   "title": "マリーゴールド",
   "artist": "あいみょん",
-  "collection": "【🎸🦋歌切】[2026-07-07]七夕夜的恋爱歌曲🦋🩵 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Clip】[2026-07-07] Love Songs on Qixi Festival Night 🦋🩵 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WEMj6CErg?p=1",
   "source": "stratia.js"
@@ -1104,7 +1104,7 @@ window.SONG_DATA.push(
     {
   "title": "今好きになる。",
   "artist": "HoneyWorks feat. 初音ミク",
-  "collection": "【🎸🦋歌切】[2026-07-07]七夕夜的恋爱歌曲🦋🩵 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Clip】[2026-07-07] Love Songs on Qixi Festival Night 🦋🩵 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WEMj6CErg?p=2",
   "source": "stratia.js"
@@ -1112,7 +1112,7 @@ window.SONG_DATA.push(
     {
   "title": "センパイ。",
   "artist": "HoneyWorks meets TrySail",
-  "collection": "【🎸🦋歌切】[2026-07-07]七夕夜的恋爱歌曲🦋🩵 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Clip】[2026-07-07] Love Songs on Qixi Festival Night 🦋🩵 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WEMj6CErg?p=3",
   "source": "stratia.js"
@@ -1120,7 +1120,7 @@ window.SONG_DATA.push(
     {
   "title": "アイネクライネ",
   "artist": "米津玄師",
-  "collection": "【🎸🦋歌切】[2026-07-07]七夕夜的恋爱歌曲🦋🩵 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Clip】[2026-07-07] Love Songs on Qixi Festival Night 🦋🩵 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WEMj6CErg?p=4",
   "source": "stratia.js"
@@ -1128,7 +1128,7 @@ window.SONG_DATA.push(
     {
   "title": "ボクノート",
   "artist": "スキマスイッチ",
-  "collection": "【🎸🦋歌切】[2026-07-07]七夕夜的恋爱歌曲🦋🩵 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Clip】[2026-07-07] Love Songs on Qixi Festival Night 🦋🩵 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WEMj6CErg?p=5",
   "source": "stratia.js"
@@ -1136,7 +1136,7 @@ window.SONG_DATA.push(
     {
   "title": "浮気したらあかんで",
   "artist": "コレサワ",
-  "collection": "【🎸🦋歌切】[2026-07-07]七夕夜的恋爱歌曲🦋🩵 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Clip】[2026-07-07] Love Songs on Qixi Festival Night 🦋🩵 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WEMj6CErg?p=6",
   "source": "stratia.js"
@@ -1144,7 +1144,7 @@ window.SONG_DATA.push(
     {
   "title": "AT アイリッド",
   "artist": "クリープハイプ",
-  "collection": "【🎸🦋歌切】[2026-07-20]希望能成为让大家放松休憩的地方！我会努力做好压轴表演🦋 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-20] I hope this can be a place for everyone to relax and unwind! I'll do my best as the grand finale performance🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fSKx6xE28?p=1",
   "source": "stratia.js"
@@ -1152,7 +1152,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーチラス",
   "artist": "ヨルシカ",
-  "collection": "【🎸🦋歌切】[2026-07-20]希望能成为让大家放松休憩的地方！我会努力做好压轴表演🦋 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-20] I hope this can be a place for everyone to relax and unwind! I'll do my best as the grand finale performance🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fSKx6xE28?p=2",
   "source": "stratia.js"
@@ -1160,7 +1160,7 @@ window.SONG_DATA.push(
     {
   "title": "言葉はさんかくこころは四角",
   "artist": "くるり",
-  "collection": "【🎸🦋歌切】[2026-07-20]希望能成为让大家放松休憩的地方！我会努力做好压轴表演🦋 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-20] I hope this can be a place for everyone to relax and unwind! I'll do my best as the grand finale performance🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fSKx6xE28?p=3",
   "source": "stratia.js"
@@ -1168,7 +1168,7 @@ window.SONG_DATA.push(
     {
   "title": "Last Tear",
   "artist": "すとらてぃあ",
-  "collection": "【🎸🦋歌切】[2026-07-20]希望能成为让大家放松休憩的地方！我会努力做好压轴表演🦋 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-20] I hope this can be a place for everyone to relax and unwind! I'll do my best as the grand finale performance🦋 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fSKx6xE28?p=4",
   "source": "stratia.js"
@@ -1176,7 +1176,7 @@ window.SONG_DATA.push(
     {
   "title": "夜もすがら君想ふ",
   "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
-  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-22] Channel Subscriber Count 5000 Endurance Singing Stream🎸🎤New Viewers Welcome!!🦋🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=1",
   "source": "stratia.js"
@@ -1184,7 +1184,7 @@ window.SONG_DATA.push(
     {
   "title": "サマータイムレコード",
   "artist": "じん feat.IA",
-  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-22] Channel Subscriber Count 5000 Endurance Singing Stream🎸🎤New Viewers Welcome!!🦋🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=2",
   "source": "stratia.js"
@@ -1192,7 +1192,7 @@ window.SONG_DATA.push(
     {
   "title": "夕景イエスタデイ",
   "artist": "じん feat.IA",
-  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-22] Channel Subscriber Count 5000 Endurance Singing Stream🎸🎤New Viewers Welcome!!🦋🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=3",
   "source": "stratia.js"
@@ -1200,7 +1200,7 @@ window.SONG_DATA.push(
     {
   "title": "翡翠のまち",
   "artist": "メル feat.初音ミク",
-  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-22] Channel Subscriber Count 5000 Endurance Singing Stream🎸🎤New Viewers Welcome!!🦋🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=4",
   "source": "stratia.js"
@@ -1208,7 +1208,7 @@ window.SONG_DATA.push(
     {
   "title": "やさしい生活",
   "artist": "カネコアヤノ",
-  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-22] Channel Subscriber Count 5000 Endurance Singing Stream🎸🎤New Viewers Welcome!!🦋🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=5",
   "source": "stratia.js"
@@ -1216,7 +1216,7 @@ window.SONG_DATA.push(
     {
   "title": "ラブホテル",
   "artist": "クリープハイプ",
-  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-22] Channel Subscriber Count 5000 Endurance Singing Stream🎸🎤New Viewers Welcome!!🦋🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=6",
   "source": "stratia.js"
@@ -1224,7 +1224,7 @@ window.SONG_DATA.push(
     {
   "title": "グレーマンのせいにする",
   "artist": "クリープハイプ",
-  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-22] Channel Subscriber Count 5000 Endurance Singing Stream🎸🎤New Viewers Welcome!!🦋🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=7",
   "source": "stratia.js"
@@ -1232,7 +1232,7 @@ window.SONG_DATA.push(
     {
   "title": "Get Wild",
   "artist": "TM NETWORK",
-  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-22] Channel Subscriber Count 5000 Endurance Singing Stream🎸🎤New Viewers Welcome!!🦋🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=8",
   "source": "stratia.js"
@@ -1240,7 +1240,7 @@ window.SONG_DATA.push(
     {
   "title": "Self Control (方舟に曳かれて)",
   "artist": "TM NETWORK",
-  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-22] Channel Subscriber Count 5000 Endurance Singing Stream🎸🎤New Viewers Welcome!!🦋🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=9",
   "source": "stratia.js"
@@ -1248,7 +1248,7 @@ window.SONG_DATA.push(
     {
   "title": "Self Control (方舟に曳かれて)",
   "artist": "TM NETWORK",
-  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-22] Channel Subscriber Count 5000 Endurance Singing Stream🎸🎤New Viewers Welcome!!🦋🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=10",
   "source": "stratia.js"
@@ -1256,7 +1256,7 @@ window.SONG_DATA.push(
     {
   "title": "フレンズ",
   "artist": "REBECCA",
-  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-22] Channel Subscriber Count 5000 Endurance Singing Stream🎸🎤New Viewers Welcome!!🦋🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=11",
   "source": "stratia.js"
@@ -1264,7 +1264,7 @@ window.SONG_DATA.push(
     {
   "title": "Last Tear",
   "artist": "すとらてぃあ",
-  "collection": "【🎸🦋歌切】[2026-07-22]频道订阅人数5000人耐久歌回🎸🎤欢迎新观众!!🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-22] Channel Subscriber Count 5000 Endurance Singing Stream🎸🎤New Viewers Welcome!!🦋🎶 Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nag26PEYz?p=12",
   "source": "stratia.js"
@@ -1272,7 +1272,7 @@ window.SONG_DATA.push(
     {
   "title": "空も飛べるはず",
   "artist": "スピッツ",
-  "collection": "【🎸🦋歌切】[2026-07-23]这个周末是首次现场Live❕✨你会来见我吗？🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-23] This weekend is the first live performance❕✨ Will you come see me? 🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Z3G63EPf?p=1",
   "source": "stratia.js"
@@ -1280,7 +1280,7 @@ window.SONG_DATA.push(
     {
   "title": "Calc.",
   "artist": "ジミーサムP feat.初音ミク",
-  "collection": "【🎸🦋歌切】[2026-07-23]这个周末是首次现场Live❕✨你会来见我吗？🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-23] This weekend is the first live performance❕✨ Will you come see me? 🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Z3G63EPf?p=2",
   "source": "stratia.js"
@@ -1288,7 +1288,7 @@ window.SONG_DATA.push(
     {
   "title": "secret base ～君がくれたもの～",
   "artist": "ZONE",
-  "collection": "【🎸🦋歌切】[2026-07-23]这个周末是首次现场Live❕✨你会来见我吗？🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-23] This weekend is the first live performance❕✨ Will you come see me? 🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Z3G63EPf?p=3",
   "source": "stratia.js"
@@ -1296,7 +1296,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "【🎸🦋歌切】[2026-07-23]这个周末是首次现场Live❕✨你会来见我吗？🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-23] This weekend is the first live performance❕✨ Will you come see me? 🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Z3G63EPf?p=4",
   "source": "stratia.js"
@@ -1304,7 +1304,7 @@ window.SONG_DATA.push(
     {
   "title": "名脇役",
   "artist": "Sexy Zone",
-  "collection": "【🎸🦋歌切】[2026-07-23]这个周末是首次现场Live❕✨你会来见我吗？🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-23] This weekend is the first live performance❕✨ Will you come see me? 🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Z3G63EPf?p=5",
   "source": "stratia.js"
@@ -1312,7 +1312,7 @@ window.SONG_DATA.push(
     {
   "title": "グレゴリオ",
   "artist": "古川本舗 feat.ちびた",
-  "collection": "【🎸🦋歌切】[2026-07-23]这个周末是首次现场Live❕✨你会来见我吗？🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-23] This weekend is the first live performance❕✨ Will you come see me? 🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Z3G63EPf?p=6",
   "source": "stratia.js"
@@ -1320,7 +1320,7 @@ window.SONG_DATA.push(
     {
   "title": "おやすみ泣き声、さよなら歌姫",
   "artist": "クリープハイプ",
-  "collection": "【🎸🦋歌切】[2026-07-23]这个周末是首次现场Live❕✨你会来见我吗？🦋🎶 すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cut】[2026-07-23] This weekend is the first live performance❕✨ Will you come see me? 🦋🎶 すとらてぃあ-Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Z3G63EPf?p=7",
   "source": "stratia.js"
@@ -1328,7 +1328,7 @@ window.SONG_DATA.push(
     {
   "title": "ミカヅキ",
   "artist": "さユり",
-  "collection": "【🎸🦋歌切】[2026-07-27]今天也悠闲地弹唱！还有超超超大的公告🦋✨✨ すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-07-27] Today also casually playing and singing! Plus a super super huge announcement 🦋✨✨ Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12y3669EXh?p=1",
   "source": "stratia.js"
@@ -1336,7 +1336,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "【🎸🦋歌切】[2026-07-27]今天也悠闲地弹唱！还有超超超大的公告🦋✨✨ すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-07-27] Today also casually playing and singing! Plus a super super huge announcement 🦋✨✨ Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12y3669EXh?p=2",
   "source": "stratia.js"
@@ -1344,7 +1344,7 @@ window.SONG_DATA.push(
     {
   "title": "ひこうき雲",
   "artist": "荒井由実",
-  "collection": "【🎸🦋歌切】[2026-07-27]今天也悠闲地弹唱！还有超超超大的公告🦋✨✨ すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-07-27] Today also casually playing and singing! Plus a super super huge announcement 🦋✨✨ Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12y3669EXh?p=3",
   "source": "stratia.js"
@@ -1352,7 +1352,7 @@ window.SONG_DATA.push(
     {
   "title": "rain stops, good-bye",
   "artist": "におP feat.初音ミク",
-  "collection": "【🎸🦋歌切】[2026-07-27]今天也悠闲地弹唱！还有超超超大的公告🦋✨✨ すとらてぃあ-Stratia",
+  "collection": "【🎸🦋Song Cover】[2026-07-27] Today also casually playing and singing! Plus a super super huge announcement 🦋✨✨ Stratia",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12y3669EXh?p=4",
   "source": "stratia.js"
@@ -1360,7 +1360,7 @@ window.SONG_DATA.push(
     {
   "title": "変わらないもの",
   "artist": "奥華子",
-  "collection": "【🎸🦋歌切】[2026-08-02]夕景中融化的弹唱。🎸🌇🎶",
+  "collection": "[🎸🦋Song Clip] [2026-08-02] A singing performance melting in the evening glow. 🎸🌇🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kfMZ64Ehz?p=1",
   "source": "stratia.js"
@@ -1368,7 +1368,7 @@ window.SONG_DATA.push(
     {
   "title": "恋をしたのは",
   "artist": "aiko",
-  "collection": "【🎸🦋歌切】[2026-08-02]夕景中融化的弹唱。🎸🌇🎶",
+  "collection": "[🎸🦋Song Clip] [2026-08-02] A singing performance melting in the evening glow. 🎸🌇🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kfMZ64Ehz?p=2",
   "source": "stratia.js"
@@ -1376,7 +1376,7 @@ window.SONG_DATA.push(
     {
   "title": "恋と病熱",
   "artist": "米津玄師",
-  "collection": "【🎸🦋歌切】[2026-08-02]夕景中融化的弹唱。🎸🌇🎶",
+  "collection": "[🎸🦋Song Clip] [2026-08-02] A singing performance melting in the evening glow. 🎸🌇🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kfMZ64Ehz?p=3",
   "source": "stratia.js"
@@ -1384,7 +1384,7 @@ window.SONG_DATA.push(
     {
   "title": "未確認少女進行形",
   "artist": "花譜",
-  "collection": "【🎸🦋歌切】[2026-08-05]chill あこぎ🦋🎸✨",
+  "collection": "【🎸🦋Song Cut】[2026-08-05]chill あこぎ🦋🎸✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GkMU6EEQg?p=1",
   "source": "stratia.js"
@@ -1392,7 +1392,7 @@ window.SONG_DATA.push(
     {
   "title": "モイモイ",
   "artist": "ゆるめるモ！",
-  "collection": "【🎸🦋歌切】[2026-08-05]chill あこぎ🦋🎸✨",
+  "collection": "【🎸🦋Song Cut】[2026-08-05]chill あこぎ🦋🎸✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GkMU6EEQg?p=2",
   "source": "stratia.js"
@@ -1400,7 +1400,7 @@ window.SONG_DATA.push(
     {
   "title": "うんめー",
   "artist": "ゆるめるモ！",
-  "collection": "【🎸🦋歌切】[2026-08-05]chill あこぎ🦋🎸✨",
+  "collection": "【🎸🦋Song Cut】[2026-08-05]chill あこぎ🦋🎸✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GkMU6EEQg?p=3",
   "source": "stratia.js"
@@ -1408,7 +1408,7 @@ window.SONG_DATA.push(
     {
   "title": "イッツ マイ ソウル",
   "artist": "SUPER EIGHT",
-  "collection": "【🎸🦋歌切】[2026-08-05]chill あこぎ🦋🎸✨",
+  "collection": "【🎸🦋Song Cut】[2026-08-05]chill あこぎ🦋🎸✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GkMU6EEQg?p=4",
   "source": "stratia.js"
@@ -1416,7 +1416,7 @@ window.SONG_DATA.push(
     {
   "title": "さんぽ",
   "artist": "井上あずみ",
-  "collection": "【🎸🦋歌切】[2026-08-05]chill あこぎ🦋🎸✨",
+  "collection": "【🎸🦋Song Cut】[2026-08-05]chill あこぎ🦋🎸✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GkMU6EEQg?p=5",
   "source": "stratia.js"
@@ -1424,7 +1424,7 @@ window.SONG_DATA.push(
     {
   "title": "(恋は)百年戦争",
   "artist": "相対性理論",
-  "collection": "【🎸🦋歌切】[2026-08-07]夜晚的悠闲歌回🦋🎶",
+  "collection": "【🎸🦋Song Clip】[2026-08-07] A Relaxed Evening Song Session 🦋🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XVu76fE1f?p=1",
   "source": "stratia.js"
@@ -1432,7 +1432,7 @@ window.SONG_DATA.push(
     {
   "title": "地獄先生",
   "artist": "相対性理論",
-  "collection": "【🎸🦋歌切】[2026-08-07]夜晚的悠闲歌回🦋🎶",
+  "collection": "【🎸🦋Song Clip】[2026-08-07] A Relaxed Evening Song Session 🦋🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XVu76fE1f?p=2",
   "source": "stratia.js"
@@ -1440,7 +1440,7 @@ window.SONG_DATA.push(
     {
   "title": "M",
   "artist": "PRINCESS PRINCESS",
-  "collection": "【🎸🦋歌切】[2026-08-07]夜晚的悠闲歌回🦋🎶",
+  "collection": "【🎸🦋Song Clip】[2026-08-07] A Relaxed Evening Song Session 🦋🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XVu76fE1f?p=3",
   "source": "stratia.js"
@@ -1448,7 +1448,7 @@ window.SONG_DATA.push(
     {
   "title": "残ってる",
   "artist": "吉澤嘉代子",
-  "collection": "【🎸🦋歌切】[2026-08-07]夜晚的悠闲歌回🦋🎶",
+  "collection": "【🎸🦋Song Clip】[2026-08-07] A Relaxed Evening Song Session 🦋🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XVu76fE1f?p=4",
   "source": "stratia.js"
@@ -1456,7 +1456,7 @@ window.SONG_DATA.push(
     {
   "title": "小夜子",
   "artist": "みきとP feat.初音ミク",
-  "collection": "【🎸🦋歌切】[2026-08-07]夜晚的悠闲歌回🦋🎶",
+  "collection": "【🎸🦋Song Clip】[2026-08-07] A Relaxed Evening Song Session 🦋🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XVu76fE1f?p=5",
   "source": "stratia.js"
@@ -1464,7 +1464,7 @@ window.SONG_DATA.push(
     {
   "title": "モモ",
   "artist": "にしな",
-  "collection": "【🎸🦋歌切】[2026-08-07]夜晚的悠闲歌回🦋🎶",
+  "collection": "【🎸🦋Song Clip】[2026-08-07] A Relaxed Evening Song Session 🦋🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XVu76fE1f?p=6",
   "source": "stratia.js"
@@ -1472,7 +1472,7 @@ window.SONG_DATA.push(
     {
   "title": "もしも",
   "artist": "カネコアヤノ",
-  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "collection": "【🎸🦋Song Clip】[2026-08-08] Singing and Playing Guitar Aiming for 400 Likes🎸✨First-timers Welcome‼︎ | Singing Livestream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=1",
   "source": "stratia.js"
@@ -1480,7 +1480,7 @@ window.SONG_DATA.push(
     {
   "title": "愛のままを",
   "artist": "カネコアヤノ",
-  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "collection": "【🎸🦋Song Clip】[2026-08-08] Singing and Playing Guitar Aiming for 400 Likes🎸✨First-timers Welcome‼︎ | Singing Livestream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=2",
   "source": "stratia.js"
@@ -1488,7 +1488,7 @@ window.SONG_DATA.push(
     {
   "title": "ハート",
   "artist": "あいみょん",
-  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "collection": "【🎸🦋Song Clip】[2026-08-08] Singing and Playing Guitar Aiming for 400 Likes🎸✨First-timers Welcome‼︎ | Singing Livestream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=3",
   "source": "stratia.js"
@@ -1496,7 +1496,7 @@ window.SONG_DATA.push(
     {
   "title": "エメラルドシティ",
   "artist": "TOKOTOKO(西沢さんP) feat.MAYU",
-  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "collection": "【🎸🦋Song Clip】[2026-08-08] Singing and Playing Guitar Aiming for 400 Likes🎸✨First-timers Welcome‼︎ | Singing Livestream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=4",
   "source": "stratia.js"
@@ -1504,7 +1504,7 @@ window.SONG_DATA.push(
     {
   "title": "チーズケーキクライシス",
   "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
-  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "collection": "【🎸🦋Song Clip】[2026-08-08] Singing and Playing Guitar Aiming for 400 Likes🎸✨First-timers Welcome‼︎ | Singing Livestream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=5",
   "source": "stratia.js"
@@ -1512,7 +1512,7 @@ window.SONG_DATA.push(
     {
   "title": "1/6",
   "artist": "ぼーかりおどP",
-  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "collection": "【🎸🦋Song Clip】[2026-08-08] Singing and Playing Guitar Aiming for 400 Likes🎸✨First-timers Welcome‼︎ | Singing Livestream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=6",
   "source": "stratia.js"
@@ -1520,7 +1520,7 @@ window.SONG_DATA.push(
     {
   "title": "ハイドアンド・シーク",
   "artist": "19's Sound Factory feat.初音ミク",
-  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "collection": "【🎸🦋Song Clip】[2026-08-08] Singing and Playing Guitar Aiming for 400 Likes🎸✨First-timers Welcome‼︎ | Singing Livestream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=7",
   "source": "stratia.js"
@@ -1528,7 +1528,7 @@ window.SONG_DATA.push(
     {
   "title": "リッケンバッカー",
   "artist": "リーガルリリー",
-  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "collection": "【🎸🦋Song Clip】[2026-08-08] Singing and Playing Guitar Aiming for 400 Likes🎸✨First-timers Welcome‼︎ | Singing Livestream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=8",
   "source": "stratia.js"
@@ -1536,7 +1536,7 @@ window.SONG_DATA.push(
     {
   "title": "overture",
   "artist": "リーガルリリー",
-  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "collection": "【🎸🦋Song Clip】[2026-08-08] Singing and Playing Guitar Aiming for 400 Likes🎸✨First-timers Welcome‼︎ | Singing Livestream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=9",
   "source": "stratia.js"
@@ -1544,7 +1544,7 @@ window.SONG_DATA.push(
     {
   "title": "宿命",
   "artist": "Official髭男dism",
-  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "collection": "【🎸🦋Song Clip】[2026-08-08] Singing and Playing Guitar Aiming for 400 Likes🎸✨First-timers Welcome‼︎ | Singing Livestream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=10",
   "source": "stratia.js"
@@ -1552,7 +1552,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーダウト",
   "artist": "Official髭男dism",
-  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "collection": "【🎸🦋Song Clip】[2026-08-08] Singing and Playing Guitar Aiming for 400 Likes🎸✨First-timers Welcome‼︎ | Singing Livestream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=11",
   "source": "stratia.js"
@@ -1560,7 +1560,7 @@ window.SONG_DATA.push(
     {
   "title": "ドレミファロンド",
   "artist": "40mP feat.初音ミク",
-  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "collection": "【🎸🦋Song Clip】[2026-08-08] Singing and Playing Guitar Aiming for 400 Likes🎸✨First-timers Welcome‼︎ | Singing Livestream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=12",
   "source": "stratia.js"
@@ -1568,7 +1568,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "コレサワ",
-  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "collection": "【🎸🦋Song Clip】[2026-08-08] Singing and Playing Guitar Aiming for 400 Likes🎸✨First-timers Welcome‼︎ | Singing Livestream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=13",
   "source": "stratia.js"
@@ -1576,7 +1576,7 @@ window.SONG_DATA.push(
     {
   "title": "笑ったり転んだり",
   "artist": "ハンバートハンバート",
-  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "collection": "【🎸🦋Song Clip】[2026-08-08] Singing and Playing Guitar Aiming for 400 Likes🎸✨First-timers Welcome‼︎ | Singing Livestream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=14",
   "source": "stratia.js"
@@ -1584,7 +1584,7 @@ window.SONG_DATA.push(
     {
   "title": "眠り姫",
   "artist": "SEKAI NO OWARI",
-  "collection": "【🎸🦋歌切】[2026-08-08]高評価400目指して弾き語り🎸✨初見さん歓迎‼︎ | 唱歌直播",
+  "collection": "【🎸🦋Song Clip】[2026-08-08] Singing and Playing Guitar Aiming for 400 Likes🎸✨First-timers Welcome‼︎ | Singing Livestream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Eu56fE6G?p=15",
   "source": "stratia.js"
@@ -1592,7 +1592,7 @@ window.SONG_DATA.push(
     {
   "title": "ハルノヒ",
   "artist": "あいみょん",
-  "collection": "【🎸🦋歌切】[2026-08-12]3D Live，能来看看我吗？？夜晚悠闲弹唱直播🎸",
+  "collection": "【🎸🦋Song Clip】[2026-08-12] 3D Live, can you come see me?? Nighttime relaxing singing and guitar livestream🎸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1STg76oEgH?p=1",
   "source": "stratia.js"
@@ -1600,7 +1600,7 @@ window.SONG_DATA.push(
     {
   "title": "あたしの全部を愛せない",
   "artist": "a子",
-  "collection": "【🎸🦋歌切】[2026-08-12]3D Live，能来看看我吗？？夜晚悠闲弹唱直播🎸",
+  "collection": "【🎸🦋Song Clip】[2026-08-12] 3D Live, can you come see me?? Nighttime relaxing singing and guitar livestream🎸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1STg76oEgH?p=2",
   "source": "stratia.js"
@@ -1608,7 +1608,7 @@ window.SONG_DATA.push(
     {
   "title": "フラレガイガール",
   "artist": "さユり",
-  "collection": "【🎸🦋歌切】[2026-08-12]3D Live，能来看看我吗？？夜晚悠闲弹唱直播🎸",
+  "collection": "【🎸🦋Song Clip】[2026-08-12] 3D Live, can you come see me?? Nighttime relaxing singing and guitar livestream🎸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1STg76oEgH?p=3",
   "source": "stratia.js"
@@ -1616,7 +1616,7 @@ window.SONG_DATA.push(
     {
   "title": "birthday song",
   "artist": "さユり",
-  "collection": "【🎸🦋歌切】[2026-08-12]3D Live，能来看看我吗？？夜晚悠闲弹唱直播🎸",
+  "collection": "【🎸🦋Song Clip】[2026-08-12] 3D Live, can you come see me?? Nighttime relaxing singing and guitar livestream🎸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1STg76oEgH?p=4",
   "source": "stratia.js"
@@ -1624,7 +1624,7 @@ window.SONG_DATA.push(
     {
   "title": "いかないで",
   "artist": "想太 feat.歌愛ユキ",
-  "collection": "【🎸🦋歌切】[2026-08-12]3D Live，能来看看我吗？？夜晚悠闲弹唱直播🎸",
+  "collection": "【🎸🦋Song Clip】[2026-08-12] 3D Live, can you come see me?? Nighttime relaxing singing and guitar livestream🎸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1STg76oEgH?p=5",
   "source": "stratia.js"
@@ -1632,7 +1632,7 @@ window.SONG_DATA.push(
     {
   "title": "霽れを待つ",
   "artist": "Orangestar feat.初音ミク",
-  "collection": "【🎸🦋歌切】[2026-08-12]3D Live，能来看看我吗？？夜晚悠闲弹唱直播🎸",
+  "collection": "【🎸🦋Song Clip】[2026-08-12] 3D Live, can you come see me?? Nighttime relaxing singing and guitar livestream🎸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1STg76oEgH?p=6",
   "source": "stratia.js"
@@ -1640,7 +1640,7 @@ window.SONG_DATA.push(
     {
   "title": "アストロノーツ",
   "artist": "椎名もた feat.初音ミク",
-  "collection": "【🎸🦋歌切】[2026-08-12]3D Live，能来看看我吗？？夜晚悠闲弹唱直播🎸",
+  "collection": "【🎸🦋Song Clip】[2026-08-12] 3D Live, can you come see me?? Nighttime relaxing singing and guitar livestream🎸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1STg76oEgH?p=7",
   "source": "stratia.js"
@@ -1648,7 +1648,7 @@ window.SONG_DATA.push(
     {
   "title": "めめしぃ",
   "artist": "すりぃ feat.可不",
-  "collection": "【🎸🦋歌切】[2026-08-12]3D Live，能来看看我吗？？夜晚悠闲弹唱直播🎸",
+  "collection": "【🎸🦋Song Clip】[2026-08-12] 3D Live, can you come see me?? Nighttime relaxing singing and guitar livestream🎸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1STg76oEgH?p=8",
   "source": "stratia.js"
@@ -1656,7 +1656,7 @@ window.SONG_DATA.push(
     {
   "title": "WORLD'S END UMBRELLA",
   "artist": "ハチ feat.初音ミク",
-  "collection": "【🎸🦋歌切】[2026-08-12]3D Live，能来看看我吗？？夜晚悠闲弹唱直播🎸",
+  "collection": "【🎸🦋Song Clip】[2026-08-12] 3D Live, can you come see me?? Nighttime relaxing singing and guitar livestream🎸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1STg76oEgH?p=9",
   "source": "stratia.js"
@@ -1664,7 +1664,7 @@ window.SONG_DATA.push(
     {
   "title": "Last Tear",
   "artist": "すとらてぃあ",
-  "collection": "【🎸🦋歌切】[2026-08-12]3D Live，能来看看我吗？？夜晚悠闲弹唱直播🎸",
+  "collection": "【🎸🦋Song Clip】[2026-08-12] 3D Live, can you come see me?? Nighttime relaxing singing and guitar livestream🎸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1STg76oEgH?p=10",
   "source": "stratia.js"
@@ -1672,7 +1672,7 @@ window.SONG_DATA.push(
     {
   "title": "想像フォレスト",
   "artist": "じん feat.IA",
-  "collection": "【🎸🦋歌切】[2026-08-15]这个夏天，留在你的记忆里。 | 吉他弹唱 唱歌直播",
+  "collection": "【🎸🦋Song Cut】[2026-08-15] This summer, stay in your memory. | Guitar singing Live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kDbS6pEF2?p=1",
   "source": "stratia.js"
@@ -1680,7 +1680,7 @@ window.SONG_DATA.push(
     {
   "title": "KissHug",
   "artist": "aiko",
-  "collection": "【🎸🦋歌切】[2026-08-15]这个夏天，留在你的记忆里。 | 吉他弹唱 唱歌直播",
+  "collection": "【🎸🦋Song Cut】[2026-08-15] This summer, stay in your memory. | Guitar singing Live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kDbS6pEF2?p=2",
   "source": "stratia.js"
@@ -1688,7 +1688,7 @@ window.SONG_DATA.push(
     {
   "title": "憂、燦々",
   "artist": "クリープハイプ",
-  "collection": "【🎸🦋歌切】[2026-08-15]这个夏天，留在你的记忆里。 | 吉他弹唱 唱歌直播",
+  "collection": "【🎸🦋Song Cut】[2026-08-15] This summer, stay in your memory. | Guitar singing Live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kDbS6pEF2?p=3",
   "source": "stratia.js"
@@ -1696,7 +1696,7 @@ window.SONG_DATA.push(
     {
   "title": "如月アテンション",
   "artist": "じん feat.IA",
-  "collection": "【🎸🦋歌切】[2026-08-15]这个夏天，留在你的记忆里。 | 吉他弹唱 唱歌直播",
+  "collection": "【🎸🦋Song Cut】[2026-08-15] This summer, stay in your memory. | Guitar singing Live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kDbS6pEF2?p=4",
   "source": "stratia.js"
@@ -1704,7 +1704,7 @@ window.SONG_DATA.push(
     {
   "title": "オールドファッション",
   "artist": "back number",
-  "collection": "【🎸🦋歌切】[2026-08-18]夜晚舒缓抒情歌弹唱🎸🍀 一起来放松一下吧？",
+  "collection": "【🎸🦋Song Cover】[2026-08-18] Relaxing Evening Acoustic Singing🎸🍀 Want to unwind together?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Vh8G6vEDj?p=1",
   "source": "stratia.js"
@@ -1712,7 +1712,7 @@ window.SONG_DATA.push(
     {
   "title": "瞬き",
   "artist": "back number",
-  "collection": "【🎸🦋歌切】[2026-08-18]夜晚舒缓抒情歌弹唱🎸🍀 一起来放松一下吧？",
+  "collection": "【🎸🦋Song Cover】[2026-08-18] Relaxing Evening Acoustic Singing🎸🍀 Want to unwind together?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Vh8G6vEDj?p=2",
   "source": "stratia.js"
@@ -1720,7 +1720,7 @@ window.SONG_DATA.push(
     {
   "title": "恋人ができたんだ",
   "artist": "My Hair is Bad",
-  "collection": "【🎸🦋歌切】[2026-08-18]夜晚舒缓抒情歌弹唱🎸🍀 一起来放松一下吧？",
+  "collection": "【🎸🦋Song Cover】[2026-08-18] Relaxing Evening Acoustic Singing🎸🍀 Want to unwind together?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Vh8G6vEDj?p=3",
   "source": "stratia.js"
@@ -1728,7 +1728,7 @@ window.SONG_DATA.push(
     {
   "title": "XL",
   "artist": "サカグチアミ",
-  "collection": "【🎸🦋歌切】[2026-08-18]夜晚舒缓抒情歌弹唱🎸🍀 一起来放松一下吧？",
+  "collection": "【🎸🦋Song Cover】[2026-08-18] Relaxing Evening Acoustic Singing🎸🍀 Want to unwind together?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Vh8G6vEDj?p=4",
   "source": "stratia.js"
@@ -1736,7 +1736,7 @@ window.SONG_DATA.push(
     {
   "title": "にじ",
   "artist": "新沢としひこ",
-  "collection": "【🎸🦋歌切】[2026-08-18]夜晚舒缓抒情歌弹唱🎸🍀 一起来放松一下吧？",
+  "collection": "【🎸🦋Song Cover】[2026-08-18] Relaxing Evening Acoustic Singing🎸🍀 Want to unwind together?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Vh8G6vEDj?p=5",
   "source": "stratia.js"
@@ -1744,7 +1744,7 @@ window.SONG_DATA.push(
     {
   "title": "M",
   "artist": "PRINCESS PRINCESS",
-  "collection": "【🎸🦋歌切】[2026-08-18]夜晚舒缓抒情歌弹唱🎸🍀 一起来放松一下吧？",
+  "collection": "【🎸🦋Song Cover】[2026-08-18] Relaxing Evening Acoustic Singing🎸🍀 Want to unwind together?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Vh8G6vEDj?p=6",
   "source": "stratia.js"
@@ -1752,7 +1752,7 @@ window.SONG_DATA.push(
     {
   "title": "SWEET MEMORIES",
   "artist": "松田聖子",
-  "collection": "【🎸🦋歌切】[2026-08-18]夜晚舒缓抒情歌弹唱🎸🍀 一起来放松一下吧？",
+  "collection": "【🎸🦋Song Cover】[2026-08-18] Relaxing Evening Acoustic Singing🎸🍀 Want to unwind together?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Vh8G6vEDj?p=7",
   "source": "stratia.js"
@@ -1760,7 +1760,7 @@ window.SONG_DATA.push(
     {
   "title": "Pretender",
   "artist": "Official髭男dism",
-  "collection": "【🎸🦋歌切】[2026-08-18]夜晚舒缓抒情歌弹唱🎸🍀 一起来放松一下吧？",
+  "collection": "【🎸🦋Song Cover】[2026-08-18] Relaxing Evening Acoustic Singing🎸🍀 Want to unwind together?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Vh8G6vEDj?p=8",
   "source": "stratia.js"
@@ -1768,7 +1768,7 @@ window.SONG_DATA.push(
     {
   "title": "となりのトトロ",
   "artist": "井上あずみ",
-  "collection": "【🎸🦋歌切】[2026-08-22]Chiru Akogi的时间🎸🎶 | 有通知‼️‼️",
+  "collection": "【🎸🦋Song Cover】[2026-08-22]Chiru Akogi's time🎸🎶 | Notification‼️‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13R8p6fE7X?p=1",
   "source": "stratia.js"
@@ -1776,7 +1776,7 @@ window.SONG_DATA.push(
     {
   "title": "カントリー・ロード",
   "artist": "本名陽子",
-  "collection": "【🎸🦋歌切】[2026-08-22]Chiru Akogi的时间🎸🎶 | 有通知‼️‼️",
+  "collection": "【🎸🦋Song Cover】[2026-08-22]Chiru Akogi's time🎸🎶 | Notification‼️‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13R8p6fE7X?p=2",
   "source": "stratia.js"
@@ -1784,7 +1784,7 @@ window.SONG_DATA.push(
     {
   "title": "One more time, One more chance",
   "artist": "山崎まさよし",
-  "collection": "【🎸🦋歌切】[2026-08-22]Chiru Akogi的时间🎸🎶 | 有通知‼️‼️",
+  "collection": "【🎸🦋Song Cover】[2026-08-22]Chiru Akogi's time🎸🎶 | Notification‼️‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13R8p6fE7X?p=3",
   "source": "stratia.js"
@@ -1792,7 +1792,7 @@ window.SONG_DATA.push(
     {
   "title": "美しい鰭",
   "artist": "スピッツ",
-  "collection": "【🎸🦋歌切】[2026-08-22]Chiru Akogi的时间🎸🎶 | 有通知‼️‼️",
+  "collection": "【🎸🦋Song Cover】[2026-08-22]Chiru Akogi's time🎸🎶 | Notification‼️‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13R8p6fE7X?p=4",
   "source": "stratia.js"
@@ -1800,7 +1800,7 @@ window.SONG_DATA.push(
     {
   "title": "夏",
   "artist": "さユり",
-  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "collection": "【🎸🦋Song Cover】[2026-08-26]Leisurely singing and playing favorite songs🎸💠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=1",
   "source": "stratia.js"
@@ -1808,7 +1808,7 @@ window.SONG_DATA.push(
     {
   "title": "食虫植物",
   "artist": "理芽",
-  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "collection": "【🎸🦋Song Cover】[2026-08-26]Leisurely singing and playing favorite songs🎸💠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=2",
   "source": "stratia.js"
@@ -1816,7 +1816,7 @@ window.SONG_DATA.push(
     {
   "title": "過去を喰らう",
   "artist": "花譜",
-  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "collection": "【🎸🦋Song Cover】[2026-08-26]Leisurely singing and playing favorite songs🎸💠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=3",
   "source": "stratia.js"
@@ -1824,7 +1824,7 @@ window.SONG_DATA.push(
     {
   "title": "かいか",
   "artist": "廻花",
-  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "collection": "【🎸🦋Song Cover】[2026-08-26]Leisurely singing and playing favorite songs🎸💠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=4",
   "source": "stratia.js"
@@ -1832,7 +1832,7 @@ window.SONG_DATA.push(
     {
   "title": "Stellar Stellar",
   "artist": "星街すいせい",
-  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "collection": "【🎸🦋Song Cover】[2026-08-26]Leisurely singing and playing favorite songs🎸💠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=5",
   "source": "stratia.js"
@@ -1840,7 +1840,7 @@ window.SONG_DATA.push(
     {
   "title": "あたしが死んでも",
   "artist": "コレサワ",
-  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "collection": "【🎸🦋Song Cover】[2026-08-26]Leisurely singing and playing favorite songs🎸💠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=6",
   "source": "stratia.js"
@@ -1848,7 +1848,7 @@ window.SONG_DATA.push(
     {
   "title": "にゃんにゃんにゃん",
   "artist": "コレサワ",
-  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "collection": "【🎸🦋Song Cover】[2026-08-26]Leisurely singing and playing favorite songs🎸💠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=7",
   "source": "stratia.js"
@@ -1856,7 +1856,7 @@ window.SONG_DATA.push(
     {
   "title": "LOVEずっきゅん",
   "artist": "相対性理論",
-  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "collection": "【🎸🦋Song Cover】[2026-08-26]Leisurely singing and playing favorite songs🎸💠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=8",
   "source": "stratia.js"
@@ -1864,7 +1864,7 @@ window.SONG_DATA.push(
     {
   "title": "＊ハロー、プラネット。",
   "artist": "sasakure.UK feat.初音ミク",
-  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "collection": "【🎸🦋Song Cover】[2026-08-26]Leisurely singing and playing favorite songs🎸💠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=9",
   "source": "stratia.js"
@@ -1872,7 +1872,7 @@ window.SONG_DATA.push(
     {
   "title": "シュガーバイン",
   "artist": "Dixie Flatline feat.巡音ルカ",
-  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "collection": "【🎸🦋Song Cover】[2026-08-26]Leisurely singing and playing favorite songs🎸💠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=10",
   "source": "stratia.js"
@@ -1880,7 +1880,7 @@ window.SONG_DATA.push(
     {
   "title": "東京サマーセッション feat.CHiCO",
   "artist": "HoneyWorks",
-  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "collection": "【🎸🦋Song Cover】[2026-08-26]Leisurely singing and playing favorite songs🎸💠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=11",
   "source": "stratia.js"
@@ -1888,7 +1888,7 @@ window.SONG_DATA.push(
     {
   "title": "ロケットサイダー",
   "artist": "ナユタン星人 feat.初音ミク",
-  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "collection": "【🎸🦋Song Cover】[2026-08-26]Leisurely singing and playing favorite songs🎸💠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=12",
   "source": "stratia.js"
@@ -1896,7 +1896,7 @@ window.SONG_DATA.push(
     {
   "title": "いーあるふぁんくらぶ",
   "artist": "みきとP feat.GUMI・鏡音リン",
-  "collection": "【🎸🦋歌切】[2026-08-26]悠闲地弹唱喜欢的歌曲🎸💠",
+  "collection": "【🎸🦋Song Cover】[2026-08-26]Leisurely singing and playing favorite songs🎸💠",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HB8f6jEBe?p=13",
   "source": "stratia.js"
@@ -1904,7 +1904,7 @@ window.SONG_DATA.push(
     {
   "title": "ストロー",
   "artist": "aiko",
-  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "collection": "【🎸🦋Song Cut】[2026-10-06]Durable Singing Stream・Vocal and Instrumental Performance｜Find Me🌟Singing Until Channel Reaches 6000 Subscribers🎤🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=1",
   "source": "stratia.js"
@@ -1912,7 +1912,7 @@ window.SONG_DATA.push(
     {
   "title": "ハム太郎とっとこうた",
   "artist": "ハムちゃんず",
-  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "collection": "【🎸🦋Song Cut】[2026-10-06]Durable Singing Stream・Vocal and Instrumental Performance｜Find Me🌟Singing Until Channel Reaches 6000 Subscribers🎤🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=2",
   "source": "stratia.js"
@@ -1920,7 +1920,7 @@ window.SONG_DATA.push(
     {
   "title": "Os-宇宙人",
   "artist": "エリオをかまってちゃん",
-  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "collection": "【🎸🦋Song Cut】[2026-10-06]Durable Singing Stream・Vocal and Instrumental Performance｜Find Me🌟Singing Until Channel Reaches 6000 Subscribers🎤🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=3",
   "source": "stratia.js"
@@ -1928,7 +1928,7 @@ window.SONG_DATA.push(
     {
   "title": "フロントメモリー feat.川本真琴",
   "artist": "神聖かまってちゃん",
-  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "collection": "【🎸🦋Song Cut】[2026-10-06]Durable Singing Stream・Vocal and Instrumental Performance｜Find Me🌟Singing Until Channel Reaches 6000 Subscribers🎤🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=4",
   "source": "stratia.js"
@@ -1936,7 +1936,7 @@ window.SONG_DATA.push(
     {
   "title": "からくりピエロ",
   "artist": "40mP feat.初音ミク",
-  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "collection": "【🎸🦋Song Cut】[2026-10-06]Durable Singing Stream・Vocal and Instrumental Performance｜Find Me🌟Singing Until Channel Reaches 6000 Subscribers🎤🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=5",
   "source": "stratia.js"
@@ -1944,7 +1944,7 @@ window.SONG_DATA.push(
     {
   "title": "スイートマジック",
   "artist": "Junky feat.ろん",
-  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "collection": "【🎸🦋Song Cut】[2026-10-06]Durable Singing Stream・Vocal and Instrumental Performance｜Find Me🌟Singing Until Channel Reaches 6000 Subscribers🎤🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=6",
   "source": "stratia.js"
@@ -1952,7 +1952,7 @@ window.SONG_DATA.push(
     {
   "title": "さようなら、花泥棒さん",
   "artist": "メル feat.初音ミク",
-  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "collection": "【🎸🦋Song Cut】[2026-10-06]Durable Singing Stream・Vocal and Instrumental Performance｜Find Me🌟Singing Until Channel Reaches 6000 Subscribers🎤🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=7",
   "source": "stratia.js"
@@ -1960,7 +1960,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーライト",
   "artist": "muque",
-  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "collection": "【🎸🦋Song Cut】[2026-10-06]Durable Singing Stream・Vocal and Instrumental Performance｜Find Me🌟Singing Until Channel Reaches 6000 Subscribers🎤🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=8",
   "source": "stratia.js"
@@ -1968,7 +1968,7 @@ window.SONG_DATA.push(
     {
   "title": "サインはB",
   "artist": "B小町",
-  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "collection": "【🎸🦋Song Cut】[2026-10-06]Durable Singing Stream・Vocal and Instrumental Performance｜Find Me🌟Singing Until Channel Reaches 6000 Subscribers🎤🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=9",
   "source": "stratia.js"
@@ -1976,7 +1976,7 @@ window.SONG_DATA.push(
     {
   "title": "メイジ・オブ・ヴァイオレット",
   "artist": "紫咲シオン",
-  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "collection": "【🎸🦋Song Cut】[2026-10-06]Durable Singing Stream・Vocal and Instrumental Performance｜Find Me🌟Singing Until Channel Reaches 6000 Subscribers🎤🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=10",
   "source": "stratia.js"
@@ -1984,7 +1984,7 @@ window.SONG_DATA.push(
     {
   "title": "もぐもぐYUMMY!",
   "artist": "猫又おかゆ",
-  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "collection": "【🎸🦋Song Cut】[2026-10-06]Durable Singing Stream・Vocal and Instrumental Performance｜Find Me🌟Singing Until Channel Reaches 6000 Subscribers🎤🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=11",
   "source": "stratia.js"
@@ -1992,7 +1992,7 @@ window.SONG_DATA.push(
     {
   "title": "サクラカゼ",
   "artist": "さくらみこ",
-  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "collection": "【🎸🦋Song Cut】[2026-10-06]Durable Singing Stream・Vocal and Instrumental Performance｜Find Me🌟Singing Until Channel Reaches 6000 Subscribers🎤🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=12",
   "source": "stratia.js"
@@ -2000,7 +2000,7 @@ window.SONG_DATA.push(
     {
   "title": "カヌレ",
   "artist": "CHiCO with HoneyWorks",
-  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "collection": "【🎸🦋Song Cut】[2026-10-06]Durable Singing Stream・Vocal and Instrumental Performance｜Find Me🌟Singing Until Channel Reaches 6000 Subscribers🎤🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=13",
   "source": "stratia.js"
@@ -2008,7 +2008,7 @@ window.SONG_DATA.push(
     {
   "title": "アンサー",
   "artist": "花譜",
-  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "collection": "【🎸🦋Song Cut】[2026-10-06]Durable Singing Stream・Vocal and Instrumental Performance｜Find Me🌟Singing Until Channel Reaches 6000 Subscribers🎤🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=14",
   "source": "stratia.js"
@@ -2016,7 +2016,7 @@ window.SONG_DATA.push(
     {
   "title": "畢生よ",
   "artist": "花譜",
-  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "collection": "【🎸🦋Song Cut】[2026-10-06]Durable Singing Stream・Vocal and Instrumental Performance｜Find Me🌟Singing Until Channel Reaches 6000 Subscribers🎤🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=15",
   "source": "stratia.js"
@@ -2024,7 +2024,7 @@ window.SONG_DATA.push(
     {
   "title": "エジソン",
   "artist": "水曜日のカンパネラ",
-  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "collection": "【🎸🦋Song Cut】[2026-10-06]Durable Singing Stream・Vocal and Instrumental Performance｜Find Me🌟Singing Until Channel Reaches 6000 Subscribers🎤🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=16",
   "source": "stratia.js"
@@ -2032,7 +2032,7 @@ window.SONG_DATA.push(
     {
   "title": "シカせんべいのうた",
   "artist": "鹿乃子のこ(CV.潘めぐみ)、虎視虎子(CV.藤田咲)",
-  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "collection": "【🎸🦋Song Cut】[2026-10-06]Durable Singing Stream・Vocal and Instrumental Performance｜Find Me🌟Singing Until Channel Reaches 6000 Subscribers🎤🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=17",
   "source": "stratia.js"
@@ -2040,7 +2040,7 @@ window.SONG_DATA.push(
     {
   "title": "Last Tear",
   "artist": "すとらてぃあ",
-  "collection": "【🎸🦋歌切】[2026-10-06]耐久歌回・弹唱｜找到我吧🌟唱到频道订阅6000为止🎤🎶",
+  "collection": "【🎸🦋Song Cut】[2026-10-06]Durable Singing Stream・Vocal and Instrumental Performance｜Find Me🌟Singing Until Channel Reaches 6000 Subscribers🎤🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XkHk6FEMw?p=18",
   "source": "stratia.js"

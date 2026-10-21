@@ -1,6 +1,6 @@
 // ぺるしあ・てん - 歌单数据 (多合集汇总)
 // 来源: BV1iXKY6qEKv
-// 生成时间: 10/21/2026, 7:42:19 AM
+// 生成时间: 10/21/2026, 11:56:26 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8,7 +8,7 @@ window.SONG_DATA.push(
     {
   "title": "ロミオとシンデレラ",
   "artist": "doriko feat.初音ミク",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "collection": "ぺるしあ・てん Song Clip 2026-07-04 Ancient Vocaloid Song Limited Edition Singing!! Listen to a song before bed～!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=1",
   "source": "peruciaten.js"
@@ -16,7 +16,7 @@ window.SONG_DATA.push(
     {
   "title": "ブラック★ロックシューター",
   "artist": "supercell feat.初音ミク",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "collection": "ぺるしあ・てん Song Clip 2026-07-04 Ancient Vocaloid Song Limited Edition Singing!! Listen to a song before bed～!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=2",
   "source": "peruciaten.js"
@@ -24,7 +24,7 @@ window.SONG_DATA.push(
     {
   "title": "ワールドイズマイン",
   "artist": "ryo(supercell) feat.初音ミク",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "collection": "ぺるしあ・てん Song Clip 2026-07-04 Ancient Vocaloid Song Limited Edition Singing!! Listen to a song before bed～!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=3",
   "source": "peruciaten.js"
@@ -32,7 +32,7 @@ window.SONG_DATA.push(
     {
   "title": "夕景イエスタデイ",
   "artist": "じん feat.IA",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "collection": "ぺるしあ・てん Song Clip 2026-07-04 Ancient Vocaloid Song Limited Edition Singing!! Listen to a song before bed～!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=4",
   "source": "peruciaten.js"
@@ -40,7 +40,7 @@ window.SONG_DATA.push(
     {
   "title": "モザイクロール",
   "artist": "DECO*27 feat.GUMI・初音ミク",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "collection": "ぺるしあ・てん Song Clip 2026-07-04 Ancient Vocaloid Song Limited Edition Singing!! Listen to a song before bed～!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=5",
   "source": "peruciaten.js"
@@ -48,7 +48,7 @@ window.SONG_DATA.push(
     {
   "title": "千本桜",
   "artist": "黒うさP feat.初音ミク",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "collection": "ぺるしあ・てん Song Clip 2026-07-04 Ancient Vocaloid Song Limited Edition Singing!! Listen to a song before bed～!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=6",
   "source": "peruciaten.js"
@@ -56,7 +56,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛裁判",
   "artist": "40mP feat.初音ミク",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "collection": "ぺるしあ・てん Song Clip 2026-07-04 Ancient Vocaloid Song Limited Edition Singing!! Listen to a song before bed～!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=7",
   "source": "peruciaten.js"
@@ -64,7 +64,7 @@ window.SONG_DATA.push(
     {
   "title": "脳漿炸裂ガール",
   "artist": "れるりり(当社比P) feat.初音ミク・GUMI",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "collection": "ぺるしあ・てん Song Clip 2026-07-04 Ancient Vocaloid Song Limited Edition Singing!! Listen to a song before bed～!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=8",
   "source": "peruciaten.js"
@@ -72,7 +72,7 @@ window.SONG_DATA.push(
     {
   "title": "深海少女",
   "artist": "ゆうゆ feat.初音ミク",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "collection": "ぺるしあ・てん Song Clip 2026-07-04 Ancient Vocaloid Song Limited Edition Singing!! Listen to a song before bed～!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=9",
   "source": "peruciaten.js"
@@ -80,7 +80,7 @@ window.SONG_DATA.push(
     {
   "title": "初音ミクの消失",
   "artist": "cosMo@暴走P feat.初音ミク",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "collection": "ぺるしあ・てん Song Clip 2026-07-04 Ancient Vocaloid Song Limited Edition Singing!! Listen to a song before bed～!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=10",
   "source": "peruciaten.js"
@@ -88,7 +88,7 @@ window.SONG_DATA.push(
     {
   "title": "のだ",
   "artist": "大漠波新 feat.ずんだもん・初音ミク・重音テト",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "collection": "ぺるしあ・てん Song Clip 2026-07-04 Ancient Vocaloid Song Limited Edition Singing!! Listen to a song before bed～!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=11",
   "source": "peruciaten.js"
@@ -96,7 +96,7 @@ window.SONG_DATA.push(
     {
   "title": "右肩の蝶",
   "artist": "のりぴー feat.鏡音リン・鏡音レン",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "collection": "ぺるしあ・てん Song Clip 2026-07-04 Ancient Vocaloid Song Limited Edition Singing!! Listen to a song before bed～!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=12",
   "source": "peruciaten.js"
@@ -104,7 +104,7 @@ window.SONG_DATA.push(
     {
   "title": "オーバーライド",
   "artist": "吉田夜世 feat.重音テト",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "collection": "ぺるしあ・てん Song Clip 2026-07-04 Ancient Vocaloid Song Limited Edition Singing!! Listen to a song before bed～!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=13",
   "source": "peruciaten.js"
@@ -112,7 +112,7 @@ window.SONG_DATA.push(
     {
   "title": "神っぽいな",
   "artist": "ピノキオピー feat.初音ミク",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "collection": "ぺるしあ・てん Song Clip 2026-07-04 Ancient Vocaloid Song Limited Edition Singing!! Listen to a song before bed～!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=14",
   "source": "peruciaten.js"
@@ -120,7 +120,7 @@ window.SONG_DATA.push(
     {
   "title": "高音厨音域テスト",
   "artist": "木村わいP feat.初音ミク",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "collection": "ぺるしあ・てん Song Clip 2026-07-04 Ancient Vocaloid Song Limited Edition Singing!! Listen to a song before bed～!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=15",
   "source": "peruciaten.js"
@@ -128,7 +128,7 @@ window.SONG_DATA.push(
     {
   "title": "からくりピエロ",
   "artist": "40mP feat.初音ミク",
-  "collection": "ぺるしあ・てん歌切 2026-07-04 古老术力口曲限定演唱！！睡前听一曲吧～！",
+  "collection": "ぺるしあ・てん Song Clip 2026-07-04 Ancient Vocaloid Song Limited Edition Singing!! Listen to a song before bed～!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16iNo6kEwf?p=16",
   "source": "peruciaten.js"
@@ -136,7 +136,7 @@ window.SONG_DATA.push(
     {
   "title": "君色に染まる",
   "artist": "西沢さんP feat.GUMI",
-  "collection": "【歌切】[2026-07-21]征集点歌中！术力口等等什么都唱！！ ぺるしあ・てん",
+  "collection": "【Song Clip】[2026-07-21] Taking song requests! Vocaloid and everything else!! Pershia・Ten",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXKY6qEKv?p=1",
   "source": "peruciaten.js"
@@ -144,7 +144,7 @@ window.SONG_DATA.push(
     {
   "title": "ロケットサイダー",
   "artist": "ナユタン星人 feat.初音ミク",
-  "collection": "【歌切】[2026-07-21]征集点歌中！术力口等等什么都唱！！ ぺるしあ・てん",
+  "collection": "【Song Clip】[2026-07-21] Taking song requests! Vocaloid and everything else!! Pershia・Ten",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXKY6qEKv?p=2",
   "source": "peruciaten.js"
@@ -152,7 +152,7 @@ window.SONG_DATA.push(
     {
   "title": "モニタリング",
   "artist": "DECO*27 feat.初音ミク",
-  "collection": "【歌切】[2026-07-21]征集点歌中！术力口等等什么都唱！！ ぺるしあ・てん",
+  "collection": "【Song Clip】[2026-07-21] Taking song requests! Vocaloid and everything else!! Pershia・Ten",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXKY6qEKv?p=3",
   "source": "peruciaten.js"
@@ -160,7 +160,7 @@ window.SONG_DATA.push(
     {
   "title": "夜もすがら君想ふ",
   "artist": "西沢さんP feat.GUMI",
-  "collection": "【歌切】[2026-07-21]征集点歌中！术力口等等什么都唱！！ ぺるしあ・てん",
+  "collection": "【Song Clip】[2026-07-21] Taking song requests! Vocaloid and everything else!! Pershia・Ten",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXKY6qEKv?p=4",
   "source": "peruciaten.js"
@@ -168,7 +168,7 @@ window.SONG_DATA.push(
     {
   "title": "スーパーヒーロー",
   "artist": "Guiano feat.IA",
-  "collection": "【歌切】[2026-07-21]征集点歌中！术力口等等什么都唱！！ ぺるしあ・てん",
+  "collection": "【Song Clip】[2026-07-21] Taking song requests! Vocaloid and everything else!! Pershia・Ten",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXKY6qEKv?p=5",
   "source": "peruciaten.js"
@@ -176,7 +176,7 @@ window.SONG_DATA.push(
     {
   "title": "藍二乗",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-21]征集点歌中！术力口等等什么都唱！！ ぺるしあ・てん",
+  "collection": "【Song Clip】[2026-07-21] Taking song requests! Vocaloid and everything else!! Pershia・Ten",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXKY6qEKv?p=6",
   "source": "peruciaten.js"
@@ -184,7 +184,7 @@ window.SONG_DATA.push(
     {
   "title": "初音ミクの消失",
   "artist": "cosMo@暴走P feat.初音ミク",
-  "collection": "【歌切】[2026-07-21]征集点歌中！术力口等等什么都唱！！ ぺるしあ・てん",
+  "collection": "【Song Clip】[2026-07-21] Taking song requests! Vocaloid and everything else!! Pershia・Ten",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXKY6qEKv?p=7",
   "source": "peruciaten.js"
@@ -192,7 +192,7 @@ window.SONG_DATA.push(
     {
   "title": "メランコリック",
   "artist": "Junky feat.鏡音リン",
-  "collection": "【歌切】[2026-07-21]征集点歌中！术力口等等什么都唱！！ ぺるしあ・てん",
+  "collection": "【Song Clip】[2026-07-21] Taking song requests! Vocaloid and everything else!! Pershia・Ten",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXKY6qEKv?p=8",
   "source": "peruciaten.js"
@@ -200,7 +200,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛サーキュレーション",
   "artist": "花澤香菜",
-  "collection": "【歌切】[2026-07-21]征集点歌中！术力口等等什么都唱！！ ぺるしあ・てん",
+  "collection": "【Song Clip】[2026-07-21] Taking song requests! Vocaloid and everything else!! Pershia・Ten",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXKY6qEKv?p=9",
   "source": "peruciaten.js"
@@ -208,7 +208,7 @@ window.SONG_DATA.push(
     {
   "title": "可愛くてごめん",
   "artist": "HoneyWorks feat.かぴ",
-  "collection": "【歌切】[2026-07-21]征集点歌中！术力口等等什么都唱！！ ぺるしあ・てん",
+  "collection": "【Song Clip】[2026-07-21] Taking song requests! Vocaloid and everything else!! Pershia・Ten",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXKY6qEKv?p=10",
   "source": "peruciaten.js"
@@ -216,7 +216,7 @@ window.SONG_DATA.push(
     {
   "title": "転生林檎",
   "artist": "ピノキオピー feat.初音ミク",
-  "collection": "【歌切】[2026-07-21]征集点歌中！术力口等等什么都唱！！ ぺるしあ・てん",
+  "collection": "【Song Clip】[2026-07-21] Taking song requests! Vocaloid and everything else!! Pershia・Ten",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXKY6qEKv?p=11",
   "source": "peruciaten.js"
@@ -224,7 +224,7 @@ window.SONG_DATA.push(
     {
   "title": "ロミオとシンデレラ",
   "artist": "doriko feat.初音ミク",
-  "collection": "【歌切】[2026-07-21]征集点歌中！术力口等等什么都唱！！ ぺるしあ・てん",
+  "collection": "【Song Clip】[2026-07-21] Taking song requests! Vocaloid and everything else!! Pershia・Ten",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXKY6qEKv?p=12",
   "source": "peruciaten.js"
@@ -232,7 +232,7 @@ window.SONG_DATA.push(
     {
   "title": "スピカ",
   "artist": "ロクデナシ",
-  "collection": "【歌切】[2026-07-21]征集点歌中！术力口等等什么都唱！！ ぺるしあ・てん",
+  "collection": "【Song Clip】[2026-07-21] Taking song requests! Vocaloid and everything else!! Pershia・Ten",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXKY6qEKv?p=13",
   "source": "peruciaten.js"
@@ -240,7 +240,7 @@ window.SONG_DATA.push(
     {
   "title": "チェリー",
   "artist": "スピッツ",
-  "collection": "【歌切】[2026-07-21]征集点歌中！术力口等等什么都唱！！ ぺるしあ・てん",
+  "collection": "【Song Clip】[2026-07-21] Taking song requests! Vocaloid and everything else!! Pershia・Ten",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXKY6qEKv?p=14",
   "source": "peruciaten.js"
@@ -248,7 +248,7 @@ window.SONG_DATA.push(
     {
   "title": "チェリーポップ",
   "artist": "DECO*27 feat.初音ミク",
-  "collection": "【歌切】[2026-07-21]征集点歌中！术力口等等什么都唱！！ ぺるしあ・てん",
+  "collection": "【Song Clip】[2026-07-21] Taking song requests! Vocaloid and everything else!! Pershia・Ten",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXKY6qEKv?p=15",
   "source": "peruciaten.js"
@@ -256,7 +256,7 @@ window.SONG_DATA.push(
     {
   "title": "シル・ヴ・プレジデント",
   "artist": "P丸様。",
-  "collection": "【歌切】[2026-07-21]征集点歌中！术力口等等什么都唱！！ ぺるしあ・てん",
+  "collection": "【Song Clip】[2026-07-21] Taking song requests! Vocaloid and everything else!! Pershia・Ten",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXKY6qEKv?p=16",
   "source": "peruciaten.js"
@@ -264,7 +264,7 @@ window.SONG_DATA.push(
     {
   "title": "すきなことだけでいいです",
   "artist": "ピノキオピー feat.初音ミク",
-  "collection": "【歌切】[2026-07-21]征集点歌中！术力口等等什么都唱！！ ぺるしあ・てん",
+  "collection": "【Song Clip】[2026-07-21] Taking song requests! Vocaloid and everything else!! Pershia・Ten",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXKY6qEKv?p=17",
   "source": "peruciaten.js"
@@ -272,7 +272,7 @@ window.SONG_DATA.push(
     {
   "title": "サマータイムレコード",
   "artist": "じん feat.IA",
-  "collection": "【歌切】[2026-07-21]征集点歌中！术力口等等什么都唱！！ ぺるしあ・てん",
+  "collection": "【Song Clip】[2026-07-21] Taking song requests! Vocaloid and everything else!! Pershia・Ten",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXKY6qEKv?p=18",
   "source": "peruciaten.js"
@@ -280,7 +280,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-21]征集点歌中！术力口等等什么都唱！！ ぺるしあ・てん",
+  "collection": "【Song Clip】[2026-07-21] Taking song requests! Vocaloid and everything else!! Pershia・Ten",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iXKY6qEKv?p=19",
   "source": "peruciaten.js"
@@ -288,7 +288,7 @@ window.SONG_DATA.push(
     {
   "title": "シャルル",
   "artist": "バルーン feat.flower",
-  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "collection": "【Karaoke】[2026-07-22] Song requests open! I can sing many Vocaloid songs! ぺるしあ・てん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=1",
   "source": "peruciaten.js"
@@ -296,7 +296,7 @@ window.SONG_DATA.push(
     {
   "title": "命に嫌われている。",
   "artist": "カンザキイオリ feat.初音ミク",
-  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "collection": "【Karaoke】[2026-07-22] Song requests open! I can sing many Vocaloid songs! ぺるしあ・てん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=2",
   "source": "peruciaten.js"
@@ -304,7 +304,7 @@ window.SONG_DATA.push(
     {
   "title": "ド屑",
   "artist": "なきそ feat.歌愛ユキ",
-  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "collection": "【Karaoke】[2026-07-22] Song requests open! I can sing many Vocaloid songs! ぺるしあ・てん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=3",
   "source": "peruciaten.js"
@@ -312,7 +312,7 @@ window.SONG_DATA.push(
     {
   "title": "甘ったる",
   "artist": "なきそ feat.歌愛ユキ",
-  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "collection": "【Karaoke】[2026-07-22] Song requests open! I can sing many Vocaloid songs! ぺるしあ・てん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=4",
   "source": "peruciaten.js"
@@ -320,7 +320,7 @@ window.SONG_DATA.push(
     {
   "title": "サイレントマジョリティー",
   "artist": "欅坂46",
-  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "collection": "【Karaoke】[2026-07-22] Song requests open! I can sing many Vocaloid songs! ぺるしあ・てん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=5",
   "source": "peruciaten.js"
@@ -328,7 +328,7 @@ window.SONG_DATA.push(
     {
   "title": "シュガーソングとビターステップ",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "collection": "【Karaoke】[2026-07-22] Song requests open! I can sing many Vocaloid songs! ぺるしあ・てん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=6",
   "source": "peruciaten.js"
@@ -336,7 +336,7 @@ window.SONG_DATA.push(
     {
   "title": "会いたくて 会いたくて",
   "artist": "西野カナ",
-  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "collection": "【Karaoke】[2026-07-22] Song requests open! I can sing many Vocaloid songs! ぺるしあ・てん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=7",
   "source": "peruciaten.js"
@@ -344,7 +344,7 @@ window.SONG_DATA.push(
     {
   "title": "Dear…",
   "artist": "西野カナ",
-  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "collection": "【Karaoke】[2026-07-22] Song requests open! I can sing many Vocaloid songs! ぺるしあ・てん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=8",
   "source": "peruciaten.js"
@@ -352,7 +352,7 @@ window.SONG_DATA.push(
     {
   "title": "ハイドアンド・シーク",
   "artist": "19's Sound Factory feat.初音ミク",
-  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "collection": "【Karaoke】[2026-07-22] Song requests open! I can sing many Vocaloid songs! ぺるしあ・てん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=9",
   "source": "peruciaten.js"
@@ -360,7 +360,7 @@ window.SONG_DATA.push(
     {
   "title": "ファンサ",
   "artist": "mona(CV:夏川椎菜)",
-  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "collection": "【Karaoke】[2026-07-22] Song requests open! I can sing many Vocaloid songs! ぺるしあ・てん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=10",
   "source": "peruciaten.js"
@@ -368,7 +368,7 @@ window.SONG_DATA.push(
     {
   "title": "チェリー",
   "artist": "スピッツ",
-  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "collection": "【Karaoke】[2026-07-22] Song requests open! I can sing many Vocaloid songs! ぺるしあ・てん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=11",
   "source": "peruciaten.js"
@@ -376,7 +376,7 @@ window.SONG_DATA.push(
     {
   "title": "Blessing",
   "artist": "halyosy feat.初音ミク・鏡音リン・鏡音レン・巡音ルカ・KAITO・MEIKO",
-  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "collection": "【Karaoke】[2026-07-22] Song requests open! I can sing many Vocaloid songs! ぺるしあ・てん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=12",
   "source": "peruciaten.js"
@@ -384,7 +384,7 @@ window.SONG_DATA.push(
     {
   "title": "打上花火",
   "artist": "DAOKO × 米津玄師",
-  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "collection": "【Karaoke】[2026-07-22] Song requests open! I can sing many Vocaloid songs! ぺるしあ・てん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=13",
   "source": "peruciaten.js"
@@ -392,7 +392,7 @@ window.SONG_DATA.push(
     {
   "title": "Catch the Moment",
   "artist": "LiSA",
-  "collection": "【歌切】[2026-07-22]点歌征集中！会唱很多术力口歌曲！ ぺるしあ・てん",
+  "collection": "【Karaoke】[2026-07-22] Song requests open! I can sing many Vocaloid songs! ぺるしあ・てん",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4g26qESj?p=14",
   "source": "peruciaten.js"
@@ -400,7 +400,7 @@ window.SONG_DATA.push(
     {
   "title": "夜に駆ける",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "collection": "【Song Cover】[2026-07-25] Warmly welcome new viewers! Singing various songs mainly with Vocaloid-style🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=1",
   "source": "peruciaten.js"
@@ -408,7 +408,7 @@ window.SONG_DATA.push(
     {
   "title": "Booo!",
   "artist": "TOKOTOKO(西沢さんP) feat.音街ウナ",
-  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "collection": "【Song Cover】[2026-07-25] Warmly welcome new viewers! Singing various songs mainly with Vocaloid-style🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=2",
   "source": "peruciaten.js"
@@ -416,7 +416,7 @@ window.SONG_DATA.push(
     {
   "title": "IRIS OUT",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "collection": "【Song Cover】[2026-07-25] Warmly welcome new viewers! Singing various songs mainly with Vocaloid-style🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=3",
   "source": "peruciaten.js"
@@ -424,7 +424,7 @@ window.SONG_DATA.push(
     {
   "title": "DAYBREAK FRONTLINE",
   "artist": "Orangestar feat.IA",
-  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "collection": "【Song Cover】[2026-07-25] Warmly welcome new viewers! Singing various songs mainly with Vocaloid-style🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=4",
   "source": "peruciaten.js"
@@ -432,7 +432,7 @@ window.SONG_DATA.push(
     {
   "title": "かくれんぼ",
   "artist": "AliA",
-  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "collection": "【Song Cover】[2026-07-25] Warmly welcome new viewers! Singing various songs mainly with Vocaloid-style🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=5",
   "source": "peruciaten.js"
@@ -440,7 +440,7 @@ window.SONG_DATA.push(
     {
   "title": "1・2・3",
   "artist": "After the Rain",
-  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "collection": "【Song Cover】[2026-07-25] Warmly welcome new viewers! Singing various songs mainly with Vocaloid-style🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=6",
   "source": "peruciaten.js"
@@ -448,7 +448,7 @@ window.SONG_DATA.push(
     {
   "title": "ドレミファロンド",
   "artist": "40mP feat.初音ミク",
-  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "collection": "【Song Cover】[2026-07-25] Warmly welcome new viewers! Singing various songs mainly with Vocaloid-style🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=7",
   "source": "peruciaten.js"
@@ -456,7 +456,7 @@ window.SONG_DATA.push(
     {
   "title": "深海少女",
   "artist": "ゆうゆ feat.初音ミク",
-  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "collection": "【Song Cover】[2026-07-25] Warmly welcome new viewers! Singing various songs mainly with Vocaloid-style🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=8",
   "source": "peruciaten.js"
@@ -464,7 +464,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒバナ",
   "artist": "DECO*27 feat.初音ミク",
-  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "collection": "【Song Cover】[2026-07-25] Warmly welcome new viewers! Singing various songs mainly with Vocaloid-style🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=9",
   "source": "peruciaten.js"
@@ -472,7 +472,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ声一つ",
   "artist": "ロクデナシ",
-  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "collection": "【Song Cover】[2026-07-25] Warmly welcome new viewers! Singing various songs mainly with Vocaloid-style🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=10",
   "source": "peruciaten.js"
@@ -480,7 +480,7 @@ window.SONG_DATA.push(
     {
   "title": "魔性",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "collection": "【Song Cover】[2026-07-25] Warmly welcome new viewers! Singing various songs mainly with Vocaloid-style🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=11",
   "source": "peruciaten.js"
@@ -488,7 +488,7 @@ window.SONG_DATA.push(
     {
   "title": "エルマ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "collection": "【Song Cover】[2026-07-25] Warmly welcome new viewers! Singing various songs mainly with Vocaloid-style🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=12",
   "source": "peruciaten.js"
@@ -496,7 +496,7 @@ window.SONG_DATA.push(
     {
   "title": "準透明少年",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "collection": "【Song Cover】[2026-07-25] Warmly welcome new viewers! Singing various songs mainly with Vocaloid-style🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=13",
   "source": "peruciaten.js"
@@ -504,7 +504,7 @@ window.SONG_DATA.push(
     {
   "title": "点描の唄",
   "artist": "Mrs. GREEN APPLE feat.井上苑子",
-  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "collection": "【Song Cover】[2026-07-25] Warmly welcome new viewers! Singing various songs mainly with Vocaloid-style🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=14",
   "source": "peruciaten.js"
@@ -512,7 +512,7 @@ window.SONG_DATA.push(
     {
   "title": "東京テディベア",
   "artist": "Neru feat.鏡音リン",
-  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "collection": "【Song Cover】[2026-07-25] Warmly welcome new viewers! Singing various songs mainly with Vocaloid-style🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=15",
   "source": "peruciaten.js"
@@ -520,7 +520,7 @@ window.SONG_DATA.push(
     {
   "title": "アイドル",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "collection": "【Song Cover】[2026-07-25] Warmly welcome new viewers! Singing various songs mainly with Vocaloid-style🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=16",
   "source": "peruciaten.js"
@@ -528,7 +528,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "collection": "【Song Cover】[2026-07-25] Warmly welcome new viewers! Singing various songs mainly with Vocaloid-style🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=17",
   "source": "peruciaten.js"
@@ -536,7 +536,7 @@ window.SONG_DATA.push(
     {
   "title": "マリーゴールド",
   "artist": "あいみょん",
-  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "collection": "【Song Cover】[2026-07-25] Warmly welcome new viewers! Singing various songs mainly with Vocaloid-style🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=18",
   "source": "peruciaten.js"
@@ -544,7 +544,7 @@ window.SONG_DATA.push(
     {
   "title": "キセキ",
   "artist": "GReeeeN",
-  "collection": "【歌切】[2026-07-25]热烈欢迎新观众！以术力口为主演唱各种歌曲🌸",
+  "collection": "【Song Cover】[2026-07-25] Warmly welcome new viewers! Singing various songs mainly with Vocaloid-style🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xr3L6SEEn?p=19",
   "source": "peruciaten.js"
@@ -552,7 +552,7 @@ window.SONG_DATA.push(
     {
   "title": "あぶく",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "collection": "【Song Cut】[2026-07-31] Yorushika Limited!! How about a song before sleep?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=1",
   "source": "peruciaten.js"
@@ -560,7 +560,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "collection": "【Song Cut】[2026-07-31] Yorushika Limited!! How about a song before sleep?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=2",
   "source": "peruciaten.js"
@@ -568,7 +568,7 @@ window.SONG_DATA.push(
     {
   "title": "エルマ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "collection": "【Song Cut】[2026-07-31] Yorushika Limited!! How about a song before sleep?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=3",
   "source": "peruciaten.js"
@@ -576,7 +576,7 @@ window.SONG_DATA.push(
     {
   "title": "言って。",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "collection": "【Song Cut】[2026-07-31] Yorushika Limited!! How about a song before sleep?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=4",
   "source": "peruciaten.js"
@@ -584,7 +584,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ君に晴れ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "collection": "【Song Cut】[2026-07-31] Yorushika Limited!! How about a song before sleep?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=5",
   "source": "peruciaten.js"
@@ -592,7 +592,7 @@ window.SONG_DATA.push(
     {
   "title": "あの夏に咲け",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "collection": "【Song Cut】[2026-07-31] Yorushika Limited!! How about a song before sleep?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=6",
   "source": "peruciaten.js"
@@ -600,7 +600,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "collection": "【Song Cut】[2026-07-31] Yorushika Limited!! How about a song before sleep?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=7",
   "source": "peruciaten.js"
@@ -608,7 +608,7 @@ window.SONG_DATA.push(
     {
   "title": "八月、某、月明かり",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "collection": "【Song Cut】[2026-07-31] Yorushika Limited!! How about a song before sleep?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=8",
   "source": "peruciaten.js"
@@ -616,7 +616,7 @@ window.SONG_DATA.push(
     {
   "title": "夕凪、某、花惑い",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "collection": "【Song Cut】[2026-07-31] Yorushika Limited!! How about a song before sleep?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=9",
   "source": "peruciaten.js"
@@ -624,7 +624,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "collection": "【Song Cut】[2026-07-31] Yorushika Limited!! How about a song before sleep?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=10",
   "source": "peruciaten.js"
@@ -632,7 +632,7 @@ window.SONG_DATA.push(
     {
   "title": "思想犯",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "collection": "【Song Cut】[2026-07-31] Yorushika Limited!! How about a song before sleep?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=11",
   "source": "peruciaten.js"
@@ -640,7 +640,7 @@ window.SONG_DATA.push(
     {
   "title": "藍二乗",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "collection": "【Song Cut】[2026-07-31] Yorushika Limited!! How about a song before sleep?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=12",
   "source": "peruciaten.js"
@@ -648,7 +648,7 @@ window.SONG_DATA.push(
     {
   "title": "魔性",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "collection": "【Song Cut】[2026-07-31] Yorushika Limited!! How about a song before sleep?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=13",
   "source": "peruciaten.js"
@@ -656,7 +656,7 @@ window.SONG_DATA.push(
     {
   "title": "千鳥",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "collection": "【Song Cut】[2026-07-31] Yorushika Limited!! How about a song before sleep?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=14",
   "source": "peruciaten.js"
@@ -664,7 +664,7 @@ window.SONG_DATA.push(
     {
   "title": "心に穴が空いた",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "collection": "【Song Cut】[2026-07-31] Yorushika Limited!! How about a song before sleep?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=15",
   "source": "peruciaten.js"
@@ -672,7 +672,7 @@ window.SONG_DATA.push(
     {
   "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "collection": "【Song Cut】[2026-07-31] Yorushika Limited!! How about a song before sleep?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=16",
   "source": "peruciaten.js"
@@ -680,7 +680,7 @@ window.SONG_DATA.push(
     {
   "title": "unravel",
   "artist": "TK from 凛として時雨",
-  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "collection": "【Song Cut】[2026-07-31] Yorushika Limited!! How about a song before sleep?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=17",
   "source": "peruciaten.js"
@@ -688,7 +688,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒッチコック",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-31]ヨルシカ限定！！睡前听一曲如何？",
+  "collection": "【Song Cut】[2026-07-31] Yorushika Limited!! How about a song before sleep?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ch3U6iEzW?p=18",
   "source": "peruciaten.js"
@@ -696,7 +696,7 @@ window.SONG_DATA.push(
     {
   "title": "告白予行練習",
   "artist": "HoneyWorks feat.GUMI",
-  "collection": "【歌切】[2026-08-02]唱HoneyWorks之类的歌！！唱酸甜青春歌曲！",
+  "collection": "[Song Clip] [2026-08-02] Singing HoneyWorks-style songs!! Singing sweet youthful songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=1",
   "source": "peruciaten.js"
@@ -704,7 +704,7 @@ window.SONG_DATA.push(
     {
   "title": "世界は恋に落ちている",
   "artist": "CHiCO with HoneyWorks",
-  "collection": "【歌切】[2026-08-02]唱HoneyWorks之类的歌！！唱酸甜青春歌曲！",
+  "collection": "[Song Clip] [2026-08-02] Singing HoneyWorks-style songs!! Singing sweet youthful songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=2",
   "source": "peruciaten.js"
@@ -712,7 +712,7 @@ window.SONG_DATA.push(
     {
   "title": "推し変なんて許さない!",
   "artist": "HoneyWorks feat.可不",
-  "collection": "【歌切】[2026-08-02]唱HoneyWorks之类的歌！！唱酸甜青春歌曲！",
+  "collection": "[Song Clip] [2026-08-02] Singing HoneyWorks-style songs!! Singing sweet youthful songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=3",
   "source": "peruciaten.js"
@@ -720,7 +720,7 @@ window.SONG_DATA.push(
     {
   "title": "今、恋がはじまれ。",
   "artist": "HoneyWorks feat.望月あずき(CV:高橋李依)",
-  "collection": "【歌切】[2026-08-02]唱HoneyWorks之类的歌！！唱酸甜青春歌曲！",
+  "collection": "[Song Clip] [2026-08-02] Singing HoneyWorks-style songs!! Singing sweet youthful songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=4",
   "source": "peruciaten.js"
@@ -728,7 +728,7 @@ window.SONG_DATA.push(
     {
   "title": "chocolate box",
   "artist": "一億円P feat.鏡音リン・鏡音レン",
-  "collection": "【歌切】[2026-08-02]唱HoneyWorks之类的歌！！唱酸甜青春歌曲！",
+  "collection": "[Song Clip] [2026-08-02] Singing HoneyWorks-style songs!! Singing sweet youthful songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=5",
   "source": "peruciaten.js"
@@ -736,7 +736,7 @@ window.SONG_DATA.push(
     {
   "title": "今好きになる。",
   "artist": "HoneyWorks feat.初音ミク",
-  "collection": "【歌切】[2026-08-02]唱HoneyWorks之类的歌！！唱酸甜青春歌曲！",
+  "collection": "[Song Clip] [2026-08-02] Singing HoneyWorks-style songs!! Singing sweet youthful songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=6",
   "source": "peruciaten.js"
@@ -744,7 +744,7 @@ window.SONG_DATA.push(
     {
   "title": "ノスタルジックレインフォール",
   "artist": "CHiCO with HoneyWorks",
-  "collection": "【歌切】[2026-08-02]唱HoneyWorks之类的歌！！唱酸甜青春歌曲！",
+  "collection": "[Song Clip] [2026-08-02] Singing HoneyWorks-style songs!! Singing sweet youthful songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=7",
   "source": "peruciaten.js"
@@ -752,7 +752,7 @@ window.SONG_DATA.push(
     {
   "title": "StaRt",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-08-02]唱HoneyWorks之类的歌！！唱酸甜青春歌曲！",
+  "collection": "[Song Clip] [2026-08-02] Singing HoneyWorks-style songs!! Singing sweet youthful songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=8",
   "source": "peruciaten.js"
@@ -760,7 +760,7 @@ window.SONG_DATA.push(
     {
   "title": "サインはB -アイ Solo Ver.-",
   "artist": "アイ(CV:高橋李依)",
-  "collection": "【歌切】[2026-08-02]唱HoneyWorks之类的歌！！唱酸甜青春歌曲！",
+  "collection": "[Song Clip] [2026-08-02] Singing HoneyWorks-style songs!! Singing sweet youthful songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=9",
   "source": "peruciaten.js"
@@ -768,7 +768,7 @@ window.SONG_DATA.push(
     {
   "title": "病名恋ワズライ",
   "artist": "HoneyWorks feat.GUMI",
-  "collection": "【歌切】[2026-08-02]唱HoneyWorks之类的歌！！唱酸甜青春歌曲！",
+  "collection": "[Song Clip] [2026-08-02] Singing HoneyWorks-style songs!! Singing sweet youthful songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=10",
   "source": "peruciaten.js"
@@ -776,7 +776,7 @@ window.SONG_DATA.push(
     {
   "title": "ヤキモチの答え-another story",
   "artist": "HoneyWorks feat.初音ミク",
-  "collection": "【歌切】[2026-08-02]唱HoneyWorks之类的歌！！唱酸甜青春歌曲！",
+  "collection": "[Song Clip] [2026-08-02] Singing HoneyWorks-style songs!! Singing sweet youthful songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=11",
   "source": "peruciaten.js"
@@ -784,7 +784,7 @@ window.SONG_DATA.push(
     {
   "title": "東京サマーセッション",
   "artist": "HoneyWorks feat.GUMI・v flower",
-  "collection": "【歌切】[2026-08-02]唱HoneyWorks之类的歌！！唱酸甜青春歌曲！",
+  "collection": "[Song Clip] [2026-08-02] Singing HoneyWorks-style songs!! Singing sweet youthful songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=12",
   "source": "peruciaten.js"
@@ -792,7 +792,7 @@ window.SONG_DATA.push(
     {
   "title": "アウターサイエンス",
   "artist": "じん feat.IA",
-  "collection": "【歌切】[2026-08-02]唱HoneyWorks之类的歌！！唱酸甜青春歌曲！",
+  "collection": "[Song Clip] [2026-08-02] Singing HoneyWorks-style songs!! Singing sweet youthful songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=13",
   "source": "peruciaten.js"
@@ -800,7 +800,7 @@ window.SONG_DATA.push(
     {
   "title": "ねぇねぇねぇ。",
   "artist": "ピノキオピー feat.鏡音リン・初音ミク",
-  "collection": "【歌切】[2026-08-02]唱HoneyWorks之类的歌！！唱酸甜青春歌曲！",
+  "collection": "[Song Clip] [2026-08-02] Singing HoneyWorks-style songs!! Singing sweet youthful songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=14",
   "source": "peruciaten.js"
@@ -808,7 +808,7 @@ window.SONG_DATA.push(
     {
   "title": "オツキミリサイタル",
   "artist": "じん feat.IA",
-  "collection": "【歌切】[2026-08-02]唱HoneyWorks之类的歌！！唱酸甜青春歌曲！",
+  "collection": "[Song Clip] [2026-08-02] Singing HoneyWorks-style songs!! Singing sweet youthful songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=15",
   "source": "peruciaten.js"
@@ -816,7 +816,7 @@ window.SONG_DATA.push(
     {
   "title": "東京サマーセッション",
   "artist": "HoneyWorks feat.GUMI・v flower",
-  "collection": "【歌切】[2026-08-02]唱HoneyWorks之类的歌！！唱酸甜青春歌曲！",
+  "collection": "[Song Clip] [2026-08-02] Singing HoneyWorks-style songs!! Singing sweet youthful songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=16",
   "source": "peruciaten.js"
@@ -824,7 +824,7 @@ window.SONG_DATA.push(
     {
   "title": "メランコリック",
   "artist": "Junky feat.鏡音リン",
-  "collection": "【歌切】[2026-08-02]唱HoneyWorks之类的歌！！唱酸甜青春歌曲！",
+  "collection": "[Song Clip] [2026-08-02] Singing HoneyWorks-style songs!! Singing sweet youthful songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=17",
   "source": "peruciaten.js"
@@ -832,7 +832,7 @@ window.SONG_DATA.push(
     {
   "title": "セカイ",
   "artist": "DECO*27×堀江晶太 feat.初音ミク",
-  "collection": "【歌切】[2026-08-02]唱HoneyWorks之类的歌！！唱酸甜青春歌曲！",
+  "collection": "[Song Clip] [2026-08-02] Singing HoneyWorks-style songs!! Singing sweet youthful songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fsMZ6SEwf?p=18",
   "source": "peruciaten.js"
@@ -840,7 +840,7 @@ window.SONG_DATA.push(
     {
   "title": "Snow halation",
   "artist": "μ's",
-  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "collection": "【Song Clip】[2026-08-13] Singing at noon, want to be discovered by new friends!! 🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=1",
   "source": "peruciaten.js"
@@ -848,7 +848,7 @@ window.SONG_DATA.push(
     {
   "title": "秒針を噛む",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "collection": "【Song Clip】[2026-08-13] Singing at noon, want to be discovered by new friends!! 🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=2",
   "source": "peruciaten.js"
@@ -856,7 +856,7 @@ window.SONG_DATA.push(
     {
   "title": "ロックな君とはお別れだ",
   "artist": "ツユ",
-  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "collection": "【Song Clip】[2026-08-13] Singing at noon, want to be discovered by new friends!! 🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=3",
   "source": "peruciaten.js"
@@ -864,7 +864,7 @@ window.SONG_DATA.push(
     {
   "title": "START:DASH!!",
   "artist": "μ's",
-  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "collection": "【Song Clip】[2026-08-13] Singing at noon, want to be discovered by new friends!! 🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=4",
   "source": "peruciaten.js"
@@ -872,7 +872,7 @@ window.SONG_DATA.push(
     {
   "title": "青空Jumping Heart",
   "artist": "Aqours",
-  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "collection": "【Song Clip】[2026-08-13] Singing at noon, want to be discovered by new friends!! 🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=5",
   "source": "peruciaten.js"
@@ -880,7 +880,7 @@ window.SONG_DATA.push(
     {
   "title": "深海少女",
   "artist": "ゆうゆ feat.初音ミク",
-  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "collection": "【Song Clip】[2026-08-13] Singing at noon, want to be discovered by new friends!! 🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=6",
   "source": "peruciaten.js"
@@ -888,7 +888,7 @@ window.SONG_DATA.push(
     {
   "title": "僕らだけの鼓動",
   "artist": "水瀬いのり",
-  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "collection": "【Song Clip】[2026-08-13] Singing at noon, want to be discovered by new friends!! 🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=7",
   "source": "peruciaten.js"
@@ -896,7 +896,7 @@ window.SONG_DATA.push(
     {
   "title": "粛聖!! ロリ神レクイエム☆",
   "artist": "しぐれうい",
-  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "collection": "【Song Clip】[2026-08-13] Singing at noon, want to be discovered by new friends!! 🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=8",
   "source": "peruciaten.js"
@@ -904,7 +904,7 @@ window.SONG_DATA.push(
     {
   "title": "輝夜の城で踊りたい",
   "artist": "μ's",
-  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "collection": "【Song Clip】[2026-08-13] Singing at noon, want to be discovered by new friends!! 🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=9",
   "source": "peruciaten.js"
@@ -912,7 +912,7 @@ window.SONG_DATA.push(
     {
   "title": "チーズケーキクライシス",
   "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
-  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "collection": "【Song Clip】[2026-08-13] Singing at noon, want to be discovered by new friends!! 🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=10",
   "source": "peruciaten.js"
@@ -920,7 +920,7 @@ window.SONG_DATA.push(
     {
   "title": "美少女無罪♡パイレーツ",
   "artist": "宝鐘マリン",
-  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "collection": "【Song Clip】[2026-08-13] Singing at noon, want to be discovered by new friends!! 🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=11",
   "source": "peruciaten.js"
@@ -928,7 +928,7 @@ window.SONG_DATA.push(
     {
   "title": "神のまにまに",
   "artist": "れるりり feat.初音ミク・鏡音リン・GUMI",
-  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "collection": "【Song Clip】[2026-08-13] Singing at noon, want to be discovered by new friends!! 🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=12",
   "source": "peruciaten.js"
@@ -936,7 +936,7 @@ window.SONG_DATA.push(
     {
   "title": "ルカルカ★ナイトフィーバー",
   "artist": "samfree feat.巡音ルカ",
-  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "collection": "【Song Clip】[2026-08-13] Singing at noon, want to be discovered by new friends!! 🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=13",
   "source": "peruciaten.js"
@@ -944,7 +944,7 @@ window.SONG_DATA.push(
     {
   "title": "コネクト",
   "artist": "ClariS",
-  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "collection": "【Song Clip】[2026-08-13] Singing at noon, want to be discovered by new friends!! 🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=14",
   "source": "peruciaten.js"
@@ -952,7 +952,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛サーキュレーション",
   "artist": "花澤香菜",
-  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "collection": "【Song Clip】[2026-08-13] Singing at noon, want to be discovered by new friends!! 🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=15",
   "source": "peruciaten.js"
@@ -960,7 +960,7 @@ window.SONG_DATA.push(
     {
   "title": "ヤラララ(ワンフレーズ)",
   "artist": "AnythingBecomeMoe feat.重音テト",
-  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "collection": "【Song Clip】[2026-08-13] Singing at noon, want to be discovered by new friends!! 🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=16",
   "source": "peruciaten.js"
@@ -968,7 +968,7 @@ window.SONG_DATA.push(
     {
   "title": "愛言葉III",
   "artist": "DECO*27 feat.初音ミク",
-  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "collection": "【Song Clip】[2026-08-13] Singing at noon, want to be discovered by new friends!! 🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=17",
   "source": "peruciaten.js"
@@ -976,7 +976,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-13]中午开始唱歌，想被新朋友发现！！🎤",
+  "collection": "【Song Clip】[2026-08-13] Singing at noon, want to be discovered by new friends!! 🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RTbD6rESi?p=18",
   "source": "peruciaten.js"
@@ -984,7 +984,7 @@ window.SONG_DATA.push(
     {
   "title": "ホタルノヒカリ",
   "artist": "いきものがかり",
-  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "collection": "【Song Clip】[2026-09-19]Singing after a long time!! Welcome new viewers!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=1",
   "source": "peruciaten.js"
@@ -992,7 +992,7 @@ window.SONG_DATA.push(
     {
   "title": "あの夢をなぞって",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "collection": "【Song Clip】[2026-09-19]Singing after a long time!! Welcome new viewers!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=2",
   "source": "peruciaten.js"
@@ -1000,7 +1000,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "collection": "【Song Clip】[2026-09-19]Singing after a long time!! Welcome new viewers!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=3",
   "source": "peruciaten.js"
@@ -1008,7 +1008,7 @@ window.SONG_DATA.push(
     {
   "title": "ハルジオン",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "collection": "【Song Clip】[2026-09-19]Singing after a long time!! Welcome new viewers!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=4",
   "source": "peruciaten.js"
@@ -1016,7 +1016,7 @@ window.SONG_DATA.push(
     {
   "title": "勇者",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "collection": "【Song Clip】[2026-09-19]Singing after a long time!! Welcome new viewers!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=5",
   "source": "peruciaten.js"
@@ -1024,7 +1024,7 @@ window.SONG_DATA.push(
     {
   "title": "ヤラララ",
   "artist": "AnythingBecomeMoe feat.重音テト",
-  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "collection": "【Song Clip】[2026-09-19]Singing after a long time!! Welcome new viewers!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=6",
   "source": "peruciaten.js"
@@ -1032,7 +1032,7 @@ window.SONG_DATA.push(
     {
   "title": "IRIS OUT",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "collection": "【Song Clip】[2026-09-19]Singing after a long time!! Welcome new viewers!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=7",
   "source": "peruciaten.js"
@@ -1040,7 +1040,7 @@ window.SONG_DATA.push(
     {
   "title": "Bling-Bang-Bang-Born",
   "artist": "Creepy Nuts",
-  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "collection": "【Song Clip】[2026-09-19]Singing after a long time!! Welcome new viewers!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=8",
   "source": "peruciaten.js"
@@ -1048,7 +1048,7 @@ window.SONG_DATA.push(
     {
   "title": "たぶん",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "collection": "【Song Clip】[2026-09-19]Singing after a long time!! Welcome new viewers!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=9",
   "source": "peruciaten.js"
@@ -1056,7 +1056,7 @@ window.SONG_DATA.push(
     {
   "title": "かくれんぼ",
   "artist": "AliA",
-  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "collection": "【Song Clip】[2026-09-19]Singing after a long time!! Welcome new viewers!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=10",
   "source": "peruciaten.js"
@@ -1064,7 +1064,7 @@ window.SONG_DATA.push(
     {
   "title": "Pretender",
   "artist": "Official髭男dism",
-  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "collection": "【Song Clip】[2026-09-19]Singing after a long time!! Welcome new viewers!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=11",
   "source": "peruciaten.js"
@@ -1072,7 +1072,7 @@ window.SONG_DATA.push(
     {
   "title": "乙女解剖",
   "artist": "DECO*27 feat.初音ミク",
-  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "collection": "【Song Clip】[2026-09-19]Singing after a long time!! Welcome new viewers!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=12",
   "source": "peruciaten.js"
@@ -1080,7 +1080,7 @@ window.SONG_DATA.push(
     {
   "title": "残響散歌",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "collection": "【Song Clip】[2026-09-19]Singing after a long time!! Welcome new viewers!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=13",
   "source": "peruciaten.js"
@@ -1088,7 +1088,7 @@ window.SONG_DATA.push(
     {
   "title": "crossing field",
   "artist": "LiSA",
-  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "collection": "【Song Clip】[2026-09-19]Singing after a long time!! Welcome new viewers!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=14",
   "source": "peruciaten.js"
@@ -1096,7 +1096,7 @@ window.SONG_DATA.push(
     {
   "title": "Wake up!",
   "artist": "AAA",
-  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "collection": "【Song Clip】[2026-09-19]Singing after a long time!! Welcome new viewers!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=15",
   "source": "peruciaten.js"
@@ -1104,7 +1104,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピーシンセサイザ",
   "artist": "EasyPop feat.巡音ルカ&GUMI",
-  "collection": "【歌切】[2026-09-19]久违地唱歌啦！！欢迎新观众！",
+  "collection": "【Song Clip】[2026-09-19]Singing after a long time!! Welcome new viewers!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15Hev6yEok?p=16",
   "source": "peruciaten.js"
@@ -1112,7 +1112,7 @@ window.SONG_DATA.push(
     {
   "title": "わたしの一番かわいいところ",
   "artist": "FRUITS ZIPPER",
-  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "collection": "【Song Clip】[2026-09-26] Practiced some cute songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=1",
   "source": "peruciaten.js"
@@ -1120,7 +1120,7 @@ window.SONG_DATA.push(
     {
   "title": "とくべチュ、して",
   "artist": "=LOVE",
-  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "collection": "【Song Clip】[2026-09-26] Practiced some cute songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=2",
   "source": "peruciaten.js"
@@ -1128,7 +1128,7 @@ window.SONG_DATA.push(
     {
   "title": "お願いマッスル",
   "artist": "紗倉ひびき(ファイルーズあい)＆街雄鳴造(石川界人)",
-  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "collection": "【Song Clip】[2026-09-26] Practiced some cute songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=3",
   "source": "peruciaten.js"
@@ -1136,7 +1136,7 @@ window.SONG_DATA.push(
     {
   "title": "私は、わたしの事が好き。",
   "artist": "HoneyWorks feat.かぐや(CV:夏吉ゆうこ)",
-  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "collection": "【Song Clip】[2026-09-26] Practiced some cute songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=4",
   "source": "peruciaten.js"
@@ -1144,7 +1144,7 @@ window.SONG_DATA.push(
     {
   "title": "POP IN 2",
   "artist": "B小町",
-  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "collection": "【Song Clip】[2026-09-26] Practiced some cute songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=5",
   "source": "peruciaten.js"
@@ -1152,7 +1152,7 @@ window.SONG_DATA.push(
     {
   "title": "愛言葉III",
   "artist": "DECO*27 feat.初音ミク",
-  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "collection": "【Song Clip】[2026-09-26] Practiced some cute songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=6",
   "source": "peruciaten.js"
@@ -1160,7 +1160,7 @@ window.SONG_DATA.push(
     {
   "title": "我ら完全無敵のアイドル!!",
   "artist": "B小町",
-  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "collection": "【Song Clip】[2026-09-26] Practiced some cute songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=7",
   "source": "peruciaten.js"
@@ -1168,7 +1168,7 @@ window.SONG_DATA.push(
     {
   "title": "テレパシ",
   "artist": "DECO*27 feat.初音ミク",
-  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "collection": "【Song Clip】[2026-09-26] Practiced some cute songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=8",
   "source": "peruciaten.js"
@@ -1176,7 +1176,7 @@ window.SONG_DATA.push(
     {
   "title": "モニタリング",
   "artist": "DECO*27 feat.初音ミク",
-  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "collection": "【Song Clip】[2026-09-26] Practiced some cute songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=9",
   "source": "peruciaten.js"
@@ -1184,7 +1184,7 @@ window.SONG_DATA.push(
     {
   "title": "ロストワンの号哭",
   "artist": "Neru feat.鏡音リン",
-  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "collection": "【Song Clip】[2026-09-26] Practiced some cute songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=10",
   "source": "peruciaten.js"
@@ -1192,7 +1192,7 @@ window.SONG_DATA.push(
     {
   "title": "INTERNET OVERDOSE",
   "artist": "Aiobahn feat.KOTOKO",
-  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "collection": "【Song Clip】[2026-09-26] Practiced some cute songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=11",
   "source": "peruciaten.js"
@@ -1200,7 +1200,7 @@ window.SONG_DATA.push(
     {
   "title": "ライオン",
   "artist": "May'n、中島愛",
-  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "collection": "【Song Clip】[2026-09-26] Practiced some cute songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=12",
   "source": "peruciaten.js"
@@ -1208,7 +1208,7 @@ window.SONG_DATA.push(
     {
   "title": "モエチャッカファイア",
   "artist": "弌誠",
-  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "collection": "【Song Clip】[2026-09-26] Practiced some cute songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=13",
   "source": "peruciaten.js"
@@ -1216,7 +1216,7 @@ window.SONG_DATA.push(
     {
   "title": "キャットラビング",
   "artist": "香椎モイミ feat.可不",
-  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "collection": "【Song Clip】[2026-09-26] Practiced some cute songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=14",
   "source": "peruciaten.js"
@@ -1224,7 +1224,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピーシンセサイザ",
   "artist": "EasyPop feat.巡音ルカ・GUMI",
-  "collection": "【歌切】[2026-09-26]练了些可爱的歌！",
+  "collection": "【Song Clip】[2026-09-26] Practiced some cute songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EiaY6zE71?p=15",
   "source": "peruciaten.js"
@@ -1232,7 +1232,7 @@ window.SONG_DATA.push(
     {
   "title": "only my railgun",
   "artist": "fripSide",
-  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "collection": "【Song Clip】[2026-10-04] Birthday Girl Is Here to Sing!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=1",
   "source": "peruciaten.js"
@@ -1240,7 +1240,7 @@ window.SONG_DATA.push(
     {
   "title": "猫日",
   "artist": "suis from ヨルシカ",
-  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "collection": "【Song Clip】[2026-10-04] Birthday Girl Is Here to Sing!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=2",
   "source": "peruciaten.js"
@@ -1248,7 +1248,7 @@ window.SONG_DATA.push(
     {
   "title": "愛包ダンスホール",
   "artist": "HIMEHINA",
-  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "collection": "【Song Clip】[2026-10-04] Birthday Girl Is Here to Sing!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=3",
   "source": "peruciaten.js"
@@ -1256,7 +1256,7 @@ window.SONG_DATA.push(
     {
   "title": "おジャ魔女カーニバル!!",
   "artist": "MAHO堂",
-  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "collection": "【Song Clip】[2026-10-04] Birthday Girl Is Here to Sing!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=4",
   "source": "peruciaten.js"
@@ -1264,7 +1264,7 @@ window.SONG_DATA.push(
     {
   "title": "さくらんぼ",
   "artist": "大塚愛",
-  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "collection": "【Song Clip】[2026-10-04] Birthday Girl Is Here to Sing!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=5",
   "source": "peruciaten.js"
@@ -1272,7 +1272,7 @@ window.SONG_DATA.push(
     {
   "title": "ヘビーローテーション",
   "artist": "AKB48",
-  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "collection": "【Song Clip】[2026-10-04] Birthday Girl Is Here to Sing!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=6",
   "source": "peruciaten.js"
@@ -1280,7 +1280,7 @@ window.SONG_DATA.push(
     {
   "title": "ポニーテールとシュシュ",
   "artist": "AKB48",
-  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "collection": "【Song Clip】[2026-10-04] Birthday Girl Is Here to Sing!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=7",
   "source": "peruciaten.js"
@@ -1288,7 +1288,7 @@ window.SONG_DATA.push(
     {
   "title": "ヴァンパイア",
   "artist": "DECO*27 feat.初音ミク",
-  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "collection": "【Song Clip】[2026-10-04] Birthday Girl Is Here to Sing!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=8",
   "source": "peruciaten.js"
@@ -1296,7 +1296,7 @@ window.SONG_DATA.push(
     {
   "title": "粛聖!!ロリ神レクイエム☆",
   "artist": "しぐれうい",
-  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "collection": "【Song Clip】[2026-10-04] Birthday Girl Is Here to Sing!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=9",
   "source": "peruciaten.js"
@@ -1304,7 +1304,7 @@ window.SONG_DATA.push(
     {
   "title": "かわいいだけじゃだめですか？",
   "artist": "CUTIE STREET",
-  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "collection": "【Song Clip】[2026-10-04] Birthday Girl Is Here to Sing!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=10",
   "source": "peruciaten.js"
@@ -1312,7 +1312,7 @@ window.SONG_DATA.push(
     {
   "title": "God knows...",
   "artist": "涼宮ハルヒ(CV.平野綾)",
-  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "collection": "【Song Clip】[2026-10-04] Birthday Girl Is Here to Sing!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=11",
   "source": "peruciaten.js"
@@ -1320,7 +1320,7 @@ window.SONG_DATA.push(
     {
   "title": "デビルじゃないもん",
   "artist": "DECO*27×ピノキオピー feat.初音ミク",
-  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "collection": "【Song Clip】[2026-10-04] Birthday Girl Is Here to Sing!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=12",
   "source": "peruciaten.js"
@@ -1328,7 +1328,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "collection": "【Song Clip】[2026-10-04] Birthday Girl Is Here to Sing!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=13",
   "source": "peruciaten.js"
@@ -1336,7 +1336,7 @@ window.SONG_DATA.push(
     {
   "title": "Starry Wish",
   "artist": "水瀬いのり",
-  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "collection": "【Song Clip】[2026-10-04] Birthday Girl Is Here to Sing!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=14",
   "source": "peruciaten.js"
@@ -1344,7 +1344,7 @@ window.SONG_DATA.push(
     {
   "title": "カウントダウンラブ",
   "artist": "I'm a Cutie Finder",
-  "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
+  "collection": "【Song Clip】[2026-10-04] Birthday Girl Is Here to Sing!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=15",
   "source": "peruciaten.js"

@@ -1,6 +1,6 @@
 // 音門るき - 歌单数据 (多合集汇总)
 // 来源: BV1zzZPBsEum
-// 生成时间: 10/21/2026, 5:44:20 AM
+// 生成时间: 10/21/2026, 9:56:11 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8,7 +8,7 @@ window.SONG_DATA.push(
     {
   "title": "水流のロック",
   "artist": "日食なつこ [oQWgRoFaWqE]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=1",
   "source": "otomoneruki.js"
@@ -16,7 +16,7 @@ window.SONG_DATA.push(
     {
   "title": "ジョバイロ",
   "artist": "ポルノグラフィティ [oQWgRoFaWqE]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=2",
   "source": "otomoneruki.js"
@@ -24,7 +24,7 @@ window.SONG_DATA.push(
     {
   "title": "以心電信",
   "artist": "ORANGE RANGE [oQWgRoFaWqE]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=3",
   "source": "otomoneruki.js"
@@ -32,7 +32,7 @@ window.SONG_DATA.push(
     {
   "title": "ダーリン",
   "artist": "須田景凪 [oQWgRoFaWqE]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=4",
   "source": "otomoneruki.js"
@@ -40,7 +40,7 @@ window.SONG_DATA.push(
     {
   "title": "月光花",
   "artist": "Janne Da Arc [oQWgRoFaWqE]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=5",
   "source": "otomoneruki.js"
@@ -48,7 +48,7 @@ window.SONG_DATA.push(
     {
   "title": "Bling-Bang-Bang-Born",
   "artist": "Creepy Nuts [oQWgRoFaWqE]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=6",
   "source": "otomoneruki.js"
@@ -56,7 +56,7 @@ window.SONG_DATA.push(
     {
   "title": "踊り子",
   "artist": "Vaundy [oQWgRoFaWqE]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=7",
   "source": "otomoneruki.js"
@@ -64,7 +64,7 @@ window.SONG_DATA.push(
     {
   "title": "CITRUS",
   "artist": "Da-iCE [oQWgRoFaWqE]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=8",
   "source": "otomoneruki.js"
@@ -72,7 +72,7 @@ window.SONG_DATA.push(
     {
   "title": "新宝島",
   "artist": "サカナクション [oQWgRoFaWqE]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=9",
   "source": "otomoneruki.js"
@@ -80,7 +80,7 @@ window.SONG_DATA.push(
     {
   "title": "恋",
   "artist": "星野源 [oQWgRoFaWqE]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=10",
   "source": "otomoneruki.js"
@@ -88,7 +88,7 @@ window.SONG_DATA.push(
     {
   "title": "ほうき星",
   "artist": "ユンナ [oQWgRoFaWqE]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=11",
   "source": "otomoneruki.js"
@@ -96,7 +96,7 @@ window.SONG_DATA.push(
     {
   "title": "燈",
   "artist": "崎山蒼志 [oQWgRoFaWqE]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=12",
   "source": "otomoneruki.js"
@@ -104,7 +104,7 @@ window.SONG_DATA.push(
     {
   "title": "fake face dance music",
   "artist": "音田雅則 [oQWgRoFaWqE]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=13",
   "source": "otomoneruki.js"
@@ -112,7 +112,7 @@ window.SONG_DATA.push(
     {
   "title": "残酷な天使のテーゼ",
   "artist": "高橋洋子 [oQWgRoFaWqE]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=14",
   "source": "otomoneruki.js"
@@ -120,7 +120,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna [oQWgRoFaWqE]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=15",
   "source": "otomoneruki.js"
@@ -128,7 +128,7 @@ window.SONG_DATA.push(
     {
   "title": "カサブタ",
   "artist": "千綿ヒデノリ [oQWgRoFaWqE]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=16",
   "source": "otomoneruki.js"
@@ -136,7 +136,7 @@ window.SONG_DATA.push(
     {
   "title": "オレンジ",
   "artist": "SPYAIR [oQWgRoFaWqE]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=17",
   "source": "otomoneruki.js"
@@ -144,7 +144,7 @@ window.SONG_DATA.push(
     {
   "title": "小さな恋の歌",
   "artist": "MONGOL800 [oQWgRoFaWqE]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=18",
   "source": "otomoneruki.js"
@@ -152,7 +152,7 @@ window.SONG_DATA.push(
     {
   "title": "アイドル",
   "artist": "YOASOBI [oQWgRoFaWqE]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=19",
   "source": "otomoneruki.js"
@@ -160,7 +160,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE [oQWgRoFaWqE]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=20",
   "source": "otomoneruki.js"
@@ -168,7 +168,7 @@ window.SONG_DATA.push(
     {
   "title": "calc.",
   "artist": "ジミーサムP [oQWgRoFaWqE]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=21",
   "source": "otomoneruki.js"
@@ -176,7 +176,7 @@ window.SONG_DATA.push(
     {
   "title": "きっとビタミン",
   "artist": "音門るき [oQWgRoFaWqE]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=22",
   "source": "otomoneruki.js"
@@ -184,7 +184,7 @@ window.SONG_DATA.push(
     {
   "title": "Starlight Parade",
   "artist": "SEKAI NO OWARI [SdfDBhgwGt0]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=23",
   "source": "otomoneruki.js"
@@ -192,7 +192,7 @@ window.SONG_DATA.push(
     {
   "title": "クリスマスソング",
   "artist": "back number [SdfDBhgwGt0]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=24",
   "source": "otomoneruki.js"
@@ -200,7 +200,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピークリスマスパーティ",
   "artist": "HoneyWorks [SdfDBhgwGt0]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=25",
   "source": "otomoneruki.js"
@@ -208,7 +208,7 @@ window.SONG_DATA.push(
     {
   "title": "恋人がサンタクロース",
   "artist": "松任谷由実 [SdfDBhgwGt0]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=26",
   "source": "otomoneruki.js"
@@ -216,7 +216,7 @@ window.SONG_DATA.push(
     {
   "title": "clock lock works",
   "artist": "ハチ [SdfDBhgwGt0]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=27",
   "source": "otomoneruki.js"
@@ -224,7 +224,7 @@ window.SONG_DATA.push(
     {
   "title": "抱きしめたいほど美しい日々に",
   "artist": "くじら [SdfDBhgwGt0]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=28",
   "source": "otomoneruki.js"
@@ -232,7 +232,7 @@ window.SONG_DATA.push(
     {
   "title": "いつかのメリークリスマス",
   "artist": "B'z [SdfDBhgwGt0]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=29",
   "source": "otomoneruki.js"
@@ -240,7 +240,7 @@ window.SONG_DATA.push(
     {
   "title": "Overdose",
   "artist": "なとり [SdfDBhgwGt0]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=30",
   "source": "otomoneruki.js"
@@ -248,7 +248,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛サーキュレーション",
   "artist": "千石撫子(CV.花澤香菜) [SdfDBhgwGt0]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=31",
   "source": "otomoneruki.js"
@@ -256,7 +256,7 @@ window.SONG_DATA.push(
     {
   "title": "メリクリ",
   "artist": "BoA [SdfDBhgwGt0]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=32",
   "source": "otomoneruki.js"
@@ -264,7 +264,7 @@ window.SONG_DATA.push(
     {
   "title": "GOOD DAY",
   "artist": "Mrs. GREEN APPLE [SdfDBhgwGt0]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=33",
   "source": "otomoneruki.js"
@@ -272,7 +272,7 @@ window.SONG_DATA.push(
     {
   "title": "メーベル",
   "artist": "flower [ES-BQ_cVg7s]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=34",
   "source": "otomoneruki.js"
@@ -280,7 +280,7 @@ window.SONG_DATA.push(
     {
   "title": "シャルル",
   "artist": "flower [ES-BQ_cVg7s]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=35",
   "source": "otomoneruki.js"
@@ -288,7 +288,7 @@ window.SONG_DATA.push(
     {
   "title": "空も飛べるはず",
   "artist": "スピッツ [ES-BQ_cVg7s]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=36",
   "source": "otomoneruki.js"
@@ -296,7 +296,7 @@ window.SONG_DATA.push(
     {
   "title": "はじめてのチュウ",
   "artist": "あんしんパパ [ES-BQ_cVg7s]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=37",
   "source": "otomoneruki.js"
@@ -304,7 +304,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell [ES-BQ_cVg7s]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=38",
   "source": "otomoneruki.js"
@@ -312,7 +312,7 @@ window.SONG_DATA.push(
     {
   "title": "悪者",
   "artist": "くじら [ES-BQ_cVg7s]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=39",
   "source": "otomoneruki.js"
@@ -320,7 +320,7 @@ window.SONG_DATA.push(
     {
   "title": "幽霊東京",
   "artist": "Ayase [ES-BQ_cVg7s]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=40",
   "source": "otomoneruki.js"
@@ -328,7 +328,7 @@ window.SONG_DATA.push(
     {
   "title": "キセキ",
   "artist": "GReeeeN [ES-BQ_cVg7s]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=41",
   "source": "otomoneruki.js"
@@ -336,7 +336,7 @@ window.SONG_DATA.push(
     {
   "title": "心拍数♯0822",
   "artist": "蝶々P feat. 初音ミク[ES-BQ_cVg7s]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=42",
   "source": "otomoneruki.js"
@@ -344,7 +344,7 @@ window.SONG_DATA.push(
     {
   "title": "ブラックロック★シューター",
   "artist": "supercell [ES-BQ_cVg7s]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=43",
   "source": "otomoneruki.js"
@@ -352,7 +352,7 @@ window.SONG_DATA.push(
     {
   "title": "月のワルツ",
   "artist": "諫山実生 [ES-BQ_cVg7s]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=44",
   "source": "otomoneruki.js"
@@ -360,7 +360,7 @@ window.SONG_DATA.push(
     {
   "title": "ウィーアー！",
   "artist": "きただにひろし [ES-BQ_cVg7s]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=45",
   "source": "otomoneruki.js"
@@ -368,7 +368,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師 [0-h980biI2o]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=46",
   "source": "otomoneruki.js"
@@ -376,7 +376,7 @@ window.SONG_DATA.push(
     {
   "title": "死ぬな！",
   "artist": "こっちのけんと [0-h980biI2o]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=47",
   "source": "otomoneruki.js"
@@ -384,7 +384,7 @@ window.SONG_DATA.push(
     {
   "title": "水平線",
   "artist": "back number [0-h980biI2o]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=48",
   "source": "otomoneruki.js"
@@ -392,7 +392,7 @@ window.SONG_DATA.push(
     {
   "title": "ココロオドル",
   "artist": "Nobodyknows [0-h980biI2o]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=49",
   "source": "otomoneruki.js"
@@ -400,7 +400,7 @@ window.SONG_DATA.push(
     {
   "title": "IRIS OUT",
   "artist": "米津玄師 [0-h980biI2o]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=50",
   "source": "otomoneruki.js"
@@ -408,7 +408,7 @@ window.SONG_DATA.push(
     {
   "title": "カルマ",
   "artist": "BUMP OF CHICKEN [0-h980biI2o]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=51",
   "source": "otomoneruki.js"
@@ -416,7 +416,7 @@ window.SONG_DATA.push(
     {
   "title": "真っ赤な誓い",
   "artist": "福山芳樹 [0-h980biI2o]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=52",
   "source": "otomoneruki.js"
@@ -424,7 +424,7 @@ window.SONG_DATA.push(
     {
   "title": "アイネクライネ",
   "artist": "米津玄師 [0-h980biI2o]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=53",
   "source": "otomoneruki.js"
@@ -432,7 +432,7 @@ window.SONG_DATA.push(
     {
   "title": "BOW AND ARROW",
   "artist": "米津玄師 [0-h980biI2o]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=54",
   "source": "otomoneruki.js"
@@ -440,7 +440,7 @@ window.SONG_DATA.push(
     {
   "title": "ぎゅっと。",
   "artist": "もさを。 [0-h980biI2o]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=55",
   "source": "otomoneruki.js"
@@ -448,7 +448,7 @@ window.SONG_DATA.push(
     {
   "title": "神のまにまに",
   "artist": "れるりり [0-h980biI2o]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=56",
   "source": "otomoneruki.js"
@@ -456,7 +456,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON [0-h980biI2o]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=57",
   "source": "otomoneruki.js"
@@ -464,7 +464,7 @@ window.SONG_DATA.push(
     {
   "title": "最高到達点",
   "artist": "SEKAI NO OWARI [zsfr5X5KE1A]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=58",
   "source": "otomoneruki.js"
@@ -472,7 +472,7 @@ window.SONG_DATA.push(
     {
   "title": "瞬き",
   "artist": "back number [zsfr5X5KE1A]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=59",
   "source": "otomoneruki.js"
@@ -480,7 +480,7 @@ window.SONG_DATA.push(
     {
   "title": "気まぐれロマンティック",
   "artist": "いきものがかり [zsfr5X5KE1A]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=60",
   "source": "otomoneruki.js"
@@ -488,7 +488,7 @@ window.SONG_DATA.push(
     {
   "title": "勇者",
   "artist": "YOASOBI [zsfr5X5KE1A]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=61",
   "source": "otomoneruki.js"
@@ -496,7 +496,7 @@ window.SONG_DATA.push(
     {
   "title": "ピースサイン",
   "artist": "米津玄師 [zsfr5X5KE1A]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=62",
   "source": "otomoneruki.js"
@@ -504,7 +504,7 @@ window.SONG_DATA.push(
     {
   "title": "ひゅるりらぱっぱ",
   "artist": "tuki. [zsfr5X5KE1A]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=63",
   "source": "otomoneruki.js"
@@ -512,7 +512,7 @@ window.SONG_DATA.push(
     {
   "title": "夜桜お七",
   "artist": "坂本冬美 [zsfr5X5KE1A]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=64",
   "source": "otomoneruki.js"
@@ -520,7 +520,7 @@ window.SONG_DATA.push(
     {
   "title": "可愛くなりたい",
   "artist": "HoneyWorks [zsfr5X5KE1A]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=65",
   "source": "otomoneruki.js"
@@ -528,7 +528,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy [zsfr5X5KE1A]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=66",
   "source": "otomoneruki.js"
@@ -536,7 +536,7 @@ window.SONG_DATA.push(
     {
   "title": "シリョクケンサ",
   "artist": "40mP feat. GUMI [zsfr5X5KE1A]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=67",
   "source": "otomoneruki.js"
@@ -544,7 +544,7 @@ window.SONG_DATA.push(
     {
   "title": "おちゃめ機能",
   "artist": "ゴジマジP feat. 重音テト [zsfr5X5KE1A]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=68",
   "source": "otomoneruki.js"
@@ -552,7 +552,7 @@ window.SONG_DATA.push(
     {
   "title": "雨傘",
   "artist": "TOKIO [zsfr5X5KE1A]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=69",
   "source": "otomoneruki.js"
@@ -560,7 +560,7 @@ window.SONG_DATA.push(
     {
   "title": "白い雪のプリンセスは",
   "artist": "のぼる↑↑ feat. 初音ミク [zsfr5X5KE1A]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=70",
   "source": "otomoneruki.js"
@@ -568,7 +568,7 @@ window.SONG_DATA.push(
     {
   "title": "クスシキ",
   "artist": "Mrs. GREEN APPLE [zsfr5X5KE1A]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=71",
   "source": "otomoneruki.js"
@@ -576,7 +576,7 @@ window.SONG_DATA.push(
     {
   "title": "ラフメイカー",
   "artist": "BUMP OF CHICKEN [zsfr5X5KE1A]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=72",
   "source": "otomoneruki.js"
@@ -584,7 +584,7 @@ window.SONG_DATA.push(
     {
   "title": "オリオンをなぞる",
   "artist": "UNISON SQUARE GARDEN [zsfr5X5KE1A]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=73",
   "source": "otomoneruki.js"
@@ -592,7 +592,7 @@ window.SONG_DATA.push(
     {
   "title": "一斉の声",
   "artist": "喜多修平 [c4v6vIXzqFs]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=74",
   "source": "otomoneruki.js"
@@ -600,7 +600,7 @@ window.SONG_DATA.push(
     {
   "title": "あの日タイムマシン",
   "artist": "LONG SHOT PART [c4v6vIXzqFs]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=75",
   "source": "otomoneruki.js"
@@ -608,7 +608,7 @@ window.SONG_DATA.push(
     {
   "title": "アイデア",
   "artist": "星野源 [c4v6vIXzqFs]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=76",
   "source": "otomoneruki.js"
@@ -616,7 +616,7 @@ window.SONG_DATA.push(
     {
   "title": "嫌々",
   "artist": "HALVES [c4v6vIXzqFs]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=77",
   "source": "otomoneruki.js"
@@ -624,7 +624,7 @@ window.SONG_DATA.push(
     {
   "title": "なんでもないよ、",
   "artist": "マカロニえんぴつ [c4v6vIXzqFs]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=78",
   "source": "otomoneruki.js"
@@ -632,7 +632,7 @@ window.SONG_DATA.push(
     {
   "title": "じょいふる",
   "artist": "いきものがかり [c4v6vIXzqFs]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=79",
   "source": "otomoneruki.js"
@@ -640,7 +640,7 @@ window.SONG_DATA.push(
     {
   "title": "シュガーソングとビターステップ",
   "artist": "UNISON SQUARE GARDEN [c4v6vIXzqFs]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=80",
   "source": "otomoneruki.js"
@@ -648,7 +648,7 @@ window.SONG_DATA.push(
     {
   "title": "心絵",
   "artist": "ロードオブメジャー [c4v6vIXzqFs]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=81",
   "source": "otomoneruki.js"
@@ -656,7 +656,7 @@ window.SONG_DATA.push(
     {
   "title": "金曜日のおはよう",
   "artist": "HoneyWorks [d9oWMZOmREk]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=82",
   "source": "otomoneruki.js"
@@ -664,7 +664,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ [d9oWMZOmREk]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=83",
   "source": "otomoneruki.js"
@@ -672,7 +672,7 @@ window.SONG_DATA.push(
     {
   "title": "コロンブス",
   "artist": "Mrs. GREEN APPLE [d9oWMZOmREk]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=84",
   "source": "otomoneruki.js"
@@ -680,7 +680,7 @@ window.SONG_DATA.push(
     {
   "title": "毎日",
   "artist": "米津玄師 [d9oWMZOmREk]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=85",
   "source": "otomoneruki.js"
@@ -688,7 +688,7 @@ window.SONG_DATA.push(
     {
   "title": "ハロ／ハワユ",
   "artist": "ナノウ(ほえほえP) feat. 初音ミク [d9oWMZOmREk]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=86",
   "source": "otomoneruki.js"
@@ -696,7 +696,7 @@ window.SONG_DATA.push(
     {
   "title": "美しい鰭",
   "artist": "スピッツ [d9oWMZOmREk]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=87",
   "source": "otomoneruki.js"
@@ -704,7 +704,7 @@ window.SONG_DATA.push(
     {
   "title": "雫",
   "artist": "スキマスイッチ [d9oWMZOmREk]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=88",
   "source": "otomoneruki.js"
@@ -712,7 +712,7 @@ window.SONG_DATA.push(
     {
   "title": "メルト",
   "artist": "Supercell [d9oWMZOmREk]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=89",
   "source": "otomoneruki.js"
@@ -720,7 +720,7 @@ window.SONG_DATA.push(
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド [d9oWMZOmREk]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=90",
   "source": "otomoneruki.js"
@@ -728,7 +728,7 @@ window.SONG_DATA.push(
     {
   "title": "群青讃歌",
   "artist": "Eve [d9oWMZOmREk]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=91",
   "source": "otomoneruki.js"
@@ -736,7 +736,7 @@ window.SONG_DATA.push(
     {
   "title": "weeeek",
   "artist": "NEWS [d9oWMZOmREk]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=92",
   "source": "otomoneruki.js"
@@ -744,7 +744,7 @@ window.SONG_DATA.push(
     {
   "title": "Butter-Fly",
   "artist": "和田光司 [d9oWMZOmREk]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=93",
   "source": "otomoneruki.js"
@@ -752,7 +752,7 @@ window.SONG_DATA.push(
     {
   "title": "breakfast",
   "artist": "Mrs. GREEN APPLE [tergG-wuBOs]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=94",
   "source": "otomoneruki.js"
@@ -760,7 +760,7 @@ window.SONG_DATA.push(
     {
   "title": "東京",
   "artist": "くじら [tergG-wuBOs]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=95",
   "source": "otomoneruki.js"
@@ -768,7 +768,7 @@ window.SONG_DATA.push(
     {
   "title": "光のすみか",
   "artist": "安田レイ [tergG-wuBOs]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=96",
   "source": "otomoneruki.js"
@@ -776,7 +776,7 @@ window.SONG_DATA.push(
     {
   "title": "Walking with you",
   "artist": "Novelbright [tergG-wuBOs]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=97",
   "source": "otomoneruki.js"
@@ -784,7 +784,7 @@ window.SONG_DATA.push(
     {
   "title": "メロウ",
   "artist": "須田景凪 [tergG-wuBOs]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=98",
   "source": "otomoneruki.js"
@@ -792,7 +792,7 @@ window.SONG_DATA.push(
     {
   "title": "Blin-Bang-Bang-Born",
   "artist": "Creepy Nuts [tergG-wuBOs]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=99",
   "source": "otomoneruki.js"
@@ -800,7 +800,7 @@ window.SONG_DATA.push(
     {
   "title": "BLUE WATER",
   "artist": "森川美穂 [tergG-wuBOs]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=100",
   "source": "otomoneruki.js"
@@ -808,7 +808,7 @@ window.SONG_DATA.push(
     {
   "title": "ミスター・ブルースカイ",
   "artist": "マカロニえんぴつ [tergG-wuBOs]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=101",
   "source": "otomoneruki.js"
@@ -816,7 +816,7 @@ window.SONG_DATA.push(
     {
   "title": "lulu.",
   "artist": "Mrs. GREEN APPLE [ts8amBAFOqk]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=102",
   "source": "otomoneruki.js"
@@ -824,7 +824,7 @@ window.SONG_DATA.push(
     {
   "title": "ありがとう",
   "artist": "いきものがかり [ts8amBAFOqk]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=103",
   "source": "otomoneruki.js"
@@ -832,7 +832,7 @@ window.SONG_DATA.push(
     {
   "title": "呼吸",
   "artist": "くじら [ts8amBAFOqk]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=104",
   "source": "otomoneruki.js"
@@ -840,7 +840,7 @@ window.SONG_DATA.push(
     {
   "title": "プロポーズ",
   "artist": "なとり [ts8amBAFOqk]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=105",
   "source": "otomoneruki.js"
@@ -848,7 +848,7 @@ window.SONG_DATA.push(
     {
   "title": "STAND UP THE VICTORY～トゥ・ザヴィクトリー～",
   "artist": "川添智久 [ts8amBAFOqk]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=106",
   "source": "otomoneruki.js"
@@ -856,7 +856,7 @@ window.SONG_DATA.push(
     {
   "title": "花占い",
   "artist": "Vaundy [ts8amBAFOqk]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=107",
   "source": "otomoneruki.js"
@@ -864,7 +864,7 @@ window.SONG_DATA.push(
     {
   "title": "愛を伝えたいだとか",
   "artist": "あいみょん [ts8amBAFOqk]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=108",
   "source": "otomoneruki.js"
@@ -872,7 +872,7 @@ window.SONG_DATA.push(
     {
   "title": "Love So Sweet",
   "artist": "嵐 [ts8amBAFOqk]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=109",
   "source": "otomoneruki.js"
@@ -880,7 +880,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN [ts8amBAFOqk]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=110",
   "source": "otomoneruki.js"
@@ -888,7 +888,7 @@ window.SONG_DATA.push(
     {
   "title": "Catch th Moment",
   "artist": "LiSA [ts8amBAFOqk]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=111",
   "source": "otomoneruki.js"
@@ -896,7 +896,7 @@ window.SONG_DATA.push(
     {
   "title": "Tokimeki",
   "artist": "Vaundy [3RiwmKBR-Aw]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=112",
   "source": "otomoneruki.js"
@@ -904,7 +904,7 @@ window.SONG_DATA.push(
     {
   "title": "チャンカパーナ",
   "artist": "NEWS [3RiwmKBR-Aw]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=113",
   "source": "otomoneruki.js"
@@ -912,7 +912,7 @@ window.SONG_DATA.push(
     {
   "title": "アゲハ蝶",
   "artist": "ポルノグラフィティ [3RiwmKBR-Aw]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=114",
   "source": "otomoneruki.js"
@@ -920,7 +920,7 @@ window.SONG_DATA.push(
     {
   "title": "ケセラセラ",
   "artist": "Mrs. GREEN APPLE [3RiwmKBR-Aw]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=115",
   "source": "otomoneruki.js"
@@ -928,7 +928,7 @@ window.SONG_DATA.push(
     {
   "title": "ホログラム",
   "artist": "NICO Touches the Walls [3RiwmKBR-Aw]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=116",
   "source": "otomoneruki.js"
@@ -936,7 +936,7 @@ window.SONG_DATA.push(
     {
   "title": "感電",
   "artist": "米津玄師 [3RiwmKBR-Aw]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=117",
   "source": "otomoneruki.js"
@@ -944,7 +944,7 @@ window.SONG_DATA.push(
     {
   "title": "青いベンチ",
   "artist": "サスケ [3RiwmKBR-Aw]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=118",
   "source": "otomoneruki.js"
@@ -952,7 +952,7 @@ window.SONG_DATA.push(
     {
   "title": "ようこそジャパリパークへ",
   "artist": "どうぶつビスケッツ×PPP [3RiwmKBR-Aw]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=119",
   "source": "otomoneruki.js"
@@ -960,7 +960,7 @@ window.SONG_DATA.push(
     {
   "title": "イマジネーション",
   "artist": "SPYAIR [3RiwmKBR-Aw]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=120",
   "source": "otomoneruki.js"
@@ -968,7 +968,7 @@ window.SONG_DATA.push(
     {
   "title": "おとせサンダー",
   "artist": "ぼっちぼろまる [3RiwmKBR-Aw]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=121",
   "source": "otomoneruki.js"
@@ -976,7 +976,7 @@ window.SONG_DATA.push(
     {
   "title": "アカシア",
   "artist": "BUMP OF CHICKEN [3RiwmKBR-Aw]",
-  "collection": "📻🎶Ruki Otokado 音門るき👿🌙 2025-12-19 ~ 2026-01-30",
+  "collection": "📻🎶Ruki Otokado👿🌙 2025-12-19 ~ 2026-01-30",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WRFMzmECA?p=122",
   "source": "otomoneruki.js"
@@ -984,7 +984,7 @@ window.SONG_DATA.push(
     {
   "title": "ハロ",
   "artist": "yama × ぼっちぼろまる",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "Daytime 3D singing stream as a substitute for radio📻🎶Monday has come, so let's warm up👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶Otokado Ruki👿⛄VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=1",
   "source": "otomoneruki.js"
@@ -992,7 +992,7 @@ window.SONG_DATA.push(
     {
   "title": "チェリー",
   "artist": "スピッツ",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "Daytime 3D singing stream as a substitute for radio📻🎶Monday has come, so let's warm up👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶Otokado Ruki👿⛄VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=2",
   "source": "otomoneruki.js"
@@ -1000,7 +1000,7 @@ window.SONG_DATA.push(
     {
   "title": "AIZO",
   "artist": "King Gnu",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "Daytime 3D singing stream as a substitute for radio📻🎶Monday has come, so let's warm up👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶Otokado Ruki👿⛄VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=3",
   "source": "otomoneruki.js"
@@ -1008,7 +1008,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "Daytime 3D singing stream as a substitute for radio📻🎶Monday has come, so let's warm up👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶Otokado Ruki👿⛄VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=4",
   "source": "otomoneruki.js"
@@ -1016,7 +1016,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピーシンセサイザ",
   "artist": "EasyPop",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "Daytime 3D singing stream as a substitute for radio📻🎶Monday has come, so let's warm up👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶Otokado Ruki👿⛄VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=5",
   "source": "otomoneruki.js"
@@ -1024,7 +1024,7 @@ window.SONG_DATA.push(
     {
   "title": "あの日タイムマシン",
   "artist": "LONG SHOT PARTY",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "Daytime 3D singing stream as a substitute for radio📻🎶Monday has come, so let's warm up👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶Otokado Ruki👿⛄VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=6",
   "source": "otomoneruki.js"
@@ -1032,7 +1032,7 @@ window.SONG_DATA.push(
     {
   "title": "lulu.",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "Daytime 3D singing stream as a substitute for radio📻🎶Monday has come, so let's warm up👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶Otokado Ruki👿⛄VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=7",
   "source": "otomoneruki.js"
@@ -1040,7 +1040,7 @@ window.SONG_DATA.push(
     {
   "title": "水平線",
   "artist": "back number",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "Daytime 3D singing stream as a substitute for radio📻🎶Monday has come, so let's warm up👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶Otokado Ruki👿⛄VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=8",
   "source": "otomoneruki.js"
@@ -1048,7 +1048,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "Daytime 3D singing stream as a substitute for radio📻🎶Monday has come, so let's warm up👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶Otokado Ruki👿⛄VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=9",
   "source": "otomoneruki.js"
@@ -1056,7 +1056,7 @@ window.SONG_DATA.push(
     {
   "title": "踊",
   "artist": "Ado",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "Daytime 3D singing stream as a substitute for radio📻🎶Monday has come, so let's warm up👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶Otokado Ruki👿⛄VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=10",
   "source": "otomoneruki.js"
@@ -1064,7 +1064,7 @@ window.SONG_DATA.push(
     {
   "title": "カルマ",
   "artist": "BUMP OF CHICKEN",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "Daytime 3D singing stream as a substitute for radio📻🎶Monday has come, so let's warm up👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶Otokado Ruki👿⛄VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=11",
   "source": "otomoneruki.js"
@@ -1072,7 +1072,7 @@ window.SONG_DATA.push(
     {
   "title": "Bling-Bang-Bang-Born",
   "artist": "Creepy Nuts",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "Daytime 3D singing stream as a substitute for radio📻🎶Monday has come, so let's warm up👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶Otokado Ruki👿⛄VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=12",
   "source": "otomoneruki.js"
@@ -1080,7 +1080,7 @@ window.SONG_DATA.push(
     {
   "title": "HOT LIMIT",
   "artist": "T.M.Revolution",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "Daytime 3D singing stream as a substitute for radio📻🎶Monday has come, so let's warm up👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶Otokado Ruki👿⛄VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=13",
   "source": "otomoneruki.js"
@@ -1088,7 +1088,7 @@ window.SONG_DATA.push(
     {
   "title": "インフェルノ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "Daytime 3D singing stream as a substitute for radio📻🎶Monday has come, so let's warm up👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶Otokado Ruki👿⛄VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=14",
   "source": "otomoneruki.js"
@@ -1096,7 +1096,7 @@ window.SONG_DATA.push(
     {
   "title": "以心電信",
   "artist": "ORANGE RANGE",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "Daytime 3D singing stream as a substitute for radio📻🎶Monday has come, so let's warm up👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶Otokado Ruki👿⛄VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=15",
   "source": "otomoneruki.js"
@@ -1104,7 +1104,7 @@ window.SONG_DATA.push(
     {
   "title": "コロンブス",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "Daytime 3D singing stream as a substitute for radio📻🎶Monday has come, so let's warm up👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶Otokado Ruki👿⛄VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=16",
   "source": "otomoneruki.js"
@@ -1112,7 +1112,7 @@ window.SONG_DATA.push(
     {
   "title": "なにやってもうまくいかない",
   "artist": "Meiyo",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "Daytime 3D singing stream as a substitute for radio📻🎶Monday has come, so let's warm up👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶Otokado Ruki👿⛄VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=17",
   "source": "otomoneruki.js"
@@ -1120,7 +1120,7 @@ window.SONG_DATA.push(
     {
   "title": "死ぬな!",
   "artist": "こっちのけんと",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "Daytime 3D singing stream as a substitute for radio📻🎶Monday has come, so let's warm up👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶Otokado Ruki👿⛄VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=18",
   "source": "otomoneruki.js"
@@ -1128,7 +1128,7 @@ window.SONG_DATA.push(
     {
   "title": "Mela!",
   "artist": "緑黄色社会",
-  "collection": "ラジオ代わりの昼3D歌枠📻🎶月曜きたので温めていく👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "Daytime 3D singing stream as a substitute for radio📻🎶Monday has come, so let's warm up👿⛄[2026-02-09][OtHUiXgrDiI][📻🎶Otokado Ruki👿⛄VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AaFUzdEFM?p=19",
   "source": "otomoneruki.js"
@@ -1136,7 +1136,7 @@ window.SONG_DATA.push(
     {
   "title": "Tokimeki",
   "artist": "Vaundy",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "[2026-02-14] Night Singing Slot as a Substitute for Radio 📻🎶 It's Valentine's Day 🍫 [up4xSdvumnI][📻🎶 Otokado Ruki 👿⛄ VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=1",
   "source": "otomoneruki.js"
@@ -1144,7 +1144,7 @@ window.SONG_DATA.push(
     {
   "title": "Sweets Parade",
   "artist": "髏々宮カルタ(CV花澤香菜)",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "[2026-02-14] Night Singing Slot as a Substitute for Radio 📻🎶 It's Valentine's Day 🍫 [up4xSdvumnI][📻🎶 Otokado Ruki 👿⛄ VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=2",
   "source": "otomoneruki.js"
@@ -1152,7 +1152,7 @@ window.SONG_DATA.push(
     {
   "title": "ダーリン",
   "artist": "須田景凪",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "[2026-02-14] Night Singing Slot as a Substitute for Radio 📻🎶 It's Valentine's Day 🍫 [up4xSdvumnI][📻🎶 Otokado Ruki 👿⛄ VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=3",
   "source": "otomoneruki.js"
@@ -1160,7 +1160,7 @@ window.SONG_DATA.push(
     {
   "title": "ニア",
   "artist": "初音ミク feat. 夏代孝明",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "[2026-02-14] Night Singing Slot as a Substitute for Radio 📻🎶 It's Valentine's Day 🍫 [up4xSdvumnI][📻🎶 Otokado Ruki 👿⛄ VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=4",
   "source": "otomoneruki.js"
@@ -1168,7 +1168,7 @@ window.SONG_DATA.push(
     {
   "title": "スキキライ",
   "artist": "ゴム(HoneyWorks) feat. 鏡音リン・鏡音レン",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "[2026-02-14] Night Singing Slot as a Substitute for Radio 📻🎶 It's Valentine's Day 🍫 [up4xSdvumnI][📻🎶 Otokado Ruki 👿⛄ VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=5",
   "source": "otomoneruki.js"
@@ -1176,7 +1176,7 @@ window.SONG_DATA.push(
     {
   "title": "CHE.R.RY",
   "artist": "YUI",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "[2026-02-14] Night Singing Slot as a Substitute for Radio 📻🎶 It's Valentine's Day 🍫 [up4xSdvumnI][📻🎶 Otokado Ruki 👿⛄ VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=6",
   "source": "otomoneruki.js"
@@ -1184,7 +1184,7 @@ window.SONG_DATA.push(
     {
   "title": "orion",
   "artist": "米津玄師",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "[2026-02-14] Night Singing Slot as a Substitute for Radio 📻🎶 It's Valentine's Day 🍫 [up4xSdvumnI][📻🎶 Otokado Ruki 👿⛄ VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=7",
   "source": "otomoneruki.js"
@@ -1192,7 +1192,7 @@ window.SONG_DATA.push(
     {
   "title": "夜撫でるメノウ",
   "artist": "Ayase feat. 初音ミク",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "[2026-02-14] Night Singing Slot as a Substitute for Radio 📻🎶 It's Valentine's Day 🍫 [up4xSdvumnI][📻🎶 Otokado Ruki 👿⛄ VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=8",
   "source": "otomoneruki.js"
@@ -1200,7 +1200,7 @@ window.SONG_DATA.push(
     {
   "title": "物の怪の類",
   "artist": "めいちゃん",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "[2026-02-14] Night Singing Slot as a Substitute for Radio 📻🎶 It's Valentine's Day 🍫 [up4xSdvumnI][📻🎶 Otokado Ruki 👿⛄ VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=9",
   "source": "otomoneruki.js"
@@ -1208,7 +1208,7 @@ window.SONG_DATA.push(
     {
   "title": "Oz.",
   "artist": "yama",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "[2026-02-14] Night Singing Slot as a Substitute for Radio 📻🎶 It's Valentine's Day 🍫 [up4xSdvumnI][📻🎶 Otokado Ruki 👿⛄ VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=10",
   "source": "otomoneruki.js"
@@ -1216,7 +1216,7 @@ window.SONG_DATA.push(
     {
   "title": "AIZO",
   "artist": "King Gnu",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "[2026-02-14] Night Singing Slot as a Substitute for Radio 📻🎶 It's Valentine's Day 🍫 [up4xSdvumnI][📻🎶 Otokado Ruki 👿⛄ VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=11",
   "source": "otomoneruki.js"
@@ -1224,7 +1224,7 @@ window.SONG_DATA.push(
     {
   "title": "Butter-Fly",
   "artist": "和田光司",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "[2026-02-14] Night Singing Slot as a Substitute for Radio 📻🎶 It's Valentine's Day 🍫 [up4xSdvumnI][📻🎶 Otokado Ruki 👿⛄ VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=12",
   "source": "otomoneruki.js"
@@ -1232,7 +1232,7 @@ window.SONG_DATA.push(
     {
   "title": "Calc.",
   "artist": "ジミーサムP feat. 初音ミク",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "[2026-02-14] Night Singing Slot as a Substitute for Radio 📻🎶 It's Valentine's Day 🍫 [up4xSdvumnI][📻🎶 Otokado Ruki 👿⛄ VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=13",
   "source": "otomoneruki.js"
@@ -1240,7 +1240,7 @@ window.SONG_DATA.push(
     {
   "title": "アストロノーツ",
   "artist": "初音ミク(ぽわぽわP)",
-  "collection": "[2026-02-14]ラジオ代わりの夜歌枠📻🎶バレンタインだね🍫[up4xSdvumnI][📻🎶音門るき👿⛄VEE 歌切]",
+  "collection": "[2026-02-14] Night Singing Slot as a Substitute for Radio 📻🎶 It's Valentine's Day 🍫 [up4xSdvumnI][📻🎶 Otokado Ruki 👿⛄ VEE Song Cut]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zzZPBsEum?p=14",
   "source": "otomoneruki.js"
@@ -1248,7 +1248,7 @@ window.SONG_DATA.push(
     {
   "title": "喜劇",
   "artist": "星野源",
-  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "collection": "【Inumaru😈Song Cut】Evening Song Slot Instead of a Broadcast 📻🎶Enjoy the companionship on your way home from work [2026-02-24][mArEZMlGx1Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=1",
   "source": "otomoneruki.js"
@@ -1256,7 +1256,7 @@ window.SONG_DATA.push(
     {
   "title": "ケセラセラ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "collection": "【Inumaru😈Song Cut】Evening Song Slot Instead of a Broadcast 📻🎶Enjoy the companionship on your way home from work [2026-02-24][mArEZMlGx1Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=2",
   "source": "otomoneruki.js"
@@ -1264,7 +1264,7 @@ window.SONG_DATA.push(
     {
   "title": "残酷の天使のテーゼ",
   "artist": "高橋洋子",
-  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "collection": "【Inumaru😈Song Cut】Evening Song Slot Instead of a Broadcast 📻🎶Enjoy the companionship on your way home from work [2026-02-24][mArEZMlGx1Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=3",
   "source": "otomoneruki.js"
@@ -1272,7 +1272,7 @@ window.SONG_DATA.push(
     {
   "title": "Get Wild",
   "artist": "TM NETWORK",
-  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "collection": "【Inumaru😈Song Cut】Evening Song Slot Instead of a Broadcast 📻🎶Enjoy the companionship on your way home from work [2026-02-24][mArEZMlGx1Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=4",
   "source": "otomoneruki.js"
@@ -1280,7 +1280,7 @@ window.SONG_DATA.push(
     {
   "title": "嫌嫌",
   "artist": "HALVES",
-  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "collection": "【Inumaru😈Song Cut】Evening Song Slot Instead of a Broadcast 📻🎶Enjoy the companionship on your way home from work [2026-02-24][mArEZMlGx1Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=5",
   "source": "otomoneruki.js"
@@ -1288,7 +1288,7 @@ window.SONG_DATA.push(
     {
   "title": "オレンジ",
   "artist": "SPYAIR",
-  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "collection": "【Inumaru😈Song Cut】Evening Song Slot Instead of a Broadcast 📻🎶Enjoy the companionship on your way home from work [2026-02-24][mArEZMlGx1Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=6",
   "source": "otomoneruki.js"
@@ -1296,7 +1296,7 @@ window.SONG_DATA.push(
     {
   "title": "コロンブス",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "collection": "【Inumaru😈Song Cut】Evening Song Slot Instead of a Broadcast 📻🎶Enjoy the companionship on your way home from work [2026-02-24][mArEZMlGx1Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=7",
   "source": "otomoneruki.js"
@@ -1304,7 +1304,7 @@ window.SONG_DATA.push(
     {
   "title": "以心電信",
   "artist": "ORANGE RANGE",
-  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "collection": "【Inumaru😈Song Cut】Evening Song Slot Instead of a Broadcast 📻🎶Enjoy the companionship on your way home from work [2026-02-24][mArEZMlGx1Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=8",
   "source": "otomoneruki.js"
@@ -1312,7 +1312,7 @@ window.SONG_DATA.push(
     {
   "title": "勇者",
   "artist": "YOASOBI",
-  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "collection": "【Inumaru😈Song Cut】Evening Song Slot Instead of a Broadcast 📻🎶Enjoy the companionship on your way home from work [2026-02-24][mArEZMlGx1Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=9",
   "source": "otomoneruki.js"
@@ -1320,7 +1320,7 @@ window.SONG_DATA.push(
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド",
-  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "collection": "【Inumaru😈Song Cut】Evening Song Slot Instead of a Broadcast 📻🎶Enjoy the companionship on your way home from work [2026-02-24][mArEZMlGx1Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=10",
   "source": "otomoneruki.js"
@@ -1328,7 +1328,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "collection": "【Inumaru😈Song Cut】Evening Song Slot Instead of a Broadcast 📻🎶Enjoy the companionship on your way home from work [2026-02-24][mArEZMlGx1Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=11",
   "source": "otomoneruki.js"
@@ -1336,7 +1336,7 @@ window.SONG_DATA.push(
     {
   "title": "CITRUS",
   "artist": "Da-iCE",
-  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "collection": "【Inumaru😈Song Cut】Evening Song Slot Instead of a Broadcast 📻🎶Enjoy the companionship on your way home from work [2026-02-24][mArEZMlGx1Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=12",
   "source": "otomoneruki.js"
@@ -1344,7 +1344,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "collection": "【Inumaru😈Song Cut】Evening Song Slot Instead of a Broadcast 📻🎶Enjoy the companionship on your way home from work [2026-02-24][mArEZMlGx1Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=13",
   "source": "otomoneruki.js"
@@ -1352,7 +1352,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【音門るき😈歌切】代替广播的傍晚歌枠📻🎶下班回家时的陪伴请享用[2026-02-24][mArEZMlGx1Y]",
+  "collection": "【Inumaru😈Song Cut】Evening Song Slot Instead of a Broadcast 📻🎶Enjoy the companionship on your way home from work [2026-02-24][mArEZMlGx1Y]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12YfUBcETn?p=14",
   "source": "otomoneruki.js"
@@ -1360,7 +1360,7 @@ window.SONG_DATA.push(
     {
   "title": "Bling-Bang-Bang-Born",
   "artist": "Creepy Nuts  [IGIMPQl02KY]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=1",
   "source": "otomoneruki.js"
@@ -1368,7 +1368,7 @@ window.SONG_DATA.push(
     {
   "title": "Butter-Fly",
   "artist": "和田光司  [IGIMPQl02KY]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=2",
   "source": "otomoneruki.js"
@@ -1376,7 +1376,7 @@ window.SONG_DATA.push(
     {
   "title": "踊",
   "artist": "Ado  [IGIMPQl02KY]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=3",
   "source": "otomoneruki.js"
@@ -1384,7 +1384,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy  [IGIMPQl02KY]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=4",
   "source": "otomoneruki.js"
@@ -1392,7 +1392,7 @@ window.SONG_DATA.push(
     {
   "title": "バイオレンス",
   "artist": "女王蜂  [IGIMPQl02KY]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=5",
   "source": "otomoneruki.js"
@@ -1400,7 +1400,7 @@ window.SONG_DATA.push(
     {
   "title": "感電",
   "artist": "米津玄師  [IGIMPQl02KY]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=6",
   "source": "otomoneruki.js"
@@ -1408,7 +1408,7 @@ window.SONG_DATA.push(
     {
   "title": "きっとビタミン",
   "artist": "音門るき  [IGIMPQl02KY]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=7",
   "source": "otomoneruki.js"
@@ -1416,7 +1416,7 @@ window.SONG_DATA.push(
     {
   "title": "さくらんぼ",
   "artist": "大塚愛  [CyMcSrLcDJE]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=8",
   "source": "otomoneruki.js"
@@ -1424,7 +1424,7 @@ window.SONG_DATA.push(
     {
   "title": "メロウ",
   "artist": "須田景凪  [CyMcSrLcDJE]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=9",
   "source": "otomoneruki.js"
@@ -1432,7 +1432,7 @@ window.SONG_DATA.push(
     {
   "title": "私は最強",
   "artist": "Mrs. GREEN APPLE  [CyMcSrLcDJE]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=10",
   "source": "otomoneruki.js"
@@ -1440,7 +1440,7 @@ window.SONG_DATA.push(
     {
   "title": "オリオンをなぞる",
   "artist": "UNISON SQUARE GARDEN  [CyMcSrLcDJE]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=11",
   "source": "otomoneruki.js"
@@ -1448,7 +1448,7 @@ window.SONG_DATA.push(
     {
   "title": "月光花",
   "artist": "Janne Da Arc  [tlMe4UOhkIk]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=12",
   "source": "otomoneruki.js"
@@ -1456,7 +1456,7 @@ window.SONG_DATA.push(
     {
   "title": "曇天",
   "artist": "DOES  [tlMe4UOhkIk]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=13",
   "source": "otomoneruki.js"
@@ -1464,7 +1464,7 @@ window.SONG_DATA.push(
     {
   "title": "メルト",
   "artist": "ryo(supercell)  [tlMe4UOhkIk]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=14",
   "source": "otomoneruki.js"
@@ -1472,7 +1472,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE  [tlMe4UOhkIk]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=15",
   "source": "otomoneruki.js"
@@ -1480,7 +1480,7 @@ window.SONG_DATA.push(
     {
   "title": "雨傘",
   "artist": "TOKIO  [tlMe4UOhkIk]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=16",
   "source": "otomoneruki.js"
@@ -1488,7 +1488,7 @@ window.SONG_DATA.push(
     {
   "title": "虹",
   "artist": "福山雅治  [tlMe4UOhkIk]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=17",
   "source": "otomoneruki.js"
@@ -1496,7 +1496,7 @@ window.SONG_DATA.push(
     {
   "title": "瞬き",
   "artist": "back number  [tlMe4UOhkIk]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=18",
   "source": "otomoneruki.js"
@@ -1504,7 +1504,7 @@ window.SONG_DATA.push(
     {
   "title": "ホログラム",
   "artist": "NICO Touches the Walls  [tlMe4UOhkIk]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=19",
   "source": "otomoneruki.js"
@@ -1512,7 +1512,7 @@ window.SONG_DATA.push(
     {
   "title": "レイン",
   "artist": "シド  [tlMe4UOhkIk]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=20",
   "source": "otomoneruki.js"
@@ -1520,7 +1520,7 @@ window.SONG_DATA.push(
     {
   "title": "ランデヴー",
   "artist": "シャイトープ  [tlMe4UOhkIk]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=21",
   "source": "otomoneruki.js"
@@ -1528,7 +1528,7 @@ window.SONG_DATA.push(
     {
   "title": "カワキヲアメク",
   "artist": "美波  [tlMe4UOhkIk]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=22",
   "source": "otomoneruki.js"
@@ -1536,7 +1536,7 @@ window.SONG_DATA.push(
     {
   "title": "Lemon",
   "artist": "米津玄師  [tlMe4UOhkIk]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=23",
   "source": "otomoneruki.js"
@@ -1544,7 +1544,7 @@ window.SONG_DATA.push(
     {
   "title": "雫",
   "artist": "スキマスイッチ  [tlMe4UOhkIk]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=24",
   "source": "otomoneruki.js"
@@ -1552,7 +1552,7 @@ window.SONG_DATA.push(
     {
   "title": "Glare",
   "artist": "dtto.  [tlMe4UOhkIk]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=25",
   "source": "otomoneruki.js"
@@ -1560,7 +1560,7 @@ window.SONG_DATA.push(
     {
   "title": "恋風邪にのせて",
   "artist": "Vaundy  [tlMe4UOhkIk]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=26",
   "source": "otomoneruki.js"
@@ -1568,7 +1568,7 @@ window.SONG_DATA.push(
     {
   "title": "天体観測",
   "artist": "BUMP OF CHICKEN  [tlMe4UOhkIk]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=27",
   "source": "otomoneruki.js"
@@ -1576,7 +1576,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師  [DhbbL-3b6Ao]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=28",
   "source": "otomoneruki.js"
@@ -1584,7 +1584,7 @@ window.SONG_DATA.push(
     {
   "title": "クスシキ",
   "artist": "Mrs. GREEN APPLE  [DhbbL-3b6Ao]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=29",
   "source": "otomoneruki.js"
@@ -1592,7 +1592,7 @@ window.SONG_DATA.push(
     {
   "title": "群青讃歌",
   "artist": "Eve  [DhbbL-3b6Ao]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=30",
   "source": "otomoneruki.js"
@@ -1600,7 +1600,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション  [DhbbL-3b6Ao]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=31",
   "source": "otomoneruki.js"
@@ -1608,7 +1608,7 @@ window.SONG_DATA.push(
     {
   "title": "サムライハート",
   "artist": "SPYAIR  [DhbbL-3b6Ao]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=32",
   "source": "otomoneruki.js"
@@ -1616,7 +1616,7 @@ window.SONG_DATA.push(
     {
   "title": "アゲハ蝶",
   "artist": "ポルノグラフィティ  [jvpnprEsFBM]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=33",
   "source": "otomoneruki.js"
@@ -1624,7 +1624,7 @@ window.SONG_DATA.push(
     {
   "title": "青と夏",
   "artist": "Mrs. GREEN APPLE  [jvpnprEsFBM]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=34",
   "source": "otomoneruki.js"
@@ -1632,7 +1632,7 @@ window.SONG_DATA.push(
     {
   "title": "マトリョシカ",
   "artist": "ハチ  [jvpnprEsFBM]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=35",
   "source": "otomoneruki.js"
@@ -1640,7 +1640,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師  [jvpnprEsFBM]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=36",
   "source": "otomoneruki.js"
@@ -1648,7 +1648,7 @@ window.SONG_DATA.push(
     {
   "title": "新宝島",
   "artist": "サカナクション  [jvpnprEsFBM]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=37",
   "source": "otomoneruki.js"
@@ -1656,7 +1656,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行",
   "artist": "ランカ・リー = 中島愛  [jvpnprEsFBM]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=38",
   "source": "otomoneruki.js"
@@ -1664,7 +1664,7 @@ window.SONG_DATA.push(
     {
   "title": "クスシキ",
   "artist": "Mrs. GREEN APPLE  [jvpnprEsFBM]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=39",
   "source": "otomoneruki.js"
@@ -1672,7 +1672,7 @@ window.SONG_DATA.push(
     {
   "title": "深海少女",
   "artist": "ゆうゆ feat.初音ミク  [jvpnprEsFBM]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=40",
   "source": "otomoneruki.js"
@@ -1680,7 +1680,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell  [jvpnprEsFBM]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=41",
   "source": "otomoneruki.js"
@@ -1688,7 +1688,7 @@ window.SONG_DATA.push(
     {
   "title": "表裏一体",
   "artist": "ゆず  [jvpnprEsFBM]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=42",
   "source": "otomoneruki.js"
@@ -1696,7 +1696,7 @@ window.SONG_DATA.push(
     {
   "title": "Diver",
   "artist": "NICO Touches the walls  [jvpnprEsFBM]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=43",
   "source": "otomoneruki.js"
@@ -1704,7 +1704,7 @@ window.SONG_DATA.push(
     {
   "title": "からくりピエロ",
   "artist": "40mP(feat.初音ミク)  [jvpnprEsFBM]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=44",
   "source": "otomoneruki.js"
@@ -1712,7 +1712,7 @@ window.SONG_DATA.push(
     {
   "title": "ブラックロック★シューター",
   "artist": "supercell  [jvpnprEsFBM]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=45",
   "source": "otomoneruki.js"
@@ -1720,7 +1720,7 @@ window.SONG_DATA.push(
     {
   "title": "ウィーアー！",
   "artist": "きただにひろし  [jvpnprEsFBM]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=46",
   "source": "otomoneruki.js"
@@ -1728,7 +1728,7 @@ window.SONG_DATA.push(
     {
   "title": "Bling-Bang-Bang-Born",
   "artist": "Creepy Nuts  [jvpnprEsFBM]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=47",
   "source": "otomoneruki.js"
@@ -1736,7 +1736,7 @@ window.SONG_DATA.push(
     {
   "title": "え!あぁ、そう。",
   "artist": "蝶々P feat.初音ミク  [jvpnprEsFBM]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=48",
   "source": "otomoneruki.js"
@@ -1744,7 +1744,7 @@ window.SONG_DATA.push(
     {
   "title": "KICK BACK",
   "artist": "米津玄師  [jvpnprEsFBM]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=49",
   "source": "otomoneruki.js"
@@ -1752,7 +1752,7 @@ window.SONG_DATA.push(
     {
   "title": "clock lock works",
   "artist": "ハチ  [jvpnprEsFBM]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=50",
   "source": "otomoneruki.js"
@@ -1760,7 +1760,7 @@ window.SONG_DATA.push(
     {
   "title": "ラフメイカー",
   "artist": "BUMP OFCHICKEN  [jvpnprEsFBM]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=51",
   "source": "otomoneruki.js"
@@ -1768,7 +1768,7 @@ window.SONG_DATA.push(
     {
   "title": "クスシキ",
   "artist": "Mrs. GREEN APPLE  [1H9c7U20rWo]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=52",
   "source": "otomoneruki.js"
@@ -1776,7 +1776,7 @@ window.SONG_DATA.push(
     {
   "title": "美しい鰭",
   "artist": "スピッツ  [1H9c7U20rWo]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=53",
   "source": "otomoneruki.js"
@@ -1784,7 +1784,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ  [1H9c7U20rWo]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=54",
   "source": "otomoneruki.js"
@@ -1792,7 +1792,7 @@ window.SONG_DATA.push(
     {
   "title": "甲賀忍法帖",
   "artist": "陰陽座  [1H9c7U20rWo]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=55",
   "source": "otomoneruki.js"
@@ -1800,7 +1800,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行",
   "artist": "ランカ・リー  [1H9c7U20rWo]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=56",
   "source": "otomoneruki.js"
@@ -1808,7 +1808,7 @@ window.SONG_DATA.push(
     {
   "title": "Walking with you",
   "artist": "Novelbright  [TBMBHxyxs3M]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=57",
   "source": "otomoneruki.js"
@@ -1816,7 +1816,7 @@ window.SONG_DATA.push(
     {
   "title": "ともに",
   "artist": "WANIMA  [TBMBHxyxs3M]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=58",
   "source": "otomoneruki.js"
@@ -1824,7 +1824,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON  [TBMBHxyxs3M]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=59",
   "source": "otomoneruki.js"
@@ -1832,7 +1832,7 @@ window.SONG_DATA.push(
     {
   "title": "Mela！",
   "artist": "緑黄色社会  [TBMBHxyxs3M]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=60",
   "source": "otomoneruki.js"
@@ -1840,7 +1840,7 @@ window.SONG_DATA.push(
     {
   "title": "イケナイ太陽",
   "artist": "ORANGE RANGE  [BXQWmAaFdY0]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=61",
   "source": "otomoneruki.js"
@@ -1848,7 +1848,7 @@ window.SONG_DATA.push(
     {
   "title": "メランコリーキッチン",
   "artist": "米津玄師  [BXQWmAaFdY0]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=62",
   "source": "otomoneruki.js"
@@ -1856,7 +1856,7 @@ window.SONG_DATA.push(
     {
   "title": "恋",
   "artist": "星野源  [BXQWmAaFdY0]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=63",
   "source": "otomoneruki.js"
@@ -1864,7 +1864,7 @@ window.SONG_DATA.push(
     {
   "title": "気まぐれロマンティック",
   "artist": "いきものがかり  [BXQWmAaFdY0]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=64",
   "source": "otomoneruki.js"
@@ -1872,7 +1872,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs.GEEN APPLE  [BXQWmAaFdY0]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=65",
   "source": "otomoneruki.js"
@@ -1880,7 +1880,7 @@ window.SONG_DATA.push(
     {
   "title": "ソラニン",
   "artist": "ASIAN KUNG-FU GENERATION  [BXQWmAaFdY0]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=66",
   "source": "otomoneruki.js"
@@ -1888,7 +1888,7 @@ window.SONG_DATA.push(
     {
   "title": "ミスター・ブルースカイ",
   "artist": "マカロニえんぴつ  [BXQWmAaFdY0]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=67",
   "source": "otomoneruki.js"
@@ -1896,7 +1896,7 @@ window.SONG_DATA.push(
     {
   "title": "踊り子",
   "artist": "Vaundy  [6QB2x3XSd10]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=68",
   "source": "otomoneruki.js"
@@ -1904,7 +1904,7 @@ window.SONG_DATA.push(
     {
   "title": "アナタノオト",
   "artist": "ランカ・リー=中島愛  [6QB2x3XSd10]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=69",
   "source": "otomoneruki.js"
@@ -1912,7 +1912,7 @@ window.SONG_DATA.push(
     {
   "title": "ケセラセラ",
   "artist": "Mrs. GREEN APPLE  [6QB2x3XSd10]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=70",
   "source": "otomoneruki.js"
@@ -1920,7 +1920,7 @@ window.SONG_DATA.push(
     {
   "title": "Habit",
   "artist": "SEKAI NO OWARI  [6QB2x3XSd10]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=71",
   "source": "otomoneruki.js"
@@ -1928,7 +1928,7 @@ window.SONG_DATA.push(
     {
   "title": "死ぬな！",
   "artist": "こっちのけんと  [6QB2x3XSd10]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=72",
   "source": "otomoneruki.js"
@@ -1936,7 +1936,7 @@ window.SONG_DATA.push(
     {
   "title": "残響散歌",
   "artist": "Aimer  [6QB2x3XSd10]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=73",
   "source": "otomoneruki.js"
@@ -1944,7 +1944,7 @@ window.SONG_DATA.push(
     {
   "title": "more than words",
   "artist": "羊文学  [6QB2x3XSd10]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=74",
   "source": "otomoneruki.js"
@@ -1952,7 +1952,7 @@ window.SONG_DATA.push(
     {
   "title": "毎日",
   "artist": "米津玄師  [6QB2x3XSd10]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=75",
   "source": "otomoneruki.js"
@@ -1960,7 +1960,7 @@ window.SONG_DATA.push(
     {
   "title": "Happiness",
   "artist": "嵐  [6QB2x3XSd10]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=76",
   "source": "otomoneruki.js"
@@ -1968,7 +1968,7 @@ window.SONG_DATA.push(
     {
   "title": "なにやってもうまくいかない",
   "artist": "meiyo  [6QB2x3XSd10]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=77",
   "source": "otomoneruki.js"
@@ -1976,7 +1976,7 @@ window.SONG_DATA.push(
     {
   "title": "深海少女",
   "artist": "ゆうゆ feat.初音ミク  [6QB2x3XSd10]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=78",
   "source": "otomoneruki.js"
@@ -1984,7 +1984,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ  [6QB2x3XSd10]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=79",
   "source": "otomoneruki.js"
@@ -1992,7 +1992,7 @@ window.SONG_DATA.push(
     {
   "title": "タイムマシーン",
   "artist": "1640mP(164×40mP) feat.初音ミク  [6QB2x3XSd10]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=80",
   "source": "otomoneruki.js"
@@ -2000,7 +2000,7 @@ window.SONG_DATA.push(
     {
   "title": "花占い",
   "artist": "Vaundy  [6QB2x3XSd10]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=81",
   "source": "otomoneruki.js"
@@ -2008,7 +2008,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy  [dV71yxbqI1c]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=82",
   "source": "otomoneruki.js"
@@ -2016,7 +2016,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ  [dV71yxbqI1c]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=83",
   "source": "otomoneruki.js"
@@ -2024,7 +2024,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.  [dV71yxbqI1c]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=84",
   "source": "otomoneruki.js"
@@ -2032,7 +2032,7 @@ window.SONG_DATA.push(
     {
   "title": "V.I.P",
   "artist": "シド  [dV71yxbqI1c]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=85",
   "source": "otomoneruki.js"
@@ -2040,7 +2040,7 @@ window.SONG_DATA.push(
     {
   "title": "恋",
   "artist": "星野源  [dV71yxbqI1c]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=86",
   "source": "otomoneruki.js"
@@ -2048,7 +2048,7 @@ window.SONG_DATA.push(
     {
   "title": "オリオンをなぞる",
   "artist": "UNISON SQUARE GARDEN  [dV71yxbqI1c]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=87",
   "source": "otomoneruki.js"
@@ -2056,7 +2056,7 @@ window.SONG_DATA.push(
     {
   "title": "きっとビタミン",
   "artist": "音門るき  [dV71yxbqI1c]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=88",
   "source": "otomoneruki.js"
@@ -2064,7 +2064,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON  [ssLnwiNE8rg]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=89",
   "source": "otomoneruki.js"
@@ -2072,7 +2072,7 @@ window.SONG_DATA.push(
     {
   "title": "Bling-Bang-Bang-Born",
   "artist": "Creepy Nuts  [ssLnwiNE8rg]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=90",
   "source": "otomoneruki.js"
@@ -2080,7 +2080,7 @@ window.SONG_DATA.push(
     {
   "title": "ビビデバ",
   "artist": "星街すいせい  [ssLnwiNE8rg]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=91",
   "source": "otomoneruki.js"
@@ -2088,7 +2088,7 @@ window.SONG_DATA.push(
     {
   "title": "勇者",
   "artist": "YOASOBI  [ssLnwiNE8rg]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=92",
   "source": "otomoneruki.js"
@@ -2096,7 +2096,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ  [ssLnwiNE8rg]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=93",
   "source": "otomoneruki.js"
@@ -2104,7 +2104,7 @@ window.SONG_DATA.push(
     {
   "title": "ロマンティックあげるよ",
   "artist": "橋本潮  [ssLnwiNE8rg]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=94",
   "source": "otomoneruki.js"
@@ -2112,7 +2112,7 @@ window.SONG_DATA.push(
     {
   "title": "雫",
   "artist": "スキマスイッチ  [ssLnwiNE8rg]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=95",
   "source": "otomoneruki.js"
@@ -2120,7 +2120,7 @@ window.SONG_DATA.push(
     {
   "title": "ミュージック・アワー",
   "artist": "ポルノグラフィティ  [ssLnwiNE8rg]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=96",
   "source": "otomoneruki.js"
@@ -2128,7 +2128,7 @@ window.SONG_DATA.push(
     {
   "title": "消せない罪",
   "artist": "北出菜奈  [ssLnwiNE8rg]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=97",
   "source": "otomoneruki.js"
@@ -2136,7 +2136,7 @@ window.SONG_DATA.push(
     {
   "title": "青と夏(acoustic cover)",
   "artist": "Mrs. GREEN APPLE  [ssLnwiNE8rg]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=98",
   "source": "otomoneruki.js"
@@ -2144,7 +2144,7 @@ window.SONG_DATA.push(
     {
   "title": "おとせサンダー",
   "artist": "ぼっちぼろまる  [ssLnwiNE8rg]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=99",
   "source": "otomoneruki.js"
@@ -2152,7 +2152,7 @@ window.SONG_DATA.push(
     {
   "title": "青い珊瑚礁",
   "artist": "松田聖子  [ssLnwiNE8rg]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=100",
   "source": "otomoneruki.js"
@@ -2160,7 +2160,7 @@ window.SONG_DATA.push(
     {
   "title": "ピースサイン",
   "artist": "米津玄師  [ssLnwiNE8rg]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=101",
   "source": "otomoneruki.js"
@@ -2168,7 +2168,7 @@ window.SONG_DATA.push(
     {
   "title": "HOT LIMIT",
   "artist": "T.M.Revolution  [cSmrDQyhtZ8]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=102",
   "source": "otomoneruki.js"
@@ -2176,7 +2176,7 @@ window.SONG_DATA.push(
     {
   "title": "青のすみか",
   "artist": "キタニタツヤ  [cSmrDQyhtZ8]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=103",
   "source": "otomoneruki.js"
@@ -2184,7 +2184,7 @@ window.SONG_DATA.push(
     {
   "title": "ココロオドル",
   "artist": "nobodyknows+  [cSmrDQyhtZ8]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=104",
   "source": "otomoneruki.js"
@@ -2192,7 +2192,7 @@ window.SONG_DATA.push(
     {
   "title": "サムライハート(Some Like It Hot！)",
   "artist": "SPYAIR  [cSmrDQyhtZ8]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=105",
   "source": "otomoneruki.js"
@@ -2200,7 +2200,7 @@ window.SONG_DATA.push(
     {
   "title": "きっとビタミン",
   "artist": "音門るき  [cSmrDQyhtZ8]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=106",
   "source": "otomoneruki.js"
@@ -2208,7 +2208,7 @@ window.SONG_DATA.push(
     {
   "title": "踊り子",
   "artist": "Vaundy  [yQoONlC5iic]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=107",
   "source": "otomoneruki.js"
@@ -2216,7 +2216,7 @@ window.SONG_DATA.push(
     {
   "title": "アイネクライネ",
   "artist": "米津玄師  [yQoONlC5iic]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=108",
   "source": "otomoneruki.js"
@@ -2224,7 +2224,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE  [yQoONlC5iic]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=109",
   "source": "otomoneruki.js"
@@ -2232,7 +2232,7 @@ window.SONG_DATA.push(
     {
   "title": "クスシキ",
   "artist": "Mrs. GREEN APPLE  [yQoONlC5iic]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=110",
   "source": "otomoneruki.js"
@@ -2240,7 +2240,7 @@ window.SONG_DATA.push(
     {
   "title": "新宝島",
   "artist": "サカナクション  [yQoONlC5iic]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=111",
   "source": "otomoneruki.js"
@@ -2248,7 +2248,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション  [yQoONlC5iic]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=112",
   "source": "otomoneruki.js"
@@ -2256,7 +2256,7 @@ window.SONG_DATA.push(
     {
   "title": "ワールドイズマイン",
   "artist": "supercell  [yQoONlC5iic]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=113",
   "source": "otomoneruki.js"
@@ -2264,7 +2264,7 @@ window.SONG_DATA.push(
     {
   "title": "タイヨウのうた",
   "artist": "Kaoru Amane  [yQoONlC5iic]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=114",
   "source": "otomoneruki.js"
@@ -2272,7 +2272,7 @@ window.SONG_DATA.push(
     {
   "title": "火炎",
   "artist": "女王蜂  [yQoONlC5iic]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=115",
   "source": "otomoneruki.js"
@@ -2280,7 +2280,7 @@ window.SONG_DATA.push(
     {
   "title": "glow",
   "artist": "keeno feat.初音ミク  [yQoONlC5iic]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=116",
   "source": "otomoneruki.js"
@@ -2288,7 +2288,7 @@ window.SONG_DATA.push(
     {
   "title": "貴方解剖純愛歌~死ね~",
   "artist": "あいみょん  [yQoONlC5iic]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=117",
   "source": "otomoneruki.js"
@@ -2296,7 +2296,7 @@ window.SONG_DATA.push(
     {
   "title": "DANZEN！ふたりはプリキュア(Ver.Max Heart)",
   "artist": "五條真由美  [yQoONlC5iic]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=118",
   "source": "otomoneruki.js"
@@ -2304,7 +2304,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師  [yQoONlC5iic]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=119",
   "source": "otomoneruki.js"
@@ -2312,7 +2312,7 @@ window.SONG_DATA.push(
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド  [yQoONlC5iic]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=120",
   "source": "otomoneruki.js"
@@ -2320,7 +2320,7 @@ window.SONG_DATA.push(
     {
   "title": "なんでもないよ、",
   "artist": "マカロニえんぴつ  [yQoONlC5iic]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=121",
   "source": "otomoneruki.js"
@@ -2328,7 +2328,7 @@ window.SONG_DATA.push(
     {
   "title": "花占い",
   "artist": "Vaundy  [yQoONlC5iic]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=122",
   "source": "otomoneruki.js"
@@ -2336,7 +2336,7 @@ window.SONG_DATA.push(
     {
   "title": "金曜日のおはよう",
   "artist": "HoneyWorks  [wuZZBi3oPNU]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=123",
   "source": "otomoneruki.js"
@@ -2344,7 +2344,7 @@ window.SONG_DATA.push(
     {
   "title": "メロウ",
   "artist": "須田景凪  [wuZZBi3oPNU]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=124",
   "source": "otomoneruki.js"
@@ -2352,7 +2352,7 @@ window.SONG_DATA.push(
     {
   "title": "水平線",
   "artist": "back number  [wuZZBi3oPNU]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=125",
   "source": "otomoneruki.js"
@@ -2360,7 +2360,7 @@ window.SONG_DATA.push(
     {
   "title": "イケナイ太陽",
   "artist": "ORANGE RANGE  [wuZZBi3oPNU]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=126",
   "source": "otomoneruki.js"
@@ -2368,7 +2368,7 @@ window.SONG_DATA.push(
     {
   "title": "コネクト",
   "artist": "ClariS  [wuZZBi3oPNU]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=127",
   "source": "otomoneruki.js"
@@ -2376,7 +2376,7 @@ window.SONG_DATA.push(
     {
   "title": "サマータイムレコード",
   "artist": "じん(自然の敵P)feat.IA  [wuZZBi3oPNU]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=128",
   "source": "otomoneruki.js"
@@ -2384,7 +2384,7 @@ window.SONG_DATA.push(
     {
   "title": "ムーンライト伝説",
   "artist": "DALI  [wuZZBi3oPNU]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=129",
   "source": "otomoneruki.js"
@@ -2392,7 +2392,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell  [wuZZBi3oPNU]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=130",
   "source": "otomoneruki.js"
@@ -2400,7 +2400,7 @@ window.SONG_DATA.push(
     {
   "title": "CHA-LA HEAD-CHA-LA",
   "artist": "影山ヒロノブ  [wuZZBi3oPNU]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=131",
   "source": "otomoneruki.js"
@@ -2408,7 +2408,7 @@ window.SONG_DATA.push(
     {
   "title": "ライバル！",
   "artist": "松本梨香  [wuZZBi3oPNU]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=132",
   "source": "otomoneruki.js"
@@ -2416,7 +2416,7 @@ window.SONG_DATA.push(
     {
   "title": "気まぐれロマンティック",
   "artist": "いきものがかり  [wuZZBi3oPNU]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=133",
   "source": "otomoneruki.js"
@@ -2424,7 +2424,7 @@ window.SONG_DATA.push(
     {
   "title": "Fire◎Flower",
   "artist": "halyosy feat.鏡音レン  [wuZZBi3oPNU]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=134",
   "source": "otomoneruki.js"
@@ -2432,7 +2432,7 @@ window.SONG_DATA.push(
     {
   "title": "インフェルノ",
   "artist": "Mrs. GREEN APPLE  [wuZZBi3oPNU]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=135",
   "source": "otomoneruki.js"
@@ -2440,7 +2440,7 @@ window.SONG_DATA.push(
     {
   "title": "ダイヤモンドクレバス",
   "artist": "シェリル・ノーム starring May'n  [wuZZBi3oPNU]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=136",
   "source": "otomoneruki.js"
@@ -2448,7 +2448,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON  [wuZZBi3oPNU]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=137",
   "source": "otomoneruki.js"
@@ -2456,7 +2456,7 @@ window.SONG_DATA.push(
     {
   "title": "可愛くなりたい",
   "artist": "HoneyWorks  [wuZZBi3oPNU]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=138",
   "source": "otomoneruki.js"
@@ -2464,7 +2464,7 @@ window.SONG_DATA.push(
     {
   "title": "ケセラセラ",
   "artist": "Mrs. GREEN APPLE  [wuZZBi3oPNU]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=139",
   "source": "otomoneruki.js"
@@ -2472,7 +2472,7 @@ window.SONG_DATA.push(
     {
   "title": "私は最強",
   "artist": "Ado  [NjmE2PA8gPE]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=140",
   "source": "otomoneruki.js"
@@ -2480,7 +2480,7 @@ window.SONG_DATA.push(
     {
   "title": "青と夏(アコースティックver.)",
   "artist": "Mrs. GREEN APPLE  [NjmE2PA8gPE]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=141",
   "source": "otomoneruki.js"
@@ -2488,7 +2488,7 @@ window.SONG_DATA.push(
     {
   "title": "シャルル",
   "artist": "バルーン  [NjmE2PA8gPE]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=142",
   "source": "otomoneruki.js"
@@ -2496,7 +2496,7 @@ window.SONG_DATA.push(
     {
   "title": "ひゅるりらぱっぱ",
   "artist": "tuki.  [NjmE2PA8gPE]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=143",
   "source": "otomoneruki.js"
@@ -2504,7 +2504,7 @@ window.SONG_DATA.push(
     {
   "title": "スターマイン",
   "artist": "Da-iCE  [NjmE2PA8gPE]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=144",
   "source": "otomoneruki.js"
@@ -2512,7 +2512,7 @@ window.SONG_DATA.push(
     {
   "title": "喜劇",
   "artist": "星野 源  [K4A1Eeb1znw]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=145",
   "source": "otomoneruki.js"
@@ -2520,7 +2520,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI  [K4A1Eeb1znw]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=146",
   "source": "otomoneruki.js"
@@ -2528,7 +2528,7 @@ window.SONG_DATA.push(
     {
   "title": "Squall",
   "artist": "福山雅治  [K4A1Eeb1znw]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=147",
   "source": "otomoneruki.js"
@@ -2536,7 +2536,7 @@ window.SONG_DATA.push(
     {
   "title": "ひゅるりらぱっぱ",
   "artist": "tuki.  [K4A1Eeb1znw]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=148",
   "source": "otomoneruki.js"
@@ -2544,7 +2544,7 @@ window.SONG_DATA.push(
     {
   "title": "ハナミズキ",
   "artist": "一青窈  [K4A1Eeb1znw]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=149",
   "source": "otomoneruki.js"
@@ -2552,7 +2552,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れてください",
   "artist": "ヨルシカ  [K4A1Eeb1znw]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=150",
   "source": "otomoneruki.js"
@@ -2560,7 +2560,7 @@ window.SONG_DATA.push(
     {
   "title": "アカシア",
   "artist": "BUMP OF CHICKEN  [K4A1Eeb1znw]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=151",
   "source": "otomoneruki.js"
@@ -2568,7 +2568,7 @@ window.SONG_DATA.push(
     {
   "title": "SKILL",
   "artist": "JAM Project  [K4A1Eeb1znw]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=152",
   "source": "otomoneruki.js"
@@ -2576,7 +2576,7 @@ window.SONG_DATA.push(
     {
   "title": "雪、無音、窓辺にて。",
   "artist": "茅原実里  [K4A1Eeb1znw]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=153",
   "source": "otomoneruki.js"
@@ -2584,7 +2584,7 @@ window.SONG_DATA.push(
     {
   "title": "青春アミーゴ",
   "artist": "修二と彰  [K4A1Eeb1znw]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=154",
   "source": "otomoneruki.js"
@@ -2592,7 +2592,7 @@ window.SONG_DATA.push(
     {
   "title": "キセキ",
   "artist": "GReeeeN  [K4A1Eeb1znw]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=155",
   "source": "otomoneruki.js"
@@ -2600,7 +2600,7 @@ window.SONG_DATA.push(
     {
   "title": "イージーゲーム",
   "artist": "natsumi(feat.和ぬか)  [vQppMtiEbXo]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=156",
   "source": "otomoneruki.js"
@@ -2608,7 +2608,7 @@ window.SONG_DATA.push(
     {
   "title": "死ぬな！",
   "artist": "こっちのけんと  [vQppMtiEbXo]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=157",
   "source": "otomoneruki.js"
@@ -2616,7 +2616,7 @@ window.SONG_DATA.push(
     {
   "title": "真っ赤な誓い",
   "artist": "福山芳樹  [vQppMtiEbXo]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=158",
   "source": "otomoneruki.js"
@@ -2624,7 +2624,7 @@ window.SONG_DATA.push(
     {
   "title": "ようこそジャパリパークへ",
   "artist": "どうぶつビスケッツ×PPP  [vQppMtiEbXo]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=159",
   "source": "otomoneruki.js"
@@ -2632,7 +2632,7 @@ window.SONG_DATA.push(
     {
   "title": "クスシキ",
   "artist": "Mrs. GREEN APPLE  [vQppMtiEbXo]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=160",
   "source": "otomoneruki.js"
@@ -2640,7 +2640,7 @@ window.SONG_DATA.push(
     {
   "title": "涙そうそう",
   "artist": "夏川りみ  [vQppMtiEbXo]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=161",
   "source": "otomoneruki.js"
@@ -2648,7 +2648,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna  [vQppMtiEbXo]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=162",
   "source": "otomoneruki.js"
@@ -2656,7 +2656,7 @@ window.SONG_DATA.push(
     {
   "title": "ジェンガ",
   "artist": "40mP feat.初音ミク  [vQppMtiEbXo]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=163",
   "source": "otomoneruki.js"
@@ -2664,7 +2664,7 @@ window.SONG_DATA.push(
     {
   "title": "ピエロ",
   "artist": "KEI  [vQppMtiEbXo]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=164",
   "source": "otomoneruki.js"
@@ -2672,7 +2672,7 @@ window.SONG_DATA.push(
     {
   "title": "若者のすべて",
   "artist": "フジファブリック  [vQppMtiEbXo]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=165",
   "source": "otomoneruki.js"
@@ -2680,7 +2680,7 @@ window.SONG_DATA.push(
     {
   "title": "悪者",
   "artist": "くじら  [vQppMtiEbXo]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=166",
   "source": "otomoneruki.js"
@@ -2688,7 +2688,7 @@ window.SONG_DATA.push(
     {
   "title": "よるのあと",
   "artist": "adieu  [vQppMtiEbXo]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=167",
   "source": "otomoneruki.js"
@@ -2696,7 +2696,7 @@ window.SONG_DATA.push(
     {
   "title": "青と夏(アコースティックver.)",
   "artist": "Mrs. GREEN APPLE  [r81MnZ4Xt54]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=168",
   "source": "otomoneruki.js"
@@ -2704,7 +2704,7 @@ window.SONG_DATA.push(
     {
   "title": "ルージュの伝言",
   "artist": "荒井由実  [r81MnZ4Xt54]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=169",
   "source": "otomoneruki.js"
@@ -2712,7 +2712,7 @@ window.SONG_DATA.push(
     {
   "title": "残酷な天使のテーゼ",
   "artist": "高橋洋子  [r81MnZ4Xt54]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=170",
   "source": "otomoneruki.js"
@@ -2720,7 +2720,7 @@ window.SONG_DATA.push(
     {
   "title": "BOW AND ARROW",
   "artist": "米津玄師  [r81MnZ4Xt54]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=171",
   "source": "otomoneruki.js"
@@ -2728,7 +2728,7 @@ window.SONG_DATA.push(
     {
   "title": "ultra soul",
   "artist": "B'z  [r81MnZ4Xt54]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=172",
   "source": "otomoneruki.js"
@@ -2736,7 +2736,7 @@ window.SONG_DATA.push(
     {
   "title": "世界に一つだけの花",
   "artist": "SMAP  [r81MnZ4Xt54]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=173",
   "source": "otomoneruki.js"
@@ -2744,7 +2744,7 @@ window.SONG_DATA.push(
     {
   "title": "残響散歌",
   "artist": "Aimer  [r81MnZ4Xt54]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=174",
   "source": "otomoneruki.js"
@@ -2752,7 +2752,7 @@ window.SONG_DATA.push(
     {
   "title": "未来予想図Ⅱ",
   "artist": "DREAMS COME TRUE  [r81MnZ4Xt54]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=175",
   "source": "otomoneruki.js"
@@ -2760,7 +2760,7 @@ window.SONG_DATA.push(
     {
   "title": "チェリー",
   "artist": "スピッツ  [r81MnZ4Xt54]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=176",
   "source": "otomoneruki.js"
@@ -2768,7 +2768,7 @@ window.SONG_DATA.push(
     {
   "title": "女々しくて",
   "artist": "ゴールデンボンバー  [r81MnZ4Xt54]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=177",
   "source": "otomoneruki.js"
@@ -2776,7 +2776,7 @@ window.SONG_DATA.push(
     {
   "title": "はじめてのチュウ",
   "artist": "あんしんパパ  [r81MnZ4Xt54]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=178",
   "source": "otomoneruki.js"
@@ -2784,7 +2784,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里  [r81MnZ4Xt54]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=179",
   "source": "otomoneruki.js"
@@ -2792,7 +2792,7 @@ window.SONG_DATA.push(
     {
   "title": "物の怪の類",
   "artist": "めいちゃん  [r81MnZ4Xt54]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=180",
   "source": "otomoneruki.js"
@@ -2800,7 +2800,7 @@ window.SONG_DATA.push(
     {
   "title": "アポロ",
   "artist": "ポルノグラフィティ  [r81MnZ4Xt54]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=181",
   "source": "otomoneruki.js"
@@ -2808,7 +2808,7 @@ window.SONG_DATA.push(
     {
   "title": "マツケンサンバⅡ",
   "artist": "松平健  [r81MnZ4Xt54]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=182",
   "source": "otomoneruki.js"
@@ -2816,7 +2816,7 @@ window.SONG_DATA.push(
     {
   "title": "心絵",
   "artist": "ロードオブメジャー  [r81MnZ4Xt54]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=183",
   "source": "otomoneruki.js"
@@ -2824,7 +2824,7 @@ window.SONG_DATA.push(
     {
   "title": "東京",
   "artist": "くじら  [tFMzbplqQg4]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=184",
   "source": "otomoneruki.js"
@@ -2832,7 +2832,7 @@ window.SONG_DATA.push(
     {
   "title": "glow",
   "artist": "Keeno feat.初音ミク  [tFMzbplqQg4]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=185",
   "source": "otomoneruki.js"
@@ -2840,7 +2840,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON  [tFMzbplqQg4]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=186",
   "source": "otomoneruki.js"
@@ -2848,7 +2848,7 @@ window.SONG_DATA.push(
     {
   "title": "死神",
   "artist": "米津玄師  [tFMzbplqQg4]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=187",
   "source": "otomoneruki.js"
@@ -2856,7 +2856,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里  [tFMzbplqQg4]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=188",
   "source": "otomoneruki.js"
@@ -2864,7 +2864,7 @@ window.SONG_DATA.push(
     {
   "title": "Overdose",
   "artist": "なとり  [tFMzbplqQg4]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=189",
   "source": "otomoneruki.js"
@@ -2872,7 +2872,7 @@ window.SONG_DATA.push(
     {
   "title": "Calc.",
   "artist": "ジミーサムP  [tFMzbplqQg4]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=190",
   "source": "otomoneruki.js"
@@ -2880,7 +2880,7 @@ window.SONG_DATA.push(
     {
   "title": "Bling-Bang-Bang-Born",
   "artist": "Creepy Nuts  [tFMzbplqQg4]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=191",
   "source": "otomoneruki.js"
@@ -2888,7 +2888,7 @@ window.SONG_DATA.push(
     {
   "title": "オトノケ",
   "artist": "Creepy Nuts  [tFMzbplqQg4]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=192",
   "source": "otomoneruki.js"
@@ -2896,7 +2896,7 @@ window.SONG_DATA.push(
     {
   "title": "Habit",
   "artist": "SEKAI NO OWARI  [tFMzbplqQg4]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=193",
   "source": "otomoneruki.js"
@@ -2904,7 +2904,7 @@ window.SONG_DATA.push(
     {
   "title": "シャルル",
   "artist": "バルーン  [tFMzbplqQg4]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=194",
   "source": "otomoneruki.js"
@@ -2912,7 +2912,7 @@ window.SONG_DATA.push(
     {
   "title": "ビビデバ",
   "artist": "星街すいせい  [tFMzbplqQg4]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=195",
   "source": "otomoneruki.js"
@@ -2920,7 +2920,7 @@ window.SONG_DATA.push(
     {
   "title": "ケセラセラ",
   "artist": "Mrs. GREEN APPLE  [tFMzbplqQg4]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=196",
   "source": "otomoneruki.js"
@@ -2928,7 +2928,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピーラッキーチャッピー",
   "artist": "ano  [tFMzbplqQg4]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=197",
   "source": "otomoneruki.js"
@@ -2936,7 +2936,7 @@ window.SONG_DATA.push(
     {
   "title": "花占い",
   "artist": "Vaundy  [tFMzbplqQg4]",
-  "collection": "【音門るき😈歌切】2025-06-07 ~ 2025-09-20",
+  "collection": "【Music Gate😈Song Cut】2025-06-07 ~ 2025-09-20",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7f8BbEQm?p=198",
   "source": "otomoneruki.js"
@@ -2944,7 +2944,7 @@ window.SONG_DATA.push(
     {
   "title": "嫌々",
   "artist": "HALVES  [DQ_YbSZ0Tvk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=1",
   "source": "otomoneruki.js"
@@ -2952,7 +2952,7 @@ window.SONG_DATA.push(
     {
   "title": "猫",
   "artist": "DISH／／  [DQ_YbSZ0Tvk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=2",
   "source": "otomoneruki.js"
@@ -2960,7 +2960,7 @@ window.SONG_DATA.push(
     {
   "title": "燈",
   "artist": "崎山蒼志  [DQ_YbSZ0Tvk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=3",
   "source": "otomoneruki.js"
@@ -2968,7 +2968,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れてください",
   "artist": "ヨルシカ  [DQ_YbSZ0Tvk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=4",
   "source": "otomoneruki.js"
@@ -2976,7 +2976,7 @@ window.SONG_DATA.push(
     {
   "title": "呼吸",
   "artist": "くじら  [DQ_YbSZ0Tvk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=5",
   "source": "otomoneruki.js"
@@ -2984,7 +2984,7 @@ window.SONG_DATA.push(
     {
   "title": "Lemon",
   "artist": "米津玄師  [DQ_YbSZ0Tvk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=6",
   "source": "otomoneruki.js"
@@ -2992,7 +2992,7 @@ window.SONG_DATA.push(
     {
   "title": "踊り子",
   "artist": "Vaundy  [DQ_YbSZ0Tvk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=7",
   "source": "otomoneruki.js"
@@ -3000,7 +3000,7 @@ window.SONG_DATA.push(
     {
   "title": "ソラニン",
   "artist": "ASIAN KUNG-FU GENERATION  [DQ_YbSZ0Tvk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=8",
   "source": "otomoneruki.js"
@@ -3008,7 +3008,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション  [DQ_YbSZ0Tvk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=9",
   "source": "otomoneruki.js"
@@ -3016,7 +3016,7 @@ window.SONG_DATA.push(
     {
   "title": "メロウ",
   "artist": "須田景凪  [Bo8jEZYldZw]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=10",
   "source": "otomoneruki.js"
@@ -3024,7 +3024,7 @@ window.SONG_DATA.push(
     {
   "title": "美しい鰭",
   "artist": "スピッツ  [Bo8jEZYldZw]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=11",
   "source": "otomoneruki.js"
@@ -3032,7 +3032,7 @@ window.SONG_DATA.push(
     {
   "title": "ぎゅっと。",
   "artist": "もさを  [Bo8jEZYldZw]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=12",
   "source": "otomoneruki.js"
@@ -3040,7 +3040,7 @@ window.SONG_DATA.push(
     {
   "title": "アイネクライネ",
   "artist": "米津玄師  [Bo8jEZYldZw]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=13",
   "source": "otomoneruki.js"
@@ -3048,7 +3048,7 @@ window.SONG_DATA.push(
     {
   "title": "月光花",
   "artist": "Janne Da Arc  [dtU8fj-t1oQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=14",
   "source": "otomoneruki.js"
@@ -3056,7 +3056,7 @@ window.SONG_DATA.push(
     {
   "title": "ラヴィ",
   "artist": "すりぃ  [dtU8fj-t1oQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=15",
   "source": "otomoneruki.js"
@@ -3064,7 +3064,7 @@ window.SONG_DATA.push(
     {
   "title": "レオ",
   "artist": "優里  [dtU8fj-t1oQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=16",
   "source": "otomoneruki.js"
@@ -3072,7 +3072,7 @@ window.SONG_DATA.push(
     {
   "title": "翼をください",
   "artist": "桜高軽音部(けいおん！)  [dtU8fj-t1oQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=17",
   "source": "otomoneruki.js"
@@ -3080,7 +3080,7 @@ window.SONG_DATA.push(
     {
   "title": "クスシキ",
   "artist": "Mrs. GREEN APPLE  [dtU8fj-t1oQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=18",
   "source": "otomoneruki.js"
@@ -3088,7 +3088,7 @@ window.SONG_DATA.push(
     {
   "title": "One Love",
   "artist": "嵐  [dtU8fj-t1oQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=19",
   "source": "otomoneruki.js"
@@ -3096,7 +3096,7 @@ window.SONG_DATA.push(
     {
   "title": "HOT LIMIT",
   "artist": "T. M. Revolution  [dtU8fj-t1oQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=20",
   "source": "otomoneruki.js"
@@ -3104,7 +3104,7 @@ window.SONG_DATA.push(
     {
   "title": "感電",
   "artist": "米津玄師  [dtU8fj-t1oQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=21",
   "source": "otomoneruki.js"
@@ -3112,7 +3112,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna  [dtU8fj-t1oQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=22",
   "source": "otomoneruki.js"
@@ -3120,7 +3120,7 @@ window.SONG_DATA.push(
     {
   "title": "Fire◎Flower",
   "artist": "halyosy feat. 鏡音レン  [dtU8fj-t1oQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=23",
   "source": "otomoneruki.js"
@@ -3128,7 +3128,7 @@ window.SONG_DATA.push(
     {
   "title": "めざせポケモンマスター",
   "artist": "松本梨香  [dtU8fj-t1oQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=24",
   "source": "otomoneruki.js"
@@ -3136,7 +3136,7 @@ window.SONG_DATA.push(
     {
   "title": "ワンダーランドと羊の歌",
   "artist": "ハチ  [dtU8fj-t1oQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=25",
   "source": "otomoneruki.js"
@@ -3144,7 +3144,7 @@ window.SONG_DATA.push(
     {
   "title": "スターマイン",
   "artist": "Da-iCE  [dtU8fj-t1oQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=26",
   "source": "otomoneruki.js"
@@ -3152,7 +3152,7 @@ window.SONG_DATA.push(
     {
   "title": "レイン",
   "artist": "シド  [9zc4s37sRuQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=27",
   "source": "otomoneruki.js"
@@ -3160,7 +3160,7 @@ window.SONG_DATA.push(
     {
   "title": "恋",
   "artist": "星野源  [9zc4s37sRuQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=28",
   "source": "otomoneruki.js"
@@ -3168,7 +3168,7 @@ window.SONG_DATA.push(
     {
   "title": "フレンジャー",
   "artist": "大塚 愛  [9zc4s37sRuQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=29",
   "source": "otomoneruki.js"
@@ -3176,7 +3176,7 @@ window.SONG_DATA.push(
     {
   "title": "ハレンチ",
   "artist": "ちゃんみな  [9zc4s37sRuQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=30",
   "source": "otomoneruki.js"
@@ -3184,7 +3184,7 @@ window.SONG_DATA.push(
     {
   "title": "おとせサンダー",
   "artist": "ぼっちぼろまる  [9zc4s37sRuQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=31",
   "source": "otomoneruki.js"
@@ -3192,7 +3192,7 @@ window.SONG_DATA.push(
     {
   "title": "IRIS OUT",
   "artist": "米津玄師  [9zc4s37sRuQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=32",
   "source": "otomoneruki.js"
@@ -3200,7 +3200,7 @@ window.SONG_DATA.push(
     {
   "title": "愛を伝えたいだとか",
   "artist": "あいみょん  [9zc4s37sRuQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=33",
   "source": "otomoneruki.js"
@@ -3208,7 +3208,7 @@ window.SONG_DATA.push(
     {
   "title": "オリオンをなぞる",
   "artist": "UNISON SQUARE GARDEN  [9zc4s37sRuQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=34",
   "source": "otomoneruki.js"
@@ -3216,7 +3216,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI  [9zc4s37sRuQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=35",
   "source": "otomoneruki.js"
@@ -3224,7 +3224,7 @@ window.SONG_DATA.push(
     {
   "title": "水平線",
   "artist": "back number  [9zc4s37sRuQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=36",
   "source": "otomoneruki.js"
@@ -3232,7 +3232,7 @@ window.SONG_DATA.push(
     {
   "title": "ランデヴー",
   "artist": "シャイトープ  [9zc4s37sRuQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=37",
   "source": "otomoneruki.js"
@@ -3240,7 +3240,7 @@ window.SONG_DATA.push(
     {
   "title": "ミスター・ブルースカイ",
   "artist": "マカロニえんぴつ  [9zc4s37sRuQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=38",
   "source": "otomoneruki.js"
@@ -3248,7 +3248,7 @@ window.SONG_DATA.push(
     {
   "title": "ヴァンパイア",
   "artist": "DECO*27 [9zc4s37sRuQ]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=39",
   "source": "otomoneruki.js"
@@ -3256,7 +3256,7 @@ window.SONG_DATA.push(
     {
   "title": "プロポーズ",
   "artist": "なとり  [_fQan8lzUno]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=40",
   "source": "otomoneruki.js"
@@ -3264,7 +3264,7 @@ window.SONG_DATA.push(
     {
   "title": "カサブタ",
   "artist": "千綿ヒデノリ  [_fQan8lzUno]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=41",
   "source": "otomoneruki.js"
@@ -3272,7 +3272,7 @@ window.SONG_DATA.push(
     {
   "title": "東京",
   "artist": "くじら  [_fQan8lzUno]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=42",
   "source": "otomoneruki.js"
@@ -3280,7 +3280,7 @@ window.SONG_DATA.push(
     {
   "title": "夜撫でるメノウ",
   "artist": "Ayase feat. 初音ミク  [_fQan8lzUno]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=43",
   "source": "otomoneruki.js"
@@ -3288,7 +3288,7 @@ window.SONG_DATA.push(
     {
   "title": "三日月",
   "artist": "絢香  [_fQan8lzUno]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=44",
   "source": "otomoneruki.js"
@@ -3296,7 +3296,7 @@ window.SONG_DATA.push(
     {
   "title": "CHE.R.RY",
   "artist": "YUI  [_fQan8lzUno]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=45",
   "source": "otomoneruki.js"
@@ -3304,7 +3304,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI  [_fQan8lzUno]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=46",
   "source": "otomoneruki.js"
@@ -3312,7 +3312,7 @@ window.SONG_DATA.push(
     {
   "title": "アカシア",
   "artist": "BUMP OF CHICKEN  [_fQan8lzUno]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=47",
   "source": "otomoneruki.js"
@@ -3320,7 +3320,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.  [_fQan8lzUno]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=48",
   "source": "otomoneruki.js"
@@ -3328,7 +3328,7 @@ window.SONG_DATA.push(
     {
   "title": "IRIS OUT",
   "artist": "米津玄師  [_fQan8lzUno]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=49",
   "source": "otomoneruki.js"
@@ -3336,7 +3336,7 @@ window.SONG_DATA.push(
     {
   "title": "Oz.",
   "artist": "yama  [_fQan8lzUno]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=50",
   "source": "otomoneruki.js"
@@ -3344,7 +3344,7 @@ window.SONG_DATA.push(
     {
   "title": "ラフメイカー",
   "artist": "BUMP OF CHICKEN  [_fQan8lzUno]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=51",
   "source": "otomoneruki.js"
@@ -3352,7 +3352,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション  [N9NDpl63SbA]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=52",
   "source": "otomoneruki.js"
@@ -3360,7 +3360,7 @@ window.SONG_DATA.push(
     {
   "title": "メーベル",
   "artist": "flower  [N9NDpl63SbA]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=53",
   "source": "otomoneruki.js"
@@ -3368,7 +3368,7 @@ window.SONG_DATA.push(
     {
   "title": "千本桜",
   "artist": "黒うさ feat.初音ミク  [N9NDpl63SbA]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=54",
   "source": "otomoneruki.js"
@@ -3376,7 +3376,7 @@ window.SONG_DATA.push(
     {
   "title": "残響散歌",
   "artist": "Aimer  [N9NDpl63SbA]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=55",
   "source": "otomoneruki.js"
@@ -3384,7 +3384,7 @@ window.SONG_DATA.push(
     {
   "title": "天体観測",
   "artist": "BUMP OF CHICKEN  [N9NDpl63SbA]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=56",
   "source": "otomoneruki.js"
@@ -3392,7 +3392,7 @@ window.SONG_DATA.push(
     {
   "title": "なんでもないや",
   "artist": "上白石萌音  [N9NDpl63SbA]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=57",
   "source": "otomoneruki.js"
@@ -3400,7 +3400,7 @@ window.SONG_DATA.push(
     {
   "title": "プラネテス",
   "artist": "seiza  [N9NDpl63SbA]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=58",
   "source": "otomoneruki.js"
@@ -3408,7 +3408,7 @@ window.SONG_DATA.push(
     {
   "title": "からくりピエロ",
   "artist": "40mP  [N9NDpl63SbA]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=59",
   "source": "otomoneruki.js"
@@ -3416,7 +3416,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE  [N9NDpl63SbA]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=60",
   "source": "otomoneruki.js"
@@ -3424,7 +3424,7 @@ window.SONG_DATA.push(
     {
   "title": "イケナイ太陽",
   "artist": "ORANGE RANGE  [N9NDpl63SbA]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=61",
   "source": "otomoneruki.js"
@@ -3432,7 +3432,7 @@ window.SONG_DATA.push(
     {
   "title": "オリオンをなぞる",
   "artist": "UNISON SQUARE GARDEN  [N9NDpl63SbA]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=62",
   "source": "otomoneruki.js"
@@ -3440,7 +3440,7 @@ window.SONG_DATA.push(
     {
   "title": "サウダージ",
   "artist": "ポルノグラフィティ  [bpfO84hAfbk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=63",
   "source": "otomoneruki.js"
@@ -3448,7 +3448,7 @@ window.SONG_DATA.push(
     {
   "title": "以心電信",
   "artist": "ORANGE RANGE  [bpfO84hAfbk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=64",
   "source": "otomoneruki.js"
@@ -3456,7 +3456,7 @@ window.SONG_DATA.push(
     {
   "title": "アポロ",
   "artist": "ポルノグラフィティ  [bpfO84hAfbk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=65",
   "source": "otomoneruki.js"
@@ -3464,7 +3464,7 @@ window.SONG_DATA.push(
     {
   "title": "シュガーソングとビターステップ",
   "artist": "UNISON SQUARE GARDEN  [bpfO84hAfbk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=66",
   "source": "otomoneruki.js"
@@ -3472,7 +3472,7 @@ window.SONG_DATA.push(
     {
   "title": "ハレ晴れユカイ",
   "artist": "涼宮ハルヒ(平野綾)×長門有希(茅原実里)×朝比奈みくる(後藤邑子)  [bpfO84hAfbk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=67",
   "source": "otomoneruki.js"
@@ -3480,7 +3480,7 @@ window.SONG_DATA.push(
     {
   "title": "曇天",
   "artist": "DOES  [bpfO84hAfbk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=68",
   "source": "otomoneruki.js"
@@ -3488,7 +3488,7 @@ window.SONG_DATA.push(
     {
   "title": "美しい鰭",
   "artist": "スピッツ  [bpfO84hAfbk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=69",
   "source": "otomoneruki.js"
@@ -3496,7 +3496,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ  [bpfO84hAfbk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=70",
   "source": "otomoneruki.js"
@@ -3504,7 +3504,7 @@ window.SONG_DATA.push(
     {
   "title": "Soranji",
   "artist": "Mrs. GREEN APPLE  [bpfO84hAfbk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=71",
   "source": "otomoneruki.js"
@@ -3512,7 +3512,7 @@ window.SONG_DATA.push(
     {
   "title": "GLAMOROUS SKY",
   "artist": "中島美嘉  [bpfO84hAfbk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=72",
   "source": "otomoneruki.js"
@@ -3520,7 +3520,7 @@ window.SONG_DATA.push(
     {
   "title": "ハネウマライダー",
   "artist": "ポルノグラフィティ  [bpfO84hAfbk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=73",
   "source": "otomoneruki.js"
@@ -3528,7 +3528,7 @@ window.SONG_DATA.push(
     {
   "title": "夜桜",
   "artist": "くじら feat. めいちゃん  [bpfO84hAfbk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=74",
   "source": "otomoneruki.js"
@@ -3536,7 +3536,7 @@ window.SONG_DATA.push(
     {
   "title": "Lemon",
   "artist": "米津玄師  [bpfO84hAfbk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=75",
   "source": "otomoneruki.js"
@@ -3544,7 +3544,7 @@ window.SONG_DATA.push(
     {
   "title": "水平線",
   "artist": "back number  [bpfO84hAfbk]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=76",
   "source": "otomoneruki.js"
@@ -3552,7 +3552,7 @@ window.SONG_DATA.push(
     {
   "title": "キラキラ",
   "artist": "aiko  [XoljMf43gk4]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=77",
   "source": "otomoneruki.js"
@@ -3560,7 +3560,7 @@ window.SONG_DATA.push(
     {
   "title": "光のすみか",
   "artist": "安田レイ  [XoljMf43gk4]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=78",
   "source": "otomoneruki.js"
@@ -3568,7 +3568,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの  [XoljMf43gk4]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=79",
   "source": "otomoneruki.js"
@@ -3576,7 +3576,7 @@ window.SONG_DATA.push(
     {
   "title": "breakfast",
   "artist": "Mrs. GREEN APPLE  [XoljMf43gk4]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=80",
   "source": "otomoneruki.js"
@@ -3584,7 +3584,7 @@ window.SONG_DATA.push(
     {
   "title": "気まぐれロマンティック",
   "artist": "いきものがかり  [XoljMf43gk4]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=81",
   "source": "otomoneruki.js"
@@ -3592,7 +3592,7 @@ window.SONG_DATA.push(
     {
   "title": "花",
   "artist": "ORANGE RANGE  [XoljMf43gk4]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=82",
   "source": "otomoneruki.js"
@@ -3600,7 +3600,7 @@ window.SONG_DATA.push(
     {
   "title": "オトノケ",
   "artist": "Creepy Nuts  [XoljMf43gk4]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=83",
   "source": "otomoneruki.js"
@@ -3608,7 +3608,7 @@ window.SONG_DATA.push(
     {
   "title": "アイデア",
   "artist": "星野源  [XoljMf43gk4]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=84",
   "source": "otomoneruki.js"
@@ -3616,7 +3616,7 @@ window.SONG_DATA.push(
     {
   "title": "表裏一体",
   "artist": "ゆず  [XoljMf43gk4]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=85",
   "source": "otomoneruki.js"
@@ -3624,7 +3624,7 @@ window.SONG_DATA.push(
     {
   "title": "じょいふる",
   "artist": "いきものがかり  [XoljMf43gk4]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=86",
   "source": "otomoneruki.js"
@@ -3632,7 +3632,7 @@ window.SONG_DATA.push(
     {
   "title": "イマジネーション",
   "artist": "SPYAIR  [XoljMf43gk4]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=87",
   "source": "otomoneruki.js"
@@ -3640,7 +3640,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "いきものがかり  [XoljMf43gk4]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=88",
   "source": "otomoneruki.js"
@@ -3648,7 +3648,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON  [XoljMf43gk4]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=89",
   "source": "otomoneruki.js"
@@ -3656,7 +3656,7 @@ window.SONG_DATA.push(
     {
   "title": "オトノケ",
   "artist": "Creepy Nuts  [i-_oKb274IA]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=90",
   "source": "otomoneruki.js"
@@ -3664,7 +3664,7 @@ window.SONG_DATA.push(
     {
   "title": "BLUE WATER",
   "artist": "森川美穂  [i-_oKb274IA]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=91",
   "source": "otomoneruki.js"
@@ -3672,7 +3672,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション  [i-_oKb274IA]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=92",
   "source": "otomoneruki.js"
@@ -3680,7 +3680,7 @@ window.SONG_DATA.push(
     {
   "title": "裸の勇者",
   "artist": "Vaudy  [i-_oKb274IA]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=93",
   "source": "otomoneruki.js"
@@ -3688,7 +3688,7 @@ window.SONG_DATA.push(
     {
   "title": "逆光",
   "artist": "Ado  [i-_oKb274IA]",
-  "collection": "【音門るき👿歌切】2025-09-25 ~ 2025-12-13",
+  "collection": "【Music Door Song Cuts👿】2025-09-25 ~ 2025-12-13",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1DofhBDEVV?p=94",
   "source": "otomoneruki.js"
@@ -3696,7 +3696,7 @@ window.SONG_DATA.push(
     {
   "title": "I",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【音門るき😈歌切】[2026-02-28]接力-愛が伝わる歌枠を[CGEcI9_4IdU]",
+  "collection": "【Otokado Ruki😈Song Cuts】[2026-02-28] Relay - Songs That Convey Love [CGEcI9_4IdU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TeAazcERq?p=1",
   "source": "otomoneruki.js"
@@ -3704,7 +3704,7 @@ window.SONG_DATA.push(
     {
   "title": "瞬き",
   "artist": "back number",
-  "collection": "【音門るき😈歌切】[2026-02-28]接力-愛が伝わる歌枠を[CGEcI9_4IdU]",
+  "collection": "【Otokado Ruki😈Song Cuts】[2026-02-28] Relay - Songs That Convey Love [CGEcI9_4IdU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TeAazcERq?p=2",
   "source": "otomoneruki.js"
@@ -3712,7 +3712,7 @@ window.SONG_DATA.push(
     {
   "title": "ぎゅっと。",
   "artist": "もさを。",
-  "collection": "【音門るき😈歌切】[2026-02-28]接力-愛が伝わる歌枠を[CGEcI9_4IdU]",
+  "collection": "【Otokado Ruki😈Song Cuts】[2026-02-28] Relay - Songs That Convey Love [CGEcI9_4IdU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TeAazcERq?p=3",
   "source": "otomoneruki.js"
@@ -3720,7 +3720,7 @@ window.SONG_DATA.push(
     {
   "title": "Anytime Anywhere",
   "artist": "Milet",
-  "collection": "【音門るき😈歌切】[2026-02-28]接力-愛が伝わる歌枠を[CGEcI9_4IdU]",
+  "collection": "【Otokado Ruki😈Song Cuts】[2026-02-28] Relay - Songs That Convey Love [CGEcI9_4IdU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TeAazcERq?p=4",
   "source": "otomoneruki.js"
@@ -3728,7 +3728,7 @@ window.SONG_DATA.push(
     {
   "title": "lulu.",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【音門るき😈歌切】[2026-02-28]接力-愛が伝わる歌枠を[CGEcI9_4IdU]",
+  "collection": "【Otokado Ruki😈Song Cuts】[2026-02-28] Relay - Songs That Convey Love [CGEcI9_4IdU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TeAazcERq?p=5",
   "source": "otomoneruki.js"
@@ -3736,7 +3736,7 @@ window.SONG_DATA.push(
     {
   "title": "orion",
   "artist": "米津玄師",
-  "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
+  "collection": "【Ne-door Ruki😈Song Cut】[2026-02-28]Late-night singing slot instead of radio📻🎶Not sure if you can sleep👿[VrpinzvczyU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=1",
   "source": "otomoneruki.js"
@@ -3744,7 +3744,7 @@ window.SONG_DATA.push(
     {
   "title": "オリオンをなぞる",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
+  "collection": "【Ne-door Ruki😈Song Cut】[2026-02-28]Late-night singing slot instead of radio📻🎶Not sure if you can sleep👿[VrpinzvczyU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=2",
   "source": "otomoneruki.js"
@@ -3752,7 +3752,7 @@ window.SONG_DATA.push(
     {
   "title": "コトノハ",
   "artist": "tuki.",
-  "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
+  "collection": "【Ne-door Ruki😈Song Cut】[2026-02-28]Late-night singing slot instead of radio📻🎶Not sure if you can sleep👿[VrpinzvczyU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=3",
   "source": "otomoneruki.js"
@@ -3760,7 +3760,7 @@ window.SONG_DATA.push(
     {
   "title": "カルマ",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
+  "collection": "【Ne-door Ruki😈Song Cut】[2026-02-28]Late-night singing slot instead of radio📻🎶Not sure if you can sleep👿[VrpinzvczyU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=4",
   "source": "otomoneruki.js"
@@ -3768,7 +3768,7 @@ window.SONG_DATA.push(
     {
   "title": "バイオレンス",
   "artist": "女王蜂",
-  "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
+  "collection": "【Ne-door Ruki😈Song Cut】[2026-02-28]Late-night singing slot instead of radio📻🎶Not sure if you can sleep👿[VrpinzvczyU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=5",
   "source": "otomoneruki.js"
@@ -3776,7 +3776,7 @@ window.SONG_DATA.push(
     {
   "title": "ジェンガ",
   "artist": "40mP feat. 初音ミク",
-  "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
+  "collection": "【Ne-door Ruki😈Song Cut】[2026-02-28]Late-night singing slot instead of radio📻🎶Not sure if you can sleep👿[VrpinzvczyU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=6",
   "source": "otomoneruki.js"
@@ -3784,7 +3784,7 @@ window.SONG_DATA.push(
     {
   "title": "燈",
   "artist": "崎山蒼志",
-  "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
+  "collection": "【Ne-door Ruki😈Song Cut】[2026-02-28]Late-night singing slot instead of radio📻🎶Not sure if you can sleep👿[VrpinzvczyU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=7",
   "source": "otomoneruki.js"
@@ -3792,7 +3792,7 @@ window.SONG_DATA.push(
     {
   "title": "花占い",
   "artist": "Vaundy",
-  "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
+  "collection": "【Ne-door Ruki😈Song Cut】[2026-02-28]Late-night singing slot instead of radio📻🎶Not sure if you can sleep👿[VrpinzvczyU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=8",
   "source": "otomoneruki.js"
@@ -3800,7 +3800,7 @@ window.SONG_DATA.push(
     {
   "title": "初めての恋が終わる時",
   "artist": "supercell feat. 初音ミク",
-  "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
+  "collection": "【Ne-door Ruki😈Song Cut】[2026-02-28]Late-night singing slot instead of radio📻🎶Not sure if you can sleep👿[VrpinzvczyU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=9",
   "source": "otomoneruki.js"
@@ -3808,7 +3808,7 @@ window.SONG_DATA.push(
     {
   "title": "回る空うさぎ",
   "artist": "Orangestars",
-  "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
+  "collection": "【Ne-door Ruki😈Song Cut】[2026-02-28]Late-night singing slot instead of radio📻🎶Not sure if you can sleep👿[VrpinzvczyU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=10",
   "source": "otomoneruki.js"
@@ -3816,7 +3816,7 @@ window.SONG_DATA.push(
     {
   "title": "おやすみ泣き声、さよなら歌姫",
   "artist": "クリープハイプ",
-  "collection": "【音門るき😈歌切】[2026-02-28]ラジオ代わりの深夜歌枠📻🎶睡眠できるかは不明👿[VrpinzvczyU]",
+  "collection": "【Ne-door Ruki😈Song Cut】[2026-02-28]Late-night singing slot instead of radio📻🎶Not sure if you can sleep👿[VrpinzvczyU]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BiAYzmE1y?p=11",
   "source": "otomoneruki.js"
@@ -3824,7 +3824,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "collection": "【👿Song Cut】[2026-03-07]Night Radio Replacement Song Slot📻🎶Just listen to one song for now～😈✨[raUb6SWkOKw]Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=1",
   "source": "otomoneruki.js"
@@ -3832,7 +3832,7 @@ window.SONG_DATA.push(
     {
   "title": "I",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "collection": "【👿Song Cut】[2026-03-07]Night Radio Replacement Song Slot📻🎶Just listen to one song for now～😈✨[raUb6SWkOKw]Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=2",
   "source": "otomoneruki.js"
@@ -3840,7 +3840,7 @@ window.SONG_DATA.push(
     {
   "title": "夜桜",
   "artist": "くじら feat. めいちゃん",
-  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "collection": "【👿Song Cut】[2026-03-07]Night Radio Replacement Song Slot📻🎶Just listen to one song for now～😈✨[raUb6SWkOKw]Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=3",
   "source": "otomoneruki.js"
@@ -3848,7 +3848,7 @@ window.SONG_DATA.push(
     {
   "title": "ニア",
   "artist": "初音ミク feat. 夏代孝明",
-  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "collection": "【👿Song Cut】[2026-03-07]Night Radio Replacement Song Slot📻🎶Just listen to one song for now～😈✨[raUb6SWkOKw]Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=4",
   "source": "otomoneruki.js"
@@ -3856,7 +3856,7 @@ window.SONG_DATA.push(
     {
   "title": "AIZO",
   "artist": "KING Gnu",
-  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "collection": "【👿Song Cut】[2026-03-07]Night Radio Replacement Song Slot📻🎶Just listen to one song for now～😈✨[raUb6SWkOKw]Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=5",
   "source": "otomoneruki.js"
@@ -3864,7 +3864,7 @@ window.SONG_DATA.push(
     {
   "title": "ハロ／ハワユ",
   "artist": "ナノウ（ほえほえP） feat. 初音ミク",
-  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "collection": "【👿Song Cut】[2026-03-07]Night Radio Replacement Song Slot📻🎶Just listen to one song for now～😈✨[raUb6SWkOKw]Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=6",
   "source": "otomoneruki.js"
@@ -3872,7 +3872,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "collection": "【👿Song Cut】[2026-03-07]Night Radio Replacement Song Slot📻🎶Just listen to one song for now～😈✨[raUb6SWkOKw]Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=7",
   "source": "otomoneruki.js"
@@ -3880,7 +3880,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "collection": "【👿Song Cut】[2026-03-07]Night Radio Replacement Song Slot📻🎶Just listen to one song for now～😈✨[raUb6SWkOKw]Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=8",
   "source": "otomoneruki.js"
@@ -3888,7 +3888,7 @@ window.SONG_DATA.push(
     {
   "title": "オトノケ",
   "artist": "Creepy Nuts",
-  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "collection": "【👿Song Cut】[2026-03-07]Night Radio Replacement Song Slot📻🎶Just listen to one song for now～😈✨[raUb6SWkOKw]Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=9",
   "source": "otomoneruki.js"
@@ -3896,7 +3896,7 @@ window.SONG_DATA.push(
     {
   "title": "Anytime Anywhere",
   "artist": "Milet",
-  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "collection": "【👿Song Cut】[2026-03-07]Night Radio Replacement Song Slot📻🎶Just listen to one song for now～😈✨[raUb6SWkOKw]Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=10",
   "source": "otomoneruki.js"
@@ -3904,7 +3904,7 @@ window.SONG_DATA.push(
     {
   "title": "クスシキ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "collection": "【👿Song Cut】[2026-03-07]Night Radio Replacement Song Slot📻🎶Just listen to one song for now～😈✨[raUb6SWkOKw]Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=11",
   "source": "otomoneruki.js"
@@ -3912,7 +3912,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON",
-  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "collection": "【👿Song Cut】[2026-03-07]Night Radio Replacement Song Slot📻🎶Just listen to one song for now～😈✨[raUb6SWkOKw]Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=12",
   "source": "otomoneruki.js"
@@ -3920,7 +3920,7 @@ window.SONG_DATA.push(
     {
   "title": "ビビデバ",
   "artist": "星街すいせい",
-  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "collection": "【👿Song Cut】[2026-03-07]Night Radio Replacement Song Slot📻🎶Just listen to one song for now～😈✨[raUb6SWkOKw]Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=13",
   "source": "otomoneruki.js"
@@ -3928,7 +3928,7 @@ window.SONG_DATA.push(
     {
   "title": "最高到達点",
   "artist": "SEKAI NO OWARI",
-  "collection": "【👿歌切】[2026-03-07]ラジオ代わりの夜歌枠📻🎶とりあえず一曲聞いてって～😈✨[raUb6SWkOKw]音門るき",
+  "collection": "【👿Song Cut】[2026-03-07]Night Radio Replacement Song Slot📻🎶Just listen to one song for now～😈✨[raUb6SWkOKw]Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jNNPzPEnu?p=14",
   "source": "otomoneruki.js"
@@ -3936,7 +3936,7 @@ window.SONG_DATA.push(
     {
   "title": "メランコリーキッチン",
   "artist": "米津玄師",
-  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-13] Early morning music session replacing radio 📻🎶Please listen to this song😈✨[jVy9ltTcTAk] Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=1",
   "source": "otomoneruki.js"
@@ -3944,7 +3944,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-13] Early morning music session replacing radio 📻🎶Please listen to this song😈✨[jVy9ltTcTAk] Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=2",
   "source": "otomoneruki.js"
@@ -3952,7 +3952,7 @@ window.SONG_DATA.push(
     {
   "title": "アナタノオト",
   "artist": "ランカ・リー",
-  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-13] Early morning music session replacing radio 📻🎶Please listen to this song😈✨[jVy9ltTcTAk] Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=3",
   "source": "otomoneruki.js"
@@ -3960,7 +3960,7 @@ window.SONG_DATA.push(
     {
   "title": "心拍数♯0822",
   "artist": "蝶々P feat. 初音ミク",
-  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-13] Early morning music session replacing radio 📻🎶Please listen to this song😈✨[jVy9ltTcTAk] Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=4",
   "source": "otomoneruki.js"
@@ -3968,7 +3968,7 @@ window.SONG_DATA.push(
     {
   "title": "金曜日のおはよう",
   "artist": "HoneyWorks",
-  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-13] Early morning music session replacing radio 📻🎶Please listen to this song😈✨[jVy9ltTcTAk] Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=5",
   "source": "otomoneruki.js"
@@ -3976,7 +3976,7 @@ window.SONG_DATA.push(
     {
   "title": "breakfast",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-13] Early morning music session replacing radio 📻🎶Please listen to this song😈✨[jVy9ltTcTAk] Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=6",
   "source": "otomoneruki.js"
@@ -3984,7 +3984,7 @@ window.SONG_DATA.push(
     {
   "title": "呼吸",
   "artist": "くじら",
-  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-13] Early morning music session replacing radio 📻🎶Please listen to this song😈✨[jVy9ltTcTAk] Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=7",
   "source": "otomoneruki.js"
@@ -3992,7 +3992,7 @@ window.SONG_DATA.push(
     {
   "title": "雫",
   "artist": "スキマスイッチ",
-  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-13] Early morning music session replacing radio 📻🎶Please listen to this song😈✨[jVy9ltTcTAk] Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=8",
   "source": "otomoneruki.js"
@@ -4000,7 +4000,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れてください",
   "artist": "ヨルシカ",
-  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-13] Early morning music session replacing radio 📻🎶Please listen to this song😈✨[jVy9ltTcTAk] Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=9",
   "source": "otomoneruki.js"
@@ -4008,7 +4008,7 @@ window.SONG_DATA.push(
     {
   "title": "Tokimeki",
   "artist": "Vaundy",
-  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-13] Early morning music session replacing radio 📻🎶Please listen to this song😈✨[jVy9ltTcTAk] Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=10",
   "source": "otomoneruki.js"
@@ -4016,7 +4016,7 @@ window.SONG_DATA.push(
     {
   "title": "weeeek",
   "artist": "NewS",
-  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-13] Early morning music session replacing radio 📻🎶Please listen to this song😈✨[jVy9ltTcTAk] Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=11",
   "source": "otomoneruki.js"
@@ -4024,7 +4024,7 @@ window.SONG_DATA.push(
     {
   "title": "IRIS OUT",
   "artist": "米津玄師",
-  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-13] Early morning music session replacing radio 📻🎶Please listen to this song😈✨[jVy9ltTcTAk] Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=12",
   "source": "otomoneruki.js"
@@ -4032,7 +4032,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-13] Early morning music session replacing radio 📻🎶Please listen to this song😈✨[jVy9ltTcTAk] Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=13",
   "source": "otomoneruki.js"
@@ -4040,7 +4040,7 @@ window.SONG_DATA.push(
     {
   "title": "ケセラセラ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-13] Early morning music session replacing radio 📻🎶Please listen to this song😈✨[jVy9ltTcTAk] Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=14",
   "source": "otomoneruki.js"
@@ -4048,7 +4048,7 @@ window.SONG_DATA.push(
     {
   "title": "Love So Sweet",
   "artist": "嵐",
-  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-13] Early morning music session replacing radio 📻🎶Please listen to this song😈✨[jVy9ltTcTAk] Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=15",
   "source": "otomoneruki.js"
@@ -4056,7 +4056,7 @@ window.SONG_DATA.push(
     {
   "title": "できっこないをやらなくちゃ",
   "artist": "サンボマスター",
-  "collection": "【👿歌切】[2026-03-13]代替电台的早歌时段📻🎶请听一首哦😈✨[jVy9ltTcTAk] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-13] Early morning music session replacing radio 📻🎶Please listen to this song😈✨[jVy9ltTcTAk] Sound Gate Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gtcSz3EG8?p=16",
   "source": "otomoneruki.js"
@@ -4064,7 +4064,7 @@ window.SONG_DATA.push(
     {
   "title": "アカシア",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-18] Midday Song Stream Replacing Radio 📻🎶 Even just one song is fine 😈[a1N8fJOFCJY] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=1",
   "source": "otomoneruki.js"
@@ -4072,7 +4072,7 @@ window.SONG_DATA.push(
     {
   "title": "ジェンガ",
   "artist": "40mP feat. 初音ミク",
-  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-18] Midday Song Stream Replacing Radio 📻🎶 Even just one song is fine 😈[a1N8fJOFCJY] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=2",
   "source": "otomoneruki.js"
@@ -4080,7 +4080,7 @@ window.SONG_DATA.push(
     {
   "title": "めざせポケモンマスター",
   "artist": "松本梨香",
-  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-18] Midday Song Stream Replacing Radio 📻🎶 Even just one song is fine 😈[a1N8fJOFCJY] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=3",
   "source": "otomoneruki.js"
@@ -4088,7 +4088,7 @@ window.SONG_DATA.push(
     {
   "title": "レイン",
   "artist": "シド",
-  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-18] Midday Song Stream Replacing Radio 📻🎶 Even just one song is fine 😈[a1N8fJOFCJY] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=4",
   "source": "otomoneruki.js"
@@ -4096,7 +4096,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-18] Midday Song Stream Replacing Radio 📻🎶 Even just one song is fine 😈[a1N8fJOFCJY] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=5",
   "source": "otomoneruki.js"
@@ -4104,7 +4104,7 @@ window.SONG_DATA.push(
     {
   "title": "シュガーソングとビターステップ",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-18] Midday Song Stream Replacing Radio 📻🎶 Even just one song is fine 😈[a1N8fJOFCJY] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=6",
   "source": "otomoneruki.js"
@@ -4112,7 +4112,7 @@ window.SONG_DATA.push(
     {
   "title": "雨傘",
   "artist": "TOKIO",
-  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-18] Midday Song Stream Replacing Radio 📻🎶 Even just one song is fine 😈[a1N8fJOFCJY] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=7",
   "source": "otomoneruki.js"
@@ -4120,7 +4120,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-18] Midday Song Stream Replacing Radio 📻🎶 Even just one song is fine 😈[a1N8fJOFCJY] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=8",
   "source": "otomoneruki.js"
@@ -4128,7 +4128,7 @@ window.SONG_DATA.push(
     {
   "title": "ハロ",
   "artist": "yama × ぼっちぼろまる",
-  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-18] Midday Song Stream Replacing Radio 📻🎶 Even just one song is fine 😈[a1N8fJOFCJY] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=9",
   "source": "otomoneruki.js"
@@ -4136,7 +4136,7 @@ window.SONG_DATA.push(
     {
   "title": "カサブタ",
   "artist": "千綿偉功",
-  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-18] Midday Song Stream Replacing Radio 📻🎶 Even just one song is fine 😈[a1N8fJOFCJY] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=10",
   "source": "otomoneruki.js"
@@ -4144,7 +4144,7 @@ window.SONG_DATA.push(
     {
   "title": "恋",
   "artist": "星野源",
-  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-18] Midday Song Stream Replacing Radio 📻🎶 Even just one song is fine 😈[a1N8fJOFCJY] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=11",
   "source": "otomoneruki.js"
@@ -4152,7 +4152,7 @@ window.SONG_DATA.push(
     {
   "title": "lulu.",
   "artist": "Mrs GREEN APPLE",
-  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-18] Midday Song Stream Replacing Radio 📻🎶 Even just one song is fine 😈[a1N8fJOFCJY] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=12",
   "source": "otomoneruki.js"
@@ -4160,7 +4160,7 @@ window.SONG_DATA.push(
     {
   "title": "抱きしめたいほど美しい日々に",
   "artist": "くじら",
-  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-18] Midday Song Stream Replacing Radio 📻🎶 Even just one song is fine 😈[a1N8fJOFCJY] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=13",
   "source": "otomoneruki.js"
@@ -4168,7 +4168,7 @@ window.SONG_DATA.push(
     {
   "title": "残響散歌",
   "artist": "Aimer",
-  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-18] Midday Song Stream Replacing Radio 📻🎶 Even just one song is fine 😈[a1N8fJOFCJY] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=14",
   "source": "otomoneruki.js"
@@ -4176,7 +4176,7 @@ window.SONG_DATA.push(
     {
   "title": "CHE.R.RY",
   "artist": "YUI",
-  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-18] Midday Song Stream Replacing Radio 📻🎶 Even just one song is fine 😈[a1N8fJOFCJY] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=15",
   "source": "otomoneruki.js"
@@ -4184,7 +4184,7 @@ window.SONG_DATA.push(
     {
   "title": "Bling-Bang-Bang-Born",
   "artist": "Creepy Nuts",
-  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-18] Midday Song Stream Replacing Radio 📻🎶 Even just one song is fine 😈[a1N8fJOFCJY] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=16",
   "source": "otomoneruki.js"
@@ -4192,7 +4192,7 @@ window.SONG_DATA.push(
     {
   "title": "Butter-Fly",
   "artist": "和田光司",
-  "collection": "【👿歌切】[2026-03-18]代替广播的午间歌回📻🎶即使只听一首也可以😈[a1N8fJOFCJY] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-18] Midday Song Stream Replacing Radio 📻🎶 Even just one song is fine 😈[a1N8fJOFCJY] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xHwBzzEvz?p=17",
   "source": "otomoneruki.js"
@@ -4200,7 +4200,7 @@ window.SONG_DATA.push(
     {
   "title": "はいよろこんで",
   "artist": "こっちのけんと",
-  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-23] Radio-style Midday Singing Stream📻🎶First, listen to this one😈✨[vbo4XWYHAGw] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=1",
   "source": "otomoneruki.js"
@@ -4208,7 +4208,7 @@ window.SONG_DATA.push(
     {
   "title": "GOOD DAY",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-23] Radio-style Midday Singing Stream📻🎶First, listen to this one😈✨[vbo4XWYHAGw] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=2",
   "source": "otomoneruki.js"
@@ -4216,7 +4216,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-23] Radio-style Midday Singing Stream📻🎶First, listen to this one😈✨[vbo4XWYHAGw] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=3",
   "source": "otomoneruki.js"
@@ -4224,7 +4224,7 @@ window.SONG_DATA.push(
     {
   "title": "ゴールデンタイムラバー",
   "artist": "スキマスイッチ",
-  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-23] Radio-style Midday Singing Stream📻🎶First, listen to this one😈✨[vbo4XWYHAGw] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=4",
   "source": "otomoneruki.js"
@@ -4232,7 +4232,7 @@ window.SONG_DATA.push(
     {
   "title": "ピースサイン",
   "artist": "米津玄師",
-  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-23] Radio-style Midday Singing Stream📻🎶First, listen to this one😈✨[vbo4XWYHAGw] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=5",
   "source": "otomoneruki.js"
@@ -4240,7 +4240,7 @@ window.SONG_DATA.push(
     {
   "title": "キセキ",
   "artist": "GReeeeN",
-  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-23] Radio-style Midday Singing Stream📻🎶First, listen to this one😈✨[vbo4XWYHAGw] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=6",
   "source": "otomoneruki.js"
@@ -4248,7 +4248,7 @@ window.SONG_DATA.push(
     {
   "title": "I",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-23] Radio-style Midday Singing Stream📻🎶First, listen to this one😈✨[vbo4XWYHAGw] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=7",
   "source": "otomoneruki.js"
@@ -4256,7 +4256,7 @@ window.SONG_DATA.push(
     {
   "title": "Pretender",
   "artist": "Official 髭男dism",
-  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-23] Radio-style Midday Singing Stream📻🎶First, listen to this one😈✨[vbo4XWYHAGw] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=8",
   "source": "otomoneruki.js"
@@ -4264,7 +4264,7 @@ window.SONG_DATA.push(
     {
   "title": "クスシキ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-23] Radio-style Midday Singing Stream📻🎶First, listen to this one😈✨[vbo4XWYHAGw] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=9",
   "source": "otomoneruki.js"
@@ -4272,7 +4272,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON",
-  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-23] Radio-style Midday Singing Stream📻🎶First, listen to this one😈✨[vbo4XWYHAGw] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=10",
   "source": "otomoneruki.js"
@@ -4280,7 +4280,7 @@ window.SONG_DATA.push(
     {
   "title": "イマジネーション",
   "artist": "SPYAIR",
-  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-23] Radio-style Midday Singing Stream📻🎶First, listen to this one😈✨[vbo4XWYHAGw] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=11",
   "source": "otomoneruki.js"
@@ -4288,7 +4288,7 @@ window.SONG_DATA.push(
     {
   "title": "気まぐれロマンティック",
   "artist": "いきものがかり",
-  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-23] Radio-style Midday Singing Stream📻🎶First, listen to this one😈✨[vbo4XWYHAGw] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=12",
   "source": "otomoneruki.js"
@@ -4296,7 +4296,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛サーキュレーション",
   "artist": "千石撫子",
-  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-23] Radio-style Midday Singing Stream📻🎶First, listen to this one😈✨[vbo4XWYHAGw] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=13",
   "source": "otomoneruki.js"
@@ -4304,7 +4304,7 @@ window.SONG_DATA.push(
     {
   "title": "ウィーアー！",
   "artist": "きただにひろし",
-  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-23] Radio-style Midday Singing Stream📻🎶First, listen to this one😈✨[vbo4XWYHAGw] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=14",
   "source": "otomoneruki.js"
@@ -4312,7 +4312,7 @@ window.SONG_DATA.push(
     {
   "title": "Happiness",
   "artist": "嵐",
-  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-23] Radio-style Midday Singing Stream📻🎶First, listen to this one😈✨[vbo4XWYHAGw] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=15",
   "source": "otomoneruki.js"
@@ -4320,7 +4320,7 @@ window.SONG_DATA.push(
     {
   "title": "イケナイ太陽",
   "artist": "ORANGE RANGE",
-  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-23] Radio-style Midday Singing Stream📻🎶First, listen to this one😈✨[vbo4XWYHAGw] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=16",
   "source": "otomoneruki.js"
@@ -4328,7 +4328,7 @@ window.SONG_DATA.push(
     {
   "title": "以心電信",
   "artist": "ORANGE RANGE",
-  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-23] Radio-style Midday Singing Stream📻🎶First, listen to this one😈✨[vbo4XWYHAGw] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=17",
   "source": "otomoneruki.js"
@@ -4336,7 +4336,7 @@ window.SONG_DATA.push(
     {
   "title": "ようこそジャパリパーク",
   "artist": "どうぶつビスケッツ×PPP",
-  "collection": "【👿歌切】[2026-03-23]广播风午间歌回📻🎶先来听一首😈✨[vbo4XWYHAGw] 音門るき",
+  "collection": "【👿Song Cut】[2026-03-23] Radio-style Midday Singing Stream📻🎶First, listen to this one😈✨[vbo4XWYHAGw] by Otokado Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19fQZBUEk1?p=18",
   "source": "otomoneruki.js"
@@ -4344,7 +4344,7 @@ window.SONG_DATA.push(
     {
   "title": "シャルル",
   "artist": "flower",
-  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "collection": "[👿 Song Cut] [2026-03-27] Nighttime Song Broadcast Replacement 📻🎶 Please listen to a song 😈💝 [Xez3uC8I3NA] Nemoto Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=1",
   "source": "otomoneruki.js"
@@ -4352,7 +4352,7 @@ window.SONG_DATA.push(
     {
   "title": "幽霊東京",
   "artist": "Ayase feat. 初音ミク",
-  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "collection": "[👿 Song Cut] [2026-03-27] Nighttime Song Broadcast Replacement 📻🎶 Please listen to a song 😈💝 [Xez3uC8I3NA] Nemoto Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=2",
   "source": "otomoneruki.js"
@@ -4360,7 +4360,7 @@ window.SONG_DATA.push(
     {
   "title": "夜撫でるメノウ",
   "artist": "Ayase feat. 初音ミク",
-  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "collection": "[👿 Song Cut] [2026-03-27] Nighttime Song Broadcast Replacement 📻🎶 Please listen to a song 😈💝 [Xez3uC8I3NA] Nemoto Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=3",
   "source": "otomoneruki.js"
@@ -4368,7 +4368,7 @@ window.SONG_DATA.push(
     {
   "title": "よるのあと",
   "artist": "adieu",
-  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "collection": "[👿 Song Cut] [2026-03-27] Nighttime Song Broadcast Replacement 📻🎶 Please listen to a song 😈💝 [Xez3uC8I3NA] Nemoto Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=4",
   "source": "otomoneruki.js"
@@ -4376,7 +4376,7 @@ window.SONG_DATA.push(
     {
   "title": "Soranji",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "collection": "[👿 Song Cut] [2026-03-27] Nighttime Song Broadcast Replacement 📻🎶 Please listen to a song 😈💝 [Xez3uC8I3NA] Nemoto Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=5",
   "source": "otomoneruki.js"
@@ -4384,7 +4384,7 @@ window.SONG_DATA.push(
     {
   "title": "366日",
   "artist": "HY [with acoustic guiter]",
-  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "collection": "[👿 Song Cut] [2026-03-27] Nighttime Song Broadcast Replacement 📻🎶 Please listen to a song 😈💝 [Xez3uC8I3NA] Nemoto Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=6",
   "source": "otomoneruki.js"
@@ -4392,7 +4392,7 @@ window.SONG_DATA.push(
     {
   "title": "丸の内サディスティック",
   "artist": "椎名林檎[with acoustic guiter]",
-  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "collection": "[👿 Song Cut] [2026-03-27] Nighttime Song Broadcast Replacement 📻🎶 Please listen to a song 😈💝 [Xez3uC8I3NA] Nemoto Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=7",
   "source": "otomoneruki.js"
@@ -4400,7 +4400,7 @@ window.SONG_DATA.push(
     {
   "title": "アイネクライネ",
   "artist": "米津玄師",
-  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "collection": "[👿 Song Cut] [2026-03-27] Nighttime Song Broadcast Replacement 📻🎶 Please listen to a song 😈💝 [Xez3uC8I3NA] Nemoto Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=8",
   "source": "otomoneruki.js"
@@ -4408,7 +4408,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "collection": "[👿 Song Cut] [2026-03-27] Nighttime Song Broadcast Replacement 📻🎶 Please listen to a song 😈💝 [Xez3uC8I3NA] Nemoto Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=9",
   "source": "otomoneruki.js"
@@ -4416,7 +4416,7 @@ window.SONG_DATA.push(
     {
   "title": "最高到達点",
   "artist": "SEKAI NO OWARI",
-  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "collection": "[👿 Song Cut] [2026-03-27] Nighttime Song Broadcast Replacement 📻🎶 Please listen to a song 😈💝 [Xez3uC8I3NA] Nemoto Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=10",
   "source": "otomoneruki.js"
@@ -4424,7 +4424,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna",
-  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "collection": "[👿 Song Cut] [2026-03-27] Nighttime Song Broadcast Replacement 📻🎶 Please listen to a song 😈💝 [Xez3uC8I3NA] Nemoto Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=11",
   "source": "otomoneruki.js"
@@ -4432,7 +4432,7 @@ window.SONG_DATA.push(
     {
   "title": "美しい鰭",
   "artist": "スピッツ",
-  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "collection": "[👿 Song Cut] [2026-03-27] Nighttime Song Broadcast Replacement 📻🎶 Please listen to a song 😈💝 [Xez3uC8I3NA] Nemoto Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=12",
   "source": "otomoneruki.js"
@@ -4440,7 +4440,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "collection": "[👿 Song Cut] [2026-03-27] Nighttime Song Broadcast Replacement 📻🎶 Please listen to a song 😈💝 [Xez3uC8I3NA] Nemoto Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=13",
   "source": "otomoneruki.js"
@@ -4448,7 +4448,7 @@ window.SONG_DATA.push(
     {
   "title": "レオ",
   "artist": "優里",
-  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "collection": "[👿 Song Cut] [2026-03-27] Nighttime Song Broadcast Replacement 📻🎶 Please listen to a song 😈💝 [Xez3uC8I3NA] Nemoto Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=14",
   "source": "otomoneruki.js"
@@ -4456,7 +4456,7 @@ window.SONG_DATA.push(
     {
   "title": "踊り子",
   "artist": "Vaundy",
-  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "collection": "[👿 Song Cut] [2026-03-27] Nighttime Song Broadcast Replacement 📻🎶 Please listen to a song 😈💝 [Xez3uC8I3NA] Nemoto Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=15",
   "source": "otomoneruki.js"
@@ -4464,7 +4464,7 @@ window.SONG_DATA.push(
     {
   "title": "春を告げる",
   "artist": "yama",
-  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "collection": "[👿 Song Cut] [2026-03-27] Nighttime Song Broadcast Replacement 📻🎶 Please listen to a song 😈💝 [Xez3uC8I3NA] Nemoto Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=16",
   "source": "otomoneruki.js"
@@ -4472,7 +4472,7 @@ window.SONG_DATA.push(
     {
   "title": "なんでもないや(movie ver.)",
   "artist": "上白石萌音",
-  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "collection": "[👿 Song Cut] [2026-03-27] Nighttime Song Broadcast Replacement 📻🎶 Please listen to a song 😈💝 [Xez3uC8I3NA] Nemoto Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=17",
   "source": "otomoneruki.js"
@@ -4480,7 +4480,7 @@ window.SONG_DATA.push(
     {
   "title": "ブラック★ロックシューター",
   "artist": "supercell",
-  "collection": "【👿歌切】[2026-03-27]代替广播的夜间歌枠📻🎶请听一首歌吧😈💝[Xez3uC8I3NA] 音門るき",
+  "collection": "[👿 Song Cut] [2026-03-27] Nighttime Song Broadcast Replacement 📻🎶 Please listen to a song 😈💝 [Xez3uC8I3NA] Nemoto Ruki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTXmBBEG1?p=18",
   "source": "otomoneruki.js"
@@ -4488,7 +4488,7 @@ window.SONG_DATA.push(
     {
   "title": "fake face dance music",
   "artist": "音田雅則",
-  "collection": "【👿歌切】[2026-04-01]深夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-01] Late-night Singing Stream as a Radio Replacement 📻🎶 First-time listeners, please stay for a song before leaving 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=1",
   "source": "otomoneruki.js"
@@ -4496,7 +4496,7 @@ window.SONG_DATA.push(
     {
   "title": "嫌々",
   "artist": "HALVES",
-  "collection": "【👿歌切】[2026-04-01]深夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-01] Late-night Singing Stream as a Radio Replacement 📻🎶 First-time listeners, please stay for a song before leaving 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=2",
   "source": "otomoneruki.js"
@@ -4504,7 +4504,7 @@ window.SONG_DATA.push(
     {
   "title": "夜に駆ける",
   "artist": "YOASOBI",
-  "collection": "【👿歌切】[2026-04-01]深夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-01] Late-night Singing Stream as a Radio Replacement 📻🎶 First-time listeners, please stay for a song before leaving 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=3",
   "source": "otomoneruki.js"
@@ -4512,7 +4512,7 @@ window.SONG_DATA.push(
     {
   "title": "ギラギラ",
   "artist": "Ado",
-  "collection": "【👿歌切】[2026-04-01]深夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-01] Late-night Singing Stream as a Radio Replacement 📻🎶 First-time listeners, please stay for a song before leaving 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=4",
   "source": "otomoneruki.js"
@@ -4520,7 +4520,7 @@ window.SONG_DATA.push(
     {
   "title": "可愛くてごめん",
   "artist": "HoneyWorks",
-  "collection": "【👿歌切】[2026-04-01]深夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-01] Late-night Singing Stream as a Radio Replacement 📻🎶 First-time listeners, please stay for a song before leaving 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=5",
   "source": "otomoneruki.js"
@@ -4528,7 +4528,7 @@ window.SONG_DATA.push(
     {
   "title": "死ぬな！",
   "artist": "こっちのけんと",
-  "collection": "【👿歌切】[2026-04-01]深夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-01] Late-night Singing Stream as a Radio Replacement 📻🎶 First-time listeners, please stay for a song before leaving 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=6",
   "source": "otomoneruki.js"
@@ -4536,7 +4536,7 @@ window.SONG_DATA.push(
     {
   "title": "Mela！",
   "artist": "緑黄色社会",
-  "collection": "【👿歌切】[2026-04-01]深夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-01] Late-night Singing Stream as a Radio Replacement 📻🎶 First-time listeners, please stay for a song before leaving 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=7",
   "source": "otomoneruki.js"
@@ -4544,7 +4544,7 @@ window.SONG_DATA.push(
     {
   "title": "サムライハート",
   "artist": "SPYAIR",
-  "collection": "【👿歌切】[2026-04-01]深夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-01] Late-night Singing Stream as a Radio Replacement 📻🎶 First-time listeners, please stay for a song before leaving 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=8",
   "source": "otomoneruki.js"
@@ -4552,7 +4552,7 @@ window.SONG_DATA.push(
     {
   "title": "悪者",
   "artist": "くじら",
-  "collection": "【👿歌切】[2026-04-01]深夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-01] Late-night Singing Stream as a Radio Replacement 📻🎶 First-time listeners, please stay for a song before leaving 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=9",
   "source": "otomoneruki.js"
@@ -4560,7 +4560,7 @@ window.SONG_DATA.push(
     {
   "title": "死神",
   "artist": "米津玄師",
-  "collection": "【👿歌切】[2026-04-01]深夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-01] Late-night Singing Stream as a Radio Replacement 📻🎶 First-time listeners, please stay for a song before leaving 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=10",
   "source": "otomoneruki.js"
@@ -4568,7 +4568,7 @@ window.SONG_DATA.push(
     {
   "title": "more than words",
   "artist": "羊文学",
-  "collection": "【👿歌切】[2026-04-01]深夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-01] Late-night Singing Stream as a Radio Replacement 📻🎶 First-time listeners, please stay for a song before leaving 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=11",
   "source": "otomoneruki.js"
@@ -4576,7 +4576,7 @@ window.SONG_DATA.push(
     {
   "title": "ラフメイカー",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【👿歌切】[2026-04-01]深夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-01] Late-night Singing Stream as a Radio Replacement 📻🎶 First-time listeners, please stay for a song before leaving 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=12",
   "source": "otomoneruki.js"
@@ -4584,7 +4584,7 @@ window.SONG_DATA.push(
     {
   "title": "翼をください",
   "artist": "桜高軽音部",
-  "collection": "【👿歌切】[2026-04-01]深夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-01] Late-night Singing Stream as a Radio Replacement 📻🎶 First-time listeners, please stay for a song before leaving 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=13",
   "source": "otomoneruki.js"
@@ -4592,7 +4592,7 @@ window.SONG_DATA.push(
     {
   "title": "コロンブス",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-04-01]深夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-01] Late-night Singing Stream as a Radio Replacement 📻🎶 First-time listeners, please stay for a song before leaving 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=14",
   "source": "otomoneruki.js"
@@ -4600,7 +4600,7 @@ window.SONG_DATA.push(
     {
   "title": "回る空うさぎ",
   "artist": "Orangestar",
-  "collection": "【👿歌切】[2026-04-01]深夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-01] Late-night Singing Stream as a Radio Replacement 📻🎶 First-time listeners, please stay for a song before leaving 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=15",
   "source": "otomoneruki.js"
@@ -4608,7 +4608,7 @@ window.SONG_DATA.push(
     {
   "title": "おやすみ泣き声、さよなら歌姫",
   "artist": "クリープハイプ",
-  "collection": "【👿歌切】[2026-04-01]深夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-01] Late-night Singing Stream as a Radio Replacement 📻🎶 First-time listeners, please stay for a song before leaving 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=16",
   "source": "otomoneruki.js"
@@ -4616,7 +4616,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【👿歌切】[2026-04-01]深夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-01] Late-night Singing Stream as a Radio Replacement 📻🎶 First-time listeners, please stay for a song before leaving 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=17",
   "source": "otomoneruki.js"
@@ -4624,7 +4624,7 @@ window.SONG_DATA.push(
     {
   "title": "トンツカタンタン",
   "artist": "クレイジーウォウウォウ[+4ver.]",
-  "collection": "【👿歌切】[2026-04-01]深夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-01] Late-night Singing Stream as a Radio Replacement 📻🎶 First-time listeners, please stay for a song before leaving 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=18",
   "source": "otomoneruki.js"
@@ -4632,7 +4632,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【👿歌切】[2026-04-01]深夜歌回作为广播替代📻🎶初次见面的朋友也请听一曲再走😈💝Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-01] Late-night Singing Stream as a Radio Replacement 📻🎶 First-time listeners, please stay for a song before leaving 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb9pBgEsz?p=19",
   "source": "otomoneruki.js"
@@ -4640,7 +4640,7 @@ window.SONG_DATA.push(
     {
   "title": "最高到達点",
   "artist": "SEKAI NO OWARI",
-  "collection": "【👿歌切】[2026-04-07]作为广播替代的午间歌回📻🎶初次见面的朋友也来听一首如何😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-07] A Noon Song Broadcast as a Radio Alternative📻🎶 First-time listeners, why not come and enjoy a song😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sBDJBdEts?p=1",
   "source": "otomoneruki.js"
@@ -4648,7 +4648,7 @@ window.SONG_DATA.push(
     {
   "title": "トンツカタンタン",
   "artist": "クレイジーウォウウォ!!",
-  "collection": "【👿歌切】[2026-04-07]作为广播替代的午间歌回📻🎶初次见面的朋友也来听一首如何😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-07] A Noon Song Broadcast as a Radio Alternative📻🎶 First-time listeners, why not come and enjoy a song😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sBDJBdEts?p=2",
   "source": "otomoneruki.js"
@@ -4656,7 +4656,7 @@ window.SONG_DATA.push(
     {
   "title": "おとせサンダー",
   "artist": "ぼっちぼろまる",
-  "collection": "【👿歌切】[2026-04-07]作为广播替代的午间歌回📻🎶初次见面的朋友也来听一首如何😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-07] A Noon Song Broadcast as a Radio Alternative📻🎶 First-time listeners, why not come and enjoy a song😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sBDJBdEts?p=3",
   "source": "otomoneruki.js"
@@ -4664,7 +4664,7 @@ window.SONG_DATA.push(
     {
   "title": "breakfast",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-04-07]作为广播替代的午间歌回📻🎶初次见面的朋友也来听一首如何😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-07] A Noon Song Broadcast as a Radio Alternative📻🎶 First-time listeners, why not come and enjoy a song😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sBDJBdEts?p=4",
   "source": "otomoneruki.js"
@@ -4672,7 +4672,7 @@ window.SONG_DATA.push(
     {
   "title": "メロウ",
   "artist": "須田景凪",
-  "collection": "【👿歌切】[2026-04-07]作为广播替代的午间歌回📻🎶初次见面的朋友也来听一首如何😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-07] A Noon Song Broadcast as a Radio Alternative📻🎶 First-time listeners, why not come and enjoy a song😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sBDJBdEts?p=5",
   "source": "otomoneruki.js"
@@ -4680,7 +4680,7 @@ window.SONG_DATA.push(
     {
   "title": "オリオンをなぞる",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "【👿歌切】[2026-04-07]作为广播替代的午间歌回📻🎶初次见面的朋友也来听一首如何😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-07] A Noon Song Broadcast as a Radio Alternative📻🎶 First-time listeners, why not come and enjoy a song😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sBDJBdEts?p=6",
   "source": "otomoneruki.js"
@@ -4688,7 +4688,7 @@ window.SONG_DATA.push(
     {
   "title": "群青讃歌",
   "artist": "Eve",
-  "collection": "【👿歌切】[2026-04-07]作为广播替代的午间歌回📻🎶初次见面的朋友也来听一首如何😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-07] A Noon Song Broadcast as a Radio Alternative📻🎶 First-time listeners, why not come and enjoy a song😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sBDJBdEts?p=7",
   "source": "otomoneruki.js"
@@ -4696,7 +4696,7 @@ window.SONG_DATA.push(
     {
   "title": "抱きしめたいほど美しい日々に",
   "artist": "くじら",
-  "collection": "【👿歌切】[2026-04-07]作为广播替代的午间歌回📻🎶初次见面的朋友也来听一首如何😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-07] A Noon Song Broadcast as a Radio Alternative📻🎶 First-time listeners, why not come and enjoy a song😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sBDJBdEts?p=8",
   "source": "otomoneruki.js"
@@ -4704,7 +4704,7 @@ window.SONG_DATA.push(
     {
   "title": "アイデア",
   "artist": "星野源",
-  "collection": "【👿歌切】[2026-04-07]作为广播替代的午间歌回📻🎶初次见面的朋友也来听一首如何😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-07] A Noon Song Broadcast as a Radio Alternative📻🎶 First-time listeners, why not come and enjoy a song😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sBDJBdEts?p=9",
   "source": "otomoneruki.js"
@@ -4712,7 +4712,7 @@ window.SONG_DATA.push(
     {
   "title": "I",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【👿歌切】[2026-04-07]作为广播替代的午间歌回📻🎶初次见面的朋友也来听一首如何😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-07] A Noon Song Broadcast as a Radio Alternative📻🎶 First-time listeners, why not come and enjoy a song😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sBDJBdEts?p=10",
   "source": "otomoneruki.js"
@@ -4720,7 +4720,7 @@ window.SONG_DATA.push(
     {
   "title": "毎日",
   "artist": "米津玄師",
-  "collection": "【👿歌切】[2026-04-07]作为广播替代的午间歌回📻🎶初次见面的朋友也来听一首如何😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-07] A Noon Song Broadcast as a Radio Alternative📻🎶 First-time listeners, why not come and enjoy a song😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sBDJBdEts?p=11",
   "source": "otomoneruki.js"
@@ -4728,7 +4728,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【👿歌切】[2026-04-07]作为广播替代的午间歌回📻🎶初次见面的朋友也来听一首如何😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-07] A Noon Song Broadcast as a Radio Alternative📻🎶 First-time listeners, why not come and enjoy a song😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sBDJBdEts?p=12",
   "source": "otomoneruki.js"
@@ -4736,7 +4736,7 @@ window.SONG_DATA.push(
     {
   "title": "クスシキ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-04-07]作为广播替代的午间歌回📻🎶初次见面的朋友也来听一首如何😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-07] A Noon Song Broadcast as a Radio Alternative📻🎶 First-time listeners, why not come and enjoy a song😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sBDJBdEts?p=13",
   "source": "otomoneruki.js"
@@ -4744,7 +4744,7 @@ window.SONG_DATA.push(
     {
   "title": "ミスター・ブルースカイ",
   "artist": "マカロニえんぴつ",
-  "collection": "【👿歌切】[2026-04-07]作为广播替代的午间歌回📻🎶初次见面的朋友也来听一首如何😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-07] A Noon Song Broadcast as a Radio Alternative📻🎶 First-time listeners, why not come and enjoy a song😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sBDJBdEts?p=14",
   "source": "otomoneruki.js"
@@ -4752,7 +4752,7 @@ window.SONG_DATA.push(
     {
   "title": "心絵",
   "artist": "ロードオブメジャー",
-  "collection": "【👿歌切】[2026-04-07]作为广播替代的午间歌回📻🎶初次见面的朋友也来听一首如何😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-07] A Noon Song Broadcast as a Radio Alternative📻🎶 First-time listeners, why not come and enjoy a song😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sBDJBdEts?p=15",
   "source": "otomoneruki.js"
@@ -4760,7 +4760,7 @@ window.SONG_DATA.push(
     {
   "title": "アカシア",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【👿歌切】[2026-04-07]作为广播替代的午间歌回📻🎶初次见面的朋友也来听一首如何😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-07] A Noon Song Broadcast as a Radio Alternative📻🎶 First-time listeners, why not come and enjoy a song😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sBDJBdEts?p=16",
   "source": "otomoneruki.js"
@@ -4768,7 +4768,7 @@ window.SONG_DATA.push(
     {
   "title": "ピースサイン",
   "artist": "米津玄師",
-  "collection": "【👿歌切】[2026-04-07]作为广播替代的午间歌回📻🎶初次见面的朋友也来听一首如何😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-07] A Noon Song Broadcast as a Radio Alternative📻🎶 First-time listeners, why not come and enjoy a song😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sBDJBdEts?p=17",
   "source": "otomoneruki.js"
@@ -4776,7 +4776,7 @@ window.SONG_DATA.push(
     {
   "title": "Habit",
   "artist": "SEKAI NO OWARI",
-  "collection": "【👿歌切】[2026-04-07]作为广播替代的午间歌回📻🎶初次见面的朋友也来听一首如何😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-07] A Noon Song Broadcast as a Radio Alternative📻🎶 First-time listeners, why not come and enjoy a song😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sBDJBdEts?p=18",
   "source": "otomoneruki.js"
@@ -4784,7 +4784,7 @@ window.SONG_DATA.push(
     {
   "title": "花",
   "artist": "ORANGE RANGE",
-  "collection": "【👿歌切】[2026-04-07]作为广播替代的午间歌回📻🎶初次见面的朋友也来听一首如何😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-07] A Noon Song Broadcast as a Radio Alternative📻🎶 First-time listeners, why not come and enjoy a song😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sBDJBdEts?p=19",
   "source": "otomoneruki.js"
@@ -4792,7 +4792,7 @@ window.SONG_DATA.push(
     {
   "title": "アゲハ蝶",
   "artist": "ポルノグラフィティ",
-  "collection": "【👿歌切】[2026-04-07]作为广播替代的午间歌回📻🎶初次见面的朋友也来听一首如何😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-07] A Noon Song Broadcast as a Radio Alternative📻🎶 First-time listeners, why not come and enjoy a song😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sBDJBdEts?p=20",
   "source": "otomoneruki.js"
@@ -4800,7 +4800,7 @@ window.SONG_DATA.push(
     {
   "title": "Butter-Fly",
   "artist": "和田光司",
-  "collection": "【👿歌切】[2026-04-07]作为广播替代的午间歌回📻🎶初次见面的朋友也来听一首如何😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-07] A Noon Song Broadcast as a Radio Alternative📻🎶 First-time listeners, why not come and enjoy a song😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sBDJBdEts?p=21",
   "source": "otomoneruki.js"
@@ -4808,7 +4808,7 @@ window.SONG_DATA.push(
     {
   "title": "メランコリーキッチン",
   "artist": "米津玄師",
-  "collection": "【👿歌切】[2026-04-16]作为广播替代的午间歌回📻🎶新朋友和老朋友都来听一首歌再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-16] Lunchtime Singing Stream as a Radio Alternative 📻🎶 New and old friends, stay for a song before you go~😈💝 Ruki Otokado Otokado Ruki [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UkdiBREG2?p=1",
   "source": "otomoneruki.js"
@@ -4816,7 +4816,7 @@ window.SONG_DATA.push(
     {
   "title": "クラッチクイーン！",
   "artist": "あおはる",
-  "collection": "【👿歌切】[2026-04-16]作为广播替代的午间歌回📻🎶新朋友和老朋友都来听一首歌再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-16] Lunchtime Singing Stream as a Radio Alternative 📻🎶 New and old friends, stay for a song before you go~😈💝 Ruki Otokado Otokado Ruki [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UkdiBREG2?p=2",
   "source": "otomoneruki.js"
@@ -4824,7 +4824,7 @@ window.SONG_DATA.push(
     {
   "title": "IRIS OUT",
   "artist": "米津玄師",
-  "collection": "【👿歌切】[2026-04-16]作为广播替代的午间歌回📻🎶新朋友和老朋友都来听一首歌再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-16] Lunchtime Singing Stream as a Radio Alternative 📻🎶 New and old friends, stay for a song before you go~😈💝 Ruki Otokado Otokado Ruki [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UkdiBREG2?p=3",
   "source": "otomoneruki.js"
@@ -4832,7 +4832,7 @@ window.SONG_DATA.push(
     {
   "title": "オトノケ",
   "artist": "Creepy Nuts",
-  "collection": "【👿歌切】[2026-04-16]作为广播替代的午间歌回📻🎶新朋友和老朋友都来听一首歌再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-16] Lunchtime Singing Stream as a Radio Alternative 📻🎶 New and old friends, stay for a song before you go~😈💝 Ruki Otokado Otokado Ruki [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UkdiBREG2?p=4",
   "source": "otomoneruki.js"
@@ -4840,7 +4840,7 @@ window.SONG_DATA.push(
     {
   "title": "ゴールデンタイムラバー",
   "artist": "スキマスイッチ",
-  "collection": "【👿歌切】[2026-04-16]作为广播替代的午间歌回📻🎶新朋友和老朋友都来听一首歌再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-16] Lunchtime Singing Stream as a Radio Alternative 📻🎶 New and old friends, stay for a song before you go~😈💝 Ruki Otokado Otokado Ruki [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UkdiBREG2?p=5",
   "source": "otomoneruki.js"
@@ -4848,7 +4848,7 @@ window.SONG_DATA.push(
     {
   "title": "表裏一体",
   "artist": "ゆず",
-  "collection": "【👿歌切】[2026-04-16]作为广播替代的午间歌回📻🎶新朋友和老朋友都来听一首歌再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-16] Lunchtime Singing Stream as a Radio Alternative 📻🎶 New and old friends, stay for a song before you go~😈💝 Ruki Otokado Otokado Ruki [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UkdiBREG2?p=6",
   "source": "otomoneruki.js"
@@ -4856,7 +4856,7 @@ window.SONG_DATA.push(
     {
   "title": "インフェルノ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-04-16]作为广播替代的午间歌回📻🎶新朋友和老朋友都来听一首歌再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-16] Lunchtime Singing Stream as a Radio Alternative 📻🎶 New and old friends, stay for a song before you go~😈💝 Ruki Otokado Otokado Ruki [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UkdiBREG2?p=7",
   "source": "otomoneruki.js"
@@ -4864,7 +4864,7 @@ window.SONG_DATA.push(
     {
   "title": "トンツカタンタン",
   "artist": "クレイジーウォウウォ！！",
-  "collection": "【👿歌切】[2026-04-16]作为广播替代的午间歌回📻🎶新朋友和老朋友都来听一首歌再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-16] Lunchtime Singing Stream as a Radio Alternative 📻🎶 New and old friends, stay for a song before you go~😈💝 Ruki Otokado Otokado Ruki [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UkdiBREG2?p=8",
   "source": "otomoneruki.js"
@@ -4872,7 +4872,7 @@ window.SONG_DATA.push(
     {
   "title": "感電",
   "artist": "米津玄師",
-  "collection": "【👿歌切】[2026-04-16]作为广播替代的午间歌回📻🎶新朋友和老朋友都来听一首歌再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-16] Lunchtime Singing Stream as a Radio Alternative 📻🎶 New and old friends, stay for a song before you go~😈💝 Ruki Otokado Otokado Ruki [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UkdiBREG2?p=9",
   "source": "otomoneruki.js"
@@ -4880,7 +4880,7 @@ window.SONG_DATA.push(
     {
   "title": "神っぽいな",
   "artist": "ピノキオピー",
-  "collection": "【👿歌切】[2026-04-16]作为广播替代的午间歌回📻🎶新朋友和老朋友都来听一首歌再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-16] Lunchtime Singing Stream as a Radio Alternative 📻🎶 New and old friends, stay for a song before you go~😈💝 Ruki Otokado Otokado Ruki [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UkdiBREG2?p=10",
   "source": "otomoneruki.js"
@@ -4888,7 +4888,7 @@ window.SONG_DATA.push(
     {
   "title": "ロミオとシンデレラ",
   "artist": "doriko feat. 初音ミク",
-  "collection": "【👿歌切】[2026-04-16]作为广播替代的午间歌回📻🎶新朋友和老朋友都来听一首歌再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-16] Lunchtime Singing Stream as a Radio Alternative 📻🎶 New and old friends, stay for a song before you go~😈💝 Ruki Otokado Otokado Ruki [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UkdiBREG2?p=11",
   "source": "otomoneruki.js"
@@ -4896,7 +4896,7 @@ window.SONG_DATA.push(
     {
   "title": "ワールドイズマイン",
   "artist": "supercell",
-  "collection": "【👿歌切】[2026-04-16]作为广播替代的午间歌回📻🎶新朋友和老朋友都来听一首歌再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-16] Lunchtime Singing Stream as a Radio Alternative 📻🎶 New and old friends, stay for a song before you go~😈💝 Ruki Otokado Otokado Ruki [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UkdiBREG2?p=12",
   "source": "otomoneruki.js"
@@ -4904,7 +4904,7 @@ window.SONG_DATA.push(
     {
   "title": "モニタリング",
   "artist": "DECO*27",
-  "collection": "【👿歌切】[2026-04-16]作为广播替代的午间歌回📻🎶新朋友和老朋友都来听一首歌再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-16] Lunchtime Singing Stream as a Radio Alternative 📻🎶 New and old friends, stay for a song before you go~😈💝 Ruki Otokado Otokado Ruki [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UkdiBREG2?p=13",
   "source": "otomoneruki.js"
@@ -4912,7 +4912,7 @@ window.SONG_DATA.push(
     {
   "title": "女々しくて",
   "artist": "ゴールデンボンバー",
-  "collection": "【👿歌切】[2026-04-16]作为广播替代的午间歌回📻🎶新朋友和老朋友都来听一首歌再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-16] Lunchtime Singing Stream as a Radio Alternative 📻🎶 New and old friends, stay for a song before you go~😈💝 Ruki Otokado Otokado Ruki [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UkdiBREG2?p=14",
   "source": "otomoneruki.js"
@@ -4920,7 +4920,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【👿歌切】[2026-04-16]作为广播替代的午间歌回📻🎶新朋友和老朋友都来听一首歌再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-16] Lunchtime Singing Stream as a Radio Alternative 📻🎶 New and old friends, stay for a song before you go~😈💝 Ruki Otokado Otokado Ruki [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UkdiBREG2?p=15",
   "source": "otomoneruki.js"
@@ -4928,7 +4928,7 @@ window.SONG_DATA.push(
     {
   "title": "可愛くなりたい",
   "artist": "HoneyWorks",
-  "collection": "【👿歌切】[2026-04-16]作为广播替代的午间歌回📻🎶新朋友和老朋友都来听一首歌再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-16] Lunchtime Singing Stream as a Radio Alternative 📻🎶 New and old friends, stay for a song before you go~😈💝 Ruki Otokado Otokado Ruki [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UkdiBREG2?p=16",
   "source": "otomoneruki.js"
@@ -4936,7 +4936,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON",
-  "collection": "【👿歌切】[2026-04-16]作为广播替代的午间歌回📻🎶新朋友和老朋友都来听一首歌再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-16] Lunchtime Singing Stream as a Radio Alternative 📻🎶 New and old friends, stay for a song before you go~😈💝 Ruki Otokado Otokado Ruki [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UkdiBREG2?p=17",
   "source": "otomoneruki.js"
@@ -4944,7 +4944,7 @@ window.SONG_DATA.push(
     {
   "title": "18 シルエット",
   "artist": "KANA-BOON",
-  "collection": "【👿歌切】[2026-04-16]作为广播替代的午间歌回📻🎶新朋友和老朋友都来听一首歌再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-16] Lunchtime Singing Stream as a Radio Alternative 📻🎶 New and old friends, stay for a song before you go~😈💝 Ruki Otokado Otokado Ruki [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UkdiBREG2?p=18",
   "source": "otomoneruki.js"
@@ -4952,7 +4952,7 @@ window.SONG_DATA.push(
     {
   "title": "プラネテス",
   "artist": "seiza feat. 初音ミク",
-  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-21]Night Singing Slot as a Radio Substitute📻🎶A Demon Practicing Guitar Late at Night👿💪 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=1",
   "source": "otomoneruki.js"
@@ -4960,7 +4960,7 @@ window.SONG_DATA.push(
     {
   "title": "アイネクライネ",
   "artist": "米津玄師",
-  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-21]Night Singing Slot as a Radio Substitute📻🎶A Demon Practicing Guitar Late at Night👿💪 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=2",
   "source": "otomoneruki.js"
@@ -4968,7 +4968,7 @@ window.SONG_DATA.push(
     {
   "title": "夜の踊り子",
   "artist": "サカナクション",
-  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-21]Night Singing Slot as a Radio Substitute📻🎶A Demon Practicing Guitar Late at Night👿💪 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=3",
   "source": "otomoneruki.js"
@@ -4976,7 +4976,7 @@ window.SONG_DATA.push(
     {
   "title": "三日月",
   "artist": "絢香",
-  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-21]Night Singing Slot as a Radio Substitute📻🎶A Demon Practicing Guitar Late at Night👿💪 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=4",
   "source": "otomoneruki.js"
@@ -4984,7 +4984,7 @@ window.SONG_DATA.push(
     {
   "title": "かわいいだけじゃだめですか？",
   "artist": "CUTIE STREET",
-  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-21]Night Singing Slot as a Radio Substitute📻🎶A Demon Practicing Guitar Late at Night👿💪 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=5",
   "source": "otomoneruki.js"
@@ -4992,7 +4992,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna",
-  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-21]Night Singing Slot as a Radio Substitute📻🎶A Demon Practicing Guitar Late at Night👿💪 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=6",
   "source": "otomoneruki.js"
@@ -5000,7 +5000,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-21]Night Singing Slot as a Radio Substitute📻🎶A Demon Practicing Guitar Late at Night👿💪 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=7",
   "source": "otomoneruki.js"
@@ -5008,7 +5008,7 @@ window.SONG_DATA.push(
     {
   "title": "CHE.R.RY",
   "artist": "YUI",
-  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-21]Night Singing Slot as a Radio Substitute📻🎶A Demon Practicing Guitar Late at Night👿💪 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=8",
   "source": "otomoneruki.js"
@@ -5016,7 +5016,7 @@ window.SONG_DATA.push(
     {
   "title": "ケセラセラ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-21]Night Singing Slot as a Radio Substitute📻🎶A Demon Practicing Guitar Late at Night👿💪 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=9",
   "source": "otomoneruki.js"
@@ -5024,7 +5024,7 @@ window.SONG_DATA.push(
     {
   "title": "夜のあと",
   "artist": "adieu",
-  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-21]Night Singing Slot as a Radio Substitute📻🎶A Demon Practicing Guitar Late at Night👿💪 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=10",
   "source": "otomoneruki.js"
@@ -5032,7 +5032,7 @@ window.SONG_DATA.push(
     {
   "title": "気まぐれロマンティック",
   "artist": "いきものがかり",
-  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-21]Night Singing Slot as a Radio Substitute📻🎶A Demon Practicing Guitar Late at Night👿💪 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=11",
   "source": "otomoneruki.js"
@@ -5040,7 +5040,7 @@ window.SONG_DATA.push(
     {
   "title": "ジョバイロ",
   "artist": "ポルノグラフィティ",
-  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-21]Night Singing Slot as a Radio Substitute📻🎶A Demon Practicing Guitar Late at Night👿💪 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=12",
   "source": "otomoneruki.js"
@@ -5048,7 +5048,7 @@ window.SONG_DATA.push(
     {
   "title": "カルマ",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-21]Night Singing Slot as a Radio Substitute📻🎶A Demon Practicing Guitar Late at Night👿💪 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=13",
   "source": "otomoneruki.js"
@@ -5056,7 +5056,7 @@ window.SONG_DATA.push(
     {
   "title": "瞬き",
   "artist": "back number",
-  "collection": "【👿歌切】[2026-04-21]ラジオ代わりの夜歌枠📻🎶深夜にギターを練習する悪魔👿💪 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-04-21]Night Singing Slot as a Radio Substitute📻🎶A Demon Practicing Guitar Late at Night👿💪 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MLd9BMETr?p=14",
   "source": "otomoneruki.js"
@@ -5064,7 +5064,7 @@ window.SONG_DATA.push(
     {
   "title": "心予報",
   "artist": "Eve",
-  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿 Song Cut】[2026-05-01] Late Night Radio Alternative Song Program 📻🎶 Golden Week started✨? 👿 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=1",
   "source": "otomoneruki.js"
@@ -5072,7 +5072,7 @@ window.SONG_DATA.push(
     {
   "title": "新世界",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿 Song Cut】[2026-05-01] Late Night Radio Alternative Song Program 📻🎶 Golden Week started✨? 👿 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=2",
   "source": "otomoneruki.js"
@@ -5080,7 +5080,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna",
-  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿 Song Cut】[2026-05-01] Late Night Radio Alternative Song Program 📻🎶 Golden Week started✨? 👿 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=3",
   "source": "otomoneruki.js"
@@ -5088,7 +5088,7 @@ window.SONG_DATA.push(
     {
   "title": "キスしちゃだめっ！",
   "artist": "HoneyWorks",
-  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿 Song Cut】[2026-05-01] Late Night Radio Alternative Song Program 📻🎶 Golden Week started✨? 👿 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=4",
   "source": "otomoneruki.js"
@@ -5096,7 +5096,7 @@ window.SONG_DATA.push(
     {
   "title": "スターマイン",
   "artist": "Da-iCE",
-  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿 Song Cut】[2026-05-01] Late Night Radio Alternative Song Program 📻🎶 Golden Week started✨? 👿 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=5",
   "source": "otomoneruki.js"
@@ -5104,7 +5104,7 @@ window.SONG_DATA.push(
     {
   "title": "雪の華",
   "artist": "中島美嘉",
-  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿 Song Cut】[2026-05-01] Late Night Radio Alternative Song Program 📻🎶 Golden Week started✨? 👿 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=6",
   "source": "otomoneruki.js"
@@ -5112,7 +5112,7 @@ window.SONG_DATA.push(
     {
   "title": "負けないで",
   "artist": "ZARD",
-  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿 Song Cut】[2026-05-01] Late Night Radio Alternative Song Program 📻🎶 Golden Week started✨? 👿 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=7",
   "source": "otomoneruki.js"
@@ -5120,7 +5120,7 @@ window.SONG_DATA.push(
     {
   "title": "コロンブス",
   "artist": "Mr. GREEN APPLE",
-  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿 Song Cut】[2026-05-01] Late Night Radio Alternative Song Program 📻🎶 Golden Week started✨? 👿 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=8",
   "source": "otomoneruki.js"
@@ -5128,7 +5128,7 @@ window.SONG_DATA.push(
     {
   "title": "コネクト",
   "artist": "ClariS",
-  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿 Song Cut】[2026-05-01] Late Night Radio Alternative Song Program 📻🎶 Golden Week started✨? 👿 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=9",
   "source": "otomoneruki.js"
@@ -5136,7 +5136,7 @@ window.SONG_DATA.push(
     {
   "title": "ぎゅっと。",
   "artist": "もさを。",
-  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿 Song Cut】[2026-05-01] Late Night Radio Alternative Song Program 📻🎶 Golden Week started✨? 👿 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=10",
   "source": "otomoneruki.js"
@@ -5144,7 +5144,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿 Song Cut】[2026-05-01] Late Night Radio Alternative Song Program 📻🎶 Golden Week started✨? 👿 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=11",
   "source": "otomoneruki.js"
@@ -5152,7 +5152,7 @@ window.SONG_DATA.push(
     {
   "title": "なんでもないよ、",
   "artist": "マカロニえんぴつ",
-  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿 Song Cut】[2026-05-01] Late Night Radio Alternative Song Program 📻🎶 Golden Week started✨? 👿 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=12",
   "source": "otomoneruki.js"
@@ -5160,7 +5160,7 @@ window.SONG_DATA.push(
     {
   "title": "シュガーソングとビターステップ",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿 Song Cut】[2026-05-01] Late Night Radio Alternative Song Program 📻🎶 Golden Week started✨? 👿 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=13",
   "source": "otomoneruki.js"
@@ -5168,7 +5168,7 @@ window.SONG_DATA.push(
     {
   "title": "天体観測",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【👿歌切】[2026-05-01]深夜电台替代歌曲节目 📻🎶 黄金周开始了✨？ 👿 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿 Song Cut】[2026-05-01] Late Night Radio Alternative Song Program 📻🎶 Golden Week started✨? 👿 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18ERMByEfM?p=14",
   "source": "otomoneruki.js"
@@ -5176,7 +5176,7 @@ window.SONG_DATA.push(
     {
   "title": "夜撫でるメノウ",
   "artist": "Ayase feat. 初音ミク",
-  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-02] Late-night song replacement radio 📻🎶 has started 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=1",
   "source": "otomoneruki.js"
@@ -5184,7 +5184,7 @@ window.SONG_DATA.push(
     {
   "title": "ニア",
   "artist": "初音ミク feat. 夏代孝明",
-  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-02] Late-night song replacement radio 📻🎶 has started 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=2",
   "source": "otomoneruki.js"
@@ -5192,7 +5192,7 @@ window.SONG_DATA.push(
     {
   "title": "フライデイ・チャイナタウン",
   "artist": "泰葉",
-  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-02] Late-night song replacement radio 📻🎶 has started 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=3",
   "source": "otomoneruki.js"
@@ -5200,7 +5200,7 @@ window.SONG_DATA.push(
     {
   "title": "美しい鰭",
   "artist": "スピッツ",
-  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-02] Late-night song replacement radio 📻🎶 has started 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=4",
   "source": "otomoneruki.js"
@@ -5208,7 +5208,7 @@ window.SONG_DATA.push(
     {
   "title": "夜の踊り子",
   "artist": "サカナクション",
-  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-02] Late-night song replacement radio 📻🎶 has started 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=5",
   "source": "otomoneruki.js"
@@ -5216,7 +5216,7 @@ window.SONG_DATA.push(
     {
   "title": "新宝島",
   "artist": "サカナクション",
-  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-02] Late-night song replacement radio 📻🎶 has started 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=6",
   "source": "otomoneruki.js"
@@ -5224,7 +5224,7 @@ window.SONG_DATA.push(
     {
   "title": "リライト",
   "artist": "ASIAN KUNG-FU GENERATION",
-  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-02] Late-night song replacement radio 📻🎶 has started 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=7",
   "source": "otomoneruki.js"
@@ -5232,7 +5232,7 @@ window.SONG_DATA.push(
     {
   "title": "月光花",
   "artist": "Janne Da Arc",
-  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-02] Late-night song replacement radio 📻🎶 has started 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=8",
   "source": "otomoneruki.js"
@@ -5240,7 +5240,7 @@ window.SONG_DATA.push(
     {
   "title": "orion",
   "artist": "米津玄師",
-  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-02] Late-night song replacement radio 📻🎶 has started 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=9",
   "source": "otomoneruki.js"
@@ -5248,7 +5248,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならエレジー",
   "artist": "菅田将暉",
-  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-02] Late-night song replacement radio 📻🎶 has started 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=10",
   "source": "otomoneruki.js"
@@ -5256,7 +5256,7 @@ window.SONG_DATA.push(
     {
   "title": "アイデア",
   "artist": "星野源",
-  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-02] Late-night song replacement radio 📻🎶 has started 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=11",
   "source": "otomoneruki.js"
@@ -5264,7 +5264,7 @@ window.SONG_DATA.push(
     {
   "title": "メルト",
   "artist": "ryo(supercell)",
-  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-02] Late-night song replacement radio 📻🎶 has started 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=12",
   "source": "otomoneruki.js"
@@ -5272,7 +5272,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【👿歌切】[2026-05-02]替代电台的深夜歌回📻🎶 已经开始了哟 😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-02] Late-night song replacement radio 📻🎶 has started 😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15eREB5ETs?p=13",
   "source": "otomoneruki.js"
@@ -5280,7 +5280,7 @@ window.SONG_DATA.push(
     {
   "title": "裸の勇者",
   "artist": "Vaundy",
-  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-06] Evening Singing Stream Replacement Radio 📻🎶 Golden Week Holiday Enters Final Sprint 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=1",
   "source": "otomoneruki.js"
@@ -5288,7 +5288,7 @@ window.SONG_DATA.push(
     {
   "title": "トンツカタンタン",
   "artist": "クレイジーウォウウォ！！",
-  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-06] Evening Singing Stream Replacement Radio 📻🎶 Golden Week Holiday Enters Final Sprint 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=2",
   "source": "otomoneruki.js"
@@ -5296,7 +5296,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-06] Evening Singing Stream Replacement Radio 📻🎶 Golden Week Holiday Enters Final Sprint 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=3",
   "source": "otomoneruki.js"
@@ -5304,7 +5304,7 @@ window.SONG_DATA.push(
     {
   "title": "ねこ日記",
   "artist": "ランカ・リー",
-  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-06] Evening Singing Stream Replacement Radio 📻🎶 Golden Week Holiday Enters Final Sprint 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=4",
   "source": "otomoneruki.js"
@@ -5312,7 +5312,7 @@ window.SONG_DATA.push(
     {
   "title": "桃色片想い",
   "artist": "松浦亜弥",
-  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-06] Evening Singing Stream Replacement Radio 📻🎶 Golden Week Holiday Enters Final Sprint 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=5",
   "source": "otomoneruki.js"
@@ -5320,7 +5320,7 @@ window.SONG_DATA.push(
     {
   "title": "愛迷エレジー",
   "artist": "DECO*27 feat. marina",
-  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-06] Evening Singing Stream Replacement Radio 📻🎶 Golden Week Holiday Enters Final Sprint 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=6",
   "source": "otomoneruki.js"
@@ -5328,7 +5328,7 @@ window.SONG_DATA.push(
     {
   "title": "ぎゅっと。",
   "artist": "もさを。",
-  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-06] Evening Singing Stream Replacement Radio 📻🎶 Golden Week Holiday Enters Final Sprint 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=7",
   "source": "otomoneruki.js"
@@ -5336,7 +5336,7 @@ window.SONG_DATA.push(
     {
   "title": "ウィーアー！",
   "artist": "きただにひろし",
-  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-06] Evening Singing Stream Replacement Radio 📻🎶 Golden Week Holiday Enters Final Sprint 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=8",
   "source": "otomoneruki.js"
@@ -5344,7 +5344,7 @@ window.SONG_DATA.push(
     {
   "title": "WHITE BREATH",
   "artist": "T.M.Revolution",
-  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-06] Evening Singing Stream Replacement Radio 📻🎶 Golden Week Holiday Enters Final Sprint 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=9",
   "source": "otomoneruki.js"
@@ -5352,7 +5352,7 @@ window.SONG_DATA.push(
     {
   "title": "ANIMA",
   "artist": "ReoNa",
-  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-06] Evening Singing Stream Replacement Radio 📻🎶 Golden Week Holiday Enters Final Sprint 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=10",
   "source": "otomoneruki.js"
@@ -5360,7 +5360,7 @@ window.SONG_DATA.push(
     {
   "title": "Calc.",
   "artist": "ジミーサムP feat. 初音ミク",
-  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-06] Evening Singing Stream Replacement Radio 📻🎶 Golden Week Holiday Enters Final Sprint 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=11",
   "source": "otomoneruki.js"
@@ -5368,7 +5368,7 @@ window.SONG_DATA.push(
     {
   "title": "lulu.",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-05-06]傍晚的歌回替代电台 📻🎶 黄金周假期进入最后冲刺 😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-06] Evening Singing Stream Replacement Radio 📻🎶 Golden Week Holiday Enters Final Sprint 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19YR8BCEZ8?p=12",
   "source": "otomoneruki.js"
@@ -5376,7 +5376,7 @@ window.SONG_DATA.push(
     {
   "title": "オドループ",
   "artist": "フレデリック",
-  "collection": "【👿歌切】[2026-05-14]替代广播的夜间歌回📻🎶请听一曲再走吧👿🫶 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-14] Nighttime song stream replacing the radio📻🎶 Please listen to one song before leaving👿🫶 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hE5z6eEJF?p=1",
   "source": "otomoneruki.js"
@@ -5384,7 +5384,7 @@ window.SONG_DATA.push(
     {
   "title": "Diver",
   "artist": "NICO Touches the Walls",
-  "collection": "【👿歌切】[2026-05-14]替代广播的夜间歌回📻🎶请听一曲再走吧👿🫶 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-14] Nighttime song stream replacing the radio📻🎶 Please listen to one song before leaving👿🫶 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hE5z6eEJF?p=2",
   "source": "otomoneruki.js"
@@ -5392,7 +5392,7 @@ window.SONG_DATA.push(
     {
   "title": "カサブタ",
   "artist": "千綿ヒデノリ",
-  "collection": "【👿歌切】[2026-05-14]替代广播的夜间歌回📻🎶请听一曲再走吧👿🫶 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-14] Nighttime song stream replacing the radio📻🎶 Please listen to one song before leaving👿🫶 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hE5z6eEJF?p=3",
   "source": "otomoneruki.js"
@@ -5400,7 +5400,7 @@ window.SONG_DATA.push(
     {
   "title": "君の恋人になったら",
   "artist": "back number",
-  "collection": "【👿歌切】[2026-05-14]替代广播的夜间歌回📻🎶请听一曲再走吧👿🫶 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-14] Nighttime song stream replacing the radio📻🎶 Please listen to one song before leaving👿🫶 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hE5z6eEJF?p=4",
   "source": "otomoneruki.js"
@@ -5408,7 +5408,7 @@ window.SONG_DATA.push(
     {
   "title": "ソラニン",
   "artist": "AISAN KUNG-FU GENERATION",
-  "collection": "【👿歌切】[2026-05-14]替代广播的夜间歌回📻🎶请听一曲再走吧👿🫶 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-14] Nighttime song stream replacing the radio📻🎶 Please listen to one song before leaving👿🫶 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hE5z6eEJF?p=5",
   "source": "otomoneruki.js"
@@ -5416,7 +5416,7 @@ window.SONG_DATA.push(
     {
   "title": "I",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【👿歌切】[2026-05-14]替代广播的夜间歌回📻🎶请听一曲再走吧👿🫶 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-14] Nighttime song stream replacing the radio📻🎶 Please listen to one song before leaving👿🫶 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hE5z6eEJF?p=6",
   "source": "otomoneruki.js"
@@ -5424,7 +5424,7 @@ window.SONG_DATA.push(
     {
   "title": "真っ赤な誓い",
   "artist": "福山芳樹",
-  "collection": "【👿歌切】[2026-05-14]替代广播的夜间歌回📻🎶请听一曲再走吧👿🫶 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-14] Nighttime song stream replacing the radio📻🎶 Please listen to one song before leaving👿🫶 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hE5z6eEJF?p=7",
   "source": "otomoneruki.js"
@@ -5432,7 +5432,7 @@ window.SONG_DATA.push(
     {
   "title": "クラッチクイーン！",
   "artist": "あおはる",
-  "collection": "【👿歌切】[2026-05-14]替代广播的夜间歌回📻🎶请听一曲再走吧👿🫶 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-14] Nighttime song stream replacing the radio📻🎶 Please listen to one song before leaving👿🫶 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hE5z6eEJF?p=8",
   "source": "otomoneruki.js"
@@ -5440,7 +5440,7 @@ window.SONG_DATA.push(
     {
   "title": "My Sweet Darlin'",
   "artist": "矢井田瞳[acoustic guiter]",
-  "collection": "【👿歌切】[2026-05-14]替代广播的夜间歌回📻🎶请听一曲再走吧👿🫶 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-14] Nighttime song stream replacing the radio📻🎶 Please listen to one song before leaving👿🫶 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hE5z6eEJF?p=9",
   "source": "otomoneruki.js"
@@ -5448,7 +5448,7 @@ window.SONG_DATA.push(
     {
   "title": "貴方解剖純愛歌 ~死ね~",
   "artist": "あいみょん[acoustic guiter]",
-  "collection": "【👿歌切】[2026-05-14]替代广播的夜间歌回📻🎶请听一曲再走吧👿🫶 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-14] Nighttime song stream replacing the radio📻🎶 Please listen to one song before leaving👿🫶 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hE5z6eEJF?p=10",
   "source": "otomoneruki.js"
@@ -5456,7 +5456,7 @@ window.SONG_DATA.push(
     {
   "title": "テルーの唄",
   "artist": "手蔦葵",
-  "collection": "【👿歌切】[2026-05-14]替代广播的夜间歌回📻🎶请听一曲再走吧👿🫶 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-14] Nighttime song stream replacing the radio📻🎶 Please listen to one song before leaving👿🫶 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hE5z6eEJF?p=11",
   "source": "otomoneruki.js"
@@ -5464,7 +5464,7 @@ window.SONG_DATA.push(
     {
   "title": "アスノヨゾラ哨戒班",
   "artist": "Orangestar",
-  "collection": "【👿歌切】[2026-05-14]替代广播的夜间歌回📻🎶请听一曲再走吧👿🫶 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-14] Nighttime song stream replacing the radio📻🎶 Please listen to one song before leaving👿🫶 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hE5z6eEJF?p=12",
   "source": "otomoneruki.js"
@@ -5472,7 +5472,7 @@ window.SONG_DATA.push(
     {
   "title": "clock lock works",
   "artist": "ハチ feat. 初音ミク",
-  "collection": "【👿歌切】[2026-05-14]替代广播的夜间歌回📻🎶请听一曲再走吧👿🫶 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-14] Nighttime song stream replacing the radio📻🎶 Please listen to one song before leaving👿🫶 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hE5z6eEJF?p=13",
   "source": "otomoneruki.js"
@@ -5480,7 +5480,7 @@ window.SONG_DATA.push(
     {
   "title": "NIGHT DANCER",
   "artist": "imase",
-  "collection": "【👿歌切】[2026-05-14]替代广播的夜间歌回📻🎶请听一曲再走吧👿🫶 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-14] Nighttime song stream replacing the radio📻🎶 Please listen to one song before leaving👿🫶 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hE5z6eEJF?p=14",
   "source": "otomoneruki.js"
@@ -5488,7 +5488,7 @@ window.SONG_DATA.push(
     {
   "title": "fake face dance music",
   "artist": "音田雅則",
-  "collection": "【👿歌切】[2026-05-14]替代广播的夜间歌回📻🎶请听一曲再走吧👿🫶 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-14] Nighttime song stream replacing the radio📻🎶 Please listen to one song before leaving👿🫶 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hE5z6eEJF?p=15",
   "source": "otomoneruki.js"
@@ -5496,7 +5496,7 @@ window.SONG_DATA.push(
     {
   "title": "Ditto",
   "artist": "New Jeans",
-  "collection": "【👿歌切】[2026-05-14]替代广播的夜间歌回📻🎶请听一曲再走吧👿🫶 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-14] Nighttime song stream replacing the radio📻🎶 Please listen to one song before leaving👿🫶 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hE5z6eEJF?p=16",
   "source": "otomoneruki.js"
@@ -5504,7 +5504,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【👿歌切】[2026-05-14]替代广播的夜间歌回📻🎶请听一曲再走吧👿🫶 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-14] Nighttime song stream replacing the radio📻🎶 Please listen to one song before leaving👿🫶 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hE5z6eEJF?p=17",
   "source": "otomoneruki.js"
@@ -5512,7 +5512,7 @@ window.SONG_DATA.push(
     {
   "title": "春を告げる",
   "artist": "yama",
-  "collection": "【👿歌切】[2026-05-14]替代广播的夜间歌回📻🎶请听一曲再走吧👿🫶 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-14] Nighttime song stream replacing the radio📻🎶 Please listen to one song before leaving👿🫶 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hE5z6eEJF?p=18",
   "source": "otomoneruki.js"
@@ -5520,7 +5520,7 @@ window.SONG_DATA.push(
     {
   "title": "Fire◎Flower",
   "artist": "Halyosy",
-  "collection": "【👿歌切】[2026-05-14]替代广播的夜间歌回📻🎶请听一曲再走吧👿🫶 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-14] Nighttime song stream replacing the radio📻🎶 Please listen to one song before leaving👿🫶 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hE5z6eEJF?p=19",
   "source": "otomoneruki.js"
@@ -5528,7 +5528,7 @@ window.SONG_DATA.push(
     {
   "title": "美しい鰭",
   "artist": "スピッツ",
-  "collection": "【👿歌切】[2026-05-26]代替电台的傍晚歌回📻🎶陪你回家！听一首再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-26] An Evening Singing Stream to Replace the Radio📻🎶Keep You Company on Your Way Home! Listen to One Song Before You Go😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wDVT6bE1H?p=1",
   "source": "otomoneruki.js"
@@ -5536,7 +5536,7 @@ window.SONG_DATA.push(
     {
   "title": "最高到達点",
   "artist": "SEKAI NO OWARI",
-  "collection": "【👿歌切】[2026-05-26]代替电台的傍晚歌回📻🎶陪你回家！听一首再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-26] An Evening Singing Stream to Replace the Radio📻🎶Keep You Company on Your Way Home! Listen to One Song Before You Go😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wDVT6bE1H?p=2",
   "source": "otomoneruki.js"
@@ -5544,7 +5544,7 @@ window.SONG_DATA.push(
     {
   "title": "おとせサンダー",
   "artist": "ぼっちぼろまる",
-  "collection": "【👿歌切】[2026-05-26]代替电台的傍晚歌回📻🎶陪你回家！听一首再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-26] An Evening Singing Stream to Replace the Radio📻🎶Keep You Company on Your Way Home! Listen to One Song Before You Go😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wDVT6bE1H?p=3",
   "source": "otomoneruki.js"
@@ -5552,7 +5552,7 @@ window.SONG_DATA.push(
     {
   "title": "喜劇",
   "artist": "星野源",
-  "collection": "【👿歌切】[2026-05-26]代替电台的傍晚歌回📻🎶陪你回家！听一首再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-26] An Evening Singing Stream to Replace the Radio📻🎶Keep You Company on Your Way Home! Listen to One Song Before You Go😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wDVT6bE1H?p=4",
   "source": "otomoneruki.js"
@@ -5560,7 +5560,7 @@ window.SONG_DATA.push(
     {
   "title": "気まぐれロマティック",
   "artist": "いきものがかり",
-  "collection": "【👿歌切】[2026-05-26]代替电台的傍晚歌回📻🎶陪你回家！听一首再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-26] An Evening Singing Stream to Replace the Radio📻🎶Keep You Company on Your Way Home! Listen to One Song Before You Go😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wDVT6bE1H?p=5",
   "source": "otomoneruki.js"
@@ -5568,7 +5568,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師",
-  "collection": "【👿歌切】[2026-05-26]代替电台的傍晚歌回📻🎶陪你回家！听一首再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-26] An Evening Singing Stream to Replace the Radio📻🎶Keep You Company on Your Way Home! Listen to One Song Before You Go😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wDVT6bE1H?p=6",
   "source": "otomoneruki.js"
@@ -5576,7 +5576,7 @@ window.SONG_DATA.push(
     {
   "title": "GOOD DAY",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-05-26]代替电台的傍晚歌回📻🎶陪你回家！听一首再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-26] An Evening Singing Stream to Replace the Radio📻🎶Keep You Company on Your Way Home! Listen to One Song Before You Go😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wDVT6bE1H?p=7",
   "source": "otomoneruki.js"
@@ -5584,7 +5584,7 @@ window.SONG_DATA.push(
     {
   "title": "サムライハート(Some Like it Hot!!)",
   "artist": "SPYAIR",
-  "collection": "【👿歌切】[2026-05-26]代替电台的傍晚歌回📻🎶陪你回家！听一首再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-26] An Evening Singing Stream to Replace the Radio📻🎶Keep You Company on Your Way Home! Listen to One Song Before You Go😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wDVT6bE1H?p=8",
   "source": "otomoneruki.js"
@@ -5592,7 +5592,7 @@ window.SONG_DATA.push(
     {
   "title": "Get Wild",
   "artist": "TM Network",
-  "collection": "【👿歌切】[2026-05-26]代替电台的傍晚歌回📻🎶陪你回家！听一首再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-26] An Evening Singing Stream to Replace the Radio📻🎶Keep You Company on Your Way Home! Listen to One Song Before You Go😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wDVT6bE1H?p=9",
   "source": "otomoneruki.js"
@@ -5600,7 +5600,7 @@ window.SONG_DATA.push(
     {
   "title": "メリッサ",
   "artist": "ポルノグラフィティ",
-  "collection": "【👿歌切】[2026-05-26]代替电台的傍晚歌回📻🎶陪你回家！听一首再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-26] An Evening Singing Stream to Replace the Radio📻🎶Keep You Company on Your Way Home! Listen to One Song Before You Go😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wDVT6bE1H?p=10",
   "source": "otomoneruki.js"
@@ -5608,7 +5608,7 @@ window.SONG_DATA.push(
     {
   "title": "magnet",
   "artist": "minato(流星P)feat. 初音ミク",
-  "collection": "【👿歌切】[2026-05-26]代替电台的傍晚歌回📻🎶陪你回家！听一首再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-26] An Evening Singing Stream to Replace the Radio📻🎶Keep You Company on Your Way Home! Listen to One Song Before You Go😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wDVT6bE1H?p=11",
   "source": "otomoneruki.js"
@@ -5616,7 +5616,7 @@ window.SONG_DATA.push(
     {
   "title": "I",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【👿歌切】[2026-05-26]代替电台的傍晚歌回📻🎶陪你回家！听一首再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-26] An Evening Singing Stream to Replace the Radio📻🎶Keep You Company on Your Way Home! Listen to One Song Before You Go😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wDVT6bE1H?p=12",
   "source": "otomoneruki.js"
@@ -5624,7 +5624,7 @@ window.SONG_DATA.push(
     {
   "title": "キラキラ",
   "artist": "aiko",
-  "collection": "【👿歌切】[2026-05-26]代替电台的傍晚歌回📻🎶陪你回家！听一首再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-26] An Evening Singing Stream to Replace the Radio📻🎶Keep You Company on Your Way Home! Listen to One Song Before You Go😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wDVT6bE1H?p=13",
   "source": "otomoneruki.js"
@@ -5632,7 +5632,7 @@ window.SONG_DATA.push(
     {
   "title": "ハロ/ハワユ",
   "artist": "ナノウ(ほえほえP) feat. 初音ミク",
-  "collection": "【👿歌切】[2026-05-26]代替电台的傍晚歌回📻🎶陪你回家！听一首再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-26] An Evening Singing Stream to Replace the Radio📻🎶Keep You Company on Your Way Home! Listen to One Song Before You Go😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wDVT6bE1H?p=14",
   "source": "otomoneruki.js"
@@ -5640,7 +5640,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【👿歌切】[2026-05-26]代替电台的傍晚歌回📻🎶陪你回家！听一首再走吧😈💝 Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-05-26] An Evening Singing Stream to Replace the Radio📻🎶Keep You Company on Your Way Home! Listen to One Song Before You Go😈💝 Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wDVT6bE1H?p=15",
   "source": "otomoneruki.js"
@@ -5648,7 +5648,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-06-06] Nighttime Song Radio Broadcast📻🎶 Great job! Accompanying you home! Listen to one more song before you go😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=1",
   "source": "otomoneruki.js"
@@ -5656,7 +5656,7 @@ window.SONG_DATA.push(
     {
   "title": "シル・ヴ・プレジデント",
   "artist": "P丸様",
-  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-06-06] Nighttime Song Radio Broadcast📻🎶 Great job! Accompanying you home! Listen to one more song before you go😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=2",
   "source": "otomoneruki.js"
@@ -5664,7 +5664,7 @@ window.SONG_DATA.push(
     {
   "title": "常緑",
   "artist": "大橋ちっぽけ",
-  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-06-06] Nighttime Song Radio Broadcast📻🎶 Great job! Accompanying you home! Listen to one more song before you go😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=3",
   "source": "otomoneruki.js"
@@ -5672,7 +5672,7 @@ window.SONG_DATA.push(
     {
   "title": "裸の勇者",
   "artist": "Vaundy",
-  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-06-06] Nighttime Song Radio Broadcast📻🎶 Great job! Accompanying you home! Listen to one more song before you go😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=4",
   "source": "otomoneruki.js"
@@ -5680,7 +5680,7 @@ window.SONG_DATA.push(
     {
   "title": "IRIS OUT",
   "artist": "米津玄師",
-  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-06-06] Nighttime Song Radio Broadcast📻🎶 Great job! Accompanying you home! Listen to one more song before you go😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=5",
   "source": "otomoneruki.js"
@@ -5688,7 +5688,7 @@ window.SONG_DATA.push(
     {
   "title": "空色デイズ",
   "artist": "中川翔子",
-  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-06-06] Nighttime Song Radio Broadcast📻🎶 Great job! Accompanying you home! Listen to one more song before you go😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=6",
   "source": "otomoneruki.js"
@@ -5696,7 +5696,7 @@ window.SONG_DATA.push(
     {
   "title": "できっこないをやらなくちゃ",
   "artist": "サンボマスター",
-  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-06-06] Nighttime Song Radio Broadcast📻🎶 Great job! Accompanying you home! Listen to one more song before you go😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=7",
   "source": "otomoneruki.js"
@@ -5704,7 +5704,7 @@ window.SONG_DATA.push(
     {
   "title": "タイムマシン",
   "artist": "1640mP(164×40mP) feat. 初音ミク",
-  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-06-06] Nighttime Song Radio Broadcast📻🎶 Great job! Accompanying you home! Listen to one more song before you go😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=8",
   "source": "otomoneruki.js"
@@ -5712,7 +5712,7 @@ window.SONG_DATA.push(
     {
   "title": "あの日タイムマシン",
   "artist": "LONG SHOT PARTY",
-  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-06-06] Nighttime Song Radio Broadcast📻🎶 Great job! Accompanying you home! Listen to one more song before you go😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=9",
   "source": "otomoneruki.js"
@@ -5720,7 +5720,7 @@ window.SONG_DATA.push(
     {
   "title": "Soranji",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-06-06] Nighttime Song Radio Broadcast📻🎶 Great job! Accompanying you home! Listen to one more song before you go😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=10",
   "source": "otomoneruki.js"
@@ -5728,7 +5728,7 @@ window.SONG_DATA.push(
     {
   "title": "オドループ",
   "artist": "フレデリック",
-  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-06-06] Nighttime Song Radio Broadcast📻🎶 Great job! Accompanying you home! Listen to one more song before you go😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=11",
   "source": "otomoneruki.js"
@@ -5736,7 +5736,7 @@ window.SONG_DATA.push(
     {
   "title": "宙船",
   "artist": "TOKIO",
-  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-06-06] Nighttime Song Radio Broadcast📻🎶 Great job! Accompanying you home! Listen to one more song before you go😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=12",
   "source": "otomoneruki.js"
@@ -5744,7 +5744,7 @@ window.SONG_DATA.push(
     {
   "title": "Love So Sweet",
   "artist": "嵐",
-  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-06-06] Nighttime Song Radio Broadcast📻🎶 Great job! Accompanying you home! Listen to one more song before you go😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=13",
   "source": "otomoneruki.js"
@@ -5752,7 +5752,7 @@ window.SONG_DATA.push(
     {
   "title": "トンツカタンタン",
   "artist": "クレイジーウォウウォ！！",
-  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-06-06] Nighttime Song Radio Broadcast📻🎶 Great job! Accompanying you home! Listen to one more song before you go😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=14",
   "source": "otomoneruki.js"
@@ -5760,7 +5760,7 @@ window.SONG_DATA.push(
     {
   "title": "きっとビタミン",
   "artist": "音門るき",
-  "collection": "【👿歌切】[2026-06-06]当作电台的夜间歌回📻🎶 辛苦了！伴你回家！来听一曲再走😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【👿Song Cut】[2026-06-06] Nighttime Song Radio Broadcast📻🎶 Great job! Accompanying you home! Listen to one more song before you go😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qyEn6BEGN?p=15",
   "source": "otomoneruki.js"
@@ -5768,7 +5768,7 @@ window.SONG_DATA.push(
     {
   "title": "I",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【😈Song Cut】[2026-07-09] Morning Song Reply Replacing the Broadcast 📻🎶 Sending Good Morning with Songs 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=1",
   "source": "otomoneruki.js"
@@ -5776,7 +5776,7 @@ window.SONG_DATA.push(
     {
   "title": "トンツカタンタン",
   "artist": "クレイジーウォウウォ!!",
-  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【😈Song Cut】[2026-07-09] Morning Song Reply Replacing the Broadcast 📻🎶 Sending Good Morning with Songs 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=2",
   "source": "otomoneruki.js"
@@ -5784,7 +5784,7 @@ window.SONG_DATA.push(
     {
   "title": "カサブタ",
   "artist": "千綿ヒデノリ",
-  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【😈Song Cut】[2026-07-09] Morning Song Reply Replacing the Broadcast 📻🎶 Sending Good Morning with Songs 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=3",
   "source": "otomoneruki.js"
@@ -5792,7 +5792,7 @@ window.SONG_DATA.push(
     {
   "title": "ようこそジャパリパークへ",
   "artist": "どうぶつビスケッツ×PPP",
-  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【😈Song Cut】[2026-07-09] Morning Song Reply Replacing the Broadcast 📻🎶 Sending Good Morning with Songs 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=4",
   "source": "otomoneruki.js"
@@ -5800,7 +5800,7 @@ window.SONG_DATA.push(
     {
   "title": "シュガーソングとビターステップ",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【😈Song Cut】[2026-07-09] Morning Song Reply Replacing the Broadcast 📻🎶 Sending Good Morning with Songs 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=5",
   "source": "otomoneruki.js"
@@ -5808,7 +5808,7 @@ window.SONG_DATA.push(
     {
   "title": "青と夏",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【😈Song Cut】[2026-07-09] Morning Song Reply Replacing the Broadcast 📻🎶 Sending Good Morning with Songs 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=6",
   "source": "otomoneruki.js"
@@ -5816,7 +5816,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON",
-  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【😈Song Cut】[2026-07-09] Morning Song Reply Replacing the Broadcast 📻🎶 Sending Good Morning with Songs 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=7",
   "source": "otomoneruki.js"
@@ -5824,7 +5824,7 @@ window.SONG_DATA.push(
     {
   "title": "君の恋人になったら",
   "artist": "back number",
-  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【😈Song Cut】[2026-07-09] Morning Song Reply Replacing the Broadcast 📻🎶 Sending Good Morning with Songs 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=8",
   "source": "otomoneruki.js"
@@ -5832,7 +5832,7 @@ window.SONG_DATA.push(
     {
   "title": "breakfast",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【😈Song Cut】[2026-07-09] Morning Song Reply Replacing the Broadcast 📻🎶 Sending Good Morning with Songs 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=9",
   "source": "otomoneruki.js"
@@ -5840,7 +5840,7 @@ window.SONG_DATA.push(
     {
   "title": "BOW AND ARROW",
   "artist": "米津玄師",
-  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【😈Song Cut】[2026-07-09] Morning Song Reply Replacing the Broadcast 📻🎶 Sending Good Morning with Songs 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=10",
   "source": "otomoneruki.js"
@@ -5848,7 +5848,7 @@ window.SONG_DATA.push(
     {
   "title": "weeeek",
   "artist": "NEWS",
-  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【😈Song Cut】[2026-07-09] Morning Song Reply Replacing the Broadcast 📻🎶 Sending Good Morning with Songs 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=11",
   "source": "otomoneruki.js"
@@ -5856,7 +5856,7 @@ window.SONG_DATA.push(
     {
   "title": "メランコリック",
   "artist": "Junky feat. 鏡音リン",
-  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【😈Song Cut】[2026-07-09] Morning Song Reply Replacing the Broadcast 📻🎶 Sending Good Morning with Songs 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=12",
   "source": "otomoneruki.js"
@@ -5864,7 +5864,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【😈Song Cut】[2026-07-09] Morning Song Reply Replacing the Broadcast 📻🎶 Sending Good Morning with Songs 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=13",
   "source": "otomoneruki.js"
@@ -5872,7 +5872,7 @@ window.SONG_DATA.push(
     {
   "title": "シャルル",
   "artist": "バルーン feat. flower",
-  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【😈Song Cut】[2026-07-09] Morning Song Reply Replacing the Broadcast 📻🎶 Sending Good Morning with Songs 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=14",
   "source": "otomoneruki.js"
@@ -5880,7 +5880,7 @@ window.SONG_DATA.push(
     {
   "title": "again",
   "artist": "YUI",
-  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【😈Song Cut】[2026-07-09] Morning Song Reply Replacing the Broadcast 📻🎶 Sending Good Morning with Songs 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=15",
   "source": "otomoneruki.js"
@@ -5888,7 +5888,7 @@ window.SONG_DATA.push(
     {
   "title": "Walking with you",
   "artist": "Novelbright",
-  "collection": "【👿歌切】[2026-07-09]代替广播的晨间歌回📻🎶 用歌声送上早安😈✨ Ruki Otokado 音門るき [VEE]",
+  "collection": "【😈Song Cut】[2026-07-09] Morning Song Reply Replacing the Broadcast 📻🎶 Sending Good Morning with Songs 😈✨ Ruki Otokado [VEE]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PANc6ZEdA?p=16",
   "source": "otomoneruki.js"
@@ -5936,7 +5936,7 @@ window.SONG_DATA.push(
     {
   "title": "Tokimeki",
   "artist": "Vaundy",
-  "collection": "【👿歌切】[2026-07-25]替代收音机的夜间歌回📻🎶 酷暑不消停！😈💝",
+  "collection": "【👿Song Cut】[2026-07-25] Night Song Session as a Radio Substitute 📻🎶 The Heat Won't Let Up! 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ku3L6rEAz?p=1",
   "source": "otomoneruki.js"
@@ -5944,7 +5944,7 @@ window.SONG_DATA.push(
     {
   "title": "メランコリック",
   "artist": "Junky feat.鏡音リン",
-  "collection": "【👿歌切】[2026-07-25]替代收音机的夜间歌回📻🎶 酷暑不消停！😈💝",
+  "collection": "【👿Song Cut】[2026-07-25] Night Song Session as a Radio Substitute 📻🎶 The Heat Won't Let Up! 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ku3L6rEAz?p=2",
   "source": "otomoneruki.js"
@@ -5952,7 +5952,7 @@ window.SONG_DATA.push(
     {
   "title": "Heal Me",
   "artist": "*Luna feat.マクネナナ",
-  "collection": "【👿歌切】[2026-07-25]代替收音机的夜歌回📻🎶夏日已过的炎热😈💝",
+  "collection": "【👿Song Cut】[2026-07-25] Night Song Return Replacing the Radio 📻🎶 Summer Heat Has Passed 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CA3L61EvL?p=1",
   "source": "otomoneruki.js"
@@ -5960,7 +5960,7 @@ window.SONG_DATA.push(
     {
   "title": "ジェンガ",
   "artist": "40mP feat.初音ミク",
-  "collection": "【👿歌切】[2026-07-25]代替收音机的夜歌回📻🎶夏日已过的炎热😈💝",
+  "collection": "【👿Song Cut】[2026-07-25] Night Song Return Replacing the Radio 📻🎶 Summer Heat Has Passed 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CA3L61EvL?p=2",
   "source": "otomoneruki.js"
@@ -5968,7 +5968,7 @@ window.SONG_DATA.push(
     {
   "title": "嘘",
   "artist": "シド",
-  "collection": "【👿歌切】[2026-07-25]代替收音机的夜歌回📻🎶夏日已过的炎热😈💝",
+  "collection": "【👿Song Cut】[2026-07-25] Night Song Return Replacing the Radio 📻🎶 Summer Heat Has Passed 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CA3L61EvL?p=3",
   "source": "otomoneruki.js"
@@ -5976,7 +5976,7 @@ window.SONG_DATA.push(
     {
   "title": "lulu.",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-07-25]代替收音机的夜歌回📻🎶夏日已过的炎热😈💝",
+  "collection": "【👿Song Cut】[2026-07-25] Night Song Return Replacing the Radio 📻🎶 Summer Heat Has Passed 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CA3L61EvL?p=4",
   "source": "otomoneruki.js"
@@ -5984,7 +5984,7 @@ window.SONG_DATA.push(
     {
   "title": "飛ぶ時",
   "artist": "Vaundy",
-  "collection": "【👿歌切】[2026-07-25]代替收音机的夜歌回📻🎶夏日已过的炎热😈💝",
+  "collection": "【👿Song Cut】[2026-07-25] Night Song Return Replacing the Radio 📻🎶 Summer Heat Has Passed 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CA3L61EvL?p=5",
   "source": "otomoneruki.js"
@@ -5992,7 +5992,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【👿歌切】[2026-07-25]代替收音机的夜歌回📻🎶夏日已过的炎热😈💝",
+  "collection": "【👿Song Cut】[2026-07-25] Night Song Return Replacing the Radio 📻🎶 Summer Heat Has Passed 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CA3L61EvL?p=6",
   "source": "otomoneruki.js"
@@ -6000,7 +6000,7 @@ window.SONG_DATA.push(
     {
   "title": "ギラギラ",
   "artist": "Ado",
-  "collection": "【👿歌切】[2026-07-25]代替收音机的夜歌回📻🎶夏日已过的炎热😈💝",
+  "collection": "【👿Song Cut】[2026-07-25] Night Song Return Replacing the Radio 📻🎶 Summer Heat Has Passed 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CA3L61EvL?p=7",
   "source": "otomoneruki.js"
@@ -6008,7 +6008,7 @@ window.SONG_DATA.push(
     {
   "title": "Butter-Fly",
   "artist": "和田光司",
-  "collection": "【👿歌切】[2026-07-25]代替收音机的夜歌回📻🎶夏日已过的炎热😈💝",
+  "collection": "【👿Song Cut】[2026-07-25] Night Song Return Replacing the Radio 📻🎶 Summer Heat Has Passed 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CA3L61EvL?p=8",
   "source": "otomoneruki.js"
@@ -6016,7 +6016,7 @@ window.SONG_DATA.push(
     {
   "title": "空色デイズ",
   "artist": "中川翔子",
-  "collection": "【👿歌切】[2026-07-25]代替收音机的夜歌回📻🎶夏日已过的炎热😈💝",
+  "collection": "【👿Song Cut】[2026-07-25] Night Song Return Replacing the Radio 📻🎶 Summer Heat Has Passed 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CA3L61EvL?p=9",
   "source": "otomoneruki.js"
@@ -6024,7 +6024,7 @@ window.SONG_DATA.push(
     {
   "title": "Butter-Fly",
   "artist": "和田光司",
-  "collection": "【👿歌切】[2026-08-03]爆诞纪念家中3D一人全开Live！？今宵是盛宴😈🫶",
+  "collection": "【👿Song Cut】[2026-08-03] Birthday Memorial 3D Solo Full Live at Home!? Tonight is a Feast😈🫶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEJP?p=1",
   "source": "otomoneruki.js"
@@ -6032,7 +6032,7 @@ window.SONG_DATA.push(
     {
   "title": "ウィーアー!",
   "artist": "きただにひろし",
-  "collection": "【👿歌切】[2026-08-03]爆诞纪念家中3D一人全开Live！？今宵是盛宴😈🫶",
+  "collection": "【👿Song Cut】[2026-08-03] Birthday Memorial 3D Solo Full Live at Home!? Tonight is a Feast😈🫶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEJP?p=2",
   "source": "otomoneruki.js"
@@ -6040,7 +6040,7 @@ window.SONG_DATA.push(
     {
   "title": "HOT LIMIT",
   "artist": "T.M.Revolution",
-  "collection": "【👿歌切】[2026-08-03]爆诞纪念家中3D一人全开Live！？今宵是盛宴😈🫶",
+  "collection": "【👿Song Cut】[2026-08-03] Birthday Memorial 3D Solo Full Live at Home!? Tonight is a Feast😈🫶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEJP?p=3",
   "source": "otomoneruki.js"
@@ -6048,7 +6048,7 @@ window.SONG_DATA.push(
     {
   "title": "イケナイ太陽",
   "artist": "ORANGE RANGE",
-  "collection": "【👿歌切】[2026-08-03]爆诞纪念家中3D一人全开Live！？今宵是盛宴😈🫶",
+  "collection": "【👿Song Cut】[2026-08-03] Birthday Memorial 3D Solo Full Live at Home!? Tonight is a Feast😈🫶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEJP?p=4",
   "source": "otomoneruki.js"
@@ -6056,7 +6056,7 @@ window.SONG_DATA.push(
     {
   "title": "チャンカパーナ",
   "artist": "NEWS",
-  "collection": "【👿歌切】[2026-08-03]爆诞纪念家中3D一人全开Live！？今宵是盛宴😈🫶",
+  "collection": "【👿Song Cut】[2026-08-03] Birthday Memorial 3D Solo Full Live at Home!? Tonight is a Feast😈🫶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEJP?p=5",
   "source": "otomoneruki.js"
@@ -6064,7 +6064,7 @@ window.SONG_DATA.push(
     {
   "title": "一体いつから",
   "artist": "月村手毬(CV:小鹿なお)",
-  "collection": "【👿歌切】[2026-08-03]爆诞纪念家中3D一人全开Live！？今宵是盛宴😈🫶",
+  "collection": "【👿Song Cut】[2026-08-03] Birthday Memorial 3D Solo Full Live at Home!? Tonight is a Feast😈🫶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEJP?p=6",
   "source": "otomoneruki.js"
@@ -6072,7 +6072,7 @@ window.SONG_DATA.push(
     {
   "title": "雫",
   "artist": "スキマスイッチ",
-  "collection": "【👿歌切】[2026-08-19]适合当广播听的午间歌回📻🎶进行各种直播测试👿💪",
+  "collection": "【👿Singing Clip】[2026-08-19] A midday singing stream suitable for broadcast listening 📻🎶 Conducting various live stream tests 👿💪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q5bo6cEFU?p=1",
   "source": "otomoneruki.js"
@@ -6080,7 +6080,7 @@ window.SONG_DATA.push(
     {
   "title": "女々しくて",
   "artist": "ゴールデンボンバー",
-  "collection": "【👿歌切】[2026-08-19]适合当广播听的午间歌回📻🎶进行各种直播测试👿💪",
+  "collection": "【👿Singing Clip】[2026-08-19] A midday singing stream suitable for broadcast listening 📻🎶 Conducting various live stream tests 👿💪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q5bo6cEFU?p=2",
   "source": "otomoneruki.js"
@@ -6088,7 +6088,7 @@ window.SONG_DATA.push(
     {
   "title": "表裏一体",
   "artist": "ゆず",
-  "collection": "【👿歌切】[2026-08-19]适合当广播听的午间歌回📻🎶进行各种直播测试👿💪",
+  "collection": "【👿Singing Clip】[2026-08-19] A midday singing stream suitable for broadcast listening 📻🎶 Conducting various live stream tests 👿💪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q5bo6cEFU?p=3",
   "source": "otomoneruki.js"
@@ -6096,7 +6096,7 @@ window.SONG_DATA.push(
     {
   "title": "ココロオドル",
   "artist": "nobodyknows+",
-  "collection": "【👿歌切】[2026-08-19]适合当广播听的午间歌回📻🎶进行各种直播测试👿💪",
+  "collection": "【👿Singing Clip】[2026-08-19] A midday singing stream suitable for broadcast listening 📻🎶 Conducting various live stream tests 👿💪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q5bo6cEFU?p=4",
   "source": "otomoneruki.js"
@@ -6104,7 +6104,7 @@ window.SONG_DATA.push(
     {
   "title": "少女レイ",
   "artist": "みきとP feat.初音ミク",
-  "collection": "【👿歌切】[2026-08-19]适合当广播听的午间歌回📻🎶进行各种直播测试👿💪",
+  "collection": "【👿Singing Clip】[2026-08-19] A midday singing stream suitable for broadcast listening 📻🎶 Conducting various live stream tests 👿💪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q5bo6cEFU?p=5",
   "source": "otomoneruki.js"
@@ -6112,7 +6112,7 @@ window.SONG_DATA.push(
     {
   "title": "コロンブス",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-08-19]适合当广播听的午间歌回📻🎶进行各种直播测试👿💪",
+  "collection": "【👿Singing Clip】[2026-08-19] A midday singing stream suitable for broadcast listening 📻🎶 Conducting various live stream tests 👿💪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q5bo6cEFU?p=6",
   "source": "otomoneruki.js"
@@ -6120,7 +6120,7 @@ window.SONG_DATA.push(
     {
   "title": "オドループ",
   "artist": "フレデリック",
-  "collection": "【👿歌切】[2026-08-19]适合当广播听的午间歌回📻🎶进行各种直播测试👿💪",
+  "collection": "【👿Singing Clip】[2026-08-19] A midday singing stream suitable for broadcast listening 📻🎶 Conducting various live stream tests 👿💪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q5bo6cEFU?p=7",
   "source": "otomoneruki.js"
@@ -6128,7 +6128,7 @@ window.SONG_DATA.push(
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド",
-  "collection": "【👿歌切】[2026-08-19]适合当广播听的午间歌回📻🎶进行各种直播测试👿💪",
+  "collection": "【👿Singing Clip】[2026-08-19] A midday singing stream suitable for broadcast listening 📻🎶 Conducting various live stream tests 👿💪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q5bo6cEFU?p=8",
   "source": "otomoneruki.js"
@@ -6136,7 +6136,7 @@ window.SONG_DATA.push(
     {
   "title": "クラッチクイーン!",
   "artist": "あおはる",
-  "collection": "【👿歌切】[2026-08-19]适合当广播听的午间歌回📻🎶进行各种直播测试👿💪",
+  "collection": "【👿Singing Clip】[2026-08-19] A midday singing stream suitable for broadcast listening 📻🎶 Conducting various live stream tests 👿💪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q5bo6cEFU?p=9",
   "source": "otomoneruki.js"
@@ -6144,7 +6144,7 @@ window.SONG_DATA.push(
     {
   "title": "残響散歌",
   "artist": "Aimer",
-  "collection": "【👿歌切】[2026-08-19]适合当广播听的午间歌回📻🎶进行各种直播测试👿💪",
+  "collection": "【👿Singing Clip】[2026-08-19] A midday singing stream suitable for broadcast listening 📻🎶 Conducting various live stream tests 👿💪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1q5bo6cEFU?p=10",
   "source": "otomoneruki.js"
@@ -6152,7 +6152,7 @@ window.SONG_DATA.push(
     {
   "title": "鬼事",
   "artist": "中島健人",
-  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "collection": "【😈Song Cut】[2026-09-10] Listen to it like a late-night radio show 📻🎶 A lot has happened, but now all I can do is sing 😈【Monmon Ruki / VEE】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=1",
   "source": "otomoneruki.js"
@@ -6160,7 +6160,7 @@ window.SONG_DATA.push(
     {
   "title": "ひゅるりらぱっぱ",
   "artist": "tuki.",
-  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "collection": "【😈Song Cut】[2026-09-10] Listen to it like a late-night radio show 📻🎶 A lot has happened, but now all I can do is sing 😈【Monmon Ruki / VEE】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=2",
   "source": "otomoneruki.js"
@@ -6168,7 +6168,7 @@ window.SONG_DATA.push(
     {
   "title": "Plazma",
   "artist": "米津玄師",
-  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "collection": "【😈Song Cut】[2026-09-10] Listen to it like a late-night radio show 📻🎶 A lot has happened, but now all I can do is sing 😈【Monmon Ruki / VEE】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=3",
   "source": "otomoneruki.js"
@@ -6176,7 +6176,7 @@ window.SONG_DATA.push(
     {
   "title": "コロンブス",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "collection": "【😈Song Cut】[2026-09-10] Listen to it like a late-night radio show 📻🎶 A lot has happened, but now all I can do is sing 😈【Monmon Ruki / VEE】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=4",
   "source": "otomoneruki.js"
@@ -6184,7 +6184,7 @@ window.SONG_DATA.push(
     {
   "title": "クスシキ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "collection": "【😈Song Cut】[2026-09-10] Listen to it like a late-night radio show 📻🎶 A lot has happened, but now all I can do is sing 😈【Monmon Ruki / VEE】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=5",
   "source": "otomoneruki.js"
@@ -6192,7 +6192,7 @@ window.SONG_DATA.push(
     {
   "title": "飛ぶ時",
   "artist": "Vaundy",
-  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "collection": "【😈Song Cut】[2026-09-10] Listen to it like a late-night radio show 📻🎶 A lot has happened, but now all I can do is sing 😈【Monmon Ruki / VEE】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=6",
   "source": "otomoneruki.js"
@@ -6200,7 +6200,7 @@ window.SONG_DATA.push(
     {
   "title": "ラフ・メイカー",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "collection": "【😈Song Cut】[2026-09-10] Listen to it like a late-night radio show 📻🎶 A lot has happened, but now all I can do is sing 😈【Monmon Ruki / VEE】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=7",
   "source": "otomoneruki.js"
@@ -6208,7 +6208,7 @@ window.SONG_DATA.push(
     {
   "title": "CHA-LA HEAD-CHA-LA",
   "artist": "影山ヒロノブ",
-  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "collection": "【😈Song Cut】[2026-09-10] Listen to it like a late-night radio show 📻🎶 A lot has happened, but now all I can do is sing 😈【Monmon Ruki / VEE】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=8",
   "source": "otomoneruki.js"
@@ -6216,7 +6216,7 @@ window.SONG_DATA.push(
     {
   "title": "Just Be Friends",
   "artist": "Dixie Flatline feat.巡音ルカ",
-  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "collection": "【😈Song Cut】[2026-09-10] Listen to it like a late-night radio show 📻🎶 A lot has happened, but now all I can do is sing 😈【Monmon Ruki / VEE】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=9",
   "source": "otomoneruki.js"
@@ -6224,7 +6224,7 @@ window.SONG_DATA.push(
     {
   "title": "STAND UP TO THE VICTORY ～トゥ・ザ・ヴィクトリー～",
   "artist": "川添智久",
-  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "collection": "【😈Song Cut】[2026-09-10] Listen to it like a late-night radio show 📻🎶 A lot has happened, but now all I can do is sing 😈【Monmon Ruki / VEE】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=10",
   "source": "otomoneruki.js"
@@ -6232,7 +6232,7 @@ window.SONG_DATA.push(
     {
   "title": "一体いつから",
   "artist": "月村手毬(CV.小鹿なお)",
-  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "collection": "【😈Song Cut】[2026-09-10] Listen to it like a late-night radio show 📻🎶 A lot has happened, but now all I can do is sing 😈【Monmon Ruki / VEE】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=11",
   "source": "otomoneruki.js"
@@ -6240,7 +6240,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "collection": "【😈Song Cut】[2026-09-10] Listen to it like a late-night radio show 📻🎶 A lot has happened, but now all I can do is sing 😈【Monmon Ruki / VEE】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=12",
   "source": "otomoneruki.js"
@@ -6248,7 +6248,7 @@ window.SONG_DATA.push(
     {
   "title": "猫",
   "artist": "DISH//",
-  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "collection": "【😈Song Cut】[2026-09-10] Listen to it like a late-night radio show 📻🎶 A lot has happened, but now all I can do is sing 😈【Monmon Ruki / VEE】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=13",
   "source": "otomoneruki.js"
@@ -6256,7 +6256,7 @@ window.SONG_DATA.push(
     {
   "title": "回る空うさぎ",
   "artist": "Orangestar feat.初音ミク",
-  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "collection": "【😈Song Cut】[2026-09-10] Listen to it like a late-night radio show 📻🎶 A lot has happened, but now all I can do is sing 😈【Monmon Ruki / VEE】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=14",
   "source": "otomoneruki.js"
@@ -6264,7 +6264,7 @@ window.SONG_DATA.push(
     {
   "title": "夏祭り",
   "artist": "JITTERIN'JINN",
-  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "collection": "【😈Song Cut】[2026-09-10] Listen to it like a late-night radio show 📻🎶 A lot has happened, but now all I can do is sing 😈【Monmon Ruki / VEE】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=15",
   "source": "otomoneruki.js"
@@ -6272,7 +6272,7 @@ window.SONG_DATA.push(
     {
   "title": "美しい鰭",
   "artist": "スピッツ",
-  "collection": "【👿歌切】[2026-09-10]当作深夜电台来听吧📻🎶发生了不少事，但现在只能唱了😈【音門るき / VEE】",
+  "collection": "【😈Song Cut】[2026-09-10] Listen to it like a late-night radio show 📻🎶 A lot has happened, but now all I can do is sing 😈【Monmon Ruki / VEE】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KSYG6PErF?p=16",
   "source": "otomoneruki.js"
@@ -6280,7 +6280,7 @@ window.SONG_DATA.push(
     {
   "title": "夜桜",
   "artist": "くじら feat.めいちゃん",
-  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "collection": "【😈Song Cut】[2026-09-25] Let's listen to the radio tonight 📻🎶 Sing a few songs after a long time 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=1",
   "source": "otomoneruki.js"
@@ -6288,7 +6288,7 @@ window.SONG_DATA.push(
     {
   "title": "タイムマシン",
   "artist": "1640mP(164×40mP)",
-  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "collection": "【😈Song Cut】[2026-09-25] Let's listen to the radio tonight 📻🎶 Sing a few songs after a long time 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=2",
   "source": "otomoneruki.js"
@@ -6296,7 +6296,7 @@ window.SONG_DATA.push(
     {
   "title": "愛迷エレジー",
   "artist": "DECO*27 feat.marina",
-  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "collection": "【😈Song Cut】[2026-09-25] Let's listen to the radio tonight 📻🎶 Sing a few songs after a long time 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=3",
   "source": "otomoneruki.js"
@@ -6304,7 +6304,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "collection": "【😈Song Cut】[2026-09-25] Let's listen to the radio tonight 📻🎶 Sing a few songs after a long time 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=4",
   "source": "otomoneruki.js"
@@ -6312,7 +6312,7 @@ window.SONG_DATA.push(
     {
   "title": "イージーゲーム(feat. 和ぬか)",
   "artist": "natsumi",
-  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "collection": "【😈Song Cut】[2026-09-25] Let's listen to the radio tonight 📻🎶 Sing a few songs after a long time 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=5",
   "source": "otomoneruki.js"
@@ -6320,7 +6320,7 @@ window.SONG_DATA.push(
     {
   "title": "悪者",
   "artist": "くじら",
-  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "collection": "【😈Song Cut】[2026-09-25] Let's listen to the radio tonight 📻🎶 Sing a few songs after a long time 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=6",
   "source": "otomoneruki.js"
@@ -6328,7 +6328,7 @@ window.SONG_DATA.push(
     {
   "title": "物の怪の類",
   "artist": "めいちゃん",
-  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "collection": "【😈Song Cut】[2026-09-25] Let's listen to the radio tonight 📻🎶 Sing a few songs after a long time 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=7",
   "source": "otomoneruki.js"
@@ -6336,7 +6336,7 @@ window.SONG_DATA.push(
     {
   "title": "IRIS OUT",
   "artist": "米津玄師",
-  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "collection": "【😈Song Cut】[2026-09-25] Let's listen to the radio tonight 📻🎶 Sing a few songs after a long time 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=8",
   "source": "otomoneruki.js"
@@ -6344,7 +6344,7 @@ window.SONG_DATA.push(
     {
   "title": "射手座☆︎午後九時Don't be late",
   "artist": "シェリル・ノーム starring May'n",
-  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "collection": "【😈Song Cut】[2026-09-25] Let's listen to the radio tonight 📻🎶 Sing a few songs after a long time 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=9",
   "source": "otomoneruki.js"
@@ -6352,7 +6352,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行",
   "artist": "ランカ・リー=中島愛",
-  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "collection": "【😈Song Cut】[2026-09-25] Let's listen to the radio tonight 📻🎶 Sing a few songs after a long time 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=10",
   "source": "otomoneruki.js"
@@ -6360,7 +6360,7 @@ window.SONG_DATA.push(
     {
   "title": "アナタノオト",
   "artist": "ランカ・リー=中島愛",
-  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "collection": "【😈Song Cut】[2026-09-25] Let's listen to the radio tonight 📻🎶 Sing a few songs after a long time 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=11",
   "source": "otomoneruki.js"
@@ -6368,7 +6368,7 @@ window.SONG_DATA.push(
     {
   "title": "Anytime Anywhere",
   "artist": "milet",
-  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "collection": "【😈Song Cut】[2026-09-25] Let's listen to the radio tonight 📻🎶 Sing a few songs after a long time 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=12",
   "source": "otomoneruki.js"
@@ -6376,7 +6376,7 @@ window.SONG_DATA.push(
     {
   "title": "東京",
   "artist": "くじら",
-  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "collection": "【😈Song Cut】[2026-09-25] Let's listen to the radio tonight 📻🎶 Sing a few songs after a long time 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=13",
   "source": "otomoneruki.js"
@@ -6384,7 +6384,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "collection": "【😈Song Cut】[2026-09-25] Let's listen to the radio tonight 📻🎶 Sing a few songs after a long time 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=14",
   "source": "otomoneruki.js"
@@ -6392,7 +6392,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna feat.初音ミク",
-  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "collection": "【😈Song Cut】[2026-09-25] Let's listen to the radio tonight 📻🎶 Sing a few songs after a long time 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=15",
   "source": "otomoneruki.js"
@@ -6400,7 +6400,7 @@ window.SONG_DATA.push(
     {
   "title": "アストロノーツ",
   "artist": "ぽわぽわP(椎名もた) feat.初音ミク",
-  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "collection": "【😈Song Cut】[2026-09-25] Let's listen to the radio tonight 📻🎶 Sing a few songs after a long time 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=16",
   "source": "otomoneruki.js"
@@ -6408,7 +6408,7 @@ window.SONG_DATA.push(
     {
   "title": "抱きしめたいほど美しい日々に",
   "artist": "くじら",
-  "collection": "【👿歌切】[2026-09-25]今晚当电台听吧📻🎶久违地唱几首吧😈💝",
+  "collection": "【😈Song Cut】[2026-09-25] Let's listen to the radio tonight 📻🎶 Sing a few songs after a long time 😈💝",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mQah6DEAT?p=17",
   "source": "otomoneruki.js"
@@ -6592,7 +6592,7 @@ window.SONG_DATA.push(
     {
   "title": "コロンブス",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【👿歌切】[2026-10-10]挑战5万订阅耐久歌回！这么晚还能达成吗😭还有重大公告✨",
+  "collection": "【👿Song Clip】[2026-10-10] Challenging 50,000 Subscriber Endurance Singing Stream! Can we make it so late😭 Also a big announcement✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BBpu6mE8s?p=1",
   "source": "otomoneruki.js"
@@ -6600,7 +6600,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【👿歌切】[2026-10-10]挑战5万订阅耐久歌回！这么晚还能达成吗😭还有重大公告✨",
+  "collection": "【👿Song Clip】[2026-10-10] Challenging 50,000 Subscriber Endurance Singing Stream! Can we make it so late😭 Also a big announcement✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BBpu6mE8s?p=2",
   "source": "otomoneruki.js"
@@ -6608,7 +6608,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【👿歌切】[2026-10-10]挑战5万订阅耐久歌回！这么晚还能达成吗😭还有重大公告✨",
+  "collection": "【👿Song Clip】[2026-10-10] Challenging 50,000 Subscriber Endurance Singing Stream! Can we make it so late😭 Also a big announcement✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BBpu6mE8s?p=3",
   "source": "otomoneruki.js"
@@ -6616,7 +6616,7 @@ window.SONG_DATA.push(
     {
   "title": "きっとビタミン",
   "artist": "音門るき",
-  "collection": "【👿歌切】[2026-10-10]挑战5万订阅耐久歌回！这么晚还能达成吗😭还有重大公告✨",
+  "collection": "【👿Song Clip】[2026-10-10] Challenging 50,000 Subscriber Endurance Singing Stream! Can we make it so late😭 Also a big announcement✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BBpu6mE8s?p=4",
   "source": "otomoneruki.js"

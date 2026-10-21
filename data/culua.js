@@ -1,6 +1,6 @@
 // CULUA - 歌单数据 (多合集汇总)
 // 来源: BV11GZtBcEsp
-// 生成时间: 10/21/2026, 6:51:43 AM
+// 生成时间: 10/21/2026, 11:05:25 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8,7 +8,7 @@ window.SONG_DATA.push(
     {
   "title": "ベビ・デビ",
   "artist": "CULUA",
-  "collection": "【#CMYKProject】魅せるよ、僕だけの色。【CULUA】",
+  "collection": "【#CMYKProject】I'll Show You My Unique Color.【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1r1RsYDEvB?p=1",
   "source": "culua.js"
@@ -16,7 +16,7 @@ window.SONG_DATA.push(
     {
   "title": "貴方の恋人になりたい",
   "artist": "チョーキューメイ",
-  "collection": "【#CMYKProject】魅せるよ、僕だけの色。【CULUA】",
+  "collection": "【#CMYKProject】I'll Show You My Unique Color.【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1r1RsYDEvB?p=2",
   "source": "culua.js"
@@ -24,7 +24,7 @@ window.SONG_DATA.push(
     {
   "title": "正しくなれない",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【#CMYKProject】魅せるよ、僕だけの色。【CULUA】",
+  "collection": "【#CMYKProject】I'll Show You My Unique Color.【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1r1RsYDEvB?p=3",
   "source": "culua.js"
@@ -32,7 +32,7 @@ window.SONG_DATA.push(
     {
   "title": "言って",
   "artist": "ヨルシカ",
-  "collection": "【#CMYKProject】魅せるよ、僕だけの色。【CULUA】",
+  "collection": "【#CMYKProject】I'll Show You My Unique Color.【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1r1RsYDEvB?p=4",
   "source": "culua.js"
@@ -40,7 +40,7 @@ window.SONG_DATA.push(
     {
   "title": "命に嫌われている",
   "artist": "カンザキイオリ",
-  "collection": "【#CMYKProject】魅せるよ、僕だけの色。【CULUA】",
+  "collection": "【#CMYKProject】I'll Show You My Unique Color.【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1r1RsYDEvB?p=5",
   "source": "culua.js"
@@ -48,7 +48,7 @@ window.SONG_DATA.push(
     {
   "title": "Dear. Mr「F」",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【#CMYKProject】魅せるよ、僕だけの色。【CULUA】",
+  "collection": "【#CMYKProject】I'll Show You My Unique Color.【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1r1RsYDEvB?p=6",
   "source": "culua.js"
@@ -56,7 +56,7 @@ window.SONG_DATA.push(
     {
   "title": "月のワルツ",
   "artist": "諫山実生",
-  "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
+  "collection": "【🦇Song Clip】[2025-07-07] Mellow Playlist Vol. 04 in Fantasy World",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=1",
   "source": "culua.js"
@@ -64,7 +64,7 @@ window.SONG_DATA.push(
     {
   "title": "歌よ",
   "artist": "Belle",
-  "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
+  "collection": "【🦇Song Clip】[2025-07-07] Mellow Playlist Vol. 04 in Fantasy World",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=2",
   "source": "culua.js"
@@ -72,7 +72,7 @@ window.SONG_DATA.push(
     {
   "title": "フクロウ 〜フクロウが知らせる客が来たと〜",
   "artist": "KOKIA",
-  "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
+  "collection": "【🦇Song Clip】[2025-07-07] Mellow Playlist Vol. 04 in Fantasy World",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=3",
   "source": "culua.js"
@@ -80,7 +80,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れじの言の葉",
   "artist": "未来古代楽団 feat. 安次嶺希和子",
-  "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
+  "collection": "【🦇Song Clip】[2025-07-07] Mellow Playlist Vol. 04 in Fantasy World",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=4",
   "source": "culua.js"
@@ -88,7 +88,7 @@ window.SONG_DATA.push(
     {
   "title": "悪魔の子",
   "artist": "ヒグチアイ",
-  "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
+  "collection": "【🦇Song Clip】[2025-07-07] Mellow Playlist Vol. 04 in Fantasy World",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=5",
   "source": "culua.js"
@@ -96,7 +96,7 @@ window.SONG_DATA.push(
     {
   "title": "四季折の羽",
   "artist": "ひとしずくP feat. 鏡音レン",
-  "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
+  "collection": "【🦇Song Clip】[2025-07-07] Mellow Playlist Vol. 04 in Fantasy World",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=6",
   "source": "culua.js"
@@ -104,7 +104,7 @@ window.SONG_DATA.push(
     {
   "title": "六兆年と一夜物語",
   "artist": "kemu feat. IA",
-  "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
+  "collection": "【🦇Song Clip】[2025-07-07] Mellow Playlist Vol. 04 in Fantasy World",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=7",
   "source": "culua.js"
@@ -112,7 +112,7 @@ window.SONG_DATA.push(
     {
   "title": "asphyxia",
   "artist": "Cö shu Nie",
-  "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
+  "collection": "【🦇Song Clip】[2025-07-07] Mellow Playlist Vol. 04 in Fantasy World",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=8",
   "source": "culua.js"
@@ -120,7 +120,7 @@ window.SONG_DATA.push(
     {
   "title": "エウテルペ",
   "artist": "EGOIST",
-  "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
+  "collection": "【🦇Song Clip】[2025-07-07] Mellow Playlist Vol. 04 in Fantasy World",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=9",
   "source": "culua.js"
@@ -128,7 +128,7 @@ window.SONG_DATA.push(
     {
   "title": "君をのせて",
   "artist": "井上あずみ",
-  "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
+  "collection": "【🦇Song Clip】[2025-07-07] Mellow Playlist Vol. 04 in Fantasy World",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=10",
   "source": "culua.js"
@@ -136,7 +136,7 @@ window.SONG_DATA.push(
     {
   "title": "いのちの名前",
   "artist": "木村弓",
-  "collection": "【🦇歌切】[2025-07-07]在幻想世界里的舒缓歌单第04弹",
+  "collection": "【🦇Song Clip】[2025-07-07] Mellow Playlist Vol. 04 in Fantasy World",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vpMb6bEjR?p=11",
   "source": "culua.js"
@@ -144,7 +144,7 @@ window.SONG_DATA.push(
     {
   "title": "蜜月アン・ドゥ・トロワ",
   "artist": "DATEKEN feat.鏡音リン",
-  "collection": "【🦇歌切】[2025-12-22]时尚的｜舒缓歌单第19弹 CULUA",
+  "collection": "【Bat Song Cut】[2025-12-22] CHIC｜Chill Playlist Vol. 19 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mYN666EWU?p=1",
   "source": "culua.js"
@@ -152,7 +152,7 @@ window.SONG_DATA.push(
     {
   "title": "月のワルツ",
   "artist": "諫山実生",
-  "collection": "【🦇歌切】[2025-12-22]时尚的｜舒缓歌单第19弹 CULUA",
+  "collection": "【Bat Song Cut】[2025-12-22] CHIC｜Chill Playlist Vol. 19 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mYN666EWU?p=2",
   "source": "culua.js"
@@ -160,7 +160,7 @@ window.SONG_DATA.push(
     {
   "title": "丸の内サディスティック",
   "artist": "椎名林檎",
-  "collection": "【🦇歌切】[2025-12-22]时尚的｜舒缓歌单第19弹 CULUA",
+  "collection": "【Bat Song Cut】[2025-12-22] CHIC｜Chill Playlist Vol. 19 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mYN666EWU?p=3",
   "source": "culua.js"
@@ -168,7 +168,7 @@ window.SONG_DATA.push(
     {
   "title": "愛を伝えたいだとか",
   "artist": "あいみょん",
-  "collection": "【🦇歌切】[2025-12-22]时尚的｜舒缓歌单第19弹 CULUA",
+  "collection": "【Bat Song Cut】[2025-12-22] CHIC｜Chill Playlist Vol. 19 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mYN666EWU?p=4",
   "source": "culua.js"
@@ -176,7 +176,7 @@ window.SONG_DATA.push(
     {
   "title": "One Last Kiss",
   "artist": "宇多田ヒカル",
-  "collection": "【🦇歌切】[2025-12-22]时尚的｜舒缓歌单第19弹 CULUA",
+  "collection": "【Bat Song Cut】[2025-12-22] CHIC｜Chill Playlist Vol. 19 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mYN666EWU?p=5",
   "source": "culua.js"
@@ -184,7 +184,7 @@ window.SONG_DATA.push(
     {
   "title": "二時間だけのバカンス",
   "artist": "宇多田ヒカル feat.椎名林檎",
-  "collection": "【🦇歌切】[2025-12-22]时尚的｜舒缓歌单第19弹 CULUA",
+  "collection": "【Bat Song Cut】[2025-12-22] CHIC｜Chill Playlist Vol. 19 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mYN666EWU?p=6",
   "source": "culua.js"
@@ -192,7 +192,7 @@ window.SONG_DATA.push(
     {
   "title": "Can You Keep A Secret?",
   "artist": "宇多田ヒカル",
-  "collection": "【🦇歌切】[2025-12-22]时尚的｜舒缓歌单第19弹 CULUA",
+  "collection": "【Bat Song Cut】[2025-12-22] CHIC｜Chill Playlist Vol. 19 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mYN666EWU?p=7",
   "source": "culua.js"
@@ -200,7 +200,7 @@ window.SONG_DATA.push(
     {
   "title": "Automatic",
   "artist": "宇多田ヒカル",
-  "collection": "【🦇歌切】[2025-12-22]时尚的｜舒缓歌单第19弹 CULUA",
+  "collection": "【Bat Song Cut】[2025-12-22] CHIC｜Chill Playlist Vol. 19 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mYN666EWU?p=8",
   "source": "culua.js"
@@ -1808,7 +1808,7 @@ window.SONG_DATA.push(
     {
   "title": "てんぺんちー",
   "artist": "CULUA",
-  "collection": "【歌切】[2026-02-22]大祝福 CULUA",
+  "collection": "[Song Cut][2026-02-22] Great Blessing CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HGQ8B7Ear?p=1",
   "source": "culua.js"
@@ -1816,7 +1816,7 @@ window.SONG_DATA.push(
     {
   "title": "バレバレ",
   "artist": "CULUA",
-  "collection": "【歌切】[2026-02-22]大祝福 CULUA",
+  "collection": "[Song Cut][2026-02-22] Great Blessing CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HGQ8B7Ear?p=2",
   "source": "culua.js"
@@ -1824,7 +1824,7 @@ window.SONG_DATA.push(
     {
   "title": "眩々",
   "artist": "VocaDuo2025",
-  "collection": "【歌切】[2026-02-22]大祝福 CULUA",
+  "collection": "[Song Cut][2026-02-22] Great Blessing CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HGQ8B7Ear?p=3",
   "source": "culua.js"
@@ -1832,7 +1832,7 @@ window.SONG_DATA.push(
     {
   "title": "少しの自信があったら、",
   "artist": "CULUA",
-  "collection": "【歌切】[2026-02-22]大祝福 CULUA",
+  "collection": "[Song Cut][2026-02-22] Great Blessing CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HGQ8B7Ear?p=4",
   "source": "culua.js"
@@ -1840,7 +1840,7 @@ window.SONG_DATA.push(
     {
   "title": "Dear. Mr「F」",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【歌切】[2026-02-22]大祝福 CULUA",
+  "collection": "[Song Cut][2026-02-22] Great Blessing CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HGQ8B7Ear?p=5",
   "source": "culua.js"
@@ -1848,7 +1848,7 @@ window.SONG_DATA.push(
     {
   "title": "ベビ・デビ",
   "artist": "CULUA",
-  "collection": "【歌切】[2026-02-22]大祝福 CULUA",
+  "collection": "[Song Cut][2026-02-22] Great Blessing CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HGQ8B7Ear?p=6",
   "source": "culua.js"
@@ -1856,7 +1856,7 @@ window.SONG_DATA.push(
     {
   "title": "夜もすがら君想ふ",
   "artist": "西沢さんP",
-  "collection": "【歌切】[2026-02-23]悠闲的哔啵｜柔和的歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-02-23] Relaxing Bibo｜Soft Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WTQ8BDEjJ?p=1",
   "source": "culua.js"
@@ -1864,7 +1864,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-02-23]悠闲的哔啵｜柔和的歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-02-23] Relaxing Bibo｜Soft Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WTQ8BDEjJ?p=2",
   "source": "culua.js"
@@ -1872,7 +1872,7 @@ window.SONG_DATA.push(
     {
   "title": "ありあまる富",
   "artist": "椎名林檎",
-  "collection": "【歌切】[2026-02-23]悠闲的哔啵｜柔和的歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-02-23] Relaxing Bibo｜Soft Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WTQ8BDEjJ?p=3",
   "source": "culua.js"
@@ -1880,7 +1880,7 @@ window.SONG_DATA.push(
     {
   "title": "ツギハギスタッカート",
   "artist": "とあ",
-  "collection": "【歌切】[2026-02-23]悠闲的哔啵｜柔和的歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-02-23] Relaxing Bibo｜Soft Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WTQ8BDEjJ?p=4",
   "source": "culua.js"
@@ -1888,7 +1888,7 @@ window.SONG_DATA.push(
     {
   "title": "眩しいDNAだけ",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【歌切】[2026-02-23]悠闲的哔啵｜柔和的歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-02-23] Relaxing Bibo｜Soft Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WTQ8BDEjJ?p=5",
   "source": "culua.js"
@@ -1896,7 +1896,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-02-23]悠闲的哔啵｜柔和的歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-02-23] Relaxing Bibo｜Soft Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WTQ8BDEjJ?p=6",
   "source": "culua.js"
@@ -1904,7 +1904,7 @@ window.SONG_DATA.push(
     {
   "title": "若者のすべて",
   "artist": "フジファブリック",
-  "collection": "【歌切】[2026-02-23]悠闲的哔啵｜柔和的歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-02-23] Relaxing Bibo｜Soft Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WTQ8BDEjJ?p=7",
   "source": "culua.js"
@@ -1912,7 +1912,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "【歌切】[2026-02-23]悠闲的哔啵｜柔和的歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-02-23] Relaxing Bibo｜Soft Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WTQ8BDEjJ?p=8",
   "source": "culua.js"
@@ -1920,7 +1920,7 @@ window.SONG_DATA.push(
     {
   "title": "いのちの名前",
   "artist": "木村弓",
-  "collection": "【歌切】[2026-02-23]悠闲的哔啵｜柔和的歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-02-23] Relaxing Bibo｜Soft Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WTQ8BDEjJ?p=9",
   "source": "culua.js"
@@ -1928,7 +1928,7 @@ window.SONG_DATA.push(
     {
   "title": "瞬き",
   "artist": "back number",
-  "collection": "【歌切】[2026-02-23]悠闲的哔啵｜柔和的歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-02-23] Relaxing Bibo｜Soft Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WTQ8BDEjJ?p=10",
   "source": "culua.js"
@@ -1936,7 +1936,7 @@ window.SONG_DATA.push(
     {
   "title": "ROSE",
   "artist": "HANA",
-  "collection": "【歌切】[2026-02-26]太帅了｜Culua′s 精选歌单第24弹 CULUA",
+  "collection": "[Song Cut] [2026-02-26] So Handsome｜Culua′s Selected Playlist Vol. 24 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvQ8BaEAZ?p=1",
   "source": "culua.js"
@@ -1944,7 +1944,7 @@ window.SONG_DATA.push(
     {
   "title": "B級",
   "artist": "ちゃんみな",
-  "collection": "【歌切】[2026-02-26]太帅了｜Culua′s 精选歌单第24弹 CULUA",
+  "collection": "[Song Cut] [2026-02-26] So Handsome｜Culua′s Selected Playlist Vol. 24 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvQ8BaEAZ?p=2",
   "source": "culua.js"
@@ -1952,7 +1952,7 @@ window.SONG_DATA.push(
     {
   "title": "ハレンチ",
   "artist": "ちゃんみな",
-  "collection": "【歌切】[2026-02-26]太帅了｜Culua′s 精选歌单第24弹 CULUA",
+  "collection": "[Song Cut] [2026-02-26] So Handsome｜Culua′s Selected Playlist Vol. 24 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvQ8BaEAZ?p=3",
   "source": "culua.js"
@@ -1960,7 +1960,7 @@ window.SONG_DATA.push(
     {
   "title": "G4L",
   "artist": "Giga",
-  "collection": "【歌切】[2026-02-26]太帅了｜Culua′s 精选歌单第24弹 CULUA",
+  "collection": "[Song Cut] [2026-02-26] So Handsome｜Culua′s Selected Playlist Vol. 24 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvQ8BaEAZ?p=4",
   "source": "culua.js"
@@ -1968,7 +1968,7 @@ window.SONG_DATA.push(
     {
   "title": "CH4NGE",
   "artist": "Giga",
-  "collection": "【歌切】[2026-02-26]太帅了｜Culua′s 精选歌单第24弹 CULUA",
+  "collection": "[Song Cut] [2026-02-26] So Handsome｜Culua′s Selected Playlist Vol. 24 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvQ8BaEAZ?p=5",
   "source": "culua.js"
@@ -1976,7 +1976,7 @@ window.SONG_DATA.push(
     {
   "title": "唱",
   "artist": "Ado",
-  "collection": "【歌切】[2026-02-26]太帅了｜Culua′s 精选歌单第24弹 CULUA",
+  "collection": "[Song Cut] [2026-02-26] So Handsome｜Culua′s Selected Playlist Vol. 24 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvQ8BaEAZ?p=6",
   "source": "culua.js"
@@ -1984,7 +1984,7 @@ window.SONG_DATA.push(
     {
   "title": "踊",
   "artist": "Ado",
-  "collection": "【歌切】[2026-02-26]太帅了｜Culua′s 精选歌单第24弹 CULUA",
+  "collection": "[Song Cut] [2026-02-26] So Handsome｜Culua′s Selected Playlist Vol. 24 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvQ8BaEAZ?p=7",
   "source": "culua.js"
@@ -1992,7 +1992,7 @@ window.SONG_DATA.push(
     {
   "title": "月光",
   "artist": "はるまきごはん×キタニタツヤ",
-  "collection": "【歌切】[2026-02-26]太帅了｜Culua′s 精选歌单第24弹 CULUA",
+  "collection": "[Song Cut] [2026-02-26] So Handsome｜Culua′s Selected Playlist Vol. 24 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvQ8BaEAZ?p=8",
   "source": "culua.js"
@@ -2000,7 +2000,7 @@ window.SONG_DATA.push(
     {
   "title": "ファタール",
   "artist": "GEMN",
-  "collection": "【歌切】[2026-02-26]太帅了｜Culua′s 精选歌单第24弹 CULUA",
+  "collection": "[Song Cut] [2026-02-26] So Handsome｜Culua′s Selected Playlist Vol. 24 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvQ8BaEAZ?p=9",
   "source": "culua.js"
@@ -2008,7 +2008,7 @@ window.SONG_DATA.push(
     {
   "title": "睨めっ娘",
   "artist": "友成空",
-  "collection": "【歌切】[2026-02-26]太帅了｜Culua′s 精选歌单第24弹 CULUA",
+  "collection": "[Song Cut] [2026-02-26] So Handsome｜Culua′s Selected Playlist Vol. 24 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvQ8BaEAZ?p=10",
   "source": "culua.js"
@@ -2016,7 +2016,7 @@ window.SONG_DATA.push(
     {
   "title": "鬼ノ宴",
   "artist": "友成空",
-  "collection": "【歌切】[2026-02-26]太帅了｜Culua′s 精选歌单第24弹 CULUA",
+  "collection": "[Song Cut] [2026-02-26] So Handsome｜Culua′s Selected Playlist Vol. 24 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvQ8BaEAZ?p=11",
   "source": "culua.js"
@@ -2024,7 +2024,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【歌切】[2026-02-26]太帅了｜Culua′s 精选歌单第24弹 CULUA",
+  "collection": "[Song Cut] [2026-02-26] So Handsome｜Culua′s Selected Playlist Vol. 24 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvQ8BaEAZ?p=12",
   "source": "culua.js"
@@ -2032,7 +2032,7 @@ window.SONG_DATA.push(
     {
   "title": "プロポーズ",
   "artist": "なとり",
-  "collection": "【歌切】[2026-02-26]太帅了｜Culua′s 精选歌单第24弹 CULUA",
+  "collection": "[Song Cut] [2026-02-26] So Handsome｜Culua′s Selected Playlist Vol. 24 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvQ8BaEAZ?p=13",
   "source": "culua.js"
@@ -2040,7 +2040,7 @@ window.SONG_DATA.push(
     {
   "title": "Overdose",
   "artist": "なとり",
-  "collection": "【歌切】[2026-02-26]太帅了｜Culua′s 精选歌单第24弹 CULUA",
+  "collection": "[Song Cut] [2026-02-26] So Handsome｜Culua′s Selected Playlist Vol. 24 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvQ8BaEAZ?p=14",
   "source": "culua.js"
@@ -2048,7 +2048,7 @@ window.SONG_DATA.push(
     {
   "title": "YELLOW",
   "artist": "神山羊",
-  "collection": "【歌切】[2026-02-26]太帅了｜Culua′s 精选歌单第24弹 CULUA",
+  "collection": "[Song Cut] [2026-02-26] So Handsome｜Culua′s Selected Playlist Vol. 24 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvQ8BaEAZ?p=15",
   "source": "culua.js"
@@ -2056,7 +2056,7 @@ window.SONG_DATA.push(
     {
   "title": "プロポーズ",
   "artist": "なとり",
-  "collection": "【歌切】[2026-03-04]轻松歌唱 CULUA",
+  "collection": "[Song Cut] [2026-03-04] Relaxing Singing CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MqQ8BcEda?p=1",
   "source": "culua.js"
@@ -2064,7 +2064,7 @@ window.SONG_DATA.push(
     {
   "title": "幽靈東京",
   "artist": "Ayase",
-  "collection": "【歌切】[2026-03-04]轻松歌唱 CULUA",
+  "collection": "[Song Cut] [2026-03-04] Relaxing Singing CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MqQ8BcEda?p=2",
   "source": "culua.js"
@@ -2072,7 +2072,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ声一つ",
   "artist": "ロクデナシ",
-  "collection": "【歌切】[2026-03-04]轻松歌唱 CULUA",
+  "collection": "[Song Cut] [2026-03-04] Relaxing Singing CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MqQ8BcEda?p=3",
   "source": "culua.js"
@@ -2080,7 +2080,7 @@ window.SONG_DATA.push(
     {
   "title": "ベテルギウス",
   "artist": "優里",
-  "collection": "【歌切】[2026-03-04]轻松歌唱 CULUA",
+  "collection": "[Song Cut] [2026-03-04] Relaxing Singing CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MqQ8BcEda?p=4",
   "source": "culua.js"
@@ -2088,7 +2088,7 @@ window.SONG_DATA.push(
     {
   "title": "アスノヨゾラ哨戒班",
   "artist": "Orangestar",
-  "collection": "【歌切】[2026-03-04]轻松歌唱 CULUA",
+  "collection": "[Song Cut] [2026-03-04] Relaxing Singing CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MqQ8BcEda?p=5",
   "source": "culua.js"
@@ -2096,7 +2096,7 @@ window.SONG_DATA.push(
     {
   "title": "雛鳥",
   "artist": "花譜",
-  "collection": "【歌切】[2026-03-04]轻松歌唱 CULUA",
+  "collection": "[Song Cut] [2026-03-04] Relaxing Singing CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MqQ8BcEda?p=6",
   "source": "culua.js"
@@ -2104,7 +2104,7 @@ window.SONG_DATA.push(
     {
   "title": "水流のロック",
   "artist": "日食なつこ",
-  "collection": "【歌切】[2026-03-04]轻松歌唱 CULUA",
+  "collection": "[Song Cut] [2026-03-04] Relaxing Singing CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MqQ8BcEda?p=7",
   "source": "culua.js"
@@ -2112,7 +2112,7 @@ window.SONG_DATA.push(
     {
   "title": "No Title",
   "artist": "Reol",
-  "collection": "【歌切】[2026-03-12]清爽的螃蟹｜Culua′s 精选歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-03-12] Refreshing Crab｜Culua′s Selected Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HuQ8BJE2K?p=1",
   "source": "culua.js"
@@ -2120,7 +2120,7 @@ window.SONG_DATA.push(
     {
   "title": "メルト",
   "artist": "ryo",
-  "collection": "【歌切】[2026-03-12]清爽的螃蟹｜Culua′s 精选歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-03-12] Refreshing Crab｜Culua′s Selected Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HuQ8BJE2K?p=2",
   "source": "culua.js"
@@ -2128,7 +2128,7 @@ window.SONG_DATA.push(
     {
   "title": "Hello ～ Paradise Kiss～",
   "artist": "YUI",
-  "collection": "【歌切】[2026-03-12]清爽的螃蟹｜Culua′s 精选歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-03-12] Refreshing Crab｜Culua′s Selected Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HuQ8BJE2K?p=3",
   "source": "culua.js"
@@ -2136,7 +2136,7 @@ window.SONG_DATA.push(
     {
   "title": "ふわふわ時間",
   "artist": "放課後ティータイム",
-  "collection": "【歌切】[2026-03-12]清爽的螃蟹｜Culua′s 精选歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-03-12] Refreshing Crab｜Culua′s Selected Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HuQ8BJE2K?p=4",
   "source": "culua.js"
@@ -2144,7 +2144,7 @@ window.SONG_DATA.push(
     {
   "title": "カレンダーガール",
   "artist": "STAR☆ANIS",
-  "collection": "【歌切】[2026-03-12]清爽的螃蟹｜Culua′s 精选歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-03-12] Refreshing Crab｜Culua′s Selected Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HuQ8BJE2K?p=5",
   "source": "culua.js"
@@ -2152,7 +2152,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "【歌切】[2026-03-12]清爽的螃蟹｜Culua′s 精选歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-03-12] Refreshing Crab｜Culua′s Selected Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HuQ8BJE2K?p=6",
   "source": "culua.js"
@@ -2160,7 +2160,7 @@ window.SONG_DATA.push(
     {
   "title": "アスノヨゾラ哨戒班",
   "artist": "Orangestar",
-  "collection": "【歌切】[2026-03-12]清爽的螃蟹｜Culua′s 精选歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-03-12] Refreshing Crab｜Culua′s Selected Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HuQ8BJE2K?p=7",
   "source": "culua.js"
@@ -2168,7 +2168,7 @@ window.SONG_DATA.push(
     {
   "title": "快晴",
   "artist": "Orangestar",
-  "collection": "【歌切】[2026-03-12]清爽的螃蟹｜Culua′s 精选歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-03-12] Refreshing Crab｜Culua′s Selected Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HuQ8BJE2K?p=8",
   "source": "culua.js"
@@ -2176,7 +2176,7 @@ window.SONG_DATA.push(
     {
   "title": "サマータイムレコード",
   "artist": "じん",
-  "collection": "【歌切】[2026-03-12]清爽的螃蟹｜Culua′s 精选歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-03-12] Refreshing Crab｜Culua′s Selected Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HuQ8BJE2K?p=9",
   "source": "culua.js"
@@ -2184,7 +2184,7 @@ window.SONG_DATA.push(
     {
   "title": "君がくれた夏",
   "artist": "家入レオ",
-  "collection": "【歌切】[2026-03-12]清爽的螃蟹｜Culua′s 精选歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-03-12] Refreshing Crab｜Culua′s Selected Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HuQ8BJE2K?p=10",
   "source": "culua.js"
@@ -2192,7 +2192,7 @@ window.SONG_DATA.push(
     {
   "title": "secret base 〜君がくれたもの",
   "artist": "ZONE",
-  "collection": "【歌切】[2026-03-12]清爽的螃蟹｜Culua′s 精选歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-03-12] Refreshing Crab｜Culua′s Selected Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HuQ8BJE2K?p=11",
   "source": "culua.js"
@@ -2200,7 +2200,7 @@ window.SONG_DATA.push(
     {
   "title": "若者のすべて",
   "artist": "フジファブリック",
-  "collection": "【歌切】[2026-03-12]清爽的螃蟹｜Culua′s 精选歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-03-12] Refreshing Crab｜Culua′s Selected Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HuQ8BJE2K?p=12",
   "source": "culua.js"
@@ -2208,7 +2208,7 @@ window.SONG_DATA.push(
     {
   "title": "あいつら全員同窓会",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【歌切】[2026-03-12]清爽的螃蟹｜Culua′s 精选歌单第25弹 CULUA",
+  "collection": "[Song Cut] [2026-03-12] Refreshing Crab｜Culua′s Selected Playlist Vol. 25 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HuQ8BJE2K?p=13",
   "source": "culua.js"
@@ -2216,7 +2216,7 @@ window.SONG_DATA.push(
     {
   "title": "爆裂愛してる",
   "artist": "M!LK",
-  "collection": "【歌切】[2026-03-16]悠闲的午间时光 CULUA",
+  "collection": "[Song Cut] [2026-03-16] A Relaxing Afternoon Time CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EEQ8BVE26?p=1",
   "source": "culua.js"
@@ -2224,7 +2224,7 @@ window.SONG_DATA.push(
     {
   "title": "きゅうくらりん",
   "artist": "いよわ",
-  "collection": "【歌切】[2026-03-16]悠闲的午间时光 CULUA",
+  "collection": "[Song Cut] [2026-03-16] A Relaxing Afternoon Time CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EEQ8BVE26?p=2",
   "source": "culua.js"
@@ -2232,7 +2232,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピーシンセサイザー",
   "artist": "EasyPop",
-  "collection": "【歌切】[2026-03-16]悠闲的午间时光 CULUA",
+  "collection": "[Song Cut] [2026-03-16] A Relaxing Afternoon Time CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EEQ8BVE26?p=3",
   "source": "culua.js"
@@ -2240,7 +2240,7 @@ window.SONG_DATA.push(
     {
   "title": "妄想感傷代償同盟",
   "artist": "DECO*27",
-  "collection": "【歌切】[2026-03-16]悠闲的午间时光 CULUA",
+  "collection": "[Song Cut] [2026-03-16] A Relaxing Afternoon Time CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EEQ8BVE26?p=4",
   "source": "culua.js"
@@ -2248,7 +2248,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛裁判",
   "artist": "40mP",
-  "collection": "【歌切】[2026-03-16]悠闲的午间时光 CULUA",
+  "collection": "[Song Cut] [2026-03-16] A Relaxing Afternoon Time CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EEQ8BVE26?p=5",
   "source": "culua.js"
@@ -2256,7 +2256,7 @@ window.SONG_DATA.push(
     {
   "title": "人マニア",
   "artist": "原口沙輔",
-  "collection": "【歌切】[2026-03-16]悠闲的午间时光 CULUA",
+  "collection": "[Song Cut] [2026-03-16] A Relaxing Afternoon Time CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EEQ8BVE26?p=6",
   "source": "culua.js"
@@ -2264,7 +2264,7 @@ window.SONG_DATA.push(
     {
   "title": "イガク",
   "artist": "原口沙輔",
-  "collection": "【歌切】[2026-03-16]悠闲的午间时光 CULUA",
+  "collection": "[Song Cut] [2026-03-16] A Relaxing Afternoon Time CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EEQ8BVE26?p=7",
   "source": "culua.js"
@@ -2272,7 +2272,7 @@ window.SONG_DATA.push(
     {
   "title": "トンデモワンダーズ",
   "artist": "Sasakure. UK",
-  "collection": "【歌切】[2026-03-16]悠闲的午间时光 CULUA",
+  "collection": "[Song Cut] [2026-03-16] A Relaxing Afternoon Time CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EEQ8BVE26?p=8",
   "source": "culua.js"
@@ -2280,7 +2280,7 @@ window.SONG_DATA.push(
     {
   "title": "六兆年と一夜物語",
   "artist": "kemu",
-  "collection": "【歌切】[2026-03-16]悠闲的午间时光 CULUA",
+  "collection": "[Song Cut] [2026-03-16] A Relaxing Afternoon Time CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EEQ8BVE26?p=9",
   "source": "culua.js"
@@ -2288,7 +2288,7 @@ window.SONG_DATA.push(
     {
   "title": "いーあるふぁんくらぶ",
   "artist": "みきとP",
-  "collection": "【歌切】[2026-03-16]悠闲的午间时光 CULUA",
+  "collection": "[Song Cut] [2026-03-16] A Relaxing Afternoon Time CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EEQ8BVE26?p=10",
   "source": "culua.js"
@@ -2296,7 +2296,7 @@ window.SONG_DATA.push(
     {
   "title": "ロキ",
   "artist": "みきとP",
-  "collection": "【歌切】[2026-03-16]悠闲的午间时光 CULUA",
+  "collection": "[Song Cut] [2026-03-16] A Relaxing Afternoon Time CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EEQ8BVE26?p=11",
   "source": "culua.js"
@@ -2304,7 +2304,7 @@ window.SONG_DATA.push(
     {
   "title": "バレリーコ",
   "artist": "みきとP",
-  "collection": "【歌切】[2026-03-16]悠闲的午间时光 CULUA",
+  "collection": "[Song Cut] [2026-03-16] A Relaxing Afternoon Time CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EEQ8BVE26?p=12",
   "source": "culua.js"
@@ -2312,7 +2312,7 @@ window.SONG_DATA.push(
     {
   "title": "爆裂愛してる",
   "artist": "M!LK",
-  "collection": "【歌切】[2026-03-16]悠闲的午间时光 CULUA",
+  "collection": "[Song Cut] [2026-03-16] A Relaxing Afternoon Time CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EEQ8BVE26?p=13",
   "source": "culua.js"
@@ -2320,7 +2320,7 @@ window.SONG_DATA.push(
     {
   "title": "群青",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-03-19]直线上｜Culua′s 精选歌单第26弹 CULUA",
+  "collection": "[Song Cut] [2026-03-19] Straight Up｜Culua′s Selected Playlist Vol. 26 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRQ8BUEL9?p=1",
   "source": "culua.js"
@@ -2328,7 +2328,7 @@ window.SONG_DATA.push(
     {
   "title": "正しくなれない",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【歌切】[2026-03-19]直线上｜Culua′s 精选歌单第26弹 CULUA",
+  "collection": "[Song Cut] [2026-03-19] Straight Up｜Culua′s Selected Playlist Vol. 26 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRQ8BUEL9?p=2",
   "source": "culua.js"
@@ -2336,7 +2336,7 @@ window.SONG_DATA.push(
     {
   "title": "秒針を噛む",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【歌切】[2026-03-19]直线上｜Culua′s 精选歌单第26弹 CULUA",
+  "collection": "[Song Cut] [2026-03-19] Straight Up｜Culua′s Selected Playlist Vol. 26 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRQ8BUEL9?p=3",
   "source": "culua.js"
@@ -2344,7 +2344,7 @@ window.SONG_DATA.push(
     {
   "title": "カワイヲアメク",
   "artist": "美波",
-  "collection": "【歌切】[2026-03-19]直线上｜Culua′s 精选歌单第26弹 CULUA",
+  "collection": "[Song Cut] [2026-03-19] Straight Up｜Culua′s Selected Playlist Vol. 26 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRQ8BUEL9?p=4",
   "source": "culua.js"
@@ -2352,7 +2352,7 @@ window.SONG_DATA.push(
     {
   "title": "アメヲマツ、",
   "artist": "美波",
-  "collection": "【歌切】[2026-03-19]直线上｜Culua′s 精选歌单第26弹 CULUA",
+  "collection": "[Song Cut] [2026-03-19] Straight Up｜Culua′s Selected Playlist Vol. 26 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRQ8BUEL9?p=5",
   "source": "culua.js"
@@ -2360,7 +2360,7 @@ window.SONG_DATA.push(
     {
   "title": "一体いつから",
   "artist": "月村手毬",
-  "collection": "【歌切】[2026-03-19]直线上｜Culua′s 精选歌单第26弹 CULUA",
+  "collection": "[Song Cut] [2026-03-19] Straight Up｜Culua′s Selected Playlist Vol. 26 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRQ8BUEL9?p=6",
   "source": "culua.js"
@@ -2368,7 +2368,7 @@ window.SONG_DATA.push(
     {
   "title": "Luna say maybe",
   "artist": "月村手毬",
-  "collection": "【歌切】[2026-03-19]直线上｜Culua′s 精选歌单第26弹 CULUA",
+  "collection": "[Song Cut] [2026-03-19] Straight Up｜Culua′s Selected Playlist Vol. 26 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRQ8BUEL9?p=7",
   "source": "culua.js"
@@ -2376,7 +2376,7 @@ window.SONG_DATA.push(
     {
   "title": "未完成",
   "artist": "家入レオ",
-  "collection": "【歌切】[2026-03-19]直线上｜Culua′s 精选歌单第26弹 CULUA",
+  "collection": "[Song Cut] [2026-03-19] Straight Up｜Culua′s Selected Playlist Vol. 26 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRQ8BUEL9?p=8",
   "source": "culua.js"
@@ -2384,7 +2384,7 @@ window.SONG_DATA.push(
     {
   "title": "ミカヅキ",
   "artist": "さユり",
-  "collection": "【歌切】[2026-03-19]直线上｜Culua′s 精选歌单第26弹 CULUA",
+  "collection": "[Song Cut] [2026-03-19] Straight Up｜Culua′s Selected Playlist Vol. 26 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRQ8BUEL9?p=9",
   "source": "culua.js"
@@ -2392,7 +2392,7 @@ window.SONG_DATA.push(
     {
   "title": "泥中に咲く",
   "artist": "ウォルピスカーター",
-  "collection": "【歌切】[2026-03-19]直线上｜Culua′s 精选歌单第26弹 CULUA",
+  "collection": "[Song Cut] [2026-03-19] Straight Up｜Culua′s Selected Playlist Vol. 26 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cRQ8BUEL9?p=10",
   "source": "culua.js"
@@ -2400,7 +2400,7 @@ window.SONG_DATA.push(
     {
   "title": "歌よ",
   "artist": "Belle",
-  "collection": "【歌切】[2026-03-23]不可思议世界｜柔和的歌单第26弹 CULUA",
+  "collection": "[Song Cut] [2026-03-23] Incredible World｜Soft Playlist Vol. 26 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HDQ8BHEpW?p=1",
   "source": "culua.js"
@@ -2408,7 +2408,7 @@ window.SONG_DATA.push(
     {
   "title": "すずめ feat.十明",
   "artist": "RADWIMPS",
-  "collection": "【歌切】[2026-03-23]不可思议世界｜柔和的歌单第26弹 CULUA",
+  "collection": "[Song Cut] [2026-03-23] Incredible World｜Soft Playlist Vol. 26 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HDQ8BHEpW?p=2",
   "source": "culua.js"
@@ -2416,7 +2416,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れじの言の葉",
   "artist": "未来古代楽団 feat.安次嶺希和子",
-  "collection": "【歌切】[2026-03-23]不可思议世界｜柔和的歌单第26弹 CULUA",
+  "collection": "[Song Cut] [2026-03-23] Incredible World｜Soft Playlist Vol. 26 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HDQ8BHEpW?p=3",
   "source": "culua.js"
@@ -2424,7 +2424,7 @@ window.SONG_DATA.push(
     {
   "title": "Ghost of a smile",
   "artist": "EGOIST",
-  "collection": "【歌切】[2026-03-23]不可思议世界｜柔和的歌单第26弹 CULUA",
+  "collection": "[Song Cut] [2026-03-23] Incredible World｜Soft Playlist Vol. 26 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HDQ8BHEpW?p=4",
   "source": "culua.js"
@@ -2432,7 +2432,7 @@ window.SONG_DATA.push(
     {
   "title": "One Last Kiss",
   "artist": "宇多田ヒカル",
-  "collection": "【歌切】[2026-03-23]不可思议世界｜柔和的歌单第26弹 CULUA",
+  "collection": "[Song Cut] [2026-03-23] Incredible World｜Soft Playlist Vol. 26 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HDQ8BHEpW?p=5",
   "source": "culua.js"
@@ -2440,7 +2440,7 @@ window.SONG_DATA.push(
     {
   "title": "蜜月アンドゥトロワ",
   "artist": "DATEKEN",
-  "collection": "【歌切】[2026-03-23]不可思议世界｜柔和的歌单第26弹 CULUA",
+  "collection": "[Song Cut] [2026-03-23] Incredible World｜Soft Playlist Vol. 26 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HDQ8BHEpW?p=6",
   "source": "culua.js"
@@ -2448,7 +2448,7 @@ window.SONG_DATA.push(
     {
   "title": "月のワルツ",
   "artist": "諫山実生",
-  "collection": "【歌切】[2026-03-23]不可思议世界｜柔和的歌单第26弹 CULUA",
+  "collection": "[Song Cut] [2026-03-23] Incredible World｜Soft Playlist Vol. 26 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HDQ8BHEpW?p=7",
   "source": "culua.js"
@@ -2456,7 +2456,7 @@ window.SONG_DATA.push(
     {
   "title": "フクロウ ～フクロウが知らせる客が来たと～",
   "artist": "KOKIA",
-  "collection": "【歌切】[2026-03-23]不可思议世界｜柔和的歌单第26弹 CULUA",
+  "collection": "[Song Cut] [2026-03-23] Incredible World｜Soft Playlist Vol. 26 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HDQ8BHEpW?p=8",
   "source": "culua.js"
@@ -2464,7 +2464,7 @@ window.SONG_DATA.push(
     {
   "title": "いきのこり●ぼくら",
   "artist": "青葉市子",
-  "collection": "【歌切】[2026-03-23]不可思议世界｜柔和的歌单第26弹 CULUA",
+  "collection": "[Song Cut] [2026-03-23] Incredible World｜Soft Playlist Vol. 26 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HDQ8BHEpW?p=9",
   "source": "culua.js"
@@ -2472,7 +2472,7 @@ window.SONG_DATA.push(
     {
   "title": "エウテルペ",
   "artist": "EGOIST",
-  "collection": "【歌切】[2026-03-23]不可思议世界｜柔和的歌单第26弹 CULUA",
+  "collection": "[Song Cut] [2026-03-23] Incredible World｜Soft Playlist Vol. 26 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HDQ8BHEpW?p=10",
   "source": "culua.js"
@@ -2480,7 +2480,7 @@ window.SONG_DATA.push(
     {
   "title": "JANE DOE",
   "artist": "米津玄師, 宇多田ヒカル",
-  "collection": "【歌切】[2026-03-23]不可思议世界｜柔和的歌单第26弹 CULUA",
+  "collection": "[Song Cut] [2026-03-23] Incredible World｜Soft Playlist Vol. 26 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HDQ8BHEpW?p=11",
   "source": "culua.js"
@@ -2488,7 +2488,7 @@ window.SONG_DATA.push(
     {
   "title": "いかないで",
   "artist": "想太",
-  "collection": "【歌切】[2026-03-23]不可思议世界｜柔和的歌单第26弹 CULUA",
+  "collection": "[Song Cut] [2026-03-23] Incredible World｜Soft Playlist Vol. 26 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HDQ8BHEpW?p=12",
   "source": "culua.js"
@@ -2496,7 +2496,7 @@ window.SONG_DATA.push(
     {
   "title": "独りんぼエンヴィー",
   "artist": "電ポルP",
-  "collection": "【歌切】[2026-03-26]可疑的｜Culua′s 精选歌单第27弹 CULUA",
+  "collection": "[Song Cut] [2026-03-26] Suspicious | Culua′s Playlist Vol. 27 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13eQ8BAEeB?p=1",
   "source": "culua.js"
@@ -2504,7 +2504,7 @@ window.SONG_DATA.push(
     {
   "title": "リードコントロール",
   "artist": "なるみや",
-  "collection": "【歌切】[2026-03-26]可疑的｜Culua′s 精选歌单第27弹 CULUA",
+  "collection": "[Song Cut] [2026-03-26] Suspicious | Culua′s Playlist Vol. 27 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13eQ8BAEeB?p=2",
   "source": "culua.js"
@@ -2512,7 +2512,7 @@ window.SONG_DATA.push(
     {
   "title": "デスぺレート",
   "artist": "TeddyLoid・Giga feat.LOLUET",
-  "collection": "【歌切】[2026-03-26]可疑的｜Culua′s 精选歌单第27弹 CULUA",
+  "collection": "[Song Cut] [2026-03-26] Suspicious | Culua′s Playlist Vol. 27 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13eQ8BAEeB?p=3",
   "source": "culua.js"
@@ -2520,7 +2520,7 @@ window.SONG_DATA.push(
     {
   "title": "Loveit ?",
   "artist": "biz x ZERA",
-  "collection": "【歌切】[2026-03-26]可疑的｜Culua′s 精选歌单第27弹 CULUA",
+  "collection": "[Song Cut] [2026-03-26] Suspicious | Culua′s Playlist Vol. 27 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13eQ8BAEeB?p=4",
   "source": "culua.js"
@@ -2528,7 +2528,7 @@ window.SONG_DATA.push(
     {
   "title": "浴槽とネオンテトラ",
   "artist": "REISAI",
-  "collection": "【歌切】[2026-03-26]可疑的｜Culua′s 精选歌单第27弹 CULUA",
+  "collection": "[Song Cut] [2026-03-26] Suspicious | Culua′s Playlist Vol. 27 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13eQ8BAEeB?p=5",
   "source": "culua.js"
@@ -2536,7 +2536,7 @@ window.SONG_DATA.push(
     {
   "title": "ずうっといっしょ!",
   "artist": "キタニタツヤ",
-  "collection": "【歌切】[2026-03-26]可疑的｜Culua′s 精选歌单第27弹 CULUA",
+  "collection": "[Song Cut] [2026-03-26] Suspicious | Culua′s Playlist Vol. 27 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13eQ8BAEeB?p=6",
   "source": "culua.js"
@@ -2544,7 +2544,7 @@ window.SONG_DATA.push(
     {
   "title": "足りない",
   "artist": "dustcell",
-  "collection": "【歌切】[2026-03-26]可疑的｜Culua′s 精选歌单第27弹 CULUA",
+  "collection": "[Song Cut] [2026-03-26] Suspicious | Culua′s Playlist Vol. 27 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13eQ8BAEeB?p=7",
   "source": "culua.js"
@@ -2552,7 +2552,7 @@ window.SONG_DATA.push(
     {
   "title": "BL",
   "artist": "薔薇園アヴ",
-  "collection": "【歌切】[2026-03-26]可疑的｜Culua′s 精选歌单第27弹 CULUA",
+  "collection": "[Song Cut] [2026-03-26] Suspicious | Culua′s Playlist Vol. 27 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13eQ8BAEeB?p=8",
   "source": "culua.js"
@@ -2560,7 +2560,7 @@ window.SONG_DATA.push(
     {
   "title": "キケンナアソビ",
   "artist": "クリープハイプ",
-  "collection": "【歌切】[2026-03-26]可疑的｜Culua′s 精选歌单第27弹 CULUA",
+  "collection": "[Song Cut] [2026-03-26] Suspicious | Culua′s Playlist Vol. 27 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13eQ8BAEeB?p=9",
   "source": "culua.js"
@@ -2568,7 +2568,7 @@ window.SONG_DATA.push(
     {
   "title": "ラブカ？",
   "artist": "柊キライ",
-  "collection": "【歌切】[2026-03-26]可疑的｜Culua′s 精选歌单第27弹 CULUA",
+  "collection": "[Song Cut] [2026-03-26] Suspicious | Culua′s Playlist Vol. 27 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13eQ8BAEeB?p=10",
   "source": "culua.js"
@@ -2576,7 +2576,7 @@ window.SONG_DATA.push(
     {
   "title": "愛して愛して愛して",
   "artist": "きくお",
-  "collection": "【歌切】[2026-03-26]可疑的｜Culua′s 精选歌单第27弹 CULUA",
+  "collection": "[Song Cut] [2026-03-26] Suspicious | Culua′s Playlist Vol. 27 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13eQ8BAEeB?p=11",
   "source": "culua.js"
@@ -2584,7 +2584,7 @@ window.SONG_DATA.push(
     {
   "title": "プロポーズ",
   "artist": "内緒のピアス",
-  "collection": "【歌切】[2026-03-26]可疑的｜Culua′s 精选歌单第27弹 CULUA",
+  "collection": "[Song Cut] [2026-03-26] Suspicious | Culua′s Playlist Vol. 27 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13eQ8BAEeB?p=12",
   "source": "culua.js"
@@ -2592,7 +2592,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならテンダー",
   "artist": "電ポルp",
-  "collection": "【歌切】[2026-03-26]可疑的｜Culua′s 精选歌单第27弹 CULUA",
+  "collection": "[Song Cut] [2026-03-26] Suspicious | Culua′s Playlist Vol. 27 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13eQ8BAEeB?p=13",
   "source": "culua.js"
@@ -2600,7 +2600,7 @@ window.SONG_DATA.push(
     {
   "title": "トリコノシティ",
   "artist": "40mP",
-  "collection": "【歌切】[2026-03-30]今夜是悠闲时光、｜柔和的歌单 27 CULUA",
+  "collection": "[Song Cut] [2026-03-30] Tonight is a leisurely time,｜Soft playlist 27 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18qQ8BcEX8?p=1",
   "source": "culua.js"
@@ -2608,7 +2608,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "【歌切】[2026-03-30]今夜是悠闲时光、｜柔和的歌单 27 CULUA",
+  "collection": "[Song Cut] [2026-03-30] Tonight is a leisurely time,｜Soft playlist 27 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18qQ8BcEX8?p=2",
   "source": "culua.js"
@@ -2616,7 +2616,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならメモリーズ",
   "artist": "supercell",
-  "collection": "【歌切】[2026-03-30]今夜是悠闲时光、｜柔和的歌单 27 CULUA",
+  "collection": "[Song Cut] [2026-03-30] Tonight is a leisurely time,｜Soft playlist 27 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18qQ8BcEX8?p=3",
   "source": "culua.js"
@@ -2624,7 +2624,7 @@ window.SONG_DATA.push(
     {
   "title": "サターン",
   "artist": "ずっと真夜中でいいのに",
-  "collection": "【歌切】[2026-03-30]今夜是悠闲时光、｜柔和的歌单 27 CULUA",
+  "collection": "[Song Cut] [2026-03-30] Tonight is a leisurely time,｜Soft playlist 27 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18qQ8BcEX8?p=4",
   "source": "culua.js"
@@ -2632,7 +2632,7 @@ window.SONG_DATA.push(
     {
   "title": "シリョクケンサ",
   "artist": "40mP",
-  "collection": "【歌切】[2026-03-30]今夜是悠闲时光、｜柔和的歌单 27 CULUA",
+  "collection": "[Song Cut] [2026-03-30] Tonight is a leisurely time,｜Soft playlist 27 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18qQ8BcEX8?p=5",
   "source": "culua.js"
@@ -2640,7 +2640,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-03-30]今夜是悠闲时光、｜柔和的歌单 27 CULUA",
+  "collection": "[Song Cut] [2026-03-30] Tonight is a leisurely time,｜Soft playlist 27 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18qQ8BcEX8?p=6",
   "source": "culua.js"
@@ -2648,7 +2648,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-03-30]今夜是悠闲时光、｜柔和的歌单 27 CULUA",
+  "collection": "[Song Cut] [2026-03-30] Tonight is a leisurely time,｜Soft playlist 27 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18qQ8BcEX8?p=7",
   "source": "culua.js"
@@ -2656,7 +2656,7 @@ window.SONG_DATA.push(
     {
   "title": "世界は恋に落ちている",
   "artist": "CHiCO with HoneyWorks",
-  "collection": "【歌切】[2026-03-30]今夜是悠闲时光、｜柔和的歌单 27 CULUA",
+  "collection": "[Song Cut] [2026-03-30] Tonight is a leisurely time,｜Soft playlist 27 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18qQ8BcEX8?p=8",
   "source": "culua.js"
@@ -2664,7 +2664,7 @@ window.SONG_DATA.push(
     {
   "title": "Blue Jeans",
   "artist": "HANA",
-  "collection": "【歌切】[2026-03-30]今夜是悠闲时光、｜柔和的歌单 27 CULUA",
+  "collection": "[Song Cut] [2026-03-30] Tonight is a leisurely time,｜Soft playlist 27 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18qQ8BcEX8?p=9",
   "source": "culua.js"
@@ -2672,7 +2672,7 @@ window.SONG_DATA.push(
     {
   "title": "美人局",
   "artist": "是",
-  "collection": "【歌切】[2026-04-02]术力口限定歌回 Culua′s 精选歌单第28弹 CULUA",
+  "collection": "[Song Cut] [2026-04-02] Vocaloid Limited Song Session Culua′s Selected Playlist Vol. 28 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tEQhBAERD?p=1",
   "source": "culua.js"
@@ -2680,7 +2680,7 @@ window.SONG_DATA.push(
     {
   "title": "あとのまつり",
   "artist": "Peg",
-  "collection": "【歌切】[2026-04-02]术力口限定歌回 Culua′s 精选歌单第28弹 CULUA",
+  "collection": "[Song Cut] [2026-04-02] Vocaloid Limited Song Session Culua′s Selected Playlist Vol. 28 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tEQhBAERD?p=2",
   "source": "culua.js"
@@ -2688,7 +2688,7 @@ window.SONG_DATA.push(
     {
   "title": "あわよくばきみの眷属になりたいな",
   "artist": "Peg",
-  "collection": "【歌切】[2026-04-02]术力口限定歌回 Culua′s 精选歌单第28弹 CULUA",
+  "collection": "[Song Cut] [2026-04-02] Vocaloid Limited Song Session Culua′s Selected Playlist Vol. 28 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tEQhBAERD?p=3",
   "source": "culua.js"
@@ -2696,7 +2696,7 @@ window.SONG_DATA.push(
     {
   "title": "ビターチョコデコレーション",
   "artist": "syudou",
-  "collection": "【歌切】[2026-04-02]术力口限定歌回 Culua′s 精选歌单第28弹 CULUA",
+  "collection": "[Song Cut] [2026-04-02] Vocaloid Limited Song Session Culua′s Selected Playlist Vol. 28 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tEQhBAERD?p=4",
   "source": "culua.js"
@@ -2704,7 +2704,7 @@ window.SONG_DATA.push(
     {
   "title": "孤独の宗教",
   "artist": "syudou",
-  "collection": "【歌切】[2026-04-02]术力口限定歌回 Culua′s 精选歌单第28弹 CULUA",
+  "collection": "[Song Cut] [2026-04-02] Vocaloid Limited Song Session Culua′s Selected Playlist Vol. 28 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tEQhBAERD?p=5",
   "source": "culua.js"
@@ -2712,7 +2712,7 @@ window.SONG_DATA.push(
     {
   "title": "ヴィラン",
   "artist": "てにをは",
-  "collection": "【歌切】[2026-04-02]术力口限定歌回 Culua′s 精选歌单第28弹 CULUA",
+  "collection": "[Song Cut] [2026-04-02] Vocaloid Limited Song Session Culua′s Selected Playlist Vol. 28 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tEQhBAERD?p=6",
   "source": "culua.js"
@@ -2720,7 +2720,7 @@ window.SONG_DATA.push(
     {
   "title": "GARBAGE",
   "artist": "あめのむらくもP",
-  "collection": "【歌切】[2026-04-02]术力口限定歌回 Culua′s 精选歌单第28弹 CULUA",
+  "collection": "[Song Cut] [2026-04-02] Vocaloid Limited Song Session Culua′s Selected Playlist Vol. 28 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tEQhBAERD?p=7",
   "source": "culua.js"
@@ -2728,7 +2728,7 @@ window.SONG_DATA.push(
     {
   "title": "ベビ・デビ",
   "artist": "CULUA",
-  "collection": "接力歌切 CULUA 2026-04-05 rEA_HtNCoes RKMusic歌回接力",
+  "collection": "Relay song cut CULUA 2026-04-05 rEA_HtNCoes RKMusic song relay.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UGSUBGEQV?p=1",
   "source": "culua.js"
@@ -2736,7 +2736,7 @@ window.SONG_DATA.push(
     {
   "title": "スマトラ警備隊",
   "artist": "相対性理論",
-  "collection": "接力歌切 CULUA 2026-04-05 rEA_HtNCoes RKMusic歌回接力",
+  "collection": "Relay song cut CULUA 2026-04-05 rEA_HtNCoes RKMusic song relay.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UGSUBGEQV?p=2",
   "source": "culua.js"
@@ -2744,7 +2744,7 @@ window.SONG_DATA.push(
     {
   "title": "脱色",
   "artist": "CULUA",
-  "collection": "接力歌切 CULUA 2026-04-05 rEA_HtNCoes RKMusic歌回接力",
+  "collection": "Relay song cut CULUA 2026-04-05 rEA_HtNCoes RKMusic song relay.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UGSUBGEQV?p=3",
   "source": "culua.js"
@@ -2752,7 +2752,7 @@ window.SONG_DATA.push(
     {
   "title": "またね幻",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "接力歌切 CULUA 2026-04-05 rEA_HtNCoes RKMusic歌回接力",
+  "collection": "Relay song cut CULUA 2026-04-05 rEA_HtNCoes RKMusic song relay.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UGSUBGEQV?p=4",
   "source": "culua.js"
@@ -2760,7 +2760,7 @@ window.SONG_DATA.push(
     {
   "title": "ハレバレ",
   "artist": "CULUA",
-  "collection": "接力歌切 CULUA 2026-04-05 rEA_HtNCoes RKMusic歌回接力",
+  "collection": "Relay song cut CULUA 2026-04-05 rEA_HtNCoes RKMusic song relay.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UGSUBGEQV?p=5",
   "source": "culua.js"
@@ -2768,7 +2768,7 @@ window.SONG_DATA.push(
     {
   "title": "少しの自信があったら、",
   "artist": "CULUA",
-  "collection": "接力歌切 CULUA 2026-04-05 rEA_HtNCoes RKMusic歌回接力",
+  "collection": "Relay song cut CULUA 2026-04-05 rEA_HtNCoes RKMusic song relay.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UGSUBGEQV?p=6",
   "source": "culua.js"
@@ -2776,7 +2776,7 @@ window.SONG_DATA.push(
     {
   "title": "あいつら全員同窓會",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "接力歌切 CULUA 2026-04-05 rEA_HtNCoes RKMusic歌回接力",
+  "collection": "Relay song cut CULUA 2026-04-05 rEA_HtNCoes RKMusic song relay.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UGSUBGEQV?p=7",
   "source": "culua.js"
@@ -2784,7 +2784,7 @@ window.SONG_DATA.push(
     {
   "title": "染まるよ",
   "artist": "チャットモンチー",
-  "collection": "【歌切】[2026-04-13]很伤心｜柔和的歌单第28弹 CULUA",
+  "collection": "[Song Cut] [2026-04-13] Very Sad｜Soft Playlist Vol. 28 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HgQ8BUE36?p=1",
   "source": "culua.js"
@@ -2792,7 +2792,7 @@ window.SONG_DATA.push(
     {
   "title": "i wanna see you",
   "artist": "阿部真央",
-  "collection": "【歌切】[2026-04-13]很伤心｜柔和的歌单第28弹 CULUA",
+  "collection": "[Song Cut] [2026-04-13] Very Sad｜Soft Playlist Vol. 28 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HgQ8BUE36?p=2",
   "source": "culua.js"
@@ -2800,7 +2800,7 @@ window.SONG_DATA.push(
     {
   "title": "貴方の恋人になりたいのです",
   "artist": "阿部真央",
-  "collection": "【歌切】[2026-04-13]很伤心｜柔和的歌单第28弹 CULUA",
+  "collection": "[Song Cut] [2026-04-13] Very Sad｜Soft Playlist Vol. 28 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HgQ8BUE36?p=3",
   "source": "culua.js"
@@ -2808,7 +2808,7 @@ window.SONG_DATA.push(
     {
   "title": "フォニイ",
   "artist": "ツミキ",
-  "collection": "【歌切】[2026-04-13]很伤心｜柔和的歌单第28弹 CULUA",
+  "collection": "[Song Cut] [2026-04-13] Very Sad｜Soft Playlist Vol. 28 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HgQ8BUE36?p=4",
   "source": "culua.js"
@@ -2816,7 +2816,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "【歌切】[2026-04-13]很伤心｜柔和的歌单第28弹 CULUA",
+  "collection": "[Song Cut] [2026-04-13] Very Sad｜Soft Playlist Vol. 28 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HgQ8BUE36?p=5",
   "source": "culua.js"
@@ -2824,7 +2824,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "コレサワ",
-  "collection": "【歌切】[2026-04-13]很伤心｜柔和的歌单第28弹 CULUA",
+  "collection": "[Song Cut] [2026-04-13] Very Sad｜Soft Playlist Vol. 28 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HgQ8BUE36?p=6",
   "source": "culua.js"
@@ -2832,7 +2832,7 @@ window.SONG_DATA.push(
     {
   "title": "フラレガイガール",
   "artist": "さユり",
-  "collection": "【歌切】[2026-04-13]很伤心｜柔和的歌单第28弹 CULUA",
+  "collection": "[Song Cut] [2026-04-13] Very Sad｜Soft Playlist Vol. 28 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HgQ8BUE36?p=7",
   "source": "culua.js"
@@ -2840,7 +2840,7 @@ window.SONG_DATA.push(
     {
   "title": "10月無口な君を忘れる",
   "artist": "あたらよ",
-  "collection": "【歌切】[2026-04-13]很伤心｜柔和的歌单第28弹 CULUA",
+  "collection": "[Song Cut] [2026-04-13] Very Sad｜Soft Playlist Vol. 28 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HgQ8BUE36?p=8",
   "source": "culua.js"
@@ -2848,7 +2848,7 @@ window.SONG_DATA.push(
     {
   "title": "おやすみ泣き声、さよなら歌姫",
   "artist": "クリープハイプ",
-  "collection": "【歌切】[2026-04-13]很伤心｜柔和的歌单第28弹 CULUA",
+  "collection": "[Song Cut] [2026-04-13] Very Sad｜Soft Playlist Vol. 28 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HgQ8BUE36?p=9",
   "source": "culua.js"
@@ -2856,7 +2856,7 @@ window.SONG_DATA.push(
     {
   "title": "痛いよ",
   "artist": "清竜人",
-  "collection": "【歌切】[2026-04-13]很伤心｜柔和的歌单第28弹 CULUA",
+  "collection": "[Song Cut] [2026-04-13] Very Sad｜Soft Playlist Vol. 28 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HgQ8BUE36?p=10",
   "source": "culua.js"
@@ -2864,7 +2864,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れてください",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-04-13]很伤心｜柔和的歌单第28弹 CULUA",
+  "collection": "[Song Cut] [2026-04-13] Very Sad｜Soft Playlist Vol. 28 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HgQ8BUE36?p=11",
   "source": "culua.js"
@@ -2872,7 +2872,7 @@ window.SONG_DATA.push(
     {
   "title": "蝶々結び",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-04-13]很伤心｜柔和的歌单第28弹 CULUA",
+  "collection": "[Song Cut] [2026-04-13] Very Sad｜Soft Playlist Vol. 28 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HgQ8BUE36?p=12",
   "source": "culua.js"
@@ -2880,7 +2880,7 @@ window.SONG_DATA.push(
     {
   "title": "眩々",
   "artist": "VocaDuo2025",
-  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-16] Male Vocal Songs Only｜Culua's Selected Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=1",
   "source": "culua.js"
@@ -2888,7 +2888,7 @@ window.SONG_DATA.push(
     {
   "title": "鬼ノ宴",
   "artist": "友成空",
-  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-16] Male Vocal Songs Only｜Culua's Selected Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=2",
   "source": "culua.js"
@@ -2896,7 +2896,7 @@ window.SONG_DATA.push(
     {
   "title": "青い春",
   "artist": "back number",
-  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-16] Male Vocal Songs Only｜Culua's Selected Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=3",
   "source": "culua.js"
@@ -2904,7 +2904,7 @@ window.SONG_DATA.push(
     {
   "title": "雫",
   "artist": "スキマスイッチ",
-  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-16] Male Vocal Songs Only｜Culua's Selected Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=4",
   "source": "culua.js"
@@ -2912,7 +2912,7 @@ window.SONG_DATA.push(
     {
   "title": "傘",
   "artist": "King Gnu",
-  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-16] Male Vocal Songs Only｜Culua's Selected Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=5",
   "source": "culua.js"
@@ -2920,7 +2920,7 @@ window.SONG_DATA.push(
     {
   "title": "黒猫 ～Adult Black Cat～",
   "artist": "Acid black cherry",
-  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-16] Male Vocal Songs Only｜Culua's Selected Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=6",
   "source": "culua.js"
@@ -2928,7 +2928,7 @@ window.SONG_DATA.push(
     {
   "title": "ずうっといっしょ!",
   "artist": "キタニタツヤ",
-  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-16] Male Vocal Songs Only｜Culua's Selected Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=7",
   "source": "culua.js"
@@ -2936,7 +2936,7 @@ window.SONG_DATA.push(
     {
   "title": "セレナーデ",
   "artist": "なとり",
-  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-16] Male Vocal Songs Only｜Culua's Selected Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=8",
   "source": "culua.js"
@@ -2944,7 +2944,7 @@ window.SONG_DATA.push(
     {
   "title": "プロポーズ",
   "artist": "なとり",
-  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-16] Male Vocal Songs Only｜Culua's Selected Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=9",
   "source": "culua.js"
@@ -2952,7 +2952,7 @@ window.SONG_DATA.push(
     {
   "title": "人間みたいね",
   "artist": "キタニタツヤ",
-  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-16] Male Vocal Songs Only｜Culua's Selected Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=10",
   "source": "culua.js"
@@ -2960,7 +2960,7 @@ window.SONG_DATA.push(
     {
   "title": "Prayer X",
   "artist": "King Gnu",
-  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-16] Male Vocal Songs Only｜Culua's Selected Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=11",
   "source": "culua.js"
@@ -2968,7 +2968,7 @@ window.SONG_DATA.push(
     {
   "title": "unravel",
   "artist": "TK from 凛として時雨",
-  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-16] Male Vocal Songs Only｜Culua's Selected Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=12",
   "source": "culua.js"
@@ -2976,7 +2976,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【歌切】[2026-04-16]男性声乐曲限定｜Culua′s 精选歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-16] Male Vocal Songs Only｜Culua's Selected Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XediBcEVE?p=13",
   "source": "culua.js"
@@ -2984,7 +2984,7 @@ window.SONG_DATA.push(
     {
   "title": "春を告げる",
   "artist": "yama",
-  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-20] The urban night is exciting.｜Relaxing Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=1",
   "source": "culua.js"
@@ -2992,7 +2992,7 @@ window.SONG_DATA.push(
     {
   "title": "シネマ",
   "artist": "Ayase",
-  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-20] The urban night is exciting.｜Relaxing Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=2",
   "source": "culua.js"
@@ -3000,7 +3000,7 @@ window.SONG_DATA.push(
     {
   "title": "シニカルナイトプラン",
   "artist": "Ayase",
-  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-20] The urban night is exciting.｜Relaxing Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=3",
   "source": "culua.js"
@@ -3008,7 +3008,7 @@ window.SONG_DATA.push(
     {
   "title": "幽靈東京",
   "artist": "Ayase",
-  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-20] The urban night is exciting.｜Relaxing Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=4",
   "source": "culua.js"
@@ -3016,7 +3016,7 @@ window.SONG_DATA.push(
     {
   "title": "ヨワネハキ",
   "artist": "MAISONdes",
-  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-20] The urban night is exciting.｜Relaxing Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=5",
   "source": "culua.js"
@@ -3024,7 +3024,7 @@ window.SONG_DATA.push(
     {
   "title": "Overdose",
   "artist": "なとり",
-  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-20] The urban night is exciting.｜Relaxing Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=6",
   "source": "culua.js"
@@ -3032,7 +3032,7 @@ window.SONG_DATA.push(
     {
   "title": "酔いどれ知らず",
   "artist": "Kanaria",
-  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-20] The urban night is exciting.｜Relaxing Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=7",
   "source": "culua.js"
@@ -3040,7 +3040,7 @@ window.SONG_DATA.push(
     {
   "title": "YELLOW",
   "artist": "神山羊",
-  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-20] The urban night is exciting.｜Relaxing Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=8",
   "source": "culua.js"
@@ -3048,7 +3048,7 @@ window.SONG_DATA.push(
     {
   "title": "ねむるまち",
   "artist": "yama",
-  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-20] The urban night is exciting.｜Relaxing Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=9",
   "source": "culua.js"
@@ -3056,7 +3056,7 @@ window.SONG_DATA.push(
     {
   "title": "ロンリーユニバース",
   "artist": "Aqu3ra",
-  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-20] The urban night is exciting.｜Relaxing Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=10",
   "source": "culua.js"
@@ -3064,7 +3064,7 @@ window.SONG_DATA.push(
     {
   "title": "絶え間なく藍色",
   "artist": "獅子志司",
-  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-20] The urban night is exciting.｜Relaxing Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=11",
   "source": "culua.js"
@@ -3072,7 +3072,7 @@ window.SONG_DATA.push(
     {
   "title": "眩しいDNAだけ",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-20] The urban night is exciting.｜Relaxing Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=12",
   "source": "culua.js"
@@ -3080,7 +3080,7 @@ window.SONG_DATA.push(
     {
   "title": "限りなく灰色へ",
   "artist": "すりぃ",
-  "collection": "【歌切】[2026-04-20]都市的夜晚令人兴奋。｜舒缓的歌单第29弹 CULUA",
+  "collection": "[Song Cut] [2026-04-20] The urban night is exciting.｜Relaxing Playlist Vol. 29 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XGLa6EE3u?p=13",
   "source": "culua.js"
@@ -3088,7 +3088,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ君に晴れ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "collection": "[Song Cut][2026-04-23] Seaweed Rice's Mood｜CULUA's playlist Vol.30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=1",
   "source": "culua.js"
@@ -3096,7 +3096,7 @@ window.SONG_DATA.push(
     {
   "title": "夜に駆ける",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "collection": "[Song Cut][2026-04-23] Seaweed Rice's Mood｜CULUA's playlist Vol.30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=2",
   "source": "culua.js"
@@ -3104,7 +3104,7 @@ window.SONG_DATA.push(
     {
   "title": "ハルジオン",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "collection": "[Song Cut][2026-04-23] Seaweed Rice's Mood｜CULUA's playlist Vol.30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=3",
   "source": "culua.js"
@@ -3112,7 +3112,7 @@ window.SONG_DATA.push(
     {
   "title": "シェードの埃は延長",
   "artist": "ずっと真夜中でいいのに",
-  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "collection": "[Song Cut][2026-04-23] Seaweed Rice's Mood｜CULUA's playlist Vol.30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=4",
   "source": "culua.js"
@@ -3120,7 +3120,7 @@ window.SONG_DATA.push(
     {
   "title": "勘冴えて悔しいわ",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "collection": "[Song Cut][2026-04-23] Seaweed Rice's Mood｜CULUA's playlist Vol.30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=5",
   "source": "culua.js"
@@ -3128,7 +3128,7 @@ window.SONG_DATA.push(
     {
   "title": "脳裏上のクラッカー",
   "artist": "ずっと真夜中でいいのに",
-  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "collection": "[Song Cut][2026-04-23] Seaweed Rice's Mood｜CULUA's playlist Vol.30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=6",
   "source": "culua.js"
@@ -3136,7 +3136,7 @@ window.SONG_DATA.push(
     {
   "title": "世界は恋に落ちている",
   "artist": "HoneyWorks",
-  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "collection": "[Song Cut][2026-04-23] Seaweed Rice's Mood｜CULUA's playlist Vol.30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=7",
   "source": "culua.js"
@@ -3144,7 +3144,7 @@ window.SONG_DATA.push(
     {
   "title": "シリョクケンサ",
   "artist": "40㍍P",
-  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "collection": "[Song Cut][2026-04-23] Seaweed Rice's Mood｜CULUA's playlist Vol.30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=8",
   "source": "culua.js"
@@ -3152,7 +3152,7 @@ window.SONG_DATA.push(
     {
   "title": "トリノコシティ",
   "artist": "40㍍P",
-  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "collection": "[Song Cut][2026-04-23] Seaweed Rice's Mood｜CULUA's playlist Vol.30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=9",
   "source": "culua.js"
@@ -3160,7 +3160,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛裁判",
   "artist": "40㍍P",
-  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "collection": "[Song Cut][2026-04-23] Seaweed Rice's Mood｜CULUA's playlist Vol.30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=10",
   "source": "culua.js"
@@ -3168,7 +3168,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピーシンセサイザ",
   "artist": "Easy Pop",
-  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "collection": "[Song Cut][2026-04-23] Seaweed Rice's Mood｜CULUA's playlist Vol.30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=11",
   "source": "culua.js"
@@ -3176,7 +3176,7 @@ window.SONG_DATA.push(
     {
   "title": "メランコリック",
   "artist": "Junky",
-  "collection": "【歌切】[2026-04-23]海苔饭的心情｜CULUA的歌单第30弹 CULUA",
+  "collection": "[Song Cut][2026-04-23] Seaweed Rice's Mood｜CULUA's playlist Vol.30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tjLa61E1y?p=12",
   "source": "culua.js"
@@ -3184,7 +3184,7 @@ window.SONG_DATA.push(
     {
   "title": "優しい彗星",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-04-27]LIVE情报出了不少｜舒缓的歌单第30弹 CULUA",
+  "collection": "[Song Cut][2026-04-27] Lots of LIVE info released｜Relaxing Playlist Vol. 30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uLLa67EZy?p=1",
   "source": "culua.js"
@@ -3192,7 +3192,7 @@ window.SONG_DATA.push(
     {
   "title": "左右盲",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-04-27]LIVE情报出了不少｜舒缓的歌单第30弹 CULUA",
+  "collection": "[Song Cut][2026-04-27] Lots of LIVE info released｜Relaxing Playlist Vol. 30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uLLa67EZy?p=2",
   "source": "culua.js"
@@ -3200,7 +3200,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-04-27]LIVE情报出了不少｜舒缓的歌单第30弹 CULUA",
+  "collection": "[Song Cut][2026-04-27] Lots of LIVE info released｜Relaxing Playlist Vol. 30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uLLa67EZy?p=3",
   "source": "culua.js"
@@ -3208,7 +3208,7 @@ window.SONG_DATA.push(
     {
   "title": "なんでもないや",
   "artist": "RADWIMPS",
-  "collection": "【歌切】[2026-04-27]LIVE情报出了不少｜舒缓的歌单第30弹 CULUA",
+  "collection": "[Song Cut][2026-04-27] Lots of LIVE info released｜Relaxing Playlist Vol. 30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uLLa67EZy?p=4",
   "source": "culua.js"
@@ -3216,7 +3216,7 @@ window.SONG_DATA.push(
     {
   "title": "星の消えた夜に",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-04-27]LIVE情报出了不少｜舒缓的歌单第30弹 CULUA",
+  "collection": "[Song Cut][2026-04-27] Lots of LIVE info released｜Relaxing Playlist Vol. 30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uLLa67EZy?p=5",
   "source": "culua.js"
@@ -3224,7 +3224,7 @@ window.SONG_DATA.push(
     {
   "title": "心拍数♯0822",
   "artist": "蝶々P",
-  "collection": "【歌切】[2026-04-27]LIVE情报出了不少｜舒缓的歌单第30弹 CULUA",
+  "collection": "[Song Cut][2026-04-27] Lots of LIVE info released｜Relaxing Playlist Vol. 30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uLLa67EZy?p=6",
   "source": "culua.js"
@@ -3232,7 +3232,7 @@ window.SONG_DATA.push(
     {
   "title": "今はいいんだよ。",
   "artist": "MIMI feat.可不",
-  "collection": "【歌切】[2026-04-27]LIVE情报出了不少｜舒缓的歌单第30弹 CULUA",
+  "collection": "[Song Cut][2026-04-27] Lots of LIVE info released｜Relaxing Playlist Vol. 30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uLLa67EZy?p=7",
   "source": "culua.js"
@@ -3240,7 +3240,7 @@ window.SONG_DATA.push(
     {
   "title": "あなたの夜が明けるまで",
   "artist": "傘村トータ",
-  "collection": "【歌切】[2026-04-27]LIVE情报出了不少｜舒缓的歌单第30弹 CULUA",
+  "collection": "[Song Cut][2026-04-27] Lots of LIVE info released｜Relaxing Playlist Vol. 30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uLLa67EZy?p=8",
   "source": "culua.js"
@@ -3248,7 +3248,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けの歌",
   "artist": "M2U x ダズビー",
-  "collection": "【歌切】[2026-04-27]LIVE情报出了不少｜舒缓的歌单第30弹 CULUA",
+  "collection": "[Song Cut][2026-04-27] Lots of LIVE info released｜Relaxing Playlist Vol. 30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uLLa67EZy?p=9",
   "source": "culua.js"
@@ -3256,7 +3256,7 @@ window.SONG_DATA.push(
     {
   "title": "Planetes",
   "artist": "EGOIST",
-  "collection": "【歌切】[2026-04-27]LIVE情报出了不少｜舒缓的歌单第30弹 CULUA",
+  "collection": "[Song Cut][2026-04-27] Lots of LIVE info released｜Relaxing Playlist Vol. 30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uLLa67EZy?p=10",
   "source": "culua.js"
@@ -3264,7 +3264,7 @@ window.SONG_DATA.push(
     {
   "title": "asphyxia（piano ver.)",
   "artist": "Cö shu Nie",
-  "collection": "【歌切】[2026-05-04]随性淅淅沥沥｜舒缓的歌单第30弹 CULUA",
+  "collection": "[Song Cut] [2026-05-04] Casual Drizzle｜Relaxing Playlist Vol. 30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YTLa6QEPp?p=1",
   "source": "culua.js"
@@ -3272,7 +3272,7 @@ window.SONG_DATA.push(
     {
   "title": "想いを巡らす100の事象",
   "artist": "EGOIST",
-  "collection": "【歌切】[2026-05-04]随性淅淅沥沥｜舒缓的歌单第30弹 CULUA",
+  "collection": "[Song Cut] [2026-05-04] Casual Drizzle｜Relaxing Playlist Vol. 30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YTLa6QEPp?p=2",
   "source": "culua.js"
@@ -3280,7 +3280,7 @@ window.SONG_DATA.push(
     {
   "title": "Ghost of a smile",
   "artist": "EGOIST",
-  "collection": "【歌切】[2026-05-04]随性淅淅沥沥｜舒缓的歌单第30弹 CULUA",
+  "collection": "[Song Cut] [2026-05-04] Casual Drizzle｜Relaxing Playlist Vol. 30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YTLa6QEPp?p=3",
   "source": "culua.js"
@@ -3288,7 +3288,7 @@ window.SONG_DATA.push(
     {
   "title": "give it back",
   "artist": "Cö shu Nie",
-  "collection": "【歌切】[2026-05-04]随性淅淅沥沥｜舒缓的歌单第30弹 CULUA",
+  "collection": "[Song Cut] [2026-05-04] Casual Drizzle｜Relaxing Playlist Vol. 30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YTLa6QEPp?p=4",
   "source": "culua.js"
@@ -3296,7 +3296,7 @@ window.SONG_DATA.push(
     {
   "title": "アポリア",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-05-04]随性淅淅沥沥｜舒缓的歌单第30弹 CULUA",
+  "collection": "[Song Cut] [2026-05-04] Casual Drizzle｜Relaxing Playlist Vol. 30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YTLa6QEPp?p=5",
   "source": "culua.js"
@@ -3304,7 +3304,7 @@ window.SONG_DATA.push(
     {
   "title": "天ノ弱",
   "artist": "164",
-  "collection": "【歌切】[2026-05-04]随性淅淅沥沥｜舒缓的歌单第30弹 CULUA",
+  "collection": "[Song Cut] [2026-05-04] Casual Drizzle｜Relaxing Playlist Vol. 30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YTLa6QEPp?p=6",
   "source": "culua.js"
@@ -3312,7 +3312,7 @@ window.SONG_DATA.push(
     {
   "title": "君が夜の海に還るまで",
   "artist": "キタニタツヤ",
-  "collection": "【歌切】[2026-05-04]随性淅淅沥沥｜舒缓的歌单第30弹 CULUA",
+  "collection": "[Song Cut] [2026-05-04] Casual Drizzle｜Relaxing Playlist Vol. 30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YTLa6QEPp?p=7",
   "source": "culua.js"
@@ -3320,7 +3320,7 @@ window.SONG_DATA.push(
     {
   "title": "僕が死のうと思ったのは",
   "artist": "中島美嘉",
-  "collection": "【歌切】[2026-05-04]随性淅淅沥沥｜舒缓的歌单第30弹 CULUA",
+  "collection": "[Song Cut] [2026-05-04] Casual Drizzle｜Relaxing Playlist Vol. 30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YTLa6QEPp?p=8",
   "source": "culua.js"
@@ -3328,7 +3328,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "N-buna",
-  "collection": "【歌切】[2026-05-04]随性淅淅沥沥｜舒缓的歌单第30弹 CULUA",
+  "collection": "[Song Cut] [2026-05-04] Casual Drizzle｜Relaxing Playlist Vol. 30 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YTLa6QEPp?p=9",
   "source": "culua.js"
@@ -3336,7 +3336,7 @@ window.SONG_DATA.push(
     {
   "title": "Alice in 冷凍庫",
   "artist": "Orangestar",
-  "collection": "【歌切】[2026-05-07]求：点歌｜CULUA的歌单第32弹 CULUA",
+  "collection": "[Song Cut][2026-05-07] Request: Song Selection｜CULUA's Playlist Vol. 32 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKLa6pEPG?p=1",
   "source": "culua.js"
@@ -3344,7 +3344,7 @@ window.SONG_DATA.push(
     {
   "title": "ウミユリ海底譚",
   "artist": "n-buna",
-  "collection": "【歌切】[2026-05-07]求：点歌｜CULUA的歌单第32弹 CULUA",
+  "collection": "[Song Cut][2026-05-07] Request: Song Selection｜CULUA's Playlist Vol. 32 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKLa6pEPG?p=2",
   "source": "culua.js"
@@ -3352,7 +3352,7 @@ window.SONG_DATA.push(
     {
   "title": "少女レイ",
   "artist": "みきとP",
-  "collection": "【歌切】[2026-05-07]求：点歌｜CULUA的歌单第32弹 CULUA",
+  "collection": "[Song Cut][2026-05-07] Request: Song Selection｜CULUA's Playlist Vol. 32 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKLa6pEPG?p=3",
   "source": "culua.js"
@@ -3360,7 +3360,7 @@ window.SONG_DATA.push(
     {
   "title": "高嶺の花子さん",
   "artist": "back number",
-  "collection": "【歌切】[2026-05-07]求：点歌｜CULUA的歌单第32弹 CULUA",
+  "collection": "[Song Cut][2026-05-07] Request: Song Selection｜CULUA's Playlist Vol. 32 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKLa6pEPG?p=4",
   "source": "culua.js"
@@ -3368,7 +3368,7 @@ window.SONG_DATA.push(
     {
   "title": "わたがし",
   "artist": "back number",
-  "collection": "【歌切】[2026-05-07]求：点歌｜CULUA的歌单第32弹 CULUA",
+  "collection": "[Song Cut][2026-05-07] Request: Song Selection｜CULUA's Playlist Vol. 32 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKLa6pEPG?p=5",
   "source": "culua.js"
@@ -3376,7 +3376,7 @@ window.SONG_DATA.push(
     {
   "title": "ミカヅキ",
   "artist": "さユり",
-  "collection": "【歌切】[2026-05-07]求：点歌｜CULUA的歌单第32弹 CULUA",
+  "collection": "[Song Cut][2026-05-07] Request: Song Selection｜CULUA's Playlist Vol. 32 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKLa6pEPG?p=6",
   "source": "culua.js"
@@ -3384,7 +3384,7 @@ window.SONG_DATA.push(
     {
   "title": "心という名前の不可解",
   "artist": "Ado",
-  "collection": "【歌切】[2026-05-07]求：点歌｜CULUA的歌单第32弹 CULUA",
+  "collection": "[Song Cut][2026-05-07] Request: Song Selection｜CULUA's Playlist Vol. 32 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKLa6pEPG?p=7",
   "source": "culua.js"
@@ -3392,7 +3392,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-05-07]求：点歌｜CULUA的歌单第32弹 CULUA",
+  "collection": "[Song Cut][2026-05-07] Request: Song Selection｜CULUA's Playlist Vol. 32 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKLa6pEPG?p=8",
   "source": "culua.js"
@@ -3400,7 +3400,7 @@ window.SONG_DATA.push(
     {
   "title": "少しの自信があったら、",
   "artist": "CULUA",
-  "collection": "【歌切】[2026-05-07]求：点歌｜CULUA的歌单第32弹 CULUA",
+  "collection": "[Song Cut][2026-05-07] Request: Song Selection｜CULUA's Playlist Vol. 32 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eKLa6pEPG?p=9",
   "source": "culua.js"
@@ -3408,7 +3408,7 @@ window.SONG_DATA.push(
     {
   "title": "アイネクライネ",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut] [2026-05-14] Feel free to use for work｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=1",
   "source": "culua.js"
@@ -3416,7 +3416,7 @@ window.SONG_DATA.push(
     {
   "title": "Lemon",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut] [2026-05-14] Feel free to use for work｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=2",
   "source": "culua.js"
@@ -3424,7 +3424,7 @@ window.SONG_DATA.push(
     {
   "title": "ひまわりの約束",
   "artist": "秦基博",
-  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut] [2026-05-14] Feel free to use for work｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=3",
   "source": "culua.js"
@@ -3432,7 +3432,7 @@ window.SONG_DATA.push(
     {
   "title": "瞬き",
   "artist": "back number",
-  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut] [2026-05-14] Feel free to use for work｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=4",
   "source": "culua.js"
@@ -3440,7 +3440,7 @@ window.SONG_DATA.push(
     {
   "title": "SAD SONG",
   "artist": "ちゃんみな",
-  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut] [2026-05-14] Feel free to use for work｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=5",
   "source": "culua.js"
@@ -3448,7 +3448,7 @@ window.SONG_DATA.push(
     {
   "title": "またね幻",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut] [2026-05-14] Feel free to use for work｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=6",
   "source": "culua.js"
@@ -3456,7 +3456,7 @@ window.SONG_DATA.push(
     {
   "title": "All Alone With You",
   "artist": "EGOIST",
-  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut] [2026-05-14] Feel free to use for work｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=7",
   "source": "culua.js"
@@ -3464,7 +3464,7 @@ window.SONG_DATA.push(
     {
   "title": "lulu.",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut] [2026-05-14] Feel free to use for work｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=8",
   "source": "culua.js"
@@ -3472,7 +3472,7 @@ window.SONG_DATA.push(
     {
   "title": "歌よ",
   "artist": "Belle (中村佳穂)",
-  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut] [2026-05-14] Feel free to use for work｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=9",
   "source": "culua.js"
@@ -3480,7 +3480,7 @@ window.SONG_DATA.push(
     {
   "title": "いのちの名前",
   "artist": "木村弓",
-  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut] [2026-05-14] Feel free to use for work｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=10",
   "source": "culua.js"
@@ -3488,7 +3488,7 @@ window.SONG_DATA.push(
     {
   "title": "Ref:rain",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut] [2026-05-14] Feel free to use for work｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=11",
   "source": "culua.js"
@@ -3496,7 +3496,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-05-14]工作用请随意｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut] [2026-05-14] Feel free to use for work｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1euLa6nEKJ?p=12",
   "source": "culua.js"
@@ -3504,7 +3504,7 @@ window.SONG_DATA.push(
     {
   "title": "flos",
   "artist": "R Sound Design",
-  "collection": "【歌切】[2026-05-19]略带怀旧｜舒缓的歌单第31弹 CULUA",
+  "collection": "[Song Cuts] [2026-05-19] Slightly Nostalgic｜Relaxing Playlist Vol. 31 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sxLa6zE5V?p=1",
   "source": "culua.js"
@@ -3512,7 +3512,7 @@ window.SONG_DATA.push(
     {
   "title": "メランコリーキッチン",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-05-19]略带怀旧｜舒缓的歌单第31弹 CULUA",
+  "collection": "[Song Cuts] [2026-05-19] Slightly Nostalgic｜Relaxing Playlist Vol. 31 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sxLa6zE5V?p=2",
   "source": "culua.js"
@@ -3520,7 +3520,7 @@ window.SONG_DATA.push(
     {
   "title": "About me",
   "artist": "蝶々P",
-  "collection": "【歌切】[2026-05-19]略带怀旧｜舒缓的歌单第31弹 CULUA",
+  "collection": "[Song Cuts] [2026-05-19] Slightly Nostalgic｜Relaxing Playlist Vol. 31 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sxLa6zE5V?p=3",
   "source": "culua.js"
@@ -3528,7 +3528,7 @@ window.SONG_DATA.push(
     {
   "title": "チルドレン",
   "artist": "BIN",
-  "collection": "【歌切】[2026-05-19]略带怀旧｜舒缓的歌单第31弹 CULUA",
+  "collection": "[Song Cuts] [2026-05-19] Slightly Nostalgic｜Relaxing Playlist Vol. 31 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sxLa6zE5V?p=4",
   "source": "culua.js"
@@ -3536,7 +3536,7 @@ window.SONG_DATA.push(
     {
   "title": "眩しいDNAだけ",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【歌切】[2026-05-19]略带怀旧｜舒缓的歌单第31弹 CULUA",
+  "collection": "[Song Cuts] [2026-05-19] Slightly Nostalgic｜Relaxing Playlist Vol. 31 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sxLa6zE5V?p=5",
   "source": "culua.js"
@@ -3544,7 +3544,7 @@ window.SONG_DATA.push(
     {
   "title": "てねてね",
   "artist": "悒うつぼ",
-  "collection": "【歌切】[2026-05-19]略带怀旧｜舒缓的歌单第31弹 CULUA",
+  "collection": "[Song Cuts] [2026-05-19] Slightly Nostalgic｜Relaxing Playlist Vol. 31 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sxLa6zE5V?p=6",
   "source": "culua.js"
@@ -3552,7 +3552,7 @@ window.SONG_DATA.push(
     {
   "title": "ラグトレイン",
   "artist": "稲葉曇",
-  "collection": "【歌切】[2026-05-19]略带怀旧｜舒缓的歌单第31弹 CULUA",
+  "collection": "[Song Cuts] [2026-05-19] Slightly Nostalgic｜Relaxing Playlist Vol. 31 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sxLa6zE5V?p=7",
   "source": "culua.js"
@@ -3560,7 +3560,7 @@ window.SONG_DATA.push(
     {
   "title": "ぼくのかみさま",
   "artist": "羽生まゐご",
-  "collection": "【歌切】[2026-05-19]略带怀旧｜舒缓的歌单第31弹 CULUA",
+  "collection": "[Song Cuts] [2026-05-19] Slightly Nostalgic｜Relaxing Playlist Vol. 31 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sxLa6zE5V?p=8",
   "source": "culua.js"
@@ -3568,7 +3568,7 @@ window.SONG_DATA.push(
     {
   "title": "阿吽のビーツ",
   "artist": "羽生まゐご",
-  "collection": "【歌切】[2026-05-19]略带怀旧｜舒缓的歌单第31弹 CULUA",
+  "collection": "[Song Cuts] [2026-05-19] Slightly Nostalgic｜Relaxing Playlist Vol. 31 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sxLa6zE5V?p=9",
   "source": "culua.js"
@@ -3576,7 +3576,7 @@ window.SONG_DATA.push(
     {
   "title": "quiet room",
   "artist": "有機酸",
-  "collection": "【歌切】[2026-05-19]略带怀旧｜舒缓的歌单第31弹 CULUA",
+  "collection": "[Song Cuts] [2026-05-19] Slightly Nostalgic｜Relaxing Playlist Vol. 31 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sxLa6zE5V?p=10",
   "source": "culua.js"
@@ -3584,7 +3584,7 @@ window.SONG_DATA.push(
     {
   "title": "sub/objective",
   "artist": "ぼくのりりっくのぼうよみ",
-  "collection": "【歌切】[2026-05-19]略带怀旧｜舒缓的歌单第31弹 CULUA",
+  "collection": "[Song Cuts] [2026-05-19] Slightly Nostalgic｜Relaxing Playlist Vol. 31 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sxLa6zE5V?p=11",
   "source": "culua.js"
@@ -3592,7 +3592,7 @@ window.SONG_DATA.push(
     {
   "title": "No Title",
   "artist": "Reol",
-  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut][2026-05-21] Nuts Choose Unsalted｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=1",
   "source": "culua.js"
@@ -3600,7 +3600,7 @@ window.SONG_DATA.push(
     {
   "title": "パラサイト",
   "artist": "DECO*27",
-  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut][2026-05-21] Nuts Choose Unsalted｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=2",
   "source": "culua.js"
@@ -3608,7 +3608,7 @@ window.SONG_DATA.push(
     {
   "title": "妄想感傷代償連盟",
   "artist": "DECO*27",
-  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut][2026-05-21] Nuts Choose Unsalted｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=3",
   "source": "culua.js"
@@ -3616,7 +3616,7 @@ window.SONG_DATA.push(
     {
   "title": "GLORIA",
   "artist": "YUI",
-  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut][2026-05-21] Nuts Choose Unsalted｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=4",
   "source": "culua.js"
@@ -3624,7 +3624,7 @@ window.SONG_DATA.push(
     {
   "title": "からくりピエロ",
   "artist": "40mP",
-  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut][2026-05-21] Nuts Choose Unsalted｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=5",
   "source": "culua.js"
@@ -3632,7 +3632,7 @@ window.SONG_DATA.push(
     {
   "title": "月曜日の朝、スカートを切られた",
   "artist": "欅坂46",
-  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut][2026-05-21] Nuts Choose Unsalted｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=6",
   "source": "culua.js"
@@ -3640,7 +3640,7 @@ window.SONG_DATA.push(
     {
   "title": "エキセントリック",
   "artist": "欅坂46",
-  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut][2026-05-21] Nuts Choose Unsalted｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=7",
   "source": "culua.js"
@@ -3648,7 +3648,7 @@ window.SONG_DATA.push(
     {
   "title": "足りない",
   "artist": "dustcell",
-  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut][2026-05-21] Nuts Choose Unsalted｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=8",
   "source": "culua.js"
@@ -3656,7 +3656,7 @@ window.SONG_DATA.push(
     {
   "title": "二息步行",
   "artist": "DECO*27",
-  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut][2026-05-21] Nuts Choose Unsalted｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=9",
   "source": "culua.js"
@@ -3664,7 +3664,7 @@ window.SONG_DATA.push(
     {
   "title": "ケッペキショウ",
   "artist": "GUMI",
-  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut][2026-05-21] Nuts Choose Unsalted｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=10",
   "source": "culua.js"
@@ -3672,7 +3672,7 @@ window.SONG_DATA.push(
     {
   "title": "Value",
   "artist": "Ado",
-  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut][2026-05-21] Nuts Choose Unsalted｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=11",
   "source": "culua.js"
@@ -3680,7 +3680,7 @@ window.SONG_DATA.push(
     {
   "title": "限りなく灰色へ",
   "artist": "すりい",
-  "collection": "【歌切】[2026-05-21]坚果选无盐派｜CULUA的歌单第33弹 CULUA",
+  "collection": "[Song Cut][2026-05-21] Nuts Choose Unsalted｜CULUA's Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WbLa6qEok?p=12",
   "source": "culua.js"
@@ -3688,7 +3688,7 @@ window.SONG_DATA.push(
     {
   "title": "ベビ・デビ",
   "artist": "CULUA",
-  "collection": "【歌切】[2026-05-25]活动二周年纪念☾ CULUA",
+  "collection": "【Song Cut】[2026-05-25] 2nd Anniversary Celebration ☾ CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gVc6aEoe?p=1",
   "source": "culua.js"
@@ -3696,7 +3696,7 @@ window.SONG_DATA.push(
     {
   "title": "ブリキノダンス",
   "artist": "日向電工",
-  "collection": "【歌切】[2026-05-25]活动二周年纪念☾ CULUA",
+  "collection": "【Song Cut】[2026-05-25] 2nd Anniversary Celebration ☾ CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gVc6aEoe?p=2",
   "source": "culua.js"
@@ -3704,7 +3704,7 @@ window.SONG_DATA.push(
     {
   "title": "あいつら全員同窓會",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【歌切】[2026-05-25]活动二周年纪念☾ CULUA",
+  "collection": "【Song Cut】[2026-05-25] 2nd Anniversary Celebration ☾ CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gVc6aEoe?p=3",
   "source": "culua.js"
@@ -3712,7 +3712,7 @@ window.SONG_DATA.push(
     {
   "title": "お勉強しといてよ",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【歌切】[2026-05-25]活动二周年纪念☾ CULUA",
+  "collection": "【Song Cut】[2026-05-25] 2nd Anniversary Celebration ☾ CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gVc6aEoe?p=4",
   "source": "culua.js"
@@ -3720,7 +3720,7 @@ window.SONG_DATA.push(
     {
   "title": "群青",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-05-25]活动二周年纪念☾ CULUA",
+  "collection": "【Song Cut】[2026-05-25] 2nd Anniversary Celebration ☾ CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gVc6aEoe?p=5",
   "source": "culua.js"
@@ -3728,7 +3728,7 @@ window.SONG_DATA.push(
     {
   "title": "命に嫌われている",
   "artist": "カンザキイオリ",
-  "collection": "【歌切】[2026-05-25]活动二周年纪念☾ CULUA",
+  "collection": "【Song Cut】[2026-05-25] 2nd Anniversary Celebration ☾ CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gVc6aEoe?p=6",
   "source": "culua.js"
@@ -3736,7 +3736,7 @@ window.SONG_DATA.push(
     {
   "title": "スペクトロライト",
   "artist": "CULUA",
-  "collection": "【歌切】[2026-05-25]活动二周年纪念☾ CULUA",
+  "collection": "【Song Cut】[2026-05-25] 2nd Anniversary Celebration ☾ CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15gVc6aEoe?p=7",
   "source": "culua.js"
@@ -3744,7 +3744,7 @@ window.SONG_DATA.push(
     {
   "title": "てんぺんち",
   "artist": "CULUA",
-  "collection": "【🦇歌切】[2026-05-27]出道至今已经两年了。 CULUA",
+  "collection": "【🦇Song Cut】[2026-05-27] It's been two years since debut. CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FpGD6CEg5?p=1",
   "source": "culua.js"
@@ -3752,7 +3752,7 @@ window.SONG_DATA.push(
     {
   "title": "少しの自信があったら、",
   "artist": "CULUA",
-  "collection": "【🦇歌切】[2026-05-27]出道至今已经两年了。 CULUA",
+  "collection": "【🦇Song Cut】[2026-05-27] It's been two years since debut. CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FpGD6CEg5?p=2",
   "source": "culua.js"
@@ -3760,7 +3760,7 @@ window.SONG_DATA.push(
     {
   "title": "脱色",
   "artist": "CULUA",
-  "collection": "【🦇歌切】[2026-05-27]出道至今已经两年了。 CULUA",
+  "collection": "【🦇Song Cut】[2026-05-27] It's been two years since debut. CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FpGD6CEg5?p=3",
   "source": "culua.js"
@@ -3768,7 +3768,7 @@ window.SONG_DATA.push(
     {
   "title": "自分ごっこ",
   "artist": "CULUA",
-  "collection": "【🦇歌切】[2026-05-27]出道至今已经两年了。 CULUA",
+  "collection": "【🦇Song Cut】[2026-05-27] It's been two years since debut. CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FpGD6CEg5?p=4",
   "source": "culua.js"
@@ -3776,7 +3776,7 @@ window.SONG_DATA.push(
     {
   "title": "Engelslied",
   "artist": "CULUA",
-  "collection": "【🦇歌切】[2026-05-27]出道至今已经两年了。 CULUA",
+  "collection": "【🦇Song Cut】[2026-05-27] It's been two years since debut. CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FpGD6CEg5?p=5",
   "source": "culua.js"
@@ -3784,7 +3784,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【🦇歌切】[2026-06-04]回顾与歌唱 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-04] Review and Singing CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QTEN6mEG5?p=1",
   "source": "culua.js"
@@ -3792,7 +3792,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒッチコック",
   "artist": "ヨルシカ",
-  "collection": "【🦇歌切】[2026-06-04]回顾与歌唱 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-04] Review and Singing CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QTEN6mEG5?p=2",
   "source": "culua.js"
@@ -3800,7 +3800,7 @@ window.SONG_DATA.push(
     {
   "title": "一匹狼",
   "artist": "湯木慧",
-  "collection": "【🦇歌切】[2026-06-04]回顾与歌唱 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-04] Review and Singing CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QTEN6mEG5?p=3",
   "source": "culua.js"
@@ -3808,7 +3808,7 @@ window.SONG_DATA.push(
     {
   "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
-  "collection": "【🦇歌切】[2026-06-04]回顾与歌唱 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-04] Review and Singing CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QTEN6mEG5?p=4",
   "source": "culua.js"
@@ -3816,7 +3816,7 @@ window.SONG_DATA.push(
     {
   "title": "ハロ／ハワユ",
   "artist": "ナノウ(ほえほえP) feat.初音ミク",
-  "collection": "【🦇歌切】[2026-06-08]原声吉他伴奏限定 @雨天☂︎｜舒缓的歌单第32弹 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-08] Acoustic Guitar Accompaniment Restriction @ Rainy Day ☂︎｜Mellow Playlist Episode 32 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h3EE6pEab?p=1",
   "source": "culua.js"
@@ -3824,7 +3824,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【🦇歌切】[2026-06-08]原声吉他伴奏限定 @雨天☂︎｜舒缓的歌单第32弹 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-08] Acoustic Guitar Accompaniment Restriction @ Rainy Day ☂︎｜Mellow Playlist Episode 32 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h3EE6pEab?p=2",
   "source": "culua.js"
@@ -3832,7 +3832,7 @@ window.SONG_DATA.push(
     {
   "title": "アポリア",
   "artist": "ヨルシカ [TVアニメ チ。―地球の運動について―]",
-  "collection": "【🦇歌切】[2026-06-08]原声吉他伴奏限定 @雨天☂︎｜舒缓的歌单第32弹 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-08] Acoustic Guitar Accompaniment Restriction @ Rainy Day ☂︎｜Mellow Playlist Episode 32 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h3EE6pEab?p=3",
   "source": "culua.js"
@@ -3840,7 +3840,7 @@ window.SONG_DATA.push(
     {
   "title": "瞬き",
   "artist": "back number [映画 8年越しの花嫁 奇跡の実話]",
-  "collection": "【🦇歌切】[2026-06-08]原声吉他伴奏限定 @雨天☂︎｜舒缓的歌单第32弹 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-08] Acoustic Guitar Accompaniment Restriction @ Rainy Day ☂︎｜Mellow Playlist Episode 32 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h3EE6pEab?p=4",
   "source": "culua.js"
@@ -3848,7 +3848,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "【🦇歌切】[2026-06-08]原声吉他伴奏限定 @雨天☂︎｜舒缓的歌单第32弹 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-08] Acoustic Guitar Accompaniment Restriction @ Rainy Day ☂︎｜Mellow Playlist Episode 32 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h3EE6pEab?p=5",
   "source": "culua.js"
@@ -3856,7 +3856,7 @@ window.SONG_DATA.push(
     {
   "title": "雨き声残響",
   "artist": "Orangestar feat.IA",
-  "collection": "【🦇歌切】[2026-06-08]原声吉他伴奏限定 @雨天☂︎｜舒缓的歌单第32弹 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-08] Acoustic Guitar Accompaniment Restriction @ Rainy Day ☂︎｜Mellow Playlist Episode 32 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h3EE6pEab?p=6",
   "source": "culua.js"
@@ -3864,7 +3864,7 @@ window.SONG_DATA.push(
     {
   "title": "Ref:rain",
   "artist": "Aimer [TVアニメ 恋は雨上がりのように]",
-  "collection": "【🦇歌切】[2026-06-08]原声吉他伴奏限定 @雨天☂︎｜舒缓的歌单第32弹 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-08] Acoustic Guitar Accompaniment Restriction @ Rainy Day ☂︎｜Mellow Playlist Episode 32 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h3EE6pEab?p=7",
   "source": "culua.js"
@@ -3872,7 +3872,7 @@ window.SONG_DATA.push(
     {
   "title": "いのちの名前",
   "artist": "木村弓 [映画 千と千尋の神隠し]",
-  "collection": "【🦇歌切】[2026-06-08]原声吉他伴奏限定 @雨天☂︎｜舒缓的歌单第32弹 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-08] Acoustic Guitar Accompaniment Restriction @ Rainy Day ☂︎｜Mellow Playlist Episode 32 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h3EE6pEab?p=8",
   "source": "culua.js"
@@ -3880,7 +3880,7 @@ window.SONG_DATA.push(
     {
   "title": "ひまわりの約束",
   "artist": "秦基博 [映画 STAND BY ME ドラえもん]",
-  "collection": "【🦇歌切】[2026-06-08]原声吉他伴奏限定 @雨天☂︎｜舒缓的歌单第32弹 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-08] Acoustic Guitar Accompaniment Restriction @ Rainy Day ☂︎｜Mellow Playlist Episode 32 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h3EE6pEab?p=9",
   "source": "culua.js"
@@ -3888,7 +3888,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna feat.初音ミク",
-  "collection": "【🦇歌切】[2026-06-08]原声吉他伴奏限定 @雨天☂︎｜舒缓的歌单第32弹 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-08] Acoustic Guitar Accompaniment Restriction @ Rainy Day ☂︎｜Mellow Playlist Episode 32 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h3EE6pEab?p=10",
   "source": "culua.js"
@@ -3896,7 +3896,7 @@ window.SONG_DATA.push(
     {
   "title": "サターン",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【🦇歌切】[2026-06-11]魂が魂で魂 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-11]Soul is Soul is Soul CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvE66jEQF?p=1",
   "source": "culua.js"
@@ -3904,7 +3904,7 @@ window.SONG_DATA.push(
     {
   "title": "ハレバレ",
   "artist": "CULUA",
-  "collection": "【🦇歌切】[2026-06-11]魂が魂で魂 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-11]Soul is Soul is Soul CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvE66jEQF?p=2",
   "source": "culua.js"
@@ -3912,7 +3912,7 @@ window.SONG_DATA.push(
     {
   "title": "デマデーモン",
   "artist": "CULUA",
-  "collection": "【🦇歌切】[2026-06-11]魂が魂で魂 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-11]Soul is Soul is Soul CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvE66jEQF?p=3",
   "source": "culua.js"
@@ -3920,7 +3920,7 @@ window.SONG_DATA.push(
     {
   "title": "脱色",
   "artist": "CULUA",
-  "collection": "【🦇歌切】[2026-06-11]魂が魂で魂 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-11]Soul is Soul is Soul CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvE66jEQF?p=4",
   "source": "culua.js"
@@ -3928,7 +3928,7 @@ window.SONG_DATA.push(
     {
   "title": "プロポーズ",
   "artist": "内緒のピアス",
-  "collection": "【🦇歌切】[2026-06-11]魂が魂で魂 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-11]Soul is Soul is Soul CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvE66jEQF?p=5",
   "source": "culua.js"
@@ -3936,7 +3936,7 @@ window.SONG_DATA.push(
     {
   "title": "Dear. Mr「F」",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【🦇歌切】[2026-06-11]魂が魂で魂 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-11]Soul is Soul is Soul CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvE66jEQF?p=6",
   "source": "culua.js"
@@ -3944,7 +3944,7 @@ window.SONG_DATA.push(
     {
   "title": "夢追人",
   "artist": "CULUA",
-  "collection": "【🦇歌切】[2026-06-11]魂が魂で魂 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-11]Soul is Soul is Soul CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uvE66jEQF?p=7",
   "source": "culua.js"
@@ -3952,7 +3952,7 @@ window.SONG_DATA.push(
     {
   "title": "メランコリーキッチン",
   "artist": "米津玄師",
-  "collection": "【🦇歌切】[2026-06-12]求：点歌｜CULUA的歌单第34弹 CULUA",
+  "collection": "【🦇Song Highlights】[2026-06-12]Request: Song Requests｜CULUA's Playlist Vol. 34 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YYJ561Ewd?p=1",
   "source": "culua.js"
@@ -3960,7 +3960,7 @@ window.SONG_DATA.push(
     {
   "title": "MAD HEAD LOVE",
   "artist": "米津玄師",
-  "collection": "【🦇歌切】[2026-06-12]求：点歌｜CULUA的歌单第34弹 CULUA",
+  "collection": "【🦇Song Highlights】[2026-06-12]Request: Song Requests｜CULUA's Playlist Vol. 34 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YYJ561Ewd?p=2",
   "source": "culua.js"
@@ -3968,7 +3968,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れてください",
   "artist": "ヨルシカ",
-  "collection": "【🦇歌切】[2026-06-12]求：点歌｜CULUA的歌单第34弹 CULUA",
+  "collection": "【🦇Song Highlights】[2026-06-12]Request: Song Requests｜CULUA's Playlist Vol. 34 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YYJ561Ewd?p=3",
   "source": "culua.js"
@@ -3976,7 +3976,7 @@ window.SONG_DATA.push(
     {
   "title": "天ノ弱",
   "artist": "164 feat.GUMI",
-  "collection": "【🦇歌切】[2026-06-12]求：点歌｜CULUA的歌单第34弹 CULUA",
+  "collection": "【🦇Song Highlights】[2026-06-12]Request: Song Requests｜CULUA's Playlist Vol. 34 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YYJ561Ewd?p=4",
   "source": "culua.js"
@@ -3984,7 +3984,7 @@ window.SONG_DATA.push(
     {
   "title": "贖罪",
   "artist": "傘村トータ feat.IA・結月ゆかり・初音ミク・Fukase・Ken",
-  "collection": "【🦇歌切】[2026-06-12]求：点歌｜CULUA的歌单第34弹 CULUA",
+  "collection": "【🦇Song Highlights】[2026-06-12]Request: Song Requests｜CULUA's Playlist Vol. 34 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YYJ561Ewd?p=5",
   "source": "culua.js"
@@ -3992,7 +3992,7 @@ window.SONG_DATA.push(
     {
   "title": "君の神様になりたい。",
   "artist": "カンザキイオリ feat.初音ミク",
-  "collection": "【🦇歌切】[2026-06-12]求：点歌｜CULUA的歌单第34弹 CULUA",
+  "collection": "【🦇Song Highlights】[2026-06-12]Request: Song Requests｜CULUA's Playlist Vol. 34 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YYJ561Ewd?p=6",
   "source": "culua.js"
@@ -4000,7 +4000,7 @@ window.SONG_DATA.push(
     {
   "title": "ロンリーユニバース",
   "artist": "Aqu3ra feat.flower・初音ミク",
-  "collection": "【🦇歌切】[2026-06-12]求：点歌｜CULUA的歌单第34弹 CULUA",
+  "collection": "【🦇Song Highlights】[2026-06-12]Request: Song Requests｜CULUA's Playlist Vol. 34 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YYJ561Ewd?p=7",
   "source": "culua.js"
@@ -4008,7 +4008,7 @@ window.SONG_DATA.push(
     {
   "title": "プロポーズ",
   "artist": "なとり",
-  "collection": "【🦇歌切】[2026-06-12]求：点歌｜CULUA的歌单第34弹 CULUA",
+  "collection": "【🦇Song Highlights】[2026-06-12]Request: Song Requests｜CULUA's Playlist Vol. 34 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YYJ561Ewd?p=8",
   "source": "culua.js"
@@ -4016,7 +4016,7 @@ window.SONG_DATA.push(
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド [TVアニメ ダンダダン 第2期]",
-  "collection": "【🦇歌切】[2026-06-12]求：点歌｜CULUA的歌单第34弹 CULUA",
+  "collection": "【🦇Song Highlights】[2026-06-12]Request: Song Requests｜CULUA's Playlist Vol. 34 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YYJ561Ewd?p=9",
   "source": "culua.js"
@@ -4024,7 +4024,7 @@ window.SONG_DATA.push(
     {
   "title": "メルト",
   "artist": "ryo(supercell) feat.初音ミク",
-  "collection": "【🦇歌切】[2026-06-12]求：点歌｜CULUA的歌单第34弹 CULUA",
+  "collection": "【🦇Song Highlights】[2026-06-12]Request: Song Requests｜CULUA's Playlist Vol. 34 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YYJ561Ewd?p=10",
   "source": "culua.js"
@@ -4032,7 +4032,7 @@ window.SONG_DATA.push(
     {
   "title": "熱帯夜",
   "artist": "SHISHAMO",
-  "collection": "【🦇歌切】[2026-06-25]感谢RKM庆典 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-25] Thanks to RKM Festival CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ff7i6nEGJ?p=1",
   "source": "culua.js"
@@ -4040,7 +4040,7 @@ window.SONG_DATA.push(
     {
   "title": "melt bitter",
   "artist": "さとうもか",
-  "collection": "【🦇歌切】[2026-06-25]感谢RKM庆典 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-25] Thanks to RKM Festival CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ff7i6nEGJ?p=2",
   "source": "culua.js"
@@ -4048,7 +4048,7 @@ window.SONG_DATA.push(
     {
   "title": "サリシノハラ",
   "artist": "みきとP feat. 初音ミク",
-  "collection": "【🦇歌切】[2026-06-25]感谢RKM庆典 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-25] Thanks to RKM Festival CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ff7i6nEGJ?p=3",
   "source": "culua.js"
@@ -4056,7 +4056,7 @@ window.SONG_DATA.push(
     {
   "title": "蹴っ飛ばした毛布",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【🦇歌切】[2026-06-25]感谢RKM庆典 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-25] Thanks to RKM Festival CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ff7i6nEGJ?p=4",
   "source": "culua.js"
@@ -4064,7 +4064,7 @@ window.SONG_DATA.push(
     {
   "title": "またね幻",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【🦇歌切】[2026-06-25]感谢RKM庆典 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-25] Thanks to RKM Festival CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ff7i6nEGJ?p=5",
   "source": "culua.js"
@@ -4072,7 +4072,7 @@ window.SONG_DATA.push(
     {
   "title": "言霊",
   "artist": "V.W.P",
-  "collection": "【🦇歌切】[2026-06-25]感谢RKM庆典 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-25] Thanks to RKM Festival CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ff7i6nEGJ?p=6",
   "source": "culua.js"
@@ -4080,7 +4080,7 @@ window.SONG_DATA.push(
     {
   "title": "とても素敵な六月でした",
   "artist": "Eight feat. 初音ミク",
-  "collection": "【🦇歌切】[2026-06-29]唱歌 | 舒缓的歌单第33弹 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-29] Singing | Relaxing Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bkKR69EWy?p=1",
   "source": "culua.js"
@@ -4088,7 +4088,7 @@ window.SONG_DATA.push(
     {
   "title": "Silly",
   "artist": "家入レオ",
-  "collection": "【🦇歌切】[2026-06-29]唱歌 | 舒缓的歌单第33弹 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-29] Singing | Relaxing Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bkKR69EWy?p=2",
   "source": "culua.js"
@@ -4096,7 +4096,7 @@ window.SONG_DATA.push(
     {
   "title": "The hole",
   "artist": "King Gnu",
-  "collection": "【🦇歌切】[2026-06-29]唱歌 | 舒缓的歌单第33弹 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-29] Singing | Relaxing Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bkKR69EWy?p=3",
   "source": "culua.js"
@@ -4104,7 +4104,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーアンバー",
   "artist": "back number",
-  "collection": "【🦇歌切】[2026-06-29]唱歌 | 舒缓的歌单第33弹 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-29] Singing | Relaxing Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bkKR69EWy?p=4",
   "source": "culua.js"
@@ -4112,7 +4112,7 @@ window.SONG_DATA.push(
     {
   "title": "痛いよ",
   "artist": "清竜人",
-  "collection": "【🦇歌切】[2026-06-29]唱歌 | 舒缓的歌单第33弹 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-29] Singing | Relaxing Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bkKR69EWy?p=5",
   "source": "culua.js"
@@ -4120,7 +4120,7 @@ window.SONG_DATA.push(
     {
   "title": "思想犯",
   "artist": "ヨルシカ",
-  "collection": "【🦇歌切】[2026-06-29]唱歌 | 舒缓的歌单第33弹 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-29] Singing | Relaxing Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bkKR69EWy?p=6",
   "source": "culua.js"
@@ -4128,7 +4128,7 @@ window.SONG_DATA.push(
     {
   "title": "雫",
   "artist": "スキマスイッチ [TVアニメ 獣の奏者エリン]",
-  "collection": "【🦇歌切】[2026-06-29]唱歌 | 舒缓的歌单第33弹 CULUA",
+  "collection": "【🦇Song Cut】[2026-06-29] Singing | Relaxing Playlist Vol. 33 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bkKR69EWy?p=7",
   "source": "culua.js"
@@ -4136,7 +4136,7 @@ window.SONG_DATA.push(
     {
   "title": "Prayer X",
   "artist": "King Gnu",
-  "collection": "【🦇歌切】[2026-07-06]唱歌，舒缓的歌单第34弹",
+  "collection": "【🦇Song Cut】[2026-07-06] Singing, Relaxing Song List Episode 34",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1u9Mt6JEgC?p=1",
   "source": "culua.js"
@@ -4144,7 +4144,7 @@ window.SONG_DATA.push(
     {
   "title": "奈落",
   "artist": "みきとP",
-  "collection": "【🦇歌切】[2026-07-06]唱歌，舒缓的歌单第34弹",
+  "collection": "【🦇Song Cut】[2026-07-06] Singing, Relaxing Song List Episode 34",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1u9Mt6JEgC?p=2",
   "source": "culua.js"
@@ -4152,7 +4152,7 @@ window.SONG_DATA.push(
     {
   "title": "JANE DOE",
   "artist": "米津玄師, 宇多田ヒカル",
-  "collection": "【🦇歌切】[2026-07-06]唱歌，舒缓的歌单第34弹",
+  "collection": "【🦇Song Cut】[2026-07-06] Singing, Relaxing Song List Episode 34",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1u9Mt6JEgC?p=3",
   "source": "culua.js"
@@ -4160,7 +4160,7 @@ window.SONG_DATA.push(
     {
   "title": "悪魔の子",
   "artist": "ヒグチアイ",
-  "collection": "【🦇歌切】[2026-07-06]唱歌，舒缓的歌单第34弹",
+  "collection": "【🦇Song Cut】[2026-07-06] Singing, Relaxing Song List Episode 34",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1u9Mt6JEgC?p=4",
   "source": "culua.js"
@@ -4168,7 +4168,7 @@ window.SONG_DATA.push(
     {
   "title": "暗く黒く",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【🦇歌切】[2026-07-06]唱歌，舒缓的歌单第34弹",
+  "collection": "【🦇Song Cut】[2026-07-06] Singing, Relaxing Song List Episode 34",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1u9Mt6JEgC?p=5",
   "source": "culua.js"
@@ -4176,7 +4176,7 @@ window.SONG_DATA.push(
     {
   "title": "いかないで",
   "artist": "想太 feat. 歌愛ユキ",
-  "collection": "【🦇歌切】[2026-07-06]唱歌，舒缓的歌单第34弹",
+  "collection": "【🦇Song Cut】[2026-07-06] Singing, Relaxing Song List Episode 34",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1u9Mt6JEgC?p=6",
   "source": "culua.js"
@@ -4184,7 +4184,7 @@ window.SONG_DATA.push(
     {
   "title": "いきのこり●ぼくら",
   "artist": "青葉市子",
-  "collection": "【🦇歌切】[2026-07-06]唱歌，舒缓的歌单第34弹",
+  "collection": "【🦇Song Cut】[2026-07-06] Singing, Relaxing Song List Episode 34",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1u9Mt6JEgC?p=7",
   "source": "culua.js"
@@ -4192,7 +4192,7 @@ window.SONG_DATA.push(
     {
   "title": "Just Be Friends",
   "artist": "Dixie Flatline feat. 巡音ルカ",
-  "collection": "【🦇歌切】[2026-07-06]唱歌，舒缓的歌单第34弹",
+  "collection": "【🦇Song Cut】[2026-07-06] Singing, Relaxing Song List Episode 34",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1u9Mt6JEgC?p=8",
   "source": "culua.js"
@@ -4200,7 +4200,7 @@ window.SONG_DATA.push(
     {
   "title": "ハロ/ハワユ",
   "artist": "ナノウ feat.初音ミク",
-  "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
+  "collection": "【🦇Song Clip】[2026-07-13] Singing Stream - Chill Playlist Vol. 35 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=1",
   "source": "culua.js"
@@ -4208,7 +4208,7 @@ window.SONG_DATA.push(
     {
   "title": "なんでもないや",
   "artist": "RADWIMPS",
-  "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
+  "collection": "【🦇Song Clip】[2026-07-13] Singing Stream - Chill Playlist Vol. 35 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=2",
   "source": "culua.js"
@@ -4216,7 +4216,7 @@ window.SONG_DATA.push(
     {
   "title": "左右盲",
   "artist": "ヨルシカ",
-  "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
+  "collection": "【🦇Song Clip】[2026-07-13] Singing Stream - Chill Playlist Vol. 35 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=3",
   "source": "culua.js"
@@ -4224,7 +4224,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
+  "collection": "【🦇Song Clip】[2026-07-13] Singing Stream - Chill Playlist Vol. 35 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=4",
   "source": "culua.js"
@@ -4232,7 +4232,7 @@ window.SONG_DATA.push(
     {
   "title": "secret base 〜君がくれたもの〜",
   "artist": "ZONE",
-  "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
+  "collection": "【🦇Song Clip】[2026-07-13] Singing Stream - Chill Playlist Vol. 35 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=5",
   "source": "culua.js"
@@ -4240,7 +4240,7 @@ window.SONG_DATA.push(
     {
   "title": "心拍数♯0822",
   "artist": "蝶々P feat.初音ミク",
-  "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
+  "collection": "【🦇Song Clip】[2026-07-13] Singing Stream - Chill Playlist Vol. 35 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=6",
   "source": "culua.js"
@@ -4248,7 +4248,7 @@ window.SONG_DATA.push(
     {
   "title": "蝶々結び",
   "artist": "Aimer",
-  "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
+  "collection": "【🦇Song Clip】[2026-07-13] Singing Stream - Chill Playlist Vol. 35 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=7",
   "source": "culua.js"
@@ -4256,7 +4256,7 @@ window.SONG_DATA.push(
     {
   "title": "雛鳥",
   "artist": "花譜",
-  "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
+  "collection": "【🦇Song Clip】[2026-07-13] Singing Stream - Chill Playlist Vol. 35 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=8",
   "source": "culua.js"
@@ -4264,7 +4264,7 @@ window.SONG_DATA.push(
     {
   "title": "今はいいんだよ。",
   "artist": "MIMI feat.可不",
-  "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
+  "collection": "【🦇Song Clip】[2026-07-13] Singing Stream - Chill Playlist Vol. 35 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=9",
   "source": "culua.js"
@@ -4272,7 +4272,7 @@ window.SONG_DATA.push(
     {
   "title": "回る空うさぎ",
   "artist": "Orangestar feat.初音ミク",
-  "collection": "【🦇歌切】[2026-07-13]歌回 舒缓的歌单第35弹 CULUA",
+  "collection": "【🦇Song Clip】[2026-07-13] Singing Stream - Chill Playlist Vol. 35 CULUA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y7ND6hE9P?p=10",
   "source": "culua.js"
@@ -4280,7 +4280,7 @@ window.SONG_DATA.push(
     {
   "title": "足りない",
   "artist": "DUSTCELL",
-  "collection": "【🦇歌切】[2026-08-13]好久不见的歌回｜Culua的歌单第35弹",
+  "collection": "【🦇Song Clip】[2026-08-13]A singing stream after a long time｜Culua's Playlist volume 35",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEqK?p=1",
   "source": "culua.js"
@@ -4288,7 +4288,7 @@ window.SONG_DATA.push(
     {
   "title": "GLORIA",
   "artist": "YUI",
-  "collection": "【🦇歌切】[2026-08-13]好久不见的歌回｜Culua的歌单第35弹",
+  "collection": "【🦇Song Clip】[2026-08-13]A singing stream after a long time｜Culua's Playlist volume 35",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEqK?p=2",
   "source": "culua.js"
@@ -4296,7 +4296,7 @@ window.SONG_DATA.push(
     {
   "title": "again",
   "artist": "YUI",
-  "collection": "【🦇歌切】[2026-08-13]好久不见的歌回｜Culua的歌单第35弹",
+  "collection": "【🦇Song Clip】[2026-08-13]A singing stream after a long time｜Culua's Playlist volume 35",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEqK?p=3",
   "source": "culua.js"
@@ -4304,7 +4304,7 @@ window.SONG_DATA.push(
     {
   "title": "正しくなれない",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【🦇歌切】[2026-08-13]好久不见的歌回｜Culua的歌单第35弹",
+  "collection": "【🦇Song Clip】[2026-08-13]A singing stream after a long time｜Culua's Playlist volume 35",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEqK?p=4",
   "source": "culua.js"
@@ -4312,7 +4312,7 @@ window.SONG_DATA.push(
     {
   "title": "Value",
   "artist": "Ado",
-  "collection": "【🦇歌切】[2026-08-13]好久不见的歌回｜Culua的歌单第35弹",
+  "collection": "【🦇Song Clip】[2026-08-13]A singing stream after a long time｜Culua's Playlist volume 35",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEqK?p=5",
   "source": "culua.js"
@@ -4320,7 +4320,7 @@ window.SONG_DATA.push(
     {
   "title": "名前のない怪物",
   "artist": "EGOIST",
-  "collection": "【🦇歌切】[2026-08-13]好久不见的歌回｜Culua的歌单第35弹",
+  "collection": "【🦇Song Clip】[2026-08-13]A singing stream after a long time｜Culua's Playlist volume 35",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEqK?p=6",
   "source": "culua.js"
@@ -4328,7 +4328,7 @@ window.SONG_DATA.push(
     {
   "title": "asphyxia",
   "artist": "Cö shu Nie",
-  "collection": "【🦇歌切】[2026-08-13]好久不见的歌回｜Culua的歌单第35弹",
+  "collection": "【🦇Song Clip】[2026-08-13]A singing stream after a long time｜Culua's Playlist volume 35",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEqK?p=7",
   "source": "culua.js"
@@ -4336,7 +4336,7 @@ window.SONG_DATA.push(
     {
   "title": "give it back",
   "artist": "Cö shu Nie",
-  "collection": "【🦇歌切】[2026-08-13]好久不见的歌回｜Culua的歌单第35弹",
+  "collection": "【🦇Song Clip】[2026-08-13]A singing stream after a long time｜Culua's Playlist volume 35",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEqK?p=8",
   "source": "culua.js"
@@ -4344,7 +4344,7 @@ window.SONG_DATA.push(
     {
   "title": "パジャマパーティーズのうた",
   "artist": "パジャマパーティーズ",
-  "collection": "【🦇歌切】[2026-08-19]唱歌",
+  "collection": "【🦇Song Cut】[2026-08-19] Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16Nbo6TERA?p=1",
   "source": "culua.js"
@@ -4352,7 +4352,7 @@ window.SONG_DATA.push(
     {
   "title": "モニタリング",
   "artist": "DECO*27 feat.初音ミク",
-  "collection": "【🦇歌切】[2026-08-19]唱歌",
+  "collection": "【🦇Song Cut】[2026-08-19] Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16Nbo6TERA?p=2",
   "source": "culua.js"
@@ -4360,7 +4360,7 @@ window.SONG_DATA.push(
     {
   "title": "キメラ",
   "artist": "DECO*27 feat.初音ミク",
-  "collection": "【🦇歌切】[2026-08-19]唱歌",
+  "collection": "【🦇Song Cut】[2026-08-19] Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16Nbo6TERA?p=3",
   "source": "culua.js"
@@ -4368,7 +4368,7 @@ window.SONG_DATA.push(
     {
   "title": "ドーナツホール",
   "artist": "ハチ feat.GUMI",
-  "collection": "【🦇歌切】[2026-08-19]唱歌",
+  "collection": "【🦇Song Cut】[2026-08-19] Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16Nbo6TERA?p=4",
   "source": "culua.js"
@@ -4376,7 +4376,7 @@ window.SONG_DATA.push(
     {
   "title": "アスノヨゾラ哨戒班",
   "artist": "Orangestar feat.IA",
-  "collection": "【🦇歌切】[2026-08-19]唱歌",
+  "collection": "【🦇Song Cut】[2026-08-19] Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16Nbo6TERA?p=5",
   "source": "culua.js"
@@ -4384,7 +4384,7 @@ window.SONG_DATA.push(
     {
   "title": "快晴",
   "artist": "Orangestar feat.IA",
-  "collection": "【🦇歌切】[2026-08-19]唱歌",
+  "collection": "【🦇Song Cut】[2026-08-19] Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16Nbo6TERA?p=6",
   "source": "culua.js"
@@ -4392,7 +4392,7 @@ window.SONG_DATA.push(
     {
   "title": "少女レイ",
   "artist": "みきとP feat.初音ミク",
-  "collection": "【🦇歌切】[2026-08-19]唱歌",
+  "collection": "【🦇Song Cut】[2026-08-19] Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16Nbo6TERA?p=7",
   "source": "culua.js"
@@ -4400,7 +4400,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "【🦇歌切】[2026-08-19]唱歌",
+  "collection": "【🦇Song Cut】[2026-08-19] Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16Nbo6TERA?p=8",
   "source": "culua.js"
@@ -4408,7 +4408,7 @@ window.SONG_DATA.push(
     {
   "title": "水流のロック",
   "artist": "日食なつこ",
-  "collection": "【🦇歌切】[2026-08-19]唱歌",
+  "collection": "【🦇Song Cut】[2026-08-19] Singing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16Nbo6TERA?p=9",
   "source": "culua.js"
@@ -4416,7 +4416,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーアンバー",
   "artist": "back number",
-  "collection": "【🦇歌切】[2026-08-24]来唱歌｜舒缓的歌单第36弹【CULUA】",
+  "collection": "【🦇Song Clip】[2026-08-24] Singing｜Soothing Playlist Vol. 36【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BWh365Em3?p=1",
   "source": "culua.js"
@@ -4424,7 +4424,7 @@ window.SONG_DATA.push(
     {
   "title": "思想犯",
   "artist": "ヨルシカ",
-  "collection": "【🦇歌切】[2026-08-24]来唱歌｜舒缓的歌单第36弹【CULUA】",
+  "collection": "【🦇Song Clip】[2026-08-24] Singing｜Soothing Playlist Vol. 36【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BWh365Em3?p=2",
   "source": "culua.js"
@@ -4432,7 +4432,7 @@ window.SONG_DATA.push(
     {
   "title": "君が夜の海に還るまで",
   "artist": "キタニタツヤ",
-  "collection": "【🦇歌切】[2026-08-24]来唱歌｜舒缓的歌单第36弹【CULUA】",
+  "collection": "【🦇Song Clip】[2026-08-24] Singing｜Soothing Playlist Vol. 36【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BWh365Em3?p=3",
   "source": "culua.js"
@@ -4440,7 +4440,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒロイン",
   "artist": "back number",
-  "collection": "【🦇歌切】[2026-08-24]来唱歌｜舒缓的歌单第36弹【CULUA】",
+  "collection": "【🦇Song Clip】[2026-08-24] Singing｜Soothing Playlist Vol. 36【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BWh365Em3?p=4",
   "source": "culua.js"
@@ -4448,7 +4448,7 @@ window.SONG_DATA.push(
     {
   "title": "アイネクライネ",
   "artist": "米津玄師",
-  "collection": "【🦇歌切】[2026-08-24]来唱歌｜舒缓的歌单第36弹【CULUA】",
+  "collection": "【🦇Song Clip】[2026-08-24] Singing｜Soothing Playlist Vol. 36【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BWh365Em3?p=5",
   "source": "culua.js"
@@ -4456,7 +4456,7 @@ window.SONG_DATA.push(
     {
   "title": "心做し",
   "artist": "蝶々P feat.GUMI",
-  "collection": "【🦇歌切】[2026-08-24]来唱歌｜舒缓的歌单第36弹【CULUA】",
+  "collection": "【🦇Song Clip】[2026-08-24] Singing｜Soothing Playlist Vol. 36【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BWh365Em3?p=6",
   "source": "culua.js"
@@ -4464,7 +4464,7 @@ window.SONG_DATA.push(
     {
   "title": "灰色と青",
   "artist": "米津玄師 feat.菅田将暉",
-  "collection": "【🦇歌切】[2026-08-24]来唱歌｜舒缓的歌单第36弹【CULUA】",
+  "collection": "【🦇Song Clip】[2026-08-24] Singing｜Soothing Playlist Vol. 36【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BWh365Em3?p=7",
   "source": "culua.js"
@@ -4472,7 +4472,7 @@ window.SONG_DATA.push(
     {
   "title": "ひまわりの約束",
   "artist": "秦基博",
-  "collection": "【🦇歌切】[2026-08-24]来唱歌｜舒缓的歌单第36弹【CULUA】",
+  "collection": "【🦇Song Clip】[2026-08-24] Singing｜Soothing Playlist Vol. 36【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BWh365Em3?p=8",
   "source": "culua.js"
@@ -4480,7 +4480,7 @@ window.SONG_DATA.push(
     {
   "title": "糸",
   "artist": "中島みゆき",
-  "collection": "【🦇歌切】[2026-08-24]来唱歌｜舒缓的歌单第36弹【CULUA】",
+  "collection": "【🦇Song Clip】[2026-08-24] Singing｜Soothing Playlist Vol. 36【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1BWh365Em3?p=9",
   "source": "culua.js"
@@ -4488,7 +4488,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【🦇歌切】[2026-08-27]边聊边唱｜我要唱歌啦｜CULUA的歌单第36弹【CULUA】",
+  "collection": "【🦇Song Cut】[2026-08-27] Chatting While Singing｜I'm Gonna Sing｜CULUA's Song List Vol. 36【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K8tx6dEWt?p=1",
   "source": "culua.js"
@@ -4496,7 +4496,7 @@ window.SONG_DATA.push(
     {
   "title": "少女レイ",
   "artist": "みきとP feat.初音ミク",
-  "collection": "【🦇歌切】[2026-08-27]边聊边唱｜我要唱歌啦｜CULUA的歌单第36弹【CULUA】",
+  "collection": "【🦇Song Cut】[2026-08-27] Chatting While Singing｜I'm Gonna Sing｜CULUA's Song List Vol. 36【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K8tx6dEWt?p=2",
   "source": "culua.js"
@@ -4504,7 +4504,7 @@ window.SONG_DATA.push(
     {
   "title": "G4L",
   "artist": "Giga",
-  "collection": "【🦇歌切】[2026-08-27]边聊边唱｜我要唱歌啦｜CULUA的歌单第36弹【CULUA】",
+  "collection": "【🦇Song Cut】[2026-08-27] Chatting While Singing｜I'm Gonna Sing｜CULUA's Song List Vol. 36【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K8tx6dEWt?p=3",
   "source": "culua.js"
@@ -4512,7 +4512,7 @@ window.SONG_DATA.push(
     {
   "title": "アイデンティティ",
   "artist": "Kanaria feat.初音ミク・GUMI",
-  "collection": "【🦇歌切】[2026-08-27]边聊边唱｜我要唱歌啦｜CULUA的歌单第36弹【CULUA】",
+  "collection": "【🦇Song Cut】[2026-08-27] Chatting While Singing｜I'm Gonna Sing｜CULUA's Song List Vol. 36【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K8tx6dEWt?p=4",
   "source": "culua.js"
@@ -4520,7 +4520,7 @@ window.SONG_DATA.push(
     {
   "title": "眩しいDNAだけ",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【🦇歌切】[2026-08-27]边聊边唱｜我要唱歌啦｜CULUA的歌单第36弹【CULUA】",
+  "collection": "【🦇Song Cut】[2026-08-27] Chatting While Singing｜I'm Gonna Sing｜CULUA's Song List Vol. 36【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K8tx6dEWt?p=5",
   "source": "culua.js"
@@ -4528,7 +4528,7 @@ window.SONG_DATA.push(
     {
   "title": "深海少女",
   "artist": "ゆうゆ feat.初音ミク",
-  "collection": "【🦇歌切】[2026-08-31]出新歌了｜舒缓的歌单第37弹【CULUA】",
+  "collection": "【🦇Song Cut】[2026-08-31] New Song Released｜Relaxing Playlist Vol. 37【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dUtY6dEsT?p=1",
   "source": "culua.js"
@@ -4536,7 +4536,7 @@ window.SONG_DATA.push(
     {
   "title": "シリョクケンサ",
   "artist": "40mP feat.GUMI",
-  "collection": "【🦇歌切】[2026-08-31]出新歌了｜舒缓的歌单第37弹【CULUA】",
+  "collection": "【🦇Song Cut】[2026-08-31] New Song Released｜Relaxing Playlist Vol. 37【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dUtY6dEsT?p=2",
   "source": "culua.js"
@@ -4544,7 +4544,7 @@ window.SONG_DATA.push(
     {
   "title": "トリノコシティ",
   "artist": "40mP feat.初音ミク",
-  "collection": "【🦇歌切】[2026-08-31]出新歌了｜舒缓的歌单第37弹【CULUA】",
+  "collection": "【🦇Song Cut】[2026-08-31] New Song Released｜Relaxing Playlist Vol. 37【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dUtY6dEsT?p=3",
   "source": "culua.js"
@@ -4552,7 +4552,7 @@ window.SONG_DATA.push(
     {
   "title": "妄想感傷代償連盟",
   "artist": "DECO*27 feat.初音ミク",
-  "collection": "【🦇歌切】[2026-08-31]出新歌了｜舒缓的歌单第37弹【CULUA】",
+  "collection": "【🦇Song Cut】[2026-08-31] New Song Released｜Relaxing Playlist Vol. 37【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dUtY6dEsT?p=4",
   "source": "culua.js"
@@ -4560,7 +4560,7 @@ window.SONG_DATA.push(
     {
   "title": "わたしのアール",
   "artist": "和田たけあき(くらげP) feat.初音ミク",
-  "collection": "【🦇歌切】[2026-08-31]出新歌了｜舒缓的歌单第37弹【CULUA】",
+  "collection": "【🦇Song Cut】[2026-08-31] New Song Released｜Relaxing Playlist Vol. 37【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dUtY6dEsT?p=5",
   "source": "culua.js"
@@ -4568,7 +4568,7 @@ window.SONG_DATA.push(
     {
   "title": "六兆年と一夜物語",
   "artist": "kemu feat.IA",
-  "collection": "【🦇歌切】[2026-08-31]出新歌了｜舒缓的歌单第37弹【CULUA】",
+  "collection": "【🦇Song Cut】[2026-08-31] New Song Released｜Relaxing Playlist Vol. 37【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dUtY6dEsT?p=6",
   "source": "culua.js"
@@ -4576,7 +4576,7 @@ window.SONG_DATA.push(
     {
   "title": "カナデトモスソラ",
   "artist": "25時、ナイトコードで。",
-  "collection": "【🦇歌切】[2026-08-31]出新歌了｜舒缓的歌单第37弹【CULUA】",
+  "collection": "【🦇Song Cut】[2026-08-31] New Song Released｜Relaxing Playlist Vol. 37【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dUtY6dEsT?p=7",
   "source": "culua.js"
@@ -4584,7 +4584,7 @@ window.SONG_DATA.push(
     {
   "title": "あなたの夜が明けるまで",
   "artist": "傘村トータ feat.IA・Fukase",
-  "collection": "【🦇歌切】[2026-08-31]出新歌了｜舒缓的歌单第37弹【CULUA】",
+  "collection": "【🦇Song Cut】[2026-08-31] New Song Released｜Relaxing Playlist Vol. 37【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dUtY6dEsT?p=8",
   "source": "culua.js"
@@ -4592,7 +4592,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けの歌",
   "artist": "M2U feat.ダズビー",
-  "collection": "【🦇歌切】[2026-08-31]出新歌了｜舒缓的歌单第37弹【CULUA】",
+  "collection": "【🦇Song Cut】[2026-08-31] New Song Released｜Relaxing Playlist Vol. 37【CULUA】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dUtY6dEsT?p=9",
   "source": "culua.js"
@@ -4600,7 +4600,7 @@ window.SONG_DATA.push(
     {
   "title": "HELLO～Paradise Kiss～",
   "artist": "YUI",
-  "collection": "【🦇歌切】[2026-09-03]歌回｜CULUA的歌单第36弹",
+  "collection": "【🦇Song Clip】[2026-09-03]Singing Stream｜CULUA's Playlist Vol. 36",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RZbF6eEze?p=1",
   "source": "culua.js"
@@ -4608,7 +4608,7 @@ window.SONG_DATA.push(
     {
   "title": "きゅうくらりん",
   "artist": "いよわ feat.可不",
-  "collection": "【🦇歌切】[2026-09-03]歌回｜CULUA的歌单第36弹",
+  "collection": "【🦇Song Clip】[2026-09-03]Singing Stream｜CULUA's Playlist Vol. 36",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RZbF6eEze?p=2",
   "source": "culua.js"
@@ -4616,7 +4616,7 @@ window.SONG_DATA.push(
     {
   "title": "気になるあの娘",
   "artist": "相対性理論",
-  "collection": "【🦇歌切】[2026-09-03]歌回｜CULUA的歌单第36弹",
+  "collection": "【🦇Song Clip】[2026-09-03]Singing Stream｜CULUA's Playlist Vol. 36",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RZbF6eEze?p=3",
   "source": "culua.js"
@@ -4624,7 +4624,7 @@ window.SONG_DATA.push(
     {
   "title": "ヨワネハキ",
   "artist": "MAISONdes feat.和ぬか,asmi",
-  "collection": "【🦇歌切】[2026-09-03]歌回｜CULUA的歌单第36弹",
+  "collection": "【🦇Song Clip】[2026-09-03]Singing Stream｜CULUA's Playlist Vol. 36",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RZbF6eEze?p=4",
   "source": "culua.js"
@@ -4632,7 +4632,7 @@ window.SONG_DATA.push(
     {
   "title": "寄り酔い",
   "artist": "和ぬか",
-  "collection": "【🦇歌切】[2026-09-03]歌回｜CULUA的歌单第36弹",
+  "collection": "【🦇Song Clip】[2026-09-03]Singing Stream｜CULUA's Playlist Vol. 36",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RZbF6eEze?p=5",
   "source": "culua.js"
@@ -4640,7 +4640,7 @@ window.SONG_DATA.push(
     {
   "title": "(恋は)百年戦争",
   "artist": "相対性理論",
-  "collection": "【🦇歌切】[2026-09-03]歌回｜CULUA的歌单第36弹",
+  "collection": "【🦇Song Clip】[2026-09-03]Singing Stream｜CULUA's Playlist Vol. 36",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RZbF6eEze?p=6",
   "source": "culua.js"
@@ -4648,7 +4648,7 @@ window.SONG_DATA.push(
     {
   "title": "貴方の恋人になりたいのです",
   "artist": "阿部真央",
-  "collection": "【🦇歌切】[2026-09-03]歌回｜CULUA的歌单第36弹",
+  "collection": "【🦇Song Clip】[2026-09-03]Singing Stream｜CULUA's Playlist Vol. 36",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RZbF6eEze?p=7",
   "source": "culua.js"
@@ -4656,7 +4656,7 @@ window.SONG_DATA.push(
     {
   "title": "君がくれた夏",
   "artist": "家入レオ",
-  "collection": "【🦇歌切】[2026-09-03]歌回｜CULUA的歌单第36弹",
+  "collection": "【🦇Song Clip】[2026-09-03]Singing Stream｜CULUA's Playlist Vol. 36",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RZbF6eEze?p=8",
   "source": "culua.js"
@@ -4664,7 +4664,7 @@ window.SONG_DATA.push(
     {
   "title": "CHE.R.RY",
   "artist": "YUI",
-  "collection": "【🦇歌切】[2026-09-07]唱歌｜CULUA的歌单第37弹",
+  "collection": "【🦇Song Clip】[2026-09-07] Singing｜CULUA's Playlist Episode 37",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vXbu6fEgV?p=1",
   "source": "culua.js"
@@ -4672,7 +4672,7 @@ window.SONG_DATA.push(
     {
   "title": "愛を伝えたいだとか",
   "artist": "あいみょん",
-  "collection": "【🦇歌切】[2026-09-07]唱歌｜CULUA的歌单第37弹",
+  "collection": "【🦇Song Clip】[2026-09-07] Singing｜CULUA's Playlist Episode 37",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vXbu6fEgV?p=2",
   "source": "culua.js"
@@ -4680,7 +4680,7 @@ window.SONG_DATA.push(
     {
   "title": "君はロックを聴かない",
   "artist": "あいみょん",
-  "collection": "【🦇歌切】[2026-09-07]唱歌｜CULUA的歌单第37弹",
+  "collection": "【🦇Song Clip】[2026-09-07] Singing｜CULUA's Playlist Episode 37",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vXbu6fEgV?p=3",
   "source": "culua.js"
@@ -4688,7 +4688,7 @@ window.SONG_DATA.push(
     {
   "title": "melt bitter",
   "artist": "さとうもか",
-  "collection": "【🦇歌切】[2026-09-07]唱歌｜CULUA的歌单第37弹",
+  "collection": "【🦇Song Clip】[2026-09-07] Singing｜CULUA's Playlist Episode 37",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vXbu6fEgV?p=4",
   "source": "culua.js"
@@ -4696,7 +4696,7 @@ window.SONG_DATA.push(
     {
   "title": "10月無口な君を忘れる",
   "artist": "あたらよ",
-  "collection": "【🦇歌切】[2026-09-07]唱歌｜CULUA的歌单第37弹",
+  "collection": "【🦇Song Clip】[2026-09-07] Singing｜CULUA's Playlist Episode 37",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vXbu6fEgV?p=5",
   "source": "culua.js"
@@ -4704,7 +4704,7 @@ window.SONG_DATA.push(
     {
   "title": "ヘビースモーク",
   "artist": "にしな",
-  "collection": "【🦇歌切】[2026-09-07]唱歌｜CULUA的歌单第37弹",
+  "collection": "【🦇Song Clip】[2026-09-07] Singing｜CULUA's Playlist Episode 37",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vXbu6fEgV?p=6",
   "source": "culua.js"
@@ -4712,7 +4712,7 @@ window.SONG_DATA.push(
     {
   "title": "シンデレラボーイ",
   "artist": "Saucy Dog",
-  "collection": "【🦇歌切】[2026-09-07]唱歌｜CULUA的歌单第37弹",
+  "collection": "【🦇Song Clip】[2026-09-07] Singing｜CULUA's Playlist Episode 37",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vXbu6fEgV?p=7",
   "source": "culua.js"
@@ -4720,7 +4720,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "【🦇歌切】[2026-09-07]唱歌｜CULUA的歌单第37弹",
+  "collection": "【🦇Song Clip】[2026-09-07] Singing｜CULUA's Playlist Episode 37",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vXbu6fEgV?p=8",
   "source": "culua.js"
@@ -4728,7 +4728,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "【🦇歌切】[2026-09-07]唱歌｜CULUA的歌单第37弹",
+  "collection": "【🦇Song Clip】[2026-09-07] Singing｜CULUA's Playlist Episode 37",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vXbu6fEgV?p=9",
   "source": "culua.js"
@@ -4736,7 +4736,7 @@ window.SONG_DATA.push(
     {
   "title": "SAD SONG",
   "artist": "ちゃんみな",
-  "collection": "【🦇歌切】[2026-09-07]唱歌｜CULUA的歌单第37弹",
+  "collection": "【🦇Song Clip】[2026-09-07] Singing｜CULUA's Playlist Episode 37",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vXbu6fEgV?p=10",
   "source": "culua.js"

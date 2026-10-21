@@ -1,6 +1,6 @@
 // 陽月るるふ - 歌单数据 (多合集汇总)
 // 来源: BV1Qa9JB6EAw
-// 生成时间: 10/21/2026, 7:09:40 AM
+// 生成时间: 10/21/2026, 11:22:49 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8,7 +8,7 @@ window.SONG_DATA.push(
     {
   "title": "Alice",
   "artist": "古川本舗",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
+  "collection": "🐺🎀 Check-in for the daily birthday month song stream Day1 - Ruru Hiyuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qa9JB6EAw?p=1",
   "source": "bv1qa9jb6eaw.js"
@@ -16,7 +16,7 @@ window.SONG_DATA.push(
     {
   "title": "feel my soul",
   "artist": "YUI",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
+  "collection": "🐺🎀 Check-in for the daily birthday month song stream Day1 - Ruru Hiyuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qa9JB6EAw?p=2",
   "source": "bv1qa9jb6eaw.js"
@@ -24,7 +24,7 @@ window.SONG_DATA.push(
     {
   "title": "片想い",
   "artist": "miwa",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
+  "collection": "🐺🎀 Check-in for the daily birthday month song stream Day1 - Ruru Hiyuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qa9JB6EAw?p=3",
   "source": "bv1qa9jb6eaw.js"
@@ -32,7 +32,7 @@ window.SONG_DATA.push(
     {
   "title": "441",
   "artist": "miwa",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
+  "collection": "🐺🎀 Check-in for the daily birthday month song stream Day1 - Ruru Hiyuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qa9JB6EAw?p=4",
   "source": "bv1qa9jb6eaw.js"
@@ -40,7 +40,7 @@ window.SONG_DATA.push(
     {
   "title": "ちっぽけな恋のうた",
   "artist": "小枝理子＆小笠原秋",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
+  "collection": "🐺🎀 Check-in for the daily birthday month song stream Day1 - Ruru Hiyuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qa9JB6EAw?p=5",
   "source": "bv1qa9jb6eaw.js"
@@ -48,7 +48,7 @@ window.SONG_DATA.push(
     {
   "title": "明日も",
   "artist": "MUSH＆Co.",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
+  "collection": "🐺🎀 Check-in for the daily birthday month song stream Day1 - Ruru Hiyuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qa9JB6EAw?p=6",
   "source": "bv1qa9jb6eaw.js"
@@ -56,7 +56,7 @@ window.SONG_DATA.push(
     {
   "title": "恋空予報",
   "artist": "電ポルP",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
+  "collection": "🐺🎀 Check-in for the daily birthday month song stream Day1 - Ruru Hiyuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qa9JB6EAw?p=7",
   "source": "bv1qa9jb6eaw.js"
@@ -64,7 +64,7 @@ window.SONG_DATA.push(
     {
   "title": "独りんぼエンヴィー",
   "artist": "電ポルP",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
+  "collection": "🐺🎀 Check-in for the daily birthday month song stream Day1 - Ruru Hiyuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qa9JB6EAw?p=8",
   "source": "bv1qa9jb6eaw.js"
@@ -72,7 +72,7 @@ window.SONG_DATA.push(
     {
   "title": "サイノウサンプラー",
   "artist": "電ポルP",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
+  "collection": "🐺🎀 Check-in for the daily birthday month song stream Day1 - Ruru Hiyuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qa9JB6EAw?p=9",
   "source": "bv1qa9jb6eaw.js"
@@ -80,7 +80,7 @@ window.SONG_DATA.push(
     {
   "title": "正夢デエト",
   "artist": "電ポルP",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
+  "collection": "🐺🎀 Check-in for the daily birthday month song stream Day1 - Ruru Hiyuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qa9JB6EAw?p=10",
   "source": "bv1qa9jb6eaw.js"
@@ -88,7 +88,7 @@ window.SONG_DATA.push(
     {
   "title": "曖昧劣情Lover",
   "artist": "電ポルP",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
+  "collection": "🐺🎀 Check-in for the daily birthday month song stream Day1 - Ruru Hiyuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qa9JB6EAw?p=11",
   "source": "bv1qa9jb6eaw.js"
@@ -96,7 +96,7 @@ window.SONG_DATA.push(
     {
   "title": "ほんの少しのさよなら",
   "artist": "電ポルP",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
+  "collection": "🐺🎀 Check-in for the daily birthday month song stream Day1 - Ruru Hiyuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qa9JB6EAw?p=12",
   "source": "bv1qa9jb6eaw.js"
@@ -104,7 +104,7 @@ window.SONG_DATA.push(
     {
   "title": "World on Color",
   "artist": "電ポルP",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
+  "collection": "🐺🎀 Check-in for the daily birthday month song stream Day1 - Ruru Hiyuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qa9JB6EAw?p=13",
   "source": "bv1qa9jb6eaw.js"
@@ -112,7 +112,7 @@ window.SONG_DATA.push(
     {
   "title": "夜空にふたつ",
   "artist": "電ポルP",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
+  "collection": "🐺🎀 Check-in for the daily birthday month song stream Day1 - Ruru Hiyuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qa9JB6EAw?p=14",
   "source": "bv1qa9jb6eaw.js"
@@ -120,7 +120,7 @@ window.SONG_DATA.push(
     {
   "title": "夢町コントラスト",
   "artist": "電ポルP",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day1 陽月るるふ",
+  "collection": "🐺🎀 Check-in for the daily birthday month song stream Day1 - Ruru Hiyuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Qa9JB6EAw?p=15",
   "source": "bv1qa9jb6eaw.js"
@@ -128,7 +128,7 @@ window.SONG_DATA.push(
     {
   "title": "メーベル",
   "artist": "バルーン",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Song Stream Day2 - Yougetsu Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12r9JBeEeB?p=1",
   "source": "bv1qa9jb6eaw.js"
@@ -136,7 +136,7 @@ window.SONG_DATA.push(
     {
   "title": "シャルル",
   "artist": "バルーン",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Song Stream Day2 - Yougetsu Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12r9JBeEeB?p=2",
   "source": "bv1qa9jb6eaw.js"
@@ -144,7 +144,7 @@ window.SONG_DATA.push(
     {
   "title": "パメラ",
   "artist": "バルーン feat. flower",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Song Stream Day2 - Yougetsu Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12r9JBeEeB?p=3",
   "source": "bv1qa9jb6eaw.js"
@@ -152,7 +152,7 @@ window.SONG_DATA.push(
     {
   "title": "ノマド",
   "artist": "バルーン",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Song Stream Day2 - Yougetsu Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12r9JBeEeB?p=4",
   "source": "bv1qa9jb6eaw.js"
@@ -160,7 +160,7 @@ window.SONG_DATA.push(
     {
   "title": "ダーリン",
   "artist": "須田景凪",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Song Stream Day2 - Yougetsu Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12r9JBeEeB?p=5",
   "source": "bv1qa9jb6eaw.js"
@@ -168,7 +168,7 @@ window.SONG_DATA.push(
     {
   "title": "Ex-otogibanashi",
   "artist": "ryo（supercell）、かぐや（夏吉ゆうこ）、月見ヤチヨ（早見沙織）",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Song Stream Day2 - Yougetsu Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12r9JBeEeB?p=6",
   "source": "bv1qa9jb6eaw.js"
@@ -176,7 +176,7 @@ window.SONG_DATA.push(
     {
   "title": "ウミユリ海底譚",
   "artist": "n-buna",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Song Stream Day2 - Yougetsu Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12r9JBeEeB?p=7",
   "source": "bv1qa9jb6eaw.js"
@@ -184,7 +184,7 @@ window.SONG_DATA.push(
     {
   "title": "メリュー",
   "artist": "n-buna feat.初音ミク",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Song Stream Day2 - Yougetsu Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12r9JBeEeB?p=8",
   "source": "bv1qa9jb6eaw.js"
@@ -192,7 +192,7 @@ window.SONG_DATA.push(
     {
   "title": "ラプンツェル",
   "artist": "n-buna",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Song Stream Day2 - Yougetsu Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12r9JBeEeB?p=9",
   "source": "bv1qa9jb6eaw.js"
@@ -200,7 +200,7 @@ window.SONG_DATA.push(
     {
   "title": "林檎売りの泡沫少女",
   "artist": "Yukkedoluce",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Song Stream Day2 - Yougetsu Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12r9JBeEeB?p=10",
   "source": "bv1qa9jb6eaw.js"
@@ -208,7 +208,7 @@ window.SONG_DATA.push(
     {
   "title": "WORLD'S END UMBRELLA",
   "artist": "ハチ",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Song Stream Day2 - Yougetsu Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12r9JBeEeB?p=11",
   "source": "bv1qa9jb6eaw.js"
@@ -216,7 +216,7 @@ window.SONG_DATA.push(
     {
   "title": "極楽浄土",
   "artist": "GARNiDELiA",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Song Stream Day2 - Yougetsu Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12r9JBeEeB?p=12",
   "source": "bv1qa9jb6eaw.js"
@@ -224,7 +224,7 @@ window.SONG_DATA.push(
     {
   "title": "Lamb.",
   "artist": "GARNiDELiA",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Song Stream Day2 - Yougetsu Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12r9JBeEeB?p=13",
   "source": "bv1qa9jb6eaw.js"
@@ -232,7 +232,7 @@ window.SONG_DATA.push(
     {
   "title": "Girls",
   "artist": "GARNiDELiA",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day2 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Song Stream Day2 - Yougetsu Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12r9JBeEeB?p=14",
   "source": "bv1qa9jb6eaw.js"
@@ -240,7 +240,7 @@ window.SONG_DATA.push(
     {
   "title": "ミズキリ",
   "artist": "優里",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "collection": "🐺🎀 Birthday Month Daily Song Stream Day3 - Rurufu Yozuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=1",
   "source": "bv1qa9jb6eaw.js"
@@ -248,7 +248,7 @@ window.SONG_DATA.push(
     {
   "title": "ミザリー",
   "artist": "優里",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "collection": "🐺🎀 Birthday Month Daily Song Stream Day3 - Rurufu Yozuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=2",
   "source": "bv1qa9jb6eaw.js"
@@ -256,7 +256,7 @@ window.SONG_DATA.push(
     {
   "title": "オベリスク",
   "artist": "シェリル・ノーム starring May's",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "collection": "🐺🎀 Birthday Month Daily Song Stream Day3 - Rurufu Yozuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=3",
   "source": "bv1qa9jb6eaw.js"
@@ -264,7 +264,7 @@ window.SONG_DATA.push(
     {
   "title": "Walkure Attack！",
   "artist": "ワルキューレ",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "collection": "🐺🎀 Birthday Month Daily Song Stream Day3 - Rurufu Yozuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=4",
   "source": "bv1qa9jb6eaw.js"
@@ -272,7 +272,7 @@ window.SONG_DATA.push(
     {
   "title": "LOVE！ THUNDER GLOW",
   "artist": "ワルキューレ",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "collection": "🐺🎀 Birthday Month Daily Song Stream Day3 - Rurufu Yozuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=5",
   "source": "bv1qa9jb6eaw.js"
@@ -280,7 +280,7 @@ window.SONG_DATA.push(
     {
   "title": "One・Two・Three",
   "artist": "モーニング娘。",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "collection": "🐺🎀 Birthday Month Daily Song Stream Day3 - Rurufu Yozuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=6",
   "source": "bv1qa9jb6eaw.js"
@@ -288,7 +288,7 @@ window.SONG_DATA.push(
     {
   "title": "わがまま 気のまま 愛のジョーク",
   "artist": "モーニング娘。",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "collection": "🐺🎀 Birthday Month Daily Song Stream Day3 - Rurufu Yozuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=7",
   "source": "bv1qa9jb6eaw.js"
@@ -296,7 +296,7 @@ window.SONG_DATA.push(
     {
   "title": "愛の軍団",
   "artist": "モーニング娘。",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "collection": "🐺🎀 Birthday Month Daily Song Stream Day3 - Rurufu Yozuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=8",
   "source": "bv1qa9jb6eaw.js"
@@ -304,7 +304,7 @@ window.SONG_DATA.push(
     {
   "title": "制服のマネキン",
   "artist": "乃木坂46",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "collection": "🐺🎀 Birthday Month Daily Song Stream Day3 - Rurufu Yozuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=9",
   "source": "bv1qa9jb6eaw.js"
@@ -312,7 +312,7 @@ window.SONG_DATA.push(
     {
   "title": "バレッタ",
   "artist": "乃木坂46",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "collection": "🐺🎀 Birthday Month Daily Song Stream Day3 - Rurufu Yozuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=10",
   "source": "bv1qa9jb6eaw.js"
@@ -320,7 +320,7 @@ window.SONG_DATA.push(
     {
   "title": "誰のことを一番愛してる？",
   "artist": "坂道AKB",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "collection": "🐺🎀 Birthday Month Daily Song Stream Day3 - Rurufu Yozuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=11",
   "source": "bv1qa9jb6eaw.js"
@@ -328,7 +328,7 @@ window.SONG_DATA.push(
     {
   "title": "風に吹かれても",
   "artist": "欅坂46",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "collection": "🐺🎀 Birthday Month Daily Song Stream Day3 - Rurufu Yozuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=12",
   "source": "bv1qa9jb6eaw.js"
@@ -336,7 +336,7 @@ window.SONG_DATA.push(
     {
   "title": "アンビバレント",
   "artist": "欅坂46",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "collection": "🐺🎀 Birthday Month Daily Song Stream Day3 - Rurufu Yozuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=13",
   "source": "bv1qa9jb6eaw.js"
@@ -344,7 +344,7 @@ window.SONG_DATA.push(
     {
   "title": "語るなら未来を...",
   "artist": "欅坂46",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day3 陽月るるふ",
+  "collection": "🐺🎀 Birthday Month Daily Song Stream Day3 - Rurufu Yozuki",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1my9cBSE56?p=14",
   "source": "bv1qa9jb6eaw.js"
@@ -352,7 +352,7 @@ window.SONG_DATA.push(
     {
   "title": "心做し",
   "artist": "蝶々P",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day4 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Karaoke Day4 Hizuki Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbDNBvEsv?p=1",
   "source": "bv1qa9jb6eaw.js"
@@ -360,7 +360,7 @@ window.SONG_DATA.push(
     {
   "title": "clock lock works",
   "artist": "ハチ",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day4 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Karaoke Day4 Hizuki Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbDNBvEsv?p=2",
   "source": "bv1qa9jb6eaw.js"
@@ -368,7 +368,7 @@ window.SONG_DATA.push(
     {
   "title": "rain stops,good-bye",
   "artist": "におP",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day4 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Karaoke Day4 Hizuki Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbDNBvEsv?p=3",
   "source": "bv1qa9jb6eaw.js"
@@ -376,7 +376,7 @@ window.SONG_DATA.push(
     {
   "title": "from Y to Y",
   "artist": "ジミーサムP",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day4 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Karaoke Day4 Hizuki Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbDNBvEsv?p=4",
   "source": "bv1qa9jb6eaw.js"
@@ -384,7 +384,7 @@ window.SONG_DATA.push(
     {
   "title": "アイロニ",
   "artist": "すこっぷ",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day4 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Karaoke Day4 Hizuki Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbDNBvEsv?p=5",
   "source": "bv1qa9jb6eaw.js"
@@ -392,7 +392,7 @@ window.SONG_DATA.push(
     {
   "title": "サリシノハラ",
   "artist": "みきとP",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day4 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Karaoke Day4 Hizuki Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbDNBvEsv?p=6",
   "source": "bv1qa9jb6eaw.js"
@@ -400,7 +400,7 @@ window.SONG_DATA.push(
     {
   "title": "少女レイ",
   "artist": "みきとP",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day4 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Karaoke Day4 Hizuki Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dbDNBvEsv?p=7",
   "source": "bv1qa9jb6eaw.js"
@@ -408,7 +408,7 @@ window.SONG_DATA.push(
     {
   "title": "泡沫サタデーナイト！",
   "artist": "モーニング娘。'16",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
+  "collection": "🐺🎀 Check-in for daily birthday month song stream Day5 Yozora Lulu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EjSSBbEhj?p=1",
   "source": "bv1qa9jb6eaw.js"
@@ -416,7 +416,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
+  "collection": "🐺🎀 Check-in for daily birthday month song stream Day5 Yozora Lulu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EjSSBbEhj?p=2",
   "source": "bv1qa9jb6eaw.js"
@@ -424,7 +424,7 @@ window.SONG_DATA.push(
     {
   "title": "からくりピエロ",
   "artist": "40mP",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
+  "collection": "🐺🎀 Check-in for daily birthday month song stream Day5 Yozora Lulu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EjSSBbEhj?p=3",
   "source": "bv1qa9jb6eaw.js"
@@ -432,7 +432,7 @@ window.SONG_DATA.push(
     {
   "title": "妄想感傷代償連盟",
   "artist": "DECO*27",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
+  "collection": "🐺🎀 Check-in for daily birthday month song stream Day5 Yozora Lulu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EjSSBbEhj?p=4",
   "source": "bv1qa9jb6eaw.js"
@@ -440,7 +440,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れてください",
   "artist": "ヨルシカ",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
+  "collection": "🐺🎀 Check-in for daily birthday month song stream Day5 Yozora Lulu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EjSSBbEhj?p=5",
   "source": "bv1qa9jb6eaw.js"
@@ -448,7 +448,7 @@ window.SONG_DATA.push(
     {
   "title": "斜陽",
   "artist": "ヨルシカ",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
+  "collection": "🐺🎀 Check-in for daily birthday month song stream Day5 Yozora Lulu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EjSSBbEhj?p=6",
   "source": "bv1qa9jb6eaw.js"
@@ -456,7 +456,7 @@ window.SONG_DATA.push(
     {
   "title": "それがあなたの幸せとしても",
   "artist": "Heavenz",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
+  "collection": "🐺🎀 Check-in for daily birthday month song stream Day5 Yozora Lulu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EjSSBbEhj?p=7",
   "source": "bv1qa9jb6eaw.js"
@@ -464,7 +464,7 @@ window.SONG_DATA.push(
     {
   "title": "soranji",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day5 陽月るるふ",
+  "collection": "🐺🎀 Check-in for daily birthday month song stream Day5 Yozora Lulu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EjSSBbEhj?p=8",
   "source": "bv1qa9jb6eaw.js"
@@ -472,7 +472,7 @@ window.SONG_DATA.push(
     {
   "title": "ロミオとシンデレラ",
   "artist": "doriko",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "collection": "🐺🎀 Daily song stream for birthday month Day6 - Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=1",
   "source": "bv1qa9jb6eaw.js"
@@ -480,7 +480,7 @@ window.SONG_DATA.push(
     {
   "title": "ブラック★ロックシューター",
   "artist": "supercell",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "collection": "🐺🎀 Daily song stream for birthday month Day6 - Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=2",
   "source": "bv1qa9jb6eaw.js"
@@ -488,7 +488,7 @@ window.SONG_DATA.push(
     {
   "title": "ワールドイズマイン",
   "artist": "supercell",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "collection": "🐺🎀 Daily song stream for birthday month Day6 - Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=3",
   "source": "bv1qa9jb6eaw.js"
@@ -496,7 +496,7 @@ window.SONG_DATA.push(
     {
   "title": "サマータイムレコード",
   "artist": "じん",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "collection": "🐺🎀 Daily song stream for birthday month Day6 - Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=4",
   "source": "bv1qa9jb6eaw.js"
@@ -504,7 +504,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "collection": "🐺🎀 Daily song stream for birthday month Day6 - Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=5",
   "source": "bv1qa9jb6eaw.js"
@@ -512,7 +512,7 @@ window.SONG_DATA.push(
     {
   "title": "プラズマ",
   "artist": "米津玄師",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "collection": "🐺🎀 Daily song stream for birthday month Day6 - Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=6",
   "source": "bv1qa9jb6eaw.js"
@@ -520,7 +520,7 @@ window.SONG_DATA.push(
     {
   "title": "BOW AND ARROW",
   "artist": "米津玄師",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "collection": "🐺🎀 Daily song stream for birthday month Day6 - Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=7",
   "source": "bv1qa9jb6eaw.js"
@@ -528,7 +528,7 @@ window.SONG_DATA.push(
     {
   "title": "メルト",
   "artist": "ryo",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "collection": "🐺🎀 Daily song stream for birthday month Day6 - Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=8",
   "source": "bv1qa9jb6eaw.js"
@@ -536,7 +536,7 @@ window.SONG_DATA.push(
     {
   "title": "メリーゴーランド",
   "artist": "優里",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "collection": "🐺🎀 Daily song stream for birthday month Day6 - Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=9",
   "source": "bv1qa9jb6eaw.js"
@@ -544,7 +544,7 @@ window.SONG_DATA.push(
     {
   "title": "CITRUS",
   "artist": "Da-iCE",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "collection": "🐺🎀 Daily song stream for birthday month Day6 - Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=10",
   "source": "bv1qa9jb6eaw.js"
@@ -552,7 +552,7 @@ window.SONG_DATA.push(
     {
   "title": "才悩人応援歌",
   "artist": "BUMP OF CHIKEN",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "collection": "🐺🎀 Daily song stream for birthday month Day6 - Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=11",
   "source": "bv1qa9jb6eaw.js"
@@ -560,7 +560,7 @@ window.SONG_DATA.push(
     {
   "title": "ギター孤独と蒼い惑星",
   "artist": "結束バンド",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "collection": "🐺🎀 Daily song stream for birthday month Day6 - Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=12",
   "source": "bv1qa9jb6eaw.js"
@@ -568,7 +568,7 @@ window.SONG_DATA.push(
     {
   "title": "あのバンド",
   "artist": "結束バンド",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "collection": "🐺🎀 Daily song stream for birthday month Day6 - Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=13",
   "source": "bv1qa9jb6eaw.js"
@@ -576,7 +576,7 @@ window.SONG_DATA.push(
     {
   "title": "またあした",
   "artist": "ふわりP",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day6 陽月るるふ",
+  "collection": "🐺🎀 Daily song stream for birthday month Day6 - Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gWSRBFES5?p=14",
   "source": "bv1qa9jb6eaw.js"
@@ -584,7 +584,7 @@ window.SONG_DATA.push(
     {
   "title": "again",
   "artist": "YUI",
-  "collection": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
+  "collection": "Live singing 🐺🎀 Check-in for daily birthday month song stream Day7 Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1voDbBeE7P?p=1",
   "source": "bv1qa9jb6eaw.js"
@@ -592,7 +592,7 @@ window.SONG_DATA.push(
     {
   "title": "CHE.R.RY",
   "artist": "YUI",
-  "collection": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
+  "collection": "Live singing 🐺🎀 Check-in for daily birthday month song stream Day7 Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1voDbBeE7P?p=2",
   "source": "bv1qa9jb6eaw.js"
@@ -600,7 +600,7 @@ window.SONG_DATA.push(
     {
   "title": "CInnamon",
   "artist": "YUI",
-  "collection": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
+  "collection": "Live singing 🐺🎀 Check-in for daily birthday month song stream Day7 Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1voDbBeE7P?p=3",
   "source": "bv1qa9jb6eaw.js"
@@ -608,7 +608,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
+  "collection": "Live singing 🐺🎀 Check-in for daily birthday month song stream Day7 Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1voDbBeE7P?p=4",
   "source": "bv1qa9jb6eaw.js"
@@ -616,7 +616,7 @@ window.SONG_DATA.push(
     {
   "title": "夜行",
   "artist": "ヨルシカ",
-  "collection": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
+  "collection": "Live singing 🐺🎀 Check-in for daily birthday month song stream Day7 Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1voDbBeE7P?p=5",
   "source": "bv1qa9jb6eaw.js"
@@ -624,7 +624,7 @@ window.SONG_DATA.push(
     {
   "title": "orion",
   "artist": "米津玄師",
-  "collection": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
+  "collection": "Live singing 🐺🎀 Check-in for daily birthday month song stream Day7 Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1voDbBeE7P?p=6",
   "source": "bv1qa9jb6eaw.js"
@@ -632,7 +632,7 @@ window.SONG_DATA.push(
     {
   "title": "アイネクライネ",
   "artist": "米津玄師",
-  "collection": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
+  "collection": "Live singing 🐺🎀 Check-in for daily birthday month song stream Day7 Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1voDbBeE7P?p=7",
   "source": "bv1qa9jb6eaw.js"
@@ -640,7 +640,7 @@ window.SONG_DATA.push(
     {
   "title": "シャッター",
   "artist": "優里",
-  "collection": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
+  "collection": "Live singing 🐺🎀 Check-in for daily birthday month song stream Day7 Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1voDbBeE7P?p=8",
   "source": "bv1qa9jb6eaw.js"
@@ -648,7 +648,7 @@ window.SONG_DATA.push(
     {
   "title": "メリーゴーランド",
   "artist": "優里",
-  "collection": "弾き語り 🐺🎀 打卡生日月每日歌回 Day7 陽月るるふ",
+  "collection": "Live singing 🐺🎀 Check-in for daily birthday month song stream Day7 Yozuki Ruru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1voDbBeE7P?p=9",
   "source": "bv1qa9jb6eaw.js"
@@ -656,7 +656,7 @@ window.SONG_DATA.push(
     {
   "title": "My Dearest",
   "artist": "supercell",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Karaoke Stream Day8 - Hizuki Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=1",
   "source": "bv1qa9jb6eaw.js"
@@ -664,7 +664,7 @@ window.SONG_DATA.push(
     {
   "title": "初めての恋が終わる時",
   "artist": "supercell",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Karaoke Stream Day8 - Hizuki Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=2",
   "source": "bv1qa9jb6eaw.js"
@@ -672,7 +672,7 @@ window.SONG_DATA.push(
     {
   "title": "星が瞬くこんな夜に",
   "artist": "supercell",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Karaoke Stream Day8 - Hizuki Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=3",
   "source": "bv1qa9jb6eaw.js"
@@ -680,7 +680,7 @@ window.SONG_DATA.push(
     {
   "title": "脳裏上のクラッカー",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Karaoke Stream Day8 - Hizuki Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=4",
   "source": "bv1qa9jb6eaw.js"
@@ -688,7 +688,7 @@ window.SONG_DATA.push(
     {
   "title": "Subtitle",
   "artist": "Official髭男dism",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Karaoke Stream Day8 - Hizuki Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=5",
   "source": "bv1qa9jb6eaw.js"
@@ -696,7 +696,7 @@ window.SONG_DATA.push(
     {
   "title": "プライド革命",
   "artist": "CHiCO with HoneyWorks",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Karaoke Stream Day8 - Hizuki Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=6",
   "source": "bv1qa9jb6eaw.js"
@@ -704,7 +704,7 @@ window.SONG_DATA.push(
     {
   "title": "小悪魔だってかまわない！",
   "artist": "めいちゃん",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Karaoke Stream Day8 - Hizuki Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=7",
   "source": "bv1qa9jb6eaw.js"
@@ -712,7 +712,7 @@ window.SONG_DATA.push(
     {
   "title": "サターン",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Karaoke Stream Day8 - Hizuki Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=8",
   "source": "bv1qa9jb6eaw.js"
@@ -720,7 +720,7 @@ window.SONG_DATA.push(
     {
   "title": "ミカヅキ",
   "artist": "さユリ",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Karaoke Stream Day8 - Hizuki Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=9",
   "source": "bv1qa9jb6eaw.js"
@@ -728,7 +728,7 @@ window.SONG_DATA.push(
     {
   "title": "フォニイ",
   "artist": "ツミキ",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Karaoke Stream Day8 - Hizuki Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=10",
   "source": "bv1qa9jb6eaw.js"
@@ -736,7 +736,7 @@ window.SONG_DATA.push(
     {
   "title": "花になって",
   "artist": "緑黄色社会",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Karaoke Stream Day8 - Hizuki Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=11",
   "source": "bv1qa9jb6eaw.js"
@@ -744,7 +744,7 @@ window.SONG_DATA.push(
     {
   "title": "celluloid",
   "artist": "baker",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Karaoke Stream Day8 - Hizuki Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=12",
   "source": "bv1qa9jb6eaw.js"
@@ -752,7 +752,7 @@ window.SONG_DATA.push(
     {
   "title": "残響散歌",
   "artist": "Aimer",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Karaoke Stream Day8 - Hizuki Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=13",
   "source": "bv1qa9jb6eaw.js"
@@ -760,7 +760,7 @@ window.SONG_DATA.push(
     {
   "title": "天体観測",
   "artist": "BUMP OF CHICKEN",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Karaoke Stream Day8 - Hizuki Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=14",
   "source": "bv1qa9jb6eaw.js"
@@ -768,7 +768,7 @@ window.SONG_DATA.push(
     {
   "title": "またあした",
   "artist": "ふわりP",
-  "collection": "🐺🎀 打卡生日月每日歌回 Day8 陽月るるふ",
+  "collection": "🐺🎀 Daily Birthday Month Karaoke Stream Day8 - Hizuki Rurufu",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19iDzBZEfD?p=15",
   "source": "bv1qa9jb6eaw.js"

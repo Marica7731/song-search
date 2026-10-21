@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 10/21/2026, 7:24:00 AM
+// 生成时间: 10/21/2026, 11:38:49 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8,7 +8,7 @@ window.SONG_DATA.push(
     {
   "title": "ミカヅキ",
   "artist": "さユり",
-  "collection": "翠雨 しの歌切 2026-07-08 音质变得特别好，来听一首歌吧！！",
+  "collection": "Suiu Shino's song clip 2026-07-08 The sound quality is especially good, come listen to a song!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SqNc6eEhW?p=1",
   "source": "suiuishino.js"
@@ -16,7 +16,7 @@ window.SONG_DATA.push(
     {
   "title": "靴の花火",
   "artist": "ヨルシカ",
-  "collection": "翠雨 しの歌切 2026-07-08 音质变得特别好，来听一首歌吧！！",
+  "collection": "Suiu Shino's song clip 2026-07-08 The sound quality is especially good, come listen to a song!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SqNc6eEhW?p=2",
   "source": "suiuishino.js"
@@ -24,7 +24,7 @@ window.SONG_DATA.push(
     {
   "title": "きゅうくらりん",
   "artist": "いよわ feat. 可不",
-  "collection": "翠雨 しの歌切 2026-07-08 音质变得特别好，来听一首歌吧！！",
+  "collection": "Suiu Shino's song clip 2026-07-08 The sound quality is especially good, come listen to a song!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SqNc6eEhW?p=3",
   "source": "suiuishino.js"
@@ -32,7 +32,7 @@ window.SONG_DATA.push(
     {
   "title": "main actor",
   "artist": "美波",
-  "collection": "翠雨 しの歌切 2026-07-08 音质变得特别好，来听一首歌吧！！",
+  "collection": "Suiu Shino's song clip 2026-07-08 The sound quality is especially good, come listen to a song!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SqNc6eEhW?p=4",
   "source": "suiuishino.js"
@@ -40,7 +40,7 @@ window.SONG_DATA.push(
     {
   "title": "メランコリーキッチン",
   "artist": "米津玄師",
-  "collection": "翠雨 しの歌切 2026-07-08 音质变得特别好，来听一首歌吧！！",
+  "collection": "Suiu Shino's song clip 2026-07-08 The sound quality is especially good, come listen to a song!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SqNc6eEhW?p=5",
   "source": "suiuishino.js"
@@ -48,7 +48,7 @@ window.SONG_DATA.push(
     {
   "title": "feel my soul",
   "artist": "YUI",
-  "collection": "翠雨 しの歌切 2026-07-08 音质变得特别好，来听一首歌吧！！",
+  "collection": "Suiu Shino's song clip 2026-07-08 The sound quality is especially good, come listen to a song!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SqNc6eEhW?p=6",
   "source": "suiuishino.js"
@@ -56,7 +56,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れじの言の葉",
   "artist": "未来古代楽団 feat. 安次嶺希和子",
-  "collection": "翠雨 しの歌切 2026-07-08 音质变得特别好，来听一首歌吧！！",
+  "collection": "Suiu Shino's song clip 2026-07-08 The sound quality is especially good, come listen to a song!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SqNc6eEhW?p=7",
   "source": "suiuishino.js"
@@ -64,7 +64,7 @@ window.SONG_DATA.push(
     {
   "title": "IRIS OUT",
   "artist": "米津玄師",
-  "collection": "翠雨 しの歌切 2026-07-08 音质变得特别好，来听一首歌吧！！",
+  "collection": "Suiu Shino's song clip 2026-07-08 The sound quality is especially good, come listen to a song!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SqNc6eEhW?p=8",
   "source": "suiuishino.js"
@@ -72,7 +72,7 @@ window.SONG_DATA.push(
     {
   "title": "真実の詩",
   "artist": "Do As Infinity",
-  "collection": "翠雨 しの歌切 2026-07-08 音质变得特别好，来听一首歌吧！！",
+  "collection": "Suiu Shino's song clip 2026-07-08 The sound quality is especially good, come listen to a song!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SqNc6eEhW?p=9",
   "source": "suiuishino.js"
@@ -80,7 +80,7 @@ window.SONG_DATA.push(
     {
   "title": "Voyage",
   "artist": "浜崎あゆみ",
-  "collection": "翠雨 しの歌切 2026-07-08 音质变得特别好，来听一首歌吧！！",
+  "collection": "Suiu Shino's song clip 2026-07-08 The sound quality is especially good, come listen to a song!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SqNc6eEhW?p=10",
   "source": "suiuishino.js"
@@ -88,7 +88,7 @@ window.SONG_DATA.push(
     {
   "title": "タンデム",
   "artist": "HALCALI",
-  "collection": "翠雨 しの歌切 2026-07-08 音质变得特别好，来听一首歌吧！！",
+  "collection": "Suiu Shino's song clip 2026-07-08 The sound quality is especially good, come listen to a song!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SqNc6eEhW?p=11",
   "source": "suiuishino.js"
@@ -96,7 +96,7 @@ window.SONG_DATA.push(
     {
   "title": "ロミオとシンデレラ",
   "artist": "doriko feat. 初音ミク",
-  "collection": "翠雨 しの歌切 2026-07-08 音质变得特别好，来听一首歌吧！！",
+  "collection": "Suiu Shino's song clip 2026-07-08 The sound quality is especially good, come listen to a song!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SqNc6eEhW?p=12",
   "source": "suiuishino.js"
@@ -104,7 +104,7 @@ window.SONG_DATA.push(
     {
   "title": "くちばしにチェリー",
   "artist": "EGO-WRAPPIN'",
-  "collection": "翠雨 しの歌切 2026-07-08 音质变得特别好，来听一首歌吧！！",
+  "collection": "Suiu Shino's song clip 2026-07-08 The sound quality is especially good, come listen to a song!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SqNc6eEhW?p=13",
   "source": "suiuishino.js"
@@ -112,7 +112,7 @@ window.SONG_DATA.push(
     {
   "title": "ギブス",
   "artist": "椎名林檎",
-  "collection": "翠雨 しの歌切 2026-07-08 音质变得特别好，来听一首歌吧！！",
+  "collection": "Suiu Shino's song clip 2026-07-08 The sound quality is especially good, come listen to a song!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SqNc6eEhW?p=14",
   "source": "suiuishino.js"
@@ -120,7 +120,7 @@ window.SONG_DATA.push(
     {
   "title": "Best Friend",
   "artist": "西野カナ",
-  "collection": "翠雨 しの歌切 2026-07-08 音质变得特别好，来听一首歌吧！！",
+  "collection": "Suiu Shino's song clip 2026-07-08 The sound quality is especially good, come listen to a song!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SqNc6eEhW?p=15",
   "source": "suiuishino.js"
@@ -128,7 +128,7 @@ window.SONG_DATA.push(
     {
   "title": "ft.",
   "artist": "FUNKIST",
-  "collection": "翠雨 しの歌切 2026-07-08 音质变得特别好，来听一首歌吧！！",
+  "collection": "Suiu Shino's song clip 2026-07-08 The sound quality is especially good, come listen to a song!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SqNc6eEhW?p=16",
   "source": "suiuishino.js"
@@ -136,7 +136,7 @@ window.SONG_DATA.push(
     {
   "title": "DAYBREAK FRONTLINE",
   "artist": "Orangestar feat. IA",
-  "collection": "翠雨 しの歌切 2026-07-08 音质变得特别好，来听一首歌吧！！",
+  "collection": "Suiu Shino's song clip 2026-07-08 The sound quality is especially good, come listen to a song!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SqNc6eEhW?p=17",
   "source": "suiuishino.js"
@@ -144,7 +144,7 @@ window.SONG_DATA.push(
     {
   "title": "憂、燦々",
   "artist": "クリープハイプ",
-  "collection": "翠雨 しの歌切 2026-07-08 音质变得特别好，来听一首歌吧！！",
+  "collection": "Suiu Shino's song clip 2026-07-08 The sound quality is especially good, come listen to a song!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SqNc6eEhW?p=18",
   "source": "suiuishino.js"
@@ -152,7 +152,7 @@ window.SONG_DATA.push(
     {
   "title": "フクロウ 〜フクロウが知らせる客が来たと〜",
   "artist": "KOKIA",
-  "collection": "翠雨 しの歌切 2026-07-08 音质变得特别好，来听一首歌吧！！",
+  "collection": "Suiu Shino's song clip 2026-07-08 The sound quality is especially good, come listen to a song!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SqNc6eEhW?p=19",
   "source": "suiuishino.js"
@@ -160,7 +160,7 @@ window.SONG_DATA.push(
     {
   "title": "パレード",
   "artist": "ヨルシカ",
-  "collection": "翠雨 しの歌切 2026-07-08 音质变得特别好，来听一首歌吧！！",
+  "collection": "Suiu Shino's song clip 2026-07-08 The sound quality is especially good, come listen to a song!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SqNc6eEhW?p=20",
   "source": "suiuishino.js"
@@ -168,7 +168,7 @@ window.SONG_DATA.push(
     {
   "title": "ポラリス",
   "artist": "Aimer",
-  "collection": "翠雨 しの歌切 2026-07-08 音质变得特别好，来听一首歌吧！！",
+  "collection": "Suiu Shino's song clip 2026-07-08 The sound quality is especially good, come listen to a song!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SqNc6eEhW?p=21",
   "source": "suiuishino.js"
@@ -176,7 +176,7 @@ window.SONG_DATA.push(
     {
   "title": "六等星",
   "artist": "ざらめ",
-  "collection": "翠雨 しの歌切 2026-07-08 音质变得特别好，来听一首歌吧！！",
+  "collection": "Suiu Shino's song clip 2026-07-08 The sound quality is especially good, come listen to a song!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SqNc6eEhW?p=22",
   "source": "suiuishino.js"
@@ -184,7 +184,7 @@ window.SONG_DATA.push(
     {
   "title": "Departures 〜あなたにおくるアイの歌〜",
   "artist": "EGOIST",
-  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "collection": "Cuiyu Shino's song cut 2026-07-12 Asmr singing stream, sending healing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=1",
   "source": "suiuishino.js"
@@ -192,7 +192,7 @@ window.SONG_DATA.push(
     {
   "title": "カブトムシ",
   "artist": "aiko",
-  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "collection": "Cuiyu Shino's song cut 2026-07-12 Asmr singing stream, sending healing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=2",
   "source": "suiuishino.js"
@@ -200,7 +200,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "ナブナ feat.初音ミク",
-  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "collection": "Cuiyu Shino's song cut 2026-07-12 Asmr singing stream, sending healing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=3",
   "source": "suiuishino.js"
@@ -208,7 +208,7 @@ window.SONG_DATA.push(
     {
   "title": "雫",
   "artist": "スキマスイッチ",
-  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "collection": "Cuiyu Shino's song cut 2026-07-12 Asmr singing stream, sending healing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=4",
   "source": "suiuishino.js"
@@ -216,7 +216,7 @@ window.SONG_DATA.push(
     {
   "title": "変わらないもの",
   "artist": "奥華子",
-  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "collection": "Cuiyu Shino's song cut 2026-07-12 Asmr singing stream, sending healing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=5",
   "source": "suiuishino.js"
@@ -224,7 +224,7 @@ window.SONG_DATA.push(
     {
   "title": "若者のすべて",
   "artist": "フジファブリック",
-  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "collection": "Cuiyu Shino's song cut 2026-07-12 Asmr singing stream, sending healing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=6",
   "source": "suiuishino.js"
@@ -232,7 +232,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "collection": "Cuiyu Shino's song cut 2026-07-12 Asmr singing stream, sending healing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=7",
   "source": "suiuishino.js"
@@ -240,7 +240,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "collection": "Cuiyu Shino's song cut 2026-07-12 Asmr singing stream, sending healing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=8",
   "source": "suiuishino.js"
@@ -248,7 +248,7 @@ window.SONG_DATA.push(
     {
   "title": "ウィアートル",
   "artist": "rionos",
-  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "collection": "Cuiyu Shino's song cut 2026-07-12 Asmr singing stream, sending healing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=9",
   "source": "suiuishino.js"
@@ -256,7 +256,7 @@ window.SONG_DATA.push(
     {
   "title": "楓",
   "artist": "スピッツ",
-  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "collection": "Cuiyu Shino's song cut 2026-07-12 Asmr singing stream, sending healing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=10",
   "source": "suiuishino.js"
@@ -264,7 +264,7 @@ window.SONG_DATA.push(
     {
   "title": "光",
   "artist": "宇多田ヒカル",
-  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "collection": "Cuiyu Shino's song cut 2026-07-12 Asmr singing stream, sending healing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=11",
   "source": "suiuishino.js"
@@ -272,7 +272,7 @@ window.SONG_DATA.push(
     {
   "title": "Stay Alive",
   "artist": "エミリア(CV:高橋李依)",
-  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "collection": "Cuiyu Shino's song cut 2026-07-12 Asmr singing stream, sending healing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=12",
   "source": "suiuishino.js"
@@ -280,7 +280,7 @@ window.SONG_DATA.push(
     {
   "title": "by your side",
   "artist": "小川大輝 feat.初音ミク",
-  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "collection": "Cuiyu Shino's song cut 2026-07-12 Asmr singing stream, sending healing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=13",
   "source": "suiuishino.js"
@@ -288,7 +288,7 @@ window.SONG_DATA.push(
     {
   "title": "相思相愛",
   "artist": "aiko",
-  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "collection": "Cuiyu Shino's song cut 2026-07-12 Asmr singing stream, sending healing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=14",
   "source": "suiuishino.js"
@@ -296,7 +296,7 @@ window.SONG_DATA.push(
     {
   "title": "蜜月アン・ドゥ・トロワ",
   "artist": "DATEKEN feat.鏡音リン",
-  "collection": "翠雨 しの歌切 2026-07-12 助眠歌回，送上疗愈🌙",
+  "collection": "Cuiyu Shino's song cut 2026-07-12 Asmr singing stream, sending healing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C7ND6hExv?p=15",
   "source": "suiuishino.js"
@@ -304,7 +304,7 @@ window.SONG_DATA.push(
     {
   "title": "おつかれSUMMER",
   "artist": "HALCALI",
-  "collection": "翠雨 しの歌切 2026-07-14 因为一下子就到了夏天，所以用清爽歌曲限定来唱歌🫧",
+  "collection": "Green Rain - Shinogiri 2026-07-14 Since summer has arrived all of a sudden, I'll sing a limited selection of refreshing songs 🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEDx?p=1",
   "source": "suiuishino.js"
@@ -312,7 +312,7 @@ window.SONG_DATA.push(
     {
   "title": "グランドエスケープ",
   "artist": "RADWIMPS",
-  "collection": "翠雨 しの歌切 2026-07-14 因为一下子就到了夏天，所以用清爽歌曲限定来唱歌🫧",
+  "collection": "Green Rain - Shinogiri 2026-07-14 Since summer has arrived all of a sudden, I'll sing a limited selection of refreshing songs 🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEDx?p=2",
   "source": "suiuishino.js"
@@ -320,7 +320,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ君に晴れ",
   "artist": "ヨルシカ",
-  "collection": "翠雨 しの歌切 2026-07-14 因为一下子就到了夏天，所以用清爽歌曲限定来唱歌🫧",
+  "collection": "Green Rain - Shinogiri 2026-07-14 Since summer has arrived all of a sudden, I'll sing a limited selection of refreshing songs 🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEDx?p=3",
   "source": "suiuishino.js"
@@ -328,7 +328,7 @@ window.SONG_DATA.push(
     {
   "title": "常緑",
   "artist": "大橋ちっぽけ",
-  "collection": "翠雨 しの歌切 2026-07-14 因为一下子就到了夏天，所以用清爽歌曲限定来唱歌🫧",
+  "collection": "Green Rain - Shinogiri 2026-07-14 Since summer has arrived all of a sudden, I'll sing a limited selection of refreshing songs 🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEDx?p=4",
   "source": "suiuishino.js"
@@ -336,7 +336,7 @@ window.SONG_DATA.push(
     {
   "title": "SUMMER SONG",
   "artist": "YUI",
-  "collection": "翠雨 しの歌切 2026-07-14 因为一下子就到了夏天，所以用清爽歌曲限定来唱歌🫧",
+  "collection": "Green Rain - Shinogiri 2026-07-14 Since summer has arrived all of a sudden, I'll sing a limited selection of refreshing songs 🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEDx?p=5",
   "source": "suiuishino.js"
@@ -344,7 +344,7 @@ window.SONG_DATA.push(
     {
   "title": "青と夏",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "翠雨 しの歌切 2026-07-14 因为一下子就到了夏天，所以用清爽歌曲限定来唱歌🫧",
+  "collection": "Green Rain - Shinogiri 2026-07-14 Since summer has arrived all of a sudden, I'll sing a limited selection of refreshing songs 🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEDx?p=6",
   "source": "suiuishino.js"
@@ -352,7 +352,7 @@ window.SONG_DATA.push(
     {
   "title": "水流のロック",
   "artist": "日食なつこ",
-  "collection": "翠雨 しの歌切 2026-07-14 因为一下子就到了夏天，所以用清爽歌曲限定来唱歌🫧",
+  "collection": "Green Rain - Shinogiri 2026-07-14 Since summer has arrived all of a sudden, I'll sing a limited selection of refreshing songs 🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEDx?p=7",
   "source": "suiuishino.js"
@@ -360,7 +360,7 @@ window.SONG_DATA.push(
     {
   "title": "群青",
   "artist": "YOASOBI",
-  "collection": "翠雨 しの歌切 2026-07-14 因为一下子就到了夏天，所以用清爽歌曲限定来唱歌🫧",
+  "collection": "Green Rain - Shinogiri 2026-07-14 Since summer has arrived all of a sudden, I'll sing a limited selection of refreshing songs 🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEDx?p=8",
   "source": "suiuishino.js"
@@ -368,7 +368,7 @@ window.SONG_DATA.push(
     {
   "title": "さくらんぼ",
   "artist": "大塚愛",
-  "collection": "翠雨 しの歌切 2026-07-14 因为一下子就到了夏天，所以用清爽歌曲限定来唱歌🫧",
+  "collection": "Green Rain - Shinogiri 2026-07-14 Since summer has arrived all of a sudden, I'll sing a limited selection of refreshing songs 🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEDx?p=9",
   "source": "suiuishino.js"
@@ -376,7 +376,7 @@ window.SONG_DATA.push(
     {
   "title": "青のすみか",
   "artist": "キタニタツヤ",
-  "collection": "翠雨 しの歌切 2026-07-14 因为一下子就到了夏天，所以用清爽歌曲限定来唱歌🫧",
+  "collection": "Green Rain - Shinogiri 2026-07-14 Since summer has arrived all of a sudden, I'll sing a limited selection of refreshing songs 🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEDx?p=10",
   "source": "suiuishino.js"
@@ -384,7 +384,7 @@ window.SONG_DATA.push(
     {
   "title": "Henceforth",
   "artist": "Orangestar feat.IA",
-  "collection": "翠雨 しの歌切 2026-07-14 因为一下子就到了夏天，所以用清爽歌曲限定来唱歌🫧",
+  "collection": "Green Rain - Shinogiri 2026-07-14 Since summer has arrived all of a sudden, I'll sing a limited selection of refreshing songs 🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEDx?p=11",
   "source": "suiuishino.js"
@@ -392,7 +392,7 @@ window.SONG_DATA.push(
     {
   "title": "快晴",
   "artist": "Orangestar feat.IA",
-  "collection": "翠雨 しの歌切 2026-07-14 因为一下子就到了夏天，所以用清爽歌曲限定来唱歌🫧",
+  "collection": "Green Rain - Shinogiri 2026-07-14 Since summer has arrived all of a sudden, I'll sing a limited selection of refreshing songs 🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEDx?p=12",
   "source": "suiuishino.js"
@@ -400,7 +400,7 @@ window.SONG_DATA.push(
     {
   "title": "あの夏のいつかは",
   "artist": "*Luna feat.音街ウナ・鏡音レン",
-  "collection": "翠雨 しの歌切 2026-07-14 因为一下子就到了夏天，所以用清爽歌曲限定来唱歌🫧",
+  "collection": "Green Rain - Shinogiri 2026-07-14 Since summer has arrived all of a sudden, I'll sing a limited selection of refreshing songs 🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEDx?p=13",
   "source": "suiuishino.js"
@@ -408,7 +408,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "翠雨 しの歌切 2026-07-14 因为一下子就到了夏天，所以用清爽歌曲限定来唱歌🫧",
+  "collection": "Green Rain - Shinogiri 2026-07-14 Since summer has arrived all of a sudden, I'll sing a limited selection of refreshing songs 🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEDx?p=14",
   "source": "suiuishino.js"
@@ -416,7 +416,7 @@ window.SONG_DATA.push(
     {
   "title": "空も飛べるはず",
   "artist": "スピッツ",
-  "collection": "翠雨 しの歌切 2026-07-14 因为一下子就到了夏天，所以用清爽歌曲限定来唱歌🫧",
+  "collection": "Green Rain - Shinogiri 2026-07-14 Since summer has arrived all of a sudden, I'll sing a limited selection of refreshing songs 🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEDx?p=15",
   "source": "suiuishino.js"
@@ -424,7 +424,7 @@ window.SONG_DATA.push(
     {
   "title": "少女レイ",
   "artist": "みきとP feat.初音ミク",
-  "collection": "翠雨 しの歌切 2026-07-14 因为一下子就到了夏天，所以用清爽歌曲限定来唱歌🫧",
+  "collection": "Green Rain - Shinogiri 2026-07-14 Since summer has arrived all of a sudden, I'll sing a limited selection of refreshing songs 🫧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16DNh6TEDx?p=16",
   "source": "suiuishino.js"
@@ -432,7 +432,7 @@ window.SONG_DATA.push(
     {
   "title": "feel my soul",
   "artist": "YUI",
-  "collection": "【歌切】[2026-07-19]吉他君欢迎回来！弹唱直播复活啦✨ 翠雨 しの",
+  "collection": "【Song Clip】[2026-07-19] Guitar-kun, welcome back! The singing-and-playing stream is revived!✨ Suiu Shino",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UGK466EcS?p=1",
   "source": "suiuishino.js"
@@ -440,7 +440,7 @@ window.SONG_DATA.push(
     {
   "title": "アルジャーノン",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-19]吉他君欢迎回来！弹唱直播复活啦✨ 翠雨 しの",
+  "collection": "【Song Clip】[2026-07-19] Guitar-kun, welcome back! The singing-and-playing stream is revived!✨ Suiu Shino",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UGK466EcS?p=2",
   "source": "suiuishino.js"
@@ -448,7 +448,7 @@ window.SONG_DATA.push(
     {
   "title": "花火",
   "artist": "aiko",
-  "collection": "【歌切】[2026-07-19]吉他君欢迎回来！弹唱直播复活啦✨ 翠雨 しの",
+  "collection": "【Song Clip】[2026-07-19] Guitar-kun, welcome back! The singing-and-playing stream is revived!✨ Suiu Shino",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UGK466EcS?p=3",
   "source": "suiuishino.js"
@@ -456,7 +456,7 @@ window.SONG_DATA.push(
     {
   "title": "flos",
   "artist": "R Sound Design feat.初音ミク",
-  "collection": "【歌切】[2026-07-19]吉他君欢迎回来！弹唱直播复活啦✨ 翠雨 しの",
+  "collection": "【Song Clip】[2026-07-19] Guitar-kun, welcome back! The singing-and-playing stream is revived!✨ Suiu Shino",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UGK466EcS?p=4",
   "source": "suiuishino.js"
@@ -464,7 +464,7 @@ window.SONG_DATA.push(
     {
   "title": "カブトムシ",
   "artist": "aiko",
-  "collection": "【歌切】[2026-07-19]吉他君欢迎回来！弹唱直播复活啦✨ 翠雨 しの",
+  "collection": "【Song Clip】[2026-07-19] Guitar-kun, welcome back! The singing-and-playing stream is revived!✨ Suiu Shino",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UGK466EcS?p=5",
   "source": "suiuishino.js"
@@ -472,7 +472,7 @@ window.SONG_DATA.push(
     {
   "title": "3月9日",
   "artist": "レミオロメン",
-  "collection": "【歌切】[2026-07-19]吉他君欢迎回来！弹唱直播复活啦✨ 翠雨 しの",
+  "collection": "【Song Clip】[2026-07-19] Guitar-kun, welcome back! The singing-and-playing stream is revived!✨ Suiu Shino",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UGK466EcS?p=6",
   "source": "suiuishino.js"
@@ -480,7 +480,7 @@ window.SONG_DATA.push(
     {
   "title": "フクロウ ～フクロウが知らせる客が来たと～",
   "artist": "KOKIA",
-  "collection": "【歌切】[2026-07-19]吉他君欢迎回来！弹唱直播复活啦✨ 翠雨 しの",
+  "collection": "【Song Clip】[2026-07-19] Guitar-kun, welcome back! The singing-and-playing stream is revived!✨ Suiu Shino",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UGK466EcS?p=7",
   "source": "suiuishino.js"
@@ -488,7 +488,7 @@ window.SONG_DATA.push(
     {
   "title": "プラネタリウム",
   "artist": "大塚愛",
-  "collection": "【歌切】[2026-07-19]吉他君欢迎回来！弹唱直播复活啦✨ 翠雨 しの",
+  "collection": "【Song Clip】[2026-07-19] Guitar-kun, welcome back! The singing-and-playing stream is revived!✨ Suiu Shino",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UGK466EcS?p=8",
   "source": "suiuishino.js"
@@ -496,7 +496,7 @@ window.SONG_DATA.push(
     {
   "title": "染まるよ",
   "artist": "チャットモンチー",
-  "collection": "【歌切】[2026-07-19]吉他君欢迎回来！弹唱直播复活啦✨ 翠雨 しの",
+  "collection": "【Song Clip】[2026-07-19] Guitar-kun, welcome back! The singing-and-playing stream is revived!✨ Suiu Shino",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UGK466EcS?p=9",
   "source": "suiuishino.js"
@@ -504,7 +504,7 @@ window.SONG_DATA.push(
     {
   "title": "ワールズエンド・イヴ",
   "artist": "メル",
-  "collection": "【歌切】[2026-07-19]吉他君欢迎回来！弹唱直播复活啦✨ 翠雨 しの",
+  "collection": "【Song Clip】[2026-07-19] Guitar-kun, welcome back! The singing-and-playing stream is revived!✨ Suiu Shino",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UGK466EcS?p=10",
   "source": "suiuishino.js"
@@ -512,7 +512,7 @@ window.SONG_DATA.push(
     {
   "title": "8.8",
   "artist": "あたらよ",
-  "collection": "【歌切】[2026-07-19]吉他君欢迎回来！弹唱直播复活啦✨ 翠雨 しの",
+  "collection": "【Song Clip】[2026-07-19] Guitar-kun, welcome back! The singing-and-playing stream is revived!✨ Suiu Shino",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UGK466EcS?p=11",
   "source": "suiuishino.js"
@@ -520,7 +520,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "コレサワ",
-  "collection": "【歌切】[2026-07-19]吉他君欢迎回来！弹唱直播复活啦✨ 翠雨 しの",
+  "collection": "【Song Clip】[2026-07-19] Guitar-kun, welcome back! The singing-and-playing stream is revived!✨ Suiu Shino",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UGK466EcS?p=12",
   "source": "suiuishino.js"
@@ -528,7 +528,7 @@ window.SONG_DATA.push(
     {
   "title": "チェックのワンピース",
   "artist": "back number",
-  "collection": "【歌切】[2026-07-19]吉他君欢迎回来！弹唱直播复活啦✨ 翠雨 しの",
+  "collection": "【Song Clip】[2026-07-19] Guitar-kun, welcome back! The singing-and-playing stream is revived!✨ Suiu Shino",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UGK466EcS?p=13",
   "source": "suiuishino.js"
@@ -536,7 +536,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-07-19]吉他君欢迎回来！弹唱直播复活啦✨ 翠雨 しの",
+  "collection": "【Song Clip】[2026-07-19] Guitar-kun, welcome back! The singing-and-playing stream is revived!✨ Suiu Shino",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UGK466EcS?p=14",
   "source": "suiuishino.js"
@@ -544,7 +544,7 @@ window.SONG_DATA.push(
     {
   "title": "es. car",
   "artist": "YUI",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=1",
   "source": "suiuishino.js"
@@ -552,7 +552,7 @@ window.SONG_DATA.push(
     {
   "title": "三原色",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=2",
   "source": "suiuishino.js"
@@ -560,7 +560,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛サーキュレーション",
   "artist": "花澤香菜",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=3",
   "source": "suiuishino.js"
@@ -568,7 +568,7 @@ window.SONG_DATA.push(
     {
   "title": "憂、燦々",
   "artist": "クリープハイプ",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=4",
   "source": "suiuishino.js"
@@ -576,7 +576,7 @@ window.SONG_DATA.push(
     {
   "title": "蜜月アン・ドゥ・トロワ",
   "artist": "DATEKEN feat.鏡音リン",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=5",
   "source": "suiuishino.js"
@@ -584,7 +584,7 @@ window.SONG_DATA.push(
     {
   "title": "Pretender",
   "artist": "Official髭男dism",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=6",
   "source": "suiuishino.js"
@@ -592,7 +592,7 @@ window.SONG_DATA.push(
     {
   "title": "残響散歌",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=7",
   "source": "suiuishino.js"
@@ -600,7 +600,7 @@ window.SONG_DATA.push(
     {
   "title": "丸の内サディスティック",
   "artist": "椎名林檎",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=8",
   "source": "suiuishino.js"
@@ -608,7 +608,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーバード",
   "artist": "いきものがかり",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=9",
   "source": "suiuishino.js"
@@ -616,7 +616,7 @@ window.SONG_DATA.push(
     {
   "title": "rain stops, good-bye",
   "artist": "におP feat.初音ミク",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=10",
   "source": "suiuishino.js"
@@ -624,7 +624,7 @@ window.SONG_DATA.push(
     {
   "title": "rain stops, good-bye",
   "artist": "におP feat.初音ミク",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=11",
   "source": "suiuishino.js"
@@ -632,7 +632,7 @@ window.SONG_DATA.push(
     {
   "title": "ベテルギウス",
   "artist": "優里",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=12",
   "source": "suiuishino.js"
@@ -640,7 +640,7 @@ window.SONG_DATA.push(
     {
   "title": "Luna say maybe",
   "artist": "初星学園(月村手毬)",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=13",
   "source": "suiuishino.js"
@@ -648,7 +648,7 @@ window.SONG_DATA.push(
     {
   "title": "1991",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=14",
   "source": "suiuishino.js"
@@ -656,7 +656,7 @@ window.SONG_DATA.push(
     {
   "title": "青春コンプレックス",
   "artist": "結束バンド",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=15",
   "source": "suiuishino.js"
@@ -664,7 +664,7 @@ window.SONG_DATA.push(
     {
   "title": "エウテルペ",
   "artist": "EGOIST",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=16",
   "source": "suiuishino.js"
@@ -672,7 +672,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピーシンセサイザ",
   "artist": "EasyPop feat.巡音ルカ・GUMI",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=17",
   "source": "suiuishino.js"
@@ -680,7 +680,7 @@ window.SONG_DATA.push(
     {
   "title": "空に歌えば",
   "artist": "amazarashi",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=18",
   "source": "suiuishino.js"
@@ -688,7 +688,7 @@ window.SONG_DATA.push(
     {
   "title": "Catch the Moment",
   "artist": "LiSA",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=19",
   "source": "suiuishino.js"
@@ -696,7 +696,7 @@ window.SONG_DATA.push(
     {
   "title": "またねがあれば",
   "artist": "risou",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=20",
   "source": "suiuishino.js"
@@ -704,7 +704,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=21",
   "source": "suiuishino.js"
@@ -712,7 +712,7 @@ window.SONG_DATA.push(
     {
   "title": "水流のロック",
   "artist": "日食なつこ",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=22",
   "source": "suiuishino.js"
@@ -720,7 +720,7 @@ window.SONG_DATA.push(
     {
   "title": "アポリア",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-23]欢迎点歌的歌回✨",
+  "collection": "【Singing Clip】[2026-07-23] Welcome to a song-requesting singing stream ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WC3L6EEaJ?p=23",
   "source": "suiuishino.js"
@@ -728,7 +728,7 @@ window.SONG_DATA.push(
     {
   "title": "太陽",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=1",
   "source": "suiuishino.js"
@@ -736,7 +736,7 @@ window.SONG_DATA.push(
     {
   "title": "アルジャーノン",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=2",
   "source": "suiuishino.js"
@@ -744,7 +744,7 @@ window.SONG_DATA.push(
     {
   "title": "ちゃんとあるよ",
   "artist": "傘村トータ",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=3",
   "source": "suiuishino.js"
@@ -752,7 +752,7 @@ window.SONG_DATA.push(
     {
   "title": "君の体温",
   "artist": "クワガタP",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=4",
   "source": "suiuishino.js"
@@ -760,7 +760,7 @@ window.SONG_DATA.push(
     {
   "title": "ハロ/ハワユ",
   "artist": "ナノウ(ほえほえP)",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=5",
   "source": "suiuishino.js"
@@ -768,7 +768,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=6",
   "source": "suiuishino.js"
@@ -776,7 +776,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピーエンド",
   "artist": "back number",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=7",
   "source": "suiuishino.js"
@@ -784,7 +784,7 @@ window.SONG_DATA.push(
     {
   "title": "DAYBREAK FRONTLINE",
   "artist": "Orangestar",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=8",
   "source": "suiuishino.js"
@@ -792,7 +792,7 @@ window.SONG_DATA.push(
     {
   "title": "深い森",
   "artist": "Do As Infinity",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=9",
   "source": "suiuishino.js"
@@ -800,7 +800,7 @@ window.SONG_DATA.push(
     {
   "title": "鱗",
   "artist": "秦基博",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=10",
   "source": "suiuishino.js"
@@ -808,7 +808,7 @@ window.SONG_DATA.push(
     {
   "title": "フクロウ~フクロウが知らせる客が来たと〜",
   "artist": "KOKIA",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=11",
   "source": "suiuishino.js"
@@ -816,7 +816,7 @@ window.SONG_DATA.push(
     {
   "title": "いつも何度でも",
   "artist": "木村弓",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=12",
   "source": "suiuishino.js"
@@ -824,7 +824,7 @@ window.SONG_DATA.push(
     {
   "title": "靴の花火",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=13",
   "source": "suiuishino.js"
@@ -832,7 +832,7 @@ window.SONG_DATA.push(
     {
   "title": "Prologue",
   "artist": "美波",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=14",
   "source": "suiuishino.js"
@@ -840,7 +840,7 @@ window.SONG_DATA.push(
     {
   "title": "風を食む",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=15",
   "source": "suiuishino.js"
@@ -848,7 +848,7 @@ window.SONG_DATA.push(
     {
   "title": "Dear",
   "artist": "19's Sound Factory feat.初音ミク",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=16",
   "source": "suiuishino.js"
@@ -856,7 +856,7 @@ window.SONG_DATA.push(
     {
   "title": "unravel",
   "artist": "TK from 凛として時雨",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=17",
   "source": "suiuishino.js"
@@ -864,7 +864,7 @@ window.SONG_DATA.push(
     {
   "title": "季節は次々死んでいく",
   "artist": "amazarashi",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=18",
   "source": "suiuishino.js"
@@ -872,7 +872,7 @@ window.SONG_DATA.push(
     {
   "title": "炎",
   "artist": "LiSA",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=19",
   "source": "suiuishino.js"
@@ -880,7 +880,7 @@ window.SONG_DATA.push(
     {
   "title": "コイスルオトメ",
   "artist": "いきものがかり",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=20",
   "source": "suiuishino.js"
@@ -888,7 +888,7 @@ window.SONG_DATA.push(
     {
   "title": "恋人失格",
   "artist": "コレサワ",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=21",
   "source": "suiuishino.js"
@@ -896,7 +896,7 @@ window.SONG_DATA.push(
     {
   "title": "三年間",
   "artist": "risou",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=22",
   "source": "suiuishino.js"
@@ -904,7 +904,7 @@ window.SONG_DATA.push(
     {
   "title": "またねがあれば",
   "artist": "risou",
-  "collection": "【歌切】[2026-07-26]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-07-26] Sunday Regular Live Stream!! Goodnight Sing-along🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV136gf6jE8x?p=23",
   "source": "suiuishino.js"
@@ -912,7 +912,7 @@ window.SONG_DATA.push(
     {
   "title": "Planetes",
   "artist": "EGOIST",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=1",
   "source": "suiuishino.js"
@@ -920,7 +920,7 @@ window.SONG_DATA.push(
     {
   "title": "Rolling star",
   "artist": "YUI",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=2",
   "source": "suiuishino.js"
@@ -928,7 +928,7 @@ window.SONG_DATA.push(
     {
   "title": "藍二乗",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=3",
   "source": "suiuishino.js"
@@ -936,7 +936,7 @@ window.SONG_DATA.push(
     {
   "title": "アサガオの散る頃に",
   "artist": "じっぷす",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=4",
   "source": "suiuishino.js"
@@ -944,7 +944,7 @@ window.SONG_DATA.push(
     {
   "title": "花火",
   "artist": "aiko",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=5",
   "source": "suiuishino.js"
@@ -952,7 +952,7 @@ window.SONG_DATA.push(
     {
   "title": "曖昧劣情Lover",
   "artist": "電ポルP feat.flower",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=6",
   "source": "suiuishino.js"
@@ -960,7 +960,7 @@ window.SONG_DATA.push(
     {
   "title": "憂、燦々",
   "artist": "クリープハイプ",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=7",
   "source": "suiuishino.js"
@@ -968,7 +968,7 @@ window.SONG_DATA.push(
     {
   "title": "ルーマー",
   "artist": "ポリスピカデリー",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=8",
   "source": "suiuishino.js"
@@ -976,7 +976,7 @@ window.SONG_DATA.push(
     {
   "title": "美しい鰭",
   "artist": "スピッツ",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=9",
   "source": "suiuishino.js"
@@ -984,7 +984,7 @@ window.SONG_DATA.push(
     {
   "title": "霽れを待つ",
   "artist": "Orangestar feat.初音ミク",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=10",
   "source": "suiuishino.js"
@@ -992,7 +992,7 @@ window.SONG_DATA.push(
     {
   "title": "コネクト",
   "artist": "ClariS",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=11",
   "source": "suiuishino.js"
@@ -1000,7 +1000,7 @@ window.SONG_DATA.push(
     {
   "title": "拝啓、少年よ",
   "artist": "Hump Back",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=12",
   "source": "suiuishino.js"
@@ -1008,7 +1008,7 @@ window.SONG_DATA.push(
     {
   "title": "あくあ色ぱれっと",
   "artist": "湊あくあ",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=13",
   "source": "suiuishino.js"
@@ -1016,7 +1016,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "美波",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=14",
   "source": "suiuishino.js"
@@ -1024,7 +1024,7 @@ window.SONG_DATA.push(
     {
   "title": "夜に駆ける",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=15",
   "source": "suiuishino.js"
@@ -1032,7 +1032,7 @@ window.SONG_DATA.push(
     {
   "title": "おやすみ泣き声、さよなら歌姫",
   "artist": "クリープハイプ",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=16",
   "source": "suiuishino.js"
@@ -1040,7 +1040,7 @@ window.SONG_DATA.push(
     {
   "title": "ウィアートル",
   "artist": "rionos",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=17",
   "source": "suiuishino.js"
@@ -1048,7 +1048,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れじの言の葉",
   "artist": "未来古代楽団",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=18",
   "source": "suiuishino.js"
@@ -1056,7 +1056,7 @@ window.SONG_DATA.push(
     {
   "title": "嘘月",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=19",
   "source": "suiuishino.js"
@@ -1064,7 +1064,7 @@ window.SONG_DATA.push(
     {
   "title": "花の塔",
   "artist": "さユり",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=20",
   "source": "suiuishino.js"
@@ -1072,7 +1072,7 @@ window.SONG_DATA.push(
     {
   "title": "蜜月アン・ドゥ・トロワ",
   "artist": "DATEKEN feat.鏡音リン",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=21",
   "source": "suiuishino.js"
@@ -1080,7 +1080,7 @@ window.SONG_DATA.push(
     {
   "title": "パレード",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=22",
   "source": "suiuishino.js"
@@ -1088,7 +1088,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-27]1.5小时不间断歌回♪",
+  "collection": "【Singing Clip】[2026-07-27] 1.5-hour non-stop singing stream♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12C366sEzG?p=23",
   "source": "suiuishino.js"
@@ -1096,7 +1096,7 @@ window.SONG_DATA.push(
     {
   "title": "太陽",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "collection": "【Song Cut】[2026-07-31] Only 1-hour surprise live stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=1",
   "source": "suiuishino.js"
@@ -1104,7 +1104,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "collection": "【Song Cut】[2026-07-31] Only 1-hour surprise live stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=2",
   "source": "suiuishino.js"
@@ -1112,7 +1112,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON",
-  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "collection": "【Song Cut】[2026-07-31] Only 1-hour surprise live stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=3",
   "source": "suiuishino.js"
@@ -1120,7 +1120,7 @@ window.SONG_DATA.push(
     {
   "title": "遥か彼方",
   "artist": "ASIAN KUNG-FU GENERATION",
-  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "collection": "【Song Cut】[2026-07-31] Only 1-hour surprise live stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=4",
   "source": "suiuishino.js"
@@ -1128,7 +1128,7 @@ window.SONG_DATA.push(
     {
   "title": "Calc.",
   "artist": "ジミーサムP feat.初音ミク",
-  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "collection": "【Song Cut】[2026-07-31] Only 1-hour surprise live stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=5",
   "source": "suiuishino.js"
@@ -1136,7 +1136,7 @@ window.SONG_DATA.push(
     {
   "title": "SUMMER SONG",
   "artist": "YUI",
-  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "collection": "【Song Cut】[2026-07-31] Only 1-hour surprise live stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=6",
   "source": "suiuishino.js"
@@ -1144,7 +1144,7 @@ window.SONG_DATA.push(
     {
   "title": "疾走",
   "artist": "LAST ALLIANCE",
-  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "collection": "【Song Cut】[2026-07-31] Only 1-hour surprise live stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=7",
   "source": "suiuishino.js"
@@ -1152,7 +1152,7 @@ window.SONG_DATA.push(
     {
   "title": "うるわしきひと",
   "artist": "いきものがかり",
-  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "collection": "【Song Cut】[2026-07-31] Only 1-hour surprise live stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=8",
   "source": "suiuishino.js"
@@ -1160,7 +1160,7 @@ window.SONG_DATA.push(
     {
   "title": "貴方の恋人になりたいのです",
   "artist": "阿部真央",
-  "collection": "【歌切】[2026-07-31]仅1小时的突袭直播♪",
+  "collection": "【Song Cut】[2026-07-31] Only 1-hour surprise live stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MG3U6UEZA?p=9",
   "source": "suiuishino.js"
@@ -1168,7 +1168,7 @@ window.SONG_DATA.push(
     {
   "title": "わたがし",
   "artist": "back number",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-01] Midday Healing Sing-along ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=1",
   "source": "suiuishino.js"
@@ -1176,7 +1176,7 @@ window.SONG_DATA.push(
     {
   "title": "マリーゴールド",
   "artist": "あいみょん",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-01] Midday Healing Sing-along ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=2",
   "source": "suiuishino.js"
@@ -1184,7 +1184,7 @@ window.SONG_DATA.push(
     {
   "title": "オレンジ",
   "artist": "トーマ feat.初音ミク",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-01] Midday Healing Sing-along ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=3",
   "source": "suiuishino.js"
@@ -1192,7 +1192,7 @@ window.SONG_DATA.push(
     {
   "title": "ぷんぷん",
   "artist": "コレサワ",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-01] Midday Healing Sing-along ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=4",
   "source": "suiuishino.js"
@@ -1200,7 +1200,7 @@ window.SONG_DATA.push(
     {
   "title": "花火",
   "artist": "aiko",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-01] Midday Healing Sing-along ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=5",
   "source": "suiuishino.js"
@@ -1208,7 +1208,7 @@ window.SONG_DATA.push(
     {
   "title": "おつかれSUMMER",
   "artist": "HALCALI",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-01] Midday Healing Sing-along ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=6",
   "source": "suiuishino.js"
@@ -1216,7 +1216,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーアンビエンス (feat. asmi)",
   "artist": "Mrs. GREEN APPLE feat.asmi",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-01] Midday Healing Sing-along ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=7",
   "source": "suiuishino.js"
@@ -1224,7 +1224,7 @@ window.SONG_DATA.push(
     {
   "title": "again",
   "artist": "YUI",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-01] Midday Healing Sing-along ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=8",
   "source": "suiuishino.js"
@@ -1232,7 +1232,7 @@ window.SONG_DATA.push(
     {
   "title": "打上花火",
   "artist": "DAOKO × 米津玄師",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-01] Midday Healing Sing-along ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=9",
   "source": "suiuishino.js"
@@ -1240,7 +1240,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-01] Midday Healing Sing-along ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=10",
   "source": "suiuishino.js"
@@ -1248,7 +1248,7 @@ window.SONG_DATA.push(
     {
   "title": "スター",
   "artist": "aiko",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-01] Midday Healing Sing-along ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=11",
   "source": "suiuishino.js"
@@ -1256,7 +1256,7 @@ window.SONG_DATA.push(
     {
   "title": "歌舞伎町の女王",
   "artist": "椎名林檎",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-01] Midday Healing Sing-along ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=12",
   "source": "suiuishino.js"
@@ -1264,7 +1264,7 @@ window.SONG_DATA.push(
     {
   "title": "憂、燦々",
   "artist": "クリープハイプ",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-01] Midday Healing Sing-along ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=13",
   "source": "suiuishino.js"
@@ -1272,7 +1272,7 @@ window.SONG_DATA.push(
     {
   "title": "エルマ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-01]中午的治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-01] Midday Healing Sing-along ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UE9q?p=14",
   "source": "suiuishino.js"
@@ -1280,7 +1280,7 @@ window.SONG_DATA.push(
     {
   "title": "カブトムシ",
   "artist": "aiko",
-  "collection": "【歌切】[2026-08-02]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-02] Sunday Regular Live Stream!! Good Night Singing and Playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEMi?p=1",
   "source": "suiuishino.js"
@@ -1288,7 +1288,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-02]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-02] Sunday Regular Live Stream!! Good Night Singing and Playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEMi?p=2",
   "source": "suiuishino.js"
@@ -1296,7 +1296,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "【歌切】[2026-08-02]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-02] Sunday Regular Live Stream!! Good Night Singing and Playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEMi?p=3",
   "source": "suiuishino.js"
@@ -1304,7 +1304,7 @@ window.SONG_DATA.push(
     {
   "title": "若者のすべて",
   "artist": "フジファブリック",
-  "collection": "【歌切】[2026-08-02]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-02] Sunday Regular Live Stream!! Good Night Singing and Playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEMi?p=4",
   "source": "suiuishino.js"
@@ -1312,7 +1312,7 @@ window.SONG_DATA.push(
     {
   "title": "深海少女",
   "artist": "ゆうゆ feat.初音ミク",
-  "collection": "【歌切】[2026-08-02]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-02] Sunday Regular Live Stream!! Good Night Singing and Playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEMi?p=5",
   "source": "suiuishino.js"
@@ -1320,7 +1320,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら",
   "artist": "結束バンド",
-  "collection": "【歌切】[2026-08-02]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-02] Sunday Regular Live Stream!! Good Night Singing and Playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEMi?p=6",
   "source": "suiuishino.js"
@@ -1328,7 +1328,7 @@ window.SONG_DATA.push(
     {
   "title": "空想フォレスト",
   "artist": "じん feat.IA",
-  "collection": "【歌切】[2026-08-02]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-02] Sunday Regular Live Stream!! Good Night Singing and Playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEMi?p=7",
   "source": "suiuishino.js"
@@ -1336,7 +1336,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna feat.初音ミク",
-  "collection": "【歌切】[2026-08-02]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-02] Sunday Regular Live Stream!! Good Night Singing and Playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEMi?p=8",
   "source": "suiuishino.js"
@@ -1344,7 +1344,7 @@ window.SONG_DATA.push(
     {
   "title": "君をのせて",
   "artist": "井上あずみ",
-  "collection": "【歌切】[2026-08-02]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-02] Sunday Regular Live Stream!! Good Night Singing and Playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEMi?p=9",
   "source": "suiuishino.js"
@@ -1352,7 +1352,7 @@ window.SONG_DATA.push(
     {
   "title": "スターライト",
   "artist": "amazarashi",
-  "collection": "【歌切】[2026-08-02]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-02] Sunday Regular Live Stream!! Good Night Singing and Playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEMi?p=10",
   "source": "suiuishino.js"
@@ -1360,7 +1360,7 @@ window.SONG_DATA.push(
     {
   "title": "アスノヨゾラ哨戒班",
   "artist": "Orangestar feat.IA",
-  "collection": "【歌切】[2026-08-02]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-02] Sunday Regular Live Stream!! Good Night Singing and Playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEMi?p=11",
   "source": "suiuishino.js"
@@ -1368,7 +1368,7 @@ window.SONG_DATA.push(
     {
   "title": "藍二乗",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-02]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-02] Sunday Regular Live Stream!! Good Night Singing and Playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEMi?p=12",
   "source": "suiuishino.js"
@@ -1376,7 +1376,7 @@ window.SONG_DATA.push(
     {
   "title": "あなたの夜が明けるまで",
   "artist": "傘村トータ feat.IA&Fukase",
-  "collection": "【歌切】[2026-08-02]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-02] Sunday Regular Live Stream!! Good Night Singing and Playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEMi?p=13",
   "source": "suiuishino.js"
@@ -1384,7 +1384,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れてください",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-02]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-02] Sunday Regular Live Stream!! Good Night Singing and Playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEMi?p=14",
   "source": "suiuishino.js"
@@ -1392,7 +1392,7 @@ window.SONG_DATA.push(
     {
   "title": "波に名前をつけること、僕らの呼吸に終わりがあること。",
   "artist": "こんにちは谷田さん feat.初音ミク",
-  "collection": "【歌切】[2026-08-02]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-02] Sunday Regular Live Stream!! Good Night Singing and Playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEMi?p=15",
   "source": "suiuishino.js"
@@ -1400,7 +1400,7 @@ window.SONG_DATA.push(
     {
   "title": "SUMMER SONG",
   "artist": "YUI",
-  "collection": "【歌切】[2026-08-02]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-02] Sunday Regular Live Stream!! Good Night Singing and Playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEMi?p=16",
   "source": "suiuishino.js"
@@ -1408,7 +1408,7 @@ window.SONG_DATA.push(
     {
   "title": "Planetes",
   "artist": "EGOIST",
-  "collection": "【歌切】[2026-08-02]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-02] Sunday Regular Live Stream!! Good Night Singing and Playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEMi?p=17",
   "source": "suiuishino.js"
@@ -1416,7 +1416,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "コレサワ",
-  "collection": "【歌切】[2026-08-02]星期日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-02] Sunday Regular Live Stream!! Good Night Singing and Playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XMZ6hEMi?p=18",
   "source": "suiuishino.js"
@@ -1424,7 +1424,7 @@ window.SONG_DATA.push(
     {
   "title": "わたがし",
   "artist": "back number",
-  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "collection": "【Song Clip】[2026-08-06] Male-themed singing stream, singing with a cool vibe ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=1",
   "source": "suiuishino.js"
@@ -1432,7 +1432,7 @@ window.SONG_DATA.push(
     {
   "title": "インフェルノ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "collection": "【Song Clip】[2026-08-06] Male-themed singing stream, singing with a cool vibe ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=2",
   "source": "suiuishino.js"
@@ -1440,7 +1440,7 @@ window.SONG_DATA.push(
     {
   "title": "Overdose",
   "artist": "なとり",
-  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "collection": "【Song Clip】[2026-08-06] Male-themed singing stream, singing with a cool vibe ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=3",
   "source": "suiuishino.js"
@@ -1448,7 +1448,7 @@ window.SONG_DATA.push(
     {
   "title": "プロポーズ",
   "artist": "なとり",
-  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "collection": "【Song Clip】[2026-08-06] Male-themed singing stream, singing with a cool vibe ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=4",
   "source": "suiuishino.js"
@@ -1456,7 +1456,7 @@ window.SONG_DATA.push(
     {
   "title": "ふたりごと",
   "artist": "RADWIMPS",
-  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "collection": "【Song Clip】[2026-08-06] Male-themed singing stream, singing with a cool vibe ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=5",
   "source": "suiuishino.js"
@@ -1464,7 +1464,7 @@ window.SONG_DATA.push(
     {
   "title": "雫",
   "artist": "スキマスイッチ",
-  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "collection": "【Song Clip】[2026-08-06] Male-themed singing stream, singing with a cool vibe ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=6",
   "source": "suiuishino.js"
@@ -1472,7 +1472,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "collection": "【Song Clip】[2026-08-06] Male-themed singing stream, singing with a cool vibe ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=7",
   "source": "suiuishino.js"
@@ -1480,7 +1480,7 @@ window.SONG_DATA.push(
     {
   "title": "1991",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "collection": "【Song Clip】[2026-08-06] Male-themed singing stream, singing with a cool vibe ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=8",
   "source": "suiuishino.js"
@@ -1488,7 +1488,7 @@ window.SONG_DATA.push(
     {
   "title": "魔法の絨毯",
   "artist": "川崎鷹也",
-  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "collection": "【Song Clip】[2026-08-06] Male-themed singing stream, singing with a cool vibe ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=9",
   "source": "suiuishino.js"
@@ -1496,7 +1496,7 @@ window.SONG_DATA.push(
     {
   "title": "ツキミソウ",
   "artist": "Novelbright",
-  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "collection": "【Song Clip】[2026-08-06] Male-themed singing stream, singing with a cool vibe ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=10",
   "source": "suiuishino.js"
@@ -1504,7 +1504,7 @@ window.SONG_DATA.push(
     {
   "title": "lulu.",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "collection": "【Song Clip】[2026-08-06] Male-themed singing stream, singing with a cool vibe ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=11",
   "source": "suiuishino.js"
@@ -1512,7 +1512,7 @@ window.SONG_DATA.push(
     {
   "title": "アカシア",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "collection": "【Song Clip】[2026-08-06] Male-themed singing stream, singing with a cool vibe ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=12",
   "source": "suiuishino.js"
@@ -1520,7 +1520,7 @@ window.SONG_DATA.push(
     {
   "title": "真赤",
   "artist": "My Hair is Bad",
-  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "collection": "【Song Clip】[2026-08-06] Male-themed singing stream, singing with a cool vibe ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=13",
   "source": "suiuishino.js"
@@ -1528,7 +1528,7 @@ window.SONG_DATA.push(
     {
   "title": "若者のすべて",
   "artist": "フジファブリック",
-  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "collection": "【Song Clip】[2026-08-06] Male-themed singing stream, singing with a cool vibe ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=14",
   "source": "suiuishino.js"
@@ -1536,7 +1536,7 @@ window.SONG_DATA.push(
     {
   "title": "魔法",
   "artist": "古川本舗",
-  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "collection": "【Song Clip】[2026-08-06] Male-themed singing stream, singing with a cool vibe ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=15",
   "source": "suiuishino.js"
@@ -1544,7 +1544,7 @@ window.SONG_DATA.push(
     {
   "title": "Pretender",
   "artist": "Official髭男dism",
-  "collection": "【歌切】[2026-08-06]男性曲主题歌回，唱出帅气感觉✨",
+  "collection": "【Song Clip】[2026-08-06] Male-themed singing stream, singing with a cool vibe ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV12WuL65EMg?p=16",
   "source": "suiuishino.js"
@@ -1552,7 +1552,7 @@ window.SONG_DATA.push(
     {
   "title": "千鳥",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-12] Midday Healing Vocal and Instrumental Performance ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=1",
   "source": "suiuishino.js"
@@ -1560,7 +1560,7 @@ window.SONG_DATA.push(
     {
   "title": "メトロノーム",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-12] Midday Healing Vocal and Instrumental Performance ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=2",
   "source": "suiuishino.js"
@@ -1568,7 +1568,7 @@ window.SONG_DATA.push(
     {
   "title": "さよなら、花泥棒さん",
   "artist": "メル feat.初音ミク",
-  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-12] Midday Healing Vocal and Instrumental Performance ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=3",
   "source": "suiuishino.js"
@@ -1576,7 +1576,7 @@ window.SONG_DATA.push(
     {
   "title": "雨き声残響",
   "artist": "Orangestar feat.IA",
-  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-12] Midday Healing Vocal and Instrumental Performance ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=4",
   "source": "suiuishino.js"
@@ -1584,7 +1584,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-12] Midday Healing Vocal and Instrumental Performance ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=5",
   "source": "suiuishino.js"
@@ -1592,7 +1592,7 @@ window.SONG_DATA.push(
     {
   "title": "SEVENTH HEAVEN",
   "artist": "Perfume",
-  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-12] Midday Healing Vocal and Instrumental Performance ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=6",
   "source": "suiuishino.js"
@@ -1600,7 +1600,7 @@ window.SONG_DATA.push(
     {
   "title": "JANE DOE",
   "artist": "米津玄師, 宇多田ヒカル",
-  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-12] Midday Healing Vocal and Instrumental Performance ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=7",
   "source": "suiuishino.js"
@@ -1608,7 +1608,7 @@ window.SONG_DATA.push(
     {
   "title": "8.8",
   "artist": "あたらよ",
-  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-12] Midday Healing Vocal and Instrumental Performance ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=8",
   "source": "suiuishino.js"
@@ -1616,7 +1616,7 @@ window.SONG_DATA.push(
     {
   "title": "夏霞",
   "artist": "あたらよ",
-  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-12] Midday Healing Vocal and Instrumental Performance ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=9",
   "source": "suiuishino.js"
@@ -1624,7 +1624,7 @@ window.SONG_DATA.push(
     {
   "title": "背景、夏に溺れる",
   "artist": "n-buna feat.初音ミク",
-  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-12] Midday Healing Vocal and Instrumental Performance ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=10",
   "source": "suiuishino.js"
@@ -1632,7 +1632,7 @@ window.SONG_DATA.push(
     {
   "title": "ヨヒラ",
   "artist": "n-buna feat.初音ミク",
-  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-12] Midday Healing Vocal and Instrumental Performance ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=11",
   "source": "suiuishino.js"
@@ -1640,7 +1640,7 @@ window.SONG_DATA.push(
     {
   "title": "いのちの名前",
   "artist": "木村弓",
-  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-12] Midday Healing Vocal and Instrumental Performance ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=12",
   "source": "suiuishino.js"
@@ -1648,7 +1648,7 @@ window.SONG_DATA.push(
     {
   "title": "All Alone With You",
   "artist": "EGOIST",
-  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-12] Midday Healing Vocal and Instrumental Performance ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=13",
   "source": "suiuishino.js"
@@ -1656,7 +1656,7 @@ window.SONG_DATA.push(
     {
   "title": "水流のロック",
   "artist": "日食なつこ",
-  "collection": "【歌切】[2026-08-12]午间治愈弹唱♪",
+  "collection": "【Song Cut】[2026-08-12] Midday Healing Vocal and Instrumental Performance ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Tgg76dEDt?p=14",
   "source": "suiuishino.js"
@@ -1664,7 +1664,7 @@ window.SONG_DATA.push(
     {
   "title": "きゅうくらりん",
   "artist": "いよわ feat.可不",
-  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "collection": "[Singing Clip] [2026-08-13] Live ticket x5 durability! Singing stream for cute songs only💗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=1",
   "source": "suiuishino.js"
@@ -1672,7 +1672,7 @@ window.SONG_DATA.push(
     {
   "title": "トウキョウ・シャンディ・ランデヴ",
   "artist": "MAISONdes feat.花譜,ツミキ",
-  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "collection": "[Singing Clip] [2026-08-13] Live ticket x5 durability! Singing stream for cute songs only💗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=2",
   "source": "suiuishino.js"
@@ -1680,7 +1680,7 @@ window.SONG_DATA.push(
     {
   "title": "シル・ヴ・プレジデント",
   "artist": "P丸様。",
-  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "collection": "[Singing Clip] [2026-08-13] Live ticket x5 durability! Singing stream for cute songs only💗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=3",
   "source": "suiuishino.js"
@@ -1688,7 +1688,7 @@ window.SONG_DATA.push(
     {
   "title": "世界一可愛い私",
   "artist": "藤田ことね(CV.飯田ヒカル)",
-  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "collection": "[Singing Clip] [2026-08-13] Live ticket x5 durability! Singing stream for cute songs only💗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=4",
   "source": "suiuishino.js"
@@ -1696,7 +1696,7 @@ window.SONG_DATA.push(
     {
   "title": "sweets parade",
   "artist": "髏々宮カルタ(花澤香菜)",
-  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "collection": "[Singing Clip] [2026-08-13] Live ticket x5 durability! Singing stream for cute songs only💗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=5",
   "source": "suiuishino.js"
@@ -1704,7 +1704,7 @@ window.SONG_DATA.push(
     {
   "title": "メランコリック",
   "artist": "Junky feat.鏡音リン",
-  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "collection": "[Singing Clip] [2026-08-13] Live ticket x5 durability! Singing stream for cute songs only💗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=6",
   "source": "suiuishino.js"
@@ -1712,7 +1712,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛サーキュレーション",
   "artist": "千石撫子(花澤香菜)",
-  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "collection": "[Singing Clip] [2026-08-13] Live ticket x5 durability! Singing stream for cute songs only💗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=7",
   "source": "suiuishino.js"
@@ -1720,7 +1720,7 @@ window.SONG_DATA.push(
     {
   "title": "#あくあ色ぱれっと",
   "artist": "湊あくあ",
-  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "collection": "[Singing Clip] [2026-08-13] Live ticket x5 durability! Singing stream for cute songs only💗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=8",
   "source": "suiuishino.js"
@@ -1728,7 +1728,7 @@ window.SONG_DATA.push(
     {
   "title": "ファンサ",
   "artist": "mona(CV:夏川椎菜) feat.HoneyWorks",
-  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "collection": "[Singing Clip] [2026-08-13] Live ticket x5 durability! Singing stream for cute songs only💗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=9",
   "source": "suiuishino.js"
@@ -1736,7 +1736,7 @@ window.SONG_DATA.push(
     {
   "title": "花の塔",
   "artist": "さユり",
-  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "collection": "[Singing Clip] [2026-08-13] Live ticket x5 durability! Singing stream for cute songs only💗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=10",
   "source": "suiuishino.js"
@@ -1744,7 +1744,7 @@ window.SONG_DATA.push(
     {
   "title": "PEACH",
   "artist": "大塚愛",
-  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "collection": "[Singing Clip] [2026-08-13] Live ticket x5 durability! Singing stream for cute songs only💗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=11",
   "source": "suiuishino.js"
@@ -1752,7 +1752,7 @@ window.SONG_DATA.push(
     {
   "title": "ベノム",
   "artist": "かいりきベア feat.flower",
-  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "collection": "[Singing Clip] [2026-08-13] Live ticket x5 durability! Singing stream for cute songs only💗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=12",
   "source": "suiuishino.js"
@@ -1760,7 +1760,7 @@ window.SONG_DATA.push(
     {
   "title": "ワールドイズマイン",
   "artist": "ryo(supercell) feat.初音ミク",
-  "collection": "【歌切】[2026-08-13]Live门票5张耐久！只唱可爱歌曲的歌回💗",
+  "collection": "[Singing Clip] [2026-08-13] Live ticket x5 durability! Singing stream for cute songs only💗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pxbU6DEJM?p=13",
   "source": "suiuishino.js"
@@ -1768,7 +1768,7 @@ window.SONG_DATA.push(
     {
   "title": "アルジャーノン",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-16] Sunday fixed stream! Good night singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=1",
   "source": "suiuishino.js"
@@ -1776,7 +1776,7 @@ window.SONG_DATA.push(
     {
   "title": "雲と幽霊",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-16] Sunday fixed stream! Good night singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=2",
   "source": "suiuishino.js"
@@ -1784,7 +1784,7 @@ window.SONG_DATA.push(
     {
   "title": "回る空うさぎ",
   "artist": "Orangestar feat.初音ミク",
-  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-16] Sunday fixed stream! Good night singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=3",
   "source": "suiuishino.js"
@@ -1792,7 +1792,7 @@ window.SONG_DATA.push(
     {
   "title": "ヘビースモーク",
   "artist": "にしな",
-  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-16] Sunday fixed stream! Good night singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=4",
   "source": "suiuishino.js"
@@ -1800,7 +1800,7 @@ window.SONG_DATA.push(
     {
   "title": "からくりピエロ",
   "artist": "40mP feat.初音ミク",
-  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-16] Sunday fixed stream! Good night singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=5",
   "source": "suiuishino.js"
@@ -1808,7 +1808,7 @@ window.SONG_DATA.push(
     {
   "title": "染まるよ",
   "artist": "チャットモンチー",
-  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-16] Sunday fixed stream! Good night singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=6",
   "source": "suiuishino.js"
@@ -1816,7 +1816,7 @@ window.SONG_DATA.push(
     {
   "title": "Good-bye days",
   "artist": "YUI",
-  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-16] Sunday fixed stream! Good night singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=7",
   "source": "suiuishino.js"
@@ -1824,7 +1824,7 @@ window.SONG_DATA.push(
     {
   "title": "10月無口な君を忘れる",
   "artist": "あたらよ",
-  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-16] Sunday fixed stream! Good night singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=8",
   "source": "suiuishino.js"
@@ -1832,7 +1832,7 @@ window.SONG_DATA.push(
     {
   "title": "貴方の恋人になりたいのです",
   "artist": "阿部真央",
-  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-16] Sunday fixed stream! Good night singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=9",
   "source": "suiuishino.js"
@@ -1840,7 +1840,7 @@ window.SONG_DATA.push(
     {
   "title": "シンデレラボーイ",
   "artist": "Saucy Dog",
-  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-16] Sunday fixed stream! Good night singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=10",
   "source": "suiuishino.js"
@@ -1848,7 +1848,7 @@ window.SONG_DATA.push(
     {
   "title": "爆弾魔",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-16] Sunday fixed stream! Good night singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=11",
   "source": "suiuishino.js"
@@ -1856,7 +1856,7 @@ window.SONG_DATA.push(
     {
   "title": "1991",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-08-16]周日固定直播！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-08-16] Sunday fixed stream! Good night singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Msb86zEW5?p=12",
   "source": "suiuishino.js"
@@ -1864,7 +1864,7 @@ window.SONG_DATA.push(
     {
   "title": "紡ぐ",
   "artist": "とた",
-  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "collection": "【Song Cut】[2026-08-17] 1.5-hour non-stop singing stream! Only sentimental ballads ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=1",
   "source": "suiuishino.js"
@@ -1872,7 +1872,7 @@ window.SONG_DATA.push(
     {
   "title": "Lemon",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "collection": "【Song Cut】[2026-08-17] 1.5-hour non-stop singing stream! Only sentimental ballads ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=2",
   "source": "suiuishino.js"
@@ -1880,7 +1880,7 @@ window.SONG_DATA.push(
     {
   "title": "嘘月",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "collection": "【Song Cut】[2026-08-17] 1.5-hour non-stop singing stream! Only sentimental ballads ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=3",
   "source": "suiuishino.js"
@@ -1888,7 +1888,7 @@ window.SONG_DATA.push(
     {
   "title": "春を待つ",
   "artist": "Islet feat.倚水",
-  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "collection": "【Song Cut】[2026-08-17] 1.5-hour non-stop singing stream! Only sentimental ballads ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=4",
   "source": "suiuishino.js"
@@ -1896,7 +1896,7 @@ window.SONG_DATA.push(
     {
   "title": "嘘つき",
   "artist": "あたらよ",
-  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "collection": "【Song Cut】[2026-08-17] 1.5-hour non-stop singing stream! Only sentimental ballads ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=5",
   "source": "suiuishino.js"
@@ -1904,7 +1904,7 @@ window.SONG_DATA.push(
     {
   "title": "光",
   "artist": "宇多田ヒカル",
-  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "collection": "【Song Cut】[2026-08-17] 1.5-hour non-stop singing stream! Only sentimental ballads ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=6",
   "source": "suiuishino.js"
@@ -1912,7 +1912,7 @@ window.SONG_DATA.push(
     {
   "title": "瞬き",
   "artist": "back number",
-  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "collection": "【Song Cut】[2026-08-17] 1.5-hour non-stop singing stream! Only sentimental ballads ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=7",
   "source": "suiuishino.js"
@@ -1920,7 +1920,7 @@ window.SONG_DATA.push(
     {
   "title": "KissHug",
   "artist": "aiko",
-  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "collection": "【Song Cut】[2026-08-17] 1.5-hour non-stop singing stream! Only sentimental ballads ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=8",
   "source": "suiuishino.js"
@@ -1928,7 +1928,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "コレサワ",
-  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "collection": "【Song Cut】[2026-08-17] 1.5-hour non-stop singing stream! Only sentimental ballads ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=9",
   "source": "suiuishino.js"
@@ -1936,7 +1936,7 @@ window.SONG_DATA.push(
     {
   "title": "夏の半券",
   "artist": "みきとP feat.初音ミク",
-  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "collection": "【Song Cut】[2026-08-17] 1.5-hour non-stop singing stream! Only sentimental ballads ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=10",
   "source": "suiuishino.js"
@@ -1944,7 +1944,7 @@ window.SONG_DATA.push(
     {
   "title": "おやすみ泣き声、さよなら歌姫",
   "artist": "クリープハイプ",
-  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "collection": "【Song Cut】[2026-08-17] 1.5-hour non-stop singing stream! Only sentimental ballads ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=11",
   "source": "suiuishino.js"
@@ -1952,7 +1952,7 @@ window.SONG_DATA.push(
     {
   "title": "SAKURA",
   "artist": "いきものがかり",
-  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "collection": "【Song Cut】[2026-08-17] 1.5-hour non-stop singing stream! Only sentimental ballads ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=12",
   "source": "suiuishino.js"
@@ -1960,7 +1960,7 @@ window.SONG_DATA.push(
     {
   "title": "冬眠",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "collection": "【Song Cut】[2026-08-17] 1.5-hour non-stop singing stream! Only sentimental ballads ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=13",
   "source": "suiuishino.js"
@@ -1968,7 +1968,7 @@ window.SONG_DATA.push(
     {
   "title": "贖罪",
   "artist": "傘村トータ feat.IA,結月ゆかり,初音ミク,Fukase,Ken",
-  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "collection": "【Song Cut】[2026-08-17] 1.5-hour non-stop singing stream! Only sentimental ballads ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=14",
   "source": "suiuishino.js"
@@ -1976,7 +1976,7 @@ window.SONG_DATA.push(
     {
   "title": "奏(かなで)",
   "artist": "スキマスイッチ",
-  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "collection": "【Song Cut】[2026-08-17] 1.5-hour non-stop singing stream! Only sentimental ballads ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=15",
   "source": "suiuishino.js"
@@ -1984,7 +1984,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "collection": "【Song Cut】[2026-08-17] 1.5-hour non-stop singing stream! Only sentimental ballads ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=16",
   "source": "suiuishino.js"
@@ -1992,7 +1992,7 @@ window.SONG_DATA.push(
     {
   "title": "最愛",
   "artist": "福山雅治",
-  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "collection": "【Song Cut】[2026-08-17] 1.5-hour non-stop singing stream! Only sentimental ballads ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=17",
   "source": "suiuishino.js"
@@ -2000,7 +2000,7 @@ window.SONG_DATA.push(
     {
   "title": "夜永唄",
   "artist": "神はサイコロを振らない",
-  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "collection": "【Song Cut】[2026-08-17] 1.5-hour non-stop singing stream! Only sentimental ballads ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=18",
   "source": "suiuishino.js"
@@ -2008,7 +2008,7 @@ window.SONG_DATA.push(
     {
   "title": "ベテルギウス",
   "artist": "優里",
-  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "collection": "【Song Cut】[2026-08-17] 1.5-hour non-stop singing stream! Only sentimental ballads ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=19",
   "source": "suiuishino.js"
@@ -2016,7 +2016,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-08-17]1.5小时不间断歌回！只唱抒情歌♪",
+  "collection": "【Song Cut】[2026-08-17] 1.5-hour non-stop singing stream! Only sentimental ballads ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1m7bq64EfH?p=20",
   "source": "suiuishino.js"
@@ -2024,7 +2024,7 @@ window.SONG_DATA.push(
     {
   "title": "小夜子",
   "artist": "みきとP feat.初音ミク",
-  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "collection": "【Song Cover】[2026-08-18] Midday Healing Sing-Along!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=1",
   "source": "suiuishino.js"
@@ -2032,7 +2032,7 @@ window.SONG_DATA.push(
     {
   "title": "君の体温",
   "artist": "クワガタP feat.初音ミク",
-  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "collection": "【Song Cover】[2026-08-18] Midday Healing Sing-Along!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=2",
   "source": "suiuishino.js"
@@ -2040,7 +2040,7 @@ window.SONG_DATA.push(
     {
   "title": "Stellar Stellar",
   "artist": "星街すいせい",
-  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "collection": "【Song Cover】[2026-08-18] Midday Healing Sing-Along!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=3",
   "source": "suiuishino.js"
@@ -2048,7 +2048,7 @@ window.SONG_DATA.push(
     {
   "title": "グリグリメガネと月光蟲",
   "artist": "古川本舗 feat.初音ミク",
-  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "collection": "【Song Cover】[2026-08-18] Midday Healing Sing-Along!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=4",
   "source": "suiuishino.js"
@@ -2056,7 +2056,7 @@ window.SONG_DATA.push(
     {
   "title": "雪の華",
   "artist": "中島美嘉",
-  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "collection": "【Song Cover】[2026-08-18] Midday Healing Sing-Along!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=5",
   "source": "suiuishino.js"
@@ -2064,7 +2064,7 @@ window.SONG_DATA.push(
     {
   "title": "魔法の絨毯",
   "artist": "川崎鷹也",
-  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "collection": "【Song Cover】[2026-08-18] Midday Healing Sing-Along!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=6",
   "source": "suiuishino.js"
@@ -2072,7 +2072,7 @@ window.SONG_DATA.push(
     {
   "title": "拝啓、少年よ",
   "artist": "Hump Back",
-  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "collection": "【Song Cover】[2026-08-18] Midday Healing Sing-Along!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=7",
   "source": "suiuishino.js"
@@ -2080,7 +2080,7 @@ window.SONG_DATA.push(
     {
   "title": "橙",
   "artist": "チャットモンチー",
-  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "collection": "【Song Cover】[2026-08-18] Midday Healing Sing-Along!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=8",
   "source": "suiuishino.js"
@@ -2088,7 +2088,7 @@ window.SONG_DATA.push(
     {
   "title": "ボーイフレンド",
   "artist": "aiko",
-  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "collection": "【Song Cover】[2026-08-18] Midday Healing Sing-Along!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=9",
   "source": "suiuishino.js"
@@ -2096,7 +2096,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "collection": "【Song Cover】[2026-08-18] Midday Healing Sing-Along!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=10",
   "source": "suiuishino.js"
@@ -2104,7 +2104,7 @@ window.SONG_DATA.push(
     {
   "title": "サリシノハラ",
   "artist": "みきとP feat.初音ミク",
-  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "collection": "【Song Cover】[2026-08-18] Midday Healing Sing-Along!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=11",
   "source": "suiuishino.js"
@@ -2112,7 +2112,7 @@ window.SONG_DATA.push(
     {
   "title": "サマータイムレコード",
   "artist": "じん feat.IA",
-  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "collection": "【Song Cover】[2026-08-18] Midday Healing Sing-Along!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=12",
   "source": "suiuishino.js"
@@ -2120,7 +2120,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら",
   "artist": "結束バンド",
-  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "collection": "【Song Cover】[2026-08-18] Midday Healing Sing-Along!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=13",
   "source": "suiuishino.js"
@@ -2128,7 +2128,7 @@ window.SONG_DATA.push(
     {
   "title": "青春コンプレックス",
   "artist": "結束バンド",
-  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "collection": "【Song Cover】[2026-08-18] Midday Healing Sing-Along!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=14",
   "source": "suiuishino.js"
@@ -2136,7 +2136,7 @@ window.SONG_DATA.push(
     {
   "title": "八月、某、月明かり",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "collection": "【Song Cover】[2026-08-18] Midday Healing Sing-Along!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=15",
   "source": "suiuishino.js"
@@ -2144,7 +2144,7 @@ window.SONG_DATA.push(
     {
   "title": "気まぐれロマンティック",
   "artist": "いきものがかり",
-  "collection": "【歌切】[2026-08-18]午间治愈弹唱！！",
+  "collection": "【Song Cover】[2026-08-18] Midday Healing Sing-Along!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW5?p=16",
   "source": "suiuishino.js"
@@ -2152,7 +2152,7 @@ window.SONG_DATA.push(
     {
   "title": "左右盲",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=1",
   "source": "suiuishino.js"
@@ -2160,7 +2160,7 @@ window.SONG_DATA.push(
     {
   "title": "Good-bye days",
   "artist": "YUI",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=2",
   "source": "suiuishino.js"
@@ -2168,7 +2168,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒカリヘ",
   "artist": "miwa",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=3",
   "source": "suiuishino.js"
@@ -2176,7 +2176,7 @@ window.SONG_DATA.push(
     {
   "title": "夜行",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=4",
   "source": "suiuishino.js"
@@ -2184,7 +2184,7 @@ window.SONG_DATA.push(
     {
   "title": "プラネタリウム",
   "artist": "大塚愛",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=5",
   "source": "suiuishino.js"
@@ -2192,7 +2192,7 @@ window.SONG_DATA.push(
     {
   "title": "メロウ",
   "artist": "須田景凪",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=6",
   "source": "suiuishino.js"
@@ -2200,7 +2200,7 @@ window.SONG_DATA.push(
     {
   "title": "夏のメロウ",
   "artist": "メル feat.初音ミク",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=7",
   "source": "suiuishino.js"
@@ -2208,7 +2208,7 @@ window.SONG_DATA.push(
     {
   "title": "三日月",
   "artist": "絢香",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=8",
   "source": "suiuishino.js"
@@ -2216,7 +2216,7 @@ window.SONG_DATA.push(
     {
   "title": "アルジャーノン",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=9",
   "source": "suiuishino.js"
@@ -2224,7 +2224,7 @@ window.SONG_DATA.push(
     {
   "title": "フクロウ ～フクロウが知らせる客が来たと～",
   "artist": "KOKIA",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=10",
   "source": "suiuishino.js"
@@ -2232,7 +2232,7 @@ window.SONG_DATA.push(
     {
   "title": "六等星",
   "artist": "ざらめ",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=11",
   "source": "suiuishino.js"
@@ -2240,7 +2240,7 @@ window.SONG_DATA.push(
     {
   "title": "夏色",
   "artist": "ゆず",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=12",
   "source": "suiuishino.js"
@@ -2248,7 +2248,7 @@ window.SONG_DATA.push(
     {
   "title": "プロポーズ",
   "artist": "内緒のピアス feat.可不",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=13",
   "source": "suiuishino.js"
@@ -2256,7 +2256,7 @@ window.SONG_DATA.push(
     {
   "title": "雫",
   "artist": "スキマスイッチ",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=14",
   "source": "suiuishino.js"
@@ -2264,7 +2264,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ声一つ",
   "artist": "ロクデナシ",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=15",
   "source": "suiuishino.js"
@@ -2272,7 +2272,7 @@ window.SONG_DATA.push(
     {
   "title": "アメヲマツ、",
   "artist": "美波",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=16",
   "source": "suiuishino.js"
@@ -2280,7 +2280,7 @@ window.SONG_DATA.push(
     {
   "title": "回る空うさぎ",
   "artist": "Orangestar feat.初音ミク",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=17",
   "source": "suiuishino.js"
@@ -2288,7 +2288,7 @@ window.SONG_DATA.push(
     {
   "title": "打上花火",
   "artist": "DAOKO×米津玄師",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=18",
   "source": "suiuishino.js"
@@ -2296,7 +2296,7 @@ window.SONG_DATA.push(
     {
   "title": "テルーの唄",
   "artist": "手嶌葵",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=19",
   "source": "suiuishino.js"
@@ -2304,7 +2304,7 @@ window.SONG_DATA.push(
     {
   "title": "心拍数♯0822",
   "artist": "蝶々P feat.初音ミク",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=20",
   "source": "suiuishino.js"
@@ -2312,7 +2312,7 @@ window.SONG_DATA.push(
     {
   "title": "lulu.",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=21",
   "source": "suiuishino.js"
@@ -2320,7 +2320,7 @@ window.SONG_DATA.push(
     {
   "title": "嘆きのキス",
   "artist": "aiko",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=22",
   "source": "suiuishino.js"
@@ -2328,7 +2328,7 @@ window.SONG_DATA.push(
     {
   "title": "ソワレ",
   "artist": "星街すいせい",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=23",
   "source": "suiuishino.js"
@@ -2336,7 +2336,7 @@ window.SONG_DATA.push(
     {
   "title": "なんでもないや",
   "artist": "RADWIMPS",
-  "collection": "【歌切】[2026-08-23]周日固定直播！！睡前弹唱🌙",
+  "collection": "【Song Clip】[2026-08-23] Sunday Regular Stream!! Bedtime Singing🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HEsE?p=24",
   "source": "suiuishino.js"
@@ -2344,7 +2344,7 @@ window.SONG_DATA.push(
     {
   "title": "言って。",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=1",
   "source": "suiuishino.js"
@@ -2352,7 +2352,7 @@ window.SONG_DATA.push(
     {
   "title": "あの夏に咲け",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=2",
   "source": "suiuishino.js"
@@ -2360,7 +2360,7 @@ window.SONG_DATA.push(
     {
   "title": "靴の花火",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=3",
   "source": "suiuishino.js"
@@ -2368,7 +2368,7 @@ window.SONG_DATA.push(
     {
   "title": "雲と幽霊",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=4",
   "source": "suiuishino.js"
@@ -2376,7 +2376,7 @@ window.SONG_DATA.push(
     {
   "title": "負け犬にアンコールはいらない",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=5",
   "source": "suiuishino.js"
@@ -2384,7 +2384,7 @@ window.SONG_DATA.push(
     {
   "title": "爆弾魔",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=6",
   "source": "suiuishino.js"
@@ -2392,7 +2392,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒッチコック",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=7",
   "source": "suiuishino.js"
@@ -2400,7 +2400,7 @@ window.SONG_DATA.push(
     {
   "title": "準透明少年",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=8",
   "source": "suiuishino.js"
@@ -2408,7 +2408,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ君に晴れ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=9",
   "source": "suiuishino.js"
@@ -2416,7 +2416,7 @@ window.SONG_DATA.push(
     {
   "title": "冬眠",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=10",
   "source": "suiuishino.js"
@@ -2424,7 +2424,7 @@ window.SONG_DATA.push(
     {
   "title": "藍二乗",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=11",
   "source": "suiuishino.js"
@@ -2432,7 +2432,7 @@ window.SONG_DATA.push(
     {
   "title": "パレード",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=12",
   "source": "suiuishino.js"
@@ -2440,7 +2440,7 @@ window.SONG_DATA.push(
     {
   "title": "八月、某、月明かり",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=13",
   "source": "suiuishino.js"
@@ -2448,7 +2448,7 @@ window.SONG_DATA.push(
     {
   "title": "詩書きとコーヒー",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=14",
   "source": "suiuishino.js"
@@ -2456,7 +2456,7 @@ window.SONG_DATA.push(
     {
   "title": "六月は雨上がりの街を書く",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=15",
   "source": "suiuishino.js"
@@ -2464,7 +2464,7 @@ window.SONG_DATA.push(
     {
   "title": "五月は花緑青の窓辺から",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=16",
   "source": "suiuishino.js"
@@ -2472,7 +2472,7 @@ window.SONG_DATA.push(
     {
   "title": "エルマ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=17",
   "source": "suiuishino.js"
@@ -2480,7 +2480,7 @@ window.SONG_DATA.push(
     {
   "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=18",
   "source": "suiuishino.js"
@@ -2488,7 +2488,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=19",
   "source": "suiuishino.js"
@@ -2496,7 +2496,7 @@ window.SONG_DATA.push(
     {
   "title": "憂一乗",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=20",
   "source": "suiuishino.js"
@@ -2504,7 +2504,7 @@ window.SONG_DATA.push(
     {
   "title": "夕凪、某、花惑い",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=21",
   "source": "suiuishino.js"
@@ -2512,7 +2512,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーチラス",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=22",
   "source": "suiuishino.js"
@@ -2520,7 +2520,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=23",
   "source": "suiuishino.js"
@@ -2528,7 +2528,7 @@ window.SONG_DATA.push(
     {
   "title": "思想犯",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=24",
   "source": "suiuishino.js"
@@ -2536,7 +2536,7 @@ window.SONG_DATA.push(
     {
   "title": "夜行",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=25",
   "source": "suiuishino.js"
@@ -2544,7 +2544,7 @@ window.SONG_DATA.push(
     {
   "title": "風を食む",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=26",
   "source": "suiuishino.js"
@@ -2552,7 +2552,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=27",
   "source": "suiuishino.js"
@@ -2560,7 +2560,7 @@ window.SONG_DATA.push(
     {
   "title": "嘘月",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=28",
   "source": "suiuishino.js"
@@ -2568,7 +2568,7 @@ window.SONG_DATA.push(
     {
   "title": "又三郎",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=29",
   "source": "suiuishino.js"
@@ -2576,7 +2576,7 @@ window.SONG_DATA.push(
     {
   "title": "月に吠える",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=30",
   "source": "suiuishino.js"
@@ -2584,7 +2584,7 @@ window.SONG_DATA.push(
     {
   "title": "ブレーメン",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=31",
   "source": "suiuishino.js"
@@ -2592,7 +2592,7 @@ window.SONG_DATA.push(
     {
   "title": "左右盲",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=32",
   "source": "suiuishino.js"
@@ -2600,7 +2600,7 @@ window.SONG_DATA.push(
     {
   "title": "テレパス",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=33",
   "source": "suiuishino.js"
@@ -2608,7 +2608,7 @@ window.SONG_DATA.push(
     {
   "title": "チノカテ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=34",
   "source": "suiuishino.js"
@@ -2616,7 +2616,7 @@ window.SONG_DATA.push(
     {
   "title": "アルジャーノン",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=35",
   "source": "suiuishino.js"
@@ -2624,7 +2624,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=36",
   "source": "suiuishino.js"
@@ -2632,7 +2632,7 @@ window.SONG_DATA.push(
     {
   "title": "斜陽",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=37",
   "source": "suiuishino.js"
@@ -2640,7 +2640,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=38",
   "source": "suiuishino.js"
@@ -2648,7 +2648,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れてください",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=39",
   "source": "suiuishino.js"
@@ -2656,7 +2656,7 @@ window.SONG_DATA.push(
     {
   "title": "アポリア",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=40",
   "source": "suiuishino.js"
@@ -2664,7 +2664,7 @@ window.SONG_DATA.push(
     {
   "title": "太陽",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=41",
   "source": "suiuishino.js"
@@ -2672,7 +2672,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=42",
   "source": "suiuishino.js"
@@ -2680,7 +2680,7 @@ window.SONG_DATA.push(
     {
   "title": "火星人",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=43",
   "source": "suiuishino.js"
@@ -2688,7 +2688,7 @@ window.SONG_DATA.push(
     {
   "title": "修羅",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=44",
   "source": "suiuishino.js"
@@ -2696,7 +2696,7 @@ window.SONG_DATA.push(
     {
   "title": "千鳥",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=45",
   "source": "suiuishino.js"
@@ -2704,7 +2704,7 @@ window.SONG_DATA.push(
     {
   "title": "あぶく",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-26]歌曲间不聊天，全程不停唱！ヨルシカ专场！",
+  "collection": "【Song Cut】[2026-08-26] No chatting between songs, singing non-stop! YORUSHIKA Special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jU8f6zEt3?p=46",
   "source": "suiuishino.js"
@@ -2712,7 +2712,7 @@ window.SONG_DATA.push(
     {
   "title": "貴方の恋人になりたいのです",
   "artist": "阿部真央",
-  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "collection": "【Song Clip】[2026-08-25] Tonight, please let me only sing summer songs🎆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=1",
   "source": "suiuishino.js"
@@ -2720,7 +2720,7 @@ window.SONG_DATA.push(
     {
   "title": "あの夏のいつかは",
   "artist": "*Luna feat.音街ウナ・鏡音レン",
-  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "collection": "【Song Clip】[2026-08-25] Tonight, please let me only sing summer songs🎆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=2",
   "source": "suiuishino.js"
@@ -2728,7 +2728,7 @@ window.SONG_DATA.push(
     {
   "title": "KissHug",
   "artist": "aiko",
-  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "collection": "【Song Clip】[2026-08-25] Tonight, please let me only sing summer songs🎆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=3",
   "source": "suiuishino.js"
@@ -2736,7 +2736,7 @@ window.SONG_DATA.push(
     {
   "title": "花火",
   "artist": "aiko",
-  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "collection": "【Song Clip】[2026-08-25] Tonight, please let me only sing summer songs🎆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=4",
   "source": "suiuishino.js"
@@ -2744,7 +2744,7 @@ window.SONG_DATA.push(
     {
   "title": "サマータイムレコード",
   "artist": "じん feat.IA",
-  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "collection": "【Song Clip】[2026-08-25] Tonight, please let me only sing summer songs🎆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=5",
   "source": "suiuishino.js"
@@ -2752,7 +2752,7 @@ window.SONG_DATA.push(
     {
   "title": "泡沫花火",
   "artist": "神はサイコロを振らない",
-  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "collection": "【Song Clip】[2026-08-25] Tonight, please let me only sing summer songs🎆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=6",
   "source": "suiuishino.js"
@@ -2760,7 +2760,7 @@ window.SONG_DATA.push(
     {
   "title": "憂、燦々",
   "artist": "クリープハイプ",
-  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "collection": "【Song Clip】[2026-08-25] Tonight, please let me only sing summer songs🎆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=7",
   "source": "suiuishino.js"
@@ -2768,7 +2768,7 @@ window.SONG_DATA.push(
     {
   "title": "HANABI",
   "artist": "いきものがかり",
-  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "collection": "【Song Clip】[2026-08-25] Tonight, please let me only sing summer songs🎆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=8",
   "source": "suiuishino.js"
@@ -2776,7 +2776,7 @@ window.SONG_DATA.push(
     {
   "title": "又三郎",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "collection": "【Song Clip】[2026-08-25] Tonight, please let me only sing summer songs🎆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=9",
   "source": "suiuishino.js"
@@ -2784,7 +2784,7 @@ window.SONG_DATA.push(
     {
   "title": "secret base 〜君がくれたもの〜",
   "artist": "ZONE",
-  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "collection": "【Song Clip】[2026-08-25] Tonight, please let me only sing summer songs🎆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=10",
   "source": "suiuishino.js"
@@ -2792,7 +2792,7 @@ window.SONG_DATA.push(
     {
   "title": "打上花火",
   "artist": "DAOKO×米津玄師",
-  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "collection": "【Song Clip】[2026-08-25] Tonight, please let me only sing summer songs🎆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=11",
   "source": "suiuishino.js"
@@ -2800,7 +2800,7 @@ window.SONG_DATA.push(
     {
   "title": "ねむるまち",
   "artist": "くじら",
-  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "collection": "【Song Clip】[2026-08-25] Tonight, please let me only sing summer songs🎆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=12",
   "source": "suiuishino.js"
@@ -2808,7 +2808,7 @@ window.SONG_DATA.push(
     {
   "title": "若者のすべて",
   "artist": "フジファブリック",
-  "collection": "【歌切】[2026-08-25]今晚请让我只唱夏日歌曲🎆",
+  "collection": "【Song Clip】[2026-08-25] Tonight, please let me only sing summer songs🎆",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YG8f6PECM?p=13",
   "source": "suiuishino.js"
@@ -2816,7 +2816,7 @@ window.SONG_DATA.push(
     {
   "title": "プロポーズ",
   "artist": "内緒のピアス feat.可不",
-  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-27] If I sing below 85 points, I'll stop immediately!? Song request! [Shinono Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=1",
   "source": "suiuishino.js"
@@ -2824,7 +2824,7 @@ window.SONG_DATA.push(
     {
   "title": "IRIS OUT",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-27] If I sing below 85 points, I'll stop immediately!? Song request! [Shinono Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=2",
   "source": "suiuishino.js"
@@ -2832,7 +2832,7 @@ window.SONG_DATA.push(
     {
   "title": "妄想税",
   "artist": "DECO*27 feat.初音ミク",
-  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-27] If I sing below 85 points, I'll stop immediately!? Song request! [Shinono Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=3",
   "source": "suiuishino.js"
@@ -2840,7 +2840,7 @@ window.SONG_DATA.push(
     {
   "title": "プロミスザスター",
   "artist": "BiSH",
-  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-27] If I sing below 85 points, I'll stop immediately!? Song request! [Shinono Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=4",
   "source": "suiuishino.js"
@@ -2848,7 +2848,7 @@ window.SONG_DATA.push(
     {
   "title": "革命道中",
   "artist": "アイナ・ジ・エンド",
-  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-27] If I sing below 85 points, I'll stop immediately!? Song request! [Shinono Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=5",
   "source": "suiuishino.js"
@@ -2856,7 +2856,7 @@ window.SONG_DATA.push(
     {
   "title": "Bling-Bang-Bang-Born",
   "artist": "Creepy Nuts",
-  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-27] If I sing below 85 points, I'll stop immediately!? Song request! [Shinono Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=6",
   "source": "suiuishino.js"
@@ -2864,7 +2864,7 @@ window.SONG_DATA.push(
     {
   "title": "祝福",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-27] If I sing below 85 points, I'll stop immediately!? Song request! [Shinono Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=7",
   "source": "suiuishino.js"
@@ -2872,7 +2872,7 @@ window.SONG_DATA.push(
     {
   "title": "asphyxia",
   "artist": "Cö shu Nie",
-  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-27] If I sing below 85 points, I'll stop immediately!? Song request! [Shinono Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=8",
   "source": "suiuishino.js"
@@ -2880,7 +2880,7 @@ window.SONG_DATA.push(
     {
   "title": "わたがし",
   "artist": "back number",
-  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-27] If I sing below 85 points, I'll stop immediately!? Song request! [Shinono Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=9",
   "source": "suiuishino.js"
@@ -2888,7 +2888,7 @@ window.SONG_DATA.push(
     {
   "title": "六等星",
   "artist": "ざらめ",
-  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-27] If I sing below 85 points, I'll stop immediately!? Song request! [Shinono Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=10",
   "source": "suiuishino.js"
@@ -2896,7 +2896,7 @@ window.SONG_DATA.push(
     {
   "title": "小さな恋のうた",
   "artist": "MONGOL800",
-  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-27] If I sing below 85 points, I'll stop immediately!? Song request! [Shinono Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=11",
   "source": "suiuishino.js"
@@ -2904,7 +2904,7 @@ window.SONG_DATA.push(
     {
   "title": "フォニイ",
   "artist": "ツミキ feat.可不",
-  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-27] If I sing below 85 points, I'll stop immediately!? Song request! [Shinono Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=12",
   "source": "suiuishino.js"
@@ -2912,7 +2912,7 @@ window.SONG_DATA.push(
     {
   "title": "憂、燦々",
   "artist": "クリープハイプ",
-  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-27] If I sing below 85 points, I'll stop immediately!? Song request! [Shinono Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=13",
   "source": "suiuishino.js"
@@ -2920,7 +2920,7 @@ window.SONG_DATA.push(
     {
   "title": "メロウ",
   "artist": "須田景凪",
-  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-27] If I sing below 85 points, I'll stop immediately!? Song request! [Shinono Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=14",
   "source": "suiuishino.js"
@@ -2928,7 +2928,7 @@ window.SONG_DATA.push(
     {
   "title": "ロストワンの号哭",
   "artist": "Neru feat.鏡音リン",
-  "collection": "【歌切】[2026-08-27]唱到85分以下就立刻结束⁉️点歌！【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-27] If I sing below 85 points, I'll stop immediately!? Song request! [Shinono Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11Jtb6FEGu?p=15",
   "source": "suiuishino.js"
@@ -2936,7 +2936,7 @@ window.SONG_DATA.push(
     {
   "title": "コネクト",
   "artist": "ClariS",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=1",
   "source": "suiuishino.js"
@@ -2944,7 +2944,7 @@ window.SONG_DATA.push(
     {
   "title": "わたがし",
   "artist": "back number",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=2",
   "source": "suiuishino.js"
@@ -2952,7 +2952,7 @@ window.SONG_DATA.push(
     {
   "title": "雲と幽霊",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=3",
   "source": "suiuishino.js"
@@ -2960,7 +2960,7 @@ window.SONG_DATA.push(
     {
   "title": "Luna say maybe",
   "artist": "初星学園(月村手毬)",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=4",
   "source": "suiuishino.js"
@@ -2968,7 +2968,7 @@ window.SONG_DATA.push(
     {
   "title": "拝啓、少年よ",
   "artist": "Hump Back",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=5",
   "source": "suiuishino.js"
@@ -2976,7 +2976,7 @@ window.SONG_DATA.push(
     {
   "title": "G4L",
   "artist": "Giga",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=6",
   "source": "suiuishino.js"
@@ -2984,7 +2984,7 @@ window.SONG_DATA.push(
     {
   "title": "ガーネット",
   "artist": "奥華子",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=7",
   "source": "suiuishino.js"
@@ -2992,7 +2992,7 @@ window.SONG_DATA.push(
     {
   "title": "可愛くなりたい",
   "artist": "HoneyWorks feat.成海聖奈(CV:雨宮天)",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=8",
   "source": "suiuishino.js"
@@ -3000,7 +3000,7 @@ window.SONG_DATA.push(
     {
   "title": "unravel",
   "artist": "TK from 凛として時雨",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=9",
   "source": "suiuishino.js"
@@ -3008,7 +3008,7 @@ window.SONG_DATA.push(
     {
   "title": "言って。",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=10",
   "source": "suiuishino.js"
@@ -3016,7 +3016,7 @@ window.SONG_DATA.push(
     {
   "title": "ソワレ",
   "artist": "星街すいせい",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=11",
   "source": "suiuishino.js"
@@ -3024,7 +3024,7 @@ window.SONG_DATA.push(
     {
   "title": "最愛",
   "artist": "KOH+",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=12",
   "source": "suiuishino.js"
@@ -3032,7 +3032,7 @@ window.SONG_DATA.push(
     {
   "title": "何度も",
   "artist": "青山テルマ",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=13",
   "source": "suiuishino.js"
@@ -3040,7 +3040,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れじの言の葉",
   "artist": "未来古代楽団 feat.安次嶺希和子",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=14",
   "source": "suiuishino.js"
@@ -3048,7 +3048,7 @@ window.SONG_DATA.push(
     {
   "title": "ありがとう",
   "artist": "いきものがかり",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=15",
   "source": "suiuishino.js"
@@ -3056,7 +3056,7 @@ window.SONG_DATA.push(
     {
   "title": "サブリナ",
   "artist": "家入レオ",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=16",
   "source": "suiuishino.js"
@@ -3064,7 +3064,7 @@ window.SONG_DATA.push(
     {
   "title": "ハルモニア",
   "artist": "RYTHEM",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=17",
   "source": "suiuishino.js"
@@ -3072,7 +3072,7 @@ window.SONG_DATA.push(
     {
   "title": "残響散歌",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=18",
   "source": "suiuishino.js"
@@ -3080,7 +3080,7 @@ window.SONG_DATA.push(
     {
   "title": "どうにかなっちゃいそう!",
   "artist": "NOMELON NOLEMON",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=19",
   "source": "suiuishino.js"
@@ -3088,7 +3088,7 @@ window.SONG_DATA.push(
     {
   "title": "季節は次々死んでいく",
   "artist": "amazarashi",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=20",
   "source": "suiuishino.js"
@@ -3096,7 +3096,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛サーキュレーション",
   "artist": "千石撫子(花澤香菜)",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=21",
   "source": "suiuishino.js"
@@ -3104,7 +3104,7 @@ window.SONG_DATA.push(
     {
   "title": "身体は正直だって言ってんの",
   "artist": "式浦。 feat.歌愛ユキ",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=22",
   "source": "suiuishino.js"
@@ -3112,7 +3112,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ声一つ",
   "artist": "ロクデナシ",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=23",
   "source": "suiuishino.js"
@@ -3120,7 +3120,7 @@ window.SONG_DATA.push(
     {
   "title": "アサガオの散る頃に",
   "artist": "じっぷす feat.初音ミク",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=24",
   "source": "suiuishino.js"
@@ -3128,7 +3128,7 @@ window.SONG_DATA.push(
     {
   "title": "GLAMOROUS SKY",
   "artist": "中島美嘉",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=25",
   "source": "suiuishino.js"
@@ -3136,7 +3136,7 @@ window.SONG_DATA.push(
     {
   "title": "あの夢をなぞって",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=26",
   "source": "suiuishino.js"
@@ -3144,7 +3144,7 @@ window.SONG_DATA.push(
     {
   "title": "ハナミズキ",
   "artist": "一青窈",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=27",
   "source": "suiuishino.js"
@@ -3152,7 +3152,7 @@ window.SONG_DATA.push(
     {
   "title": "夏の半券",
   "artist": "みきとP feat.初音ミク",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=28",
   "source": "suiuishino.js"
@@ -3160,7 +3160,7 @@ window.SONG_DATA.push(
     {
   "title": "Overdose",
   "artist": "なとり",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=29",
   "source": "suiuishino.js"
@@ -3168,7 +3168,7 @@ window.SONG_DATA.push(
     {
   "title": "ノンブレス・オブリージュ",
   "artist": "ピノキオピー feat.初音ミク",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=30",
   "source": "suiuishino.js"
@@ -3176,7 +3176,7 @@ window.SONG_DATA.push(
     {
   "title": "Mela!",
   "artist": "緑黄色社会",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=31",
   "source": "suiuishino.js"
@@ -3184,7 +3184,7 @@ window.SONG_DATA.push(
     {
   "title": "いのちの名前",
   "artist": "木村弓",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=32",
   "source": "suiuishino.js"
@@ -3192,7 +3192,7 @@ window.SONG_DATA.push(
     {
   "title": "夏霞",
   "artist": "あたらよ",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=33",
   "source": "suiuishino.js"
@@ -3200,7 +3200,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行",
   "artist": "ランカ・リー=中島愛",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=34",
   "source": "suiuishino.js"
@@ -3208,7 +3208,7 @@ window.SONG_DATA.push(
     {
   "title": "あくあ色ぱれっと",
   "artist": "湊あくあ",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=35",
   "source": "suiuishino.js"
@@ -3216,7 +3216,7 @@ window.SONG_DATA.push(
     {
   "title": "プラチナ",
   "artist": "坂本真綾",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=36",
   "source": "suiuishino.js"
@@ -3224,7 +3224,7 @@ window.SONG_DATA.push(
     {
   "title": "ゴールデンタイムラバー",
   "artist": "スキマスイッチ",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=37",
   "source": "suiuishino.js"
@@ -3232,7 +3232,7 @@ window.SONG_DATA.push(
     {
   "title": "fight",
   "artist": "YUI",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=38",
   "source": "suiuishino.js"
@@ -3240,7 +3240,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ君に晴れ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-29]500点赞耐久歌回！首次挑战🔥【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-08-29] 500 Likes Endurance Singing Stream! First Challenge! 🔥 [Shino's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19wtb6rE8P?p=39",
   "source": "suiuishino.js"
@@ -3248,7 +3248,7 @@ window.SONG_DATA.push(
     {
   "title": "光芒",
   "artist": "Hakubi",
-  "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
+  "collection": "[Song Snippet] [2026-08-30] Regular Sunday Live Stream!! Goodnight Singing and Playing 🌙【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=1",
   "source": "suiuishino.js"
@@ -3256,7 +3256,7 @@ window.SONG_DATA.push(
     {
   "title": "エメラルドシティ",
   "artist": "TOKOTOKO(西沢さんP) feat.初音ミク",
-  "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
+  "collection": "[Song Snippet] [2026-08-30] Regular Sunday Live Stream!! Goodnight Singing and Playing 🌙【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=2",
   "source": "suiuishino.js"
@@ -3264,7 +3264,7 @@ window.SONG_DATA.push(
     {
   "title": "丸の内サディスティック",
   "artist": "椎名林檎",
-  "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
+  "collection": "[Song Snippet] [2026-08-30] Regular Sunday Live Stream!! Goodnight Singing and Playing 🌙【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=3",
   "source": "suiuishino.js"
@@ -3272,7 +3272,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
+  "collection": "[Song Snippet] [2026-08-30] Regular Sunday Live Stream!! Goodnight Singing and Playing 🌙【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=4",
   "source": "suiuishino.js"
@@ -3280,7 +3280,7 @@ window.SONG_DATA.push(
     {
   "title": "思想犯",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
+  "collection": "[Song Snippet] [2026-08-30] Regular Sunday Live Stream!! Goodnight Singing and Playing 🌙【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=5",
   "source": "suiuishino.js"
@@ -3288,7 +3288,7 @@ window.SONG_DATA.push(
     {
   "title": "あの夢をなぞって",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
+  "collection": "[Song Snippet] [2026-08-30] Regular Sunday Live Stream!! Goodnight Singing and Playing 🌙【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=6",
   "source": "suiuishino.js"
@@ -3296,7 +3296,7 @@ window.SONG_DATA.push(
     {
   "title": "風を食む",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
+  "collection": "[Song Snippet] [2026-08-30] Regular Sunday Live Stream!! Goodnight Singing and Playing 🌙【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=7",
   "source": "suiuishino.js"
@@ -3304,7 +3304,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
+  "collection": "[Song Snippet] [2026-08-30] Regular Sunday Live Stream!! Goodnight Singing and Playing 🌙【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=8",
   "source": "suiuishino.js"
@@ -3312,7 +3312,7 @@ window.SONG_DATA.push(
     {
   "title": "相思相愛",
   "artist": "aiko",
-  "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
+  "collection": "[Song Snippet] [2026-08-30] Regular Sunday Live Stream!! Goodnight Singing and Playing 🌙【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=9",
   "source": "suiuishino.js"
@@ -3320,7 +3320,7 @@ window.SONG_DATA.push(
     {
   "title": "ぎゅっと。",
   "artist": "もさを。",
-  "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
+  "collection": "[Song Snippet] [2026-08-30] Regular Sunday Live Stream!! Goodnight Singing and Playing 🌙【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=10",
   "source": "suiuishino.js"
@@ -3328,7 +3328,7 @@ window.SONG_DATA.push(
     {
   "title": "アルジャーノン",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-08-30]周日定期直播！！晚安弹唱🌙【しのの仕立て屋】",
+  "collection": "[Song Snippet] [2026-08-30] Regular Sunday Live Stream!! Goodnight Singing and Playing 🌙【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Nztt6tENU?p=11",
   "source": "suiuishino.js"
@@ -3336,7 +3336,7 @@ window.SONG_DATA.push(
     {
   "title": "愛言葉Ⅳ",
   "artist": "DECO*27 feat.初音ミク",
-  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-02] Singing Stream | Midday Healing Vocal and Instrumental Performance!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=1",
   "source": "suiuishino.js"
@@ -3344,7 +3344,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna feat.初音ミク",
-  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-02] Singing Stream | Midday Healing Vocal and Instrumental Performance!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=2",
   "source": "suiuishino.js"
@@ -3352,7 +3352,7 @@ window.SONG_DATA.push(
     {
   "title": "ナチュラルに恋して",
   "artist": "Perfume",
-  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-02] Singing Stream | Midday Healing Vocal and Instrumental Performance!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=3",
   "source": "suiuishino.js"
@@ -3360,7 +3360,7 @@ window.SONG_DATA.push(
     {
   "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-02] Singing Stream | Midday Healing Vocal and Instrumental Performance!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=4",
   "source": "suiuishino.js"
@@ -3368,7 +3368,7 @@ window.SONG_DATA.push(
     {
   "title": "君が思い出になる前に",
   "artist": "スピッツ",
-  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-02] Singing Stream | Midday Healing Vocal and Instrumental Performance!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=5",
   "source": "suiuishino.js"
@@ -3376,7 +3376,7 @@ window.SONG_DATA.push(
     {
   "title": "あの夏に咲け",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-02] Singing Stream | Midday Healing Vocal and Instrumental Performance!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=6",
   "source": "suiuishino.js"
@@ -3384,7 +3384,7 @@ window.SONG_DATA.push(
     {
   "title": "私、アイドル宣言",
   "artist": "HoneyWorks feat.初音ミク",
-  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-02] Singing Stream | Midday Healing Vocal and Instrumental Performance!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=7",
   "source": "suiuishino.js"
@@ -3392,7 +3392,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れじの言の葉",
   "artist": "未来古代楽団 feat.安次嶺希和子",
-  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-02] Singing Stream | Midday Healing Vocal and Instrumental Performance!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=8",
   "source": "suiuishino.js"
@@ -3400,7 +3400,7 @@ window.SONG_DATA.push(
     {
   "title": "15の言葉",
   "artist": "阿部真央",
-  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-02] Singing Stream | Midday Healing Vocal and Instrumental Performance!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=9",
   "source": "suiuishino.js"
@@ -3408,7 +3408,7 @@ window.SONG_DATA.push(
     {
   "title": "嘘",
   "artist": "シド",
-  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-02] Singing Stream | Midday Healing Vocal and Instrumental Performance!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=10",
   "source": "suiuishino.js"
@@ -3416,7 +3416,7 @@ window.SONG_DATA.push(
     {
   "title": "8.8",
   "artist": "あたらよ",
-  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-02] Singing Stream | Midday Healing Vocal and Instrumental Performance!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=11",
   "source": "suiuishino.js"
@@ -3424,7 +3424,7 @@ window.SONG_DATA.push(
     {
   "title": "ヘビースモーク",
   "artist": "にしな",
-  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-02] Singing Stream | Midday Healing Vocal and Instrumental Performance!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=12",
   "source": "suiuishino.js"
@@ -3432,7 +3432,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピーエンド",
   "artist": "back number",
-  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-02] Singing Stream | Midday Healing Vocal and Instrumental Performance!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=13",
   "source": "suiuishino.js"
@@ -3440,7 +3440,7 @@ window.SONG_DATA.push(
     {
   "title": "ここでキスして。",
   "artist": "椎名林檎",
-  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-02] Singing Stream | Midday Healing Vocal and Instrumental Performance!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=14",
   "source": "suiuishino.js"
@@ -3448,7 +3448,7 @@ window.SONG_DATA.push(
     {
   "title": "Wind",
   "artist": "Akeboshi",
-  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-02] Singing Stream | Midday Healing Vocal and Instrumental Performance!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=15",
   "source": "suiuishino.js"
@@ -3456,7 +3456,7 @@ window.SONG_DATA.push(
     {
   "title": "A Thousand Miles",
   "artist": "Vanessa Carlton",
-  "collection": "【歌切】[2026-09-02]歌回｜午间治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-02] Singing Stream | Midday Healing Vocal and Instrumental Performance!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fmbF63EDF?p=16",
   "source": "suiuishino.js"
@@ -3464,7 +3464,7 @@ window.SONG_DATA.push(
     {
   "title": "6900000000",
   "artist": "(∵)キョトンP feat.初音ミク",
-  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-04] Soothing Vocaloid Song Stream ♪【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=1",
   "source": "suiuishino.js"
@@ -3472,7 +3472,7 @@ window.SONG_DATA.push(
     {
   "title": "quiet room",
   "artist": "有機酸 feat.初音ミク",
-  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-04] Soothing Vocaloid Song Stream ♪【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=2",
   "source": "suiuishino.js"
@@ -3480,7 +3480,7 @@ window.SONG_DATA.push(
     {
   "title": "Corruption",
   "artist": "大沼パセリ feat.初音ミク",
-  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-04] Soothing Vocaloid Song Stream ♪【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=3",
   "source": "suiuishino.js"
@@ -3488,7 +3488,7 @@ window.SONG_DATA.push(
     {
   "title": "記憶の水槽",
   "artist": "こんにちは谷田さん feat.初音ミク",
-  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-04] Soothing Vocaloid Song Stream ♪【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=4",
   "source": "suiuishino.js"
@@ -3496,7 +3496,7 @@ window.SONG_DATA.push(
     {
   "title": "夏の半券",
   "artist": "みきとP feat.初音ミク",
-  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-04] Soothing Vocaloid Song Stream ♪【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=5",
   "source": "suiuishino.js"
@@ -3504,7 +3504,7 @@ window.SONG_DATA.push(
     {
   "title": "フロイデ",
   "artist": "笹川真生 feat.flower",
-  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-04] Soothing Vocaloid Song Stream ♪【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=6",
   "source": "suiuishino.js"
@@ -3512,7 +3512,7 @@ window.SONG_DATA.push(
     {
   "title": "nuit",
   "artist": "春野 feat.初音ミク",
-  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-04] Soothing Vocaloid Song Stream ♪【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=7",
   "source": "suiuishino.js"
@@ -3520,7 +3520,7 @@ window.SONG_DATA.push(
     {
   "title": "ドリームレス・ドリームス",
   "artist": "はるまきごはん feat.初音ミク",
-  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-04] Soothing Vocaloid Song Stream ♪【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=8",
   "source": "suiuishino.js"
@@ -3528,7 +3528,7 @@ window.SONG_DATA.push(
     {
   "title": "ワールズエンド・イヴ",
   "artist": "メル feat.初音ミク",
-  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-04] Soothing Vocaloid Song Stream ♪【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=9",
   "source": "suiuishino.js"
@@ -3536,7 +3536,7 @@ window.SONG_DATA.push(
     {
   "title": "シンクロサイクロトロン・スピリチュアライザー。",
   "artist": "砂粒 feat.GUMI",
-  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-04] Soothing Vocaloid Song Stream ♪【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=10",
   "source": "suiuishino.js"
@@ -3544,7 +3544,7 @@ window.SONG_DATA.push(
     {
   "title": "シネマ",
   "artist": "Ayase feat.初音ミク",
-  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-04] Soothing Vocaloid Song Stream ♪【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=11",
   "source": "suiuishino.js"
@@ -3552,7 +3552,7 @@ window.SONG_DATA.push(
     {
   "title": "ナイトルール",
   "artist": "煮ル果実 feat.可不",
-  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-04] Soothing Vocaloid Song Stream ♪【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=12",
   "source": "suiuishino.js"
@@ -3560,7 +3560,7 @@ window.SONG_DATA.push(
     {
   "title": "小夜子",
   "artist": "みきとP feat.初音ミク",
-  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-04] Soothing Vocaloid Song Stream ♪【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=13",
   "source": "suiuishino.js"
@@ -3568,7 +3568,7 @@ window.SONG_DATA.push(
     {
   "title": "深昏睡",
   "artist": "春野 feat.初音ミク",
-  "collection": "【歌切】[2026-09-04]舒缓的术力口歌回♪【しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-04] Soothing Vocaloid Song Stream ♪【Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NLbH6CEWG?p=14",
   "source": "suiuishino.js"
@@ -3576,7 +3576,7 @@ window.SONG_DATA.push(
     {
   "title": "milk",
   "artist": "aiko",
-  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-06] Sunday Regular Live Stream!! Goodnight Sing-along🌙 [ #Shinono's Tailor Shop ]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=1",
   "source": "suiuishino.js"
@@ -3584,7 +3584,7 @@ window.SONG_DATA.push(
     {
   "title": "虹",
   "artist": "Aqua Timez",
-  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-06] Sunday Regular Live Stream!! Goodnight Sing-along🌙 [ #Shinono's Tailor Shop ]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=2",
   "source": "suiuishino.js"
@@ -3592,7 +3592,7 @@ window.SONG_DATA.push(
     {
   "title": "Planetes",
   "artist": "EGOIST",
-  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-06] Sunday Regular Live Stream!! Goodnight Sing-along🌙 [ #Shinono's Tailor Shop ]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=3",
   "source": "suiuishino.js"
@@ -3600,7 +3600,7 @@ window.SONG_DATA.push(
     {
   "title": "flos",
   "artist": "R Sound Design feat.初音ミク",
-  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-06] Sunday Regular Live Stream!! Goodnight Sing-along🌙 [ #Shinono's Tailor Shop ]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=4",
   "source": "suiuishino.js"
@@ -3608,7 +3608,7 @@ window.SONG_DATA.push(
     {
   "title": "カトラリー",
   "artist": "有機酸 feat.初音ミク",
-  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-06] Sunday Regular Live Stream!! Goodnight Sing-along🌙 [ #Shinono's Tailor Shop ]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=5",
   "source": "suiuishino.js"
@@ -3616,7 +3616,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-06] Sunday Regular Live Stream!! Goodnight Sing-along🌙 [ #Shinono's Tailor Shop ]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=6",
   "source": "suiuishino.js"
@@ -3624,7 +3624,7 @@ window.SONG_DATA.push(
     {
   "title": "疾走",
   "artist": "LAST ALLIANCE",
-  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-06] Sunday Regular Live Stream!! Goodnight Sing-along🌙 [ #Shinono's Tailor Shop ]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=7",
   "source": "suiuishino.js"
@@ -3632,7 +3632,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーバード",
   "artist": "いきものがかり",
-  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-06] Sunday Regular Live Stream!! Goodnight Sing-along🌙 [ #Shinono's Tailor Shop ]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=8",
   "source": "suiuishino.js"
@@ -3640,7 +3640,7 @@ window.SONG_DATA.push(
     {
   "title": "鱗",
   "artist": "秦基博",
-  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-06] Sunday Regular Live Stream!! Goodnight Sing-along🌙 [ #Shinono's Tailor Shop ]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=9",
   "source": "suiuishino.js"
@@ -3648,7 +3648,7 @@ window.SONG_DATA.push(
     {
   "title": "Happy Birthday to you you",
   "artist": "YUI",
-  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-06] Sunday Regular Live Stream!! Goodnight Sing-along🌙 [ #Shinono's Tailor Shop ]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=10",
   "source": "suiuishino.js"
@@ -3656,7 +3656,7 @@ window.SONG_DATA.push(
     {
   "title": "リッツパーティ",
   "artist": "back number",
-  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-06] Sunday Regular Live Stream!! Goodnight Sing-along🌙 [ #Shinono's Tailor Shop ]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=11",
   "source": "suiuishino.js"
@@ -3664,7 +3664,7 @@ window.SONG_DATA.push(
     {
   "title": "アメヲマツ、",
   "artist": "美波",
-  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-06] Sunday Regular Live Stream!! Goodnight Sing-along🌙 [ #Shinono's Tailor Shop ]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=12",
   "source": "suiuishino.js"
@@ -3672,7 +3672,7 @@ window.SONG_DATA.push(
     {
   "title": "フクロウ 〜フクロウが知らせる客が来たと〜",
   "artist": "KOKIA",
-  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-06] Sunday Regular Live Stream!! Goodnight Sing-along🌙 [ #Shinono's Tailor Shop ]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=13",
   "source": "suiuishino.js"
@@ -3680,7 +3680,7 @@ window.SONG_DATA.push(
     {
   "title": "メロウ",
   "artist": "須田景凪",
-  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-06] Sunday Regular Live Stream!! Goodnight Sing-along🌙 [ #Shinono's Tailor Shop ]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=14",
   "source": "suiuishino.js"
@@ -3688,7 +3688,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ声一つ",
   "artist": "ロクデナシ",
-  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-06] Sunday Regular Live Stream!! Goodnight Sing-along🌙 [ #Shinono's Tailor Shop ]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=15",
   "source": "suiuishino.js"
@@ -3696,7 +3696,7 @@ window.SONG_DATA.push(
     {
   "title": "エルマ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-06]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-06] Sunday Regular Live Stream!! Goodnight Sing-along🌙 [ #Shinono's Tailor Shop ]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xkbP6wEEf?p=16",
   "source": "suiuishino.js"
@@ -3704,7 +3704,7 @@ window.SONG_DATA.push(
     {
   "title": "憂、燦々",
   "artist": "クリープハイプ",
-  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-08] Request a song! ♪!! [#ShinonoTailorShop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=1",
   "source": "suiuishino.js"
@@ -3712,7 +3712,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-08] Request a song! ♪!! [#ShinonoTailorShop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=2",
   "source": "suiuishino.js"
@@ -3720,7 +3720,7 @@ window.SONG_DATA.push(
     {
   "title": "おやすみ泣き声、さよなら歌姫",
   "artist": "クリープハイプ",
-  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-08] Request a song! ♪!! [#ShinonoTailorShop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=3",
   "source": "suiuishino.js"
@@ -3728,7 +3728,7 @@ window.SONG_DATA.push(
     {
   "title": "Stellar Stellar",
   "artist": "星街すいせい",
-  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-08] Request a song! ♪!! [#ShinonoTailorShop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=4",
   "source": "suiuishino.js"
@@ -3736,7 +3736,7 @@ window.SONG_DATA.push(
     {
   "title": "丸の内サディスティック",
   "artist": "椎名林檎",
-  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-08] Request a song! ♪!! [#ShinonoTailorShop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=5",
   "source": "suiuishino.js"
@@ -3744,7 +3744,7 @@ window.SONG_DATA.push(
     {
   "title": "あぶく",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-08] Request a song! ♪!! [#ShinonoTailorShop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=6",
   "source": "suiuishino.js"
@@ -3752,7 +3752,7 @@ window.SONG_DATA.push(
     {
   "title": "声",
   "artist": "羊文学",
-  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-08] Request a song! ♪!! [#ShinonoTailorShop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=7",
   "source": "suiuishino.js"
@@ -3760,7 +3760,7 @@ window.SONG_DATA.push(
     {
   "title": "少女レイ",
   "artist": "みきとP feat.初音ミク",
-  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-08] Request a song! ♪!! [#ShinonoTailorShop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=8",
   "source": "suiuishino.js"
@@ -3768,7 +3768,7 @@ window.SONG_DATA.push(
     {
   "title": "星街の駅で",
   "artist": "tuki.",
-  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-08] Request a song! ♪!! [#ShinonoTailorShop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=9",
   "source": "suiuishino.js"
@@ -3776,7 +3776,7 @@ window.SONG_DATA.push(
     {
   "title": "ロミオとシンデレラ",
   "artist": "doriko feat.初音ミク",
-  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-08] Request a song! ♪!! [#ShinonoTailorShop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=10",
   "source": "suiuishino.js"
@@ -3784,7 +3784,7 @@ window.SONG_DATA.push(
     {
   "title": "雫",
   "artist": "スキマスイッチ",
-  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-08] Request a song! ♪!! [#ShinonoTailorShop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=11",
   "source": "suiuishino.js"
@@ -3792,7 +3792,7 @@ window.SONG_DATA.push(
     {
   "title": "鱗",
   "artist": "秦基博",
-  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-08] Request a song! ♪!! [#ShinonoTailorShop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=12",
   "source": "suiuishino.js"
@@ -3800,7 +3800,7 @@ window.SONG_DATA.push(
     {
   "title": "スイートマジック",
   "artist": "ろん×Junky",
-  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-08] Request a song! ♪!! [#ShinonoTailorShop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=13",
   "source": "suiuishino.js"
@@ -3808,7 +3808,7 @@ window.SONG_DATA.push(
     {
   "title": "空想フォレスト",
   "artist": "じん feat.IA",
-  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-08] Request a song! ♪!! [#ShinonoTailorShop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=14",
   "source": "suiuishino.js"
@@ -3816,7 +3816,7 @@ window.SONG_DATA.push(
     {
   "title": "コネクト",
   "artist": "ClariS",
-  "collection": "【歌切】[2026-09-08]来点歌吧♪！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-08] Request a song! ♪!! [#ShinonoTailorShop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FBYn6CEEb?p=15",
   "source": "suiuishino.js"
@@ -3824,7 +3824,7 @@ window.SONG_DATA.push(
     {
   "title": "丸の内サディスティック",
   "artist": "椎名林檎",
-  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-09] A healing performance in the afternoon!! [#ShinonoShitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=1",
   "source": "suiuishino.js"
@@ -3832,7 +3832,7 @@ window.SONG_DATA.push(
     {
   "title": "トウキョウ・シャンディ・ランデヴ",
   "artist": "MAISONdes feat.花譜, ツミキ",
-  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-09] A healing performance in the afternoon!! [#ShinonoShitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=2",
   "source": "suiuishino.js"
@@ -3840,7 +3840,7 @@ window.SONG_DATA.push(
     {
   "title": "Hello,Again～昔からある場所～",
   "artist": "My Little Lover",
-  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-09] A healing performance in the afternoon!! [#ShinonoShitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=3",
   "source": "suiuishino.js"
@@ -3848,7 +3848,7 @@ window.SONG_DATA.push(
     {
   "title": "チノカテ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-09] A healing performance in the afternoon!! [#ShinonoShitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=4",
   "source": "suiuishino.js"
@@ -3856,7 +3856,7 @@ window.SONG_DATA.push(
     {
   "title": "Surges",
   "artist": "Orangestar feat.IA",
-  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-09] A healing performance in the afternoon!! [#ShinonoShitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=5",
   "source": "suiuishino.js"
@@ -3864,7 +3864,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "コレサワ",
-  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-09] A healing performance in the afternoon!! [#ShinonoShitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=6",
   "source": "suiuishino.js"
@@ -3872,7 +3872,7 @@ window.SONG_DATA.push(
     {
   "title": "ヘビースモーク",
   "artist": "にしな",
-  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-09] A healing performance in the afternoon!! [#ShinonoShitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=7",
   "source": "suiuishino.js"
@@ -3880,7 +3880,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-09] A healing performance in the afternoon!! [#ShinonoShitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=8",
   "source": "suiuishino.js"
@@ -3888,7 +3888,7 @@ window.SONG_DATA.push(
     {
   "title": "Laugh away",
   "artist": "YUI",
-  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-09] A healing performance in the afternoon!! [#ShinonoShitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=9",
   "source": "suiuishino.js"
@@ -3896,7 +3896,7 @@ window.SONG_DATA.push(
     {
   "title": "Rolling star",
   "artist": "YUI",
-  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-09] A healing performance in the afternoon!! [#ShinonoShitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=10",
   "source": "suiuishino.js"
@@ -3904,7 +3904,7 @@ window.SONG_DATA.push(
     {
   "title": "GLORIA",
   "artist": "YUI",
-  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-09] A healing performance in the afternoon!! [#ShinonoShitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=11",
   "source": "suiuishino.js"
@@ -3912,7 +3912,7 @@ window.SONG_DATA.push(
     {
   "title": "My Generation",
   "artist": "YUI",
-  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-09] A healing performance in the afternoon!! [#ShinonoShitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=12",
   "source": "suiuishino.js"
@@ -3920,7 +3920,7 @@ window.SONG_DATA.push(
     {
   "title": "Oh My God",
   "artist": "YUI",
-  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-09] A healing performance in the afternoon!! [#ShinonoShitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=13",
   "source": "suiuishino.js"
@@ -3928,7 +3928,7 @@ window.SONG_DATA.push(
     {
   "title": "How crazy",
   "artist": "YUI",
-  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-09] A healing performance in the afternoon!! [#ShinonoShitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=14",
   "source": "suiuishino.js"
@@ -3936,7 +3936,7 @@ window.SONG_DATA.push(
     {
   "title": "LIFE",
   "artist": "YUI",
-  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-09] A healing performance in the afternoon!! [#ShinonoShitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=15",
   "source": "suiuishino.js"
@@ -3944,7 +3944,7 @@ window.SONG_DATA.push(
     {
   "title": "HELLO ～Paradise Kiss～",
   "artist": "YUI",
-  "collection": "【歌切】[2026-09-09]中午来场治愈弹唱！！【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-09] A healing performance in the afternoon!! [#ShinonoShitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TvYb6mEEV?p=16",
   "source": "suiuishino.js"
@@ -3952,7 +3952,7 @@ window.SONG_DATA.push(
     {
   "title": "蜜月アン・ドゥ・トロワ",
   "artist": "DATEKEN feat.鏡音リン",
-  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-10] Let's sing some soothing lyrical songs 🌙【#Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=1",
   "source": "suiuishino.js"
@@ -3960,7 +3960,7 @@ window.SONG_DATA.push(
     {
   "title": "カブトムシ",
   "artist": "aiko",
-  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-10] Let's sing some soothing lyrical songs 🌙【#Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=2",
   "source": "suiuishino.js"
@@ -3968,7 +3968,7 @@ window.SONG_DATA.push(
     {
   "title": "三日月",
   "artist": "絢香",
-  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-10] Let's sing some soothing lyrical songs 🌙【#Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=3",
   "source": "suiuishino.js"
@@ -3976,7 +3976,7 @@ window.SONG_DATA.push(
     {
   "title": "アイロニ",
   "artist": "すこっぷ feat.初音ミク",
-  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-10] Let's sing some soothing lyrical songs 🌙【#Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=4",
   "source": "suiuishino.js"
@@ -3984,7 +3984,7 @@ window.SONG_DATA.push(
     {
   "title": "マカロニ",
   "artist": "Perfume",
-  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-10] Let's sing some soothing lyrical songs 🌙【#Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=5",
   "source": "suiuishino.js"
@@ -3992,7 +3992,7 @@ window.SONG_DATA.push(
     {
   "title": "フラレガイガール",
   "artist": "さユり",
-  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-10] Let's sing some soothing lyrical songs 🌙【#Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=6",
   "source": "suiuishino.js"
@@ -4000,7 +4000,7 @@ window.SONG_DATA.push(
     {
   "title": "深い森",
   "artist": "Do As Infinity",
-  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-10] Let's sing some soothing lyrical songs 🌙【#Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=7",
   "source": "suiuishino.js"
@@ -4008,7 +4008,7 @@ window.SONG_DATA.push(
     {
   "title": "ポロメリア",
   "artist": "Cocco",
-  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-10] Let's sing some soothing lyrical songs 🌙【#Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=8",
   "source": "suiuishino.js"
@@ -4016,7 +4016,7 @@ window.SONG_DATA.push(
     {
   "title": "アストロノーツ",
   "artist": "椎名もた(ぽわぽわP) feat.初音ミク",
-  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-10] Let's sing some soothing lyrical songs 🌙【#Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=9",
   "source": "suiuishino.js"
@@ -4024,7 +4024,7 @@ window.SONG_DATA.push(
     {
   "title": "泡沫花火",
   "artist": "神はサイコロを振らない",
-  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-10] Let's sing some soothing lyrical songs 🌙【#Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=10",
   "source": "suiuishino.js"
@@ -4032,7 +4032,7 @@ window.SONG_DATA.push(
     {
   "title": "すずめ feat.十明",
   "artist": "RADWIMPS",
-  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-10] Let's sing some soothing lyrical songs 🌙【#Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=11",
   "source": "suiuishino.js"
@@ -4040,7 +4040,7 @@ window.SONG_DATA.push(
     {
   "title": "-ERROR",
   "artist": "niki feat.Lily",
-  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-10] Let's sing some soothing lyrical songs 🌙【#Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=12",
   "source": "suiuishino.js"
@@ -4048,7 +4048,7 @@ window.SONG_DATA.push(
     {
   "title": "Departures ～あなたにおくるアイの歌～",
   "artist": "EGOIST",
-  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-10] Let's sing some soothing lyrical songs 🌙【#Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=13",
   "source": "suiuishino.js"
@@ -4056,7 +4056,7 @@ window.SONG_DATA.push(
     {
   "title": "ウィアートル",
   "artist": "rionos",
-  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-10] Let's sing some soothing lyrical songs 🌙【#Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=14",
   "source": "suiuishino.js"
@@ -4064,7 +4064,7 @@ window.SONG_DATA.push(
     {
   "title": "憂一乗",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-10] Let's sing some soothing lyrical songs 🌙【#Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=15",
   "source": "suiuishino.js"
@@ -4072,7 +4072,7 @@ window.SONG_DATA.push(
     {
   "title": "僕は...",
   "artist": "あたらよ",
-  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-10] Let's sing some soothing lyrical songs 🌙【#Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=16",
   "source": "suiuishino.js"
@@ -4080,7 +4080,7 @@ window.SONG_DATA.push(
     {
   "title": "パレード",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-10]来唱些舒缓的抒情歌吧🌙【#しのの仕立て屋】",
+  "collection": "[Song Cut] [2026-09-10] Let's sing some soothing lyrical songs 🌙【#Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1iGYV67EWe?p=17",
   "source": "suiuishino.js"
@@ -4088,7 +4088,7 @@ window.SONG_DATA.push(
     {
   "title": "秒針を噛む",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=1",
   "source": "suiuishino.js"
@@ -4096,7 +4096,7 @@ window.SONG_DATA.push(
     {
   "title": "UNDEAD",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=2",
   "source": "suiuishino.js"
@@ -4104,7 +4104,7 @@ window.SONG_DATA.push(
     {
   "title": "群青",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=3",
   "source": "suiuishino.js"
@@ -4112,7 +4112,7 @@ window.SONG_DATA.push(
     {
   "title": "準透明少年",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=4",
   "source": "suiuishino.js"
@@ -4120,7 +4120,7 @@ window.SONG_DATA.push(
     {
   "title": "青い春",
   "artist": "back number",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=5",
   "source": "suiuishino.js"
@@ -4128,7 +4128,7 @@ window.SONG_DATA.push(
     {
   "title": "翡翠のまち",
   "artist": "メル feat.初音ミク",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=6",
   "source": "suiuishino.js"
@@ -4136,7 +4136,7 @@ window.SONG_DATA.push(
     {
   "title": "main actor",
   "artist": "美波",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=7",
   "source": "suiuishino.js"
@@ -4144,7 +4144,7 @@ window.SONG_DATA.push(
     {
   "title": "透明だった世界",
   "artist": "秦基博",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=8",
   "source": "suiuishino.js"
@@ -4152,7 +4152,7 @@ window.SONG_DATA.push(
     {
   "title": "少女S",
   "artist": "SCANDAL",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=9",
   "source": "suiuishino.js"
@@ -4160,7 +4160,7 @@ window.SONG_DATA.push(
     {
   "title": "水流のロック",
   "artist": "日食なつこ",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=10",
   "source": "suiuishino.js"
@@ -4168,7 +4168,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=11",
   "source": "suiuishino.js"
@@ -4176,7 +4176,7 @@ window.SONG_DATA.push(
     {
   "title": "カヌレ",
   "artist": "CHiCO with HoneyWorks",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=12",
   "source": "suiuishino.js"
@@ -4184,7 +4184,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーバード",
   "artist": "いきものがかり",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=13",
   "source": "suiuishino.js"
@@ -4192,7 +4192,7 @@ window.SONG_DATA.push(
     {
   "title": "命に嫌われている。",
   "artist": "カンザキイオリ feat.初音ミク",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=14",
   "source": "suiuishino.js"
@@ -4200,7 +4200,7 @@ window.SONG_DATA.push(
     {
   "title": "おやすみ泣き声、さよなら歌姫",
   "artist": "クリープハイプ",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=15",
   "source": "suiuishino.js"
@@ -4208,7 +4208,7 @@ window.SONG_DATA.push(
     {
   "title": "スターライト",
   "artist": "amazarashi",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=16",
   "source": "suiuishino.js"
@@ -4216,7 +4216,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=17",
   "source": "suiuishino.js"
@@ -4224,7 +4224,7 @@ window.SONG_DATA.push(
     {
   "title": "怪物",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=18",
   "source": "suiuishino.js"
@@ -4232,7 +4232,7 @@ window.SONG_DATA.push(
     {
   "title": "修羅",
   "artist": "DOES",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=19",
   "source": "suiuishino.js"
@@ -4240,7 +4240,7 @@ window.SONG_DATA.push(
     {
   "title": "ファジーネーブル",
   "artist": "Conton Candy",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=20",
   "source": "suiuishino.js"
@@ -4248,7 +4248,7 @@ window.SONG_DATA.push(
     {
   "title": "あの夏のいつかは",
   "artist": "*Luna feat.音街ウナ・鏡音レン",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=21",
   "source": "suiuishino.js"
@@ -4256,7 +4256,7 @@ window.SONG_DATA.push(
     {
   "title": "夜の踊り子",
   "artist": "サカナクション",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=22",
   "source": "suiuishino.js"
@@ -4264,7 +4264,7 @@ window.SONG_DATA.push(
     {
   "title": "バレンタイン・キッス",
   "artist": "国生さゆり",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=23",
   "source": "suiuishino.js"
@@ -4272,7 +4272,7 @@ window.SONG_DATA.push(
     {
   "title": "風を食む",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-12]想遇见20位新观众！耐久挑战♪【#しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-09-12] I want to meet 20 new viewers! Endurance Challenge ♪ [#ShinonoTailor]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV141YY64EWz?p=24",
   "source": "suiuishino.js"
@@ -4280,7 +4280,7 @@ window.SONG_DATA.push(
     {
   "title": "feel my soul",
   "artist": "YUI",
-  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "【Song Cover】[2026-09-13] Sunday regular Live!! Goodnight singing and playing 🌙【#Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=1",
   "source": "suiuishino.js"
@@ -4288,7 +4288,7 @@ window.SONG_DATA.push(
     {
   "title": "嘆きのキス",
   "artist": "aiko",
-  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "【Song Cover】[2026-09-13] Sunday regular Live!! Goodnight singing and playing 🌙【#Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=2",
   "source": "suiuishino.js"
@@ -4296,7 +4296,7 @@ window.SONG_DATA.push(
     {
   "title": "翡翠のまち",
   "artist": "メル feat.初音ミク",
-  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "【Song Cover】[2026-09-13] Sunday regular Live!! Goodnight singing and playing 🌙【#Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=3",
   "source": "suiuishino.js"
@@ -4304,7 +4304,7 @@ window.SONG_DATA.push(
     {
   "title": "季節は次々死んでいく",
   "artist": "amazarashi",
-  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "【Song Cover】[2026-09-13] Sunday regular Live!! Goodnight singing and playing 🌙【#Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=4",
   "source": "suiuishino.js"
@@ -4312,7 +4312,7 @@ window.SONG_DATA.push(
     {
   "title": "もののけ姫",
   "artist": "米良美一",
-  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "【Song Cover】[2026-09-13] Sunday regular Live!! Goodnight singing and playing 🌙【#Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=5",
   "source": "suiuishino.js"
@@ -4320,7 +4320,7 @@ window.SONG_DATA.push(
     {
   "title": "フクロウ ～フクロウが知らせる客が来たと～",
   "artist": "KOKIA",
-  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "【Song Cover】[2026-09-13] Sunday regular Live!! Goodnight singing and playing 🌙【#Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=6",
   "source": "suiuishino.js"
@@ -4328,7 +4328,7 @@ window.SONG_DATA.push(
     {
   "title": "憂一乗",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "【Song Cover】[2026-09-13] Sunday regular Live!! Goodnight singing and playing 🌙【#Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=7",
   "source": "suiuishino.js"
@@ -4336,7 +4336,7 @@ window.SONG_DATA.push(
     {
   "title": "嘘つき",
   "artist": "阿部真央",
-  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "【Song Cover】[2026-09-13] Sunday regular Live!! Goodnight singing and playing 🌙【#Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=8",
   "source": "suiuishino.js"
@@ -4344,7 +4344,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピーエンド",
   "artist": "back number",
-  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "【Song Cover】[2026-09-13] Sunday regular Live!! Goodnight singing and playing 🌙【#Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=9",
   "source": "suiuishino.js"
@@ -4352,7 +4352,7 @@ window.SONG_DATA.push(
     {
   "title": "8.8",
   "artist": "あたらよ",
-  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "【Song Cover】[2026-09-13] Sunday regular Live!! Goodnight singing and playing 🌙【#Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=10",
   "source": "suiuishino.js"
@@ -4360,7 +4360,7 @@ window.SONG_DATA.push(
     {
   "title": "カワキヲアメク",
   "artist": "美波",
-  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "【Song Cover】[2026-09-13] Sunday regular Live!! Goodnight singing and playing 🌙【#Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=11",
   "source": "suiuishino.js"
@@ -4368,7 +4368,7 @@ window.SONG_DATA.push(
     {
   "title": "カワキヲアメク",
   "artist": "美波",
-  "collection": "【歌切】[2026-09-13]周日定期直播！！晚安弹唱🌙【#しのの仕立て屋】",
+  "collection": "【Song Cover】[2026-09-13] Sunday regular Live!! Goodnight singing and playing 🌙【#Shinono Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ePYr64Eak?p=12",
   "source": "suiuishino.js"
@@ -4376,7 +4376,7 @@ window.SONG_DATA.push(
     {
   "title": "チノカテ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-15] Soothing midday singing！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=1",
   "source": "suiuishino.js"
@@ -4384,7 +4384,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒッチコック",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-15] Soothing midday singing！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=2",
   "source": "suiuishino.js"
@@ -4392,7 +4392,7 @@ window.SONG_DATA.push(
     {
   "title": "藍二乗",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-15] Soothing midday singing！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=3",
   "source": "suiuishino.js"
@@ -4400,7 +4400,7 @@ window.SONG_DATA.push(
     {
   "title": "負け犬にアンコールはいらない",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-15] Soothing midday singing！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=4",
   "source": "suiuishino.js"
@@ -4408,7 +4408,7 @@ window.SONG_DATA.push(
     {
   "title": "修羅",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-15] Soothing midday singing！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=5",
   "source": "suiuishino.js"
@@ -4416,7 +4416,7 @@ window.SONG_DATA.push(
     {
   "title": "It's all too much",
   "artist": "YUI",
-  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-15] Soothing midday singing！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=6",
   "source": "suiuishino.js"
@@ -4424,7 +4424,7 @@ window.SONG_DATA.push(
     {
   "title": "ピースサイン",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-15] Soothing midday singing！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=7",
   "source": "suiuishino.js"
@@ -4432,7 +4432,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら",
   "artist": "結束バンド",
-  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-15] Soothing midday singing！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=8",
   "source": "suiuishino.js"
@@ -4440,7 +4440,7 @@ window.SONG_DATA.push(
     {
   "title": "からくりピエロ",
   "artist": "40mP feat.初音ミク",
-  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-15] Soothing midday singing！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=9",
   "source": "suiuishino.js"
@@ -4448,7 +4448,7 @@ window.SONG_DATA.push(
     {
   "title": "fish",
   "artist": "back number",
-  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-15] Soothing midday singing！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=10",
   "source": "suiuishino.js"
@@ -4456,7 +4456,7 @@ window.SONG_DATA.push(
     {
   "title": "ヘビースモーク",
   "artist": "にしな",
-  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-15] Soothing midday singing！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=11",
   "source": "suiuishino.js"
@@ -4464,7 +4464,7 @@ window.SONG_DATA.push(
     {
   "title": "again",
   "artist": "YUI",
-  "collection": "【歌切】[2026-09-15]中午的治愈弹唱！！",
+  "collection": "【Song Clip】[2026-09-15] Soothing midday singing！！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1abeW6gE4d?p=12",
   "source": "suiuishino.js"
@@ -4472,7 +4472,7 @@ window.SONG_DATA.push(
     {
   "title": "コネクト",
   "artist": "ClariS",
-  "collection": "【歌切】[2026-09-16]来唱你喜欢的动画歌曲！",
+  "collection": "【Song Clip】[2026-09-16] Let's sing your favorite anime songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17WeT6zEK4?p=1",
   "source": "suiuishino.js"
@@ -4480,7 +4480,7 @@ window.SONG_DATA.push(
     {
   "title": "花の塔",
   "artist": "さユり",
-  "collection": "【歌切】[2026-09-16]来唱你喜欢的动画歌曲！",
+  "collection": "【Song Clip】[2026-09-16] Let's sing your favorite anime songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17WeT6zEK4?p=2",
   "source": "suiuishino.js"
@@ -4488,7 +4488,7 @@ window.SONG_DATA.push(
     {
   "title": "Snow halation",
   "artist": "μ's",
-  "collection": "【歌切】[2026-09-16]来唱你喜欢的动画歌曲！",
+  "collection": "【Song Clip】[2026-09-16] Let's sing your favorite anime songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17WeT6zEK4?p=3",
   "source": "suiuishino.js"
@@ -4496,7 +4496,7 @@ window.SONG_DATA.push(
     {
   "title": "紅蓮華",
   "artist": "LiSA",
-  "collection": "【歌切】[2026-09-16]来唱你喜欢的动画歌曲！",
+  "collection": "【Song Clip】[2026-09-16] Let's sing your favorite anime songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17WeT6zEK4?p=4",
   "source": "suiuishino.js"
@@ -4504,7 +4504,7 @@ window.SONG_DATA.push(
     {
   "title": "サブリナ",
   "artist": "家入レオ",
-  "collection": "【歌切】[2026-09-16]来唱你喜欢的动画歌曲！",
+  "collection": "【Song Clip】[2026-09-16] Let's sing your favorite anime songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17WeT6zEK4?p=5",
   "source": "suiuishino.js"
@@ -4512,7 +4512,7 @@ window.SONG_DATA.push(
     {
   "title": "ムーンライト伝説",
   "artist": "DALI",
-  "collection": "【歌切】[2026-09-16]来唱你喜欢的动画歌曲！",
+  "collection": "【Song Clip】[2026-09-16] Let's sing your favorite anime songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17WeT6zEK4?p=6",
   "source": "suiuishino.js"
@@ -4520,7 +4520,7 @@ window.SONG_DATA.push(
     {
   "title": "asphyxia",
   "artist": "Cö shu Nie",
-  "collection": "【歌切】[2026-09-16]来唱你喜欢的动画歌曲！",
+  "collection": "【Song Clip】[2026-09-16] Let's sing your favorite anime songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17WeT6zEK4?p=7",
   "source": "suiuishino.js"
@@ -4528,7 +4528,7 @@ window.SONG_DATA.push(
     {
   "title": "ミカヅキ",
   "artist": "さユり",
-  "collection": "【歌切】[2026-09-16]来唱你喜欢的动画歌曲！",
+  "collection": "【Song Clip】[2026-09-16] Let's sing your favorite anime songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17WeT6zEK4?p=8",
   "source": "suiuishino.js"
@@ -4536,7 +4536,7 @@ window.SONG_DATA.push(
     {
   "title": "The Everlasting Guilty Crown",
   "artist": "EGOIST",
-  "collection": "【歌切】[2026-09-16]来唱你喜欢的动画歌曲！",
+  "collection": "【Song Clip】[2026-09-16] Let's sing your favorite anime songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17WeT6zEK4?p=9",
   "source": "suiuishino.js"
@@ -4544,7 +4544,7 @@ window.SONG_DATA.push(
     {
   "title": "orion",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-09-16]来唱你喜欢的动画歌曲！",
+  "collection": "【Song Clip】[2026-09-16] Let's sing your favorite anime songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17WeT6zEK4?p=10",
   "source": "suiuishino.js"
@@ -4552,7 +4552,7 @@ window.SONG_DATA.push(
     {
   "title": "チカっとチカ千花っ♡",
   "artist": "藤原千花",
-  "collection": "【歌切】[2026-09-16]来唱你喜欢的动画歌曲！",
+  "collection": "【Song Clip】[2026-09-16] Let's sing your favorite anime songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17WeT6zEK4?p=11",
   "source": "suiuishino.js"
@@ -4560,7 +4560,7 @@ window.SONG_DATA.push(
     {
   "title": "私は最強",
   "artist": "Ado",
-  "collection": "【歌切】[2026-09-16]来唱你喜欢的动画歌曲！",
+  "collection": "【Song Clip】[2026-09-16] Let's sing your favorite anime songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17WeT6zEK4?p=12",
   "source": "suiuishino.js"
@@ -4568,7 +4568,7 @@ window.SONG_DATA.push(
     {
   "title": "嘘",
   "artist": "シド",
-  "collection": "【歌切】[2026-09-16]来唱你喜欢的动画歌曲！",
+  "collection": "【Song Clip】[2026-09-16] Let's sing your favorite anime songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17WeT6zEK4?p=13",
   "source": "suiuishino.js"
@@ -4576,7 +4576,7 @@ window.SONG_DATA.push(
     {
   "title": "ゴールデンタイムラバー",
   "artist": "スキマスイッチ",
-  "collection": "【歌切】[2026-09-16]来唱你喜欢的动画歌曲！",
+  "collection": "【Song Clip】[2026-09-16] Let's sing your favorite anime songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17WeT6zEK4?p=14",
   "source": "suiuishino.js"
@@ -4584,7 +4584,7 @@ window.SONG_DATA.push(
     {
   "title": "CLEAR",
   "artist": "坂本真綾",
-  "collection": "【歌切】[2026-09-16]来唱你喜欢的动画歌曲！",
+  "collection": "【Song Clip】[2026-09-16] Let's sing your favorite anime songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17WeT6zEK4?p=15",
   "source": "suiuishino.js"
@@ -4592,7 +4592,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Cut】[2026-09-20] Sunday regular live streaming!! Goodnight singing with guitar🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=1",
   "source": "suiuishino.js"
@@ -4600,7 +4600,7 @@ window.SONG_DATA.push(
     {
   "title": "Namidairo",
   "artist": "YUI",
-  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Cut】[2026-09-20] Sunday regular live streaming!! Goodnight singing with guitar🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=2",
   "source": "suiuishino.js"
@@ -4608,7 +4608,7 @@ window.SONG_DATA.push(
     {
   "title": "美しい鰭",
   "artist": "スピッツ",
-  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Cut】[2026-09-20] Sunday regular live streaming!! Goodnight singing with guitar🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=3",
   "source": "suiuishino.js"
@@ -4616,7 +4616,7 @@ window.SONG_DATA.push(
     {
   "title": "Beautiful World",
   "artist": "宇多田ヒカル",
-  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Cut】[2026-09-20] Sunday regular live streaming!! Goodnight singing with guitar🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=4",
   "source": "suiuishino.js"
@@ -4624,7 +4624,7 @@ window.SONG_DATA.push(
     {
   "title": "ミカヅキ",
   "artist": "さユり",
-  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Cut】[2026-09-20] Sunday regular live streaming!! Goodnight singing with guitar🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=5",
   "source": "suiuishino.js"
@@ -4632,7 +4632,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒカリヘ",
   "artist": "miwa",
-  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Cut】[2026-09-20] Sunday regular live streaming!! Goodnight singing with guitar🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=6",
   "source": "suiuishino.js"
@@ -4640,7 +4640,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Cut】[2026-09-20] Sunday regular live streaming!! Goodnight singing with guitar🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=7",
   "source": "suiuishino.js"
@@ -4648,7 +4648,7 @@ window.SONG_DATA.push(
     {
   "title": "Rain",
   "artist": "秦基博",
-  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Cut】[2026-09-20] Sunday regular live streaming!! Goodnight singing with guitar🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=8",
   "source": "suiuishino.js"
@@ -4656,7 +4656,7 @@ window.SONG_DATA.push(
     {
   "title": "夜永唄",
   "artist": "神はサイコロを振らない",
-  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Cut】[2026-09-20] Sunday regular live streaming!! Goodnight singing with guitar🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=9",
   "source": "suiuishino.js"
@@ -4664,7 +4664,7 @@ window.SONG_DATA.push(
     {
   "title": "テルーの唄",
   "artist": "手嶌葵",
-  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Cut】[2026-09-20] Sunday regular live streaming!! Goodnight singing with guitar🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=10",
   "source": "suiuishino.js"
@@ -4672,7 +4672,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-20]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Cut】[2026-09-20] Sunday regular live streaming!! Goodnight singing with guitar🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K4hk6CEzy?p=11",
   "source": "suiuishino.js"
@@ -4680,7 +4680,7 @@ window.SONG_DATA.push(
     {
   "title": "又三郎",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "collection": "【Song Cut】[2026-09-21] Singing continuously for 1 hour!! Suitable as background music too ◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=1",
   "source": "suiuishino.js"
@@ -4688,7 +4688,7 @@ window.SONG_DATA.push(
     {
   "title": "脳裏上のクラッカー",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "collection": "【Song Cut】[2026-09-21] Singing continuously for 1 hour!! Suitable as background music too ◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=2",
   "source": "suiuishino.js"
@@ -4696,7 +4696,7 @@ window.SONG_DATA.push(
     {
   "title": "群青",
   "artist": "YOASOBI",
-  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "collection": "【Song Cut】[2026-09-21] Singing continuously for 1 hour!! Suitable as background music too ◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=3",
   "source": "suiuishino.js"
@@ -4704,7 +4704,7 @@ window.SONG_DATA.push(
     {
   "title": "おやすみ泣き声、さよなら歌姫",
   "artist": "クリープハイプ",
-  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "collection": "【Song Cut】[2026-09-21] Singing continuously for 1 hour!! Suitable as background music too ◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=4",
   "source": "suiuishino.js"
@@ -4712,7 +4712,7 @@ window.SONG_DATA.push(
     {
   "title": "真赤",
   "artist": "My Hair is Bad",
-  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "collection": "【Song Cut】[2026-09-21] Singing continuously for 1 hour!! Suitable as background music too ◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=5",
   "source": "suiuishino.js"
@@ -4720,7 +4720,7 @@ window.SONG_DATA.push(
     {
   "title": "ERROR",
   "artist": "niki feat.Lily",
-  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "collection": "【Song Cut】[2026-09-21] Singing continuously for 1 hour!! Suitable as background music too ◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=6",
   "source": "suiuishino.js"
@@ -4728,7 +4728,7 @@ window.SONG_DATA.push(
     {
   "title": "JANE DOE",
   "artist": "米津玄師・宇多田ヒカル",
-  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "collection": "【Song Cut】[2026-09-21] Singing continuously for 1 hour!! Suitable as background music too ◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=7",
   "source": "suiuishino.js"
@@ -4736,7 +4736,7 @@ window.SONG_DATA.push(
     {
   "title": "声",
   "artist": "羊文学",
-  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "collection": "【Song Cut】[2026-09-21] Singing continuously for 1 hour!! Suitable as background music too ◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=8",
   "source": "suiuishino.js"
@@ -4744,7 +4744,7 @@ window.SONG_DATA.push(
     {
   "title": "プロポーズ",
   "artist": "なとり",
-  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "collection": "【Song Cut】[2026-09-21] Singing continuously for 1 hour!! Suitable as background music too ◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=9",
   "source": "suiuishino.js"
@@ -4752,7 +4752,7 @@ window.SONG_DATA.push(
     {
   "title": "カブトムシ",
   "artist": "aiko",
-  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "collection": "【Song Cut】[2026-09-21] Singing continuously for 1 hour!! Suitable as background music too ◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=10",
   "source": "suiuishino.js"
@@ -4760,7 +4760,7 @@ window.SONG_DATA.push(
     {
   "title": "修羅",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "collection": "【Song Cut】[2026-09-21] Singing continuously for 1 hour!! Suitable as background music too ◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=11",
   "source": "suiuishino.js"
@@ -4768,7 +4768,7 @@ window.SONG_DATA.push(
     {
   "title": "鳥の詩",
   "artist": "Lia",
-  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "collection": "【Song Cut】[2026-09-21] Singing continuously for 1 hour!! Suitable as background music too ◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=12",
   "source": "suiuishino.js"
@@ -4776,7 +4776,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーバード",
   "artist": "いきものがかり",
-  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "collection": "【Song Cut】[2026-09-21] Singing continuously for 1 hour!! Suitable as background music too ◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=13",
   "source": "suiuishino.js"
@@ -4784,7 +4784,7 @@ window.SONG_DATA.push(
     {
   "title": "秒針を噛む",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "collection": "【Song Cut】[2026-09-21] Singing continuously for 1 hour!! Suitable as background music too ◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=14",
   "source": "suiuishino.js"
@@ -4792,7 +4792,7 @@ window.SONG_DATA.push(
     {
   "title": "星座になれたら",
   "artist": "結束バンド",
-  "collection": "【歌切】[2026-09-21]连续唱满1小时！！当背景音乐听也很合适◎",
+  "collection": "【Song Cut】[2026-09-21] Singing continuously for 1 hour!! Suitable as background music too ◎",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bphk6jE9k?p=15",
   "source": "suiuishino.js"
@@ -4800,7 +4800,7 @@ window.SONG_DATA.push(
     {
   "title": "あくあ色ぱれっと",
   "artist": "湊あくあ",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
+  "collection": "【Song Clip】[2026-09-24] Song Requests Welcome♪!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=1",
   "source": "suiuishino.js"
@@ -4808,7 +4808,7 @@ window.SONG_DATA.push(
     {
   "title": "新時代",
   "artist": "Ado",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
+  "collection": "【Song Clip】[2026-09-24] Song Requests Welcome♪!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=2",
   "source": "suiuishino.js"
@@ -4816,7 +4816,7 @@ window.SONG_DATA.push(
     {
   "title": "アルジャーノン",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
+  "collection": "【Song Clip】[2026-09-24] Song Requests Welcome♪!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=3",
   "source": "suiuishino.js"
@@ -4824,7 +4824,7 @@ window.SONG_DATA.push(
     {
   "title": "10月無口な君を忘れる",
   "artist": "あたらよ",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
+  "collection": "【Song Clip】[2026-09-24] Song Requests Welcome♪!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=4",
   "source": "suiuishino.js"
@@ -4832,7 +4832,7 @@ window.SONG_DATA.push(
     {
   "title": "季節は次々死んでいく",
   "artist": "amazarashi",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
+  "collection": "【Song Clip】[2026-09-24] Song Requests Welcome♪!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=5",
   "source": "suiuishino.js"
@@ -4840,7 +4840,7 @@ window.SONG_DATA.push(
     {
   "title": "花の塔",
   "artist": "さユり",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
+  "collection": "【Song Clip】[2026-09-24] Song Requests Welcome♪!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=6",
   "source": "suiuishino.js"
@@ -4848,7 +4848,7 @@ window.SONG_DATA.push(
     {
   "title": "ぼくらのレットイットビー",
   "artist": "はりーP feat.初音ミク",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
+  "collection": "【Song Clip】[2026-09-24] Song Requests Welcome♪!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=7",
   "source": "suiuishino.js"
@@ -4856,7 +4856,7 @@ window.SONG_DATA.push(
     {
   "title": "Mela!",
   "artist": "緑黄色社会",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
+  "collection": "【Song Clip】[2026-09-24] Song Requests Welcome♪!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=8",
   "source": "suiuishino.js"
@@ -4864,7 +4864,7 @@ window.SONG_DATA.push(
     {
   "title": "シネマ",
   "artist": "Ayase feat.初音ミク",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
+  "collection": "【Song Clip】[2026-09-24] Song Requests Welcome♪!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=9",
   "source": "suiuishino.js"
@@ -4872,7 +4872,7 @@ window.SONG_DATA.push(
     {
   "title": "千鳥",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
+  "collection": "【Song Clip】[2026-09-24] Song Requests Welcome♪!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=10",
   "source": "suiuishino.js"
@@ -4880,7 +4880,7 @@ window.SONG_DATA.push(
     {
   "title": "I believe",
   "artist": "絢香",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
+  "collection": "【Song Clip】[2026-09-24] Song Requests Welcome♪!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=11",
   "source": "suiuishino.js"
@@ -4888,7 +4888,7 @@ window.SONG_DATA.push(
     {
   "title": "シンデレラボーイ",
   "artist": "Saucy Dog",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
+  "collection": "【Song Clip】[2026-09-24] Song Requests Welcome♪!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=12",
   "source": "suiuishino.js"
@@ -4896,7 +4896,7 @@ window.SONG_DATA.push(
     {
   "title": "月に住む君",
   "artist": "Saucy Dog",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
+  "collection": "【Song Clip】[2026-09-24] Song Requests Welcome♪!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=13",
   "source": "suiuishino.js"
@@ -4904,7 +4904,7 @@ window.SONG_DATA.push(
     {
   "title": "afterglow",
   "artist": "翠雨しの",
-  "collection": "【歌切】[2026-09-24]欢迎点歌♪！！",
+  "collection": "【Song Clip】[2026-09-24] Song Requests Welcome♪!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uQah6DE3z?p=14",
   "source": "suiuishino.js"
@@ -4912,7 +4912,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【歌切】[2026-09-26]想遇见20位新观众！耐久挑战♪",
+  "collection": "【Song Cover】[2026-09-26] Want to Meet 20 New Viewers! Endurance Challenge ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JEjr?p=1",
   "source": "suiuishino.js"
@@ -4920,7 +4920,7 @@ window.SONG_DATA.push(
     {
   "title": "Snow halation",
   "artist": "μ's",
-  "collection": "【歌切】[2026-09-26]想遇见20位新观众！耐久挑战♪",
+  "collection": "【Song Cover】[2026-09-26] Want to Meet 20 New Viewers! Endurance Challenge ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JEjr?p=2",
   "source": "suiuishino.js"
@@ -4928,7 +4928,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピーシンセサイザ",
   "artist": "EasyPop feat.巡音ルカ・GUMI",
-  "collection": "【歌切】[2026-09-26]想遇见20位新观众！耐久挑战♪",
+  "collection": "【Song Cover】[2026-09-26] Want to Meet 20 New Viewers! Endurance Challenge ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JEjr?p=3",
   "source": "suiuishino.js"
@@ -4936,7 +4936,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-26]想遇见20位新观众！耐久挑战♪",
+  "collection": "【Song Cover】[2026-09-26] Want to Meet 20 New Viewers! Endurance Challenge ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JEjr?p=4",
   "source": "suiuishino.js"
@@ -4944,7 +4944,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-26]想遇见20位新观众！耐久挑战♪",
+  "collection": "【Song Cover】[2026-09-26] Want to Meet 20 New Viewers! Endurance Challenge ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JEjr?p=5",
   "source": "suiuishino.js"
@@ -4952,7 +4952,7 @@ window.SONG_DATA.push(
     {
   "title": "雨音ノイズ",
   "artist": "40mP feat.初音ミク",
-  "collection": "【歌切】[2026-09-26]想遇见20位新观众！耐久挑战♪",
+  "collection": "【Song Cover】[2026-09-26] Want to Meet 20 New Viewers! Endurance Challenge ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JEjr?p=6",
   "source": "suiuishino.js"
@@ -4960,7 +4960,7 @@ window.SONG_DATA.push(
     {
   "title": "ライオン",
   "artist": "May'n、中島愛",
-  "collection": "【歌切】[2026-09-26]想遇见20位新观众！耐久挑战♪",
+  "collection": "【Song Cover】[2026-09-26] Want to Meet 20 New Viewers! Endurance Challenge ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JEjr?p=7",
   "source": "suiuishino.js"
@@ -4968,7 +4968,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行",
   "artist": "ランカ・リー=中島愛",
-  "collection": "【歌切】[2026-09-26]想遇见20位新观众！耐久挑战♪",
+  "collection": "【Song Cover】[2026-09-26] Want to Meet 20 New Viewers! Endurance Challenge ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JEjr?p=8",
   "source": "suiuishino.js"
@@ -4976,7 +4976,7 @@ window.SONG_DATA.push(
     {
   "title": "ドリームレス・ドリームス",
   "artist": "はるまきごはん feat.初音ミク",
-  "collection": "【歌切】[2026-09-26]想遇见20位新观众！耐久挑战♪",
+  "collection": "【Song Cover】[2026-09-26] Want to Meet 20 New Viewers! Endurance Challenge ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JEjr?p=9",
   "source": "suiuishino.js"
@@ -4984,7 +4984,7 @@ window.SONG_DATA.push(
     {
   "title": "花瓶に触れた",
   "artist": "バルーン feat.flower",
-  "collection": "【歌切】[2026-09-26]想遇见20位新观众！耐久挑战♪",
+  "collection": "【Song Cover】[2026-09-26] Want to Meet 20 New Viewers! Endurance Challenge ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JEjr?p=10",
   "source": "suiuishino.js"
@@ -4992,7 +4992,7 @@ window.SONG_DATA.push(
     {
   "title": "My Dearest",
   "artist": "supercell",
-  "collection": "【歌切】[2026-09-26]想遇见20位新观众！耐久挑战♪",
+  "collection": "【Song Cover】[2026-09-26] Want to Meet 20 New Viewers! Endurance Challenge ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JEjr?p=11",
   "source": "suiuishino.js"
@@ -5000,7 +5000,7 @@ window.SONG_DATA.push(
     {
   "title": "空も飛べるはず",
   "artist": "スピッツ",
-  "collection": "【歌切】[2026-09-26]想遇见20位新观众！耐久挑战♪",
+  "collection": "【Song Cover】[2026-09-26] Want to Meet 20 New Viewers! Endurance Challenge ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JEjr?p=12",
   "source": "suiuishino.js"
@@ -5008,7 +5008,7 @@ window.SONG_DATA.push(
     {
   "title": "瞬き",
   "artist": "back number",
-  "collection": "【歌切】[2026-09-26]想遇见20位新观众！耐久挑战♪",
+  "collection": "【Song Cover】[2026-09-26] Want to Meet 20 New Viewers! Endurance Challenge ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JEjr?p=13",
   "source": "suiuishino.js"
@@ -5016,7 +5016,7 @@ window.SONG_DATA.push(
     {
   "title": "10月無口な君を忘れる",
   "artist": "あたらよ",
-  "collection": "【歌切】[2026-09-26]想遇见20位新观众！耐久挑战♪",
+  "collection": "【Song Cover】[2026-09-26] Want to Meet 20 New Viewers! Endurance Challenge ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JEjr?p=14",
   "source": "suiuishino.js"
@@ -5024,7 +5024,7 @@ window.SONG_DATA.push(
     {
   "title": "ハロ/ハワユ",
   "artist": "ナノウ(ほえほえP) feat.初音ミク",
-  "collection": "【歌切】[2026-09-26]想遇见20位新观众！耐久挑战♪",
+  "collection": "【Song Cover】[2026-09-26] Want to Meet 20 New Viewers! Endurance Challenge ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JEjr?p=15",
   "source": "suiuishino.js"
@@ -5032,7 +5032,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-26]想遇见20位新观众！耐久挑战♪",
+  "collection": "【Song Cover】[2026-09-26] Want to Meet 20 New Viewers! Endurance Challenge ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JEjr?p=16",
   "source": "suiuishino.js"
@@ -5040,7 +5040,7 @@ window.SONG_DATA.push(
     {
   "title": "明日への手紙",
   "artist": "手嶌葵",
-  "collection": "【歌切】[2026-09-26]想遇见20位新观众！耐久挑战♪",
+  "collection": "【Song Cover】[2026-09-26] Want to Meet 20 New Viewers! Endurance Challenge ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JEjr?p=17",
   "source": "suiuishino.js"
@@ -5048,7 +5048,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ君に晴れ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-26]想遇见20位新观众！耐久挑战♪",
+  "collection": "【Song Cover】[2026-09-26] Want to Meet 20 New Viewers! Endurance Challenge ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1M9ah6JEjr?p=18",
   "source": "suiuishino.js"
@@ -5056,7 +5056,7 @@ window.SONG_DATA.push(
     {
   "title": "ベテルギウス",
   "artist": "優里",
-  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-09-27] Sunday regular live!! Late-night singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1onai6jErm?p=1",
   "source": "suiuishino.js"
@@ -5064,7 +5064,7 @@ window.SONG_DATA.push(
     {
   "title": "メルト",
   "artist": "ryo(supercell) feat.初音ミク",
-  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-09-27] Sunday regular live!! Late-night singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1onai6jErm?p=2",
   "source": "suiuishino.js"
@@ -5072,7 +5072,7 @@ window.SONG_DATA.push(
     {
   "title": "コイスルオトメ",
   "artist": "いきものがかり",
-  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-09-27] Sunday regular live!! Late-night singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1onai6jErm?p=3",
   "source": "suiuishino.js"
@@ -5080,7 +5080,7 @@ window.SONG_DATA.push(
     {
   "title": "勿忘",
   "artist": "Awesome City Club",
-  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-09-27] Sunday regular live!! Late-night singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1onai6jErm?p=4",
   "source": "suiuishino.js"
@@ -5088,7 +5088,7 @@ window.SONG_DATA.push(
     {
   "title": "瞬間センチメンタル",
   "artist": "SCANDAL",
-  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-09-27] Sunday regular live!! Late-night singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1onai6jErm?p=5",
   "source": "suiuishino.js"
@@ -5096,7 +5096,7 @@ window.SONG_DATA.push(
     {
   "title": "声",
   "artist": "羊文学",
-  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-09-27] Sunday regular live!! Late-night singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1onai6jErm?p=6",
   "source": "suiuishino.js"
@@ -5104,7 +5104,7 @@ window.SONG_DATA.push(
     {
   "title": "君が夜の海に還るまで",
   "artist": "キタニタツヤ feat.初音ミク",
-  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-09-27] Sunday regular live!! Late-night singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1onai6jErm?p=7",
   "source": "suiuishino.js"
@@ -5112,7 +5112,7 @@ window.SONG_DATA.push(
     {
   "title": "8.8",
   "artist": "あたらよ",
-  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-09-27] Sunday regular live!! Late-night singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1onai6jErm?p=8",
   "source": "suiuishino.js"
@@ -5120,7 +5120,7 @@ window.SONG_DATA.push(
     {
   "title": "季節は次々死んでいく",
   "artist": "amazarashi",
-  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-09-27] Sunday regular live!! Late-night singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1onai6jErm?p=9",
   "source": "suiuishino.js"
@@ -5128,7 +5128,7 @@ window.SONG_DATA.push(
     {
   "title": "Stay Alive",
   "artist": "エミリア(CV:高橋李依)",
-  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-09-27] Sunday regular live!! Late-night singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1onai6jErm?p=10",
   "source": "suiuishino.js"
@@ -5136,7 +5136,7 @@ window.SONG_DATA.push(
     {
   "title": "-ERROR",
   "artist": "niki feat.Lily",
-  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-09-27] Sunday regular live!! Late-night singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1onai6jErm?p=11",
   "source": "suiuishino.js"
@@ -5144,7 +5144,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-09-27] Sunday regular live!! Late-night singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1onai6jErm?p=12",
   "source": "suiuishino.js"
@@ -5152,7 +5152,7 @@ window.SONG_DATA.push(
     {
   "title": "プラネタリウム",
   "artist": "大塚愛",
-  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-09-27] Sunday regular live!! Late-night singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1onai6jErm?p=13",
   "source": "suiuishino.js"
@@ -5160,7 +5160,7 @@ window.SONG_DATA.push(
     {
   "title": "fix",
   "artist": "keeno feat.初音ミク",
-  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-09-27] Sunday regular live!! Late-night singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1onai6jErm?p=14",
   "source": "suiuishino.js"
@@ -5168,7 +5168,7 @@ window.SONG_DATA.push(
     {
   "title": "crack",
   "artist": "keeno feat.初音ミク",
-  "collection": "【歌切】[2026-09-27]周日定期直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-09-27] Sunday regular live!! Late-night singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1onai6jErm?p=15",
   "source": "suiuishino.js"
@@ -5176,7 +5176,7 @@ window.SONG_DATA.push(
     {
   "title": "Rolling star",
   "artist": "YUI",
-  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "collection": "【Song Cover】[2026-10-01] Sing the anime songs you love!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=1",
   "source": "suiuishino.js"
@@ -5184,7 +5184,7 @@ window.SONG_DATA.push(
     {
   "title": "あぶく",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "collection": "【Song Cover】[2026-10-01] Sing the anime songs you love!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=2",
   "source": "suiuishino.js"
@@ -5192,7 +5192,7 @@ window.SONG_DATA.push(
     {
   "title": "プラチナ",
   "artist": "坂本真綾",
-  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "collection": "【Song Cover】[2026-10-01] Sing the anime songs you love!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=3",
   "source": "suiuishino.js"
@@ -5200,7 +5200,7 @@ window.SONG_DATA.push(
     {
   "title": "ナイショの話",
   "artist": "ClariS",
-  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "collection": "【Song Cover】[2026-10-01] Sing the anime songs you love!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=4",
   "source": "suiuishino.js"
@@ -5208,7 +5208,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "collection": "【Song Cover】[2026-10-01] Sing the anime songs you love!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=5",
   "source": "suiuishino.js"
@@ -5216,7 +5216,7 @@ window.SONG_DATA.push(
     {
   "title": "Butter-Fly",
   "artist": "和田光司",
-  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "collection": "【Song Cover】[2026-10-01] Sing the anime songs you love!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=6",
   "source": "suiuishino.js"
@@ -5224,7 +5224,7 @@ window.SONG_DATA.push(
     {
   "title": "snow fairy",
   "artist": "FUNKIST",
-  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "collection": "【Song Cover】[2026-10-01] Sing the anime songs you love!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=7",
   "source": "suiuishino.js"
@@ -5232,7 +5232,7 @@ window.SONG_DATA.push(
     {
   "title": "CLOSER",
   "artist": "井上ジョー",
-  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "collection": "【Song Cover】[2026-10-01] Sing the anime songs you love!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=8",
   "source": "suiuishino.js"
@@ -5240,7 +5240,7 @@ window.SONG_DATA.push(
     {
   "title": "ミカヅキ",
   "artist": "さユり",
-  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "collection": "【Song Cover】[2026-10-01] Sing the anime songs you love!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=9",
   "source": "suiuishino.js"
@@ -5248,7 +5248,7 @@ window.SONG_DATA.push(
     {
   "title": "ずうっといっしょ!",
   "artist": "キタニタツヤ",
-  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "collection": "【Song Cover】[2026-10-01] Sing the anime songs you love!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=10",
   "source": "suiuishino.js"
@@ -5256,7 +5256,7 @@ window.SONG_DATA.push(
     {
   "title": "私は最強",
   "artist": "Ado",
-  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "collection": "【Song Cover】[2026-10-01] Sing the anime songs you love!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=11",
   "source": "suiuishino.js"
@@ -5264,7 +5264,7 @@ window.SONG_DATA.push(
     {
   "title": "ムーンライト伝説",
   "artist": "DALI",
-  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "collection": "【Song Cover】[2026-10-01] Sing the anime songs you love!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=12",
   "source": "suiuishino.js"
@@ -5272,7 +5272,7 @@ window.SONG_DATA.push(
     {
   "title": "創聖のアクエリオン",
   "artist": "AKINO",
-  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "collection": "【Song Cover】[2026-10-01] Sing the anime songs you love!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=13",
   "source": "suiuishino.js"
@@ -5280,7 +5280,7 @@ window.SONG_DATA.push(
     {
   "title": "名前のない怪物",
   "artist": "EGOIST",
-  "collection": "【歌切】[2026-10-01]唱你喜欢的动画歌曲！",
+  "collection": "【Song Cover】[2026-10-01] Sing the anime songs you love!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aiaS6CEYs?p=14",
   "source": "suiuishino.js"
@@ -5288,7 +5288,7 @@ window.SONG_DATA.push(
     {
   "title": "レーザービーム",
   "artist": "Perfume",
-  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
+  "collection": "【Song Cover】[2026-10-04] Perfume Special Singing Stream! Singing with Special Effects Voice Lines✨【Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=1",
   "source": "suiuishino.js"
@@ -5296,7 +5296,7 @@ window.SONG_DATA.push(
     {
   "title": "チョコレイト・ディスコ",
   "artist": "Perfume",
-  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
+  "collection": "【Song Cover】[2026-10-04] Perfume Special Singing Stream! Singing with Special Effects Voice Lines✨【Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=2",
   "source": "suiuishino.js"
@@ -5304,7 +5304,7 @@ window.SONG_DATA.push(
     {
   "title": "エレクトロ・ワールド",
   "artist": "Perfume",
-  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
+  "collection": "【Song Cover】[2026-10-04] Perfume Special Singing Stream! Singing with Special Effects Voice Lines✨【Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=3",
   "source": "suiuishino.js"
@@ -5312,7 +5312,7 @@ window.SONG_DATA.push(
     {
   "title": "Dream Fighter",
   "artist": "Perfume",
-  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
+  "collection": "【Song Cover】[2026-10-04] Perfume Special Singing Stream! Singing with Special Effects Voice Lines✨【Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=4",
   "source": "suiuishino.js"
@@ -5320,7 +5320,7 @@ window.SONG_DATA.push(
     {
   "title": "ワンルーム・ディスコ",
   "artist": "Perfume",
-  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
+  "collection": "【Song Cover】[2026-10-04] Perfume Special Singing Stream! Singing with Special Effects Voice Lines✨【Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=5",
   "source": "suiuishino.js"
@@ -5328,7 +5328,7 @@ window.SONG_DATA.push(
     {
   "title": "不自然なガール",
   "artist": "Perfume",
-  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
+  "collection": "【Song Cover】[2026-10-04] Perfume Special Singing Stream! Singing with Special Effects Voice Lines✨【Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=6",
   "source": "suiuishino.js"
@@ -5336,7 +5336,7 @@ window.SONG_DATA.push(
     {
   "title": "Spending all my time",
   "artist": "Perfume",
-  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
+  "collection": "【Song Cover】[2026-10-04] Perfume Special Singing Stream! Singing with Special Effects Voice Lines✨【Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=7",
   "source": "suiuishino.js"
@@ -5344,7 +5344,7 @@ window.SONG_DATA.push(
     {
   "title": "ねぇ",
   "artist": "Perfume",
-  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
+  "collection": "【Song Cover】[2026-10-04] Perfume Special Singing Stream! Singing with Special Effects Voice Lines✨【Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=8",
   "source": "suiuishino.js"
@@ -5352,7 +5352,7 @@ window.SONG_DATA.push(
     {
   "title": "パーフェクトスター・パーフェクトスタイル",
   "artist": "Perfume",
-  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
+  "collection": "【Song Cover】[2026-10-04] Perfume Special Singing Stream! Singing with Special Effects Voice Lines✨【Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=9",
   "source": "suiuishino.js"
@@ -5360,7 +5360,7 @@ window.SONG_DATA.push(
     {
   "title": "ナチュラルに恋して",
   "artist": "Perfume",
-  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
+  "collection": "【Song Cover】[2026-10-04] Perfume Special Singing Stream! Singing with Special Effects Voice Lines✨【Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=10",
   "source": "suiuishino.js"
@@ -5368,7 +5368,7 @@ window.SONG_DATA.push(
     {
   "title": "コンピューターシティ",
   "artist": "Perfume",
-  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
+  "collection": "【Song Cover】[2026-10-04] Perfume Special Singing Stream! Singing with Special Effects Voice Lines✨【Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=11",
   "source": "suiuishino.js"
@@ -5376,7 +5376,7 @@ window.SONG_DATA.push(
     {
   "title": "SEVENTH HEAVEN",
   "artist": "Perfume",
-  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
+  "collection": "【Song Cover】[2026-10-04] Perfume Special Singing Stream! Singing with Special Effects Voice Lines✨【Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=12",
   "source": "suiuishino.js"
@@ -5384,7 +5384,7 @@ window.SONG_DATA.push(
     {
   "title": "セラミックガール",
   "artist": "Perfume",
-  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
+  "collection": "【Song Cover】[2026-10-04] Perfume Special Singing Stream! Singing with Special Effects Voice Lines✨【Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=13",
   "source": "suiuishino.js"
@@ -5392,7 +5392,7 @@ window.SONG_DATA.push(
     {
   "title": "マカロニ",
   "artist": "Perfume",
-  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
+  "collection": "【Song Cover】[2026-10-04] Perfume Special Singing Stream! Singing with Special Effects Voice Lines✨【Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=14",
   "source": "suiuishino.js"
@@ -5400,7 +5400,7 @@ window.SONG_DATA.push(
     {
   "title": "love the world",
   "artist": "Perfume",
-  "collection": "【歌切】[2026-10-04]Perfume专场歌回！用特效声线演唱✨【しの的裁缝店】",
+  "collection": "【Song Cover】[2026-10-04] Perfume Special Singing Stream! Singing with Special Effects Voice Lines✨【Shino's Tailor Shop】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XqH764EcV?p=15",
   "source": "suiuishino.js"
@@ -5408,7 +5408,7 @@ window.SONG_DATA.push(
     {
   "title": "都落ち",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "collection": "【Song Cut】[2026-10-09] I'm back!! A long-awaited singing stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=1",
   "source": "suiuishino.js"
@@ -5416,7 +5416,7 @@ window.SONG_DATA.push(
     {
   "title": "水流のロック",
   "artist": "日食なつこ",
-  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "collection": "【Song Cut】[2026-10-09] I'm back!! A long-awaited singing stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=2",
   "source": "suiuishino.js"
@@ -5424,7 +5424,7 @@ window.SONG_DATA.push(
     {
   "title": "あの夏のいつかは",
   "artist": "*Luna feat.音街ウナ・鏡音レン",
-  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "collection": "【Song Cut】[2026-10-09] I'm back!! A long-awaited singing stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=3",
   "source": "suiuishino.js"
@@ -5432,7 +5432,7 @@ window.SONG_DATA.push(
     {
   "title": "インフェルノ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "collection": "【Song Cut】[2026-10-09] I'm back!! A long-awaited singing stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=4",
   "source": "suiuishino.js"
@@ -5440,7 +5440,7 @@ window.SONG_DATA.push(
     {
   "title": "Laugh away",
   "artist": "YUI",
-  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "collection": "【Song Cut】[2026-10-09] I'm back!! A long-awaited singing stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=5",
   "source": "suiuishino.js"
@@ -5448,7 +5448,7 @@ window.SONG_DATA.push(
     {
   "title": "ネイティブダンサー",
   "artist": "サカナクション",
-  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "collection": "【Song Cut】[2026-10-09] I'm back!! A long-awaited singing stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=6",
   "source": "suiuishino.js"
@@ -5456,7 +5456,7 @@ window.SONG_DATA.push(
     {
   "title": "又三郎",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "collection": "【Song Cut】[2026-10-09] I'm back!! A long-awaited singing stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=7",
   "source": "suiuishino.js"
@@ -5464,7 +5464,7 @@ window.SONG_DATA.push(
     {
   "title": "きゅうくらりん",
   "artist": "いよわ feat.可不",
-  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "collection": "【Song Cut】[2026-10-09] I'm back!! A long-awaited singing stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=8",
   "source": "suiuishino.js"
@@ -5472,7 +5472,7 @@ window.SONG_DATA.push(
     {
   "title": "ライラック",
   "artist": "美波",
-  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "collection": "【Song Cut】[2026-10-09] I'm back!! A long-awaited singing stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=9",
   "source": "suiuishino.js"
@@ -5480,7 +5480,7 @@ window.SONG_DATA.push(
     {
   "title": "快晴",
   "artist": "Orangestar feat.IA",
-  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "collection": "【Song Cut】[2026-10-09] I'm back!! A long-awaited singing stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=10",
   "source": "suiuishino.js"
@@ -5488,7 +5488,7 @@ window.SONG_DATA.push(
     {
   "title": "花人局",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "collection": "【Song Cut】[2026-10-09] I'm back!! A long-awaited singing stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=11",
   "source": "suiuishino.js"
@@ -5496,7 +5496,7 @@ window.SONG_DATA.push(
     {
   "title": "チュルリラ・チュルリラ・ダッダッダ！",
   "artist": "くらげP",
-  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "collection": "【Song Cut】[2026-10-09] I'm back!! A long-awaited singing stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=12",
   "source": "suiuishino.js"
@@ -5504,7 +5504,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーバード",
   "artist": "いきものがかり",
-  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "collection": "【Song Cut】[2026-10-09] I'm back!! A long-awaited singing stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=13",
   "source": "suiuishino.js"
@@ -5512,7 +5512,7 @@ window.SONG_DATA.push(
     {
   "title": "ルーマー",
   "artist": "ポリスピカデリー",
-  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "collection": "【Song Cut】[2026-10-09] I'm back!! A long-awaited singing stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=14",
   "source": "suiuishino.js"
@@ -5520,7 +5520,7 @@ window.SONG_DATA.push(
     {
   "title": "創聖のアクエリオン",
   "artist": "AKINO",
-  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "collection": "【Song Cut】[2026-10-09] I'm back!! A long-awaited singing stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=15",
   "source": "suiuishino.js"
@@ -5528,7 +5528,7 @@ window.SONG_DATA.push(
     {
   "title": "プラチナ",
   "artist": "坂本真綾",
-  "collection": "【歌切】[2026-10-09]我回来啦！！久违的歌回♪",
+  "collection": "【Song Cut】[2026-10-09] I'm back!! A long-awaited singing stream ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yNpY6tEhB?p=16",
   "source": "suiuishino.js"
@@ -5536,7 +5536,7 @@ window.SONG_DATA.push(
     {
   "title": "左右盲",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-10-11] Sunday regular live!! Goodnight singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=1",
   "source": "suiuishino.js"
@@ -5544,7 +5544,7 @@ window.SONG_DATA.push(
     {
   "title": "修羅",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-10-11] Sunday regular live!! Goodnight singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=2",
   "source": "suiuishino.js"
@@ -5552,7 +5552,7 @@ window.SONG_DATA.push(
     {
   "title": "テレパス",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-10-11] Sunday regular live!! Goodnight singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=3",
   "source": "suiuishino.js"
@@ -5560,7 +5560,7 @@ window.SONG_DATA.push(
     {
   "title": "パレード",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-10-11] Sunday regular live!! Goodnight singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=4",
   "source": "suiuishino.js"
@@ -5568,7 +5568,7 @@ window.SONG_DATA.push(
     {
   "title": "夏の半券",
   "artist": "みきとP feat. 初音ミク",
-  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-10-11] Sunday regular live!! Goodnight singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=5",
   "source": "suiuishino.js"
@@ -5576,7 +5576,7 @@ window.SONG_DATA.push(
     {
   "title": "君と羊と青",
   "artist": "RADWIMPS",
-  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-10-11] Sunday regular live!! Goodnight singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=6",
   "source": "suiuishino.js"
@@ -5584,7 +5584,7 @@ window.SONG_DATA.push(
     {
   "title": "ボクノート",
   "artist": "スキマスイッチ",
-  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-10-11] Sunday regular live!! Goodnight singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=7",
   "source": "suiuishino.js"
@@ -5592,7 +5592,7 @@ window.SONG_DATA.push(
     {
   "title": "Just Be Friends",
   "artist": "Dixie Flatline feat. 巡音ルカ",
-  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-10-11] Sunday regular live!! Goodnight singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=8",
   "source": "suiuishino.js"
@@ -5600,7 +5600,7 @@ window.SONG_DATA.push(
     {
   "title": "君の体温",
   "artist": "クワガタP feat. 初音ミク",
-  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-10-11] Sunday regular live!! Goodnight singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=9",
   "source": "suiuishino.js"
@@ -5608,7 +5608,7 @@ window.SONG_DATA.push(
     {
   "title": "don't cry anymore",
   "artist": "miwa",
-  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-10-11] Sunday regular live!! Goodnight singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=10",
   "source": "suiuishino.js"
@@ -5616,7 +5616,7 @@ window.SONG_DATA.push(
     {
   "title": "fight",
   "artist": "YUI",
-  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-10-11] Sunday regular live!! Goodnight singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=11",
   "source": "suiuishino.js"
@@ -5624,7 +5624,7 @@ window.SONG_DATA.push(
     {
   "title": "クリスマスソング",
   "artist": "back number",
-  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-10-11] Sunday regular live!! Goodnight singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=12",
   "source": "suiuishino.js"
@@ -5632,7 +5632,7 @@ window.SONG_DATA.push(
     {
   "title": "憂一乗",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-10-11] Sunday regular live!! Goodnight singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=13",
   "source": "suiuishino.js"
@@ -5640,7 +5640,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-11]周日固定直播！！晚安弹唱🌙",
+  "collection": "【Song Clip】[2026-10-11] Sunday regular live!! Goodnight singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vxpH65E37?p=14",
   "source": "suiuishino.js"
@@ -5648,7 +5648,7 @@ window.SONG_DATA.push(
     {
   "title": "メランコリーキッチン",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "collection": "[Song cut] [2026-10-13] Male lead vocal songs limited singing stream!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=1",
   "source": "suiuishino.js"
@@ -5656,7 +5656,7 @@ window.SONG_DATA.push(
     {
   "title": "アイシテル",
   "artist": "MONKEY MAJIK",
-  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "collection": "[Song cut] [2026-10-13] Male lead vocal songs limited singing stream!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=2",
   "source": "suiuishino.js"
@@ -5664,7 +5664,7 @@ window.SONG_DATA.push(
     {
   "title": "Overdose",
   "artist": "なとり",
-  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "collection": "[Song cut] [2026-10-13] Male lead vocal songs limited singing stream!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=3",
   "source": "suiuishino.js"
@@ -5672,7 +5672,7 @@ window.SONG_DATA.push(
     {
   "title": "3月9日",
   "artist": "レミオロメン",
-  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "collection": "[Song cut] [2026-10-13] Male lead vocal songs limited singing stream!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=4",
   "source": "suiuishino.js"
@@ -5680,7 +5680,7 @@ window.SONG_DATA.push(
     {
   "title": "スターライト",
   "artist": "amazarashi",
-  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "collection": "[Song cut] [2026-10-13] Male lead vocal songs limited singing stream!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=5",
   "source": "suiuishino.js"
@@ -5688,7 +5688,7 @@ window.SONG_DATA.push(
     {
   "title": "ツキミソウ",
   "artist": "Novelbright",
-  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "collection": "[Song cut] [2026-10-13] Male lead vocal songs limited singing stream!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=6",
   "source": "suiuishino.js"
@@ -5696,7 +5696,7 @@ window.SONG_DATA.push(
     {
   "title": "アカシア",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "collection": "[Song cut] [2026-10-13] Male lead vocal songs limited singing stream!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=7",
   "source": "suiuishino.js"
@@ -5704,7 +5704,7 @@ window.SONG_DATA.push(
     {
   "title": "おやすみ泣き声、さよなら歌姫",
   "artist": "クリープハイプ",
-  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "collection": "[Song cut] [2026-10-13] Male lead vocal songs limited singing stream!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=8",
   "source": "suiuishino.js"
@@ -5712,7 +5712,7 @@ window.SONG_DATA.push(
     {
   "title": "新宝島",
   "artist": "サカナクション",
-  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "collection": "[Song cut] [2026-10-13] Male lead vocal songs limited singing stream!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=9",
   "source": "suiuishino.js"
@@ -5720,7 +5720,7 @@ window.SONG_DATA.push(
     {
   "title": "憂、燦々",
   "artist": "クリープハイプ",
-  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "collection": "[Song cut] [2026-10-13] Male lead vocal songs limited singing stream!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=10",
   "source": "suiuishino.js"
@@ -5728,7 +5728,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーアンビエンス（feat. asmi）",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "collection": "[Song cut] [2026-10-13] Male lead vocal songs limited singing stream!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=11",
   "source": "suiuishino.js"
@@ -5736,7 +5736,7 @@ window.SONG_DATA.push(
     {
   "title": "小さな恋のうた",
   "artist": "MONGOL800",
-  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "collection": "[Song cut] [2026-10-13] Male lead vocal songs limited singing stream!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=12",
   "source": "suiuishino.js"
@@ -5744,7 +5744,7 @@ window.SONG_DATA.push(
     {
   "title": "星になれたら",
   "artist": "Mr.Children",
-  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "collection": "[Song cut] [2026-10-13] Male lead vocal songs limited singing stream!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=13",
   "source": "suiuishino.js"
@@ -5752,7 +5752,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON",
-  "collection": "【歌切】[2026-10-13]男性主唱歌曲限定歌回！",
+  "collection": "[Song cut] [2026-10-13] Male lead vocal songs limited singing stream!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bMpz6SEfM?p=14",
   "source": "suiuishino.js"
@@ -5760,7 +5760,7 @@ window.SONG_DATA.push(
     {
   "title": "花の塔",
   "artist": "さユり",
-  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-10-17] Want to meet 20 new viewers! Endurance Singing Stream♪ [Shinono Shitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=1",
   "source": "suiuishino.js"
@@ -5768,7 +5768,7 @@ window.SONG_DATA.push(
     {
   "title": "Butterfly",
   "artist": "木村カエラ",
-  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-10-17] Want to meet 20 new viewers! Endurance Singing Stream♪ [Shinono Shitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=2",
   "source": "suiuishino.js"
@@ -5776,7 +5776,7 @@ window.SONG_DATA.push(
     {
   "title": "病名恋ワズライ",
   "artist": "HoneyWorks feat.GUMI",
-  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-10-17] Want to meet 20 new viewers! Endurance Singing Stream♪ [Shinono Shitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=3",
   "source": "suiuishino.js"
@@ -5784,7 +5784,7 @@ window.SONG_DATA.push(
     {
   "title": "Luna say maybe",
   "artist": "月村手毬(CV.小鹿なお)",
-  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-10-17] Want to meet 20 new viewers! Endurance Singing Stream♪ [Shinono Shitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=4",
   "source": "suiuishino.js"
@@ -5792,7 +5792,7 @@ window.SONG_DATA.push(
     {
   "title": "オレンジ",
   "artist": "トーマ feat.初音ミク",
-  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-10-17] Want to meet 20 new viewers! Endurance Singing Stream♪ [Shinono Shitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=5",
   "source": "suiuishino.js"
@@ -5800,7 +5800,7 @@ window.SONG_DATA.push(
     {
   "title": "蜜月アン・ドゥ・トロワ",
   "artist": "DATEKEN feat.鏡音リン",
-  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-10-17] Want to meet 20 new viewers! Endurance Singing Stream♪ [Shinono Shitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=6",
   "source": "suiuishino.js"
@@ -5808,7 +5808,7 @@ window.SONG_DATA.push(
     {
   "title": "10月無口な君を忘れる",
   "artist": "あたらよ",
-  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-10-17] Want to meet 20 new viewers! Endurance Singing Stream♪ [Shinono Shitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=7",
   "source": "suiuishino.js"
@@ -5816,7 +5816,7 @@ window.SONG_DATA.push(
     {
   "title": "DAYBREAK FRONTLINE",
   "artist": "Orangestar feat.IA",
-  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-10-17] Want to meet 20 new viewers! Endurance Singing Stream♪ [Shinono Shitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=8",
   "source": "suiuishino.js"
@@ -5824,7 +5824,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna feat.初音ミク",
-  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-10-17] Want to meet 20 new viewers! Endurance Singing Stream♪ [Shinono Shitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=9",
   "source": "suiuishino.js"
@@ -5832,7 +5832,7 @@ window.SONG_DATA.push(
     {
   "title": "世界一可愛い私",
   "artist": "藤田ことね(CV.飯田ヒカル)",
-  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-10-17] Want to meet 20 new viewers! Endurance Singing Stream♪ [Shinono Shitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=10",
   "source": "suiuishino.js"
@@ -5840,7 +5840,7 @@ window.SONG_DATA.push(
     {
   "title": "How crazy",
   "artist": "YUI",
-  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-10-17] Want to meet 20 new viewers! Endurance Singing Stream♪ [Shinono Shitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=11",
   "source": "suiuishino.js"
@@ -5848,7 +5848,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-17]想结识20位新观众！耐久歌回♪【しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-10-17] Want to meet 20 new viewers! Endurance Singing Stream♪ [Shinono Shitateya]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GgnM6cEvq?p=12",
   "source": "suiuishino.js"
@@ -5856,7 +5856,7 @@ window.SONG_DATA.push(
     {
   "title": "千鳥",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-16]午间治愈系弹唱！！【しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-10-16] Noontime Healing Acoustic Singing & Playing!! [Shinono's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgnM6cEQh?p=1",
   "source": "suiuishino.js"
@@ -5864,7 +5864,7 @@ window.SONG_DATA.push(
     {
   "title": "Never say die",
   "artist": "YUI",
-  "collection": "【歌切】[2026-10-16]午间治愈系弹唱！！【しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-10-16] Noontime Healing Acoustic Singing & Playing!! [Shinono's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgnM6cEQh?p=2",
   "source": "suiuishino.js"
@@ -5872,7 +5872,7 @@ window.SONG_DATA.push(
     {
   "title": "1000日間",
   "artist": "乃紫",
-  "collection": "【歌切】[2026-10-16]午间治愈系弹唱！！【しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-10-16] Noontime Healing Acoustic Singing & Playing!! [Shinono's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgnM6cEQh?p=3",
   "source": "suiuishino.js"
@@ -5880,7 +5880,7 @@ window.SONG_DATA.push(
     {
   "title": "青と夏",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【歌切】[2026-10-16]午间治愈系弹唱！！【しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-10-16] Noontime Healing Acoustic Singing & Playing!! [Shinono's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgnM6cEQh?p=4",
   "source": "suiuishino.js"
@@ -5888,7 +5888,7 @@ window.SONG_DATA.push(
     {
   "title": "ユラユラ",
   "artist": "Hearts Grow",
-  "collection": "【歌切】[2026-10-16]午间治愈系弹唱！！【しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-10-16] Noontime Healing Acoustic Singing & Playing!! [Shinono's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgnM6cEQh?p=5",
   "source": "suiuishino.js"
@@ -5896,7 +5896,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ君に晴れ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-16]午间治愈系弹唱！！【しのの仕立て屋】",
+  "collection": "[Song Clip] [2026-10-16] Noontime Healing Acoustic Singing & Playing!! [Shinono's Tailor Shop]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgnM6cEQh?p=6",
   "source": "suiuishino.js"
@@ -5904,7 +5904,7 @@ window.SONG_DATA.push(
     {
   "title": "雨音ノイズ",
   "artist": "40mP feat. 初音ミク",
-  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "collection": "[Song Cut] [2026-10-18] Sunday Regular Live!! Goodnight Acoustic Singing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=1",
   "source": "suiuishino.js"
@@ -5912,7 +5912,7 @@ window.SONG_DATA.push(
     {
   "title": "冬眠",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "collection": "[Song Cut] [2026-10-18] Sunday Regular Live!! Goodnight Acoustic Singing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=2",
   "source": "suiuishino.js"
@@ -5920,7 +5920,7 @@ window.SONG_DATA.push(
     {
   "title": "One more time, One more chance",
   "artist": "山崎まさよし",
-  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "collection": "[Song Cut] [2026-10-18] Sunday Regular Live!! Goodnight Acoustic Singing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=3",
   "source": "suiuishino.js"
@@ -5928,7 +5928,7 @@ window.SONG_DATA.push(
     {
   "title": "アルジャーノン",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "collection": "[Song Cut] [2026-10-18] Sunday Regular Live!! Goodnight Acoustic Singing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=4",
   "source": "suiuishino.js"
@@ -5936,7 +5936,7 @@ window.SONG_DATA.push(
     {
   "title": "夜行",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "collection": "[Song Cut] [2026-10-18] Sunday Regular Live!! Goodnight Acoustic Singing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=5",
   "source": "suiuishino.js"
@@ -5944,7 +5944,7 @@ window.SONG_DATA.push(
     {
   "title": "メトロノーム",
   "artist": "米津玄師",
-  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "collection": "[Song Cut] [2026-10-18] Sunday Regular Live!! Goodnight Acoustic Singing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=6",
   "source": "suiuishino.js"
@@ -5952,7 +5952,7 @@ window.SONG_DATA.push(
     {
   "title": "光芒",
   "artist": "Hakubi",
-  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "collection": "[Song Cut] [2026-10-18] Sunday Regular Live!! Goodnight Acoustic Singing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=7",
   "source": "suiuishino.js"
@@ -5960,7 +5960,7 @@ window.SONG_DATA.push(
     {
   "title": "フクロウ ～フクロウが知らせる客が来たと～",
   "artist": "KOKIA",
-  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "collection": "[Song Cut] [2026-10-18] Sunday Regular Live!! Goodnight Acoustic Singing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=8",
   "source": "suiuishino.js"
@@ -5968,7 +5968,7 @@ window.SONG_DATA.push(
     {
   "title": "ハイドアンド・シーク",
   "artist": "19 -iku- feat. 初音ミク",
-  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "collection": "[Song Cut] [2026-10-18] Sunday Regular Live!! Goodnight Acoustic Singing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=9",
   "source": "suiuishino.js"
@@ -5976,7 +5976,7 @@ window.SONG_DATA.push(
     {
   "title": "六等星",
   "artist": "ざらめ",
-  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "collection": "[Song Cut] [2026-10-18] Sunday Regular Live!! Goodnight Acoustic Singing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=10",
   "source": "suiuishino.js"
@@ -5984,7 +5984,7 @@ window.SONG_DATA.push(
     {
   "title": "心拍数#0822",
   "artist": "蝶々P feat. 初音ミク",
-  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "collection": "[Song Cut] [2026-10-18] Sunday Regular Live!! Goodnight Acoustic Singing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=11",
   "source": "suiuishino.js"
@@ -5992,7 +5992,7 @@ window.SONG_DATA.push(
     {
   "title": "嘘つき",
   "artist": "あたらよ",
-  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "collection": "[Song Cut] [2026-10-18] Sunday Regular Live!! Goodnight Acoustic Singing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=12",
   "source": "suiuishino.js"
@@ -6000,7 +6000,7 @@ window.SONG_DATA.push(
     {
   "title": "フラレガイガール",
   "artist": "さユり",
-  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "collection": "[Song Cut] [2026-10-18] Sunday Regular Live!! Goodnight Acoustic Singing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=13",
   "source": "suiuishino.js"
@@ -6008,7 +6008,7 @@ window.SONG_DATA.push(
     {
   "title": "世田谷ナイトサファリ",
   "artist": "みきとP feat. 初音ミク",
-  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "collection": "[Song Cut] [2026-10-18] Sunday Regular Live!! Goodnight Acoustic Singing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=14",
   "source": "suiuishino.js"
@@ -6016,7 +6016,7 @@ window.SONG_DATA.push(
     {
   "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-18]周日定期直播！！晚安弹唱🌙",
+  "collection": "[Song Cut] [2026-10-18] Sunday Regular Live!! Goodnight Acoustic Singing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hUnL67Ecx?p=15",
   "source": "suiuishino.js"
@@ -6024,7 +6024,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "collection": "[Song Cuts] [2026-10-19] Singing continuously for one hour!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=1",
   "source": "suiuishino.js"
@@ -6032,7 +6032,7 @@ window.SONG_DATA.push(
     {
   "title": "恋風",
   "artist": "幾田りら",
-  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "collection": "[Song Cuts] [2026-10-19] Singing continuously for one hour!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=2",
   "source": "suiuishino.js"
@@ -6040,7 +6040,7 @@ window.SONG_DATA.push(
     {
   "title": "プラチナ",
   "artist": "坂本真綾",
-  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "collection": "[Song Cuts] [2026-10-19] Singing continuously for one hour!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=3",
   "source": "suiuishino.js"
@@ -6048,7 +6048,7 @@ window.SONG_DATA.push(
     {
   "title": "点描の唄",
   "artist": "Mrs. GREEN APPLE feat.井上苑子",
-  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "collection": "[Song Cuts] [2026-10-19] Singing continuously for one hour!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=4",
   "source": "suiuishino.js"
@@ -6056,7 +6056,7 @@ window.SONG_DATA.push(
     {
   "title": "花の塔",
   "artist": "さユり",
-  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "collection": "[Song Cuts] [2026-10-19] Singing continuously for one hour!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=5",
   "source": "suiuishino.js"
@@ -6064,7 +6064,7 @@ window.SONG_DATA.push(
     {
   "title": "金木犀",
   "artist": "くじら feat.Ado",
-  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "collection": "[Song Cuts] [2026-10-19] Singing continuously for one hour!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=6",
   "source": "suiuishino.js"
@@ -6072,7 +6072,7 @@ window.SONG_DATA.push(
     {
   "title": "シルエット",
   "artist": "KANA-BOON",
-  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "collection": "[Song Cuts] [2026-10-19] Singing continuously for one hour!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=7",
   "source": "suiuishino.js"
@@ -6080,7 +6080,7 @@ window.SONG_DATA.push(
     {
   "title": "なんでもないや",
   "artist": "RADWIMPS",
-  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "collection": "[Song Cuts] [2026-10-19] Singing continuously for one hour!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=8",
   "source": "suiuishino.js"
@@ -6088,7 +6088,7 @@ window.SONG_DATA.push(
     {
   "title": "カワキヲアメク",
   "artist": "美波",
-  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "collection": "[Song Cuts] [2026-10-19] Singing continuously for one hour!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=9",
   "source": "suiuishino.js"
@@ -6096,7 +6096,7 @@ window.SONG_DATA.push(
     {
   "title": "夏の肖像",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "collection": "[Song Cuts] [2026-10-19] Singing continuously for one hour!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=10",
   "source": "suiuishino.js"
@@ -6104,7 +6104,7 @@ window.SONG_DATA.push(
     {
   "title": "ダーリン",
   "artist": "須田景凪",
-  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "collection": "[Song Cuts] [2026-10-19] Singing continuously for one hour!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=11",
   "source": "suiuishino.js"
@@ -6112,7 +6112,7 @@ window.SONG_DATA.push(
     {
   "title": "告白予行練習",
   "artist": "HoneyWorks feat.GUMI",
-  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "collection": "[Song Cuts] [2026-10-19] Singing continuously for one hour!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=12",
   "source": "suiuishino.js"
@@ -6120,7 +6120,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "collection": "[Song Cuts] [2026-10-19] Singing continuously for one hour!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=13",
   "source": "suiuishino.js"
@@ -6128,7 +6128,7 @@ window.SONG_DATA.push(
     {
   "title": "ポラリス",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "collection": "[Song Cuts] [2026-10-19] Singing continuously for one hour!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=14",
   "source": "suiuishino.js"
@@ -6136,7 +6136,7 @@ window.SONG_DATA.push(
     {
   "title": "回る空うさぎ",
   "artist": "Orangestar feat.初音ミク",
-  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "collection": "[Song Cuts] [2026-10-19] Singing continuously for one hour!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=15",
   "source": "suiuishino.js"
@@ -6144,7 +6144,7 @@ window.SONG_DATA.push(
     {
   "title": "シャルル",
   "artist": "バルーン feat.flower",
-  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "collection": "[Song Cuts] [2026-10-19] Singing continuously for one hour!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=16",
   "source": "suiuishino.js"
@@ -6152,7 +6152,7 @@ window.SONG_DATA.push(
     {
   "title": "花になって",
   "artist": "緑黄色社会",
-  "collection": "【歌切】[2026-10-19]连续唱歌一小时！",
+  "collection": "[Song Cuts] [2026-10-19] Singing continuously for one hour!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=17",
   "source": "suiuishino.js"

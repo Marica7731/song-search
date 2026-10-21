@@ -1,6 +1,6 @@
 // 魔ノむえる - 歌单数据 (多合集汇总)
 // 来源: BV1oHAVzxE2q
-// 生成时间: 10/21/2026, 7:17:09 AM
+// 生成时间: 10/21/2026, 11:31:08 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8,7 +8,7 @@ window.SONG_DATA.push(
     {
   "title": "アルジャーノン",
   "artist": "ヨルシカ[BC-X9uJTiF0]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=1",
   "source": "manomueru.js"
@@ -16,7 +16,7 @@ window.SONG_DATA.push(
     {
   "title": "ストロー",
   "artist": "aiko[BC-X9uJTiF0]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=2",
   "source": "manomueru.js"
@@ -24,7 +24,7 @@ window.SONG_DATA.push(
     {
   "title": "スピカ",
   "artist": "ロクデナシ[BC-X9uJTiF0]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=3",
   "source": "manomueru.js"
@@ -32,7 +32,7 @@ window.SONG_DATA.push(
     {
   "title": "My Dearest",
   "artist": "supercell[BC-X9uJTiF0]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=4",
   "source": "manomueru.js"
@@ -40,7 +40,7 @@ window.SONG_DATA.push(
     {
   "title": "高架線",
   "artist": "ELLEGARDEN[BC-X9uJTiF0]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=5",
   "source": "manomueru.js"
@@ -48,7 +48,7 @@ window.SONG_DATA.push(
     {
   "title": "モンスター",
   "artist": "ELLEGARDEN[BC-X9uJTiF0]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=6",
   "source": "manomueru.js"
@@ -56,7 +56,7 @@ window.SONG_DATA.push(
     {
   "title": "W/X/Y",
   "artist": "Tani Yuuki[BC-X9uJTiF0]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=7",
   "source": "manomueru.js"
@@ -64,7 +64,7 @@ window.SONG_DATA.push(
     {
   "title": "雨き声残響",
   "artist": "Orangestar[BC-X9uJTiF0]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=8",
   "source": "manomueru.js"
@@ -72,7 +72,7 @@ window.SONG_DATA.push(
     {
   "title": "Heat Waves",
   "artist": "Limet[BC-X9uJTiF0]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=9",
   "source": "manomueru.js"
@@ -80,7 +80,7 @@ window.SONG_DATA.push(
     {
   "title": "ルーマー",
   "artist": "ポリスピカデリー[BC-X9uJTiF0]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=10",
   "source": "manomueru.js"
@@ -88,7 +88,7 @@ window.SONG_DATA.push(
     {
   "title": "いのちの名前",
   "artist": "木村弓[BC-X9uJTiF0]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=11",
   "source": "manomueru.js"
@@ -96,7 +96,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの[BC-X9uJTiF0]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=12",
   "source": "manomueru.js"
@@ -104,7 +104,7 @@ window.SONG_DATA.push(
     {
   "title": "アルビレオ",
   "artist": "ロクデナシ[BC-X9uJTiF0]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=13",
   "source": "manomueru.js"
@@ -112,7 +112,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ声一つ",
   "artist": "ロクデナシ[BC-X9uJTiF0]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=14",
   "source": "manomueru.js"
@@ -120,7 +120,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れてください",
   "artist": "ヨルシカ[4RjXw_L03fI]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=15",
   "source": "manomueru.js"
@@ -128,7 +128,7 @@ window.SONG_DATA.push(
     {
   "title": "夢灯籠",
   "artist": "RADWIMPS[4RjXw_L03fI]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=16",
   "source": "manomueru.js"
@@ -136,7 +136,7 @@ window.SONG_DATA.push(
     {
   "title": "メリュー",
   "artist": "n-buna[4RjXw_L03fI]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=17",
   "source": "manomueru.js"
@@ -144,7 +144,7 @@ window.SONG_DATA.push(
     {
   "title": "rain stops, good-bye",
   "artist": "にお[4RjXw_L03fI]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=18",
   "source": "manomueru.js"
@@ -152,7 +152,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ[4RjXw_L03fI]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=19",
   "source": "manomueru.js"
@@ -160,7 +160,7 @@ window.SONG_DATA.push(
     {
   "title": "ハイドアンド・シーク",
   "artist": "19's Sound Factory[4RjXw_L03fI]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=20",
   "source": "manomueru.js"
@@ -168,7 +168,7 @@ window.SONG_DATA.push(
     {
   "title": "Ghost of a smile",
   "artist": "EGOIST[4RjXw_L03fI]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=21",
   "source": "manomueru.js"
@@ -176,7 +176,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ[4RjXw_L03fI]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=22",
   "source": "manomueru.js"
@@ -184,7 +184,7 @@ window.SONG_DATA.push(
     {
   "title": "くうになる",
   "artist": "MIMI[4RjXw_L03fI]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=23",
   "source": "manomueru.js"
@@ -192,7 +192,7 @@ window.SONG_DATA.push(
     {
   "title": "アイロニ",
   "artist": "すこっぷ[4RjXw_L03fI]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=24",
   "source": "manomueru.js"
@@ -200,7 +200,7 @@ window.SONG_DATA.push(
     {
   "title": "ハロ/ハワユ",
   "artist": "ナノウ[4RjXw_L03fI]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=25",
   "source": "manomueru.js"
@@ -208,7 +208,7 @@ window.SONG_DATA.push(
     {
   "title": "なまえのないうた",
   "artist": "DATEKEN[4RjXw_L03fI]",
-  "collection": "歌势推荐：魔ノむえる 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
+  "collection": "Singer Recommendation: Ma no Mueru 2026-03-16~2026-03-18 BC-X9uJTiF0 4RjXw_L03fI",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oHAVzxE2q?p=26",
   "source": "manomueru.js"
@@ -216,7 +216,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒッチコック",
   "artist": "ヨルシカ",
-  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "collection": "Song Recommendation: Mano Mueru -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=1",
   "source": "manomueru.js"
@@ -224,7 +224,7 @@ window.SONG_DATA.push(
     {
   "title": "貴方の恋人になりたい",
   "artist": "チョーキューメイ",
-  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "collection": "Song Recommendation: Mano Mueru -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=2",
   "source": "manomueru.js"
@@ -232,7 +232,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーチラス",
   "artist": "ヨルシカ",
-  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "collection": "Song Recommendation: Mano Mueru -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=3",
   "source": "manomueru.js"
@@ -240,7 +240,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "collection": "Song Recommendation: Mano Mueru -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=4",
   "source": "manomueru.js"
@@ -248,7 +248,7 @@ window.SONG_DATA.push(
     {
   "title": "アポリア",
   "artist": "ヨルシカ",
-  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "collection": "Song Recommendation: Mano Mueru -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=5",
   "source": "manomueru.js"
@@ -256,7 +256,7 @@ window.SONG_DATA.push(
     {
   "title": "Sincerely",
   "artist": "TRUE",
-  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "collection": "Song Recommendation: Mano Mueru -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=6",
   "source": "manomueru.js"
@@ -264,7 +264,7 @@ window.SONG_DATA.push(
     {
   "title": "脳裏上のクラッカー",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "collection": "Song Recommendation: Mano Mueru -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=7",
   "source": "manomueru.js"
@@ -272,7 +272,7 @@ window.SONG_DATA.push(
     {
   "title": "だってアタシのヒーロー。",
   "artist": "LiSA",
-  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "collection": "Song Recommendation: Mano Mueru -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=8",
   "source": "manomueru.js"
@@ -280,7 +280,7 @@ window.SONG_DATA.push(
     {
   "title": "プラチナ",
   "artist": "坂本真綾",
-  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "collection": "Song Recommendation: Mano Mueru -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=9",
   "source": "manomueru.js"
@@ -288,7 +288,7 @@ window.SONG_DATA.push(
     {
   "title": "瞳の欠片",
   "artist": "FictionJunction YUUKA",
-  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "collection": "Song Recommendation: Mano Mueru -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=10",
   "source": "manomueru.js"
@@ -296,7 +296,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "collection": "Song Recommendation: Mano Mueru -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=11",
   "source": "manomueru.js"
@@ -304,7 +304,7 @@ window.SONG_DATA.push(
     {
   "title": "courage",
   "artist": "戸松遥",
-  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "collection": "Song Recommendation: Mano Mueru -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=12",
   "source": "manomueru.js"
@@ -312,7 +312,7 @@ window.SONG_DATA.push(
     {
   "title": "Honey sweet tea time",
   "artist": "放課後ティータイム",
-  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "collection": "Song Recommendation: Mano Mueru -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=13",
   "source": "manomueru.js"
@@ -320,7 +320,7 @@ window.SONG_DATA.push(
     {
   "title": "創聖のアクエリオン",
   "artist": "AKINO",
-  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "collection": "Song Recommendation: Mano Mueru -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=14",
   "source": "manomueru.js"
@@ -328,7 +328,7 @@ window.SONG_DATA.push(
     {
   "title": "夢灯籠",
   "artist": "RADWIMPS",
-  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "collection": "Song Recommendation: Mano Mueru -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=15",
   "source": "manomueru.js"
@@ -336,7 +336,7 @@ window.SONG_DATA.push(
     {
   "title": "月光",
   "artist": "鬼束ちひろ",
-  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "collection": "Song Recommendation: Mano Mueru -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=16",
   "source": "manomueru.js"
@@ -344,7 +344,7 @@ window.SONG_DATA.push(
     {
   "title": "ひとりごつ",
   "artist": "ハチワレ",
-  "collection": "歌势推荐：魔ノむえる -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
+  "collection": "Song Recommendation: Mano Mueru -Mano Mueru- 2026-03-24 fNmAhqjtSUs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qZQzBqE1s?p=17",
   "source": "manomueru.js"
@@ -352,7 +352,7 @@ window.SONG_DATA.push(
     {
   "title": "一度だけの恋なら",
   "artist": "ワルキューレ [TVアニメ マクロスΔ]",
-  "collection": "接力歌切 魔ノむえる -Mano Mueru- 2026-06-13 〖 心动♡ 〗为你献上塞满一切的超大份心动💜.ᐟ 〖 ￤ 〗",
+  "collection": "Relay song cut: Mano Mueru -Mano Mueru- 2026-06-13 〖 Heartbeat♡ 〗Presenting you an extra-large portion of heartbeat stuffed with everything💜.ᐟ 〖 ￤ 〗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1H8Jp6SEVB?p=1",
   "source": "manomueru.js"
@@ -360,7 +360,7 @@ window.SONG_DATA.push(
     {
   "title": "貴方の恋人になりたい",
   "artist": "チョーキューメイ",
-  "collection": "接力歌切 魔ノむえる -Mano Mueru- 2026-06-13 〖 心动♡ 〗为你献上塞满一切的超大份心动💜.ᐟ 〖 ￤ 〗",
+  "collection": "Relay song cut: Mano Mueru -Mano Mueru- 2026-06-13 〖 Heartbeat♡ 〗Presenting you an extra-large portion of heartbeat stuffed with everything💜.ᐟ 〖 ￤ 〗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1H8Jp6SEVB?p=2",
   "source": "manomueru.js"
@@ -368,7 +368,7 @@ window.SONG_DATA.push(
     {
   "title": "Wishing",
   "artist": "レム(CV:水瀬いのり) [TVアニメ Re:ゼロから始める異世界生活]",
-  "collection": "接力歌切 魔ノむえる -Mano Mueru- 2026-06-13 〖 心动♡ 〗为你献上塞满一切的超大份心动💜.ᐟ 〖 ￤ 〗",
+  "collection": "Relay song cut: Mano Mueru -Mano Mueru- 2026-06-13 〖 Heartbeat♡ 〗Presenting you an extra-large portion of heartbeat stuffed with everything💜.ᐟ 〖 ￤ 〗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1H8Jp6SEVB?p=3",
   "source": "manomueru.js"
@@ -376,7 +376,7 @@ window.SONG_DATA.push(
     {
   "title": "彗星",
   "artist": "星街すいせい",
-  "collection": "接力歌切 魔ノむえる -Mano Mueru- 2026-06-13 〖 心动♡ 〗为你献上塞满一切的超大份心动💜.ᐟ 〖 ￤ 〗",
+  "collection": "Relay song cut: Mano Mueru -Mano Mueru- 2026-06-13 〖 Heartbeat♡ 〗Presenting you an extra-large portion of heartbeat stuffed with everything💜.ᐟ 〖 ￤ 〗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1H8Jp6SEVB?p=4",
   "source": "manomueru.js"
@@ -384,7 +384,7 @@ window.SONG_DATA.push(
     {
   "title": "ANIMA",
   "artist": "ReoNa",
-  "collection": "魔ノむえる -Mano Mueru-歌切 2026-06-23 要不要一起编织「新的和」呢？🌸",
+  "collection": "Mano Mueru -Mano Mueru- Song Segment 2026-06-23 Shall we weave a 'new harmony' together? 🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zmj96oEir?p=1",
   "source": "manomueru.js"
@@ -392,7 +392,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "魔ノむえる -Mano Mueru-歌切 2026-06-23 要不要一起编织「新的和」呢？🌸",
+  "collection": "Mano Mueru -Mano Mueru- Song Segment 2026-06-23 Shall we weave a 'new harmony' together? 🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zmj96oEir?p=2",
   "source": "manomueru.js"
@@ -400,7 +400,7 @@ window.SONG_DATA.push(
     {
   "title": "咲かせや咲かせ",
   "artist": "EGOIST",
-  "collection": "魔ノむえる -Mano Mueru-歌切 2026-06-23 要不要一起编织「新的和」呢？🌸",
+  "collection": "Mano Mueru -Mano Mueru- Song Segment 2026-06-23 Shall we weave a 'new harmony' together? 🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zmj96oEir?p=3",
   "source": "manomueru.js"
@@ -408,7 +408,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れじの言の葉",
   "artist": "未来古代楽団 feat. 安次嶺希和子",
-  "collection": "魔ノむえる -Mano Mueru-歌切 2026-06-23 要不要一起编织「新的和」呢？🌸",
+  "collection": "Mano Mueru -Mano Mueru- Song Segment 2026-06-23 Shall we weave a 'new harmony' together? 🌸",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Zmj96oEir?p=4",
   "source": "manomueru.js"
@@ -416,7 +416,7 @@ window.SONG_DATA.push(
     {
   "title": "My Dearest",
   "artist": "supercell",
-  "collection": "【歌切】[2026-07-17]初见观众◎较短歌回🎀喜欢反差声线吗？ 魔ノむえる -Mano Mueru-",
+  "collection": "【Song Clip】[2026-07-17] First-time Viewer ◎ Short Singing Stream 🎀 Do You Like Voice Gaps? Mano Mueru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEUQ?p=1",
   "source": "manomueru.js"
@@ -424,7 +424,7 @@ window.SONG_DATA.push(
     {
   "title": "ぎゅっと。",
   "artist": "もさを。",
-  "collection": "【歌切】[2026-07-17]初见观众◎较短歌回🎀喜欢反差声线吗？ 魔ノむえる -Mano Mueru-",
+  "collection": "【Song Clip】[2026-07-17] First-time Viewer ◎ Short Singing Stream 🎀 Do You Like Voice Gaps? Mano Mueru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEUQ?p=2",
   "source": "manomueru.js"
@@ -432,7 +432,7 @@ window.SONG_DATA.push(
     {
   "title": "天使にふれたよ!",
   "artist": "放課後ティータイム",
-  "collection": "【歌切】[2026-07-17]初见观众◎较短歌回🎀喜欢反差声线吗？ 魔ノむえる -Mano Mueru-",
+  "collection": "【Song Clip】[2026-07-17] First-time Viewer ◎ Short Singing Stream 🎀 Do You Like Voice Gaps? Mano Mueru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEUQ?p=3",
   "source": "manomueru.js"
@@ -440,7 +440,7 @@ window.SONG_DATA.push(
     {
   "title": "コイノシルシ",
   "artist": "神のみぞ知り隊",
-  "collection": "【歌切】[2026-07-17]初见观众◎较短歌回🎀喜欢反差声线吗？ 魔ノむえる -Mano Mueru-",
+  "collection": "【Song Clip】[2026-07-17] First-time Viewer ◎ Short Singing Stream 🎀 Do You Like Voice Gaps? Mano Mueru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEUQ?p=4",
   "source": "manomueru.js"
@@ -448,7 +448,7 @@ window.SONG_DATA.push(
     {
   "title": "Wishing",
   "artist": "レム(CV:水瀬いのり)",
-  "collection": "【歌切】[2026-07-17]初见观众◎较短歌回🎀喜欢反差声线吗？ 魔ノむえる -Mano Mueru-",
+  "collection": "【Song Clip】[2026-07-17] First-time Viewer ◎ Short Singing Stream 🎀 Do You Like Voice Gaps? Mano Mueru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEUQ?p=5",
   "source": "manomueru.js"
@@ -456,7 +456,7 @@ window.SONG_DATA.push(
     {
   "title": "Heat Waves (Japanese ver.)",
   "artist": "Limet",
-  "collection": "【歌切】[2026-07-17]初见观众◎较短歌回🎀喜欢反差声线吗？ 魔ノむえる -Mano Mueru-",
+  "collection": "【Song Clip】[2026-07-17] First-time Viewer ◎ Short Singing Stream 🎀 Do You Like Voice Gaps? Mano Mueru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEUQ?p=6",
   "source": "manomueru.js"
@@ -464,7 +464,7 @@ window.SONG_DATA.push(
     {
   "title": "Summertime",
   "artist": "cinnamons×evening cinema",
-  "collection": "【歌切】[2026-07-17]初见观众◎较短歌回🎀喜欢反差声线吗？ 魔ノむえる -Mano Mueru-",
+  "collection": "【Song Clip】[2026-07-17] First-time Viewer ◎ Short Singing Stream 🎀 Do You Like Voice Gaps? Mano Mueru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEUQ?p=7",
   "source": "manomueru.js"
@@ -472,7 +472,7 @@ window.SONG_DATA.push(
     {
   "title": "全方向美少女",
   "artist": "乃紫",
-  "collection": "【歌切】[2026-07-17]初见观众◎较短歌回🎀喜欢反差声线吗？ 魔ノむえる -Mano Mueru-",
+  "collection": "【Song Clip】[2026-07-17] First-time Viewer ◎ Short Singing Stream 🎀 Do You Like Voice Gaps? Mano Mueru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEUQ?p=8",
   "source": "manomueru.js"
@@ -480,7 +480,7 @@ window.SONG_DATA.push(
     {
   "title": "ルーマー",
   "artist": "ポリスピカデリー",
-  "collection": "【歌切】[2026-07-17]初见观众◎较短歌回🎀喜欢反差声线吗？ 魔ノむえる -Mano Mueru-",
+  "collection": "【Song Clip】[2026-07-17] First-time Viewer ◎ Short Singing Stream 🎀 Do You Like Voice Gaps? Mano Mueru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEUQ?p=9",
   "source": "manomueru.js"
@@ -488,7 +488,7 @@ window.SONG_DATA.push(
     {
   "title": "曖昧さ回避",
   "artist": "ポリスピカデリー",
-  "collection": "【歌切】[2026-07-17]初见观众◎较短歌回🎀喜欢反差声线吗？ 魔ノむえる -Mano Mueru-",
+  "collection": "【Song Clip】[2026-07-17] First-time Viewer ◎ Short Singing Stream 🎀 Do You Like Voice Gaps? Mano Mueru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEUQ?p=10",
   "source": "manomueru.js"
@@ -496,7 +496,7 @@ window.SONG_DATA.push(
     {
   "title": "ERROR(Piano ver.)",
   "artist": "niki",
-  "collection": "【歌切】[2026-07-17]初见观众◎较短歌回🎀喜欢反差声线吗？ 魔ノむえる -Mano Mueru-",
+  "collection": "【Song Clip】[2026-07-17] First-time Viewer ◎ Short Singing Stream 🎀 Do You Like Voice Gaps? Mano Mueru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEUQ?p=11",
   "source": "manomueru.js"
@@ -504,7 +504,7 @@ window.SONG_DATA.push(
     {
   "title": "No Logic",
   "artist": "ジミーサムP feat.巡音ルカ",
-  "collection": "【歌切】[2026-07-17]初见观众◎较短歌回🎀喜欢反差声线吗？ 魔ノむえる -Mano Mueru-",
+  "collection": "【Song Clip】[2026-07-17] First-time Viewer ◎ Short Singing Stream 🎀 Do You Like Voice Gaps? Mano Mueru",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bHKk6SEUQ?p=12",
   "source": "manomueru.js"
@@ -512,7 +512,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=1",
   "source": "manomueru.js"
@@ -520,7 +520,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=2",
   "source": "manomueru.js"
@@ -528,7 +528,7 @@ window.SONG_DATA.push(
     {
   "title": "気まぐれロマンティック",
   "artist": "いきものがかり",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=3",
   "source": "manomueru.js"
@@ -536,7 +536,7 @@ window.SONG_DATA.push(
     {
   "title": "ストロー",
   "artist": "aiko",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=4",
   "source": "manomueru.js"
@@ -544,7 +544,7 @@ window.SONG_DATA.push(
     {
   "title": "プラチナ",
   "artist": "坂本真綾",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=5",
   "source": "manomueru.js"
@@ -552,7 +552,7 @@ window.SONG_DATA.push(
     {
   "title": "ファンサ",
   "artist": "mona(CV：夏川椎菜)",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=6",
   "source": "manomueru.js"
@@ -560,7 +560,7 @@ window.SONG_DATA.push(
     {
   "title": "Honey sweet tea time",
   "artist": "放課後ティータイム",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=7",
   "source": "manomueru.js"
@@ -568,7 +568,7 @@ window.SONG_DATA.push(
     {
   "title": "オリオンをなぞる",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=8",
   "source": "manomueru.js"
@@ -576,7 +576,7 @@ window.SONG_DATA.push(
     {
   "title": "Walking with you",
   "artist": "Novelbright",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=9",
   "source": "manomueru.js"
@@ -584,7 +584,7 @@ window.SONG_DATA.push(
     {
   "title": "シュガーソングとビターステップ",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=10",
   "source": "manomueru.js"
@@ -592,7 +592,7 @@ window.SONG_DATA.push(
     {
   "title": "学猫叫",
   "artist": "小潘潘&小峰峰",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=11",
   "source": "manomueru.js"
@@ -600,7 +600,7 @@ window.SONG_DATA.push(
     {
   "title": "ハロ／ハワユ",
   "artist": "ナノウ feat.初音ミク",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=12",
   "source": "manomueru.js"
@@ -608,7 +608,7 @@ window.SONG_DATA.push(
     {
   "title": "残響散歌",
   "artist": "Aimer",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=13",
   "source": "manomueru.js"
@@ -616,7 +616,7 @@ window.SONG_DATA.push(
     {
   "title": "ray",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=14",
   "source": "manomueru.js"
@@ -624,7 +624,7 @@ window.SONG_DATA.push(
     {
   "title": "もっと光を",
   "artist": "BLUE ENCOUNT",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=15",
   "source": "manomueru.js"
@@ -632,7 +632,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=16",
   "source": "manomueru.js"
@@ -640,7 +640,7 @@ window.SONG_DATA.push(
     {
   "title": "アンパンマンのマーチ",
   "artist": "ドリーミング",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=17",
   "source": "manomueru.js"
@@ -648,7 +648,7 @@ window.SONG_DATA.push(
     {
   "title": "初恋サイダー",
   "artist": "Buono!",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=18",
   "source": "manomueru.js"
@@ -656,7 +656,7 @@ window.SONG_DATA.push(
     {
   "title": "創聖のアクエリオン",
   "artist": "AKINO",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=19",
   "source": "manomueru.js"
@@ -664,7 +664,7 @@ window.SONG_DATA.push(
     {
   "title": "Heat Waves",
   "artist": "Glass Animals",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=20",
   "source": "manomueru.js"
@@ -672,7 +672,7 @@ window.SONG_DATA.push(
     {
   "title": "モンスター",
   "artist": "ELLEGARDEN",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=21",
   "source": "manomueru.js"
@@ -680,7 +680,7 @@ window.SONG_DATA.push(
     {
   "title": "高架線",
   "artist": "ELLEGARDEN",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=22",
   "source": "manomueru.js"
@@ -688,7 +688,7 @@ window.SONG_DATA.push(
     {
   "title": "風の日",
   "artist": "ELLEGARDEN",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=23",
   "source": "manomueru.js"
@@ -696,7 +696,7 @@ window.SONG_DATA.push(
     {
   "title": "Missing",
   "artist": "ELLEGARDEN",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=24",
   "source": "manomueru.js"
@@ -704,7 +704,7 @@ window.SONG_DATA.push(
     {
   "title": "アメフラシの歌～Beautiful Rain～",
   "artist": "ニケ・ルメルシエ(CV:前田玲奈)",
-  "collection": "【歌切】[2026-09-15]晨间开唱.ᐟ想和200人说早上好✨",
+  "collection": "【Song clip】[2026-09-15] Morning singing session.ᐟ Want to say good morning to 200 people ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1axeW6GEzj?p=25",
   "source": "manomueru.js"

@@ -1,6 +1,6 @@
 // HoshiHo - 歌单数据 (多合集汇总)
 // 来源: BV11fQSB2ELX
-// 生成时间: 10/21/2026, 5:52:18 AM
+// 生成时间: 10/21/2026, 10:03:32 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8,7 +8,7 @@ window.SONG_DATA.push(
     {
   "title": "夢見るシャンソン人形",
   "artist": "フランス・ギャル",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=1",
   "source": "hoshiho.js"
@@ -16,7 +16,7 @@ window.SONG_DATA.push(
     {
   "title": "夢見る愛天使",
   "artist": "『愛天使伝説ウェディングピーチ』FURIL",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=2",
   "source": "hoshiho.js"
@@ -24,7 +24,7 @@ window.SONG_DATA.push(
     {
   "title": "WHITE ALBUM",
   "artist": "『WHITE ALBUM』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=3",
   "source": "hoshiho.js"
@@ -32,7 +32,7 @@ window.SONG_DATA.push(
     {
   "title": "深愛",
   "artist": "『WHITE ALBUM』水樹奈々",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=4",
   "source": "hoshiho.js"
@@ -40,7 +40,7 @@ window.SONG_DATA.push(
     {
   "title": "夢幻",
   "artist": "『WHITE ALBUM』水樹奈々",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=5",
   "source": "hoshiho.js"
@@ -48,7 +48,7 @@ window.SONG_DATA.push(
     {
   "title": "ツイてるねノッてるね",
   "artist": "『WHITE ALBUM』中山美穂",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=6",
   "source": "hoshiho.js"
@@ -56,7 +56,7 @@ window.SONG_DATA.push(
     {
   "title": "ebullient future",
   "artist": "a tale of melodies.』ELISA",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=7",
   "source": "hoshiho.js"
@@ -64,7 +64,7 @@ window.SONG_DATA.push(
     {
   "title": "euphoric field",
   "artist": "a tale of memories.』ELISA",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=8",
   "source": "hoshiho.js"
@@ -72,7 +72,7 @@ window.SONG_DATA.push(
     {
   "title": "届かない恋",
   "artist": "『WHITE ALBUM2』上原れな",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=9",
   "source": "hoshiho.js"
@@ -80,7 +80,7 @@ window.SONG_DATA.push(
     {
   "title": "POWDER SNOW",
   "artist": "『WHITE ALBUM』AKKO",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=10",
   "source": "hoshiho.js"
@@ -88,7 +88,7 @@ window.SONG_DATA.push(
     {
   "title": "幸せな記憶",
   "artist": "『WHITE ALBUM2』上原れな",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=11",
   "source": "hoshiho.js"
@@ -96,7 +96,7 @@ window.SONG_DATA.push(
     {
   "title": "Twinkle Snow",
   "artist": "『WHITE ALBUM2』津田朱里",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=12",
   "source": "hoshiho.js"
@@ -104,7 +104,7 @@ window.SONG_DATA.push(
     {
   "title": "After All 綴る想い",
   "artist": "『WHITE ALBUM2』上原れな",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=13",
   "source": "hoshiho.js"
@@ -112,7 +112,7 @@ window.SONG_DATA.push(
     {
   "title": "舞い落ちる雪のように",
   "artist": "『WHITE ALBUM』Suara",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=14",
   "source": "hoshiho.js"
@@ -120,7 +120,7 @@ window.SONG_DATA.push(
     {
   "title": "Feeling Heart",
   "artist": "『To Heart』中司雅美",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=15",
   "source": "hoshiho.js"
@@ -128,7 +128,7 @@ window.SONG_DATA.push(
     {
   "title": "トモシビ",
   "artist": "『To Heart2』Suara",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=16",
   "source": "hoshiho.js"
@@ -136,7 +136,7 @@ window.SONG_DATA.push(
     {
   "title": "あなたを想いたい",
   "artist": "『Routes -ルーツ-』池田春菜",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=17",
   "source": "hoshiho.js"
@@ -144,7 +144,7 @@ window.SONG_DATA.push(
     {
   "title": "innocent starter",
   "artist": "『魔法少女リリカルなのは』水樹奈々",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=18",
   "source": "hoshiho.js"
@@ -152,7 +152,7 @@ window.SONG_DATA.push(
     {
   "title": "Little Wish ～lyrical step～",
   "artist": "『魔法少女リリカルなのは』田村ゆかり",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=19",
   "source": "hoshiho.js"
@@ -160,7 +160,7 @@ window.SONG_DATA.push(
     {
   "title": "ETERNAL BLAZE",
   "artist": "『魔法少女リリカルなのはA's』水樹奈々",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=20",
   "source": "hoshiho.js"
@@ -168,7 +168,7 @@ window.SONG_DATA.push(
     {
   "title": "BRAVE PHOENIX",
   "artist": "『魔法少女リリカルなのはA's』水樹奈々",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=21",
   "source": "hoshiho.js"
@@ -176,7 +176,7 @@ window.SONG_DATA.push(
     {
   "title": "Snow Rain",
   "artist": "『魔法少女リリカルなのはA's』八神はやて(CV：植田佳奈)",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=22",
   "source": "hoshiho.js"
@@ -184,7 +184,7 @@ window.SONG_DATA.push(
     {
   "title": "SECRET AMBITION",
   "artist": "『魔法少女リリカルなのはStrikerS』水樹奈々",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=23",
   "source": "hoshiho.js"
@@ -192,7 +192,7 @@ window.SONG_DATA.push(
     {
   "title": "夏祭り",
   "artist": "Jitterin’ Jinn(Cover：Whiteberry)",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=24",
   "source": "hoshiho.js"
@@ -200,7 +200,7 @@ window.SONG_DATA.push(
     {
   "title": "星空のSpica",
   "artist": "『魔法少女リリカルなのはStrikerS』田村ゆかり",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=25",
   "source": "hoshiho.js"
@@ -208,7 +208,7 @@ window.SONG_DATA.push(
     {
   "title": "Beautiful Amulet",
   "artist": "『魔法少女リリカルなのはStrikerS』田村ゆかり",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=26",
   "source": "hoshiho.js"
@@ -216,7 +216,7 @@ window.SONG_DATA.push(
     {
   "title": "Pray",
   "artist": "『魔法少女リリカルなのはStrikerS』水樹奈々",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=27",
   "source": "hoshiho.js"
@@ -224,7 +224,7 @@ window.SONG_DATA.push(
     {
   "title": "ONENESS HARMONY",
   "artist": "『プリンセッション・オーケストラ』オルケリア",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=28",
   "source": "hoshiho.js"
@@ -232,7 +232,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "『葬送のフリーレン』ヨルシカ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=29",
   "source": "hoshiho.js"
@@ -240,7 +240,7 @@ window.SONG_DATA.push(
     {
   "title": "PHANTOM MINDS",
   "artist": "『魔法少女リリカルなのは The MOVIE 1st』水樹奈々",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=30",
   "source": "hoshiho.js"
@@ -248,7 +248,7 @@ window.SONG_DATA.push(
     {
   "title": "BRIGHT STREAM",
   "artist": "『魔法少女リリカルなのは The MOVIE 2nd A's』水樹奈々",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=31",
   "source": "hoshiho.js"
@@ -256,7 +256,7 @@ window.SONG_DATA.push(
     {
   "title": "SCARLET KNIGHT",
   "artist": "『DOG DAYS』水樹奈々",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=32",
   "source": "hoshiho.js"
@@ -264,7 +264,7 @@ window.SONG_DATA.push(
     {
   "title": "Divine Spell",
   "artist": "『レガリア The Three Sacred Stars』TRUE",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=33",
   "source": "hoshiho.js"
@@ -272,7 +272,7 @@ window.SONG_DATA.push(
     {
   "title": "True My Heart",
   "artist": "『Nursery Rhyme -ナーサリィ☆ライム-』佐倉紗織",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=34",
   "source": "hoshiho.js"
@@ -280,7 +280,7 @@ window.SONG_DATA.push(
     {
   "title": "キミとアイドルプリキュア♪ Light Up！",
   "artist": "『キミとアイドルプリキュア♪』石井あみ・熊田茜音・吉武千颯",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=35",
   "source": "hoshiho.js"
@@ -288,7 +288,7 @@ window.SONG_DATA.push(
     {
   "title": "Trio Dreams",
   "artist": "『キミとアイドルプリキュア♪』キュアアイドル(CV：松岡美里)＆キュアウインク(CV：髙橋ミナミ)＆キュアキュンキュン(CV",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=36",
   "source": "hoshiho.js"
@@ -296,7 +296,7 @@ window.SONG_DATA.push(
     {
   "title": "旅の途中",
   "artist": "『狼と香辛料』清浦夏実",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=37",
   "source": "hoshiho.js"
@@ -304,7 +304,7 @@ window.SONG_DATA.push(
     {
   "title": "カントリー・ロード",
   "artist": "『耳をすませば』本名陽子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=38",
   "source": "hoshiho.js"
@@ -312,7 +312,7 @@ window.SONG_DATA.push(
     {
   "title": "けせら・せら",
   "artist": "『明日のナージャ』小清水亜美",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=39",
   "source": "hoshiho.js"
@@ -320,7 +320,7 @@ window.SONG_DATA.push(
     {
   "title": "ナージャ!!",
   "artist": "『明日のナージャ』本田美奈子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-07]歌回闲聊配信[LWrTgm59MT8]",
+  "collection": "【🌟💐HoshiHo Singing Clip】[2026-02-07] Singing Stream Chat Broadcast [LWrTgm59MT8]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QFXJBzEhv?p=40",
   "source": "hoshiho.js"
@@ -328,7 +328,7 @@ window.SONG_DATA.push(
     {
   "title": "去り際のロマンティクス",
   "artist": "See-Saw『機動戦士ガンダムSEED FREEDOM』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=1",
   "source": "hoshiho.js"
@@ -336,7 +336,7 @@ window.SONG_DATA.push(
     {
   "title": "Meteor",
   "artist": "- T.M.Revolution『機動戦士ガンダムSEED』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=2",
   "source": "hoshiho.js"
@@ -344,7 +344,7 @@ window.SONG_DATA.push(
     {
   "title": "True My Heart",
   "artist": "佐倉紗織『Nursery Rhyme -ナーサリィ☆ライム-』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=3",
   "source": "hoshiho.js"
@@ -352,7 +352,7 @@ window.SONG_DATA.push(
     {
   "title": "HANAJI",
   "artist": "小林ゆう『まりあ†ほりっく』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=4",
   "source": "hoshiho.js"
@@ -360,7 +360,7 @@ window.SONG_DATA.push(
     {
   "title": "るんるんりる らんらんらら",
   "artist": "小林ゆう『まりあ†ほりっく あらいぶ』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=5",
   "source": "hoshiho.js"
@@ -368,7 +368,7 @@ window.SONG_DATA.push(
     {
   "title": "どうにもとまらない",
   "artist": "天の妃少女合唱団 かなこ（真田アサミ）&鞠也（小林ゆう）&茉莉花（井上麻里奈）『まりあ†ほりっく あらいぶ』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=6",
   "source": "hoshiho.js"
@@ -376,7 +376,7 @@ window.SONG_DATA.push(
     {
   "title": "disillusion",
   "artist": "タイナカサチ『Fate/stay night』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=7",
   "source": "hoshiho.js"
@@ -384,7 +384,7 @@ window.SONG_DATA.push(
     {
   "title": "あなたがいた森",
   "artist": "樹海『Fate/stay night』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=8",
   "source": "hoshiho.js"
@@ -392,7 +392,7 @@ window.SONG_DATA.push(
     {
   "title": "oath sign",
   "artist": "LiSA『Fate/Zero』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=9",
   "source": "hoshiho.js"
@@ -400,7 +400,7 @@ window.SONG_DATA.push(
     {
   "title": "MEMORIA",
   "artist": "藍井エイル『Fate/Zero』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=10",
   "source": "hoshiho.js"
@@ -408,7 +408,7 @@ window.SONG_DATA.push(
     {
   "title": "雲雀",
   "artist": "ASCA『ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note-』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=11",
   "source": "hoshiho.js"
@@ -416,7 +416,7 @@ window.SONG_DATA.push(
     {
   "title": "空は高く風は歌う",
   "artist": "春奈るな『Fate/Zero』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=12",
   "source": "hoshiho.js"
@@ -424,7 +424,7 @@ window.SONG_DATA.push(
     {
   "title": "Yield",
   "artist": "Sound Horizon『Elysion～楽園への前奏曲～』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=13",
   "source": "hoshiho.js"
@@ -432,7 +432,7 @@ window.SONG_DATA.push(
     {
   "title": "澪音の世界",
   "artist": "Sound Horizon『Elysion～楽園への前奏曲～』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=14",
   "source": "hoshiho.js"
@@ -440,7 +440,7 @@ window.SONG_DATA.push(
     {
   "title": "Ark",
   "artist": "Sound Horizon『Elysion～楽園への前奏曲～』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=15",
   "source": "hoshiho.js"
@@ -448,7 +448,7 @@ window.SONG_DATA.push(
     {
   "title": "StarDust",
   "artist": "Sound Horizon『Elysion ～楽園幻想物語組曲～』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=16",
   "source": "hoshiho.js"
@@ -456,7 +456,7 @@ window.SONG_DATA.push(
     {
   "title": "エルの絵本 【笛吹き男とパレード】",
   "artist": "Sound Horizon『Elysion ～楽園幻想物語組曲～』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=17",
   "source": "hoshiho.js"
@@ -464,7 +464,7 @@ window.SONG_DATA.push(
     {
   "title": "沈んだ歌姫",
   "artist": "Sound Horizon『Chronicle 2nd』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=18",
   "source": "hoshiho.js"
@@ -472,7 +472,7 @@ window.SONG_DATA.push(
     {
   "title": "海の魔女",
   "artist": "Sound Horizon『Chronicle 2nd』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=19",
   "source": "hoshiho.js"
@@ -480,7 +480,7 @@ window.SONG_DATA.push(
     {
   "title": "楽園夢遊記",
   "artist": "Sān-Z『Zenless Zone Zero』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=20",
   "source": "hoshiho.js"
@@ -488,7 +488,7 @@ window.SONG_DATA.push(
     {
   "title": "原色",
   "artist": "Sān-Z『Zenless Zone Zero』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=21",
   "source": "hoshiho.js"
@@ -496,7 +496,7 @@ window.SONG_DATA.push(
     {
   "title": "pinKing",
   "artist": "ChiliChill『Zenless Zone Zero』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=22",
   "source": "hoshiho.js"
@@ -504,7 +504,7 @@ window.SONG_DATA.push(
     {
   "title": "バーニング・ディザイア",
   "artist": "Mes『Zenless Zone Zero』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=23",
   "source": "hoshiho.js"
@@ -512,7 +512,7 @@ window.SONG_DATA.push(
     {
   "title": "DAMIDAMI",
   "artist": "Aylin Abbasova『Zenless Zone Zero』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=24",
   "source": "hoshiho.js"
@@ -520,7 +520,7 @@ window.SONG_DATA.push(
     {
   "title": "Tiny Giant",
   "artist": "Ashley Alisha『Zenless Zone Zero』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=25",
   "source": "hoshiho.js"
@@ -528,7 +528,7 @@ window.SONG_DATA.push(
     {
   "title": "満ちる月影の彼方",
   "artist": "Lynn（コロンビーナ役）『原神』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=26",
   "source": "hoshiho.js"
@@ -536,7 +536,7 @@ window.SONG_DATA.push(
     {
   "title": "水鏡に捧ぐ月光",
   "artist": "HOYO-MiX『原神-輝く星々Vol. 6』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=27",
   "source": "hoshiho.js"
@@ -544,7 +544,7 @@ window.SONG_DATA.push(
     {
   "title": "Nameless Faces",
   "artist": "幾田りら『崩壊:スターレイル』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=28",
   "source": "hoshiho.js"
@@ -552,7 +552,7 @@ window.SONG_DATA.push(
     {
   "title": "Ripples of Past Reverie",
   "artist": "Cassie Wei『崩壊:スターレイル』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=29",
   "source": "hoshiho.js"
@@ -560,7 +560,7 @@ window.SONG_DATA.push(
     {
   "title": "Interstellar Journey",
   "artist": "Lea Sirk『崩壊:スターレイル』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=30",
   "source": "hoshiho.js"
@@ -568,7 +568,7 @@ window.SONG_DATA.push(
     {
   "title": "WHITE NIGHT",
   "artist": "Jake Miller『崩壊:スターレイル』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=31",
   "source": "hoshiho.js"
@@ -576,7 +576,7 @@ window.SONG_DATA.push(
     {
   "title": "銀河を独り揺蕩う",
   "artist": "Chevy『崩壊:スターレイル』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=32",
   "source": "hoshiho.js"
@@ -584,7 +584,7 @@ window.SONG_DATA.push(
     {
   "title": "翼の生えた希望",
   "artist": "Chevy『崩壊:スターレイル』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=33",
   "source": "hoshiho.js"
@@ -592,7 +592,7 @@ window.SONG_DATA.push(
     {
   "title": "傷つく誰かの心を守ることができたなら",
   "artist": "Chevy『崩壊:スターレイル』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=34",
   "source": "hoshiho.js"
@@ -600,7 +600,7 @@ window.SONG_DATA.push(
     {
   "title": "原色",
   "artist": "Sān-Z『Zenless Zone Zero』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=35",
   "source": "hoshiho.js"
@@ -608,7 +608,7 @@ window.SONG_DATA.push(
     {
   "title": "ReDreaming Angel",
   "artist": "苺りなはむ(BPM15Q) ／ にかもきゅ(BPM15Q) ／ 4s4ki『Zenless Zone Zero』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=36",
   "source": "hoshiho.js"
@@ -616,7 +616,7 @@ window.SONG_DATA.push(
     {
   "title": "Just Look My Way",
   "artist": "Bryce『HELLUVA BOSS』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=37",
   "source": "hoshiho.js"
@@ -624,7 +624,7 @@ window.SONG_DATA.push(
     {
   "title": "Gravity",
   "artist": "『ハズビン・ホテルへようこそ シーズン2』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=38",
   "source": "hoshiho.js"
@@ -632,7 +632,7 @@ window.SONG_DATA.push(
     {
   "title": "色は匂へど散りぬるを",
   "artist": "『幽閉サテライト』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=39",
   "source": "hoshiho.js"
@@ -640,7 +640,7 @@ window.SONG_DATA.push(
     {
   "title": "月に叢雲華に風",
   "artist": "『幽閉サテライト』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=40",
   "source": "hoshiho.js"
@@ -648,7 +648,7 @@ window.SONG_DATA.push(
     {
   "title": "泡沫、哀のまほろば",
   "artist": "『幽閉サテライト』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=41",
   "source": "hoshiho.js"
@@ -656,7 +656,7 @@ window.SONG_DATA.push(
     {
   "title": "inner universe",
   "artist": "Origa『攻殻機動隊 STAND ALONE COMPLEX』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=42",
   "source": "hoshiho.js"
@@ -664,7 +664,7 @@ window.SONG_DATA.push(
     {
   "title": "Philosophyz",
   "artist": "水谷瑠奈『Rewrite』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=43",
   "source": "hoshiho.js"
@@ -672,7 +672,7 @@ window.SONG_DATA.push(
     {
   "title": "闇の彼方へ",
   "artist": "水谷瑠奈『Rewrite』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=44",
   "source": "hoshiho.js"
@@ -680,7 +680,7 @@ window.SONG_DATA.push(
     {
   "title": "アルカテイル",
   "artist": "鈴木このみ『Summer Pockets』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=45",
   "source": "hoshiho.js"
@@ -688,7 +688,7 @@ window.SONG_DATA.push(
     {
   "title": "アスタロア",
   "artist": "鈴木このみ『Summer Pockets』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=46",
   "source": "hoshiho.js"
@@ -696,7 +696,7 @@ window.SONG_DATA.push(
     {
   "title": "光の旋律",
   "artist": "Kalafina『ソ・ラ・ノ・ヲ・ト』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=47",
   "source": "hoshiho.js"
@@ -704,7 +704,7 @@ window.SONG_DATA.push(
     {
   "title": "鳥の詩",
   "artist": "Lia『Air』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-02-28]收益化OFF歌回闲聊配信[Lg7z6JcFRsY]",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-02-28] Monetization OFF Singing Stream Chat Broadcast[Lg7z6JcFRsY]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mqQrBfEdy?p=48",
   "source": "hoshiho.js"
@@ -712,7 +712,7 @@ window.SONG_DATA.push(
     {
   "title": "さくらんぼ",
   "artist": "大塚愛",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=1",
   "source": "hoshiho.js"
@@ -720,7 +720,7 @@ window.SONG_DATA.push(
     {
   "title": "Torna a Sorrento",
   "artist": "帰れソレントへ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=2",
   "source": "hoshiho.js"
@@ -728,7 +728,7 @@ window.SONG_DATA.push(
     {
   "title": "ワルキューレがとまらない",
   "artist": "『マクロスΔ』ワルキューレ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=3",
   "source": "hoshiho.js"
@@ -736,7 +736,7 @@ window.SONG_DATA.push(
     {
   "title": "魔法使いと私",
   "artist": "『ウィキッド ふたりの魔女』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=4",
   "source": "hoshiho.js"
@@ -744,7 +744,7 @@ window.SONG_DATA.push(
     {
   "title": "ダ・カーポ ～第2ボタンの誓い～",
   "artist": "『D.C. ～ダ・カーポ～』yozuca＊",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=5",
   "source": "hoshiho.js"
@@ -752,7 +752,7 @@ window.SONG_DATA.push(
     {
   "title": "moonfesta～ムーンフェスタ～",
   "artist": "『みんなのうた』Kalafina",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=6",
   "source": "hoshiho.js"
@@ -760,7 +760,7 @@ window.SONG_DATA.push(
     {
   "title": "オリオンをなぞる",
   "artist": "『TIGER ＆ BUNNY』UNISON SQUARE GARDEN",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=7",
   "source": "hoshiho.js"
@@ -768,7 +768,7 @@ window.SONG_DATA.push(
     {
   "title": "ゆずれない願い",
   "artist": "『魔法騎士レイアース』田村直美",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=8",
   "source": "hoshiho.js"
@@ -776,7 +776,7 @@ window.SONG_DATA.push(
     {
   "title": "lulu.",
   "artist": "『葬送のフリーレン(第2期)』Mrs. GREEN APPLE",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=9",
   "source": "hoshiho.js"
@@ -784,7 +784,7 @@ window.SONG_DATA.push(
     {
   "title": "やさしい両手",
   "artist": "『.hack／／G.U.』三谷朋世",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=10",
   "source": "hoshiho.js"
@@ -792,7 +792,7 @@ window.SONG_DATA.push(
     {
   "title": "真実の行方",
   "artist": "『.hack／／G.U. 』三谷朋世",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=11",
   "source": "hoshiho.js"
@@ -800,7 +800,7 @@ window.SONG_DATA.push(
     {
   "title": "優しくキミは微笑んでいた",
   "artist": "『.hack／／G.U. 』三谷朋世",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=12",
   "source": "hoshiho.js"
@@ -808,7 +808,7 @@ window.SONG_DATA.push(
     {
   "title": "TEST ME",
   "artist": "『推しの子(第3期)』ちゃんみな",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=13",
   "source": "hoshiho.js"
@@ -816,7 +816,7 @@ window.SONG_DATA.push(
     {
   "title": "セレナーデ",
   "artist": "『推しの子(第3期)』なとり",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=14",
   "source": "hoshiho.js"
@@ -824,7 +824,7 @@ window.SONG_DATA.push(
     {
   "title": "風待ちジェット",
   "artist": "『ツバサ・クロニクル(第2期)』坂本真綾",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=15",
   "source": "hoshiho.js"
@@ -832,7 +832,7 @@ window.SONG_DATA.push(
     {
   "title": "LOOP",
   "artist": "『ツバサ・クロニクル(第1期)』坂本真綾",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=16",
   "source": "hoshiho.js"
@@ -840,7 +840,7 @@ window.SONG_DATA.push(
     {
   "title": "アムリタ",
   "artist": "『(劇場版)ツバサ・クロニクル 鳥カゴの国の姫君』牧野由依",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=17",
   "source": "hoshiho.js"
@@ -848,7 +848,7 @@ window.SONG_DATA.push(
     {
   "title": "Love Power",
   "artist": "『(アニメ版)乙女はお姉さまに恋してる』Aice5",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=18",
   "source": "hoshiho.js"
@@ -856,7 +856,7 @@ window.SONG_DATA.push(
     {
   "title": "好きすぎて滅！",
   "artist": "M!LK",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=19",
   "source": "hoshiho.js"
@@ -864,7 +864,7 @@ window.SONG_DATA.push(
     {
   "title": "爆裂愛してる",
   "artist": "M!LK",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=20",
   "source": "hoshiho.js"
@@ -872,7 +872,7 @@ window.SONG_DATA.push(
     {
   "title": "ジョジョ ～その血の運命～",
   "artist": "『ジョジョの奇妙な冒険(第1部)』富永TOMMY弘明",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=21",
   "source": "hoshiho.js"
@@ -880,7 +880,7 @@ window.SONG_DATA.push(
     {
   "title": "BLOODY STREAM",
   "artist": "『ジョジョの奇妙な冒険(第2部)』Coda",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=22",
   "source": "hoshiho.js"
@@ -888,7 +888,7 @@ window.SONG_DATA.push(
     {
   "title": "STAND PROUD",
   "artist": "『ジョジョの奇妙な冒険(第3部)』橋本仁",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=23",
   "source": "hoshiho.js"
@@ -896,7 +896,7 @@ window.SONG_DATA.push(
     {
   "title": "STONE OCEAN",
   "artist": "『ジョジョの奇妙な冒険(第6部)』ichigo from 岸田教団＆THE明星ロケッツ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=24",
   "source": "hoshiho.js"
@@ -904,7 +904,7 @@ window.SONG_DATA.push(
     {
   "title": "黄金の彼方",
   "artist": "『ゴールデンカムイ(最終章・劇場先行版)』Awich ＆ ALI",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=25",
   "source": "hoshiho.js"
@@ -912,7 +912,7 @@ window.SONG_DATA.push(
     {
   "title": "雪花繚乱",
   "artist": "『プリンセッション・オーケストラ』プリンセス・ヴィオラ×プリンセス・ネージュ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=26",
   "source": "hoshiho.js"
@@ -920,7 +920,7 @@ window.SONG_DATA.push(
     {
   "title": "春一番",
   "artist": "キャンディーズ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=27",
   "source": "hoshiho.js"
@@ -928,7 +928,7 @@ window.SONG_DATA.push(
     {
   "title": "卒業",
   "artist": "斉藤由貴",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=28",
   "source": "hoshiho.js"
@@ -936,7 +936,7 @@ window.SONG_DATA.push(
     {
   "title": "consolation",
   "artist": "Kalafina",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=29",
   "source": "hoshiho.js"
@@ -944,7 +944,7 @@ window.SONG_DATA.push(
     {
   "title": "なぜ？謎？！ANSWER",
   "artist": "『名探偵プリキュア！』熊田茜音＆増井優花",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=30",
   "source": "hoshiho.js"
@@ -952,7 +952,7 @@ window.SONG_DATA.push(
     {
   "title": "いい日旅立ち",
   "artist": "山口百恵",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-21]歌回闲聊配信_SingingStream[yYOPjr5wbwI]",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-03-21] Singing Stream Chat_SingingStream[yYOPjr5wbwI]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11fQSB2ELX?p=31",
   "source": "hoshiho.js"
@@ -960,7 +960,7 @@ window.SONG_DATA.push(
     {
   "title": "YOU GET TO BURNING",
   "artist": "松澤由美",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-29]歌回直播[fG1ugxfO35A]",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-03-29] Singing stream live [fG1ugxfO35A]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WzXRBfE8C?p=1",
   "source": "hoshiho.js"
@@ -968,7 +968,7 @@ window.SONG_DATA.push(
     {
   "title": "盛れ！ミ・アモーレ",
   "artist": "Juice=Juice",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-29]歌回直播[fG1ugxfO35A]",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-03-29] Singing stream live [fG1ugxfO35A]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WzXRBfE8C?p=2",
   "source": "hoshiho.js"
@@ -976,7 +976,7 @@ window.SONG_DATA.push(
     {
   "title": "異邦人",
   "artist": "久保田早紀",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-29]歌回直播[fG1ugxfO35A]",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-03-29] Singing stream live [fG1ugxfO35A]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WzXRBfE8C?p=3",
   "source": "hoshiho.js"
@@ -984,7 +984,7 @@ window.SONG_DATA.push(
     {
   "title": "The Sound of Music",
   "artist": "「サウンド・オブ・ミュージック」",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-29]歌回直播[fG1ugxfO35A]",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-03-29] Singing stream live [fG1ugxfO35A]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WzXRBfE8C?p=4",
   "source": "hoshiho.js"
@@ -992,7 +992,7 @@ window.SONG_DATA.push(
     {
   "title": "Do-Re-Mi",
   "artist": "「サウンド・オブ・ミュージック」",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-29]歌回直播[fG1ugxfO35A]",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-03-29] Singing stream live [fG1ugxfO35A]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WzXRBfE8C?p=5",
   "source": "hoshiho.js"
@@ -1000,7 +1000,7 @@ window.SONG_DATA.push(
     {
   "title": "fairytale",
   "artist": "Kalafina",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-29]歌回直播[fG1ugxfO35A]",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-03-29] Singing stream live [fG1ugxfO35A]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WzXRBfE8C?p=6",
   "source": "hoshiho.js"
@@ -1008,7 +1008,7 @@ window.SONG_DATA.push(
     {
   "title": "FEEL×ALIVE",
   "artist": "佐咲紗花",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-29]歌回直播[fG1ugxfO35A]",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-03-29] Singing stream live [fG1ugxfO35A]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WzXRBfE8C?p=7",
   "source": "hoshiho.js"
@@ -1016,7 +1016,7 @@ window.SONG_DATA.push(
     {
   "title": "太陽が呼んでいる",
   "artist": "加藤いづみ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-29]歌回直播[fG1ugxfO35A]",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-03-29] Singing stream live [fG1ugxfO35A]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WzXRBfE8C?p=8",
   "source": "hoshiho.js"
@@ -1024,7 +1024,7 @@ window.SONG_DATA.push(
     {
   "title": "Perseus",
   "artist": "- 島谷ひとみ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-03-29]歌回直播[fG1ugxfO35A]",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-03-29] Singing stream live [fG1ugxfO35A]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WzXRBfE8C?p=9",
   "source": "hoshiho.js"
@@ -1032,7 +1032,7 @@ window.SONG_DATA.push(
     {
   "title": "檄！帝国華撃団",
   "artist": "『サクラ大戦シリーズ』真宮寺さくら（横山智佐）＆帝国歌劇団",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=1",
   "source": "hoshiho.js"
@@ -1040,7 +1040,7 @@ window.SONG_DATA.push(
     {
   "title": "夢のつづき",
   "artist": "『サクラ大戦2』帝国歌劇団",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=2",
   "source": "hoshiho.js"
@@ -1048,7 +1048,7 @@ window.SONG_DATA.push(
     {
   "title": "御旗のもとに",
   "artist": "『サクラ大戦3』巴里華撃団",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=3",
   "source": "hoshiho.js"
@@ -1056,7 +1056,7 @@ window.SONG_DATA.push(
     {
   "title": "花の巴里",
   "artist": "『サクラ大戦3』小島幸子(メル・レゾン)、かないみか(シー・カプリス)",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=4",
   "source": "hoshiho.js"
@@ -1064,7 +1064,7 @@ window.SONG_DATA.push(
     {
   "title": "涙よ、Au revoir",
   "artist": "『サクラ大戦 エコール・ド・巴里』日髙 のり子 (エリカ･フォンティーヌ)",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=5",
   "source": "hoshiho.js"
@@ -1072,7 +1072,7 @@ window.SONG_DATA.push(
     {
   "title": "愛ゆえに",
   "artist": "『サクラ大戦』真宮寺さくら(横山智佐)＆マリア・タチバナ(高乃麗)",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=6",
   "source": "hoshiho.js"
@@ -1080,7 +1080,7 @@ window.SONG_DATA.push(
     {
   "title": "檄！帝国華撃団＜新章＞",
   "artist": "『新サクラ大戦』天宮さくら（佐倉綾音）、東雲初穂（内田真礼）、望月あざみ（山村響）、アナスタシア・パルマ（福原綾香）、クラリ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=7",
   "source": "hoshiho.js"
@@ -1088,7 +1088,7 @@ window.SONG_DATA.push(
     {
   "title": "檄！帝～最終章～",
   "artist": "『サクラ大戦4』大神一郎（陶山章央）・真宮寺さくら（横山智佐）・神崎すみれ（富沢美智恵）・マリア・タチバナ（高乃麗）・アイリス（西",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=8",
   "source": "hoshiho.js"
@@ -1096,7 +1096,7 @@ window.SONG_DATA.push(
     {
   "title": "アイデンティティ",
   "artist": "『落第騎士の英雄譚（キャバルリィ）』酒井ミキオ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=9",
   "source": "hoshiho.js"
@@ -1104,7 +1104,7 @@ window.SONG_DATA.push(
     {
   "title": "ダ・カーポ ～第2ボタンの誓い～",
   "artist": "『D.C. ～ダ・カーポ～』yozuca*",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=10",
   "source": "hoshiho.js"
@@ -1112,7 +1112,7 @@ window.SONG_DATA.push(
     {
   "title": "サクラサクミライコイユメ",
   "artist": "『D.C. ～ダ・カーポ～』Yozuca*",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=11",
   "source": "hoshiho.js"
@@ -1120,7 +1120,7 @@ window.SONG_DATA.push(
     {
   "title": "サクラキミニエム",
   "artist": "『D.C.ll ～ダ・カーポll～』Yozuca*",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=12",
   "source": "hoshiho.js"
@@ -1128,7 +1128,7 @@ window.SONG_DATA.push(
     {
   "title": "サクラ アマネク セカイ(short)",
   "artist": "『D.C.II S.S. ～ダ・カーポII セカンドシーズン～』Yozuca*",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=13",
   "source": "hoshiho.js"
@@ -1136,7 +1136,7 @@ window.SONG_DATA.push(
     {
   "title": "ダ・カーポII ～あさきゆめみし君と～",
   "artist": "『D.C.ll ～ダ・カーポll～』Yozuca*",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=14",
   "source": "hoshiho.js"
@@ -1144,7 +1144,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピー☆マテリアル",
   "artist": "『魔法先生ネギま！』麻帆良学園中等部2年A組",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=15",
   "source": "hoshiho.js"
@@ -1152,7 +1152,7 @@ window.SONG_DATA.push(
     {
   "title": "7 Girls War",
   "artist": "『Wake Up, Girls!』Wake Up, Girls!",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=16",
   "source": "hoshiho.js"
@@ -1160,7 +1160,7 @@ window.SONG_DATA.push(
     {
   "title": "星のダイアローグ",
   "artist": "『少女☆歌劇 レヴュースタァライト』スタァライト九九組",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=17",
   "source": "hoshiho.js"
@@ -1168,7 +1168,7 @@ window.SONG_DATA.push(
     {
   "title": "晴れ模様",
   "artist": "『アルテ』安野希世乃",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=18",
   "source": "hoshiho.js"
@@ -1176,7 +1176,7 @@ window.SONG_DATA.push(
     {
   "title": "きこえるかしら",
   "artist": "『赤毛のアン』大和田りつこ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=19",
   "source": "hoshiho.js"
@@ -1184,7 +1184,7 @@ window.SONG_DATA.push(
     {
   "title": "さめない夢",
   "artist": "『赤毛のアン』大和田りつこ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=20",
   "source": "hoshiho.js"
@@ -1192,7 +1192,7 @@ window.SONG_DATA.push(
     {
   "title": "Lost Princess",
   "artist": "『プリンセスコネクト！Re:Dive』ペコリーヌ(CV:M・A・O)、コッコロ(CV:伊藤美来)、キャル(CV:立花理香",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=21",
   "source": "hoshiho.js"
@@ -1200,7 +1200,7 @@ window.SONG_DATA.push(
     {
   "title": "カカカタ☆カタオモイ-C(short)",
   "artist": "『日常』ヒャダイン",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=22",
   "source": "hoshiho.js"
@@ -1208,7 +1208,7 @@ window.SONG_DATA.push(
     {
   "title": "カカカタ☆カタオモイ-C",
   "artist": "『日常』ヒャダイン",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=23",
   "source": "hoshiho.js"
@@ -1216,7 +1216,7 @@ window.SONG_DATA.push(
     {
   "title": "じょーじょーゆーじょー",
   "artist": "『日常』ヒャダイン",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=24",
   "source": "hoshiho.js"
@@ -1224,7 +1224,7 @@ window.SONG_DATA.push(
     {
   "title": "Zzz",
   "artist": "『日常』佐咲紗花",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=25",
   "source": "hoshiho.js"
@@ -1232,7 +1232,7 @@ window.SONG_DATA.push(
     {
   "title": "さくらんぼキッス ～爆発だも～ん～",
   "artist": "『カラフルキッス ～12コの胸キュン!～』KOTOKO",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=26",
   "source": "hoshiho.js"
@@ -1240,7 +1240,7 @@ window.SONG_DATA.push(
     {
   "title": "七転八起☆至上主義！",
   "artist": "『ハヤテのごとく！』KOTOKO",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=27",
   "source": "hoshiho.js"
@@ -1248,7 +1248,7 @@ window.SONG_DATA.push(
     {
   "title": "→unfinished→",
   "artist": "『アクセルワールド』KOTOKO",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=28",
   "source": "hoshiho.js"
@@ -1256,7 +1256,7 @@ window.SONG_DATA.push(
     {
   "title": "Sparkling Daydream",
   "artist": "『中二病でも恋がしたい!』ZAQ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=29",
   "source": "hoshiho.js"
@@ -1264,7 +1264,7 @@ window.SONG_DATA.push(
     {
   "title": "徒花ネクロマンシー",
   "artist": "『ゾンビランドサガ』フランシュシュ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=30",
   "source": "hoshiho.js"
@@ -1272,7 +1272,7 @@ window.SONG_DATA.push(
     {
   "title": "Endless Story",
   "artist": "『C3 -シーキューブ-』田村ゆかり\\",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=31",
   "source": "hoshiho.js"
@@ -1280,7 +1280,7 @@ window.SONG_DATA.push(
     {
   "title": "Birth",
   "artist": "『アキハバラ電脳組』奥井雅美",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=32",
   "source": "hoshiho.js"
@@ -1288,7 +1288,7 @@ window.SONG_DATA.push(
     {
   "title": "約束はいらない",
   "artist": "『天空のエスカフローネ』坂本真綾",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=33",
   "source": "hoshiho.js"
@@ -1296,7 +1296,7 @@ window.SONG_DATA.push(
     {
   "title": "キミガタメ",
   "artist": "『うたわれるもの～散りゆく者への子守唄～』Suara",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=34",
   "source": "hoshiho.js"
@@ -1304,7 +1304,7 @@ window.SONG_DATA.push(
     {
   "title": "Time After Time ～花舞う街で～",
   "artist": "『名探偵コナン 迷宮の十字路』倉木麻衣",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=35",
   "source": "hoshiho.js"
@@ -1312,7 +1312,7 @@ window.SONG_DATA.push(
     {
   "title": "Anytime Anywhere",
   "artist": "『葬送のフリーレン』Milet",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=36",
   "source": "hoshiho.js"
@@ -1320,7 +1320,7 @@ window.SONG_DATA.push(
     {
   "title": "未来派Lovers",
   "artist": "『機動警察パトレイバー』笠原弘子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=37",
   "source": "hoshiho.js"
@@ -1328,7 +1328,7 @@ window.SONG_DATA.push(
     {
   "title": "Catch You Catch Me",
   "artist": "『カードキャプターさくら』グミ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=38",
   "source": "hoshiho.js"
@@ -1336,7 +1336,7 @@ window.SONG_DATA.push(
     {
   "title": "PURE SNOW",
   "artist": "『火魅子伝』佐々木ゆう子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=39",
   "source": "hoshiho.js"
@@ -1344,7 +1344,7 @@ window.SONG_DATA.push(
     {
   "title": "ナージャ!!",
   "artist": "『明日のナージャ』本田美奈子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-12]春意盎然的歌曲中心歌回杂谈直播 /Singing Stream HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-04-12] Spring-themed Song Center Singing Stream & Chat /Singing Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1naDRBmEy6?p=40",
   "source": "hoshiho.js"
@@ -1352,7 +1352,7 @@ window.SONG_DATA.push(
     {
   "title": "SAKURA",
   "artist": "いきものがかり",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-25]春天🌸，这样的气温真好啊 ✨ HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-04-25] Spring🌸, such nice weather ✨ HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Sko9BkEtB?p=1",
   "source": "hoshiho.js"
@@ -1360,7 +1360,7 @@ window.SONG_DATA.push(
     {
   "title": "HOT BLOOD",
   "artist": "『バジリスク ～桜花忍法帖～』水樹奈々",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-25]春天🌸，这样的气温真好啊 ✨ HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-04-25] Spring🌸, such nice weather ✨ HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Sko9BkEtB?p=2",
   "source": "hoshiho.js"
@@ -1368,7 +1368,7 @@ window.SONG_DATA.push(
     {
   "title": "The Story of Us",
   "artist": "『葬送のフリーレン』milet",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-25]春天🌸，这样的气温真好啊 ✨ HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-04-25] Spring🌸, such nice weather ✨ HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Sko9BkEtB?p=3",
   "source": "hoshiho.js"
@@ -1376,7 +1376,7 @@ window.SONG_DATA.push(
     {
   "title": "Wind Climbing ～風にあそばれて～",
   "artist": "『魔法陣グルグル』奥井亜紀",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-25]春天🌸，这样的气温真好啊 ✨ HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-04-25] Spring🌸, such nice weather ✨ HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Sko9BkEtB?p=4",
   "source": "hoshiho.js"
@@ -1384,7 +1384,7 @@ window.SONG_DATA.push(
     {
   "title": "桜のあと",
   "artist": "『夜桜四重奏 ～ヨザクラカルテット～』UNISON SQUARE GARDEN",
-  "collection": "【🌟💐HoshiHo歌切】[2026-04-25]春天🌸，这样的气温真好啊 ✨ HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-04-25] Spring🌸, such nice weather ✨ HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Sko9BkEtB?p=5",
   "source": "hoshiho.js"
@@ -1392,7 +1392,7 @@ window.SONG_DATA.push(
     {
   "title": "ループ",
   "artist": "『ツバサ・クロニクル(第1期)』坂本真綾",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=1",
   "source": "hoshiho.js"
@@ -1400,7 +1400,7 @@ window.SONG_DATA.push(
     {
   "title": "風待ちジェット",
   "artist": "『ツバサ・クロニクル(第2期)』坂本真綾",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=2",
   "source": "hoshiho.js"
@@ -1408,7 +1408,7 @@ window.SONG_DATA.push(
     {
   "title": "COLORS",
   "artist": "『コードギアス 反逆のルルーシュ』FLOW",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=3",
   "source": "hoshiho.js"
@@ -1416,7 +1416,7 @@ window.SONG_DATA.push(
     {
   "title": "勇侠青春謳",
   "artist": "『コードギアス 反逆のルルーシュ』ALI PROJECT",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=4",
   "source": "hoshiho.js"
@@ -1424,7 +1424,7 @@ window.SONG_DATA.push(
     {
   "title": "わが臈たし悪の華",
   "artist": "『コードギアス 反逆のルルーシュR2』ALI PROJECT",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=5",
   "source": "hoshiho.js"
@@ -1432,7 +1432,7 @@ window.SONG_DATA.push(
     {
   "title": "マジックナンバー",
   "artist": "『こばと。』坂本真綾",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=6",
   "source": "hoshiho.js"
@@ -1440,7 +1440,7 @@ window.SONG_DATA.push(
     {
   "title": "撲殺天使ドクロちゃん",
   "artist": "『撲殺天使ドクロちゃん』千葉紗子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=7",
   "source": "hoshiho.js"
@@ -1448,7 +1448,7 @@ window.SONG_DATA.push(
     {
   "title": "明日もし君が壊れても",
   "artist": "『遊☆戯☆王』WANDS",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=8",
   "source": "hoshiho.js"
@@ -1456,7 +1456,7 @@ window.SONG_DATA.push(
     {
   "title": "渇いた叫び",
   "artist": "『遊☆戯☆王』FIELD OF VIEW",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=9",
   "source": "hoshiho.js"
@@ -1464,7 +1464,7 @@ window.SONG_DATA.push(
     {
   "title": "Shuffle",
   "artist": "『遊☆戯☆王デュエルモンスターズ』奥井雅美",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=10",
   "source": "hoshiho.js"
@@ -1472,7 +1472,7 @@ window.SONG_DATA.push(
     {
   "title": "晴れてハレルヤ",
   "artist": "『魔法陣グルグル』奥井亜紀",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=11",
   "source": "hoshiho.js"
@@ -1480,7 +1480,7 @@ window.SONG_DATA.push(
     {
   "title": "微笑みの爆弾",
   "artist": "『幽☆遊☆白書』馬渡松子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=12",
   "source": "hoshiho.js"
@@ -1488,7 +1488,7 @@ window.SONG_DATA.push(
     {
   "title": "アンバランスなKissをして",
   "artist": "『幽☆遊☆白書』高橋ひろ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=13",
   "source": "hoshiho.js"
@@ -1496,7 +1496,7 @@ window.SONG_DATA.push(
     {
   "title": "太陽がまた輝くとき",
   "artist": "『幽☆遊☆白書』高橋ひろ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=14",
   "source": "hoshiho.js"
@@ -1504,7 +1504,7 @@ window.SONG_DATA.push(
     {
   "title": "あなただけ見つめてる",
   "artist": "『SLAM DUNK』大黒摩季",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=15",
   "source": "hoshiho.js"
@@ -1512,7 +1512,7 @@ window.SONG_DATA.push(
     {
   "title": "煌めく瞬間に捕われて",
   "artist": "『SLAM DUNK』MANISH",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=16",
   "source": "hoshiho.js"
@@ -1520,7 +1520,7 @@ window.SONG_DATA.push(
     {
   "title": "マイ フレンド",
   "artist": "『SLAM DUNK』ZARD",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=17",
   "source": "hoshiho.js"
@@ -1528,7 +1528,7 @@ window.SONG_DATA.push(
     {
   "title": "泪のムコウ",
   "artist": "『機動戦士ガンダム00 -2nd Season-』ステレオポニー",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=18",
   "source": "hoshiho.js"
@@ -1536,7 +1536,7 @@ window.SONG_DATA.push(
     {
   "title": "カントリー・ロード",
   "artist": "『耳をすませば』本名陽子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=19",
   "source": "hoshiho.js"
@@ -1544,7 +1544,7 @@ window.SONG_DATA.push(
     {
   "title": "スーパーウルトラハイパーミラクルロマンチック",
   "artist": "『VALKYRIE DRIVE』敷島魅零（井口裕香）&処女まもり（井澤美香子）",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=20",
   "source": "hoshiho.js"
@@ -1552,7 +1552,7 @@ window.SONG_DATA.push(
     {
   "title": "THE DAY",
   "artist": "『僕のヒーローアカデミア』ポルノグラフィティ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=21",
   "source": "hoshiho.js"
@@ -1560,7 +1560,7 @@ window.SONG_DATA.push(
     {
   "title": "アイデンティティ",
   "artist": "『落第騎士の英雄譚』酒井ミキオ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=22",
   "source": "hoshiho.js"
@@ -1568,7 +1568,7 @@ window.SONG_DATA.push(
     {
   "title": "大嫌い！",
   "artist": "『ウィキッド ふたりの魔女』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=23",
   "source": "hoshiho.js"
@@ -1576,7 +1576,7 @@ window.SONG_DATA.push(
     {
   "title": "ポピュラー",
   "artist": "『ウィキッド ふたりの魔女』",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=24",
   "source": "hoshiho.js"
@@ -1584,7 +1584,7 @@ window.SONG_DATA.push(
     {
   "title": "Reweave",
   "artist": "『Re:ゼロから始める異世界生活(3rd season)』鈴木このみ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=25",
   "source": "hoshiho.js"
@@ -1592,7 +1592,7 @@ window.SONG_DATA.push(
     {
   "title": "lulu.",
   "artist": "『葬送のフリーレン(第2期)』Mrs. GREEN APPLE",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=26",
   "source": "hoshiho.js"
@@ -1600,7 +1600,7 @@ window.SONG_DATA.push(
     {
   "title": "アメフラシの歌 ～Beautiful Rain～",
   "artist": "『それでも世界は美しい』ニケ・ルメルシエ（CV：前田玲奈）",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=27",
   "source": "hoshiho.js"
@@ -1608,7 +1608,7 @@ window.SONG_DATA.push(
     {
   "title": "ハナコトバ",
   "artist": "『結城友奈は勇者である -勇者の章-』讃州中学勇者部",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=28",
   "source": "hoshiho.js"
@@ -1616,7 +1616,7 @@ window.SONG_DATA.push(
     {
   "title": "君ノ記憶(shortVer.)",
   "artist": "『薄桜鬼』Mao",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=29",
   "source": "hoshiho.js"
@@ -1624,7 +1624,7 @@ window.SONG_DATA.push(
     {
   "title": "甲賀忍法帖",
   "artist": "『バジリスク ～甲賀忍法帖～』陰陽座",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=30",
   "source": "hoshiho.js"
@@ -1632,7 +1632,7 @@ window.SONG_DATA.push(
     {
   "title": "Over the clouds",
   "artist": "『GOD EATER』alan",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=31",
   "source": "hoshiho.js"
@@ -1640,7 +1640,7 @@ window.SONG_DATA.push(
     {
   "title": "光のアリア(アカペラ)",
   "artist": "『GOD EATER 2』葦原ユノ starring yu-yu",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=32",
   "source": "hoshiho.js"
@@ -1648,7 +1648,7 @@ window.SONG_DATA.push(
     {
   "title": "ペッパー警部",
   "artist": "ピンク・レディー",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=33",
   "source": "hoshiho.js"
@@ -1656,7 +1656,7 @@ window.SONG_DATA.push(
     {
   "title": "迷い道",
   "artist": "渡辺真知子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=34",
   "source": "hoshiho.js"
@@ -1664,7 +1664,7 @@ window.SONG_DATA.push(
     {
   "title": "MUGO・ん…色っぽい",
   "artist": "工藤静香",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=35",
   "source": "hoshiho.js"
@@ -1672,7 +1672,7 @@ window.SONG_DATA.push(
     {
   "title": "フライディ・チャイナタウン",
   "artist": "泰葉",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=36",
   "source": "hoshiho.js"
@@ -1680,7 +1680,7 @@ window.SONG_DATA.push(
     {
   "title": "アシタノツバサ",
   "artist": "『ブレイブウィッチーズ』石田燿子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=37",
   "source": "hoshiho.js"
@@ -1688,7 +1688,7 @@ window.SONG_DATA.push(
     {
   "title": "Deep in Abyss",
   "artist": "『メイドインアビス』リコ(CV:富田美憂)、レグ(CV:伊瀬茉莉也).",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=38",
   "source": "hoshiho.js"
@@ -1696,7 +1696,7 @@ window.SONG_DATA.push(
     {
   "title": "ロ・ロ・ロ・ロシアン・ルーレット",
   "artist": "『ダーティペア』中原めいこ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=39",
   "source": "hoshiho.js"
@@ -1704,7 +1704,7 @@ window.SONG_DATA.push(
     {
   "title": "SHINY DAYS",
   "artist": "『ゆるキャン△』亜咲花",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=40",
   "source": "hoshiho.js"
@@ -1712,7 +1712,7 @@ window.SONG_DATA.push(
     {
   "title": "ユニバーページ",
   "artist": "『アウトブレイク・カンパニー』三森すずこ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-02]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream Highlights】[2026-05-02] Singing Stream & Chat Live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FeRiBMEtv?p=41",
   "source": "hoshiho.js"
@@ -1720,7 +1720,7 @@ window.SONG_DATA.push(
     {
   "title": "Amazing Grace",
   "artist": "IL DIVO",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-05-09] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=1",
   "source": "hoshiho.js"
@@ -1728,7 +1728,7 @@ window.SONG_DATA.push(
     {
   "title": "白夜幻想譚",
   "artist": "『イリスのアトリエ エターナルマナ』霜月はるか",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-05-09] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=2",
   "source": "hoshiho.js"
@@ -1736,7 +1736,7 @@ window.SONG_DATA.push(
     {
   "title": "carrot (にんじん村一番娘)",
   "artist": "『ヴィオラートのアトリエ』みずさわゆうき",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-05-09] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=3",
   "source": "hoshiho.js"
@@ -1744,7 +1744,7 @@ window.SONG_DATA.push(
     {
   "title": "運命のルーレット廻して",
   "artist": "『名探偵コナン』ZARD",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-05-09] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=4",
   "source": "hoshiho.js"
@@ -1752,7 +1752,7 @@ window.SONG_DATA.push(
     {
   "title": "嘆きノ森",
   "artist": "『ひぐらしのなく頃に祭』彩音",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-05-09] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=5",
   "source": "hoshiho.js"
@@ -1760,7 +1760,7 @@ window.SONG_DATA.push(
     {
   "title": "コンプレックス・イマージュ",
   "artist": "『ひぐらしのなく頃に祭』彩音",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-05-09] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=6",
   "source": "hoshiho.js"
@@ -1768,7 +1768,7 @@ window.SONG_DATA.push(
     {
   "title": "You",
   "artist": "『ひぐらしのなく頃に』雪野五月",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-05-09] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=7",
   "source": "hoshiho.js"
@@ -1776,7 +1776,7 @@ window.SONG_DATA.push(
     {
   "title": "緋色の薔薇",
   "artist": "『レムルローズの魔女』霜月はるか",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-05-09] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=8",
   "source": "hoshiho.js"
@@ -1784,7 +1784,7 @@ window.SONG_DATA.push(
     {
   "title": "なぜ？謎？！ANSWER",
   "artist": "『名探偵プリキュア！』熊田茜音＆増井優花",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-05-09] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=9",
   "source": "hoshiho.js"
@@ -1792,7 +1792,7 @@ window.SONG_DATA.push(
     {
   "title": "七色シンフォニー",
   "artist": "『四月は君の嘘』コアラモード",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-05-09] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=10",
   "source": "hoshiho.js"
@@ -1800,7 +1800,7 @@ window.SONG_DATA.push(
     {
   "title": "光るなら",
   "artist": "『四月は君の嘘』Goose house",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-05-09] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=11",
   "source": "hoshiho.js"
@@ -1808,7 +1808,7 @@ window.SONG_DATA.push(
     {
   "title": "かもめが翔んだ日",
   "artist": "渡辺真知子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-05-09] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=12",
   "source": "hoshiho.js"
@@ -1816,7 +1816,7 @@ window.SONG_DATA.push(
     {
   "title": "鏡の中のアクトレス",
   "artist": "『きまぐれオレンジロード』中原めいこ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-05-09] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=13",
   "source": "hoshiho.js"
@@ -1824,7 +1824,7 @@ window.SONG_DATA.push(
     {
   "title": "NEVERLAND",
   "artist": "『サモンナイト4』松澤由美",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-05-09] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=14",
   "source": "hoshiho.js"
@@ -1832,7 +1832,7 @@ window.SONG_DATA.push(
     {
   "title": "太陽が呼んでいる",
   "artist": "『サモンナイト3』加藤いづみ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-05-09] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=15",
   "source": "hoshiho.js"
@@ -1840,7 +1840,7 @@ window.SONG_DATA.push(
     {
   "title": "白夜",
   "artist": "『サモンナイト エクステーゼ』松本英子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-05-09] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=16",
   "source": "hoshiho.js"
@@ -1848,7 +1848,7 @@ window.SONG_DATA.push(
     {
   "title": "YOU GET TO BURNING",
   "artist": "『機動戦艦ナデシコ』松澤由美",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-09]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-05-09] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uS5H6JE8S?p=17",
   "source": "hoshiho.js"
@@ -1856,7 +1856,7 @@ window.SONG_DATA.push(
     {
   "title": "メロウ",
   "artist": "『スキップとローファー』須田景凪",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-05-23] Singing stream & chat live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=1",
   "source": "hoshiho.js"
@@ -1864,7 +1864,7 @@ window.SONG_DATA.push(
     {
   "title": "笑顔に会いたい",
   "artist": "『ママレード・ボーイ』濱田理恵",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-05-23] Singing stream & chat live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=2",
   "source": "hoshiho.js"
@@ -1872,7 +1872,7 @@ window.SONG_DATA.push(
     {
   "title": "MOMENT",
   "artist": "『ママレード・ボーイ』國府田マリ子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-05-23] Singing stream & chat live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=3",
   "source": "hoshiho.js"
@@ -1880,7 +1880,7 @@ window.SONG_DATA.push(
     {
   "title": "True My Heart(short.ver)",
   "artist": "ナーサリィ☆ライム -』佐倉紗織",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-05-23] Singing stream & chat live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=4",
   "source": "hoshiho.js"
@@ -1888,7 +1888,7 @@ window.SONG_DATA.push(
     {
   "title": "風のアンセム(feat. suis from ヨルシカ)",
   "artist": "『とんがり帽子のアトリエ』Eve",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-05-23] Singing stream & chat live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=5",
   "source": "hoshiho.js"
@@ -1896,7 +1896,7 @@ window.SONG_DATA.push(
     {
   "title": "Get along",
   "artist": "『スレイヤーズ』林原めぐみ、奥井雅美",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-05-23] Singing stream & chat live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=6",
   "source": "hoshiho.js"
@@ -1904,7 +1904,7 @@ window.SONG_DATA.push(
     {
   "title": "Give a reason",
   "artist": "『スレイヤーズNEXT』林原めぐみ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-05-23] Singing stream & chat live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=7",
   "source": "hoshiho.js"
@@ -1912,7 +1912,7 @@ window.SONG_DATA.push(
     {
   "title": "邪魔はさせない",
   "artist": "『スレイヤーズNEXT』奥井雅美",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-05-23] Singing stream & chat live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=8",
   "source": "hoshiho.js"
@@ -1920,7 +1920,7 @@ window.SONG_DATA.push(
     {
   "title": "記憶の海",
   "artist": "『School Days』yozuca*",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-05-23] Singing stream & chat live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=9",
   "source": "hoshiho.js"
@@ -1928,7 +1928,7 @@ window.SONG_DATA.push(
     {
   "title": "エルの絵本 【魔女とラフレンツェ】",
   "artist": "『Elysion ～楽園幻想物語組曲～』Sound Horizon",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-05-23] Singing stream & chat live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=10",
   "source": "hoshiho.js"
@@ -1936,7 +1936,7 @@ window.SONG_DATA.push(
     {
   "title": "Ark",
   "artist": "『Elysion ～楽園幻想物語組曲～』Sound Horizon",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-05-23] Singing stream & chat live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=11",
   "source": "hoshiho.js"
@@ -1944,7 +1944,7 @@ window.SONG_DATA.push(
     {
   "title": "Sacrifice",
   "artist": "『Elysion ～楽園幻想物語組曲～』Sound Horizon",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-05-23] Singing stream & chat live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=12",
   "source": "hoshiho.js"
@@ -1952,7 +1952,7 @@ window.SONG_DATA.push(
     {
   "title": "StarDust",
   "artist": "『Elysion ～楽園幻想物語組曲～』Sound Horizon",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-05-23] Singing stream & chat live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=13",
   "source": "hoshiho.js"
@@ -1960,7 +1960,7 @@ window.SONG_DATA.push(
     {
   "title": "エルの楽園 ［→ side：A →］",
   "artist": "『Elysion ～楽園幻想物語組曲～』Sound Horizon",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-05-23] Singing stream & chat live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=14",
   "source": "hoshiho.js"
@@ -1968,7 +1968,7 @@ window.SONG_DATA.push(
     {
   "title": "輪舞-revolution",
   "artist": "『少女革命ウテナ』奥井雅美",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-05-23] Singing stream & chat live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=15",
   "source": "hoshiho.js"
@@ -1976,7 +1976,7 @@ window.SONG_DATA.push(
     {
   "title": "絶対運命黙示録・完全版",
   "artist": "『少女革命ウテナ』杉並児童合唱団",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-05-23] Singing stream & chat live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=16",
   "source": "hoshiho.js"
@@ -1984,7 +1984,7 @@ window.SONG_DATA.push(
     {
   "title": "バーチャルスター発生学(short ver)",
   "artist": "『少女革命ウテナ』上谷麻紀",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-05-23] Singing stream & chat live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=17",
   "source": "hoshiho.js"
@@ -1992,7 +1992,7 @@ window.SONG_DATA.push(
     {
   "title": "fairytale",
   "artist": "『空の境界(第六章)』Kalafina",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-05-23] Singing stream & chat live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=18",
   "source": "hoshiho.js"
@@ -2000,7 +2000,7 @@ window.SONG_DATA.push(
     {
   "title": "プリティ・ケーキ・マジック",
   "artist": "『わがまま☆フェアリー ミルモでポン!』kaede+Cheek Fairy",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-05-23] Singing stream & chat live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=19",
   "source": "hoshiho.js"
@@ -2008,7 +2008,7 @@ window.SONG_DATA.push(
     {
   "title": "やさしい両手",
   "artist": "『hack//G.U.』三谷朋世",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-05-23] Singing stream & chat live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=20",
   "source": "hoshiho.js"
@@ -2016,7 +2016,7 @@ window.SONG_DATA.push(
     {
   "title": "Silly-Go-Round",
   "artist": "『.hack//Roots』FictionJunction YUUKA",
-  "collection": "【🌟💐HoshiHo歌切】[2026-05-23]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Stream】[2026-05-23] Singing stream & chat live HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YGGL6YE8E?p=21",
   "source": "hoshiho.js"
@@ -2024,7 +2024,7 @@ window.SONG_DATA.push(
     {
   "title": "アンパンマンのマーチ",
   "artist": "『それいけ!アンパンマン』ドリーミング",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-06-06] Karaoke & Chat Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=1",
   "source": "hoshiho.js"
@@ -2032,7 +2032,7 @@ window.SONG_DATA.push(
     {
   "title": "カルマ",
   "artist": "『テイルズ オブ ジ アビス』BUMP OF CHICKEN",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-06-06] Karaoke & Chat Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=2",
   "source": "hoshiho.js"
@@ -2040,7 +2040,7 @@ window.SONG_DATA.push(
     {
   "title": "譜歌",
   "artist": "『テイルズ オブ ジ アビス』ティア・グランツ（ゆかな）",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-06-06] Karaoke & Chat Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=3",
   "source": "hoshiho.js"
@@ -2048,7 +2048,7 @@ window.SONG_DATA.push(
     {
   "title": "夢であるように",
   "artist": "『テイルズ オブ デスティニー』DEEN",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-06-06] Karaoke & Chat Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=4",
   "source": "hoshiho.js"
@@ -2056,7 +2056,7 @@ window.SONG_DATA.push(
     {
   "title": "まもりたい ～White Wishes～",
   "artist": "『テイルズ オブ グレイセス』BoA",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-06-06] Karaoke & Chat Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=5",
   "source": "hoshiho.js"
@@ -2064,7 +2064,7 @@ window.SONG_DATA.push(
     {
   "title": "ガラスの森(アカペラ)",
   "artist": "ZABADAK",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-06-06] Karaoke & Chat Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=6",
   "source": "hoshiho.js"
@@ -2072,7 +2072,7 @@ window.SONG_DATA.push(
     {
   "title": "flying",
   "artist": "『テイルズ オブ エターニア』GARNET CROW",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-06-06] Karaoke & Chat Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=7",
   "source": "hoshiho.js"
@@ -2080,7 +2080,7 @@ window.SONG_DATA.push(
     {
   "title": "ジョバイロ",
   "artist": "『今夜ひとりのベッドで』ポルノグラフィティ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-06-06] Karaoke & Chat Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=8",
   "source": "hoshiho.js"
@@ -2088,7 +2088,7 @@ window.SONG_DATA.push(
     {
   "title": "白夜幻想譚",
   "artist": "『イリスのアトリエ エターナルマナ』霜月はるか",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-06-06] Karaoke & Chat Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=9",
   "source": "hoshiho.js"
@@ -2096,7 +2096,7 @@ window.SONG_DATA.push(
     {
   "title": "白夜",
   "artist": "『サモンナイトエクステーゼ 夜明けの翼』松本英子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-06-06] Karaoke & Chat Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=10",
   "source": "hoshiho.js"
@@ -2104,7 +2104,7 @@ window.SONG_DATA.push(
     {
   "title": "DANZEN！ふたりはプリキュア(Ver.Max Heart)",
   "artist": "『ふたりはプリキュア』五條真由美",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-06-06] Karaoke & Chat Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=11",
   "source": "hoshiho.js"
@@ -2112,7 +2112,7 @@ window.SONG_DATA.push(
     {
   "title": "What's Up Guys?",
   "artist": "『爆れつハンター』古本新之輔、林原めぐみ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-06-06] Karaoke & Chat Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=12",
   "source": "hoshiho.js"
@@ -2120,7 +2120,7 @@ window.SONG_DATA.push(
     {
   "title": "インモラリスト",
   "artist": "『ドラゴンクライシス！』堀江由衣",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-06-06] Karaoke & Chat Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=13",
   "source": "hoshiho.js"
@@ -2128,7 +2128,7 @@ window.SONG_DATA.push(
     {
   "title": "IN MY DREAM",
   "artist": "『ブレンパワード』真行寺恵里",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-06-06] Karaoke & Chat Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=14",
   "source": "hoshiho.js"
@@ -2136,7 +2136,7 @@ window.SONG_DATA.push(
     {
   "title": "月の繭",
   "artist": "『∀ガンダム』奥井亜紀",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-06-06] Karaoke & Chat Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=15",
   "source": "hoshiho.js"
@@ -2144,7 +2144,7 @@ window.SONG_DATA.push(
     {
   "title": "ユーフォリア(short ver.)",
   "artist": "『ARIA The NATURAL』牧野由依",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-06-06] Karaoke & Chat Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=16",
   "source": "hoshiho.js"
@@ -2152,7 +2152,7 @@ window.SONG_DATA.push(
     {
   "title": "夏待ち",
   "artist": "『ARIA The NATURAL』ROUND TABLE feat. Nino",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-06-06] Karaoke & Chat Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=17",
   "source": "hoshiho.js"
@@ -2160,7 +2160,7 @@ window.SONG_DATA.push(
     {
   "title": "carrot (にんじん村一番娘)",
   "artist": "『ヴィオラートのアトリエ』みずさわゆうき",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-06-06] Karaoke & Chat Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=18",
   "source": "hoshiho.js"
@@ -2168,7 +2168,7 @@ window.SONG_DATA.push(
     {
   "title": "終端の王と異世界の騎士 ～The Endia & The Knights～",
   "artist": "『カオスウォーズ』Sound Horizon",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-06]歌回杂谈 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-06-06] Karaoke & Chat Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CeE36WEoF?p=19",
   "source": "hoshiho.js"
@@ -2176,7 +2176,7 @@ window.SONG_DATA.push(
     {
   "title": "太陽がまた輝くとき",
   "artist": "高橋ひろ [TVアニメ 幽☆遊☆白書]",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-06-20] Singing stream & chat livestream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=1",
   "source": "hoshiho.js"
@@ -2184,7 +2184,7 @@ window.SONG_DATA.push(
     {
   "title": "嵐の中で輝いて",
   "artist": "米倉千尋 [OVA 機動戦士ガンダム 第08MS小隊]",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-06-20] Singing stream & chat livestream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=2",
   "source": "hoshiho.js"
@@ -2192,7 +2192,7 @@ window.SONG_DATA.push(
     {
   "title": "みずいろの雨",
   "artist": "八神純子 [映画 天使のはらわた 名美]",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-06-20] Singing stream & chat livestream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=3",
   "source": "hoshiho.js"
@@ -2200,7 +2200,7 @@ window.SONG_DATA.push(
     {
   "title": "JUST COMMUNICATION",
   "artist": "TWO-MIX [TVアニメ 新機動戦記ガンダムW]",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-06-20] Singing stream & chat livestream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=4",
   "source": "hoshiho.js"
@@ -2208,7 +2208,7 @@ window.SONG_DATA.push(
     {
   "title": "曇天",
   "artist": "DOES [TVアニメ 銀魂]",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-06-20] Singing stream & chat livestream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=5",
   "source": "hoshiho.js"
@@ -2216,7 +2216,7 @@ window.SONG_DATA.push(
     {
   "title": "青空のナミダ",
   "artist": "高橋瞳 [TVアニメ BLOOD+]",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-06-20] Singing stream & chat livestream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=6",
   "source": "hoshiho.js"
@@ -2224,7 +2224,7 @@ window.SONG_DATA.push(
     {
   "title": "Eternal Love 2003",
   "artist": "飯島真理 [ゲーム GALAXY ANGEL]",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-06-20] Singing stream & chat livestream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=7",
   "source": "hoshiho.js"
@@ -2232,7 +2232,7 @@ window.SONG_DATA.push(
     {
   "title": "僕たちの行方",
   "artist": "高橋瞳 [TVアニメ 機動戦士ガンダムSEED DESTINY]",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-06-20] Singing stream & chat livestream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=8",
   "source": "hoshiho.js"
@@ -2240,7 +2240,7 @@ window.SONG_DATA.push(
     {
   "title": "サイレント・ヴォイス",
   "artist": "ひろえ純 [TVアニメ 機動戦士ガンダムΖΖ]",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-06-20] Singing stream & chat livestream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=9",
   "source": "hoshiho.js"
@@ -2248,7 +2248,7 @@ window.SONG_DATA.push(
     {
   "title": "AIZO",
   "artist": "King Gnu [TVアニメ 呪術廻戦 死滅回游 前編]",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-06-20] Singing stream & chat livestream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=10",
   "source": "hoshiho.js"
@@ -2256,7 +2256,7 @@ window.SONG_DATA.push(
     {
   "title": "君をのせて",
   "artist": "井上あずみ [映画 天空の城ラピュタ]",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-06-20] Singing stream & chat livestream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=11",
   "source": "hoshiho.js"
@@ -2264,7 +2264,7 @@ window.SONG_DATA.push(
     {
   "title": "It's gonna rain!",
   "artist": "BONNIE PINK [TVアニメ るろうに剣心 -明治剣客浪漫譚-]",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-06-20] Singing stream & chat livestream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=12",
   "source": "hoshiho.js"
@@ -2272,7 +2272,7 @@ window.SONG_DATA.push(
     {
   "title": "花は桜 君は美し",
   "artist": "いきものがかり",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-06-20] Singing stream & chat livestream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=13",
   "source": "hoshiho.js"
@@ -2280,7 +2280,7 @@ window.SONG_DATA.push(
     {
   "title": "relations",
   "artist": "星井美希(CV:長谷川明子) [THE IDOLM@STER]",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-06-20] Singing stream & chat livestream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=14",
   "source": "hoshiho.js"
@@ -2288,7 +2288,7 @@ window.SONG_DATA.push(
     {
   "title": "光と影を抱きしめたまま",
   "artist": "田村直美 [TVアニメ 魔法騎士レイアース]",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-06-20] Singing stream & chat livestream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=15",
   "source": "hoshiho.js"
@@ -2296,7 +2296,7 @@ window.SONG_DATA.push(
     {
   "title": "光るなら",
   "artist": "Goose house [TVアニメ 四月は君の嘘]",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-06-20] Singing stream & chat livestream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=16",
   "source": "hoshiho.js"
@@ -2304,7 +2304,7 @@ window.SONG_DATA.push(
     {
   "title": "レイン",
   "artist": "シド [TVアニメ 鋼の錬金術師 FULLMETAL ALCHEMIST]",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-06-20] Singing stream & chat livestream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=17",
   "source": "hoshiho.js"
@@ -2312,7 +2312,7 @@ window.SONG_DATA.push(
     {
   "title": "嘘",
   "artist": "シド [TVアニメ 鋼の錬金術師 FULLMETAL ALCHEMIST]",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-06-20] Singing stream & chat livestream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=18",
   "source": "hoshiho.js"
@@ -2320,7 +2320,7 @@ window.SONG_DATA.push(
     {
   "title": "again",
   "artist": "YUI [TVアニメ 鋼の錬金術師 FULLMETAL ALCHEMIST]",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-06-20] Singing stream & chat livestream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=19",
   "source": "hoshiho.js"
@@ -2328,7 +2328,7 @@ window.SONG_DATA.push(
     {
   "title": "扉の向こうへ",
   "artist": "YeLLOW Generation [TVアニメ 鋼の錬金術師]",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-06-20] Singing stream & chat livestream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=20",
   "source": "hoshiho.js"
@@ -2336,7 +2336,7 @@ window.SONG_DATA.push(
     {
   "title": "メリッサ",
   "artist": "ポルノグラフィティ [TVアニメ 鋼の錬金術師]",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-06-20] Singing stream & chat livestream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=21",
   "source": "hoshiho.js"
@@ -2344,7 +2344,7 @@ window.SONG_DATA.push(
     {
   "title": "アメフラシの歌 〜Beautiful Rain〜",
   "artist": "ニケ・ルメルシエ(CV:前田玲奈) [TVアニメ それでも世界は美しい]",
-  "collection": "【🌟💐HoshiHo歌切】[2026-06-20]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Singing Cut】[2026-06-20] Singing stream & chat livestream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1XPjs6eEmX?p=22",
   "source": "hoshiho.js"
@@ -2352,7 +2352,7 @@ window.SONG_DATA.push(
     {
   "title": "ロビンソン",
   "artist": "スピッツ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=1",
   "source": "hoshiho.js"
@@ -2360,7 +2360,7 @@ window.SONG_DATA.push(
     {
   "title": "HOT LIMIT",
   "artist": "T.M.Revolution",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=2",
   "source": "hoshiho.js"
@@ -2368,7 +2368,7 @@ window.SONG_DATA.push(
     {
   "title": "夏祭り",
   "artist": "Whiteberry",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=3",
   "source": "hoshiho.js"
@@ -2376,7 +2376,7 @@ window.SONG_DATA.push(
     {
   "title": "secret base ～君がくれたもの～",
   "artist": "ZONE",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=4",
   "source": "hoshiho.js"
@@ -2384,7 +2384,7 @@ window.SONG_DATA.push(
     {
   "title": "盛れ！ミ・アモーレ",
   "artist": "Juice=Juice",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=5",
   "source": "hoshiho.js"
@@ -2392,7 +2392,7 @@ window.SONG_DATA.push(
     {
   "title": "涙のイエスタデー",
   "artist": "GARNET CROW",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=6",
   "source": "hoshiho.js"
@@ -2400,7 +2400,7 @@ window.SONG_DATA.push(
     {
   "title": "ワニとシャンプー",
   "artist": "ももいろクローバーZ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=7",
   "source": "hoshiho.js"
@@ -2408,7 +2408,7 @@ window.SONG_DATA.push(
     {
   "title": "Mermaid festa vol.1",
   "artist": "μ's",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=8",
   "source": "hoshiho.js"
@@ -2416,7 +2416,7 @@ window.SONG_DATA.push(
     {
   "title": "Cutie Panther",
   "artist": "BiBi",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=9",
   "source": "hoshiho.js"
@@ -2424,7 +2424,7 @@ window.SONG_DATA.push(
     {
   "title": "ココナッツの片想い",
   "artist": "中原めいこ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=10",
   "source": "hoshiho.js"
@@ -2432,7 +2432,7 @@ window.SONG_DATA.push(
     {
   "title": "君たちキウイ・パパイア・マンゴーだね。",
   "artist": "中原めいこ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=11",
   "source": "hoshiho.js"
@@ -2440,7 +2440,7 @@ window.SONG_DATA.push(
     {
   "title": "ロ・ロ・ロ・ロシアン・ルーレット",
   "artist": "中原めいこ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=12",
   "source": "hoshiho.js"
@@ -2448,7 +2448,7 @@ window.SONG_DATA.push(
     {
   "title": "鏡の中のアクトレス",
   "artist": "中原めいこ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=13",
   "source": "hoshiho.js"
@@ -2456,7 +2456,7 @@ window.SONG_DATA.push(
     {
   "title": "Perseus -ペルセウス-",
   "artist": "島谷ひとみ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=14",
   "source": "hoshiho.js"
@@ -2464,7 +2464,7 @@ window.SONG_DATA.push(
     {
   "title": "ANGELUS -アンジェラス-",
   "artist": "島谷ひとみ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=15",
   "source": "hoshiho.js"
@@ -2472,7 +2472,7 @@ window.SONG_DATA.push(
     {
   "title": "YOU",
   "artist": "YURIA",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=16",
   "source": "hoshiho.js"
@@ -2480,7 +2480,7 @@ window.SONG_DATA.push(
     {
   "title": "Mirage Lullaby",
   "artist": "YURIA",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=17",
   "source": "hoshiho.js"
@@ -2488,7 +2488,7 @@ window.SONG_DATA.push(
     {
   "title": "片翼のイカロス",
   "artist": "榊原ゆい",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=18",
   "source": "hoshiho.js"
@@ -2496,7 +2496,7 @@ window.SONG_DATA.push(
     {
   "title": "カザハネ",
   "artist": "霜月はるか",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=19",
   "source": "hoshiho.js"
@@ -2504,7 +2504,7 @@ window.SONG_DATA.push(
     {
   "title": "檄！帝国華撃団",
   "artist": "真宮寺さくら（横山智佐）&帝国歌劇団",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=20",
   "source": "hoshiho.js"
@@ -2512,7 +2512,7 @@ window.SONG_DATA.push(
     {
   "title": "青春ライン",
   "artist": "いきものがかり",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=21",
   "source": "hoshiho.js"
@@ -2520,7 +2520,7 @@ window.SONG_DATA.push(
     {
   "title": "タッチ",
   "artist": "岩崎良美",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=22",
   "source": "hoshiho.js"
@@ -2528,7 +2528,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーバード",
   "artist": "いきものがかり",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=23",
   "source": "hoshiho.js"
@@ -2536,7 +2536,7 @@ window.SONG_DATA.push(
     {
   "title": "ホタルノヒカリ",
   "artist": "いきものがかり",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=24",
   "source": "hoshiho.js"
@@ -2544,7 +2544,7 @@ window.SONG_DATA.push(
     {
   "title": "アクアテラリウム",
   "artist": "やなぎなぎ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=25",
   "source": "hoshiho.js"
@@ -2552,7 +2552,7 @@ window.SONG_DATA.push(
     {
   "title": "三つ葉の結びめ",
   "artist": "やなぎなぎ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=26",
   "source": "hoshiho.js"
@@ -2560,7 +2560,7 @@ window.SONG_DATA.push(
     {
   "title": "夏待ち",
   "artist": "ROUND TABLE feat. Nino",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=27",
   "source": "hoshiho.js"
@@ -2568,7 +2568,7 @@ window.SONG_DATA.push(
     {
   "title": "UNION",
   "artist": "OxT",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=28",
   "source": "hoshiho.js"
@@ -2576,7 +2576,7 @@ window.SONG_DATA.push(
     {
   "title": "インパーフェクト",
   "artist": "オーイシマサヨシ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=29",
   "source": "hoshiho.js"
@@ -2584,7 +2584,7 @@ window.SONG_DATA.push(
     {
   "title": "灼熱の恋",
   "artist": "林原めぐみ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=30",
   "source": "hoshiho.js"
@@ -2592,7 +2592,7 @@ window.SONG_DATA.push(
     {
   "title": "V.I.P",
   "artist": "シド",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=31",
   "source": "hoshiho.js"
@@ -2600,7 +2600,7 @@ window.SONG_DATA.push(
     {
   "title": "Separation",
   "artist": "angela",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=32",
   "source": "hoshiho.js"
@@ -2608,7 +2608,7 @@ window.SONG_DATA.push(
     {
   "title": "Shangri-La",
   "artist": "angela",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=33",
   "source": "hoshiho.js"
@@ -2616,7 +2616,7 @@ window.SONG_DATA.push(
     {
   "title": "翼",
   "artist": "藍井エイル",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=34",
   "source": "hoshiho.js"
@@ -2624,7 +2624,7 @@ window.SONG_DATA.push(
     {
   "title": "ラピスラズリ",
   "artist": "藍井エイル",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-04]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-04] Singing & Chatting Live Stream HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17kTU6WEpL?p=35",
   "source": "hoshiho.js"
@@ -2632,7 +2632,7 @@ window.SONG_DATA.push(
     {
   "title": "世界でいちばん熱い夏",
   "artist": "プリンセス プリンセス",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=1",
   "source": "hoshiho.js"
@@ -2640,7 +2640,7 @@ window.SONG_DATA.push(
     {
   "title": "チョット",
   "artist": "大黒摩季",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=2",
   "source": "hoshiho.js"
@@ -2648,7 +2648,7 @@ window.SONG_DATA.push(
     {
   "title": "夏が来る",
   "artist": "大黒摩季",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=3",
   "source": "hoshiho.js"
@@ -2656,7 +2656,7 @@ window.SONG_DATA.push(
     {
   "title": "Divine Spell",
   "artist": "TRUE",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=4",
   "source": "hoshiho.js"
@@ -2664,7 +2664,7 @@ window.SONG_DATA.push(
     {
   "title": "ひぐらしのなく頃に",
   "artist": "島みやえい子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=5",
   "source": "hoshiho.js"
@@ -2672,7 +2672,7 @@ window.SONG_DATA.push(
     {
   "title": "対象a",
   "artist": "anNina",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=6",
   "source": "hoshiho.js"
@@ -2680,7 +2680,7 @@ window.SONG_DATA.push(
     {
   "title": "奈落の花",
   "artist": "島みやえい子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=7",
   "source": "hoshiho.js"
@@ -2688,7 +2688,7 @@ window.SONG_DATA.push(
     {
   "title": "嘆きノ森",
   "artist": "彩音",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=8",
   "source": "hoshiho.js"
@@ -2696,7 +2696,7 @@ window.SONG_DATA.push(
     {
   "title": "コンプレックス・イマージュ",
   "artist": "彩音",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=9",
   "source": "hoshiho.js"
@@ -2704,7 +2704,7 @@ window.SONG_DATA.push(
     {
   "title": "You",
   "artist": "雪野五月",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=10",
   "source": "hoshiho.js"
@@ -2712,7 +2712,7 @@ window.SONG_DATA.push(
     {
   "title": "海色",
   "artist": "AKINO from bless4",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=11",
   "source": "hoshiho.js"
@@ -2720,7 +2720,7 @@ window.SONG_DATA.push(
     {
   "title": "吹雪",
   "artist": "西沢幸奏",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=12",
   "source": "hoshiho.js"
@@ -2728,7 +2728,7 @@ window.SONG_DATA.push(
     {
   "title": "空色デイズ",
   "artist": "中川翔子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=13",
   "source": "hoshiho.js"
@@ -2736,7 +2736,7 @@ window.SONG_DATA.push(
     {
   "title": "星間飛行",
   "artist": "ランカ・リー＝中島愛",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=14",
   "source": "hoshiho.js"
@@ -2744,7 +2744,7 @@ window.SONG_DATA.push(
     {
   "title": "ライオン",
   "artist": "May'n、中島愛",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=15",
   "source": "hoshiho.js"
@@ -2752,7 +2752,7 @@ window.SONG_DATA.push(
     {
   "title": "ノーザンクロス",
   "artist": "シェリル・ノーム starring May'n",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=16",
   "source": "hoshiho.js"
@@ -2760,7 +2760,7 @@ window.SONG_DATA.push(
     {
   "title": "Los! Los! Los!",
   "artist": "ターニャ・フォン・デグレチャフ(悠木碧)",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=17",
   "source": "hoshiho.js"
@@ -2768,7 +2768,7 @@ window.SONG_DATA.push(
     {
   "title": "孔雀",
   "artist": "菅原圭",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=18",
   "source": "hoshiho.js"
@@ -2776,7 +2776,7 @@ window.SONG_DATA.push(
     {
   "title": "Stella",
   "artist": "SEKAI NO OWARI",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=19",
   "source": "hoshiho.js"
@@ -2784,7 +2784,7 @@ window.SONG_DATA.push(
     {
   "title": "ラピスラズリ",
   "artist": "藍井エイル",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=20",
   "source": "hoshiho.js"
@@ -2792,7 +2792,7 @@ window.SONG_DATA.push(
     {
   "title": "ハートにヒント！名探偵プリキュア！",
   "artist": "石井あみ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=21",
   "source": "hoshiho.js"
@@ -2800,7 +2800,7 @@ window.SONG_DATA.push(
     {
   "title": "なぜ？謎？！ANSWER",
   "artist": "熊田茜音＆増井優花",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=22",
   "source": "hoshiho.js"
@@ -2808,7 +2808,7 @@ window.SONG_DATA.push(
     {
   "title": "太陽が呼んでいる",
   "artist": "加藤いづみ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=23",
   "source": "hoshiho.js"
@@ -2816,7 +2816,7 @@ window.SONG_DATA.push(
     {
   "title": "ガーネット",
   "artist": "奥華子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-07-18]歌回杂谈直播 HoshiHo",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-07-18] Singing and Chat Streaming HoshiHo",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GFK16aEkf?p=24",
   "source": "hoshiho.js"
@@ -2824,7 +2824,7 @@ window.SONG_DATA.push(
     {
   "title": "carrot (にんじん村一番娘)",
   "artist": "みずさわゆうき",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=1",
   "source": "hoshiho.js"
@@ -2832,7 +2832,7 @@ window.SONG_DATA.push(
     {
   "title": "スカイクラッドの観測者",
   "artist": "いとうかなこ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=2",
   "source": "hoshiho.js"
@@ -2840,7 +2840,7 @@ window.SONG_DATA.push(
     {
   "title": "Hacking to the Gate",
   "artist": "いとうかなこ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=3",
   "source": "hoshiho.js"
@@ -2848,7 +2848,7 @@ window.SONG_DATA.push(
     {
   "title": "GATE OF STEINER",
   "artist": "佐々木恵梨",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=4",
   "source": "hoshiho.js"
@@ -2856,7 +2856,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=5",
   "source": "hoshiho.js"
@@ -2864,7 +2864,7 @@ window.SONG_DATA.push(
     {
   "title": "Anytime Anywhere",
   "artist": "milet",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=6",
   "source": "hoshiho.js"
@@ -2872,7 +2872,7 @@ window.SONG_DATA.push(
     {
   "title": "白夜幻想譚",
   "artist": "霜月はるか",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=7",
   "source": "hoshiho.js"
@@ -2880,7 +2880,7 @@ window.SONG_DATA.push(
     {
   "title": "エルの楽園 [→ side:E →]",
   "artist": "Sound Horizon",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=8",
   "source": "hoshiho.js"
@@ -2888,7 +2888,7 @@ window.SONG_DATA.push(
     {
   "title": "Ark",
   "artist": "Sound Horizon",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=9",
   "source": "hoshiho.js"
@@ -2896,7 +2896,7 @@ window.SONG_DATA.push(
     {
   "title": "エルの絵本 【魔女とラフレンツェ】",
   "artist": "Sound Horizon",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=10",
   "source": "hoshiho.js"
@@ -2904,7 +2904,7 @@ window.SONG_DATA.push(
     {
   "title": "Yield",
   "artist": "Sound Horizon",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=11",
   "source": "hoshiho.js"
@@ -2912,7 +2912,7 @@ window.SONG_DATA.push(
     {
   "title": "Sacrifice",
   "artist": "Sound Horizon",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=12",
   "source": "hoshiho.js"
@@ -2920,7 +2920,7 @@ window.SONG_DATA.push(
     {
   "title": "エルの絵本 【笛吹き男とパレード】",
   "artist": "Sound Horizon",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=13",
   "source": "hoshiho.js"
@@ -2928,7 +2928,7 @@ window.SONG_DATA.push(
     {
   "title": "StarDust",
   "artist": "Sound Horizon",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=14",
   "source": "hoshiho.js"
@@ -2936,7 +2936,7 @@ window.SONG_DATA.push(
     {
   "title": "エルの楽園 [→ side:A →]",
   "artist": "Sound Horizon",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=15",
   "source": "hoshiho.js"
@@ -2944,7 +2944,7 @@ window.SONG_DATA.push(
     {
   "title": "真理の鏡、剣乃ように",
   "artist": "鈴木このみ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=16",
   "source": "hoshiho.js"
@@ -2952,7 +2952,7 @@ window.SONG_DATA.push(
     {
   "title": "夏夢ノイジー",
   "artist": "亜咲花",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=17",
   "source": "hoshiho.js"
@@ -2960,7 +2960,7 @@ window.SONG_DATA.push(
     {
   "title": "ファティマ",
   "artist": "いとうかなこ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=18",
   "source": "hoshiho.js"
@@ -2968,7 +2968,7 @@ window.SONG_DATA.push(
     {
   "title": "残酷な天使のテーゼ",
   "artist": "高橋洋子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=19",
   "source": "hoshiho.js"
@@ -2976,7 +2976,7 @@ window.SONG_DATA.push(
     {
   "title": "魂のルフラン",
   "artist": "高橋洋子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=20",
   "source": "hoshiho.js"
@@ -2984,7 +2984,7 @@ window.SONG_DATA.push(
     {
   "title": "集結の園へ",
   "artist": "林原めぐみ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=21",
   "source": "hoshiho.js"
@@ -2992,7 +2992,7 @@ window.SONG_DATA.push(
     {
   "title": "metamorphose",
   "artist": "高橋洋子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=22",
   "source": "hoshiho.js"
@@ -3000,7 +3000,7 @@ window.SONG_DATA.push(
     {
   "title": "めぐる季節",
   "artist": "井上あずみ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=23",
   "source": "hoshiho.js"
@@ -3008,7 +3008,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならの夏 〜コクリコ坂から〜",
   "artist": "手嶌葵",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=24",
   "source": "hoshiho.js"
@@ -3016,7 +3016,7 @@ window.SONG_DATA.push(
     {
   "title": "勇者",
   "artist": "YOASOBI",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=25",
   "source": "hoshiho.js"
@@ -3024,7 +3024,7 @@ window.SONG_DATA.push(
     {
   "title": "lulu.",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=26",
   "source": "hoshiho.js"
@@ -3032,7 +3032,7 @@ window.SONG_DATA.push(
     {
   "title": "The Story of Us",
   "artist": "milet",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=27",
   "source": "hoshiho.js"
@@ -3040,7 +3040,7 @@ window.SONG_DATA.push(
     {
   "title": "創聖のアクエリオン",
   "artist": "AKINO",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=28",
   "source": "hoshiho.js"
@@ -3048,7 +3048,7 @@ window.SONG_DATA.push(
     {
   "title": "ブルーウォーター",
   "artist": "森川美穂",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=29",
   "source": "hoshiho.js"
@@ -3056,7 +3056,7 @@ window.SONG_DATA.push(
     {
   "title": "Yes, I Will...",
   "artist": "森川美穂",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=30",
   "source": "hoshiho.js"
@@ -3064,7 +3064,7 @@ window.SONG_DATA.push(
     {
   "title": "白夜",
   "artist": "松本英子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=31",
   "source": "hoshiho.js"
@@ -3072,7 +3072,7 @@ window.SONG_DATA.push(
     {
   "title": "Agape",
   "artist": "メロキュア",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=32",
   "source": "hoshiho.js"
@@ -3080,7 +3080,7 @@ window.SONG_DATA.push(
     {
   "title": "ナージャ!!",
   "artist": "本田美奈子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-01]歌回杂谈直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-08-01] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kFMf6dEZd?p=33",
   "source": "hoshiho.js"
@@ -3088,7 +3088,7 @@ window.SONG_DATA.push(
     {
   "title": "Shangri-La",
   "artist": "angela",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=1",
   "source": "hoshiho.js"
@@ -3096,7 +3096,7 @@ window.SONG_DATA.push(
     {
   "title": "Separation",
   "artist": "angela",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=2",
   "source": "hoshiho.js"
@@ -3104,7 +3104,7 @@ window.SONG_DATA.push(
     {
   "title": "叫べ",
   "artist": "angela",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=3",
   "source": "hoshiho.js"
@@ -3112,7 +3112,7 @@ window.SONG_DATA.push(
     {
   "title": "灼熱の恋",
   "artist": "林原めぐみ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=4",
   "source": "hoshiho.js"
@@ -3120,7 +3120,7 @@ window.SONG_DATA.push(
     {
   "title": "EXIT→RUNNING",
   "artist": "林原めぐみ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=5",
   "source": "hoshiho.js"
@@ -3128,7 +3128,7 @@ window.SONG_DATA.push(
     {
   "title": "raging waves",
   "artist": "林原めぐみ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=6",
   "source": "hoshiho.js"
@@ -3136,7 +3136,7 @@ window.SONG_DATA.push(
     {
   "title": "departure!",
   "artist": "小野正利",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=7",
   "source": "hoshiho.js"
@@ -3144,7 +3144,7 @@ window.SONG_DATA.push(
     {
   "title": "REASON",
   "artist": "ゆず",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=8",
   "source": "hoshiho.js"
@@ -3152,7 +3152,7 @@ window.SONG_DATA.push(
     {
   "title": "表裏一体",
   "artist": "ゆず",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=9",
   "source": "hoshiho.js"
@@ -3160,7 +3160,7 @@ window.SONG_DATA.push(
     {
   "title": "情熱のウォブル",
   "artist": "Kicco",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=10",
   "source": "hoshiho.js"
@@ -3168,7 +3168,7 @@ window.SONG_DATA.push(
     {
   "title": "LOVE SHIELD",
   "artist": "奥井雅美",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=11",
   "source": "hoshiho.js"
@@ -3176,7 +3176,7 @@ window.SONG_DATA.push(
     {
   "title": "風のアンセム",
   "artist": "Eve feat.suis from ヨルシカ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=12",
   "source": "hoshiho.js"
@@ -3184,7 +3184,7 @@ window.SONG_DATA.push(
     {
   "title": "ラヴァーズ",
   "artist": "7!!",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=13",
   "source": "hoshiho.js"
@@ -3192,7 +3192,7 @@ window.SONG_DATA.push(
     {
   "title": "Rumbling hearts",
   "artist": "栗林みな実",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=14",
   "source": "hoshiho.js"
@@ -3200,7 +3200,7 @@ window.SONG_DATA.push(
     {
   "title": "Precious Memories",
   "artist": "栗林みな実",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=15",
   "source": "hoshiho.js"
@@ -3208,7 +3208,7 @@ window.SONG_DATA.push(
     {
   "title": "星空のワルツ",
   "artist": "栗林みな実",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=16",
   "source": "hoshiho.js"
@@ -3216,7 +3216,7 @@ window.SONG_DATA.push(
     {
   "title": "夏のお嬢さん",
   "artist": "榊原郁恵",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=17",
   "source": "hoshiho.js"
@@ -3224,7 +3224,7 @@ window.SONG_DATA.push(
     {
   "title": "渚のシンドバッド",
   "artist": "ピンク・レディー",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=18",
   "source": "hoshiho.js"
@@ -3232,7 +3232,7 @@ window.SONG_DATA.push(
     {
   "title": "プレイバック Part2",
   "artist": "山口百恵",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=19",
   "source": "hoshiho.js"
@@ -3240,7 +3240,7 @@ window.SONG_DATA.push(
     {
   "title": "ラムのラブソング",
   "artist": "松谷祐子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=20",
   "source": "hoshiho.js"
@@ -3248,7 +3248,7 @@ window.SONG_DATA.push(
     {
   "title": "タッチ",
   "artist": "岩崎良美",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=21",
   "source": "hoshiho.js"
@@ -3256,7 +3256,7 @@ window.SONG_DATA.push(
     {
   "title": "ナージャ!!",
   "artist": "本田美奈子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=22",
   "source": "hoshiho.js"
@@ -3264,7 +3264,7 @@ window.SONG_DATA.push(
     {
   "title": "けせら・せら",
   "artist": "小清水亜美",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=23",
   "source": "hoshiho.js"
@@ -3272,7 +3272,7 @@ window.SONG_DATA.push(
     {
   "title": "ムーンライト伝説",
   "artist": "DALI",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-14]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-14] Singing and Chatting Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1J5bm6gEsD?p=24",
   "source": "hoshiho.js"
@@ -3280,7 +3280,7 @@ window.SONG_DATA.push(
     {
   "title": "PHANTOM MINDS",
   "artist": "水樹奈々",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-22] Karaoke and Chat Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=1",
   "source": "hoshiho.js"
@@ -3288,7 +3288,7 @@ window.SONG_DATA.push(
     {
   "title": "BRIGHT STREAM",
   "artist": "水樹奈々",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-22] Karaoke and Chat Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=2",
   "source": "hoshiho.js"
@@ -3296,7 +3296,7 @@ window.SONG_DATA.push(
     {
   "title": "Dancing in the velvet moon",
   "artist": "水樹奈々",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-22] Karaoke and Chat Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=3",
   "source": "hoshiho.js"
@@ -3304,7 +3304,7 @@ window.SONG_DATA.push(
     {
   "title": "DISCOTHEQUE",
   "artist": "水樹奈々",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-22] Karaoke and Chat Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=4",
   "source": "hoshiho.js"
@@ -3312,7 +3312,7 @@ window.SONG_DATA.push(
     {
   "title": "裸足のフローネ",
   "artist": "潘恵子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-22] Karaoke and Chat Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=5",
   "source": "hoshiho.js"
@@ -3320,7 +3320,7 @@ window.SONG_DATA.push(
     {
   "title": "What's Up Guys?",
   "artist": "古本新之輔、林原めぐみ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-22] Karaoke and Chat Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=6",
   "source": "hoshiho.js"
@@ -3328,7 +3328,7 @@ window.SONG_DATA.push(
     {
   "title": "MASK",
   "artist": "奥井雅美、松村香澄",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-22] Karaoke and Chat Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=7",
   "source": "hoshiho.js"
@@ -3336,7 +3336,7 @@ window.SONG_DATA.push(
     {
   "title": "Santa Lucia",
   "artist": "Teodoro Cottrau",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-22] Karaoke and Chat Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=8",
   "source": "hoshiho.js"
@@ -3344,7 +3344,7 @@ window.SONG_DATA.push(
     {
   "title": "GONG",
   "artist": "JAM Project",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-22] Karaoke and Chat Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=9",
   "source": "hoshiho.js"
@@ -3352,7 +3352,7 @@ window.SONG_DATA.push(
     {
   "title": "サザエさん",
   "artist": "宇野ゆう子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-22] Karaoke and Chat Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=10",
   "source": "hoshiho.js"
@@ -3360,7 +3360,7 @@ window.SONG_DATA.push(
     {
   "title": "壊れたマリオネット",
   "artist": "Sound Horizon",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-22] Karaoke and Chat Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=11",
   "source": "hoshiho.js"
@@ -3368,7 +3368,7 @@ window.SONG_DATA.push(
     {
   "title": "沈んだ歌姫",
   "artist": "Sound Horizon",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-22] Karaoke and Chat Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=12",
   "source": "hoshiho.js"
@@ -3376,7 +3376,7 @@ window.SONG_DATA.push(
     {
   "title": "海の魔女",
   "artist": "Sound Horizon",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-22] Karaoke and Chat Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=13",
   "source": "hoshiho.js"
@@ -3384,7 +3384,7 @@ window.SONG_DATA.push(
     {
   "title": "禁じられた遊び",
   "artist": "ALI PROJECT",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-22] Karaoke and Chat Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=14",
   "source": "hoshiho.js"
@@ -3392,7 +3392,7 @@ window.SONG_DATA.push(
     {
   "title": "聖少女領域",
   "artist": "ALI PROJECT",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-22] Karaoke and Chat Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=15",
   "source": "hoshiho.js"
@@ -3400,7 +3400,7 @@ window.SONG_DATA.push(
     {
   "title": "終端の王と異世界の騎士 〜The Endia & The Knights〜",
   "artist": "Sound Horizon",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-22] Karaoke and Chat Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=16",
   "source": "hoshiho.js"
@@ -3408,7 +3408,7 @@ window.SONG_DATA.push(
     {
   "title": "終端の王と異世界の騎士 〜The Endia & The Knights〜",
   "artist": "Sound Horizon",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-22]歌回杂谈直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-22] Karaoke and Chat Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N38x6dEbT?p=17",
   "source": "hoshiho.js"
@@ -3416,7 +3416,7 @@ window.SONG_DATA.push(
     {
   "title": "Amore",
   "artist": "ReoNa",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=1",
   "source": "hoshiho.js"
@@ -3424,7 +3424,7 @@ window.SONG_DATA.push(
     {
   "title": "Re-sublimity",
   "artist": "KOTOKO",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=2",
   "source": "hoshiho.js"
@@ -3432,7 +3432,7 @@ window.SONG_DATA.push(
     {
   "title": "agony",
   "artist": "KOTOKO",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=3",
   "source": "hoshiho.js"
@@ -3440,7 +3440,7 @@ window.SONG_DATA.push(
     {
   "title": "空耳ケーキ",
   "artist": "Oranges & Lemons",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=4",
   "source": "hoshiho.js"
@@ -3448,7 +3448,7 @@ window.SONG_DATA.push(
     {
   "title": "少女迷路でつかまえて",
   "artist": "美郷あき",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=5",
   "source": "hoshiho.js"
@@ -3456,7 +3456,7 @@ window.SONG_DATA.push(
     {
   "title": "ゆずれない願い",
   "artist": "田村直美",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=6",
   "source": "hoshiho.js"
@@ -3464,7 +3464,7 @@ window.SONG_DATA.push(
     {
   "title": "コネクト",
   "artist": "ClariS",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=7",
   "source": "hoshiho.js"
@@ -3472,7 +3472,7 @@ window.SONG_DATA.push(
     {
   "title": "ヨドバシカメラの歌",
   "artist": "CM NETWORK",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=8",
   "source": "hoshiho.js"
@@ -3480,7 +3480,7 @@ window.SONG_DATA.push(
     {
   "title": "unfinished→",
   "artist": "KOTOKO",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=9",
   "source": "hoshiho.js"
@@ -3488,7 +3488,7 @@ window.SONG_DATA.push(
     {
   "title": "今日の日はさようなら",
   "artist": "森山良子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=10",
   "source": "hoshiho.js"
@@ -3496,7 +3496,7 @@ window.SONG_DATA.push(
     {
   "title": "机さする",
   "artist": "青木遥",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=11",
   "source": "hoshiho.js"
@@ -3504,7 +3504,7 @@ window.SONG_DATA.push(
     {
   "title": "恋はみずいろ",
   "artist": "ポール・モーリア",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=12",
   "source": "hoshiho.js"
@@ -3512,7 +3512,7 @@ window.SONG_DATA.push(
     {
   "title": "春よ、来い",
   "artist": "松任谷由実",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=13",
   "source": "hoshiho.js"
@@ -3520,7 +3520,7 @@ window.SONG_DATA.push(
     {
   "title": "輪舞-revolution",
   "artist": "奥井雅美",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=14",
   "source": "hoshiho.js"
@@ -3528,7 +3528,7 @@ window.SONG_DATA.push(
     {
   "title": "バーチャルスター発生学",
   "artist": "上谷麻紀",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=15",
   "source": "hoshiho.js"
@@ -3536,7 +3536,7 @@ window.SONG_DATA.push(
     {
   "title": "恋せよ女の子",
   "artist": "田村ゆかり",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=16",
   "source": "hoshiho.js"
@@ -3544,7 +3544,7 @@ window.SONG_DATA.push(
     {
   "title": "Love Power",
   "artist": "Aice5",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=17",
   "source": "hoshiho.js"
@@ -3552,7 +3552,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒカリ",
   "artist": "堀江由衣",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=18",
   "source": "hoshiho.js"
@@ -3560,7 +3560,7 @@ window.SONG_DATA.push(
     {
   "title": "友情物語",
   "artist": "Aice5",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=19",
   "source": "hoshiho.js"
@@ -3568,7 +3568,7 @@ window.SONG_DATA.push(
     {
   "title": "くじびきアンバランス",
   "artist": "UNDER17",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=20",
   "source": "hoshiho.js"
@@ -3576,7 +3576,7 @@ window.SONG_DATA.push(
     {
   "title": "オハヨウ",
   "artist": "双葉(斎藤千和)&梨々(水樹奈々)&美森(稲村優奈)",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=21",
   "source": "hoshiho.js"
@@ -3584,7 +3584,7 @@ window.SONG_DATA.push(
     {
   "title": "プラスチックスマイル(虹色ギターVERSION)",
   "artist": "Honey Bee",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=22",
   "source": "hoshiho.js"
@@ -3592,7 +3592,7 @@ window.SONG_DATA.push(
     {
   "title": "Romantic Chaser",
   "artist": "小枝",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=23",
   "source": "hoshiho.js"
@@ -3600,7 +3600,7 @@ window.SONG_DATA.push(
     {
   "title": "clover",
   "artist": "meg rock",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=24",
   "source": "hoshiho.js"
@@ -3608,7 +3608,7 @@ window.SONG_DATA.push(
     {
   "title": "届かない恋'13",
   "artist": "上原れな",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=25",
   "source": "hoshiho.js"
@@ -3616,7 +3616,7 @@ window.SONG_DATA.push(
     {
   "title": "ユニバーページ",
   "artist": "三森すずこ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=26",
   "source": "hoshiho.js"
@@ -3624,7 +3624,7 @@ window.SONG_DATA.push(
     {
   "title": "DEAREST DROP",
   "artist": "田所あずさ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=27",
   "source": "hoshiho.js"
@@ -3632,7 +3632,7 @@ window.SONG_DATA.push(
     {
   "title": "world's end, girl's rondo",
   "artist": "分島花音",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=28",
   "source": "hoshiho.js"
@@ -3640,7 +3640,7 @@ window.SONG_DATA.push(
     {
   "title": "迷宮バタフライ",
   "artist": "ほしな歌唄(水樹奈々)",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=29",
   "source": "hoshiho.js"
@@ -3648,7 +3648,7 @@ window.SONG_DATA.push(
     {
   "title": "Blue Moon",
   "artist": "ほしな歌唄(水樹奈々)",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=30",
   "source": "hoshiho.js"
@@ -3656,7 +3656,7 @@ window.SONG_DATA.push(
     {
   "title": "BLACK DIAMOND",
   "artist": "ほしな歌唄(水樹奈々)",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=31",
   "source": "hoshiho.js"
@@ -3664,7 +3664,7 @@ window.SONG_DATA.push(
     {
   "title": "雷神の系譜",
   "artist": "Sound Horizon",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=32",
   "source": "hoshiho.js"
@@ -3672,7 +3672,7 @@ window.SONG_DATA.push(
     {
   "title": "書の魔獣",
   "artist": "Sound Horizon",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=33",
   "source": "hoshiho.js"
@@ -3680,7 +3680,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピー☆マテリアル",
   "artist": "麻帆良学園中等部2-A",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=34",
   "source": "hoshiho.js"
@@ -3688,7 +3688,7 @@ window.SONG_DATA.push(
     {
   "title": "空想メソロギヰ",
   "artist": "妖精帝國",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=35",
   "source": "hoshiho.js"
@@ -3696,7 +3696,7 @@ window.SONG_DATA.push(
     {
   "title": "Dead END",
   "artist": "飛蘭",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=36",
   "source": "hoshiho.js"
@@ -3704,7 +3704,7 @@ window.SONG_DATA.push(
     {
   "title": "カランドリエ",
   "artist": "奥井亜紀",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=37",
   "source": "hoshiho.js"
@@ -3712,7 +3712,7 @@ window.SONG_DATA.push(
     {
   "title": "Amore",
   "artist": "ReoNa",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=38",
   "source": "hoshiho.js"
@@ -3720,7 +3720,7 @@ window.SONG_DATA.push(
     {
   "title": "キミガタメ",
   "artist": "Suara",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=39",
   "source": "hoshiho.js"
@@ -3728,7 +3728,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならララ",
   "artist": "いきものがかり",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=40",
   "source": "hoshiho.js"
@@ -3736,7 +3736,7 @@ window.SONG_DATA.push(
     {
   "title": "ETERNAL BLAZE",
   "artist": "水樹奈々",
-  "collection": "【🌟💐HoshiHo歌切】[2026-08-29]唱歌聊天直播",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-08-29] Singing and chatting live stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1A6tt6oEid?p=41",
   "source": "hoshiho.js"
@@ -3744,7 +3744,7 @@ window.SONG_DATA.push(
     {
   "title": "創聖のアクエリオン",
   "artist": "AKINO",
-  "collection": "【🌟💐HoshiHo歌切】[2026-09-27]VackON回顾＆唱歌聊天",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-09-27] VackON Review & Singing and Chatting",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Puai6REao?p=1",
   "source": "hoshiho.js"
@@ -3752,7 +3752,7 @@ window.SONG_DATA.push(
     {
   "title": "優しい夜明け",
   "artist": "See-Saw",
-  "collection": "【🌟💐HoshiHo歌切】[2026-09-27]VackON回顾＆唱歌聊天",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-09-27] VackON Review & Singing and Chatting",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Puai6REao?p=2",
   "source": "hoshiho.js"
@@ -3760,7 +3760,7 @@ window.SONG_DATA.push(
     {
   "title": "君たちキウイ・パパイア・マンゴーだね。",
   "artist": "中原めいこ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-09-27]VackON回顾＆唱歌聊天",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-09-27] VackON Review & Singing and Chatting",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Puai6REao?p=3",
   "source": "hoshiho.js"
@@ -3768,7 +3768,7 @@ window.SONG_DATA.push(
     {
   "title": "key to my heart",
   "artist": "倉木麻衣",
-  "collection": "【🌟💐HoshiHo歌切】[2026-09-27]VackON回顾＆唱歌聊天",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-09-27] VackON Review & Singing and Chatting",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Puai6REao?p=4",
   "source": "hoshiho.js"
@@ -3776,7 +3776,7 @@ window.SONG_DATA.push(
     {
   "title": "夢であるように",
   "artist": "DEEN",
-  "collection": "【🌟💐HoshiHo歌切】[2026-09-27]VackON回顾＆唱歌聊天",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-09-27] VackON Review & Singing and Chatting",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Puai6REao?p=5",
   "source": "hoshiho.js"
@@ -3784,7 +3784,7 @@ window.SONG_DATA.push(
     {
   "title": "夢は終わらない ～こぼれ落ちる時の雫～",
   "artist": "吉田由香里",
-  "collection": "【🌟💐HoshiHo歌切】[2026-09-27]VackON回顾＆唱歌聊天",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-09-27] VackON Review & Singing and Chatting",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Puai6REao?p=6",
   "source": "hoshiho.js"
@@ -3792,7 +3792,7 @@ window.SONG_DATA.push(
     {
   "title": "bonny ebony black swan",
   "artist": "love solfege feat.Rose Panna",
-  "collection": "【🌟💐HoshiHo歌切】[2026-09-27]VackON回顾＆唱歌聊天",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-09-27] VackON Review & Singing and Chatting",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Puai6REao?p=7",
   "source": "hoshiho.js"
@@ -3800,7 +3800,7 @@ window.SONG_DATA.push(
     {
   "title": "太陽が呼んでいる",
   "artist": "加藤いづみ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-09-27]VackON回顾＆唱歌聊天",
+  "collection": "【🌟💐HoshiHo Song Cut】[2026-09-27] VackON Review & Singing and Chatting",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Puai6REao?p=8",
   "source": "hoshiho.js"
@@ -3808,7 +3808,7 @@ window.SONG_DATA.push(
     {
   "title": "渡月橋 ～君 想ふ～",
   "artist": "倉木麻衣",
-  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-17] Song and Chat Live Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=1",
   "source": "hoshiho.js"
@@ -3816,7 +3816,7 @@ window.SONG_DATA.push(
     {
   "title": "Time after time ～花舞う街で～",
   "artist": "倉木麻衣",
-  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-17] Song and Chat Live Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=2",
   "source": "hoshiho.js"
@@ -3824,7 +3824,7 @@ window.SONG_DATA.push(
     {
   "title": "Magia",
   "artist": "Kalafina",
-  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-17] Song and Chat Live Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=3",
   "source": "hoshiho.js"
@@ -3832,7 +3832,7 @@ window.SONG_DATA.push(
     {
   "title": "コネクト",
   "artist": "ClariS",
-  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-17] Song and Chat Live Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=4",
   "source": "hoshiho.js"
@@ -3840,7 +3840,7 @@ window.SONG_DATA.push(
     {
   "title": "フライディ・チャイナタウン",
   "artist": "泰葉",
-  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-17] Song and Chat Live Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=5",
   "source": "hoshiho.js"
@@ -3848,7 +3848,7 @@ window.SONG_DATA.push(
     {
   "title": "みずいろの雨",
   "artist": "八神純子",
-  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-17] Song and Chat Live Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=6",
   "source": "hoshiho.js"
@@ -3856,7 +3856,7 @@ window.SONG_DATA.push(
     {
   "title": "FUTURE SESSION",
   "artist": "オルケリア",
-  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-17] Song and Chat Live Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=7",
   "source": "hoshiho.js"
@@ -3864,7 +3864,7 @@ window.SONG_DATA.push(
     {
   "title": "ゼッタイ歌姫宣言ッ！",
   "artist": "オルケリア",
-  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-17] Song and Chat Live Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=8",
   "source": "hoshiho.js"
@@ -3872,7 +3872,7 @@ window.SONG_DATA.push(
     {
   "title": "半永久的に愛してよ♡",
   "artist": "堀江由衣",
-  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-17] Song and Chat Live Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=9",
   "source": "hoshiho.js"
@@ -3880,7 +3880,7 @@ window.SONG_DATA.push(
     {
   "title": "JOINT",
   "artist": "川田まみ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-17] Song and Chat Live Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=10",
   "source": "hoshiho.js"
@@ -3888,7 +3888,7 @@ window.SONG_DATA.push(
     {
   "title": "flying",
   "artist": "GARNET CROW",
-  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-17] Song and Chat Live Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=11",
   "source": "hoshiho.js"
@@ -3896,7 +3896,7 @@ window.SONG_DATA.push(
     {
   "title": "夢は終わらない ～こぼれ落ちる時の雫～",
   "artist": "よーみ",
-  "collection": "【🌟💐HoshiHo歌切】[2026-10-17]歌回与闲聊直播",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-17] Song and Chat Live Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=12",
   "source": "hoshiho.js"
