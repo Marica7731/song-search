@@ -206,7 +206,13 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1TqGY6gEEf"], file: "minaton", alias: "みなとん" },
     { bvids: ["BV11GZtBcEsp"], file: "culua", alias: "CULUA" },
     { bvids: ["BV1kM3L6GEBV"], file: "choma", alias: "チョま" },
-    { bvids: ["BV1xucZzxEkZ","BV117P2zwEuq","BV1LJ4m1A7FC"], file: "others", alias: "非常驻妹妹" },
+    {
+        bvids: ["BV1xucZzxEkZ","BV117P2zwEuq","BV1LJ4m1A7FC"],
+        // Always parse this low-view candidate beyond the default three probes.
+        directBvids: ["BV1fhnP6FEY9"],
+        file: "others",
+        alias: "非常驻妹妹"
+    },
     { bvids: ["BV1S4TT6pEn4"], file: "neno", alias: "碧生ねの" },
     { bvids: ["BV1jyjK6sEns"], file: "suzuhanainori", alias: "鈴花いのり" },
     { bvids: ["BV1AFG66UEpL"], file: "chiyourachomi", alias: "千代浦蝶美" },
