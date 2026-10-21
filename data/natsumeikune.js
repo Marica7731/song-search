@@ -1,6 +1,6 @@
 // なつかしちゃん - 歌单数据 (多合集汇总)
-// 来源: BV1VPH26kESs, BV1ZjnT6TEVN, BV1AzJ66qEjR
-// 生成时间: 2026/10/22 03:51:17
+// 来源: BV1VPH26kESs, BV1AzJ66qEjR
+// 生成时间: 10/21/2026, 11:03:37 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -275,6 +275,174 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=34",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "夢見る少女じゃいられない",
+  "artist": "相川七瀬",
+  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=1",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "たぶん",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=2",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "ブレーメン",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=3",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=4",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=5",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "サインはB",
+  "artist": "B小町",
+  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=6",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "I believe",
+  "artist": "絢香",
+  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=7",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "青空",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=8",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=9",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "リッツパーティー",
+  "artist": "back number",
+  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=10",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "ハレンチ",
+  "artist": "ちゃんみな",
+  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=11",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "めざせポケモンマスター",
+  "artist": "松本梨香",
+  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=12",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "かがみ",
+  "artist": "FRUITS ZIPPER",
+  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=13",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "神のまにまに",
+  "artist": "れるりり feat. 初音ミク、鏡音リン、GUMI",
+  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=14",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=15",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "スピーチレス～心の声",
+  "artist": "木下晴香",
+  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=16",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "One Love",
+  "artist": "嵐",
+  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=17",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "あなたがここにいて抱きしめることができるなら",
+  "artist": "miwa",
+  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=18",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=19",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=20",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=21",
   "source": "natsumeikune.js"
 },
     {
@@ -955,174 +1123,6 @@ window.SONG_DATA.push(
   "collection": "なつかしちゃん歌切 2026-10-03 耐久歌回！！目标同时在线100人或订阅15000人！！🎤🎀 欢迎新观众",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JfHL6eEYg?p=48",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "夢見る少女じゃいられない",
-  "artist": "相川七瀬",
-  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=1",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "たぶん",
-  "artist": "YOASOBI",
-  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=2",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "ブレーメン",
-  "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=3",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "悪魔の子",
-  "artist": "ヒグチアイ",
-  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=4",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "ヴァンパイア",
-  "artist": "DECO*27 feat. 初音ミク",
-  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=5",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "サインはB",
-  "artist": "B小町",
-  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=6",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "I believe",
-  "artist": "絢香",
-  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=7",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "青空",
-  "artist": "aiko",
-  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=8",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "異邦人",
-  "artist": "久保田早紀",
-  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=9",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "リッツパーティー",
-  "artist": "back number",
-  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=10",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "ハレンチ",
-  "artist": "ちゃんみな",
-  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=11",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "めざせポケモンマスター",
-  "artist": "松本梨香",
-  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=12",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "かがみ",
-  "artist": "FRUITS ZIPPER",
-  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=13",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "神のまにまに",
-  "artist": "れるりり feat. 初音ミク、鏡音リン、GUMI",
-  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=14",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "からくりピエロ",
-  "artist": "40mP feat. 初音ミク",
-  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=15",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "スピーチレス～心の声",
-  "artist": "木下晴香",
-  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=16",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "One Love",
-  "artist": "嵐",
-  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=17",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "あなたがここにいて抱きしめることができるなら",
-  "artist": "miwa",
-  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=18",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "花に亡霊",
-  "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=19",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "Lemon",
-  "artist": "米津玄師",
-  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=20",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "IRIS OUT",
-  "artist": "米津玄師",
-  "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=21",
   "source": "natsumeikune.js"
 }
 );

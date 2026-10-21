@@ -1,6 +1,6 @@
 // 明日夢かなえ - 歌单数据 (多合集汇总)
 // 来源: BV1JRwUzoEpM, BV1icwSzXEYv
-// 生成时间: 10/21/2026, 5:04:52 PM
+// 生成时间: 10/21/2026, 8:55:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7203,6 +7203,222 @@ window.SONG_DATA.push(
   "collection": "【Asume Yume Song Cover】[2026-10-11] Aiming for 100 likes!!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1P4pp6YE2K?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "火葬",
+  "artist": "ヨルシカ",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=1",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ポスト春",
+  "artist": "ヨルシカ",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=2",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=3",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "啄木鳥",
+  "artist": "ヨルシカ",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=4",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "憂、燦々",
+  "artist": "クリープハイプ",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=5",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=6",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "時代",
+  "artist": "中島みゆき",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=7",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "魔法の料理 ～君から君へ～",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=8",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "渡良瀬橋",
+  "artist": "森高千里",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=9",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "たぶん",
+  "artist": "YOASOBI",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=10",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "夜撫でるメノウ",
+  "artist": "Ayase",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=11",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "点描の唄(feat.井上苑子)",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=12",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "終わりへ向かう始まりの歌",
+  "artist": "supercell",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=13",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "私へ",
+  "artist": "supercell",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=14",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=15",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "コイワズライ",
+  "artist": "Aimer",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=16",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=17",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "僕らは今日も車の中",
+  "artist": "Hump Back",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=18",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "あばよ、",
+  "artist": "ヤユヨ",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=19",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "さよなら前夜",
+  "artist": "ヤユヨ",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=20",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ユー！",
+  "artist": "ヤユヨ",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=21",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "居酒屋での話",
+  "artist": "TETORA",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=22",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "素晴らしき今日の始まり",
+  "artist": "GOOD ON THE REEL",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=23",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "2月のセプテンバー",
+  "artist": "GOOD ON THE REEL",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=24",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "ウィアートル",
+  "artist": "rionos",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=25",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "月光浴",
+  "artist": "柴田淳",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=26",
+  "source": "asuyumekanae.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "[Asu Yume Song Cut] [2026-10-21] Singing freely as I please",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xHnk6DE2C?p=27",
   "source": "asuyumekanae.js"
 },
     {

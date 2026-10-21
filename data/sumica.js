@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 10/21/2026, 5:43:09 PM
+// 生成时间: 10/21/2026, 9:35:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10763,6 +10763,142 @@ window.SONG_DATA.push(
   "collection": "[💐🎸Song Cut] [2026-10-16] On the Eve of Deep Sea Fes 2026 ‼️ Singing and playing with heart for everyone~",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13gnM6cEo5?p=22",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创",
+  "artist": "澄花",
+  "collection": "[💐🎸Song Cut] [2026-10-21] New viewers are also very welcome!! Leisurely singing and playing at night～🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqnk66Ej3?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "[💐🎸Song Cut] [2026-10-21] New viewers are also very welcome!! Leisurely singing and playing at night～🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqnk66Ej3?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "思想犯",
+  "artist": "ヨルシカ",
+  "collection": "[💐🎸Song Cut] [2026-10-21] New viewers are also very welcome!! Leisurely singing and playing at night～🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqnk66Ej3?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "[💐🎸Song Cut] [2026-10-21] New viewers are also very welcome!! Leisurely singing and playing at night～🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqnk66Ej3?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "ベーコンエピ",
+  "artist": "TOMOO",
+  "collection": "[💐🎸Song Cut] [2026-10-21] New viewers are also very welcome!! Leisurely singing and playing at night～🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqnk66Ej3?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "Ginger",
+  "artist": "TOMOO",
+  "collection": "[💐🎸Song Cut] [2026-10-21] New viewers are also very welcome!! Leisurely singing and playing at night～🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqnk66Ej3?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "HONEY BOY",
+  "artist": "TOMOO",
+  "collection": "[💐🎸Song Cut] [2026-10-21] New viewers are also very welcome!! Leisurely singing and playing at night～🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqnk66Ej3?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "[💐🎸Song Cut] [2026-10-21] New viewers are also very welcome!! Leisurely singing and playing at night～🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqnk66Ej3?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "[💐🎸Song Cut] [2026-10-21] New viewers are also very welcome!! Leisurely singing and playing at night～🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqnk66Ej3?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "[💐🎸Song Cut] [2026-10-21] New viewers are also very welcome!! Leisurely singing and playing at night～🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqnk66Ej3?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "小さな恋のうた",
+  "artist": "MONGOL800",
+  "collection": "[💐🎸Song Cut] [2026-10-21] New viewers are also very welcome!! Leisurely singing and playing at night～🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqnk66Ej3?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "拝啓、少年よ",
+  "artist": "Hump Back",
+  "collection": "[💐🎸Song Cut] [2026-10-21] New viewers are also very welcome!! Leisurely singing and playing at night～🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqnk66Ej3?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "[💐🎸Song Cut] [2026-10-21] New viewers are also very welcome!! Leisurely singing and playing at night～🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqnk66Ej3?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "ハチミツ",
+  "artist": "aiko",
+  "collection": "[💐🎸Song Cut] [2026-10-21] New viewers are also very welcome!! Leisurely singing and playing at night～🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqnk66Ej3?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "[💐🎸Song Cut] [2026-10-21] New viewers are also very welcome!! Leisurely singing and playing at night～🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqnk66Ej3?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat. GUMI",
+  "collection": "[💐🎸Song Cut] [2026-10-21] New viewers are also very welcome!! Leisurely singing and playing at night～🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqnk66Ej3?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "一日惚れ",
+  "artist": "澄花",
+  "collection": "[💐🎸Song Cut] [2026-10-21] New viewers are also very welcome!! Leisurely singing and playing at night～🌟",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqnk66Ej3?p=17",
   "source": "sumica.js"
 }
 );

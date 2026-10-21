@@ -1,6 +1,6 @@
 // チョま - 歌单数据 (多合集汇总)
 // 来源: BV1kM3L6GEBV
-// 生成时间: 10/21/2026, 6:19:48 PM
+// 生成时间: 10/21/2026, 10:17:09 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4811,6 +4811,126 @@ window.SONG_DATA.push(
   "collection": "Cho-ma song cut, October 17, 2026, 13:00 session. Passersby, come listen to songs! Multiple vocal tones and switching between male and female voices 2026-10-17",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13gnM6cEHh?p=21",
+  "source": "choma.js"
+},
+    {
+  "title": "恋",
+  "artist": "星野源",
+  "collection": "Choma song cut October 21, 2026 20:00 session Choose songs by word chain! 2026-10-21",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uEnk6XEs9?p=1",
+  "source": "choma.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat. GUMI、鏡音リン",
+  "collection": "Choma song cut October 21, 2026 20:00 session Choose songs by word chain! 2026-10-21",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uEnk6XEs9?p=2",
+  "source": "choma.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat. 初音ミク",
+  "collection": "Choma song cut October 21, 2026 20:00 session Choose songs by word chain! 2026-10-21",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uEnk6XEs9?p=3",
+  "source": "choma.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "ロクデナシ",
+  "collection": "Choma song cut October 21, 2026 20:00 session Choose songs by word chain! 2026-10-21",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uEnk6XEs9?p=4",
+  "source": "choma.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "Choma song cut October 21, 2026 20:00 session Choose songs by word chain! 2026-10-21",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uEnk6XEs9?p=5",
+  "source": "choma.js"
+},
+    {
+  "title": "ロマンスの神様",
+  "artist": "広瀬香美",
+  "collection": "Choma song cut October 21, 2026 20:00 session Choose songs by word chain! 2026-10-21",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uEnk6XEs9?p=6",
+  "source": "choma.js"
+},
+    {
+  "title": "負けないで",
+  "artist": "ZARD",
+  "collection": "Choma song cut October 21, 2026 20:00 session Choose songs by word chain! 2026-10-21",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uEnk6XEs9?p=7",
+  "source": "choma.js"
+},
+    {
+  "title": "デビットビット",
+  "artist": "アボガド6 feat. カロガド",
+  "collection": "Choma song cut October 21, 2026 20:00 session Choose songs by word chain! 2026-10-21",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uEnk6XEs9?p=8",
+  "source": "choma.js"
+},
+    {
+  "title": "取り柄のないクズだって生きてていいだろが",
+  "artist": "ヘルニア feat. IA",
+  "collection": "Choma song cut October 21, 2026 20:00 session Choose songs by word chain! 2026-10-21",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uEnk6XEs9?p=9",
+  "source": "choma.js"
+},
+    {
+  "title": "崖の上のポニョ",
+  "artist": "藤岡藤巻と大橋のぞみ",
+  "collection": "Choma song cut October 21, 2026 20:00 session Choose songs by word chain! 2026-10-21",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uEnk6XEs9?p=10",
+  "source": "choma.js"
+},
+    {
+  "title": "夜咄ディセイブ",
+  "artist": "じん feat. IA",
+  "collection": "Choma song cut October 21, 2026 20:00 session Choose songs by word chain! 2026-10-21",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uEnk6XEs9?p=11",
+  "source": "choma.js"
+},
+    {
+  "title": "フレンド・ライク・ミー",
+  "artist": "山寺宏一",
+  "collection": "Choma song cut October 21, 2026 20:00 session Choose songs by word chain! 2026-10-21",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uEnk6XEs9?p=12",
+  "source": "choma.js"
+},
+    {
+  "title": "ミッキーマウス・マーチ",
+  "artist": "山野さと子",
+  "collection": "Choma song cut October 21, 2026 20:00 session Choose songs by word chain! 2026-10-21",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uEnk6XEs9?p=13",
+  "source": "choma.js"
+},
+    {
+  "title": "チュルリラ・チュルリラ・ダッダッダ！",
+  "artist": "和田たけあき feat. 結月ゆかり",
+  "collection": "Choma song cut October 21, 2026 20:00 session Choose songs by word chain! 2026-10-21",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uEnk6XEs9?p=14",
+  "source": "choma.js"
+},
+    {
+  "title": "タセイジン",
+  "artist": "チョま",
+  "collection": "Choma song cut October 21, 2026 20:00 session Choose songs by word chain! 2026-10-21",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1uEnk6XEs9?p=15",
   "source": "choma.js"
 }
 );

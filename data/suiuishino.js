@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 10/21/2026, 6:44:14 PM
+// 生成时间: 10/21/2026, 10:46:52 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6155,6 +6155,38 @@ window.SONG_DATA.push(
   "collection": "[Song Cuts] [2026-10-19] Singing continuously for one hour!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1oPJf6VEtQ?p=17",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat. 安次嶺希和子",
+  "collection": "【Song Clip】[2026-10-21] Suiu Shino 2026 Birthday Celebration✨ There's more news to announce!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqnk66Euz?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Happy Birthday to you you",
+  "artist": "YUI",
+  "collection": "【Song Clip】[2026-10-21] Suiu Shino 2026 Birthday Celebration✨ There's more news to announce!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqnk66Euz?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Departures ～あなたにおくるアイのうた～",
+  "artist": "EGOIST",
+  "collection": "【Song Clip】[2026-10-21] Suiu Shino 2026 Birthday Celebration✨ There's more news to announce!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqnk66Euz?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "afterglow",
+  "artist": "翠雨しの",
+  "collection": "【Song Clip】[2026-10-21] Suiu Shino 2026 Birthday Celebration✨ There's more news to announce!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nqnk66Euz?p=4",
   "source": "suiuishino.js"
 }
 );

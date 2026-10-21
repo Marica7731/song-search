@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX, BV1JgMK6uEDQ
-// 生成时间: 10/21/2026, 5:13:59 PM
+// 生成时间: 10/21/2026, 9:04:13 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -20035,6 +20035,62 @@ window.SONG_DATA.push(
   "collection": "[🐍Song Cut] [2026-10-20] Autumn's bitterness and sweetness intertwined✧Singing some sad songs full of autumn vibes",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19znP69E9R?p=23",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ルージュの伝言",
+  "artist": "荒井由実",
+  "collection": "[🐍Song Cut] [2026-10-21] Bath-time ambient a cappella singing & lulu bond co-branded product introduction✧🛀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hink63Ewn?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "チャイナアドバイス",
+  "artist": "相対性理論",
+  "collection": "[🐍Song Cut] [2026-10-21] Bath-time ambient a cappella singing & lulu bond co-branded product introduction✧🛀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hink63Ewn?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "[🐍Song Cut] [2026-10-21] Bath-time ambient a cappella singing & lulu bond co-branded product introduction✧🛀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hink63Ewn?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "[🐍Song Cut] [2026-10-21] Bath-time ambient a cappella singing & lulu bond co-branded product introduction✧🛀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hink63Ewn?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "心拍数♯0822",
+  "artist": "蝶々P feat. 初音ミク",
+  "collection": "[🐍Song Cut] [2026-10-21] Bath-time ambient a cappella singing & lulu bond co-branded product introduction✧🛀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hink63Ewn?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "[🐍Song Cut] [2026-10-21] Bath-time ambient a cappella singing & lulu bond co-branded product introduction✧🛀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hink63Ewn?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "そばかす",
+  "artist": "JUDY AND MARY",
+  "collection": "[🐍Song Cut] [2026-10-21] Bath-time ambient a cappella singing & lulu bond co-branded product introduction✧🛀",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Hink63Ewn?p=7",
   "source": "ririsya.js"
 }
 );
