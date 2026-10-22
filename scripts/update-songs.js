@@ -242,8 +242,7 @@ const SINGER_CONFIGS = [
         directBvids: ["BV1AzJ66qEjR"],
         file: "natsumeikune",
         alias: "なつかしちゃん",
-        rawDataLoader: "bili-view-api",
-        probeCount: 15
+        rawDataLoader: "bili-view-api"
     },
     {
         bvids: ["BV1znpW6xECf"],
