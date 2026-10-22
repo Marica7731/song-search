@@ -208,8 +208,6 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1kM3L6GEBV"], file: "choma", alias: "チョま" },
     {
         bvids: ["BV1xucZzxEkZ","BV117P2zwEuq","BV1LJ4m1A7FC"],
-        // Always parse this low-view candidate beyond the default three probes.
-        directBvids: ["BV1fhnP6FEY9"],
         file: "others",
         alias: "非常驻妹妹"
     },
@@ -238,8 +236,7 @@ const SINGER_CONFIGS = [
         probeCount: 15
     },
     {
-        bvids: ["BV1VPH26kESs"],
-        directBvids: ["BV1AzJ66qEjR"],
+        bvids: ["BV1VPH26kESs", "BV1AzJ66qEjR"],
         file: "natsumeikune",
         alias: "なつかしちゃん",
         rawDataLoader: "bili-view-api"
@@ -706,8 +703,7 @@ function shouldProcessConfig(config) {
     const fields = [
         config.resolvedFile,
         config.alias,
-        ...(config.bvids || []),
-        ...(config.directBvids || [])
+        ...(config.bvids || [])
     ].map(value => String(value || '').toLowerCase());
     return SOURCE_FILTER.some(filter => fields.some(value => value.includes(filter)));
 }
@@ -717,13 +713,8 @@ function shouldProcessConfig(config) {
 // ==========================================
 async function processSinger(config, samplingState) {
     const { bvids, alias, resolvedFile } = config;
-    const directBvids = Array.isArray(config.directBvids)
-        ? Array.from(new Set(config.directBvids
-            .map(value => String(value || '').trim())
-            .filter(value => value && !bvids.includes(value))))
-        : [];
-    const configuredBvids = Array.from(new Set([...bvids, ...directBvids]));
-    console.log(`\n[开始处理] ${alias} (共 ${bvids.length} 个入口BV，${directBvids.length} 个指定直取BV)...`);
+    const configuredBvids = Array.from(new Set(bvids));
+    console.log(`\n[开始处理] ${alias} (共 ${configuredBvids.length} 个入口BV)...`);
 
     const outputPath = path.join(DATA_DIR, `${resolvedFile}.js`);
     const previousContent = fs.existsSync(outputPath) ? fs.readFileSync(outputPath, 'utf8') : '';
@@ -764,22 +755,6 @@ async function processSinger(config, samplingState) {
 
         if (bvids.indexOf(bvid) < bvids.length - 1) {
             await new Promise(resolve => setTimeout(resolve, 2000));
-        }
-    }
-
-    for (const bvid of directBvids) {
-        try {
-            let directResult = requiredResultCache.get(bvid);
-            if (!directResult || !currentPageCounts.has(bvid)) {
-                directResult = await parseCandidateBvid({ ...config, rawDataLoader: 'bili-view-api' }, bvid);
-                recordApiPageCounts(directResult, currentPageCounts);
-                requiredResultCache.set(bvid, directResult);
-            }
-            allSongs.push(...directResult.songs);
-            console.log(`  🎯 指定 BV ${bvid}: ${directResult.songs.length} 首`);
-        } catch (err) {
-            failedBvids.push(bvid);
-            console.warn(`  ⚠️  指定 BV:${bvid} 处理失败，本轮不覆盖该来源。错误：${err.message}`);
         }
     }
 
