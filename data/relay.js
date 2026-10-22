@@ -1,6 +1,6 @@
 // 接力 - 歌单数据 (多合集汇总)
 // 来源: BV1rkCTYzEZN, BV1wt421j7gT, BV1KpCdYmE3T, BV1aC4ce2E5s, BV1JbX9BmE5m, BV1nJ5S6CETQ, BV1duSRBBEkb
-// 生成时间: 10/22/2026, 2:58:47 PM
+// 生成时间: 10/22/2026, 5:24:07 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -942,6 +942,742 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
+  "title": "ティニタス",
+  "artist": "Diα",
+  "collection": "Relay song cut Diα - ディアディア 2026-04-05 oBAmEXovsv0 RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27",
+  "collection": "Relay song cut Diα - ディアディア 2026-04-05 oBAmEXovsv0 RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27",
+  "collection": "Relay song cut Diα - ディアディア 2026-04-05 oBAmEXovsv0 RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "愛して愛して愛して",
+  "artist": "きくお",
+  "collection": "Relay song cut Diα - ディアディア 2026-04-05 oBAmEXovsv0 RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "アンノウンマザーグース",
+  "artist": "wowaka",
+  "collection": "Relay song cut Diα - ディアディア 2026-04-05 oBAmEXovsv0 RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "残声",
+  "artist": "Diα",
+  "collection": "Relay song cut Diα - ディアディア 2026-04-05 oBAmEXovsv0 RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=6",
+  "source": "relay.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "Relay song cut Yono-Yono 2026-04-05 L4A5WJAN08Q RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "茜",
+  "artist": "ヨルシカ",
+  "collection": "Relay song cut Yono-Yono 2026-04-05 L4A5WJAN08Q RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "愛を紡ぐ。",
+  "artist": "ヨノ",
+  "collection": "Relay song cut Yono-Yono 2026-04-05 L4A5WJAN08Q RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "僕は僕の速さで",
+  "artist": "ヨノ",
+  "collection": "Relay song cut Yono-Yono 2026-04-05 L4A5WJAN08Q RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "響く音の、その先で",
+  "artist": "ヨノ",
+  "collection": "Relay song cut Yono-Yono 2026-04-05 L4A5WJAN08Q RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "拝啓、はじまりの色",
+  "artist": "ヨノ",
+  "collection": "Relay song cut Yono-Yono 2026-04-05 L4A5WJAN08Q RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=6",
+  "source": "relay.js"
+},
+    {
+  "title": "GROWL",
+  "artist": "KMNZ",
+  "collection": "Relay song cut KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "LUNATIC BEAST",
+  "artist": "KMNZ",
+  "collection": "Relay song cut KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "META FICTION",
+  "artist": "KMNZ",
+  "collection": "Relay song cut KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "Get Ur lit on",
+  "artist": "KMNZ",
+  "collection": "Relay song cut KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "WAVE",
+  "artist": "KMNZ",
+  "collection": "Relay song cut KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "OVERNIGHT",
+  "artist": "KMNZ",
+  "collection": "Relay song cut KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=6",
+  "source": "relay.js"
+},
+    {
+  "title": "STAR-LIGHT",
+  "artist": "KMNZ",
+  "collection": "Relay song cut KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=7",
+  "source": "relay.js"
+},
+    {
+  "title": "不可逆サバイバル",
+  "artist": "瀬戸乃とと",
+  "collection": "Relay song cut - Seto Noto 2026-04-05 9dl5sCzJZGo RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18dSDBDE3i?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "覚醒",
+  "artist": "Superfly",
+  "collection": "Relay song cut - Seto Noto 2026-04-05 9dl5sCzJZGo RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18dSDBDE3i?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "Masterpiece",
+  "artist": "瀬戸乃とと",
+  "collection": "Relay song cut - Seto Noto 2026-04-05 9dl5sCzJZGo RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18dSDBDE3i?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "Relay song cut - Seto Noto 2026-04-05 9dl5sCzJZGo RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18dSDBDE3i?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "一体いつから",
+  "artist": "初星学園&月村手毬",
+  "collection": "Relay song cut - Seto Noto 2026-04-05 9dl5sCzJZGo RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18dSDBDE3i?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "花はかぐや",
+  "artist": "Myuk",
+  "collection": "Relay song cut: Hao (はお) 2026-04-05 gKY9jSiYLVc RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "Relay song cut: Hao (はお) 2026-04-05 gKY9jSiYLVc RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "命にふさわしい",
+  "artist": "amazarashi",
+  "collection": "Relay song cut: Hao (はお) 2026-04-05 gKY9jSiYLVc RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz feat. 巡音ルカ",
+  "collection": "Relay song cut: Hao (はお) 2026-04-05 gKY9jSiYLVc RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "Oz.",
+  "artist": "yama",
+  "collection": "Relay song cut: Hao (はお) 2026-04-05 gKY9jSiYLVc RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "献華",
+  "artist": "羽緒",
+  "collection": "Relay song cut: Hao (はお) 2026-04-05 gKY9jSiYLVc RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=6",
+  "source": "relay.js"
+},
+    {
+  "title": "HOMURA",
+  "artist": "妃玖",
+  "collection": "Relay Song Cut - Kisaki by Feijiu 2026-04-05 69kPA648m68 RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "レディメイド",
+  "artist": "Ado",
+  "collection": "Relay Song Cut - Kisaki by Feijiu 2026-04-05 69kPA648m68 RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ",
+  "collection": "Relay Song Cut - Kisaki by Feijiu 2026-04-05 69kPA648m68 RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko",
+  "collection": "Relay Song Cut - Kisaki by Feijiu 2026-04-05 69kPA648m68 RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP",
+  "collection": "Relay Song Cut - Kisaki by Feijiu 2026-04-05 69kPA648m68 RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "Relay Song Cut - Kisaki by Feijiu 2026-04-05 69kPA648m68 RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=6",
+  "source": "relay.js"
+},
+    {
+  "title": "さよーならまたいつか！",
+  "artist": "米津玄師",
+  "collection": "Relay Song Cuts wouca 2026-04-05 DnNWcvDkXGk RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "まつり",
+  "artist": "藤井風",
+  "collection": "Relay Song Cuts wouca 2026-04-05 DnNWcvDkXGk RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "Beautiful World",
+  "artist": "宇多田ヒカル",
+  "collection": "Relay Song Cuts wouca 2026-04-05 DnNWcvDkXGk RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "In My Room",
+  "artist": "宇多田ヒカル",
+  "collection": "Relay Song Cuts wouca 2026-04-05 DnNWcvDkXGk RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "音を浮かべて",
+  "artist": "wouca",
+  "collection": "Relay Song Cuts wouca 2026-04-05 DnNWcvDkXGk RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "Romantica",
+  "artist": "wouca",
+  "collection": "Relay Song Cuts wouca 2026-04-05 DnNWcvDkXGk RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=6",
+  "source": "relay.js"
+},
+    {
+  "title": "栞",
+  "artist": "クリープハイプ",
+  "collection": "Relay Song Cut - Minase Nagi 2026-04-05 -B_-stxrvX0 RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fKSRB6Ere?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "ノスタルジー・ステップ",
+  "artist": "水瀬 凪",
+  "collection": "Relay Song Cut - Minase Nagi 2026-04-05 -B_-stxrvX0 RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fKSRB6Ere?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "綺麗",
+  "artist": "吉澤嘉代子",
+  "collection": "Relay Song Cut - Minase Nagi 2026-04-05 -B_-stxrvX0 RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fKSRB6Ere?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "僕らは今日も車の中",
+  "artist": "Hump Back",
+  "collection": "Relay Song Cut - Minase Nagi 2026-04-05 -B_-stxrvX0 RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fKSRB6Ere?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "アオハル進化論",
+  "artist": "水瀬 凪",
+  "collection": "Relay Song Cut - Minase Nagi 2026-04-05 -B_-stxrvX0 RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fKSRB6Ere?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "フラッグライン",
+  "artist": "水瀬 凪",
+  "collection": "Relay Song Cut - Minase Nagi 2026-04-05 -B_-stxrvX0 RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fKSRB6Ere?p=6",
+  "source": "relay.js"
+},
+    {
+  "title": "I'm Diamond",
+  "artist": "IMI",
+  "collection": "Relay song cut IMI 2026-04-05 v7zRy6Xdoco RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d3SRBTELZ?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "Bad girl",
+  "artist": "IMI",
+  "collection": "Relay song cut IMI 2026-04-05 v7zRy6Xdoco RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d3SRBTELZ?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "希望の丘",
+  "artist": "King & Prince",
+  "collection": "Relay song cut IMI 2026-04-05 v7zRy6Xdoco RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d3SRBTELZ?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "RED LINE",
+  "artist": "IMI",
+  "collection": "Relay song cut IMI 2026-04-05 v7zRy6Xdoco RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d3SRBTELZ?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "DRIVE",
+  "artist": "IMI",
+  "collection": "Relay song cut IMI 2026-04-05 v7zRy6Xdoco RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1d3SRBTELZ?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "罪と罰",
+  "artist": "椎名林檎",
+  "collection": "Relay Song Cut - Mikage 2026-04-05 fN9A8JPYM1o RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duSRBBEkb?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "ヒメムラサキ",
+  "artist": "水樹奈々",
+  "collection": "Relay Song Cut - Mikage 2026-04-05 fN9A8JPYM1o RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duSRBBEkb?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "花女",
+  "artist": "花譜",
+  "collection": "Relay Song Cut - Mikage 2026-04-05 fN9A8JPYM1o RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duSRBBEkb?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "Relay Song Cut - Mikage 2026-04-05 fN9A8JPYM1o RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duSRBBEkb?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "ロストメモリー",
+  "artist": "深影",
+  "collection": "Relay Song Cut - Mikage 2026-04-05 fN9A8JPYM1o RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1duSRBBEkb?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "散花",
+  "artist": "MEDA",
+  "collection": "Relay song cut MEDA 2026-04-05 SpNgGlDVupQ RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UxSRBoEKk?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "月光",
+  "artist": "鬼束ちひろ",
+  "collection": "Relay song cut MEDA 2026-04-05 SpNgGlDVupQ RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UxSRBoEKk?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "Relay song cut MEDA 2026-04-05 SpNgGlDVupQ RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UxSRBoEKk?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "愛にできることはまだあるかい",
+  "artist": "RADWINPS",
+  "collection": "Relay song cut MEDA 2026-04-05 SpNgGlDVupQ RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UxSRBoEKk?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "愛をこめて花束を",
+  "artist": "Superfly",
+  "collection": "Relay song cut MEDA 2026-04-05 SpNgGlDVupQ RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UxSRBoEKk?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "狂乱 Hey Kids!!",
+  "artist": "THE ORAL CIGARETTES",
+  "collection": "Relay Song Cut VESPERBELL 2026-04-05 vDmj1Cxbc6U RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UxSRBoE9p?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "キミシダイ列車",
+  "artist": "ONE OK ROCK",
+  "collection": "Relay Song Cut VESPERBELL 2026-04-05 vDmj1Cxbc6U RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UxSRBoE9p?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "RAMPAGE-Remix",
+  "artist": "VESPERBELL",
+  "collection": "Relay Song Cut VESPERBELL 2026-04-05 vDmj1Cxbc6U RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UxSRBoE9p?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "RUMBLING MEDLEY",
+  "artist": "VESPERBELL",
+  "collection": "Relay Song Cut VESPERBELL 2026-04-05 vDmj1Cxbc6U RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UxSRBoE9p?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "RISE feat.LITA ver.",
+  "artist": "VESPERBELL",
+  "collection": "Relay Song Cut VESPERBELL 2026-04-05 vDmj1Cxbc6U RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UxSRBoE9p?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "はきだす",
+  "artist": "mao sasagawa",
+  "collection": "Relay song cut NEUN 2026-04-05 MjrsB47SfBU RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1msSRBtER4?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "/ / // / /",
+  "artist": "x0o0x_",
+  "collection": "Relay song cut NEUN 2026-04-05 MjrsB47SfBU RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1msSRBtER4?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "深昏睡",
+  "artist": "春野",
+  "collection": "Relay song cut NEUN 2026-04-05 MjrsB47SfBU RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1msSRBtER4?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "シーサイド・モーテル",
+  "artist": "くじら",
+  "collection": "Relay song cut NEUN 2026-04-05 MjrsB47SfBU RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1msSRBtER4?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "ターミナル",
+  "artist": "ぬゆり",
+  "collection": "Relay song cut NEUN 2026-04-05 MjrsB47SfBU RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1msSRBtER4?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "Funeral",
+  "artist": "NEUN",
+  "collection": "Relay song cut NEUN 2026-04-05 MjrsB47SfBU RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1msSRBtER4?p=6",
+  "source": "relay.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師,宇多田ヒカル",
+  "collection": "Relay song cut XIDEN 2026-04-05 4bfrcoY3ls4 RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SsSRBtEWG?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "Relay song cut XIDEN 2026-04-05 4bfrcoY3ls4 RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SsSRBtEWG?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "Relay song cut XIDEN 2026-04-05 4bfrcoY3ls4 RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SsSRBtEWG?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "Day Opener",
+  "artist": "XIDEN",
+  "collection": "Relay song cut XIDEN 2026-04-05 4bfrcoY3ls4 RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SsSRBtEWG?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "Don't Call It a Night!!",
+  "artist": "XIDEN",
+  "collection": "Relay song cut XIDEN 2026-04-05 4bfrcoY3ls4 RKMusic song relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1SsSRBtEWG?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "Deep Sleep Sheep",
+  "artist": "HACHI",
+  "collection": "Relay Song Cut HACHI 2026-04-05 9XIPGKojS1s RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12bSRBREJA?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "ビー玉",
+  "artist": "HACHI",
+  "collection": "Relay Song Cut HACHI 2026-04-05 9XIPGKojS1s RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12bSRBREJA?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "Chère amie",
+  "artist": "HACHI",
+  "collection": "Relay Song Cut HACHI 2026-04-05 9XIPGKojS1s RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12bSRBREJA?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "Twilight Line",
+  "artist": "HACHI",
+  "collection": "Relay Song Cut HACHI 2026-04-05 9XIPGKojS1s RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12bSRBREJA?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "乖",
+  "artist": "HACHI",
+  "collection": "Relay Song Cut HACHI 2026-04-05 9XIPGKojS1s RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12bSRBREJA?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "To Be Alive",
+  "artist": "HACHI",
+  "collection": "Relay Song Cut HACHI 2026-04-05 9XIPGKojS1s RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12bSRBREJA?p=6",
+  "source": "relay.js"
+},
+    {
+  "title": "まなざし",
+  "artist": "HACHI",
+  "collection": "Relay Song Cut HACHI 2026-04-05 9XIPGKojS1s RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12bSRBREJA?p=7",
+  "source": "relay.js"
+},
+    {
+  "title": "Calling",
+  "artist": "焔魔るり",
+  "collection": "Relay Song Cut - Enma Ruri CH. / Ruri Enma 2026-04-05 00hsIPPlHvw RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utSRB4EMs?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "棘宵",
+  "artist": "焔魔るり",
+  "collection": "Relay Song Cut - Enma Ruri CH. / Ruri Enma 2026-04-05 00hsIPPlHvw RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utSRB4EMs?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "Fury",
+  "artist": "焔魔るり",
+  "collection": "Relay Song Cut - Enma Ruri CH. / Ruri Enma 2026-04-05 00hsIPPlHvw RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utSRB4EMs?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "Hope Song",
+  "artist": "焔魔るり",
+  "collection": "Relay Song Cut - Enma Ruri CH. / Ruri Enma 2026-04-05 00hsIPPlHvw RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utSRB4EMs?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "Brave new world",
+  "artist": "焔魔るり",
+  "collection": "Relay Song Cut - Enma Ruri CH. / Ruri Enma 2026-04-05 00hsIPPlHvw RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utSRB4EMs?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "ヒノコ",
+  "artist": "焔魔るり",
+  "collection": "Relay Song Cut - Enma Ruri CH. / Ruri Enma 2026-04-05 00hsIPPlHvw RKMusic Song Relay",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1utSRB4EMs?p=6",
+  "source": "relay.js"
+},
+    {
   "title": "Omnidirectional Beauty",
   "artist": "Noa",
   "collection": "Omnidirectional Beauty - Noa",
@@ -1195,742 +1931,6 @@ window.SONG_DATA.push(
   "collection": "1番手 稀羽すう：ダンスホール 怪獣の花唄 Ready To Party すてきなホリデイ 幾億光年",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rkCTYzEZN?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "ティニタス",
-  "artist": "Diα",
-  "collection": "接力歌切 2026-04-05 RKの皆様と貴方たちと!!!でぃあ参ります🥀 Diα - ディア",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "ヴァンパイア",
-  "artist": "DECO*27",
-  "collection": "接力歌切 2026-04-05 RKの皆様と貴方たちと!!!でぃあ参ります🥀 Diα - ディア",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "ヒバナ",
-  "artist": "DECO*27",
-  "collection": "接力歌切 2026-04-05 RKの皆様と貴方たちと!!!でぃあ参ります🥀 Diα - ディア",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "愛して愛して愛して",
-  "artist": "きくお",
-  "collection": "接力歌切 2026-04-05 RKの皆様と貴方たちと!!!でぃあ参ります🥀 Diα - ディア",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "アンノウンマザーグース",
-  "artist": "wowaka",
-  "collection": "接力歌切 2026-04-05 RKの皆様と貴方たちと!!!でぃあ参ります🥀 Diα - ディア",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "残声",
-  "artist": "Diα",
-  "collection": "接力歌切 2026-04-05 RKの皆様と貴方たちと!!!でぃあ参ります🥀 Diα - ディア",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=6",
-  "source": "relay.js"
-},
-    {
-  "title": "斜陽",
-  "artist": "ヨルシカ",
-  "collection": "接力歌切 2026-04-05 こんばんは、シンガーでソングなライターです🌙🎼 ヨノ-Yono",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "茜",
-  "artist": "ヨルシカ",
-  "collection": "接力歌切 2026-04-05 こんばんは、シンガーでソングなライターです🌙🎼 ヨノ-Yono",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "愛を紡ぐ。",
-  "artist": "ヨノ",
-  "collection": "接力歌切 2026-04-05 こんばんは、シンガーでソングなライターです🌙🎼 ヨノ-Yono",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "僕は僕の速さで",
-  "artist": "ヨノ",
-  "collection": "接力歌切 2026-04-05 こんばんは、シンガーでソングなライターです🌙🎼 ヨノ-Yono",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "響く音の、その先で",
-  "artist": "ヨノ",
-  "collection": "接力歌切 2026-04-05 こんばんは、シンガーでソングなライターです🌙🎼 ヨノ-Yono",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "拝啓、はじまりの色",
-  "artist": "ヨノ",
-  "collection": "接力歌切 2026-04-05 こんばんは、シンガーでソングなライターです🌙🎼 ヨノ-Yono",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=6",
-  "source": "relay.js"
-},
-    {
-  "title": "GROWL",
-  "artist": "KMNZ",
-  "collection": "接力歌切 KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic歌回接力",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "LUNATIC BEAST",
-  "artist": "KMNZ",
-  "collection": "接力歌切 KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic歌回接力",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "META FICTION",
-  "artist": "KMNZ",
-  "collection": "接力歌切 KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic歌回接力",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "Get Ur lit on",
-  "artist": "KMNZ",
-  "collection": "接力歌切 KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic歌回接力",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "WAVE",
-  "artist": "KMNZ",
-  "collection": "接力歌切 KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic歌回接力",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "OVERNIGHT",
-  "artist": "KMNZ",
-  "collection": "接力歌切 KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic歌回接力",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=6",
-  "source": "relay.js"
-},
-    {
-  "title": "STAR-LIGHT",
-  "artist": "KMNZ",
-  "collection": "接力歌切 KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic歌回接力",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=7",
-  "source": "relay.js"
-},
-    {
-  "title": "不可逆サバイバル",
-  "artist": "瀬戸乃とと",
-  "collection": "接力歌切 2026-04-05 いったん拳上げていただく方向で 瀬戸乃とと",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18dSDBDE3i?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "覚醒",
-  "artist": "Superfly",
-  "collection": "接力歌切 2026-04-05 いったん拳上げていただく方向で 瀬戸乃とと",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18dSDBDE3i?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "Masterpiece",
-  "artist": "瀬戸乃とと",
-  "collection": "接力歌切 2026-04-05 いったん拳上げていただく方向で 瀬戸乃とと",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18dSDBDE3i?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "more than words",
-  "artist": "羊文学",
-  "collection": "接力歌切 2026-04-05 いったん拳上げていただく方向で 瀬戸乃とと",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18dSDBDE3i?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "一体いつから",
-  "artist": "初星学園&月村手毬",
-  "collection": "接力歌切 2026-04-05 いったん拳上げていただく方向で 瀬戸乃とと",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18dSDBDE3i?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "花はかぐや",
-  "artist": "Myuk",
-  "collection": "接力歌切 2026-04-05 死神なるもの、出陣🦉 羽緒",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "晴る",
-  "artist": "ヨルシカ",
-  "collection": "接力歌切 2026-04-05 死神なるもの、出陣🦉 羽緒",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "命にふさわしい",
-  "artist": "amazarashi",
-  "collection": "接力歌切 2026-04-05 死神なるもの、出陣🦉 羽緒",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "それがあなたの幸せとしても",
-  "artist": "Heavenz feat. 巡音ルカ",
-  "collection": "接力歌切 2026-04-05 死神なるもの、出陣🦉 羽緒",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "Oz.",
-  "artist": "yama",
-  "collection": "接力歌切 2026-04-05 死神なるもの、出陣🦉 羽緒",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "献華",
-  "artist": "羽緒",
-  "collection": "接力歌切 2026-04-05 死神なるもの、出陣🦉 羽緒",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=6",
-  "source": "relay.js"
-},
-    {
-  "title": "HOMURA",
-  "artist": "妃玖",
-  "collection": "接力歌切 2026-04-05 盛り上がってこうぜ！！ 妃玖 - kisaki",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "レディメイド",
-  "artist": "Ado",
-  "collection": "接力歌切 2026-04-05 盛り上がってこうぜ！！ 妃玖 - kisaki",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "ラヴィ",
-  "artist": "すりぃ",
-  "collection": "接力歌切 2026-04-05 盛り上がってこうぜ！！ 妃玖 - kisaki",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "ロミオとシンデレラ",
-  "artist": "doriko",
-  "collection": "接力歌切 2026-04-05 盛り上がってこうぜ！！ 妃玖 - kisaki",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "ロキ",
-  "artist": "みきとP",
-  "collection": "接力歌切 2026-04-05 盛り上がってこうぜ！！ 妃玖 - kisaki",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "Butter-Fly",
-  "artist": "和田光司",
-  "collection": "接力歌切 2026-04-05 盛り上がってこうぜ！！ 妃玖 - kisaki",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=6",
-  "source": "relay.js"
-},
-    {
-  "title": "さよーならまたいつか！",
-  "artist": "米津玄師",
-  "collection": "接力歌切 2026-04-05 RKのみんなと繋ぐバトン！私らしさ全力で歌ヲ～ウカｯ✽ wouca",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "まつり",
-  "artist": "藤井風",
-  "collection": "接力歌切 2026-04-05 RKのみんなと繋ぐバトン！私らしさ全力で歌ヲ～ウカｯ✽ wouca",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "Beautiful World",
-  "artist": "宇多田ヒカル",
-  "collection": "接力歌切 2026-04-05 RKのみんなと繋ぐバトン！私らしさ全力で歌ヲ～ウカｯ✽ wouca",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "In My Room",
-  "artist": "宇多田ヒカル",
-  "collection": "接力歌切 2026-04-05 RKのみんなと繋ぐバトン！私らしさ全力で歌ヲ～ウカｯ✽ wouca",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "音を浮かべて",
-  "artist": "wouca",
-  "collection": "接力歌切 2026-04-05 RKのみんなと繋ぐバトン！私らしさ全力で歌ヲ～ウカｯ✽ wouca",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "Romantica",
-  "artist": "wouca",
-  "collection": "接力歌切 2026-04-05 RKのみんなと繋ぐバトン！私らしさ全力で歌ヲ～ウカｯ✽ wouca",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=6",
-  "source": "relay.js"
-},
-    {
-  "title": "栞",
-  "artist": "クリープハイプ",
-  "collection": "接力歌切 2026-04-05 初ライブユニオン主催リレー！RKの仲間たちと！🐺 水瀬 凪/MINASE Nagi",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fKSRB6Ere?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "ノスタルジー・ステップ",
-  "artist": "水瀬 凪",
-  "collection": "接力歌切 2026-04-05 初ライブユニオン主催リレー！RKの仲間たちと！🐺 水瀬 凪/MINASE Nagi",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fKSRB6Ere?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "綺麗",
-  "artist": "吉澤嘉代子",
-  "collection": "接力歌切 2026-04-05 初ライブユニオン主催リレー！RKの仲間たちと！🐺 水瀬 凪/MINASE Nagi",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fKSRB6Ere?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "僕らは今日も車の中",
-  "artist": "Hump Back",
-  "collection": "接力歌切 2026-04-05 初ライブユニオン主催リレー！RKの仲間たちと！🐺 水瀬 凪/MINASE Nagi",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fKSRB6Ere?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "アオハル進化論",
-  "artist": "水瀬 凪",
-  "collection": "接力歌切 2026-04-05 初ライブユニオン主催リレー！RKの仲間たちと！🐺 水瀬 凪/MINASE Nagi",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fKSRB6Ere?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "フラッグライン",
-  "artist": "水瀬 凪",
-  "collection": "接力歌切 2026-04-05 初ライブユニオン主催リレー！RKの仲間たちと！🐺 水瀬 凪/MINASE Nagi",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fKSRB6Ere?p=6",
-  "source": "relay.js"
-},
-    {
-  "title": "I'm Diamond",
-  "artist": "IMI",
-  "collection": "接力歌切 2026-04-05 ✦ IMI",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d3SRBTELZ?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "Bad girl",
-  "artist": "IMI",
-  "collection": "接力歌切 2026-04-05 ✦ IMI",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d3SRBTELZ?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "希望の丘",
-  "artist": "King & Prince",
-  "collection": "接力歌切 2026-04-05 ✦ IMI",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d3SRBTELZ?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "RED LINE",
-  "artist": "IMI",
-  "collection": "接力歌切 2026-04-05 ✦ IMI",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d3SRBTELZ?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "DRIVE",
-  "artist": "IMI",
-  "collection": "接力歌切 2026-04-05 ✦ IMI",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d3SRBTELZ?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "罪と罰",
-  "artist": "椎名林檎",
-  "collection": "接力歌切 2026-04-05 お化け 深影",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1duSRBBEkb?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "ヒメムラサキ",
-  "artist": "水樹奈々",
-  "collection": "接力歌切 2026-04-05 お化け 深影",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1duSRBBEkb?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "花女",
-  "artist": "花譜",
-  "collection": "接力歌切 2026-04-05 お化け 深影",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1duSRBBEkb?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "嘘月",
-  "artist": "ヨルシカ",
-  "collection": "接力歌切 2026-04-05 お化け 深影",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1duSRBBEkb?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "ロストメモリー",
-  "artist": "深影",
-  "collection": "接力歌切 2026-04-05 お化け 深影",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1duSRBBEkb?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "散花",
-  "artist": "MEDA",
-  "collection": "接力歌切 2026-04-05 響け、祝福の歌声。 MEDA",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UxSRBoEKk?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "月光",
-  "artist": "鬼束ちひろ",
-  "collection": "接力歌切 2026-04-05 響け、祝福の歌声。 MEDA",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UxSRBoEKk?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉",
-  "collection": "接力歌切 2026-04-05 響け、祝福の歌声。 MEDA",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UxSRBoEKk?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "愛にできることはまだあるかい",
-  "artist": "RADWINPS",
-  "collection": "接力歌切 2026-04-05 響け、祝福の歌声。 MEDA",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UxSRBoEKk?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "愛をこめて花束を",
-  "artist": "Superfly",
-  "collection": "接力歌切 2026-04-05 響け、祝福の歌声。 MEDA",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UxSRBoEKk?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "狂乱 Hey Kids!!",
-  "artist": "THE ORAL CIGARETTES",
-  "collection": "接力歌切 2026-04-05 ⚠️ネタバレ注意⚠️なぜ人は生まれたのか？ VESPERBELL",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UxSRBoE9p?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "キミシダイ列車",
-  "artist": "ONE OK ROCK",
-  "collection": "接力歌切 2026-04-05 ⚠️ネタバレ注意⚠️なぜ人は生まれたのか？ VESPERBELL",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UxSRBoE9p?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "RAMPAGE-Remix",
-  "artist": "VESPERBELL",
-  "collection": "接力歌切 2026-04-05 ⚠️ネタバレ注意⚠️なぜ人は生まれたのか？ VESPERBELL",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UxSRBoE9p?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "RUMBLING MEDLEY",
-  "artist": "VESPERBELL",
-  "collection": "接力歌切 2026-04-05 ⚠️ネタバレ注意⚠️なぜ人は生まれたのか？ VESPERBELL",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UxSRBoE9p?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "RISE feat.LITA ver.",
-  "artist": "VESPERBELL",
-  "collection": "接力歌切 2026-04-05 ⚠️ネタバレ注意⚠️なぜ人は生まれたのか？ VESPERBELL",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UxSRBoE9p?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "はきだす",
-  "artist": "mao sasagawa",
-  "collection": "接力歌切 2026-04-05 顕現顕現顕現～! NEUN",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1msSRBtER4?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "/ / // / /",
-  "artist": "x0o0x_",
-  "collection": "接力歌切 2026-04-05 顕現顕現顕現～! NEUN",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1msSRBtER4?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "深昏睡",
-  "artist": "春野",
-  "collection": "接力歌切 2026-04-05 顕現顕現顕現～! NEUN",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1msSRBtER4?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "シーサイド・モーテル",
-  "artist": "くじら",
-  "collection": "接力歌切 2026-04-05 顕現顕現顕現～! NEUN",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1msSRBtER4?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "ターミナル",
-  "artist": "ぬゆり",
-  "collection": "接力歌切 2026-04-05 顕現顕現顕現～! NEUN",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1msSRBtER4?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "Funeral",
-  "artist": "NEUN",
-  "collection": "接力歌切 2026-04-05 顕現顕現顕現～! NEUN",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1msSRBtER4?p=6",
-  "source": "relay.js"
-},
-    {
-  "title": "JANE DOE",
-  "artist": "米津玄師,宇多田ヒカル",
-  "collection": "接力歌切 2026-04-05 歌って踊れるVSinger XIDENがお送りするChill曲たち",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SsSRBtEWG?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "KissHug",
-  "artist": "aiko",
-  "collection": "接力歌切 2026-04-05 歌って踊れるVSinger XIDENがお送りするChill曲たち",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SsSRBtEWG?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "ギブス",
-  "artist": "椎名林檎",
-  "collection": "接力歌切 2026-04-05 歌って踊れるVSinger XIDENがお送りするChill曲たち",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SsSRBtEWG?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "Day Opener",
-  "artist": "XIDEN",
-  "collection": "接力歌切 2026-04-05 歌って踊れるVSinger XIDENがお送りするChill曲たち",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SsSRBtEWG?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "Don't Call It a Night!!",
-  "artist": "XIDEN",
-  "collection": "接力歌切 2026-04-05 歌って踊れるVSinger XIDENがお送りするChill曲たち",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SsSRBtEWG?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "Deep Sleep Sheep",
-  "artist": "HACHI",
-  "collection": "接力歌切 2026-04-05 ラストスパート！🐝 HACHI",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12bSRBREJA?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "ビー玉",
-  "artist": "HACHI",
-  "collection": "接力歌切 2026-04-05 ラストスパート！🐝 HACHI",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12bSRBREJA?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "Chère amie",
-  "artist": "HACHI",
-  "collection": "接力歌切 2026-04-05 ラストスパート！🐝 HACHI",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12bSRBREJA?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "Twilight Line",
-  "artist": "HACHI",
-  "collection": "接力歌切 2026-04-05 ラストスパート！🐝 HACHI",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12bSRBREJA?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "乖",
-  "artist": "HACHI",
-  "collection": "接力歌切 2026-04-05 ラストスパート！🐝 HACHI",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12bSRBREJA?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "To Be Alive",
-  "artist": "HACHI",
-  "collection": "接力歌切 2026-04-05 ラストスパート！🐝 HACHI",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12bSRBREJA?p=6",
-  "source": "relay.js"
-},
-    {
-  "title": "まなざし",
-  "artist": "HACHI",
-  "collection": "接力歌切 2026-04-05 ラストスパート！🐝 HACHI",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12bSRBREJA?p=7",
-  "source": "relay.js"
-},
-    {
-  "title": "Calling",
-  "artist": "焔魔るり",
-  "collection": "接力歌切 2026-04-05 最後まで盛り上がっていくぞー🔥🍆🔥＆閉会式 焔魔るり CH. / Ruri Enma",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1utSRB4EMs?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "棘宵",
-  "artist": "焔魔るり",
-  "collection": "接力歌切 2026-04-05 最後まで盛り上がっていくぞー🔥🍆🔥＆閉会式 焔魔るり CH. / Ruri Enma",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1utSRB4EMs?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "Fury",
-  "artist": "焔魔るり",
-  "collection": "接力歌切 2026-04-05 最後まで盛り上がっていくぞー🔥🍆🔥＆閉会式 焔魔るり CH. / Ruri Enma",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1utSRB4EMs?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "Hope Song",
-  "artist": "焔魔るり",
-  "collection": "接力歌切 2026-04-05 最後まで盛り上がっていくぞー🔥🍆🔥＆閉会式 焔魔るり CH. / Ruri Enma",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1utSRB4EMs?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "Brave new world",
-  "artist": "焔魔るり",
-  "collection": "接力歌切 2026-04-05 最後まで盛り上がっていくぞー🔥🍆🔥＆閉会式 焔魔るり CH. / Ruri Enma",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1utSRB4EMs?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "ヒノコ",
-  "artist": "焔魔るり",
-  "collection": "接力歌切 2026-04-05 最後まで盛り上がっていくぞー🔥🍆🔥＆閉会式 焔魔るり CH. / Ruri Enma",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1utSRB4EMs?p=6",
   "source": "relay.js"
 },
     {
@@ -3710,11 +3710,515 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
-  "title": "晚餐歌+花与亡灵",
-  "artist": "来源处未提供标准格式歌手",
-  "collection": "晚餐歌 - tuki.",
+  "title": "JANE DOE",
+  "artist": "米津玄師,宇多田ヒカル",
+  "collection": "接力歌切 2026-06-19 カシ・オトハ カシ・オトハ / Kashi Otoha",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1aC4ce2E5s?p=1",
+  "link": "https://www.bilibili.com/video/BV1qMjk6RE4U?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "あなたは煙草 私はシャボン",
+  "artist": "ラブリーサマーちゃん",
+  "collection": "接力歌切 2026-06-19 カシ・オトハ カシ・オトハ / Kashi Otoha",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qMjk6RE4U?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "深昏睡",
+  "artist": "春野",
+  "collection": "接力歌切 2026-06-19 カシ・オトハ カシ・オトハ / Kashi Otoha",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qMjk6RE4U?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "パトス",
+  "artist": "カシ・オトハ",
+  "collection": "接力歌切 2026-06-19 カシ・オトハ カシ・オトハ / Kashi Otoha",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1qMjk6RE4U?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "みずいろの雨",
+  "artist": "八神純子",
+  "collection": "接力歌切 2026-06-19 夜も更けてきましたが、雨に打たれながら弾き語り聞いてね/木下ちぷる 木下ちぷる / Chipuru Ch",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a7jk6UE1M?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "接力歌切 2026-06-19 夜も更けてきましたが、雨に打たれながら弾き語り聞いてね/木下ちぷる 木下ちぷる / Chipuru Ch",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a7jk6UE1M?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "雨とペトラ",
+  "artist": "バルーン feat. v flower",
+  "collection": "接力歌切 2026-06-19 夜も更けてきましたが、雨に打たれながら弾き語り聞いてね/木下ちぷる 木下ちぷる / Chipuru Ch",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a7jk6UE1M?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "彗星ハネムーン",
+  "artist": "ナユタン星人 feat. 初音ミク",
+  "collection": "接力歌切 2026-06-19 夜も更けてきましたが、雨に打たれながら弾き語り聞いてね/木下ちぷる 木下ちぷる / Chipuru Ch",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a7jk6UE1M?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "接力歌切 2026-06-23 歌声に想いを乗せて、バトンを繋ぎます！ shin",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wzj96PEoQ?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "ハナミズキ",
+  "artist": "一青窈",
+  "collection": "接力歌切 2026-06-23 歌声に想いを乗せて、バトンを繋ぎます！ shin",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wzj96PEoQ?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "奈落の花",
+  "artist": "島みやえい子",
+  "collection": "接力歌切 2026-06-23 歌声に想いを乗せて、バトンを繋ぎます！ shin",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wzj96PEoQ?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat. 初音ミク",
+  "collection": "接力歌切 2026-06-23 歌声に想いを乗せて、バトンを繋ぎます！ shin",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wzj96PEoQ?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "接力歌切 2026-06-23 和の曲をよい風と共に届けます！｜KARAOKE｜Vsinger ｜無々ひさぎ ( ) 無々ひさぎ - Hisagi Nana -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wzj96PE3y?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "絆ノ奇跡",
+  "artist": "MAN WITH A MISSION × milet",
+  "collection": "接力歌切 2026-06-23 和の曲をよい風と共に届けます！｜KARAOKE｜Vsinger ｜無々ひさぎ ( ) 無々ひさぎ - Hisagi Nana -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wzj96PE3y?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "接力歌切 2026-06-23 和の曲をよい風と共に届けます！｜KARAOKE｜Vsinger ｜無々ひさぎ ( ) 無々ひさぎ - Hisagi Nana -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wzj96PE3y?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "接力歌切 2026-06-23 和の曲をよい風と共に届けます！｜KARAOKE｜Vsinger ｜無々ひさぎ ( ) 無々ひさぎ - Hisagi Nana -",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Wzj96PE3y?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "天樂",
+  "artist": "ゆうゆP feat. 鏡音リン",
+  "collection": "接力歌切 2026-06-23 君と走る、ゴールテープのその先へ CYBILL",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Azj96PEM5?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "拍手喝采歌合",
+  "artist": "supercell",
+  "collection": "接力歌切 2026-06-23 君と走る、ゴールテープのその先へ CYBILL",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Azj96PEM5?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "吹雪",
+  "artist": "西沢幸奏",
+  "collection": "接力歌切 2026-06-23 君と走る、ゴールテープのその先へ CYBILL",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Azj96PEM5?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "SWORD SUMMIT",
+  "artist": "T.M.Revolution",
+  "collection": "接力歌切 2026-06-23 君と走る、ゴールテープのその先へ CYBILL",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Azj96PEM5?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "nowhere",
+  "artist": "FictionJunction YUUKA",
+  "collection": "接力歌切 2026-06-23 君と走る、ゴールテープのその先へ CYBILL",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Azj96PEM5?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "天かける星",
+  "artist": "Suara",
+  "collection": "接力歌切 2026-06-23 君と走る、ゴールテープのその先へ CYBILL",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Azj96PEM5?p=6",
+  "source": "relay.js"
+},
+    {
+  "title": "ティニタス",
+  "artist": "Diα",
+  "collection": "接力歌切 2026-04-05 RKの皆様と貴方たちと!!!でぃあ参ります🥀 Diα - ディア",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27",
+  "collection": "接力歌切 2026-04-05 RKの皆様と貴方たちと!!!でぃあ参ります🥀 Diα - ディア",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27",
+  "collection": "接力歌切 2026-04-05 RKの皆様と貴方たちと!!!でぃあ参ります🥀 Diα - ディア",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "愛して愛して愛して",
+  "artist": "きくお",
+  "collection": "接力歌切 2026-04-05 RKの皆様と貴方たちと!!!でぃあ参ります🥀 Diα - ディア",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "アンノウンマザーグース",
+  "artist": "wowaka",
+  "collection": "接力歌切 2026-04-05 RKの皆様と貴方たちと!!!でぃあ参ります🥀 Diα - ディア",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "残声",
+  "artist": "Diα",
+  "collection": "接力歌切 2026-04-05 RKの皆様と貴方たちと!!!でぃあ参ります🥀 Diα - ディア",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=6",
+  "source": "relay.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "接力歌切 2026-04-05 こんばんは、シンガーでソングなライターです🌙🎼 ヨノ-Yono",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "茜",
+  "artist": "ヨルシカ",
+  "collection": "接力歌切 2026-04-05 こんばんは、シンガーでソングなライターです🌙🎼 ヨノ-Yono",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "愛を紡ぐ。",
+  "artist": "ヨノ",
+  "collection": "接力歌切 2026-04-05 こんばんは、シンガーでソングなライターです🌙🎼 ヨノ-Yono",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "僕は僕の速さで",
+  "artist": "ヨノ",
+  "collection": "接力歌切 2026-04-05 こんばんは、シンガーでソングなライターです🌙🎼 ヨノ-Yono",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "響く音の、その先で",
+  "artist": "ヨノ",
+  "collection": "接力歌切 2026-04-05 こんばんは、シンガーでソングなライターです🌙🎼 ヨノ-Yono",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "拝啓、はじまりの色",
+  "artist": "ヨノ",
+  "collection": "接力歌切 2026-04-05 こんばんは、シンガーでソングなライターです🌙🎼 ヨノ-Yono",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=6",
+  "source": "relay.js"
+},
+    {
+  "title": "GROWL",
+  "artist": "KMNZ",
+  "collection": "接力歌切 KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "LUNATIC BEAST",
+  "artist": "KMNZ",
+  "collection": "接力歌切 KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "META FICTION",
+  "artist": "KMNZ",
+  "collection": "接力歌切 KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "Get Ur lit on",
+  "artist": "KMNZ",
+  "collection": "接力歌切 KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "WAVE",
+  "artist": "KMNZ",
+  "collection": "接力歌切 KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "OVERNIGHT",
+  "artist": "KMNZ",
+  "collection": "接力歌切 KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=6",
+  "source": "relay.js"
+},
+    {
+  "title": "STAR-LIGHT",
+  "artist": "KMNZ",
+  "collection": "接力歌切 KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic歌回接力",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=7",
+  "source": "relay.js"
+},
+    {
+  "title": "不可逆サバイバル",
+  "artist": "瀬戸乃とと",
+  "collection": "接力歌切 2026-04-05 いったん拳上げていただく方向で 瀬戸乃とと",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18dSDBDE3i?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "覚醒",
+  "artist": "Superfly",
+  "collection": "接力歌切 2026-04-05 いったん拳上げていただく方向で 瀬戸乃とと",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18dSDBDE3i?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "Masterpiece",
+  "artist": "瀬戸乃とと",
+  "collection": "接力歌切 2026-04-05 いったん拳上げていただく方向で 瀬戸乃とと",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18dSDBDE3i?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "接力歌切 2026-04-05 いったん拳上げていただく方向で 瀬戸乃とと",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18dSDBDE3i?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "一体いつから",
+  "artist": "初星学園&月村手毬",
+  "collection": "接力歌切 2026-04-05 いったん拳上げていただく方向で 瀬戸乃とと",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18dSDBDE3i?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "花はかぐや",
+  "artist": "Myuk",
+  "collection": "接力歌切 2026-04-05 死神なるもの、出陣🦉 羽緒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "接力歌切 2026-04-05 死神なるもの、出陣🦉 羽緒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "命にふさわしい",
+  "artist": "amazarashi",
+  "collection": "接力歌切 2026-04-05 死神なるもの、出陣🦉 羽緒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz feat. 巡音ルカ",
+  "collection": "接力歌切 2026-04-05 死神なるもの、出陣🦉 羽緒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "Oz.",
+  "artist": "yama",
+  "collection": "接力歌切 2026-04-05 死神なるもの、出陣🦉 羽緒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "献華",
+  "artist": "羽緒",
+  "collection": "接力歌切 2026-04-05 死神なるもの、出陣🦉 羽緒",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=6",
+  "source": "relay.js"
+},
+    {
+  "title": "HOMURA",
+  "artist": "妃玖",
+  "collection": "接力歌切 2026-04-05 盛り上がってこうぜ！！ 妃玖 - kisaki",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "レディメイド",
+  "artist": "Ado",
+  "collection": "接力歌切 2026-04-05 盛り上がってこうぜ！！ 妃玖 - kisaki",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ",
+  "collection": "接力歌切 2026-04-05 盛り上がってこうぜ！！ 妃玖 - kisaki",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko",
+  "collection": "接力歌切 2026-04-05 盛り上がってこうぜ！！ 妃玖 - kisaki",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP",
+  "collection": "接力歌切 2026-04-05 盛り上がってこうぜ！！ 妃玖 - kisaki",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "接力歌切 2026-04-05 盛り上がってこうぜ！！ 妃玖 - kisaki",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=6",
+  "source": "relay.js"
+},
+    {
+  "title": "さよーならまたいつか！",
+  "artist": "米津玄師",
+  "collection": "接力歌切 2026-04-05 RKのみんなと繋ぐバトン！私らしさ全力で歌ヲ～ウカｯ✽ wouca",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=1",
+  "source": "relay.js"
+},
+    {
+  "title": "まつり",
+  "artist": "藤井風",
+  "collection": "接力歌切 2026-04-05 RKのみんなと繋ぐバトン！私らしさ全力で歌ヲ～ウカｯ✽ wouca",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=2",
+  "source": "relay.js"
+},
+    {
+  "title": "Beautiful World",
+  "artist": "宇多田ヒカル",
+  "collection": "接力歌切 2026-04-05 RKのみんなと繋ぐバトン！私らしさ全力で歌ヲ～ウカｯ✽ wouca",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=3",
+  "source": "relay.js"
+},
+    {
+  "title": "In My Room",
+  "artist": "宇多田ヒカル",
+  "collection": "接力歌切 2026-04-05 RKのみんなと繋ぐバトン！私らしさ全力で歌ヲ～ウカｯ✽ wouca",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=4",
+  "source": "relay.js"
+},
+    {
+  "title": "音を浮かべて",
+  "artist": "wouca",
+  "collection": "接力歌切 2026-04-05 RKのみんなと繋ぐバトン！私らしさ全力で歌ヲ～ウカｯ✽ wouca",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=5",
+  "source": "relay.js"
+},
+    {
+  "title": "Romantica",
+  "artist": "wouca",
+  "collection": "接力歌切 2026-04-05 RKのみんなと繋ぐバトン！私らしさ全力で歌ヲ～ウカｯ✽ wouca",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=6",
   "source": "relay.js"
 },
     {
@@ -3726,433 +4230,97 @@ window.SONG_DATA.push(
   "source": "relay.js"
 },
     {
-  "title": "ティニタス",
-  "artist": "Diα",
-  "collection": "Relay song cut Diα - ディアディア 2026-04-05 oBAmEXovsv0 RKMusic song relay",
+  "title": "わたしの一番かわいいところ",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "わたしの一番かわいいところ - FRUITS ZIPPER",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=1",
+  "link": "https://www.bilibili.com/video/BV1QC4ce2EoQ?p=1",
   "source": "relay.js"
 },
     {
-  "title": "ヴァンパイア",
-  "artist": "DECO*27",
-  "collection": "Relay song cut Diα - ディアディア 2026-04-05 oBAmEXovsv0 RKMusic song relay",
+  "title": "なんでもないや",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "なんでもないや - RADWIMPS",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=2",
+  "link": "https://www.bilibili.com/video/BV1aC4ce2E58?p=1",
   "source": "relay.js"
 },
     {
-  "title": "ヒバナ",
-  "artist": "DECO*27",
-  "collection": "Relay song cut Diα - ディアディア 2026-04-05 oBAmEXovsv0 RKMusic song relay",
+  "title": "パラレルナイト",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "パラレルナイト - 凛々咲",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=3",
+  "link": "https://www.bilibili.com/video/BV1QC4ce2ECG?p=1",
   "source": "relay.js"
 },
     {
-  "title": "愛して愛して愛して",
-  "artist": "きくお",
-  "collection": "Relay song cut Diα - ディアディア 2026-04-05 oBAmEXovsv0 RKMusic song relay",
+  "title": "食虫植物",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "食虫植物 - 理芽",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=4",
+  "link": "https://www.bilibili.com/video/BV1aC4ce2E5B?p=1",
   "source": "relay.js"
 },
     {
-  "title": "アンノウンマザーグース",
-  "artist": "wowaka",
-  "collection": "Relay song cut Diα - ディアディア 2026-04-05 oBAmEXovsv0 RKMusic song relay",
+  "title": "ラティオ・ユィリス 】01. ビビデバ",
+  "artist": "Hoshimachi Suisei",
+  "collection": "ビビデバ - 星街すいせい",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=5",
+  "link": "https://www.bilibili.com/video/BV15i4cenEiq?p=1",
   "source": "relay.js"
 },
     {
-  "title": "残声",
-  "artist": "Diα",
-  "collection": "Relay song cut Diα - ディアディア 2026-04-05 oBAmEXovsv0 RKMusic song relay",
+  "title": "晚餐歌+花与亡灵",
+  "artist": "来源处未提供标准格式歌手",
+  "collection": "晚餐歌 - tuki.",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1gVSUBkENo?p=6",
+  "link": "https://www.bilibili.com/video/BV1aC4ce2E5s?p=1",
   "source": "relay.js"
 },
     {
-  "title": "斜陽",
-  "artist": "ヨルシカ",
-  "collection": "Relay song cut Yono-Yono 2026-04-05 L4A5WJAN08Q RKMusic song relay",
+  "title": "ラティオ・ユィリス 】07. だから僕は音楽を辞めた",
+  "artist": "Yorushika",
+  "collection": "だから僕は音楽を辞めた - ヨルシカ",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=1",
+  "link": "https://www.bilibili.com/video/BV1vi4ceHEbj?p=1",
   "source": "relay.js"
 },
     {
-  "title": "茜",
-  "artist": "ヨルシカ",
-  "collection": "Relay song cut Yono-Yono 2026-04-05 L4A5WJAN08Q RKMusic song relay",
+  "title": "ラティオ・ユィリス 】03. 勇者",
+  "artist": "YOASOBI",
+  "collection": "勇者 - YOASOBI",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=2",
+  "link": "https://www.bilibili.com/video/BV1vi4ceHESq?p=1",
   "source": "relay.js"
 },
     {
-  "title": "愛を紡ぐ。",
-  "artist": "ヨノ",
-  "collection": "Relay song cut Yono-Yono 2026-04-05 L4A5WJAN08Q RKMusic song relay",
+  "title": "ラティオ・ユィリス 】08. よくばり",
+  "artist": "Ayase ft. Hatsune Miku",
+  "collection": "よくばり - Ayase",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=3",
+  "link": "https://www.bilibili.com/video/BV1vi4ceHEm6?p=1",
   "source": "relay.js"
 },
     {
-  "title": "僕は僕の速さで",
-  "artist": "ヨノ",
-  "collection": "Relay song cut Yono-Yono 2026-04-05 L4A5WJAN08Q RKMusic song relay",
+  "title": "ラティオ・ユィリス 】05. ルマ",
+  "artist": "Kairiki Bear ft. Hatsune Miku",
+  "collection": "ルマ - かいりきベア",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=4",
+  "link": "https://www.bilibili.com/video/BV1Ri4ceHEfX?p=1",
   "source": "relay.js"
 },
     {
-  "title": "響く音の、その先で",
-  "artist": "ヨノ",
-  "collection": "Relay song cut Yono-Yono 2026-04-05 L4A5WJAN08Q RKMusic song relay",
+  "title": "ラティオ・ユィリス 】04. 愛包ダンスホール",
+  "artist": "HIMEHINA",
+  "collection": "愛包ダンスホール - HIMEHINA",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "拝啓、はじまりの色",
-  "artist": "ヨノ",
-  "collection": "Relay song cut Yono-Yono 2026-04-05 L4A5WJAN08Q RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UVSUBrEoL?p=6",
-  "source": "relay.js"
-},
-    {
-  "title": "GROWL",
-  "artist": "KMNZ",
-  "collection": "Relay song cut KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "LUNATIC BEAST",
-  "artist": "KMNZ",
-  "collection": "Relay song cut KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "META FICTION",
-  "artist": "KMNZ",
-  "collection": "Relay song cut KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "Get Ur lit on",
-  "artist": "KMNZ",
-  "collection": "Relay song cut KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "WAVE",
-  "artist": "KMNZ",
-  "collection": "Relay song cut KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "OVERNIGHT",
-  "artist": "KMNZ",
-  "collection": "Relay song cut KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=6",
-  "source": "relay.js"
-},
-    {
-  "title": "STAR-LIGHT",
-  "artist": "KMNZ",
-  "collection": "Relay song cut KMNZ 2026-04-05 9cN_8FhN6Gk RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UZSDBJEUU?p=7",
-  "source": "relay.js"
-},
-    {
-  "title": "不可逆サバイバル",
-  "artist": "瀬戸乃とと",
-  "collection": "Relay song cut - Seto Noto 2026-04-05 9dl5sCzJZGo RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18dSDBDE3i?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "覚醒",
-  "artist": "Superfly",
-  "collection": "Relay song cut - Seto Noto 2026-04-05 9dl5sCzJZGo RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18dSDBDE3i?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "Masterpiece",
-  "artist": "瀬戸乃とと",
-  "collection": "Relay song cut - Seto Noto 2026-04-05 9dl5sCzJZGo RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18dSDBDE3i?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "more than words",
-  "artist": "羊文学",
-  "collection": "Relay song cut - Seto Noto 2026-04-05 9dl5sCzJZGo RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18dSDBDE3i?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "一体いつから",
-  "artist": "初星学園&月村手毬",
-  "collection": "Relay song cut - Seto Noto 2026-04-05 9dl5sCzJZGo RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV18dSDBDE3i?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "花はかぐや",
-  "artist": "Myuk",
-  "collection": "Relay song cut: Hao (はお) 2026-04-05 gKY9jSiYLVc RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "晴る",
-  "artist": "ヨルシカ",
-  "collection": "Relay song cut: Hao (はお) 2026-04-05 gKY9jSiYLVc RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "命にふさわしい",
-  "artist": "amazarashi",
-  "collection": "Relay song cut: Hao (はお) 2026-04-05 gKY9jSiYLVc RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "それがあなたの幸せとしても",
-  "artist": "Heavenz feat. 巡音ルカ",
-  "collection": "Relay song cut: Hao (はお) 2026-04-05 gKY9jSiYLVc RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "Oz.",
-  "artist": "yama",
-  "collection": "Relay song cut: Hao (はお) 2026-04-05 gKY9jSiYLVc RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "献華",
-  "artist": "羽緒",
-  "collection": "Relay song cut: Hao (はお) 2026-04-05 gKY9jSiYLVc RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1DdSDBDEEF?p=6",
-  "source": "relay.js"
-},
-    {
-  "title": "HOMURA",
-  "artist": "妃玖",
-  "collection": "Relay Song Cut - Kisaki by Feijiu 2026-04-05 69kPA648m68 RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "レディメイド",
-  "artist": "Ado",
-  "collection": "Relay Song Cut - Kisaki by Feijiu 2026-04-05 69kPA648m68 RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "ラヴィ",
-  "artist": "すりぃ",
-  "collection": "Relay Song Cut - Kisaki by Feijiu 2026-04-05 69kPA648m68 RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "ロミオとシンデレラ",
-  "artist": "doriko",
-  "collection": "Relay Song Cut - Kisaki by Feijiu 2026-04-05 69kPA648m68 RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "ロキ",
-  "artist": "みきとP",
-  "collection": "Relay Song Cut - Kisaki by Feijiu 2026-04-05 69kPA648m68 RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "Butter-Fly",
-  "artist": "和田光司",
-  "collection": "Relay Song Cut - Kisaki by Feijiu 2026-04-05 69kPA648m68 RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1tcSQB7ERx?p=6",
-  "source": "relay.js"
-},
-    {
-  "title": "さよーならまたいつか！",
-  "artist": "米津玄師",
-  "collection": "Relay Song Cuts wouca 2026-04-05 DnNWcvDkXGk RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "まつり",
-  "artist": "藤井風",
-  "collection": "Relay Song Cuts wouca 2026-04-05 DnNWcvDkXGk RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "Beautiful World",
-  "artist": "宇多田ヒカル",
-  "collection": "Relay Song Cuts wouca 2026-04-05 DnNWcvDkXGk RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "In My Room",
-  "artist": "宇多田ヒカル",
-  "collection": "Relay Song Cuts wouca 2026-04-05 DnNWcvDkXGk RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "音を浮かべて",
-  "artist": "wouca",
-  "collection": "Relay Song Cuts wouca 2026-04-05 DnNWcvDkXGk RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "Romantica",
-  "artist": "wouca",
-  "collection": "Relay Song Cuts wouca 2026-04-05 DnNWcvDkXGk RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1jMSRBgE2F?p=6",
-  "source": "relay.js"
-},
-    {
-  "title": "栞",
-  "artist": "クリープハイプ",
-  "collection": "Relay Song Cut - Minase Nagi 2026-04-05 -B_-stxrvX0 RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fKSRB6Ere?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "ノスタルジー・ステップ",
-  "artist": "水瀬 凪",
-  "collection": "Relay Song Cut - Minase Nagi 2026-04-05 -B_-stxrvX0 RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fKSRB6Ere?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "綺麗",
-  "artist": "吉澤嘉代子",
-  "collection": "Relay Song Cut - Minase Nagi 2026-04-05 -B_-stxrvX0 RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fKSRB6Ere?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "僕らは今日も車の中",
-  "artist": "Hump Back",
-  "collection": "Relay Song Cut - Minase Nagi 2026-04-05 -B_-stxrvX0 RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fKSRB6Ere?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "アオハル進化論",
-  "artist": "水瀬 凪",
-  "collection": "Relay Song Cut - Minase Nagi 2026-04-05 -B_-stxrvX0 RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fKSRB6Ere?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "フラッグライン",
-  "artist": "水瀬 凪",
-  "collection": "Relay Song Cut - Minase Nagi 2026-04-05 -B_-stxrvX0 RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1fKSRB6Ere?p=6",
-  "source": "relay.js"
-},
-    {
-  "title": "I'm Diamond",
-  "artist": "IMI",
-  "collection": "Relay song cut IMI 2026-04-05 v7zRy6Xdoco RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d3SRBTELZ?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "Bad girl",
-  "artist": "IMI",
-  "collection": "Relay song cut IMI 2026-04-05 v7zRy6Xdoco RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d3SRBTELZ?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "希望の丘",
-  "artist": "King & Prince",
-  "collection": "Relay song cut IMI 2026-04-05 v7zRy6Xdoco RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d3SRBTELZ?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "RED LINE",
-  "artist": "IMI",
-  "collection": "Relay song cut IMI 2026-04-05 v7zRy6Xdoco RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d3SRBTELZ?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "DRIVE",
-  "artist": "IMI",
-  "collection": "Relay song cut IMI 2026-04-05 v7zRy6Xdoco RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1d3SRBTELZ?p=5",
+  "link": "https://www.bilibili.com/video/BV1vi4ceHEhN?p=1",
   "source": "relay.js"
 },
     {
   "title": "罪と罰",
   "artist": "椎名林檎",
-  "collection": "Relay Song Cut - Mikage 2026-04-05 fN9A8JPYM1o RKMusic Song Relay",
+  "collection": "接力歌切 2026-04-05 お化け 深影",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1duSRBBEkb?p=1",
   "source": "relay.js"
@@ -4160,7 +4328,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒメムラサキ",
   "artist": "水樹奈々",
-  "collection": "Relay Song Cut - Mikage 2026-04-05 fN9A8JPYM1o RKMusic Song Relay",
+  "collection": "接力歌切 2026-04-05 お化け 深影",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1duSRBBEkb?p=2",
   "source": "relay.js"
@@ -4168,7 +4336,7 @@ window.SONG_DATA.push(
     {
   "title": "花女",
   "artist": "花譜",
-  "collection": "Relay Song Cut - Mikage 2026-04-05 fN9A8JPYM1o RKMusic Song Relay",
+  "collection": "接力歌切 2026-04-05 お化け 深影",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1duSRBBEkb?p=3",
   "source": "relay.js"
@@ -4176,7 +4344,7 @@ window.SONG_DATA.push(
     {
   "title": "嘘月",
   "artist": "ヨルシカ",
-  "collection": "Relay Song Cut - Mikage 2026-04-05 fN9A8JPYM1o RKMusic Song Relay",
+  "collection": "接力歌切 2026-04-05 お化け 深影",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1duSRBBEkb?p=4",
   "source": "relay.js"
@@ -4184,281 +4352,9 @@ window.SONG_DATA.push(
     {
   "title": "ロストメモリー",
   "artist": "深影",
-  "collection": "Relay Song Cut - Mikage 2026-04-05 fN9A8JPYM1o RKMusic Song Relay",
+  "collection": "接力歌切 2026-04-05 お化け 深影",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1duSRBBEkb?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "散花",
-  "artist": "MEDA",
-  "collection": "Relay song cut MEDA 2026-04-05 SpNgGlDVupQ RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UxSRBoEKk?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "月光",
-  "artist": "鬼束ちひろ",
-  "collection": "Relay song cut MEDA 2026-04-05 SpNgGlDVupQ RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UxSRBoEKk?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "僕が死のうと思ったのは",
-  "artist": "中島美嘉",
-  "collection": "Relay song cut MEDA 2026-04-05 SpNgGlDVupQ RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UxSRBoEKk?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "愛にできることはまだあるかい",
-  "artist": "RADWINPS",
-  "collection": "Relay song cut MEDA 2026-04-05 SpNgGlDVupQ RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UxSRBoEKk?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "愛をこめて花束を",
-  "artist": "Superfly",
-  "collection": "Relay song cut MEDA 2026-04-05 SpNgGlDVupQ RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UxSRBoEKk?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "狂乱 Hey Kids!!",
-  "artist": "THE ORAL CIGARETTES",
-  "collection": "Relay Song Cut VESPERBELL 2026-04-05 vDmj1Cxbc6U RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UxSRBoE9p?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "キミシダイ列車",
-  "artist": "ONE OK ROCK",
-  "collection": "Relay Song Cut VESPERBELL 2026-04-05 vDmj1Cxbc6U RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UxSRBoE9p?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "RAMPAGE-Remix",
-  "artist": "VESPERBELL",
-  "collection": "Relay Song Cut VESPERBELL 2026-04-05 vDmj1Cxbc6U RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UxSRBoE9p?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "RUMBLING MEDLEY",
-  "artist": "VESPERBELL",
-  "collection": "Relay Song Cut VESPERBELL 2026-04-05 vDmj1Cxbc6U RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UxSRBoE9p?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "RISE feat.LITA ver.",
-  "artist": "VESPERBELL",
-  "collection": "Relay Song Cut VESPERBELL 2026-04-05 vDmj1Cxbc6U RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1UxSRBoE9p?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "はきだす",
-  "artist": "mao sasagawa",
-  "collection": "Relay song cut NEUN 2026-04-05 MjrsB47SfBU RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1msSRBtER4?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "/ / // / /",
-  "artist": "x0o0x_",
-  "collection": "Relay song cut NEUN 2026-04-05 MjrsB47SfBU RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1msSRBtER4?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "深昏睡",
-  "artist": "春野",
-  "collection": "Relay song cut NEUN 2026-04-05 MjrsB47SfBU RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1msSRBtER4?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "シーサイド・モーテル",
-  "artist": "くじら",
-  "collection": "Relay song cut NEUN 2026-04-05 MjrsB47SfBU RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1msSRBtER4?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "ターミナル",
-  "artist": "ぬゆり",
-  "collection": "Relay song cut NEUN 2026-04-05 MjrsB47SfBU RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1msSRBtER4?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "Funeral",
-  "artist": "NEUN",
-  "collection": "Relay song cut NEUN 2026-04-05 MjrsB47SfBU RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1msSRBtER4?p=6",
-  "source": "relay.js"
-},
-    {
-  "title": "JANE DOE",
-  "artist": "米津玄師,宇多田ヒカル",
-  "collection": "Relay song cut XIDEN 2026-04-05 4bfrcoY3ls4 RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SsSRBtEWG?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "KissHug",
-  "artist": "aiko",
-  "collection": "Relay song cut XIDEN 2026-04-05 4bfrcoY3ls4 RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SsSRBtEWG?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "ギブス",
-  "artist": "椎名林檎",
-  "collection": "Relay song cut XIDEN 2026-04-05 4bfrcoY3ls4 RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SsSRBtEWG?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "Day Opener",
-  "artist": "XIDEN",
-  "collection": "Relay song cut XIDEN 2026-04-05 4bfrcoY3ls4 RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SsSRBtEWG?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "Don't Call It a Night!!",
-  "artist": "XIDEN",
-  "collection": "Relay song cut XIDEN 2026-04-05 4bfrcoY3ls4 RKMusic song relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1SsSRBtEWG?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "Deep Sleep Sheep",
-  "artist": "HACHI",
-  "collection": "Relay Song Cut HACHI 2026-04-05 9XIPGKojS1s RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12bSRBREJA?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "ビー玉",
-  "artist": "HACHI",
-  "collection": "Relay Song Cut HACHI 2026-04-05 9XIPGKojS1s RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12bSRBREJA?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "Chère amie",
-  "artist": "HACHI",
-  "collection": "Relay Song Cut HACHI 2026-04-05 9XIPGKojS1s RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12bSRBREJA?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "Twilight Line",
-  "artist": "HACHI",
-  "collection": "Relay Song Cut HACHI 2026-04-05 9XIPGKojS1s RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12bSRBREJA?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "乖",
-  "artist": "HACHI",
-  "collection": "Relay Song Cut HACHI 2026-04-05 9XIPGKojS1s RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12bSRBREJA?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "To Be Alive",
-  "artist": "HACHI",
-  "collection": "Relay Song Cut HACHI 2026-04-05 9XIPGKojS1s RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12bSRBREJA?p=6",
-  "source": "relay.js"
-},
-    {
-  "title": "まなざし",
-  "artist": "HACHI",
-  "collection": "Relay Song Cut HACHI 2026-04-05 9XIPGKojS1s RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV12bSRBREJA?p=7",
-  "source": "relay.js"
-},
-    {
-  "title": "Calling",
-  "artist": "焔魔るり",
-  "collection": "Relay Song Cut - Enma Ruri CH. / Ruri Enma 2026-04-05 00hsIPPlHvw RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1utSRB4EMs?p=1",
-  "source": "relay.js"
-},
-    {
-  "title": "棘宵",
-  "artist": "焔魔るり",
-  "collection": "Relay Song Cut - Enma Ruri CH. / Ruri Enma 2026-04-05 00hsIPPlHvw RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1utSRB4EMs?p=2",
-  "source": "relay.js"
-},
-    {
-  "title": "Fury",
-  "artist": "焔魔るり",
-  "collection": "Relay Song Cut - Enma Ruri CH. / Ruri Enma 2026-04-05 00hsIPPlHvw RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1utSRB4EMs?p=3",
-  "source": "relay.js"
-},
-    {
-  "title": "Hope Song",
-  "artist": "焔魔るり",
-  "collection": "Relay Song Cut - Enma Ruri CH. / Ruri Enma 2026-04-05 00hsIPPlHvw RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1utSRB4EMs?p=4",
-  "source": "relay.js"
-},
-    {
-  "title": "Brave new world",
-  "artist": "焔魔るり",
-  "collection": "Relay Song Cut - Enma Ruri CH. / Ruri Enma 2026-04-05 00hsIPPlHvw RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1utSRB4EMs?p=5",
-  "source": "relay.js"
-},
-    {
-  "title": "ヒノコ",
-  "artist": "焔魔るり",
-  "collection": "Relay Song Cut - Enma Ruri CH. / Ruri Enma 2026-04-05 00hsIPPlHvw RKMusic Song Relay",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1utSRB4EMs?p=6",
   "source": "relay.js"
 }
 );
