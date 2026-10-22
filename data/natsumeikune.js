@@ -1,282 +1,10 @@
 // なつかしちゃん - 歌单数据 (多合集汇总)
 // 来源: BV1VPH26kESs, BV1AzJ66qEjR
-// 生成时间: 10/22/2026, 1:21:25 AM
+// 生成时间: 10/22/2026, 4:34:54 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
-    {
-  "title": "大阪LOVER",
-  "artist": "DREAMS COME TRUE",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=1",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "LA・LA・LA LOVE SONG",
-  "artist": "久保田利伸",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=2",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "もらい泣き",
-  "artist": "一青窈",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=3",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "異邦人",
-  "artist": "久保田早紀",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=4",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "夢見る少女じゃいられない",
-  "artist": "相川七瀬",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=5",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "六本木心中",
-  "artist": "アン・ルイス",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=6",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "遠く遠く",
-  "artist": "槇原敬之",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=7",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "赤いスイートピー",
-  "artist": "松田聖子",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=8",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "TOMORROW",
-  "artist": "岡本真夜",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=9",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "揺れる想い",
-  "artist": "ZARD",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=10",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "長い間",
-  "artist": "Kiroro",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=11",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "生きてこそ",
-  "artist": "Kiroro",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=12",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "PIECE OF MY WISH",
-  "artist": "今井美樹",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=13",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "恋におちて -Fall in love-",
-  "artist": "小林明子",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=14",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "Dear...again",
-  "artist": "広瀬香美",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=15",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "M",
-  "artist": "プリンセス プリンセス",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=16",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "慟哭",
-  "artist": "工藤静香",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=17",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "何度でも",
-  "artist": "DREAMS COME TRUE",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=18",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "今すぐKiss Me",
-  "artist": "LINDBERG",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=19",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "OVER DRIVE",
-  "artist": "JUDY AND MARY",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=20",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "天城越え",
-  "artist": "石川さゆり",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=21",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "渡良瀬橋",
-  "artist": "森高千里",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=22",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "Everything",
-  "artist": "MISIA",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=23",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "Diamonds",
-  "artist": "プリンセス プリンセス",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=24",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "フレンズ",
-  "artist": "REBECCA",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=25",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "最後の雨",
-  "artist": "中西保志",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=26",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "やさしいキスをして",
-  "artist": "DREAMS COME TRUE",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=27",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "あなたのキスを数えましょう 〜You were mine〜",
-  "artist": "小柳ゆき",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=28",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "レイニー ブルー",
-  "artist": "徳永英明",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=29",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "いとしのエリー",
-  "artist": "サザンオールスターズ",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=30",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "蛍",
-  "artist": "サザンオールスターズ",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=31",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "そばかす",
-  "artist": "JUDY AND MARY",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=32",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "ロビンソン",
-  "artist": "スピッツ",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=33",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "LA・LA・LA LOVE SONG",
-  "artist": "久保田利伸",
-  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=34",
-  "source": "natsumeikune.js"
-},
     {
   "title": "夢見る少女じゃいられない",
   "artist": "相川七瀬",
@@ -587,6 +315,278 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=18",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "大阪LOVER",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=1",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "LA・LA・LA LOVE SONG",
+  "artist": "久保田利伸",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=2",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "もらい泣き",
+  "artist": "一青窈",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=3",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=4",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "夢見る少女じゃいられない",
+  "artist": "相川七瀬",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=5",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "六本木心中",
+  "artist": "アン・ルイス",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=6",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "遠く遠く",
+  "artist": "槇原敬之",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=7",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "赤いスイートピー",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=8",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "TOMORROW",
+  "artist": "岡本真夜",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=9",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "揺れる想い",
+  "artist": "ZARD",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=10",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "長い間",
+  "artist": "Kiroro",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=11",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "生きてこそ",
+  "artist": "Kiroro",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=12",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "PIECE OF MY WISH",
+  "artist": "今井美樹",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=13",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "恋におちて -Fall in love-",
+  "artist": "小林明子",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=14",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "Dear...again",
+  "artist": "広瀬香美",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=15",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "M",
+  "artist": "プリンセス プリンセス",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=16",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "慟哭",
+  "artist": "工藤静香",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=17",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "何度でも",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=18",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "今すぐKiss Me",
+  "artist": "LINDBERG",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=19",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "OVER DRIVE",
+  "artist": "JUDY AND MARY",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=20",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "天城越え",
+  "artist": "石川さゆり",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=21",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "渡良瀬橋",
+  "artist": "森高千里",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=22",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "Everything",
+  "artist": "MISIA",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=23",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "Diamonds",
+  "artist": "プリンセス プリンセス",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=24",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "フレンズ",
+  "artist": "REBECCA",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=25",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "最後の雨",
+  "artist": "中西保志",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=26",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "やさしいキスをして",
+  "artist": "DREAMS COME TRUE",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=27",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "あなたのキスを数えましょう 〜You were mine〜",
+  "artist": "小柳ゆき",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=28",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "レイニー ブルー",
+  "artist": "徳永英明",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=29",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "いとしのエリー",
+  "artist": "サザンオールスターズ",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=30",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "蛍",
+  "artist": "サザンオールスターズ",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=31",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "そばかす",
+  "artist": "JUDY AND MARY",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=32",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "ロビンソン",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=33",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "LA・LA・LA LOVE SONG",
+  "artist": "久保田利伸",
+  "collection": "【歌切】[2025-08-02]怀旧金曲特别歌回！说到怀旧金曲，当然是懐芽吧！？！🌱",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66ETJ?p=34",
   "source": "natsumeikune.js"
 },
     {
