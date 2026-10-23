@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 10/23/2026, 4:06:30 PM
+// 生成时间: 10/23/2026, 6:32:31 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -25096,7 +25096,7 @@ window.SONG_DATA.push(
     {
   "title": "優しさ",
   "artist": "藤井風",
-  "collection": "【Song Clip】[2026-10-12]Fujii Kaze Song Special! ☕🌿⟡ ̖́-",
+  "collection": "Flower Deer Mel song clip 2026-10-12 Fujii Kaze song special! ☕🌿⟡ ̖́-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67EhS?p=1",
   "source": "others.js"
@@ -25104,7 +25104,7 @@ window.SONG_DATA.push(
     {
   "title": "旅路",
   "artist": "藤井風",
-  "collection": "【Song Clip】[2026-10-12]Fujii Kaze Song Special! ☕🌿⟡ ̖́-",
+  "collection": "Flower Deer Mel song clip 2026-10-12 Fujii Kaze song special! ☕🌿⟡ ̖́-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67EhS?p=2",
   "source": "others.js"
@@ -25112,7 +25112,7 @@ window.SONG_DATA.push(
     {
   "title": "何なんw",
   "artist": "藤井風",
-  "collection": "【Song Clip】[2026-10-12]Fujii Kaze Song Special! ☕🌿⟡ ̖́-",
+  "collection": "Flower Deer Mel song clip 2026-10-12 Fujii Kaze song special! ☕🌿⟡ ̖́-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67EhS?p=3",
   "source": "others.js"
@@ -25120,7 +25120,7 @@ window.SONG_DATA.push(
     {
   "title": "もうええわ",
   "artist": "藤井風",
-  "collection": "【Song Clip】[2026-10-12]Fujii Kaze Song Special! ☕🌿⟡ ̖́-",
+  "collection": "Flower Deer Mel song clip 2026-10-12 Fujii Kaze song special! ☕🌿⟡ ̖́-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67EhS?p=4",
   "source": "others.js"
@@ -25128,7 +25128,7 @@ window.SONG_DATA.push(
     {
   "title": "まつり",
   "artist": "藤井風",
-  "collection": "【Song Clip】[2026-10-12]Fujii Kaze Song Special! ☕🌿⟡ ̖́-",
+  "collection": "Flower Deer Mel song clip 2026-10-12 Fujii Kaze song special! ☕🌿⟡ ̖́-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67EhS?p=5",
   "source": "others.js"
@@ -25136,7 +25136,7 @@ window.SONG_DATA.push(
     {
   "title": "ガーデン",
   "artist": "藤井風",
-  "collection": "【Song Clip】[2026-10-12]Fujii Kaze Song Special! ☕🌿⟡ ̖́-",
+  "collection": "Flower Deer Mel song clip 2026-10-12 Fujii Kaze song special! ☕🌿⟡ ̖́-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67EhS?p=6",
   "source": "others.js"
@@ -25144,7 +25144,7 @@ window.SONG_DATA.push(
     {
   "title": "死ぬのがいいわ",
   "artist": "藤井風",
-  "collection": "【Song Clip】[2026-10-12]Fujii Kaze Song Special! ☕🌿⟡ ̖́-",
+  "collection": "Flower Deer Mel song clip 2026-10-12 Fujii Kaze song special! ☕🌿⟡ ̖́-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67EhS?p=7",
   "source": "others.js"
@@ -25152,7 +25152,7 @@ window.SONG_DATA.push(
     {
   "title": "青春病",
   "artist": "藤井風",
-  "collection": "【Song Clip】[2026-10-12]Fujii Kaze Song Special! ☕🌿⟡ ̖́-",
+  "collection": "Flower Deer Mel song clip 2026-10-12 Fujii Kaze song special! ☕🌿⟡ ̖́-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67EhS?p=8",
   "source": "others.js"
@@ -25160,7 +25160,7 @@ window.SONG_DATA.push(
     {
   "title": "きらり",
   "artist": "藤井風",
-  "collection": "【Song Clip】[2026-10-12]Fujii Kaze Song Special! ☕🌿⟡ ̖́-",
+  "collection": "Flower Deer Mel song clip 2026-10-12 Fujii Kaze song special! ☕🌿⟡ ̖́-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67EhS?p=9",
   "source": "others.js"
@@ -25168,7 +25168,7 @@ window.SONG_DATA.push(
     {
   "title": "それでは、",
   "artist": "藤井風",
-  "collection": "【Song Clip】[2026-10-12]Fujii Kaze Song Special! ☕🌿⟡ ̖́-",
+  "collection": "Flower Deer Mel song clip 2026-10-12 Fujii Kaze song special! ☕🌿⟡ ̖́-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67EhS?p=10",
   "source": "others.js"
@@ -25176,7 +25176,7 @@ window.SONG_DATA.push(
     {
   "title": "満ちてゆく",
   "artist": "藤井風",
-  "collection": "【Song Clip】[2026-10-12]Fujii Kaze Song Special! ☕🌿⟡ ̖́-",
+  "collection": "Flower Deer Mel song clip 2026-10-12 Fujii Kaze song special! ☕🌿⟡ ̖́-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67EhS?p=11",
   "source": "others.js"
@@ -25184,7 +25184,7 @@ window.SONG_DATA.push(
     {
   "title": "帰ろう",
   "artist": "藤井風",
-  "collection": "【Song Clip】[2026-10-12]Fujii Kaze Song Special! ☕🌿⟡ ̖́-",
+  "collection": "Flower Deer Mel song clip 2026-10-12 Fujii Kaze song special! ☕🌿⟡ ̖́-",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67EhS?p=12",
   "source": "others.js"
