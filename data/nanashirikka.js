@@ -1,6 +1,6 @@
 // ななし律歌 - 歌单数据 (多合集汇总)
 // 来源: BV1wHQVBTEU5
-// 生成时间: 10/23/2026, 2:02:10 AM
+// 生成时间: 10/23/2026, 4:43:28 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2491,6 +2491,158 @@ window.SONG_DATA.push(
   "collection": "[Song Clip] [2026-10-10] First Anniversary Celebration ✨ Sing Along with Memories of the Journey So Far!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RxpH65E8Q?p=20",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Brave Shine",
+  "artist": "Aimer",
+  "collection": "[Song Cut] [2026-10-22] Although a lot has happened, I still came to sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v6n46pEWX?p=1",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "[Song Cut] [2026-10-22] Although a lot has happened, I still came to sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v6n46pEWX?p=2",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "心に穴が空いた",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-10-22] Although a lot has happened, I still came to sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v6n46pEWX?p=3",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "レプリカント",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-10-22] Although a lot has happened, I still came to sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v6n46pEWX?p=4",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "しわあわせ",
+  "artist": "Vaundy",
+  "collection": "[Song Cut] [2026-10-22] Although a lot has happened, I still came to sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v6n46pEWX?p=5",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "breakfast",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "[Song Cut] [2026-10-22] Although a lot has happened, I still came to sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v6n46pEWX?p=6",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat. GUMI",
+  "collection": "[Song Cut] [2026-10-22] Although a lot has happened, I still came to sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v6n46pEWX?p=7",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-22] Although a lot has happened, I still came to sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v6n46pEWX?p=8",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "妄想疾患■ガール",
+  "artist": "れるりり feat. GUMI",
+  "collection": "[Song Cut] [2026-10-22] Although a lot has happened, I still came to sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v6n46pEWX?p=9",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "え？あぁ、そう。",
+  "artist": "蝶々P feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-22] Although a lot has happened, I still came to sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v6n46pEWX?p=10",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Beyond the way",
+  "artist": "Giga feat. 初音ミク・鏡音リン・鏡音レン",
+  "collection": "[Song Cut] [2026-10-22] Although a lot has happened, I still came to sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v6n46pEWX?p=11",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "CH4NGE",
+  "artist": "Giga feat. 可不",
+  "collection": "[Song Cut] [2026-10-22] Although a lot has happened, I still came to sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v6n46pEWX?p=12",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "熱異常",
+  "artist": "いよわ feat. 足立レイ",
+  "collection": "[Song Cut] [2026-10-22] Although a lot has happened, I still came to sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v6n46pEWX?p=13",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "リコレクションエンドロウル",
+  "artist": "ツミキ feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-22] Although a lot has happened, I still came to sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v6n46pEWX?p=14",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat. 可不",
+  "collection": "[Song Cut] [2026-10-22] Although a lot has happened, I still came to sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v6n46pEWX?p=15",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "花が落ちたので、",
+  "artist": "一二三 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-22] Although a lot has happened, I still came to sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v6n46pEWX?p=16",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ぼくのかみさま",
+  "artist": "羽生まゐご feat. flower",
+  "collection": "[Song Cut] [2026-10-22] Although a lot has happened, I still came to sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v6n46pEWX?p=17",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "懺悔参り",
+  "artist": "羽生まゐご feat. flower",
+  "collection": "[Song Cut] [2026-10-22] Although a lot has happened, I still came to sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v6n46pEWX?p=18",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-22] Although a lot has happened, I still came to sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1v6n46pEWX?p=19",
   "source": "nanashirikka.js"
 }
 );

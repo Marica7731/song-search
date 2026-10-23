@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 10/23/2026, 2:39:17 AM
+// 生成时间: 10/23/2026, 5:25:22 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6883,6 +6883,294 @@ window.SONG_DATA.push(
   "collection": "[Song Clip] [2026-10-20] Sending you healing and vitality 🎤💫 Welcome, first-time viewers!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UUnP6mExm?p=23",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "イケナイ太陽",
+  "artist": "ORANGE RANGE",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "夜の踊り子",
+  "artist": "サカナクション",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "逆光",
+  "artist": "Ado",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "阿修羅ちゃん",
+  "artist": "Ado",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "UNDEAD",
+  "artist": "YOASOBI",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "POP IN 2",
+  "artist": "B小町",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Catch You Catch Me",
+  "artist": "グミ",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ヘビーローテーション",
+  "artist": "AKB48",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "サウダージ",
+  "artist": "ポルノグラフィティ",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "sailing day",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "微笑みの爆弾",
+  "artist": "馬渡松子",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ゴーストルール",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ローリンガール",
+  "artist": "wowaka feat. 初音ミク",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=22",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "いますぐ輪廻",
+  "artist": "なきそ feat. 初音ミク",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=23",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=24",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "マリーゴールド",
+  "artist": "あいみょん",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=25",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=26",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "さよならエレジー",
+  "artist": "菅田将暉",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=27",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "KICK BACK",
+  "artist": "米津玄師",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=28",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "secret base 〜君がくれたもの〜",
+  "artist": "ZONE",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=29",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "くつずれ",
+  "artist": "ハチワレ（CV：田中誠人）",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=30",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI for 雨音薫",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=31",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat. 初音ミク",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=32",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat. 初音ミク",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=33",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Hello, Again 〜昔からある場所〜",
+  "artist": "My Little Lover",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=34",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Tell Your World",
+  "artist": "livetune feat. 初音ミク",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=35",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ファンサ",
+  "artist": "mona（CV：夏川椎菜）feat. HoneyWorks",
+  "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=36",
   "source": "isshikiizu.js"
 }
 );

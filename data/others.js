@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 10/23/2026, 2:33:30 AM
+// 生成时间: 10/23/2026, 5:19:25 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -26139,6 +26139,166 @@ window.SONG_DATA.push(
   "collection": "Manjuu - pnmcmnj song clip 2026-08-14 Vocal and Instrumental Performance | Manjuu's 2026 birthday~💭",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FanK6MEzp?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "アゲハ蝶",
+  "artist": "ポルノグラフィティ",
+  "collection": "Yangyue Rurufu song cut 2026-10-21 For every 100 additional comments, the singing livestream will be extended by 1 minute!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLnt6tE1K?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "サウダージ",
+  "artist": "ポルノグラフィティ",
+  "collection": "Yangyue Rurufu song cut 2026-10-21 For every 100 additional comments, the singing livestream will be extended by 1 minute!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLnt6tE1K?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "アポロ",
+  "artist": "ポルノグラフィティ",
+  "collection": "Yangyue Rurufu song cut 2026-10-21 For every 100 additional comments, the singing livestream will be extended by 1 minute!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLnt6tE1K?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "シスター",
+  "artist": "ポルノグラフィティ",
+  "collection": "Yangyue Rurufu song cut 2026-10-21 For every 100 additional comments, the singing livestream will be extended by 1 minute!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLnt6tE1K?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ガラスのブルース",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "Yangyue Rurufu song cut 2026-10-21 For every 100 additional comments, the singing livestream will be extended by 1 minute!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLnt6tE1K?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "Ex-Otogibanashi",
+  "artist": "ryo (supercell) feat. かぐや（CV：夏吉ゆうこ） & 月見ヤチヨ（CV：早見沙織）",
+  "collection": "Yangyue Rurufu song cut 2026-10-21 For every 100 additional comments, the singing livestream will be extended by 1 minute!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLnt6tE1K?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "Yangyue Rurufu song cut 2026-10-21 For every 100 additional comments, the singing livestream will be extended by 1 minute!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLnt6tE1K?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "LOVE & ROLL",
+  "artist": "supercell",
+  "collection": "Yangyue Rurufu song cut 2026-10-21 For every 100 additional comments, the singing livestream will be extended by 1 minute!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLnt6tE1K?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "My Dearest",
+  "artist": "supercell",
+  "collection": "Yangyue Rurufu song cut 2026-10-21 For every 100 additional comments, the singing livestream will be extended by 1 minute!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLnt6tE1K?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo (supercell) feat. 初音ミク",
+  "collection": "Yangyue Rurufu song cut 2026-10-21 For every 100 additional comments, the singing livestream will be extended by 1 minute!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLnt6tE1K?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo (supercell) feat. 初音ミク",
+  "collection": "Yangyue Rurufu song cut 2026-10-21 For every 100 additional comments, the singing livestream will be extended by 1 minute!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLnt6tE1K?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "ブラック★ロックシューター",
+  "artist": "ryo (supercell) feat. 初音ミク",
+  "collection": "Yangyue Rurufu song cut 2026-10-21 For every 100 additional comments, the singing livestream will be extended by 1 minute!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLnt6tE1K?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "ロックンロールなんですの",
+  "artist": "supercell",
+  "collection": "Yangyue Rurufu song cut 2026-10-21 For every 100 additional comments, the singing livestream will be extended by 1 minute!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLnt6tE1K?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "Yangyue Rurufu song cut 2026-10-21 For every 100 additional comments, the singing livestream will be extended by 1 minute!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLnt6tE1K?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "アニマル",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "Yangyue Rurufu song cut 2026-10-21 For every 100 additional comments, the singing livestream will be extended by 1 minute!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLnt6tE1K?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "二息歩行",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "Yangyue Rurufu song cut 2026-10-21 For every 100 additional comments, the singing livestream will be extended by 1 minute!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLnt6tE1K?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "モザイクロール",
+  "artist": "DECO*27 feat. GUMI",
+  "collection": "Yangyue Rurufu song cut 2026-10-21 For every 100 additional comments, the singing livestream will be extended by 1 minute!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLnt6tE1K?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "音偽バナシ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "Yangyue Rurufu song cut 2026-10-21 For every 100 additional comments, the singing livestream will be extended by 1 minute!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLnt6tE1K?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "マメシバ",
+  "artist": "坂本真綾",
+  "collection": "Yangyue Rurufu song cut 2026-10-21 For every 100 additional comments, the singing livestream will be extended by 1 minute!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLnt6tE1K?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "CLEAR",
+  "artist": "坂本真綾",
+  "collection": "Yangyue Rurufu song cut 2026-10-21 For every 100 additional comments, the singing livestream will be extended by 1 minute!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1dLnt6tE1K?p=20",
   "source": "others.js"
 },
     {

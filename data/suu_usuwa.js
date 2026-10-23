@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 10/23/2026, 1:15:01 AM
+// 生成时间: 10/23/2026, 3:48:36 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -24235,6 +24235,46 @@ window.SONG_DATA.push(
   "collection": "[🦢song cut] #150 [2026-10-14] A memorable 150th! Wednesday regular singing stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ukp26zETN?p=13",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "亜麻色の髪の乙女",
+  "artist": "島谷ひとみ",
+  "collection": "[🦢Song Cut] [2026-10-22] Lunchtime, happily start singing!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV156n46pEHq?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "[🦢Song Cut] [2026-10-22] Lunchtime, happily start singing!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV156n46pEHq?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "すずめ feat.十明",
+  "artist": "RADWIMPS",
+  "collection": "[🦢Song Cut] [2026-10-22] Lunchtime, happily start singing!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV156n46pEHq?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ツギハギスタッカート",
+  "artist": "とあ feat. 初音ミク",
+  "collection": "[🦢Song Cut] [2026-10-22] Lunchtime, happily start singing!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV156n46pEHq?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "[🦢Song Cut] [2026-10-22] Lunchtime, happily start singing!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV156n46pEHq?p=5",
   "source": "suu_usuwa.js"
 }
 );
