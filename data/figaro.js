@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 10/24/2026, 7:09:58 PM
+// 生成时间: 10/24/2026, 9:22:28 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -37483,6 +37483,302 @@ window.SONG_DATA.push(
   "collection": "[💐Song Cut] [2026-10-20] Celebrating the CONNECT V Fes! The eve festival is here!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EbnP6aEKb?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "さよーならまたいつか!",
+  "artist": "米津玄師",
+  "collection": "[💐Song Cut] [2026-10-24] Aren't you cold??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZE4Q?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "少年よ我に帰れ",
+  "artist": "やくしまるえつこ",
+  "collection": "[💐Song Cut] [2026-10-24] Aren't you cold??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZE4Q?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "火星人",
+  "artist": "ヨルシカ",
+  "collection": "[💐Song Cut] [2026-10-24] Aren't you cold??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZE4Q?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "都落ち",
+  "artist": "ヨルシカ",
+  "collection": "[💐Song Cut] [2026-10-24] Aren't you cold??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZE4Q?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "[💐Song Cut] [2026-10-24] Aren't you cold??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZE4Q?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "詩書きとコーヒー",
+  "artist": "ヨルシカ",
+  "collection": "[💐Song Cut] [2026-10-24] Aren't you cold??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZE4Q?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "ブレーメン",
+  "artist": "ヨルシカ",
+  "collection": "[💐Song Cut] [2026-10-24] Aren't you cold??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZE4Q?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "六月は雨上がりの街を書く",
+  "artist": "ヨルシカ",
+  "collection": "[💐Song Cut] [2026-10-24] Aren't you cold??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZE4Q?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "さよならだけが人生だ",
+  "artist": "伊東歌詞太郎",
+  "collection": "[💐Song Cut] [2026-10-24] Aren't you cold??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZE4Q?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "ありあまる富",
+  "artist": "椎名林檎",
+  "collection": "[💐Song Cut] [2026-10-24] Aren't you cold??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZE4Q?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "[💐Song Cut] [2026-10-24] Aren't you cold??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZE4Q?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "チノカテ",
+  "artist": "ヨルシカ",
+  "collection": "[💐Song Cut] [2026-10-24] Aren't you cold??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZE4Q?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "[💐Song Cut] [2026-10-24] Aren't you cold??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZE4Q?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "[💐Song Cut] [2026-10-24] Aren't you cold??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZE4Q?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "いさな",
+  "artist": "ヨルシカ",
+  "collection": "[💐Song Cut] [2026-10-24] Aren't you cold??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZE4Q?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "[💐Song Cut] [2026-10-24] Aren't you cold??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZE4Q?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "ツギハギスタッカート",
+  "artist": "とあ feat.初音ミク",
+  "collection": "[💐Song Cut] [2026-10-24] Aren't you cold??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZE4Q?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "ANIMA",
+  "artist": "ReoNa",
+  "collection": "[💐Song Cut] [2026-10-24] Aren't you cold??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZE4Q?p=18",
+  "source": "figaro.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "[💐Song Cut] [2026-10-24] Aren't you cold??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZE4Q?p=19",
+  "source": "figaro.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "[💐Song Cut] [2026-10-24] Aren't you cold??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZE4Q?p=20",
+  "source": "figaro.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "[💐Song Cut] [2026-10-23] Friday's leisurely afternoon",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ESHu6jEwZ?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "感電",
+  "artist": "米津玄師",
+  "collection": "[💐Song Cut] [2026-10-23] Friday's leisurely afternoon",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ESHu6jEwZ?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "Brave Shine",
+  "artist": "Aimer",
+  "collection": "[💐Song Cut] [2026-10-23] Friday's leisurely afternoon",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ESHu6jEwZ?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "Limbo",
+  "artist": "春野",
+  "collection": "[💐Song Cut] [2026-10-23] Friday's leisurely afternoon",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ESHu6jEwZ?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "幽霊東京",
+  "artist": "Ayase feat.初音ミク",
+  "collection": "[💐Song Cut] [2026-10-23] Friday's leisurely afternoon",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ESHu6jEwZ?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "Plazma",
+  "artist": "米津玄師",
+  "collection": "[💐Song Cut] [2026-10-23] Friday's leisurely afternoon",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ESHu6jEwZ?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "ジャンキーナイトタウンオーケストラ",
+  "artist": "すりぃ feat.鏡音レン",
+  "collection": "[💐Song Cut] [2026-10-23] Friday's leisurely afternoon",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ESHu6jEwZ?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "メルティランドナイトメア",
+  "artist": "はるまきごはん feat.初音ミク",
+  "collection": "[💐Song Cut] [2026-10-23] Friday's leisurely afternoon",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ESHu6jEwZ?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "月光",
+  "artist": "キタニタツヤ×はるまきごはん",
+  "collection": "[💐Song Cut] [2026-10-23] Friday's leisurely afternoon",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ESHu6jEwZ?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "ずうっといっしょ!",
+  "artist": "キタニタツヤ",
+  "collection": "[💐Song Cut] [2026-10-23] Friday's leisurely afternoon",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ESHu6jEwZ?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "Happy Halloween",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "[💐Song Cut] [2026-10-23] Friday's leisurely afternoon",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ESHu6jEwZ?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "ミュージック",
+  "artist": "サカナクション",
+  "collection": "[💐Song Cut] [2026-10-23] Friday's leisurely afternoon",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ESHu6jEwZ?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "病名は愛だった",
+  "artist": "Neru & z'5 feat.鏡音リン・鏡音レン",
+  "collection": "[💐Song Cut] [2026-10-23] Friday's leisurely afternoon",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ESHu6jEwZ?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "第三の心臓",
+  "artist": "はるまきごはん feat.初音ミク",
+  "collection": "[💐Song Cut] [2026-10-23] Friday's leisurely afternoon",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ESHu6jEwZ?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "CULT",
+  "artist": "DUSTCELL",
+  "collection": "[💐Song Cut] [2026-10-23] Friday's leisurely afternoon",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ESHu6jEwZ?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "G4L",
+  "artist": "Giga",
+  "collection": "[💐Song Cut] [2026-10-23] Friday's leisurely afternoon",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ESHu6jEwZ?p=16",
+  "source": "figaro.js"
+},
+    {
+  "title": "ルーマー",
+  "artist": "ポリスピカデリー feat.GUMI",
+  "collection": "[💐Song Cut] [2026-10-23] Friday's leisurely afternoon",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ESHu6jEwZ?p=17",
   "source": "figaro.js"
 }
 );

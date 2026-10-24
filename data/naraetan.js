@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr, BV1J5P7zrEB3
-// 生成时间: 10/24/2026, 7:09:02 PM
+// 生成时间: 10/24/2026, 9:21:04 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15739,6 +15739,102 @@ window.SONG_DATA.push(
   "collection": "【Song Clip】[2026-10-12] The last singing stream before the break 🍒",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o1po67Eas?p=20",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ありがとう",
+  "artist": "SunSet Swish",
+  "collection": "[Song cut] [2026-10-24] Singing again after a long time🧚‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1maHu6ZEFg?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "車輪の唄",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "[Song cut] [2026-10-24] Singing again after a long time🧚‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1maHu6ZEFg?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "リフレクティア",
+  "artist": "eufonius",
+  "collection": "[Song cut] [2026-10-24] Singing again after a long time🧚‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1maHu6ZEFg?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "たぶん",
+  "artist": "YOASOBI",
+  "collection": "[Song cut] [2026-10-24] Singing again after a long time🧚‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1maHu6ZEFg?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "恋文",
+  "artist": "HoneyWorks feat. Hanon×Kotoha",
+  "collection": "[Song cut] [2026-10-24] Singing again after a long time🧚‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1maHu6ZEFg?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Tightrope",
+  "artist": "CHARCOAL FILTER",
+  "collection": "[Song cut] [2026-10-24] Singing again after a long time🧚‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1maHu6ZEFg?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "恋",
+  "artist": "奥華子",
+  "collection": "[Song cut] [2026-10-24] Singing again after a long time🧚‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1maHu6ZEFg?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団 feat.安次嶺希和子",
+  "collection": "[Song cut] [2026-10-24] Singing again after a long time🧚‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1maHu6ZEFg?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "水の証",
+  "artist": "ラクス・クライン（田中理恵）",
+  "collection": "[Song cut] [2026-10-24] Singing again after a long time🧚‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1maHu6ZEFg?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "fragile",
+  "artist": "Every Little Thing",
+  "collection": "[Song cut] [2026-10-24] Singing again after a long time🧚‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1maHu6ZEFg?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "GIRAFFE BLUES",
+  "artist": "ワルキューレ",
+  "collection": "[Song cut] [2026-10-24] Singing again after a long time🧚‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1maHu6ZEFg?p=11",
+  "source": "naraetan.js"
+},
+    {
+  "title": "約束",
+  "artist": "水樹奈々",
+  "collection": "[Song cut] [2026-10-24] Singing again after a long time🧚‍♀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1maHu6ZEFg?p=12",
   "source": "naraetan.js"
 },
     {

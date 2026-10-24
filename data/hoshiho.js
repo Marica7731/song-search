@@ -1,6 +1,6 @@
 // HoshiHo - 歌单数据 (多合集汇总)
 // 来源: BV11fQSB2ELX
-// 生成时间: 10/24/2026, 7:29:42 PM
+// 生成时间: 10/24/2026, 9:44:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3899,6 +3899,94 @@ window.SONG_DATA.push(
   "collection": "[🌟💐HoshiHo Song Cut] [2026-10-17] Song and Chat Live Stream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hgnM6cEdE?p=12",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "TRIQUETRA",
+  "artist": "Armony",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-24] Tomorrow is M3-2026 Autumn! Singing and chatting",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iuHu6CE5s?p=1",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "赤の女王より或るポーンへの訓示について",
+  "artist": "love solfege feat. HoshiHo",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-24] Tomorrow is M3-2026 Autumn! Singing and chatting",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iuHu6CE5s?p=2",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "カランドリエ",
+  "artist": "奥井亜紀",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-24] Tomorrow is M3-2026 Autumn! Singing and chatting",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iuHu6CE5s?p=3",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "carrot (にんじん村一番娘)",
+  "artist": "みずさわゆうき",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-24] Tomorrow is M3-2026 Autumn! Singing and chatting",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iuHu6CE5s?p=4",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "風のファンタジア",
+  "artist": "Sherry",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-24] Tomorrow is M3-2026 Autumn! Singing and chatting",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iuHu6CE5s?p=5",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "カルマ",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-24] Tomorrow is M3-2026 Autumn! Singing and chatting",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iuHu6CE5s?p=6",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "鐘を鳴らして",
+  "artist": "BONNIE PINK",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-24] Tomorrow is M3-2026 Autumn! Singing and chatting",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iuHu6CE5s?p=7",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "Starry Heavens",
+  "artist": "day after tomorrow",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-24] Tomorrow is M3-2026 Autumn! Singing and chatting",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iuHu6CE5s?p=8",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "そして僕にできるコト",
+  "artist": "day after tomorrow",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-24] Tomorrow is M3-2026 Autumn! Singing and chatting",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iuHu6CE5s?p=9",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "奇跡の海",
+  "artist": "坂本真綾",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-24] Tomorrow is M3-2026 Autumn! Singing and chatting",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iuHu6CE5s?p=10",
+  "source": "hoshiho.js"
+},
+    {
+  "title": "旅の途中",
+  "artist": "清浦夏実",
+  "collection": "[🌟💐HoshiHo Song Cut] [2026-10-24] Tomorrow is M3-2026 Autumn! Singing and chatting",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1iuHu6CE5s?p=11",
   "source": "hoshiho.js"
 }
 );

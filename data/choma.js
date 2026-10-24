@@ -1,6 +1,6 @@
 // チョま - 歌单数据 (多合集汇总)
 // 来源: BV1kM3L6GEBV
-// 生成时间: 10/24/2026, 8:18:52 PM
+// 生成时间: 10/24/2026, 10:38:26 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4931,6 +4931,182 @@ window.SONG_DATA.push(
   "collection": "Choma song cut October 21, 2026 20:00 session Choose songs by word chain! 2026-10-21",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uEnk6XEs9?p=15",
+  "source": "choma.js"
+},
+    {
+  "title": "クエスチョン",
+  "artist": "meiyo",
+  "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=1",
+  "source": "choma.js"
+},
+    {
+  "title": "Bunny Girl",
+  "artist": "AKASAKI",
+  "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=2",
+  "source": "choma.js"
+},
+    {
+  "title": "ファタール",
+  "artist": "GEMN",
+  "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=3",
+  "source": "choma.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=4",
+  "source": "choma.js"
+},
+    {
+  "title": "人柱アリス",
+  "artist": "雪那(歪P) feat. MEIKO、KAITO、初音ミク、鏡音リン、鏡音レン",
+  "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=5",
+  "source": "choma.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=6",
+  "source": "choma.js"
+},
+    {
+  "title": "桃源郷エイリアン",
+  "artist": "serial TV drama",
+  "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=7",
+  "source": "choma.js"
+},
+    {
+  "title": "YUME日和",
+  "artist": "島谷ひとみ",
+  "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=8",
+  "source": "choma.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra、月見ヤチヨ(cv.早見沙織)",
+  "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=9",
+  "source": "choma.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=10",
+  "source": "choma.js"
+},
+    {
+  "title": "chocolate box",
+  "artist": "dezzy(一億円P) feat. 鏡音リン、鏡音レン",
+  "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=11",
+  "source": "choma.js"
+},
+    {
+  "title": "チューリングラブ",
+  "artist": "ナナヲアカリ feat. Sou",
+  "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=12",
+  "source": "choma.js"
+},
+    {
+  "title": "チェリーポップ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=13",
+  "source": "choma.js"
+},
+    {
+  "title": "リードコントロール",
+  "artist": "なるみや",
+  "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=14",
+  "source": "choma.js"
+},
+    {
+  "title": "ラプラスショコラ",
+  "artist": "Kai feat. 初音ミク",
+  "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=15",
+  "source": "choma.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=16",
+  "source": "choma.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=17",
+  "source": "choma.js"
+},
+    {
+  "title": "自傷無色",
+  "artist": "ねこぼーろ feat. 初音ミク",
+  "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=18",
+  "source": "choma.js"
+},
+    {
+  "title": "バゥムクゥヘン・エンドロゥル",
+  "artist": "雨良 feat. 初音ミク、重音テト、亞北ネル",
+  "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=19",
+  "source": "choma.js"
+},
+    {
+  "title": "ギガンティックO.T.N",
+  "artist": "ギガP feat. 鏡音レン",
+  "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=20",
+  "source": "choma.js"
+},
+    {
+  "title": "デリヘル呼んだら君が来た",
+  "artist": "ナナホシ管弦楽団 feat. 初音ミク、IA",
+  "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=21",
+  "source": "choma.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=22",
   "source": "choma.js"
 }
 );

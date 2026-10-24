@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 10/24/2026, 7:54:01 PM
+// 生成时间: 10/24/2026, 10:09:25 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3683,6 +3683,278 @@ window.SONG_DATA.push(
   "collection": "【Song Clip】[2026-10-12] Rainbow Symphony Song Relay｜White Role! Asahi Sahiro!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV171po6EEaU?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ショートショート",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "[Song Cut] [2026-10-23] Even if my voice is hoarse, I can't stop singing Polka Dot Stingray songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JmHu6mEV8?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "DENKOUSEKKA",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "[Song Cut] [2026-10-23] Even if my voice is hoarse, I can't stop singing Polka Dot Stingray songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JmHu6mEV8?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "有頂天",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "[Song Cut] [2026-10-23] Even if my voice is hoarse, I can't stop singing Polka Dot Stingray songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JmHu6mEV8?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ICHIDAIJI",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "[Song Cut] [2026-10-23] Even if my voice is hoarse, I can't stop singing Polka Dot Stingray songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JmHu6mEV8?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "バケノカワ",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "[Song Cut] [2026-10-23] Even if my voice is hoarse, I can't stop singing Polka Dot Stingray songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JmHu6mEV8?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "JET",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "[Song Cut] [2026-10-23] Even if my voice is hoarse, I can't stop singing Polka Dot Stingray songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JmHu6mEV8?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ミドリ",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "[Song Cut] [2026-10-23] Even if my voice is hoarse, I can't stop singing Polka Dot Stingray songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JmHu6mEV8?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "テレキャスター・ストライプ",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "[Song Cut] [2026-10-23] Even if my voice is hoarse, I can't stop singing Polka Dot Stingray songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JmHu6mEV8?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "阿吽",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "[Song Cut] [2026-10-23] Even if my voice is hoarse, I can't stop singing Polka Dot Stingray songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JmHu6mEV8?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "女神",
+  "artist": "ポルカドットスティングレイ",
+  "collection": "[Song Cut] [2026-10-23] Even if my voice is hoarse, I can't stop singing Polka Dot Stingray songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JmHu6mEV8?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "本日、満開ワタシ色!",
+  "artist": "桂ヒナギク with 白皇学院生徒会三人娘",
+  "collection": "[Song Cut] [2026-10-23] Even if my voice is hoarse, I can't stop singing Polka Dot Stingray songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JmHu6mEV8?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Baby Sweet Berry Love",
+  "artist": "小倉唯",
+  "collection": "[Song Cut] [2026-10-23] Even if my voice is hoarse, I can't stop singing Polka Dot Stingray songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JmHu6mEV8?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Fantastic future",
+  "artist": "田村ゆかり",
+  "collection": "[Song Cut] [2026-10-23] Even if my voice is hoarse, I can't stop singing Polka Dot Stingray songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JmHu6mEV8?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "PUNCH☆MIND☆HAPPINESS",
+  "artist": "Happy Clover",
+  "collection": "[Song Cut] [2026-10-23] Even if my voice is hoarse, I can't stop singing Polka Dot Stingray songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JmHu6mEV8?p=14",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "[Song Cut] [2026-10-25] A happy time singing Ikimonogakari songs♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JyHu6SEPV?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "花は桜 君は美し",
+  "artist": "いきものがかり",
+  "collection": "[Song Cut] [2026-10-25] A happy time singing Ikimonogakari songs♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JyHu6SEPV?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "HANABI",
+  "artist": "いきものがかり",
+  "collection": "[Song Cut] [2026-10-25] A happy time singing Ikimonogakari songs♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JyHu6SEPV?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "じょいふる",
+  "artist": "いきものがかり",
+  "collection": "[Song Cut] [2026-10-25] A happy time singing Ikimonogakari songs♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JyHu6SEPV?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "[Song Cut] [2026-10-25] A happy time singing Ikimonogakari songs♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JyHu6SEPV?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "うるわしきひと",
+  "artist": "いきものがかり",
+  "collection": "[Song Cut] [2026-10-25] A happy time singing Ikimonogakari songs♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JyHu6SEPV?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ホタルノヒカリ",
+  "artist": "いきものがかり",
+  "collection": "[Song Cut] [2026-10-25] A happy time singing Ikimonogakari songs♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JyHu6SEPV?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "コイスルオトメ",
+  "artist": "いきものがかり",
+  "collection": "[Song Cut] [2026-10-25] A happy time singing Ikimonogakari songs♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JyHu6SEPV?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "恋詩",
+  "artist": "いきものがかり",
+  "collection": "[Song Cut] [2026-10-25] A happy time singing Ikimonogakari songs♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JyHu6SEPV?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ホットミルク",
+  "artist": "いきものがかり",
+  "collection": "[Song Cut] [2026-10-25] A happy time singing Ikimonogakari songs♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JyHu6SEPV?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "青春ライン",
+  "artist": "いきものがかり",
+  "collection": "[Song Cut] [2026-10-25] A happy time singing Ikimonogakari songs♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JyHu6SEPV?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "YELL",
+  "artist": "いきものがかり",
+  "collection": "[Song Cut] [2026-10-25] A happy time singing Ikimonogakari songs♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JyHu6SEPV?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "[Song Cut] [2026-10-25] A happy time singing Ikimonogakari songs♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JyHu6SEPV?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "もののけ姫",
+  "artist": "米良美一",
+  "collection": "[Song Cut] [2026-10-25] A happy time singing Ikimonogakari songs♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JyHu6SEPV?p=14",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "旅立ちの日に",
+  "artist": "合唱",
+  "collection": "[Song Cut] [2026-10-25] A happy time singing Ikimonogakari songs♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JyHu6SEPV?p=15",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "故郷",
+  "artist": "東京放送児童合唱団",
+  "collection": "[Song Cut] [2026-10-25] A happy time singing Ikimonogakari songs♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JyHu6SEPV?p=16",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "木綿のハンカチーフ",
+  "artist": "太田裕美",
+  "collection": "[Song Cut] [2026-10-25] A happy time singing Ikimonogakari songs♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JyHu6SEPV?p=17",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "SAKURA",
+  "artist": "いきものがかり",
+  "collection": "[Song Cut] [2026-10-25] A happy time singing Ikimonogakari songs♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JyHu6SEPV?p=18",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "未来予想図II",
+  "artist": "DREAMS COME TRUE",
+  "collection": "[Song Cut] [2026-10-25] A happy time singing Ikimonogakari songs♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JyHu6SEPV?p=19",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ありがとう",
+  "artist": "いきものがかり",
+  "collection": "[Song Cut] [2026-10-25] A happy time singing Ikimonogakari songs♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JyHu6SEPV?p=20",
   "source": "hasumisahiro.js"
 }
 );

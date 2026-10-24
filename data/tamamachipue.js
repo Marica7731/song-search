@@ -1,6 +1,6 @@
 // 玉町ぷえ - 歌单数据 (多合集汇总)
 // 来源: BV1nUMP6vE7N
-// 生成时间: 10/24/2026, 8:28:05 PM
+// 生成时间: 10/24/2026, 10:49:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2059,6 +2059,150 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-11]2025年出道的一年级生🌷我是行进乐队队长哦♪ ₊˚（ぶいっと歌回接力）",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1s4pp6YEb4?p=6",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "東京サマーセッション",
+  "artist": "HoneyWorks",
+  "collection": "[Song Cut] [2026-10-24] Is it raining on your side? I'm going to sing with the momentum to blow away the typhoon ✧˖°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZESZ?p=1",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "スターライトパレード",
+  "artist": "SEKAI NO OWARI",
+  "collection": "[Song Cut] [2026-10-24] Is it raining on your side? I'm going to sing with the momentum to blow away the typhoon ✧˖°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZESZ?p=2",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "RAIN",
+  "artist": "SEKAI NO OWARI",
+  "collection": "[Song Cut] [2026-10-24] Is it raining on your side? I'm going to sing with the momentum to blow away the typhoon ✧˖°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZESZ?p=3",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "Rain",
+  "artist": "秦基博",
+  "collection": "[Song Cut] [2026-10-24] Is it raining on your side? I'm going to sing with the momentum to blow away the typhoon ✧˖°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZESZ?p=4",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "キラキラ",
+  "artist": "aiko",
+  "collection": "[Song Cut] [2026-10-24] Is it raining on your side? I'm going to sing with the momentum to blow away the typhoon ✧˖°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZESZ?p=5",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "[Song Cut] [2026-10-24] Is it raining on your side? I'm going to sing with the momentum to blow away the typhoon ✧˖°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZESZ?p=6",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "AM",
+  "artist": "HY",
+  "collection": "[Song Cut] [2026-10-24] Is it raining on your side? I'm going to sing with the momentum to blow away the typhoon ✧˖°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZESZ?p=7",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "I wanna see you",
+  "artist": "阿部真央",
+  "collection": "[Song Cut] [2026-10-24] Is it raining on your side? I'm going to sing with the momentum to blow away the typhoon ✧˖°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZESZ?p=8",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "貴方の恋人になりたいのです",
+  "artist": "阿部真央",
+  "collection": "[Song Cut] [2026-10-24] Is it raining on your side? I'm going to sing with the momentum to blow away the typhoon ✧˖°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZESZ?p=9",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "me me she",
+  "artist": "RADWIMPS",
+  "collection": "[Song Cut] [2026-10-24] Is it raining on your side? I'm going to sing with the momentum to blow away the typhoon ✧˖°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZESZ?p=10",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "[Song Cut] [2026-10-24] Is it raining on your side? I'm going to sing with the momentum to blow away the typhoon ✧˖°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZESZ?p=11",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "napori",
+  "artist": "Vaundy",
+  "collection": "[Song Cut] [2026-10-24] Is it raining on your side? I'm going to sing with the momentum to blow away the typhoon ✧˖°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZESZ?p=12",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "踊り子",
+  "artist": "Vaundy",
+  "collection": "[Song Cut] [2026-10-24] Is it raining on your side? I'm going to sing with the momentum to blow away the typhoon ✧˖°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZESZ?p=13",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "不可幸力",
+  "artist": "Vaundy",
+  "collection": "[Song Cut] [2026-10-24] Is it raining on your side? I'm going to sing with the momentum to blow away the typhoon ✧˖°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZESZ?p=14",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "おじゃま虫",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "[Song Cut] [2026-10-24] Is it raining on your side? I'm going to sing with the momentum to blow away the typhoon ✧˖°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZESZ?p=15",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "チェリーポップ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "[Song Cut] [2026-10-24] Is it raining on your side? I'm going to sing with the momentum to blow away the typhoon ✧˖°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZESZ?p=16",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "[Song Cut] [2026-10-24] Is it raining on your side? I'm going to sing with the momentum to blow away the typhoon ✧˖°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZESZ?p=17",
+  "source": "tamamachipue.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "[Song Cut] [2026-10-24] Is it raining on your side? I'm going to sing with the momentum to blow away the typhoon ✧˖°",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1saHu6ZESZ?p=18",
   "source": "tamamachipue.js"
 }
 );

@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 10/24/2026, 7:41:47 PM
+// 生成时间: 10/24/2026, 9:56:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10899,6 +10899,70 @@ window.SONG_DATA.push(
   "collection": "[💐🎸Song Cut] [2026-10-21] New viewers are also very welcome!! Leisurely singing and playing at night～🌟",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nqnk66Ej3?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "ちょっと待って!",
+  "artist": "澄花",
+  "collection": "[💐🎸Song Cut] [2026-10-23] 🚨Last day of crowdfunding | Sumika 3D project! Please lend us a hand and witness the final sprint together🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1prHu6QEGe?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "ヒカレイノチ",
+  "artist": "Kitri",
+  "collection": "[💐🎸Song Cut] [2026-10-23] 🚨Last day of crowdfunding | Sumika 3D project! Please lend us a hand and witness the final sprint together🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1prHu6QEGe?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "more than words",
+  "artist": "羊文学",
+  "collection": "[💐🎸Song Cut] [2026-10-23] 🚨Last day of crowdfunding | Sumika 3D project! Please lend us a hand and witness the final sprint together🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1prHu6QEGe?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "帰りの会",
+  "collection": "[💐🎸Song Cut] [2026-10-23] 🚨Last day of crowdfunding | Sumika 3D project! Please lend us a hand and witness the final sprint together🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1prHu6QEGe?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "[💐🎸Song Cut] [2026-10-23] 🚨Last day of crowdfunding | Sumika 3D project! Please lend us a hand and witness the final sprint together🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1prHu6QEGe?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "シアワセ",
+  "artist": "aiko",
+  "collection": "[💐🎸Song Cut] [2026-10-23] 🚨Last day of crowdfunding | Sumika 3D project! Please lend us a hand and witness the final sprint together🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1prHu6QEGe?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "[💐🎸Song Cut] [2026-10-23] 🚨Last day of crowdfunding | Sumika 3D project! Please lend us a hand and witness the final sprint together🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1prHu6QEGe?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "きにぴ",
+  "artist": "澄花",
+  "collection": "[💐🎸Song Cut] [2026-10-23] 🚨Last day of crowdfunding | Sumika 3D project! Please lend us a hand and witness the final sprint together🔥",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1prHu6QEGe?p=8",
   "source": "sumica.js"
 }
 );
