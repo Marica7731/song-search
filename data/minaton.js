@@ -1,6 +1,6 @@
 // みなとん - 歌单数据 (多合集汇总)
 // 来源: BV1TqGY6gEEf
-// 生成时间: 10/25/2026, 5:39:24 PM
+// 生成时间: 10/25/2026, 8:12:34 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1299,6 +1299,102 @@ window.SONG_DATA.push(
   "collection": "【Song Clip】[2026-09-25]「Let my voice reach you」Singing Relay｜Wishing to convey my song to you🎤",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TQah6DE7i?p=5",
+  "source": "minaton.js"
+},
+    {
+  "title": "One Last Time",
+  "artist": "Ariana Grande",
+  "collection": "[Song Cut] [2026-10-25] New Outfit Surprise Singing Stream!! (Replay TBD)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13tnD6UEuE?p=1",
+  "source": "minaton.js"
+},
+    {
+  "title": "Break Free",
+  "artist": "Ariana Grande feat. Zedd",
+  "collection": "[Song Cut] [2026-10-25] New Outfit Surprise Singing Stream!! (Replay TBD)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13tnD6UEuE?p=2",
+  "source": "minaton.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "[Song Cut] [2026-10-25] New Outfit Surprise Singing Stream!! (Replay TBD)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13tnD6UEuE?p=3",
+  "source": "minaton.js"
+},
+    {
+  "title": "CH4NGE",
+  "artist": "Giga feat.可不",
+  "collection": "[Song Cut] [2026-10-25] New Outfit Surprise Singing Stream!! (Replay TBD)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13tnD6UEuE?p=4",
+  "source": "minaton.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "[Song Cut] [2026-10-25] New Outfit Surprise Singing Stream!! (Replay TBD)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13tnD6UEuE?p=5",
+  "source": "minaton.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "[Song Cut] [2026-10-25] New Outfit Surprise Singing Stream!! (Replay TBD)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13tnD6UEuE?p=6",
+  "source": "minaton.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "[Song Cut] [2026-10-25] New Outfit Surprise Singing Stream!! (Replay TBD)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13tnD6UEuE?p=7",
+  "source": "minaton.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "[Song Cut] [2026-10-25] New Outfit Surprise Singing Stream!! (Replay TBD)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13tnD6UEuE?p=8",
+  "source": "minaton.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "[Song Cut] [2026-10-25] New Outfit Surprise Singing Stream!! (Replay TBD)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13tnD6UEuE?p=9",
+  "source": "minaton.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "[Song Cut] [2026-10-25] New Outfit Surprise Singing Stream!! (Replay TBD)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13tnD6UEuE?p=10",
+  "source": "minaton.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師、宇多田ヒカル",
+  "collection": "[Song Cut] [2026-10-25] New Outfit Surprise Singing Stream!! (Replay TBD)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13tnD6UEuE?p=11",
+  "source": "minaton.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "[Song Cut] [2026-10-25] New Outfit Surprise Singing Stream!! (Replay TBD)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13tnD6UEuE?p=12",
   "source": "minaton.js"
 }
 );

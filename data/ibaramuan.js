@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 10/25/2026, 5:35:21 PM
+// 生成时间: 10/25/2026, 8:07:11 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11459,6 +11459,118 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-10-18] Singing Stream | Come listen to me sing! Friends watching for the first time are welcome",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1h2nL6UELR?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "My Dearest",
+  "artist": "supercell",
+  "collection": "[Song Cut] [2026-10-25] The weather is getting cold~! Welcome, new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYnD6LEjB?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "キャットラビング",
+  "artist": "香椎モイミ feat.可不",
+  "collection": "[Song Cut] [2026-10-25] The weather is getting cold~! Welcome, new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYnD6LEjB?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "V",
+  "artist": "HIMEHINA",
+  "collection": "[Song Cut] [2026-10-25] The weather is getting cold~! Welcome, new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYnD6LEjB?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "オーバーライド",
+  "artist": "吉田夜世 feat.重音テト",
+  "collection": "[Song Cut] [2026-10-25] The weather is getting cold~! Welcome, new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYnD6LEjB?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "春雷",
+  "artist": "米津玄師",
+  "collection": "[Song Cut] [2026-10-25] The weather is getting cold~! Welcome, new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYnD6LEjB?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "感電",
+  "artist": "米津玄師",
+  "collection": "[Song Cut] [2026-10-25] The weather is getting cold~! Welcome, new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYnD6LEjB?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ヒトリゴト",
+  "artist": "ClariS",
+  "collection": "[Song Cut] [2026-10-25] The weather is getting cold~! Welcome, new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYnD6LEjB?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "[Song Cut] [2026-10-25] The weather is getting cold~! Welcome, new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYnD6LEjB?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ザムザ",
+  "artist": "てにをは feat.初音ミク",
+  "collection": "[Song Cut] [2026-10-25] The weather is getting cold~! Welcome, new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYnD6LEjB?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ガランド",
+  "artist": "ピコン feat.初音ミク",
+  "collection": "[Song Cut] [2026-10-25] The weather is getting cold~! Welcome, new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYnD6LEjB?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "No Logic",
+  "artist": "ジミーサムP feat.巡音ルカ",
+  "collection": "[Song Cut] [2026-10-25] The weather is getting cold~! Welcome, new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYnD6LEjB?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "[Song Cut] [2026-10-25] The weather is getting cold~! Welcome, new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYnD6LEjB?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "モノクロ∞ブルースカイ",
+  "artist": "のぼる↑ feat.初音ミク",
+  "collection": "[Song Cut] [2026-10-25] The weather is getting cold~! Welcome, new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYnD6LEjB?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP feat.初音ミク",
+  "collection": "[Song Cut] [2026-10-25] The weather is getting cold~! Welcome, new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gYnD6LEjB?p=14",
   "source": "ibaramuan.js"
 }
 );

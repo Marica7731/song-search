@@ -1,6 +1,6 @@
 // 鈴花いのり - 歌单数据 (多合集汇总)
 // 来源: BV1jyjK6sEns
-// 生成时间: 10/25/2026, 5:48:28 PM
+// 生成时间: 10/25/2026, 8:21:41 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7059,6 +7059,398 @@ window.SONG_DATA.push(
   "collection": "【Song Cut】[2026-10-18] Sunday Regular Singing Stream 𝜗𝜚.⋆ I want to sing songs everyone requested! First-time viewers welcome 🎀🔔‎🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yjnL6uEZi?p=34",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Catch You Catch Me",
+  "artist": "グミ",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=1",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=2",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=3",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "白金ディスコ",
+  "artist": "阿良々木月火(井口裕香)",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=4",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Blessing",
+  "artist": "halyosy feat.初音ミク、鏡音リン、鏡音レン、巡音ルカ、KAITO、MEIKO",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=5",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾、茅原実里、後藤邑子",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=6",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=7",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "GO! GO! MANIAC",
+  "artist": "放課後ティータイム",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=8",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ふわふわ時間",
+  "artist": "放課後ティータイム",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=9",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ごはんはおかず",
+  "artist": "放課後ティータイム",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=10",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ふでペン ～ボールペン～",
+  "artist": "放課後ティータイム",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=11",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "わたしの恋はホッチキス",
+  "artist": "放課後ティータイム",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=12",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "冬の日",
+  "artist": "放課後ティータイム",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=13",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Utauyo!!MIRACLE",
+  "artist": "放課後ティータイム",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=14",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "青春コンプレックス",
+  "artist": "結束バンド",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=15",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "忘れてやらない",
+  "artist": "結束バンド",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=16",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "あのバンド",
+  "artist": "結束バンド",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=17",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=18",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=19",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "This game",
+  "artist": "鈴木このみ",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=20",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ラピスラズリ",
+  "artist": "藍井エイル",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=21",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Starry Heavens",
+  "artist": "day after tomorrow",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=22",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=23",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=24",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ハッピーラッキーチャッピー",
+  "artist": "ano",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=25",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=26",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=27",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=28",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "バラライカ",
+  "artist": "月島きらり starring 久住小春",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=29",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=30",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=31",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "消せない罪",
+  "artist": "北出菜奈",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=32",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "弱虫な炎",
+  "artist": "MAGIC OF LiFE",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=33",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "恋のヒメヒメぺったんこ",
+  "artist": "姫野湖鳥(田村ゆかり)",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=34",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "sweets parade",
+  "artist": "髏々宮カルタ(花澤香菜)",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=35",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=36",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(平野綾)",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=37",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Northern lights",
+  "artist": "林原めぐみ",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=38",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Get Over",
+  "artist": "dream",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=39",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "I'll be the one",
+  "artist": "HΛL",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=40",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "crossing field",
+  "artist": "LiSA",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=41",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "courage",
+  "artist": "戸松遥",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=42",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "RESISTER",
+  "artist": "ASCA",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=43",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "ANIMA",
+  "artist": "ReoNa",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=44",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "longing",
+  "artist": "ユナ(神田沙也加)",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=45",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "Catch the Moment",
+  "artist": "LiSA",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=46",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "境界の彼方",
+  "artist": "茅原実里",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=47",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "君色シグナル",
+  "artist": "春奈るな",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=48",
+  "source": "suzuhanainori.js"
+},
+    {
+  "title": "だってアタシのヒーロー。",
+  "artist": "LiSA",
+  "collection": "[Song Cut] [2026-10-25] Sunday regular singing stream 𝜗𝜚.⋆ Anime song special, presenting the voice of a junior! Welcome new viewers 🎀🔔‎🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N6nD66EZF?p=49",
   "source": "suzuhanainori.js"
 }
 );
