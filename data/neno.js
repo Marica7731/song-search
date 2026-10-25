@@ -1,6 +1,6 @@
 // 碧生ねの - 歌单数据 (多合集汇总)
 // 来源: BV1S4TT6pEn4
-// 生成时间: 10/25/2026, 1:16:21 AM
+// 生成时间: 10/25/2026, 3:26:55 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2275,6 +2275,126 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-10-21] Leisurely Morning Vertical-Screen Singing Livestream 🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1t4nv6PEcd?p=12",
+  "source": "neno.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-10-25] Leisurely Morning Singing Livestream🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QyHg6BE6G?p=1",
+  "source": "neno.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-10-25] Leisurely Morning Singing Livestream🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QyHg6BE6G?p=2",
+  "source": "neno.js"
+},
+    {
+  "title": "死んでしまったのだろうか",
+  "artist": "Guiano feat. v flower",
+  "collection": "[Song Cut] [2026-10-25] Leisurely Morning Singing Livestream🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QyHg6BE6G?p=3",
+  "source": "neno.js"
+},
+    {
+  "title": "雨き声残響",
+  "artist": "Orangestar feat. IA",
+  "collection": "[Song Cut] [2026-10-25] Leisurely Morning Singing Livestream🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QyHg6BE6G?p=4",
+  "source": "neno.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-10-25] Leisurely Morning Singing Livestream🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QyHg6BE6G?p=5",
+  "source": "neno.js"
+},
+    {
+  "title": "Perfect Day",
+  "artist": "supercell",
+  "collection": "[Song Cut] [2026-10-25] Leisurely Morning Singing Livestream🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QyHg6BE6G?p=6",
+  "source": "neno.js"
+},
+    {
+  "title": "海の幽霊",
+  "artist": "米津玄師",
+  "collection": "[Song Cut] [2026-10-25] Leisurely Morning Singing Livestream🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QyHg6BE6G?p=7",
+  "source": "neno.js"
+},
+    {
+  "title": "地球儀",
+  "artist": "米津玄師",
+  "collection": "[Song Cut] [2026-10-25] Leisurely Morning Singing Livestream🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QyHg6BE6G?p=8",
+  "source": "neno.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "[Song Cut] [2026-10-25] Leisurely Morning Singing Livestream🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QyHg6BE6G?p=9",
+  "source": "neno.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太 feat. 歌愛ユキ",
+  "collection": "[Song Cut] [2026-10-25] Leisurely Morning Singing Livestream🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QyHg6BE6G?p=10",
+  "source": "neno.js"
+},
+    {
+  "title": "贖罪",
+  "artist": "傘村トータ feat. IA & 結月ゆかり & 初音ミク & Fukase & Ken",
+  "collection": "[Song Cut] [2026-10-25] Leisurely Morning Singing Livestream🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QyHg6BE6G?p=11",
+  "source": "neno.js"
+},
+    {
+  "title": "あなたの夜が明けるまで",
+  "artist": "傘村トータ feat. IA & Fukase",
+  "collection": "[Song Cut] [2026-10-25] Leisurely Morning Singing Livestream🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QyHg6BE6G?p=12",
+  "source": "neno.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz feat. 巡音ルカ",
+  "collection": "[Song Cut] [2026-10-25] Leisurely Morning Singing Livestream🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QyHg6BE6G?p=13",
+  "source": "neno.js"
+},
+    {
+  "title": "それを愛と呼ぶなら",
+  "artist": "Uru",
+  "collection": "[Song Cut] [2026-10-25] Leisurely Morning Singing Livestream🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QyHg6BE6G?p=14",
+  "source": "neno.js"
+},
+    {
+  "title": "ハルキゲニア",
+  "artist": "Chevon",
+  "collection": "[Song Cut] [2026-10-25] Leisurely Morning Singing Livestream🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1QyHg6BE6G?p=15",
   "source": "neno.js"
 }
 );
