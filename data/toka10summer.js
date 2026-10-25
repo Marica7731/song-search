@@ -1,6 +1,6 @@
 // 透夏 - 歌单数据 (多合集汇总)
 // 来源: BV1CbVk68ESd
-// 生成时间: 10/25/2026, 8:06:29 PM
+// 生成时间: 10/25/2026, 10:19:10 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -795,6 +795,38 @@ window.SONG_DATA.push(
   "collection": "Sora ni Menjite - Kasamura Tota feat. Hatsune Miku",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gpYV6rEMw?p=1",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat.鏡音リン",
+  "collection": "Song cut [Touka] [2026-10-25] October radio live 🎐 Singing and chatting | The 10th is Touka Day",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JGnD6fEg8?p=1",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "Song cut [Touka] [2026-10-25] October radio live 🎐 Singing and chatting | The 10th is Touka Day",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JGnD6fEg8?p=2",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27 feat.初音ミク",
+  "collection": "Song cut [Touka] [2026-10-25] October radio live 🎐 Singing and chatting | The 10th is Touka Day",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JGnD6fEg8?p=3",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz feat.巡音ルカ",
+  "collection": "Song cut [Touka] [2026-10-25] October radio live 🎐 Singing and chatting | The 10th is Touka Day",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JGnD6fEg8?p=4",
   "source": "toka10summer.js"
 }
 );

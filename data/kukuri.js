@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 10/25/2026, 6:58:34 PM
+// 生成时间: 10/25/2026, 9:08:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7251,6 +7251,238 @@ window.SONG_DATA.push(
   "collection": "[💫✖Song Cut] [2026-10-18] Singing stream | I don't know if it can be restored, I hope so!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bUnL67Evb?p=24",
+  "source": "kukuri.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "片っぽ",
+  "artist": "eill",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ラストシーン",
+  "artist": "eill",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "贖罪",
+  "artist": "傘村トータ feat.IA、結月ゆかり、初音ミク、Fukase、Ken",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "あなたの夜が明けるまで",
+  "artist": "傘村トータ feat.IA、Fukase",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "小夜子",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "さよならミッドナイト",
+  "artist": "もじゃ feat.GUMI Whisper",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "のうぜんかつら (リプライズ)",
+  "artist": "安藤裕子",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "me me she",
+  "artist": "RADWIMPS",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ナラタージュ",
+  "artist": "adieu",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "よるのあと",
+  "artist": "adieu",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "さくら(独唱)",
+  "artist": "森山直太朗",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI for 雨音薫",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "give it back",
+  "artist": "Cö shu Nie",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "euphoric field",
+  "artist": "ELISA",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ebullient future",
+  "artist": "ELISA",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "リフレクティア",
+  "artist": "eufonius",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "i Love",
+  "artist": "azusa",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "逢坂大河(釘宮理恵)、櫛枝実乃梨(堀江由衣)、川嶋亜美(喜多村英梨)",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=21",
+  "source": "kukuri.js"
+},
+    {
+  "title": "JOINT",
+  "artist": "川田まみ",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=22",
+  "source": "kukuri.js"
+},
+    {
+  "title": "時を刻む唄",
+  "artist": "Lia",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=23",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Don't say \"lazy\"",
+  "artist": "桜高軽音部",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=24",
+  "source": "kukuri.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=25",
+  "source": "kukuri.js"
+},
+    {
+  "title": "燈",
+  "artist": "崎山蒼志",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=26",
+  "source": "kukuri.js"
+},
+    {
+  "title": "原罪の灯",
+  "artist": "EGOIST",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=27",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Door",
+  "artist": "EGOIST",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=28",
+  "source": "kukuri.js"
+},
+    {
+  "title": "雪国",
+  "artist": "ヨルシカ",
+  "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=29",
   "source": "kukuri.js"
 }
 );

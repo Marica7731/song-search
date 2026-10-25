@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 10/25/2026, 7:01:27 PM
+// 生成时间: 10/25/2026, 9:12:45 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -37779,6 +37779,126 @@ window.SONG_DATA.push(
   "collection": "[💐Song Cut] [2026-10-23] Friday's leisurely afternoon",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ESHu6jEwZ?p=17",
+  "source": "figaro.js"
+},
+    {
+  "title": "第一夜",
+  "artist": "ヨルシカ",
+  "collection": "[💐Song Cut] [2026-10-25] A sleep-aid singing stream to help you fall asleep peacefully🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z5nD6tEjw?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "[💐Song Cut] [2026-10-25] A sleep-aid singing stream to help you fall asleep peacefully🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z5nD6tEjw?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "[💐Song Cut] [2026-10-25] A sleep-aid singing stream to help you fall asleep peacefully🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z5nD6tEjw?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN feat.鏡音リン",
+  "collection": "[💐Song Cut] [2026-10-25] A sleep-aid singing stream to help you fall asleep peacefully🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z5nD6tEjw?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "エイリアンズ",
+  "artist": "キリンジ",
+  "collection": "[💐Song Cut] [2026-10-25] A sleep-aid singing stream to help you fall asleep peacefully🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z5nD6tEjw?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "フクロウ ～フクロウが知らせる客が来たと～",
+  "artist": "KOKIA",
+  "collection": "[💐Song Cut] [2026-10-25] A sleep-aid singing stream to help you fall asleep peacefully🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z5nD6tEjw?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "to U",
+  "artist": "Bank Band with Salyu",
+  "collection": "[💐Song Cut] [2026-10-25] A sleep-aid singing stream to help you fall asleep peacefully🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z5nD6tEjw?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "Arrietty's Song",
+  "artist": "Cécile Corbel",
+  "collection": "[💐Song Cut] [2026-10-25] A sleep-aid singing stream to help you fall asleep peacefully🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z5nD6tEjw?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "人間みたいね",
+  "artist": "キタニタツヤ",
+  "collection": "[💐Song Cut] [2026-10-25] A sleep-aid singing stream to help you fall asleep peacefully🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z5nD6tEjw?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "砂糖玉の月",
+  "artist": "やなぎなぎ",
+  "collection": "[💐Song Cut] [2026-10-25] A sleep-aid singing stream to help you fall asleep peacefully🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z5nD6tEjw?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "アクアテラリウム",
+  "artist": "やなぎなぎ",
+  "collection": "[💐Song Cut] [2026-10-25] A sleep-aid singing stream to help you fall asleep peacefully🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z5nD6tEjw?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "森の小さなレストラン",
+  "artist": "手嶌葵",
+  "collection": "[💐Song Cut] [2026-10-25] A sleep-aid singing stream to help you fall asleep peacefully🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z5nD6tEjw?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "がらくだ",
+  "artist": "米津玄師",
+  "collection": "[💐Song Cut] [2026-10-25] A sleep-aid singing stream to help you fall asleep peacefully🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z5nD6tEjw?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "[💐Song Cut] [2026-10-25] A sleep-aid singing stream to help you fall asleep peacefully🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z5nD6tEjw?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "[💐Song Cut] [2026-10-25] A sleep-aid singing stream to help you fall asleep peacefully🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1z5nD6tEjw?p=15",
   "source": "figaro.js"
 }
 );
