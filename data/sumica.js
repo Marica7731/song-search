@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 10/24/2026, 9:56:10 PM
+// 生成时间: 10/25/2026, 12:32:33 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -10963,6 +10963,110 @@ window.SONG_DATA.push(
   "collection": "[💐🎸Song Cut] [2026-10-23] 🚨Last day of crowdfunding | Sumika 3D project! Please lend us a hand and witness the final sprint together🔥",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1prHu6QEGe?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "失恋ソング沢山聴いて 泣いてばかりの私はもう。",
+  "artist": "りりあ。",
+  "collection": "[💐🎸Song Cut] [2026-10-24] Leisurely singing and playing guitar from noon~ Want to come listen for a while?🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18WHu6PEb9?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "ぷんぷん",
+  "artist": "コレサワ",
+  "collection": "[💐🎸Song Cut] [2026-10-24] Leisurely singing and playing guitar from noon~ Want to come listen for a while?🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18WHu6PEb9?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "失恋ソングを歌ったあとに",
+  "artist": "コレサワ",
+  "collection": "[💐🎸Song Cut] [2026-10-24] Leisurely singing and playing guitar from noon~ Want to come listen for a while?🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18WHu6PEb9?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "[💐🎸Song Cut] [2026-10-24] Leisurely singing and playing guitar from noon~ Want to come listen for a while?🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18WHu6PEb9?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "[💐🎸Song Cut] [2026-10-24] Leisurely singing and playing guitar from noon~ Want to come listen for a while?🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18WHu6PEb9?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "ノスタルジア",
+  "artist": "いきものがかり",
+  "collection": "[💐🎸Song Cut] [2026-10-24] Leisurely singing and playing guitar from noon~ Want to come listen for a while?🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18WHu6PEb9?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "残ってる",
+  "artist": "吉澤嘉代子",
+  "collection": "[💐🎸Song Cut] [2026-10-24] Leisurely singing and playing guitar from noon~ Want to come listen for a while?🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18WHu6PEb9?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "横顔",
+  "artist": "aiko",
+  "collection": "[💐🎸Song Cut] [2026-10-24] Leisurely singing and playing guitar from noon~ Want to come listen for a while?🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18WHu6PEb9?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "[💐🎸Song Cut] [2026-10-24] Leisurely singing and playing guitar from noon~ Want to come listen for a while?🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18WHu6PEb9?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "コイワズライ",
+  "artist": "Aimer",
+  "collection": "[💐🎸Song Cut] [2026-10-24] Leisurely singing and playing guitar from noon~ Want to come listen for a while?🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18WHu6PEb9?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "Burning",
+  "artist": "羊文学",
+  "collection": "[💐🎸Song Cut] [2026-10-24] Leisurely singing and playing guitar from noon~ Want to come listen for a while?🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18WHu6PEb9?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "いじわるさん",
+  "artist": "澄花",
+  "collection": "[💐🎸Song Cut] [2026-10-24] Leisurely singing and playing guitar from noon~ Want to come listen for a while?🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18WHu6PEb9?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创",
+  "artist": "澄花",
+  "collection": "[💐🎸Song Cut] [2026-10-24] Leisurely singing and playing guitar from noon~ Want to come listen for a while?🌞",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18WHu6PEb9?p=13",
   "source": "sumica.js"
 }
 );

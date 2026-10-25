@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 10/24/2026, 10:50:44 PM
+// 生成时间: 10/25/2026, 1:21:28 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7171,6 +7171,302 @@ window.SONG_DATA.push(
   "collection": "[Song Clip] [2026-10-22] Challenge 100 concurrent viewers 🎤💫 Welcome to relax and listen to songs 🌠 New viewers also welcome",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RJnt6RE6L?p=36",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "気まぐれロマンティック",
+  "artist": "いきものがかり",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Love so sweet",
+  "artist": "嵐",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "好きすぎて滅!",
+  "artist": "M!LK",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "君はロックを聴かない",
+  "artist": "あいみょん",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "第六感",
+  "artist": "Reol",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "カルマ",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "HEART OF SWORD 〜夜明け前〜",
+  "artist": "T.M.Revolution",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Catch the Moment",
+  "artist": "LiSA",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ムーンライト伝説",
+  "artist": "DALI",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat.初音ミク",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "それは小さな光のような",
+  "artist": "さユり",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "正しくなれない",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=22",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=23",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ヒューマノイド",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=24",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "曖昧劣情Lover",
+  "artist": "koyori(電ポルP) feat.v flower",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=25",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=26",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "来世で会おう",
+  "artist": "さユり",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=27",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "シェリル・ノーム starring May'n／ランカ・リー=中島愛",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=28",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "すき、きらい",
+  "artist": "ファントムシータ",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=29",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ゾクゾク",
+  "artist": "ファントムシータ",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=30",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "botばっか",
+  "artist": "ファントムシータ",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=31",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=32",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=33",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ケセラセラ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=34",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=35",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=36",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "オツキミリサイタル",
+  "artist": "じん feat.IA",
+  "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=37",
   "source": "isshikiizu.js"
 }
 );

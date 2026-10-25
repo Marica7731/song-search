@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 10/24/2026, 10:43:35 PM
+// 生成时间: 10/25/2026, 1:15:23 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -26299,6 +26299,870 @@ window.SONG_DATA.push(
   "collection": "Yangyue Rurufu song cut 2026-10-21 For every 100 additional comments, the singing livestream will be extended by 1 minute!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dLnt6tE1K?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "ノーザンクロス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "KICK BACK",
+  "artist": "米津玄師",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "甲賀忍法帖",
+  "artist": "陰陽座",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ",
+  "artist": "MAISONdes feat.花譜,ツミキ",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾・茅原実里・後藤邑子",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "oath sign",
+  "artist": "LiSA",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "逆光",
+  "artist": "Ado",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "Cry Baby",
+  "artist": "Official髭男dism",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "紅蓮華",
+  "artist": "LiSA",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ（平野綾）",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "タッチ",
+  "artist": "岩崎良美",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "輪舞-revolution",
+  "artist": "奥井雅美",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "ムーンライト伝説",
+  "artist": "DALI",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "1/2",
+  "artist": "川本真琴",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "1/3の純情な感情",
+  "artist": "SIAM SHADE",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "光るなら",
+  "artist": "Goose house",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "前前前世",
+  "artist": "RADWIMPS",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "創聖のアクエリオン",
+  "artist": "AKINO",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "AXIA～ダイスキでダイキライ～",
+  "artist": "ワルキューレ",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "月光花",
+  "artist": "Janne Da Arc",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=32",
+  "source": "others.js"
+},
+    {
+  "title": "ダイアモンドクレパス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=33",
+  "source": "others.js"
+},
+    {
+  "title": "なんでもないや",
+  "artist": "RADWIMPS",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=34",
+  "source": "others.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=35",
+  "source": "others.js"
+},
+    {
+  "title": "ひまわりの約束",
+  "artist": "秦基博",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=36",
+  "source": "others.js"
+},
+    {
+  "title": "打上花火",
+  "artist": "DAOKO×米津玄師",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=37",
+  "source": "others.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=38",
+  "source": "others.js"
+},
+    {
+  "title": "嘘",
+  "artist": "シド",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=39",
+  "source": "others.js"
+},
+    {
+  "title": "メビウス",
+  "artist": "Janne Da Arc",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=40",
+  "source": "others.js"
+},
+    {
+  "title": "君をのせて",
+  "artist": "井上あずみ",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=41",
+  "source": "others.js"
+},
+    {
+  "title": "泪のムコウ",
+  "artist": "ステレオポニー",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=42",
+  "source": "others.js"
+},
+    {
+  "title": "僕らの戦場",
+  "artist": "ワルキューレ",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=43",
+  "source": "others.js"
+},
+    {
+  "title": "破滅の純情",
+  "artist": "ワルキューレ",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=44",
+  "source": "others.js"
+},
+    {
+  "title": "禁じられた遊び",
+  "artist": "ALI PROJECT",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=45",
+  "source": "others.js"
+},
+    {
+  "title": "聖少女領域",
+  "artist": "ALI PROJECT",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=46",
+  "source": "others.js"
+},
+    {
+  "title": "亡國覚醒カタルシス",
+  "artist": "ALI PROJECT",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=47",
+  "source": "others.js"
+},
+    {
+  "title": "DIRTY",
+  "artist": "ナイトメア",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=48",
+  "source": "others.js"
+},
+    {
+  "title": "SHIVER",
+  "artist": "the GazettE",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=49",
+  "source": "others.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "シェリル・ノーム starring May'n／ランカ・リー=中島愛",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=50",
+  "source": "others.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=51",
+  "source": "others.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=52",
+  "source": "others.js"
+},
+    {
+  "title": "This game",
+  "artist": "鈴木このみ",
+  "collection": "Hisui Riko┊Lyco Hisui song cut 2026-10-22 Let anime songs resound in all directions",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18kHM6AEuX?p=53",
+  "source": "others.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "ETERNAL BLAZE",
+  "artist": "水樹奈々",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat.可不",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "蝶",
+  "artist": "Acid Black Cherry",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師、宇多田ヒカル",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "モノクロのキス",
+  "artist": "シド",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "ダーリン・ブルー",
+  "artist": "luz×すりぃ",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "魔性少女",
+  "artist": "ファントムシータ",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "メビウス",
+  "artist": "柊キライ feat.v flower",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "D/N/A",
+  "artist": "Azari feat.v flower",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "明け星",
+  "artist": "LiSA",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "Rising Hope",
+  "artist": "LiSA",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "Synchrogazer",
+  "artist": "水樹奈々",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "カルマ",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "涙そうそう",
+  "artist": "夏川りみ",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "Time goes by",
+  "artist": "Every Little Thing",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat.初音ミク",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "贖罪",
+  "artist": "傘村トータ feat.IA・結月ゆかり・初音ミク・Fukase・Ken",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "永遠のあくる日",
+  "artist": "Ado",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "水平線",
+  "artist": "back number",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "115万キロのフィルム",
+  "artist": "Official髭男dism",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "ダイヤモンドヴァージン",
+  "artist": "Janne Da Arc",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "ANIMA",
+  "artist": "ReoNa",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=32",
+  "source": "others.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat.初音ミク",
+  "collection": "Hisui Riko┊Lyco Hisui Song Cuts 2026-10-17 30-Song Endurance Challenge✤I Have Returned to the Mortal World! Debut Stream",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11qH36AEut?p=33",
+  "source": "others.js"
+},
+    {
+  "title": "シルエット",
+  "artist": "KANA-BOON",
+  "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "サムライハート(Some Like It Hot!!)",
+  "artist": "SPYAIR",
+  "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "COLORS",
+  "artist": "FLOW",
+  "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "マイペース",
+  "artist": "SunSet Swish",
+  "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "Cry Baby",
+  "artist": "Official髭男dism",
+  "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "01",
+  "artist": "女王蜂",
+  "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "硝子の瞳",
+  "artist": "シド",
+  "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "蝶",
+  "artist": "Acid Black Cherry",
+  "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "歌舞伎町の女王",
+  "artist": "椎名林檎",
+  "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "KISSして",
+  "artist": "KOH+",
+  "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "童話迷宮",
+  "artist": "田村ゆかり",
+  "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "WILD EYES",
+  "artist": "水樹奈々",
+  "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "アンインストール",
+  "artist": "石川智晶",
+  "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "Rusty Nail",
+  "artist": "X JAPAN",
+  "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "時代",
+  "artist": "中島みゆき",
+  "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "ANNIVERSARY ～無限にCALLING YOU～",
+  "artist": "松任谷由実",
+  "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "愛のうた",
+  "artist": "倖田來未",
+  "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "友達の詩",
+  "artist": "中村中",
+  "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "島唄",
+  "artist": "THE BOOM",
+  "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "強く儚い者たち",
+  "artist": "Cocco",
+  "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "春よ、来い",
+  "artist": "松任谷由実",
+  "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=22",
   "source": "others.js"
 },
     {
