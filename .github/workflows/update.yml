@@ -37,6 +37,7 @@ jobs:
         run: |
           node --test scripts/update-songs-guard.test.js scripts/bilibili-page-api.test.js scripts/bvid-probe-selection.test.js scripts/bvid-collection-groups.test.js
           node scripts/check-title-cleaning.js
+          node --test scripts/song-lookup-index.test.js
           bash deploy/wdc/v-slice-browser-dispatch.test.sh
 
       - name: 安装系统依赖
@@ -55,10 +56,13 @@ jobs:
           cd scripts
           node update-songs.js
 
+      - name: 生成歌曲查重轻量索引
+        run: node scripts/song-lookup-index.js build
+
       - name: 检查数据更新
         id: check_changes
         run: |
-          if git status --porcelain -- data/*.js data/index.json | grep -q .; then
+          if git status --porcelain -- data/*.js data/index.json data/song-lookup/ | grep -q .; then
             echo "has_changes=true" >> $GITHUB_OUTPUT
           else
             echo "has_changes=false" >> $GITHUB_OUTPUT
@@ -80,7 +84,7 @@ jobs:
             exit 0
           fi
 
-          git add -- data/*.js data/index.json
+          git add -- data/*.js data/index.json data/song-lookup/
           if git diff --cached --quiet; then
             echo "没有需要提交的数据变化"
             exit 0
