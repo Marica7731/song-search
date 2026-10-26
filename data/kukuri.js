@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 10/26/2026, 12:48:23 PM
+// 生成时间: 10/26/2026, 6:05:45 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7318,7 +7318,7 @@ window.SONG_DATA.push(
   "source": "kukuri.js"
 },
     {
-  "title": "のうぜんかつら (リプライズ)",
+  "title": "のうぜんかつら",
   "artist": "安藤裕子",
   "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
   "up": "前尘往事如昔故",
