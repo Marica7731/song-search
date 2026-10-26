@@ -43,14 +43,14 @@
 - 脚本：`scripts/update-songs.js`
 - 配置源：脚本内 `SINGER_CONFIGS`（BV 列表、文件名、别名）
 - 头像源：`scripts/source-profiles.json`（按来源文件名补充头像、YouTube 频道、首字和颜色）
-- GitHub 侧先读取入口稿件的完整合集元数据，跨全部 section 按独立 BVID 计数；不使用页面虚拟列表的可见条数判断合集规模。
-- 非空合集都会参与刷新：少于 15 个独立 BVID 时抓取全部候选；达到 15 个后，默认选择稿件播放量最低的 3 个 BVID。当前来源中旧文件已有身份的 BVID 仍会按完整性逻辑补抓。
+- GitHub 侧读取入口稿件的完整合集元数据，并按 UGC season ID 把同一合集的多个分节入口合并；跨该 season 全部 section 按独立 BVID 计数，不使用页面虚拟列表的可见条数判断合集规模。
+- 非空合集都会参与刷新：整个合集少于 15 个独立 BVID 时抓取全部候选；达到 15 个后，整季默认只选择稿件播放量最低的 3 个 BVID。当前来源中旧文件已有身份的 BVID 仍会按完整性逻辑补抓。
 - 单来源可按实际情况设置 `minimumCollectionBvids` 和 `probeCount`；探针数表示最多扫描数，候选少于该数时扫描全部。空合集仍然失败，不会覆盖旧文件。
-- 每个配置入口 BV 都会精确收录；只有当 winner 和其它已运行探针仍缺少旧数据中属于当前合集的 BV+分P 时，才自动补抓这些 BV。这样保留最低播放量探针和单一 winner 规则，也不会为已覆盖的旧身份重复请求。
+- 每个配置入口 BV 都会精确收录；同一 season 的所有入口共享一轮探针。只有当 winner 和其它已运行探针仍缺少旧数据中属于当前合集的 BV+分P 时，才自动补抓这些 BV。这样保留最低播放量探针和单一 winner 规则，也不会为已覆盖的旧身份重复请求。
 - 不设置指定 BV 的直取旁路。需要单独收录的视频应作为普通入口加入 `bvids`，经过同一套合集元数据、探针和完整性流程；合集探针中既非 winner、也不补齐旧身份的 BV 只用于样本比较。
 - 选中的探针都会执行，不随机补位或回退其他 BVID；成功结果仍按解析歌曲数择优，并继续经过来源完整性门禁。
 - 需要通过 API 读取分 P 标题而不是浏览器 DOM 时，可在来源配置中设置 `rawDataLoader: "bili-view-api"`；目前用于 `花丸晴琉`、`花鋏キョウ`、`なつかしちゃん` 和 `ヤドカリのドリィ`。
-- 探针状态按 `来源文件 + 入口 BV` 保存历史 winner 和当轮播放量，用于异常回退比较，不参与候选排序。
+- 探针状态按 `来源文件 + UGC season ID` 保存历史 winner 和当轮播放量；无 season ID 时按 `来源文件 + 入口 BV` 保存，用于异常回退比较，不参与候选排序。
 - 同一来源配置的任一入口 BV 失败时，本轮保留已有 `data/<source>.js`，不再用其余入口的部分结果覆盖完整来源。
 - 即使所有入口都返回成功，单来源同时减少至少 100 首且回退达到 15% 时也拒绝覆盖；可用 `MIN_SOURCE_DROP_SONGS` 和 `MAX_SOURCE_DROP_RATIO` 调整门禁。
 - 候选结果必须覆盖仍属于当前来源合集、且分P仍存在的旧 `BV + 分P` 身份；探针缺失时通过 view API 精确补抓，已移出合集的 BV 或已删除分P随来源刷新退出，不会因旧文件身份检查而卡住迁移。只有当前合集仍有的分P缺失时才保留旧文件。人工确认需要忽略仍在合集内的旧身份时，仅在本地单次运行设置 `ALLOW_SOURCE_SHRINK=1`，workflow 不设置此变量。
@@ -137,6 +137,8 @@ song-search/
 │  ├─ update-songs.js          # 数据抓取与生成脚本
 │  ├─ bilibili-page-api.js      # view API 分 P 与合集稿件元数据适配器
 │  ├─ bilibili-page-api.test.js # view API 适配器回归测试
+│  ├─ bvid-collection-groups.js # 按 UGC season 汇总分节入口和唯一 BVID 候选
+│  ├─ bvid-collection-groups.test.js # 多入口合集抽样回归测试
 │  ├─ bvid-probe-selection.js  # 小合集全量探测和最低播放量抽样
 │  ├─ bvid-probe-selection.test.js # 候选选择回归测试
 │  ├─ update-songs-guard.js    # 来源完整性和异常回退门禁

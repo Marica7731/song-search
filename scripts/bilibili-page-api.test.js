@@ -5,8 +5,10 @@ const assert = require('node:assert/strict');
 const {
     buildBiliRequestHeaders,
     loadBiliCollectionCandidates,
+    loadBiliCollectionMetadata,
     loadBiliPageList,
     parseBiliCollectionCandidates,
+    parseBiliCollectionMetadata,
     parseBiliViewPayload
 } = require('./bilibili-page-api');
 
@@ -109,11 +111,12 @@ test('loads metadata with Bilibili request headers', async () => {
 });
 
 test('extracts every unique BVID and manuscript view count from all season sections', () => {
-    const candidates = parseBiliCollectionCandidates({
+    const payload = {
         code: 0,
         data: {
             bvid: 'BV1entry',
             ugc_season: {
+                id: 7685930,
                 sections: [
                     {
                         episodes: [
@@ -130,13 +133,15 @@ test('extracts every unique BVID and manuscript view count from all season secti
                 ]
             }
         }
-    }, 'BV1entry');
+    };
+    const candidates = parseBiliCollectionCandidates(payload, 'BV1entry');
 
     assert.deepEqual(candidates, [
         { bvid: 'BV1entry', viewCount: 30 },
         { bvid: 'BV1low', viewCount: 4 },
         { bvid: 'BV1other', viewCount: 12 }
     ]);
+    assert.equal(parseBiliCollectionMetadata(payload, 'BV1entry').seasonId, '7685930');
 });
 
 test('treats a standalone manuscript as a one-BVID collection', async () => {
@@ -153,4 +158,29 @@ test('treats a standalone manuscript as a one-BVID collection', async () => {
     });
 
     assert.deepEqual(candidates, [{ bvid: 'BV1single', viewCount: 9 }]);
+});
+
+test('loads season identity together with the complete unique candidate list', async () => {
+    const metadata = await loadBiliCollectionMetadata('BV1season', {
+        timeoutMs: 1000,
+        fetchImpl: async () => ({
+            ok: true,
+            status: 200,
+            json: async () => ({
+                code: 0,
+                data: {
+                    bvid: 'BV1season',
+                    stat: { view: 10 },
+                    ugc_season: {
+                        id: 42,
+                        sections: [{ episodes: [{ bvid: 'BV1season', arc: { stat: { view: 10 } } }] }]
+                    }
+                }
+            })
+        })
+    });
+
+    assert.equal(metadata.entryBvid, 'BV1season');
+    assert.equal(metadata.seasonId, '42');
+    assert.deepEqual(metadata.candidates, [{ bvid: 'BV1season', viewCount: 10 }]);
 });

@@ -54,8 +54,10 @@ function parseBiliViewPayload(payload, requestedBvid) {
     }];
 }
 
-function parseBiliCollectionCandidates(payload, requestedBvid) {
+function parseBiliCollectionMetadata(payload, requestedBvid) {
     const data = assertBiliViewPayload(payload);
+    const collectionBv = normalizeBvid(data.bvid) || normalizeBvid(requestedBvid);
+    if (!collectionBv) throw new Error('B站接口未返回有效 BV 号');
     const sections = Array.isArray(data.ugc_season?.sections)
         ? data.ugc_season.sections
         : [];
@@ -83,7 +85,19 @@ function parseBiliCollectionCandidates(payload, requestedBvid) {
         candidates.set(bvid, { bvid, viewCount });
     });
 
-    return Array.from(candidates.values());
+    const rawSeasonId = data.ugc_season?.id;
+    const seasonId = rawSeasonId === undefined || rawSeasonId === null || String(rawSeasonId).trim() === ''
+        ? null
+        : String(rawSeasonId).trim();
+    return {
+        entryBvid: collectionBv,
+        seasonId,
+        candidates: Array.from(candidates.values())
+    };
+}
+
+function parseBiliCollectionCandidates(payload, requestedBvid) {
+    return parseBiliCollectionMetadata(payload, requestedBvid).candidates;
 }
 
 async function loadBiliViewPayload(bvid, options = {}) {
@@ -125,16 +139,23 @@ async function loadBiliPageList(bvid, options = {}) {
 }
 
 async function loadBiliCollectionCandidates(bvid, options = {}) {
+    const metadata = await loadBiliCollectionMetadata(bvid, options);
+    return metadata.candidates;
+}
+
+async function loadBiliCollectionMetadata(bvid, options = {}) {
     const payload = await loadBiliViewPayload(bvid, options);
-    return parseBiliCollectionCandidates(payload, bvid);
+    return parseBiliCollectionMetadata(payload, bvid);
 }
 
 module.exports = {
     buildBiliRequestHeaders,
     loadBiliCollectionCandidates,
+    loadBiliCollectionMetadata,
     loadBiliPageList,
     loadBiliViewPayload,
     normalizeBvid,
     parseBiliCollectionCandidates,
+    parseBiliCollectionMetadata,
     parseBiliViewPayload
 };

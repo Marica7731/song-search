@@ -19,7 +19,7 @@
 
 - 新增或修正来源时，核对 BVID、分 P 总数、首尾页标题、来源账号和视频可访问性；第三方转载不得写成官方来源。
 - 普通多 P 视频只有在合集 DOM 不适用且 view API 页数完整时，才使用 `rawDataLoader: "bili-view-api"`。
-- 合集规模按完整元数据中的独立 BVID 计数：非空合集都参与刷新；少于 15 个时探测全部 BVID，达到 15 个后默认只探针稿件播放量最低的 3 个。单来源可以显式配置 `minimumCollectionBvids` 和 `probeCount`；不做随机或失败补位。
+- 合集规模按完整 UGC season 的所有分节合并后的独立 BVID 计数：同一来源配置中多个入口 BV 属于同一 season 时合并为一个抽样组，避免每个分节重复探针；无 season ID 的入口各自作为独立合集。非空合集都参与刷新；少于 15 个时探测全部 BVID，达到 15 个后默认只探针稿件播放量最低的 3 个。单来源可以显式配置 `minimumCollectionBvids` 和 `probeCount`；不做随机或失败补位。
 - 单个入口失败时必须保留该来源旧文件，不能用部分结果覆盖完整来源；候选必须覆盖旧文件全部 `BV + 分P` 身份，异常大幅减少也必须经过 `update-songs-guard.js` 门禁。
 - `ALLOW_SOURCE_SHRINK=1` 只允许人工确认删除旧身份后的本地单次运行使用，GitHub workflow 不得设置该变量。
 - B 站 view API 请求不得重新加入会触发 HTTP 412 的伪浏览器 `User-Agent`；本轮 `0/N` 来源成功时必须以失败退出，不能只因旧文件得到保留就把 Action 标成成功。
@@ -38,7 +38,8 @@
 node --check scripts/update-songs.js
 node --check scripts/bilibili-page-api.js
 node --check scripts/bvid-probe-selection.js
-node --test scripts/update-songs-guard.test.js scripts/bilibili-page-api.test.js scripts/bvid-probe-selection.test.js
+node --check scripts/bvid-collection-groups.js
+node --test scripts/update-songs-guard.test.js scripts/bilibili-page-api.test.js scripts/bvid-probe-selection.test.js scripts/bvid-collection-groups.test.js
 node scripts/check-title-cleaning.js
 bash deploy/wdc/v-slice-browser-dispatch.test.sh
 git diff --check

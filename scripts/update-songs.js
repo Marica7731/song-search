@@ -13,7 +13,8 @@ const {
     getStoredSongIdentitiesByBvid,
     getReliableWinner
 } = require('./update-songs-guard');
-const { loadBiliCollectionCandidates, loadBiliPageList } = require('./bilibili-page-api');
+const { loadBiliCollectionMetadata, loadBiliPageList } = require('./bilibili-page-api');
+const { groupCollectionEntries } = require('./bvid-collection-groups');
 const {
     DEFAULT_MIN_COLLECTION_BVIDS,
     DEFAULT_PROBE_COUNT,
@@ -406,6 +407,23 @@ function getEntryState(state, config, entryBvid) {
     return state.entries[key];
 }
 
+function getCollectionState(state, config, group) {
+    if (!group.seasonId) return getEntryState(state, config, group.entryBvids[0]);
+
+    const key = `${config.resolvedFile}|season:${group.seasonId}`;
+    if (!state.entries[key]) {
+        state.entries[key] = {
+            sourceFile: config.resolvedFile,
+            alias: config.alias,
+            seasonId: group.seasonId,
+            entryBvids: [...group.entryBvids],
+            candidates: [],
+            recentRuns: []
+        };
+    }
+    return state.entries[key];
+}
+
 function parseRawDataToSongs(rawData, config) {
     const songs = [];
     const { resolvedFile } = config;
@@ -500,22 +518,19 @@ async function parseCandidateBvid(config, bvid, cachedRawData = null) {
     };
 }
 
-async function processEntryBvid(
+async function processCollectionGroup(
     config,
-    entryBvid,
+    group,
     samplingState,
     existingIdentitiesByBvid = new Map(),
     requiredResultCache = new Map(),
     currentPageCounts = new Map()
 ) {
-    const entryState = getEntryState(samplingState, config, entryBvid);
-    console.log(`  🔎 入口 BV: ${entryBvid}，读取完整合集稿件元数据...`);
-
-    const collectionCandidates = await withRetry(
-        () => loadBiliCollectionCandidates(entryBvid),
-        3,
-        5000
-    );
+    const entryBvids = Array.from(new Set(group.entryBvids));
+    const entryBvid = entryBvids[0];
+    const entryBvidSet = new Set(entryBvids);
+    const entryState = getCollectionState(samplingState, config, group);
+    const collectionCandidates = group.candidates;
     const minimumCollectionSize = Number.isInteger(config.minimumCollectionBvids)
         ? config.minimumCollectionBvids
         : MIN_COLLECTION_BVIDS;
@@ -537,17 +552,22 @@ async function processEntryBvid(
 
     const candidatePool = collectionCandidates.map(candidate => candidate.bvid);
     entryState.candidates = candidatePool;
-    const requiredBvids = getRequiredCandidateBvids({
-        entryBvid,
-        candidatePool,
-        existingBvids: Array.from(existingIdentitiesByBvid.keys())
-    });
+    if (group.seasonId) entryState.entryBvids = [...entryBvids];
+    const requiredBvids = Array.from(new Set([
+        ...entryBvids,
+        ...getRequiredCandidateBvids({
+            entryBvid,
+            candidatePool,
+            existingBvids: Array.from(existingIdentitiesByBvid.keys())
+        })
+    ]));
     const selected = selection.selected;
     const attempted = new Set();
     const results = [];
 
     console.log(
-        `  📉 合集 ${selection.total} 个独立 BVID，探针最低播放量 ${selection.selected.length} 个：` +
+        `  📉 ${group.seasonId ? `season ${group.seasonId}` : `入口 ${entryBvid}`} 合集 ` +
+        `${selection.total} 个独立 BVID，探针最低播放量 ${selection.selected.length} 个：` +
         selected.map(candidate => `${candidate.bvid}(${candidate.viewCount})`).join(', ')
     );
     for (const candidate of selected) {
@@ -565,15 +585,15 @@ async function processEntryBvid(
     }
 
     if (results.length === 0) {
-        throw new Error(`入口 ${entryBvid} 的最低播放量 ${selection.selected.length} 个探针均未解析到有效歌曲数据`);
+        throw new Error(`合集入口 ${entryBvids.join(', ')} 的最低播放量 ${selection.selected.length} 个探针均未解析到有效歌曲数据`);
     }
 
     const previousWinner = getReliableWinner(entryState, candidatePool);
     results.sort((a, b) => b.songs.length - a.songs.length);
     const winner = results[0];
     assertSourceRefreshSafe({
-        alias: `${config.alias}/${entryBvid}`,
-        configuredBvids: [entryBvid],
+        alias: `${config.alias}/${group.seasonId ? `season ${group.seasonId}` : entryBvid}`,
+        configuredBvids: entryBvids,
         failedBvids: [],
         previousCount: previousWinner?.songCount || 0,
         nextCount: winner.songs.length,
@@ -585,6 +605,8 @@ async function processEntryBvid(
     entryState.recentRuns = Array.isArray(entryState.recentRuns) ? entryState.recentRuns : [];
     const runRecord = {
         runAt: entryState.lastRunAt,
+        seasonId: group.seasonId,
+        entryBvids,
         sampled: Array.from(attempted),
         sampledViewCounts: Object.fromEntries(
             selected.map(candidate => [candidate.bvid, candidate.viewCount])
@@ -600,7 +622,7 @@ async function processEntryBvid(
 
     const mergedSongs = [...winner.songs];
     const mergedIdentities = new Set(mergedSongs.map(song => getSongIdentity(song?.link)).filter(Boolean));
-    const activeCandidateBvids = new Set([...candidatePool, entryBvid]);
+    const activeCandidateBvids = new Set([...candidatePool, ...entryBvids]);
     const appendSongs = (songs, predicate = () => true) => {
         for (const song of Array.isArray(songs) ? songs : []) {
             const identity = getSongIdentity(song?.link);
@@ -623,31 +645,35 @@ async function processEntryBvid(
         }
     }
 
-    const entryIsPresent = () => mergedSongs.some(song => {
+    const entryIsPresent = targetBvid => mergedSongs.some(song => {
         const identity = getSongIdentity(song?.link);
-        return identity?.startsWith(`${entryBvid}?p=`);
+        return identity?.startsWith(`${targetBvid}?p=`);
     });
-    if (!entryIsPresent()) {
-        for (const result of results) {
-            if (result === winner) continue;
-            appendSongs(result.songs, (_song, identity) => identity.startsWith(`${entryBvid}?p=`));
+    for (const configuredEntryBvid of entryBvids) {
+        if (!entryIsPresent(configuredEntryBvid)) {
+            for (const result of results) {
+                if (result === winner) continue;
+                appendSongs(result.songs, (_song, identity) => identity.startsWith(`${configuredEntryBvid}?p=`));
+            }
         }
     }
     const bvidsToFetch = [];
-    if (!entryIsPresent()) bvidsToFetch.push(entryBvid);
+    for (const configuredEntryBvid of entryBvids) {
+        if (!entryIsPresent(configuredEntryBvid)) bvidsToFetch.push(configuredEntryBvid);
+    }
     for (const bvid of requiredBvids) {
-        if (bvid === entryBvid || !getMissingStoredIdentitiesByBvid(
+        if (entryBvidSet.has(bvid) || !getMissingStoredIdentitiesByBvid(
             existingIdentitiesByBvid,
             mergedSongs,
-                candidatePool,
-                currentPageCounts
+            candidatePool,
+            currentPageCounts
         ).has(bvid)) continue;
         bvidsToFetch.push(bvid);
     }
 
     for (const bvid of bvidsToFetch) {
-        const targetIsStillMissing = () => bvid === entryBvid
-            ? !entryIsPresent()
+        const targetIsStillMissing = () => entryBvidSet.has(bvid)
+            ? !entryIsPresent(bvid)
             : getMissingStoredIdentitiesByBvid(
                 existingIdentitiesByBvid,
                 mergedSongs,
@@ -681,11 +707,12 @@ async function processEntryBvid(
         }
     }
 
-    if (!entryIsPresent()) {
-        throw new Error(`入口 BV ${entryBvid} 未出现在本轮候选结果中，且自动补抓后仍无有效分P`);
+    const missingEntryBvids = entryBvids.filter(configuredEntryBvid => !entryIsPresent(configuredEntryBvid));
+    if (missingEntryBvids.length > 0) {
+        throw new Error(`入口 BV ${missingEntryBvids.join(', ')} 未出现在本轮候选结果中，且自动补抓后仍无有效分P`);
     }
 
-    console.log(`  🏆 采用 ${winner.bvid}: ${winner.songs.length} 首`);
+    console.log(`  🏆 season ${group.seasonId || entryBvid} 采用 ${winner.bvid}: ${winner.songs.length} 首`);
     return {
         songs: dedupeSongs(mergedSongs),
         runRecord,
@@ -709,7 +736,7 @@ function shouldProcessConfig(config) {
 }
 
 // ==========================================
-// 🔧 核心逻辑：按稿件播放量选择入口BV探针，保留后缀清洗
+// 🔧 核心逻辑：先按 UGC season 汇总分节入口，再按合集播放量选择探针
 // ==========================================
 async function processSinger(config, samplingState) {
     const { bvids, alias, resolvedFile } = config;
@@ -735,11 +762,33 @@ async function processSinger(config, samplingState) {
     const failedBvids = [];
     const successfulRunRecords = [];
 
-    for (const bvid of bvids) {
+    const metadataByEntry = new Map();
+    for (const bvid of configuredBvids) {
         try {
-            const entryResult = await processEntryBvid(
+            console.log(`  🔎 入口 BV: ${bvid}，读取完整合集稿件元数据...`);
+            const metadata = await withRetry(
+                () => loadBiliCollectionMetadata(bvid),
+                3,
+                5000
+            );
+            metadataByEntry.set(bvid, metadata);
+        } catch (err) {
+            failedBvids.push(bvid);
+            console.warn(`  ⚠️ 入口 BV:${bvid} 合集元数据读取失败，本轮不覆盖该来源。错误：${err.message}`);
+        }
+
+        if (configuredBvids.indexOf(bvid) < configuredBvids.length - 1) {
+            await new Promise(resolve => setTimeout(resolve, 2000));
+        }
+    }
+
+    const collectionGroups = groupCollectionEntries(configuredBvids, metadataByEntry);
+    console.log(`  📚 ${configuredBvids.length} 个入口 BV 合并为 ${collectionGroups.length} 个独立合集抽样组`);
+    for (const group of collectionGroups) {
+        try {
+            const entryResult = await processCollectionGroup(
                 config,
-                bvid,
+                group,
                 samplingState,
                 existingIdentitiesByBvid,
                 requiredResultCache,
@@ -749,12 +798,8 @@ async function processSinger(config, samplingState) {
             entryResult.candidateBvids.forEach(candidateBvid => activeBvids.add(candidateBvid));
             successfulRunRecords.push(entryResult.runRecord);
         } catch (err) {
-            failedBvids.push(bvid);
-            console.warn(`  ⚠️  入口BV:${bvid} 处理失败，本轮不覆盖该来源。错误：${err.message}`);
-        }
-
-        if (bvids.indexOf(bvid) < bvids.length - 1) {
-            await new Promise(resolve => setTimeout(resolve, 2000));
+            failedBvids.push(...group.entryBvids);
+            console.warn(`  ⚠️ 合集入口 BV:${group.entryBvids.join(', ')} 处理失败，本轮不覆盖该来源。错误：${err.message}`);
         }
     }
 

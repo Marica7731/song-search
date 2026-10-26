@@ -35,7 +35,7 @@ jobs:
 
       - name: 验证更新脚本回归
         run: |
-          node --test scripts/update-songs-guard.test.js scripts/bilibili-page-api.test.js scripts/bvid-probe-selection.test.js
+          node --test scripts/update-songs-guard.test.js scripts/bilibili-page-api.test.js scripts/bvid-probe-selection.test.js scripts/bvid-collection-groups.test.js
           node scripts/check-title-cleaning.js
           bash deploy/wdc/v-slice-browser-dispatch.test.sh
 
