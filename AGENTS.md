@@ -39,7 +39,7 @@ node --check scripts/update-songs.js
 node --check scripts/bilibili-page-api.js
 node --check scripts/bvid-probe-selection.js
 node --check scripts/bvid-collection-groups.js
-node --test scripts/update-songs-guard.test.js scripts/bilibili-page-api.test.js scripts/bvid-probe-selection.test.js scripts/bvid-collection-groups.test.js
+node --test scripts/update-songs-guard.test.js scripts/bilibili-page-api.test.js scripts/bvid-probe-selection.test.js scripts/bvid-collection-groups.test.js scripts/dup-check-core.test.js
 node scripts/check-title-cleaning.js
 bash deploy/wdc/v-slice-browser-dispatch.test.sh
 git diff --check
