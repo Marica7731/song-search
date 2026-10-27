@@ -29,7 +29,7 @@
 
 ### 三个独立模块
 - `bv-dup-check.html`：按 BV 号批量查重
-- `title-artist-dup-check.html`：按“歌名 - 歌手”批量查重
+- `title-artist-dup-check.html`：按“歌名 - 歌手”批量查重，并分别显示歌名命中与歌名＋歌手命中；只有当前查询范围的来源完整加载、且歌名无命中时才标记“全新歌名”。来源加载失败会显示覆盖率、失败文件和原因，未命中会改为“无法判定”。
 - `title-artist-check.html`：歌名-歌手查询/校验
   - 未命中项支持改名重查
   - 提供网易云搜索辅助链接
@@ -134,6 +134,7 @@ song-search/
 │  └─ github-bv-sampling-state.json
 │                              # BV 探针运行状态，cache 保存，不提交
 ├─ scripts/
+│  ├─ dup-check-core.test.js   # 歌名-歌手匹配与来源完整性回归测试
 │  ├─ update-songs.js          # 数据抓取与生成脚本
 │  ├─ bilibili-page-api.js      # view API 分 P 与合集稿件元数据适配器
 │  ├─ bilibili-page-api.test.js # view API 适配器回归测试
@@ -159,6 +160,7 @@ song-search/
 - 页面功能修改对应的 HTML 或共享 JS；生成数据不要直接手改。
 - 涉及来源时先使用 `UPDATE_SONGS_ONLY` 做定向抓取，核对歌曲数量、分 P 范围和首尾链接，再运行完整更新。
 - 推送前执行语法检查、Node 回归测试、分发器测试、标题清洗检查和 `git diff --check`，并通过本地 HTTP 服务检查相关页面。
+- 歌名-歌手查重的匹配与来源加载回归：`node --test scripts/dup-check-core.test.js`。
 - `main` 由 GitHub Pages 直接发布。歌曲数据由 WDC 每 10 分钟分发一轮，总量日报由 `song-growth.yml` 维护。
 - WDC 不托管本仓库和 Puppeteer，只保存分发器。分发器部署与验证方法见 [`deploy/wdc/README.md`](./deploy/wdc/README.md)。
 - 发布验收同时检查 Action 结果、远端提交和线上页面；仅本地测试通过不代表已经上线。

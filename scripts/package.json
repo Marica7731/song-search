@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "update-songs.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --test update-songs-guard.test.js bilibili-page-api.test.js bvid-probe-selection.test.js bvid-collection-groups.test.js dup-check-core.test.js"
   },
   "keywords": [],
   "author": "",
