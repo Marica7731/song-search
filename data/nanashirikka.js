@@ -1,6 +1,6 @@
 // ななし律歌 - 歌单数据 (多合集汇总)
 // 来源: BV1wHQVBTEU5
-// 生成时间: 10/27/2026, 7:09:19 PM
+// 生成时间: 10/27/2026, 9:31:51 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2643,6 +2643,174 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-10-22] Although a lot has happened, I still came to sing",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1v6n46pEWX?p=19",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "君が夜の海に還るまで",
+  "artist": "キタニタツヤ",
+  "collection": "[Song Cut] [2026-10-26] A rare sight! Nanashi Rikka sings in the evening",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEeA?p=1",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-26] A rare sight! Nanashi Rikka sings in the evening",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEeA?p=2",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-10-26] A rare sight! Nanashi Rikka sings in the evening",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEeA?p=3",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "[Song Cut] [2026-10-26] A rare sight! Nanashi Rikka sings in the evening",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEeA?p=4",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ヒバナ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-26] A rare sight! Nanashi Rikka sings in the evening",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEeA?p=5",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ゴーストルール",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-26] A rare sight! Nanashi Rikka sings in the evening",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEeA?p=6",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru feat. 鏡音リン",
+  "collection": "[Song Cut] [2026-10-26] A rare sight! Nanashi Rikka sings in the evening",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEeA?p=7",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-26] A rare sight! Nanashi Rikka sings in the evening",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEeA?p=8",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-26] A rare sight! Nanashi Rikka sings in the evening",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEeA?p=9",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス feat. 可不",
+  "collection": "[Song Cut] [2026-10-26] A rare sight! Nanashi Rikka sings in the evening",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEeA?p=10",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "[Song Cut] [2026-10-26] A rare sight! Nanashi Rikka sings in the evening",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEeA?p=11",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "夜咄ディセイブ",
+  "artist": "じん feat. IA",
+  "collection": "[Song Cut] [2026-10-26] A rare sight! Nanashi Rikka sings in the evening",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEeA?p=12",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "[Song Cut] [2026-10-26] A rare sight! Nanashi Rikka sings in the evening",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEeA?p=13",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ハイド・アンド・シーク",
+  "artist": "NOMELON NOLEMON",
+  "collection": "[Song Cut] [2026-10-26] A rare sight! Nanashi Rikka sings in the evening",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEeA?p=14",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "わたしの一番かわいいところ",
+  "artist": "FRUITS ZIPPER",
+  "collection": "[Song Cut] [2026-10-26] A rare sight! Nanashi Rikka sings in the evening",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEeA?p=15",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "かわいいだけじゃだめですか？",
+  "artist": "CUTIE STREET",
+  "collection": "[Song Cut] [2026-10-26] A rare sight! Nanashi Rikka sings in the evening",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEeA?p=16",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-26] A rare sight! Nanashi Rikka sings in the evening",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEeA?p=17",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "The Beginning",
+  "artist": "ONE OK ROCK",
+  "collection": "[Song Cut] [2026-10-26] A rare sight! Nanashi Rikka sings in the evening",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEeA?p=18",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "[Song Cut] [2026-10-26] A rare sight! Nanashi Rikka sings in the evening",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEeA?p=19",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "[Song Cut] [2026-10-26] A rare sight! Nanashi Rikka sings in the evening",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEeA?p=20",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat. IA",
+  "collection": "[Song Cut] [2026-10-26] A rare sight! Nanashi Rikka sings in the evening",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEeA?p=21",
   "source": "nanashirikka.js"
 }
 );

@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 10/27/2026, 7:40:28 PM
+// 生成时间: 10/27/2026, 9:59:01 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -27163,6 +27163,390 @@ window.SONG_DATA.push(
   "collection": "Orisaki Moshu Song Cuts 2026-10-17 Goal: 666 likes ✨Welcome first-time visitors",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UaH36iEQz?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "Live song cut 2026-10-26 Enter the live title here, chat and sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEVR?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "未完成婚姻論",
+  "artist": "Dannie May",
+  "collection": "Live song cut 2026-10-26 Enter the live title here, chat and sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEVR?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "Live song cut 2026-10-26 Enter the live title here, chat and sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEVR?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "DO-して",
+  "artist": "桜っ子クラブさくら組",
+  "collection": "Live song cut 2026-10-26 Enter the live title here, chat and sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEVR?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ン・パカ マーチ",
+  "artist": "徳光由香",
+  "collection": "Live song cut 2026-10-26 Enter the live title here, chat and sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEVR?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "WILD CHALLENGER",
+  "artist": "JINDOU",
+  "collection": "Live song cut 2026-10-26 Enter the live title here, chat and sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEVR?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "CH4NGE",
+  "artist": "Giga feat. 可不",
+  "collection": "Live song cut 2026-10-26 Enter the live title here, chat and sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEVR?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "デビルマンのうた",
+  "artist": "十田敬三、ボーカル・ショップ",
+  "collection": "Live song cut 2026-10-26 Enter the live title here, chat and sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEVR?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "Mrs.Pumpkinの滑稽な夢",
+  "artist": "ハチ feat. 初音ミク",
+  "collection": "Live song cut 2026-10-26 Enter the live title here, chat and sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEVR?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "アンインストール",
+  "artist": "石川智晶",
+  "collection": "Live song cut 2026-10-26 Enter the live title here, chat and sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEVR?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "PONPONPON",
+  "artist": "きゃりーぱみゅぱみゅ",
+  "collection": "Live song cut 2026-10-26 Enter the live title here, chat and sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEVR?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "Wind",
+  "artist": "Akeboshi",
+  "collection": "Live song cut 2026-10-26 Enter the live title here, chat and sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEVR?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "Live song cut 2026-10-26 Enter the live title here, chat and sing",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1fSxV6iEVR?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "霽れを待つ",
+  "artist": "Orangestar feat. 初音ミク",
+  "collection": "Sora-iro Mea Song Cut 2026-10-09 Lurkers and new viewers are all welcome, come relax and enjoy some songs🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6xV6CEHK?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "林檎売りの泡沫少女",
+  "artist": "ゆっけ feat. GUMI",
+  "collection": "Sora-iro Mea Song Cut 2026-10-09 Lurkers and new viewers are all welcome, come relax and enjoy some songs🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6xV6CEHK?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "黒雪姫",
+  "artist": "少女病",
+  "collection": "Sora-iro Mea Song Cut 2026-10-09 Lurkers and new viewers are all welcome, come relax and enjoy some songs🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6xV6CEHK?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "黒の預言書",
+  "artist": "Sound Horizon",
+  "collection": "Sora-iro Mea Song Cut 2026-10-09 Lurkers and new viewers are all welcome, come relax and enjoy some songs🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6xV6CEHK?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "ハジマリのクロニクル",
+  "artist": "Sound Horizon",
+  "collection": "Sora-iro Mea Song Cut 2026-10-09 Lurkers and new viewers are all welcome, come relax and enjoy some songs🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6xV6CEHK?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "美しきもの",
+  "artist": "Sound Horizon",
+  "collection": "Sora-iro Mea Song Cut 2026-10-09 Lurkers and new viewers are all welcome, come relax and enjoy some songs🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6xV6CEHK?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "亡國覚醒カタルシス",
+  "artist": "ALI PROJECT",
+  "collection": "Sora-iro Mea Song Cut 2026-10-09 Lurkers and new viewers are all welcome, come relax and enjoy some songs🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6xV6CEHK?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "oblivious",
+  "artist": "Kalafina",
+  "collection": "Sora-iro Mea Song Cut 2026-10-09 Lurkers and new viewers are all welcome, come relax and enjoy some songs🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6xV6CEHK?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "サクラメイキュウ",
+  "artist": "分島花音",
+  "collection": "Sora-iro Mea Song Cut 2026-10-09 Lurkers and new viewers are all welcome, come relax and enjoy some songs🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6xV6CEHK?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "色彩",
+  "artist": "坂本真綾",
+  "collection": "Sora-iro Mea Song Cut 2026-10-09 Lurkers and new viewers are all welcome, come relax and enjoy some songs🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6xV6CEHK?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "ベノム",
+  "artist": "かいりきベア feat. flower",
+  "collection": "Sora-iro Mea Song Cut 2026-10-09 Lurkers and new viewers are all welcome, come relax and enjoy some songs🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6xV6CEHK?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "ダーリンダンス",
+  "artist": "かいりきベア feat. 初音ミク",
+  "collection": "Sora-iro Mea Song Cut 2026-10-09 Lurkers and new viewers are all welcome, come relax and enjoy some songs🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6xV6CEHK?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "アイ情劣等生",
+  "artist": "かいりきベア feat. 鏡音リン",
+  "collection": "Sora-iro Mea Song Cut 2026-10-09 Lurkers and new viewers are all welcome, come relax and enjoy some songs🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6xV6CEHK?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "Sora-iro Mea Song Cut 2026-10-09 Lurkers and new viewers are all welcome, come relax and enjoy some songs🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6xV6CEHK?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "ODDS&ENDS",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "Sora-iro Mea Song Cut 2026-10-09 Lurkers and new viewers are all welcome, come relax and enjoy some songs🎵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6xV6CEHK?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "月がとっても青いから",
+  "artist": "菅原都々子",
+  "collection": "Nanafuji Chihane Song Cut 2026-10-06 Only Singing for 30 Minutes_20261006",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6xV6CE7f?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "夜桜お七",
+  "artist": "坂本冬美",
+  "collection": "Nanafuji Chihane Song Cut 2026-10-06 Only Singing for 30 Minutes_20261006",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6xV6CE7f?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "oblivious",
+  "artist": "Kalafina",
+  "collection": "Nanafuji Chihane Song Cut 2026-10-06 Only Singing for 30 Minutes_20261006",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6xV6CE7f?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "Silly-Go-Round",
+  "artist": "FictionJunction YUUKA",
+  "collection": "Nanafuji Chihane Song Cut 2026-10-06 Only Singing for 30 Minutes_20261006",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6xV6CE7f?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "薔薇獄乙女",
+  "artist": "ALI PROJECT",
+  "collection": "Nanafuji Chihane Song Cut 2026-10-06 Only Singing for 30 Minutes_20261006",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6xV6CE7f?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "かたち",
+  "artist": "安月名莉子",
+  "collection": "Nanafuji Chihane Song Cut 2026-10-06 Only Singing for 30 Minutes_20261006",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6xV6CE7f?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "電ポルP feat. 初音ミク",
+  "collection": "Nanafuji Chihane Song Cut 2026-10-06 Only Singing for 30 Minutes_20261006",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1w6xV6CE7f?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "Treasure",
+  "artist": "hiro",
+  "collection": "ukuna ch. Ukuna song cut 2026-10-16 Would you like to give it a listen? Even if it's just one song",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FCxV6rEnW?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "collection": "ukuna ch. Ukuna song cut 2026-10-16 Would you like to give it a listen? Even if it's just one song",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FCxV6rEnW?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "金魚花火",
+  "artist": "大塚愛",
+  "collection": "ukuna ch. Ukuna song cut 2026-10-16 Would you like to give it a listen? Even if it's just one song",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FCxV6rEnW?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "White Rabbit",
+  "artist": "緑黄色社会",
+  "collection": "ukuna ch. Ukuna song cut 2026-10-16 Would you like to give it a listen? Even if it's just one song",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FCxV6rEnW?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "情熱",
+  "artist": "[iksi:d]",
+  "collection": "ukuna ch. Ukuna song cut 2026-10-16 Would you like to give it a listen? Even if it's just one song",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FCxV6rEnW?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "ukuna ch. Ukuna song cut 2026-10-16 Would you like to give it a listen? Even if it's just one song",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FCxV6rEnW?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "君がいるから・・",
+  "artist": "西脇唯",
+  "collection": "ukuna ch. Ukuna song cut 2026-10-16 Would you like to give it a listen? Even if it's just one song",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FCxV6rEnW?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "笑顔の訳",
+  "artist": "引田香織",
+  "collection": "ukuna ch. Ukuna song cut 2026-10-16 Would you like to give it a listen? Even if it's just one song",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FCxV6rEnW?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "oblivious",
+  "artist": "Kalafina",
+  "collection": "ukuna ch. Ukuna song cut 2026-10-16 Would you like to give it a listen? Even if it's just one song",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FCxV6rEnW?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "光の旋律",
+  "artist": "Kalafina",
+  "collection": "ukuna ch. Ukuna song cut 2026-10-16 Would you like to give it a listen? Even if it's just one song",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FCxV6rEnW?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "to the beginning",
+  "artist": "Kalafina",
+  "collection": "ukuna ch. Ukuna song cut 2026-10-16 Would you like to give it a listen? Even if it's just one song",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FCxV6rEnW?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "Lacrimosa",
+  "artist": "Kalafina",
+  "collection": "ukuna ch. Ukuna song cut 2026-10-16 Would you like to give it a listen? Even if it's just one song",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FCxV6rEnW?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "NO EXIT ORION",
+  "artist": "Printemps",
+  "collection": "ukuna ch. Ukuna song cut 2026-10-16 Would you like to give it a listen? Even if it's just one song",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1FCxV6rEnW?p=13",
   "source": "others.js"
 },
     {
