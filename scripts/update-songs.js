@@ -162,17 +162,17 @@ const COLLECTION_TITLE_SELECTORS = [
 // 🔧 配置区
 // ==========================================
 const SINGER_CONFIGS = [
-    { bvids: ["BV1JRwUzoEpM","BV1icwSzXEYv"], file: "asuyumekanae", alias: "明日夢かなえ" },
+    { bvids: ["BV1JRwUzoEpM"], file: "asuyumekanae", alias: "明日夢かなえ" },
     { bvids: ["BV1owcoz3Ekw"], file: "chiyutori ", alias: "知悠" },
     { bvids: ["BV1R2wQzfEuY"], file: "momijimaru", alias: "紅葉丸", archived: true, archiveReason: "保留历史数据，不再刷新" },
     { bvids: ["BV1G4wxzmEV5"], file: "kukuri", alias: "戸鎖くくり" },
-    { bvids: ["BV1G6fLB7Efr","BV1J5P7zrEB3"], file: "naraetan", alias: "なれたん Naraetan" },
+    { bvids: ["BV1G6fLB7Efr"], file: "naraetan", alias: "なれたん Naraetan" },
     { bvids: ["BV1HRfuBCEXN"], file: "figaro", alias: "Figaro" },
-    { bvids: ["BV1cofuBGEkX","BV1JgMK6uEDQ"], file: "ririsya", alias: "凛凛咲 ririsya" },
+    { bvids: ["BV1cofuBGEkX"], file: "ririsya", alias: "凛凛咲 ririsya" },
     { bvids: ["BV1ve411z7Nm"], file: "suu_usuwa", alias: "稀羽すう Suu_Usuwa" },
     { bvids: ["BV1mJZwB8EVa"], file: "ray", alias: "來-Ray-" },
     { bvids: ["BV1JSZHBrEVw"], file: "sakusan", alias: "酢酸 / SAKUSAN" },
-    { bvids: ["BV1p1zBBCEZ3","BV1J3MK6BEfL"], file: "yoshika", alias: "よしか YOSHIKA" },
+    { bvids: ["BV1p1zBBCEZ3"], file: "yoshika", alias: "よしか YOSHIKA" },
     { bvids: ["BV1aDzEBBE3S"], file: "yuri", alias: "優莉 yuri" },
     { bvids: ["BV1zzZPBsEum"], file: "otomoneruki", alias: "音門るき" },
     { bvids: ["BV1hw4m1i7qN"], file: "linon", alias: "天籠りのん" },
@@ -183,9 +183,9 @@ const SINGER_CONFIGS = [
     { bvids: ["BV1UCkhBkEon"], file: "MunMosh", alias: "むんもっしゅ" },
     { bvids: ["BV1NNdeBVEGd"], file: "kotatsu", alias: "KOTATSU" },
     { bvids: ["BV1kLXbBJEiZ"], file: "sumica", alias: "澄花" },
-    { bvids: ["BV1KHXxBUErU","BV1iHQXBzEgU"], file: "romany", alias: "ロマニ" },
+    { bvids: ["BV1KHXxBUErU"], file: "romany", alias: "ロマニ" },
     { bvids: ["BV1mNpUzXEiW"], file: "friends", alias: "联动" },
-    { bvids: ["BV1rkCTYzEZN","BV1wt421j7gT","BV1KpCdYmE3T","BV1aC4ce2E5s","BV1JbX9BmE5m","BV1nJ5S6CETQ","BV1duSRBBEkb"], file: "relay", alias: "接力" },
+    { bvids: ["BV1rkCTYzEZN"], file: "relay", alias: "接力" },
     { bvids: ["BV1tKcZztEw5"], file: "hasumisahiro", alias: "羽澄さひろ" },
     { bvids: ["BV18xo1BHEkX"], file: "aimarun", alias: "あいまるん。" },
     { bvids: ["BV1wHQVBTEU5"], file: "nanashirikka", alias: "ななし律歌" },
@@ -237,7 +237,7 @@ const SINGER_CONFIGS = [
         probeCount: 15
     },
     {
-        bvids: ["BV1VPH26kESs", "BV1AzJ66qEjR"],
+        bvids: ["BV1VPH26kESs"],
         file: "natsumeikune",
         alias: "なつかしちゃん",
         rawDataLoader: "bili-view-api"
