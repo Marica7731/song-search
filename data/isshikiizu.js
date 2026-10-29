@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 10/29/2026, 7:50:59 PM
+// 生成时间: 10/29/2026, 11:07:47 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7467,6 +7467,478 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-10-24] Sending you healing and vitality 🎤💫 Welcome, first-time friends",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDHM6dEU8?p=37",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "めざせポケモンマスター",
+  "artist": "松本梨香",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "OK!",
+  "artist": "松本梨香",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ライバル！",
+  "artist": "松本梨香",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "青と夏",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "チェリー",
+  "artist": "スピッツ",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "三原色",
+  "artist": "YOASOBI",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "右肩の蝶",
+  "artist": "のりぴー feat. 鏡音レン",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ウミユリ海底譚",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat. IA",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ",
+  "artist": "MAISONdes feat. 花譜・ツミキ",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "百花繚乱",
+  "artist": "幾田りら",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "シーソーゲーム 〜勇敢な恋の歌〜",
+  "artist": "Mr.Children",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "HANABI",
+  "artist": "Mr.Children",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Don't say \"lazy\"",
+  "artist": "桜高軽音部",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "全力少年",
+  "artist": "スキマスイッチ",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Over Soul",
+  "artist": "林原めぐみ",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ignited -イグナイテッド-",
+  "artist": "T.M.Revolution",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "限界突破×サバイバー",
+  "artist": "氷川きよし",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=22",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=23",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ(平野綾)",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=24",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "表裏一体",
+  "artist": "ゆず",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=25",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "oath sign",
+  "artist": "LiSA",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=26",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "FLAGS",
+  "artist": "T.M.Revolution",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=27",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "resonance",
+  "artist": "T.M.Revolution",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=28",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "航海の唄",
+  "artist": "さユり",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=29",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アイのシナリオ",
+  "artist": "CHiCO with HoneyWorks",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=30",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=31",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "チェリーポップ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=32",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "きゅうくらりん",
+  "artist": "いよわ feat. 可不",
+  "collection": "[Song Cut] [2026-10-28] Impromptu Singing 🎤 How about listening to a song at noon? 💫 Welcome new viewers | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EUxw6BE2h?p=33",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "海の幽霊",
+  "artist": "米津玄師",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ハルカ",
+  "artist": "YOASOBI",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "くつずれ",
+  "artist": "ハチワレ(田中誠人)",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "歌舞伎町の女王",
+  "artist": "椎名林檎",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "本能",
+  "artist": "椎名林檎",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "永遠のあくる日",
+  "artist": "Ado",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "島のうた",
+  "artist": "セイレーン(鈴木みのり)",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "やさしさで溢れるように",
+  "artist": "JUJU",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アンコール",
+  "artist": "YOASOBI",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "愛唄",
+  "artist": "GReeeeN",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ヒトリノ夜",
+  "artist": "ポルノグラフィティ",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "愛言葉Ⅲ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP) feat. GUMI",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ウタカタララバイ",
+  "artist": "Ado",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "小さな恋のうた",
+  "artist": "MONGOL800",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra・月見ヤチヨ(早見沙織)",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=22",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "相思相愛",
+  "artist": "aiko",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=23",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "愛を伝えたいだとか",
+  "artist": "あいみょん",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=24",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=25",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "平行線",
+  "artist": "さユり",
+  "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=26",
   "source": "isshikiizu.js"
 }
 );

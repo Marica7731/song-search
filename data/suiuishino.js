@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 10/29/2026, 8:08:31 PM
+// 生成时间: 10/29/2026, 11:28:06 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6192,7 +6192,7 @@ window.SONG_DATA.push(
     {
   "title": "声",
   "artist": "羊文学",
-  "collection": "【歌切】[2026-10-28]午间治愈弹唱！！｜しの的裁缝铺",
+  "collection": "[Song Cut] [2026-10-28] Lunchtime Healing Acoustic Singing!!｜Shino's Tailor Shop",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Uxw6BEcZ?p=1",
   "source": "suiuishino.js"
@@ -6200,7 +6200,7 @@ window.SONG_DATA.push(
     {
   "title": "またねがあれば",
   "artist": "risou feat. 初音ミク",
-  "collection": "【歌切】[2026-10-28]午间治愈弹唱！！｜しの的裁缝铺",
+  "collection": "[Song Cut] [2026-10-28] Lunchtime Healing Acoustic Singing!!｜Shino's Tailor Shop",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Uxw6BEcZ?p=2",
   "source": "suiuishino.js"
@@ -6208,7 +6208,7 @@ window.SONG_DATA.push(
     {
   "title": "半透明人間",
   "artist": "back number",
-  "collection": "【歌切】[2026-10-28]午间治愈弹唱！！｜しの的裁缝铺",
+  "collection": "[Song Cut] [2026-10-28] Lunchtime Healing Acoustic Singing!!｜Shino's Tailor Shop",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Uxw6BEcZ?p=3",
   "source": "suiuishino.js"
@@ -6216,7 +6216,7 @@ window.SONG_DATA.push(
     {
   "title": "冬眠",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-28]午间治愈弹唱！！｜しの的裁缝铺",
+  "collection": "[Song Cut] [2026-10-28] Lunchtime Healing Acoustic Singing!!｜Shino's Tailor Shop",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Uxw6BEcZ?p=4",
   "source": "suiuishino.js"
@@ -6224,7 +6224,7 @@ window.SONG_DATA.push(
     {
   "title": "楓",
   "artist": "スピッツ",
-  "collection": "【歌切】[2026-10-28]午间治愈弹唱！！｜しの的裁缝铺",
+  "collection": "[Song Cut] [2026-10-28] Lunchtime Healing Acoustic Singing!!｜Shino's Tailor Shop",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Uxw6BEcZ?p=5",
   "source": "suiuishino.js"
@@ -6232,7 +6232,7 @@ window.SONG_DATA.push(
     {
   "title": "それがあなたの幸せとしても",
   "artist": "Heavenz feat. 巡音ルカ",
-  "collection": "【歌切】[2026-10-28]午间治愈弹唱！！｜しの的裁缝铺",
+  "collection": "[Song Cut] [2026-10-28] Lunchtime Healing Acoustic Singing!!｜Shino's Tailor Shop",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Uxw6BEcZ?p=6",
   "source": "suiuishino.js"
@@ -6240,7 +6240,7 @@ window.SONG_DATA.push(
     {
   "title": "Rolling star",
   "artist": "YUI",
-  "collection": "【歌切】[2026-10-28]午间治愈弹唱！！｜しの的裁缝铺",
+  "collection": "[Song Cut] [2026-10-28] Lunchtime Healing Acoustic Singing!!｜Shino's Tailor Shop",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Uxw6BEcZ?p=7",
   "source": "suiuishino.js"
@@ -6248,7 +6248,7 @@ window.SONG_DATA.push(
     {
   "title": "LIFE",
   "artist": "YUI",
-  "collection": "【歌切】[2026-10-28]午间治愈弹唱！！｜しの的裁缝铺",
+  "collection": "[Song Cut] [2026-10-28] Lunchtime Healing Acoustic Singing!!｜Shino's Tailor Shop",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Uxw6BEcZ?p=8",
   "source": "suiuishino.js"
@@ -6256,7 +6256,7 @@ window.SONG_DATA.push(
     {
   "title": "CHE.R.RY",
   "artist": "YUI",
-  "collection": "【歌切】[2026-10-28]午间治愈弹唱！！｜しの的裁缝铺",
+  "collection": "[Song Cut] [2026-10-28] Lunchtime Healing Acoustic Singing!!｜Shino's Tailor Shop",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Uxw6BEcZ?p=9",
   "source": "suiuishino.js"
@@ -6264,7 +6264,7 @@ window.SONG_DATA.push(
     {
   "title": "拝啓、少年よ",
   "artist": "Hump Back",
-  "collection": "【歌切】[2026-10-28]午间治愈弹唱！！｜しの的裁缝铺",
+  "collection": "[Song Cut] [2026-10-28] Lunchtime Healing Acoustic Singing!!｜Shino's Tailor Shop",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Uxw6BEcZ?p=10",
   "source": "suiuishino.js"
@@ -6272,7 +6272,7 @@ window.SONG_DATA.push(
     {
   "title": "愛を伝えたいだとか",
   "artist": "あいみょん",
-  "collection": "【歌切】[2026-10-28]午间治愈弹唱！！｜しの的裁缝铺",
+  "collection": "[Song Cut] [2026-10-28] Lunchtime Healing Acoustic Singing!!｜Shino's Tailor Shop",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Uxw6BEcZ?p=11",
   "source": "suiuishino.js"
@@ -6280,7 +6280,7 @@ window.SONG_DATA.push(
     {
   "title": "心做し",
   "artist": "蝶々P feat. GUMI",
-  "collection": "【歌切】[2026-10-28]午间治愈弹唱！！｜しの的裁缝铺",
+  "collection": "[Song Cut] [2026-10-28] Lunchtime Healing Acoustic Singing!!｜Shino's Tailor Shop",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Uxw6BEcZ?p=12",
   "source": "suiuishino.js"
@@ -6288,7 +6288,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒッチコック",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-10-28]午间治愈弹唱！！｜しの的裁缝铺",
+  "collection": "[Song Cut] [2026-10-28] Lunchtime Healing Acoustic Singing!!｜Shino's Tailor Shop",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Uxw6BEcZ?p=13",
   "source": "suiuishino.js"

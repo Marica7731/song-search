@@ -1,6 +1,6 @@
 // チョま - 歌单数据 (多合集汇总)
 // 来源: BV1kM3L6GEBV
-// 生成时间: 10/29/2026, 7:38:48 PM
+// 生成时间: 10/29/2026, 10:52:37 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5107,6 +5107,102 @@ window.SONG_DATA.push(
   "collection": "Choma song cut October 24, 2026 13:00 session Singing with an aurora-like, ever-changing voice!! 2026-10-24",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16AHu6mEw5?p=22",
+  "source": "choma.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "Cho ma song cut October 28, 2026, 8 PM session First-letter wheel decides which song to sing!! 2026-10-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JUxw6BEFd?p=1",
+  "source": "choma.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH//",
+  "collection": "Cho ma song cut October 28, 2026, 8 PM session First-letter wheel decides which song to sing!! 2026-10-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JUxw6BEFd?p=2",
+  "source": "choma.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "Cho ma song cut October 28, 2026, 8 PM session First-letter wheel decides which song to sing!! 2026-10-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JUxw6BEFd?p=3",
+  "source": "choma.js"
+},
+    {
+  "title": "チェチェ・チェック・ワンツー！",
+  "artist": "和田たけあき(くらげP) feat. 音街ウナ",
+  "collection": "Cho ma song cut October 28, 2026, 8 PM session First-letter wheel decides which song to sing!! 2026-10-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JUxw6BEFd?p=4",
+  "source": "choma.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "Cho ma song cut October 28, 2026, 8 PM session First-letter wheel decides which song to sing!! 2026-10-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JUxw6BEFd?p=5",
+  "source": "choma.js"
+},
+    {
+  "title": "キセキ",
+  "artist": "GReeeeN",
+  "collection": "Cho ma song cut October 28, 2026, 8 PM session First-letter wheel decides which song to sing!! 2026-10-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JUxw6BEFd?p=6",
+  "source": "choma.js"
+},
+    {
+  "title": "ニア",
+  "artist": "夏代孝明 feat. 初音ミク",
+  "collection": "Cho ma song cut October 28, 2026, 8 PM session First-letter wheel decides which song to sing!! 2026-10-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JUxw6BEFd?p=7",
+  "source": "choma.js"
+},
+    {
+  "title": "マトリョシカ",
+  "artist": "ハチ feat. 初音ミク・GUMI",
+  "collection": "Cho ma song cut October 28, 2026, 8 PM session First-letter wheel decides which song to sing!! 2026-10-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JUxw6BEFd?p=8",
+  "source": "choma.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "Cho ma song cut October 28, 2026, 8 PM session First-letter wheel decides which song to sing!! 2026-10-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JUxw6BEFd?p=9",
+  "source": "choma.js"
+},
+    {
+  "title": "ムーンライト伝説",
+  "artist": "DALI",
+  "collection": "Cho ma song cut October 28, 2026, 8 PM session First-letter wheel decides which song to sing!! 2026-10-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JUxw6BEFd?p=10",
+  "source": "choma.js"
+},
+    {
+  "title": "さようなら、花泥棒さん",
+  "artist": "メル feat. 初音ミク",
+  "collection": "Cho ma song cut October 28, 2026, 8 PM session First-letter wheel decides which song to sing!! 2026-10-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JUxw6BEFd?p=11",
+  "source": "choma.js"
+},
+    {
+  "title": "HOT LIMIT",
+  "artist": "T.M.Revolution",
+  "collection": "Cho ma song cut October 28, 2026, 8 PM session First-letter wheel decides which song to sing!! 2026-10-28",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JUxw6BEFd?p=12",
   "source": "choma.js"
 }
 );

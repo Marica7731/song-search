@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 10/29/2026, 7:02:45 PM
+// 生成时间: 10/29/2026, 10:11:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11067,6 +11067,78 @@ window.SONG_DATA.push(
   "collection": "[💐🎸Song Cut] [2026-10-24] Leisurely singing and playing guitar from noon~ Want to come listen for a while?🌞",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18WHu6PEb9?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "Do you think about me?",
+  "artist": "aiko",
+  "collection": "[💐🎸Song Cut] [2026-10-29] Morning Activity | I'll sing and play even just after waking up, please let me sing.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sixw62Ea2?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "そっけない",
+  "artist": "RADWIMPS",
+  "collection": "[💐🎸Song Cut] [2026-10-29] Morning Activity | I'll sing and play even just after waking up, please let me sing.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sixw62Ea2?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "声",
+  "artist": "羊文学",
+  "collection": "[💐🎸Song Cut] [2026-10-29] Morning Activity | I'll sing and play even just after waking up, please let me sing.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sixw62Ea2?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "[💐🎸Song Cut] [2026-10-29] Morning Activity | I'll sing and play even just after waking up, please let me sing.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sixw62Ea2?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "[💐🎸Song Cut] [2026-10-29] Morning Activity | I'll sing and play even just after waking up, please let me sing.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sixw62Ea2?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "あくび",
+  "artist": "Tere",
+  "collection": "[💐🎸Song Cut] [2026-10-29] Morning Activity | I'll sing and play even just after waking up, please let me sing.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sixw62Ea2?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "コントラスト",
+  "artist": "TOMOO",
+  "collection": "[💐🎸Song Cut] [2026-10-29] Morning Activity | I'll sing and play even just after waking up, please let me sing.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sixw62Ea2?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "バカでしょ",
+  "artist": "コレサワ",
+  "collection": "[💐🎸Song Cut] [2026-10-29] Morning Activity | I'll sing and play even just after waking up, please let me sing.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sixw62Ea2?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "澄花原创",
+  "artist": "澄花",
+  "collection": "[💐🎸Song Cut] [2026-10-29] Morning Activity | I'll sing and play even just after waking up, please let me sing.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1sixw62Ea2?p=9",
   "source": "sumica.js"
 }
 );
