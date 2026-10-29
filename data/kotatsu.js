@@ -1,6 +1,6 @@
 // KOTATSU - 歌单数据 (多合集汇总)
 // 来源: BV1NNdeBVEGd
-// 生成时间: 10/29/2026, 6:55:54 AM
+// 生成时间: 10/29/2026, 9:19:34 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8,7 +8,7 @@ window.SONG_DATA.push(
     {
   "title": "ロングホープフィリア",
   "artist": "菅田将暉",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=1",
   "source": "kotatsu.js"
@@ -16,7 +16,7 @@ window.SONG_DATA.push(
     {
   "title": "幕無し",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=2",
   "source": "kotatsu.js"
@@ -24,7 +24,7 @@ window.SONG_DATA.push(
     {
   "title": "マジカルダンサー",
   "artist": "小山田壮平",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=3",
   "source": "kotatsu.js"
@@ -32,7 +32,7 @@ window.SONG_DATA.push(
     {
   "title": "春",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=4",
   "source": "kotatsu.js"
@@ -40,7 +40,7 @@ window.SONG_DATA.push(
     {
   "title": "国語",
   "artist": "ハンバートハンバート",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=5",
   "source": "kotatsu.js"
@@ -48,7 +48,7 @@ window.SONG_DATA.push(
     {
   "title": "アルバイト",
   "artist": "3markets[ ]",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=6",
   "source": "kotatsu.js"
@@ -56,7 +56,7 @@ window.SONG_DATA.push(
     {
   "title": "感情七号線",
   "artist": "フラワーカンパニーズ",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=7",
   "source": "kotatsu.js"
@@ -64,7 +64,7 @@ window.SONG_DATA.push(
     {
   "title": "さよなら人類",
   "artist": "たま",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=8",
   "source": "kotatsu.js"
@@ -72,7 +72,7 @@ window.SONG_DATA.push(
     {
   "title": "バンド",
   "artist": "クリープハイプ",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=9",
   "source": "kotatsu.js"
@@ -80,7 +80,7 @@ window.SONG_DATA.push(
     {
   "title": "モザイクロール",
   "artist": "DECO*27",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=10",
   "source": "kotatsu.js"
@@ -88,7 +88,7 @@ window.SONG_DATA.push(
     {
   "title": "RAIN",
   "artist": "SEKAI NO OWARI",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=11",
   "source": "kotatsu.js"
@@ -96,7 +96,7 @@ window.SONG_DATA.push(
     {
   "title": "夢の恋人",
   "artist": "ズーカラデル",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=12",
   "source": "kotatsu.js"
@@ -104,7 +104,7 @@ window.SONG_DATA.push(
     {
   "title": "ココロジェリーフィッシュ",
   "artist": "ヒグチアイ",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=13",
   "source": "kotatsu.js"
@@ -112,7 +112,7 @@ window.SONG_DATA.push(
     {
   "title": "もしも僕に",
   "artist": "関取花",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=14",
   "source": "kotatsu.js"
@@ -120,7 +120,7 @@ window.SONG_DATA.push(
     {
   "title": "おあいこ",
   "artist": "ハナレグミ",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=15",
   "source": "kotatsu.js"
@@ -128,7 +128,7 @@ window.SONG_DATA.push(
     {
   "title": "性善説",
   "artist": "amazarashi",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=16",
   "source": "kotatsu.js"
@@ -136,7 +136,7 @@ window.SONG_DATA.push(
     {
   "title": "神様、",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=17",
   "source": "kotatsu.js"
@@ -144,7 +144,7 @@ window.SONG_DATA.push(
     {
   "title": "あした地球がこなごな になっても",
   "artist": "でんぱ組.inc",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=18",
   "source": "kotatsu.js"
@@ -152,7 +152,7 @@ window.SONG_DATA.push(
     {
   "title": "サーカスナイト",
   "artist": "七尾旅人",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=19",
   "source": "kotatsu.js"
@@ -160,7 +160,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=20",
   "source": "kotatsu.js"
@@ -168,7 +168,7 @@ window.SONG_DATA.push(
     {
   "title": "爆弾魔",
   "artist": "ヨルシカ",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ 1Qq24KYlDiA",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ 1Qq24KYlDiA",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ModYBUERM?p=21",
   "source": "kotatsu.js"
@@ -176,7 +176,7 @@ window.SONG_DATA.push(
     {
   "title": "漂流劇団",
   "artist": "ズーカラデル",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=1",
   "source": "kotatsu.js"
@@ -184,7 +184,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならエレジー",
   "artist": "菅田将暉",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=2",
   "source": "kotatsu.js"
@@ -192,7 +192,7 @@ window.SONG_DATA.push(
     {
   "title": "カサブタ",
   "artist": "千綿ヒデノリ",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=3",
   "source": "kotatsu.js"
@@ -200,7 +200,7 @@ window.SONG_DATA.push(
     {
   "title": "心拍数#0822",
   "artist": "蝶々P",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=4",
   "source": "kotatsu.js"
@@ -208,7 +208,7 @@ window.SONG_DATA.push(
     {
   "title": "なんでもないや",
   "artist": "RADWIMPS",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=5",
   "source": "kotatsu.js"
@@ -216,7 +216,7 @@ window.SONG_DATA.push(
     {
   "title": "時には昔の話を",
   "artist": "加藤登紀子",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=6",
   "source": "kotatsu.js"
@@ -224,7 +224,7 @@ window.SONG_DATA.push(
     {
   "title": "関白宣言",
   "artist": "さだまさし",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=7",
   "source": "kotatsu.js"
@@ -232,7 +232,7 @@ window.SONG_DATA.push(
     {
   "title": "キラキラチューン",
   "artist": "でんぱ組.inc",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=8",
   "source": "kotatsu.js"
@@ -240,7 +240,7 @@ window.SONG_DATA.push(
     {
   "title": "国語",
   "artist": "ハンバート ハンバート",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=9",
   "source": "kotatsu.js"
@@ -248,7 +248,7 @@ window.SONG_DATA.push(
     {
   "title": "ハンドメイドホーム",
   "artist": "大森靖子",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=10",
   "source": "kotatsu.js"
@@ -256,7 +256,7 @@ window.SONG_DATA.push(
     {
   "title": "LOVEずっきゅん",
   "artist": "相対性理論",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=11",
   "source": "kotatsu.js"
@@ -264,7 +264,7 @@ window.SONG_DATA.push(
     {
   "title": "世界の約束",
   "artist": "倍賞千恵子",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=12",
   "source": "kotatsu.js"
@@ -272,7 +272,7 @@ window.SONG_DATA.push(
     {
   "title": "光",
   "artist": "andymori",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=13",
   "source": "kotatsu.js"
@@ -280,7 +280,7 @@ window.SONG_DATA.push(
     {
   "title": "nostalgia",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=14",
   "source": "kotatsu.js"
@@ -288,7 +288,7 @@ window.SONG_DATA.push(
     {
   "title": "僕が死のうと思ったのは",
   "artist": "中島美嘉",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=15",
   "source": "kotatsu.js"
@@ -296,7 +296,7 @@ window.SONG_DATA.push(
     {
   "title": "空も飛べるはず",
   "artist": "スピッツ",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=16",
   "source": "kotatsu.js"
@@ -304,7 +304,7 @@ window.SONG_DATA.push(
     {
   "title": "ダダリオ",
   "artist": "ズーカラデル",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=17",
   "source": "kotatsu.js"
@@ -312,7 +312,7 @@ window.SONG_DATA.push(
     {
   "title": "人として",
   "artist": "SUPERBEAVER",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=18",
   "source": "kotatsu.js"
@@ -320,7 +320,7 @@ window.SONG_DATA.push(
     {
   "title": "夜空ノムコウ",
   "artist": "SMAP",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=19",
   "source": "kotatsu.js"
@@ -328,7 +328,7 @@ window.SONG_DATA.push(
     {
   "title": "triangle",
   "artist": "SMAP",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=20",
   "source": "kotatsu.js"
@@ -336,7 +336,7 @@ window.SONG_DATA.push(
     {
   "title": "サムライハート(SomeLikeItHot!!)",
   "artist": "SPYAIR",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=21",
   "source": "kotatsu.js"
@@ -344,7 +344,7 @@ window.SONG_DATA.push(
     {
   "title": "かぞえうた",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=22",
   "source": "kotatsu.js"
@@ -352,7 +352,7 @@ window.SONG_DATA.push(
     {
   "title": "sunrise&sunset",
   "artist": "andymori",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=23",
   "source": "kotatsu.js"
@@ -360,7 +360,7 @@ window.SONG_DATA.push(
     {
   "title": "レモン×",
   "artist": "3markets",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=24",
   "source": "kotatsu.js"
@@ -368,7 +368,7 @@ window.SONG_DATA.push(
     {
   "title": "フライングゲット",
   "artist": "AKB48",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=25",
   "source": "kotatsu.js"
@@ -376,7 +376,7 @@ window.SONG_DATA.push(
     {
   "title": "鎖の少女",
   "artist": "のぼる↑",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=26",
   "source": "kotatsu.js"
@@ -384,7 +384,7 @@ window.SONG_DATA.push(
     {
   "title": "napori",
   "artist": "Vaundy",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=27",
   "source": "kotatsu.js"
@@ -392,7 +392,7 @@ window.SONG_DATA.push(
     {
   "title": "化粧",
   "artist": "中島みゆき",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=28",
   "source": "kotatsu.js"
@@ -400,7 +400,7 @@ window.SONG_DATA.push(
     {
   "title": "エイリアンエイリアン",
   "artist": "ナユタン星人 feat. 初音ミク",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=29",
   "source": "kotatsu.js"
@@ -408,7 +408,7 @@ window.SONG_DATA.push(
     {
   "title": "眼福",
   "artist": "米津玄師",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=30",
   "source": "kotatsu.js"
@@ -416,7 +416,7 @@ window.SONG_DATA.push(
     {
   "title": "ニホンノミカタ",
   "artist": "矢島美容室",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=31",
   "source": "kotatsu.js"
@@ -424,7 +424,7 @@ window.SONG_DATA.push(
     {
   "title": "羞恥心",
   "artist": "羞恥心",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=32",
   "source": "kotatsu.js"
@@ -432,7 +432,7 @@ window.SONG_DATA.push(
     {
   "title": "残酷な天使のテーゼ",
   "artist": "高橋洋子",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=33",
   "source": "kotatsu.js"
@@ -440,7 +440,7 @@ window.SONG_DATA.push(
     {
   "title": "夜行",
   "artist": "ヨルシカ",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=34",
   "source": "kotatsu.js"
@@ -448,7 +448,7 @@ window.SONG_DATA.push(
     {
   "title": "恋のマイアヒ",
   "artist": "O-Zone",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=35",
   "source": "kotatsu.js"
@@ -456,7 +456,7 @@ window.SONG_DATA.push(
     {
   "title": "修羅",
   "artist": "ヨルシカ",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=36",
   "source": "kotatsu.js"
@@ -464,7 +464,7 @@ window.SONG_DATA.push(
     {
   "title": "アメイジング•グレイス",
   "artist": "讃美歌",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=37",
   "source": "kotatsu.js"
@@ -472,7 +472,7 @@ window.SONG_DATA.push(
     {
   "title": "カヌレ",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=38",
   "source": "kotatsu.js"
@@ -480,7 +480,7 @@ window.SONG_DATA.push(
     {
   "title": "ともだちになるために",
   "artist": "童謡",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=39",
   "source": "kotatsu.js"
@@ -488,7 +488,7 @@ window.SONG_DATA.push(
     {
   "title": "ウェンディの本質",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=40",
   "source": "kotatsu.js"
@@ -496,7 +496,7 @@ window.SONG_DATA.push(
     {
   "title": "有心論",
   "artist": "RADWIMPS",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=41",
   "source": "kotatsu.js"
@@ -504,7 +504,7 @@ window.SONG_DATA.push(
     {
   "title": "まっさら",
   "artist": "amazarashi",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=42",
   "source": "kotatsu.js"
@@ -512,7 +512,7 @@ window.SONG_DATA.push(
     {
   "title": "パッと咲いて散って灰に",
   "artist": "CreepyNuts",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=43",
   "source": "kotatsu.js"
@@ -520,7 +520,7 @@ window.SONG_DATA.push(
     {
   "title": "朝焼け、君の唄",
   "artist": "ナノウ",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=44",
   "source": "kotatsu.js"
@@ -528,7 +528,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=45",
   "source": "kotatsu.js"
@@ -536,7 +536,7 @@ window.SONG_DATA.push(
     {
   "title": "朝顔",
   "artist": "コブクロ",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=46",
   "source": "kotatsu.js"
@@ -544,7 +544,7 @@ window.SONG_DATA.push(
     {
   "title": "グレゴリオ",
   "artist": "古川本舗",
-  "collection": "歌切 2026-04-07 KOTATSU Ch.はる こたつぶとん倶楽部♧ t7sll-GBq14",
+  "collection": "Song Cut 2026-04-07 KOTATSU Ch. Haru Kotatsubuton Club♧ t7sll-GBq14",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NNdeBVEGd?p=47",
   "source": "kotatsu.js"
@@ -552,7 +552,7 @@ window.SONG_DATA.push(
     {
   "title": "やわらかな月の出る夜に",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "歌切 2026-04-10 KOTATSU Ch.はる こたつぶとん倶楽部♧ wrFL2hPjPFU",
+  "collection": "Song Cut 2026-04-10 KOTATSU Ch. Haru Kotatsubuton Club ♧ wrFL2hPjPFU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15zQVBREPx?p=1",
   "source": "kotatsu.js"
@@ -560,7 +560,7 @@ window.SONG_DATA.push(
     {
   "title": "愛言葉",
   "artist": "NEWS",
-  "collection": "歌切 2026-04-10 KOTATSU Ch.はる こたつぶとん倶楽部♧ wrFL2hPjPFU",
+  "collection": "Song Cut 2026-04-10 KOTATSU Ch. Haru Kotatsubuton Club ♧ wrFL2hPjPFU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15zQVBREPx?p=2",
   "source": "kotatsu.js"
@@ -568,7 +568,7 @@ window.SONG_DATA.push(
     {
   "title": "今宵、月が見えずとも",
   "artist": "ポルノグラフィティ",
-  "collection": "歌切 2026-04-10 KOTATSU Ch.はる こたつぶとん倶楽部♧ wrFL2hPjPFU",
+  "collection": "Song Cut 2026-04-10 KOTATSU Ch. Haru Kotatsubuton Club ♧ wrFL2hPjPFU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15zQVBREPx?p=3",
   "source": "kotatsu.js"
@@ -576,7 +576,7 @@ window.SONG_DATA.push(
     {
   "title": "ウォーアイニー#高橋瞳×BEAT CRUSADERS",
   "artist": "高橋瞳×BEAT CRUSADERS",
-  "collection": "歌切 2026-04-10 KOTATSU Ch.はる こたつぶとん倶楽部♧ wrFL2hPjPFU",
+  "collection": "Song Cut 2026-04-10 KOTATSU Ch. Haru Kotatsubuton Club ♧ wrFL2hPjPFU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15zQVBREPx?p=4",
   "source": "kotatsu.js"
@@ -584,7 +584,7 @@ window.SONG_DATA.push(
     {
   "title": "37458",
   "artist": "RADWIMPS",
-  "collection": "歌切 2026-04-10 KOTATSU Ch.はる こたつぶとん倶楽部♧ wrFL2hPjPFU",
+  "collection": "Song Cut 2026-04-10 KOTATSU Ch. Haru Kotatsubuton Club ♧ wrFL2hPjPFU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15zQVBREPx?p=5",
   "source": "kotatsu.js"
@@ -592,7 +592,7 @@ window.SONG_DATA.push(
     {
   "title": "遠い君へ",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "歌切 2026-04-10 KOTATSU Ch.はる こたつぶとん倶楽部♧ wrFL2hPjPFU",
+  "collection": "Song Cut 2026-04-10 KOTATSU Ch. Haru Kotatsubuton Club ♧ wrFL2hPjPFU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15zQVBREPx?p=6",
   "source": "kotatsu.js"
@@ -600,7 +600,7 @@ window.SONG_DATA.push(
     {
   "title": "ラヴ・イズ・オーヴァー",
   "artist": "欧陽菲菲",
-  "collection": "歌切 2026-04-10 KOTATSU Ch.はる こたつぶとん倶楽部♧ wrFL2hPjPFU",
+  "collection": "Song Cut 2026-04-10 KOTATSU Ch. Haru Kotatsubuton Club ♧ wrFL2hPjPFU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15zQVBREPx?p=7",
   "source": "kotatsu.js"
@@ -608,7 +608,7 @@ window.SONG_DATA.push(
     {
   "title": "カヌレ",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "歌切 2026-04-10 KOTATSU Ch.はる こたつぶとん倶楽部♧ wrFL2hPjPFU",
+  "collection": "Song Cut 2026-04-10 KOTATSU Ch. Haru Kotatsubuton Club ♧ wrFL2hPjPFU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15zQVBREPx?p=8",
   "source": "kotatsu.js"
@@ -616,7 +616,7 @@ window.SONG_DATA.push(
     {
   "title": "夜の踊り子",
   "artist": "サカナクション",
-  "collection": "歌切 2026-04-10 KOTATSU Ch.はる こたつぶとん倶楽部♧ wrFL2hPjPFU",
+  "collection": "Song Cut 2026-04-10 KOTATSU Ch. Haru Kotatsubuton Club ♧ wrFL2hPjPFU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15zQVBREPx?p=9",
   "source": "kotatsu.js"
@@ -624,7 +624,7 @@ window.SONG_DATA.push(
     {
   "title": "月明かりのように",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "歌切 2026-04-10 KOTATSU Ch.はる こたつぶとん倶楽部♧ wrFL2hPjPFU",
+  "collection": "Song Cut 2026-04-10 KOTATSU Ch. Haru Kotatsubuton Club ♧ wrFL2hPjPFU",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15zQVBREPx?p=10",
   "source": "kotatsu.js"
@@ -632,7 +632,7 @@ window.SONG_DATA.push(
     {
   "title": "かなしいうた",
   "artist": "工藤祐次郎",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=1",
   "source": "kotatsu.js"
@@ -640,7 +640,7 @@ window.SONG_DATA.push(
     {
   "title": "くちづけキボンヌ",
   "artist": "でんぱ組.inc",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=2",
   "source": "kotatsu.js"
@@ -648,7 +648,7 @@ window.SONG_DATA.push(
     {
   "title": "森の小さなレストラン",
   "artist": "手嶌葵",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=3",
   "source": "kotatsu.js"
@@ -656,7 +656,7 @@ window.SONG_DATA.push(
     {
   "title": "By My Side",
   "artist": "RADWIMPS",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=4",
   "source": "kotatsu.js"
@@ -664,7 +664,7 @@ window.SONG_DATA.push(
     {
   "title": "ギミギミック",
   "artist": "RADWIMPS",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=5",
   "source": "kotatsu.js"
@@ -672,7 +672,7 @@ window.SONG_DATA.push(
     {
   "title": "知らんけど。",
   "artist": "はるこたつぶとん俱楽部♧",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=6",
   "source": "kotatsu.js"
@@ -680,7 +680,7 @@ window.SONG_DATA.push(
     {
   "title": "after that...",
   "artist": "はるこたつぶとん俱楽部♧",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=7",
   "source": "kotatsu.js"
@@ -688,7 +688,7 @@ window.SONG_DATA.push(
     {
   "title": "ゴーゴー魚釣り",
   "artist": "工藤祐次郎",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=8",
   "source": "kotatsu.js"
@@ -696,7 +696,7 @@ window.SONG_DATA.push(
     {
   "title": "暁",
   "artist": "Lyu:Lyu",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=9",
   "source": "kotatsu.js"
@@ -704,7 +704,7 @@ window.SONG_DATA.push(
     {
   "title": "オー・シャンゼリゼ",
   "artist": "ダニエル・ビダル",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=10",
   "source": "kotatsu.js"
@@ -712,7 +712,7 @@ window.SONG_DATA.push(
     {
   "title": "夜もすがら君想ふ",
   "artist": "TOKOTOKO",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=11",
   "source": "kotatsu.js"
@@ -720,7 +720,7 @@ window.SONG_DATA.push(
     {
   "title": "リンジュー・ラヴ",
   "artist": "マカロニえんぴつ",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=12",
   "source": "kotatsu.js"
@@ -728,7 +728,7 @@ window.SONG_DATA.push(
     {
   "title": "おやすみ泣き声、さよなら歌姫",
   "artist": "クリープハイプ",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=13",
   "source": "kotatsu.js"
@@ -736,7 +736,7 @@ window.SONG_DATA.push(
     {
   "title": "もう柔らかいおっぱいのことしか考えたくない。",
   "artist": "はるこたつぶとん俱楽部♧",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=14",
   "source": "kotatsu.js"
@@ -744,7 +744,7 @@ window.SONG_DATA.push(
     {
   "title": "ムーンライト伝説",
   "artist": "DALI",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=15",
   "source": "kotatsu.js"
@@ -752,7 +752,7 @@ window.SONG_DATA.push(
     {
   "title": "火星人",
   "artist": "ヨルシカ",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=16",
   "source": "kotatsu.js"
@@ -760,7 +760,7 @@ window.SONG_DATA.push(
     {
   "title": "楽園",
   "artist": "andymori",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=17",
   "source": "kotatsu.js"
@@ -768,7 +768,7 @@ window.SONG_DATA.push(
     {
   "title": "しあわせ",
   "artist": "はるこたつぶとん俱楽部♧",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=18",
   "source": "kotatsu.js"
@@ -776,7 +776,7 @@ window.SONG_DATA.push(
     {
   "title": "恋をしたから",
   "artist": "あいみょん",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=19",
   "source": "kotatsu.js"
@@ -784,7 +784,7 @@ window.SONG_DATA.push(
     {
   "title": "今宵の月のように",
   "artist": "エレファントカシマシ",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=20",
   "source": "kotatsu.js"
@@ -792,7 +792,7 @@ window.SONG_DATA.push(
     {
   "title": "国語",
   "artist": "ハンバート ハンバート",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=21",
   "source": "kotatsu.js"
@@ -800,7 +800,7 @@ window.SONG_DATA.push(
     {
   "title": "さよなら人類",
   "artist": "たま",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=22",
   "source": "kotatsu.js"
@@ -808,7 +808,7 @@ window.SONG_DATA.push(
     {
   "title": "ニーナ",
   "artist": "はる こたつぶとん倶楽部♧さん",
-  "collection": "歌切 2026-04-14 KOTATSU Ch.はる こたつぶとん倶楽部♧ VR65Cuxlc9g",
+  "collection": "Song Cut 2026-04-14 KOTATSU Ch. Haru Kotatsubuton Club♧ VR65Cuxlc9g",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1AjQVB6EDZ?p=23",
   "source": "kotatsu.js"
@@ -816,7 +816,7 @@ window.SONG_DATA.push(
     {
   "title": "サイダーのように言葉が湧き上がる",
   "artist": "never young beach",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=1",
   "source": "kotatsu.js"
@@ -824,7 +824,7 @@ window.SONG_DATA.push(
     {
   "title": "蜩",
   "artist": "teto",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=2",
   "source": "kotatsu.js"
@@ -832,7 +832,7 @@ window.SONG_DATA.push(
     {
   "title": "夜行",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=3",
   "source": "kotatsu.js"
@@ -840,7 +840,7 @@ window.SONG_DATA.push(
     {
   "title": "生きていたんだよな",
   "artist": "あいみょん",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=4",
   "source": "kotatsu.js"
@@ -848,7 +848,7 @@ window.SONG_DATA.push(
     {
   "title": "眠り姫",
   "artist": "SEKAI NO OWARI",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=5",
   "source": "kotatsu.js"
@@ -856,7 +856,7 @@ window.SONG_DATA.push(
     {
   "title": "うんめー",
   "artist": "大森靖子",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=6",
   "source": "kotatsu.js"
@@ -864,7 +864,7 @@ window.SONG_DATA.push(
     {
   "title": "ひとつ",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=7",
   "source": "kotatsu.js"
@@ -872,7 +872,7 @@ window.SONG_DATA.push(
     {
   "title": "レモン×",
   "artist": "3markets[ ]",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=8",
   "source": "kotatsu.js"
@@ -880,7 +880,7 @@ window.SONG_DATA.push(
     {
   "title": "明るい未来",
   "artist": "Never young beach",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=9",
   "source": "kotatsu.js"
@@ -888,7 +888,7 @@ window.SONG_DATA.push(
     {
   "title": "二度寝",
   "artist": "Creepy Nuts",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=10",
   "source": "kotatsu.js"
@@ -896,7 +896,7 @@ window.SONG_DATA.push(
     {
   "title": "ピクニック",
   "artist": "RADWIMPS",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=11",
   "source": "kotatsu.js"
@@ -904,7 +904,7 @@ window.SONG_DATA.push(
     {
   "title": "ピノ",
   "artist": "ズーカラデル",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=12",
   "source": "kotatsu.js"
@@ -912,7 +912,7 @@ window.SONG_DATA.push(
     {
   "title": "地上の星",
   "artist": "中島みゆき",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=13",
   "source": "kotatsu.js"
@@ -920,7 +920,7 @@ window.SONG_DATA.push(
     {
   "title": "笑ったり転んだり",
   "artist": "ハンバート ハンバート",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=14",
   "source": "kotatsu.js"
@@ -928,7 +928,7 @@ window.SONG_DATA.push(
     {
   "title": "Tonight",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=15",
   "source": "kotatsu.js"
@@ -936,7 +936,7 @@ window.SONG_DATA.push(
     {
   "title": "三月の憂鬱",
   "artist": "夏目栞",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=16",
   "source": "kotatsu.js"
@@ -944,7 +944,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=17",
   "source": "kotatsu.js"
@@ -952,7 +952,7 @@ window.SONG_DATA.push(
     {
   "title": "メロンパンのうた",
   "artist": "KOCHO",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=18",
   "source": "kotatsu.js"
@@ -960,7 +960,7 @@ window.SONG_DATA.push(
     {
   "title": "はなびら",
   "artist": "奥華子",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=19",
   "source": "kotatsu.js"
@@ -968,7 +968,7 @@ window.SONG_DATA.push(
     {
   "title": "幕無し",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=20",
   "source": "kotatsu.js"
@@ -976,7 +976,7 @@ window.SONG_DATA.push(
     {
   "title": "サヨナラCOLOR",
   "artist": "SUPER BUTTER DOG",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=21",
   "source": "kotatsu.js"
@@ -984,7 +984,7 @@ window.SONG_DATA.push(
     {
   "title": "マリーゴールド",
   "artist": "あいみょん",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=22",
   "source": "kotatsu.js"
@@ -992,7 +992,7 @@ window.SONG_DATA.push(
     {
   "title": "決意の朝に",
   "artist": "Aqua Timez",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=23",
   "source": "kotatsu.js"
@@ -1000,7 +1000,7 @@ window.SONG_DATA.push(
     {
   "title": "国語",
   "artist": "ハンバート ハンバート",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=24",
   "source": "kotatsu.js"
@@ -1008,7 +1008,7 @@ window.SONG_DATA.push(
     {
   "title": "以心伝心",
   "artist": "19",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=25",
   "source": "kotatsu.js"
@@ -1016,7 +1016,7 @@ window.SONG_DATA.push(
     {
   "title": "時をかけるメロディー",
   "artist": "小山田壮平",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=26",
   "source": "kotatsu.js"
@@ -1024,7 +1024,7 @@ window.SONG_DATA.push(
     {
   "title": "雛市",
   "artist": "女王蜂",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=27",
   "source": "kotatsu.js"
@@ -1032,7 +1032,7 @@ window.SONG_DATA.push(
     {
   "title": "藍二乗",
   "artist": "ヨルシカ",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=28",
   "source": "kotatsu.js"
@@ -1040,7 +1040,7 @@ window.SONG_DATA.push(
     {
   "title": "ORANGE RIUM",
   "artist": "でんぱ組.inc",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=29",
   "source": "kotatsu.js"
@@ -1048,7 +1048,7 @@ window.SONG_DATA.push(
     {
   "title": "遠い君へ",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=30",
   "source": "kotatsu.js"
@@ -1056,7 +1056,7 @@ window.SONG_DATA.push(
     {
   "title": "神様、",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=31",
   "source": "kotatsu.js"
@@ -1064,7 +1064,7 @@ window.SONG_DATA.push(
     {
   "title": "リンジュー・ラヴ",
   "artist": "マカロニえんぴつ",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=32",
   "source": "kotatsu.js"
@@ -1072,7 +1072,7 @@ window.SONG_DATA.push(
     {
   "title": "月明かりのように",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【歌切】[2026-04-19]入睡/工作用直播 | 好久不见，也许只是一小会儿，也许很久很久了 KOTATSU  Ch.はる  こたつぶとん倶楽部",
+  "collection": "[Song Cut] [2026-04-19] Sleep/Work Livestream | Long time no see, maybe just a little while, maybe a very long time KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1NqdXBPEBd?p=33",
   "source": "kotatsu.js"
@@ -1080,7 +1080,7 @@ window.SONG_DATA.push(
     {
   "title": "Peace",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=1",
   "source": "kotatsu.js"
@@ -1088,7 +1088,7 @@ window.SONG_DATA.push(
     {
   "title": "tomorrow",
   "artist": "MOROHA",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=2",
   "source": "kotatsu.js"
@@ -1096,7 +1096,7 @@ window.SONG_DATA.push(
     {
   "title": "笑ったり転んだり",
   "artist": "ハンバート ハンバート",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=3",
   "source": "kotatsu.js"
@@ -1104,7 +1104,7 @@ window.SONG_DATA.push(
     {
   "title": "空も飛べるはず",
   "artist": "スピッツ",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=4",
   "source": "kotatsu.js"
@@ -1112,7 +1112,7 @@ window.SONG_DATA.push(
     {
   "title": "イキルサイノウ",
   "artist": "plenty",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=5",
   "source": "kotatsu.js"
@@ -1120,7 +1120,7 @@ window.SONG_DATA.push(
     {
   "title": "千年幸福論",
   "artist": "amazarashi",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=6",
   "source": "kotatsu.js"
@@ -1128,7 +1128,7 @@ window.SONG_DATA.push(
     {
   "title": "さっきはごめんね、ありがとう",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=7",
   "source": "kotatsu.js"
@@ -1136,7 +1136,7 @@ window.SONG_DATA.push(
     {
   "title": "青空",
   "artist": "THE BLUE HEARTS",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=8",
   "source": "kotatsu.js"
@@ -1144,7 +1144,7 @@ window.SONG_DATA.push(
     {
   "title": "napori",
   "artist": "Vaundy",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=9",
   "source": "kotatsu.js"
@@ -1152,7 +1152,7 @@ window.SONG_DATA.push(
     {
   "title": "上を向いて歩こう",
   "artist": "坂本九",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=10",
   "source": "kotatsu.js"
@@ -1160,7 +1160,7 @@ window.SONG_DATA.push(
     {
   "title": "サイダーのように言葉が湧き上がる",
   "artist": "never young beach",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=11",
   "source": "kotatsu.js"
@@ -1168,7 +1168,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒッチコック",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=12",
   "source": "kotatsu.js"
@@ -1176,7 +1176,7 @@ window.SONG_DATA.push(
     {
   "title": "37458",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=13",
   "source": "kotatsu.js"
@@ -1184,7 +1184,7 @@ window.SONG_DATA.push(
     {
   "title": "輝く未来",
   "artist": "小此木麻里・畠中洋",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=14",
   "source": "kotatsu.js"
@@ -1192,7 +1192,7 @@ window.SONG_DATA.push(
     {
   "title": "深夜高速",
   "artist": "フラワーカンパニーズ",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=15",
   "source": "kotatsu.js"
@@ -1200,7 +1200,7 @@ window.SONG_DATA.push(
     {
   "title": "死にたい夜には",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=16",
   "source": "kotatsu.js"
@@ -1208,7 +1208,7 @@ window.SONG_DATA.push(
     {
   "title": "冬へと走りだすお！",
   "artist": "でんぱ組.inc",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=17",
   "source": "kotatsu.js"
@@ -1216,7 +1216,7 @@ window.SONG_DATA.push(
     {
   "title": "ラブソング",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=18",
   "source": "kotatsu.js"
@@ -1224,7 +1224,7 @@ window.SONG_DATA.push(
     {
   "title": "今宵、月が見えずとも",
   "artist": "ポルノグラフィティ",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=19",
   "source": "kotatsu.js"
@@ -1232,7 +1232,7 @@ window.SONG_DATA.push(
     {
   "title": "恋のABO",
   "artist": "NEWS",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=20",
   "source": "kotatsu.js"
@@ -1240,7 +1240,7 @@ window.SONG_DATA.push(
     {
   "title": "久しぶりの恋が片思いじゃなくてよかった",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=21",
   "source": "kotatsu.js"
@@ -1248,7 +1248,7 @@ window.SONG_DATA.push(
     {
   "title": "神様、",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=22",
   "source": "kotatsu.js"
@@ -1256,7 +1256,7 @@ window.SONG_DATA.push(
     {
   "title": "いつも何度でも",
   "artist": "木村弓",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=23",
   "source": "kotatsu.js"
@@ -1264,7 +1264,7 @@ window.SONG_DATA.push(
     {
   "title": "恋のマイアヒ",
   "artist": "O-Zone",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=24",
   "source": "kotatsu.js"
@@ -1272,7 +1272,7 @@ window.SONG_DATA.push(
     {
   "title": "vivi",
   "artist": "米津玄師",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=25",
   "source": "kotatsu.js"
@@ -1280,7 +1280,7 @@ window.SONG_DATA.push(
     {
   "title": "はなれ、ばなれ",
   "artist": "古川本舗",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=26",
   "source": "kotatsu.js"
@@ -1288,7 +1288,7 @@ window.SONG_DATA.push(
     {
   "title": "ね。",
   "artist": "3markets[ ]",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=27",
   "source": "kotatsu.js"
@@ -1296,7 +1296,7 @@ window.SONG_DATA.push(
     {
   "title": "いーあるふぁんくらぶ",
   "artist": "みきとP",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=28",
   "source": "kotatsu.js"
@@ -1304,7 +1304,7 @@ window.SONG_DATA.push(
     {
   "title": "トドカナイカラ",
   "artist": "平井堅",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=29",
   "source": "kotatsu.js"
@@ -1312,7 +1312,7 @@ window.SONG_DATA.push(
     {
   "title": "炎と森のカーニバル",
   "artist": "SEKAI NO OWARI",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=30",
   "source": "kotatsu.js"
@@ -1320,7 +1320,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=31",
   "source": "kotatsu.js"
@@ -1328,7 +1328,7 @@ window.SONG_DATA.push(
     {
   "title": "知らんけど。",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=32",
   "source": "kotatsu.js"
@@ -1336,7 +1336,7 @@ window.SONG_DATA.push(
     {
   "title": "トレモロ",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=33",
   "source": "kotatsu.js"
@@ -1344,7 +1344,7 @@ window.SONG_DATA.push(
     {
   "title": "いつか",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-04-22]寝落ち・作業用枠｜眠れない夜に1曲 KOTATSU Ch.はる こたつぶとん倶楽部♧",
+  "collection": "【♧🎸Song Cut】[2026-04-22]Sleeping・Work Background｜A song for sleepless nights KOTATSU Ch. Haru Kotatsu Futon Club♧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1TzobBBEUD?p=34",
   "source": "kotatsu.js"
@@ -1352,7 +1352,7 @@ window.SONG_DATA.push(
     {
   "title": "月明かりのように",
   "artist": "はる こたつぶとん倶楽部☘",
-  "collection": "【♧🎸歌切】[2026-04-26]ぽつり、ぽつりと春を歌います KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-04-26] Singing Spring Bit by Bit KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eFoqBTEZo?p=1",
   "source": "kotatsu.js"
@@ -1360,7 +1360,7 @@ window.SONG_DATA.push(
     {
   "title": "春",
   "artist": "はる こたつぶとん倶楽部☘",
-  "collection": "【♧🎸歌切】[2026-04-26]ぽつり、ぽつりと春を歌います KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-04-26] Singing Spring Bit by Bit KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eFoqBTEZo?p=2",
   "source": "kotatsu.js"
@@ -1368,7 +1368,7 @@ window.SONG_DATA.push(
     {
   "title": "笑ったり転んだり",
   "artist": "ハンバートハンバート",
-  "collection": "【♧🎸歌切】[2026-04-26]ぽつり、ぽつりと春を歌います KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-04-26] Singing Spring Bit by Bit KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eFoqBTEZo?p=3",
   "source": "kotatsu.js"
@@ -1376,7 +1376,7 @@ window.SONG_DATA.push(
     {
   "title": "tomorrow",
   "artist": "MOROHA",
-  "collection": "【♧🎸歌切】[2026-04-26]ぽつり、ぽつりと春を歌います KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-04-26] Singing Spring Bit by Bit KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1eFoqBTEZo?p=4",
   "source": "kotatsu.js"
@@ -1384,7 +1384,7 @@ window.SONG_DATA.push(
     {
   "title": "愛してやまない音楽を",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-04] Long time no see! Songs to Play When Struggling with Sleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=1",
   "source": "kotatsu.js"
@@ -1392,7 +1392,7 @@ window.SONG_DATA.push(
     {
   "title": "Bye By Me",
   "artist": "Vaundy",
-  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-04] Long time no see! Songs to Play When Struggling with Sleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=2",
   "source": "kotatsu.js"
@@ -1400,7 +1400,7 @@ window.SONG_DATA.push(
     {
   "title": "本当はね、",
   "artist": "ヤングスキニー",
-  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-04] Long time no see! Songs to Play When Struggling with Sleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=3",
   "source": "kotatsu.js"
@@ -1408,7 +1408,7 @@ window.SONG_DATA.push(
     {
   "title": "わたがし",
   "artist": "back number",
-  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-04] Long time no see! Songs to Play When Struggling with Sleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=4",
   "source": "kotatsu.js"
@@ -1416,7 +1416,7 @@ window.SONG_DATA.push(
     {
   "title": "Calc.",
   "artist": "ジミーサムP feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-04] Long time no see! Songs to Play When Struggling with Sleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=5",
   "source": "kotatsu.js"
@@ -1424,7 +1424,7 @@ window.SONG_DATA.push(
     {
   "title": "あいとわ",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-04] Long time no see! Songs to Play When Struggling with Sleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=6",
   "source": "kotatsu.js"
@@ -1432,7 +1432,7 @@ window.SONG_DATA.push(
     {
   "title": "東京",
   "artist": "ヒグチアイ",
-  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-04] Long time no see! Songs to Play When Struggling with Sleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=7",
   "source": "kotatsu.js"
@@ -1440,7 +1440,7 @@ window.SONG_DATA.push(
     {
   "title": "情熱の薔薇",
   "artist": "THE BLUE HEARTS",
-  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-04] Long time no see! Songs to Play When Struggling with Sleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=8",
   "source": "kotatsu.js"
@@ -1448,7 +1448,7 @@ window.SONG_DATA.push(
     {
   "title": "なごり雪",
   "artist": "イルカ",
-  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-04] Long time no see! Songs to Play When Struggling with Sleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=9",
   "source": "kotatsu.js"
@@ -1456,7 +1456,7 @@ window.SONG_DATA.push(
     {
   "title": "グッバイ来世でまた会おう",
   "artist": "インナージャーニー",
-  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-04] Long time no see! Songs to Play When Struggling with Sleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=10",
   "source": "kotatsu.js"
@@ -1464,7 +1464,7 @@ window.SONG_DATA.push(
     {
   "title": "行方不明とタクシー",
   "artist": "3markets[ ]",
-  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-04] Long time no see! Songs to Play When Struggling with Sleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=11",
   "source": "kotatsu.js"
@@ -1472,7 +1472,7 @@ window.SONG_DATA.push(
     {
   "title": "かぞえうた",
   "artist": "はるこたつぶとん倶楽部",
-  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-04] Long time no see! Songs to Play When Struggling with Sleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=12",
   "source": "kotatsu.js"
@@ -1480,7 +1480,7 @@ window.SONG_DATA.push(
     {
   "title": "投げKISSをあげるよ",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-04] Long time no see! Songs to Play When Struggling with Sleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=13",
   "source": "kotatsu.js"
@@ -1488,7 +1488,7 @@ window.SONG_DATA.push(
     {
   "title": "幕無し",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-04] Long time no see! Songs to Play When Struggling with Sleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=14",
   "source": "kotatsu.js"
@@ -1496,7 +1496,7 @@ window.SONG_DATA.push(
     {
   "title": "告白",
   "artist": "FUNKY MONKEY BΛBY'S",
-  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-04] Long time no see! Songs to Play When Struggling with Sleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=15",
   "source": "kotatsu.js"
@@ -1504,7 +1504,7 @@ window.SONG_DATA.push(
     {
   "title": "ガチ恋口上歌〜みんな大好き(仮)〜",
   "artist": "はるこたつぶとん倶楽部",
-  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-04] Long time no see! Songs to Play When Struggling with Sleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=16",
   "source": "kotatsu.js"
@@ -1512,7 +1512,7 @@ window.SONG_DATA.push(
     {
   "title": "久しぶりの恋が片思いじゃなくてよかった",
   "artist": "はるこたつぶとん倶楽部",
-  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-04] Long time no see! Songs to Play When Struggling with Sleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=17",
   "source": "kotatsu.js"
@@ -1520,7 +1520,7 @@ window.SONG_DATA.push(
     {
   "title": "ラブソング",
   "artist": "はるこたつぶとん倶楽部",
-  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-04] Long time no see! Songs to Play When Struggling with Sleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=18",
   "source": "kotatsu.js"
@@ -1528,7 +1528,7 @@ window.SONG_DATA.push(
     {
   "title": "夜な夜なエール",
   "artist": "はるこたつぶとん倶楽部",
-  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-04] Long time no see! Songs to Play When Struggling with Sleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=19",
   "source": "kotatsu.js"
@@ -1536,7 +1536,7 @@ window.SONG_DATA.push(
     {
   "title": "曲名未公表オリジナル（おかえり/お疲れ様）",
   "artist": "はるこたつぶとん倶楽部",
-  "collection": "【♧🎸歌切】[2026-05-04]久违了！睡眠困难时的歌曲播放 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-04] Long time no see! Songs to Play When Struggling with Sleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1feRiBTEKA?p=20",
   "source": "kotatsu.js"
@@ -1544,7 +1544,7 @@ window.SONG_DATA.push(
     {
   "title": "結婚しようよ",
   "artist": "吉田拓郎",
-  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-07] Sleep · Work Background Music｜Quiet Spring Night KOTATSU Ch. Haru KOTATSU Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=1",
   "source": "kotatsu.js"
@@ -1552,7 +1552,7 @@ window.SONG_DATA.push(
     {
   "title": "未来",
   "artist": "ズーカラデル",
-  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-07] Sleep · Work Background Music｜Quiet Spring Night KOTATSU Ch. Haru KOTATSU Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=2",
   "source": "kotatsu.js"
@@ -1560,7 +1560,7 @@ window.SONG_DATA.push(
     {
   "title": "キッス〜帰り道のラブソング〜",
   "artist": "テゴマス",
-  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-07] Sleep · Work Background Music｜Quiet Spring Night KOTATSU Ch. Haru KOTATSU Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=3",
   "source": "kotatsu.js"
@@ -1568,7 +1568,7 @@ window.SONG_DATA.push(
     {
   "title": "遠い匂い",
   "artist": "YO-KING",
-  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-07] Sleep · Work Background Music｜Quiet Spring Night KOTATSU Ch. Haru KOTATSU Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=4",
   "source": "kotatsu.js"
@@ -1576,7 +1576,7 @@ window.SONG_DATA.push(
     {
   "title": "スパークル",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-07] Sleep · Work Background Music｜Quiet Spring Night KOTATSU Ch. Haru KOTATSU Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=5",
   "source": "kotatsu.js"
@@ -1584,7 +1584,7 @@ window.SONG_DATA.push(
     {
   "title": "下北沢のギターロック",
   "artist": "3markets[ ]",
-  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-07] Sleep · Work Background Music｜Quiet Spring Night KOTATSU Ch. Haru KOTATSU Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=6",
   "source": "kotatsu.js"
@@ -1592,7 +1592,7 @@ window.SONG_DATA.push(
     {
   "title": "トリセツ",
   "artist": "西野カナ",
-  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-07] Sleep · Work Background Music｜Quiet Spring Night KOTATSU Ch. Haru KOTATSU Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=7",
   "source": "kotatsu.js"
@@ -1600,7 +1600,7 @@ window.SONG_DATA.push(
     {
   "title": "アンチノミー",
   "artist": "amazarashi",
-  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-07] Sleep · Work Background Music｜Quiet Spring Night KOTATSU Ch. Haru KOTATSU Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=8",
   "source": "kotatsu.js"
@@ -1608,7 +1608,7 @@ window.SONG_DATA.push(
     {
   "title": "ベースマン",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-07] Sleep · Work Background Music｜Quiet Spring Night KOTATSU Ch. Haru KOTATSU Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=9",
   "source": "kotatsu.js"
@@ -1616,7 +1616,7 @@ window.SONG_DATA.push(
     {
   "title": "明るい未来",
   "artist": "never young beach",
-  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-07] Sleep · Work Background Music｜Quiet Spring Night KOTATSU Ch. Haru KOTATSU Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=10",
   "source": "kotatsu.js"
@@ -1624,7 +1624,7 @@ window.SONG_DATA.push(
     {
   "title": "君じゃない誰かなんて〜Tejina〜",
   "artist": "DEEP",
-  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-07] Sleep · Work Background Music｜Quiet Spring Night KOTATSU Ch. Haru KOTATSU Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=11",
   "source": "kotatsu.js"
@@ -1632,7 +1632,7 @@ window.SONG_DATA.push(
     {
   "title": "轍",
   "artist": "コブクロ",
-  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-07] Sleep · Work Background Music｜Quiet Spring Night KOTATSU Ch. Haru KOTATSU Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=12",
   "source": "kotatsu.js"
@@ -1640,7 +1640,7 @@ window.SONG_DATA.push(
     {
   "title": "丸ノ内サディスティック",
   "artist": "椎名林檎",
-  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-07] Sleep · Work Background Music｜Quiet Spring Night KOTATSU Ch. Haru KOTATSU Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=13",
   "source": "kotatsu.js"
@@ -1648,7 +1648,7 @@ window.SONG_DATA.push(
     {
   "title": "猫中毒",
   "artist": "テゴマス",
-  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-07] Sleep · Work Background Music｜Quiet Spring Night KOTATSU Ch. Haru KOTATSU Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=14",
   "source": "kotatsu.js"
@@ -1656,7 +1656,7 @@ window.SONG_DATA.push(
     {
   "title": "おいら新宿でひと風吹かすぜ",
   "artist": "はる こたつぶとん倶楽部",
-  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-07] Sleep · Work Background Music｜Quiet Spring Night KOTATSU Ch. Haru KOTATSU Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=15",
   "source": "kotatsu.js"
@@ -1664,7 +1664,7 @@ window.SONG_DATA.push(
     {
   "title": "君のバンド",
   "artist": "コレサワ",
-  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-07] Sleep · Work Background Music｜Quiet Spring Night KOTATSU Ch. Haru KOTATSU Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=16",
   "source": "kotatsu.js"
@@ -1672,7 +1672,7 @@ window.SONG_DATA.push(
     {
   "title": "秘蜜〜黒の誓い〜",
   "artist": "ひとしずくP feat. 鏡音リン・鏡音レン",
-  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-07] Sleep · Work Background Music｜Quiet Spring Night KOTATSU Ch. Haru KOTATSU Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=17",
   "source": "kotatsu.js"
@@ -1680,7 +1680,7 @@ window.SONG_DATA.push(
     {
   "title": "SUMMER TIME",
   "artist": "NEWS",
-  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-07] Sleep · Work Background Music｜Quiet Spring Night KOTATSU Ch. Haru KOTATSU Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=18",
   "source": "kotatsu.js"
@@ -1688,7 +1688,7 @@ window.SONG_DATA.push(
     {
   "title": "コイスルオトメ",
   "artist": "いきものがかり",
-  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-07] Sleep · Work Background Music｜Quiet Spring Night KOTATSU Ch. Haru KOTATSU Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=19",
   "source": "kotatsu.js"
@@ -1696,7 +1696,7 @@ window.SONG_DATA.push(
     {
   "title": "車輪の唄",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【♧🎸歌切】[2026-05-07]睡眠·工作用歌回｜静谧春日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-07] Sleep · Work Background Music｜Quiet Spring Night KOTATSU Ch. Haru KOTATSU Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ajRhB5E83?p=20",
   "source": "kotatsu.js"
@@ -1704,7 +1704,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒッチコック",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-09] Sleep/Work Stream｜A Lonely Night Karaoke with KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=1",
   "source": "kotatsu.js"
@@ -1712,7 +1712,7 @@ window.SONG_DATA.push(
     {
   "title": "トレモロ",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-09] Sleep/Work Stream｜A Lonely Night Karaoke with KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=2",
   "source": "kotatsu.js"
@@ -1720,7 +1720,7 @@ window.SONG_DATA.push(
     {
   "title": "Peace",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-09] Sleep/Work Stream｜A Lonely Night Karaoke with KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=3",
   "source": "kotatsu.js"
@@ -1728,7 +1728,7 @@ window.SONG_DATA.push(
     {
   "title": "終わらない歌",
   "artist": "THE BLUE HEARTS",
-  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-09] Sleep/Work Stream｜A Lonely Night Karaoke with KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=4",
   "source": "kotatsu.js"
@@ -1736,7 +1736,7 @@ window.SONG_DATA.push(
     {
   "title": "感情七号線",
   "artist": "フラワーカンパニーズ",
-  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-09] Sleep/Work Stream｜A Lonely Night Karaoke with KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=5",
   "source": "kotatsu.js"
@@ -1744,7 +1744,7 @@ window.SONG_DATA.push(
     {
   "title": "ラストバージン",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-09] Sleep/Work Stream｜A Lonely Night Karaoke with KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=6",
   "source": "kotatsu.js"
@@ -1752,7 +1752,7 @@ window.SONG_DATA.push(
     {
   "title": "かなしくてやりきれない",
   "artist": "フォーク・クルセダーズ",
-  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-09] Sleep/Work Stream｜A Lonely Night Karaoke with KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=7",
   "source": "kotatsu.js"
@@ -1760,7 +1760,7 @@ window.SONG_DATA.push(
     {
   "title": "風の強い日",
   "artist": "back number",
-  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-09] Sleep/Work Stream｜A Lonely Night Karaoke with KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=8",
   "source": "kotatsu.js"
@@ -1768,7 +1768,7 @@ window.SONG_DATA.push(
     {
   "title": "フルスイング",
   "artist": "NEWS",
-  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-09] Sleep/Work Stream｜A Lonely Night Karaoke with KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=9",
   "source": "kotatsu.js"
@@ -1776,7 +1776,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-09] Sleep/Work Stream｜A Lonely Night Karaoke with KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=10",
   "source": "kotatsu.js"
@@ -1784,7 +1784,7 @@ window.SONG_DATA.push(
     {
   "title": "社会の窓",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-09] Sleep/Work Stream｜A Lonely Night Karaoke with KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=11",
   "source": "kotatsu.js"
@@ -1792,7 +1792,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れてください",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-09] Sleep/Work Stream｜A Lonely Night Karaoke with KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=12",
   "source": "kotatsu.js"
@@ -1800,7 +1800,7 @@ window.SONG_DATA.push(
     {
   "title": "バラ色の日々",
   "artist": "MOROHA",
-  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-09] Sleep/Work Stream｜A Lonely Night Karaoke with KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=13",
   "source": "kotatsu.js"
@@ -1808,7 +1808,7 @@ window.SONG_DATA.push(
     {
   "title": "人との距離のはかりかた",
   "artist": "Plenty",
-  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-09] Sleep/Work Stream｜A Lonely Night Karaoke with KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=14",
   "source": "kotatsu.js"
@@ -1816,7 +1816,7 @@ window.SONG_DATA.push(
     {
   "title": "川の流れのように",
   "artist": "美空ひばり",
-  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-09] Sleep/Work Stream｜A Lonely Night Karaoke with KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=15",
   "source": "kotatsu.js"
@@ -1824,7 +1824,7 @@ window.SONG_DATA.push(
     {
   "title": "森の小さなレストラン",
   "artist": "手嶌葵",
-  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-09] Sleep/Work Stream｜A Lonely Night Karaoke with KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=16",
   "source": "kotatsu.js"
@@ -1832,7 +1832,7 @@ window.SONG_DATA.push(
     {
   "title": "おしゃかしゃま",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-09] Sleep/Work Stream｜A Lonely Night Karaoke with KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=17",
   "source": "kotatsu.js"
@@ -1840,7 +1840,7 @@ window.SONG_DATA.push(
     {
   "title": "燈",
   "artist": "崎山蒼志",
-  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-09] Sleep/Work Stream｜A Lonely Night Karaoke with KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=18",
   "source": "kotatsu.js"
@@ -1848,7 +1848,7 @@ window.SONG_DATA.push(
     {
   "title": "曲名のないオリジナル",
   "artist": "はる こたつぶとん倶楽部",
-  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-09] Sleep/Work Stream｜A Lonely Night Karaoke with KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=19",
   "source": "kotatsu.js"
@@ -1856,7 +1856,7 @@ window.SONG_DATA.push(
     {
   "title": "恋をしたんだ",
   "artist": "はる こたつぶとん倶楽部",
-  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-09] Sleep/Work Stream｜A Lonely Night Karaoke with KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=20",
   "source": "kotatsu.js"
@@ -1864,7 +1864,7 @@ window.SONG_DATA.push(
     {
   "title": "神様、",
   "artist": "はる こたつぶとん倶楽部",
-  "collection": "【♧🎸歌切】[2026-05-09]睡眠・工作用直播｜孤独相伴的夜晚歌回 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-09] Sleep/Work Stream｜A Lonely Night Karaoke with KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4RdBCEcK?p=21",
   "source": "kotatsu.js"
@@ -1872,7 +1872,7 @@ window.SONG_DATA.push(
     {
   "title": "リンジュー・ラヴ",
   "artist": "マカロニえんぴつ",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=1",
   "source": "kotatsu.js"
@@ -1880,7 +1880,7 @@ window.SONG_DATA.push(
     {
   "title": "真赤",
   "artist": "My Hair is Bad",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=2",
   "source": "kotatsu.js"
@@ -1888,7 +1888,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=3",
   "source": "kotatsu.js"
@@ -1896,7 +1896,7 @@ window.SONG_DATA.push(
     {
   "title": "暗闇坂むささび変化",
   "artist": "はっぴいえんど",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=4",
   "source": "kotatsu.js"
@@ -1904,7 +1904,7 @@ window.SONG_DATA.push(
     {
   "title": "マジカルダンサー",
   "artist": "小山田壮平",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=5",
   "source": "kotatsu.js"
@@ -1912,7 +1912,7 @@ window.SONG_DATA.push(
     {
   "title": "有心論",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=6",
   "source": "kotatsu.js"
@@ -1920,7 +1920,7 @@ window.SONG_DATA.push(
     {
   "title": "デイ・ドリーム・ビリーバー",
   "artist": "THE TIMERS",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=7",
   "source": "kotatsu.js"
@@ -1928,7 +1928,7 @@ window.SONG_DATA.push(
     {
   "title": "オー・シャンゼリゼ",
   "artist": "奇妙礼太郎",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=8",
   "source": "kotatsu.js"
@@ -1936,7 +1936,7 @@ window.SONG_DATA.push(
     {
   "title": "ダダリオ",
   "artist": "ズーカラデル",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=9",
   "source": "kotatsu.js"
@@ -1944,7 +1944,7 @@ window.SONG_DATA.push(
     {
   "title": "勇気100%",
   "artist": "光GENJI",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=10",
   "source": "kotatsu.js"
@@ -1952,7 +1952,7 @@ window.SONG_DATA.push(
     {
   "title": "僕のともだち",
   "artist": "コレサワ",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=11",
   "source": "kotatsu.js"
@@ -1960,7 +1960,7 @@ window.SONG_DATA.push(
     {
   "title": "七夕祭り",
   "artist": "テゴマス",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=12",
   "source": "kotatsu.js"
@@ -1968,7 +1968,7 @@ window.SONG_DATA.push(
     {
   "title": "キラキラチューン",
   "artist": "でんぱ組.inc",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=13",
   "source": "kotatsu.js"
@@ -1976,7 +1976,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=14",
   "source": "kotatsu.js"
@@ -1984,7 +1984,7 @@ window.SONG_DATA.push(
     {
   "title": "夜な夜なエール",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=15",
   "source": "kotatsu.js"
@@ -1992,7 +1992,7 @@ window.SONG_DATA.push(
     {
   "title": "死にたい夜には",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=16",
   "source": "kotatsu.js"
@@ -2000,7 +2000,7 @@ window.SONG_DATA.push(
     {
   "title": "ムンクの叫びラーメン",
   "artist": "井上涼",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=17",
   "source": "kotatsu.js"
@@ -2008,7 +2008,7 @@ window.SONG_DATA.push(
     {
   "title": "風をあつめて",
   "artist": "はっぴいえんど",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=18",
   "source": "kotatsu.js"
@@ -2016,7 +2016,7 @@ window.SONG_DATA.push(
     {
   "title": "さよなら人類",
   "artist": "たま",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=19",
   "source": "kotatsu.js"
@@ -2024,7 +2024,7 @@ window.SONG_DATA.push(
     {
   "title": "結婚しようよ",
   "artist": "吉田拓郎",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=20",
   "source": "kotatsu.js"
@@ -2032,7 +2032,7 @@ window.SONG_DATA.push(
     {
   "title": "ぼくたちの失敗",
   "artist": "森田童子",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=21",
   "source": "kotatsu.js"
@@ -2040,7 +2040,7 @@ window.SONG_DATA.push(
     {
   "title": "夏祭り",
   "artist": "JITTERIN'JINN",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=22",
   "source": "kotatsu.js"
@@ -2048,7 +2048,7 @@ window.SONG_DATA.push(
     {
   "title": "たられば",
   "artist": "amazarashi",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=23",
   "source": "kotatsu.js"
@@ -2056,7 +2056,7 @@ window.SONG_DATA.push(
     {
   "title": "アンマー",
   "artist": "かりゆし58",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=24",
   "source": "kotatsu.js"
@@ -2064,7 +2064,7 @@ window.SONG_DATA.push(
     {
   "title": "人として",
   "artist": "SUPER BEAVER",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=25",
   "source": "kotatsu.js"
@@ -2072,7 +2072,7 @@ window.SONG_DATA.push(
     {
   "title": "カントリー・ロード",
   "artist": "本名陽子",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=26",
   "source": "kotatsu.js"
@@ -2080,7 +2080,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-12]睡眠・工作用直播｜思念温柔的那个人等待清晨 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-12] Sleep/Work Livestream｜Thinking of That Gentle Person While Waiting for Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV18S5g6SEk7?p=27",
   "source": "kotatsu.js"
@@ -2088,7 +2088,7 @@ window.SONG_DATA.push(
     {
   "title": "楽園",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=1",
   "source": "kotatsu.js"
@@ -2096,7 +2096,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならはエモーション",
   "artist": "サカナクション",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=2",
   "source": "kotatsu.js"
@@ -2104,7 +2104,7 @@ window.SONG_DATA.push(
     {
   "title": "Burning Friday Night",
   "artist": "Lucky Kilimanjaro",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=3",
   "source": "kotatsu.js"
@@ -2112,7 +2112,7 @@ window.SONG_DATA.push(
     {
   "title": "いいから",
   "artist": "WANIMA",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=4",
   "source": "kotatsu.js"
@@ -2120,7 +2120,7 @@ window.SONG_DATA.push(
     {
   "title": "アイネクライネ",
   "artist": "米津玄師",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=5",
   "source": "kotatsu.js"
@@ -2128,7 +2128,7 @@ window.SONG_DATA.push(
     {
   "title": "愛、テキサス",
   "artist": "山下智久",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=6",
   "source": "kotatsu.js"
@@ -2136,7 +2136,7 @@ window.SONG_DATA.push(
     {
   "title": "Bling-Bang-Bang-Born",
   "artist": "Creepy Nuts",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=7",
   "source": "kotatsu.js"
@@ -2144,7 +2144,7 @@ window.SONG_DATA.push(
     {
   "title": "買いもの",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=8",
   "source": "kotatsu.js"
@@ -2152,7 +2152,7 @@ window.SONG_DATA.push(
     {
   "title": "三日月",
   "artist": "くるり",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=9",
   "source": "kotatsu.js"
@@ -2160,7 +2160,7 @@ window.SONG_DATA.push(
     {
   "title": "ゴーゴー幽霊船",
   "artist": "米津玄師",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=10",
   "source": "kotatsu.js"
@@ -2168,7 +2168,7 @@ window.SONG_DATA.push(
     {
   "title": "カヌレ",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=11",
   "source": "kotatsu.js"
@@ -2176,7 +2176,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=12",
   "source": "kotatsu.js"
@@ -2184,7 +2184,7 @@ window.SONG_DATA.push(
     {
   "title": "くちづけキボンヌ",
   "artist": "でんぱ組.inc",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=13",
   "source": "kotatsu.js"
@@ -2192,7 +2192,7 @@ window.SONG_DATA.push(
     {
   "title": "夜空ノムコウ",
   "artist": "SMAP",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=14",
   "source": "kotatsu.js"
@@ -2200,7 +2200,7 @@ window.SONG_DATA.push(
     {
   "title": "ロミオとシンデレラ",
   "artist": "doriko feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=15",
   "source": "kotatsu.js"
@@ -2208,7 +2208,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=16",
   "source": "kotatsu.js"
@@ -2216,7 +2216,7 @@ window.SONG_DATA.push(
     {
   "title": "GLORIA",
   "artist": "YUI",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=17",
   "source": "kotatsu.js"
@@ -2224,7 +2224,7 @@ window.SONG_DATA.push(
     {
   "title": "again",
   "artist": "YUI",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=18",
   "source": "kotatsu.js"
@@ -2232,7 +2232,7 @@ window.SONG_DATA.push(
     {
   "title": "やどかり",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=19",
   "source": "kotatsu.js"
@@ -2240,7 +2240,7 @@ window.SONG_DATA.push(
     {
   "title": "幻の命",
   "artist": "SEKAI NO OWARI",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=20",
   "source": "kotatsu.js"
@@ -2248,7 +2248,7 @@ window.SONG_DATA.push(
     {
   "title": "国語",
   "artist": "ハンバート ハンバート",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=21",
   "source": "kotatsu.js"
@@ -2256,7 +2256,7 @@ window.SONG_DATA.push(
     {
   "title": "家族の風景",
   "artist": "ハナレグミ",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=22",
   "source": "kotatsu.js"
@@ -2264,7 +2264,7 @@ window.SONG_DATA.push(
     {
   "title": "八月、某、月明かり",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=23",
   "source": "kotatsu.js"
@@ -2272,7 +2272,7 @@ window.SONG_DATA.push(
     {
   "title": "空も飛べるはず",
   "artist": "スピッツ",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=24",
   "source": "kotatsu.js"
@@ -2280,7 +2280,7 @@ window.SONG_DATA.push(
     {
   "title": "となりのトトロ",
   "artist": "井上あずみ",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=25",
   "source": "kotatsu.js"
@@ -2288,7 +2288,7 @@ window.SONG_DATA.push(
     {
   "title": "命に嫌われている。",
   "artist": "カンザキイオリ feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=26",
   "source": "kotatsu.js"
@@ -2296,7 +2296,7 @@ window.SONG_DATA.push(
     {
   "title": "コイスルオトメ",
   "artist": "いきものがかり",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=27",
   "source": "kotatsu.js"
@@ -2304,7 +2304,7 @@ window.SONG_DATA.push(
     {
   "title": "深夜高速",
   "artist": "フラワーカンパニーズ",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=28",
   "source": "kotatsu.js"
@@ -2312,7 +2312,7 @@ window.SONG_DATA.push(
     {
   "title": "二度寝",
   "artist": "Creepy Nuts",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=29",
   "source": "kotatsu.js"
@@ -2320,7 +2320,7 @@ window.SONG_DATA.push(
     {
   "title": "ね。",
   "artist": "3markets",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=30",
   "source": "kotatsu.js"
@@ -2328,7 +2328,7 @@ window.SONG_DATA.push(
     {
   "title": "リッツパーティー",
   "artist": "back number",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=31",
   "source": "kotatsu.js"
@@ -2336,7 +2336,7 @@ window.SONG_DATA.push(
     {
   "title": "glow",
   "artist": "keeno feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=32",
   "source": "kotatsu.js"
@@ -2344,7 +2344,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=33",
   "source": "kotatsu.js"
@@ -2352,7 +2352,7 @@ window.SONG_DATA.push(
     {
   "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=34",
   "source": "kotatsu.js"
@@ -2360,7 +2360,7 @@ window.SONG_DATA.push(
     {
   "title": "おしゃかしゃま",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=35",
   "source": "kotatsu.js"
@@ -2368,7 +2368,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=36",
   "source": "kotatsu.js"
@@ -2376,7 +2376,7 @@ window.SONG_DATA.push(
     {
   "title": "ピクニック",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=37",
   "source": "kotatsu.js"
@@ -2384,7 +2384,7 @@ window.SONG_DATA.push(
     {
   "title": "涙そうそう",
   "artist": "夏川りみ",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=38",
   "source": "kotatsu.js"
@@ -2392,7 +2392,7 @@ window.SONG_DATA.push(
     {
   "title": "マリーゴールド",
   "artist": "あいみょん",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=39",
   "source": "kotatsu.js"
@@ -2400,7 +2400,7 @@ window.SONG_DATA.push(
     {
   "title": "nostalgia",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=40",
   "source": "kotatsu.js"
@@ -2408,7 +2408,7 @@ window.SONG_DATA.push(
     {
   "title": "無名のオリジナル",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=41",
   "source": "kotatsu.js"
@@ -2416,7 +2416,7 @@ window.SONG_DATA.push(
     {
   "title": "無名のオリジナル",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=42",
   "source": "kotatsu.js"
@@ -2424,7 +2424,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=43",
   "source": "kotatsu.js"
@@ -2432,7 +2432,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=44",
   "source": "kotatsu.js"
@@ -2440,7 +2440,7 @@ window.SONG_DATA.push(
     {
   "title": "修羅",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=45",
   "source": "kotatsu.js"
@@ -2448,7 +2448,7 @@ window.SONG_DATA.push(
     {
   "title": "性善説",
   "artist": "amazarashi",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=46",
   "source": "kotatsu.js"
@@ -2456,7 +2456,7 @@ window.SONG_DATA.push(
     {
   "title": "言って。",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=47",
   "source": "kotatsu.js"
@@ -2464,7 +2464,7 @@ window.SONG_DATA.push(
     {
   "title": "しあわせ",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=48",
   "source": "kotatsu.js"
@@ -2472,7 +2472,7 @@ window.SONG_DATA.push(
     {
   "title": "車輪の唄",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【♧🎸歌切】[2026-05-13]睡眠・工作用直播｜深夜的寝室，一个人的声音 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cover】[2026-05-13] Sleep/Work Livestream｜Late Night Dorm, One Person's Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bf556FE5w?p=49",
   "source": "kotatsu.js"
@@ -2480,7 +2480,7 @@ window.SONG_DATA.push(
     {
   "title": "告白",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=1",
   "source": "kotatsu.js"
@@ -2488,7 +2488,7 @@ window.SONG_DATA.push(
     {
   "title": "月灯りふんわり落ちてくる夜",
   "artist": "小川七生",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=2",
   "source": "kotatsu.js"
@@ -2496,7 +2496,7 @@ window.SONG_DATA.push(
     {
   "title": "今宵の月のように",
   "artist": "エレファントカシマシ",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=3",
   "source": "kotatsu.js"
@@ -2504,7 +2504,7 @@ window.SONG_DATA.push(
     {
   "title": "炎と森のカーニバル",
   "artist": "SEKAI NO OWARI",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=4",
   "source": "kotatsu.js"
@@ -2512,7 +2512,7 @@ window.SONG_DATA.push(
     {
   "title": "革命",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=5",
   "source": "kotatsu.js"
@@ -2520,7 +2520,7 @@ window.SONG_DATA.push(
     {
   "title": "どこにいてもおなじさ",
   "artist": "ハンバート ハンバート",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=6",
   "source": "kotatsu.js"
@@ -2528,7 +2528,7 @@ window.SONG_DATA.push(
     {
   "title": "遠い君へ",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=7",
   "source": "kotatsu.js"
@@ -2536,7 +2536,7 @@ window.SONG_DATA.push(
     {
   "title": "KING",
   "artist": "Kanaria feat. GUMI",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=8",
   "source": "kotatsu.js"
@@ -2544,7 +2544,7 @@ window.SONG_DATA.push(
     {
   "title": "黒毛和牛上塩タン焼680円",
   "artist": "大塚愛",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=9",
   "source": "kotatsu.js"
@@ -2552,7 +2552,7 @@ window.SONG_DATA.push(
     {
   "title": "リグレット",
   "artist": "sumika",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=10",
   "source": "kotatsu.js"
@@ -2560,7 +2560,7 @@ window.SONG_DATA.push(
     {
   "title": "アルジャーノン",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=11",
   "source": "kotatsu.js"
@@ -2568,7 +2568,7 @@ window.SONG_DATA.push(
     {
   "title": "猫の缶詰め",
   "artist": "3markets",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=12",
   "source": "kotatsu.js"
@@ -2576,7 +2576,7 @@ window.SONG_DATA.push(
     {
   "title": "サヨナラCOLOR",
   "artist": "SUPER BUTTER DOG",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=13",
   "source": "kotatsu.js"
@@ -2584,7 +2584,7 @@ window.SONG_DATA.push(
     {
   "title": "アスノヨゾラ哨戒班",
   "artist": "Orangestar feat. IA",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=14",
   "source": "kotatsu.js"
@@ -2592,7 +2592,7 @@ window.SONG_DATA.push(
     {
   "title": "リンジュー・ラヴ",
   "artist": "マカロニえんぴつ",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=15",
   "source": "kotatsu.js"
@@ -2600,7 +2600,7 @@ window.SONG_DATA.push(
     {
   "title": "かつて天才だった俺たちへ",
   "artist": "Creepy Nuts",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=16",
   "source": "kotatsu.js"
@@ -2608,7 +2608,7 @@ window.SONG_DATA.push(
     {
   "title": "光",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=17",
   "source": "kotatsu.js"
@@ -2616,7 +2616,7 @@ window.SONG_DATA.push(
     {
   "title": "にんげんっていいな",
   "artist": "中島義実、ヤング・フレッシュ",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=18",
   "source": "kotatsu.js"
@@ -2624,7 +2624,7 @@ window.SONG_DATA.push(
     {
   "title": "拝啓、少年よ",
   "artist": "Hump Back",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=19",
   "source": "kotatsu.js"
@@ -2632,7 +2632,7 @@ window.SONG_DATA.push(
     {
   "title": "I believe",
   "artist": "絢香",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=20",
   "source": "kotatsu.js"
@@ -2640,7 +2640,7 @@ window.SONG_DATA.push(
     {
   "title": "ひかり",
   "artist": "星村麻衣",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=21",
   "source": "kotatsu.js"
@@ -2648,7 +2648,7 @@ window.SONG_DATA.push(
     {
   "title": "月明かりのように",
   "artist": "はる こたつぶとん倶楽部☘",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=22",
   "source": "kotatsu.js"
@@ -2656,7 +2656,7 @@ window.SONG_DATA.push(
     {
   "title": "髪の毛",
   "artist": "女王蜂",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=23",
   "source": "kotatsu.js"
@@ -2664,7 +2664,7 @@ window.SONG_DATA.push(
     {
   "title": "ブリキノダンス",
   "artist": "日向電工 feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=24",
   "source": "kotatsu.js"
@@ -2672,7 +2672,7 @@ window.SONG_DATA.push(
     {
   "title": "マリーゴールド",
   "artist": "あいみょん",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=25",
   "source": "kotatsu.js"
@@ -2680,7 +2680,7 @@ window.SONG_DATA.push(
     {
   "title": "手と手",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=26",
   "source": "kotatsu.js"
@@ -2688,7 +2688,7 @@ window.SONG_DATA.push(
     {
   "title": "Hello, Worker",
   "artist": "KEI feat. 巡音ルカ",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=27",
   "source": "kotatsu.js"
@@ -2696,7 +2696,7 @@ window.SONG_DATA.push(
     {
   "title": "藍二乗",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=28",
   "source": "kotatsu.js"
@@ -2704,7 +2704,7 @@ window.SONG_DATA.push(
     {
   "title": "Hallelujah",
   "artist": "Leonard Cohen",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=29",
   "source": "kotatsu.js"
@@ -2712,7 +2712,7 @@ window.SONG_DATA.push(
     {
   "title": "火星人",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=30",
   "source": "kotatsu.js"
@@ -2720,7 +2720,7 @@ window.SONG_DATA.push(
     {
   "title": "またね",
   "artist": "ハンブレッダーズ",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=31",
   "source": "kotatsu.js"
@@ -2728,7 +2728,7 @@ window.SONG_DATA.push(
     {
   "title": "ピノ",
   "artist": "ズーカラデル",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=32",
   "source": "kotatsu.js"
@@ -2736,7 +2736,7 @@ window.SONG_DATA.push(
     {
   "title": "今宵、月が見えずとも",
   "artist": "ポルノグラフィティ",
-  "collection": "【♧🎸歌切】[2026-05-15]睡眠・工作用直播｜深夜1点，无法用言语表达的歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-15] Sleep & Work Livestream｜1 AM, Indescribable Singing Voice KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1b65B68EcD?p=33",
   "source": "kotatsu.js"
@@ -2744,7 +2744,7 @@ window.SONG_DATA.push(
     {
   "title": "人との距離のはかりかた",
   "artist": "plenty",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=1",
   "source": "kotatsu.js"
@@ -2752,7 +2752,7 @@ window.SONG_DATA.push(
     {
   "title": "ジェニファー山田さん",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=2",
   "source": "kotatsu.js"
@@ -2760,7 +2760,7 @@ window.SONG_DATA.push(
     {
   "title": "世界がひとつになるまで",
   "artist": "Ya-Ya-yah",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=3",
   "source": "kotatsu.js"
@@ -2768,7 +2768,7 @@ window.SONG_DATA.push(
     {
   "title": "夜にだけ",
   "artist": "GOOD ON THE REEL",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=4",
   "source": "kotatsu.js"
@@ -2776,7 +2776,7 @@ window.SONG_DATA.push(
     {
   "title": "駱駝",
   "artist": "高橋優",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=5",
   "source": "kotatsu.js"
@@ -2784,7 +2784,7 @@ window.SONG_DATA.push(
     {
   "title": "エイリアンエイリアン",
   "artist": "ナユタン星人 feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=6",
   "source": "kotatsu.js"
@@ -2792,7 +2792,7 @@ window.SONG_DATA.push(
     {
   "title": "ラブソング",
   "artist": "ズーカラデル",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=7",
   "source": "kotatsu.js"
@@ -2800,7 +2800,7 @@ window.SONG_DATA.push(
     {
   "title": "もしも僕に",
   "artist": "関取花",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=8",
   "source": "kotatsu.js"
@@ -2808,7 +2808,7 @@ window.SONG_DATA.push(
     {
   "title": "ゆりかごの唄",
   "artist": "童謡",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=9",
   "source": "kotatsu.js"
@@ -2816,7 +2816,7 @@ window.SONG_DATA.push(
     {
   "title": "葛飾ラプソディー",
   "artist": "堂島孝平",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=10",
   "source": "kotatsu.js"
@@ -2824,7 +2824,7 @@ window.SONG_DATA.push(
     {
   "title": "1.0",
   "artist": "amazarashi",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=11",
   "source": "kotatsu.js"
@@ -2832,7 +2832,7 @@ window.SONG_DATA.push(
     {
   "title": "まっさら",
   "artist": "KANA-BOON",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=12",
   "source": "kotatsu.js"
@@ -2840,7 +2840,7 @@ window.SONG_DATA.push(
     {
   "title": "ふたりの世界",
   "artist": "あいみょん",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=13",
   "source": "kotatsu.js"
@@ -2848,7 +2848,7 @@ window.SONG_DATA.push(
     {
   "title": "夏の頃",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=14",
   "source": "kotatsu.js"
@@ -2856,7 +2856,7 @@ window.SONG_DATA.push(
     {
   "title": "かぞえうた",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=15",
   "source": "kotatsu.js"
@@ -2864,7 +2864,7 @@ window.SONG_DATA.push(
     {
   "title": "眠り姫",
   "artist": "SEKAI NO OWARI",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=16",
   "source": "kotatsu.js"
@@ -2872,7 +2872,7 @@ window.SONG_DATA.push(
     {
   "title": "感情七号線",
   "artist": "フラワーカンパニーズ",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=17",
   "source": "kotatsu.js"
@@ -2880,7 +2880,7 @@ window.SONG_DATA.push(
     {
   "title": "終わらない歌",
   "artist": "THE BLUE HEARTS",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=18",
   "source": "kotatsu.js"
@@ -2888,7 +2888,7 @@ window.SONG_DATA.push(
     {
   "title": "大丈夫",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=19",
   "source": "kotatsu.js"
@@ -2896,7 +2896,7 @@ window.SONG_DATA.push(
     {
   "title": "踊り子",
   "artist": "Vaundy",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=20",
   "source": "kotatsu.js"
@@ -2904,7 +2904,7 @@ window.SONG_DATA.push(
     {
   "title": "蜩",
   "artist": "teto",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=21",
   "source": "kotatsu.js"
@@ -2912,7 +2912,7 @@ window.SONG_DATA.push(
     {
   "title": "光",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=22",
   "source": "kotatsu.js"
@@ -2920,7 +2920,7 @@ window.SONG_DATA.push(
     {
   "title": "幕無し",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=23",
   "source": "kotatsu.js"
@@ -2928,7 +2928,7 @@ window.SONG_DATA.push(
     {
   "title": "神様、",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=24",
   "source": "kotatsu.js"
@@ -2936,7 +2936,7 @@ window.SONG_DATA.push(
     {
   "title": "案山子",
   "artist": "さだまさし",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=25",
   "source": "kotatsu.js"
@@ -2944,7 +2944,7 @@ window.SONG_DATA.push(
     {
   "title": "家族になろうよ",
   "artist": "福山雅治",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=26",
   "source": "kotatsu.js"
@@ -2952,7 +2952,7 @@ window.SONG_DATA.push(
     {
   "title": "痛いよ",
   "artist": "清竜人",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=27",
   "source": "kotatsu.js"
@@ -2960,7 +2960,7 @@ window.SONG_DATA.push(
     {
   "title": "ゴーゴー幽霊船",
   "artist": "米津玄師",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=28",
   "source": "kotatsu.js"
@@ -2968,7 +2968,7 @@ window.SONG_DATA.push(
     {
   "title": "やわらかな午後に遅い朝食を",
   "artist": "秦基博",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=29",
   "source": "kotatsu.js"
@@ -2976,7 +2976,7 @@ window.SONG_DATA.push(
     {
   "title": "愛してやまない音楽を",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=30",
   "source": "kotatsu.js"
@@ -2984,7 +2984,7 @@ window.SONG_DATA.push(
     {
   "title": "森のくまさん",
   "artist": "アメリカ民謡",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=31",
   "source": "kotatsu.js"
@@ -2992,7 +2992,7 @@ window.SONG_DATA.push(
     {
   "title": "遠き山に日は落ちて",
   "artist": "ドヴォルザーク",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=32",
   "source": "kotatsu.js"
@@ -3000,7 +3000,7 @@ window.SONG_DATA.push(
     {
   "title": "オー・シャンゼリゼ",
   "artist": "奇妙礼太郎",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=33",
   "source": "kotatsu.js"
@@ -3008,7 +3008,7 @@ window.SONG_DATA.push(
     {
   "title": "Just a game",
   "artist": "takamatt feat. GUMI",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=34",
   "source": "kotatsu.js"
@@ -3016,7 +3016,7 @@ window.SONG_DATA.push(
     {
   "title": "Let's search for Tomorrow",
   "artist": "大澤徹訓",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=35",
   "source": "kotatsu.js"
@@ -3024,7 +3024,7 @@ window.SONG_DATA.push(
     {
   "title": "ゴーゴー魚釣り",
   "artist": "工藤祐次郎",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=36",
   "source": "kotatsu.js"
@@ -3032,7 +3032,7 @@ window.SONG_DATA.push(
     {
   "title": "あさごはんマーチ",
   "artist": "杉田あきひろ、つのだりょうこ",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=37",
   "source": "kotatsu.js"
@@ -3040,7 +3040,7 @@ window.SONG_DATA.push(
     {
   "title": "地上の星",
   "artist": "中島みゆき",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=38",
   "source": "kotatsu.js"
@@ -3048,7 +3048,7 @@ window.SONG_DATA.push(
     {
   "title": "サライ",
   "artist": "加山雄三・谷村新司",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=39",
   "source": "kotatsu.js"
@@ -3056,7 +3056,7 @@ window.SONG_DATA.push(
     {
   "title": "水流のロック",
   "artist": "日食なつこ",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=40",
   "source": "kotatsu.js"
@@ -3064,7 +3064,7 @@ window.SONG_DATA.push(
     {
   "title": "有明を撫でて",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=41",
   "source": "kotatsu.js"
@@ -3072,7 +3072,7 @@ window.SONG_DATA.push(
     {
   "title": "アルバイター、無名",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=42",
   "source": "kotatsu.js"
@@ -3080,7 +3080,7 @@ window.SONG_DATA.push(
     {
   "title": "春",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=43",
   "source": "kotatsu.js"
@@ -3088,7 +3088,7 @@ window.SONG_DATA.push(
     {
   "title": "死にたい夜には",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=44",
   "source": "kotatsu.js"
@@ -3096,7 +3096,7 @@ window.SONG_DATA.push(
     {
   "title": "無名",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=45",
   "source": "kotatsu.js"
@@ -3104,7 +3104,7 @@ window.SONG_DATA.push(
     {
   "title": "ひとつ",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=46",
   "source": "kotatsu.js"
@@ -3112,7 +3112,7 @@ window.SONG_DATA.push(
     {
   "title": "ハロ／ハワユ",
   "artist": "ナノウ feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=47",
   "source": "kotatsu.js"
@@ -3120,7 +3120,7 @@ window.SONG_DATA.push(
     {
   "title": "深夜高速",
   "artist": "フラワーカンパニーズ",
-  "collection": "【♧🎸歌切】[2026-05-16]睡眠・工作用直播｜在无法入眠的房间里，弹奏春天 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "\\【♧🎸Song Cut】[2026-05-16] Sleep・Work Livestream｜In a sleepless room, playing spring KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19SL36aE2f?p=48",
   "source": "kotatsu.js"
@@ -3128,7 +3128,7 @@ window.SONG_DATA.push(
     {
   "title": "楽園",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-17] Sleep・Work Livestream｜Streetlights and Music Through the Curtain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=1",
   "source": "kotatsu.js"
@@ -3136,7 +3136,7 @@ window.SONG_DATA.push(
     {
   "title": "キッス～帰り道のラブソング～",
   "artist": "テゴマス",
-  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-17] Sleep・Work Livestream｜Streetlights and Music Through the Curtain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=2",
   "source": "kotatsu.js"
@@ -3144,7 +3144,7 @@ window.SONG_DATA.push(
     {
   "title": "未来",
   "artist": "ズーカラデル",
-  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-17] Sleep・Work Livestream｜Streetlights and Music Through the Curtain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=3",
   "source": "kotatsu.js"
@@ -3152,7 +3152,7 @@ window.SONG_DATA.push(
     {
   "title": "春に一番近い街",
   "artist": "40mP feat. GUMI",
-  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-17] Sleep・Work Livestream｜Streetlights and Music Through the Curtain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=4",
   "source": "kotatsu.js"
@@ -3160,7 +3160,7 @@ window.SONG_DATA.push(
     {
   "title": "ふるさと",
   "artist": "童謡・唱歌",
-  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-17] Sleep・Work Livestream｜Streetlights and Music Through the Curtain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=5",
   "source": "kotatsu.js"
@@ -3168,7 +3168,7 @@ window.SONG_DATA.push(
     {
   "title": "眼福",
   "artist": "米津玄師",
-  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-17] Sleep・Work Livestream｜Streetlights and Music Through the Curtain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=6",
   "source": "kotatsu.js"
@@ -3176,7 +3176,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-17] Sleep・Work Livestream｜Streetlights and Music Through the Curtain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=7",
   "source": "kotatsu.js"
@@ -3184,7 +3184,7 @@ window.SONG_DATA.push(
     {
   "title": "Just Be Friends",
   "artist": "Dixie Flatline feat. 巡音ルカ",
-  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-17] Sleep・Work Livestream｜Streetlights and Music Through the Curtain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=8",
   "source": "kotatsu.js"
@@ -3192,7 +3192,7 @@ window.SONG_DATA.push(
     {
   "title": "乾杯",
   "artist": "長渕剛",
-  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-17] Sleep・Work Livestream｜Streetlights and Music Through the Curtain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=9",
   "source": "kotatsu.js"
@@ -3200,7 +3200,7 @@ window.SONG_DATA.push(
     {
   "title": "花鳥風月",
   "artist": "SEKAI NO OWARI",
-  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-17] Sleep・Work Livestream｜Streetlights and Music Through the Curtain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=10",
   "source": "kotatsu.js"
@@ -3208,7 +3208,7 @@ window.SONG_DATA.push(
     {
   "title": "カントリー・ロード",
   "artist": "本名陽子",
-  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-17] Sleep・Work Livestream｜Streetlights and Music Through the Curtain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=11",
   "source": "kotatsu.js"
@@ -3216,7 +3216,7 @@ window.SONG_DATA.push(
     {
   "title": "正解",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-17] Sleep・Work Livestream｜Streetlights and Music Through the Curtain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=12",
   "source": "kotatsu.js"
@@ -3224,7 +3224,7 @@ window.SONG_DATA.push(
     {
   "title": "桃ノ花ビラ",
   "artist": "大塚愛",
-  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-17] Sleep・Work Livestream｜Streetlights and Music Through the Curtain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=13",
   "source": "kotatsu.js"
@@ -3232,7 +3232,7 @@ window.SONG_DATA.push(
     {
   "title": "しあわせ",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-17] Sleep・Work Livestream｜Streetlights and Music Through the Curtain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=14",
   "source": "kotatsu.js"
@@ -3240,7 +3240,7 @@ window.SONG_DATA.push(
     {
   "title": "いつか",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-17] Sleep・Work Livestream｜Streetlights and Music Through the Curtain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=15",
   "source": "kotatsu.js"
@@ -3248,7 +3248,7 @@ window.SONG_DATA.push(
     {
   "title": "夜な夜なエール",
   "artist": "はるこたつぶとん倶楽部",
-  "collection": "【♧🎸歌切】[2026-05-17]睡眠・工作用直播｜透过窗帘的街灯与音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-17] Sleep・Work Livestream｜Streetlights and Music Through the Curtain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SuLj6NEtM?p=16",
   "source": "kotatsu.js"
@@ -3256,7 +3256,7 @@ window.SONG_DATA.push(
     {
   "title": "携帯電話",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=1",
   "source": "kotatsu.js"
@@ -3264,7 +3264,7 @@ window.SONG_DATA.push(
     {
   "title": "時をかけるメロディー",
   "artist": "小山田壮平",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=2",
   "source": "kotatsu.js"
@@ -3272,7 +3272,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れてください",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=3",
   "source": "kotatsu.js"
@@ -3280,7 +3280,7 @@ window.SONG_DATA.push(
     {
   "title": "大好きだよ。",
   "artist": "大塚愛",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=4",
   "source": "kotatsu.js"
@@ -3288,7 +3288,7 @@ window.SONG_DATA.push(
     {
   "title": "バンド",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=5",
   "source": "kotatsu.js"
@@ -3296,7 +3296,7 @@ window.SONG_DATA.push(
     {
   "title": "napori",
   "artist": "Vaundy",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=6",
   "source": "kotatsu.js"
@@ -3304,7 +3304,7 @@ window.SONG_DATA.push(
     {
   "title": "夜の踊り子",
   "artist": "サカナクション",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=7",
   "source": "kotatsu.js"
@@ -3312,7 +3312,7 @@ window.SONG_DATA.push(
     {
   "title": "決意の朝に",
   "artist": "Aqua Timez",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=8",
   "source": "kotatsu.js"
@@ -3320,7 +3320,7 @@ window.SONG_DATA.push(
     {
   "title": "眼福",
   "artist": "米津玄師",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=9",
   "source": "kotatsu.js"
@@ -3328,7 +3328,7 @@ window.SONG_DATA.push(
     {
   "title": "らしさ",
   "artist": "SUPER BEAVER",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=10",
   "source": "kotatsu.js"
@@ -3336,7 +3336,7 @@ window.SONG_DATA.push(
     {
   "title": "ラブソング",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=11",
   "source": "kotatsu.js"
@@ -3344,7 +3344,7 @@ window.SONG_DATA.push(
     {
   "title": "雛市",
   "artist": "女王蜂",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=12",
   "source": "kotatsu.js"
@@ -3352,7 +3352,7 @@ window.SONG_DATA.push(
     {
   "title": "まっすぐ",
   "artist": "ヒグチアイ",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=13",
   "source": "kotatsu.js"
@@ -3360,7 +3360,7 @@ window.SONG_DATA.push(
     {
   "title": "卒業",
   "artist": "My Hair is Bad",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=14",
   "source": "kotatsu.js"
@@ -3368,7 +3368,7 @@ window.SONG_DATA.push(
     {
   "title": "瞬き",
   "artist": "back number",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=15",
   "source": "kotatsu.js"
@@ -3376,7 +3376,7 @@ window.SONG_DATA.push(
     {
   "title": "翡翠のまち",
   "artist": "メル feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=16",
   "source": "kotatsu.js"
@@ -3384,7 +3384,7 @@ window.SONG_DATA.push(
     {
   "title": "ラブソング",
   "artist": "ズーカラデル",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=17",
   "source": "kotatsu.js"
@@ -3392,7 +3392,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=18",
   "source": "kotatsu.js"
@@ -3400,7 +3400,7 @@ window.SONG_DATA.push(
     {
   "title": "ニーナ",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=19",
   "source": "kotatsu.js"
@@ -3408,7 +3408,7 @@ window.SONG_DATA.push(
     {
   "title": "しあわせ",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=20",
   "source": "kotatsu.js"
@@ -3416,7 +3416,7 @@ window.SONG_DATA.push(
     {
   "title": "夢の恋人",
   "artist": "ズーカラデル",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=21",
   "source": "kotatsu.js"
@@ -3424,7 +3424,7 @@ window.SONG_DATA.push(
     {
   "title": "ここにしか咲かない花",
   "artist": "コブクロ",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=22",
   "source": "kotatsu.js"
@@ -3432,7 +3432,7 @@ window.SONG_DATA.push(
     {
   "title": "サントラ",
   "artist": "Creepy Nuts × 菅田将暉",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=23",
   "source": "kotatsu.js"
@@ -3440,7 +3440,7 @@ window.SONG_DATA.push(
     {
   "title": "Burning Friday Night",
   "artist": "Lucky Kilimanjaro",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=24",
   "source": "kotatsu.js"
@@ -3448,7 +3448,7 @@ window.SONG_DATA.push(
     {
   "title": "おやすみ泣き声、さよなら歌姫",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=25",
   "source": "kotatsu.js"
@@ -3456,7 +3456,7 @@ window.SONG_DATA.push(
     {
   "title": "Planetes",
   "artist": "EGOIST",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=26",
   "source": "kotatsu.js"
@@ -3464,7 +3464,7 @@ window.SONG_DATA.push(
     {
   "title": "いのちの名前",
   "artist": "木村弓",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=27",
   "source": "kotatsu.js"
@@ -3472,7 +3472,7 @@ window.SONG_DATA.push(
     {
   "title": "八月、某、月明かり",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=28",
   "source": "kotatsu.js"
@@ -3480,7 +3480,7 @@ window.SONG_DATA.push(
     {
   "title": "アイロニ",
   "artist": "すこっぷ feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=29",
   "source": "kotatsu.js"
@@ -3488,7 +3488,7 @@ window.SONG_DATA.push(
     {
   "title": "笑ったり転んだり",
   "artist": "ハンバート ハンバート",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=30",
   "source": "kotatsu.js"
@@ -3496,7 +3496,7 @@ window.SONG_DATA.push(
     {
   "title": "Sunrise&Sunset",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=31",
   "source": "kotatsu.js"
@@ -3504,7 +3504,7 @@ window.SONG_DATA.push(
     {
   "title": "はなれ、ばなれ",
   "artist": "古川P feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=32",
   "source": "kotatsu.js"
@@ -3512,7 +3512,7 @@ window.SONG_DATA.push(
     {
   "title": "待ち合わせの途中",
   "artist": "plenty",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=33",
   "source": "kotatsu.js"
@@ -3520,7 +3520,7 @@ window.SONG_DATA.push(
     {
   "title": "nostalgia",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=34",
   "source": "kotatsu.js"
@@ -3528,7 +3528,7 @@ window.SONG_DATA.push(
     {
   "title": "Amazing Grace",
   "artist": "John Newton",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=35",
   "source": "kotatsu.js"
@@ -3536,7 +3536,7 @@ window.SONG_DATA.push(
     {
   "title": "星の界",
   "artist": "杉谷代水",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=36",
   "source": "kotatsu.js"
@@ -3544,7 +3544,7 @@ window.SONG_DATA.push(
     {
   "title": "Tonight",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=37",
   "source": "kotatsu.js"
@@ -3552,7 +3552,7 @@ window.SONG_DATA.push(
     {
   "title": "愛のうた",
   "artist": "ストロベリー・フラワー",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=38",
   "source": "kotatsu.js"
@@ -3560,7 +3560,7 @@ window.SONG_DATA.push(
     {
   "title": "革命",
   "artist": "MOROHA",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=39",
   "source": "kotatsu.js"
@@ -3568,7 +3568,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならはエモーション",
   "artist": "サカナクション",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=40",
   "source": "kotatsu.js"
@@ -3576,7 +3576,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-05-20]睡眠・工作用直播｜深夜的街道，一个人的体温 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-20] Sleep・Work Livestream｜Late Night Streets, One Person's Warmth KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YRLp6ZEP6?p=41",
   "source": "kotatsu.js"
@@ -3584,7 +3584,7 @@ window.SONG_DATA.push(
     {
   "title": "ウミユリ海底譚",
   "artist": "n-buna feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=1",
   "source": "kotatsu.js"
@@ -3592,7 +3592,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンデライオン",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=2",
   "source": "kotatsu.js"
@@ -3600,7 +3600,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならまたね",
   "artist": "キクチリョウタ",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=3",
   "source": "kotatsu.js"
@@ -3608,7 +3608,7 @@ window.SONG_DATA.push(
     {
   "title": "関白宣言",
   "artist": "さだまさし",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=4",
   "source": "kotatsu.js"
@@ -3616,7 +3616,7 @@ window.SONG_DATA.push(
     {
   "title": "25コ目の染色体",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=5",
   "source": "kotatsu.js"
@@ -3624,7 +3624,7 @@ window.SONG_DATA.push(
     {
   "title": "始発とカフカ",
   "artist": "n-buna feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=6",
   "source": "kotatsu.js"
@@ -3632,7 +3632,7 @@ window.SONG_DATA.push(
     {
   "title": "金魚花火",
   "artist": "大塚愛",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=7",
   "source": "kotatsu.js"
@@ -3640,7 +3640,7 @@ window.SONG_DATA.push(
     {
   "title": "たしかなこと",
   "artist": "小田和正",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=8",
   "source": "kotatsu.js"
@@ -3648,7 +3648,7 @@ window.SONG_DATA.push(
     {
   "title": "エクレア",
   "artist": "岡崎体育",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=9",
   "source": "kotatsu.js"
@@ -3656,7 +3656,7 @@ window.SONG_DATA.push(
     {
   "title": "はなびら",
   "artist": "奥華子",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=10",
   "source": "kotatsu.js"
@@ -3664,7 +3664,7 @@ window.SONG_DATA.push(
     {
   "title": "fish",
   "artist": "back number",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=11",
   "source": "kotatsu.js"
@@ -3672,7 +3672,7 @@ window.SONG_DATA.push(
     {
   "title": "東京",
   "artist": "ヒグチアイ",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=12",
   "source": "kotatsu.js"
@@ -3680,7 +3680,7 @@ window.SONG_DATA.push(
     {
   "title": "The Beast.",
   "artist": "スペクタクルP feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=13",
   "source": "kotatsu.js"
@@ -3688,7 +3688,7 @@ window.SONG_DATA.push(
     {
   "title": "おなじ話",
   "artist": "ハンバート ハンバート",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=14",
   "source": "kotatsu.js"
@@ -3696,7 +3696,7 @@ window.SONG_DATA.push(
     {
   "title": "あいという",
   "artist": "plenty",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=15",
   "source": "kotatsu.js"
@@ -3704,7 +3704,7 @@ window.SONG_DATA.push(
     {
   "title": "あいという",
   "artist": "Plenty",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=16",
   "source": "kotatsu.js"
@@ -3712,7 +3712,7 @@ window.SONG_DATA.push(
     {
   "title": "青空",
   "artist": "THE BLUE HEARTS",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=17",
   "source": "kotatsu.js"
@@ -3720,7 +3720,7 @@ window.SONG_DATA.push(
     {
   "title": "オーダーメイド",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=18",
   "source": "kotatsu.js"
@@ -3728,7 +3728,7 @@ window.SONG_DATA.push(
     {
   "title": "日々",
   "artist": "吉田山田",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=19",
   "source": "kotatsu.js"
@@ -3736,7 +3736,7 @@ window.SONG_DATA.push(
     {
   "title": "アルバイト",
   "artist": "3markets",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=20",
   "source": "kotatsu.js"
@@ -3744,7 +3744,7 @@ window.SONG_DATA.push(
     {
   "title": "夢の恋人",
   "artist": "ズーカラデル",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=21",
   "source": "kotatsu.js"
@@ -3752,7 +3752,7 @@ window.SONG_DATA.push(
     {
   "title": "さようなら、花泥棒さん",
   "artist": "メル feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=22",
   "source": "kotatsu.js"
@@ -3760,7 +3760,7 @@ window.SONG_DATA.push(
     {
   "title": "Peace",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=23",
   "source": "kotatsu.js"
@@ -3768,7 +3768,7 @@ window.SONG_DATA.push(
     {
   "title": "アヤノの幸福理論",
   "artist": "じん feat. IA",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=24",
   "source": "kotatsu.js"
@@ -3776,7 +3776,7 @@ window.SONG_DATA.push(
     {
   "title": "それがあなたの幸せとしても",
   "artist": "Heavenz feat. 巡音ルカ",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=25",
   "source": "kotatsu.js"
@@ -3784,7 +3784,7 @@ window.SONG_DATA.push(
     {
   "title": "性善説",
   "artist": "amazarashi",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=26",
   "source": "kotatsu.js"
@@ -3792,7 +3792,7 @@ window.SONG_DATA.push(
     {
   "title": "月明かりのように",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=27",
   "source": "kotatsu.js"
@@ -3800,7 +3800,7 @@ window.SONG_DATA.push(
     {
   "title": "ぼくらのレットイットビー",
   "artist": "はりーP feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=28",
   "source": "kotatsu.js"
@@ -3808,7 +3808,7 @@ window.SONG_DATA.push(
     {
   "title": "くだらないの中に",
   "artist": "星野源",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=29",
   "source": "kotatsu.js"
@@ -3816,7 +3816,7 @@ window.SONG_DATA.push(
     {
   "title": "ナイトオンザプラネット",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=30",
   "source": "kotatsu.js"
@@ -3824,7 +3824,7 @@ window.SONG_DATA.push(
     {
   "title": "Rain",
   "artist": "秦基博",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=31",
   "source": "kotatsu.js"
@@ -3832,7 +3832,7 @@ window.SONG_DATA.push(
     {
   "title": "1時間",
   "artist": "ハンバート ハンバート",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=32",
   "source": "kotatsu.js"
@@ -3840,7 +3840,7 @@ window.SONG_DATA.push(
     {
   "title": "Believe",
   "artist": "杉本竜一",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=33",
   "source": "kotatsu.js"
@@ -3848,7 +3848,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=34",
   "source": "kotatsu.js"
@@ -3856,7 +3856,7 @@ window.SONG_DATA.push(
     {
   "title": "知らんけど。",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=35",
   "source": "kotatsu.js"
@@ -3864,7 +3864,7 @@ window.SONG_DATA.push(
     {
   "title": "マリーゴールド",
   "artist": "あいみょん",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=36",
   "source": "kotatsu.js"
@@ -3872,7 +3872,7 @@ window.SONG_DATA.push(
     {
   "title": "チェリー",
   "artist": "スピッツ",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=37",
   "source": "kotatsu.js"
@@ -3880,7 +3880,7 @@ window.SONG_DATA.push(
     {
   "title": "無名のオリジナル",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=38",
   "source": "kotatsu.js"
@@ -3888,7 +3888,7 @@ window.SONG_DATA.push(
     {
   "title": "たられば",
   "artist": "amazarashi",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=39",
   "source": "kotatsu.js"
@@ -3896,7 +3896,7 @@ window.SONG_DATA.push(
     {
   "title": "冬へと走りだすお！",
   "artist": "でんぱ組.inc",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=40",
   "source": "kotatsu.js"
@@ -3904,7 +3904,7 @@ window.SONG_DATA.push(
     {
   "title": "無名",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=41",
   "source": "kotatsu.js"
@@ -3912,7 +3912,7 @@ window.SONG_DATA.push(
     {
   "title": "丸ノ内サディスティック",
   "artist": "椎名林檎",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=42",
   "source": "kotatsu.js"
@@ -3920,7 +3920,7 @@ window.SONG_DATA.push(
     {
   "title": "幕無し",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-22]睡眠・工作用直播｜夜风中摇曳的窗帘那边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♧🎸 Song Cuts] [2026-05-22] Sleep/Work Livestream｜Curtains Swaying in the Night Breeze - KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1EWGq6vEJs?p=43",
   "source": "kotatsu.js"
@@ -3928,7 +3928,7 @@ window.SONG_DATA.push(
     {
   "title": "僕は君の事が好きだけど君は僕を別に好きじゃないみたい",
   "artist": "back number",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=1",
   "source": "kotatsu.js"
@@ -3936,7 +3936,7 @@ window.SONG_DATA.push(
     {
   "title": "ルバート",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=2",
   "source": "kotatsu.js"
@@ -3944,7 +3944,7 @@ window.SONG_DATA.push(
     {
   "title": "ひかり",
   "artist": "ハンバート ハンバート",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=3",
   "source": "kotatsu.js"
@@ -3952,7 +3952,7 @@ window.SONG_DATA.push(
     {
   "title": "真っ赤な空を見ただろうか",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=4",
   "source": "kotatsu.js"
@@ -3960,7 +3960,7 @@ window.SONG_DATA.push(
     {
   "title": "時をかけるメロディー",
   "artist": "小山田壮平",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=5",
   "source": "kotatsu.js"
@@ -3968,7 +3968,7 @@ window.SONG_DATA.push(
     {
   "title": "KING",
   "artist": "Kanaria feat. GUMI",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=6",
   "source": "kotatsu.js"
@@ -3976,7 +3976,7 @@ window.SONG_DATA.push(
     {
   "title": "爆弾魔",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=7",
   "source": "kotatsu.js"
@@ -3984,7 +3984,7 @@ window.SONG_DATA.push(
     {
   "title": "深夜高速",
   "artist": "フラワーカンパニーズ",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=8",
   "source": "kotatsu.js"
@@ -3992,7 +3992,7 @@ window.SONG_DATA.push(
     {
   "title": "ジェニファー山田さん",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=9",
   "source": "kotatsu.js"
@@ -4000,7 +4000,7 @@ window.SONG_DATA.push(
     {
   "title": "さよなら人類",
   "artist": "たま",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=10",
   "source": "kotatsu.js"
@@ -4008,7 +4008,7 @@ window.SONG_DATA.push(
     {
   "title": "拝啓、少年よ",
   "artist": "Hump Back",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=11",
   "source": "kotatsu.js"
@@ -4016,7 +4016,7 @@ window.SONG_DATA.push(
     {
   "title": "憂、燦々",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=12",
   "source": "kotatsu.js"
@@ -4024,7 +4024,7 @@ window.SONG_DATA.push(
     {
   "title": "オシャレ大作戦",
   "artist": "ネクライトーキー",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=13",
   "source": "kotatsu.js"
@@ -4032,7 +4032,7 @@ window.SONG_DATA.push(
     {
   "title": "ハンドメイドホーム",
   "artist": "大森靖子",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=14",
   "source": "kotatsu.js"
@@ -4040,7 +4040,7 @@ window.SONG_DATA.push(
     {
   "title": "ギミギミック",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=15",
   "source": "kotatsu.js"
@@ -4048,7 +4048,7 @@ window.SONG_DATA.push(
     {
   "title": "心拍数#0822",
   "artist": "蝶々P feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=16",
   "source": "kotatsu.js"
@@ -4056,7 +4056,7 @@ window.SONG_DATA.push(
     {
   "title": "福笑い",
   "artist": "高橋優",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=17",
   "source": "kotatsu.js"
@@ -4064,7 +4064,7 @@ window.SONG_DATA.push(
     {
   "title": "隅田川",
   "artist": "amazarashi",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=18",
   "source": "kotatsu.js"
@@ -4072,7 +4072,7 @@ window.SONG_DATA.push(
     {
   "title": "かぞえうた",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=19",
   "source": "kotatsu.js"
@@ -4080,7 +4080,7 @@ window.SONG_DATA.push(
     {
   "title": "ベースマン",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=20",
   "source": "kotatsu.js"
@@ -4088,7 +4088,7 @@ window.SONG_DATA.push(
     {
   "title": "夜の踊り子",
   "artist": "サカナクション",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=21",
   "source": "kotatsu.js"
@@ -4096,7 +4096,7 @@ window.SONG_DATA.push(
     {
   "title": "Burning Friday Night",
   "artist": "Lucky Kilimanjaro",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=22",
   "source": "kotatsu.js"
@@ -4104,7 +4104,7 @@ window.SONG_DATA.push(
     {
   "title": "マニフェスト",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=23",
   "source": "kotatsu.js"
@@ -4112,7 +4112,7 @@ window.SONG_DATA.push(
     {
   "title": "花に亡霊",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=24",
   "source": "kotatsu.js"
@@ -4120,7 +4120,7 @@ window.SONG_DATA.push(
     {
   "title": "ココロジェリーフィッシュ",
   "artist": "ヒグチアイ",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=25",
   "source": "kotatsu.js"
@@ -4128,7 +4128,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=26",
   "source": "kotatsu.js"
@@ -4136,7 +4136,7 @@ window.SONG_DATA.push(
     {
   "title": "遠い君へ",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=27",
   "source": "kotatsu.js"
@@ -4144,7 +4144,7 @@ window.SONG_DATA.push(
     {
   "title": "ニーナ",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-23]睡眠・工作用直播｜混入寂静雨声中消失的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-23] Sleep/Work Livestream｜Songs Disappearing into the Sound of Silent Rain KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jxGq6PEqd?p=28",
   "source": "kotatsu.js"
@@ -4152,7 +4152,7 @@ window.SONG_DATA.push(
     {
   "title": "羽虫と自販機",
   "artist": "KANA-BOON",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=1",
   "source": "kotatsu.js"
@@ -4160,7 +4160,7 @@ window.SONG_DATA.push(
     {
   "title": "命に嫌われている。",
   "artist": "カンザキイオリ feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=2",
   "source": "kotatsu.js"
@@ -4168,7 +4168,7 @@ window.SONG_DATA.push(
     {
   "title": "あんなつぁ",
   "artist": "浪漫革命",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=3",
   "source": "kotatsu.js"
@@ -4176,7 +4176,7 @@ window.SONG_DATA.push(
     {
   "title": "夜紛い",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=4",
   "source": "kotatsu.js"
@@ -4184,7 +4184,7 @@ window.SONG_DATA.push(
     {
   "title": "うんめー",
   "artist": "ゆるめるモ！",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=5",
   "source": "kotatsu.js"
@@ -4192,7 +4192,7 @@ window.SONG_DATA.push(
     {
   "title": "真赤",
   "artist": "My Hair is Bad",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=6",
   "source": "kotatsu.js"
@@ -4200,7 +4200,7 @@ window.SONG_DATA.push(
     {
   "title": "謎謎",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=7",
   "source": "kotatsu.js"
@@ -4208,7 +4208,7 @@ window.SONG_DATA.push(
     {
   "title": "それがあなたの幸せとしても",
   "artist": "Heavenz feat. 巡音ルカ",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=8",
   "source": "kotatsu.js"
@@ -4216,7 +4216,7 @@ window.SONG_DATA.push(
     {
   "title": "感情七号線",
   "artist": "フラワーカンパニーズ",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=9",
   "source": "kotatsu.js"
@@ -4224,7 +4224,7 @@ window.SONG_DATA.push(
     {
   "title": "上を向いて歩こう",
   "artist": "坂本九",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=10",
   "source": "kotatsu.js"
@@ -4232,7 +4232,7 @@ window.SONG_DATA.push(
     {
   "title": "LOVEずっきゅん",
   "artist": "相対性理論",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=11",
   "source": "kotatsu.js"
@@ -4240,7 +4240,7 @@ window.SONG_DATA.push(
     {
   "title": "春に一番近い街",
   "artist": "40mP feat. GUMI",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=12",
   "source": "kotatsu.js"
@@ -4248,7 +4248,7 @@ window.SONG_DATA.push(
     {
   "title": "光",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=13",
   "source": "kotatsu.js"
@@ -4256,7 +4256,7 @@ window.SONG_DATA.push(
     {
   "title": "after that...",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=14",
   "source": "kotatsu.js"
@@ -4264,7 +4264,7 @@ window.SONG_DATA.push(
     {
   "title": "napori",
   "artist": "Vaundy",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=15",
   "source": "kotatsu.js"
@@ -4272,7 +4272,7 @@ window.SONG_DATA.push(
     {
   "title": "深呼吸",
   "artist": "ハナレグミ",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=16",
   "source": "kotatsu.js"
@@ -4280,7 +4280,7 @@ window.SONG_DATA.push(
     {
   "title": "丸ノ内サディスティック",
   "artist": "椎名林檎",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=17",
   "source": "kotatsu.js"
@@ -4288,7 +4288,7 @@ window.SONG_DATA.push(
     {
   "title": "明日への扉",
   "artist": "I WiSH",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=18",
   "source": "kotatsu.js"
@@ -4296,7 +4296,7 @@ window.SONG_DATA.push(
     {
   "title": "光るまち",
   "artist": "teto",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=19",
   "source": "kotatsu.js"
@@ -4304,7 +4304,7 @@ window.SONG_DATA.push(
     {
   "title": "笑ったり転んだり",
   "artist": "ハンバート ハンバート",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=20",
   "source": "kotatsu.js"
@@ -4312,7 +4312,7 @@ window.SONG_DATA.push(
     {
   "title": "アイデンティティ",
   "artist": "サカナクション",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=21",
   "source": "kotatsu.js"
@@ -4320,7 +4320,7 @@ window.SONG_DATA.push(
     {
   "title": "高嶺の花子さん",
   "artist": "back number",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=22",
   "source": "kotatsu.js"
@@ -4328,7 +4328,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=23",
   "source": "kotatsu.js"
@@ -4336,7 +4336,7 @@ window.SONG_DATA.push(
     {
   "title": "野に咲く花のように",
   "artist": "ダ・カーポ",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=24",
   "source": "kotatsu.js"
@@ -4344,7 +4344,7 @@ window.SONG_DATA.push(
     {
   "title": "明るい未来",
   "artist": "never young beach",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=25",
   "source": "kotatsu.js"
@@ -4352,7 +4352,7 @@ window.SONG_DATA.push(
     {
   "title": "グレゴリオ",
   "artist": "古川本舗 feat. ちびた",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=26",
   "source": "kotatsu.js"
@@ -4360,7 +4360,7 @@ window.SONG_DATA.push(
     {
   "title": "やどかり",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=27",
   "source": "kotatsu.js"
@@ -4368,7 +4368,7 @@ window.SONG_DATA.push(
     {
   "title": "仰げば尊し",
   "artist": "文部省唱歌",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=28",
   "source": "kotatsu.js"
@@ -4376,7 +4376,7 @@ window.SONG_DATA.push(
     {
   "title": "黒毛和牛上塩タン焼680円",
   "artist": "大塚愛",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=29",
   "source": "kotatsu.js"
@@ -4384,7 +4384,7 @@ window.SONG_DATA.push(
     {
   "title": "magnet",
   "artist": "流星P feat. 初音ミク・巡音ルカ",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=30",
   "source": "kotatsu.js"
@@ -4392,7 +4392,7 @@ window.SONG_DATA.push(
     {
   "title": "アイのシナリオ",
   "artist": "CHiCO with HoneyWorks",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=31",
   "source": "kotatsu.js"
@@ -4400,7 +4400,7 @@ window.SONG_DATA.push(
     {
   "title": "東京",
   "artist": "ヒグチアイ",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=32",
   "source": "kotatsu.js"
@@ -4408,7 +4408,7 @@ window.SONG_DATA.push(
     {
   "title": "雛市",
   "artist": "女王蜂",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=33",
   "source": "kotatsu.js"
@@ -4416,7 +4416,7 @@ window.SONG_DATA.push(
     {
   "title": "手と手",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=34",
   "source": "kotatsu.js"
@@ -4424,7 +4424,7 @@ window.SONG_DATA.push(
     {
   "title": "Triangle",
   "artist": "SMAP",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=35",
   "source": "kotatsu.js"
@@ -4432,7 +4432,7 @@ window.SONG_DATA.push(
     {
   "title": "バクチ・ダンサー",
   "artist": "DOES",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=36",
   "source": "kotatsu.js"
@@ -4440,7 +4440,7 @@ window.SONG_DATA.push(
     {
   "title": "藍二乗",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=37",
   "source": "kotatsu.js"
@@ -4448,7 +4448,7 @@ window.SONG_DATA.push(
     {
   "title": "千年幸福論",
   "artist": "amazarashi",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=38",
   "source": "kotatsu.js"
@@ -4456,7 +4456,7 @@ window.SONG_DATA.push(
     {
   "title": "ニーナ",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=39",
   "source": "kotatsu.js"
@@ -4464,7 +4464,7 @@ window.SONG_DATA.push(
     {
   "title": "情熱の薔薇",
   "artist": "THE BLUE HEARTS",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=40",
   "source": "kotatsu.js"
@@ -4472,7 +4472,7 @@ window.SONG_DATA.push(
     {
   "title": "化粧",
   "artist": "中島みゆき",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=41",
   "source": "kotatsu.js"
@@ -4480,7 +4480,7 @@ window.SONG_DATA.push(
     {
   "title": "神様、",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=42",
   "source": "kotatsu.js"
@@ -4488,7 +4488,7 @@ window.SONG_DATA.push(
     {
   "title": "115万キロのフィルム",
   "artist": "Official髭男dism",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=43",
   "source": "kotatsu.js"
@@ -4496,7 +4496,7 @@ window.SONG_DATA.push(
     {
   "title": "性善説",
   "artist": "amazarashi",
-  "collection": "【♧🎸歌切】[2026-05-26]睡眠・工作用直播｜随风流逝的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-26] Sleep/Work Livestream｜Music Flowing with the Wind KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZoVT6WESk?p=44",
   "source": "kotatsu.js"
@@ -4504,7 +4504,7 @@ window.SONG_DATA.push(
     {
   "title": "楽園",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=1",
   "source": "kotatsu.js"
@@ -4512,7 +4512,7 @@ window.SONG_DATA.push(
     {
   "title": "アンマー",
   "artist": "かりゆし58",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=2",
   "source": "kotatsu.js"
@@ -4520,7 +4520,7 @@ window.SONG_DATA.push(
     {
   "title": "いのちの理由",
   "artist": "さだまさし",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=3",
   "source": "kotatsu.js"
@@ -4528,7 +4528,7 @@ window.SONG_DATA.push(
     {
   "title": "栞",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=4",
   "source": "kotatsu.js"
@@ -4536,7 +4536,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=5",
   "source": "kotatsu.js"
@@ -4544,7 +4544,7 @@ window.SONG_DATA.push(
     {
   "title": "虎",
   "artist": "ハンバート ハンバート",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=6",
   "source": "kotatsu.js"
@@ -4552,7 +4552,7 @@ window.SONG_DATA.push(
     {
   "title": "ダンデライオン",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=7",
   "source": "kotatsu.js"
@@ -4560,7 +4560,7 @@ window.SONG_DATA.push(
     {
   "title": "俺色スカイ",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=8",
   "source": "kotatsu.js"
@@ -4568,7 +4568,7 @@ window.SONG_DATA.push(
     {
   "title": "ウミユリ海底譚",
   "artist": "n-buna feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=9",
   "source": "kotatsu.js"
@@ -4576,7 +4576,7 @@ window.SONG_DATA.push(
     {
   "title": "家に帰ると妻が必ず死んだふりをしています。",
   "artist": "ほぼ日P feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=10",
   "source": "kotatsu.js"
@@ -4584,7 +4584,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならまたね",
   "artist": "キクチリョウタ",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=11",
   "source": "kotatsu.js"
@@ -4592,7 +4592,7 @@ window.SONG_DATA.push(
     {
   "title": "君のバンド",
   "artist": "コレサワ",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=12",
   "source": "kotatsu.js"
@@ -4600,7 +4600,7 @@ window.SONG_DATA.push(
     {
   "title": "vivi",
   "artist": "米津玄師",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=13",
   "source": "kotatsu.js"
@@ -4608,7 +4608,7 @@ window.SONG_DATA.push(
     {
   "title": "ゴーゴー魚釣り",
   "artist": "工藤祐次郎",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=14",
   "source": "kotatsu.js"
@@ -4616,7 +4616,7 @@ window.SONG_DATA.push(
     {
   "title": "365日の紙飛行機",
   "artist": "AKB48",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=15",
   "source": "kotatsu.js"
@@ -4624,7 +4624,7 @@ window.SONG_DATA.push(
     {
   "title": "I LOVE YOU",
   "artist": "尾崎豊",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=16",
   "source": "kotatsu.js"
@@ -4632,7 +4632,7 @@ window.SONG_DATA.push(
     {
   "title": "修羅",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=17",
   "source": "kotatsu.js"
@@ -4640,7 +4640,7 @@ window.SONG_DATA.push(
     {
   "title": "サヨナラCOLOR",
   "artist": "SUPER BUTTER DOG",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=18",
   "source": "kotatsu.js"
@@ -4648,7 +4648,7 @@ window.SONG_DATA.push(
     {
   "title": "今宵、月が見えずとも",
   "artist": "ポルノグラフィティ",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=19",
   "source": "kotatsu.js"
@@ -4656,7 +4656,7 @@ window.SONG_DATA.push(
     {
   "title": "キラキラチューン",
   "artist": "でんぱ組.inc",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=20",
   "source": "kotatsu.js"
@@ -4664,7 +4664,7 @@ window.SONG_DATA.push(
     {
   "title": "深呼吸",
   "artist": "ハナレグミ",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=21",
   "source": "kotatsu.js"
@@ -4672,7 +4672,7 @@ window.SONG_DATA.push(
     {
   "title": "RAIN",
   "artist": "SEKAI NO OWARI",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=22",
   "source": "kotatsu.js"
@@ -4680,7 +4680,7 @@ window.SONG_DATA.push(
     {
   "title": "サイダーのように言葉が湧き上がる",
   "artist": "never young beach",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=23",
   "source": "kotatsu.js"
@@ -4688,7 +4688,7 @@ window.SONG_DATA.push(
     {
   "title": "七夕祭り",
   "artist": "テゴマス",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=24",
   "source": "kotatsu.js"
@@ -4696,7 +4696,7 @@ window.SONG_DATA.push(
     {
   "title": "tomorrow",
   "artist": "MOROHA",
-  "collection": "【♧🎸歌切】[2026-05-29]集起记忆的碎片，拥抱入眠的夜晚｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-29]Gathering fragments of memories, embracing the night to sleep｜Sleep・Work livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QrVs6tEpu?p=25",
   "source": "kotatsu.js"
@@ -4704,7 +4704,7 @@ window.SONG_DATA.push(
     {
   "title": "ベースマン",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=1",
   "source": "kotatsu.js"
@@ -4712,7 +4712,7 @@ window.SONG_DATA.push(
     {
   "title": "決意の朝に",
   "artist": "Aqua Timez",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=2",
   "source": "kotatsu.js"
@@ -4720,7 +4720,7 @@ window.SONG_DATA.push(
     {
   "title": "円光",
   "artist": "銀杏BOYZ",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=3",
   "source": "kotatsu.js"
@@ -4728,7 +4728,7 @@ window.SONG_DATA.push(
     {
   "title": "手と手",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=4",
   "source": "kotatsu.js"
@@ -4736,7 +4736,7 @@ window.SONG_DATA.push(
     {
   "title": "あんなつぁ",
   "artist": "浪漫革命",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=5",
   "source": "kotatsu.js"
@@ -4744,7 +4744,7 @@ window.SONG_DATA.push(
     {
   "title": "チェックのワンピース",
   "artist": "back number",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=6",
   "source": "kotatsu.js"
@@ -4752,7 +4752,7 @@ window.SONG_DATA.push(
     {
   "title": "TOMORROW",
   "artist": "岡本真夜",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=7",
   "source": "kotatsu.js"
@@ -4760,7 +4760,7 @@ window.SONG_DATA.push(
     {
   "title": "1.0",
   "artist": "amazarashi",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=8",
   "source": "kotatsu.js"
@@ -4768,7 +4768,7 @@ window.SONG_DATA.push(
     {
   "title": "人として",
   "artist": "SUPER BEAVER",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=9",
   "source": "kotatsu.js"
@@ -4776,7 +4776,7 @@ window.SONG_DATA.push(
     {
   "title": "野に咲く花のように",
   "artist": "ダ・カーポ",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=10",
   "source": "kotatsu.js"
@@ -4784,7 +4784,7 @@ window.SONG_DATA.push(
     {
   "title": "川の流れのように",
   "artist": "美空ひばり",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=11",
   "source": "kotatsu.js"
@@ -4792,7 +4792,7 @@ window.SONG_DATA.push(
     {
   "title": "サライ",
   "artist": "加山雄三・谷村新司",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=12",
   "source": "kotatsu.js"
@@ -4800,7 +4800,7 @@ window.SONG_DATA.push(
     {
   "title": "かなしいうた",
   "artist": "工藤祐次郎",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=13",
   "source": "kotatsu.js"
@@ -4808,7 +4808,7 @@ window.SONG_DATA.push(
     {
   "title": "知らんけど。",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=14",
   "source": "kotatsu.js"
@@ -4816,7 +4816,7 @@ window.SONG_DATA.push(
     {
   "title": "37458",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=15",
   "source": "kotatsu.js"
@@ -4824,7 +4824,7 @@ window.SONG_DATA.push(
     {
   "title": "国語",
   "artist": "ハンバート ハンバート",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=16",
   "source": "kotatsu.js"
@@ -4832,7 +4832,7 @@ window.SONG_DATA.push(
     {
   "title": "supernova",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=17",
   "source": "kotatsu.js"
@@ -4840,7 +4840,7 @@ window.SONG_DATA.push(
     {
   "title": "千の風になって",
   "artist": "秋川雅史",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=18",
   "source": "kotatsu.js"
@@ -4848,7 +4848,7 @@ window.SONG_DATA.push(
     {
   "title": "くだらないの中に",
   "artist": "星野源",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=19",
   "source": "kotatsu.js"
@@ -4856,7 +4856,7 @@ window.SONG_DATA.push(
     {
   "title": "100万回の「I love you」",
   "artist": "Rake",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=20",
   "source": "kotatsu.js"
@@ -4864,7 +4864,7 @@ window.SONG_DATA.push(
     {
   "title": "にんげんっていいな",
   "artist": "中島義実、ヤング・フレッシュ",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=21",
   "source": "kotatsu.js"
@@ -4872,7 +4872,7 @@ window.SONG_DATA.push(
     {
   "title": "夜の踊り子",
   "artist": "サカナクション",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=22",
   "source": "kotatsu.js"
@@ -4880,7 +4880,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならはエモーション",
   "artist": "サカナクション",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=23",
   "source": "kotatsu.js"
@@ -4888,7 +4888,7 @@ window.SONG_DATA.push(
     {
   "title": "ふたりごと",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=24",
   "source": "kotatsu.js"
@@ -4896,7 +4896,7 @@ window.SONG_DATA.push(
     {
   "title": "明日があるさ",
   "artist": "坂本九",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=25",
   "source": "kotatsu.js"
@@ -4904,7 +4904,7 @@ window.SONG_DATA.push(
     {
   "title": "オー・シャンゼリゼ",
   "artist": "ダニエル・ビダル",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=26",
   "source": "kotatsu.js"
@@ -4912,7 +4912,7 @@ window.SONG_DATA.push(
     {
   "title": "くちづけキボンヌ",
   "artist": "でんぱ組.inc",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=27",
   "source": "kotatsu.js"
@@ -4920,7 +4920,7 @@ window.SONG_DATA.push(
     {
   "title": "青空",
   "artist": "THE BLUE HEARTS",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=28",
   "source": "kotatsu.js"
@@ -4928,7 +4928,7 @@ window.SONG_DATA.push(
     {
   "title": "ともだちになるために",
   "artist": "童謡・唱歌",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=29",
   "source": "kotatsu.js"
@@ -4936,7 +4936,7 @@ window.SONG_DATA.push(
     {
   "title": "Hallelujah",
   "artist": "Leonard Cohen",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=30",
   "source": "kotatsu.js"
@@ -4944,7 +4944,7 @@ window.SONG_DATA.push(
     {
   "title": "春",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=31",
   "source": "kotatsu.js"
@@ -4952,7 +4952,7 @@ window.SONG_DATA.push(
     {
   "title": "蛍の光",
   "artist": "文部省唱歌",
-  "collection": "【♧🎸歌切】[2026-05-30]睡眠・工作用直播｜如黎明前的呼吸一般的歌 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-30] Sleep・Work Live｜Songs Like the Breath Before Dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1bFVu63EYs?p=32",
   "source": "kotatsu.js"
@@ -4960,7 +4960,7 @@ window.SONG_DATA.push(
     {
   "title": "体温",
   "artist": "plenty",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=1",
   "source": "kotatsu.js"
@@ -4968,7 +4968,7 @@ window.SONG_DATA.push(
     {
   "title": "さようなら、花泥棒さん",
   "artist": "メル feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=2",
   "source": "kotatsu.js"
@@ -4976,7 +4976,7 @@ window.SONG_DATA.push(
     {
   "title": "告白",
   "artist": "FUNKY MONKEY BABYS",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=3",
   "source": "kotatsu.js"
@@ -4984,7 +4984,7 @@ window.SONG_DATA.push(
     {
   "title": "終わらない歌",
   "artist": "THE BLUE HEARTS",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=4",
   "source": "kotatsu.js"
@@ -4992,7 +4992,7 @@ window.SONG_DATA.push(
     {
   "title": "はじめてのチュウ",
   "artist": "あんしんパパ",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=5",
   "source": "kotatsu.js"
@@ -5000,7 +5000,7 @@ window.SONG_DATA.push(
     {
   "title": "乾杯",
   "artist": "長渕剛",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=6",
   "source": "kotatsu.js"
@@ -5008,7 +5008,7 @@ window.SONG_DATA.push(
     {
   "title": "バレリーコ",
   "artist": "みきとP feat. GUMI",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=7",
   "source": "kotatsu.js"
@@ -5016,7 +5016,7 @@ window.SONG_DATA.push(
     {
   "title": "修羅",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=8",
   "source": "kotatsu.js"
@@ -5024,7 +5024,7 @@ window.SONG_DATA.push(
     {
   "title": "フライディ・チャイナタウン",
   "artist": "泰葉",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=9",
   "source": "kotatsu.js"
@@ -5032,7 +5032,7 @@ window.SONG_DATA.push(
     {
   "title": "愛、テキサス",
   "artist": "山下智久",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=10",
   "source": "kotatsu.js"
@@ -5040,7 +5040,7 @@ window.SONG_DATA.push(
     {
   "title": "アルバイター、無名",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=11",
   "source": "kotatsu.js"
@@ -5048,7 +5048,7 @@ window.SONG_DATA.push(
     {
   "title": "夢見月に何想ふ",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=12",
   "source": "kotatsu.js"
@@ -5056,7 +5056,7 @@ window.SONG_DATA.push(
     {
   "title": "1925",
   "artist": "T-POCKET feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=13",
   "source": "kotatsu.js"
@@ -5064,7 +5064,7 @@ window.SONG_DATA.push(
     {
   "title": "プレゼント",
   "artist": "ナノウ feat. GUMI",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=14",
   "source": "kotatsu.js"
@@ -5072,7 +5072,7 @@ window.SONG_DATA.push(
     {
   "title": "光",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=15",
   "source": "kotatsu.js"
@@ -5080,7 +5080,7 @@ window.SONG_DATA.push(
     {
   "title": "サーカスナイト",
   "artist": "七尾旅人",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=16",
   "source": "kotatsu.js"
@@ -5088,7 +5088,7 @@ window.SONG_DATA.push(
     {
   "title": "ひこうき雲",
   "artist": "荒井由実",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=17",
   "source": "kotatsu.js"
@@ -5096,7 +5096,7 @@ window.SONG_DATA.push(
     {
   "title": "パッと咲いて散って灰に",
   "artist": "Creepy Nuts",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=18",
   "source": "kotatsu.js"
@@ -5104,7 +5104,7 @@ window.SONG_DATA.push(
     {
   "title": "幻",
   "artist": "泉まくら",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=19",
   "source": "kotatsu.js"
@@ -5112,7 +5112,7 @@ window.SONG_DATA.push(
     {
   "title": "陽はまた昇る",
   "artist": "DOES",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=20",
   "source": "kotatsu.js"
@@ -5120,7 +5120,7 @@ window.SONG_DATA.push(
     {
   "title": "遠い匂い",
   "artist": "YO-KING",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=21",
   "source": "kotatsu.js"
@@ -5128,7 +5128,7 @@ window.SONG_DATA.push(
     {
   "title": "てろてろ",
   "artist": "矢野絢子",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=22",
   "source": "kotatsu.js"
@@ -5136,7 +5136,7 @@ window.SONG_DATA.push(
     {
   "title": "マリーゴールド",
   "artist": "あいみょん",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=23",
   "source": "kotatsu.js"
@@ -5144,7 +5144,7 @@ window.SONG_DATA.push(
     {
   "title": "結婚しようよ",
   "artist": "吉田拓郎",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=24",
   "source": "kotatsu.js"
@@ -5152,7 +5152,7 @@ window.SONG_DATA.push(
     {
   "title": "少年時代",
   "artist": "井上陽水",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=25",
   "source": "kotatsu.js"
@@ -5160,7 +5160,7 @@ window.SONG_DATA.push(
     {
   "title": "Tonight",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=26",
   "source": "kotatsu.js"
@@ -5168,7 +5168,7 @@ window.SONG_DATA.push(
     {
   "title": "月明かりのように",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=27",
   "source": "kotatsu.js"
@@ -5176,7 +5176,7 @@ window.SONG_DATA.push(
     {
   "title": "ハナミズキ",
   "artist": "一青窈",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=28",
   "source": "kotatsu.js"
@@ -5184,7 +5184,7 @@ window.SONG_DATA.push(
     {
   "title": "恋をしたんだ",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=29",
   "source": "kotatsu.js"
@@ -5192,7 +5192,7 @@ window.SONG_DATA.push(
     {
   "title": "まっすぐ",
   "artist": "ヒグチアイ",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=30",
   "source": "kotatsu.js"
@@ -5200,7 +5200,7 @@ window.SONG_DATA.push(
     {
   "title": "無名",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=31",
   "source": "kotatsu.js"
@@ -5208,7 +5208,7 @@ window.SONG_DATA.push(
     {
   "title": "貴方の恋人になりたいのです",
   "artist": "阿部真央",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=32",
   "source": "kotatsu.js"
@@ -5216,7 +5216,7 @@ window.SONG_DATA.push(
     {
   "title": "無名のオリジナル",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=33",
   "source": "kotatsu.js"
@@ -5224,7 +5224,7 @@ window.SONG_DATA.push(
     {
   "title": "ほはば",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=34",
   "source": "kotatsu.js"
@@ -5232,7 +5232,7 @@ window.SONG_DATA.push(
     {
   "title": "デブの戯言",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=35",
   "source": "kotatsu.js"
@@ -5240,7 +5240,7 @@ window.SONG_DATA.push(
     {
   "title": "街",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-05-31]睡眠・工作用直播｜五月底，在失眠中度过 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-05-31] Sleep・Work Livestream｜Spending the end of May battling insomnia KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1FgVD61ECY?p=36",
   "source": "kotatsu.js"
@@ -5248,7 +5248,7 @@ window.SONG_DATA.push(
     {
   "title": "あいという",
   "artist": "plenty",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=1",
   "source": "kotatsu.js"
@@ -5256,7 +5256,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒッチコック",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=2",
   "source": "kotatsu.js"
@@ -5264,7 +5264,7 @@ window.SONG_DATA.push(
     {
   "title": "アセロラ体操のうた",
   "artist": "ハンバート ハンバート",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=3",
   "source": "kotatsu.js"
@@ -5272,7 +5272,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛裁判",
   "artist": "40mP feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=4",
   "source": "kotatsu.js"
@@ -5280,7 +5280,7 @@ window.SONG_DATA.push(
     {
   "title": "真赤",
   "artist": "My Hair is Bad",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=5",
   "source": "kotatsu.js"
@@ -5288,7 +5288,7 @@ window.SONG_DATA.push(
     {
   "title": "夏色",
   "artist": "ゆず",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=6",
   "source": "kotatsu.js"
@@ -5296,7 +5296,7 @@ window.SONG_DATA.push(
     {
   "title": "さようなら、花泥棒さん",
   "artist": "メル feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=7",
   "source": "kotatsu.js"
@@ -5304,7 +5304,7 @@ window.SONG_DATA.push(
     {
   "title": "花鳥風月",
   "artist": "SEKAI NO OWARI",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=8",
   "source": "kotatsu.js"
@@ -5312,7 +5312,7 @@ window.SONG_DATA.push(
     {
   "title": "季節は次々死んでいく",
   "artist": "amazarashi",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=9",
   "source": "kotatsu.js"
@@ -5320,7 +5320,7 @@ window.SONG_DATA.push(
     {
   "title": "SUMMER TIME",
   "artist": "NEWS",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=10",
   "source": "kotatsu.js"
@@ -5328,7 +5328,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=11",
   "source": "kotatsu.js"
@@ -5336,7 +5336,7 @@ window.SONG_DATA.push(
     {
   "title": "五月雨",
   "artist": "崎山蒼志",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=12",
   "source": "kotatsu.js"
@@ -5344,7 +5344,7 @@ window.SONG_DATA.push(
     {
   "title": "フライディ・チャイナタウン",
   "artist": "泰葉",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=13",
   "source": "kotatsu.js"
@@ -5352,7 +5352,7 @@ window.SONG_DATA.push(
     {
   "title": "七夕祭り",
   "artist": "テゴマス",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=14",
   "source": "kotatsu.js"
@@ -5360,7 +5360,7 @@ window.SONG_DATA.push(
     {
   "title": "さよなら人類",
   "artist": "たま",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=15",
   "source": "kotatsu.js"
@@ -5368,7 +5368,7 @@ window.SONG_DATA.push(
     {
   "title": "どこにいてもおなじさ",
   "artist": "ハンバート ハンバート",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=16",
   "source": "kotatsu.js"
@@ -5376,7 +5376,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=17",
   "source": "kotatsu.js"
@@ -5384,7 +5384,7 @@ window.SONG_DATA.push(
     {
   "title": "木綿のハンカチーフ",
   "artist": "太田裕美",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=18",
   "source": "kotatsu.js"
@@ -5392,7 +5392,7 @@ window.SONG_DATA.push(
     {
   "title": "ハレルヤ",
   "artist": "amazarashi",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=19",
   "source": "kotatsu.js"
@@ -5400,7 +5400,7 @@ window.SONG_DATA.push(
     {
   "title": "トレモロ",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=20",
   "source": "kotatsu.js"
@@ -5408,7 +5408,7 @@ window.SONG_DATA.push(
     {
   "title": "社会のゴミカザマタカフミ",
   "artist": "3markets",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=21",
   "source": "kotatsu.js"
@@ -5416,7 +5416,7 @@ window.SONG_DATA.push(
     {
   "title": "本当はね、",
   "artist": "ヤングスキニー",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=22",
   "source": "kotatsu.js"
@@ -5424,7 +5424,7 @@ window.SONG_DATA.push(
     {
   "title": "Just a game",
   "artist": "takamatt feat. GUMI",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=23",
   "source": "kotatsu.js"
@@ -5432,7 +5432,7 @@ window.SONG_DATA.push(
     {
   "title": "マジカルダンサー",
   "artist": "小山田壮平",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=24",
   "source": "kotatsu.js"
@@ -5440,7 +5440,7 @@ window.SONG_DATA.push(
     {
   "title": "あんなつぁ",
   "artist": "浪漫革命",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=25",
   "source": "kotatsu.js"
@@ -5448,7 +5448,7 @@ window.SONG_DATA.push(
     {
   "title": "ブリキノダンス",
   "artist": "日向電工 feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=26",
   "source": "kotatsu.js"
@@ -5456,7 +5456,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならエレジー",
   "artist": "菅田将暉",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=27",
   "source": "kotatsu.js"
@@ -5464,7 +5464,7 @@ window.SONG_DATA.push(
     {
   "title": "幕無し",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=28",
   "source": "kotatsu.js"
@@ -5472,7 +5472,7 @@ window.SONG_DATA.push(
     {
   "title": "夏の頃",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=29",
   "source": "kotatsu.js"
@@ -5480,7 +5480,7 @@ window.SONG_DATA.push(
     {
   "title": "ぼくたちの失敗",
   "artist": "森田童子",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=30",
   "source": "kotatsu.js"
@@ -5488,7 +5488,7 @@ window.SONG_DATA.push(
     {
   "title": "歩いて帰ろう",
   "artist": "斉藤和義",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=31",
   "source": "kotatsu.js"
@@ -5496,7 +5496,7 @@ window.SONG_DATA.push(
     {
   "title": "青いベンチ",
   "artist": "サスケ",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=32",
   "source": "kotatsu.js"
@@ -5504,7 +5504,7 @@ window.SONG_DATA.push(
     {
   "title": "笑えよ乙女",
   "artist": "コレサワ",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=33",
   "source": "kotatsu.js"
@@ -5512,7 +5512,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=34",
   "source": "kotatsu.js"
@@ -5520,7 +5520,7 @@ window.SONG_DATA.push(
     {
   "title": "はなれ、ばなれ",
   "artist": "古川P feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=35",
   "source": "kotatsu.js"
@@ -5528,7 +5528,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならミッドナイト",
   "artist": "大柴広己",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=36",
   "source": "kotatsu.js"
@@ -5536,7 +5536,7 @@ window.SONG_DATA.push(
     {
   "title": "くせのうた",
   "artist": "星野源",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=37",
   "source": "kotatsu.js"
@@ -5544,7 +5544,7 @@ window.SONG_DATA.push(
     {
   "title": "あいとわ",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=38",
   "source": "kotatsu.js"
@@ -5552,7 +5552,7 @@ window.SONG_DATA.push(
     {
   "title": "ナイトオンザプラネット",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=39",
   "source": "kotatsu.js"
@@ -5560,7 +5560,7 @@ window.SONG_DATA.push(
     {
   "title": "三日月",
   "artist": "くるり",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=40",
   "source": "kotatsu.js"
@@ -5568,7 +5568,7 @@ window.SONG_DATA.push(
     {
   "title": "Triangle",
   "artist": "SMAP",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=41",
   "source": "kotatsu.js"
@@ -5576,7 +5576,7 @@ window.SONG_DATA.push(
     {
   "title": "行方不明とタクシー",
   "artist": "3markets",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=42",
   "source": "kotatsu.js"
@@ -5584,7 +5584,7 @@ window.SONG_DATA.push(
     {
   "title": "明日への扉",
   "artist": "I WiSH",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=43",
   "source": "kotatsu.js"
@@ -5592,7 +5592,7 @@ window.SONG_DATA.push(
     {
   "title": "アルジャーノン",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=44",
   "source": "kotatsu.js"
@@ -5600,7 +5600,7 @@ window.SONG_DATA.push(
     {
   "title": "狭心症",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-06-03]睡眠・工作用直播｜在即将成为夏日的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-03] Sleep/Work Livestream｜On a night about to become summer KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1d6796xErM?p=45",
   "source": "kotatsu.js"
@@ -5608,7 +5608,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ君に晴れ",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-06-09]睡眠・工作用直播｜直到雨滴入睡 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-09] Sleep・Work Livestream｜Until the Raindrops Fall Asleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SYE76EEki?p=1",
   "source": "kotatsu.js"
@@ -5616,7 +5616,7 @@ window.SONG_DATA.push(
     {
   "title": "ピノ",
   "artist": "ズーカラデル",
-  "collection": "【♧🎸歌切】[2026-06-09]睡眠・工作用直播｜直到雨滴入睡 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-09] Sleep・Work Livestream｜Until the Raindrops Fall Asleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SYE76EEki?p=2",
   "source": "kotatsu.js"
@@ -5624,7 +5624,7 @@ window.SONG_DATA.push(
     {
   "title": "サヨナラCOLOR",
   "artist": "SUPER BUTTER DOG",
-  "collection": "【♧🎸歌切】[2026-06-09]睡眠・工作用直播｜直到雨滴入睡 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-09] Sleep・Work Livestream｜Until the Raindrops Fall Asleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SYE76EEki?p=3",
   "source": "kotatsu.js"
@@ -5632,7 +5632,7 @@ window.SONG_DATA.push(
     {
   "title": "素晴らしき今日の始まり",
   "artist": "GOOD ON THE REEL",
-  "collection": "【♧🎸歌切】[2026-06-09]睡眠・工作用直播｜直到雨滴入睡 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-09] Sleep・Work Livestream｜Until the Raindrops Fall Asleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SYE76EEki?p=4",
   "source": "kotatsu.js"
@@ -5640,7 +5640,7 @@ window.SONG_DATA.push(
     {
   "title": "正解",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-06-09]睡眠・工作用直播｜直到雨滴入睡 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-09] Sleep・Work Livestream｜Until the Raindrops Fall Asleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SYE76EEki?p=5",
   "source": "kotatsu.js"
@@ -5648,7 +5648,7 @@ window.SONG_DATA.push(
     {
   "title": "青い空",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-06-09]睡眠・工作用直播｜直到雨滴入睡 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-09] Sleep・Work Livestream｜Until the Raindrops Fall Asleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SYE76EEki?p=6",
   "source": "kotatsu.js"
@@ -5656,7 +5656,7 @@ window.SONG_DATA.push(
     {
   "title": "ふたりの世界",
   "artist": "あいみょん",
-  "collection": "【♧🎸歌切】[2026-06-09]睡眠・工作用直播｜直到雨滴入睡 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-09] Sleep・Work Livestream｜Until the Raindrops Fall Asleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SYE76EEki?p=7",
   "source": "kotatsu.js"
@@ -5664,7 +5664,7 @@ window.SONG_DATA.push(
     {
   "title": "グレーマンのせいにする",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-06-09]睡眠・工作用直播｜直到雨滴入睡 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-09] Sleep・Work Livestream｜Until the Raindrops Fall Asleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SYE76EEki?p=8",
   "source": "kotatsu.js"
@@ -5672,7 +5672,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell [TVアニメ 化物語]",
-  "collection": "【♧🎸歌切】[2026-06-09]睡眠・工作用直播｜直到雨滴入睡 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-09] Sleep・Work Livestream｜Until the Raindrops Fall Asleep KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1SYE76EEki?p=9",
   "source": "kotatsu.js"
@@ -5680,7 +5680,7 @@ window.SONG_DATA.push(
     {
   "title": "変わらないもの",
   "artist": "奥華子 [映画 時をかける少女]",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=1",
   "source": "kotatsu.js"
@@ -5688,7 +5688,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=2",
   "source": "kotatsu.js"
@@ -5696,7 +5696,7 @@ window.SONG_DATA.push(
     {
   "title": "boyfriend",
   "artist": "阿部真央",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=3",
   "source": "kotatsu.js"
@@ -5704,7 +5704,7 @@ window.SONG_DATA.push(
     {
   "title": "漂流劇団",
   "artist": "ズーカラデル",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=4",
   "source": "kotatsu.js"
@@ -5712,7 +5712,7 @@ window.SONG_DATA.push(
     {
   "title": "愛のうた",
   "artist": "ストロベリー・フラワー",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=5",
   "source": "kotatsu.js"
@@ -5720,7 +5720,7 @@ window.SONG_DATA.push(
     {
   "title": "fish",
   "artist": "back number",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=6",
   "source": "kotatsu.js"
@@ -5728,7 +5728,7 @@ window.SONG_DATA.push(
     {
   "title": "たばこ",
   "artist": "コレサワ",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=7",
   "source": "kotatsu.js"
@@ -5736,7 +5736,7 @@ window.SONG_DATA.push(
     {
   "title": "月明かりのように",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=8",
   "source": "kotatsu.js"
@@ -5744,7 +5744,7 @@ window.SONG_DATA.push(
     {
   "title": "バンド",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=9",
   "source": "kotatsu.js"
@@ -5752,7 +5752,7 @@ window.SONG_DATA.push(
     {
   "title": "生きてることが辛いなら",
   "artist": "森山直太朗",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=10",
   "source": "kotatsu.js"
@@ -5760,7 +5760,7 @@ window.SONG_DATA.push(
     {
   "title": "かぞえうた",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=11",
   "source": "kotatsu.js"
@@ -5768,7 +5768,7 @@ window.SONG_DATA.push(
     {
   "title": "Burning Friday Night",
   "artist": "Lucky Kilimanjaro",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=12",
   "source": "kotatsu.js"
@@ -5776,7 +5776,7 @@ window.SONG_DATA.push(
     {
   "title": "会いたかった",
   "artist": "AKB48",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=13",
   "source": "kotatsu.js"
@@ -5784,7 +5784,7 @@ window.SONG_DATA.push(
     {
   "title": "朝顔",
   "artist": "コブクロ",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=14",
   "source": "kotatsu.js"
@@ -5792,7 +5792,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=15",
   "source": "kotatsu.js"
@@ -5800,7 +5800,7 @@ window.SONG_DATA.push(
     {
   "title": "夜紛い",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=16",
   "source": "kotatsu.js"
@@ -5808,7 +5808,7 @@ window.SONG_DATA.push(
     {
   "title": "かなしいうた",
   "artist": "工藤祐次郎",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=17",
   "source": "kotatsu.js"
@@ -5816,7 +5816,7 @@ window.SONG_DATA.push(
     {
   "title": "グレゴリオ",
   "artist": "古川本舗 feat. ちびた",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=18",
   "source": "kotatsu.js"
@@ -5824,7 +5824,7 @@ window.SONG_DATA.push(
     {
   "title": "ノンフィクション",
   "artist": "平井堅",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=19",
   "source": "kotatsu.js"
@@ -5832,7 +5832,7 @@ window.SONG_DATA.push(
     {
   "title": "俺色スカイ",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=20",
   "source": "kotatsu.js"
@@ -5840,7 +5840,7 @@ window.SONG_DATA.push(
     {
   "title": "エクレア",
   "artist": "岡崎体育",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=21",
   "source": "kotatsu.js"
@@ -5848,7 +5848,7 @@ window.SONG_DATA.push(
     {
   "title": "感情七号線",
   "artist": "フラワーカンパニーズ",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=22",
   "source": "kotatsu.js"
@@ -5856,7 +5856,7 @@ window.SONG_DATA.push(
     {
   "title": "春に一番近い街",
   "artist": "40mP feat. GUMI",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=23",
   "source": "kotatsu.js"
@@ -5864,7 +5864,7 @@ window.SONG_DATA.push(
     {
   "title": "おやすみ泣き声、さよなら歌姫",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-06-10]雨声、寝室里独自一人｜睡眠・工作用直播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-10] Rain Sounds, Alone in the Dorm｜Sleep・Work Livestream KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qREm61EwS?p=24",
   "source": "kotatsu.js"
@@ -5872,7 +5872,7 @@ window.SONG_DATA.push(
     {
   "title": "たられば",
   "artist": "amazarashi",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=1",
   "source": "kotatsu.js"
@@ -5880,7 +5880,7 @@ window.SONG_DATA.push(
     {
   "title": "バラ色の日々",
   "artist": "MOROHA",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=2",
   "source": "kotatsu.js"
@@ -5888,7 +5888,7 @@ window.SONG_DATA.push(
     {
   "title": "Peace",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=3",
   "source": "kotatsu.js"
@@ -5896,7 +5896,7 @@ window.SONG_DATA.push(
     {
   "title": "夜な夜なエール",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=4",
   "source": "kotatsu.js"
@@ -5904,7 +5904,7 @@ window.SONG_DATA.push(
     {
   "title": "数え歌",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=5",
   "source": "kotatsu.js"
@@ -5912,7 +5912,7 @@ window.SONG_DATA.push(
     {
   "title": "夜空ノムコウ",
   "artist": "SMAP",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=6",
   "source": "kotatsu.js"
@@ -5920,7 +5920,7 @@ window.SONG_DATA.push(
     {
   "title": "桜なんて咲かなくていい",
   "artist": "甘王ばなな",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=7",
   "source": "kotatsu.js"
@@ -5928,7 +5928,7 @@ window.SONG_DATA.push(
     {
   "title": "人として",
   "artist": "SUPER BEAVER",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=8",
   "source": "kotatsu.js"
@@ -5936,7 +5936,7 @@ window.SONG_DATA.push(
     {
   "title": "夜にだけ",
   "artist": "GOOD ON THE REEL",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=9",
   "source": "kotatsu.js"
@@ -5944,7 +5944,7 @@ window.SONG_DATA.push(
     {
   "title": "青い空",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=10",
   "source": "kotatsu.js"
@@ -5952,7 +5952,7 @@ window.SONG_DATA.push(
     {
   "title": "「ずっと大好きだよ」「ほんと?…」",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=11",
   "source": "kotatsu.js"
@@ -5960,7 +5960,7 @@ window.SONG_DATA.push(
     {
   "title": "夜行",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=12",
   "source": "kotatsu.js"
@@ -5968,7 +5968,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=13",
   "source": "kotatsu.js"
@@ -5976,7 +5976,7 @@ window.SONG_DATA.push(
     {
   "title": "サーカスナイト",
   "artist": "七尾旅人",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=14",
   "source": "kotatsu.js"
@@ -5984,7 +5984,7 @@ window.SONG_DATA.push(
     {
   "title": "深呼吸",
   "artist": "ハナレグミ",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=15",
   "source": "kotatsu.js"
@@ -5992,7 +5992,7 @@ window.SONG_DATA.push(
     {
   "title": "デイ・ドリーム・ビリーバー",
   "artist": "THE TIMERS",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=16",
   "source": "kotatsu.js"
@@ -6000,7 +6000,7 @@ window.SONG_DATA.push(
     {
   "title": "エピゴウネ",
   "artist": "日食なつこ",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=17",
   "source": "kotatsu.js"
@@ -6008,7 +6008,7 @@ window.SONG_DATA.push(
     {
   "title": "負け犬にアンコールはいらない",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=18",
   "source": "kotatsu.js"
@@ -6016,7 +6016,7 @@ window.SONG_DATA.push(
     {
   "title": "水流のロック",
   "artist": "日食なつこ",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=19",
   "source": "kotatsu.js"
@@ -6024,7 +6024,7 @@ window.SONG_DATA.push(
     {
   "title": "アンチノミー",
   "artist": "amazarashi",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=20",
   "source": "kotatsu.js"
@@ -6032,7 +6032,7 @@ window.SONG_DATA.push(
     {
   "title": "家族の風景",
   "artist": "ハナレグミ",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=21",
   "source": "kotatsu.js"
@@ -6040,7 +6040,7 @@ window.SONG_DATA.push(
     {
   "title": "深夜高速",
   "artist": "フラワーカンパニーズ",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=22",
   "source": "kotatsu.js"
@@ -6048,7 +6048,7 @@ window.SONG_DATA.push(
     {
   "title": "ルージュの伝言",
   "artist": "荒井由実",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=23",
   "source": "kotatsu.js"
@@ -6056,7 +6056,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=24",
   "source": "kotatsu.js"
@@ -6064,7 +6064,7 @@ window.SONG_DATA.push(
     {
   "title": "香水",
   "artist": "瑛人",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=25",
   "source": "kotatsu.js"
@@ -6072,7 +6072,7 @@ window.SONG_DATA.push(
     {
   "title": "フライディ・チャイナタウン",
   "artist": "泰葉",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=26",
   "source": "kotatsu.js"
@@ -6080,7 +6080,7 @@ window.SONG_DATA.push(
     {
   "title": "インフェルノ",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=27",
   "source": "kotatsu.js"
@@ -6088,7 +6088,7 @@ window.SONG_DATA.push(
     {
   "title": "好きすぎて滅！",
   "artist": "M!LK",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=28",
   "source": "kotatsu.js"
@@ -6096,7 +6096,7 @@ window.SONG_DATA.push(
     {
   "title": "夜の踊り子",
   "artist": "サカナクション",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=29",
   "source": "kotatsu.js"
@@ -6104,7 +6104,7 @@ window.SONG_DATA.push(
     {
   "title": "KING",
   "artist": "Kanaria feat. GUMI",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=30",
   "source": "kotatsu.js"
@@ -6112,7 +6112,7 @@ window.SONG_DATA.push(
     {
   "title": "暗闇坂むささび変化",
   "artist": "はっぴいえんど",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=31",
   "source": "kotatsu.js"
@@ -6120,7 +6120,7 @@ window.SONG_DATA.push(
     {
   "title": "君と羊と青",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=32",
   "source": "kotatsu.js"
@@ -6128,7 +6128,7 @@ window.SONG_DATA.push(
     {
   "title": "ブリキノダンス",
   "artist": "日向電工 feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=33",
   "source": "kotatsu.js"
@@ -6136,7 +6136,7 @@ window.SONG_DATA.push(
     {
   "title": "はじめてのチュウ",
   "artist": "あんしんパパ [TVアニメ キテレツ大百科]",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=34",
   "source": "kotatsu.js"
@@ -6144,7 +6144,7 @@ window.SONG_DATA.push(
     {
   "title": "可愛くてごめん",
   "artist": "HoneyWorks feat. かぴ",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=35",
   "source": "kotatsu.js"
@@ -6152,7 +6152,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒロイン",
   "artist": "back number",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=36",
   "source": "kotatsu.js"
@@ -6160,7 +6160,7 @@ window.SONG_DATA.push(
     {
   "title": "黒毛和牛上塩タン焼680円",
   "artist": "大塚愛",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=37",
   "source": "kotatsu.js"
@@ -6168,7 +6168,7 @@ window.SONG_DATA.push(
     {
   "title": "冬へと走りだすお！",
   "artist": "でんぱ組.inc",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=38",
   "source": "kotatsu.js"
@@ -6176,7 +6176,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの [映画 猫の恩返し]",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=39",
   "source": "kotatsu.js"
@@ -6184,7 +6184,7 @@ window.SONG_DATA.push(
     {
   "title": "遠き山に日は落ちて",
   "artist": "童謡",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=40",
   "source": "kotatsu.js"
@@ -6192,7 +6192,7 @@ window.SONG_DATA.push(
     {
   "title": "me me she",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=41",
   "source": "kotatsu.js"
@@ -6200,7 +6200,7 @@ window.SONG_DATA.push(
     {
   "title": "情熱の薔薇",
   "artist": "THE BLUE HEARTS",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=42",
   "source": "kotatsu.js"
@@ -6208,7 +6208,7 @@ window.SONG_DATA.push(
     {
   "title": "木蘭の涙",
   "artist": "スターダスト☆レビュー",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=43",
   "source": "kotatsu.js"
@@ -6216,7 +6216,7 @@ window.SONG_DATA.push(
     {
   "title": "朝ごはんの歌",
   "artist": "手嶌葵 [映画 コクリコ坂から]",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=44",
   "source": "kotatsu.js"
@@ -6224,7 +6224,7 @@ window.SONG_DATA.push(
     {
   "title": "ナイトオンザプラネット",
   "artist": "クリープハイプ [映画 ちょっと思い出しただけ]",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=45",
   "source": "kotatsu.js"
@@ -6232,7 +6232,7 @@ window.SONG_DATA.push(
     {
   "title": "にんげんっていいな",
   "artist": "中島義実、ヤング・フレッシュ [TVアニメ まんが日本昔ばなし]",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=46",
   "source": "kotatsu.js"
@@ -6240,7 +6240,7 @@ window.SONG_DATA.push(
     {
   "title": "幕無し",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-06-11]睡眠・工作用直播｜在寝室里喃喃自语，等待天亮 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-11] Sleep・Work Livestream｜Mumbling in the dorm room, waiting for dawn KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nVE66hEWY?p=47",
   "source": "kotatsu.js"
@@ -6248,7 +6248,7 @@ window.SONG_DATA.push(
     {
   "title": "サイダーのように言葉が湧き上がる",
   "artist": "never young beach",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=1",
   "source": "kotatsu.js"
@@ -6256,7 +6256,7 @@ window.SONG_DATA.push(
     {
   "title": "情熱の薔薇",
   "artist": "THE BLUE HEARTS",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=2",
   "source": "kotatsu.js"
@@ -6264,7 +6264,7 @@ window.SONG_DATA.push(
     {
   "title": "五月雨",
   "artist": "崎山蒼志",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=3",
   "source": "kotatsu.js"
@@ -6272,7 +6272,7 @@ window.SONG_DATA.push(
     {
   "title": "ダダリオ",
   "artist": "ズーカラデル",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=4",
   "source": "kotatsu.js"
@@ -6280,7 +6280,7 @@ window.SONG_DATA.push(
     {
   "title": "またね",
   "artist": "ハンブレッダーズ",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=5",
   "source": "kotatsu.js"
@@ -6288,7 +6288,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=6",
   "source": "kotatsu.js"
@@ -6296,7 +6296,7 @@ window.SONG_DATA.push(
     {
   "title": "大好きだよ。",
   "artist": "大塚愛",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=7",
   "source": "kotatsu.js"
@@ -6304,7 +6304,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならエレジー",
   "artist": "菅田将暉",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=8",
   "source": "kotatsu.js"
@@ -6312,7 +6312,7 @@ window.SONG_DATA.push(
     {
   "title": "世界に一つだけの花",
   "artist": "SMAP",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=9",
   "source": "kotatsu.js"
@@ -6320,7 +6320,7 @@ window.SONG_DATA.push(
     {
   "title": "リンジュー・ラヴ",
   "artist": "マカロニえんぴつ",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=10",
   "source": "kotatsu.js"
@@ -6328,7 +6328,7 @@ window.SONG_DATA.push(
     {
   "title": "明日はきっといい日になる",
   "artist": "高橋優",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=11",
   "source": "kotatsu.js"
@@ -6336,7 +6336,7 @@ window.SONG_DATA.push(
     {
   "title": "愛言葉 ～てをひいて～",
   "artist": "NEWS",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=12",
   "source": "kotatsu.js"
@@ -6344,7 +6344,7 @@ window.SONG_DATA.push(
     {
   "title": "少年時代",
   "artist": "井上陽水",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=13",
   "source": "kotatsu.js"
@@ -6352,7 +6352,7 @@ window.SONG_DATA.push(
     {
   "title": "オシャレ大作戦",
   "artist": "ネクライトーキー",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=14",
   "source": "kotatsu.js"
@@ -6360,7 +6360,7 @@ window.SONG_DATA.push(
     {
   "title": "シンクロサイクロトロン・スピリチュアライザー。",
   "artist": "砂粒 feat. GUMI",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=15",
   "source": "kotatsu.js"
@@ -6368,7 +6368,7 @@ window.SONG_DATA.push(
     {
   "title": "バレリーコ",
   "artist": "みきとP feat. GUMI",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=16",
   "source": "kotatsu.js"
@@ -6376,7 +6376,7 @@ window.SONG_DATA.push(
     {
   "title": "光",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=17",
   "source": "kotatsu.js"
@@ -6384,7 +6384,7 @@ window.SONG_DATA.push(
     {
   "title": "修羅",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=18",
   "source": "kotatsu.js"
@@ -6392,7 +6392,7 @@ window.SONG_DATA.push(
     {
   "title": "napori",
   "artist": "Vaundy",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=19",
   "source": "kotatsu.js"
@@ -6400,7 +6400,7 @@ window.SONG_DATA.push(
     {
   "title": "下北沢のギターロック",
   "artist": "3markets[ ]",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=20",
   "source": "kotatsu.js"
@@ -6408,7 +6408,7 @@ window.SONG_DATA.push(
     {
   "title": "ひこうき雲",
   "artist": "荒井由実",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=21",
   "source": "kotatsu.js"
@@ -6416,7 +6416,7 @@ window.SONG_DATA.push(
     {
   "title": "ララバイ",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=22",
   "source": "kotatsu.js"
@@ -6424,7 +6424,7 @@ window.SONG_DATA.push(
     {
   "title": "Tonight",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=23",
   "source": "kotatsu.js"
@@ -6432,7 +6432,7 @@ window.SONG_DATA.push(
     {
   "title": "もう柔らかいおっぱいのことしか考えたくない。",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=24",
   "source": "kotatsu.js"
@@ -6440,7 +6440,7 @@ window.SONG_DATA.push(
     {
   "title": "久しぶりの恋が片思いじゃなくてよかった",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=25",
   "source": "kotatsu.js"
@@ -6448,7 +6448,7 @@ window.SONG_DATA.push(
     {
   "title": "国語",
   "artist": "ハンバート ハンバート",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=26",
   "source": "kotatsu.js"
@@ -6456,7 +6456,7 @@ window.SONG_DATA.push(
     {
   "title": "デブの戯言",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=27",
   "source": "kotatsu.js"
@@ -6464,7 +6464,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒッチコック",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-06-17]睡眠・工作用直播｜仿佛要输给六月寂静的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-17] Sleep/Work Livestream｜Music That Seems to Succumb to the Silence of June - KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1RVLf6aEJ9?p=28",
   "source": "kotatsu.js"
@@ -6472,7 +6472,7 @@ window.SONG_DATA.push(
     {
   "title": "RAIN",
   "artist": "SEKAI NO OWARI",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=1",
   "source": "kotatsu.js"
@@ -6480,7 +6480,7 @@ window.SONG_DATA.push(
     {
   "title": "もしも僕に",
   "artist": "関取花",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=2",
   "source": "kotatsu.js"
@@ -6488,7 +6488,7 @@ window.SONG_DATA.push(
     {
   "title": "横顔しか知らない",
   "artist": "ハンバート ハンバート",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=3",
   "source": "kotatsu.js"
@@ -6496,7 +6496,7 @@ window.SONG_DATA.push(
     {
   "title": "生きていたんだよな",
   "artist": "あいみょん",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=4",
   "source": "kotatsu.js"
@@ -6504,7 +6504,7 @@ window.SONG_DATA.push(
     {
   "title": "わたがし",
   "artist": "back number",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=5",
   "source": "kotatsu.js"
@@ -6512,7 +6512,7 @@ window.SONG_DATA.push(
     {
   "title": "ハチスは夏に背を向けて",
   "artist": "メル feat. IA",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=6",
   "source": "kotatsu.js"
@@ -6520,7 +6520,7 @@ window.SONG_DATA.push(
     {
   "title": "ピクニック",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=7",
   "source": "kotatsu.js"
@@ -6528,7 +6528,7 @@ window.SONG_DATA.push(
     {
   "title": "SECRET DVD",
   "artist": "みきとP feat. 初音ミク",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=8",
   "source": "kotatsu.js"
@@ -6536,7 +6536,7 @@ window.SONG_DATA.push(
     {
   "title": "愛の標識",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=9",
   "source": "kotatsu.js"
@@ -6544,7 +6544,7 @@ window.SONG_DATA.push(
     {
   "title": "やわらかな午後に遅い朝食を",
   "artist": "秦基博",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=10",
   "source": "kotatsu.js"
@@ -6552,7 +6552,7 @@ window.SONG_DATA.push(
     {
   "title": "星の界",
   "artist": "文部省唱歌",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=11",
   "source": "kotatsu.js"
@@ -6560,7 +6560,7 @@ window.SONG_DATA.push(
     {
   "title": "Love so sweet",
   "artist": "嵐",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=12",
   "source": "kotatsu.js"
@@ -6568,7 +6568,7 @@ window.SONG_DATA.push(
     {
   "title": "One Love",
   "artist": "嵐",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=13",
   "source": "kotatsu.js"
@@ -6576,7 +6576,7 @@ window.SONG_DATA.push(
     {
   "title": "化粧",
   "artist": "中島みゆき",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=14",
   "source": "kotatsu.js"
@@ -6584,7 +6584,7 @@ window.SONG_DATA.push(
     {
   "title": "カタオモイ",
   "artist": "Aimer",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=15",
   "source": "kotatsu.js"
@@ -6592,7 +6592,7 @@ window.SONG_DATA.push(
     {
   "title": "アルジャーノン",
   "artist": "ヨルシカ",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=16",
   "source": "kotatsu.js"
@@ -6600,7 +6600,7 @@ window.SONG_DATA.push(
     {
   "title": "青い空",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=17",
   "source": "kotatsu.js"
@@ -6608,7 +6608,7 @@ window.SONG_DATA.push(
     {
   "title": "はなびら",
   "artist": "奥華子 [映画 殺さない彼と死なない彼女]",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=18",
   "source": "kotatsu.js"
@@ -6616,7 +6616,7 @@ window.SONG_DATA.push(
     {
   "title": "投げKISSをあげるよ",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=19",
   "source": "kotatsu.js"
@@ -6624,7 +6624,7 @@ window.SONG_DATA.push(
     {
   "title": "二度寝",
   "artist": "Creepy Nuts",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=20",
   "source": "kotatsu.js"
@@ -6632,7 +6632,7 @@ window.SONG_DATA.push(
     {
   "title": "ベースマン",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=21",
   "source": "kotatsu.js"
@@ -6640,7 +6640,7 @@ window.SONG_DATA.push(
     {
   "title": "夜な夜なエール",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=22",
   "source": "kotatsu.js"
@@ -6648,7 +6648,7 @@ window.SONG_DATA.push(
     {
   "title": "いつも何度でも",
   "artist": "木村弓 [映画 千と千尋の神隠し]",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=23",
   "source": "kotatsu.js"
@@ -6656,7 +6656,7 @@ window.SONG_DATA.push(
     {
   "title": "時をかけるメロディー",
   "artist": "小山田壮平",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=24",
   "source": "kotatsu.js"
@@ -6664,7 +6664,7 @@ window.SONG_DATA.push(
     {
   "title": "Sunrise&Sunset",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=25",
   "source": "kotatsu.js"
@@ -6672,7 +6672,7 @@ window.SONG_DATA.push(
     {
   "title": "千年幸福論",
   "artist": "amazarashi",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=26",
   "source": "kotatsu.js"
@@ -6680,7 +6680,7 @@ window.SONG_DATA.push(
     {
   "title": "革命",
   "artist": "MOROHA",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=27",
   "source": "kotatsu.js"
@@ -6688,7 +6688,7 @@ window.SONG_DATA.push(
     {
   "title": "結婚しようよ",
   "artist": "吉田拓郎",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=28",
   "source": "kotatsu.js"
@@ -6696,7 +6696,7 @@ window.SONG_DATA.push(
     {
   "title": "ゴーゴー魚釣り",
   "artist": "工藤祐次郎",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=29",
   "source": "kotatsu.js"
@@ -6704,7 +6704,7 @@ window.SONG_DATA.push(
     {
   "title": "感情七号線",
   "artist": "フラワーカンパニーズ",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=30",
   "source": "kotatsu.js"
@@ -6712,7 +6712,7 @@ window.SONG_DATA.push(
     {
   "title": "光",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=31",
   "source": "kotatsu.js"
@@ -6720,7 +6720,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=32",
   "source": "kotatsu.js"
@@ -6728,7 +6728,7 @@ window.SONG_DATA.push(
     {
   "title": "売春",
   "artist": "女王蜂",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=33",
   "source": "kotatsu.js"
@@ -6736,7 +6736,7 @@ window.SONG_DATA.push(
     {
   "title": "踊り子",
   "artist": "Vaundy",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=34",
   "source": "kotatsu.js"
@@ -6744,7 +6744,7 @@ window.SONG_DATA.push(
     {
   "title": "深夜高速",
   "artist": "フラワーカンパニーズ",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=35",
   "source": "kotatsu.js"
@@ -6752,7 +6752,7 @@ window.SONG_DATA.push(
     {
   "title": "手と手",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=36",
   "source": "kotatsu.js"
@@ -6760,7 +6760,7 @@ window.SONG_DATA.push(
     {
   "title": "アルバイター、無名",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=37",
   "source": "kotatsu.js"
@@ -6768,7 +6768,7 @@ window.SONG_DATA.push(
     {
   "title": "春",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-06-19]睡眠・工作用直播｜紫阳花染上色彩的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Live Singing】[2026-06-19] Sleep/Work Livestream｜A Night When Hydrangeas Take Color - KOTATSU Ch. Haruko Tsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yDjz6bEFr?p=38",
   "source": "kotatsu.js"
@@ -6776,7 +6776,7 @@ window.SONG_DATA.push(
     {
   "title": "眼福",
   "artist": "米津玄師",
-  "collection": "【♧🎸歌切】[2026-06-19]与你共处的双人房间里 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-19] In the Shared Room with You KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Y7jk6UE71?p=1",
   "source": "kotatsu.js"
@@ -6784,7 +6784,7 @@ window.SONG_DATA.push(
     {
   "title": "知らんけど。",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-06-19]与你共处的双人房间里 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-19] In the Shared Room with You KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Y7jk6UE71?p=2",
   "source": "kotatsu.js"
@@ -6792,7 +6792,7 @@ window.SONG_DATA.push(
     {
   "title": "あいという",
   "artist": "plenty",
-  "collection": "【♧🎸歌切】[2026-06-19]与你共处的双人房间里 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-19] In the Shared Room with You KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Y7jk6UE71?p=3",
   "source": "kotatsu.js"
@@ -6800,7 +6800,7 @@ window.SONG_DATA.push(
     {
   "title": "花鳥風月",
   "artist": "SEKAI NO OWARI",
-  "collection": "【♧🎸歌切】[2026-06-19]与你共处的双人房间里 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-19] In the Shared Room with You KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Y7jk6UE71?p=4",
   "source": "kotatsu.js"
@@ -6808,7 +6808,7 @@ window.SONG_DATA.push(
     {
   "title": "月明かりのように",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-06-19]与你共处的双人房间里 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-19] In the Shared Room with You KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Y7jk6UE71?p=5",
   "source": "kotatsu.js"
@@ -6816,7 +6816,7 @@ window.SONG_DATA.push(
     {
   "title": "いつか",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-06-19]与你共处的双人房间里 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-19] In the Shared Room with You KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Y7jk6UE71?p=6",
   "source": "kotatsu.js"
@@ -6824,7 +6824,7 @@ window.SONG_DATA.push(
     {
   "title": "光",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-20] For Work·For Sleep｜Damp Evening Breeze & Dry Music KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=1",
   "source": "kotatsu.js"
@@ -6832,7 +6832,7 @@ window.SONG_DATA.push(
     {
   "title": "なんでもないよ、",
   "artist": "マカロニえんぴつ",
-  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-20] For Work·For Sleep｜Damp Evening Breeze & Dry Music KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=2",
   "source": "kotatsu.js"
@@ -6840,7 +6840,7 @@ window.SONG_DATA.push(
     {
   "title": "携帯電話",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-20] For Work·For Sleep｜Damp Evening Breeze & Dry Music KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=3",
   "source": "kotatsu.js"
@@ -6848,7 +6848,7 @@ window.SONG_DATA.push(
     {
   "title": "レイン",
   "artist": "シド",
-  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-20] For Work·For Sleep｜Damp Evening Breeze & Dry Music KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=4",
   "source": "kotatsu.js"
@@ -6856,7 +6856,7 @@ window.SONG_DATA.push(
     {
   "title": "さっきはごめんね、ありがとう",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-20] For Work·For Sleep｜Damp Evening Breeze & Dry Music KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=5",
   "source": "kotatsu.js"
@@ -6864,7 +6864,7 @@ window.SONG_DATA.push(
     {
   "title": "CHE.R.RY",
   "artist": "YUI",
-  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-20] For Work·For Sleep｜Damp Evening Breeze & Dry Music KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=6",
   "source": "kotatsu.js"
@@ -6872,7 +6872,7 @@ window.SONG_DATA.push(
     {
   "title": "革命",
   "artist": "MOROHA",
-  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-20] For Work·For Sleep｜Damp Evening Breeze & Dry Music KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=7",
   "source": "kotatsu.js"
@@ -6880,7 +6880,7 @@ window.SONG_DATA.push(
     {
   "title": "俺色スカイ",
   "artist": "RADWIMPS",
-  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-20] For Work·For Sleep｜Damp Evening Breeze & Dry Music KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=8",
   "source": "kotatsu.js"
@@ -6888,7 +6888,7 @@ window.SONG_DATA.push(
     {
   "title": "napori",
   "artist": "Vaundy",
-  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-20] For Work·For Sleep｜Damp Evening Breeze & Dry Music KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=9",
   "source": "kotatsu.js"
@@ -6896,7 +6896,7 @@ window.SONG_DATA.push(
     {
   "title": "カヌレ",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-20] For Work·For Sleep｜Damp Evening Breeze & Dry Music KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=10",
   "source": "kotatsu.js"
@@ -6904,7 +6904,7 @@ window.SONG_DATA.push(
     {
   "title": "笑ったり転んだり",
   "artist": "ハンバート ハンバート",
-  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-20] For Work·For Sleep｜Damp Evening Breeze & Dry Music KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=11",
   "source": "kotatsu.js"
@@ -6912,7 +6912,7 @@ window.SONG_DATA.push(
     {
   "title": "おなじ話",
   "artist": "ハンバート ハンバート",
-  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-20] For Work·For Sleep｜Damp Evening Breeze & Dry Music KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=12",
   "source": "kotatsu.js"
@@ -6920,7 +6920,7 @@ window.SONG_DATA.push(
     {
   "title": "大丈夫",
   "artist": "クリープハイプ",
-  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-20] For Work·For Sleep｜Damp Evening Breeze & Dry Music KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=13",
   "source": "kotatsu.js"
@@ -6928,7 +6928,7 @@ window.SONG_DATA.push(
     {
   "title": "Peace",
   "artist": "andymori",
-  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-20] For Work·For Sleep｜Damp Evening Breeze & Dry Music KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=14",
   "source": "kotatsu.js"
@@ -6936,7 +6936,7 @@ window.SONG_DATA.push(
     {
   "title": "グッバイ来世でまた会おう",
   "artist": "インナージャーニー",
-  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-20] For Work·For Sleep｜Damp Evening Breeze & Dry Music KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=15",
   "source": "kotatsu.js"
@@ -6944,7 +6944,7 @@ window.SONG_DATA.push(
     {
   "title": "丸ノ内サディスティック",
   "artist": "椎名林檎",
-  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-20] For Work·For Sleep｜Damp Evening Breeze & Dry Music KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=16",
   "source": "kotatsu.js"
@@ -6952,7 +6952,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-20] For Work·For Sleep｜Damp Evening Breeze & Dry Music KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=17",
   "source": "kotatsu.js"
@@ -6960,7 +6960,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならの夏",
   "artist": "森山良子",
-  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-20] For Work·For Sleep｜Damp Evening Breeze & Dry Music KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=18",
   "source": "kotatsu.js"
@@ -6968,7 +6968,7 @@ window.SONG_DATA.push(
     {
   "title": "無名のオリジナル",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-20] For Work·For Sleep｜Damp Evening Breeze & Dry Music KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=19",
   "source": "kotatsu.js"
@@ -6976,7 +6976,7 @@ window.SONG_DATA.push(
     {
   "title": "無名のオリジナル",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-20] For Work·For Sleep｜Damp Evening Breeze & Dry Music KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=20",
   "source": "kotatsu.js"
@@ -6984,7 +6984,7 @@ window.SONG_DATA.push(
     {
   "title": "神様、",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♧🎸歌切】[2026-06-20]工作用·助眠用｜湿润的晚风与干燥的音乐 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♧🎸Song Cut】[2026-06-20] For Work·For Sleep｜Damp Evening Breeze & Dry Music KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hdj46qETg?p=21",
   "source": "kotatsu.js"
@@ -6992,7 +6992,7 @@ window.SONG_DATA.push(
     {
   "title": "行方不明とタクシー",
   "artist": "3markets[ ]",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=1",
   "source": "kotatsu.js"
@@ -7000,7 +7000,7 @@ window.SONG_DATA.push(
     {
   "title": "黒煙",
   "artist": "Lyu:Lyu",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=2",
   "source": "kotatsu.js"
@@ -7008,7 +7008,7 @@ window.SONG_DATA.push(
     {
   "title": "オー・シャンゼリゼ",
   "artist": "ダニエル・ビダル",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=3",
   "source": "kotatsu.js"
@@ -7016,7 +7016,7 @@ window.SONG_DATA.push(
     {
   "title": "Laugh away",
   "artist": "YUI",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=4",
   "source": "kotatsu.js"
@@ -7024,7 +7024,7 @@ window.SONG_DATA.push(
     {
   "title": "世界は恋に落ちている",
   "artist": "CHiCO with HoneyWorks",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=5",
   "source": "kotatsu.js"
@@ -7032,7 +7032,7 @@ window.SONG_DATA.push(
     {
   "title": "ダダリオ",
   "artist": "ズーカラデル",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=6",
   "source": "kotatsu.js"
@@ -7040,7 +7040,7 @@ window.SONG_DATA.push(
     {
   "title": "輝く未来",
   "artist": "畠中洋＆小此木麻里",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=7",
   "source": "kotatsu.js"
@@ -7048,7 +7048,7 @@ window.SONG_DATA.push(
     {
   "title": "藍二乗",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=8",
   "source": "kotatsu.js"
@@ -7056,7 +7056,7 @@ window.SONG_DATA.push(
     {
   "title": "強い気持ち・強い愛",
   "artist": "小沢健二",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=9",
   "source": "kotatsu.js"
@@ -7064,7 +7064,7 @@ window.SONG_DATA.push(
     {
   "title": "vivi",
   "artist": "米津玄師",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=10",
   "source": "kotatsu.js"
@@ -7072,7 +7072,7 @@ window.SONG_DATA.push(
     {
   "title": "花束",
   "artist": "back number",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=11",
   "source": "kotatsu.js"
@@ -7080,7 +7080,7 @@ window.SONG_DATA.push(
     {
   "title": "心做し",
   "artist": "蝶々P feat. GUMI",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=12",
   "source": "kotatsu.js"
@@ -7088,7 +7088,7 @@ window.SONG_DATA.push(
     {
   "title": "僕のともだち",
   "artist": "コレサワ",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=13",
   "source": "kotatsu.js"
@@ -7096,7 +7096,7 @@ window.SONG_DATA.push(
     {
   "title": "エロ",
   "artist": "クリープハイプ",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=14",
   "source": "kotatsu.js"
@@ -7104,7 +7104,7 @@ window.SONG_DATA.push(
     {
   "title": "夜の踊り子",
   "artist": "サカナクション",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=15",
   "source": "kotatsu.js"
@@ -7112,7 +7112,7 @@ window.SONG_DATA.push(
     {
   "title": "五月雨",
   "artist": "崎山蒼志",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=16",
   "source": "kotatsu.js"
@@ -7120,7 +7120,7 @@ window.SONG_DATA.push(
     {
   "title": "恋",
   "artist": "星野源",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=17",
   "source": "kotatsu.js"
@@ -7128,7 +7128,7 @@ window.SONG_DATA.push(
     {
   "title": "Burning Friday Night",
   "artist": "Lucky Kilimanjaro",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=18",
   "source": "kotatsu.js"
@@ -7136,7 +7136,7 @@ window.SONG_DATA.push(
     {
   "title": "最大公約数",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=19",
   "source": "kotatsu.js"
@@ -7144,7 +7144,7 @@ window.SONG_DATA.push(
     {
   "title": "ジェニファー山田さん",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=20",
   "source": "kotatsu.js"
@@ -7152,7 +7152,7 @@ window.SONG_DATA.push(
     {
   "title": "国語",
   "artist": "ハンバート ハンバート",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=21",
   "source": "kotatsu.js"
@@ -7160,7 +7160,7 @@ window.SONG_DATA.push(
     {
   "title": "さよなら人類",
   "artist": "たま",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=22",
   "source": "kotatsu.js"
@@ -7168,7 +7168,7 @@ window.SONG_DATA.push(
     {
   "title": "やわらかな午後に遅い朝食を",
   "artist": "秦基博",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=23",
   "source": "kotatsu.js"
@@ -7176,7 +7176,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=24",
   "source": "kotatsu.js"
@@ -7184,7 +7184,7 @@ window.SONG_DATA.push(
     {
   "title": "I believe",
   "artist": "絢香",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=25",
   "source": "kotatsu.js"
@@ -7192,7 +7192,7 @@ window.SONG_DATA.push(
     {
   "title": "ラブソング",
   "artist": "ズーカラデル",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=26",
   "source": "kotatsu.js"
@@ -7200,7 +7200,7 @@ window.SONG_DATA.push(
     {
   "title": "僕に彼女ができたんだ",
   "artist": "SHISHAMO",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=27",
   "source": "kotatsu.js"
@@ -7208,7 +7208,7 @@ window.SONG_DATA.push(
     {
   "title": "オシャレ大作戦",
   "artist": "ネクライトーキー",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=28",
   "source": "kotatsu.js"
@@ -7216,7 +7216,7 @@ window.SONG_DATA.push(
     {
   "title": "シンクロサイクロトロン・スピリチュアライザー。",
   "artist": "砂粒 feat. GUMI",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=29",
   "source": "kotatsu.js"
@@ -7224,7 +7224,7 @@ window.SONG_DATA.push(
     {
   "title": "ギミギミック",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=30",
   "source": "kotatsu.js"
@@ -7232,7 +7232,7 @@ window.SONG_DATA.push(
     {
   "title": "カヌレ",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=31",
   "source": "kotatsu.js"
@@ -7240,7 +7240,7 @@ window.SONG_DATA.push(
     {
   "title": "なごり雪",
   "artist": "かぐや姫",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=32",
   "source": "kotatsu.js"
@@ -7248,7 +7248,7 @@ window.SONG_DATA.push(
     {
   "title": "サライ",
   "artist": "加山雄三・谷村新司",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=33",
   "source": "kotatsu.js"
@@ -7256,7 +7256,7 @@ window.SONG_DATA.push(
     {
   "title": "たしかなこと",
   "artist": "小田和正",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=34",
   "source": "kotatsu.js"
@@ -7264,7 +7264,7 @@ window.SONG_DATA.push(
     {
   "title": "TOMORROW",
   "artist": "岡本真夜",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=35",
   "source": "kotatsu.js"
@@ -7272,7 +7272,7 @@ window.SONG_DATA.push(
     {
   "title": "フライディ・チャイナタウン",
   "artist": "泰葉",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=36",
   "source": "kotatsu.js"
@@ -7280,7 +7280,7 @@ window.SONG_DATA.push(
     {
   "title": "明るい未来",
   "artist": "never young beach",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=37",
   "source": "kotatsu.js"
@@ -7288,7 +7288,7 @@ window.SONG_DATA.push(
     {
   "title": "ひかり",
   "artist": "星村麻衣",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=38",
   "source": "kotatsu.js"
@@ -7296,7 +7296,7 @@ window.SONG_DATA.push(
     {
   "title": "アメイジング・グレイス",
   "artist": "本田美奈子.",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=39",
   "source": "kotatsu.js"
@@ -7304,7 +7304,7 @@ window.SONG_DATA.push(
     {
   "title": "性善説",
   "artist": "amazarashi",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=40",
   "source": "kotatsu.js"
@@ -7312,7 +7312,7 @@ window.SONG_DATA.push(
     {
   "title": "小さな恋のうた",
   "artist": "MONGOL800",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=41",
   "source": "kotatsu.js"
@@ -7320,7 +7320,7 @@ window.SONG_DATA.push(
     {
   "title": "幕無し",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-06-23]睡眠・工作用直播：当青叶摇曳时，独自一人。 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-23] Sleep/Work Livestream: When the Blue Leaves Sway, Alone. KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Emj96ZEHh?p=42",
   "source": "kotatsu.js"
@@ -7328,7 +7328,7 @@ window.SONG_DATA.push(
     {
   "title": "やどかり",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=1",
   "source": "kotatsu.js"
@@ -7336,7 +7336,7 @@ window.SONG_DATA.push(
     {
   "title": "福笑い",
   "artist": "高橋優",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=2",
   "source": "kotatsu.js"
@@ -7344,7 +7344,7 @@ window.SONG_DATA.push(
     {
   "title": "恋だろ",
   "artist": "wacci",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=3",
   "source": "kotatsu.js"
@@ -7352,7 +7352,7 @@ window.SONG_DATA.push(
     {
   "title": "GLORIA",
   "artist": "YUI",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=4",
   "source": "kotatsu.js"
@@ -7360,7 +7360,7 @@ window.SONG_DATA.push(
     {
   "title": "虎",
   "artist": "ハンバート ハンバート",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=5",
   "source": "kotatsu.js"
@@ -7368,7 +7368,7 @@ window.SONG_DATA.push(
     {
   "title": "青空",
   "artist": "THE BLUE HEARTS",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=6",
   "source": "kotatsu.js"
@@ -7376,7 +7376,7 @@ window.SONG_DATA.push(
     {
   "title": "あなたに",
   "artist": "MONGOL800",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=7",
   "source": "kotatsu.js"
@@ -7384,7 +7384,7 @@ window.SONG_DATA.push(
     {
   "title": "鱗(うろこ)",
   "artist": "秦基博",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=8",
   "source": "kotatsu.js"
@@ -7392,7 +7392,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna feat. 初音ミク",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=9",
   "source": "kotatsu.js"
@@ -7400,7 +7400,7 @@ window.SONG_DATA.push(
     {
   "title": "朝顔",
   "artist": "コブクロ",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=10",
   "source": "kotatsu.js"
@@ -7408,7 +7408,7 @@ window.SONG_DATA.push(
     {
   "title": "キッス～帰り道のラブソング～",
   "artist": "テゴマス",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=11",
   "source": "kotatsu.js"
@@ -7416,7 +7416,7 @@ window.SONG_DATA.push(
     {
   "title": "ハチスは夏に背を向けて",
   "artist": "メル feat. IA",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=12",
   "source": "kotatsu.js"
@@ -7424,7 +7424,7 @@ window.SONG_DATA.push(
     {
   "title": "boyfriend",
   "artist": "阿部真央",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=13",
   "source": "kotatsu.js"
@@ -7432,7 +7432,7 @@ window.SONG_DATA.push(
     {
   "title": "吉原ラメント",
   "artist": "亜沙 feat. 重音テト",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=14",
   "source": "kotatsu.js"
@@ -7440,7 +7440,7 @@ window.SONG_DATA.push(
     {
   "title": "桃ノ花ビラ",
   "artist": "大塚 愛",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=15",
   "source": "kotatsu.js"
@@ -7448,7 +7448,7 @@ window.SONG_DATA.push(
     {
   "title": "BELIEVE",
   "artist": "エンジェルス ハーモニー",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=16",
   "source": "kotatsu.js"
@@ -7456,7 +7456,7 @@ window.SONG_DATA.push(
     {
   "title": "モザイクロール",
   "artist": "DECO*27 feat. GUMI",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=17",
   "source": "kotatsu.js"
@@ -7464,7 +7464,7 @@ window.SONG_DATA.push(
     {
   "title": "おどるポンポコリン",
   "artist": "B.B.クィーンズ",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=18",
   "source": "kotatsu.js"
@@ -7472,7 +7472,7 @@ window.SONG_DATA.push(
     {
   "title": "君じゃない誰かなんて～Tejina～",
   "artist": "DEEP",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=19",
   "source": "kotatsu.js"
@@ -7480,7 +7480,7 @@ window.SONG_DATA.push(
     {
   "title": "以心伝心",
   "artist": "19",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=20",
   "source": "kotatsu.js"
@@ -7488,7 +7488,7 @@ window.SONG_DATA.push(
     {
   "title": "スパークル [original ver.]",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=21",
   "source": "kotatsu.js"
@@ -7496,7 +7496,7 @@ window.SONG_DATA.push(
     {
   "title": "真赤",
   "artist": "My Hair is Bad",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=22",
   "source": "kotatsu.js"
@@ -7504,7 +7504,7 @@ window.SONG_DATA.push(
     {
   "title": "愛してるばんざーい!",
   "artist": "μ's",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=23",
   "source": "kotatsu.js"
@@ -7512,7 +7512,7 @@ window.SONG_DATA.push(
     {
   "title": "バンザイ ～好きでよかった～",
   "artist": "ウルフルズ",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=24",
   "source": "kotatsu.js"
@@ -7520,7 +7520,7 @@ window.SONG_DATA.push(
     {
   "title": "愛しい人へ",
   "artist": "ET-KING",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=25",
   "source": "kotatsu.js"
@@ -7528,7 +7528,7 @@ window.SONG_DATA.push(
     {
   "title": "君をのせて",
   "artist": "井上あずみ",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=26",
   "source": "kotatsu.js"
@@ -7536,7 +7536,7 @@ window.SONG_DATA.push(
     {
   "title": "少年時代",
   "artist": "井上陽水",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=27",
   "source": "kotatsu.js"
@@ -7544,7 +7544,7 @@ window.SONG_DATA.push(
     {
   "title": "炎と森のカーニバル",
   "artist": "SEKAI NO OWARI",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=28",
   "source": "kotatsu.js"
@@ -7552,7 +7552,7 @@ window.SONG_DATA.push(
     {
   "title": "虹",
   "artist": "二宮和也",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=29",
   "source": "kotatsu.js"
@@ -7560,7 +7560,7 @@ window.SONG_DATA.push(
     {
   "title": "嘘",
   "artist": "シド",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=30",
   "source": "kotatsu.js"
@@ -7568,7 +7568,7 @@ window.SONG_DATA.push(
     {
   "title": "明日晴れるかな",
   "artist": "桑田佳祐",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=31",
   "source": "kotatsu.js"
@@ -7576,7 +7576,7 @@ window.SONG_DATA.push(
     {
   "title": "ラヴ・イズ・オーヴァー",
   "artist": "欧陽菲菲",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=32",
   "source": "kotatsu.js"
@@ -7584,7 +7584,7 @@ window.SONG_DATA.push(
     {
   "title": "有明を撫でて",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=33",
   "source": "kotatsu.js"
@@ -7592,7 +7592,7 @@ window.SONG_DATA.push(
     {
   "title": "ニーナ",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=34",
   "source": "kotatsu.js"
@@ -7600,7 +7600,7 @@ window.SONG_DATA.push(
     {
   "title": "エンディング",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-06-24]睡眠·工作用直播｜在六月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-24] Sleep · Work Stream｜By the June Window KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV16wj96bEai?p=35",
   "source": "kotatsu.js"
@@ -7608,7 +7608,7 @@ window.SONG_DATA.push(
     {
   "title": "一人暮らし",
   "artist": "高橋優",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=1",
   "source": "kotatsu.js"
@@ -7616,7 +7616,7 @@ window.SONG_DATA.push(
     {
   "title": "月灯りふんわり落ちてくる夜",
   "artist": "小川七生",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=2",
   "source": "kotatsu.js"
@@ -7624,7 +7624,7 @@ window.SONG_DATA.push(
     {
   "title": "ウミユリ海底譚",
   "artist": "n-buna feat. 初音ミク",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=3",
   "source": "kotatsu.js"
@@ -7632,7 +7632,7 @@ window.SONG_DATA.push(
     {
   "title": "未来",
   "artist": "ズーカラデル",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=4",
   "source": "kotatsu.js"
@@ -7640,7 +7640,7 @@ window.SONG_DATA.push(
     {
   "title": "僕が死のうと思ったのは",
   "artist": "中島美嘉",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=5",
   "source": "kotatsu.js"
@@ -7648,7 +7648,7 @@ window.SONG_DATA.push(
     {
   "title": "グリグリメガネと月光蟲",
   "artist": "古川本舗 feat. 初音ミク",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=6",
   "source": "kotatsu.js"
@@ -7656,7 +7656,7 @@ window.SONG_DATA.push(
     {
   "title": "オーダーメイド",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=7",
   "source": "kotatsu.js"
@@ -7664,7 +7664,7 @@ window.SONG_DATA.push(
     {
   "title": "国語",
   "artist": "ハンバート ハンバート",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=8",
   "source": "kotatsu.js"
@@ -7672,7 +7672,7 @@ window.SONG_DATA.push(
     {
   "title": "高嶺の花子さん",
   "artist": "back number",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=9",
   "source": "kotatsu.js"
@@ -7680,7 +7680,7 @@ window.SONG_DATA.push(
     {
   "title": "晩餐歌",
   "artist": "tuki.",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=10",
   "source": "kotatsu.js"
@@ -7688,7 +7688,7 @@ window.SONG_DATA.push(
     {
   "title": "大丈夫",
   "artist": "クリープハイプ",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=11",
   "source": "kotatsu.js"
@@ -7696,7 +7696,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=12",
   "source": "kotatsu.js"
@@ -7704,7 +7704,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならまたね",
   "artist": "キクチリョウタ",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=13",
   "source": "kotatsu.js"
@@ -7712,7 +7712,7 @@ window.SONG_DATA.push(
     {
   "title": "milk tea",
   "artist": "福山雅治",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=14",
   "source": "kotatsu.js"
@@ -7720,7 +7720,7 @@ window.SONG_DATA.push(
     {
   "title": "三日月",
   "artist": "くるり",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=15",
   "source": "kotatsu.js"
@@ -7728,7 +7728,7 @@ window.SONG_DATA.push(
     {
   "title": "白い色は恋人の色",
   "artist": "ベッツィ＆クリス",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=16",
   "source": "kotatsu.js"
@@ -7736,7 +7736,7 @@ window.SONG_DATA.push(
     {
   "title": "かなしいうた",
   "artist": "工藤祐次郎",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=17",
   "source": "kotatsu.js"
@@ -7744,7 +7744,7 @@ window.SONG_DATA.push(
     {
   "title": "言って。",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=18",
   "source": "kotatsu.js"
@@ -7752,7 +7752,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=19",
   "source": "kotatsu.js"
@@ -7760,7 +7760,7 @@ window.SONG_DATA.push(
     {
   "title": "サーカスナイト",
   "artist": "七尾旅人",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=20",
   "source": "kotatsu.js"
@@ -7768,7 +7768,7 @@ window.SONG_DATA.push(
     {
   "title": "Bye by me",
   "artist": "Vaundy",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=21",
   "source": "kotatsu.js"
@@ -7776,7 +7776,7 @@ window.SONG_DATA.push(
     {
   "title": "あいとわ",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=22",
   "source": "kotatsu.js"
@@ -7784,7 +7784,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならミッドナイト",
   "artist": "大柴広己",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=23",
   "source": "kotatsu.js"
@@ -7792,7 +7792,7 @@ window.SONG_DATA.push(
     {
   "title": "くだらないの中に",
   "artist": "星野源",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=24",
   "source": "kotatsu.js"
@@ -7800,7 +7800,7 @@ window.SONG_DATA.push(
     {
   "title": "森の小さなレストラン",
   "artist": "手嶌葵",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=25",
   "source": "kotatsu.js"
@@ -7808,7 +7808,7 @@ window.SONG_DATA.push(
     {
   "title": "風になる",
   "artist": "つじあやの",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=26",
   "source": "kotatsu.js"
@@ -7816,7 +7816,7 @@ window.SONG_DATA.push(
     {
   "title": "YUME日和",
   "artist": "島谷ひとみ",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=27",
   "source": "kotatsu.js"
@@ -7824,7 +7824,7 @@ window.SONG_DATA.push(
     {
   "title": "Namidairo",
   "artist": "YUI",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=28",
   "source": "kotatsu.js"
@@ -7832,7 +7832,7 @@ window.SONG_DATA.push(
     {
   "title": "蛍の光",
   "artist": "童謡・唱歌",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=29",
   "source": "kotatsu.js"
@@ -7840,7 +7840,7 @@ window.SONG_DATA.push(
     {
   "title": "サヨナラにさよなら",
   "artist": "テゴマス",
-  "collection": "【♣️🎸歌切】[2026-06-25]睡眠・工作用直播 放学结束后的世界 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-06-25] Sleep/Work Livestream - The World After School Ends | KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Pe7t6vEC1?p=30",
   "source": "kotatsu.js"
@@ -7848,7 +7848,7 @@ window.SONG_DATA.push(
     {
   "title": "ララバイ",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=1",
   "source": "kotatsu.js"
@@ -7856,7 +7856,7 @@ window.SONG_DATA.push(
     {
   "title": "夜行",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=2",
   "source": "kotatsu.js"
@@ -7864,7 +7864,7 @@ window.SONG_DATA.push(
     {
   "title": "ぼくらの魔法",
   "artist": "ハンバート ハンバート",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=3",
   "source": "kotatsu.js"
@@ -7872,7 +7872,7 @@ window.SONG_DATA.push(
     {
   "title": "エイリアンエイリアン",
   "artist": "ナユタン星人 feat. 初音ミク",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=4",
   "source": "kotatsu.js"
@@ -7880,7 +7880,7 @@ window.SONG_DATA.push(
     {
   "title": "笑えよ乙女",
   "artist": "コレサワ",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=5",
   "source": "kotatsu.js"
@@ -7888,7 +7888,7 @@ window.SONG_DATA.push(
     {
   "title": "ルバート",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=6",
   "source": "kotatsu.js"
@@ -7896,7 +7896,7 @@ window.SONG_DATA.push(
     {
   "title": "水平線",
   "artist": "back number",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=7",
   "source": "kotatsu.js"
@@ -7904,7 +7904,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛裁判",
   "artist": "40mP feat. 初音ミク",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=8",
   "source": "kotatsu.js"
@@ -7912,7 +7912,7 @@ window.SONG_DATA.push(
     {
   "title": "吉原ラメント",
   "artist": "亜沙 feat. 重音テト",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=9",
   "source": "kotatsu.js"
@@ -7920,7 +7920,7 @@ window.SONG_DATA.push(
     {
   "title": "楽園",
   "artist": "andymori",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=10",
   "source": "kotatsu.js"
@@ -7928,7 +7928,7 @@ window.SONG_DATA.push(
     {
   "title": "しあわせ",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=11",
   "source": "kotatsu.js"
@@ -7936,7 +7936,7 @@ window.SONG_DATA.push(
     {
   "title": "てろてろ",
   "artist": "矢野絢子",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=12",
   "source": "kotatsu.js"
@@ -7944,7 +7944,7 @@ window.SONG_DATA.push(
     {
   "title": "火星人",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=13",
   "source": "kotatsu.js"
@@ -7952,7 +7952,7 @@ window.SONG_DATA.push(
     {
   "title": "爆弾魔",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=14",
   "source": "kotatsu.js"
@@ -7960,7 +7960,7 @@ window.SONG_DATA.push(
     {
   "title": "だから僕は音楽を辞めた",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=15",
   "source": "kotatsu.js"
@@ -7968,7 +7968,7 @@ window.SONG_DATA.push(
     {
   "title": "卒業",
   "artist": "My Hair is Bad",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=16",
   "source": "kotatsu.js"
@@ -7976,7 +7976,7 @@ window.SONG_DATA.push(
     {
   "title": "Believe",
   "artist": "童謡・唱歌",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=17",
   "source": "kotatsu.js"
@@ -7984,7 +7984,7 @@ window.SONG_DATA.push(
     {
   "title": "ぐるぐるどっか～ん！",
   "artist": "ワンワン・ふうか",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=18",
   "source": "kotatsu.js"
@@ -7992,7 +7992,7 @@ window.SONG_DATA.push(
     {
   "title": "故郷",
   "artist": "童謡・唱歌",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=19",
   "source": "kotatsu.js"
@@ -8000,7 +8000,7 @@ window.SONG_DATA.push(
     {
   "title": "遠き山に日は落ちて",
   "artist": "童謡・唱歌",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=20",
   "source": "kotatsu.js"
@@ -8008,7 +8008,7 @@ window.SONG_DATA.push(
     {
   "title": "Just a game",
   "artist": "takamatt feat. GUMI",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=21",
   "source": "kotatsu.js"
@@ -8016,7 +8016,7 @@ window.SONG_DATA.push(
     {
   "title": "ジェニファー山田さん",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=22",
   "source": "kotatsu.js"
@@ -8024,7 +8024,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=23",
   "source": "kotatsu.js"
@@ -8032,7 +8032,7 @@ window.SONG_DATA.push(
     {
   "title": "magnet",
   "artist": "minato feat. 初音ミク・巡音ルカ",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=24",
   "source": "kotatsu.js"
@@ -8040,7 +8040,7 @@ window.SONG_DATA.push(
     {
   "title": "藍二乗",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=25",
   "source": "kotatsu.js"
@@ -8048,7 +8048,7 @@ window.SONG_DATA.push(
     {
   "title": "花は咲く",
   "artist": "花は咲くプロジェクト",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=26",
   "source": "kotatsu.js"
@@ -8056,7 +8056,7 @@ window.SONG_DATA.push(
     {
   "title": "ダダリオ",
   "artist": "ズーカラデル",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=27",
   "source": "kotatsu.js"
@@ -8064,7 +8064,7 @@ window.SONG_DATA.push(
     {
   "title": "アイのシナリオ",
   "artist": "CHiCO with HoneyWorks",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=28",
   "source": "kotatsu.js"
@@ -8072,7 +8072,7 @@ window.SONG_DATA.push(
     {
   "title": "僕たちの季節",
   "artist": "DOES",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=29",
   "source": "kotatsu.js"
@@ -8080,7 +8080,7 @@ window.SONG_DATA.push(
     {
   "title": "夏の頃",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=30",
   "source": "kotatsu.js"
@@ -8088,7 +8088,7 @@ window.SONG_DATA.push(
     {
   "title": "もう柔らかいおっぱいのことしか考えたくない",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=31",
   "source": "kotatsu.js"
@@ -8096,7 +8096,7 @@ window.SONG_DATA.push(
     {
   "title": "愛、テキサス",
   "artist": "山下智久",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=32",
   "source": "kotatsu.js"
@@ -8104,7 +8104,7 @@ window.SONG_DATA.push(
     {
   "title": "生きてることが辛いなら",
   "artist": "森山直太朗",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=33",
   "source": "kotatsu.js"
@@ -8112,7 +8112,7 @@ window.SONG_DATA.push(
     {
   "title": "ひとつ",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=34",
   "source": "kotatsu.js"
@@ -8120,7 +8120,7 @@ window.SONG_DATA.push(
     {
   "title": "いつくしみ深き",
   "artist": "讃美歌",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=35",
   "source": "kotatsu.js"
@@ -8128,7 +8128,7 @@ window.SONG_DATA.push(
     {
   "title": "God,",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=36",
   "source": "kotatsu.js"
@@ -8136,7 +8136,7 @@ window.SONG_DATA.push(
     {
   "title": "Hallelujah",
   "artist": "Leonard Cohen",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=37",
   "source": "kotatsu.js"
@@ -8144,7 +8144,7 @@ window.SONG_DATA.push(
     {
   "title": "ハレルヤ",
   "artist": "amazarashi",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=38",
   "source": "kotatsu.js"
@@ -8152,7 +8152,7 @@ window.SONG_DATA.push(
     {
   "title": "25コ目の染色体",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=39",
   "source": "kotatsu.js"
@@ -8160,7 +8160,7 @@ window.SONG_DATA.push(
     {
   "title": "もしも「みんな一緒に」バージョン",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=40",
   "source": "kotatsu.js"
@@ -8168,7 +8168,7 @@ window.SONG_DATA.push(
     {
   "title": "修羅",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=41",
   "source": "kotatsu.js"
@@ -8176,7 +8176,7 @@ window.SONG_DATA.push(
     {
   "title": "何十年後かに「君」と出会っていなかったアナタに向けた歌",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=42",
   "source": "kotatsu.js"
@@ -8184,7 +8184,7 @@ window.SONG_DATA.push(
     {
   "title": "ハナミズキ",
   "artist": "一青窈",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=43",
   "source": "kotatsu.js"
@@ -8192,7 +8192,7 @@ window.SONG_DATA.push(
     {
   "title": "有心論",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=44",
   "source": "kotatsu.js"
@@ -8200,7 +8200,7 @@ window.SONG_DATA.push(
     {
   "title": "朝ごはんの歌",
   "artist": "手嶌葵",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=45",
   "source": "kotatsu.js"
@@ -8208,7 +8208,7 @@ window.SONG_DATA.push(
     {
   "title": "なごり雪",
   "artist": "イルカ",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=46",
   "source": "kotatsu.js"
@@ -8216,7 +8216,7 @@ window.SONG_DATA.push(
     {
   "title": "素晴らしき今日の始まり",
   "artist": "GOOD ON THE REEL",
-  "collection": "【♣️🎸歌切】[2026-06-30]睡眠・工作用直播｜夜之教室 最后的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-06-30] Sleep・Work Stream｜Night Classroom - The Final Night KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YtTw67EEa?p=47",
   "source": "kotatsu.js"
@@ -8224,7 +8224,7 @@ window.SONG_DATA.push(
     {
   "title": "猫",
   "artist": "DISH//",
-  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-01] Sleep/Work Livestream｜Night Classroom, July Window Side KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=1",
   "source": "kotatsu.js"
@@ -8232,7 +8232,7 @@ window.SONG_DATA.push(
     {
   "title": "KING",
   "artist": "Kanaria feat. GUMI",
-  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-01] Sleep/Work Livestream｜Night Classroom, July Window Side KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=2",
   "source": "kotatsu.js"
@@ -8240,7 +8240,7 @@ window.SONG_DATA.push(
     {
   "title": "拝啓、少年よ",
   "artist": "Hump Back",
-  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-01] Sleep/Work Livestream｜Night Classroom, July Window Side KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=3",
   "source": "kotatsu.js"
@@ -8248,7 +8248,7 @@ window.SONG_DATA.push(
     {
   "title": "ロングホープ・フィリア",
   "artist": "菅田将暉",
-  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-01] Sleep/Work Livestream｜Night Classroom, July Window Side KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=4",
   "source": "kotatsu.js"
@@ -8256,7 +8256,7 @@ window.SONG_DATA.push(
     {
   "title": "時の歌",
   "artist": "手嶌葵",
-  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-01] Sleep/Work Livestream｜Night Classroom, July Window Side KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=5",
   "source": "kotatsu.js"
@@ -8264,7 +8264,7 @@ window.SONG_DATA.push(
     {
   "title": "時の歌",
   "artist": "手嶌葵",
-  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-01] Sleep/Work Livestream｜Night Classroom, July Window Side KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=6",
   "source": "kotatsu.js"
@@ -8272,7 +8272,7 @@ window.SONG_DATA.push(
     {
   "title": "グレゴリオ",
   "artist": "古川本舗 feat. ちびた",
-  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-01] Sleep/Work Livestream｜Night Classroom, July Window Side KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=7",
   "source": "kotatsu.js"
@@ -8280,7 +8280,7 @@ window.SONG_DATA.push(
     {
   "title": "援助交際",
   "artist": "銀杏BOYZ",
-  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-01] Sleep/Work Livestream｜Night Classroom, July Window Side KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=8",
   "source": "kotatsu.js"
@@ -8288,7 +8288,7 @@ window.SONG_DATA.push(
     {
   "title": "駱駝",
   "artist": "高橋優",
-  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-01] Sleep/Work Livestream｜Night Classroom, July Window Side KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=9",
   "source": "kotatsu.js"
@@ -8296,7 +8296,7 @@ window.SONG_DATA.push(
     {
   "title": "ひかり",
   "artist": "ハンバート ハンバート",
-  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-01] Sleep/Work Livestream｜Night Classroom, July Window Side KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=10",
   "source": "kotatsu.js"
@@ -8304,7 +8304,7 @@ window.SONG_DATA.push(
     {
   "title": "となりのトトロ",
   "artist": "井上あずみ",
-  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-01] Sleep/Work Livestream｜Night Classroom, July Window Side KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=11",
   "source": "kotatsu.js"
@@ -8312,7 +8312,7 @@ window.SONG_DATA.push(
     {
   "title": "アルバイト",
   "artist": "3markets[ ]",
-  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-01] Sleep/Work Livestream｜Night Classroom, July Window Side KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=12",
   "source": "kotatsu.js"
@@ -8320,7 +8320,7 @@ window.SONG_DATA.push(
     {
   "title": "淡々とした日常",
   "artist": "夢見クジラ",
-  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-01] Sleep/Work Livestream｜Night Classroom, July Window Side KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=13",
   "source": "kotatsu.js"
@@ -8328,7 +8328,7 @@ window.SONG_DATA.push(
     {
   "title": "陽はまた昇る",
   "artist": "DOES",
-  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-01] Sleep/Work Livestream｜Night Classroom, July Window Side KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=14",
   "source": "kotatsu.js"
@@ -8336,7 +8336,7 @@ window.SONG_DATA.push(
     {
   "title": "バレリーコ",
   "artist": "みきとP feat. GUMI",
-  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-01] Sleep/Work Livestream｜Night Classroom, July Window Side KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=15",
   "source": "kotatsu.js"
@@ -8344,7 +8344,7 @@ window.SONG_DATA.push(
     {
   "title": "tomorrow",
   "artist": "MOROHA",
-  "collection": "【♣️🎸歌切】[2026-07-01]睡眠·工作用直播｜夜晚的教室，七月的窗边 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-01] Sleep/Work Livestream｜Night Classroom, July Window Side KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1inTe6GEqf?p=16",
   "source": "kotatsu.js"
@@ -8352,7 +8352,7 @@ window.SONG_DATA.push(
     {
   "title": "スパークル",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=1",
   "source": "kotatsu.js"
@@ -8360,7 +8360,7 @@ window.SONG_DATA.push(
     {
   "title": "アンマー",
   "artist": "かりゆし58",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=2",
   "source": "kotatsu.js"
@@ -8368,7 +8368,7 @@ window.SONG_DATA.push(
     {
   "title": "羽虫と自販機",
   "artist": "KANA-BOON",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=3",
   "source": "kotatsu.js"
@@ -8376,7 +8376,7 @@ window.SONG_DATA.push(
     {
   "title": "SUMMER TIME",
   "artist": "NEWS",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=4",
   "source": "kotatsu.js"
@@ -8384,7 +8384,7 @@ window.SONG_DATA.push(
     {
   "title": "眠り姫",
   "artist": "SEKAI NO OWARI",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=5",
   "source": "kotatsu.js"
@@ -8392,7 +8392,7 @@ window.SONG_DATA.push(
     {
   "title": "花",
   "artist": "中孝介",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=6",
   "source": "kotatsu.js"
@@ -8400,7 +8400,7 @@ window.SONG_DATA.push(
     {
   "title": "クロノスタシス",
   "artist": "きのこ帝国",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=7",
   "source": "kotatsu.js"
@@ -8408,7 +8408,7 @@ window.SONG_DATA.push(
     {
   "title": "本当はね、",
   "artist": "ヤングスキニー",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=8",
   "source": "kotatsu.js"
@@ -8416,7 +8416,7 @@ window.SONG_DATA.push(
     {
   "title": "春泥棒",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=9",
   "source": "kotatsu.js"
@@ -8424,7 +8424,7 @@ window.SONG_DATA.push(
     {
   "title": "猫",
   "artist": "DISH//",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=10",
   "source": "kotatsu.js"
@@ -8432,7 +8432,7 @@ window.SONG_DATA.push(
     {
   "title": "マジカルダンサー",
   "artist": "小山田壮平",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=11",
   "source": "kotatsu.js"
@@ -8440,7 +8440,7 @@ window.SONG_DATA.push(
     {
   "title": "終わらない歌",
   "artist": "THE BLUE HEARTS",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=12",
   "source": "kotatsu.js"
@@ -8448,7 +8448,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れじの言の葉",
   "artist": "未来古代楽団 feat. 安次嶺希和子",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=13",
   "source": "kotatsu.js"
@@ -8456,7 +8456,7 @@ window.SONG_DATA.push(
     {
   "title": "空も飛べるはず",
   "artist": "スピッツ",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=14",
   "source": "kotatsu.js"
@@ -8464,7 +8464,7 @@ window.SONG_DATA.push(
     {
   "title": "手と手",
   "artist": "クリープハイプ",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=15",
   "source": "kotatsu.js"
@@ -8472,7 +8472,7 @@ window.SONG_DATA.push(
     {
   "title": "明日晴れるかな",
   "artist": "桑田佳祐",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=16",
   "source": "kotatsu.js"
@@ -8480,7 +8480,7 @@ window.SONG_DATA.push(
     {
   "title": "永遠",
   "artist": "back number",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=17",
   "source": "kotatsu.js"
@@ -8488,7 +8488,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れてください",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=18",
   "source": "kotatsu.js"
@@ -8496,7 +8496,7 @@ window.SONG_DATA.push(
     {
   "title": "ゴーゴー幽霊船",
   "artist": "米津玄師",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=19",
   "source": "kotatsu.js"
@@ -8504,7 +8504,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならはエモーション",
   "artist": "サカナクション",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=20",
   "source": "kotatsu.js"
@@ -8512,7 +8512,7 @@ window.SONG_DATA.push(
     {
   "title": "夜空ノムコウ",
   "artist": "SMAP",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=21",
   "source": "kotatsu.js"
@@ -8520,7 +8520,7 @@ window.SONG_DATA.push(
     {
   "title": "翼をください",
   "artist": "赤い鳥",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=22",
   "source": "kotatsu.js"
@@ -8528,7 +8528,7 @@ window.SONG_DATA.push(
     {
   "title": "地上の星",
   "artist": "中島みゆき",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=23",
   "source": "kotatsu.js"
@@ -8536,7 +8536,7 @@ window.SONG_DATA.push(
     {
   "title": "一人暮らし",
   "artist": "高橋優",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=24",
   "source": "kotatsu.js"
@@ -8544,7 +8544,7 @@ window.SONG_DATA.push(
     {
   "title": "ラブソング",
   "artist": "ズーカラデル",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=25",
   "source": "kotatsu.js"
@@ -8552,7 +8552,7 @@ window.SONG_DATA.push(
     {
   "title": "雛市",
   "artist": "女王蜂",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=26",
   "source": "kotatsu.js"
@@ -8560,7 +8560,7 @@ window.SONG_DATA.push(
     {
   "title": "君が思えば…",
   "artist": "柴田淳",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=27",
   "source": "kotatsu.js"
@@ -8568,7 +8568,7 @@ window.SONG_DATA.push(
     {
   "title": "金魚花火",
   "artist": "大塚愛",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=28",
   "source": "kotatsu.js"
@@ -8576,7 +8576,7 @@ window.SONG_DATA.push(
     {
   "title": "明日への扉",
   "artist": "I WiSH",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=29",
   "source": "kotatsu.js"
@@ -8584,7 +8584,7 @@ window.SONG_DATA.push(
     {
   "title": "今宵の月のように",
   "artist": "エレファントカシマシ",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=30",
   "source": "kotatsu.js"
@@ -8592,7 +8592,7 @@ window.SONG_DATA.push(
     {
   "title": "ね。",
   "artist": "3markets[ ]",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=31",
   "source": "kotatsu.js"
@@ -8600,7 +8600,7 @@ window.SONG_DATA.push(
     {
   "title": "サヨナラCOLOR",
   "artist": "SUPER BUTTER DOG",
-  "collection": "【♣️🎸歌切】[2026-07-03]睡眠・工作用直播｜七月初，雨中的房间 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "[♣️🎸Song Cut] [2026-07-03] Sleep・Work Streaming｜Early July, Rainy Room KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1R1TW65Eiq?p=32",
   "source": "kotatsu.js"
@@ -8608,7 +8608,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒッチコック",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=1",
   "source": "kotatsu.js"
@@ -8616,7 +8616,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣の花唄",
   "artist": "Vaundy",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=2",
   "source": "kotatsu.js"
@@ -8624,7 +8624,7 @@ window.SONG_DATA.push(
     {
   "title": "GLORIA",
   "artist": "YUI",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=3",
   "source": "kotatsu.js"
@@ -8632,7 +8632,7 @@ window.SONG_DATA.push(
     {
   "title": "瞬き",
   "artist": "back number",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=4",
   "source": "kotatsu.js"
@@ -8640,7 +8640,7 @@ window.SONG_DATA.push(
     {
   "title": "携帯電話",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=5",
   "source": "kotatsu.js"
@@ -8648,7 +8648,7 @@ window.SONG_DATA.push(
     {
   "title": "かえるの唄",
   "artist": "合唱曲",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=6",
   "source": "kotatsu.js"
@@ -8656,7 +8656,7 @@ window.SONG_DATA.push(
     {
   "title": "ひとつになれないけものたち",
   "artist": "グッバイフジヤマ",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=7",
   "source": "kotatsu.js"
@@ -8664,7 +8664,7 @@ window.SONG_DATA.push(
     {
   "title": "ベースマン",
   "artist": "andymori",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=8",
   "source": "kotatsu.js"
@@ -8672,7 +8672,7 @@ window.SONG_DATA.push(
     {
   "title": "真赤",
   "artist": "My Hair is Bad",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=9",
   "source": "kotatsu.js"
@@ -8680,7 +8680,7 @@ window.SONG_DATA.push(
     {
   "title": "世界がひとつになるまで",
   "artist": "Ya-Ya-yah",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=10",
   "source": "kotatsu.js"
@@ -8688,7 +8688,7 @@ window.SONG_DATA.push(
     {
   "title": "シンデレラボーイ",
   "artist": "Saucy Dog",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=11",
   "source": "kotatsu.js"
@@ -8696,7 +8696,7 @@ window.SONG_DATA.push(
     {
   "title": "五月雨",
   "artist": "崎山 蒼志",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=12",
   "source": "kotatsu.js"
@@ -8704,7 +8704,7 @@ window.SONG_DATA.push(
     {
   "title": "炎と森のカーニバル",
   "artist": "SEKAI NO OWARI",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=13",
   "source": "kotatsu.js"
@@ -8712,7 +8712,7 @@ window.SONG_DATA.push(
     {
   "title": "アンチノミー",
   "artist": "amazarashi",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=14",
   "source": "kotatsu.js"
@@ -8720,7 +8720,7 @@ window.SONG_DATA.push(
     {
   "title": "国語",
   "artist": "ハンバート ハンバート",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=15",
   "source": "kotatsu.js"
@@ -8728,7 +8728,7 @@ window.SONG_DATA.push(
     {
   "title": "イキルサイノウ",
   "artist": "plenty",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=16",
   "source": "kotatsu.js"
@@ -8736,7 +8736,7 @@ window.SONG_DATA.push(
     {
   "title": "月明かりのように",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=17",
   "source": "kotatsu.js"
@@ -8744,7 +8744,7 @@ window.SONG_DATA.push(
     {
   "title": "夜な夜なエール",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=18",
   "source": "kotatsu.js"
@@ -8752,7 +8752,7 @@ window.SONG_DATA.push(
     {
   "title": "vivi",
   "artist": "米津玄師",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=19",
   "source": "kotatsu.js"
@@ -8760,7 +8760,7 @@ window.SONG_DATA.push(
     {
   "title": "Hello, Worker",
   "artist": "KEI feat.巡音ルカ",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=20",
   "source": "kotatsu.js"
@@ -8768,7 +8768,7 @@ window.SONG_DATA.push(
     {
   "title": "アルジャーノン",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=21",
   "source": "kotatsu.js"
@@ -8776,7 +8776,7 @@ window.SONG_DATA.push(
     {
   "title": "ラブソング",
   "artist": "ズーカラデル",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=22",
   "source": "kotatsu.js"
@@ -8784,7 +8784,7 @@ window.SONG_DATA.push(
     {
   "title": "レモン×",
   "artist": "3markets[ ]",
-  "collection": "【♣️🎸歌切】[2026-07-19]睡眠・工作用直播｜试播 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-19] Sleep・Work Livestream｜Test Stream KOTATSU Ch. Haru Kotatsu Buton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV114Kk6jEHr?p=23",
   "source": "kotatsu.js"
@@ -8792,7 +8792,7 @@ window.SONG_DATA.push(
     {
   "title": "スパークル",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸singing clip】[2026-07-22] Sleep・Work stream｜A night of holding unmanageable feelings KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=1",
   "source": "kotatsu.js"
@@ -8800,7 +8800,7 @@ window.SONG_DATA.push(
     {
   "title": "サンドイッチ",
   "artist": "高橋優",
-  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸singing clip】[2026-07-22] Sleep・Work stream｜A night of holding unmanageable feelings KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=2",
   "source": "kotatsu.js"
@@ -8808,7 +8808,7 @@ window.SONG_DATA.push(
     {
   "title": "花束",
   "artist": "back number",
-  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸singing clip】[2026-07-22] Sleep・Work stream｜A night of holding unmanageable feelings KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=3",
   "source": "kotatsu.js"
@@ -8816,7 +8816,7 @@ window.SONG_DATA.push(
     {
   "title": "心壊サミット",
   "artist": "DECO*27 feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸singing clip】[2026-07-22] Sleep・Work stream｜A night of holding unmanageable feelings KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=4",
   "source": "kotatsu.js"
@@ -8824,7 +8824,7 @@ window.SONG_DATA.push(
     {
   "title": "命に嫌われている。",
   "artist": "カンザキイオリ feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸singing clip】[2026-07-22] Sleep・Work stream｜A night of holding unmanageable feelings KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=5",
   "source": "kotatsu.js"
@@ -8832,7 +8832,7 @@ window.SONG_DATA.push(
     {
   "title": "晴る",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸singing clip】[2026-07-22] Sleep・Work stream｜A night of holding unmanageable feelings KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=6",
   "source": "kotatsu.js"
@@ -8840,7 +8840,7 @@ window.SONG_DATA.push(
     {
   "title": "下北沢のギターロック",
   "artist": "3markets[ ]",
-  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸singing clip】[2026-07-22] Sleep・Work stream｜A night of holding unmanageable feelings KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=7",
   "source": "kotatsu.js"
@@ -8848,7 +8848,7 @@ window.SONG_DATA.push(
     {
   "title": "生きてることが辛いなら",
   "artist": "森山直太朗",
-  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸singing clip】[2026-07-22] Sleep・Work stream｜A night of holding unmanageable feelings KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=8",
   "source": "kotatsu.js"
@@ -8856,7 +8856,7 @@ window.SONG_DATA.push(
     {
   "title": "エンドレス・サマー",
   "artist": "NEWS",
-  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸singing clip】[2026-07-22] Sleep・Work stream｜A night of holding unmanageable feelings KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=9",
   "source": "kotatsu.js"
@@ -8864,7 +8864,7 @@ window.SONG_DATA.push(
     {
   "title": "Namidairo",
   "artist": "YUI",
-  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸singing clip】[2026-07-22] Sleep・Work stream｜A night of holding unmanageable feelings KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=10",
   "source": "kotatsu.js"
@@ -8872,7 +8872,7 @@ window.SONG_DATA.push(
     {
   "title": "決意の朝に",
   "artist": "Aqua Timez",
-  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸singing clip】[2026-07-22] Sleep・Work stream｜A night of holding unmanageable feelings KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=11",
   "source": "kotatsu.js"
@@ -8880,7 +8880,7 @@ window.SONG_DATA.push(
     {
   "title": "死にたい夜には",
   "artist": "はるこたつぶとん倶楽部",
-  "collection": "【♣️🎸歌切】[2026-07-22]睡眠・工作用直播｜怀抱难以排遣之情的夜晚 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸singing clip】[2026-07-22] Sleep・Work stream｜A night of holding unmanageable feelings KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uwgm6kELj?p=12",
   "source": "kotatsu.js"
@@ -8888,7 +8888,7 @@ window.SONG_DATA.push(
     {
   "title": "さっきはごめんね、ありがとう",
   "artist": "クリープハイプ",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=1",
   "source": "kotatsu.js"
@@ -8896,7 +8896,7 @@ window.SONG_DATA.push(
     {
   "title": "Sunrise&Sunset",
   "artist": "andymori",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=2",
   "source": "kotatsu.js"
@@ -8904,7 +8904,7 @@ window.SONG_DATA.push(
     {
   "title": "Just Be Friends",
   "artist": "Dixie Flatline feat.巡音ルカ",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=3",
   "source": "kotatsu.js"
@@ -8912,7 +8912,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか!",
   "artist": "米津玄師",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=4",
   "source": "kotatsu.js"
@@ -8920,7 +8920,7 @@ window.SONG_DATA.push(
     {
   "title": "うみ",
   "artist": "童謡",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=5",
   "source": "kotatsu.js"
@@ -8928,7 +8928,7 @@ window.SONG_DATA.push(
     {
   "title": "マニフェスト",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=6",
   "source": "kotatsu.js"
@@ -8936,7 +8936,7 @@ window.SONG_DATA.push(
     {
   "title": "ロングホープ・フィリア",
   "artist": "菅田将暉",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=7",
   "source": "kotatsu.js"
@@ -8944,7 +8944,7 @@ window.SONG_DATA.push(
     {
   "title": "さよなら人類",
   "artist": "たま",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=8",
   "source": "kotatsu.js"
@@ -8952,7 +8952,7 @@ window.SONG_DATA.push(
     {
   "title": "国語",
   "artist": "ハンバートハンバート",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=9",
   "source": "kotatsu.js"
@@ -8960,7 +8960,7 @@ window.SONG_DATA.push(
     {
   "title": "家族の風景",
   "artist": "ハナレグミ",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=10",
   "source": "kotatsu.js"
@@ -8968,7 +8968,7 @@ window.SONG_DATA.push(
     {
   "title": "Burning Friday Night",
   "artist": "Lucky Kilimanjaro",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=11",
   "source": "kotatsu.js"
@@ -8976,7 +8976,7 @@ window.SONG_DATA.push(
     {
   "title": "僕が僕であるために",
   "artist": "尾崎豊",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=12",
   "source": "kotatsu.js"
@@ -8984,7 +8984,7 @@ window.SONG_DATA.push(
     {
   "title": "YUME日和",
   "artist": "島谷ひとみ",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=13",
   "source": "kotatsu.js"
@@ -8992,7 +8992,7 @@ window.SONG_DATA.push(
     {
   "title": "以心伝心",
   "artist": "19",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=14",
   "source": "kotatsu.js"
@@ -9000,7 +9000,7 @@ window.SONG_DATA.push(
     {
   "title": "愛してやまない音楽を",
   "artist": "andymori",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=15",
   "source": "kotatsu.js"
@@ -9008,7 +9008,7 @@ window.SONG_DATA.push(
     {
   "title": "俺色スカイ",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=16",
   "source": "kotatsu.js"
@@ -9016,7 +9016,7 @@ window.SONG_DATA.push(
     {
   "title": "青い空",
   "artist": "andymori",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=17",
   "source": "kotatsu.js"
@@ -9024,7 +9024,7 @@ window.SONG_DATA.push(
     {
   "title": "青い空",
   "artist": "andymori",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=18",
   "source": "kotatsu.js"
@@ -9032,7 +9032,7 @@ window.SONG_DATA.push(
     {
   "title": "案山子",
   "artist": "さだまさし",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=19",
   "source": "kotatsu.js"
@@ -9040,7 +9040,7 @@ window.SONG_DATA.push(
     {
   "title": "からくりピエロ",
   "artist": "40メートルP",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=20",
   "source": "kotatsu.js"
@@ -9048,7 +9048,7 @@ window.SONG_DATA.push(
     {
   "title": "遠い匂い",
   "artist": "YO-KING",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=21",
   "source": "kotatsu.js"
@@ -9056,7 +9056,7 @@ window.SONG_DATA.push(
     {
   "title": "結婚しようよ",
   "artist": "吉田拓郎",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=22",
   "source": "kotatsu.js"
@@ -9064,7 +9064,7 @@ window.SONG_DATA.push(
     {
   "title": "ゴーゴー幽霊船",
   "artist": "米津玄師",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=23",
   "source": "kotatsu.js"
@@ -9072,7 +9072,7 @@ window.SONG_DATA.push(
     {
   "title": "オラはにんきもの",
   "artist": "矢島晶子",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=24",
   "source": "kotatsu.js"
@@ -9080,7 +9080,7 @@ window.SONG_DATA.push(
     {
   "title": "フライングゲット",
   "artist": "AKB48",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=25",
   "source": "kotatsu.js"
@@ -9088,7 +9088,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛裁判",
   "artist": "40mP feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=26",
   "source": "kotatsu.js"
@@ -9096,7 +9096,7 @@ window.SONG_DATA.push(
     {
   "title": "時をかけるメロディー",
   "artist": "小山田荘平",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=27",
   "source": "kotatsu.js"
@@ -9104,7 +9104,7 @@ window.SONG_DATA.push(
     {
   "title": "ハッピーウェディング前ソング",
   "artist": "ヤバイTシャツ屋",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=28",
   "source": "kotatsu.js"
@@ -9112,7 +9112,7 @@ window.SONG_DATA.push(
     {
   "title": "シュガーソングとビターステップ",
   "artist": "UNISON SQUARE GARDEN",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=29",
   "source": "kotatsu.js"
@@ -9120,7 +9120,7 @@ window.SONG_DATA.push(
     {
   "title": "USA🇺🇸",
   "artist": "DA PUMP",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=30",
   "source": "kotatsu.js"
@@ -9128,7 +9128,7 @@ window.SONG_DATA.push(
     {
   "title": "人として",
   "artist": "SUPER BEAVER",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=31",
   "source": "kotatsu.js"
@@ -9136,7 +9136,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ",
   "artist": "はるこたつぶとん倶楽部",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=32",
   "source": "kotatsu.js"
@@ -9144,7 +9144,7 @@ window.SONG_DATA.push(
     {
   "title": "ウェンディの本質",
   "artist": "はるこたつぶとん倶楽部",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=33",
   "source": "kotatsu.js"
@@ -9152,7 +9152,7 @@ window.SONG_DATA.push(
     {
   "title": "曲名のないオリジナル",
   "artist": "KOTATSU Ch.はるこたつぶとん倶楽部",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=34",
   "source": "kotatsu.js"
@@ -9160,7 +9160,7 @@ window.SONG_DATA.push(
     {
   "title": "木蘭の涙",
   "artist": "Stardust Revue",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=35",
   "source": "kotatsu.js"
@@ -9168,7 +9168,7 @@ window.SONG_DATA.push(
     {
   "title": "バラ色の日々",
   "artist": "MOROHA",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=36",
   "source": "kotatsu.js"
@@ -9176,7 +9176,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=37",
   "source": "kotatsu.js"
@@ -9184,7 +9184,7 @@ window.SONG_DATA.push(
     {
   "title": "無題",
   "artist": "amazarashi",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=38",
   "source": "kotatsu.js"
@@ -9192,7 +9192,7 @@ window.SONG_DATA.push(
     {
   "title": "たしかなこと",
   "artist": "小田和正",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=39",
   "source": "kotatsu.js"
@@ -9200,7 +9200,7 @@ window.SONG_DATA.push(
     {
   "title": "それがあなたの幸せだとしても",
   "artist": "Heavenz feat.巡音ルカ",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=40",
   "source": "kotatsu.js"
@@ -9208,7 +9208,7 @@ window.SONG_DATA.push(
     {
   "title": "ハチスは夏に背を向けて",
   "artist": "メル feat.IA",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=41",
   "source": "kotatsu.js"
@@ -9216,7 +9216,7 @@ window.SONG_DATA.push(
     {
   "title": "情熱の薔薇",
   "artist": "THE BLUE HEARTS",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=42",
   "source": "kotatsu.js"
@@ -9224,7 +9224,7 @@ window.SONG_DATA.push(
     {
   "title": "さようなら、花泥棒さん",
   "artist": "メル feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=43",
   "source": "kotatsu.js"
@@ -9232,7 +9232,7 @@ window.SONG_DATA.push(
     {
   "title": "家に帰ると妻が必ず死んだふりをしています。",
   "artist": "ほぼ日P feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=44",
   "source": "kotatsu.js"
@@ -9240,7 +9240,7 @@ window.SONG_DATA.push(
     {
   "title": "やどかり",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=45",
   "source": "kotatsu.js"
@@ -9248,7 +9248,7 @@ window.SONG_DATA.push(
     {
   "title": "ピノ",
   "artist": "ズーカラデル",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=46",
   "source": "kotatsu.js"
@@ -9256,7 +9256,7 @@ window.SONG_DATA.push(
     {
   "title": "オシャレ大作戦",
   "artist": "ネクライトーキー",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=47",
   "source": "kotatsu.js"
@@ -9264,7 +9264,7 @@ window.SONG_DATA.push(
     {
   "title": "Tomorrow",
   "artist": "岡本真夜",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=48",
   "source": "kotatsu.js"
@@ -9272,7 +9272,7 @@ window.SONG_DATA.push(
     {
   "title": "蛍の光",
   "artist": "童謡",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=49",
   "source": "kotatsu.js"
@@ -9280,7 +9280,7 @@ window.SONG_DATA.push(
     {
   "title": "めだかの学校",
   "artist": "童謡",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=50",
   "source": "kotatsu.js"
@@ -9288,7 +9288,7 @@ window.SONG_DATA.push(
     {
   "title": "オー・シャンゼリゼ",
   "artist": "ダニエル・ビダル",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=51",
   "source": "kotatsu.js"
@@ -9296,7 +9296,7 @@ window.SONG_DATA.push(
     {
   "title": "オワラセナイト",
   "artist": "フレデリック",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=52",
   "source": "kotatsu.js"
@@ -9304,7 +9304,7 @@ window.SONG_DATA.push(
     {
   "title": "水流のロック",
   "artist": "日食なつこ",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=53",
   "source": "kotatsu.js"
@@ -9312,7 +9312,7 @@ window.SONG_DATA.push(
     {
   "title": "遠い君へ",
   "artist": "はるこたつぶとん倶楽部",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=54",
   "source": "kotatsu.js"
@@ -9320,7 +9320,7 @@ window.SONG_DATA.push(
     {
   "title": "トリセツ",
   "artist": "西野カナ",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=55",
   "source": "kotatsu.js"
@@ -9328,7 +9328,7 @@ window.SONG_DATA.push(
     {
   "title": "あんなつぁ",
   "artist": "浪漫革命",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=56",
   "source": "kotatsu.js"
@@ -9336,7 +9336,7 @@ window.SONG_DATA.push(
     {
   "title": "手のひらを太陽に",
   "artist": "童謡",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=57",
   "source": "kotatsu.js"
@@ -9344,7 +9344,7 @@ window.SONG_DATA.push(
     {
   "title": "春",
   "artist": "はるこたつぶとん倶楽部",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=58",
   "source": "kotatsu.js"
@@ -9352,7 +9352,7 @@ window.SONG_DATA.push(
     {
   "title": "パッと咲いて散って灰に",
   "artist": "Creepy Nuts",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=59",
   "source": "kotatsu.js"
@@ -9360,7 +9360,7 @@ window.SONG_DATA.push(
     {
   "title": "勇気りんりん",
   "artist": "ドリーミング",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=60",
   "source": "kotatsu.js"
@@ -9368,7 +9368,7 @@ window.SONG_DATA.push(
     {
   "title": "RAIN",
   "artist": "SEKAI NO OWARI",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=61",
   "source": "kotatsu.js"
@@ -9376,7 +9376,7 @@ window.SONG_DATA.push(
     {
   "title": "ジェニファー山田さん",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=62",
   "source": "kotatsu.js"
@@ -9384,7 +9384,7 @@ window.SONG_DATA.push(
     {
   "title": "ともだちになるために",
   "artist": "童謡",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=63",
   "source": "kotatsu.js"
@@ -9392,7 +9392,7 @@ window.SONG_DATA.push(
     {
   "title": "デブの戯言",
   "artist": "はるこたつぶとん倶楽部",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=64",
   "source": "kotatsu.js"
@@ -9400,7 +9400,7 @@ window.SONG_DATA.push(
     {
   "title": "君の知らない物語",
   "artist": "supercell",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=65",
   "source": "kotatsu.js"
@@ -9408,7 +9408,7 @@ window.SONG_DATA.push(
     {
   "title": "鎖の少女",
   "artist": "のぼる↑ feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=66",
   "source": "kotatsu.js"
@@ -9416,7 +9416,7 @@ window.SONG_DATA.push(
     {
   "title": "いいんですか?",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=67",
   "source": "kotatsu.js"
@@ -9424,7 +9424,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=68",
   "source": "kotatsu.js"
@@ -9432,7 +9432,7 @@ window.SONG_DATA.push(
     {
   "title": "五月雨",
   "artist": "崎山蒼志",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=69",
   "source": "kotatsu.js"
@@ -9440,7 +9440,7 @@ window.SONG_DATA.push(
     {
   "title": "社会のゴミカザマタカフミ",
   "artist": "3markets[ ]",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=70",
   "source": "kotatsu.js"
@@ -9448,7 +9448,7 @@ window.SONG_DATA.push(
     {
   "title": "桃太郎",
   "artist": "水曜日のカンパネラ",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=71",
   "source": "kotatsu.js"
@@ -9456,7 +9456,7 @@ window.SONG_DATA.push(
     {
   "title": "サヨナラCOLOR",
   "artist": "SUPER BUTTER DOG",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=72",
   "source": "kotatsu.js"
@@ -9464,7 +9464,7 @@ window.SONG_DATA.push(
     {
   "title": "吉原ラメント",
   "artist": "亜沙 feat.重音テト",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=73",
   "source": "kotatsu.js"
@@ -9472,7 +9472,7 @@ window.SONG_DATA.push(
     {
   "title": "眼福",
   "artist": "米津玄師",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=74",
   "source": "kotatsu.js"
@@ -9480,7 +9480,7 @@ window.SONG_DATA.push(
     {
   "title": "ルバート",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=75",
   "source": "kotatsu.js"
@@ -9488,7 +9488,7 @@ window.SONG_DATA.push(
     {
   "title": "夜紛い",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=76",
   "source": "kotatsu.js"
@@ -9496,7 +9496,7 @@ window.SONG_DATA.push(
     {
   "title": "生きていたんだよな",
   "artist": "あいみょん",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=77",
   "source": "kotatsu.js"
@@ -9504,7 +9504,7 @@ window.SONG_DATA.push(
     {
   "title": "カヌレ",
   "artist": "はるこたつぶとん倶楽部",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=78",
   "source": "kotatsu.js"
@@ -9512,7 +9512,7 @@ window.SONG_DATA.push(
     {
   "title": "ひとつ",
   "artist": "はるこたつぶとん倶楽部",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=79",
   "source": "kotatsu.js"
@@ -9520,7 +9520,7 @@ window.SONG_DATA.push(
     {
   "title": "One more time, One more chance",
   "artist": "山崎まさよし",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=80",
   "source": "kotatsu.js"
@@ -9528,7 +9528,7 @@ window.SONG_DATA.push(
     {
   "title": "デイ・ドリーム・ビリーバー",
   "artist": "THE TIMERS",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=81",
   "source": "kotatsu.js"
@@ -9536,7 +9536,7 @@ window.SONG_DATA.push(
     {
   "title": "強い気持ち・強い愛",
   "artist": "小沢健二",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=82",
   "source": "kotatsu.js"
@@ -9544,7 +9544,7 @@ window.SONG_DATA.push(
     {
   "title": "ドライフラワー",
   "artist": "優里",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=83",
   "source": "kotatsu.js"
@@ -9552,7 +9552,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=84",
   "source": "kotatsu.js"
@@ -9560,7 +9560,7 @@ window.SONG_DATA.push(
     {
   "title": "車輪の唄",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=85",
   "source": "kotatsu.js"
@@ -9568,7 +9568,7 @@ window.SONG_DATA.push(
     {
   "title": "マリーゴールド",
   "artist": "あいみょん",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=86",
   "source": "kotatsu.js"
@@ -9576,7 +9576,7 @@ window.SONG_DATA.push(
     {
   "title": "雛市",
   "artist": "女王蜂",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=87",
   "source": "kotatsu.js"
@@ -9584,7 +9584,7 @@ window.SONG_DATA.push(
     {
   "title": "少年時代",
   "artist": "井上陽水",
-  "collection": "【♣️🎸歌切】[2026-07-23]睡眠·工作用直播｜在晚霞漫长的日暮时分 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Clip】[2026-07-23] Sleep/Work Livestream｜In the long twilight of dusk KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kM3L6GEbG?p=88",
   "source": "kotatsu.js"
@@ -9592,7 +9592,7 @@ window.SONG_DATA.push(
     {
   "title": "Sunrise&Sunset",
   "artist": "andymori",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=1",
   "source": "kotatsu.js"
@@ -9600,7 +9600,7 @@ window.SONG_DATA.push(
     {
   "title": "空も飛べるはず",
   "artist": "スピッツ",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=2",
   "source": "kotatsu.js"
@@ -9608,7 +9608,7 @@ window.SONG_DATA.push(
     {
   "title": "HOME",
   "artist": "古川本舗",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=3",
   "source": "kotatsu.js"
@@ -9616,7 +9616,7 @@ window.SONG_DATA.push(
     {
   "title": "藍二乗",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=4",
   "source": "kotatsu.js"
@@ -9624,7 +9624,7 @@ window.SONG_DATA.push(
     {
   "title": "はじめてのチュウ",
   "artist": "あんしんパパ",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=5",
   "source": "kotatsu.js"
@@ -9632,7 +9632,7 @@ window.SONG_DATA.push(
     {
   "title": "街",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=6",
   "source": "kotatsu.js"
@@ -9640,7 +9640,7 @@ window.SONG_DATA.push(
     {
   "title": "napori",
   "artist": "Vaundy",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=7",
   "source": "kotatsu.js"
@@ -9648,7 +9648,7 @@ window.SONG_DATA.push(
     {
   "title": "ほはば",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=8",
   "source": "kotatsu.js"
@@ -9656,7 +9656,7 @@ window.SONG_DATA.push(
     {
   "title": "病名恋ワズライ",
   "artist": "HoneyWorks feat.GUMI",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=9",
   "source": "kotatsu.js"
@@ -9664,7 +9664,7 @@ window.SONG_DATA.push(
     {
   "title": "クロノスタシス",
   "artist": "きのこ帝国",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=10",
   "source": "kotatsu.js"
@@ -9672,7 +9672,7 @@ window.SONG_DATA.push(
     {
   "title": "夏の頃",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=11",
   "source": "kotatsu.js"
@@ -9680,7 +9680,7 @@ window.SONG_DATA.push(
     {
   "title": "「ずっと大好きだよ」「ほんと？…」",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=12",
   "source": "kotatsu.js"
@@ -9688,7 +9688,7 @@ window.SONG_DATA.push(
     {
   "title": "僕に彼女ができたんだ",
   "artist": "SHISHAMO",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=13",
   "source": "kotatsu.js"
@@ -9696,7 +9696,7 @@ window.SONG_DATA.push(
     {
   "title": "卒業",
   "artist": "My Hair is Bad",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=14",
   "source": "kotatsu.js"
@@ -9704,7 +9704,7 @@ window.SONG_DATA.push(
     {
   "title": "グッバイ来世でまた会おう",
   "artist": "インナージャーニー",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=15",
   "source": "kotatsu.js"
@@ -9712,7 +9712,7 @@ window.SONG_DATA.push(
     {
   "title": "時には昔の話を",
   "artist": "加藤登紀子",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=16",
   "source": "kotatsu.js"
@@ -9720,7 +9720,7 @@ window.SONG_DATA.push(
     {
   "title": "カントリーロード",
   "artist": "本名陽子",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=17",
   "source": "kotatsu.js"
@@ -9728,7 +9728,7 @@ window.SONG_DATA.push(
     {
   "title": "Bling-Bang-Bang-Born",
   "artist": "Creepy Nuts",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=18",
   "source": "kotatsu.js"
@@ -9736,7 +9736,7 @@ window.SONG_DATA.push(
     {
   "title": "まっさら",
   "artist": "amazarashi",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=19",
   "source": "kotatsu.js"
@@ -9744,7 +9744,7 @@ window.SONG_DATA.push(
     {
   "title": "時の歌",
   "artist": "手嶌葵",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=20",
   "source": "kotatsu.js"
@@ -9752,7 +9752,7 @@ window.SONG_DATA.push(
     {
   "title": "高嶺の花子さん",
   "artist": "back number",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=21",
   "source": "kotatsu.js"
@@ -9760,7 +9760,7 @@ window.SONG_DATA.push(
     {
   "title": "ラフ・メイカー",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=22",
   "source": "kotatsu.js"
@@ -9768,7 +9768,7 @@ window.SONG_DATA.push(
     {
   "title": "BLUE BIRD",
   "artist": "浜崎あゆみ",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=23",
   "source": "kotatsu.js"
@@ -9776,7 +9776,7 @@ window.SONG_DATA.push(
     {
   "title": "ゆるふわ樹海ガール",
   "artist": "石風呂P feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=24",
   "source": "kotatsu.js"
@@ -9784,7 +9784,7 @@ window.SONG_DATA.push(
     {
   "title": "終わらない歌",
   "artist": "THE BLUE HEARTS",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=25",
   "source": "kotatsu.js"
@@ -9792,7 +9792,7 @@ window.SONG_DATA.push(
     {
   "title": "一人暮らし",
   "artist": "高橋優",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=26",
   "source": "kotatsu.js"
@@ -9800,7 +9800,7 @@ window.SONG_DATA.push(
     {
   "title": "The Beast.",
   "artist": "スペクタクルP feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=27",
   "source": "kotatsu.js"
@@ -9808,7 +9808,7 @@ window.SONG_DATA.push(
     {
   "title": "ひとつ",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=28",
   "source": "kotatsu.js"
@@ -9816,7 +9816,7 @@ window.SONG_DATA.push(
     {
   "title": "オー・シャンゼリゼ",
   "artist": "ダニエル・ビダル",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=29",
   "source": "kotatsu.js"
@@ -9824,7 +9824,7 @@ window.SONG_DATA.push(
     {
   "title": "秘蜜〜黒の誓い〜",
   "artist": "ひとしずくP feat.鏡音リン・鏡音レン",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=30",
   "source": "kotatsu.js"
@@ -9832,7 +9832,7 @@ window.SONG_DATA.push(
     {
   "title": "神様、",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=31",
   "source": "kotatsu.js"
@@ -9840,7 +9840,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=32",
   "source": "kotatsu.js"
@@ -9848,7 +9848,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならはエモーション",
   "artist": "サカナクション",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=33",
   "source": "kotatsu.js"
@@ -9856,7 +9856,7 @@ window.SONG_DATA.push(
     {
   "title": "俺色スカイ",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=34",
   "source": "kotatsu.js"
@@ -9864,7 +9864,7 @@ window.SONG_DATA.push(
     {
   "title": "今宵の月のように",
   "artist": "エレファントカシマシ",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=35",
   "source": "kotatsu.js"
@@ -9872,7 +9872,7 @@ window.SONG_DATA.push(
     {
   "title": "ココロジェリーフィッシュ",
   "artist": "ヒグチアイ",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=36",
   "source": "kotatsu.js"
@@ -9880,7 +9880,7 @@ window.SONG_DATA.push(
     {
   "title": "Rain",
   "artist": "大江千里",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=37",
   "source": "kotatsu.js"
@@ -9888,7 +9888,7 @@ window.SONG_DATA.push(
     {
   "title": "幕無し",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-07-27]睡眠·工作用直播｜7月末尾 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cover】[2026-07-27] Sleep/Work Livestream | End of July KOTATSU Ch. Haru Kotatsu Futon Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PM366JENL?p=38",
   "source": "kotatsu.js"
@@ -9896,7 +9896,7 @@ window.SONG_DATA.push(
     {
   "title": "投げKISSをあげるよ",
   "artist": "andymori",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=1",
   "source": "kotatsu.js"
@@ -9904,7 +9904,7 @@ window.SONG_DATA.push(
     {
   "title": "ハレルヤ",
   "artist": "amazarashi",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=2",
   "source": "kotatsu.js"
@@ -9912,7 +9912,7 @@ window.SONG_DATA.push(
     {
   "title": "明るい未来",
   "artist": "never young beach",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=3",
   "source": "kotatsu.js"
@@ -9920,7 +9920,7 @@ window.SONG_DATA.push(
     {
   "title": "トレモロ",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=4",
   "source": "kotatsu.js"
@@ -9928,7 +9928,7 @@ window.SONG_DATA.push(
     {
   "title": "素晴らしき今日の始まり",
   "artist": "GOOD ON THE REEL",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=5",
   "source": "kotatsu.js"
@@ -9936,7 +9936,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒッチコック",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=6",
   "source": "kotatsu.js"
@@ -9944,7 +9944,7 @@ window.SONG_DATA.push(
     {
   "title": "大丈夫",
   "artist": "クリープハイプ",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=7",
   "source": "kotatsu.js"
@@ -9952,7 +9952,7 @@ window.SONG_DATA.push(
     {
   "title": "私生活",
   "artist": "東京事変",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=8",
   "source": "kotatsu.js"
@@ -9960,7 +9960,7 @@ window.SONG_DATA.push(
     {
   "title": "私生活",
   "artist": "東京事変",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=9",
   "source": "kotatsu.js"
@@ -9968,7 +9968,7 @@ window.SONG_DATA.push(
     {
   "title": "明日はきっといい日になる",
   "artist": "高橋優",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=10",
   "source": "kotatsu.js"
@@ -9976,7 +9976,7 @@ window.SONG_DATA.push(
     {
   "title": "いつくしみ深き",
   "artist": "Charles C. Converse",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=11",
   "source": "kotatsu.js"
@@ -9984,7 +9984,7 @@ window.SONG_DATA.push(
     {
   "title": "僕のともだち",
   "artist": "コレサワ",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=12",
   "source": "kotatsu.js"
@@ -9992,7 +9992,7 @@ window.SONG_DATA.push(
     {
   "title": "カサブタ",
   "artist": "千綿ヒデノリ",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=13",
   "source": "kotatsu.js"
@@ -10000,7 +10000,7 @@ window.SONG_DATA.push(
     {
   "title": "明日への扉",
   "artist": "I WiSH",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=14",
   "source": "kotatsu.js"
@@ -10008,7 +10008,7 @@ window.SONG_DATA.push(
     {
   "title": "Peace",
   "artist": "andymori",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=15",
   "source": "kotatsu.js"
@@ -10016,7 +10016,7 @@ window.SONG_DATA.push(
     {
   "title": "深呼吸",
   "artist": "ハナレグミ",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=16",
   "source": "kotatsu.js"
@@ -10024,7 +10024,7 @@ window.SONG_DATA.push(
     {
   "title": "さよーならまたいつか!",
   "artist": "米津玄師",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=17",
   "source": "kotatsu.js"
@@ -10032,7 +10032,7 @@ window.SONG_DATA.push(
     {
   "title": "案山子",
   "artist": "さだまさし",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=18",
   "source": "kotatsu.js"
@@ -10040,7 +10040,7 @@ window.SONG_DATA.push(
     {
   "title": "勇気りんりん",
   "artist": "ドリーミング",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=19",
   "source": "kotatsu.js"
@@ -10048,7 +10048,7 @@ window.SONG_DATA.push(
     {
   "title": "爆弾魔",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=20",
   "source": "kotatsu.js"
@@ -10056,7 +10056,7 @@ window.SONG_DATA.push(
     {
   "title": "轍-わだち",
   "artist": "コブクロ",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=21",
   "source": "kotatsu.js"
@@ -10064,7 +10064,7 @@ window.SONG_DATA.push(
     {
   "title": "ニーナ",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=22",
   "source": "kotatsu.js"
@@ -10072,7 +10072,7 @@ window.SONG_DATA.push(
     {
   "title": "スパークル",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=23",
   "source": "kotatsu.js"
@@ -10080,7 +10080,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならを言いに",
   "artist": "はるこたつぶとん倶楽部",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=24",
   "source": "kotatsu.js"
@@ -10088,7 +10088,7 @@ window.SONG_DATA.push(
     {
   "title": "いつか",
   "artist": "はるこたつぶとん倶楽部",
-  "collection": "【♣️🎸歌切】[2026-07-29]睡眠・工作用直播｜在黎明前，如祈祷般编织歌声 KOTATSU Ch.はる こたつぶとん倶楽部",
+  "collection": "【♣️🎸Song Cut】[2026-07-29] Sleep・Work Live｜Before dawn, weaving songs like prayers KOTATSU Ch. Haru Kotatsubuton Club",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1y93k6xEDz?p=25",
   "source": "kotatsu.js"
@@ -10096,7 +10096,7 @@ window.SONG_DATA.push(
     {
   "title": "笑ったり転んだり",
   "artist": "ハンバート ハンバート",
-  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "collection": "[♣️🎸Song Cut] [2026-08-01] Sleep・Work Live Stream: End of July, Open Window",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=1",
   "source": "kotatsu.js"
@@ -10104,7 +10104,7 @@ window.SONG_DATA.push(
     {
   "title": "暗闇坂むささび変化",
   "artist": "はっぴいえんど",
-  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "collection": "[♣️🎸Song Cut] [2026-08-01] Sleep・Work Live Stream: End of July, Open Window",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=2",
   "source": "kotatsu.js"
@@ -10112,7 +10112,7 @@ window.SONG_DATA.push(
     {
   "title": "おじゃま虫",
   "artist": "DECO*27 feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "collection": "[♣️🎸Song Cut] [2026-08-01] Sleep・Work Live Stream: End of July, Open Window",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=3",
   "source": "kotatsu.js"
@@ -10120,7 +10120,7 @@ window.SONG_DATA.push(
     {
   "title": "新・俺よ届け",
   "artist": "忘れらんねえよ",
-  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "collection": "[♣️🎸Song Cut] [2026-08-01] Sleep・Work Live Stream: End of July, Open Window",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=4",
   "source": "kotatsu.js"
@@ -10128,7 +10128,7 @@ window.SONG_DATA.push(
     {
   "title": "Rain",
   "artist": "大江千里",
-  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "collection": "[♣️🎸Song Cut] [2026-08-01] Sleep・Work Live Stream: End of July, Open Window",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=5",
   "source": "kotatsu.js"
@@ -10136,7 +10136,7 @@ window.SONG_DATA.push(
     {
   "title": "もう柔らかいおっぱいのことしか考えたくない",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "collection": "[♣️🎸Song Cut] [2026-08-01] Sleep・Work Live Stream: End of July, Open Window",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=6",
   "source": "kotatsu.js"
@@ -10144,7 +10144,7 @@ window.SONG_DATA.push(
     {
   "title": "エピゴウネ",
   "artist": "日食なつこ",
-  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "collection": "[♣️🎸Song Cut] [2026-08-01] Sleep・Work Live Stream: End of July, Open Window",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=7",
   "source": "kotatsu.js"
@@ -10152,7 +10152,7 @@ window.SONG_DATA.push(
     {
   "title": "もしも僕に",
   "artist": "関取花",
-  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "collection": "[♣️🎸Song Cut] [2026-08-01] Sleep・Work Live Stream: End of July, Open Window",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=8",
   "source": "kotatsu.js"
@@ -10160,7 +10160,7 @@ window.SONG_DATA.push(
     {
   "title": "Wherever you are",
   "artist": "ONE OK ROCK",
-  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "collection": "[♣️🎸Song Cut] [2026-08-01] Sleep・Work Live Stream: End of July, Open Window",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=9",
   "source": "kotatsu.js"
@@ -10168,7 +10168,7 @@ window.SONG_DATA.push(
     {
   "title": "青と夏",
   "artist": "Mrs. GREEN APPLE",
-  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "collection": "[♣️🎸Song Cut] [2026-08-01] Sleep・Work Live Stream: End of July, Open Window",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=10",
   "source": "kotatsu.js"
@@ -10176,7 +10176,7 @@ window.SONG_DATA.push(
     {
   "title": "手と手",
   "artist": "クリープハイプ",
-  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "collection": "[♣️🎸Song Cut] [2026-08-01] Sleep・Work Live Stream: End of July, Open Window",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=11",
   "source": "kotatsu.js"
@@ -10184,7 +10184,7 @@ window.SONG_DATA.push(
     {
   "title": "ラブソング",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "collection": "[♣️🎸Song Cut] [2026-08-01] Sleep・Work Live Stream: End of July, Open Window",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=12",
   "source": "kotatsu.js"
@@ -10192,7 +10192,7 @@ window.SONG_DATA.push(
     {
   "title": "エンディング",
   "artist": "back number",
-  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "collection": "[♣️🎸Song Cut] [2026-08-01] Sleep・Work Live Stream: End of July, Open Window",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=13",
   "source": "kotatsu.js"
@@ -10200,7 +10200,7 @@ window.SONG_DATA.push(
     {
   "title": "オー・シャンゼリゼ",
   "artist": "Joe Dassin",
-  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "collection": "[♣️🎸Song Cut] [2026-08-01] Sleep・Work Live Stream: End of July, Open Window",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=14",
   "source": "kotatsu.js"
@@ -10208,7 +10208,7 @@ window.SONG_DATA.push(
     {
   "title": "アルバイター、無名",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "collection": "[♣️🎸Song Cut] [2026-08-01] Sleep・Work Live Stream: End of July, Open Window",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=15",
   "source": "kotatsu.js"
@@ -10216,7 +10216,7 @@ window.SONG_DATA.push(
     {
   "title": "春",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-01]睡眠・工作用直播：7月末，敞开的窗",
+  "collection": "[♣️🎸Song Cut] [2026-08-01] Sleep・Work Live Stream: End of July, Open Window",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1uG3U6UEhk?p=16",
   "source": "kotatsu.js"
@@ -10224,7 +10224,7 @@ window.SONG_DATA.push(
     {
   "title": "もしも「みんな一緒に」バージョン",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=1",
   "source": "kotatsu.js"
@@ -10232,7 +10232,7 @@ window.SONG_DATA.push(
     {
   "title": "岬",
   "artist": "ハンバート ハンバート",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=2",
   "source": "kotatsu.js"
@@ -10240,7 +10240,7 @@ window.SONG_DATA.push(
     {
   "title": "火星人",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=3",
   "source": "kotatsu.js"
@@ -10248,7 +10248,7 @@ window.SONG_DATA.push(
     {
   "title": "風をあつめて",
   "artist": "はっぴいえんど",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=4",
   "source": "kotatsu.js"
@@ -10256,7 +10256,7 @@ window.SONG_DATA.push(
     {
   "title": "青空",
   "artist": "THE BLUE HEARTS",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=5",
   "source": "kotatsu.js"
@@ -10264,7 +10264,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=6",
   "source": "kotatsu.js"
@@ -10272,7 +10272,7 @@ window.SONG_DATA.push(
     {
   "title": "車輪の唄",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=7",
   "source": "kotatsu.js"
@@ -10280,7 +10280,7 @@ window.SONG_DATA.push(
     {
   "title": "世界の約束",
   "artist": "倍賞千恵子",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=8",
   "source": "kotatsu.js"
@@ -10288,7 +10288,7 @@ window.SONG_DATA.push(
     {
   "title": "月まで",
   "artist": "Hump Back",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=9",
   "source": "kotatsu.js"
@@ -10296,7 +10296,7 @@ window.SONG_DATA.push(
     {
   "title": "悲しくてやりきれない",
   "artist": "ザ・フォーク・クルセダーズ",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=10",
   "source": "kotatsu.js"
@@ -10304,7 +10304,7 @@ window.SONG_DATA.push(
     {
   "title": "人間そっくり",
   "artist": "plenty",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=11",
   "source": "kotatsu.js"
@@ -10312,7 +10312,7 @@ window.SONG_DATA.push(
     {
   "title": "バンド",
   "artist": "クリープハイプ",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=12",
   "source": "kotatsu.js"
@@ -10320,7 +10320,7 @@ window.SONG_DATA.push(
     {
   "title": "ORANGE RIUM",
   "artist": "でんぱ組.inc",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=13",
   "source": "kotatsu.js"
@@ -10328,7 +10328,7 @@ window.SONG_DATA.push(
     {
   "title": "月明かりのように",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=14",
   "source": "kotatsu.js"
@@ -10336,7 +10336,7 @@ window.SONG_DATA.push(
     {
   "title": "アルバイター、無名",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=15",
   "source": "kotatsu.js"
@@ -10344,7 +10344,7 @@ window.SONG_DATA.push(
     {
   "title": "春",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=16",
   "source": "kotatsu.js"
@@ -10352,7 +10352,7 @@ window.SONG_DATA.push(
     {
   "title": "眼福",
   "artist": "米津玄師",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=17",
   "source": "kotatsu.js"
@@ -10360,7 +10360,7 @@ window.SONG_DATA.push(
     {
   "title": "ひとつ",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=18",
   "source": "kotatsu.js"
@@ -10368,7 +10368,7 @@ window.SONG_DATA.push(
     {
   "title": "はなれ、ばなれ",
   "artist": "古川本舗 feat.ばずぱんだ",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=19",
   "source": "kotatsu.js"
@@ -10376,7 +10376,7 @@ window.SONG_DATA.push(
     {
   "title": "壊れかけのRadio",
   "artist": "徳永英明",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=20",
   "source": "kotatsu.js"
@@ -10384,7 +10384,7 @@ window.SONG_DATA.push(
     {
   "title": "あんなつぁ",
   "artist": "浪漫革命",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=21",
   "source": "kotatsu.js"
@@ -10392,7 +10392,7 @@ window.SONG_DATA.push(
     {
   "title": "森の小さなレストラン",
   "artist": "手嶌葵",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=22",
   "source": "kotatsu.js"
@@ -10400,7 +10400,7 @@ window.SONG_DATA.push(
     {
   "title": "怪獣",
   "artist": "サカナクション",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=23",
   "source": "kotatsu.js"
@@ -10408,7 +10408,7 @@ window.SONG_DATA.push(
     {
   "title": "修羅",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=24",
   "source": "kotatsu.js"
@@ -10416,7 +10416,7 @@ window.SONG_DATA.push(
     {
   "title": "笑ったり転んだり",
   "artist": "ハンバート ハンバート",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=25",
   "source": "kotatsu.js"
@@ -10424,7 +10424,7 @@ window.SONG_DATA.push(
     {
   "title": "I LOVE YOU",
   "artist": "尾崎豊",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=26",
   "source": "kotatsu.js"
@@ -10432,7 +10432,7 @@ window.SONG_DATA.push(
     {
   "title": "赤とんぼ",
   "artist": "三木露風（作詞）／山田耕筰（作曲）",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=27",
   "source": "kotatsu.js"
@@ -10440,7 +10440,7 @@ window.SONG_DATA.push(
     {
   "title": "アイ",
   "artist": "秦基博",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=28",
   "source": "kotatsu.js"
@@ -10448,7 +10448,7 @@ window.SONG_DATA.push(
     {
   "title": "八月、某、月明かり",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=29",
   "source": "kotatsu.js"
@@ -10456,7 +10456,7 @@ window.SONG_DATA.push(
     {
   "title": "愛、テキサス",
   "artist": "山下智久",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=30",
   "source": "kotatsu.js"
@@ -10464,7 +10464,7 @@ window.SONG_DATA.push(
     {
   "title": "投げKISSをあげるよ",
   "artist": "andymori",
-  "collection": "【♣️🎸歌切】[2026-08-02]睡眠・工作用直播｜8月初，潮湿的夜晚",
+  "collection": "【♣️🎸Song Clip】[2026-08-02] Sleep・Work Live Stream｜Early August, humid night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1zKMf6QEz1?p=31",
   "source": "kotatsu.js"
@@ -10472,7 +10472,7 @@ window.SONG_DATA.push(
     {
   "title": "夢見月に何想ふ",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=1",
   "source": "kotatsu.js"
@@ -10480,7 +10480,7 @@ window.SONG_DATA.push(
     {
   "title": "なんでもないよ、",
   "artist": "マカロニえんぴつ",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=2",
   "source": "kotatsu.js"
@@ -10488,7 +10488,7 @@ window.SONG_DATA.push(
     {
   "title": "グレーマンのせいにする",
   "artist": "クリープハイプ",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=3",
   "source": "kotatsu.js"
@@ -10496,7 +10496,7 @@ window.SONG_DATA.push(
     {
   "title": "KING",
   "artist": "Kanaria feat.GUMI",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=4",
   "source": "kotatsu.js"
@@ -10504,7 +10504,7 @@ window.SONG_DATA.push(
     {
   "title": "Sunrise&Sunset",
   "artist": "andymori",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=5",
   "source": "kotatsu.js"
@@ -10512,7 +10512,7 @@ window.SONG_DATA.push(
     {
   "title": "ゴーゴー幽霊船",
   "artist": "米津玄師",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=6",
   "source": "kotatsu.js"
@@ -10520,7 +10520,7 @@ window.SONG_DATA.push(
     {
   "title": "日々",
   "artist": "吉田山田",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=7",
   "source": "kotatsu.js"
@@ -10528,7 +10528,7 @@ window.SONG_DATA.push(
     {
   "title": "Wherever you are",
   "artist": "ONE OK ROCK",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=8",
   "source": "kotatsu.js"
@@ -10536,7 +10536,7 @@ window.SONG_DATA.push(
     {
   "title": "エピゴウネ",
   "artist": "日食なつこ",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=9",
   "source": "kotatsu.js"
@@ -10544,7 +10544,7 @@ window.SONG_DATA.push(
     {
   "title": "虹",
   "artist": "二宮和也",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=10",
   "source": "kotatsu.js"
@@ -10552,7 +10552,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ",
   "artist": "はるこたつぶとん俱楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=11",
   "source": "kotatsu.js"
@@ -10560,7 +10560,7 @@ window.SONG_DATA.push(
     {
   "title": "命に嫌われている。",
   "artist": "カンザキイオリ feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=12",
   "source": "kotatsu.js"
@@ -10568,7 +10568,7 @@ window.SONG_DATA.push(
     {
   "title": "ハロ／ハワユ",
   "artist": "ナノウ feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=13",
   "source": "kotatsu.js"
@@ -10576,7 +10576,7 @@ window.SONG_DATA.push(
     {
   "title": "無名のオリジナル",
   "artist": "はるこたつぶとん俱楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=14",
   "source": "kotatsu.js"
@@ -10584,7 +10584,7 @@ window.SONG_DATA.push(
     {
   "title": "数え歌",
   "artist": "はるこたつぶとん俱楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=15",
   "source": "kotatsu.js"
@@ -10592,7 +10592,7 @@ window.SONG_DATA.push(
     {
   "title": "サムライハート(Some Like It Hot!!)",
   "artist": "SPYAIR",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=16",
   "source": "kotatsu.js"
@@ -10600,7 +10600,7 @@ window.SONG_DATA.push(
     {
   "title": "CHE.R.RY",
   "artist": "YUI",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=17",
   "source": "kotatsu.js"
@@ -10608,7 +10608,7 @@ window.SONG_DATA.push(
     {
   "title": "岬",
   "artist": "ハンバート ハンバート",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=18",
   "source": "kotatsu.js"
@@ -10616,7 +10616,7 @@ window.SONG_DATA.push(
     {
   "title": "ニーナ",
   "artist": "はるこたつぶとん俱楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=19",
   "source": "kotatsu.js"
@@ -10624,7 +10624,7 @@ window.SONG_DATA.push(
     {
   "title": "爆弾魔",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=20",
   "source": "kotatsu.js"
@@ -10632,7 +10632,7 @@ window.SONG_DATA.push(
     {
   "title": "夜行",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=21",
   "source": "kotatsu.js"
@@ -10640,7 +10640,7 @@ window.SONG_DATA.push(
     {
   "title": "涙そうそう",
   "artist": "夏川りみ",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=22",
   "source": "kotatsu.js"
@@ -10648,7 +10648,7 @@ window.SONG_DATA.push(
     {
   "title": "今日の日はさようなら",
   "artist": "森山良子",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=23",
   "source": "kotatsu.js"
@@ -10656,7 +10656,7 @@ window.SONG_DATA.push(
     {
   "title": "生きてることが辛いなら",
   "artist": "森山直太朗",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=24",
   "source": "kotatsu.js"
@@ -10664,7 +10664,7 @@ window.SONG_DATA.push(
     {
   "title": "壊れかけのRadio",
   "artist": "徳永英明",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=25",
   "source": "kotatsu.js"
@@ -10672,7 +10672,7 @@ window.SONG_DATA.push(
     {
   "title": "さよなら人類",
   "artist": "たま",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=26",
   "source": "kotatsu.js"
@@ -10680,7 +10680,7 @@ window.SONG_DATA.push(
     {
   "title": "またね",
   "artist": "ハンブレッダーズ",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=27",
   "source": "kotatsu.js"
@@ -10688,7 +10688,7 @@ window.SONG_DATA.push(
     {
   "title": "深呼吸",
   "artist": "ハナレグミ",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=28",
   "source": "kotatsu.js"
@@ -10696,7 +10696,7 @@ window.SONG_DATA.push(
     {
   "title": "napori",
   "artist": "Vaundy",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=29",
   "source": "kotatsu.js"
@@ -10704,7 +10704,7 @@ window.SONG_DATA.push(
     {
   "title": "虎",
   "artist": "ハンバート ハンバート",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=30",
   "source": "kotatsu.js"
@@ -10712,7 +10712,7 @@ window.SONG_DATA.push(
     {
   "title": "髪の毛",
   "artist": "女王蜂",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=31",
   "source": "kotatsu.js"
@@ -10720,7 +10720,7 @@ window.SONG_DATA.push(
     {
   "title": "ひかり",
   "artist": "星村麻衣",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=32",
   "source": "kotatsu.js"
@@ -10728,7 +10728,7 @@ window.SONG_DATA.push(
     {
   "title": "パープルスカイ",
   "artist": "蜜",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=33",
   "source": "kotatsu.js"
@@ -10736,7 +10736,7 @@ window.SONG_DATA.push(
     {
   "title": "バレリーコ",
   "artist": "みきとP feat.GUMI",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=34",
   "source": "kotatsu.js"
@@ -10744,7 +10744,7 @@ window.SONG_DATA.push(
     {
   "title": "Million Films",
   "artist": "コブクロ",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=35",
   "source": "kotatsu.js"
@@ -10752,7 +10752,7 @@ window.SONG_DATA.push(
     {
   "title": "デブの戯言",
   "artist": "はるこたつぶとん俱楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-08]睡眠・工作用直播｜8月的街道，蝉鸣如雨",
+  "collection": "【♣️🎸Song Cover】[2026-08-08] Sleep・Work Livestream｜August streets, cicadas chirping like rain",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L3uk6MESt?p=36",
   "source": "kotatsu.js"
@@ -10760,7 +10760,7 @@ window.SONG_DATA.push(
     {
   "title": "人との距離のはかりかた",
   "artist": "Plenty",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=1",
   "source": "kotatsu.js"
@@ -10768,7 +10768,7 @@ window.SONG_DATA.push(
     {
   "title": "やさしさに包まれたなら",
   "artist": "松任谷由実",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=2",
   "source": "kotatsu.js"
@@ -10776,7 +10776,7 @@ window.SONG_DATA.push(
     {
   "title": "secret base",
   "artist": "ZONE",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=3",
   "source": "kotatsu.js"
@@ -10784,7 +10784,7 @@ window.SONG_DATA.push(
     {
   "title": "今日の日はさようなら",
   "artist": "森山良子",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=4",
   "source": "kotatsu.js"
@@ -10792,7 +10792,7 @@ window.SONG_DATA.push(
     {
   "title": "アイネクライネ",
   "artist": "米津玄師",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=5",
   "source": "kotatsu.js"
@@ -10800,7 +10800,7 @@ window.SONG_DATA.push(
     {
   "title": "シンデレラボーイ",
   "artist": "Saucy Dog",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=6",
   "source": "kotatsu.js"
@@ -10808,7 +10808,7 @@ window.SONG_DATA.push(
     {
   "title": "告白",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=7",
   "source": "kotatsu.js"
@@ -10816,7 +10816,7 @@ window.SONG_DATA.push(
     {
   "title": "羽虫と自販機",
   "artist": "KANA-BOON",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=8",
   "source": "kotatsu.js"
@@ -10824,7 +10824,7 @@ window.SONG_DATA.push(
     {
   "title": "TSUNAMI",
   "artist": "サザンオールスターズ",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=9",
   "source": "kotatsu.js"
@@ -10832,7 +10832,7 @@ window.SONG_DATA.push(
     {
   "title": "ナイトオンザプラネット",
   "artist": "クリープハイプ",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=10",
   "source": "kotatsu.js"
@@ -10840,7 +10840,7 @@ window.SONG_DATA.push(
     {
   "title": "花唄",
   "artist": "GReeeeN",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=11",
   "source": "kotatsu.js"
@@ -10848,7 +10848,7 @@ window.SONG_DATA.push(
     {
   "title": "二度寝",
   "artist": "Creepy Nuts",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=12",
   "source": "kotatsu.js"
@@ -10856,7 +10856,7 @@ window.SONG_DATA.push(
     {
   "title": "波よせて",
   "artist": "クラムボン",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=13",
   "source": "kotatsu.js"
@@ -10864,7 +10864,7 @@ window.SONG_DATA.push(
     {
   "title": "ねぇ",
   "artist": "たつや",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=14",
   "source": "kotatsu.js"
@@ -10872,7 +10872,7 @@ window.SONG_DATA.push(
     {
   "title": "花瓶の花",
   "artist": "石崎ひゅーい",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=15",
   "source": "kotatsu.js"
@@ -10880,7 +10880,7 @@ window.SONG_DATA.push(
     {
   "title": "本当はね",
   "artist": "ヤングスキニー",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=16",
   "source": "kotatsu.js"
@@ -10888,7 +10888,7 @@ window.SONG_DATA.push(
     {
   "title": "会いたかった",
   "artist": "AKB48",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=17",
   "source": "kotatsu.js"
@@ -10896,7 +10896,7 @@ window.SONG_DATA.push(
     {
   "title": "東京",
   "artist": "ヒグチアイ",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=18",
   "source": "kotatsu.js"
@@ -10904,7 +10904,7 @@ window.SONG_DATA.push(
     {
   "title": "朝顔",
   "artist": "コブクロ",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=19",
   "source": "kotatsu.js"
@@ -10912,7 +10912,7 @@ window.SONG_DATA.push(
     {
   "title": "七夕祭り",
   "artist": "テゴマス",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=20",
   "source": "kotatsu.js"
@@ -10920,7 +10920,7 @@ window.SONG_DATA.push(
     {
   "title": "死にたい夜には",
   "artist": "はる こたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=21",
   "source": "kotatsu.js"
@@ -10928,7 +10928,7 @@ window.SONG_DATA.push(
     {
   "title": "モザイクロール",
   "artist": "DECO*27 feat.GUMI",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=22",
   "source": "kotatsu.js"
@@ -10936,7 +10936,7 @@ window.SONG_DATA.push(
     {
   "title": "HOME",
   "artist": "古川本舗",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=23",
   "source": "kotatsu.js"
@@ -10944,7 +10944,7 @@ window.SONG_DATA.push(
     {
   "title": "大丈夫",
   "artist": "クリープハイプ",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=24",
   "source": "kotatsu.js"
@@ -10952,7 +10952,7 @@ window.SONG_DATA.push(
     {
   "title": "夜もすがら君想ふ",
   "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=25",
   "source": "kotatsu.js"
@@ -10960,7 +10960,7 @@ window.SONG_DATA.push(
     {
   "title": "少年時代",
   "artist": "井上陽水",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=26",
   "source": "kotatsu.js"
@@ -10968,7 +10968,7 @@ window.SONG_DATA.push(
     {
   "title": "ゆるふわ樹海ガール",
   "artist": "石風呂P feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=27",
   "source": "kotatsu.js"
@@ -10976,7 +10976,7 @@ window.SONG_DATA.push(
     {
   "title": "ベースマン",
   "artist": "andymori",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=28",
   "source": "kotatsu.js"
@@ -10984,7 +10984,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=29",
   "source": "kotatsu.js"
@@ -10992,7 +10992,7 @@ window.SONG_DATA.push(
     {
   "title": "家に帰ると妻が必ず死んだふりをしています。",
   "artist": "ほぼ日P",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=30",
   "source": "kotatsu.js"
@@ -11000,7 +11000,7 @@ window.SONG_DATA.push(
     {
   "title": "ありがとう・・・",
   "artist": "KOKIA",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=31",
   "source": "kotatsu.js"
@@ -11008,7 +11008,7 @@ window.SONG_DATA.push(
     {
   "title": "からくりピエロ",
   "artist": "40mP feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=32",
   "source": "kotatsu.js"
@@ -11016,7 +11016,7 @@ window.SONG_DATA.push(
     {
   "title": "ちっぽけな愛のうた",
   "artist": "大原櫻子",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=33",
   "source": "kotatsu.js"
@@ -11024,7 +11024,7 @@ window.SONG_DATA.push(
     {
   "title": "上を向いて歩こう",
   "artist": "坂本九",
-  "collection": "【♣️🎸歌切】[2026-08-06]睡眠・工作用直播｜唱着温柔歌曲的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-06] Sleep・Work Live｜A Night of Singing Gentle Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1owuL6bEAn?p=34",
   "source": "kotatsu.js"
@@ -11032,7 +11032,7 @@ window.SONG_DATA.push(
     {
   "title": "あいという",
   "artist": "plenty",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=1",
   "source": "kotatsu.js"
@@ -11040,7 +11040,7 @@ window.SONG_DATA.push(
     {
   "title": "終わらない歌",
   "artist": "THE BLUE HEARTS",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=2",
   "source": "kotatsu.js"
@@ -11048,7 +11048,7 @@ window.SONG_DATA.push(
     {
   "title": "猫の缶詰め",
   "artist": "3markets[ ]",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=3",
   "source": "kotatsu.js"
@@ -11056,7 +11056,7 @@ window.SONG_DATA.push(
     {
   "title": "言って。",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=4",
   "source": "kotatsu.js"
@@ -11064,7 +11064,7 @@ window.SONG_DATA.push(
     {
   "title": "結婚しようよ",
   "artist": "吉田拓郎",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=5",
   "source": "kotatsu.js"
@@ -11072,7 +11072,7 @@ window.SONG_DATA.push(
     {
   "title": "secret base ～君がくれたもの～",
   "artist": "ZONE",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=6",
   "source": "kotatsu.js"
@@ -11080,7 +11080,7 @@ window.SONG_DATA.push(
     {
   "title": "高嶺の花子さん",
   "artist": "back number",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=7",
   "source": "kotatsu.js"
@@ -11088,7 +11088,7 @@ window.SONG_DATA.push(
     {
   "title": "大切なもの",
   "artist": "合唱曲",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=8",
   "source": "kotatsu.js"
@@ -11096,7 +11096,7 @@ window.SONG_DATA.push(
     {
   "title": "グリグリメガネと月光蟲",
   "artist": "古川本舗 feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=9",
   "source": "kotatsu.js"
@@ -11104,7 +11104,7 @@ window.SONG_DATA.push(
     {
   "title": "吉原ラメント",
   "artist": "亜沙 feat.重音テト",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=10",
   "source": "kotatsu.js"
@@ -11112,7 +11112,7 @@ window.SONG_DATA.push(
     {
   "title": "千年幸福論",
   "artist": "amazarashi",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=11",
   "source": "kotatsu.js"
@@ -11120,7 +11120,7 @@ window.SONG_DATA.push(
     {
   "title": "アンマー",
   "artist": "かりゆし58",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=12",
   "source": "kotatsu.js"
@@ -11128,7 +11128,7 @@ window.SONG_DATA.push(
     {
   "title": "Pretender",
   "artist": "Official髭男dism",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=13",
   "source": "kotatsu.js"
@@ -11136,7 +11136,7 @@ window.SONG_DATA.push(
     {
   "title": "僕は君の事が好きだけど君は僕を別に好きじゃないみたい",
   "artist": "back number",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=14",
   "source": "kotatsu.js"
@@ -11144,7 +11144,7 @@ window.SONG_DATA.push(
     {
   "title": "夜な夜なエール",
   "artist": "はるこたつぶとん俱楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=15",
   "source": "kotatsu.js"
@@ -11152,7 +11152,7 @@ window.SONG_DATA.push(
     {
   "title": "おもいでのアルバム",
   "artist": "唱歌",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=16",
   "source": "kotatsu.js"
@@ -11160,7 +11160,7 @@ window.SONG_DATA.push(
     {
   "title": "オー・シャンゼリゼ",
   "artist": "ダニエル・ビダル",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=17",
   "source": "kotatsu.js"
@@ -11168,7 +11168,7 @@ window.SONG_DATA.push(
     {
   "title": "ぼくらのレットイットビー",
   "artist": "はりーP feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=18",
   "source": "kotatsu.js"
@@ -11176,7 +11176,7 @@ window.SONG_DATA.push(
     {
   "title": "ギミギミック",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=19",
   "source": "kotatsu.js"
@@ -11184,7 +11184,7 @@ window.SONG_DATA.push(
     {
   "title": "恋だろ",
   "artist": "wacci",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=20",
   "source": "kotatsu.js"
@@ -11192,7 +11192,7 @@ window.SONG_DATA.push(
     {
   "title": "サンドイッチ",
   "artist": "高橋優",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=21",
   "source": "kotatsu.js"
@@ -11200,7 +11200,7 @@ window.SONG_DATA.push(
     {
   "title": "五月雨",
   "artist": "崎山蒼志",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=22",
   "source": "kotatsu.js"
@@ -11208,7 +11208,7 @@ window.SONG_DATA.push(
     {
   "title": "上を向いて歩こう",
   "artist": "坂本九",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=23",
   "source": "kotatsu.js"
@@ -11216,7 +11216,7 @@ window.SONG_DATA.push(
     {
   "title": "関白宣言",
   "artist": "さだまさし",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=24",
   "source": "kotatsu.js"
@@ -11224,7 +11224,7 @@ window.SONG_DATA.push(
     {
   "title": "君はロックを聴かない",
   "artist": "あいみょん",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=25",
   "source": "kotatsu.js"
@@ -11232,7 +11232,7 @@ window.SONG_DATA.push(
     {
   "title": "蜩",
   "artist": "teto",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=26",
   "source": "kotatsu.js"
@@ -11240,7 +11240,7 @@ window.SONG_DATA.push(
     {
   "title": "おやすみ泣き声、さよなら歌姫",
   "artist": "クリープハイプ",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=27",
   "source": "kotatsu.js"
@@ -11248,7 +11248,7 @@ window.SONG_DATA.push(
     {
   "title": "Bling-Bang-Bang-Born",
   "artist": "Creepy Nuts",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=28",
   "source": "kotatsu.js"
@@ -11256,7 +11256,7 @@ window.SONG_DATA.push(
     {
   "title": "テルーの唄",
   "artist": "手嶌葵",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=29",
   "source": "kotatsu.js"
@@ -11264,7 +11264,7 @@ window.SONG_DATA.push(
     {
   "title": "パート・オブ・ユア・ワールド",
   "artist": "豊原江理佳",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=30",
   "source": "kotatsu.js"
@@ -11272,7 +11272,7 @@ window.SONG_DATA.push(
     {
   "title": "ニーナ",
   "artist": "はるこたつぶとん俱楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=31",
   "source": "kotatsu.js"
@@ -11280,7 +11280,7 @@ window.SONG_DATA.push(
     {
   "title": "神様、",
   "artist": "はるこたつぶとん俱楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=32",
   "source": "kotatsu.js"
@@ -11288,7 +11288,7 @@ window.SONG_DATA.push(
     {
   "title": "おあいこ",
   "artist": "ハナレグミ",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=33",
   "source": "kotatsu.js"
@@ -11296,7 +11296,7 @@ window.SONG_DATA.push(
     {
   "title": "366日",
   "artist": "HY",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=34",
   "source": "kotatsu.js"
@@ -11304,7 +11304,7 @@ window.SONG_DATA.push(
     {
   "title": "うたうたいのうた",
   "artist": "はるこたつぶとん俱楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=35",
   "source": "kotatsu.js"
@@ -11312,7 +11312,7 @@ window.SONG_DATA.push(
     {
   "title": "アンチノミー",
   "artist": "amazarashi",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=36",
   "source": "kotatsu.js"
@@ -11320,7 +11320,7 @@ window.SONG_DATA.push(
     {
   "title": "Rain",
   "artist": "秦基博",
-  "collection": "【♣️🎸歌切】[2026-08-12]睡眠・工作用直播｜雨后的夏夜",
+  "collection": "【♣️🎸Song Cut】[2026-08-12] Sleep・Work Stream｜Rainy Summer Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1o9gj6iExt?p=37",
   "source": "kotatsu.js"
@@ -11328,7 +11328,7 @@ window.SONG_DATA.push(
     {
   "title": "投げKISSをあげるよ",
   "artist": "andymori",
-  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-18]Singing & Playing｜Sleep・Work Live｜Summer breeze blowing the curtains at night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=1",
   "source": "kotatsu.js"
@@ -11336,7 +11336,7 @@ window.SONG_DATA.push(
     {
   "title": "モザイクロール",
   "artist": "DECO*27 feat.GUMI",
-  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-18]Singing & Playing｜Sleep・Work Live｜Summer breeze blowing the curtains at night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=2",
   "source": "kotatsu.js"
@@ -11344,7 +11344,7 @@ window.SONG_DATA.push(
     {
   "title": "君じゃない誰かなんて～Tejina～",
   "artist": "DEEP",
-  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-18]Singing & Playing｜Sleep・Work Live｜Summer breeze blowing the curtains at night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=3",
   "source": "kotatsu.js"
@@ -11352,7 +11352,7 @@ window.SONG_DATA.push(
     {
   "title": "栞",
   "artist": "クリープハイプ",
-  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-18]Singing & Playing｜Sleep・Work Live｜Summer breeze blowing the curtains at night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=4",
   "source": "kotatsu.js"
@@ -11360,7 +11360,7 @@ window.SONG_DATA.push(
     {
   "title": "ルバート",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-18]Singing & Playing｜Sleep・Work Live｜Summer breeze blowing the curtains at night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=5",
   "source": "kotatsu.js"
@@ -11368,7 +11368,7 @@ window.SONG_DATA.push(
     {
   "title": "赤とんぼ",
   "artist": "童謡・唱歌",
-  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-18]Singing & Playing｜Sleep・Work Live｜Summer breeze blowing the curtains at night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=6",
   "source": "kotatsu.js"
@@ -11376,7 +11376,7 @@ window.SONG_DATA.push(
     {
   "title": "さくらんぼ",
   "artist": "大塚愛",
-  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-18]Singing & Playing｜Sleep・Work Live｜Summer breeze blowing the curtains at night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=7",
   "source": "kotatsu.js"
@@ -11384,7 +11384,7 @@ window.SONG_DATA.push(
     {
   "title": "勇気100%",
   "artist": "光GENJI",
-  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-18]Singing & Playing｜Sleep・Work Live｜Summer breeze blowing the curtains at night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=8",
   "source": "kotatsu.js"
@@ -11392,7 +11392,7 @@ window.SONG_DATA.push(
     {
   "title": "赤いスイートピー",
   "artist": "松田聖子",
-  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-18]Singing & Playing｜Sleep・Work Live｜Summer breeze blowing the curtains at night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=9",
   "source": "kotatsu.js"
@@ -11400,7 +11400,7 @@ window.SONG_DATA.push(
     {
   "title": "狭心症",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-18]Singing & Playing｜Sleep・Work Live｜Summer breeze blowing the curtains at night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=10",
   "source": "kotatsu.js"
@@ -11408,7 +11408,7 @@ window.SONG_DATA.push(
     {
   "title": "愛、テキサス",
   "artist": "山下智久",
-  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-18]Singing & Playing｜Sleep・Work Live｜Summer breeze blowing the curtains at night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=11",
   "source": "kotatsu.js"
@@ -11416,7 +11416,7 @@ window.SONG_DATA.push(
     {
   "title": "ブリキノダンス",
   "artist": "日向電工 feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-18]Singing & Playing｜Sleep・Work Live｜Summer breeze blowing the curtains at night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=12",
   "source": "kotatsu.js"
@@ -11424,7 +11424,7 @@ window.SONG_DATA.push(
     {
   "title": "バンザイ～好きでよかった～",
   "artist": "ウルフルズ",
-  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-18]Singing & Playing｜Sleep・Work Live｜Summer breeze blowing the curtains at night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=13",
   "source": "kotatsu.js"
@@ -11432,7 +11432,7 @@ window.SONG_DATA.push(
     {
   "title": "一年生になったら",
   "artist": "童謡・唱歌",
-  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-18]Singing & Playing｜Sleep・Work Live｜Summer breeze blowing the curtains at night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=14",
   "source": "kotatsu.js"
@@ -11440,7 +11440,7 @@ window.SONG_DATA.push(
     {
   "title": "いのちの名前",
   "artist": "木村弓",
-  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-18]Singing & Playing｜Sleep・Work Live｜Summer breeze blowing the curtains at night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=15",
   "source": "kotatsu.js"
@@ -11448,7 +11448,7 @@ window.SONG_DATA.push(
     {
   "title": "にんげんっていいな",
   "artist": "中島義実、ヤング・フレッシュ",
-  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-18]Singing & Playing｜Sleep・Work Live｜Summer breeze blowing the curtains at night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=16",
   "source": "kotatsu.js"
@@ -11456,7 +11456,7 @@ window.SONG_DATA.push(
     {
   "title": "いつも何度でも",
   "artist": "木村弓",
-  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-18]Singing & Playing｜Sleep・Work Live｜Summer breeze blowing the curtains at night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=17",
   "source": "kotatsu.js"
@@ -11464,7 +11464,7 @@ window.SONG_DATA.push(
     {
   "title": "悲しくてやりきれない",
   "artist": "ザ・フォーク・クルセダーズ",
-  "collection": "【♣️🎸歌切】[2026-08-18]弹唱｜睡眠・工作用直播｜夏风吹动窗帘的夜晚",
+  "collection": "【♣️🎸Song Cover】[2026-08-18]Singing & Playing｜Sleep・Work Live｜Summer breeze blowing the curtains at night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aSbq6vEFh?p=18",
   "source": "kotatsu.js"
@@ -11472,7 +11472,7 @@ window.SONG_DATA.push(
     {
   "title": "恋愛裁判",
   "artist": "40mP feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=1",
   "source": "kotatsu.js"
@@ -11480,7 +11480,7 @@ window.SONG_DATA.push(
     {
   "title": "サーカスナイト",
   "artist": "七尾旅人",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=2",
   "source": "kotatsu.js"
@@ -11488,7 +11488,7 @@ window.SONG_DATA.push(
     {
   "title": "「ねぇ。」",
   "artist": "ナノウ feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=3",
   "source": "kotatsu.js"
@@ -11496,7 +11496,7 @@ window.SONG_DATA.push(
     {
   "title": "春よ、来い",
   "artist": "松任谷由実",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=4",
   "source": "kotatsu.js"
@@ -11504,7 +11504,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならミッドナイト",
   "artist": "大柴広己(もじゃ)",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=5",
   "source": "kotatsu.js"
@@ -11512,7 +11512,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならエレジー",
   "artist": "菅田将暉",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=6",
   "source": "kotatsu.js"
@@ -11520,7 +11520,7 @@ window.SONG_DATA.push(
     {
   "title": "いつか",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=7",
   "source": "kotatsu.js"
@@ -11528,7 +11528,7 @@ window.SONG_DATA.push(
     {
   "title": "グリグリメガネと月光蟲",
   "artist": "古川本舗 feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=8",
   "source": "kotatsu.js"
@@ -11536,7 +11536,7 @@ window.SONG_DATA.push(
     {
   "title": "ノンフィクション",
   "artist": "平井堅",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=9",
   "source": "kotatsu.js"
@@ -11544,7 +11544,7 @@ window.SONG_DATA.push(
     {
   "title": "おやすみ泣き声、さよなら歌姫",
   "artist": "クリープハイプ",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=10",
   "source": "kotatsu.js"
@@ -11552,7 +11552,7 @@ window.SONG_DATA.push(
     {
   "title": "曇天",
   "artist": "DOES",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=11",
   "source": "kotatsu.js"
@@ -11560,7 +11560,7 @@ window.SONG_DATA.push(
     {
   "title": "壊れかけのRadio",
   "artist": "徳永英明",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=12",
   "source": "kotatsu.js"
@@ -11568,7 +11568,7 @@ window.SONG_DATA.push(
     {
   "title": "いいから",
   "artist": "WANIMA",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=13",
   "source": "kotatsu.js"
@@ -11576,7 +11576,7 @@ window.SONG_DATA.push(
     {
   "title": "手と手",
   "artist": "クリープハイプ",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=14",
   "source": "kotatsu.js"
@@ -11584,7 +11584,7 @@ window.SONG_DATA.push(
     {
   "title": "バンド",
   "artist": "クリープハイプ",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=15",
   "source": "kotatsu.js"
@@ -11592,7 +11592,7 @@ window.SONG_DATA.push(
     {
   "title": "忘れじの言の葉",
   "artist": "未来古代楽団 feat.安次嶺希和子",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=16",
   "source": "kotatsu.js"
@@ -11600,7 +11600,7 @@ window.SONG_DATA.push(
     {
   "title": "へび",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=17",
   "source": "kotatsu.js"
@@ -11608,7 +11608,7 @@ window.SONG_DATA.push(
     {
   "title": "グッバイ来世でまた会おう",
   "artist": "インナージャーニー",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=18",
   "source": "kotatsu.js"
@@ -11616,7 +11616,7 @@ window.SONG_DATA.push(
     {
   "title": "家族の風景",
   "artist": "ハナレグミ",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=19",
   "source": "kotatsu.js"
@@ -11624,7 +11624,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=20",
   "source": "kotatsu.js"
@@ -11632,7 +11632,7 @@ window.SONG_DATA.push(
     {
   "title": "napori",
   "artist": "Vaundy",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=21",
   "source": "kotatsu.js"
@@ -11640,7 +11640,7 @@ window.SONG_DATA.push(
     {
   "title": "たしかなこと",
   "artist": "小田和正",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=22",
   "source": "kotatsu.js"
@@ -11648,7 +11648,7 @@ window.SONG_DATA.push(
     {
   "title": "大好きだよ。",
   "artist": "大塚愛",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=23",
   "source": "kotatsu.js"
@@ -11656,7 +11656,7 @@ window.SONG_DATA.push(
     {
   "title": "桃ノ花ビラ",
   "artist": "大塚愛",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=24",
   "source": "kotatsu.js"
@@ -11664,7 +11664,7 @@ window.SONG_DATA.push(
     {
   "title": "サライ",
   "artist": "加山雄三・谷村新司",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=25",
   "source": "kotatsu.js"
@@ -11672,7 +11672,7 @@ window.SONG_DATA.push(
     {
   "title": "山の音楽家",
   "artist": "童謡",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=26",
   "source": "kotatsu.js"
@@ -11680,7 +11680,7 @@ window.SONG_DATA.push(
     {
   "title": "森の小さなレストラン",
   "artist": "手嶌葵",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=27",
   "source": "kotatsu.js"
@@ -11688,7 +11688,7 @@ window.SONG_DATA.push(
     {
   "title": "ゆりかごのうた",
   "artist": "童謡",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=28",
   "source": "kotatsu.js"
@@ -11696,7 +11696,7 @@ window.SONG_DATA.push(
     {
   "title": "オー・シャンゼリゼ",
   "artist": "ダニエル・ビダル",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=29",
   "source": "kotatsu.js"
@@ -11704,7 +11704,7 @@ window.SONG_DATA.push(
     {
   "title": "葛飾ラプソディー",
   "artist": "堂島孝平",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=30",
   "source": "kotatsu.js"
@@ -11712,7 +11712,7 @@ window.SONG_DATA.push(
     {
   "title": "チャンカパーナ",
   "artist": "NEWS",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=31",
   "source": "kotatsu.js"
@@ -11720,7 +11720,7 @@ window.SONG_DATA.push(
     {
   "title": "なんでもないよ、",
   "artist": "マカロニえんぴつ",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=32",
   "source": "kotatsu.js"
@@ -11728,7 +11728,7 @@ window.SONG_DATA.push(
     {
   "title": "五月雨",
   "artist": "崎山蒼志",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=33",
   "source": "kotatsu.js"
@@ -11736,7 +11736,7 @@ window.SONG_DATA.push(
     {
   "title": "Peace",
   "artist": "andymori",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=34",
   "source": "kotatsu.js"
@@ -11744,7 +11744,7 @@ window.SONG_DATA.push(
     {
   "title": "千の風になって",
   "artist": "秋川雅史",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=35",
   "source": "kotatsu.js"
@@ -11752,7 +11752,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒロイン",
   "artist": "back number",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=36",
   "source": "kotatsu.js"
@@ -11760,7 +11760,7 @@ window.SONG_DATA.push(
     {
   "title": "デブの戯言",
   "artist": "はるこたつぶとん倶楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=37",
   "source": "kotatsu.js"
@@ -11768,7 +11768,7 @@ window.SONG_DATA.push(
     {
   "title": "1時間",
   "artist": "ハンバートハンバート",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=38",
   "source": "kotatsu.js"
@@ -11776,7 +11776,7 @@ window.SONG_DATA.push(
     {
   "title": "冬へと走りだすお!",
   "artist": "でんぱ組.inc",
-  "collection": "【♣️🎸歌切】[2026-08-19]弹唱｜睡眠・工作用直播｜沉睡的城市，小巷深处的体温",
+  "collection": "【♣️🎸Song Cover】[2026-08-19] Singing & Playing｜Sleep・Work Livestream｜Sleeping City, Body Temperature in the Alley",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qGbo6aESu?p=39",
   "source": "kotatsu.js"
@@ -11784,7 +11784,7 @@ window.SONG_DATA.push(
     {
   "title": "サイダーのように言葉が湧き上がる",
   "artist": "never young beach",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=1",
   "source": "kotatsu.js"
@@ -11792,7 +11792,7 @@ window.SONG_DATA.push(
     {
   "title": "繰り返し一粒",
   "artist": "猫虫P feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=2",
   "source": "kotatsu.js"
@@ -11800,7 +11800,7 @@ window.SONG_DATA.push(
     {
   "title": "援助交際",
   "artist": "銀杏BOYZ",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=3",
   "source": "kotatsu.js"
@@ -11808,7 +11808,7 @@ window.SONG_DATA.push(
     {
   "title": "三日月",
   "artist": "くるり",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=4",
   "source": "kotatsu.js"
@@ -11816,7 +11816,7 @@ window.SONG_DATA.push(
     {
   "title": "携帯電話",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=5",
   "source": "kotatsu.js"
@@ -11824,7 +11824,7 @@ window.SONG_DATA.push(
     {
   "title": "Bunny Girl",
   "artist": "AKASAKI",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=6",
   "source": "kotatsu.js"
@@ -11832,7 +11832,7 @@ window.SONG_DATA.push(
     {
   "title": "国語",
   "artist": "ハンバートハンバート",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=7",
   "source": "kotatsu.js"
@@ -11840,7 +11840,7 @@ window.SONG_DATA.push(
     {
   "title": "虹",
   "artist": "菅田将暉",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=8",
   "source": "kotatsu.js"
@@ -11848,7 +11848,7 @@ window.SONG_DATA.push(
     {
   "title": "眼福",
   "artist": "米津玄師",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=9",
   "source": "kotatsu.js"
@@ -11856,7 +11856,7 @@ window.SONG_DATA.push(
     {
   "title": "季節は次々死んでいく",
   "artist": "amazarashi",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=10",
   "source": "kotatsu.js"
@@ -11864,7 +11864,7 @@ window.SONG_DATA.push(
     {
   "title": "ハンドメイドホーム",
   "artist": "大森靖子",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=11",
   "source": "kotatsu.js"
@@ -11872,7 +11872,7 @@ window.SONG_DATA.push(
     {
   "title": "性善説",
   "artist": "amazarashi",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=12",
   "source": "kotatsu.js"
@@ -11880,7 +11880,7 @@ window.SONG_DATA.push(
     {
   "title": "RAIN",
   "artist": "SEKAI NO OWARI",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=13",
   "source": "kotatsu.js"
@@ -11888,7 +11888,7 @@ window.SONG_DATA.push(
     {
   "title": "少年時代",
   "artist": "井上陽水",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=14",
   "source": "kotatsu.js"
@@ -11896,7 +11896,7 @@ window.SONG_DATA.push(
     {
   "title": "ぼくたちの失敗",
   "artist": "森田童子",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=15",
   "source": "kotatsu.js"
@@ -11904,7 +11904,7 @@ window.SONG_DATA.push(
     {
   "title": "secret base ～君がくれたもの～",
   "artist": "ZONE",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=16",
   "source": "kotatsu.js"
@@ -11912,7 +11912,7 @@ window.SONG_DATA.push(
     {
   "title": "化粧",
   "artist": "中島みゆき",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=17",
   "source": "kotatsu.js"
@@ -11920,7 +11920,7 @@ window.SONG_DATA.push(
     {
   "title": "化粧",
   "artist": "中島みゆき",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=18",
   "source": "kotatsu.js"
@@ -11928,7 +11928,7 @@ window.SONG_DATA.push(
     {
   "title": "上を向いて歩こう",
   "artist": "坂本九",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=19",
   "source": "kotatsu.js"
@@ -11936,7 +11936,7 @@ window.SONG_DATA.push(
     {
   "title": "さよなら人類",
   "artist": "たま",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=20",
   "source": "kotatsu.js"
@@ -11944,7 +11944,7 @@ window.SONG_DATA.push(
     {
   "title": "深夜高速",
   "artist": "フラワーカンパニーズ",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=21",
   "source": "kotatsu.js"
@@ -11952,7 +11952,7 @@ window.SONG_DATA.push(
     {
   "title": "無名のオリジナル",
   "artist": "はるこたつぶとん俱楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=22",
   "source": "kotatsu.js"
@@ -11960,7 +11960,7 @@ window.SONG_DATA.push(
     {
   "title": "ただ",
   "artist": "はるこたつぶとん俱楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=23",
   "source": "kotatsu.js"
@@ -11968,7 +11968,7 @@ window.SONG_DATA.push(
     {
   "title": "ウェンディの本質☘️",
   "artist": "はるこたつぶとん俱楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=24",
   "source": "kotatsu.js"
@@ -11976,7 +11976,7 @@ window.SONG_DATA.push(
     {
   "title": "ダディ・ダーリン",
   "artist": "G-FREAK FACTORY",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=25",
   "source": "kotatsu.js"
@@ -11984,7 +11984,7 @@ window.SONG_DATA.push(
     {
   "title": "アルバイター、無名",
   "artist": "はるこたつぶとん俱楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=26",
   "source": "kotatsu.js"
@@ -11992,7 +11992,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=27",
   "source": "kotatsu.js"
@@ -12000,7 +12000,7 @@ window.SONG_DATA.push(
     {
   "title": "慈しみ深き",
   "artist": "讃美歌",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=28",
   "source": "kotatsu.js"
@@ -12008,7 +12008,7 @@ window.SONG_DATA.push(
     {
   "title": "あなたへ－旅立ちに寄せるメッセージ",
   "artist": "筒井雅子",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=29",
   "source": "kotatsu.js"
@@ -12016,7 +12016,7 @@ window.SONG_DATA.push(
     {
   "title": "神様、",
   "artist": "はるこたつぶとん俱楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-22]睡眠・工作用直播｜在难以入睡的夜晚轻轻呢喃",
+  "collection": "【♣️🎸Singing clip】[2026-08-22] Sleep・Work stream｜Soft murmurs on sleepless nights",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1KA8W6WEbm?p=30",
   "source": "kotatsu.js"
@@ -12024,7 +12024,7 @@ window.SONG_DATA.push(
     {
   "title": "ねごと",
   "artist": "ぴこんちゃん",
-  "collection": "【♣️🎸歌切】[2026-08-23]用自己的方式翻唱ぴこ前辈的名曲｜满足ぴこんちゃん私欲的歌回接力",
+  "collection": "【♣️🎸Song Cut】[2026-08-23] Covering senpai Piko's famous song in my own way｜A song relay to satisfy Pikochan's selfish desires",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HELP?p=1",
   "source": "kotatsu.js"
@@ -12032,7 +12032,7 @@ window.SONG_DATA.push(
     {
   "title": "無名のオリジナル",
   "artist": "はるこたつぶとん俱楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-23]用自己的方式翻唱ぴこ前辈的名曲｜满足ぴこんちゃん私欲的歌回接力",
+  "collection": "【♣️🎸Song Cut】[2026-08-23] Covering senpai Piko's famous song in my own way｜A song relay to satisfy Pikochan's selfish desires",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HELP?p=2",
   "source": "kotatsu.js"
@@ -12040,7 +12040,7 @@ window.SONG_DATA.push(
     {
   "title": "花に嵐より",
   "artist": "ぴこんちゃん",
-  "collection": "【♣️🎸歌切】[2026-08-23]用自己的方式翻唱ぴこ前辈的名曲｜满足ぴこんちゃん私欲的歌回接力",
+  "collection": "【♣️🎸Song Cut】[2026-08-23] Covering senpai Piko's famous song in my own way｜A song relay to satisfy Pikochan's selfish desires",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gu8a6HELP?p=3",
   "source": "kotatsu.js"
@@ -12048,7 +12048,7 @@ window.SONG_DATA.push(
     {
   "title": "笑えよ乙女",
   "artist": "コレサワ",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=1",
   "source": "kotatsu.js"
@@ -12056,7 +12056,7 @@ window.SONG_DATA.push(
     {
   "title": "ラヴ・イズ・オーヴァー",
   "artist": "欧陽菲菲",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=2",
   "source": "kotatsu.js"
@@ -12064,7 +12064,7 @@ window.SONG_DATA.push(
     {
   "title": "フライディ・チャイナタウン",
   "artist": "泰葉",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=3",
   "source": "kotatsu.js"
@@ -12072,7 +12072,7 @@ window.SONG_DATA.push(
     {
   "title": "fish",
   "artist": "back number",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=4",
   "source": "kotatsu.js"
@@ -12080,7 +12080,7 @@ window.SONG_DATA.push(
     {
   "title": "どこにいても同じさ",
   "artist": "ハンバートハンバート",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=5",
   "source": "kotatsu.js"
@@ -12088,7 +12088,7 @@ window.SONG_DATA.push(
     {
   "title": "修羅",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=6",
   "source": "kotatsu.js"
@@ -12096,7 +12096,7 @@ window.SONG_DATA.push(
     {
   "title": "修羅",
   "artist": "DOES",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=7",
   "source": "kotatsu.js"
@@ -12104,7 +12104,7 @@ window.SONG_DATA.push(
     {
   "title": "サムライハート",
   "artist": "SPYAIR",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=8",
   "source": "kotatsu.js"
@@ -12112,7 +12112,7 @@ window.SONG_DATA.push(
     {
   "title": "vivi",
   "artist": "米津玄師",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=9",
   "source": "kotatsu.js"
@@ -12120,7 +12120,7 @@ window.SONG_DATA.push(
     {
   "title": "青い空",
   "artist": "andymori",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=10",
   "source": "kotatsu.js"
@@ -12128,7 +12128,7 @@ window.SONG_DATA.push(
     {
   "title": "大空と大地の中で",
   "artist": "松山千春",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=11",
   "source": "kotatsu.js"
@@ -12136,7 +12136,7 @@ window.SONG_DATA.push(
     {
   "title": "卒業写真",
   "artist": "荒井由実",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=12",
   "source": "kotatsu.js"
@@ -12144,7 +12144,7 @@ window.SONG_DATA.push(
     {
   "title": "Hello, Worker",
   "artist": "KEI feat.巡音ルカ",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=13",
   "source": "kotatsu.js"
@@ -12152,7 +12152,7 @@ window.SONG_DATA.push(
     {
   "title": "革命",
   "artist": "MOROHA",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=14",
   "source": "kotatsu.js"
@@ -12160,7 +12160,7 @@ window.SONG_DATA.push(
     {
   "title": "ジェニファー山田さん",
   "artist": "味噌汁's",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=15",
   "source": "kotatsu.js"
@@ -12168,7 +12168,7 @@ window.SONG_DATA.push(
     {
   "title": "Let's Search For Tomorrow",
   "artist": "合唱曲",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=16",
   "source": "kotatsu.js"
@@ -12176,7 +12176,7 @@ window.SONG_DATA.push(
     {
   "title": "バレリーコ",
   "artist": "みきとP feat.GUMI",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=17",
   "source": "kotatsu.js"
@@ -12184,7 +12184,7 @@ window.SONG_DATA.push(
     {
   "title": "KING",
   "artist": "Kanaria feat.GUMI",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=18",
   "source": "kotatsu.js"
@@ -12192,7 +12192,7 @@ window.SONG_DATA.push(
     {
   "title": "手と手",
   "artist": "クリープハイプ",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=19",
   "source": "kotatsu.js"
@@ -12200,7 +12200,7 @@ window.SONG_DATA.push(
     {
   "title": "踊り子",
   "artist": "Vaundy",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=20",
   "source": "kotatsu.js"
@@ -12208,7 +12208,7 @@ window.SONG_DATA.push(
     {
   "title": "グリグリメガネと月光蟲",
   "artist": "古川本舗 feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=21",
   "source": "kotatsu.js"
@@ -12216,7 +12216,7 @@ window.SONG_DATA.push(
     {
   "title": "さよならまたね",
   "artist": "キクチリョウタ",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=22",
   "source": "kotatsu.js"
@@ -12224,7 +12224,7 @@ window.SONG_DATA.push(
     {
   "title": "スノースマイル",
   "artist": "BUMP OF CHICKEN",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=23",
   "source": "kotatsu.js"
@@ -12232,7 +12232,7 @@ window.SONG_DATA.push(
     {
   "title": "君の冒険",
   "artist": "岡崎体育",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=24",
   "source": "kotatsu.js"
@@ -12240,7 +12240,7 @@ window.SONG_DATA.push(
     {
   "title": "家族になろうよ",
   "artist": "福山雅治",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=25",
   "source": "kotatsu.js"
@@ -12248,7 +12248,7 @@ window.SONG_DATA.push(
     {
   "title": "仰げば尊し",
   "artist": "唱歌",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=26",
   "source": "kotatsu.js"
@@ -12256,7 +12256,7 @@ window.SONG_DATA.push(
     {
   "title": "僕が死のうと思ったのは",
   "artist": "中島美嘉",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=27",
   "source": "kotatsu.js"
@@ -12264,7 +12264,7 @@ window.SONG_DATA.push(
     {
   "title": "カフェオーレのうた",
   "artist": "きっかレン",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=28",
   "source": "kotatsu.js"
@@ -12272,7 +12272,7 @@ window.SONG_DATA.push(
     {
   "title": "ハム太郎とっとこうた",
   "artist": "ハムちゃんず",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=29",
   "source": "kotatsu.js"
@@ -12280,7 +12280,7 @@ window.SONG_DATA.push(
     {
   "title": "アルジャーノン",
   "artist": "ヨルシカ",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=30",
   "source": "kotatsu.js"
@@ -12288,7 +12288,7 @@ window.SONG_DATA.push(
     {
   "title": "夢見月に何想ふ",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-08-25]弹唱｜睡眠・工作用直播｜在八月的夜里想起你",
+  "collection": "【♣️🎸Song Cut】[2026-08-25] Vocal and Instrumental Performance｜Stream for Sleep・Work｜Thinking of You in the August Night",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xb8f6pEan?p=31",
   "source": "kotatsu.js"
@@ -12296,7 +12296,7 @@ window.SONG_DATA.push(
     {
   "title": "明るい未来",
   "artist": "never young beach",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=1",
   "source": "kotatsu.js"
@@ -12304,7 +12304,7 @@ window.SONG_DATA.push(
     {
   "title": "ゴーゴー魚釣り",
   "artist": "工藤裕次郎",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=2",
   "source": "kotatsu.js"
@@ -12312,7 +12312,7 @@ window.SONG_DATA.push(
     {
   "title": "革命",
   "artist": "andymori",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=3",
   "source": "kotatsu.js"
@@ -12320,7 +12320,7 @@ window.SONG_DATA.push(
     {
   "title": "明日への手紙",
   "artist": "手嶌葵",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=4",
   "source": "kotatsu.js"
@@ -12328,7 +12328,7 @@ window.SONG_DATA.push(
     {
   "title": "丸の内サディスティック",
   "artist": "椎名林檎",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=5",
   "source": "kotatsu.js"
@@ -12336,7 +12336,7 @@ window.SONG_DATA.push(
     {
   "title": "生きていたんだよな",
   "artist": "あいみょん",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=6",
   "source": "kotatsu.js"
@@ -12344,7 +12344,7 @@ window.SONG_DATA.push(
     {
   "title": "人として",
   "artist": "SUPER BEAVER",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=7",
   "source": "kotatsu.js"
@@ -12352,7 +12352,7 @@ window.SONG_DATA.push(
     {
   "title": "リグレット",
   "artist": "sumika",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=8",
   "source": "kotatsu.js"
@@ -12360,7 +12360,7 @@ window.SONG_DATA.push(
     {
   "title": "正解",
   "artist": "RADWIMPS",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=9",
   "source": "kotatsu.js"
@@ -12368,7 +12368,7 @@ window.SONG_DATA.push(
     {
   "title": "またね",
   "artist": "ハンブレッダーズ",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=10",
   "source": "kotatsu.js"
@@ -12376,7 +12376,7 @@ window.SONG_DATA.push(
     {
   "title": "待ち合わせの途中",
   "artist": "plenty",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=11",
   "source": "kotatsu.js"
@@ -12384,7 +12384,7 @@ window.SONG_DATA.push(
     {
   "title": "はなびら",
   "artist": "奥華子",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=12",
   "source": "kotatsu.js"
@@ -12392,7 +12392,7 @@ window.SONG_DATA.push(
     {
   "title": "時をかけるメロディー",
   "artist": "小山田壮平",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=13",
   "source": "kotatsu.js"
@@ -12400,7 +12400,7 @@ window.SONG_DATA.push(
     {
   "title": "岬",
   "artist": "ハンバート ハンバート",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=14",
   "source": "kotatsu.js"
@@ -12408,7 +12408,7 @@ window.SONG_DATA.push(
     {
   "title": "夜明けと蛍",
   "artist": "n-buna feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=15",
   "source": "kotatsu.js"
@@ -12416,7 +12416,7 @@ window.SONG_DATA.push(
     {
   "title": "拝啓、少年よ",
   "artist": "Hump Back",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=16",
   "source": "kotatsu.js"
@@ -12424,7 +12424,7 @@ window.SONG_DATA.push(
     {
   "title": "かえるの唄",
   "artist": "クリープハイプ",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=17",
   "source": "kotatsu.js"
@@ -12432,7 +12432,7 @@ window.SONG_DATA.push(
     {
   "title": "しあわせ",
   "artist": "はるこたつぶとん俱楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=18",
   "source": "kotatsu.js"
@@ -12440,7 +12440,7 @@ window.SONG_DATA.push(
     {
   "title": "朝焼け、君の唄。",
   "artist": "ナノウ feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=19",
   "source": "kotatsu.js"
@@ -12448,7 +12448,7 @@ window.SONG_DATA.push(
     {
   "title": "世界がひとつになるまで",
   "artist": "Ya-Ya-yah",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=20",
   "source": "kotatsu.js"
@@ -12456,7 +12456,7 @@ window.SONG_DATA.push(
     {
   "title": "遠い君へ",
   "artist": "はるこたつぶとん俱楽部♧",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=21",
   "source": "kotatsu.js"
@@ -12464,7 +12464,7 @@ window.SONG_DATA.push(
     {
   "title": "エクレア",
   "artist": "岡崎体育",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=22",
   "source": "kotatsu.js"
@@ -12472,7 +12472,7 @@ window.SONG_DATA.push(
     {
   "title": "ぼくらのレットイットビー",
   "artist": "はりーP feat.初音ミク",
-  "collection": "【♣️🎸歌切】[2026-08-28]弹唱｜睡眠・工作用直播｜八月末，摇曳窗帘的另一边【こたつちゃ直播中】",
+  "collection": "[♣️🎸Song Cut] [2026-08-28] Singing with Guitar | Live Stream for Sleep/Work | End of August, beyond the swaying curtains [Kotatsu-cha Live Streaming]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1UTt468ERy?p=23",
   "source": "kotatsu.js"
