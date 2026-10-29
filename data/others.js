@@ -27550,6 +27550,14 @@ window.SONG_DATA.push(
   "source": "others.js"
 },
     {
+  "title": "もう一度",
+  "artist": "[ re: ]",
+  "collection": "LOVO歌切 2026-10-23 来听一首吧🎧想在秋夜送给你的歌🍁｜LOVO的大家，听我说",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gwxA6fEa1?p=9",
+  "source": "others.js"
+},
+    {
   "title": "鳥の詩",
   "artist": "Lia[JctS8BCDGXM]",
   "collection": "Prayer 𓆩︎✟𓆪 2026-02-06 ~ 2026-03-05",
