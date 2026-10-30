@@ -1433,7 +1433,7 @@
             }
 
             // 2. 关键词搜索
-            const keyword = document.getElementById('search-input').value.trim();
+            const keyword = document.getElementById('search-input').value.trim().normalize('NFC');
             const fields = getActiveSearchFields();
 
             if (!fields.title && !fields.artist && !fields.collection && !fields.source) {

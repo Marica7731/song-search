@@ -158,6 +158,7 @@ song-search/
 
 - 来源列表和 BV 配置维护在 `scripts/update-songs.js` 的 `SINGER_CONFIGS`；头像与频道信息维护在 `scripts/source-profiles.json`。
 - 页面功能修改对应的 HTML 或共享 JS；生成数据不要直接手改。
+- 主搜索框读取查询词时执行 Unicode NFC 规范化，让组合假名与分解假名搜索结果一致；输入框和日文 IME 组合输入流程保持不变。
 - 涉及来源时先使用 `UPDATE_SONGS_ONLY` 做定向抓取，核对歌曲数量、分 P 范围和首尾链接，再运行完整更新。
 - 推送前执行语法检查、Node 回归测试、分发器测试、标题清洗检查和 `git diff --check`，并通过本地 HTTP 服务检查相关页面。
 - 歌名-歌手查重的匹配与来源加载回归：`node --test scripts/dup-check-core.test.js`。
