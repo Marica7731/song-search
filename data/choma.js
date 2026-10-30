@@ -1,6 +1,6 @@
 // チョま - 歌单数据 (多合集汇总)
 // 来源: BV1kM3L6GEBV
-// 生成时间: 10/30/2026, 6:40:52 PM
+// 生成时间: 10/30/2026, 10:51:25 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3823,7 +3823,7 @@ window.SONG_DATA.push(
 },
     {
   "title": "プロポーズ",
-  "artist": "内緒のピアス feat.可不",
+  "artist": "なとり",
   "collection": "Choma song cut, 2026-09-26 13:00 session, welcome to request songs! 2026-09-26",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jzaY6qEXV?p=13",
