@@ -1,6 +1,6 @@
 // 天籠りのん - 歌单数据 (多合集汇总)
 // 来源: BV1hw4m1i7qN
-// 生成时间: 10/31/2026, 5:31:57 PM
+// 生成时间: 10/31/2026, 8:15:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3723,6 +3723,46 @@ window.SONG_DATA.push(
   "collection": "【Song Clip】[2026-10-10] Piano Accompaniment｜Amakomo's Singing Attack!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dxpH65EwW?p=8",
+  "source": "linon.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "[Song Cut] [2026-10-31] Specialite Singing Relay: Sing Out Loud! Go All Out on the Last Leg～～～!!🏳✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cZxH6PERh?p=1",
+  "source": "linon.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "[Song Cut] [2026-10-31] Specialite Singing Relay: Sing Out Loud! Go All Out on the Last Leg～～～!!🏳✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cZxH6PERh?p=2",
+  "source": "linon.js"
+},
+    {
+  "title": "愛をこめて花束を",
+  "artist": "Superfly",
+  "collection": "[Song Cut] [2026-10-31] Specialite Singing Relay: Sing Out Loud! Go All Out on the Last Leg～～～!!🏳✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cZxH6PERh?p=3",
+  "source": "linon.js"
+},
+    {
+  "title": "Agitato",
+  "artist": "初星学園(花海咲季・葛城リーリヤ・花海佑芽)",
+  "collection": "[Song Cut] [2026-10-31] Specialite Singing Relay: Sing Out Loud! Go All Out on the Last Leg～～～!!🏳✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cZxH6PERh?p=4",
+  "source": "linon.js"
+},
+    {
+  "title": "シルシ",
+  "artist": "LiSA",
+  "collection": "[Song Cut] [2026-10-31] Specialite Singing Relay: Sing Out Loud! Go All Out on the Last Leg～～～!!🏳✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cZxH6PERh?p=5",
   "source": "linon.js"
 }
 );

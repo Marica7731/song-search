@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 10/31/2026, 6:48:47 PM
+// 生成时间: 10/31/2026, 9:38:34 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6387,6 +6387,46 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-10-30] Let's sing songs suitable for Halloween 🎃",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1yTxk6ZEVP?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "忘れじの言の葉",
+  "artist": "未来古代楽団",
+  "collection": "[Song Cut] [2026-10-31] Weaving Origins and Futures Song Relay: Shall We Weave the Story of Suiu Shinano Together?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZxH6PEdj?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "フクロウ ～フクロウが知らせる客が来たと～",
+  "artist": "KOKIA",
+  "collection": "[Song Cut] [2026-10-31] Weaving Origins and Futures Song Relay: Shall We Weave the Story of Suiu Shinano Together?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZxH6PEdj?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-10-31] Weaving Origins and Futures Song Relay: Shall We Weave the Story of Suiu Shinano Together?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZxH6PEdj?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "afterglow",
+  "artist": "翠雨しの",
+  "collection": "[Song Cut] [2026-10-31] Weaving Origins and Futures Song Relay: Shall We Weave the Story of Suiu Shinano Together?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZxH6PEdj?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "紡ぐ",
+  "artist": "とた",
+  "collection": "[Song Cut] [2026-10-31] Weaving Origins and Futures Song Relay: Shall We Weave the Story of Suiu Shinano Together?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nZxH6PEdj?p=5",
   "source": "suiuishino.js"
 }
 );

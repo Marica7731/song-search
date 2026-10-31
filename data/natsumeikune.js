@@ -1,10 +1,306 @@
 // なつかしちゃん - 歌单数据 (多合集汇总)
 // 来源: BV1VPH26kESs
-// 生成时间: 10/31/2026, 7:04:06 PM
+// 生成时间: 10/31/2026, 9:52:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
+    {
+  "title": "大人になったら",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-10-01]终于实现心愿！专唱最喜欢的TOMOO的歌曲！🍋 欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnxH6bEJD?p=1",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "オセロ",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-10-01]终于实现心愿！专唱最喜欢的TOMOO的歌曲！🍋 欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnxH6bEJD?p=2",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "夢はさめても",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-10-01]终于实现心愿！专唱最喜欢的TOMOO的歌曲！🍋 欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnxH6bEJD?p=3",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "あわいに",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-10-01]终于实现心愿！专唱最喜欢的TOMOO的歌曲！🍋 欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnxH6bEJD?p=4",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "らしくもなくたっていいでしょう",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-10-01]终于实现心愿！专唱最喜欢的TOMOO的歌曲！🍋 欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnxH6bEJD?p=5",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "Ginger",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-10-01]终于实现心愿！专唱最喜欢的TOMOO的歌曲！🍋 欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnxH6bEJD?p=6",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "ベーコンエピ",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-10-01]终于实现心愿！专唱最喜欢的TOMOO的歌曲！🍋 欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnxH6bEJD?p=7",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "17",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-10-01]终于实现心愿！专唱最喜欢的TOMOO的歌曲！🍋 欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnxH6bEJD?p=8",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "窓",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-10-01]终于实现心愿！专唱最喜欢的TOMOO的歌曲！🍋 欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnxH6bEJD?p=9",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "酔ひもせす",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-10-01]终于实现心愿！专唱最喜欢的TOMOO的歌曲！🍋 欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnxH6bEJD?p=10",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "Super Ball",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-10-01]终于实现心愿！专唱最喜欢的TOMOO的歌曲！🍋 欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnxH6bEJD?p=11",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "恋する10秒",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-10-01]终于实现心愿！专唱最喜欢的TOMOO的歌曲！🍋 欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnxH6bEJD?p=12",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "HONEY BOY",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-10-01]终于实现心愿！专唱最喜欢的TOMOO的歌曲！🍋 欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnxH6bEJD?p=13",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "レモン",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-10-01]终于实现心愿！专唱最喜欢的TOMOO的歌曲！🍋 欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnxH6bEJD?p=14",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "Mellow",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-10-01]终于实现心愿！专唱最喜欢的TOMOO的歌曲！🍋 欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnxH6bEJD?p=15",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "コントラスト",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-10-01]终于实现心愿！专唱最喜欢的TOMOO的歌曲！🍋 欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnxH6bEJD?p=16",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "Grapefruit Moon",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-10-01]终于实现心愿！专唱最喜欢的TOMOO的歌曲！🍋 欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnxH6bEJD?p=17",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "夜明けの君へ",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-10-01]终于实现心愿！专唱最喜欢的TOMOO的歌曲！🍋 欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnxH6bEJD?p=18",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "エンドレス",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-10-01]终于实现心愿！专唱最喜欢的TOMOO的歌曲！🍋 欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EnxH6bEJD?p=19",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "アンドロメダ",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=1",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "彩り",
+  "artist": "Mr.Children",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=2",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "手紙",
+  "artist": "back number",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=3",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "koyori(電ポルP) feat. 初音ミク",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=4",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "traveling",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=5",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "フライングゲット",
+  "artist": "AKB48",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=6",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "Time",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=7",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "さよーならまたいつか！",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=8",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "時よ",
+  "artist": "星野源",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=9",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "くるみ",
+  "artist": "Mr.Children",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=10",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "冬がはじまるよ",
+  "artist": "槇原敬之",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=11",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "赤い糸",
+  "artist": "コブクロ",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=12",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "ヒロイン",
+  "artist": "back number",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=13",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "星屑ビーナス",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=14",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "ぼくはくま",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=15",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "ぼくはくま",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=16",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "恋焦がれて見た夢",
+  "artist": "絢香",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=17",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "ORION",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=18",
+  "source": "natsumeikune.js"
+},
     {
   "title": "夢見る少女じゃいられない",
   "artist": "相川七瀬",
@@ -171,150 +467,6 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-20]能否达成100个赞、50人同时在线！？等你来点歌！🔥🎤【欢迎新观众】",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ZjnT6TEVN?p=21",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "アンドロメダ",
-  "artist": "aiko",
-  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=1",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "彩り",
-  "artist": "Mr.Children",
-  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=2",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "手紙",
-  "artist": "back number",
-  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=3",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "独りんぼエンヴィー",
-  "artist": "koyori(電ポルP) feat. 初音ミク",
-  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=4",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "traveling",
-  "artist": "宇多田ヒカル",
-  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=5",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "フライングゲット",
-  "artist": "AKB48",
-  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=6",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "Time",
-  "artist": "宇多田ヒカル",
-  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=7",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "さよーならまたいつか！",
-  "artist": "米津玄師",
-  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=8",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "時よ",
-  "artist": "星野源",
-  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=9",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "くるみ",
-  "artist": "Mr.Children",
-  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=10",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "冬がはじまるよ",
-  "artist": "槇原敬之",
-  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=11",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "赤い糸",
-  "artist": "コブクロ",
-  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=12",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "ヒロイン",
-  "artist": "back number",
-  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=13",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "星屑ビーナス",
-  "artist": "Aimer",
-  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=14",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "ぼくはくま",
-  "artist": "宇多田ヒカル",
-  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=15",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "ぼくはくま",
-  "artist": "宇多田ヒカル",
-  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=16",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "恋焦がれて見た夢",
-  "artist": "絢香",
-  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=17",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "ORION",
-  "artist": "中島美嘉",
-  "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=18",
   "source": "natsumeikune.js"
 },
     {

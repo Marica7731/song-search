@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 10/31/2026, 6:30:58 PM
+// 生成时间: 10/31/2026, 9:21:44 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7939,6 +7939,190 @@ window.SONG_DATA.push(
   "collection": "[Song cut] [2026-10-29] We're back live! Bringing you healing and energy 🎤💫 Welcome new viewers",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gPxA6tEJE?p=26",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Happy Halloween",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "キャンディークッキーチョコレート",
+  "artist": "はろける feat. 初音ミク、重音テト",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "デビルじゃないもん",
+  "artist": "DECO*27×ピノキオピー feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Monster",
+  "artist": "嵐",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "おばけなんてないさ",
+  "artist": "童謡",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "目撃！テト31世",
+  "artist": "はろける feat. 重音テト、雨衣",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ラッシャイナ",
+  "artist": "柊マグネタイト feat. 可不",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "UNDEAD",
+  "artist": "YOASOBI",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "モエチャッカファイア",
+  "artist": "弌誠",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "鬼ノ宴",
+  "artist": "友成空",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ころしちゃった！",
+  "artist": "夏山よつぎ feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "TEST ME",
+  "artist": "ちゃんみな",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "いますぐ輪廻",
+  "artist": "なきそ feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ド屑",
+  "artist": "なきそ feat. 歌愛ユキ",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "おばけなんてないさ",
+  "artist": "童謡",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ドーナツホール",
+  "artist": "ハチ feat. GUMI",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=22",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "幽霊東京",
+  "artist": "Ayase feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=23",
   "source": "isshikiizu.js"
 }
 );

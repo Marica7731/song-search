@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 10/31/2026, 6:10:08 PM
+// 生成时间: 10/31/2026, 8:55:22 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3299,6 +3299,94 @@ window.SONG_DATA.push(
   "collection": "【Song Cut】[2026-10-30] I want to sing! Come listen to me sing♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Uoxr6vEbT?p=11",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween 🎃👻 What should I sing today～～!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1z?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "Bad ∞ End ∞ Night",
+  "artist": "ひとしずく×やま△ feat. 初音ミク、鏡音リン・レン、巡音ルカ、MEIKO、KAITO、GUMI、神威がくぽ",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween 🎃👻 What should I sing today～～!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1z?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "だいしきゅーだいしゅき",
+  "artist": "femme fatale",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween 🎃👻 What should I sing today～～!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1z?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "UNDEAD",
+  "artist": "YOASOBI",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween 🎃👻 What should I sing today～～!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1z?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween 🎃👻 What should I sing today～～!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1z?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "東京百鬼夜行",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween 🎃👻 What should I sing today～～!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1z?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "撥条少女時計",
+  "artist": "Drop feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween 🎃👻 What should I sing today～～!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1z?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "スロウダウナー",
+  "artist": "ろくろ feat. 初音ミク、GUMI",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween 🎃👻 What should I sing today～～!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1z?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ロウワー",
+  "artist": "ぬゆり feat. flower",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween 🎃👻 What should I sing today～～!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1z?p=9",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween 🎃👻 What should I sing today～～!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1z?p=10",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-31] Happy Halloween 🎃👻 What should I sing today～～!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE1z?p=11",
   "source": "hinachibi.js"
 }
 );
