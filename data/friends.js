@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 10/31/2026, 3:01:58 AM
+// 生成时间: 10/31/2026, 5:49:04 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5003,6 +5003,86 @@ window.SONG_DATA.push(
   "collection": "Collab Song Clip 2026-10-10 3D Karaoke Collaboration: Singing our hearts out with amazing seniors✨ Kurone Yoruwa × Lisa Makari × Figaro",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13Xpu6MErA?p=10",
+  "source": "friends.js"
+},
+    {
+  "title": "ジャンキーナイトタウンオーケストラ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "Crossover song clip 2026-10-28 I heard we seem a bit similar.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nexr6HELA?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "アノニマスファンフアレ",
+  "artist": "ツミキ feat. GUMI",
+  "collection": "Crossover song clip 2026-10-28 I heard we seem a bit similar.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nexr6HELA?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "宵々古今",
+  "artist": "REOL",
+  "collection": "Crossover song clip 2026-10-28 I heard we seem a bit similar.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nexr6HELA?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "スロウダウナー",
+  "artist": "ろくろ feat. 初音ミク、GUMI",
+  "collection": "Crossover song clip 2026-10-28 I heard we seem a bit similar.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nexr6HELA?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "Crossover song clip 2026-10-28 I heard we seem a bit similar.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nexr6HELA?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "不死鳥",
+  "artist": "SEKAI NO OWARI",
+  "collection": "Crossover song clip 2026-10-28 I heard we seem a bit similar.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nexr6HELA?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "ラグトレイン",
+  "artist": "稲葉曇 feat. 歌愛ユキ",
+  "collection": "Crossover song clip 2026-10-28 I heard we seem a bit similar.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nexr6HELA?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "しあわせレストラン",
+  "artist": "弌誠",
+  "collection": "Crossover song clip 2026-10-28 I heard we seem a bit similar.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nexr6HELA?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "セカイシックに少年少女",
+  "artist": "そらる×まふまふ",
+  "collection": "Crossover song clip 2026-10-28 I heard we seem a bit similar.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nexr6HELA?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "ノンブレス・オブリージュ",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "Crossover song clip 2026-10-28 I heard we seem a bit similar.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1nexr6HELA?p=10",
   "source": "friends.js"
 }
 );
