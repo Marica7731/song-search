@@ -944,6 +944,10 @@
           {
             canonical: '勇気100%',
             aliases: ['勇気100%', '勇気100％']
+          },
+          {
+            canonical: '螺旋',
+            aliases: ['螺旋', '螺旋 -RASEN-']
           }
         ];
         
@@ -1017,6 +1021,34 @@
             return titleKey;
         }
 
+        const TITLE_ARTIST_CANONICAL_ALIAS_GROUPS = [
+          {
+            title: '今宵はHalloween Night!',
+            canonicalArtist: 'hololive IDOL PROJECT',
+            aliases: [
+              'hololive IDOL PROJECT',
+              'ホロライブ',
+              'ホロライブ夜空メル紫咲シオン癒月ちょこ潤羽るしあ'
+            ]
+          }
+        ];
+
+        const TITLE_ARTIST_CANONICAL_ALIAS_MAP = TITLE_ARTIST_CANONICAL_ALIAS_GROUPS.reduce((map, group) => {
+          const titleKey = normalizeSongIdentityKey(group.title);
+          const canonicalArtist = normalizeString(group.canonicalArtist);
+          [group.canonicalArtist, ...(group.aliases || [])].forEach(alias => {
+            const artistKey = normalizeString(alias);
+            if (artistKey) map.set(`${titleKey}\u0000${artistKey}`, canonicalArtist);
+          });
+          return map;
+        }, new Map());
+
+        function normalizeSongArtistIdentityKey(songOrTitle) {
+          const titleKey = normalizeSongIdentityKey(songOrTitle);
+          const artistKey = normalizeString(getSongField(songOrTitle, 'artist'));
+          return TITLE_ARTIST_CANONICAL_ALIAS_MAP.get(`${titleKey}\u0000${artistKey}`) || artistKey;
+        }
+
         const ARTIST_AGNOSTIC_IDENTITY_KEYS = new Set([
             normalizeString('ワールドイズマイン'),
             normalizeString('ワールドイズマインCPK! Remix'),
@@ -1049,6 +1081,7 @@
 
             const normArtistA = normalizeString(artistA);
             const normArtistB = normalizeString(artistB);
+            if (normalizeSongArtistIdentityKey(songA) === normalizeSongArtistIdentityKey(songB)) return true;
             return normArtistA === normArtistB || hasContinuousCommonStr(artistA, artistB);
         }
 
