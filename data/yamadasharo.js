@@ -1,6 +1,6 @@
 // 山田シャロ - 歌单数据 (多合集汇总)
 // 来源: BV179L66pE1f
-// 生成时间: 10/31/2026, 12:58:31 AM
+// 生成时间: 10/31/2026, 3:22:30 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2859,6 +2859,118 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-10-16] Song requests welcome! Come listen to songs in a relaxed and leisurely way ✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GgnM6cE9r?p=16",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Happy Halloween",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "[Song Cut] [2026-10-30] Halloween Eve!! Let's sing Halloween-themed songs~~✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Soxr6vEpR?p=1",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ゴーストルール",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-30] Halloween Eve!! Let's sing Halloween-themed songs~~✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Soxr6vEpR?p=2",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "おばけのウケねらい",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-30] Halloween Eve!! Let's sing Halloween-themed songs~~✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Soxr6vEpR?p=3",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "GHOST",
+  "artist": "星街すいせい",
+  "collection": "[Song Cut] [2026-10-30] Halloween Eve!! Let's sing Halloween-themed songs~~✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Soxr6vEpR?p=4",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "[Song Cut] [2026-10-30] Halloween Eve!! Let's sing Halloween-themed songs~~✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Soxr6vEpR?p=5",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "つけまつける",
+  "artist": "きゃりーぱみゅぱみゅ",
+  "collection": "[Song Cut] [2026-10-30] Halloween Eve!! Let's sing Halloween-themed songs~~✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Soxr6vEpR?p=6",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "DISCOTHEQUE",
+  "artist": "水樹奈々",
+  "collection": "[Song Cut] [2026-10-30] Halloween Eve!! Let's sing Halloween-themed songs~~✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Soxr6vEpR?p=7",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Dancing in the Velvet Moon",
+  "artist": "水樹奈々",
+  "collection": "[Song Cut] [2026-10-30] Halloween Eve!! Let's sing Halloween-themed songs~~✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Soxr6vEpR?p=8",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-30] Halloween Eve!! Let's sing Halloween-themed songs~~✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Soxr6vEpR?p=9",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ViViD",
+  "artist": "May'n",
+  "collection": "[Song Cut] [2026-10-30] Halloween Eve!! Let's sing Halloween-themed songs~~✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Soxr6vEpR?p=10",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-10-30] Halloween Eve!! Let's sing Halloween-themed songs~~✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Soxr6vEpR?p=11",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "[Song Cut] [2026-10-30] Halloween Eve!! Let's sing Halloween-themed songs~~✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Soxr6vEpR?p=12",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "[Song Cut] [2026-10-30] Halloween Eve!! Let's sing Halloween-themed songs~~✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Soxr6vEpR?p=13",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "幽霊東京",
+  "artist": "Ayase feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-30] Halloween Eve!! Let's sing Halloween-themed songs~~✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Soxr6vEpR?p=14",
   "source": "yamadasharo.js"
 }
 );

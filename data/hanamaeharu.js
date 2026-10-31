@@ -1,6 +1,6 @@
 // 花前ハル - 歌单数据 (多合集汇总)
 // 来源: BV1dfjx61Eri
-// 生成时间: 10/31/2026, 1:45:11 AM
+// 生成时间: 10/31/2026, 4:22:08 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -971,6 +971,286 @@ window.SONG_DATA.push(
   "collection": "【Song Clip】[2026-08-22] My first singing relay performance✨️ Let me be the grand finale of the Morning Glory Team! ❗️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1L28p6NELH?p=5",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=1",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "ブルーアンビエンス",
+  "artist": "Mrs. GREEN APPLE feat. asmi",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=2",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=3",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "ずうっといっしょ！",
+  "artist": "キタニタツヤ",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=4",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "聖者の行進",
+  "artist": "キタニタツヤ",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=5",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=6",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "ハッピーラッキーチャッピー",
+  "artist": "ano",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=7",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "ちゅ、多様性。",
+  "artist": "ano",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=8",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=9",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師, 宇多田ヒカル",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=10",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=11",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "心予報",
+  "artist": "Eve",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=12",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "Watch me!",
+  "artist": "YOASOBI",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=13",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "勇者",
+  "artist": "YOASOBI",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=14",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=15",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=16",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "Anytime Anywhere",
+  "artist": "milet",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=17",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=18",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "Brave Shine",
+  "artist": "Aimer",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=19",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "「僕は...」",
+  "artist": "あたらよ",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=20",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=21",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "あいつら全員同窓会",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=22",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "ハゼ馳せる果てるまで",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=23",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "残機",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=24",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "SAD SONG",
+  "artist": "ちゃんみな",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=25",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "ヨワネハキ",
+  "artist": "MAISONdes feat. 和ぬか, asmi",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=26",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ",
+  "artist": "MAISONdes feat. 花譜, ツミキ",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=27",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "SOUVENIR",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=28",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=29",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=30",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=31",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "チェリーポップ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=32",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=33",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "クスシキ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=34",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "ダンスホール",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=35",
   "source": "hanamaeharu.js"
 }
 );

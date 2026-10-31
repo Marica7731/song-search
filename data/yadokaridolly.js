@@ -1,10 +1,106 @@
 // ヤドカリのドリィ - 歌单数据 (多合集汇总)
 // 来源: BV1znpW6xECf
-// 生成时间: 10/31/2026, 2:01:59 AM
+// 生成时间: 10/31/2026, 4:43:08 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
+    {
+  "title": "たった1つの想い",
+  "artist": "KOKIA",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月30日23点场 一周结束了，慢慢入睡吧。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rVxk69EKd?p=1",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "さよならの夏",
+  "artist": "森山良子",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月30日23点场 一周结束了，慢慢入睡吧。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rVxk69EKd?p=2",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月30日23点场 一周结束了，慢慢入睡吧。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rVxk69EKd?p=3",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "Over the Rainbow",
+  "artist": "Judy Garland",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月30日23点场 一周结束了，慢慢入睡吧。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rVxk69EKd?p=4",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月30日23点场 一周结束了，慢慢入睡吧。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rVxk69EKd?p=5",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "心拍数#0822",
+  "artist": "蝶々P feat. 初音ミク",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月30日23点场 一周结束了，慢慢入睡吧。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rVxk69EKd?p=6",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "When You Wish Upon a Star",
+  "artist": "Cliff Edwards",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月30日23点场 一周结束了，慢慢入睡吧。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rVxk69EKd?p=7",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "カイネ／救済",
+  "artist": "岡部啓一・Emi Evans",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月30日23点场 一周结束了，慢慢入睡吧。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rVxk69EKd?p=8",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "and I'm home",
+  "artist": "美樹さやか(喜多村英梨)・佐倉杏子(野中藍)",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月30日23点场 一周结束了，慢慢入睡吧。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rVxk69EKd?p=9",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "悲しみの向こうへ",
+  "artist": "いとうかなこ",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月30日23点场 一周结束了，慢慢入睡吧。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rVxk69EKd?p=10",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "アンインストール",
+  "artist": "石川智晶",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月30日23点场 一周结束了，慢慢入睡吧。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rVxk69EKd?p=11",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "二千年... 若しくは... 二万年後の君へ・・・",
+  "artist": "Linked Horizon",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年10月30日23点场 一周结束了，慢慢入睡吧。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1rVxk69EKd?p=12",
+  "source": "yadokaridolly.js"
+},
     {
   "title": "storia",
   "artist": "Kalafina",

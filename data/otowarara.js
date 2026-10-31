@@ -1,6 +1,6 @@
 // 音羽ララ - 歌单数据 (多合集汇总)
 // 来源: BV1PE7J6CESH
-// 生成时间: 10/31/2026, 1:53:41 AM
+// 生成时间: 10/31/2026, 4:32:44 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -859,6 +859,78 @@ window.SONG_DATA.push(
   "collection": "【Singing Clip】[2026-08-18] Non-stop singing stream 🌃 No chatting, just singing all the way ❤️‍🔥 Accepting song requests ⭕",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=18",
+  "source": "otowarara.js"
+},
+    {
+  "title": "グリグリメガネと月光蟲",
+  "artist": "古川本舗 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-30] Vocaloid Songs 👾 From Nostalgic Classics to Hit Songs! 🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFxk6YEo3?p=1",
+  "source": "otowarara.js"
+},
+    {
+  "title": "おひめさまになりたいのッ！",
+  "artist": "OSTER project feat. 鏡音リン",
+  "collection": "[Song Cut] [2026-10-30] Vocaloid Songs 👾 From Nostalgic Classics to Hit Songs! 🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFxk6YEo3?p=2",
+  "source": "otowarara.js"
+},
+    {
+  "title": "僕は初音ミクとキスをした",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-30] Vocaloid Songs 👾 From Nostalgic Classics to Hit Songs! 🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFxk6YEo3?p=3",
+  "source": "otowarara.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑ feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-30] Vocaloid Songs 👾 From Nostalgic Classics to Hit Songs! 🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFxk6YEo3?p=4",
+  "source": "otowarara.js"
+},
+    {
+  "title": "古書屋敷殺人事件",
+  "artist": "てにをは feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-30] Vocaloid Songs 👾 From Nostalgic Classics to Hit Songs! 🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFxk6YEo3?p=5",
+  "source": "otowarara.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat. GUMI",
+  "collection": "[Song Cut] [2026-10-30] Vocaloid Songs 👾 From Nostalgic Classics to Hit Songs! 🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFxk6YEo3?p=6",
+  "source": "otowarara.js"
+},
+    {
+  "title": "抜錨",
+  "artist": "ナナホシ管弦楽団 feat. 巡音ルカ",
+  "collection": "[Song Cut] [2026-10-30] Vocaloid Songs 👾 From Nostalgic Classics to Hit Songs! 🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFxk6YEo3?p=7",
+  "source": "otowarara.js"
+},
+    {
+  "title": "スイートマジック",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "[Song Cut] [2026-10-30] Vocaloid Songs 👾 From Nostalgic Classics to Hit Songs! 🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFxk6YEo3?p=8",
+  "source": "otowarara.js"
+},
+    {
+  "title": "パメラ",
+  "artist": "バルーン feat. flower",
+  "collection": "[Song Cut] [2026-10-30] Vocaloid Songs 👾 From Nostalgic Classics to Hit Songs! 🤍",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1mFxk6YEo3?p=9",
   "source": "otowarara.js"
 }
 );

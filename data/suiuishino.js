@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 10/31/2026, 1:46:06 AM
+// 生成时间: 10/31/2026, 4:23:02 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6291,6 +6291,102 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-10-28] Lunchtime Healing Acoustic Singing!!｜Shino's Tailor Shop",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17Uxw6BEcZ?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "EYE",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "[Song Cut] [2026-10-30] Let's sing songs suitable for Halloween 🎃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTxk6ZEVP?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ファッションモンスター",
+  "artist": "きゃりーぱみゅぱみゅ",
+  "collection": "[Song Cut] [2026-10-30] Let's sing songs suitable for Halloween 🎃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTxk6ZEVP?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "幽霊東京",
+  "artist": "Ayase feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-30] Let's sing songs suitable for Halloween 🎃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTxk6ZEVP?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-30] Let's sing songs suitable for Halloween 🎃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTxk6ZEVP?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "月に吠える",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-10-30] Let's sing songs suitable for Halloween 🎃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTxk6ZEVP?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Magia",
+  "artist": "Kalafina",
+  "collection": "[Song Cut] [2026-10-30] Let's sing songs suitable for Halloween 🎃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTxk6ZEVP?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "天国",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "[Song Cut] [2026-10-30] Let's sing songs suitable for Halloween 🎃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTxk6ZEVP?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Happy Halloween",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "[Song Cut] [2026-10-30] Let's sing songs suitable for Halloween 🎃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTxk6ZEVP?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ロウワー",
+  "artist": "ぬゆり feat. flower",
+  "collection": "[Song Cut] [2026-10-30] Let's sing songs suitable for Halloween 🎃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTxk6ZEVP?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "乙女解剖",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-10-30] Let's sing songs suitable for Halloween 🎃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTxk6ZEVP?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ラブカ？",
+  "artist": "柊キライ feat. flower",
+  "collection": "[Song Cut] [2026-10-30] Let's sing songs suitable for Halloween 🎃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTxk6ZEVP?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "季節は次々死んでいく",
+  "artist": "amazarashi",
+  "collection": "[Song Cut] [2026-10-30] Let's sing songs suitable for Halloween 🎃",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1yTxk6ZEVP?p=12",
   "source": "suiuishino.js"
 }
 );

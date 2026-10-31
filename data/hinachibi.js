@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 10/31/2026, 1:02:27 AM
+// 生成时间: 10/31/2026, 3:26:27 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3211,6 +3211,94 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-10-20] Sing with full energy in the evening too 🎶 Vocaloid ┊ Anime songs ┊ J-POP, I want to sing all kinds of songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1dBnP6sENn?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "生きる",
+  "artist": "水野あつ feat. 可不",
+  "collection": "【Song Cut】[2026-10-30] I want to sing! Come listen to me sing♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uoxr6vEbT?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "Magical Word",
+  "artist": "P丸様。",
+  "collection": "【Song Cut】[2026-10-30] I want to sing! Come listen to me sing♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uoxr6vEbT?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "螺旋",
+  "artist": "9Lana",
+  "collection": "【Song Cut】[2026-10-30] I want to sing! Come listen to me sing♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uoxr6vEbT?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "BALALAIKA",
+  "artist": "9Lana",
+  "collection": "【Song Cut】[2026-10-30] I want to sing! Come listen to me sing♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uoxr6vEbT?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "みちづれ",
+  "artist": "星街すいせい",
+  "collection": "【Song Cut】[2026-10-30] I want to sing! Come listen to me sing♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uoxr6vEbT?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "【Song Cut】[2026-10-30] I want to sing! Come listen to me sing♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uoxr6vEbT?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "洗脳",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【Song Cut】[2026-10-30] I want to sing! Come listen to me sing♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uoxr6vEbT?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "踊",
+  "artist": "Ado",
+  "collection": "【Song Cut】[2026-10-30] I want to sing! Come listen to me sing♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uoxr6vEbT?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "Happy Halloween",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "【Song Cut】[2026-10-30] I want to sing! Come listen to me sing♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uoxr6vEbT?p=9",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ハイドアンド・シーク",
+  "artist": "19 -iku- feat. 初音ミク",
+  "collection": "【Song Cut】[2026-10-30] I want to sing! Come listen to me sing♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uoxr6vEbT?p=10",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "夜行性ハイズ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【Song Cut】[2026-10-30] I want to sing! Come listen to me sing♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Uoxr6vEbT?p=11",
   "source": "hinachibi.js"
 }
 );
