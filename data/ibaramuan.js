@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 10/31/2026, 9:00:40 PM
+// 生成时间: 10/31/2026, 11:22:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11747,6 +11747,302 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-10-29] Defeated by the tense atmosphere, so I'm starting a late-night livestream",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xvxw67E4a?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "心とかいう名前の未発見の臓器の機能についての考察",
+  "artist": "adstlaxy feat. 初音ミク",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "太陽が昇らない世界",
+  "artist": "Aimer",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "てんしょう しょうてんしょう",
+  "artist": "きくお feat. 初音ミク",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "あなぐらぐらし",
+  "artist": "きくお feat. 初音ミク",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "破滅の純情",
+  "artist": "ワルキューレ",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "IGNITE",
+  "artist": "藍井エイル",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "とても素敵な六月でした",
+  "artist": "Eight feat. 初音ミク",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "光るなら",
+  "artist": "Goose house",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Rising Hope",
+  "artist": "LiSA",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "CHAINSAW BLOOD",
+  "artist": "Vaundy",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "マカロン",
+  "artist": "ATOLS feat. 初音ミク",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "平行線",
+  "artist": "さユり",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Henceforth",
+  "artist": "Orangestar feat. IA",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Realize",
+  "artist": "鈴木このみ",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru feat. 鏡音リン",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "撫でんな",
+  "artist": "柊マグネタイト feat. 可不",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "キャットラビング",
+  "artist": "香椎モイミ feat. 可不",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "好きすぎて滅❣",
+  "artist": "M!LK",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "勿忘",
+  "artist": "Awesome City Club",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "命のユースティティア",
+  "artist": "Neru feat. 鏡音レン",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=26",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "駆けろ",
+  "artist": "星街すいせい",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=27",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "六等星",
+  "artist": "ざらめ",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=28",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "抜錨",
+  "artist": "ナナホシ管弦楽団 feat. 巡音ルカ",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=29",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=30",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "イエスタデイ",
+  "artist": "Official髭男dism",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=31",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "メリーゴーランド",
+  "artist": "優里",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=32",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "猫",
+  "artist": "DISH//",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=33",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "YUME日和",
+  "artist": "島谷ひとみ",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=34",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "眠り姫",
+  "artist": "茨むあん",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=35",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Distant Letter",
+  "artist": "茨むあん",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=36",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "PPPP",
+  "artist": "TAK feat. 初音ミク、重音テト",
+  "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=37",
   "source": "ibaramuan.js"
 }
 );

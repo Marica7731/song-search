@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 10/31/2026, 7:56:28 PM
+// 生成时间: 10/31/2026, 10:17:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7483,6 +7483,142 @@ window.SONG_DATA.push(
   "collection": "[💫✖Song Cut] [2026-10-25] First singing stream after changing into new outfit🪽",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1g8nD67EJc?p=29",
+  "source": "kukuri.js"
+},
+    {
+  "title": "フクロウ ～フクロウが知らせる客が来たと～",
+  "artist": "KOKIA",
+  "collection": "[💫✖Song Cut] [2026-10-31] Halloween is here! Choose chocolate for candy.ᐟ🍫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PEqw?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN feat. 鏡音リン",
+  "collection": "[💫✖Song Cut] [2026-10-31] Halloween is here! Choose chocolate for candy.ᐟ🍫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PEqw?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "月のワルツ",
+  "artist": "諫山実生",
+  "collection": "[💫✖Song Cut] [2026-10-31] Halloween is here! Choose chocolate for candy.ᐟ🍫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PEqw?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ツキアカリ",
+  "artist": "Rie fu",
+  "collection": "[💫✖Song Cut] [2026-10-31] Halloween is here! Choose chocolate for candy.ᐟ🍫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PEqw?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "対象a",
+  "artist": "anNina",
+  "collection": "[💫✖Song Cut] [2026-10-31] Halloween is here! Choose chocolate for candy.ᐟ🍫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PEqw?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師×宇多田ヒカル",
+  "collection": "[💫✖Song Cut] [2026-10-31] Halloween is here! Choose chocolate for candy.ᐟ🍫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PEqw?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "エウテルペ",
+  "artist": "EGOIST",
+  "collection": "[💫✖Song Cut] [2026-10-31] Halloween is here! Choose chocolate for candy.ᐟ🍫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PEqw?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "最後の花弁",
+  "artist": "EGOIST",
+  "collection": "[💫✖Song Cut] [2026-10-31] Halloween is here! Choose chocolate for candy.ᐟ🍫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PEqw?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "I beg you",
+  "artist": "Aimer",
+  "collection": "[💫✖Song Cut] [2026-10-31] Halloween is here! Choose chocolate for candy.ᐟ🍫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PEqw?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "花の唄",
+  "artist": "Aimer",
+  "collection": "[💫✖Song Cut] [2026-10-31] Halloween is here! Choose chocolate for candy.ᐟ🍫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PEqw?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "unravel",
+  "artist": "TK from 凛として時雨",
+  "collection": "[💫✖Song Cut] [2026-10-31] Halloween is here! Choose chocolate for candy.ᐟ🍫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PEqw?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Magia",
+  "artist": "Kalafina",
+  "collection": "[💫✖Song Cut] [2026-10-31] Halloween is here! Choose chocolate for candy.ᐟ🍫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PEqw?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "oblivious",
+  "artist": "Kalafina",
+  "collection": "[💫✖Song Cut] [2026-10-31] Halloween is here! Choose chocolate for candy.ᐟ🍫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PEqw?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "傷跡",
+  "artist": "Kalafina",
+  "collection": "[💫✖Song Cut] [2026-10-31] Halloween is here! Choose chocolate for candy.ᐟ🍫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PEqw?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "聖少女領域",
+  "artist": "ALI PROJECT",
+  "collection": "[💫✖Song Cut] [2026-10-31] Halloween is here! Choose chocolate for candy.ᐟ🍫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PEqw?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "禁じられた遊び",
+  "artist": "ALI PROJECT",
+  "collection": "[💫✖Song Cut] [2026-10-31] Halloween is here! Choose chocolate for candy.ᐟ🍫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PEqw?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Mrs.Pumpkinの滑稽な夢",
+  "artist": "ハチ feat. 初音ミク",
+  "collection": "[💫✖Song Cut] [2026-10-31] Halloween is here! Choose chocolate for candy.ᐟ🍫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PEqw?p=17",
   "source": "kukuri.js"
 }
 );

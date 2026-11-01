@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr
-// 生成时间: 10/31/2026, 7:57:57 PM
+// 生成时间: 10/31/2026, 10:18:06 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15835,6 +15835,54 @@ window.SONG_DATA.push(
   "collection": "[Song cut] [2026-10-24] Singing again after a long time🧚‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1maHu6ZEFg?p=12",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Magia",
+  "artist": "Kalafina",
+  "collection": "[Song cut] [2026-10-31] Halloween new costume debut 🎃🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE15?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "Mrs.Pumpkinの滑稽な夢",
+  "artist": "ハチ feat. 初音ミク",
+  "collection": "[Song cut] [2026-10-31] Halloween new costume debut 🎃🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE15?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師×宇多田ヒカル",
+  "collection": "[Song cut] [2026-10-31] Halloween new costume debut 🎃🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE15?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "フクロウ ～フクロウが知らせる客が来たと～",
+  "artist": "KOKIA",
+  "collection": "[Song cut] [2026-10-31] Halloween new costume debut 🎃🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE15?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "奈落の花",
+  "artist": "島みやえい子",
+  "collection": "[Song cut] [2026-10-31] Halloween new costume debut 🎃🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE15?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "島のうた",
+  "artist": "セイレーン(鈴木みのり)・人魚(大木咲絵子・七瀬彩夏)",
+  "collection": "[Song cut] [2026-10-31] Halloween new costume debut 🎃🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wZxH6PE15?p=6",
   "source": "naraetan.js"
 },
     {

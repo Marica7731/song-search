@@ -1,6 +1,6 @@
 // チョま - 歌单数据 (多合集汇总)
 // 来源: BV1kM3L6GEBV
-// 生成时间: 10/31/2026, 9:07:53 PM
+// 生成时间: 10/31/2026, 11:29:47 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5203,6 +5203,166 @@ window.SONG_DATA.push(
   "collection": "Cho ma song cut October 28, 2026, 8 PM session First-letter wheel decides which song to sing!! 2026-10-28",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JUxw6BEFd?p=12",
+  "source": "choma.js"
+},
+    {
+  "title": "鬼ノ宴",
+  "artist": "友成空",
+  "collection": "Choma song cut October 31, 2026, 15:00 session Happy Halloween!! 2026-10-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GixH6EErj?p=1",
+  "source": "choma.js"
+},
+    {
+  "title": "Happy Halloween",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "Choma song cut October 31, 2026, 15:00 session Happy Halloween!! 2026-10-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GixH6EErj?p=2",
+  "source": "choma.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "Choma song cut October 31, 2026, 15:00 session Happy Halloween!! 2026-10-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GixH6EErj?p=3",
+  "source": "choma.js"
+},
+    {
+  "title": "ヴィラン",
+  "artist": "てにをは feat. v flower",
+  "collection": "Choma song cut October 31, 2026, 15:00 session Happy Halloween!! 2026-10-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GixH6EErj?p=4",
+  "source": "choma.js"
+},
+    {
+  "title": "Happy Halloween",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "Choma song cut October 31, 2026, 15:00 session Happy Halloween!! 2026-10-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GixH6EErj?p=5",
+  "source": "choma.js"
+},
+    {
+  "title": "リードコントロール",
+  "artist": "なるみや",
+  "collection": "Choma song cut October 31, 2026, 15:00 session Happy Halloween!! 2026-10-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GixH6EErj?p=6",
+  "source": "choma.js"
+},
+    {
+  "title": "メズマライザー",
+  "artist": "サツキ feat. 初音ミク・重音テト",
+  "collection": "Choma song cut October 31, 2026, 15:00 session Happy Halloween!! 2026-10-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GixH6EErj?p=7",
+  "source": "choma.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat. 初音ミク",
+  "collection": "Choma song cut October 31, 2026, 15:00 session Happy Halloween!! 2026-10-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GixH6EErj?p=8",
+  "source": "choma.js"
+},
+    {
+  "title": "Happy Halloween",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "Choma song cut October 31, 2026, 15:00 session Happy Halloween!! 2026-10-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GixH6EErj?p=9",
+  "source": "choma.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "Choma song cut October 31, 2026, 15:00 session Happy Halloween!! 2026-10-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GixH6EErj?p=10",
+  "source": "choma.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "Choma song cut October 31, 2026, 15:00 session Happy Halloween!! 2026-10-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GixH6EErj?p=11",
+  "source": "choma.js"
+},
+    {
+  "title": "trick and treat",
+  "artist": "OSTER project feat. 鏡音リン・鏡音レン",
+  "collection": "Choma song cut October 31, 2026, 15:00 session Happy Halloween!! 2026-10-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GixH6EErj?p=12",
+  "source": "choma.js"
+},
+    {
+  "title": "ヤラララ",
+  "artist": "AnythingBecomeMoe feat. 重音テト",
+  "collection": "Choma song cut October 31, 2026, 15:00 session Happy Halloween!! 2026-10-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GixH6EErj?p=13",
+  "source": "choma.js"
+},
+    {
+  "title": "Mrs.Pumpkinの滑稽な夢",
+  "artist": "ハチ feat. 初音ミク",
+  "collection": "Choma song cut October 31, 2026, 15:00 session Happy Halloween!! 2026-10-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GixH6EErj?p=14",
+  "source": "choma.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "Choma song cut October 31, 2026, 15:00 session Happy Halloween!! 2026-10-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GixH6EErj?p=15",
+  "source": "choma.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "Choma song cut October 31, 2026, 15:00 session Happy Halloween!! 2026-10-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GixH6EErj?p=16",
+  "source": "choma.js"
+},
+    {
+  "title": "おジャ魔女カーニバル!!",
+  "artist": "MAHO堂",
+  "collection": "Choma song cut October 31, 2026, 15:00 session Happy Halloween!! 2026-10-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GixH6EErj?p=17",
+  "source": "choma.js"
+},
+    {
+  "title": "魔法少女とチョコレゐト",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "Choma song cut October 31, 2026, 15:00 session Happy Halloween!! 2026-10-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GixH6EErj?p=18",
+  "source": "choma.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "Choma song cut October 31, 2026, 15:00 session Happy Halloween!! 2026-10-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GixH6EErj?p=19",
+  "source": "choma.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "Choma song cut October 31, 2026, 15:00 session Happy Halloween!! 2026-10-31",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GixH6EErj?p=20",
   "source": "choma.js"
 }
 );
