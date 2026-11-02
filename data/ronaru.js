@@ -1,6 +1,6 @@
 // 炉なる - 歌单数据 (多合集汇总)
 // 来源: BV1oeMx6WEve
-// 生成时间: 11/2/2026, 7:42:07 PM
+// 生成时间: 11/2/2026, 10:06:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -947,6 +947,78 @@ window.SONG_DATA.push(
   "collection": "【Song Clip】[2026-10-10] Love Love Song Relay｜Love Everyone the Most♡",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1jBpu6mEbX?p=4",
+  "source": "ronaru.js"
+},
+    {
+  "title": "メーベル",
+  "artist": "バルーン feat. flower",
+  "collection": "【歌切】[2026-11-01]竖屏开唱！这回嗓子是真的不舒服！【なるストリーム】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Um4T6qEsk?p=1",
+  "source": "ronaru.js"
+},
+    {
+  "title": "Happy Halloween",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "【歌切】[2026-11-01]竖屏开唱！这回嗓子是真的不舒服！【なるストリーム】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Um4T6qEsk?p=2",
+  "source": "ronaru.js"
+},
+    {
+  "title": "ブラッディ・グルービー",
+  "artist": "ChroNoiR",
+  "collection": "【歌切】[2026-11-01]竖屏开唱！这回嗓子是真的不舒服！【なるストリーム】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Um4T6qEsk?p=3",
+  "source": "ronaru.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "【歌切】[2026-11-01]竖屏开唱！这回嗓子是真的不舒服！【なるストリーム】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Um4T6qEsk?p=4",
+  "source": "ronaru.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-11-01]竖屏开唱！这回嗓子是真的不舒服！【なるストリーム】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Um4T6qEsk?p=5",
+  "source": "ronaru.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "【歌切】[2026-11-01]竖屏开唱！这回嗓子是真的不舒服！【なるストリーム】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Um4T6qEsk?p=6",
+  "source": "ronaru.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【歌切】[2026-11-01]竖屏开唱！这回嗓子是真的不舒服！【なるストリーム】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Um4T6qEsk?p=7",
+  "source": "ronaru.js"
+},
+    {
+  "title": "帝国少女",
+  "artist": "R Sound Design feat. 初音ミク",
+  "collection": "【歌切】[2026-11-01]竖屏开唱！这回嗓子是真的不舒服！【なるストリーム】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Um4T6qEsk?p=8",
+  "source": "ronaru.js"
+},
+    {
+  "title": "ハッピーウェディング前ソン",
+  "artist": "ヤバイTシャツ屋さん",
+  "collection": "【歌切】[2026-11-01]竖屏开唱！这回嗓子是真的不舒服！【なるストリーム】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Um4T6qEsk?p=9",
   "source": "ronaru.js"
 }
 );

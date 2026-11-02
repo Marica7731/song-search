@@ -1,6 +1,6 @@
 // ぺるしあ・てん - 歌单数据 (多合集汇总)
 // 来源: BV1iXKY6qEKv
-// 生成时间: 11/2/2026, 8:06:08 PM
+// 生成时间: 11/2/2026, 10:35:43 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1347,6 +1347,126 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-04]生日女孩来唱歌！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1qaHH6jEVu?p=15",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "はぐ",
+  "artist": "MIMI feat. 初音ミク・可不",
+  "collection": "【歌切】[2026-11-01]中午突袭来唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C94T6YEax?p=1",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "やっぱり雨は降るんだね",
+  "artist": "ツユ",
+  "collection": "【歌切】[2026-11-01]中午突袭来唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C94T6YEax?p=2",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "私は、わたしの事が好き。",
+  "artist": "かぐや(夏吉ゆうこ)",
+  "collection": "【歌切】[2026-11-01]中午突袭来唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C94T6YEax?p=3",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-11-01]中午突袭来唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C94T6YEax?p=4",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ADAMAS",
+  "artist": "LiSA",
+  "collection": "【歌切】[2026-11-01]中午突袭来唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C94T6YEax?p=5",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "Happy Halloween",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "【歌切】[2026-11-01]中午突袭来唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C94T6YEax?p=6",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "→unfinished→",
+  "artist": "KOTOKO",
+  "collection": "【歌切】[2026-11-01]中午突袭来唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C94T6YEax?p=7",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "ハム太郎とっとこうた",
+  "artist": "ハムちゃんず",
+  "collection": "【歌切】[2026-11-01]中午突袭来唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C94T6YEax?p=8",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑ feat. 初音ミク",
+  "collection": "【歌切】[2026-11-01]中午突袭来唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C94T6YEax?p=9",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-11-01]中午突袭来唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C94T6YEax?p=10",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "不可解",
+  "artist": "花譜",
+  "collection": "【歌切】[2026-11-01]中午突袭来唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C94T6YEax?p=11",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "過去を喰らう",
+  "artist": "花譜",
+  "collection": "【歌切】[2026-11-01]中午突袭来唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C94T6YEax?p=12",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "Pale",
+  "artist": "MIMI feat. 初音ミク",
+  "collection": "【歌切】[2026-11-01]中午突袭来唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C94T6YEax?p=13",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "とくべチュ、して",
+  "artist": "=LOVE",
+  "collection": "【歌切】[2026-11-01]中午突袭来唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C94T6YEax?p=14",
+  "source": "peruciaten.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-11-01]中午突袭来唱歌啦！",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1C94T6YEax?p=15",
   "source": "peruciaten.js"
 }
 );
