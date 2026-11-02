@@ -1,6 +1,6 @@
 // みなとん - 歌单数据 (多合集汇总)
 // 来源: BV1TqGY6gEEf
-// 生成时间: 11/2/2026, 2:35:59 AM
+// 生成时间: 11/2/2026, 4:45:52 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1395,6 +1395,206 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-10-25] New Outfit Surprise Singing Stream!! (Replay TBD)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV13tnD6UEuE?p=12",
+  "source": "minaton.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=1",
+  "source": "minaton.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=2",
+  "source": "minaton.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=3",
+  "source": "minaton.js"
+},
+    {
+  "title": "さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=4",
+  "source": "minaton.js"
+},
+    {
+  "title": "点描の唄",
+  "artist": "Mrs. GREEN APPLE feat. 井上苑子",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=5",
+  "source": "minaton.js"
+},
+    {
+  "title": "Automatic",
+  "artist": "宇多田ヒカル",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=6",
+  "source": "minaton.js"
+},
+    {
+  "title": "勿忘",
+  "artist": "Awesome City Club",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=7",
+  "source": "minaton.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=8",
+  "source": "minaton.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=9",
+  "source": "minaton.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=10",
+  "source": "minaton.js"
+},
+    {
+  "title": "勇者",
+  "artist": "YOASOBI",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=11",
+  "source": "minaton.js"
+},
+    {
+  "title": "traveling",
+  "artist": "宇多田ヒカル",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=12",
+  "source": "minaton.js"
+},
+    {
+  "title": "丸ノ内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=13",
+  "source": "minaton.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=14",
+  "source": "minaton.js"
+},
+    {
+  "title": "KissHug",
+  "artist": "aiko",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=15",
+  "source": "minaton.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=16",
+  "source": "minaton.js"
+},
+    {
+  "title": "食虫植物",
+  "artist": "理芽",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=17",
+  "source": "minaton.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=18",
+  "source": "minaton.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=19",
+  "source": "minaton.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ",
+  "artist": "MAISONdes feat. 花譜, ツミキ",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=20",
+  "source": "minaton.js"
+},
+    {
+  "title": "Netflix and chill",
+  "artist": "みなとん。",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=21",
+  "source": "minaton.js"
+},
+    {
+  "title": "Soranji",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=22",
+  "source": "minaton.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=23",
+  "source": "minaton.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=24",
+  "source": "minaton.js"
+},
+    {
+  "title": "別の人の彼女になったよ",
+  "artist": "wacci",
+  "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=25",
   "source": "minaton.js"
 }
 );

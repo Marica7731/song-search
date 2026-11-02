@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 11/2/2026, 2:02:12 AM
+// 生成时间: 11/2/2026, 4:12:07 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11139,6 +11139,126 @@ window.SONG_DATA.push(
   "collection": "[💐🎸Song Cut] [2026-10-29] Morning Activity | I'll sing and play even just after waking up, please let me sing.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1sixw62Ea2?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "若者のすべて",
+  "artist": "フジファブリック",
+  "collection": "【💐🎸歌切】[2026-11-01]11月了，冬季歌曲解禁～适合夜晚静听的弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cLxh69EYh?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "だから",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-11-01]11月了，冬季歌曲解禁～适合夜晚静听的弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cLxh69EYh?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "ハチミツ",
+  "artist": "aiko",
+  "collection": "【💐🎸歌切】[2026-11-01]11月了，冬季歌曲解禁～适合夜晚静听的弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cLxh69EYh?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "【💐🎸歌切】[2026-11-01]11月了，冬季歌曲解禁～适合夜晚静听的弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cLxh69EYh?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【💐🎸歌切】[2026-11-01]11月了，冬季歌曲解禁～适合夜晚静听的弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cLxh69EYh?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "西藤公園",
+  "artist": "back number",
+  "collection": "【💐🎸歌切】[2026-11-01]11月了，冬季歌曲解禁～适合夜晚静听的弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cLxh69EYh?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "ピアス",
+  "artist": "あたらよ",
+  "collection": "【💐🎸歌切】[2026-11-01]11月了，冬季歌曲解禁～适合夜晚静听的弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cLxh69EYh?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "give it back",
+  "artist": "Cö shu Nie",
+  "collection": "【💐🎸歌切】[2026-11-01]11月了，冬季歌曲解禁～适合夜晚静听的弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cLxh69EYh?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "夢をみせて",
+  "artist": "Cö shu Nie",
+  "collection": "【💐🎸歌切】[2026-11-01]11月了，冬季歌曲解禁～适合夜晚静听的弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cLxh69EYh?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "よるのあと",
+  "artist": "adieu",
+  "collection": "【💐🎸歌切】[2026-11-01]11月了，冬季歌曲解禁～适合夜晚静听的弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cLxh69EYh?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "楓",
+  "artist": "スピッツ",
+  "collection": "【💐🎸歌切】[2026-11-01]11月了，冬季歌曲解禁～适合夜晚静听的弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cLxh69EYh?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "美しい鰭",
+  "artist": "スピッツ",
+  "collection": "【💐🎸歌切】[2026-11-01]11月了，冬季歌曲解禁～适合夜晚静听的弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cLxh69EYh?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "グレゴリオ",
+  "artist": "古川本舗 feat. ちびた",
+  "collection": "【💐🎸歌切】[2026-11-01]11月了，冬季歌曲解禁～适合夜晚静听的弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cLxh69EYh?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "ひずみ",
+  "artist": "HARUHI",
+  "collection": "【💐🎸歌切】[2026-11-01]11月了，冬季歌曲解禁～适合夜晚静听的弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cLxh69EYh?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "世界はふたり",
+  "artist": "澄花",
+  "collection": "【💐🎸歌切】[2026-11-01]11月了，冬季歌曲解禁～适合夜晚静听的弹唱🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cLxh69EYh?p=15",
   "source": "sumica.js"
 }
 );

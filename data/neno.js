@@ -1,6 +1,6 @@
 // 碧生ねの - 歌单数据 (多合集汇总)
 // 来源: BV1S4TT6pEn4
-// 生成时间: 11/2/2026, 2:43:17 AM
+// 生成时间: 11/2/2026, 4:52:38 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2395,6 +2395,190 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-10-25] Leisurely Morning Singing Livestream🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1QyHg6BE6G?p=15",
+  "source": "neno.js"
+},
+    {
+  "title": "季節は次々死んでいく",
+  "artist": "amazarashi",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=1",
+  "source": "neno.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=2",
+  "source": "neno.js"
+},
+    {
+  "title": "冬眠",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=3",
+  "source": "neno.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=4",
+  "source": "neno.js"
+},
+    {
+  "title": "白南風",
+  "artist": "Orangestar",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=5",
+  "source": "neno.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=6",
+  "source": "neno.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=7",
+  "source": "neno.js"
+},
+    {
+  "title": "ラプンツェル",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=8",
+  "source": "neno.js"
+},
+    {
+  "title": "君の神様になりたい。",
+  "artist": "カンザキイオリ feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=9",
+  "source": "neno.js"
+},
+    {
+  "title": "白ゆき",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=10",
+  "source": "neno.js"
+},
+    {
+  "title": "スパークル",
+  "artist": "RADWIMPS",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=11",
+  "source": "neno.js"
+},
+    {
+  "title": "RE:I AM",
+  "artist": "Aimer",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=12",
+  "source": "neno.js"
+},
+    {
+  "title": "ニワカアメ",
+  "artist": "天野月",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=13",
+  "source": "neno.js"
+},
+    {
+  "title": "楔",
+  "artist": "奥華子",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=14",
+  "source": "neno.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=15",
+  "source": "neno.js"
+},
+    {
+  "title": "glow",
+  "artist": "keeno feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=16",
+  "source": "neno.js"
+},
+    {
+  "title": "最愛",
+  "artist": "KOH+",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=17",
+  "source": "neno.js"
+},
+    {
+  "title": "Namidairo",
+  "artist": "YUI",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=18",
+  "source": "neno.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI for 雨音薫",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=19",
+  "source": "neno.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=20",
+  "source": "neno.js"
+},
+    {
+  "title": "紡ぐ",
+  "artist": "とた",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=21",
+  "source": "neno.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=22",
+  "source": "neno.js"
+},
+    {
+  "title": "迷子の僕に",
+  "artist": "KEI feat. GUMI",
+  "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=23",
   "source": "neno.js"
 }
 );
