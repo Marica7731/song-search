@@ -1,6 +1,6 @@
 // ななし律歌 - 歌单数据 (多合集汇总)
 // 来源: BV1wHQVBTEU5
-// 生成时间: 11/3/2026, 7:40:33 PM
+// 生成时间: 11/3/2026, 10:30:32 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2811,6 +2811,238 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-10-26] A rare sight! Nanashi Rikka sings in the evening",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1fSxV6iEeA?p=21",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Happy Halloween",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=1",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ヴァンパイア",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=2",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "マシュマロ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=3",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ラヴィ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=4",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Mrs.Pumpkinの滑稽な夢",
+  "artist": "ハチ feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=5",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=6",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "化け猫",
+  "artist": "キタニタツヤ",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=7",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "キャットラビング",
+  "artist": "香椎モイミ feat. 可不",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=8",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "エンヴィキャットウォーク",
+  "artist": "トーマ feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=9",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=10",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "逆光",
+  "artist": "Ado",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=11",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=12",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "CHAINSAW BLOOD",
+  "artist": "Vaundy",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=13",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=14",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "エンヴィーベイビー",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=15",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "アイデンティティ",
+  "artist": "Kanaria feat. GUMI・初音ミク",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=16",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ボッカデラベリタ",
+  "artist": "柊キライ feat. flower",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=17",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ベノム",
+  "artist": "かいりきベア feat. flower",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=18",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ダーリンダンス",
+  "artist": "かいりきベア feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=19",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "愛して愛して愛して",
+  "artist": "きくお feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=20",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "フィクサー",
+  "artist": "ぬゆり feat. flower",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=21",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "幽霊東京",
+  "artist": "Ayase feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=22",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ヴィラン",
+  "artist": "てにをは feat. flower",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=23",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=24",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Gimme×Gimme",
+  "artist": "八王子P × Giga feat. 初音ミク・鏡音リン",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=25",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "虎視眈々",
+  "artist": "梅とら feat. 巡音ルカ・初音ミク・GUMI・IA・鏡音リン",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=26",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "転生林檎",
+  "artist": "ピノキオピー feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=27",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "砂の惑星",
+  "artist": "ハチ feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=28",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "SPYAIR",
+  "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=29",
   "source": "nanashirikka.js"
 }
 );

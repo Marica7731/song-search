@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 11/3/2026, 7:59:52 PM
+// 生成时间: 11/3/2026, 10:48:54 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12043,6 +12043,222 @@ window.SONG_DATA.push(
   "collection": "[Song cut] [2026-10-31] Thank you all for October too!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1WVxH6PESo?p=37",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat. 初音ミク",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "バレリーコ",
+  "artist": "みきとP feat. GUMI",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "サムライハート(Some Like It Hot!!)",
+  "artist": "SPYAIR",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "THE DAY",
+  "artist": "ポルノグラフィティ",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "スロウダウナー",
+  "artist": "ろくろ feat. 初音ミク・GUMI",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "フィクサー",
+  "artist": "ぬゆり feat. flower",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ECHO",
+  "artist": "Crusher-P feat. GUMI",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ヒビカセ",
+  "artist": "ギガP feat. 初音ミク",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "瞬間センチメンタル",
+  "artist": "SCANDAL",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "リライト",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アドレナ",
+  "artist": "YOASOBI",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "三原色",
+  "artist": "YOASOBI",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "PLATONIC GIRL",
+  "artist": "みきとP feat. GUMI",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "㋰責任集合体",
+  "artist": "マサラダ feat. 重音テトSV",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ザムザ",
+  "artist": "てにをは feat. 初音ミク",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "potatoになっていく",
+  "artist": "Neru feat. 鏡音リン・鏡音レン",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Shangri-La",
+  "artist": "angela",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "愛のうた～ピクミンのテーマ",
+  "artist": "ストロベリー・フラワー",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "雫",
+  "artist": "スキマスイッチ",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "心絵",
+  "artist": "ロードオブメジャー",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "JAP",
+  "artist": "abingdon boys school",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "月陽-ツキアカリ-",
+  "artist": "みきとP feat. GUMI",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Tot Musica",
+  "artist": "Ado",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "テオ",
+  "artist": "Omoi feat. 初音ミク",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=26",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "夢であるように",
+  "artist": "DEEN",
+  "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=27",
   "source": "ibaramuan.js"
 }
 );

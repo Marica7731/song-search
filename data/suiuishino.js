@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 11/3/2026, 8:33:33 PM
+// 生成时间: 11/3/2026, 11:19:28 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6427,6 +6427,126 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-10-31] Weaving Origins and Futures Song Relay: Shall We Weave the Story of Suiu Shinano Together?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nZxH6PEdj?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "あの夏に咲け",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-03] Yorushika song limited acoustic singing ♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEmJ?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "千鳥",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-03] Yorushika song limited acoustic singing ♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEmJ?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "夕凪、某、花惑い",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-03] Yorushika song limited acoustic singing ♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEmJ?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "月に吠える",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-03] Yorushika song limited acoustic singing ♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEmJ?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "エルマ",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-03] Yorushika song limited acoustic singing ♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEmJ?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-03] Yorushika song limited acoustic singing ♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEmJ?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-03] Yorushika song limited acoustic singing ♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEmJ?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "雲と幽霊",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-03] Yorushika song limited acoustic singing ♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEmJ?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-03] Yorushika song limited acoustic singing ♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEmJ?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "準透明少年",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-03] Yorushika song limited acoustic singing ♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEmJ?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "又三郎",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-03] Yorushika song limited acoustic singing ♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEmJ?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-03] Yorushika song limited acoustic singing ♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEmJ?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-03] Yorushika song limited acoustic singing ♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEmJ?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-03] Yorushika song limited acoustic singing ♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEmJ?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-03] Yorushika song limited acoustic singing ♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEmJ?p=15",
   "source": "suiuishino.js"
 }
 );

@@ -1,6 +1,6 @@
 // 澄花 - 歌单数据 (多合集汇总)
 // 来源: BV1kLXbBJEiZ
-// 生成时间: 11/3/2026, 7:33:06 PM
+// 生成时间: 11/3/2026, 10:22:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -11259,6 +11259,150 @@ window.SONG_DATA.push(
   "collection": "【💐🎸歌切】[2026-11-01]11月了，冬季歌曲解禁～适合夜晚静听的弹唱🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1cLxh69EYh?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "幽霊東京",
+  "artist": "Ayase feat. 初音ミク",
+  "collection": "[💐🎸Song Cut] [2026-11-03] Welcome new friends 🎶 At the end of the holiday, let's listen to some relaxing acoustic covers together ⟡.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEp8?p=1",
+  "source": "sumica.js"
+},
+    {
+  "title": "夜撫でるメノウ",
+  "artist": "Ayase",
+  "collection": "[💐🎸Song Cut] [2026-11-03] Welcome new friends 🎶 At the end of the holiday, let's listen to some relaxing acoustic covers together ⟡.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEp8?p=2",
+  "source": "sumica.js"
+},
+    {
+  "title": "嘘月",
+  "artist": "ヨルシカ",
+  "collection": "[💐🎸Song Cut] [2026-11-03] Welcome new friends 🎶 At the end of the holiday, let's listen to some relaxing acoustic covers together ⟡.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEp8?p=3",
+  "source": "sumica.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "[💐🎸Song Cut] [2026-11-03] Welcome new friends 🎶 At the end of the holiday, let's listen to some relaxing acoustic covers together ⟡.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEp8?p=4",
+  "source": "sumica.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "[💐🎸Song Cut] [2026-11-03] Welcome new friends 🎶 At the end of the holiday, let's listen to some relaxing acoustic covers together ⟡.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEp8?p=5",
+  "source": "sumica.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "コレサワ",
+  "collection": "[💐🎸Song Cut] [2026-11-03] Welcome new friends 🎶 At the end of the holiday, let's listen to some relaxing acoustic covers together ⟡.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEp8?p=6",
+  "source": "sumica.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "ヨルシカ",
+  "collection": "[💐🎸Song Cut] [2026-11-03] Welcome new friends 🎶 At the end of the holiday, let's listen to some relaxing acoustic covers together ⟡.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEp8?p=7",
+  "source": "sumica.js"
+},
+    {
+  "title": "ギブス",
+  "artist": "椎名林檎",
+  "collection": "[💐🎸Song Cut] [2026-11-03] Welcome new friends 🎶 At the end of the holiday, let's listen to some relaxing acoustic covers together ⟡.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEp8?p=8",
+  "source": "sumica.js"
+},
+    {
+  "title": "丸の内サディスティック",
+  "artist": "椎名林檎",
+  "collection": "[💐🎸Song Cut] [2026-11-03] Welcome new friends 🎶 At the end of the holiday, let's listen to some relaxing acoustic covers together ⟡.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEp8?p=9",
+  "source": "sumica.js"
+},
+    {
+  "title": "カブトムシ",
+  "artist": "aiko",
+  "collection": "[💐🎸Song Cut] [2026-11-03] Welcome new friends 🎶 At the end of the holiday, let's listen to some relaxing acoustic covers together ⟡.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEp8?p=10",
+  "source": "sumica.js"
+},
+    {
+  "title": "リズム",
+  "artist": "aiko",
+  "collection": "[💐🎸Song Cut] [2026-11-03] Welcome new friends 🎶 At the end of the holiday, let's listen to some relaxing acoustic covers together ⟡.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEp8?p=11",
+  "source": "sumica.js"
+},
+    {
+  "title": "横顔",
+  "artist": "aiko",
+  "collection": "[💐🎸Song Cut] [2026-11-03] Welcome new friends 🎶 At the end of the holiday, let's listen to some relaxing acoustic covers together ⟡.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEp8?p=12",
+  "source": "sumica.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "[💐🎸Song Cut] [2026-11-03] Welcome new friends 🎶 At the end of the holiday, let's listen to some relaxing acoustic covers together ⟡.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEp8?p=13",
+  "source": "sumica.js"
+},
+    {
+  "title": "Booo!",
+  "artist": "TOKOTOKO(西沢さんP) feat. 音街ウナ",
+  "collection": "[💐🎸Song Cut] [2026-11-03] Welcome new friends 🎶 At the end of the holiday, let's listen to some relaxing acoustic covers together ⟡.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEp8?p=14",
+  "source": "sumica.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP) feat. GUMI",
+  "collection": "[💐🎸Song Cut] [2026-11-03] Welcome new friends 🎶 At the end of the holiday, let's listen to some relaxing acoustic covers together ⟡.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEp8?p=15",
+  "source": "sumica.js"
+},
+    {
+  "title": "Automatic",
+  "artist": "宇多田ヒカル",
+  "collection": "[💐🎸Song Cut] [2026-11-03] Welcome new friends 🎶 At the end of the holiday, let's listen to some relaxing acoustic covers together ⟡.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEp8?p=16",
+  "source": "sumica.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "[💐🎸Song Cut] [2026-11-03] Welcome new friends 🎶 At the end of the holiday, let's listen to some relaxing acoustic covers together ⟡.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEp8?p=17",
+  "source": "sumica.js"
+},
+    {
+  "title": "こんなよる",
+  "artist": "澄花",
+  "collection": "[💐🎸Song Cut] [2026-11-03] Welcome new friends 🎶 At the end of the holiday, let's listen to some relaxing acoustic covers together ⟡.·*.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV14oxU6UEp8?p=18",
   "source": "sumica.js"
 }
 );

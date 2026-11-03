@@ -1,6 +1,6 @@
 // 一色イズ - 歌单数据 (多合集汇总)
 // 来源: BV1co7i6QEez
-// 生成时间: 11/3/2026, 8:19:43 PM
+// 生成时间: 11/3/2026, 11:07:32 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8123,6 +8123,278 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-10-31] Happy Halloween! Gonna sing lots of Halloween songs 🎃💫 Welcome new viewers",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wZxH6PE1r?p=23",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "私は最強",
+  "artist": "Ado",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=1",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=2",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "かわいいだけじゃだめですか？",
+  "artist": "CUTIE STREET",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=3",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=4",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "青春コンプレックス",
+  "artist": "結束バンド",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=5",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アイワナムチュー",
+  "artist": "MAISONdes feat. asmi, すりぃ",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=6",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "行くぜっ！怪盗少女",
+  "artist": "ももいろクローバー",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=7",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー(中島愛)",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=8",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "パジャマパーティーズのうた",
+  "artist": "パジャマパーティーズ",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=9",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "クラクラ",
+  "artist": "Ado",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=10",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "エゴロック",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=11",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "テレキャスタービーボーイ",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=12",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru feat. 鏡音リン",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=13",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Bのリベンジ",
+  "artist": "B小町",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=14",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=15",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=16",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "SUMMER SONG",
+  "artist": "YUI",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=17",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "ただ君に晴れ",
+  "artist": "ヨルシカ",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=18",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=19",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=20",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=21",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=22",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "花火",
+  "artist": "aiko",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=23",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "楓",
+  "artist": "スピッツ",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=24",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "レオ",
+  "artist": "優里",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=25",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "アルエ",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=26",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "車輪の唄",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=27",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "そして僕にできるコト",
+  "artist": "day after tomorrow",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=28",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=29",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "リードコントロール",
+  "artist": "なるみや",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=30",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "うい麦畑でつかまえて",
+  "artist": "しぐれうい",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=31",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "あの夢をなぞって",
+  "artist": "YOASOBI",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=32",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "セブンティーン",
+  "artist": "YOASOBI",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=33",
+  "source": "isshikiizu.js"
+},
+    {
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO(西沢さんP) feat. GUMI",
+  "collection": "【Song Cut】[2026-11-03] Surprise Singing 🎤 How about listening to a song at noon? 💫 Welcome new friends | J-POP・Vocaloid",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV18DxU6XEnY?p=34",
   "source": "isshikiizu.js"
 }
 );
