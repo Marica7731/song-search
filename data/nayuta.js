@@ -1,6 +1,6 @@
 // nayuta - 歌单数据 (多合集汇总)
 // 来源: BV1GXYFzXETo, BV1MPpUzsE1D, BV184W5zeE1Z
-// 生成时间: 11/4/2026, 6:49:52 AM
+// 生成时间: 11/4/2026, 9:20:03 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4688,7 +4688,7 @@ window.SONG_DATA.push(
     {
   "title": "you",
   "artist": "癒月",
-  "collection": "【nayuta歌切 2020年6月20日】New！なまゆた＃01 はじまるよ。～祝！13周年ありがとう！～",
+  "collection": "【nayuta song cut June 20, 2020】New! Namayuta #01 It's starting. ~Congrats! 13th anniversary thank you!~",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV184W5zeE1Z?p=1",
   "source": "nayuta.js"
@@ -4696,7 +4696,7 @@ window.SONG_DATA.push(
     {
   "title": "ずっと、ふたり。",
   "artist": "dai×nayuta",
-  "collection": "【nayuta歌切 2020年6月20日】New！なまゆた＃01 はじまるよ。～祝！13周年ありがとう！～",
+  "collection": "【nayuta song cut June 20, 2020】New! Namayuta #01 It's starting. ~Congrats! 13th anniversary thank you!~",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV184W5zeE1Z?p=2",
   "source": "nayuta.js"
@@ -4704,7 +4704,7 @@ window.SONG_DATA.push(
     {
   "title": "Life",
   "artist": "YUI",
-  "collection": "【nayuta歌切 2020年6月20日】New！なまゆた＃01 はじまるよ。～祝！13周年ありがとう！～",
+  "collection": "【nayuta song cut June 20, 2020】New! Namayuta #01 It's starting. ~Congrats! 13th anniversary thank you!~",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV184W5zeE1Z?p=3",
   "source": "nayuta.js"
@@ -4712,7 +4712,7 @@ window.SONG_DATA.push(
     {
   "title": "追想の先へ",
   "artist": "nayuta",
-  "collection": "【nayuta歌切 2020年9月27日】nayuta Birthday Live !! なまゆた＃02 ～祝！nayuta生誕祭！～",
+  "collection": "【nayuta Song Cut September 27, 2020】nayuta Birthday Live !! なまゆた＃02 ～Celebrate! nayuta's Birthday Festival!～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV184W5zeEJG?p=1",
   "source": "nayuta.js"
@@ -4720,7 +4720,7 @@ window.SONG_DATA.push(
     {
   "title": "垂直の青の果て",
   "artist": "nayuta",
-  "collection": "【nayuta歌切 2020年9月27日】nayuta Birthday Live !! なまゆた＃02 ～祝！nayuta生誕祭！～",
+  "collection": "【nayuta Song Cut September 27, 2020】nayuta Birthday Live !! なまゆた＃02 ～Celebrate! nayuta's Birthday Festival!～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV184W5zeEJG?p=2",
   "source": "nayuta.js"
@@ -4728,7 +4728,7 @@ window.SONG_DATA.push(
     {
   "title": "closed sky -2017 Arrange ver.",
   "artist": "nayuta",
-  "collection": "【nayuta歌切 2020年9月27日】nayuta Birthday Live !! なまゆた＃02 ～祝！nayuta生誕祭！～",
+  "collection": "【nayuta Song Cut September 27, 2020】nayuta Birthday Live !! なまゆた＃02 ～Celebrate! nayuta's Birthday Festival!～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV184W5zeEJG?p=3",
   "source": "nayuta.js"
@@ -4736,7 +4736,7 @@ window.SONG_DATA.push(
     {
   "title": "ふゆびより",
   "artist": "佐々木恵梨",
-  "collection": "【nayuta歌切 2020年11月29日】nayuta Live !! なまゆた＃03 ～祝！登録者1万人記念！～",
+  "collection": "<nayuta song cut November 29, 2020> nayuta Live !! なまゆた＃03 ～Celebrating 10,000 Subscribers!～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4W5zeEpQ?p=1",
   "source": "nayuta.js"
@@ -4744,7 +4744,7 @@ window.SONG_DATA.push(
     {
   "title": "ユキトキ",
   "artist": "やなぎなぎ",
-  "collection": "【nayuta歌切 2020年11月29日】nayuta Live !! なまゆた＃03 ～祝！登録者1万人記念！～",
+  "collection": "<nayuta song cut November 29, 2020> nayuta Live !! なまゆた＃03 ～Celebrating 10,000 Subscribers!～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4W5zeEpQ?p=2",
   "source": "nayuta.js"
@@ -4752,7 +4752,7 @@ window.SONG_DATA.push(
     {
   "title": "芽ぐみの雨",
   "artist": "やなぎなぎ",
-  "collection": "【nayuta歌切 2020年11月29日】nayuta Live !! なまゆた＃03 ～祝！登録者1万人記念！～",
+  "collection": "<nayuta song cut November 29, 2020> nayuta Live !! なまゆた＃03 ～Celebrating 10,000 Subscribers!～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1D4W5zeEpQ?p=3",
   "source": "nayuta.js"
@@ -4760,7 +4760,7 @@ window.SONG_DATA.push(
     {
   "title": "トレセの秘密",
   "artist": "nayuta",
-  "collection": "【nayuta歌切 2020年12月31日】nayuta Live !! なまゆた＃04 ～2020年ありがとう！今年を振り返る～",
+  "collection": "[nayuta Live Cut December 31, 2020] nayuta Live !! Namayuta #04 ~Thank You 2020! Looking Back on This Year~",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vjW5z3EsV?p=1",
   "source": "nayuta.js"
@@ -4768,7 +4768,7 @@ window.SONG_DATA.push(
     {
   "title": "幸せの結晶",
   "artist": "nayuta",
-  "collection": "【nayuta歌切 2020年12月31日】nayuta Live !! なまゆた＃04 ～2020年ありがとう！今年を振り返る～",
+  "collection": "[nayuta Live Cut December 31, 2020] nayuta Live !! Namayuta #04 ~Thank You 2020! Looking Back on This Year~",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vjW5z3EsV?p=2",
   "source": "nayuta.js"
@@ -4776,7 +4776,7 @@ window.SONG_DATA.push(
     {
   "title": "生まれてきてくれてありがとう",
   "artist": "nayuta",
-  "collection": "【nayuta歌切 2020年12月31日】nayuta Live !! なまゆた＃04 ～2020年ありがとう！今年を振り返る～",
+  "collection": "[nayuta Live Cut December 31, 2020] nayuta Live !! Namayuta #04 ~Thank You 2020! Looking Back on This Year~",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vjW5z3EsV?p=3",
   "source": "nayuta.js"
@@ -4784,7 +4784,7 @@ window.SONG_DATA.push(
     {
   "title": "追想の先へ",
   "artist": "nayuta",
-  "collection": "【nayuta歌切 2020年12月31日】nayuta Live !! なまゆた＃04 ～2020年ありがとう！今年を振り返る～",
+  "collection": "[nayuta Live Cut December 31, 2020] nayuta Live !! Namayuta #04 ~Thank You 2020! Looking Back on This Year~",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vjW5z3EsV?p=4",
   "source": "nayuta.js"
@@ -4792,7 +4792,7 @@ window.SONG_DATA.push(
     {
   "title": "春夏秋冬と君と",
   "artist": "nayuta",
-  "collection": "【nayuta歌切 2020年12月31日】nayuta Live !! なまゆた＃04 ～2020年ありがとう！今年を振り返る～",
+  "collection": "[nayuta Live Cut December 31, 2020] nayuta Live !! Namayuta #04 ~Thank You 2020! Looking Back on This Year~",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vjW5z3EsV?p=5",
   "source": "nayuta.js"
@@ -4800,7 +4800,7 @@ window.SONG_DATA.push(
     {
   "title": "ふゆびより",
   "artist": "佐々木恵梨",
-  "collection": "【nayuta歌切 2021年1月17日】nayuta Live !! なまゆた＃05 ～Happy New Year 2021～",
+  "collection": "【nayuta Live Cut January 17, 2021】nayuta Live !! Namayuta #05 ~Happy New Year 2021~",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YnW5zBEmB?p=1",
   "source": "nayuta.js"
@@ -4808,7 +4808,7 @@ window.SONG_DATA.push(
     {
   "title": "終わりの世界から",
   "artist": "やなぎなぎ×麻枝准 『終わりの惑星のLove Song』収録",
-  "collection": "【nayuta歌切 2021年1月17日】nayuta Live !! なまゆた＃05 ～Happy New Year 2021～",
+  "collection": "【nayuta Live Cut January 17, 2021】nayuta Live !! Namayuta #05 ~Happy New Year 2021~",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YnW5zBEmB?p=2",
   "source": "nayuta.js"
@@ -4816,7 +4816,7 @@ window.SONG_DATA.push(
     {
   "title": "それを、失くさない為に。",
   "artist": "nayuta",
-  "collection": "【nayuta歌切 2021年1月17日】nayuta Live !! なまゆた＃05 ～Happy New Year 2021～",
+  "collection": "【nayuta Live Cut January 17, 2021】nayuta Live !! Namayuta #05 ~Happy New Year 2021~",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YnW5zBEmB?p=3",
   "source": "nayuta.js"
@@ -4824,7 +4824,7 @@ window.SONG_DATA.push(
     {
   "title": "ずっと、ふたり。",
   "artist": "dai×nayuta",
-  "collection": "【nayuta歌切 2021年1月17日】nayuta Live !! なまゆた＃05 ～Happy New Year 2021～",
+  "collection": "【nayuta Live Cut January 17, 2021】nayuta Live !! Namayuta #05 ~Happy New Year 2021~",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YnW5zBEmB?p=4",
   "source": "nayuta.js"
@@ -4832,7 +4832,7 @@ window.SONG_DATA.push(
     {
   "title": "夕日坂",
   "artist": "doriko feat.初音ミク",
-  "collection": "【nayuta歌切 2021年6月9日】nayuta Live !! なまゆた＃07 ～おかえり！収益化復活＆もうすぐ14周年～",
+  "collection": "【nayuta Song Cut June 9, 2021】nayuta Live !! #07 ～Welcome Back! Monetization Restored & Almost 14th Anniversary～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1enW5zBEcC?p=1",
   "source": "nayuta.js"
@@ -4840,7 +4840,7 @@ window.SONG_DATA.push(
     {
   "title": "いかないで",
   "artist": "想太 feat.歌愛ユキ",
-  "collection": "【nayuta歌切 2021年6月9日】nayuta Live !! なまゆた＃07 ～おかえり！収益化復活＆もうすぐ14周年～",
+  "collection": "【nayuta Song Cut June 9, 2021】nayuta Live !! #07 ～Welcome Back! Monetization Restored & Almost 14th Anniversary～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1enW5zBEcC?p=2",
   "source": "nayuta.js"
@@ -4848,7 +4848,7 @@ window.SONG_DATA.push(
     {
   "title": "変わらないもの",
   "artist": "奥華子 [映画 時をかける少女]",
-  "collection": "【nayuta歌切 2021年6月9日】nayuta Live !! なまゆた＃07 ～おかえり！収益化復活＆もうすぐ14周年～",
+  "collection": "【nayuta Song Cut June 9, 2021】nayuta Live !! #07 ～Welcome Back! Monetization Restored & Almost 14th Anniversary～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1enW5zBEcC?p=3",
   "source": "nayuta.js"
@@ -4856,7 +4856,7 @@ window.SONG_DATA.push(
     {
   "title": "この声が届きますように",
   "artist": "nayuta",
-  "collection": "【nayuta歌切 2021年6月18日】nayuta 14th Anniversary Live ! #なまゆた Special～祝！活動14周年＆重大発表～",
+  "collection": "【nayuta Live Singing Cut - June 18, 2021】nayuta 14th Anniversary Live! #なまゆた Special～Celebrating 14 Years of Activity & Major Announcement～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YnW5zBEuX?p=1",
   "source": "nayuta.js"
@@ -4864,7 +4864,7 @@ window.SONG_DATA.push(
     {
   "title": "夏空オーケストラ",
   "artist": "nayuta",
-  "collection": "【nayuta歌切 2021年6月18日】nayuta 14th Anniversary Live ! #なまゆた Special～祝！活動14周年＆重大発表～",
+  "collection": "【nayuta Live Singing Cut - June 18, 2021】nayuta 14th Anniversary Live! #なまゆた Special～Celebrating 14 Years of Activity & Major Announcement～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YnW5zBEuX?p=2",
   "source": "nayuta.js"
@@ -4872,7 +4872,7 @@ window.SONG_DATA.push(
     {
   "title": "垂直の青の果て",
   "artist": "nayuta",
-  "collection": "【nayuta歌切 2021年6月18日】nayuta 14th Anniversary Live ! #なまゆた Special～祝！活動14周年＆重大発表～",
+  "collection": "【nayuta Live Singing Cut - June 18, 2021】nayuta 14th Anniversary Live! #なまゆた Special～Celebrating 14 Years of Activity & Major Announcement～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YnW5zBEuX?p=3",
   "source": "nayuta.js"
@@ -4880,7 +4880,7 @@ window.SONG_DATA.push(
     {
   "title": "芽ぐみの雨",
   "artist": "nayuta",
-  "collection": "【nayuta歌切 2021年6月18日】nayuta 14th Anniversary Live ! #なまゆた Special～祝！活動14周年＆重大発表～",
+  "collection": "【nayuta Live Singing Cut - June 18, 2021】nayuta 14th Anniversary Live! #なまゆた Special～Celebrating 14 Years of Activity & Major Announcement～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YnW5zBEuX?p=4",
   "source": "nayuta.js"
@@ -4888,7 +4888,7 @@ window.SONG_DATA.push(
     {
   "title": "碧空",
   "artist": "nayuta",
-  "collection": "【nayuta歌切 2021年6月18日】nayuta 14th Anniversary Live ! #なまゆた Special～祝！活動14周年＆重大発表～",
+  "collection": "【nayuta Live Singing Cut - June 18, 2021】nayuta 14th Anniversary Live! #なまゆた Special～Celebrating 14 Years of Activity & Major Announcement～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YnW5zBEuX?p=5",
   "source": "nayuta.js"
@@ -4896,7 +4896,7 @@ window.SONG_DATA.push(
     {
   "title": "君を掬う",
   "artist": "nayuta",
-  "collection": "【nayuta歌切 2021年6月18日】nayuta 14th Anniversary Live ! #なまゆた Special～祝！活動14周年＆重大発表～",
+  "collection": "【nayuta Live Singing Cut - June 18, 2021】nayuta 14th Anniversary Live! #なまゆた Special～Celebrating 14 Years of Activity & Major Announcement～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YnW5zBEuX?p=6",
   "source": "nayuta.js"
@@ -4904,7 +4904,7 @@ window.SONG_DATA.push(
     {
   "title": "トレセの秘密",
   "artist": "nayuta",
-  "collection": "【nayuta歌切 2021年6月18日】nayuta 14th Anniversary Live ! #なまゆた Special～祝！活動14周年＆重大発表～",
+  "collection": "【nayuta Live Singing Cut - June 18, 2021】nayuta 14th Anniversary Live! #なまゆた Special～Celebrating 14 Years of Activity & Major Announcement～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YnW5zBEuX?p=7",
   "source": "nayuta.js"
@@ -4912,7 +4912,7 @@ window.SONG_DATA.push(
     {
   "title": "追想の先へ",
   "artist": "nayuta",
-  "collection": "【nayuta歌切 2021年6月18日】nayuta 14th Anniversary Live ! #なまゆた Special～祝！活動14周年＆重大発表～",
+  "collection": "【nayuta Live Singing Cut - June 18, 2021】nayuta 14th Anniversary Live! #なまゆた Special～Celebrating 14 Years of Activity & Major Announcement～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YnW5zBEuX?p=8",
   "source": "nayuta.js"
@@ -4920,7 +4920,7 @@ window.SONG_DATA.push(
     {
   "title": "you",
   "artist": "癒月",
-  "collection": "【nayuta歌切 2021年6月18日】nayuta 14th Anniversary Live ! #なまゆた Special～祝！活動14周年＆重大発表～",
+  "collection": "【nayuta Live Singing Cut - June 18, 2021】nayuta 14th Anniversary Live! #なまゆた Special～Celebrating 14 Years of Activity & Major Announcement～",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YnW5zBEuX?p=9",
   "source": "nayuta.js"
