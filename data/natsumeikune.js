@@ -1,10 +1,146 @@
 // なつかしちゃん - 歌单数据 (多合集汇总)
 // 来源: BV1VPH26kESs
-// 生成时间: 11/4/2026, 8:21:55 PM
+// 生成时间: 11/5/2026, 12:07:08 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
+    {
+  "title": "チェリー",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-05-21]认真到离谱？？满级卡拉OK宾果挑战🎤💥【精密评分】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64Eup?p=1",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-21]认真到离谱？？满级卡拉OK宾果挑战🎤💥【精密评分】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64Eup?p=2",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "おやすみなさい",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-05-21]认真到离谱？？满级卡拉OK宾果挑战🎤💥【精密评分】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64Eup?p=3",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-05-21]认真到离谱？？满级卡拉OK宾果挑战🎤💥【精密评分】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64Eup?p=4",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "魔法のじゅうたん",
+  "artist": "くるり",
+  "collection": "【歌切】[2026-05-21]认真到离谱？？满级卡拉OK宾果挑战🎤💥【精密评分】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64Eup?p=5",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "たしかなこと",
+  "artist": "小田和正",
+  "collection": "【歌切】[2026-05-21]认真到离谱？？满级卡拉OK宾果挑战🎤💥【精密评分】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64Eup?p=6",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "最後の雨",
+  "artist": "中西保志",
+  "collection": "【歌切】[2026-05-21]认真到离谱？？满级卡拉OK宾果挑战🎤💥【精密评分】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64Eup?p=7",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "レイニーブルー",
+  "artist": "徳永英明",
+  "collection": "【歌切】[2026-05-21]认真到离谱？？满级卡拉OK宾果挑战🎤💥【精密评分】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64Eup?p=8",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "メトロノーム",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-05-21]认真到离谱？？满级卡拉OK宾果挑战🎤💥【精密评分】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64Eup?p=9",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "駅",
+  "artist": "竹内まりや",
+  "collection": "【歌切】[2026-05-21]认真到离谱？？满级卡拉OK宾果挑战🎤💥【精密评分】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64Eup?p=10",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "渡良瀬橋",
+  "artist": "森高千里",
+  "collection": "【歌切】[2026-05-21]认真到离谱？？满级卡拉OK宾果挑战🎤💥【精密评分】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64Eup?p=11",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "チェリー",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-05-21]认真到离谱？？满级卡拉OK宾果挑战🎤💥【精密评分】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64Eup?p=12",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "4月の雨",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-05-21]认真到离谱？？满级卡拉OK宾果挑战🎤💥【精密评分】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64Eup?p=13",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "桜色舞うころ",
+  "artist": "中島美嘉",
+  "collection": "【歌切】[2026-05-21]认真到离谱？？满级卡拉OK宾果挑战🎤💥【精密评分】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64Eup?p=14",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "タユムコトナキナガレノナカデ",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-05-21]认真到离谱？？满级卡拉OK宾果挑战🎤💥【精密评分】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64Eup?p=15",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "地球",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-05-21]认真到离谱？？满级卡拉OK宾果挑战🎤💥【精密评分】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64Eup?p=16",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "夢題～遠くへ～",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-05-21]认真到离谱？？满级卡拉OK宾果挑战🎤💥【精密评分】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64Eup?p=17",
+  "source": "natsumeikune.js"
+},
     {
   "title": "リッツパーティー",
   "artist": "back number",
