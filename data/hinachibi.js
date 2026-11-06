@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 11/5/2026, 10:53:02 PM
+// 生成时间: 11/6/2026, 1:03:08 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3387,6 +3387,62 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-10-31] Happy Halloween 🎃👻 What should I sing today～～!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wZxH6PE1z?p=11",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-05] I just wanted to sing~~!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vk4e6dE8m?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "センチメンタルな愛慕心",
+  "artist": "なつめ千秋 feat. GUMI",
+  "collection": "[Song Cut] [2026-11-05] I just wanted to sing~~!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vk4e6dE8m?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-05] I just wanted to sing~~!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vk4e6dE8m?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "永遠のあくる日",
+  "artist": "Ado",
+  "collection": "[Song Cut] [2026-11-05] I just wanted to sing~~!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vk4e6dE8m?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "君という神話",
+  "artist": "麻枝准×やなぎなぎ",
+  "collection": "[Song Cut] [2026-11-05] I just wanted to sing~~!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vk4e6dE8m?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ミッドナイト・リフレクション",
+  "artist": "NOMELON NOLEMON",
+  "collection": "[Song Cut] [2026-11-05] I just wanted to sing~~!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vk4e6dE8m?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ラストラス",
+  "artist": "*Luna feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-05] I just wanted to sing~~!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vk4e6dE8m?p=7",
   "source": "hinachibi.js"
 }
 );
