@@ -1,168 +1,176 @@
 // なつかしちゃん - 歌单数据 (多合集汇总)
 // 来源: BV1VPH26kESs
-// 生成时间: 11/8/2026, 12:56:53 AM
+// 生成时间: 11/8/2026, 3:32:09 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
     {
-  "title": "浮気したらあかんで",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat. 巡音ルカ",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=1",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=1",
   "source": "natsumeikune.js"
 },
     {
-  "title": "あたしを彼女にしたいなら",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "title": "フォニイ",
+  "artist": "ツミキ feat. 可不",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=2",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=2",
   "source": "natsumeikune.js"
 },
     {
-  "title": "にゃんにゃんにゃん",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "title": "深海少女",
+  "artist": "ゆうゆ feat. 初音ミク",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=3",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=3",
   "source": "natsumeikune.js"
 },
     {
-  "title": "人生♡",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "title": "シリョクケンサ",
+  "artist": "40mP feat. GUMI",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=4",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=4",
   "source": "natsumeikune.js"
 },
     {
-  "title": "君のバンド",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑ feat. 初音ミク",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=5",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=5",
   "source": "natsumeikune.js"
 },
     {
-  "title": "彼氏はいません今夜だけ",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "title": "妄想スケッチ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=6",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=6",
   "source": "natsumeikune.js"
 },
     {
-  "title": "センチメンタルに刺された",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "title": "トゥインクル",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=7",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=7",
   "source": "natsumeikune.js"
 },
     {
-  "title": "さよなら恋人",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "title": "妄想税",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=8",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=8",
   "source": "natsumeikune.js"
 },
     {
-  "title": "元彼女のみなさまへ",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat. 巡音ルカ・GUMI",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=9",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=9",
   "source": "natsumeikune.js"
 },
     {
-  "title": "オシロスコープ",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat. IA",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=10",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=10",
   "source": "natsumeikune.js"
 },
     {
-  "title": "君の住む街の天気が都合のいい空でありますように",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "title": "竹取オーバーナイトセンセーション",
+  "artist": "HoneyWorks feat. 鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=11",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=11",
   "source": "natsumeikune.js"
 },
     {
-  "title": "憂鬱も愛して",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "title": "告白予行練習",
+  "artist": "HoneyWorks feat. GUMI",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=12",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=12",
   "source": "natsumeikune.js"
 },
     {
-  "title": "恋人失格",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "title": "病名恋ワズライ",
+  "artist": "HoneyWorks feat. GUMI",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=13",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=13",
   "source": "natsumeikune.js"
 },
     {
-  "title": "たばこ",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "title": "告白ライバル宣言",
+  "artist": "HoneyWorks feat. GUMI",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=14",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=14",
   "source": "natsumeikune.js"
 },
     {
-  "title": "笑えよ乙女",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "title": "いろは唄",
+  "artist": "銀サク feat. 鏡音リン",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=15",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=15",
   "source": "natsumeikune.js"
 },
     {
-  "title": "バカでしょ",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "title": "天樂",
+  "artist": "ゆうゆ feat. 鏡音リン",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=16",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=16",
   "source": "natsumeikune.js"
 },
     {
-  "title": "SSW",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "title": "KING",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=17",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=17",
   "source": "natsumeikune.js"
 },
     {
-  "title": "あたしが死んでも",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "title": "1925",
+  "artist": "T-POCKET feat. 初音ミク",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=18",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=18",
   "source": "natsumeikune.js"
 },
     {
-  "title": "あたしを選ばなかった君へ",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "title": "夕暮れ先生",
+  "artist": "石風呂 feat. 開発コードmiki",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=19",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=19",
   "source": "natsumeikune.js"
 },
     {
-  "title": "泣く門には福きたる",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "title": "夕景イエスタデイ",
+  "artist": "じん feat. IA",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=20",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=20",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "如月アテンション",
+  "artist": "じん feat. IA",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=21",
   "source": "natsumeikune.js"
 },
     {
@@ -443,6 +451,166 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=18",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "浮気したらあかんで",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=1",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "あたしを彼女にしたいなら",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=2",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "にゃんにゃんにゃん",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=3",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "人生♡",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=4",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "君のバンド",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=5",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "彼氏はいません今夜だけ",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=6",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "センチメンタルに刺された",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=7",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "さよなら恋人",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=8",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "元彼女のみなさまへ",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=9",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "オシロスコープ",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=10",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "君の住む街の天気が都合のいい空でありますように",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=11",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "憂鬱も愛して",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=12",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "恋人失格",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=13",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=14",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "笑えよ乙女",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=15",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "バカでしょ",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=16",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "SSW",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=17",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "あたしが死んでも",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=18",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "あたしを選ばなかった君へ",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=19",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "泣く門には福きたる",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2025-10-23]コレサワ专场之夜，酸甜苦辣都唱给你听。🍬",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1KM4N64EAH?p=20",
   "source": "natsumeikune.js"
 },
     {

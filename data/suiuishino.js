@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 11/8/2026, 12:38:46 AM
+// 生成时间: 11/8/2026, 3:13:01 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6547,6 +6547,134 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-11-03]ヨルシカ歌曲限定弹唱♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV14oxU6UEmJ?p=15",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "六等星",
+  "artist": "ざらめ",
+  "collection": "【歌切】[2026-11-08]星光闪烁之夜歌回接力｜用温柔抒情曲打动你✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEsr?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ポラリス",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-11-08]星光闪烁之夜歌回接力｜用温柔抒情曲打动你✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEsr?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "orion",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-11-08]星光闪烁之夜歌回接力｜用温柔抒情曲打动你✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEsr?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "星めぐる詩",
+  "artist": "suis from ヨルシカ",
+  "collection": "【歌切】[2026-11-08]星光闪烁之夜歌回接力｜用温柔抒情曲打动你✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEsr?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "鳥の詩",
+  "artist": "Lia",
+  "collection": "【歌切】[2026-11-06]来唱好多首大家点的歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEt8?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "フクロウ 〜フクロウが知らせる客が来たと〜",
+  "artist": "KOKIA",
+  "collection": "【歌切】[2026-11-06]来唱好多首大家点的歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEt8?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "リルラリルハ",
+  "artist": "木村カエラ",
+  "collection": "【歌切】[2026-11-06]来唱好多首大家点的歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEt8?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "アカシア",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "【歌切】[2026-11-06]来唱好多首大家点的歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEt8?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Stay Alive",
+  "artist": "エミリア(高橋李依)",
+  "collection": "【歌切】[2026-11-06]来唱好多首大家点的歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEt8?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "愛言葉III",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-11-06]来唱好多首大家点的歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEt8?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru feat. 鏡音リン",
+  "collection": "【歌切】[2026-11-06]来唱好多首大家点的歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEt8?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "テレパス",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-11-06]来唱好多首大家点的歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEt8?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "橙",
+  "artist": "チャットモンチー",
+  "collection": "【歌切】[2026-11-06]来唱好多首大家点的歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEt8?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "唱",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-11-06]来唱好多首大家点的歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEt8?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Lemon",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-11-06]来唱好多首大家点的歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEt8?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-11-06]来唱好多首大家点的歌♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEt8?p=12",
   "source": "suiuishino.js"
 }
 );
