@@ -1,6 +1,6 @@
 // 羽澄さひろ - 歌单数据 (多合集汇总)
 // 来源: BV1tKcZztEw5
-// 生成时间: 11/8/2026, 2:01:03 AM
+// 生成时间: 11/8/2026, 4:28:15 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -4011,6 +4011,238 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-11-06] Still coughing, yet couldn't help but sing CreepHyp's song",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15k4e6dEXG?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "プラシーボ",
+  "artist": "蜂屋ななし feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=1",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "プラシーボ",
+  "artist": "蜂屋ななし feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=2",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ダスト",
+  "artist": "クワガタP feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=3",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "paranoia",
+  "artist": "つなまる(めざめP) feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=4",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ゆるふわ樹海ガール",
+  "artist": "石風呂 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=5",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "骸骨楽団とリリア",
+  "artist": "トーマ feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=6",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "東京テディベア",
+  "artist": "Neru feat. 鏡音リン",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=7",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ワールズエンド・ダンスホール",
+  "artist": "wowaka feat. 初音ミク・巡音ルカ",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=8",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "アンハッピーリフレイン",
+  "artist": "wowaka feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=9",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=10",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=11",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "キリトリセン",
+  "artist": "40mP feat. GUMI",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=12",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "シリョクケンサ",
+  "artist": "40mP feat. GUMI",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=13",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "純情スカート",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=14",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=15",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "君の体温",
+  "artist": "クワガタP feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=16",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "FREELY TOMORROW",
+  "artist": "Mitchie M feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=17",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=18",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "ローリンガール",
+  "artist": "wowaka feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=19",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat. flower",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=20",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=21",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "トリノコシティ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=22",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "心臓デモクラシー",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=23",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "朱色の砂浜",
+  "artist": "みきとP feat. GUMI",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=24",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "アカイト",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=25",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "うそつき",
+  "artist": "つなまる(めざめP) feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=26",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "橙ゲノム",
+  "artist": "つなまる(めざめP) feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=27",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "STEP TO YOU",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=28",
+  "source": "hasumisahiro.js"
+},
+    {
+  "title": "あとのうた",
+  "artist": "back number",
+  "collection": "[Song Cut] [2026-11-08] Still coughing, but can't stop singing 2 (Second Round)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1K14x6QEkB?p=29",
   "source": "hasumisahiro.js"
 }
 );

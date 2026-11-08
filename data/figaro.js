@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 11/8/2026, 1:12:57 AM
+// 生成时间: 11/8/2026, 3:49:29 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -37899,6 +37899,126 @@ window.SONG_DATA.push(
   "collection": "[💐Song Cut] [2026-10-25] A sleep-aid singing stream to help you fall asleep peacefully🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1z5nD6tEjw?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "真生活",
+  "artist": "案山子 feat. 初音ミク",
+  "collection": "[💐Song Cut] [2026-11-06] Singing livestream is back too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N14x6QEwe?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "さみしいひと",
+  "artist": "理芽",
+  "collection": "[💐Song Cut] [2026-11-06] Singing livestream is back too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N14x6QEwe?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "妄想税",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "[💐Song Cut] [2026-11-06] Singing livestream is back too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N14x6QEwe?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "シュノーケル",
+  "artist": "文藝天国",
+  "collection": "[💐Song Cut] [2026-11-06] Singing livestream is back too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N14x6QEwe?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "櫂",
+  "artist": "ヨルシカ",
+  "collection": "[💐Song Cut] [2026-11-06] Singing livestream is back too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N14x6QEwe?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "波に名前をつけること、僕らの呼吸に終わりがあること。",
+  "artist": "キタニタツヤ",
+  "collection": "[💐Song Cut] [2026-11-06] Singing livestream is back too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N14x6QEwe?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "愛のけだもの",
+  "artist": "神はサイコロを振らない×キタニタツヤ",
+  "collection": "[💐Song Cut] [2026-11-06] Singing livestream is back too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N14x6QEwe?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "ナイトルーティーン",
+  "artist": "キタニタツヤ",
+  "collection": "[💐Song Cut] [2026-11-06] Singing livestream is back too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N14x6QEwe?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat. 可不",
+  "collection": "[💐Song Cut] [2026-11-06] Singing livestream is back too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N14x6QEwe?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "プラネテス",
+  "artist": "キタニタツヤ",
+  "collection": "[💐Song Cut] [2026-11-06] Singing livestream is back too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N14x6QEwe?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "[💐Song Cut] [2026-11-06] Singing livestream is back too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N14x6QEwe?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "カガリビト",
+  "artist": "millstones feat. 初音ミク",
+  "collection": "[💐Song Cut] [2026-11-06] Singing livestream is back too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N14x6QEwe?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "白ゆき",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "[💐Song Cut] [2026-11-06] Singing livestream is back too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N14x6QEwe?p=13",
+  "source": "figaro.js"
+},
+    {
+  "title": "天球、彗星は夜を跨いで",
+  "artist": "星街すいせい",
+  "collection": "[💐Song Cut] [2026-11-06] Singing livestream is back too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N14x6QEwe?p=14",
+  "source": "figaro.js"
+},
+    {
+  "title": "ワールド・ランプシェード",
+  "artist": "buzzG feat. GUMI",
+  "collection": "[💐Song Cut] [2026-11-06] Singing livestream is back too!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1N14x6QEwe?p=15",
   "source": "figaro.js"
 }
 );
