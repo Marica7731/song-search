@@ -1,176 +1,168 @@
 // なつかしちゃん - 歌单数据 (多合集汇总)
 // 来源: BV1VPH26kESs
-// 生成时间: 11/8/2026, 7:28:52 PM
+// 生成时间: 11/8/2026, 10:43:24 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
     {
-  "title": "ルカルカ★ナイトフィーバー",
-  "artist": "samfree feat. 巡音ルカ",
-  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "title": "部屋とYシャツと私",
+  "artist": "平松愛理",
+  "collection": "【歌切】[2026-11-06]点歌专场！目标120个赞！等你来点歌☕♡欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=1",
+  "link": "https://www.bilibili.com/video/BV1W14x6QEo2?p=1",
   "source": "natsumeikune.js"
 },
     {
-  "title": "フォニイ",
-  "artist": "ツミキ feat. 可不",
-  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "title": "キミがいる",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-11-06]点歌专场！目标120个赞！等你来点歌☕♡欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=2",
+  "link": "https://www.bilibili.com/video/BV1W14x6QEo2?p=2",
   "source": "natsumeikune.js"
 },
     {
-  "title": "深海少女",
-  "artist": "ゆうゆ feat. 初音ミク",
-  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "title": "裸の心",
+  "artist": "あいみょん",
+  "collection": "【歌切】[2026-11-06]点歌专场！目标120个赞！等你来点歌☕♡欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=3",
+  "link": "https://www.bilibili.com/video/BV1W14x6QEo2?p=3",
   "source": "natsumeikune.js"
 },
     {
-  "title": "シリョクケンサ",
-  "artist": "40mP feat. GUMI",
-  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "title": "夜もすがら君想ふ",
+  "artist": "TOKOTOKO（西沢さんP） feat. GUMI",
+  "collection": "【歌切】[2026-11-06]点歌专场！目标120个赞！等你来点歌☕♡欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=4",
+  "link": "https://www.bilibili.com/video/BV1W14x6QEo2?p=4",
   "source": "natsumeikune.js"
 },
     {
-  "title": "白い雪のプリンセスは",
-  "artist": "のぼる↑ feat. 初音ミク",
-  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "title": "もう少しだけ",
+  "artist": "YOASOBI",
+  "collection": "【歌切】[2026-11-06]点歌专场！目标120个赞！等你来点歌☕♡欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=5",
+  "link": "https://www.bilibili.com/video/BV1W14x6QEo2?p=5",
   "source": "natsumeikune.js"
 },
     {
-  "title": "妄想スケッチ",
-  "artist": "40mP feat. 初音ミク",
-  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【歌切】[2026-11-06]点歌专场！目标120个赞！等你来点歌☕♡欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=6",
+  "link": "https://www.bilibili.com/video/BV1W14x6QEo2?p=6",
   "source": "natsumeikune.js"
 },
     {
-  "title": "トゥインクル",
+  "title": "瞬き",
+  "artist": "back number",
+  "collection": "【歌切】[2026-11-06]点歌专场！目标120个赞！等你来点歌☕♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W14x6QEo2?p=7",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "サクラ色",
+  "artist": "アンジェラ・アキ",
+  "collection": "【歌切】[2026-11-06]点歌专场！目标120个赞！等你来点歌☕♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W14x6QEo2?p=8",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "もう恋なんてしない",
+  "artist": "槇原敬之",
+  "collection": "【歌切】[2026-11-06]点歌专场！目标120个赞！等你来点歌☕♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W14x6QEo2?p=9",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "新宝島",
+  "artist": "サカナクション",
+  "collection": "【歌切】[2026-11-06]点歌专场！目标120个赞！等你来点歌☕♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W14x6QEo2?p=10",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "大好物",
+  "artist": "スピッツ",
+  "collection": "【歌切】[2026-11-06]点歌专场！目标120个赞！等你来点歌☕♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W14x6QEo2?p=11",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "異邦人 -シルクロードのテーマ-",
+  "artist": "久保田早紀",
+  "collection": "【歌切】[2026-11-06]点歌专场！目标120个赞！等你来点歌☕♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W14x6QEo2?p=12",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "【歌切】[2026-11-06]点歌专场！目标120个赞！等你来点歌☕♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W14x6QEo2?p=13",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "春風",
+  "artist": "Rihwa",
+  "collection": "【歌切】[2026-11-06]点歌专场！目标120个赞！等你来点歌☕♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W14x6QEo2?p=14",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "プラネタリウム",
+  "artist": "いきものがかり",
+  "collection": "【歌切】[2026-11-06]点歌专场！目标120个赞！等你来点歌☕♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W14x6QEo2?p=15",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "藍二乗",
+  "artist": "ヨルシカ",
+  "collection": "【歌切】[2026-11-06]点歌专场！目标120个赞！等你来点歌☕♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W14x6QEo2?p=16",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "【歌切】[2026-11-06]点歌专场！目标120个赞！等你来点歌☕♡欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1W14x6QEo2?p=17",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "メランコリック",
   "artist": "Junky feat. 鏡音リン",
-  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "collection": "【歌切】[2026-11-06]点歌专场！目标120个赞！等你来点歌☕♡欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=7",
+  "link": "https://www.bilibili.com/video/BV1W14x6QEo2?p=18",
   "source": "natsumeikune.js"
 },
     {
-  "title": "妄想税",
-  "artist": "DECO*27 feat. 初音ミク",
-  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "title": "茜さす",
+  "artist": "Aimer",
+  "collection": "【歌切】[2026-11-06]点歌专场！目标120个赞！等你来点歌☕♡欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=8",
+  "link": "https://www.bilibili.com/video/BV1W14x6QEo2?p=19",
   "source": "natsumeikune.js"
 },
     {
-  "title": "ハッピーシンセサイザ",
-  "artist": "EasyPop feat. 巡音ルカ・GUMI",
-  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "title": "Answer",
+  "artist": "幾田りら",
+  "collection": "【歌切】[2026-11-06]点歌专场！目标120个赞！等你来点歌☕♡欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=9",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "アスノヨゾラ哨戒班",
-  "artist": "Orangestar feat. IA",
-  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=10",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "竹取オーバーナイトセンセーション",
-  "artist": "HoneyWorks feat. 鏡音リン・鏡音レン",
-  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=11",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "告白予行練習",
-  "artist": "HoneyWorks feat. GUMI",
-  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=12",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "病名恋ワズライ",
-  "artist": "HoneyWorks feat. GUMI",
-  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=13",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "告白ライバル宣言",
-  "artist": "HoneyWorks feat. GUMI",
-  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=14",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "いろは唄",
-  "artist": "銀サク feat. 鏡音リン",
-  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=15",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "天樂",
-  "artist": "ゆうゆ feat. 鏡音リン",
-  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=16",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "KING",
-  "artist": "Kanaria feat. GUMI",
-  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=17",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "1925",
-  "artist": "T-POCKET feat. 初音ミク",
-  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=18",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "夕暮れ先生",
-  "artist": "石風呂 feat. 開発コードmiki",
-  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=19",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "夕景イエスタデイ",
-  "artist": "じん feat. IA",
-  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=20",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "如月アテンション",
-  "artist": "じん feat. IA",
-  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=21",
+  "link": "https://www.bilibili.com/video/BV1W14x6QEo2?p=20",
   "source": "natsumeikune.js"
 },
     {
@@ -451,6 +443,174 @@ window.SONG_DATA.push(
   "collection": "【歌切】[2026-10-07]目标100个赞！可以帮忙推荐一下なつめ吗？🎙♡欢迎新观众",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VPH26kESs?p=18",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "ルカルカ★ナイトフィーバー",
+  "artist": "samfree feat. 巡音ルカ",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=1",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "フォニイ",
+  "artist": "ツミキ feat. 可不",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=2",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat. 初音ミク",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=3",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "シリョクケンサ",
+  "artist": "40mP feat. GUMI",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=4",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "白い雪のプリンセスは",
+  "artist": "のぼる↑ feat. 初音ミク",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=5",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "妄想スケッチ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=6",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "トゥインクル",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=7",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "妄想税",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=8",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat. 巡音ルカ・GUMI",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=9",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat. IA",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=10",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "竹取オーバーナイトセンセーション",
+  "artist": "HoneyWorks feat. 鏡音リン・鏡音レン",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=11",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "告白予行練習",
+  "artist": "HoneyWorks feat. GUMI",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=12",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "病名恋ワズライ",
+  "artist": "HoneyWorks feat. GUMI",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=13",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "告白ライバル宣言",
+  "artist": "HoneyWorks feat. GUMI",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=14",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "いろは唄",
+  "artist": "銀サク feat. 鏡音リン",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=15",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "天樂",
+  "artist": "ゆうゆ feat. 鏡音リン",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=16",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "KING",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=17",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "1925",
+  "artist": "T-POCKET feat. 初音ミク",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=18",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "夕暮れ先生",
+  "artist": "石風呂 feat. 開発コードmiki",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=19",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "夕景イエスタデイ",
+  "artist": "じん feat. IA",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=20",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "如月アテンション",
+  "artist": "じん feat. IA",
+  "collection": "【歌切】[2026-11-07]怀旧术力口歌曲专场！你认识几首呢？🎼💘欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1s14x6QE8X?p=21",
   "source": "natsumeikune.js"
 },
     {
