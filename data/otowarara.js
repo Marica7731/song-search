@@ -1,6 +1,6 @@
 // 音羽ララ - 歌单数据 (多合集汇总)
 // 来源: BV1PE7J6CESH
-// 生成时间: 11/8/2026, 7:46:34 AM
+// 生成时间: 11/8/2026, 10:20:25 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -8,7 +8,7 @@ window.SONG_DATA.push(
     {
   "title": "群青日和",
   "artist": "東京事変",
-  "collection": "【Song Cover】[2026-01-07] First uninterrupted singing stream of the new year❤️‍🔥 Gonna keep singing all year‼️",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEz6?p=1",
   "source": "otowarara.js"
@@ -16,7 +16,7 @@ window.SONG_DATA.push(
     {
   "title": "恋するフォーチュンクッキー",
   "artist": "AKB48",
-  "collection": "【Song Cover】[2026-01-07] First uninterrupted singing stream of the new year❤️‍🔥 Gonna keep singing all year‼️",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEz6?p=2",
   "source": "otowarara.js"
@@ -24,7 +24,7 @@ window.SONG_DATA.push(
     {
   "title": "Warning Tell",
   "artist": "音羽ララ",
-  "collection": "【Song Cover】[2026-01-07] First uninterrupted singing stream of the new year❤️‍🔥 Gonna keep singing all year‼️",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEz6?p=3",
   "source": "otowarara.js"
@@ -32,7 +32,7 @@ window.SONG_DATA.push(
     {
   "title": "我ジェンド",
   "artist": "三拍ユッコ",
-  "collection": "【Song Cover】[2026-01-07] First uninterrupted singing stream of the new year❤️‍🔥 Gonna keep singing all year‼️",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEz6?p=4",
   "source": "otowarara.js"
@@ -40,7 +40,7 @@ window.SONG_DATA.push(
     {
   "title": "Cagayake!GIRLS",
   "artist": "桜高軽音部",
-  "collection": "【Song Cover】[2026-01-07] First uninterrupted singing stream of the new year❤️‍🔥 Gonna keep singing all year‼️",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEz6?p=5",
   "source": "otowarara.js"
@@ -48,7 +48,7 @@ window.SONG_DATA.push(
     {
   "title": "ワルキューレは裏切らない",
   "artist": "ワルキューレ",
-  "collection": "【Song Cover】[2026-01-07] First uninterrupted singing stream of the new year❤️‍🔥 Gonna keep singing all year‼️",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEz6?p=6",
   "source": "otowarara.js"
@@ -56,7 +56,7 @@ window.SONG_DATA.push(
     {
   "title": "夜もすがら君想ふ",
   "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
-  "collection": "【Song Cover】[2026-01-07] First uninterrupted singing stream of the new year❤️‍🔥 Gonna keep singing all year‼️",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEz6?p=7",
   "source": "otowarara.js"
@@ -64,7 +64,7 @@ window.SONG_DATA.push(
     {
   "title": "夜行",
   "artist": "ヨルシカ",
-  "collection": "【Song Cover】[2026-01-07] First uninterrupted singing stream of the new year❤️‍🔥 Gonna keep singing all year‼️",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEz6?p=8",
   "source": "otowarara.js"
@@ -72,7 +72,7 @@ window.SONG_DATA.push(
     {
   "title": "サリシノハラ",
   "artist": "みきとP feat.初音ミク",
-  "collection": "【Song Cover】[2026-01-07] First uninterrupted singing stream of the new year❤️‍🔥 Gonna keep singing all year‼️",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEz6?p=9",
   "source": "otowarara.js"
@@ -80,7 +80,7 @@ window.SONG_DATA.push(
     {
   "title": "正しくなれない",
   "artist": "ずっと真夜中でいいのに。",
-  "collection": "【Song Cover】[2026-01-07] First uninterrupted singing stream of the new year❤️‍🔥 Gonna keep singing all year‼️",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEz6?p=10",
   "source": "otowarara.js"
@@ -88,7 +88,7 @@ window.SONG_DATA.push(
     {
   "title": "ツバサ",
   "artist": "アンダーグラフ",
-  "collection": "【Song Cover】[2026-01-07] First uninterrupted singing stream of the new year❤️‍🔥 Gonna keep singing all year‼️",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEz6?p=11",
   "source": "otowarara.js"
@@ -96,7 +96,7 @@ window.SONG_DATA.push(
     {
   "title": "倍倍FIGHT!",
   "artist": "CANDY TUNE",
-  "collection": "【Song Cover】[2026-01-07] First uninterrupted singing stream of the new year❤️‍🔥 Gonna keep singing all year‼️",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEz6?p=12",
   "source": "otowarara.js"
@@ -104,7 +104,7 @@ window.SONG_DATA.push(
     {
   "title": "スターゲイザー",
   "artist": "スピッツ",
-  "collection": "【Song Cover】[2026-01-07] First uninterrupted singing stream of the new year❤️‍🔥 Gonna keep singing all year‼️",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEz6?p=13",
   "source": "otowarara.js"
@@ -112,7 +112,7 @@ window.SONG_DATA.push(
     {
   "title": "SAD SONG",
   "artist": "ちゃんみな",
-  "collection": "【Song Cover】[2026-01-07] First uninterrupted singing stream of the new year❤️‍🔥 Gonna keep singing all year‼️",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEz6?p=14",
   "source": "otowarara.js"
@@ -120,7 +120,7 @@ window.SONG_DATA.push(
     {
   "title": "Bad Apple!!",
   "artist": "nomico",
-  "collection": "【Song Cover】[2026-01-07] First uninterrupted singing stream of the new year❤️‍🔥 Gonna keep singing all year‼️",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEz6?p=15",
   "source": "otowarara.js"
@@ -128,7 +128,7 @@ window.SONG_DATA.push(
     {
   "title": "イガク",
   "artist": "原口沙輔 feat.重音テト",
-  "collection": "【Song Cover】[2026-01-07] First uninterrupted singing stream of the new year❤️‍🔥 Gonna keep singing all year‼️",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEz6?p=16",
   "source": "otowarara.js"
@@ -136,7 +136,7 @@ window.SONG_DATA.push(
     {
   "title": "天使にふれたよ!",
   "artist": "放課後ティータイム",
-  "collection": "【Song Cover】[2026-01-07] First uninterrupted singing stream of the new year❤️‍🔥 Gonna keep singing all year‼️",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEz6?p=17",
   "source": "otowarara.js"
@@ -144,7 +144,7 @@ window.SONG_DATA.push(
     {
   "title": "気になるあの娘",
   "artist": "相対性理論",
-  "collection": "【Song Cover】[2026-01-07] First uninterrupted singing stream of the new year❤️‍🔥 Gonna keep singing all year‼️",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEz6?p=18",
   "source": "otowarara.js"
@@ -152,7 +152,7 @@ window.SONG_DATA.push(
     {
   "title": "Song for…",
   "artist": "HY",
-  "collection": "【Song Cover】[2026-01-07] First uninterrupted singing stream of the new year❤️‍🔥 Gonna keep singing all year‼️",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEz6?p=19",
   "source": "otowarara.js"
@@ -160,7 +160,7 @@ window.SONG_DATA.push(
     {
   "title": "みむかゥわナイストライ",
   "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ feat.初音ミク",
-  "collection": "【Song Cover】[2026-01-07] First uninterrupted singing stream of the new year❤️‍🔥 Gonna keep singing all year‼️",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEz6?p=20",
   "source": "otowarara.js"
@@ -168,7 +168,7 @@ window.SONG_DATA.push(
     {
   "title": "人マニア",
   "artist": "原口沙輔 feat.重音テト",
-  "collection": "【Song Cover】[2026-01-07] First uninterrupted singing stream of the new year❤️‍🔥 Gonna keep singing all year‼️",
+  "collection": "【歌切】[2026-01-07]新年第一次不间断歌回❤️‍🔥今年也要不停歌唱‼️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV19h366YEz6?p=21",
   "source": "otowarara.js"
@@ -176,7 +176,7 @@ window.SONG_DATA.push(
     {
   "title": "モノクロのキス",
   "artist": "OSIRIS",
-  "collection": "【Song Clip】[2026-06-08] Afternoon Relaxing Singing Stream🍵Take a Break and Catch Your Breath🤍",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=1",
   "source": "otowarara.js"
@@ -184,7 +184,7 @@ window.SONG_DATA.push(
     {
   "title": "カンナ",
   "artist": "indigo la End",
-  "collection": "【Song Clip】[2026-06-08] Afternoon Relaxing Singing Stream🍵Take a Break and Catch Your Breath🤍",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=2",
   "source": "otowarara.js"
@@ -192,7 +192,7 @@ window.SONG_DATA.push(
     {
   "title": "ジェンガ",
   "artist": "40mP feat. 初音ミク",
-  "collection": "【Song Clip】[2026-06-08] Afternoon Relaxing Singing Stream🍵Take a Break and Catch Your Breath🤍",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=3",
   "source": "otowarara.js"
@@ -200,7 +200,7 @@ window.SONG_DATA.push(
     {
   "title": "ふたりごと",
   "artist": "RADWIMPS",
-  "collection": "【Song Clip】[2026-06-08] Afternoon Relaxing Singing Stream🍵Take a Break and Catch Your Breath🤍",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=4",
   "source": "otowarara.js"
@@ -208,7 +208,7 @@ window.SONG_DATA.push(
     {
   "title": "ココロノカケ",
   "artist": "音羽ララ",
-  "collection": "【Song Clip】[2026-06-08] Afternoon Relaxing Singing Stream🍵Take a Break and Catch Your Breath🤍",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=5",
   "source": "otowarara.js"
@@ -216,7 +216,7 @@ window.SONG_DATA.push(
     {
   "title": "逆光のフリューゲル",
   "artist": "ツヴァイウィング",
-  "collection": "【Song Clip】[2026-06-08] Afternoon Relaxing Singing Stream🍵Take a Break and Catch Your Breath🤍",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=6",
   "source": "otowarara.js"
@@ -224,7 +224,7 @@ window.SONG_DATA.push(
     {
   "title": "タイムマシン",
   "artist": "1640mP feat. 初音ミク",
-  "collection": "【Song Clip】[2026-06-08] Afternoon Relaxing Singing Stream🍵Take a Break and Catch Your Breath🤍",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=7",
   "source": "otowarara.js"
@@ -232,7 +232,7 @@ window.SONG_DATA.push(
     {
   "title": "君の好きなうた",
   "artist": "UVERworld",
-  "collection": "【Song Clip】[2026-06-08] Afternoon Relaxing Singing Stream🍵Take a Break and Catch Your Breath🤍",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=8",
   "source": "otowarara.js"
@@ -240,7 +240,7 @@ window.SONG_DATA.push(
     {
   "title": "シルシ",
   "artist": "LiSA",
-  "collection": "【Song Clip】[2026-06-08] Afternoon Relaxing Singing Stream🍵Take a Break and Catch Your Breath🤍",
+  "collection": "【歌切】[2026-06-08]午后的悠闲歌回🍵放松一下喘口气吧🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1G6gf6jE33?p=9",
   "source": "otowarara.js"
@@ -248,7 +248,7 @@ window.SONG_DATA.push(
     {
   "title": "マトリョシカ",
   "artist": "ハチ feat. 初音ミク・GUMI",
-  "collection": "Otohane Lara Vocaloid Song Cuts 2026-06-26 Heisei Vocaloid Session 🤍 Exploding with Nostalgic Hit Songs 🔥",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=1",
   "source": "otowarara.js"
@@ -256,7 +256,7 @@ window.SONG_DATA.push(
     {
   "title": "セカイはまだ始まってすらいない",
   "artist": "ピノキオピー feat. 初音ミク",
-  "collection": "Otohane Lara Vocaloid Song Cuts 2026-06-26 Heisei Vocaloid Session 🤍 Exploding with Nostalgic Hit Songs 🔥",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=2",
   "source": "otowarara.js"
@@ -264,7 +264,7 @@ window.SONG_DATA.push(
     {
   "title": "裏表ラバーズ",
   "artist": "wowaka feat. 初音ミク",
-  "collection": "Otohane Lara Vocaloid Song Cuts 2026-06-26 Heisei Vocaloid Session 🤍 Exploding with Nostalgic Hit Songs 🔥",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=3",
   "source": "otowarara.js"
@@ -272,7 +272,7 @@ window.SONG_DATA.push(
     {
   "title": "ワールズエンド・ダンスホール",
   "artist": "wowaka feat. 初音ミク・巡音ルカ",
-  "collection": "Otohane Lara Vocaloid Song Cuts 2026-06-26 Heisei Vocaloid Session 🤍 Exploding with Nostalgic Hit Songs 🔥",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=4",
   "source": "otowarara.js"
@@ -280,7 +280,7 @@ window.SONG_DATA.push(
     {
   "title": "古書屋敷殺人事件",
   "artist": "てにをは feat. 初音ミク",
-  "collection": "Otohane Lara Vocaloid Song Cuts 2026-06-26 Heisei Vocaloid Session 🤍 Exploding with Nostalgic Hit Songs 🔥",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=5",
   "source": "otowarara.js"
@@ -288,7 +288,7 @@ window.SONG_DATA.push(
     {
   "title": "Mr.Music",
   "artist": "れるりり、ロンチーノ=ペペ、かごめP feat. 初音ミク・巡音ルカ・鏡音リン・鏡音レン・GUMI・歌愛ユキ",
-  "collection": "Otohane Lara Vocaloid Song Cuts 2026-06-26 Heisei Vocaloid Session 🤍 Exploding with Nostalgic Hit Songs 🔥",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=6",
   "source": "otowarara.js"
@@ -296,7 +296,7 @@ window.SONG_DATA.push(
     {
   "title": "ドレミファロンド",
   "artist": "40mP feat. 初音ミク",
-  "collection": "Otohane Lara Vocaloid Song Cuts 2026-06-26 Heisei Vocaloid Session 🤍 Exploding with Nostalgic Hit Songs 🔥",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=7",
   "source": "otowarara.js"
@@ -304,7 +304,7 @@ window.SONG_DATA.push(
     {
   "title": "炉心融解",
   "artist": "iroha(sasaki) feat. 鏡音リン",
-  "collection": "Otohane Lara Vocaloid Song Cuts 2026-06-26 Heisei Vocaloid Session 🤍 Exploding with Nostalgic Hit Songs 🔥",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=8",
   "source": "otowarara.js"
@@ -312,7 +312,7 @@ window.SONG_DATA.push(
     {
   "title": "セツナトリップ",
   "artist": "Last Note. feat. GUMI",
-  "collection": "Otohane Lara Vocaloid Song Cuts 2026-06-26 Heisei Vocaloid Session 🤍 Exploding with Nostalgic Hit Songs 🔥",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=9",
   "source": "otowarara.js"
@@ -320,7 +320,7 @@ window.SONG_DATA.push(
     {
   "title": "地球最後の告白を",
   "artist": "kemu feat. GUMI",
-  "collection": "Otohane Lara Vocaloid Song Cuts 2026-06-26 Heisei Vocaloid Session 🤍 Exploding with Nostalgic Hit Songs 🔥",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=10",
   "source": "otowarara.js"
@@ -328,7 +328,7 @@ window.SONG_DATA.push(
     {
   "title": "夢町コントラスト",
   "artist": "koyori feat. 初音ミクAppend",
-  "collection": "Otohane Lara Vocaloid Song Cuts 2026-06-26 Heisei Vocaloid Session 🤍 Exploding with Nostalgic Hit Songs 🔥",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=11",
   "source": "otowarara.js"
@@ -336,7 +336,7 @@ window.SONG_DATA.push(
     {
   "title": "チルドレンレコード",
   "artist": "じん feat. IA",
-  "collection": "Otohane Lara Vocaloid Song Cuts 2026-06-26 Heisei Vocaloid Session 🤍 Exploding with Nostalgic Hit Songs 🔥",
+  "collection": "音羽ララ歌切 2026-06-26 平成术力口歌回🤍唱爆那些令人怀念的名曲🔥",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PE7J6CESH?p=12",
   "source": "otowarara.js"
@@ -344,7 +344,7 @@ window.SONG_DATA.push(
     {
   "title": "ヒバナ",
   "artist": "DECO*27 feat. 初音ミク",
-  "collection": "Otohane Lara Song Highlights 2026-07-03 Vocaloid Singing Stream 🔥 Let's sing many famous songs together 🤍 Requests are also very welcome 🙆‍♀️",
+  "collection": "音羽ララ歌切 2026-07-03 术力口歌回🔥 一起来唱好多名曲吧🤍 点歌也非常欢迎🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CBMw6eEqn?p=1",
   "source": "otowarara.js"
@@ -352,7 +352,7 @@ window.SONG_DATA.push(
     {
   "title": "夏に去りし君を想フ",
   "artist": "baker feat. 初音ミク",
-  "collection": "Otohane Lara Song Highlights 2026-07-03 Vocaloid Singing Stream 🔥 Let's sing many famous songs together 🤍 Requests are also very welcome 🙆‍♀️",
+  "collection": "音羽ララ歌切 2026-07-03 术力口歌回🔥 一起来唱好多名曲吧🤍 点歌也非常欢迎🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CBMw6eEqn?p=2",
   "source": "otowarara.js"
@@ -360,7 +360,7 @@ window.SONG_DATA.push(
     {
   "title": "カゲロウデイズ",
   "artist": "じん feat. 初音ミク",
-  "collection": "Otohane Lara Song Highlights 2026-07-03 Vocaloid Singing Stream 🔥 Let's sing many famous songs together 🤍 Requests are also very welcome 🙆‍♀️",
+  "collection": "音羽ララ歌切 2026-07-03 术力口歌回🔥 一起来唱好多名曲吧🤍 点歌也非常欢迎🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CBMw6eEqn?p=3",
   "source": "otowarara.js"
@@ -368,7 +368,7 @@ window.SONG_DATA.push(
     {
   "title": "アイロニ",
   "artist": "すこっぷ feat. 初音ミク",
-  "collection": "Otohane Lara Song Highlights 2026-07-03 Vocaloid Singing Stream 🔥 Let's sing many famous songs together 🤍 Requests are also very welcome 🙆‍♀️",
+  "collection": "音羽ララ歌切 2026-07-03 术力口歌回🔥 一起来唱好多名曲吧🤍 点歌也非常欢迎🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CBMw6eEqn?p=4",
   "source": "otowarara.js"
@@ -376,7 +376,7 @@ window.SONG_DATA.push(
     {
   "title": "キュートなカノジョ",
   "artist": "syudou feat. 可不",
-  "collection": "Otohane Lara Song Highlights 2026-07-03 Vocaloid Singing Stream 🔥 Let's sing many famous songs together 🤍 Requests are also very welcome 🙆‍♀️",
+  "collection": "音羽ララ歌切 2026-07-03 术力口歌回🔥 一起来唱好多名曲吧🤍 点歌也非常欢迎🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CBMw6eEqn?p=5",
   "source": "otowarara.js"
@@ -384,7 +384,7 @@ window.SONG_DATA.push(
     {
   "title": "地球最後の告白を",
   "artist": "kemu feat. GUMI",
-  "collection": "Otohane Lara Song Highlights 2026-07-03 Vocaloid Singing Stream 🔥 Let's sing many famous songs together 🤍 Requests are also very welcome 🙆‍♀️",
+  "collection": "音羽ララ歌切 2026-07-03 术力口歌回🔥 一起来唱好多名曲吧🤍 点歌也非常欢迎🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CBMw6eEqn?p=6",
   "source": "otowarara.js"
@@ -392,7 +392,7 @@ window.SONG_DATA.push(
     {
   "title": "magnet",
   "artist": "minato feat. 初音ミク・巡音ルカ",
-  "collection": "Otohane Lara Song Highlights 2026-07-03 Vocaloid Singing Stream 🔥 Let's sing many famous songs together 🤍 Requests are also very welcome 🙆‍♀️",
+  "collection": "音羽ララ歌切 2026-07-03 术力口歌回🔥 一起来唱好多名曲吧🤍 点歌也非常欢迎🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CBMw6eEqn?p=7",
   "source": "otowarara.js"
@@ -400,7 +400,7 @@ window.SONG_DATA.push(
     {
   "title": "マーシャル・マキシマイザー",
   "artist": "柊マグネタイト feat. 可不",
-  "collection": "Otohane Lara Song Highlights 2026-07-03 Vocaloid Singing Stream 🔥 Let's sing many famous songs together 🤍 Requests are also very welcome 🙆‍♀️",
+  "collection": "音羽ララ歌切 2026-07-03 术力口歌回🔥 一起来唱好多名曲吧🤍 点歌也非常欢迎🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CBMw6eEqn?p=8",
   "source": "otowarara.js"
@@ -408,7 +408,7 @@ window.SONG_DATA.push(
     {
   "title": "サマータイムレコード",
   "artist": "じん feat. IA",
-  "collection": "Otohane Lara Song Highlights 2026-07-03 Vocaloid Singing Stream 🔥 Let's sing many famous songs together 🤍 Requests are also very welcome 🙆‍♀️",
+  "collection": "音羽ララ歌切 2026-07-03 术力口歌回🔥 一起来唱好多名曲吧🤍 点歌也非常欢迎🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CBMw6eEqn?p=9",
   "source": "otowarara.js"
@@ -416,7 +416,7 @@ window.SONG_DATA.push(
     {
   "title": "KING",
   "artist": "Kanaria feat. GUMI",
-  "collection": "Otohane Lara Song Highlights 2026-07-03 Vocaloid Singing Stream 🔥 Let's sing many famous songs together 🤍 Requests are also very welcome 🙆‍♀️",
+  "collection": "音羽ララ歌切 2026-07-03 术力口歌回🔥 一起来唱好多名曲吧🤍 点歌也非常欢迎🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CBMw6eEqn?p=10",
   "source": "otowarara.js"
@@ -424,7 +424,7 @@ window.SONG_DATA.push(
     {
   "title": "カガリビト",
   "artist": "millstones feat. 初音ミク",
-  "collection": "Otohane Lara Song Highlights 2026-07-03 Vocaloid Singing Stream 🔥 Let's sing many famous songs together 🤍 Requests are also very welcome 🙆‍♀️",
+  "collection": "音羽ララ歌切 2026-07-03 术力口歌回🔥 一起来唱好多名曲吧🤍 点歌也非常欢迎🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CBMw6eEqn?p=11",
   "source": "otowarara.js"
@@ -432,7 +432,7 @@ window.SONG_DATA.push(
     {
   "title": "イアイア★ナイトオブデザイア",
   "artist": "samfree feat. IA",
-  "collection": "Otohane Lara Song Highlights 2026-07-03 Vocaloid Singing Stream 🔥 Let's sing many famous songs together 🤍 Requests are also very welcome 🙆‍♀️",
+  "collection": "音羽ララ歌切 2026-07-03 术力口歌回🔥 一起来唱好多名曲吧🤍 点歌也非常欢迎🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1CBMw6eEqn?p=12",
   "source": "otowarara.js"
@@ -440,7 +440,7 @@ window.SONG_DATA.push(
     {
   "title": "clock lock works",
   "artist": "ハチ feat. 初音ミク",
-  "collection": "【Singing Clip】[2026-07-26] All-genre Vocaloid singing stream 🤍 Sung many classic songs! ❤️‍🔥 Song requests welcome 🫶",
+  "collection": "【歌切】[2026-07-26]全类型术力口歌回🤍唱好多名曲！❤️‍🔥欢迎点歌🫶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1grgf61EUi?p=1",
   "source": "otowarara.js"
@@ -448,7 +448,7 @@ window.SONG_DATA.push(
     {
   "title": "カガリビト",
   "artist": "millstones feat. 初音ミク",
-  "collection": "【Singing Clip】[2026-07-26] All-genre Vocaloid singing stream 🤍 Sung many classic songs! ❤️‍🔥 Song requests welcome 🫶",
+  "collection": "【歌切】[2026-07-26]全类型术力口歌回🤍唱好多名曲！❤️‍🔥欢迎点歌🫶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1grgf61EUi?p=2",
   "source": "otowarara.js"
@@ -456,7 +456,7 @@ window.SONG_DATA.push(
     {
   "title": "ヴァンパイア",
   "artist": "DECO*27 feat. 初音ミク",
-  "collection": "【Singing Clip】[2026-07-26] All-genre Vocaloid singing stream 🤍 Sung many classic songs! ❤️‍🔥 Song requests welcome 🫶",
+  "collection": "【歌切】[2026-07-26]全类型术力口歌回🤍唱好多名曲！❤️‍🔥欢迎点歌🫶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1grgf61EUi?p=3",
   "source": "otowarara.js"
@@ -464,7 +464,7 @@ window.SONG_DATA.push(
     {
   "title": "好きな惣菜発表ドラゴン",
   "artist": "ンバヂ feat. 重音テト",
-  "collection": "【Singing Clip】[2026-07-26] All-genre Vocaloid singing stream 🤍 Sung many classic songs! ❤️‍🔥 Song requests welcome 🫶",
+  "collection": "【歌切】[2026-07-26]全类型术力口歌回🤍唱好多名曲！❤️‍🔥欢迎点歌🫶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1grgf61EUi?p=4",
   "source": "otowarara.js"
@@ -472,7 +472,7 @@ window.SONG_DATA.push(
     {
   "title": "トリノコシティ",
   "artist": "40mP feat. 初音ミク",
-  "collection": "【Singing Clip】[2026-07-26] All-genre Vocaloid singing stream 🤍 Sung many classic songs! ❤️‍🔥 Song requests welcome 🫶",
+  "collection": "【歌切】[2026-07-26]全类型术力口歌回🤍唱好多名曲！❤️‍🔥欢迎点歌🫶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1grgf61EUi?p=5",
   "source": "otowarara.js"
@@ -480,7 +480,7 @@ window.SONG_DATA.push(
     {
   "title": "ニコニコ動画流星群",
   "artist": "しも",
-  "collection": "【Singing Clip】[2026-07-26] All-genre Vocaloid singing stream 🤍 Sung many classic songs! ❤️‍🔥 Song requests welcome 🫶",
+  "collection": "【歌切】[2026-07-26]全类型术力口歌回🤍唱好多名曲！❤️‍🔥欢迎点歌🫶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1grgf61EUi?p=6",
   "source": "otowarara.js"
@@ -488,7 +488,7 @@ window.SONG_DATA.push(
     {
   "title": "千本桜",
   "artist": "黒うさP feat. 初音ミク",
-  "collection": "【Singing Clip】[2026-07-26] All-genre Vocaloid singing stream 🤍 Sung many classic songs! ❤️‍🔥 Song requests welcome 🫶",
+  "collection": "【歌切】[2026-07-26]全类型术力口歌回🤍唱好多名曲！❤️‍🔥欢迎点歌🫶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1grgf61EUi?p=7",
   "source": "otowarara.js"
@@ -496,7 +496,7 @@ window.SONG_DATA.push(
     {
   "title": "ヤミタイガール",
   "artist": "れるりり feat. GUMI",
-  "collection": "【Singing Clip】[2026-07-26] All-genre Vocaloid singing stream 🤍 Sung many classic songs! ❤️‍🔥 Song requests welcome 🫶",
+  "collection": "【歌切】[2026-07-26]全类型术力口歌回🤍唱好多名曲！❤️‍🔥欢迎点歌🫶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1grgf61EUi?p=8",
   "source": "otowarara.js"
@@ -504,7 +504,7 @@ window.SONG_DATA.push(
     {
   "title": "深海少女",
   "artist": "ゆうゆ feat. 初音ミク",
-  "collection": "【Singing Clip】[2026-07-26] All-genre Vocaloid singing stream 🤍 Sung many classic songs! ❤️‍🔥 Song requests welcome 🫶",
+  "collection": "【歌切】[2026-07-26]全类型术力口歌回🤍唱好多名曲！❤️‍🔥欢迎点歌🫶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1grgf61EUi?p=9",
   "source": "otowarara.js"
@@ -512,7 +512,7 @@ window.SONG_DATA.push(
     {
   "title": "いーあるふぁんくらぶ",
   "artist": "みきとP feat. GUMI・鏡音リン",
-  "collection": "【Singing Clip】[2026-07-26] All-genre Vocaloid singing stream 🤍 Sung many classic songs! ❤️‍🔥 Song requests welcome 🫶",
+  "collection": "【歌切】[2026-07-26]全类型术力口歌回🤍唱好多名曲！❤️‍🔥欢迎点歌🫶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1grgf61EUi?p=10",
   "source": "otowarara.js"
@@ -520,7 +520,7 @@ window.SONG_DATA.push(
     {
   "title": "オレンジ",
   "artist": "トーマ feat. 初音ミク",
-  "collection": "【Singing Clip】[2026-07-26] All-genre Vocaloid singing stream 🤍 Sung many classic songs! ❤️‍🔥 Song requests welcome 🫶",
+  "collection": "【歌切】[2026-07-26]全类型术力口歌回🤍唱好多名曲！❤️‍🔥欢迎点歌🫶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1grgf61EUi?p=11",
   "source": "otowarara.js"
@@ -528,7 +528,7 @@ window.SONG_DATA.push(
     {
   "title": "ワールドイズマイン",
   "artist": "ryo(supercell) feat.初音ミク",
-  "collection": "[Song Cut][2026-07-30] Singing Stream│Vocaloid Song Stream🤍Sing your favorite songs freely!🔥Feel free to request songs too🙆‍♀️",
+  "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=1",
   "source": "otowarara.js"
@@ -536,7 +536,7 @@ window.SONG_DATA.push(
     {
   "title": "千年の独奏歌",
   "artist": "yanagiP feat.KAITO",
-  "collection": "[Song Cut][2026-07-30] Singing Stream│Vocaloid Song Stream🤍Sing your favorite songs freely!🔥Feel free to request songs too🙆‍♀️",
+  "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=2",
   "source": "otowarara.js"
@@ -544,7 +544,7 @@ window.SONG_DATA.push(
     {
   "title": "夢、時々…",
   "artist": "まらしぃ feat.初音ミク",
-  "collection": "[Song Cut][2026-07-30] Singing Stream│Vocaloid Song Stream🤍Sing your favorite songs freely!🔥Feel free to request songs too🙆‍♀️",
+  "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=3",
   "source": "otowarara.js"
@@ -552,7 +552,7 @@ window.SONG_DATA.push(
     {
   "title": "炉心融解",
   "artist": "iroha(sasaki) feat.鏡音リン",
-  "collection": "[Song Cut][2026-07-30] Singing Stream│Vocaloid Song Stream🤍Sing your favorite songs freely!🔥Feel free to request songs too🙆‍♀️",
+  "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=4",
   "source": "otowarara.js"
@@ -560,7 +560,7 @@ window.SONG_DATA.push(
     {
   "title": "fix",
   "artist": "keeno feat.初音ミク",
-  "collection": "[Song Cut][2026-07-30] Singing Stream│Vocaloid Song Stream🤍Sing your favorite songs freely!🔥Feel free to request songs too🙆‍♀️",
+  "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=5",
   "source": "otowarara.js"
@@ -568,7 +568,7 @@ window.SONG_DATA.push(
     {
   "title": "神っぽいな",
   "artist": "ピノキオピー feat.初音ミク",
-  "collection": "[Song Cut][2026-07-30] Singing Stream│Vocaloid Song Stream🤍Sing your favorite songs freely!🔥Feel free to request songs too🙆‍♀️",
+  "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=6",
   "source": "otowarara.js"
@@ -576,7 +576,7 @@ window.SONG_DATA.push(
     {
   "title": "タイムマシン",
   "artist": "1640mP feat.初音ミク",
-  "collection": "[Song Cut][2026-07-30] Singing Stream│Vocaloid Song Stream🤍Sing your favorite songs freely!🔥Feel free to request songs too🙆‍♀️",
+  "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=7",
   "source": "otowarara.js"
@@ -584,7 +584,7 @@ window.SONG_DATA.push(
     {
   "title": "夜咄ディセイブ",
   "artist": "じん feat.IA",
-  "collection": "[Song Cut][2026-07-30] Singing Stream│Vocaloid Song Stream🤍Sing your favorite songs freely!🔥Feel free to request songs too🙆‍♀️",
+  "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=8",
   "source": "otowarara.js"
@@ -592,7 +592,7 @@ window.SONG_DATA.push(
     {
   "title": "ロミオとシンデレラ",
   "artist": "doriko feat.初音ミク",
-  "collection": "[Song Cut][2026-07-30] Singing Stream│Vocaloid Song Stream🤍Sing your favorite songs freely!🔥Feel free to request songs too🙆‍♀️",
+  "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=9",
   "source": "otowarara.js"
@@ -600,7 +600,7 @@ window.SONG_DATA.push(
     {
   "title": "アイディスマイル",
   "artist": "とあ feat.初音ミク&鏡音リン",
-  "collection": "[Song Cut][2026-07-30] Singing Stream│Vocaloid Song Stream🤍Sing your favorite songs freely!🔥Feel free to request songs too🙆‍♀️",
+  "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=10",
   "source": "otowarara.js"
@@ -608,7 +608,7 @@ window.SONG_DATA.push(
     {
   "title": "流星",
   "artist": "minato(流星P) feat.初音ミク",
-  "collection": "[Song Cut][2026-07-30] Singing Stream│Vocaloid Song Stream🤍Sing your favorite songs freely!🔥Feel free to request songs too🙆‍♀️",
+  "collection": "【歌切】[2026-07-30]歌回│术力口歌回🤍尽情唱喜欢的歌！🔥也欢迎点歌🙆‍♀️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1C53h6WERN?p=11",
   "source": "otowarara.js"
@@ -616,7 +616,7 @@ window.SONG_DATA.push(
     {
   "title": "メランコリック",
   "artist": "Junky feat.鏡音リン",
-  "collection": "【Song Cut】[2026-08-14] Vocaloid Song Session🤍 Primarily singing based on requests 🙆‍♀️ Singing Live Stream",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=1",
   "source": "otowarara.js"
@@ -624,7 +624,7 @@ window.SONG_DATA.push(
     {
   "title": "虎視眈々",
   "artist": "梅とら feat.巡音ルカ・初音ミク・GUMI・IA・鏡音リン",
-  "collection": "【Song Cut】[2026-08-14] Vocaloid Song Session🤍 Primarily singing based on requests 🙆‍♀️ Singing Live Stream",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=2",
   "source": "otowarara.js"
@@ -632,7 +632,7 @@ window.SONG_DATA.push(
     {
   "title": "Just a game",
   "artist": "takamatt feat.GUMI",
-  "collection": "【Song Cut】[2026-08-14] Vocaloid Song Session🤍 Primarily singing based on requests 🙆‍♀️ Singing Live Stream",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=3",
   "source": "otowarara.js"
@@ -640,7 +640,7 @@ window.SONG_DATA.push(
     {
   "title": "深海少女",
   "artist": "ゆうゆ feat.初音ミク",
-  "collection": "【Song Cut】[2026-08-14] Vocaloid Song Session🤍 Primarily singing based on requests 🙆‍♀️ Singing Live Stream",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=4",
   "source": "otowarara.js"
@@ -648,7 +648,7 @@ window.SONG_DATA.push(
     {
   "title": "流星",
   "artist": "minato(流星P) feat.初音ミク",
-  "collection": "【Song Cut】[2026-08-14] Vocaloid Song Session🤍 Primarily singing based on requests 🙆‍♀️ Singing Live Stream",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=5",
   "source": "otowarara.js"
@@ -656,7 +656,7 @@ window.SONG_DATA.push(
     {
   "title": "グッバイ宣言",
   "artist": "Chinozo feat.flower",
-  "collection": "【Song Cut】[2026-08-14] Vocaloid Song Session🤍 Primarily singing based on requests 🙆‍♀️ Singing Live Stream",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=6",
   "source": "otowarara.js"
@@ -664,7 +664,7 @@ window.SONG_DATA.push(
     {
   "title": "東京テディベア",
   "artist": "Neru feat.鏡音リン",
-  "collection": "【Song Cut】[2026-08-14] Vocaloid Song Session🤍 Primarily singing based on requests 🙆‍♀️ Singing Live Stream",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=7",
   "source": "otowarara.js"
@@ -672,7 +672,7 @@ window.SONG_DATA.push(
     {
   "title": "おこちゃま戦争",
   "artist": "Giga feat.鏡音リン・鏡音レン",
-  "collection": "【Song Cut】[2026-08-14] Vocaloid Song Session🤍 Primarily singing based on requests 🙆‍♀️ Singing Live Stream",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=8",
   "source": "otowarara.js"
@@ -680,7 +680,7 @@ window.SONG_DATA.push(
     {
   "title": "letter song",
   "artist": "doriko feat.初音ミク",
-  "collection": "【Song Cut】[2026-08-14] Vocaloid Song Session🤍 Primarily singing based on requests 🙆‍♀️ Singing Live Stream",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=9",
   "source": "otowarara.js"
@@ -688,7 +688,7 @@ window.SONG_DATA.push(
     {
   "title": "強風オールバック",
   "artist": "ゆこぴ feat.歌愛ユキ",
-  "collection": "【Song Cut】[2026-08-14] Vocaloid Song Session🤍 Primarily singing based on requests 🙆‍♀️ Singing Live Stream",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=10",
   "source": "otowarara.js"
@@ -696,7 +696,7 @@ window.SONG_DATA.push(
     {
   "title": "ネトゲ廃人シュプレヒコール",
   "artist": "さつきがてんこもり feat.初音ミク",
-  "collection": "【Song Cut】[2026-08-14] Vocaloid Song Session🤍 Primarily singing based on requests 🙆‍♀️ Singing Live Stream",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=11",
   "source": "otowarara.js"
@@ -704,7 +704,7 @@ window.SONG_DATA.push(
     {
   "title": "カンタレラ",
   "artist": "黒うさP feat.KAITO・初音ミク",
-  "collection": "【Song Cut】[2026-08-14] Vocaloid Song Session🤍 Primarily singing based on requests 🙆‍♀️ Singing Live Stream",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=12",
   "source": "otowarara.js"
@@ -712,7 +712,7 @@ window.SONG_DATA.push(
     {
   "title": "二次元ドリームフィーバー",
   "artist": "PolyphonicBranch feat.初音ミク",
-  "collection": "【Song Cut】[2026-08-14] Vocaloid Song Session🤍 Primarily singing based on requests 🙆‍♀️ Singing Live Stream",
+  "collection": "【歌切】[2026-08-14]术力口歌回🤍以点歌为主进行演唱🙆‍♀️ 唱歌直播",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YVbD6qEjv?p=13",
   "source": "otowarara.js"
@@ -720,7 +720,7 @@ window.SONG_DATA.push(
     {
   "title": "雨とカプチーノ",
   "artist": "ヨルシカ",
-  "collection": "【Singing Clip】[2026-08-18] Non-stop singing stream 🌃 No chatting, just singing all the way ❤️‍🔥 Accepting song requests ⭕",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=1",
   "source": "otowarara.js"
@@ -728,7 +728,7 @@ window.SONG_DATA.push(
     {
   "title": "ウタノフラワー",
   "artist": "ウタゴエ放送部",
-  "collection": "【Singing Clip】[2026-08-18] Non-stop singing stream 🌃 No chatting, just singing all the way ❤️‍🔥 Accepting song requests ⭕",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=2",
   "source": "otowarara.js"
@@ -736,7 +736,7 @@ window.SONG_DATA.push(
     {
   "title": "回レ!雪月花",
   "artist": "歌組雪月花",
-  "collection": "【Singing Clip】[2026-08-18] Non-stop singing stream 🌃 No chatting, just singing all the way ❤️‍🔥 Accepting song requests ⭕",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=3",
   "source": "otowarara.js"
@@ -744,7 +744,7 @@ window.SONG_DATA.push(
     {
   "title": "魔法のコトバ",
   "artist": "スピッツ",
-  "collection": "【Singing Clip】[2026-08-18] Non-stop singing stream 🌃 No chatting, just singing all the way ❤️‍🔥 Accepting song requests ⭕",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=4",
   "source": "otowarara.js"
@@ -752,7 +752,7 @@ window.SONG_DATA.push(
     {
   "title": "女々しくて 2023流行語ver.",
   "artist": "ゴールデンボンバー",
-  "collection": "【Singing Clip】[2026-08-18] Non-stop singing stream 🌃 No chatting, just singing all the way ❤️‍🔥 Accepting song requests ⭕",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=5",
   "source": "otowarara.js"
@@ -760,7 +760,7 @@ window.SONG_DATA.push(
     {
   "title": "夜撫でるメノウ",
   "artist": "Ayase feat.初音ミク",
-  "collection": "【Singing Clip】[2026-08-18] Non-stop singing stream 🌃 No chatting, just singing all the way ❤️‍🔥 Accepting song requests ⭕",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=6",
   "source": "otowarara.js"
@@ -768,7 +768,7 @@ window.SONG_DATA.push(
     {
   "title": "ツバサ",
   "artist": "アンダーグラフ",
-  "collection": "【Singing Clip】[2026-08-18] Non-stop singing stream 🌃 No chatting, just singing all the way ❤️‍🔥 Accepting song requests ⭕",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=7",
   "source": "otowarara.js"
@@ -776,7 +776,7 @@ window.SONG_DATA.push(
     {
   "title": "吉原ラメント",
   "artist": "亜沙 feat.重音テト",
-  "collection": "【Singing Clip】[2026-08-18] Non-stop singing stream 🌃 No chatting, just singing all the way ❤️‍🔥 Accepting song requests ⭕",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=8",
   "source": "otowarara.js"
@@ -784,7 +784,7 @@ window.SONG_DATA.push(
     {
   "title": "名前のない怪物",
   "artist": "EGOIST",
-  "collection": "【Singing Clip】[2026-08-18] Non-stop singing stream 🌃 No chatting, just singing all the way ❤️‍🔥 Accepting song requests ⭕",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=9",
   "source": "otowarara.js"
@@ -792,7 +792,7 @@ window.SONG_DATA.push(
     {
   "title": "ブリキノダンス",
   "artist": "日向電工 feat.初音ミク",
-  "collection": "【Singing Clip】[2026-08-18] Non-stop singing stream 🌃 No chatting, just singing all the way ❤️‍🔥 Accepting song requests ⭕",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=10",
   "source": "otowarara.js"
@@ -800,7 +800,7 @@ window.SONG_DATA.push(
     {
   "title": "青空のラプソディ",
   "artist": "fhána",
-  "collection": "【Singing Clip】[2026-08-18] Non-stop singing stream 🌃 No chatting, just singing all the way ❤️‍🔥 Accepting song requests ⭕",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=11",
   "source": "otowarara.js"
@@ -808,7 +808,7 @@ window.SONG_DATA.push(
     {
   "title": "青空の果て",
   "artist": "奥田美和子",
-  "collection": "【Singing Clip】[2026-08-18] Non-stop singing stream 🌃 No chatting, just singing all the way ❤️‍🔥 Accepting song requests ⭕",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=12",
   "source": "otowarara.js"
@@ -816,7 +816,7 @@ window.SONG_DATA.push(
     {
   "title": "熱帯夜",
   "artist": "RIP SLYME",
-  "collection": "【Singing Clip】[2026-08-18] Non-stop singing stream 🌃 No chatting, just singing all the way ❤️‍🔥 Accepting song requests ⭕",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=13",
   "source": "otowarara.js"
@@ -824,7 +824,7 @@ window.SONG_DATA.push(
     {
   "title": "ゴーゴー幽霊船",
   "artist": "米津玄師",
-  "collection": "【Singing Clip】[2026-08-18] Non-stop singing stream 🌃 No chatting, just singing all the way ❤️‍🔥 Accepting song requests ⭕",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=14",
   "source": "otowarara.js"
@@ -832,7 +832,7 @@ window.SONG_DATA.push(
     {
   "title": "Understand",
   "artist": "YUI",
-  "collection": "【Singing Clip】[2026-08-18] Non-stop singing stream 🌃 No chatting, just singing all the way ❤️‍🔥 Accepting song requests ⭕",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=15",
   "source": "otowarara.js"
@@ -840,7 +840,7 @@ window.SONG_DATA.push(
     {
   "title": "若者のすべて",
   "artist": "フジファブリック",
-  "collection": "【Singing Clip】[2026-08-18] Non-stop singing stream 🌃 No chatting, just singing all the way ❤️‍🔥 Accepting song requests ⭕",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=16",
   "source": "otowarara.js"
@@ -848,7 +848,7 @@ window.SONG_DATA.push(
     {
   "title": "光",
   "artist": "宇多田ヒカル",
-  "collection": "【Singing Clip】[2026-08-18] Non-stop singing stream 🌃 No chatting, just singing all the way ❤️‍🔥 Accepting song requests ⭕",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=17",
   "source": "otowarara.js"
@@ -856,7 +856,7 @@ window.SONG_DATA.push(
     {
   "title": "モノクロ∞ブルースカイ",
   "artist": "のぼる↑ feat.初音ミク",
-  "collection": "【Singing Clip】[2026-08-18] Non-stop singing stream 🌃 No chatting, just singing all the way ❤️‍🔥 Accepting song requests ⭕",
+  "collection": "【歌切】[2026-08-18]不间断歌回🌃不聊天，只管一直唱❤️‍🔥接受点歌⭕",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Gh8G6vEW4?p=18",
   "source": "otowarara.js"
@@ -864,7 +864,7 @@ window.SONG_DATA.push(
     {
   "title": "グリグリメガネと月光蟲",
   "artist": "古川本舗 feat. 初音ミク",
-  "collection": "[Song Cut] [2026-10-30] Vocaloid Songs 👾 From Nostalgic Classics to Hit Songs! 🤍",
+  "collection": "【歌切】[2026-10-30]术力口歌曲👾从怀旧经典到热门歌曲！🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mFxk6YEo3?p=1",
   "source": "otowarara.js"
@@ -872,7 +872,7 @@ window.SONG_DATA.push(
     {
   "title": "おひめさまになりたいのッ！",
   "artist": "OSTER project feat. 鏡音リン",
-  "collection": "[Song Cut] [2026-10-30] Vocaloid Songs 👾 From Nostalgic Classics to Hit Songs! 🤍",
+  "collection": "【歌切】[2026-10-30]术力口歌曲👾从怀旧经典到热门歌曲！🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mFxk6YEo3?p=2",
   "source": "otowarara.js"
@@ -880,7 +880,7 @@ window.SONG_DATA.push(
     {
   "title": "僕は初音ミクとキスをした",
   "artist": "みきとP feat. 初音ミク",
-  "collection": "[Song Cut] [2026-10-30] Vocaloid Songs 👾 From Nostalgic Classics to Hit Songs! 🤍",
+  "collection": "【歌切】[2026-10-30]术力口歌曲👾从怀旧经典到热门歌曲！🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mFxk6YEo3?p=3",
   "source": "otowarara.js"
@@ -888,7 +888,7 @@ window.SONG_DATA.push(
     {
   "title": "白い雪のプリンセスは",
   "artist": "のぼる↑ feat. 初音ミク",
-  "collection": "[Song Cut] [2026-10-30] Vocaloid Songs 👾 From Nostalgic Classics to Hit Songs! 🤍",
+  "collection": "【歌切】[2026-10-30]术力口歌曲👾从怀旧经典到热门歌曲！🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mFxk6YEo3?p=4",
   "source": "otowarara.js"
@@ -896,7 +896,7 @@ window.SONG_DATA.push(
     {
   "title": "古書屋敷殺人事件",
   "artist": "てにをは feat. 初音ミク",
-  "collection": "[Song Cut] [2026-10-30] Vocaloid Songs 👾 From Nostalgic Classics to Hit Songs! 🤍",
+  "collection": "【歌切】[2026-10-30]术力口歌曲👾从怀旧经典到热门歌曲！🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mFxk6YEo3?p=5",
   "source": "otowarara.js"
@@ -904,7 +904,7 @@ window.SONG_DATA.push(
     {
   "title": "天ノ弱",
   "artist": "164 feat. GUMI",
-  "collection": "[Song Cut] [2026-10-30] Vocaloid Songs 👾 From Nostalgic Classics to Hit Songs! 🤍",
+  "collection": "【歌切】[2026-10-30]术力口歌曲👾从怀旧经典到热门歌曲！🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mFxk6YEo3?p=6",
   "source": "otowarara.js"
@@ -912,7 +912,7 @@ window.SONG_DATA.push(
     {
   "title": "抜錨",
   "artist": "ナナホシ管弦楽団 feat. 巡音ルカ",
-  "collection": "[Song Cut] [2026-10-30] Vocaloid Songs 👾 From Nostalgic Classics to Hit Songs! 🤍",
+  "collection": "【歌切】[2026-10-30]术力口歌曲👾从怀旧经典到热门歌曲！🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mFxk6YEo3?p=7",
   "source": "otowarara.js"
@@ -920,7 +920,7 @@ window.SONG_DATA.push(
     {
   "title": "スイートマジック",
   "artist": "Junky feat. 鏡音リン",
-  "collection": "[Song Cut] [2026-10-30] Vocaloid Songs 👾 From Nostalgic Classics to Hit Songs! 🤍",
+  "collection": "【歌切】[2026-10-30]术力口歌曲👾从怀旧经典到热门歌曲！🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mFxk6YEo3?p=8",
   "source": "otowarara.js"
@@ -928,7 +928,7 @@ window.SONG_DATA.push(
     {
   "title": "パメラ",
   "artist": "バルーン feat. flower",
-  "collection": "[Song Cut] [2026-10-30] Vocaloid Songs 👾 From Nostalgic Classics to Hit Songs! 🤍",
+  "collection": "【歌切】[2026-10-30]术力口歌曲👾从怀旧经典到热门歌曲！🤍",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1mFxk6YEo3?p=9",
   "source": "otowarara.js"
