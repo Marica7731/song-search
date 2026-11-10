@@ -1,6 +1,6 @@
 // 透夏 - 歌单数据 (多合集汇总)
 // 来源: BV1CbVk68ESd
-// 生成时间: 11/10/2026, 3:45:47 PM
+// 生成时间: 11/10/2026, 5:43:54 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -827,6 +827,38 @@ window.SONG_DATA.push(
   "collection": "Song cut [Touka] [2026-10-25] October radio live 🎐 Singing and chatting | The 10th is Touka Day",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JGnD6fEg8?p=4",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "Song cut [Touka] [2026-11-10] November radio live stream 🎐｜The 10th of every month is Touka Day",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EXQ?p=1",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "Song cut [Touka] [2026-11-10] November radio live stream 🎐｜The 10th of every month is Touka Day",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EXQ?p=2",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "Song cut [Touka] [2026-11-10] November radio live stream 🎐｜The 10th of every month is Touka Day",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EXQ?p=3",
+  "source": "toka10summer.js"
+},
+    {
+  "title": "靴の花火",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "Song cut [Touka] [2026-11-10] November radio live stream 🎐｜The 10th of every month is Touka Day",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EXQ?p=4",
   "source": "toka10summer.js"
 }
 );

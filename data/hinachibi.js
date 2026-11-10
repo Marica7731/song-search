@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 11/10/2026, 3:41:53 PM
+// 生成时间: 11/10/2026, 5:40:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3443,6 +3443,70 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-11-05] I just wanted to sing~~!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vk4e6dE8m?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-09] Trying out a new plugin!!!!! Looking for a tone you like!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ezWV64E9n?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "花瓶に触れた",
+  "artist": "バルーン feat. flower",
+  "collection": "[Song Cut] [2026-11-09] Trying out a new plugin!!!!! Looking for a tone you like!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ezWV64E9n?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "daze",
+  "artist": "じん feat. メイリア from GARNiDELiA",
+  "collection": "[Song Cut] [2026-11-09] Trying out a new plugin!!!!! Looking for a tone you like!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ezWV64E9n?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "わたしのアール",
+  "artist": "くらげP feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-09] Trying out a new plugin!!!!! Looking for a tone you like!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ezWV64E9n?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "うぉんちゅーばっど",
+  "artist": "jon-YAKITORY feat. 可不",
+  "collection": "[Song Cut] [2026-11-09] Trying out a new plugin!!!!! Looking for a tone you like!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ezWV64E9n?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "妄想アスパルテーム",
+  "artist": "picco feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-09] Trying out a new plugin!!!!! Looking for a tone you like!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ezWV64E9n?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "メンヘラじゃないもん！",
+  "artist": "勇魚 feat. 初音ミク・音街ウナ",
+  "collection": "[Song Cut] [2026-11-09] Trying out a new plugin!!!!! Looking for a tone you like!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ezWV64E9n?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "月曜日の憂鬱",
+  "artist": "天月-あまつき-",
+  "collection": "[Song Cut] [2026-11-09] Trying out a new plugin!!!!! Looking for a tone you like!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ezWV64E9n?p=8",
   "source": "hinachibi.js"
 }
 );

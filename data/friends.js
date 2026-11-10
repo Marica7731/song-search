@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 11/10/2026, 3:20:04 PM
+// 生成时间: 11/10/2026, 5:20:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5083,6 +5083,70 @@ window.SONG_DATA.push(
   "collection": "Crossover song clip 2026-10-28 I heard we seem a bit similar.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1nexr6HELA?p=10",
+  "source": "friends.js"
+},
+    {
+  "title": "Snow halation",
+  "artist": "μ's",
+  "collection": "[🦢Song Cut] [2026-11-09] Emergency!!!!! Came to sing 3D karaoke with friends! [Kiwa Suu / Hizuki Rurufu / Figaro]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vzWV64EUb?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "[🦢Song Cut] [2026-11-09] Emergency!!!!! Came to sing 3D karaoke with friends! [Kiwa Suu / Hizuki Rurufu / Figaro]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vzWV64EUb?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "Love so sweet",
+  "artist": "嵐",
+  "collection": "[🦢Song Cut] [2026-11-09] Emergency!!!!! Came to sing 3D karaoke with friends! [Kiwa Suu / Hizuki Rurufu / Figaro]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vzWV64EUb?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "[🦢Song Cut] [2026-11-09] Emergency!!!!! Came to sing 3D karaoke with friends! [Kiwa Suu / Hizuki Rurufu / Figaro]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vzWV64EUb?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "[🦢Song Cut] [2026-11-09] Emergency!!!!! Came to sing 3D karaoke with friends! [Kiwa Suu / Hizuki Rurufu / Figaro]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vzWV64EUb?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー(中島愛)",
+  "collection": "[🦢Song Cut] [2026-11-09] Emergency!!!!! Came to sing 3D karaoke with friends! [Kiwa Suu / Hizuki Rurufu / Figaro]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vzWV64EUb?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "MOON NIGHTのせいにして",
+  "artist": "DRAMATIC STARS",
+  "collection": "[🦢Song Cut] [2026-11-09] Emergency!!!!! Came to sing 3D karaoke with friends! [Kiwa Suu / Hizuki Rurufu / Figaro]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vzWV64EUb?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "[🦢Song Cut] [2026-11-09] Emergency!!!!! Came to sing 3D karaoke with friends! [Kiwa Suu / Hizuki Rurufu / Figaro]",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1vzWV64EUb?p=8",
   "source": "friends.js"
 }
 );

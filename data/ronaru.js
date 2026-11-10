@@ -1,6 +1,6 @@
 // 炉なる - 歌单数据 (多合集汇总)
 // 来源: BV1oeMx6WEve
-// 生成时间: 11/10/2026, 4:13:41 PM
+// 生成时间: 11/10/2026, 6:04:12 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1019,6 +1019,70 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-11-01] Vertical-screen singing! This time my throat is really uncomfortable! [Naru Stream]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Um4T6qEsk?p=9",
+  "source": "ronaru.js"
+},
+    {
+  "title": "あいつら全員同窓会",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "[Song Cut] [2026-11-08] Song Request Special!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64Esp?p=1",
+  "source": "ronaru.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "ロクデナシ",
+  "collection": "[Song Cut] [2026-11-08] Song Request Special!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64Esp?p=2",
+  "source": "ronaru.js"
+},
+    {
+  "title": "モニタリング",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Song Request Special!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64Esp?p=3",
+  "source": "ronaru.js"
+},
+    {
+  "title": "モブノデレラ",
+  "artist": "≠ME",
+  "collection": "[Song Cut] [2026-11-08] Song Request Special!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64Esp?p=4",
+  "source": "ronaru.js"
+},
+    {
+  "title": "灰色と青",
+  "artist": "米津玄師 feat. 菅田将暉",
+  "collection": "[Song Cut] [2026-11-08] Song Request Special!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64Esp?p=5",
+  "source": "ronaru.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "[Song Cut] [2026-11-08] Song Request Special!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64Esp?p=6",
+  "source": "ronaru.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-08] Song Request Special!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64Esp?p=7",
+  "source": "ronaru.js"
+},
+    {
+  "title": "ステキな日曜日～Gyu Gyu グッデイ!～",
+  "artist": "芦田愛菜",
+  "collection": "[Song Cut] [2026-11-08] Song Request Special!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64Esp?p=8",
   "source": "ronaru.js"
 }
 );

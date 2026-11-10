@@ -1,6 +1,6 @@
 // 碧生ねの - 歌单数据 (多合集汇总)
 // 来源: BV1S4TT6pEn4
-// 生成时间: 11/10/2026, 4:03:13 PM
+// 生成时间: 11/10/2026, 5:55:01 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2579,6 +2579,222 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-11-02] Casually singing a few songs late at night🎶",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1B7xh6pEoo?p=23",
+  "source": "neno.js"
+},
+    {
+  "title": "太陽",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Morning Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EUz?p=1",
+  "source": "neno.js"
+},
+    {
+  "title": "歩く",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Morning Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EUz?p=2",
+  "source": "neno.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Morning Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EUz?p=3",
+  "source": "neno.js"
+},
+    {
+  "title": "Planetes",
+  "artist": "EGOIST",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Morning Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EUz?p=4",
+  "source": "neno.js"
+},
+    {
+  "title": "Departures ～あなたにおくるアイの歌～",
+  "artist": "EGOIST",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Morning Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EUz?p=5",
+  "source": "neno.js"
+},
+    {
+  "title": "おやすみ泣き声、さよなら歌姫",
+  "artist": "クリープハイプ",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Morning Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EUz?p=6",
+  "source": "neno.js"
+},
+    {
+  "title": "死ぬにはいい日だった",
+  "artist": "ピコン feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Morning Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EUz?p=7",
+  "source": "neno.js"
+},
+    {
+  "title": "狭心症",
+  "artist": "RADWIMPS",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Morning Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EUz?p=8",
+  "source": "neno.js"
+},
+    {
+  "title": "手をつなごう",
+  "artist": "絢香",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Morning Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EUz?p=9",
+  "source": "neno.js"
+},
+    {
+  "title": "森の小さなレストラン",
+  "artist": "手嶌葵",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Morning Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EUz?p=10",
+  "source": "neno.js"
+},
+    {
+  "title": "ぼくはくま",
+  "artist": "宇多田ヒカル",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Morning Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EUz?p=11",
+  "source": "neno.js"
+},
+    {
+  "title": "glow",
+  "artist": "keeno feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Morning Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EUz?p=12",
+  "source": "neno.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Morning Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EUz?p=13",
+  "source": "neno.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Afternoon Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EyG?p=1",
+  "source": "neno.js"
+},
+    {
+  "title": "Alice in 冷凍庫",
+  "artist": "Orangestar feat. IA",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Afternoon Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EyG?p=2",
+  "source": "neno.js"
+},
+    {
+  "title": "地球儀",
+  "artist": "米津玄師",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Afternoon Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EyG?p=3",
+  "source": "neno.js"
+},
+    {
+  "title": "空に歌えば",
+  "artist": "amazarashi",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Afternoon Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EyG?p=4",
+  "source": "neno.js"
+},
+    {
+  "title": "第一夜",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Afternoon Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EyG?p=5",
+  "source": "neno.js"
+},
+    {
+  "title": "すずめ",
+  "artist": "RADWIMPS feat. 十明",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Afternoon Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EyG?p=6",
+  "source": "neno.js"
+},
+    {
+  "title": "Snow halation",
+  "artist": "μ's",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Afternoon Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EyG?p=7",
+  "source": "neno.js"
+},
+    {
+  "title": "爆弾魔",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Afternoon Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EyG?p=8",
+  "source": "neno.js"
+},
+    {
+  "title": "モザイクロール",
+  "artist": "DECO*27 feat. GUMI",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Afternoon Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EyG?p=9",
+  "source": "neno.js"
+},
+    {
+  "title": "from Y to Y",
+  "artist": "ジミーサムP feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Afternoon Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EyG?p=10",
+  "source": "neno.js"
+},
+    {
+  "title": "心拍数♯0822",
+  "artist": "蝶々P feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Afternoon Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EyG?p=11",
+  "source": "neno.js"
+},
+    {
+  "title": "ぼくらのレットイットビー",
+  "artist": "はりーP feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Afternoon Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EyG?p=12",
+  "source": "neno.js"
+},
+    {
+  "title": "深海のリトルクライ",
+  "artist": "sasakure.UK feat. 土岐麻子",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Afternoon Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EyG?p=13",
+  "source": "neno.js"
+},
+    {
+  "title": "ハルキゲニア",
+  "artist": "Chevon",
+  "collection": "[Song Cut] [2026-11-10] Relaxing Afternoon Singing Live🎶",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1LzWV64EyG?p=14",
   "source": "neno.js"
 }
 );

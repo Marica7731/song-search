@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 11/10/2026, 4:23:39 PM
+// 生成时间: 11/10/2026, 6:14:02 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6675,6 +6675,94 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-11-06] Let's sing a lot of songs you all requested ♪",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1K14x6QEt8?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "六等星",
+  "artist": "ざらめ",
+  "collection": "[Song Cut] [2026-11-08] Sunday regular stream!! bedtime singing 🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1izWV64EAC?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "星降る海",
+  "artist": "Aqu3ra・月見ヤチヨ(早見沙織)",
+  "collection": "[Song Cut] [2026-11-08] Sunday regular stream!! bedtime singing 🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1izWV64EAC?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "憂一乗",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-08] Sunday regular stream!! bedtime singing 🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1izWV64EAC?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "魔法",
+  "artist": "古川本舗 feat. ちょまいよ",
+  "collection": "[Song Cut] [2026-11-08] Sunday regular stream!! bedtime singing 🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1izWV64EAC?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Planetes",
+  "artist": "EGOIST",
+  "collection": "[Song Cut] [2026-11-08] Sunday regular stream!! bedtime singing 🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1izWV64EAC?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "夜永唄",
+  "artist": "神はサイコロを振らない",
+  "collection": "[Song Cut] [2026-11-08] Sunday regular stream!! bedtime singing 🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1izWV64EAC?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "雫",
+  "artist": "スキマスイッチ",
+  "collection": "[Song Cut] [2026-11-08] Sunday regular stream!! bedtime singing 🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1izWV64EAC?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "鏡面の波",
+  "artist": "YURiKA",
+  "collection": "[Song Cut] [2026-11-08] Sunday regular stream!! bedtime singing 🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1izWV64EAC?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "コントラスト",
+  "artist": "初星学園(篠澤広)",
+  "collection": "[Song Cut] [2026-11-08] Sunday regular stream!! bedtime singing 🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1izWV64EAC?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "スター",
+  "artist": "aiko",
+  "collection": "[Song Cut] [2026-11-08] Sunday regular stream!! bedtime singing 🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1izWV64EAC?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "夜行",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-08] Sunday regular stream!! bedtime singing 🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1izWV64EAC?p=11",
   "source": "suiuishino.js"
 }
 );

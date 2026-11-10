@@ -1,6 +1,6 @@
 // みなとん - 歌单数据 (多合集汇总)
 // 来源: BV1TqGY6gEEf
-// 生成时间: 11/10/2026, 3:53:57 PM
+// 生成时间: 11/10/2026, 5:46:48 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1595,6 +1595,142 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-11-01] 3D Live: Gently singing a few songs on Sunday morning 🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Sixh6uEQp?p=25",
+  "source": "minaton.js"
+},
+    {
+  "title": "左右盲",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-08] Singing a few melancholy autumn-themed 🌰 songs 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64ETq?p=1",
+  "source": "minaton.js"
+},
+    {
+  "title": "First Love",
+  "artist": "宇多田ヒカル",
+  "collection": "[Song Cut] [2026-11-08] Singing a few melancholy autumn-themed 🌰 songs 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64ETq?p=2",
+  "source": "minaton.js"
+},
+    {
+  "title": "愛をこめて花束を",
+  "artist": "Superfly",
+  "collection": "[Song Cut] [2026-11-08] Singing a few melancholy autumn-themed 🌰 songs 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64ETq?p=3",
+  "source": "minaton.js"
+},
+    {
+  "title": "炎",
+  "artist": "LiSA",
+  "collection": "[Song Cut] [2026-11-08] Singing a few melancholy autumn-themed 🌰 songs 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64ETq?p=4",
+  "source": "minaton.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "[Song Cut] [2026-11-08] Singing a few melancholy autumn-themed 🌰 songs 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64ETq?p=5",
+  "source": "minaton.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "[Song Cut] [2026-11-08] Singing a few melancholy autumn-themed 🌰 songs 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64ETq?p=6",
+  "source": "minaton.js"
+},
+    {
+  "title": "Time goes by",
+  "artist": "Every Little Thing",
+  "collection": "[Song Cut] [2026-11-08] Singing a few melancholy autumn-themed 🌰 songs 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64ETq?p=7",
+  "source": "minaton.js"
+},
+    {
+  "title": "三日月",
+  "artist": "絢香",
+  "collection": "[Song Cut] [2026-11-08] Singing a few melancholy autumn-themed 🌰 songs 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64ETq?p=8",
+  "source": "minaton.js"
+},
+    {
+  "title": "Everything",
+  "artist": "MISIA",
+  "collection": "[Song Cut] [2026-11-08] Singing a few melancholy autumn-themed 🌰 songs 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64ETq?p=9",
+  "source": "minaton.js"
+},
+    {
+  "title": "I believe",
+  "artist": "絢香",
+  "collection": "[Song Cut] [2026-11-08] Singing a few melancholy autumn-themed 🌰 songs 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64ETq?p=10",
+  "source": "minaton.js"
+},
+    {
+  "title": "ENDLESS STORY",
+  "artist": "伊藤由奈",
+  "collection": "[Song Cut] [2026-11-08] Singing a few melancholy autumn-themed 🌰 songs 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64ETq?p=11",
+  "source": "minaton.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-08] Singing a few melancholy autumn-themed 🌰 songs 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64ETq?p=12",
+  "source": "minaton.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "[Song Cut] [2026-11-08] Singing a few melancholy autumn-themed 🌰 songs 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64ETq?p=13",
+  "source": "minaton.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "[Song Cut] [2026-11-08] Singing a few melancholy autumn-themed 🌰 songs 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64ETq?p=14",
+  "source": "minaton.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "[Song Cut] [2026-11-08] Singing a few melancholy autumn-themed 🌰 songs 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64ETq?p=15",
+  "source": "minaton.js"
+},
+    {
+  "title": "フリージア",
+  "artist": "Uru",
+  "collection": "[Song Cut] [2026-11-08] Singing a few melancholy autumn-themed 🌰 songs 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64ETq?p=16",
+  "source": "minaton.js"
+},
+    {
+  "title": "366日",
+  "artist": "HY",
+  "collection": "[Song Cut] [2026-11-08] Singing a few melancholy autumn-themed 🌰 songs 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15zWV64ETq?p=17",
   "source": "minaton.js"
 }
 );
