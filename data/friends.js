@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 11/11/2026, 5:44:33 PM
+// 生成时间: 11/11/2026, 7:57:21 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5147,6 +5147,142 @@ window.SONG_DATA.push(
   "collection": "[🦢Song Cut] [2026-11-09] Emergency!!!!! Came to sing 3D karaoke with friends! [Kiwa Suu / Hizuki Rurufu / Figaro]",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1vzWV64EUb?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "Collaboration song cut 2026-11-11 Ratio Euyilis × Figaro Collaborative performance!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EeWm6ZEJn?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "Collaboration song cut 2026-11-11 Ratio Euyilis × Figaro Collaborative performance!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EeWm6ZEJn?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "Collaboration song cut 2026-11-11 Ratio Euyilis × Figaro Collaborative performance!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EeWm6ZEJn?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "Collaboration song cut 2026-11-11 Ratio Euyilis × Figaro Collaborative performance!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EeWm6ZEJn?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "マーシャル・マキシマイザー",
+  "artist": "柊マグネタイト feat. 可不",
+  "collection": "Collaboration song cut 2026-11-11 Ratio Euyilis × Figaro Collaborative performance!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EeWm6ZEJn?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "Mela!",
+  "artist": "緑黄色社会",
+  "collection": "Collaboration song cut 2026-11-11 Ratio Euyilis × Figaro Collaborative performance!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EeWm6ZEJn?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "Collaboration song cut 2026-11-11 Ratio Euyilis × Figaro Collaborative performance!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EeWm6ZEJn?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "Collaboration song cut 2026-11-11 Ratio Euyilis × Figaro Collaborative performance!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1EeWm6ZEJn?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "NOX LUX",
+  "artist": "MYTH & ROID",
+  "collection": "Collab song cut 2026-11-10 GREY MYTH Event 1.5th Anniversary Collab 👻🦉🐱 (Mikage / Hao / LEWNE)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a1Wm6nEbN?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "Collab song cut 2026-11-10 GREY MYTH Event 1.5th Anniversary Collab 👻🦉🐱 (Mikage / Hao / LEWNE)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a1Wm6nEbN?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz feat. 巡音ルカ",
+  "collection": "Collab song cut 2026-11-10 GREY MYTH Event 1.5th Anniversary Collab 👻🦉🐱 (Mikage / Hao / LEWNE)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a1Wm6nEbN?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "星屑ビーナス",
+  "artist": "Aimer",
+  "collection": "Collab song cut 2026-11-10 GREY MYTH Event 1.5th Anniversary Collab 👻🦉🐱 (Mikage / Hao / LEWNE)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a1Wm6nEbN?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "Collab song cut 2026-11-10 GREY MYTH Event 1.5th Anniversary Collab 👻🦉🐱 (Mikage / Hao / LEWNE)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a1Wm6nEbN?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "ninelie",
+  "artist": "Aimer with chelly (EGOIST)",
+  "collection": "Collab song cut 2026-11-10 GREY MYTH Event 1.5th Anniversary Collab 👻🦉🐱 (Mikage / Hao / LEWNE)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a1Wm6nEbN?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "ロストメモリー",
+  "artist": "深影",
+  "collection": "Collab song cut 2026-11-10 GREY MYTH Event 1.5th Anniversary Collab 👻🦉🐱 (Mikage / Hao / LEWNE)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a1Wm6nEbN?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "献華",
+  "artist": "羽緒",
+  "collection": "Collab song cut 2026-11-10 GREY MYTH Event 1.5th Anniversary Collab 👻🦉🐱 (Mikage / Hao / LEWNE)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a1Wm6nEbN?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "Dear Song",
+  "artist": "LEWNE",
+  "collection": "Collab song cut 2026-11-10 GREY MYTH Event 1.5th Anniversary Collab 👻🦉🐱 (Mikage / Hao / LEWNE)",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1a1Wm6nEbN?p=9",
   "source": "friends.js"
 }
 );

@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 11/11/2026, 5:13:18 PM
+// 生成时间: 11/11/2026, 7:22:40 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -24307,6 +24307,30 @@ window.SONG_DATA.push(
   "collection": "[🦢 Song Cut] [2026-11-04] I have news to announce! The Chihuahua also says: Could everyone please take a listen?",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xfxo6JEgT?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "琥珀色の街、上海蟹の朝",
+  "artist": "くるり",
+  "collection": "[🦢Song Cut] [2026-11-11] Hey! Long time no see! My nose has been running nonstop lately~",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JbWm6wEho?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "カントリー・ロード",
+  "artist": "本名陽子",
+  "collection": "[🦢Song Cut] [2026-11-11] Hey! Long time no see! My nose has been running nonstop lately~",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JbWm6wEho?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "[🦢Song Cut] [2026-11-11] Hey! Long time no see! My nose has been running nonstop lately~",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1JbWm6wEho?p=3",
   "source": "suu_usuwa.js"
 }
 );

@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 11/11/2026, 6:38:56 PM
+// 生成时间: 11/11/2026, 8:55:42 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6763,6 +6763,86 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-11-08] Sunday regular stream!! bedtime singing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1izWV64EAC?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "10月無口な君を忘れる",
+  "artist": "あたらよ",
+  "collection": "[Song Cut] [2026-11-11] Before autumn ends, autumn song special!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n4Wm6YEyi?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "[Song Cut] [2026-11-11] Before autumn ends, autumn song special!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n4Wm6YEyi?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "斜陽",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-11] Before autumn ends, autumn song special!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n4Wm6YEyi?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "茜",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-11] Before autumn ends, autumn song special!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n4Wm6YEyi?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "りんごのうた",
+  "artist": "椎名林檎",
+  "collection": "[Song Cut] [2026-11-11] Before autumn ends, autumn song special!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n4Wm6YEyi?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "金木犀",
+  "artist": "くじら feat. v flower",
+  "collection": "[Song Cut] [2026-11-11] Before autumn ends, autumn song special!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n4Wm6YEyi?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "glow",
+  "artist": "keeno feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-11] Before autumn ends, autumn song special!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n4Wm6YEyi?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "回る空うさぎ",
+  "artist": "Orangestar feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-11] Before autumn ends, autumn song special!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n4Wm6YEyi?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "夜永唄",
+  "artist": "神はサイコロを振らない",
+  "collection": "[Song Cut] [2026-11-11] Before autumn ends, autumn song special!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n4Wm6YEyi?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "楓",
+  "artist": "スピッツ",
+  "collection": "[Song Cut] [2026-11-11] Before autumn ends, autumn song special!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n4Wm6YEyi?p=10",
   "source": "suiuishino.js"
 }
 );
