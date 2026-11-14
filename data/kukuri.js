@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 11/14/2026, 5:57:30 PM
+// 生成时间: 11/14/2026, 8:36:31 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7619,6 +7619,166 @@ window.SONG_DATA.push(
   "collection": "[💫✖Song Cut] [2026-10-31] Halloween is here! Choose chocolate for candy.ᐟ🍫",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wZxH6PEqw?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "アルジャーノン",
+  "artist": "ヨルシカ",
+  "collection": "[💫✖Song cut][2026-11-13] I wish I could sing happily~💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEDu?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "[💫✖Song cut][2026-11-13] I wish I could sing happily~💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEDu?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "がらくた",
+  "artist": "米津玄師",
+  "collection": "[💫✖Song cut][2026-11-13] I wish I could sing happily~💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEDu?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Pale Blue",
+  "artist": "米津玄師",
+  "collection": "[💫✖Song cut][2026-11-13] I wish I could sing happily~💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEDu?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "僕たちが恋をする理由",
+  "artist": "坂本真綾",
+  "collection": "[💫✖Song cut][2026-11-13] I wish I could sing happily~💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEDu?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "君が夜の海に還るまで",
+  "artist": "こんにちは谷田さん feat. 初音ミク",
+  "collection": "[💫✖Song cut][2026-11-13] I wish I could sing happily~💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEDu?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "いとしのエリー",
+  "artist": "サザンオールスターズ",
+  "collection": "[💫✖Song cut][2026-11-13] I wish I could sing happily~💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEDu?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "レイニー ブルー",
+  "artist": "徳永英明",
+  "collection": "[💫✖Song cut][2026-11-13] I wish I could sing happily~💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEDu?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "[💫✖Song cut][2026-11-13] I wish I could sing happily~💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEDu?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "オリビアを聴きながら",
+  "artist": "杏里",
+  "collection": "[💫✖Song cut][2026-11-13] I wish I could sing happily~💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEDu?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ナツノハナ",
+  "artist": "JUJU",
+  "collection": "[💫✖Song cut][2026-11-13] I wish I could sing happily~💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEDu?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "眠れぬ夜は君のせい",
+  "artist": "MISIA",
+  "collection": "[💫✖Song cut][2026-11-13] I wish I could sing happily~💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEDu?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Everything",
+  "artist": "MISIA",
+  "collection": "[💫✖Song cut][2026-11-13] I wish I could sing happily~💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEDu?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "未来予想図II",
+  "artist": "DREAMS COME TRUE",
+  "collection": "[💫✖Song cut][2026-11-13] I wish I could sing happily~💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEDu?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Flavor Of Life",
+  "artist": "宇多田ヒカル",
+  "collection": "[💫✖Song cut][2026-11-13] I wish I could sing happily~💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEDu?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "プール",
+  "artist": "秦基博",
+  "collection": "[💫✖Song cut][2026-11-13] I wish I could sing happily~💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEDu?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "fish",
+  "artist": "back number",
+  "collection": "[💫✖Song cut][2026-11-13] I wish I could sing happily~💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEDu?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "思い出せなくなるその日まで",
+  "artist": "back number",
+  "collection": "[💫✖Song cut][2026-11-13] I wish I could sing happily~💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEDu?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ハッピーエンド",
+  "artist": "back number",
+  "collection": "[💫✖Song cut][2026-11-13] I wish I could sing happily~💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEDu?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "[💫✖Song cut][2026-11-13] I wish I could sing happily~💭",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEDu?p=20",
   "source": "kukuri.js"
 }
 );

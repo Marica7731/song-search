@@ -1,6 +1,6 @@
 // みなとん - 歌单数据 (多合集汇总)
 // 来源: BV1TqGY6gEEf
-// 生成时间: 11/14/2026, 7:16:29 PM
+// 生成时间: 11/14/2026, 9:46:50 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1731,6 +1731,102 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-11-08] Singing a few melancholy autumn-themed 🌰 songs 🎙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15zWV64ETq?p=17",
+  "source": "minaton.js"
+},
+    {
+  "title": "会いたくて",
+  "artist": "Ado",
+  "collection": "[Song Cut] [2026-11-13] Traveling back to the Heisei era to sing🎙!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oE1w?p=1",
+  "source": "minaton.js"
+},
+    {
+  "title": "この夜を止めてよ",
+  "artist": "JUJU",
+  "collection": "[Song Cut] [2026-11-13] Traveling back to the Heisei era to sing🎙!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oE1w?p=2",
+  "source": "minaton.js"
+},
+    {
+  "title": "oath sign",
+  "artist": "LiSA",
+  "collection": "[Song Cut] [2026-11-13] Traveling back to the Heisei era to sing🎙!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oE1w?p=3",
+  "source": "minaton.js"
+},
+    {
+  "title": "ヒカリヘ",
+  "artist": "miwa",
+  "collection": "[Song Cut] [2026-11-13] Traveling back to the Heisei era to sing🎙!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oE1w?p=4",
+  "source": "minaton.js"
+},
+    {
+  "title": "ムーンライト",
+  "artist": "星街すいせい",
+  "collection": "[Song Cut] [2026-11-15] Sudden singing and casual chat!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X6s76KEcr?p=1",
+  "source": "minaton.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-15] Sudden singing and casual chat!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X6s76KEcr?p=2",
+  "source": "minaton.js"
+},
+    {
+  "title": "酔いどれ知らず",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "[Song Cut] [2026-11-15] Sudden singing and casual chat!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X6s76KEcr?p=3",
+  "source": "minaton.js"
+},
+    {
+  "title": "JANE DOE",
+  "artist": "米津玄師, 宇多田ヒカル",
+  "collection": "[Song Cut] [2026-11-15] Sudden singing and casual chat!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X6s76KEcr?p=4",
+  "source": "minaton.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-15] Sudden singing and casual chat!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X6s76KEcr?p=5",
+  "source": "minaton.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-15] Sudden singing and casual chat!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X6s76KEcr?p=6",
+  "source": "minaton.js"
+},
+    {
+  "title": "点描の唄",
+  "artist": "Mrs. GREEN APPLE feat. 井上苑子",
+  "collection": "[Song Cut] [2026-11-15] Sudden singing and casual chat!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X6s76KEcr?p=7",
+  "source": "minaton.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "[Song Cut] [2026-11-15] Sudden singing and casual chat!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1X6s76KEcr?p=8",
   "source": "minaton.js"
 }
 );

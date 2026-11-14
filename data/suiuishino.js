@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 11/14/2026, 7:52:11 PM
+// 生成时间: 11/14/2026, 10:14:50 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6843,6 +6843,38 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-11-11] Before autumn ends, autumn song special!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1n4Wm6YEyi?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "flos",
+  "artist": "R Sound Design feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-14] [Moonlit Bloom Singing Relay] Like flowers blooming in the night, bringing healing songs🌷",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xos56oEcN?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "花人局",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-14] [Moonlit Bloom Singing Relay] Like flowers blooming in the night, bringing healing songs🌷",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xos56oEcN?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "春を待つ",
+  "artist": "Islet feat. 倚水",
+  "collection": "[Song Cut] [2026-11-14] [Moonlit Bloom Singing Relay] Like flowers blooming in the night, bringing healing songs🌷",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xos56oEcN?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-14] [Moonlit Bloom Singing Relay] Like flowers blooming in the night, bringing healing songs🌷",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Xos56oEcN?p=4",
   "source": "suiuishino.js"
 }
 );

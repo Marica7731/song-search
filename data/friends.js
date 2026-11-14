@@ -1,6 +1,6 @@
 // 联动 - 歌单数据 (多合集汇总)
 // 来源: BV1mNpUzXEiW
-// 生成时间: 11/14/2026, 6:46:41 PM
+// 生成时间: 11/14/2026, 9:17:00 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5283,6 +5283,158 @@ window.SONG_DATA.push(
   "collection": "Collab song cut 2026-11-10 GREY MYTH Event 1.5th Anniversary Collab 👻🦉🐱 (Mikage / Hao / LEWNE)",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1a1Wm6nEbN?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "春を告げる",
+  "artist": "yama",
+  "collection": "Collab Singing Stream 2026-11-14 Singing together with Suu-san 🎶 Nemumo Tsukuri",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEhc?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "長く短い祭り",
+  "artist": "椎名林檎",
+  "collection": "Collab Singing Stream 2026-11-14 Singing together with Suu-san 🎶 Nemumo Tsukuri",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEhc?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "Collab Singing Stream 2026-11-14 Singing together with Suu-san 🎶 Nemumo Tsukuri",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEhc?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "Collab Singing Stream 2026-11-14 Singing together with Suu-san 🎶 Nemumo Tsukuri",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEhc?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "ヒッチコック",
+  "artist": "ヨルシカ",
+  "collection": "Collab Singing Stream 2026-11-14 Singing together with Suu-san 🎶 Nemumo Tsukuri",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEhc?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "刹那プラス",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "Collab Singing Stream 2026-11-14 Singing together with Suu-san 🎶 Nemumo Tsukuri",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEhc?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "怪物さん",
+  "artist": "平井堅 feat. あいみょん",
+  "collection": "Collab Singing Stream 2026-11-14 Singing together with Suu-san 🎶 Nemumo Tsukuri",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEhc?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "夜撫でるメノウ",
+  "artist": "Ayase",
+  "collection": "Collab Singing Stream 2026-11-14 Singing together with Suu-san 🎶 Nemumo Tsukuri",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEhc?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "twinkle night",
+  "artist": "nyankobrq & yaca feat. somunia",
+  "collection": "Collab Singing Stream 2026-11-14 Singing together with Suu-san 🎶 Nemumo Tsukuri",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEhc?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n／中島愛",
+  "collection": "Collab song cut 2026-11-12 Shishigami Leona × Figaro Surprise Collab! Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Las76rEyZ?p=1",
+  "source": "friends.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ",
+  "artist": "MAISONdes feat. 花譜, ツミキ",
+  "collection": "Collab song cut 2026-11-12 Shishigami Leona × Figaro Surprise Collab! Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Las76rEyZ?p=2",
+  "source": "friends.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "Collab song cut 2026-11-12 Shishigami Leona × Figaro Surprise Collab! Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Las76rEyZ?p=3",
+  "source": "friends.js"
+},
+    {
+  "title": "flos",
+  "artist": "R Sound Design feat. 初音ミク",
+  "collection": "Collab song cut 2026-11-12 Shishigami Leona × Figaro Surprise Collab! Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Las76rEyZ?p=4",
+  "source": "friends.js"
+},
+    {
+  "title": "裸の心",
+  "artist": "あいみょん",
+  "collection": "Collab song cut 2026-11-12 Shishigami Leona × Figaro Surprise Collab! Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Las76rEyZ?p=5",
+  "source": "friends.js"
+},
+    {
+  "title": "津軽海峡・冬景色",
+  "artist": "石川さゆり",
+  "collection": "Collab song cut 2026-11-12 Shishigami Leona × Figaro Surprise Collab! Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Las76rEyZ?p=6",
+  "source": "friends.js"
+},
+    {
+  "title": "白い恋人達",
+  "artist": "桑田佳祐",
+  "collection": "Collab song cut 2026-11-12 Shishigami Leona × Figaro Surprise Collab! Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Las76rEyZ?p=7",
+  "source": "friends.js"
+},
+    {
+  "title": "アンインストール",
+  "artist": "石川智晶",
+  "collection": "Collab song cut 2026-11-12 Shishigami Leona × Figaro Surprise Collab! Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Las76rEyZ?p=8",
+  "source": "friends.js"
+},
+    {
+  "title": "ドラえもんのうた",
+  "artist": "大杉久美子",
+  "collection": "Collab song cut 2026-11-12 Shishigami Leona × Figaro Surprise Collab! Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Las76rEyZ?p=9",
+  "source": "friends.js"
+},
+    {
+  "title": "ANIMA",
+  "artist": "ReoNa",
+  "collection": "Collab song cut 2026-11-12 Shishigami Leona × Figaro Surprise Collab! Figaro",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Las76rEyZ?p=10",
   "source": "friends.js"
 }
 );

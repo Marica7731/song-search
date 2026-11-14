@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 11/14/2026, 7:14:36 PM
+// 生成时间: 11/14/2026, 9:44:36 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12259,6 +12259,198 @@ window.SONG_DATA.push(
   "collection": "[Song cut] [2026-11-03] The warrior who starts resting from tomorrow",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1HAxS6yEXX?p=27",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "狭心症",
+  "artist": "RADWIMPS",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "修羅",
+  "artist": "DOES",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アフターダーク",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Blue Jeans",
+  "artist": "HANA",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "絶頂讃歌",
+  "artist": "和ぬか",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "I beg you",
+  "artist": "Aimer",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "太陽が昇らない世界",
+  "artist": "Aimer",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "CITRUS",
+  "artist": "Da-iCE",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "僕が死のうと思ったのは",
+  "artist": "中島美嘉",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "みちづれ",
+  "artist": "星街すいせい",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "天球、彗星は夜を跨いで",
+  "artist": "星街すいせい",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "G4L",
+  "artist": "Giga",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "第六感",
+  "artist": "Reol",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "カーテンコール",
+  "artist": "優里",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "廻廻奇譚",
+  "artist": "Eve",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アウトサイダー",
+  "artist": "Eve",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ドラマツルギー",
+  "artist": "Eve",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "フィクサー",
+  "artist": "ぬゆり feat. v flower",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "プロトディスコ",
+  "artist": "ぬゆり feat. v flower",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Snow halation",
+  "artist": "μ's",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス feat. 可不",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "手をあわせて",
+  "artist": "茨むあん",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "catch-22",
+  "artist": "茨むあん",
+  "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=24",
   "source": "ibaramuan.js"
 }
 );

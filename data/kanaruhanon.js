@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 11/14/2026, 7:09:48 PM
+// 生成时间: 11/14/2026, 9:40:58 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2403,6 +2403,78 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-10-16] On Friday night, I still want to sing after all~~~! Let's sing anime songs!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1agnM6cEtw?p=12",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "恋、はじめました。",
+  "artist": "=LOVE",
+  "collection": "[Song Cut] [2026-11-12] Long time no see! Today I'll only sing idol songs~!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ets765EH8?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "とくべチュ、して",
+  "artist": "=LOVE",
+  "collection": "[Song Cut] [2026-11-12] Long time no see! Today I'll only sing idol songs~!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ets765EH8?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ギンガムチェック",
+  "artist": "AKB48",
+  "collection": "[Song Cut] [2026-11-12] Long time no see! Today I'll only sing idol songs~!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ets765EH8?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ガラスの I LOVE YOU",
+  "artist": "AKB48",
+  "collection": "[Song Cut] [2026-11-12] Long time no see! Today I'll only sing idol songs~!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ets765EH8?p=4",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "言い訳Maybe",
+  "artist": "AKB48",
+  "collection": "[Song Cut] [2026-11-12] Long time no see! Today I'll only sing idol songs~!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ets765EH8?p=5",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "オーマイガー！",
+  "artist": "NMB48",
+  "collection": "[Song Cut] [2026-11-12] Long time no see! Today I'll only sing idol songs~!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ets765EH8?p=6",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "サヨナラの意味",
+  "artist": "乃木坂46",
+  "collection": "[Song Cut] [2026-11-12] Long time no see! Today I'll only sing idol songs~!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ets765EH8?p=7",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "感情電車",
+  "artist": "私立恵比寿中学",
+  "collection": "[Song Cut] [2026-11-12] Long time no see! Today I'll only sing idol songs~!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ets765EH8?p=8",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "また明日",
+  "artist": "私立恵比寿中学",
+  "collection": "[Song Cut] [2026-11-12] Long time no see! Today I'll only sing idol songs~!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Ets765EH8?p=9",
   "source": "kanaruhanon.js"
 }
 );

@@ -1,6 +1,6 @@
 // 花前ハル - 歌单数据 (多合集汇总)
 // 来源: BV1dfjx61Eri
-// 生成时间: 11/14/2026, 7:50:49 PM
+// 生成时间: 11/14/2026, 10:13:53 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1251,6 +1251,230 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-10-30] Welcome New Viewers❗️Late-Night Vertical Screen Singing Live✨️",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1rgxk6dEfe?p=35",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "怪獣の花唄",
+  "artist": "Vaundy",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=1",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=2",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "怪獣",
+  "artist": "サカナクション",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=3",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=4",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "へび",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=5",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "Brave Shine",
+  "artist": "Aimer",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=6",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "The Everlasting Guilty Crown",
+  "artist": "EGOIST",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=7",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=8",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=9",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "勇者",
+  "artist": "YOASOBI",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=10",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "lulu.",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=11",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "ホログラム",
+  "artist": "NICO Touches the Walls",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=12",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "ゴールデンタイムラバー",
+  "artist": "スキマスイッチ",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=13",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "裸の勇者",
+  "artist": "Vaundy",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=14",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "GOLD",
+  "artist": "PEOPLE 1",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=15",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "踊",
+  "artist": "Ado",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=16",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "祝福",
+  "artist": "YOASOBI",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=17",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "UNDEAD",
+  "artist": "YOASOBI",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=18",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "手紙 ～拝啓 十五の君へ～",
+  "artist": "アンジェラ・アキ",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=19",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=20",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "悪魔の子",
+  "artist": "ヒグチアイ",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=21",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=22",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "残機",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=23",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "MILABO",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=24",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "ハゼ馳せる果てるまで",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=25",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "ダンスホール",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=26",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=27",
+  "source": "hanamaeharu.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "[Song Cut] [2026-11-13] Welcome to our first meeting! Gonna sing lots of songs today too",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1RXs568EMQ?p=28",
   "source": "hanamaeharu.js"
 }
 );

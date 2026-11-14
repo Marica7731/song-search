@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 11/14/2026, 6:03:07 PM
+// 生成时间: 11/14/2026, 8:40:04 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -20179,6 +20179,102 @@ window.SONG_DATA.push(
   "collection": "[🐍Song Cut] [2026-11-05] No Genre Limits✧Come Sing Various Songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV17v4e6hEzU?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "はじめてのチュウ",
+  "artist": "あんしんパパ（実川俊晴）",
+  "collection": "[🐍 Song Cut] [2026-11-13] Singing and playing on a sleepless night✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sos56oEdJ?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "葛飾ラプソディー",
+  "artist": "堂島孝平",
+  "collection": "[🐍 Song Cut] [2026-11-13] Singing and playing on a sleepless night✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sos56oEdJ?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "[🐍 Song Cut] [2026-11-13] Singing and playing on a sleepless night✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sos56oEdJ?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "1/2",
+  "artist": "川本真琴",
+  "collection": "[🐍 Song Cut] [2026-11-13] Singing and playing on a sleepless night✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sos56oEdJ?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "夜撫でるメノウ",
+  "artist": "Ayase",
+  "collection": "[🐍 Song Cut] [2026-11-13] Singing and playing on a sleepless night✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sos56oEdJ?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "[🐍 Song Cut] [2026-11-13] Singing and playing on a sleepless night✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sos56oEdJ?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "I LOVE YOU",
+  "artist": "尾崎豊",
+  "collection": "[🐍 Song Cut] [2026-11-13] Singing and playing on a sleepless night✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sos56oEdJ?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "OH MY LITTLE GIRL",
+  "artist": "尾崎豊",
+  "collection": "[🐍 Song Cut] [2026-11-13] Singing and playing on a sleepless night✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sos56oEdJ?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "いとしのエリー",
+  "artist": "サザンオールスターズ",
+  "collection": "[🐍 Song Cut] [2026-11-13] Singing and playing on a sleepless night✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sos56oEdJ?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "よしよし日和",
+  "artist": "凛々咲",
+  "collection": "[🐍 Song Cut] [2026-11-13] Singing and playing on a sleepless night✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sos56oEdJ?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "0°Cの魔法",
+  "artist": "凛々咲",
+  "collection": "[🐍 Song Cut] [2026-11-13] Singing and playing on a sleepless night✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sos56oEdJ?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "異世界フィルム",
+  "artist": "凛々咲",
+  "collection": "[🐍 Song Cut] [2026-11-13] Singing and playing on a sleepless night✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1Sos56oEdJ?p=12",
   "source": "ririsya.js"
 }
 );

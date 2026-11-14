@@ -1,6 +1,6 @@
 // 炉なる - 歌单数据 (多合集汇总)
 // 来源: BV1oeMx6WEve
-// 生成时间: 11/14/2026, 7:39:15 PM
+// 生成时间: 11/14/2026, 10:05:59 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1083,6 +1083,70 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-11-08] Song Request Special!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV15zWV64Esp?p=8",
+  "source": "ronaru.js"
+},
+    {
+  "title": "ダイヤモンドハッピー",
+  "artist": "わか・ふうり・すなお from STAR☆ANIS",
+  "collection": "[Song cut] [2026-11-14] Vertical-screen anime song special!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12gs76dETg?p=1",
+  "source": "ronaru.js"
+},
+    {
+  "title": "God knows...",
+  "artist": "涼宮ハルヒ（平野綾）",
+  "collection": "[Song cut] [2026-11-14] Vertical-screen anime song special!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12gs76dETg?p=2",
+  "source": "ronaru.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "[Song cut] [2026-11-14] Vertical-screen anime song special!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12gs76dETg?p=3",
+  "source": "ronaru.js"
+},
+    {
+  "title": "Be mine!",
+  "artist": "坂本真綾",
+  "collection": "[Song cut] [2026-11-14] Vertical-screen anime song special!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12gs76dETg?p=4",
+  "source": "ronaru.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "[Song cut] [2026-11-14] Vertical-screen anime song special!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12gs76dETg?p=5",
+  "source": "ronaru.js"
+},
+    {
+  "title": "恋☆カナ",
+  "artist": "月島きらり starring 久住小春（モーニング娘。）",
+  "collection": "[Song cut] [2026-11-14] Vertical-screen anime song special!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12gs76dETg?p=6",
+  "source": "ronaru.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "[Song cut] [2026-11-14] Vertical-screen anime song special!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12gs76dETg?p=7",
+  "source": "ronaru.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "[Song cut] [2026-11-14] Vertical-screen anime song special!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV12gs76dETg?p=8",
   "source": "ronaru.js"
 }
 );

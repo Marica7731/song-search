@@ -1,6 +1,6 @@
 // 山田シャロ - 歌单数据 (多合集汇总)
 // 来源: BV179L66pE1f
-// 生成时间: 11/14/2026, 7:03:56 PM
+// 生成时间: 11/14/2026, 9:36:35 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2971,6 +2971,158 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-10-30] Halloween Eve!! Let's sing Halloween-themed songs~~✨",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Soxr6vEpR?p=14",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "[Song cut] [2026-11-13] (Almost) non-stop!? 🎤 Company for work or sleep✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEyt?p=1",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "百花繚乱",
+  "artist": "幾田りら",
+  "collection": "[Song cut] [2026-11-13] (Almost) non-stop!? 🎤 Company for work or sleep✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEyt?p=2",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "群青",
+  "artist": "YOASOBI",
+  "collection": "[Song cut] [2026-11-13] (Almost) non-stop!? 🎤 Company for work or sleep✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEyt?p=3",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "水流のロック",
+  "artist": "日食なつこ",
+  "collection": "[Song cut] [2026-11-13] (Almost) non-stop!? 🎤 Company for work or sleep✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEyt?p=4",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "翼",
+  "artist": "藍井エイル",
+  "collection": "[Song cut] [2026-11-13] (Almost) non-stop!? 🎤 Company for work or sleep✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEyt?p=5",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "CHOIR JAIL",
+  "artist": "鈴木このみ",
+  "collection": "[Song cut] [2026-11-13] (Almost) non-stop!? 🎤 Company for work or sleep✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEyt?p=6",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ロメオとシンデレラ",
+  "artist": "doriko feat. 初音ミク",
+  "collection": "[Song cut] [2026-11-13] (Almost) non-stop!? 🎤 Company for work or sleep✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEyt?p=7",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "[Song cut] [2026-11-13] (Almost) non-stop!? 🎤 Company for work or sleep✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEyt?p=8",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "innocent starter",
+  "artist": "水樹奈々",
+  "collection": "[Song cut] [2026-11-13] (Almost) non-stop!? 🎤 Company for work or sleep✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEyt?p=9",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "DAYS of DASH",
+  "artist": "鈴木このみ",
+  "collection": "[Song cut] [2026-11-13] (Almost) non-stop!? 🎤 Company for work or sleep✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEyt?p=10",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "射手座☆午後九時Don't be late",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "[Song cut] [2026-11-13] (Almost) non-stop!? 🎤 Company for work or sleep✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEyt?p=11",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ノーザンクロス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "[Song cut] [2026-11-13] (Almost) non-stop!? 🎤 Company for work or sleep✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEyt?p=12",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ギラギラ",
+  "artist": "Ado",
+  "collection": "[Song cut] [2026-11-13] (Almost) non-stop!? 🎤 Company for work or sleep✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEyt?p=13",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "盛れ！ミ・アモーレ",
+  "artist": "Juice=Juice",
+  "collection": "[Song cut] [2026-11-13] (Almost) non-stop!? 🎤 Company for work or sleep✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEyt?p=14",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "The Bravery",
+  "artist": "supercell",
+  "collection": "[Song cut] [2026-11-13] (Almost) non-stop!? 🎤 Company for work or sleep✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEyt?p=15",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "ずっとずっとずっと",
+  "artist": "緑黄色社会",
+  "collection": "[Song cut] [2026-11-13] (Almost) non-stop!? 🎤 Company for work or sleep✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEyt?p=16",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "カタオモイ",
+  "artist": "Aimer",
+  "collection": "[Song cut] [2026-11-13] (Almost) non-stop!? 🎤 Company for work or sleep✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEyt?p=17",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "渡月橋 ～君 想ふ～",
+  "artist": "倉木麻衣",
+  "collection": "[Song cut] [2026-11-13] (Almost) non-stop!? 🎤 Company for work or sleep✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEyt?p=18",
+  "source": "yamadasharo.js"
+},
+    {
+  "title": "優しさの理由",
+  "artist": "ChouCho",
+  "collection": "[Song cut] [2026-11-13] (Almost) non-stop!? 🎤 Company for work or sleep✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1hos56oEyt?p=19",
   "source": "yamadasharo.js"
 }
 );

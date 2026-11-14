@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 11/14/2026, 7:08:16 PM
+// 生成时间: 11/14/2026, 9:39:57 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3507,6 +3507,126 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-11-09] Trying out a new plugin!!!!! Looking for a tone you like!!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ezWV64E9n?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ドーナツホール",
+  "artist": "ハチ feat. GUMI",
+  "collection": "[Song Cut] [2026-11-13] Good work today! Just treat it as BGM to listen to on your way home♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15es76gEXZ?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "勇者",
+  "artist": "YOASOBI",
+  "collection": "[Song Cut] [2026-11-13] Good work today! Just treat it as BGM to listen to on your way home♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15es76gEXZ?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "[Song Cut] [2026-11-13] Good work today! Just treat it as BGM to listen to on your way home♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15es76gEXZ?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "花になって",
+  "artist": "緑黄色社会",
+  "collection": "[Song Cut] [2026-11-13] Good work today! Just treat it as BGM to listen to on your way home♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15es76gEXZ?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "PLAYER 1",
+  "artist": "緑黄色社会",
+  "collection": "[Song Cut] [2026-11-13] Good work today! Just treat it as BGM to listen to on your way home♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15es76gEXZ?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "サマータイムシンデレラ",
+  "artist": "緑黄色社会",
+  "collection": "[Song Cut] [2026-11-13] Good work today! Just treat it as BGM to listen to on your way home♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15es76gEXZ?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ビターバカンス",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "[Song Cut] [2026-11-13] Good work today! Just treat it as BGM to listen to on your way home♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15es76gEXZ?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "きみのためのうた",
+  "artist": "nyamura × 内緒のピアス",
+  "collection": "[Song Cut] [2026-11-13] Good work today! Just treat it as BGM to listen to on your way home♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15es76gEXZ?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "洗脳",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-13] Good work today! Just treat it as BGM to listen to on your way home♪",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV15es76gEXZ?p=9",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "未完成なサヨナラ",
+  "artist": "TAK feat. Miki Maria",
+  "collection": "[Song cut] [2026-11-12] Not giving in to the cold, I just want to sing~~!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MDs76bEwh?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ときめきブローカー",
+  "artist": "P丸様。",
+  "collection": "[Song cut] [2026-11-12] Not giving in to the cold, I just want to sing~~!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MDs76bEwh?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "季節と私の話。",
+  "artist": "めいちゃん",
+  "collection": "[Song cut] [2026-11-12] Not giving in to the cold, I just want to sing~~!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MDs76bEwh?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "極楽浄土",
+  "artist": "GARNiDELiA",
+  "collection": "[Song cut] [2026-11-12] Not giving in to the cold, I just want to sing~~!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MDs76bEwh?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "いけないボーダーライン",
+  "artist": "ワルキューレ",
+  "collection": "[Song cut] [2026-11-12] Not giving in to the cold, I just want to sing~~!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MDs76bEwh?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "放課後オーバーフロウ",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "[Song cut] [2026-11-12] Not giving in to the cold, I just want to sing~~!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MDs76bEwh?p=6",
   "source": "hinachibi.js"
 }
 );
