@@ -1,6 +1,6 @@
 // AZKi - 歌单数据 (多合集汇总)
 // 来源: BV1dE42137AT
-// 生成时间: 11/15/2026, 6:54:22 PM
+// 生成时间: 11/15/2026, 10:15:49 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5619,6 +5619,710 @@ window.SONG_DATA.push(
   "collection": "AZKI 2026年10月07日22点场 要唱啦啊啊啊啊！用新应用「hololive raku」试着唱歌！",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Z319YPEbP?p=10",
+  "source": "azki.js"
+},
+    {
+  "title": "未来カンパネラ",
+  "artist": "AZKi",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=1",
+  "source": "azki.js"
+},
+    {
+  "title": "オキドキ",
+  "artist": "AZKi",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=2",
+  "source": "azki.js"
+},
+    {
+  "title": "雨のち晴れ晴れ",
+  "artist": "AZKi",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=3",
+  "source": "azki.js"
+},
+    {
+  "title": "白明",
+  "artist": "AZKi",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=4",
+  "source": "azki.js"
+},
+    {
+  "title": "ちいさな心が決めたこと",
+  "artist": "AZKi",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=5",
+  "source": "azki.js"
+},
+    {
+  "title": "without U",
+  "artist": "AZKi",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=6",
+  "source": "azki.js"
+},
+    {
+  "title": "from A to Z",
+  "artist": "AZKi",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=7",
+  "source": "azki.js"
+},
+    {
+  "title": "青い夢",
+  "artist": "AZKi",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=8",
+  "source": "azki.js"
+},
+    {
+  "title": "フロンティアローカス",
+  "artist": "AZKi",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=9",
+  "source": "azki.js"
+},
+    {
+  "title": "いのち",
+  "artist": "AZKi",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=10",
+  "source": "azki.js"
+},
+    {
+  "title": "Creating world",
+  "artist": "AZKi",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=11",
+  "source": "azki.js"
+},
+    {
+  "title": "Believe",
+  "artist": "玉置成実",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=12",
+  "source": "azki.js"
+},
+    {
+  "title": "Realize",
+  "artist": "玉置成実",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=13",
+  "source": "azki.js"
+},
+    {
+  "title": "あんなに一緒だったのに",
+  "artist": "See-Saw",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=14",
+  "source": "azki.js"
+},
+    {
+  "title": "FIND THE WAY",
+  "artist": "中島美嘉",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=15",
+  "source": "azki.js"
+},
+    {
+  "title": "PRIDE",
+  "artist": "HIGH and MIGHTY COLOR",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=16",
+  "source": "azki.js"
+},
+    {
+  "title": "暁の車",
+  "artist": "FictionJunction YUUKA",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=17",
+  "source": "azki.js"
+},
+    {
+  "title": "僕たちの行方",
+  "artist": "高橋瞳",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=18",
+  "source": "azki.js"
+},
+    {
+  "title": "Reason",
+  "artist": "玉置成実",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=19",
+  "source": "azki.js"
+},
+    {
+  "title": "Life Goes On",
+  "artist": "有坂美香",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=20",
+  "source": "azki.js"
+},
+    {
+  "title": "君は僕に似ている",
+  "artist": "See-Saw",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=21",
+  "source": "azki.js"
+},
+    {
+  "title": "深海の孤独",
+  "artist": "桑島法子",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=22",
+  "source": "azki.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=23",
+  "source": "azki.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=24",
+  "source": "azki.js"
+},
+    {
+  "title": "feel my soul",
+  "artist": "YUI",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=25",
+  "source": "azki.js"
+},
+    {
+  "title": "TOKYO",
+  "artist": "YUI",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=26",
+  "source": "azki.js"
+},
+    {
+  "title": "LIFE",
+  "artist": "YUI",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=27",
+  "source": "azki.js"
+},
+    {
+  "title": "Secret of my heart",
+  "artist": "倉木麻衣",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=28",
+  "source": "azki.js"
+},
+    {
+  "title": "Time after time〜花舞う街で〜",
+  "artist": "倉木麻衣",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=29",
+  "source": "azki.js"
+},
+    {
+  "title": "暗く黒く",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=30",
+  "source": "azki.js"
+},
+    {
+  "title": "秒針を噛む",
+  "artist": "ずっと真夜中でいいのに。",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=31",
+  "source": "azki.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=32",
+  "source": "azki.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=33",
+  "source": "azki.js"
+},
+    {
+  "title": "Just Be Friends",
+  "artist": "Dixie Flatline feat. 巡音ルカ",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=34",
+  "source": "azki.js"
+},
+    {
+  "title": "二息歩行",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=35",
+  "source": "azki.js"
+},
+    {
+  "title": "ダブルラリアット",
+  "artist": "アゴアニキ feat. 巡音ルカ",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=36",
+  "source": "azki.js"
+},
+    {
+  "title": "ハッピーシンセサイザ",
+  "artist": "EasyPop feat. 巡音ルカ・GUMI",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=37",
+  "source": "azki.js"
+},
+    {
+  "title": "強風オールバック",
+  "artist": "ゆこぴ feat. 歌愛ユキ",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=38",
+  "source": "azki.js"
+},
+    {
+  "title": "愛迷エレジー",
+  "artist": "DECO*27 feat. marina",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=39",
+  "source": "azki.js"
+},
+    {
+  "title": "ゴーストルール",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=40",
+  "source": "azki.js"
+},
+    {
+  "title": "六兆年と一夜物語",
+  "artist": "kemu feat. IA",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=41",
+  "source": "azki.js"
+},
+    {
+  "title": "ブラック★ロックシューター",
+  "artist": "ryo feat. 初音ミク",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=42",
+  "source": "azki.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo feat. 初音ミク",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=43",
+  "source": "azki.js"
+},
+    {
+  "title": "メルト",
+  "artist": "ryo feat. 初音ミク",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=44",
+  "source": "azki.js"
+},
+    {
+  "title": "ハッピー☆マテリアル",
+  "artist": "麻帆良学園中等部2-A",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=45",
+  "source": "azki.js"
+},
+    {
+  "title": "1000%SPARKING!",
+  "artist": "佐藤利奈・神田朱未・野中藍・小林ゆう",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=46",
+  "source": "azki.js"
+},
+    {
+  "title": "Over The Future",
+  "artist": "可憐Girl's",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=47",
+  "source": "azki.js"
+},
+    {
+  "title": "オトメロディー",
+  "artist": "高橋美佳子",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=48",
+  "source": "azki.js"
+},
+    {
+  "title": "innocent starter",
+  "artist": "水樹奈々",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=49",
+  "source": "azki.js"
+},
+    {
+  "title": "童話迷宮",
+  "artist": "田村ゆかり",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=50",
+  "source": "azki.js"
+},
+    {
+  "title": "スクランブル",
+  "artist": "堀江由衣 with UNSCANDAL",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=51",
+  "source": "azki.js"
+},
+    {
+  "title": "冒険でしょでしょ?",
+  "artist": "平野綾",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=52",
+  "source": "azki.js"
+},
+    {
+  "title": "ハレ晴レユカイ",
+  "artist": "平野綾・茅原実里・後藤邑子",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=53",
+  "source": "azki.js"
+},
+    {
+  "title": "もってけ!セーラーふく",
+  "artist": "泉こなた(平野綾)・柊かがみ(加藤英美里)・柊つかさ(福原香織)・高良みゆき(遠藤綾)",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=54",
+  "source": "azki.js"
+},
+    {
+  "title": "かえして!ニーソックス",
+  "artist": "泉こなた(平野綾)・柊かがみ(加藤英美里)・柊つかさ(福原香織)・高良みゆき(遠藤綾)",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=55",
+  "source": "azki.js"
+},
+    {
+  "title": "経験値上昇中☆",
+  "artist": "みなみけ3姉妹",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=56",
+  "source": "azki.js"
+},
+    {
+  "title": "太陽曰く燃えよカオス",
+  "artist": "後ろから這いより隊G",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=57",
+  "source": "azki.js"
+},
+    {
+  "title": "恋は渾沌の隷也",
+  "artist": "後ろから這いより隊G",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=58",
+  "source": "azki.js"
+},
+    {
+  "title": "恋はア・ラ・モード",
+  "artist": "東京ミュウミュウ",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=59",
+  "source": "azki.js"
+},
+    {
+  "title": "オレンジ",
+  "artist": "逢坂大河(釘宮理恵)・櫛枝実乃梨(堀江由衣)・川嶋亜美(喜多村英梨)",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=60",
+  "source": "azki.js"
+},
+    {
+  "title": "Daydream café",
+  "artist": "Petit Rabbit's",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=61",
+  "source": "azki.js"
+},
+    {
+  "title": "スケッチスイッチ",
+  "artist": "阿澄佳奈・水橋かおり・後藤邑子・新谷良子",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=62",
+  "source": "azki.js"
+},
+    {
+  "title": "Cagayake!GIRLS",
+  "artist": "桜高軽音部",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=63",
+  "source": "azki.js"
+},
+    {
+  "title": "WATER BLUE NEW WORLD",
+  "artist": "Aqours",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=64",
+  "source": "azki.js"
+},
+    {
+  "title": "Luna say maybe",
+  "artist": "月村手毬(小鹿なお)",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=65",
+  "source": "azki.js"
+},
+    {
+  "title": "Ex-Otogibanashi",
+  "artist": "かぐや(夏吉ゆうこ)・月見ヤチヨ(早見沙織)",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=66",
+  "source": "azki.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=67",
+  "source": "azki.js"
+},
+    {
+  "title": "魂のルフラン",
+  "artist": "高橋洋子",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=68",
+  "source": "azki.js"
+},
+    {
+  "title": "Shangri-La",
+  "artist": "angela",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=69",
+  "source": "azki.js"
+},
+    {
+  "title": "Silly-Go-Round",
+  "artist": "FictionJunction YUUKA",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=70",
+  "source": "azki.js"
+},
+    {
+  "title": "only my railgun",
+  "artist": "fripSide",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=71",
+  "source": "azki.js"
+},
+    {
+  "title": "青空のラプソディ",
+  "artist": "fhána",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=72",
+  "source": "azki.js"
+},
+    {
+  "title": "海色",
+  "artist": "AKINO from bless4",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=73",
+  "source": "azki.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=74",
+  "source": "azki.js"
+},
+    {
+  "title": "Agape",
+  "artist": "メロキュア",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=75",
+  "source": "azki.js"
+},
+    {
+  "title": "Sincerely",
+  "artist": "TRUE",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=76",
+  "source": "azki.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=77",
+  "source": "azki.js"
+},
+    {
+  "title": "Shiny Smily Story",
+  "artist": "hololive IDOL PROJECT",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=78",
+  "source": "azki.js"
+},
+    {
+  "title": "キラメキライダー☆",
+  "artist": "hololive IDOL PROJECT",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=79",
+  "source": "azki.js"
+},
+    {
+  "title": "あすいろClearSky",
+  "artist": "hololive IDOL PROJECT",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=80",
+  "source": "azki.js"
+},
+    {
+  "title": "Prism Melody",
+  "artist": "hololive IDOL PROJECT",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=81",
+  "source": "azki.js"
+},
+    {
+  "title": "Our Bright Parade",
+  "artist": "hololive IDOL PROJECT",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=82",
+  "source": "azki.js"
+},
+    {
+  "title": "青春アーカイブ",
+  "artist": "hololive IDOL PROJECT",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=83",
+  "source": "azki.js"
+},
+    {
+  "title": "Capture the Moment",
+  "artist": "hololive IDOL PROJECT",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=84",
+  "source": "azki.js"
+},
+    {
+  "title": "Color rise harmony",
+  "artist": "hololive IDOL PROJECT",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=85",
+  "source": "azki.js"
+},
+    {
+  "title": "Ridin' on Dreams",
+  "artist": "hololive IDOL PROJECT",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=86",
+  "source": "azki.js"
+},
+    {
+  "title": "Fleur",
+  "artist": "雪花ラミィ",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=87",
+  "source": "azki.js"
+},
+    {
+  "title": "画面の中の君が好き",
+  "artist": "AZKi",
+  "collection": "AZKI November 15, 2026, point session, 8th anniversary event! 88-song endurance challenge 💥🎤 Plus 8 major announcements!!!!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1MGWf6kEY9?p=88",
   "source": "azki.js"
 }
 );

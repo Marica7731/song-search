@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 11/15/2026, 6:52:43 PM
+// 生成时间: 11/15/2026, 10:13:40 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3627,6 +3627,118 @@ window.SONG_DATA.push(
   "collection": "[Song cut] [2026-11-12] Not giving in to the cold, I just want to sing~~!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1MDs76bEwh?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat. flower",
+  "collection": "[Song Cut] [2026-11-15] Introducing new equipment?! Want to come and listen to singing with super strong sound quality??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PHWf6iE34?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "メルティランドナイトメア",
+  "artist": "はるまきごはん feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-15] Introducing new equipment?! Want to come and listen to singing with super strong sound quality??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PHWf6iE34?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "グラーヴェ",
+  "artist": "niki feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-15] Introducing new equipment?! Want to come and listen to singing with super strong sound quality??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PHWf6iE34?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ラピスラズリ",
+  "artist": "藍井エイル",
+  "collection": "[Song Cut] [2026-11-15] Introducing new equipment?! Want to come and listen to singing with super strong sound quality??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PHWf6iE34?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ELECT",
+  "artist": "niki feat. Lily",
+  "collection": "[Song Cut] [2026-11-15] Introducing new equipment?! Want to come and listen to singing with super strong sound quality??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PHWf6iE34?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "恥ずかしいか青春は",
+  "artist": "緑黄色社会",
+  "collection": "[Song Cut] [2026-11-15] Introducing new equipment?! Want to come and listen to singing with super strong sound quality??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PHWf6iE34?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "他人事の音がする",
+  "artist": "あめのむらくもP feat. GUMI",
+  "collection": "[Song Cut] [2026-11-15] Introducing new equipment?! Want to come and listen to singing with super strong sound quality??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PHWf6iE34?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "アイドル",
+  "artist": "YOASOBI",
+  "collection": "[Song Cut] [2026-11-15] Introducing new equipment?! Want to come and listen to singing with super strong sound quality??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PHWf6iE34?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ノーザンクロス",
+  "artist": "シェリル・ノーム starring May'n",
+  "collection": "[Song Cut] [2026-11-15] Introducing new equipment?! Want to come and listen to singing with super strong sound quality??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PHWf6iE34?p=9",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "蒼のエーテル",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "[Song Cut] [2026-11-15] Introducing new equipment?! Want to come and listen to singing with super strong sound quality??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PHWf6iE34?p=10",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "晴る",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-15] Introducing new equipment?! Want to come and listen to singing with super strong sound quality??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PHWf6iE34?p=11",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "[Song Cut] [2026-11-15] Introducing new equipment?! Want to come and listen to singing with super strong sound quality??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PHWf6iE34?p=12",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "sister's noise",
+  "artist": "fripSide",
+  "collection": "[Song Cut] [2026-11-15] Introducing new equipment?! Want to come and listen to singing with super strong sound quality??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PHWf6iE34?p=13",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "Snow halation",
+  "artist": "μ's",
+  "collection": "[Song Cut] [2026-11-15] Introducing new equipment?! Want to come and listen to singing with super strong sound quality??",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PHWf6iE34?p=14",
   "source": "hinachibi.js"
 }
 );

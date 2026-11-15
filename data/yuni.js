@@ -1,6 +1,6 @@
 // YuNi - 歌单数据 (多合集汇总)
 // 来源: BV1MAjT6GEF7
-// 生成时间: 11/15/2026, 7:35:27 PM
+// 生成时间: 11/15/2026, 10:58:03 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -371,6 +371,38 @@ window.SONG_DATA.push(
   "collection": "【Song Clip】[2026-10-01] Birthday 3D Mini Live｜Come celebrate the birthday!!! And a big announcement!!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1YiaS6CE1E?p=4",
+  "source": "yuni.js"
+},
+    {
+  "title": "じょいふる",
+  "artist": "いきものがかり",
+  "collection": "[Song Cut] [2026-11-15] Chatting about the behind-the-scenes story of the new song \"Thistle\" & singing some fun songs I want everyone to hear!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A4Wf6AEqR?p=1",
+  "source": "yuni.js"
+},
+    {
+  "title": "if...",
+  "artist": "DA PUMP",
+  "collection": "[Song Cut] [2026-11-15] Chatting about the behind-the-scenes story of the new song \"Thistle\" & singing some fun songs I want everyone to hear!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A4Wf6AEqR?p=2",
+  "source": "yuni.js"
+},
+    {
+  "title": "買物ブギー",
+  "artist": "笠置シヅ子",
+  "collection": "[Song Cut] [2026-11-15] Chatting about the behind-the-scenes story of the new song \"Thistle\" & singing some fun songs I want everyone to hear!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A4Wf6AEqR?p=3",
+  "source": "yuni.js"
+},
+    {
+  "title": "異邦人",
+  "artist": "久保田早紀",
+  "collection": "[Song Cut] [2026-11-15] Chatting about the behind-the-scenes story of the new song \"Thistle\" & singing some fun songs I want everyone to hear!!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1A4Wf6AEqR?p=4",
   "source": "yuni.js"
 }
 );

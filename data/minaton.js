@@ -1,6 +1,6 @@
 // みなとん - 歌单数据 (多合集汇总)
 // 来源: BV1TqGY6gEEf
-// 生成时间: 11/15/2026, 6:59:03 PM
+// 生成时间: 11/15/2026, 10:20:23 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1827,6 +1827,94 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-11-15] Sudden singing and casual chat!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1X6s76KEcr?p=8",
+  "source": "minaton.js"
+},
+    {
+  "title": "ノーチラス",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-15] 3D Live Stream: Relaxed and Gentle Singing on Sunday Afternoon 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=1",
+  "source": "minaton.js"
+},
+    {
+  "title": "別の人の彼女になったよ",
+  "artist": "wacci",
+  "collection": "[Song Cut] [2026-11-15] 3D Live Stream: Relaxed and Gentle Singing on Sunday Afternoon 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=2",
+  "source": "minaton.js"
+},
+    {
+  "title": "シンデレラボーイ",
+  "artist": "Saucy Dog",
+  "collection": "[Song Cut] [2026-11-15] 3D Live Stream: Relaxed and Gentle Singing on Sunday Afternoon 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=3",
+  "source": "minaton.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "[Song Cut] [2026-11-15] 3D Live Stream: Relaxed and Gentle Singing on Sunday Afternoon 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=4",
+  "source": "minaton.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "[Song Cut] [2026-11-15] 3D Live Stream: Relaxed and Gentle Singing on Sunday Afternoon 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=5",
+  "source": "minaton.js"
+},
+    {
+  "title": "Subtitle",
+  "artist": "Official髭男dism",
+  "collection": "[Song Cut] [2026-11-15] 3D Live Stream: Relaxed and Gentle Singing on Sunday Afternoon 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=6",
+  "source": "minaton.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "[Song Cut] [2026-11-15] 3D Live Stream: Relaxed and Gentle Singing on Sunday Afternoon 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=7",
+  "source": "minaton.js"
+},
+    {
+  "title": "Pretender",
+  "artist": "Official髭男dism",
+  "collection": "[Song Cut] [2026-11-15] 3D Live Stream: Relaxed and Gentle Singing on Sunday Afternoon 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=8",
+  "source": "minaton.js"
+},
+    {
+  "title": "明日への手紙",
+  "artist": "手嶌葵",
+  "collection": "[Song Cut] [2026-11-15] 3D Live Stream: Relaxed and Gentle Singing on Sunday Afternoon 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=9",
+  "source": "minaton.js"
+},
+    {
+  "title": "いのちの名前",
+  "artist": "木村弓",
+  "collection": "[Song Cut] [2026-11-15] 3D Live Stream: Relaxed and Gentle Singing on Sunday Afternoon 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=10",
+  "source": "minaton.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "[Song Cut] [2026-11-15] 3D Live Stream: Relaxed and Gentle Singing on Sunday Afternoon 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=11",
   "source": "minaton.js"
 }
 );

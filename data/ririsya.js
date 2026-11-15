@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 11/15/2026, 5:59:59 PM
+// 生成时间: 11/15/2026, 9:19:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -20275,6 +20275,46 @@ window.SONG_DATA.push(
   "collection": "[🐍 Song Cut] [2026-11-13] Singing and playing on a sleepless night✧",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Sos56oEdJ?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "【🐍 Song Cut】[2026-11-15] Sing anime songs together happily in a relay! I want to sing all my favorite anime songs!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PHWf6iErd?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ないない",
+  "artist": "ReoNa",
+  "collection": "【🐍 Song Cut】[2026-11-15] Sing anime songs together happily in a relay! I want to sing all my favorite anime songs!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PHWf6iErd?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ヴィーナスとジーザス",
+  "artist": "やくしまるえつこ",
+  "collection": "【🐍 Song Cut】[2026-11-15] Sing anime songs together happily in a relay! I want to sing all my favorite anime songs!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PHWf6iErd?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ギターと孤独と蒼い惑星",
+  "artist": "結束バンド",
+  "collection": "【🐍 Song Cut】[2026-11-15] Sing anime songs together happily in a relay! I want to sing all my favorite anime songs!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PHWf6iErd?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "【🐍 Song Cut】[2026-11-15] Sing anime songs together happily in a relay! I want to sing all my favorite anime songs!",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1PHWf6iErd?p=5",
   "source": "ririsya.js"
 }
 );

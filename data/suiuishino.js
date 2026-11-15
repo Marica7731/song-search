@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 11/15/2026, 7:25:24 PM
+// 生成时间: 11/15/2026, 10:48:18 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6875,6 +6875,54 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-11-14] [Moonlit Bloom Singing Relay] Like flowers blooming in the night, bringing healing songs🌷",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Xos56oEcN?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "歌うたいのバラッド",
+  "artist": "斉藤和義",
+  "collection": "[Song Cut] [2026-11-15] Sunday regular live!! Bedtime singing and playing 🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gGWf6kEPQ?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "1991",
+  "artist": "米津玄師",
+  "collection": "[Song Cut] [2026-11-15] Sunday regular live!! Bedtime singing and playing 🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gGWf6kEPQ?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "チェックのワンピース",
+  "artist": "back number",
+  "collection": "[Song Cut] [2026-11-15] Sunday regular live!! Bedtime singing and playing 🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gGWf6kEPQ?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "napori",
+  "artist": "Vaundy",
+  "collection": "[Song Cut] [2026-11-15] Sunday regular live!! Bedtime singing and playing 🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gGWf6kEPQ?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Namidairo",
+  "artist": "YUI",
+  "collection": "[Song Cut] [2026-11-15] Sunday regular live!! Bedtime singing and playing 🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gGWf6kEPQ?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "冬眠",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-15] Sunday regular live!! Bedtime singing and playing 🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gGWf6kEPQ?p=6",
   "source": "suiuishino.js"
 }
 );

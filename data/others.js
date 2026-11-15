@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 11/15/2026, 7:07:09 PM
+// 生成时间: 11/15/2026, 10:26:53 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -28675,6 +28675,238 @@ window.SONG_DATA.push(
   "collection": "Hanaka Meru Song Cut 2026-10-31 Sending you a healing acoustic performance! Please listen to me sing a song🍾",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV11D4T6vEpv?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat. GUMI",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "命に嫌われている。",
+  "artist": "カンザキイオリ feat. 初音ミク",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "少女レイ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "Calc.",
+  "artist": "ジミーサムP feat. 初音ミク",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "花に亡霊",
+  "artist": "ヨルシカ",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "アスノヨゾラ哨戒班",
+  "artist": "Orangestar feat. IA",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "夜明けと蛍",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "いかないで",
+  "artist": "想太 feat. 歌愛ユキ",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "地球最後の告白を",
+  "artist": "kemu feat. GUMI",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "天ノ弱",
+  "artist": "164 feat. GUMI",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "深海少女",
+  "artist": "ゆうゆ feat. 初音ミク",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "君の知らない物語",
+  "artist": "supercell",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "from Y to Y",
+  "artist": "ジミーサムP feat. 初音ミク",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "rain stops, good-bye",
+  "artist": "におP feat. 初音ミク",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "わたがし",
+  "artist": "back number",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "曖昧劣情Lover",
+  "artist": "電ポルP feat. flower",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "独りんぼエンヴィー",
+  "artist": "電ポルP feat. 初音ミク",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "メランコリック",
+  "artist": "Junky feat. 鏡音リン",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "恋愛裁判",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "吉原ラメント",
+  "artist": "亜沙 feat. 重音テト",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "六兆年と一夜物語",
+  "artist": "kemu feat. IA",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "夜に駆ける",
+  "artist": "YOASOBI",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "妄想感傷代償連盟",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "ロミオとシンデレラ",
+  "artist": "doriko feat. 初音ミク",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "サマータイムレコード",
+  "artist": "じん feat. IA",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "アヤノの幸福理論",
+  "artist": "じん feat. IA",
+  "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=29",
   "source": "others.js"
 },
     {

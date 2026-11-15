@@ -1,10 +1,106 @@
 // ヤドカリのドリィ - 歌单数据 (多合集汇总)
 // 来源: BV1znpW6xECf
-// 生成时间: 11/15/2026, 7:41:20 PM
+// 生成时间: 11/15/2026, 11:03:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年11月15日21点场 致追逐梦想却感到痛苦的你。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13MWf6LE4z?p=1",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "The Biggest Dreamer",
+  "artist": "和田光司",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年11月15日21点场 致追逐梦想却感到痛苦的你。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13MWf6LE4z?p=2",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿ヒデノリ",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年11月15日21点场 致追逐梦想却感到痛苦的你。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13MWf6LE4z?p=3",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "青春ライン",
+  "artist": "いきものがかり",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年11月15日21点场 致追逐梦想却感到痛苦的你。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13MWf6LE4z?p=4",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年11月15日21点场 致追逐梦想却感到痛苦的你。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13MWf6LE4z?p=5",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "ジャックポットサッドガール",
+  "artist": "syudou feat. 初音ミク",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年11月15日21点场 致追逐梦想却感到痛苦的你。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13MWf6LE4z?p=6",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "敗北の少年",
+  "artist": "kemu feat. GUMI",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年11月15日21点场 致追逐梦想却感到痛苦的你。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13MWf6LE4z?p=7",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "欲望に満ちた青年団",
+  "artist": "ONE OK ROCK",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年11月15日21点场 致追逐梦想却感到痛苦的你。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13MWf6LE4z?p=8",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "サザンクロス",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年11月15日21点场 致追逐梦想却感到痛苦的你。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13MWf6LE4z?p=9",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "夢想歌",
+  "artist": "Suara",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年11月15日21点场 致追逐梦想却感到痛苦的你。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13MWf6LE4z?p=10",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "Over Soul",
+  "artist": "林原めぐみ",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年11月15日21点场 致追逐梦想却感到痛苦的你。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13MWf6LE4z?p=11",
+  "source": "yadokaridolly.js"
+},
+    {
+  "title": "夢をかなえてドラえもん",
+  "artist": "mao",
+  "collection": "「ヤドカリのドリィ」公式歌切 2026年11月15日21点场 致追逐梦想却感到痛苦的你。",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV13MWf6LE4z?p=12",
+  "source": "yadokaridolly.js"
+},
     {
   "title": "たった1つの想い",
   "artist": "KOKIA",
