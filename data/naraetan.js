@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr
-// 生成时间: 11/14/2026, 8:37:44 PM
+// 生成时间: 11/14/2026, 10:57:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15883,6 +15883,54 @@ window.SONG_DATA.push(
   "collection": "[Song cut] [2026-10-31] Halloween new costume debut 🎃🍬",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1wZxH6PE15?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "オリビアを聴きながら",
+  "artist": "杏里",
+  "collection": "[Song cut] [2026-11-12] Singing a little before bed 🩵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VBs76qExs?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "桜色舞うころ",
+  "artist": "中島美嘉",
+  "collection": "[Song cut] [2026-11-12] Singing a little before bed 🩵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VBs76qExs?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "THROUGH THE YEARS AND FAR AWAY",
+  "artist": "LOW",
+  "collection": "[Song cut] [2026-11-12] Singing a little before bed 🩵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VBs76qExs?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "終わりの世界から",
+  "artist": "麻枝准×やなぎなぎ",
+  "collection": "[Song cut] [2026-11-12] Singing a little before bed 🩵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VBs76qExs?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "remember",
+  "artist": "Uru",
+  "collection": "[Song cut] [2026-11-12] Singing a little before bed 🩵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VBs76qExs?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "机さする",
+  "artist": "青木遥",
+  "collection": "[Song cut] [2026-11-12] Singing a little before bed 🩵",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VBs76qExs?p=6",
   "source": "naraetan.js"
 },
     {

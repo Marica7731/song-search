@@ -1,6 +1,6 @@
 // ななし律歌 - 歌单数据 (多合集汇总)
 // 来源: BV1wHQVBTEU5
-// 生成时间: 11/14/2026, 9:24:16 PM
+// 生成时间: 11/14/2026, 11:36:27 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3043,6 +3043,206 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-11-03] A day when I want to sing some dark-style songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1xoxU6UE5L?p=29",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=1",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "声",
+  "artist": "羊文学",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=2",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ミカヅキ",
+  "artist": "さユり",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=3",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=4",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "灰色と青",
+  "artist": "米津玄師 feat. 菅田将暉",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=5",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "フェイキング・オブ・コメディ",
+  "artist": "jon-YAKITORY feat. v flower",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=6",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "DAYBREAK FRONTLINE",
+  "artist": "Orangestar feat. IA",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=7",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "雨き声残響",
+  "artist": "Orangestar feat. IA",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=8",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "時ノ雨、最終戦争",
+  "artist": "Orangestar feat. IA",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=9",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "小さな恋のうた",
+  "artist": "MONGOL800",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=10",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=11",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Overdose",
+  "artist": "なとり",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=12",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "夜永唄",
+  "artist": "神はサイコロを振らない",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=13",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "メリュー",
+  "artist": "n-buna feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=14",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "忘れてください",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=15",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=16",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "春泥棒",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=17",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=18",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "かくれんぼ",
+  "artist": "優里",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=19",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ベテルギウス",
+  "artist": "優里",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=20",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "蝶々結び",
+  "artist": "Aimer",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=21",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "Ref:rain",
+  "artist": "Aimer",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=22",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat. GUMI",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=23",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "しわあわせ",
+  "artist": "Vaundy",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=24",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "それがあなたの幸せとしても",
+  "artist": "Heavenz feat. 巡音ルカ",
+  "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=25",
   "source": "nanashirikka.js"
 }
 );

@@ -1,6 +1,6 @@
 // チョま - 歌单数据 (多合集汇总)
 // 来源: BV1kM3L6GEBV
-// 生成时间: 11/14/2026, 9:49:08 PM
+// 生成时间: 11/14/2026, 11:57:30 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -5363,6 +5363,134 @@ window.SONG_DATA.push(
   "collection": "Choma song cut October 31, 2026, 15:00 session Happy Halloween!! 2026-10-31",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1GixH6EErj?p=20",
+  "source": "choma.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "Choma song cut, November 14, 2026, 13:00 session, singing with an aurora-like voice!! (versatile voice · male and female dual voice) 2026-11-14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pHs76EEcm?p=1",
+  "source": "choma.js"
+},
+    {
+  "title": "一二三",
+  "artist": "Penthouse",
+  "collection": "Choma song cut, November 14, 2026, 13:00 session, singing with an aurora-like voice!! (versatile voice · male and female dual voice) 2026-11-14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pHs76EEcm?p=2",
+  "source": "choma.js"
+},
+    {
+  "title": "GO!!!",
+  "artist": "FLOW",
+  "collection": "Choma song cut, November 14, 2026, 13:00 session, singing with an aurora-like voice!! (versatile voice · male and female dual voice) 2026-11-14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pHs76EEcm?p=3",
+  "source": "choma.js"
+},
+    {
+  "title": "エンヴィーベイビー",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "Choma song cut, November 14, 2026, 13:00 session, singing with an aurora-like voice!! (versatile voice · male and female dual voice) 2026-11-14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pHs76EEcm?p=4",
+  "source": "choma.js"
+},
+    {
+  "title": "スピカ",
+  "artist": "ロクデナシ",
+  "collection": "Choma song cut, November 14, 2026, 13:00 session, singing with an aurora-like voice!! (versatile voice · male and female dual voice) 2026-11-14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pHs76EEcm?p=5",
+  "source": "choma.js"
+},
+    {
+  "title": "サインはB",
+  "artist": "B小町 アイ（高橋李依）",
+  "collection": "Choma song cut, November 14, 2026, 13:00 session, singing with an aurora-like voice!! (versatile voice · male and female dual voice) 2026-11-14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pHs76EEcm?p=6",
+  "source": "choma.js"
+},
+    {
+  "title": "好きすぎて滅！",
+  "artist": "M!LK",
+  "collection": "Choma song cut, November 14, 2026, 13:00 session, singing with an aurora-like voice!! (versatile voice · male and female dual voice) 2026-11-14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pHs76EEcm?p=7",
+  "source": "choma.js"
+},
+    {
+  "title": "惑星ループ",
+  "artist": "ナユタン星人 feat. 初音ミク",
+  "collection": "Choma song cut, November 14, 2026, 13:00 session, singing with an aurora-like voice!! (versatile voice · male and female dual voice) 2026-11-14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pHs76EEcm?p=8",
+  "source": "choma.js"
+},
+    {
+  "title": "愛言葉Ⅳ",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "Choma song cut, November 14, 2026, 13:00 session, singing with an aurora-like voice!! (versatile voice · male and female dual voice) 2026-11-14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pHs76EEcm?p=9",
+  "source": "choma.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "Choma song cut, November 14, 2026, 13:00 session, singing with an aurora-like voice!! (versatile voice · male and female dual voice) 2026-11-14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pHs76EEcm?p=10",
+  "source": "choma.js"
+},
+    {
+  "title": "カーテンコール",
+  "artist": "優里",
+  "collection": "Choma song cut, November 14, 2026, 13:00 session, singing with an aurora-like voice!! (versatile voice · male and female dual voice) 2026-11-14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pHs76EEcm?p=11",
+  "source": "choma.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "Choma song cut, November 14, 2026, 13:00 session, singing with an aurora-like voice!! (versatile voice · male and female dual voice) 2026-11-14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pHs76EEcm?p=12",
+  "source": "choma.js"
+},
+    {
+  "title": "小さな恋のうた",
+  "artist": "MONGOL800",
+  "collection": "Choma song cut, November 14, 2026, 13:00 session, singing with an aurora-like voice!! (versatile voice · male and female dual voice) 2026-11-14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pHs76EEcm?p=13",
+  "source": "choma.js"
+},
+    {
+  "title": "愛唄",
+  "artist": "GReeeeN",
+  "collection": "Choma song cut, November 14, 2026, 13:00 session, singing with an aurora-like voice!! (versatile voice · male and female dual voice) 2026-11-14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pHs76EEcm?p=14",
+  "source": "choma.js"
+},
+    {
+  "title": "愛をこめて花束を",
+  "artist": "Superfly",
+  "collection": "Choma song cut, November 14, 2026, 13:00 session, singing with an aurora-like voice!! (versatile voice · male and female dual voice) 2026-11-14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pHs76EEcm?p=15",
+  "source": "choma.js"
+},
+    {
+  "title": "エメラルド侵☆略",
+  "artist": "チョま",
+  "collection": "Choma song cut, November 14, 2026, 13:00 session, singing with an aurora-like voice!! (versatile voice · male and female dual voice) 2026-11-14",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1pHs76EEcm?p=16",
   "source": "choma.js"
 }
 );

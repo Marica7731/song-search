@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 11/14/2026, 9:40:58 PM
+// 生成时间: 11/14/2026, 11:49:24 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2475,6 +2475,166 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-11-12] Long time no see! Today I'll only sing idol songs~!!!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1Ets765EH8?p=9",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "劇薬中毒",
+  "artist": "=LOVE",
+  "collection": "[Song cut] [2026-11-14] Idol song special!! Come sing songs suitable for red outfits! 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tgs76dEAW?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "君のことが好きだから",
+  "artist": "アンダーガールズ（AKB48）",
+  "collection": "[Song cut] [2026-11-14] Idol song special!! Come sing songs suitable for red outfits! 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tgs76dEAW?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "遠距離ポスター",
+  "artist": "チームPB（AKB48）",
+  "collection": "[Song cut] [2026-11-14] Idol song special!! Come sing songs suitable for red outfits! 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tgs76dEAW?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "永遠プレッシャー",
+  "artist": "AKB48",
+  "collection": "[Song cut] [2026-11-14] Idol song special!! Come sing songs suitable for red outfits! 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tgs76dEAW?p=4",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "恋愛被害届け",
+  "artist": "紅組（NMB48）",
+  "collection": "[Song cut] [2026-11-14] Idol song special!! Come sing songs suitable for red outfits! 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tgs76dEAW?p=5",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "わるきー",
+  "artist": "渡辺美優紀",
+  "collection": "[Song cut] [2026-11-14] Idol song special!! Come sing songs suitable for red outfits! 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tgs76dEAW?p=6",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "それでも好きだよ",
+  "artist": "指原莉乃",
+  "collection": "[Song cut] [2026-11-14] Idol song special!! Come sing songs suitable for red outfits! 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tgs76dEAW?p=7",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "RIVER",
+  "artist": "AKB48",
+  "collection": "[Song cut] [2026-11-14] Idol song special!! Come sing songs suitable for red outfits! 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tgs76dEAW?p=8",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "大声ダイヤモンド",
+  "artist": "AKB48",
+  "collection": "[Song cut] [2026-11-14] Idol song special!! Come sing songs suitable for red outfits! 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tgs76dEAW?p=9",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "わたしの一番かわいいところ",
+  "artist": "FRUITS ZIPPER",
+  "collection": "[Song cut] [2026-11-14] Idol song special!! Come sing songs suitable for red outfits! 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tgs76dEAW?p=10",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "LOVE涙色",
+  "artist": "松浦亜弥",
+  "collection": "[Song cut] [2026-11-14] Idol song special!! Come sing songs suitable for red outfits! 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tgs76dEAW?p=11",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "初恋サイダー",
+  "artist": "Buono!",
+  "collection": "[Song cut] [2026-11-14] Idol song special!! Come sing songs suitable for red outfits! 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tgs76dEAW?p=12",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "すきっ！",
+  "artist": "超ときめき♡宣伝部",
+  "collection": "[Song cut] [2026-11-14] Idol song special!! Come sing songs suitable for red outfits! 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tgs76dEAW?p=13",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "紅の詩",
+  "artist": "私立恵比寿中学",
+  "collection": "[Song cut] [2026-11-14] Idol song special!! Come sing songs suitable for red outfits! 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tgs76dEAW?p=14",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "ジャンプ",
+  "artist": "私立恵比寿中学",
+  "collection": "[Song cut] [2026-11-14] Idol song special!! Come sing songs suitable for red outfits! 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tgs76dEAW?p=15",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "シンガロン・シンガソン",
+  "artist": "私立恵比寿中学",
+  "collection": "[Song cut] [2026-11-14] Idol song special!! Come sing songs suitable for red outfits! 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tgs76dEAW?p=16",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "絶対アイドル辞めないで",
+  "artist": "=LOVE",
+  "collection": "[Song cut] [2026-11-14] Idol song special!! Come sing songs suitable for red outfits! 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tgs76dEAW?p=17",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "恋、はじめました。",
+  "artist": "=LOVE",
+  "collection": "[Song cut] [2026-11-14] Idol song special!! Come sing songs suitable for red outfits! 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tgs76dEAW?p=18",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "恋愛被害届け",
+  "artist": "紅組（NMB48）",
+  "collection": "[Song cut] [2026-11-14] Idol song special!! Come sing songs suitable for red outfits! 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tgs76dEAW?p=19",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "また明日",
+  "artist": "私立恵比寿中学",
+  "collection": "[Song cut] [2026-11-14] Idol song special!! Come sing songs suitable for red outfits! 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1tgs76dEAW?p=20",
   "source": "kanaruhanon.js"
 }
 );
