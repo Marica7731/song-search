@@ -1,6 +1,6 @@
 // みなとん - 歌单数据 (多合集汇总)
 // 来源: BV1TqGY6gEEf
-// 生成时间: 11/16/2026, 4:03:09 PM
+// 生成时间: 11/16/2026, 6:07:17 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -1838,11 +1838,19 @@ window.SONG_DATA.push(
   "source": "minaton.js"
 },
     {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-15] 3D Live Stream: Relaxed and Gentle Singing on Sunday Afternoon 🎙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=2",
+  "source": "minaton.js"
+},
+    {
   "title": "別の人の彼女になったよ",
   "artist": "wacci",
   "collection": "[Song Cut] [2026-11-15] 3D Live Stream: Relaxed and Gentle Singing on Sunday Afternoon 🎙",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=2",
+  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=3",
   "source": "minaton.js"
 },
     {
@@ -1850,7 +1858,7 @@ window.SONG_DATA.push(
   "artist": "Saucy Dog",
   "collection": "[Song Cut] [2026-11-15] 3D Live Stream: Relaxed and Gentle Singing on Sunday Afternoon 🎙",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=3",
+  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=4",
   "source": "minaton.js"
 },
     {
@@ -1858,7 +1866,7 @@ window.SONG_DATA.push(
   "artist": "優里",
   "collection": "[Song Cut] [2026-11-15] 3D Live Stream: Relaxed and Gentle Singing on Sunday Afternoon 🎙",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=4",
+  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=5",
   "source": "minaton.js"
 },
     {
@@ -1866,7 +1874,7 @@ window.SONG_DATA.push(
   "artist": "コレサワ",
   "collection": "[Song Cut] [2026-11-15] 3D Live Stream: Relaxed and Gentle Singing on Sunday Afternoon 🎙",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=5",
+  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=6",
   "source": "minaton.js"
 },
     {
@@ -1874,7 +1882,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "[Song Cut] [2026-11-15] 3D Live Stream: Relaxed and Gentle Singing on Sunday Afternoon 🎙",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=6",
+  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=7",
   "source": "minaton.js"
 },
     {
@@ -1882,7 +1890,7 @@ window.SONG_DATA.push(
   "artist": "中島美嘉",
   "collection": "[Song Cut] [2026-11-15] 3D Live Stream: Relaxed and Gentle Singing on Sunday Afternoon 🎙",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=7",
+  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=8",
   "source": "minaton.js"
 },
     {
@@ -1890,7 +1898,7 @@ window.SONG_DATA.push(
   "artist": "Official髭男dism",
   "collection": "[Song Cut] [2026-11-15] 3D Live Stream: Relaxed and Gentle Singing on Sunday Afternoon 🎙",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=8",
+  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=9",
   "source": "minaton.js"
 },
     {
@@ -1898,7 +1906,7 @@ window.SONG_DATA.push(
   "artist": "手嶌葵",
   "collection": "[Song Cut] [2026-11-15] 3D Live Stream: Relaxed and Gentle Singing on Sunday Afternoon 🎙",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=9",
+  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=10",
   "source": "minaton.js"
 },
     {
@@ -1906,7 +1914,7 @@ window.SONG_DATA.push(
   "artist": "木村弓",
   "collection": "[Song Cut] [2026-11-15] 3D Live Stream: Relaxed and Gentle Singing on Sunday Afternoon 🎙",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=10",
+  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=11",
   "source": "minaton.js"
 },
     {
@@ -1914,7 +1922,7 @@ window.SONG_DATA.push(
   "artist": "Aimer",
   "collection": "[Song Cut] [2026-11-15] 3D Live Stream: Relaxed and Gentle Singing on Sunday Afternoon 🎙",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=11",
+  "link": "https://www.bilibili.com/video/BV1VAWf6UEoF?p=12",
   "source": "minaton.js"
 }
 );
