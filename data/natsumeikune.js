@@ -1,144 +1,152 @@
 // なつかしちゃん - 歌单数据 (多合集汇总)
 // 来源: BV1VPH26kESs
-// 生成时间: 11/16/2026, 3:07:15 AM
+// 生成时间: 11/16/2026, 5:15:02 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
 window.SONG_DATA.push(
     {
-  "title": "SAKURAドロップス",
-  "artist": "宇多田ヒカル",
-  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
+  "title": "チェックのワンピース",
+  "artist": "back number",
+  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=1",
+  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=1",
   "source": "natsumeikune.js"
 },
     {
-  "title": "星になれたら",
-  "artist": "Mr.Children",
-  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
+  "title": "エンドレス",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=2",
+  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=2",
   "source": "natsumeikune.js"
 },
     {
-  "title": "くせのうた",
+  "title": "くだらないの中に",
   "artist": "星野源",
-  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
+  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=3",
+  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=3",
   "source": "natsumeikune.js"
 },
     {
-  "title": "未来",
+  "title": "フィルム",
   "artist": "星野源",
-  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
+  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=4",
+  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=4",
   "source": "natsumeikune.js"
 },
     {
   "title": "ある車掌",
   "artist": "星野源",
-  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
+  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=5",
+  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=5",
   "source": "natsumeikune.js"
 },
     {
-  "title": "たばこ",
+  "title": "二人セゾン",
+  "artist": "欅坂46",
+  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=6",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "えりあし",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=7",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "星のない世界",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=8",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "二時頃",
+  "artist": "aiko",
+  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=9",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "Over",
+  "artist": "Mr.Children",
+  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=10",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "口笛",
+  "artist": "Mr.Children",
+  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=11",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "白い恋人達",
+  "artist": "桑田佳祐",
+  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=12",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "fish",
+  "artist": "back number",
+  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=13",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "晩餐歌",
+  "artist": "tuki.",
+  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=14",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "SWEET MEMORIES",
+  "artist": "松田聖子",
+  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=15",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "君の好きなとこ",
+  "artist": "平井堅",
+  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=16",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "Fコード",
   "artist": "コレサワ",
-  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
+  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=6",
+  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=17",
   "source": "natsumeikune.js"
 },
     {
-  "title": "バカでしょ",
-  "artist": "コレサワ",
-  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
+  "title": "別の人の彼女になったよ",
+  "artist": "wacci",
+  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=7",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "如月アテンション",
-  "artist": "じん feat. IA",
-  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=8",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "プロポーズ",
-  "artist": "なとり",
-  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=9",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "オセロ",
-  "artist": "TOMOO",
-  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=10",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "春雷",
-  "artist": "米津玄師",
-  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=11",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "LOSER",
-  "artist": "米津玄師",
-  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=12",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "告白予行練習",
-  "artist": "HoneyWorks feat. GUMI",
-  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=13",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "明日の私に幸あれ",
-  "artist": "ナナヲアカリ",
-  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=14",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "Bling-Bang-Bang-Born",
-  "artist": "Creepy Nuts",
-  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=15",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "traveling",
-  "artist": "宇多田ヒカル",
-  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=16",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "Can You Keep A Secret?",
-  "artist": "宇多田ヒカル",
-  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=17",
+  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=18",
   "source": "natsumeikune.js"
 },
     {
@@ -422,147 +430,139 @@ window.SONG_DATA.push(
   "source": "natsumeikune.js"
 },
     {
-  "title": "チェックのワンピース",
-  "artist": "back number",
-  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
+  "title": "SAKURAドロップス",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=1",
+  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=1",
   "source": "natsumeikune.js"
 },
     {
-  "title": "エンドレス",
-  "artist": "TOMOO",
-  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
+  "title": "星になれたら",
+  "artist": "Mr.Children",
+  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=2",
+  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=2",
   "source": "natsumeikune.js"
 },
     {
-  "title": "くだらないの中に",
+  "title": "くせのうた",
   "artist": "星野源",
-  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
+  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=3",
+  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=3",
   "source": "natsumeikune.js"
 },
     {
-  "title": "フィルム",
+  "title": "未来",
   "artist": "星野源",
-  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
+  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=4",
+  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=4",
   "source": "natsumeikune.js"
 },
     {
   "title": "ある車掌",
   "artist": "星野源",
-  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
+  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=5",
+  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=5",
   "source": "natsumeikune.js"
 },
     {
-  "title": "二人セゾン",
-  "artist": "欅坂46",
-  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=6",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "えりあし",
-  "artist": "aiko",
-  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=7",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "星のない世界",
-  "artist": "aiko",
-  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=8",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "二時頃",
-  "artist": "aiko",
-  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=9",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "Over",
-  "artist": "Mr.Children",
-  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=10",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "口笛",
-  "artist": "Mr.Children",
-  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=11",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "白い恋人達",
-  "artist": "桑田佳祐",
-  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=12",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "fish",
-  "artist": "back number",
-  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=13",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "晩餐歌",
-  "artist": "tuki.",
-  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=14",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "SWEET MEMORIES",
-  "artist": "松田聖子",
-  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=15",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "君の好きなとこ",
-  "artist": "平井堅",
-  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
-  "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=16",
-  "source": "natsumeikune.js"
-},
-    {
-  "title": "Fコード",
+  "title": "たばこ",
   "artist": "コレサワ",
-  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
+  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=17",
+  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=6",
   "source": "natsumeikune.js"
 },
     {
-  "title": "別の人の彼女になったよ",
-  "artist": "wacci",
-  "collection": "【歌切】[2026-10-14]目标100个点赞！已经入秋了，吃过秋刀鱼了吗？🐟欢迎新观众",
+  "title": "バカでしょ",
+  "artist": "コレサワ",
+  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
   "up": "前尘往事如昔故",
-  "link": "https://www.bilibili.com/video/BV11XpU66EGr?p=18",
+  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=7",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "如月アテンション",
+  "artist": "じん feat. IA",
+  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=8",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "なとり",
+  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=9",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "オセロ",
+  "artist": "TOMOO",
+  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=10",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "春雷",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=11",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "LOSER",
+  "artist": "米津玄師",
+  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=12",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "告白予行練習",
+  "artist": "HoneyWorks feat. GUMI",
+  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=13",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "明日の私に幸あれ",
+  "artist": "ナナヲアカリ",
+  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=14",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "Bling-Bang-Bang-Born",
+  "artist": "Creepy Nuts",
+  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=15",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "traveling",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=16",
+  "source": "natsumeikune.js"
+},
+    {
+  "title": "Can You Keep A Secret?",
+  "artist": "宇多田ヒカル",
+  "collection": "【歌切】[2026-11-15]难得一见的突击开唱🎙还没唱够呢…🦖欢迎新观众",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1x6WZ6eEw6?p=17",
   "source": "natsumeikune.js"
 },
     {
