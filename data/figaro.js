@@ -1,6 +1,6 @@
 // Figaro - 歌单数据 (多合集汇总)
 // 来源: BV1HRfuBCEXN
-// 生成时间: 11/15/2026, 9:18:08 PM
+// 生成时间: 11/15/2026, 11:18:49 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -38019,6 +38019,110 @@ window.SONG_DATA.push(
   "collection": "[💐Song Cut] [2026-11-06] Singing livestream is back too!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1N14x6QEwe?p=15",
+  "source": "figaro.js"
+},
+    {
+  "title": "記憶の水槽",
+  "artist": "キタニタツヤ",
+  "collection": "[💐Song Cut] [2026-11-15] Soothing sleep-aid singing to help you rest easy🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7Wf6uEwf?p=1",
+  "source": "figaro.js"
+},
+    {
+  "title": "すずめ",
+  "artist": "RADWIMPS feat. 十明",
+  "collection": "[💐Song Cut] [2026-11-15] Soothing sleep-aid singing to help you rest easy🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7Wf6uEwf?p=2",
+  "source": "figaro.js"
+},
+    {
+  "title": "フクロウ～フクロウが知らせる客が来たと～",
+  "artist": "KOKIA",
+  "collection": "[💐Song Cut] [2026-11-15] Soothing sleep-aid singing to help you rest easy🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7Wf6uEwf?p=3",
+  "source": "figaro.js"
+},
+    {
+  "title": "星の消えた夜に",
+  "artist": "Aimer",
+  "collection": "[💐Song Cut] [2026-11-15] Soothing sleep-aid singing to help you rest easy🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7Wf6uEwf?p=4",
+  "source": "figaro.js"
+},
+    {
+  "title": "六等星の夜",
+  "artist": "Aimer",
+  "collection": "[💐Song Cut] [2026-11-15] Soothing sleep-aid singing to help you rest easy🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7Wf6uEwf?p=5",
+  "source": "figaro.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "[💐Song Cut] [2026-11-15] Soothing sleep-aid singing to help you rest easy🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7Wf6uEwf?p=6",
+  "source": "figaro.js"
+},
+    {
+  "title": "クリスマスソング",
+  "artist": "back number",
+  "collection": "[💐Song Cut] [2026-11-15] Soothing sleep-aid singing to help you rest easy🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7Wf6uEwf?p=7",
+  "source": "figaro.js"
+},
+    {
+  "title": "Subtitle",
+  "artist": "Official髭男dism",
+  "collection": "[💐Song Cut] [2026-11-15] Soothing sleep-aid singing to help you rest easy🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7Wf6uEwf?p=8",
+  "source": "figaro.js"
+},
+    {
+  "title": "再会",
+  "artist": "LiSA×Uru",
+  "collection": "[💐Song Cut] [2026-11-15] Soothing sleep-aid singing to help you rest easy🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7Wf6uEwf?p=9",
+  "source": "figaro.js"
+},
+    {
+  "title": "フリージア",
+  "artist": "Uru",
+  "collection": "[💐Song Cut] [2026-11-15] Soothing sleep-aid singing to help you rest easy🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7Wf6uEwf?p=10",
+  "source": "figaro.js"
+},
+    {
+  "title": "ウィアートル",
+  "artist": "rionos",
+  "collection": "[💐Song Cut] [2026-11-15] Soothing sleep-aid singing to help you rest easy🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7Wf6uEwf?p=11",
+  "source": "figaro.js"
+},
+    {
+  "title": "心のそばに",
+  "artist": "Belle",
+  "collection": "[💐Song Cut] [2026-11-15] Soothing sleep-aid singing to help you rest easy🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7Wf6uEwf?p=12",
+  "source": "figaro.js"
+},
+    {
+  "title": "恋に落ちて",
+  "artist": "藤田麻衣子",
+  "collection": "[💐Song Cut] [2026-11-15] Soothing sleep-aid singing to help you rest easy🌙",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1T7Wf6uEwf?p=13",
   "source": "figaro.js"
 }
 );
