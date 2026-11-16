@@ -1,6 +1,6 @@
 // 緋那ちび - 歌单数据 (多合集汇总)
 // 来源: BV134wAzJEph
-// 生成时间: 11/16/2026, 6:00:43 PM
+// 生成时间: 11/16/2026, 8:03:45 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3739,6 +3739,110 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-11-15] Introducing new equipment?! Want to come and listen to singing with super strong sound quality??",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PHWf6iE34?p=14",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "[Song Clip] [2026-11-16] Recommended to use binaural headphones?! Want to come in and take a look?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gssT6iEq6?p=1",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "怪物",
+  "artist": "YOASOBI",
+  "collection": "[Song Clip] [2026-11-16] Recommended to use binaural headphones?! Want to come in and take a look?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gssT6iEq6?p=2",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "[Song Clip] [2026-11-16] Recommended to use binaural headphones?! Want to come in and take a look?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gssT6iEq6?p=3",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "Fantastic future",
+  "artist": "田村ゆかり",
+  "collection": "[Song Clip] [2026-11-16] Recommended to use binaural headphones?! Want to come in and take a look?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gssT6iEq6?p=4",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "シカ色デイズ",
+  "artist": "シカ部",
+  "collection": "[Song Clip] [2026-11-16] Recommended to use binaural headphones?! Want to come in and take a look?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gssT6iEq6?p=5",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "嘘",
+  "artist": "シド",
+  "collection": "[Song Clip] [2026-11-16] Recommended to use binaural headphones?! Want to come in and take a look?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gssT6iEq6?p=6",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "ビビデバ",
+  "artist": "星街すいせい",
+  "collection": "[Song Clip] [2026-11-16] Recommended to use binaural headphones?! Want to come in and take a look?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gssT6iEq6?p=7",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "G4L",
+  "artist": "Giga",
+  "collection": "[Song Clip] [2026-11-16] Recommended to use binaural headphones?! Want to come in and take a look?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gssT6iEq6?p=8",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "BALALAIKA",
+  "artist": "9Lana",
+  "collection": "[Song Clip] [2026-11-16] Recommended to use binaural headphones?! Want to come in and take a look?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gssT6iEq6?p=9",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "プロポーズ",
+  "artist": "内緒のピアス feat. 可不",
+  "collection": "[Song Clip] [2026-11-16] Recommended to use binaural headphones?! Want to come in and take a look?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gssT6iEq6?p=10",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "#あくあ色ぱれっと",
+  "artist": "湊あくあ",
+  "collection": "[Song Clip] [2026-11-16] Recommended to use binaural headphones?! Want to come in and take a look?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gssT6iEq6?p=11",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "daze",
+  "artist": "じん feat. メイリア from GARNiDELiA",
+  "collection": "[Song Clip] [2026-11-16] Recommended to use binaural headphones?! Want to come in and take a look?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gssT6iEq6?p=12",
+  "source": "hinachibi.js"
+},
+    {
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "collection": "[Song Clip] [2026-11-16] Recommended to use binaural headphones?! Want to come in and take a look?",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1gssT6iEq6?p=13",
   "source": "hinachibi.js"
 }
 );

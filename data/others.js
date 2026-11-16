@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 11/16/2026, 6:15:37 PM
+// 生成时间: 11/16/2026, 8:16:50 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -28907,6 +28907,78 @@ window.SONG_DATA.push(
   "collection": "Song Nagi Rei song cut 2026-11-14 Singing leisurely with healing piano accompaniment",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1n2WZ68EYq?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "変わらないもの",
+  "artist": "奥華子",
+  "collection": "Yuka Hiiragi Song Cuts 2026-11-15 Long time no see, I want to sing some sleep-aid songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ddsT65ETg?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "ビードロ模様",
+  "artist": "やなぎなぎ",
+  "collection": "Yuka Hiiragi Song Cuts 2026-11-15 Long time no see, I want to sing some sleep-aid songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ddsT65ETg?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "エウテルペ",
+  "artist": "EGOIST",
+  "collection": "Yuka Hiiragi Song Cuts 2026-11-15 Long time no see, I want to sing some sleep-aid songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ddsT65ETg?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "奏",
+  "artist": "スキマスイッチ",
+  "collection": "Yuka Hiiragi Song Cuts 2026-11-15 Long time no see, I want to sing some sleep-aid songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ddsT65ETg?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "アクアテラリウム",
+  "artist": "やなぎなぎ",
+  "collection": "Yuka Hiiragi Song Cuts 2026-11-15 Long time no see, I want to sing some sleep-aid songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ddsT65ETg?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "蒼のエーテル",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "Yuka Hiiragi Song Cuts 2026-11-15 Long time no see, I want to sing some sleep-aid songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ddsT65ETg?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "終わりへ向かう始まりの歌",
+  "artist": "supercell",
+  "collection": "Yuka Hiiragi Song Cuts 2026-11-15 Long time no see, I want to sing some sleep-aid songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ddsT65ETg?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "ウィアートル",
+  "artist": "rionos",
+  "collection": "Yuka Hiiragi Song Cuts 2026-11-15 Long time no see, I want to sing some sleep-aid songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ddsT65ETg?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "Yuka Hiiragi Song Cuts 2026-11-15 Long time no see, I want to sing some sleep-aid songs",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1ddsT65ETg?p=9",
   "source": "others.js"
 },
     {

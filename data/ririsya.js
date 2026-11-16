@@ -1,6 +1,6 @@
 // 凛凛咲 ririsya - 歌单数据 (多合集汇总)
 // 来源: BV1cofuBGEkX
-// 生成时间: 11/16/2026, 5:02:06 PM
+// 生成时间: 11/16/2026, 7:10:34 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -20315,6 +20315,190 @@ window.SONG_DATA.push(
   "collection": "【🐍 Song Cut】[2026-11-15] Sing anime songs together happily in a relay! I want to sing all my favorite anime songs!",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1PHWf6iErd?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "My Dearest",
+  "artist": "supercell",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=1",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ANIMA",
+  "artist": "ReoNa",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=2",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ブルーバード",
+  "artist": "いきものがかり",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=3",
+  "source": "ririsya.js"
+},
+    {
+  "title": "空色デイズ",
+  "artist": "中川翔子",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=4",
+  "source": "ririsya.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=5",
+  "source": "ririsya.js"
+},
+    {
+  "title": "リライト",
+  "artist": "ASIAN KUNG-FU GENERATION",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=6",
+  "source": "ririsya.js"
+},
+    {
+  "title": "瞬間センチメンタル",
+  "artist": "SCANDAL",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=7",
+  "source": "ririsya.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子(花澤香菜)",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=8",
+  "source": "ririsya.js"
+},
+    {
+  "title": "もうそう♡えくすぷれす",
+  "artist": "千石撫子(花澤香菜)",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=9",
+  "source": "ririsya.js"
+},
+    {
+  "title": "白金ディスコ",
+  "artist": "阿良々木月火(井口裕香)",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=10",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ラムのラブソング",
+  "artist": "松谷祐子",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=11",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ロマンティックあげるよ",
+  "artist": "橋本潮",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=12",
+  "source": "ririsya.js"
+},
+    {
+  "title": "DAN DAN 心魅かれてく",
+  "artist": "FIELD OF VIEW",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=13",
+  "source": "ririsya.js"
+},
+    {
+  "title": "CAT'S EYE",
+  "artist": "杏里",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=14",
+  "source": "ririsya.js"
+},
+    {
+  "title": "タッチ",
+  "artist": "岩崎良美",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=15",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ムーンライト伝説",
+  "artist": "DALI",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=16",
+  "source": "ririsya.js"
+},
+    {
+  "title": "memories",
+  "artist": "大槻マキ",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=17",
+  "source": "ririsya.js"
+},
+    {
+  "title": "Secret of my heart",
+  "artist": "倉木麻衣",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=18",
+  "source": "ririsya.js"
+},
+    {
+  "title": "小さきもの",
+  "artist": "林明日香",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=19",
+  "source": "ririsya.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー=中島愛",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=20",
+  "source": "ririsya.js"
+},
+    {
+  "title": "トライアングラー",
+  "artist": "坂本真綾",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=21",
+  "source": "ririsya.js"
+},
+    {
+  "title": "ライオン",
+  "artist": "May'n／中島愛",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=22",
+  "source": "ririsya.js"
+},
+    {
+  "title": "コネクト",
+  "artist": "ClariS",
+  "collection": "[🐍 Song Cut] [2026-11-16] Anime songs are starting now✧",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1XHsT6BEAA?p=23",
   "source": "ririsya.js"
 }
 );

@@ -1,6 +1,6 @@
 // 香鳴ハノン - 歌单数据 (多合集汇总)
 // 来源: BV1LgVc6aEuV
-// 生成时间: 11/16/2026, 6:01:40 PM
+// 生成时间: 11/16/2026, 8:05:08 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -2635,6 +2635,86 @@ window.SONG_DATA.push(
   "collection": "[Song cut] [2026-11-14] Idol song special!! Come sing songs suitable for red outfits! 💗",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1tgs76dEAW?p=20",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "いちごパフェが止まらない",
+  "artist": "放課後ティータイム",
+  "collection": "[Song Cut] [2026-11-16] Today mainly singing cute anime songs 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GnsT6uEoQ?p=1",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Sunday Siesta",
+  "artist": "平沢唯(豊崎愛生)",
+  "collection": "[Song Cut] [2026-11-16] Today mainly singing cute anime songs 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GnsT6uEoQ?p=2",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Baby Sweet Berry Love",
+  "artist": "小倉唯",
+  "collection": "[Song Cut] [2026-11-16] Today mainly singing cute anime songs 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GnsT6uEoQ?p=3",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Honey♥Come!!",
+  "artist": "小倉唯",
+  "collection": "[Song Cut] [2026-11-16] Today mainly singing cute anime songs 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GnsT6uEoQ?p=4",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "sugar sweet nightmare",
+  "artist": "羽川翼(堀江由衣)",
+  "collection": "[Song Cut] [2026-11-16] Today mainly singing cute anime songs 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GnsT6uEoQ?p=5",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "staple stable",
+  "artist": "戦場ヶ原ひたぎ(斎藤千和)",
+  "collection": "[Song Cut] [2026-11-16] Today mainly singing cute anime songs 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GnsT6uEoQ?p=6",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "帰り道",
+  "artist": "八九寺真宵(加藤英美里)",
+  "collection": "[Song Cut] [2026-11-16] Today mainly singing cute anime songs 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GnsT6uEoQ?p=7",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "かくしん的☆めたまるふぉ〜ぜっ！",
+  "artist": "土間うまる(田中あいみ)",
+  "collection": "[Song Cut] [2026-11-16] Today mainly singing cute anime songs 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GnsT6uEoQ?p=8",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "もぎゅっと“love”で接近中！",
+  "artist": "μ's",
+  "collection": "[Song Cut] [2026-11-16] Today mainly singing cute anime songs 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GnsT6uEoQ?p=9",
+  "source": "kanaruhanon.js"
+},
+    {
+  "title": "Q&A リサイタル！",
+  "artist": "戸松遥",
+  "collection": "[Song Cut] [2026-11-16] Today mainly singing cute anime songs 💗",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1GnsT6uEoQ?p=10",
   "source": "kanaruhanon.js"
 }
 );
