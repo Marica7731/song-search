@@ -1,6 +1,6 @@
 // 翠雨 しの - 歌单数据 (多合集汇总)
 // 来源: BV1C7ND6hExv
-// 生成时间: 11/18/2026, 4:59:55 PM
+// 生成时间: 11/18/2026, 7:06:46 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -6923,6 +6923,126 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-11-15] Sunday regular live!! Bedtime singing and playing 🌙",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1gGWf6kEPQ?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "新時代",
+  "artist": "Ado",
+  "collection": "[Song Cut] [2026-11-18] Non-stop! Anime song medley 🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AfsS6VEbb?p=1",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ピースサイン",
+  "artist": "米津玄師",
+  "collection": "[Song Cut] [2026-11-18] Non-stop! Anime song medley 🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AfsS6VEbb?p=2",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "勇者",
+  "artist": "YOASOBI",
+  "collection": "[Song Cut] [2026-11-18] Non-stop! Anime song medley 🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AfsS6VEbb?p=3",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "アポリア",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-18] Non-stop! Anime song medley 🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AfsS6VEbb?p=4",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "残響散歌",
+  "artist": "Aimer",
+  "collection": "[Song Cut] [2026-11-18] Non-stop! Anime song medley 🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AfsS6VEbb?p=5",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "collection": "[Song Cut] [2026-11-18] Non-stop! Anime song medley 🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AfsS6VEbb?p=6",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "花の塔",
+  "artist": "さユり",
+  "collection": "[Song Cut] [2026-11-18] Non-stop! Anime song medley 🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AfsS6VEbb?p=7",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "あぶく",
+  "artist": "ヨルシカ",
+  "collection": "[Song Cut] [2026-11-18] Non-stop! Anime song medley 🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AfsS6VEbb?p=8",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "メロウ",
+  "artist": "須田景凪",
+  "collection": "[Song Cut] [2026-11-18] Non-stop! Anime song medley 🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AfsS6VEbb?p=9",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "サヨナラムーンタウン",
+  "artist": "シナリオアート",
+  "collection": "[Song Cut] [2026-11-18] Non-stop! Anime song medley 🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AfsS6VEbb?p=10",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "桜キッス",
+  "artist": "河辺千恵子",
+  "collection": "[Song Cut] [2026-11-18] Non-stop! Anime song medley 🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AfsS6VEbb?p=11",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "少女S",
+  "artist": "SCANDAL",
+  "collection": "[Song Cut] [2026-11-18] Non-stop! Anime song medley 🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AfsS6VEbb?p=12",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "Drawing days",
+  "artist": "SPLAY",
+  "collection": "[Song Cut] [2026-11-18] Non-stop! Anime song medley 🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AfsS6VEbb?p=13",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ft.",
+  "artist": "FUNKIST",
+  "collection": "[Song Cut] [2026-11-18] Non-stop! Anime song medley 🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AfsS6VEbb?p=14",
+  "source": "suiuishino.js"
+},
+    {
+  "title": "ココロのちず",
+  "artist": "BOYSTYLE",
+  "collection": "[Song Cut] [2026-11-18] Non-stop! Anime song medley 🎤✨",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1AfsS6VEbb?p=15",
   "source": "suiuishino.js"
 }
 );
