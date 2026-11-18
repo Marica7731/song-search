@@ -1,6 +1,6 @@
 // ななし律歌 - 歌单数据 (多合集汇总)
 // 来源: BV1wHQVBTEU5
-// 生成时间: 11/18/2026, 2:26:49 AM
+// 生成时间: 11/18/2026, 4:48:53 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3243,6 +3243,78 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-11-14] Night, Singing, and Guitar Strumming",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1pEs76nEga?p=25",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "シャルル",
+  "artist": "バルーン feat. flower",
+  "collection": "[Song Cut] [2026-11-17] About the key visual being absolutely amazing.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YExH?p=1",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ワールド・ランプシェード",
+  "artist": "buzzG feat. GUMI",
+  "collection": "[Song Cut] [2026-11-17] About the key visual being absolutely amazing.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YExH?p=2",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "モザイクロール",
+  "artist": "DECO*27 feat. GUMI",
+  "collection": "[Song Cut] [2026-11-17] About the key visual being absolutely amazing.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YExH?p=3",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-17] About the key visual being absolutely amazing.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YExH?p=4",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "敗北の少年",
+  "artist": "kemu feat. GUMI",
+  "collection": "[Song Cut] [2026-11-17] About the key visual being absolutely amazing.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YExH?p=5",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "エゴロック",
+  "artist": "すりぃ feat. 鏡音レン",
+  "collection": "[Song Cut] [2026-11-17] About the key visual being absolutely amazing.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YExH?p=6",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "ロキ",
+  "artist": "みきとP feat. 鏡音リン",
+  "collection": "[Song Cut] [2026-11-17] About the key visual being absolutely amazing.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YExH?p=7",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "初めての恋が終わる時",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-17] About the key visual being absolutely amazing.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YExH?p=8",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "君の神様になりたい。",
+  "artist": "カンザキイオリ feat. 初音ミク",
+  "collection": "[Song Cut] [2026-11-17] About the key visual being absolutely amazing.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YExH?p=9",
   "source": "nanashirikka.js"
 }
 );

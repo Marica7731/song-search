@@ -1,6 +1,6 @@
 // 茨むあん - 歌单数据 (多合集汇总)
 // 来源: BV1LnSSBdEeq
-// 生成时间: 11/18/2026, 2:49:10 AM
+// 生成时间: 11/18/2026, 5:11:43 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -12451,6 +12451,230 @@ window.SONG_DATA.push(
   "collection": "[Song clip] [2026-11-13] Temporarily back 🎙Less than a month left until the concert",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1aos56oEpH?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "JAP",
+  "artist": "abingdon boys school",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=1",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "裏切りの夕焼け",
+  "artist": "THEATRE BROOK",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=2",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "インフェルノ",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=3",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "狂乱 Hey Kids!!",
+  "artist": "THE ORAL CIGARETTES",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=4",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "紅蓮の弓矢",
+  "artist": "Linked Horizon",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=5",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "CHAINSAW BLOOD",
+  "artist": "Vaundy",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=6",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ALONES",
+  "artist": "Aqua Timez",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=7",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "乱舞のメロディ",
+  "artist": "シド",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=8",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "モノクロのキス",
+  "artist": "シド",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=9",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "嘘",
+  "artist": "シド",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=10",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "1・2・3",
+  "artist": "After the Rain",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=11",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "アカシア",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=12",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "ゴールデンタイムラバー",
+  "artist": "スキマスイッチ",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=13",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "バクチ・ダンサー",
+  "artist": "DOES",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=14",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "オリオンをなぞる",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=15",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "シュガーソングとビターステップ",
+  "artist": "UNISON SQUARE GARDEN",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=16",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "THE DAY",
+  "artist": "ポルノグラフィティ",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=17",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "THE REVO",
+  "artist": "ポルノグラフィティ",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=18",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "カーテンコール",
+  "artist": "優里",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=19",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "I",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=20",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Butter-Fly",
+  "artist": "和田光司",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=21",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "カサブタ",
+  "artist": "千綿偉功",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=22",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "Can Do",
+  "artist": "GRANRODEO",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=23",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "GO!!!",
+  "artist": "FLOW",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=24",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "IRIS OUT",
+  "artist": "米津玄師",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=25",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "AIZO",
+  "artist": "King Gnu",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=26",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "KICK BACK",
+  "artist": "米津玄師",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=27",
+  "source": "ibaramuan.js"
+},
+    {
+  "title": "夢であるように",
+  "artist": "DEEN",
+  "collection": "[Song cut] [2026-11-17] Regular livestream🎙Today I want to rediscover my youthful feelings",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1BZs16tErR?p=28",
   "source": "ibaramuan.js"
 }
 );

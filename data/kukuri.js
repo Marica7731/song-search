@@ -1,6 +1,6 @@
 // 戸鎖くくり - 歌单数据 (多合集汇总)
 // 来源: BV1G4wxzmEV5
-// 生成时间: 11/18/2026, 1:38:45 AM
+// 生成时间: 11/18/2026, 4:05:44 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -7779,6 +7779,174 @@ window.SONG_DATA.push(
   "collection": "[💫✖Song cut][2026-11-13] I wish I could sing happily~💭",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1hos56oEDu?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "六月は雨上がりの街を書く",
+  "artist": "ヨルシカ",
+  "collection": "[💫✖ Song Cut] [2026-11-17] Not bowing to spinning and lag! Singing without discouragement or dejection😵‍💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV193s26mEc1?p=1",
+  "source": "kukuri.js"
+},
+    {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "collection": "[💫✖ Song Cut] [2026-11-17] Not bowing to spinning and lag! Singing without discouragement or dejection😵‍💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV193s26mEc1?p=2",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ボクノート",
+  "artist": "スキマスイッチ",
+  "collection": "[💫✖ Song Cut] [2026-11-17] Not bowing to spinning and lag! Singing without discouragement or dejection😵‍💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV193s26mEc1?p=3",
+  "source": "kukuri.js"
+},
+    {
+  "title": "雫",
+  "artist": "スキマスイッチ",
+  "collection": "[💫✖ Song Cut] [2026-11-17] Not bowing to spinning and lag! Singing without discouragement or dejection😵‍💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV193s26mEc1?p=4",
+  "source": "kukuri.js"
+},
+    {
+  "title": "奏(かなで)",
+  "artist": "スキマスイッチ",
+  "collection": "[💫✖ Song Cut] [2026-11-17] Not bowing to spinning and lag! Singing without discouragement or dejection😵‍💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV193s26mEc1?p=5",
+  "source": "kukuri.js"
+},
+    {
+  "title": "フィナーレ。",
+  "artist": "eill",
+  "collection": "[💫✖ Song Cut] [2026-11-17] Not bowing to spinning and lag! Singing without discouragement or dejection😵‍💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV193s26mEc1?p=6",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ラストシーン.",
+  "artist": "eill",
+  "collection": "[💫✖ Song Cut] [2026-11-17] Not bowing to spinning and lag! Singing without discouragement or dejection😵‍💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV193s26mEc1?p=7",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Good-bye days",
+  "artist": "YUI for 雨音薫",
+  "collection": "[💫✖ Song Cut] [2026-11-17] Not bowing to spinning and lag! Singing without discouragement or dejection😵‍💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV193s26mEc1?p=8",
+  "source": "kukuri.js"
+},
+    {
+  "title": "I remember you",
+  "artist": "YUI",
+  "collection": "[💫✖ Song Cut] [2026-11-17] Not bowing to spinning and lag! Singing without discouragement or dejection😵‍💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV193s26mEc1?p=9",
+  "source": "kukuri.js"
+},
+    {
+  "title": "My Generation",
+  "artist": "YUI",
+  "collection": "[💫✖ Song Cut] [2026-11-17] Not bowing to spinning and lag! Singing without discouragement or dejection😵‍💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV193s26mEc1?p=10",
+  "source": "kukuri.js"
+},
+    {
+  "title": "Rolling star",
+  "artist": "YUI",
+  "collection": "[💫✖ Song Cut] [2026-11-17] Not bowing to spinning and lag! Singing without discouragement or dejection😵‍💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV193s26mEc1?p=11",
+  "source": "kukuri.js"
+},
+    {
+  "title": "LIFE",
+  "artist": "YUI",
+  "collection": "[💫✖ Song Cut] [2026-11-17] Not bowing to spinning and lag! Singing without discouragement or dejection😵‍💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV193s26mEc1?p=12",
+  "source": "kukuri.js"
+},
+    {
+  "title": "again",
+  "artist": "YUI",
+  "collection": "[💫✖ Song Cut] [2026-11-17] Not bowing to spinning and lag! Singing without discouragement or dejection😵‍💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV193s26mEc1?p=13",
+  "source": "kukuri.js"
+},
+    {
+  "title": "CHE.R.RY",
+  "artist": "YUI",
+  "collection": "[💫✖ Song Cut] [2026-11-17] Not bowing to spinning and lag! Singing without discouragement or dejection😵‍💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV193s26mEc1?p=14",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ヒーロー",
+  "artist": "supercell",
+  "collection": "[💫✖ Song Cut] [2026-11-17] Not bowing to spinning and lag! Singing without discouragement or dejection😵‍💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV193s26mEc1?p=15",
+  "source": "kukuri.js"
+},
+    {
+  "title": "星が瞬くこんな夜に",
+  "artist": "supercell",
+  "collection": "[💫✖ Song Cut] [2026-11-17] Not bowing to spinning and lag! Singing without discouragement or dejection😵‍💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV193s26mEc1?p=16",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ETERNAL BLAZE",
+  "artist": "水樹奈々",
+  "collection": "[💫✖ Song Cut] [2026-11-17] Not bowing to spinning and lag! Singing without discouragement or dejection😵‍💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV193s26mEc1?p=17",
+  "source": "kukuri.js"
+},
+    {
+  "title": "プラチナ",
+  "artist": "坂本真綾",
+  "collection": "[💫✖ Song Cut] [2026-11-17] Not bowing to spinning and lag! Singing without discouragement or dejection😵‍💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV193s26mEc1?p=18",
+  "source": "kukuri.js"
+},
+    {
+  "title": "初めての恋が終わる時",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "[💫✖ Song Cut] [2026-11-17] Not bowing to spinning and lag! Singing without discouragement or dejection😵‍💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV193s26mEc1?p=19",
+  "source": "kukuri.js"
+},
+    {
+  "title": "だから僕は音楽を辞めた",
+  "artist": "ヨルシカ",
+  "collection": "[💫✖ Song Cut] [2026-11-17] Not bowing to spinning and lag! Singing without discouragement or dejection😵‍💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV193s26mEc1?p=20",
+  "source": "kukuri.js"
+},
+    {
+  "title": "ニワカアメ",
+  "artist": "花たん",
+  "collection": "[💫✖ Song Cut] [2026-11-17] Not bowing to spinning and lag! Singing without discouragement or dejection😵‍💫",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV193s26mEc1?p=21",
   "source": "kukuri.js"
 }
 );
