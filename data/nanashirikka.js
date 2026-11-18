@@ -1,6 +1,6 @@
 // ななし律歌 - 歌单数据 (多合集汇总)
 // 来源: BV1wHQVBTEU5
-// 生成时间: 11/18/2026, 4:48:53 AM
+// 生成时间: 11/18/2026, 7:16:14 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -3315,6 +3315,14 @@ window.SONG_DATA.push(
   "collection": "[Song Cut] [2026-11-17] About the key visual being absolutely amazing.",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1kYs26YExH?p=9",
+  "source": "nanashirikka.js"
+},
+    {
+  "title": "About me",
+  "artist": "蝶々P feat. GUMI",
+  "collection": "[Song Cut] [2026-11-17] About the key visual being absolutely amazing.",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YExH?p=10",
   "source": "nanashirikka.js"
 }
 );
