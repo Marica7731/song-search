@@ -1,6 +1,6 @@
 // なれたん Naraetan - 歌单数据 (多合集汇总)
 // 来源: BV1G6fLB7Efr
-// 生成时间: 11/18/2026, 5:27:51 PM
+// 生成时间: 11/18/2026, 7:50:38 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -15931,6 +15931,94 @@ window.SONG_DATA.push(
   "collection": "[Song cut] [2026-11-12] Singing a little before bed 🩵",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1VBs76qExs?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ちゅ、多様性。",
+  "artist": "ano",
+  "collection": "[Song Cut] [2026-11-18] A warm and cozy afternoon☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wosS6yEqF?p=1",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ライラック",
+  "artist": "Mrs. GREEN APPLE",
+  "collection": "[Song Cut] [2026-11-18] A warm and cozy afternoon☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wosS6yEqF?p=2",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "[Song Cut] [2026-11-18] A warm and cozy afternoon☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wosS6yEqF?p=3",
+  "source": "naraetan.js"
+},
+    {
+  "title": "メリッサ",
+  "artist": "ポルノグラフィティ",
+  "collection": "[Song Cut] [2026-11-18] A warm and cozy afternoon☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wosS6yEqF?p=4",
+  "source": "naraetan.js"
+},
+    {
+  "title": "新宝島",
+  "artist": "サカナクション",
+  "collection": "[Song Cut] [2026-11-18] A warm and cozy afternoon☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wosS6yEqF?p=5",
+  "source": "naraetan.js"
+},
+    {
+  "title": "革命道中",
+  "artist": "アイナ・ジ・エンド",
+  "collection": "[Song Cut] [2026-11-18] A warm and cozy afternoon☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wosS6yEqF?p=6",
+  "source": "naraetan.js"
+},
+    {
+  "title": "星間飛行",
+  "artist": "ランカ・リー＝中島愛",
+  "collection": "[Song Cut] [2026-11-18] A warm and cozy afternoon☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wosS6yEqF?p=7",
+  "source": "naraetan.js"
+},
+    {
+  "title": "トウキョウ・シャンディ・ランデヴ",
+  "artist": "MAISONdes feat. 花譜, ツミキ",
+  "collection": "[Song Cut] [2026-11-18] A warm and cozy afternoon☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wosS6yEqF?p=8",
+  "source": "naraetan.js"
+},
+    {
+  "title": "冒険彗星",
+  "artist": "榎本くるみ",
+  "collection": "[Song Cut] [2026-11-18] A warm and cozy afternoon☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wosS6yEqF?p=9",
+  "source": "naraetan.js"
+},
+    {
+  "title": "ray",
+  "artist": "BUMP OF CHICKEN",
+  "collection": "[Song Cut] [2026-11-18] A warm and cozy afternoon☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wosS6yEqF?p=10",
+  "source": "naraetan.js"
+},
+    {
+  "title": "君じゃなきゃダメみたい",
+  "artist": "オーイシマサヨシ",
+  "collection": "[Song Cut] [2026-11-18] A warm and cozy afternoon☀️",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1wosS6yEqF?p=11",
   "source": "naraetan.js"
 },
     {

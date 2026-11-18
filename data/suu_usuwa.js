@@ -1,6 +1,6 @@
 // 稀羽すう Suu_Usuwa - 歌单数据 (多合集汇总)
 // 来源: BV1ve411z7Nm
-// 生成时间: 11/18/2026, 5:32:15 PM
+// 生成时间: 11/18/2026, 7:54:14 PM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -24331,6 +24331,70 @@ window.SONG_DATA.push(
   "collection": "[🦢Song Cut] [2026-11-11] Hey! Long time no see! My nose has been running nonstop lately~",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1JbWm6wEho?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "地獄でなぜ悪い",
+  "artist": "星野源",
+  "collection": "[🦢 Song Cut] [2026-11-18] Winter is gradually approaching | Wednesday Regular Singing Session #151",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cwsD63EyZ?p=1",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "雪の華",
+  "artist": "中島美嘉",
+  "collection": "[🦢 Song Cut] [2026-11-18] Winter is gradually approaching | Wednesday Regular Singing Session #151",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cwsD63EyZ?p=2",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "接吻",
+  "artist": "ORIGINAL LOVE",
+  "collection": "[🦢 Song Cut] [2026-11-18] Winter is gradually approaching | Wednesday Regular Singing Session #151",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cwsD63EyZ?p=3",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "雨とカプチーノ",
+  "artist": "ヨルシカ",
+  "collection": "[🦢 Song Cut] [2026-11-18] Winter is gradually approaching | Wednesday Regular Singing Session #151",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cwsD63EyZ?p=4",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "115万キロのフィルム",
+  "artist": "Official髭男dism",
+  "collection": "[🦢 Song Cut] [2026-11-18] Winter is gradually approaching | Wednesday Regular Singing Session #151",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cwsD63EyZ?p=5",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "ミックスナッツ",
+  "artist": "Official髭男dism",
+  "collection": "[🦢 Song Cut] [2026-11-18] Winter is gradually approaching | Wednesday Regular Singing Session #151",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cwsD63EyZ?p=6",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "Parallax",
+  "artist": "稀羽すう",
+  "collection": "[🦢 Song Cut] [2026-11-18] Winter is gradually approaching | Wednesday Regular Singing Session #151",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cwsD63EyZ?p=7",
+  "source": "suu_usuwa.js"
+},
+    {
+  "title": "セレナーデ",
+  "artist": "なとり",
+  "collection": "[🦢 Song Cut] [2026-11-18] Winter is gradually approaching | Wednesday Regular Singing Session #151",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1cwsD63EyZ?p=8",
   "source": "suu_usuwa.js"
 }
 );
