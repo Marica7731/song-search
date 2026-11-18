@@ -1,6 +1,6 @@
 // 非常驻妹妹 - 歌单数据 (多合集汇总)
 // 来源: BV1xucZzxEkZ, BV117P2zwEuq, BV1LJ4m1A7FC
-// 生成时间: 11/18/2026, 12:46:58 AM
+// 生成时间: 11/18/2026, 2:59:15 AM
 
 window.SONG_DATA = window.SONG_DATA || [];
 
@@ -28979,6 +28979,278 @@ window.SONG_DATA.push(
   "collection": "Yuka Hiiragi Song Cuts 2026-11-15 Long time no see, I want to sing some sleep-aid songs",
   "up": "前尘往事如昔故",
   "link": "https://www.bilibili.com/video/BV1ddsT65ETg?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "百鬼祭",
+  "artist": "Kanaria feat. 初音ミク",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=1",
+  "source": "others.js"
+},
+    {
+  "title": "花が落ちたので、",
+  "artist": "一二三 feat. 初音ミク",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=2",
+  "source": "others.js"
+},
+    {
+  "title": "金魚花火",
+  "artist": "大塚愛",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=3",
+  "source": "others.js"
+},
+    {
+  "title": "Don't say \"lazy\"",
+  "artist": "桜高軽音部",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=4",
+  "source": "others.js"
+},
+    {
+  "title": "夜迷事",
+  "artist": "ive feat. 初音ミク",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=5",
+  "source": "others.js"
+},
+    {
+  "title": "サリシノハラ",
+  "artist": "みきとP feat. 初音ミク",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=6",
+  "source": "others.js"
+},
+    {
+  "title": "よるつむぎ",
+  "artist": "MIMI feat. 初音ミク",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=7",
+  "source": "others.js"
+},
+    {
+  "title": "結ンデ開イテ羅刹ト骸",
+  "artist": "ハチ feat. 初音ミク",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=8",
+  "source": "others.js"
+},
+    {
+  "title": "雨き声残響",
+  "artist": "Orangestar feat. IA",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=9",
+  "source": "others.js"
+},
+    {
+  "title": "1925",
+  "artist": "T-POCKET feat. 初音ミク",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=10",
+  "source": "others.js"
+},
+    {
+  "title": "月が満ちる",
+  "artist": "月詠み",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=11",
+  "source": "others.js"
+},
+    {
+  "title": "千本桜",
+  "artist": "黒うさP feat. 初音ミク",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=12",
+  "source": "others.js"
+},
+    {
+  "title": "弱虫モンブラン",
+  "artist": "DECO*27 feat. GUMI",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=13",
+  "source": "others.js"
+},
+    {
+  "title": "アイロニ",
+  "artist": "すこっぷ feat. 初音ミク",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=14",
+  "source": "others.js"
+},
+    {
+  "title": "酔いどれ知らず",
+  "artist": "Kanaria feat. GUMI",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=15",
+  "source": "others.js"
+},
+    {
+  "title": "ラヴァーズ",
+  "artist": "7!!",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=16",
+  "source": "others.js"
+},
+    {
+  "title": "大切なものは君以外に見当たらなくて",
+  "artist": "flumpool",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=17",
+  "source": "others.js"
+},
+    {
+  "title": "ドライフラワー",
+  "artist": "優里",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=18",
+  "source": "others.js"
+},
+    {
+  "title": "残酷な天使のテーゼ",
+  "artist": "高橋洋子",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=19",
+  "source": "others.js"
+},
+    {
+  "title": "ツキミソウ",
+  "artist": "Novelbright",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=20",
+  "source": "others.js"
+},
+    {
+  "title": "からくりピエロ",
+  "artist": "40mP feat. 初音ミク",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=21",
+  "source": "others.js"
+},
+    {
+  "title": "青いベンチ",
+  "artist": "サスケ",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=22",
+  "source": "others.js"
+},
+    {
+  "title": "ツキアカリのミチシルベ",
+  "artist": "ステレオポニー",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=23",
+  "source": "others.js"
+},
+    {
+  "title": "心做し",
+  "artist": "蝶々P feat. GUMI",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=24",
+  "source": "others.js"
+},
+    {
+  "title": "妄想税",
+  "artist": "DECO*27 feat. 初音ミク",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=25",
+  "source": "others.js"
+},
+    {
+  "title": "涙そうそう",
+  "artist": "森山良子",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=26",
+  "source": "others.js"
+},
+    {
+  "title": "ブリキノダンス",
+  "artist": "日向電工 feat. 初音ミク",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=27",
+  "source": "others.js"
+},
+    {
+  "title": "スーサイドパレヱド",
+  "artist": "ユリイ・カノン feat. GUMI",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=28",
+  "source": "others.js"
+},
+    {
+  "title": "ふわふわ時間",
+  "artist": "桜高軽音部",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=29",
+  "source": "others.js"
+},
+    {
+  "title": "蝶々",
+  "artist": "DEZERT",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=30",
+  "source": "others.js"
+},
+    {
+  "title": "恋愛サーキュレーション",
+  "artist": "千石撫子(花澤香菜)",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=31",
+  "source": "others.js"
+},
+    {
+  "title": "ワールドイズマイン",
+  "artist": "ryo(supercell) feat. 初音ミク",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=32",
+  "source": "others.js"
+},
+    {
+  "title": "いーあるふぁんくらぶ",
+  "artist": "みきとP feat. GUMI・鏡音リン",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=33",
+  "source": "others.js"
+},
+    {
+  "title": "テルーの唄",
+  "artist": "手嶌葵",
+  "collection": "RARA - Lala - Song Cut 2026-11-16 A song with the feel of autumn, sung for you🌙🍂【#Lalarium】",
+  "up": "前尘往事如昔故",
+  "link": "https://www.bilibili.com/video/BV1kYs26YEUR?p=34",
   "source": "others.js"
 },
     {
