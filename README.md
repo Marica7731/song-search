@@ -36,6 +36,20 @@
   - 提供网易云搜索辅助链接
   - 默认选择来源最多项（并列取靠前）
 
+### 推荐程序的批量查重（JSON）
+
+同步旧站仓库的 `main` 后，用 Node.js 在仓库根目录运行。输入为 UTF-8 文本，每行一首，格式为 `歌名 - 歌手`。歌名或歌手含有分隔符时，优先用制表符明确分列。可传文件路径，也可用 `-` 或省略参数从标准输入读取。
+
+```bash
+node scripts/check-title-artist.js candidates.txt > matches.json
+```
+
+命令只读当前检出的 `data/index.json` 和其中列出的来源文件，使用 `dup-check-core.js` 的网页查重逻辑及 `song-identity.js` 的首页别名。一次调用返回按输入顺序排列的 `results`，包含规范化歌名和歌手、状态、命中数量、来源和 B 站链接。可用 `node --test scripts/dup-check-core.test.js` 验证。
+
+- `exact` 表示歌名和歌手组合已收录。`title-artist-mismatch` 表示同名但歌手未匹配，需要人工核对。`title-without-artist` 表示只提供了歌名且有同名命中。
+- `coverage` 给出预期和已加载来源数及失败文件和原因。来源部分缺失时，命中照常返回，其余标记 `unknown`。索引本身不可读时，JSON 包含 `coverage.indexError`，退出码为 1。
+- `new-title` 表示当前索引完整加载后未命中歌名。当前索引的覆盖范围仅限本次检出的来源快照。
+
 ## 数据更新机制（重要）
 
 `data/` 目录**不是手工维护**，由脚本自动生成。

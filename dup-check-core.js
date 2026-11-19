@@ -14,6 +14,10 @@ let titleArtistInputItems = [];
 let sourceLoadStates = [];
 let dataLoadSummary = { expected: 0, loaded: 0, failed: [], attempted: false, indexError: '' };
 
+const titleArtistIdentity = typeof module === 'object' && module.exports
+  ? require('./song-identity.js')
+  : globalThis.SongIdentity;
+
 function extractBV(str) {
   if (!str) return '';
   const match = String(str).match(/BV[a-zA-Z0-9]+/);
@@ -81,32 +85,18 @@ function parseTitleArtistInput(input) {
     .filter(Boolean)
     .map(line => line.replace(/^\|\s*/, '').replace(/\s*\|$/, '').trim())
     .filter(line => line && !/^[-|]+$/.test(line));
-  const fullFormatRegex = /^(\d+)[\.\)]\s*(.+?)\s*-\s*(.+)$/;
-  const normalRegex = /^(.+?)\s*-\s*(.+)$/;
   const result = [];
 
   lines.forEach(line => {
-    const full = line.match(fullFormatRegex);
-    if (full) {
-      result.push({
-        title: full[2].trim(),
-        artist: full[3].trim(),
-        originalLine: line
-      });
-      return;
-    }
-    const normal = line.match(normalRegex);
-    if (normal) {
-      result.push({
-        title: normal[1].trim(),
-        artist: normal[2].trim(),
-        originalLine: line
-      });
-      return;
-    }
+    const text = line.replace(/^\d+[.)]\s*(?=.+-.)/, '');
+    const tab = text.indexOf('\t');
+    const split = tab >= 0
+      ? [text.slice(0, tab), text.slice(tab + 1)]
+      : /^(.+)\s+-\s+(.+)$/.exec(text)?.slice(1)
+        || (/\s+-\S+-$/.test(text) ? null : /^(.+?)\s*-\s*(.+)$/.exec(text)?.slice(1));
     result.push({
-      title: line.trim(),
-      artist: '',
+      title: split?.[0].trim() || text,
+      artist: split?.[1].trim() || '',
       originalLine: line
     });
   });
@@ -354,12 +344,38 @@ function search() {
   analyzeDuplicates();
 }
 
-function analyzeTitleArtistInput(inputItem, currentPool, poolComplete) {
-  const titleKey = normalizeText(inputItem.title);
-  const artistKey = normalizeText(inputItem.artist);
-  const titleMatches = currentPool.filter(song => normalizeText(song.title) === titleKey);
-  const pairMatches = inputItem.artist
-    ? titleMatches.filter(song => normalizeText(song.artist) === artistKey)
+function getTitleArtistKeys(song) {
+  const normalized = {
+    title: normalizeText(song.title),
+    artist: normalizeText(song.artist),
+    originalArtist: normalizeText(song.originalArtist)
+  };
+  return {
+    titleKey: titleArtistIdentity.normalizeSongIdentityKey(normalized),
+    artistKey: titleArtistIdentity.normalizeSongArtistIdentityKey(normalized)
+  };
+}
+
+function analyzeTitleArtistBatch(inputs, songs, poolComplete) {
+  const byTitle = new Map();
+  for (const song of songs) {
+    const { titleKey, artistKey } = getTitleArtistKeys(song);
+    if (!byTitle.has(titleKey)) byTitle.set(titleKey, []);
+    byTitle.get(titleKey).push({ song, artistKey });
+  }
+  return inputs.map(input => analyzeIndexedTitleArtistInput(input, byTitle, poolComplete));
+}
+
+function analyzeTitleArtistInput(input, songs, poolComplete) {
+  return analyzeTitleArtistBatch([input], songs, poolComplete)[0];
+}
+
+function analyzeIndexedTitleArtistInput(inputItem, byTitle, poolComplete) {
+  const { titleKey, artistKey } = getTitleArtistKeys(inputItem);
+  const matches = byTitle.get(titleKey) || [];
+  const titleMatches = matches.map(({ song }) => song);
+  const pairMatches = artistKey && titleArtistIdentity.isValidArtist(inputItem.artist)
+    ? matches.filter(match => match.artistKey === artistKey).map(({ song }) => song)
     : [];
 
   let status;
@@ -379,6 +395,8 @@ function analyzeTitleArtistInput(inputItem, currentPool, poolComplete) {
   return {
     isNotFound: false,
     originalInput: inputItem.originalLine,
+    titleKey,
+    artistKey,
     song: pairMatches[0] || {
       title: inputItem.title || '未知歌曲',
       artist: inputItem.artist || '',
@@ -445,9 +463,7 @@ function analyzeDuplicates() {
     });
   } else {
     const poolComplete = isCurrentPoolComplete();
-    analysisResult = titleArtistInputItems.map(inputItem =>
-      analyzeTitleArtistInput(inputItem, currentPool, poolComplete)
-    );
+    analysisResult = analyzeTitleArtistBatch(titleArtistInputItems, currentPool, poolComplete);
   }
 
   const total = analysisResult.length;
@@ -681,5 +697,5 @@ function initDupCheckPage(mode) {
 }
 
 if (typeof module !== 'undefined' && module.exports) {
-  module.exports = { normalizeText, loadSongSources, analyzeTitleArtistInput };
+  module.exports = { normalizeText, loadSongSources, parseTitleArtistInput, analyzeTitleArtistInput, analyzeTitleArtistBatch };
 }

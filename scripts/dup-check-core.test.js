@@ -2,7 +2,8 @@ const assert = require('node:assert/strict');
 const fs = require('node:fs/promises');
 const path = require('node:path');
 const test = require('node:test');
-const { analyzeTitleArtistInput, loadSongSources, normalizeText } = require('../dup-check-core.js');
+const { spawnSync } = require('node:child_process');
+const { analyzeTitleArtistBatch, analyzeTitleArtistInput, loadSongSources, normalizeText, parseTitleArtistInput } = require('../dup-check-core.js');
 
 function response(status, value, statusText = '') {
   const ok = status >= 200 && status < 300;
@@ -68,15 +69,87 @@ test('title and artist matching separates new titles, title-only hits and exact 
 
 test('batch analysis preserves one result per input and never treats a title-only hit as new', () => {
   const pool = [{ title: 'プロポーズ', artist: 'なとり', source: 'sensational.js', link: 'https://example.test/1' }];
-  const results = [
+  const results = analyzeTitleArtistBatch([
     input('プロポーズ', 'なとり'),
     input('プロポーズ', '不存在的歌手'),
     input('全新曲名', '歌手')
-  ].map(item => analyzeTitleArtistInput(item, pool, true));
+  ], pool, true);
 
   assert.equal(results.length, 3);
   assert.deepEqual(results.map(item => item.status), ['exact', 'title-artist-mismatch', 'new-title']);
   assert.equal(results.filter(item => item.isFirst).length, 1);
+});
+
+test('batch checks share homepage aliases while requiring a matching artist credit', () => {
+  const pool = [
+    { title: '螺旋', artist: '9Lana' },
+    { title: '今宵はHalloween Night!', artist: 'ホロライブ' },
+    { title: '今宵はHalloween Night!', artist: 'ホロライブ別歌手' },
+    { title: 'ray (超かぐや姫！ Version)', artist: '夏吉ゆうこ' },
+    { title: 'ray', artist: 'BUMP OF CHICKEN' },
+    { title: 'ピノキオピー', artist: 'ｶﾞ' }
+  ];
+  const results = analyzeTitleArtistBatch([
+    input('螺旋 -RASEN-', '9Lana'),
+    input('今宵はHalloween Night!', 'hololive IDOL PROJECT'),
+    input('今宵はHalloween Night!', 'ホロライブ別人'),
+    input('ray', '夏吉ゆうこ'),
+    input('ray', 'BUMP OF CHICKEN'),
+    input('ヒ\u309Aノキオヒ\u309Aー', 'ガ')
+  ], pool, true);
+  assert.deepEqual(results.map(({ status }) => status), [
+    'exact', 'exact', 'title-artist-mismatch', 'exact', 'exact', 'exact'
+  ]);
+  assert.equal(results[0].titleKey, '螺旋');
+  assert.equal(results[1].artistMatchCount, 1);
+  assert.equal(results[3].titleMatchCount, 1);
+  assert.equal(results[4].titleMatchCount, 1);
+});
+
+test('text input keeps title hyphens and supports tab-delimited artist credits', () => {
+  const inputText = '1. 螺旋 -RASEN- - 9Lana\nBling-Bang-Bang-Born - Creepy Nuts\n螺旋 -RASEN-\nA - B\tC - D\n曲-歌手';
+  assert.deepEqual(parseTitleArtistInput(inputText).map(({ title, artist }) => [title, artist]), [
+    ['螺旋 -RASEN-', '9Lana'],
+    ['Bling-Bang-Bang-Born', 'Creepy Nuts'],
+    ['螺旋 -RASEN-', ''],
+    ['A - B', 'C - D'],
+    ['曲', '歌手']
+  ]);
+});
+
+test('CLI checks 150 inputs against the current source index and emits JSON', async () => {
+  const root = path.resolve(__dirname, '..');
+  const indexData = JSON.parse(await fs.readFile(path.join(root, 'data', 'index.json'), 'utf8'));
+  const sourceText = await fs.readFile(path.join(root, 'data', 'sensational.js'), 'utf8');
+  const source = await loadSongSources(async url => url === 'data/index.json'
+    ? response(200, { files: ['sensational.js'] })
+    : response(200, sourceText));
+  const candidates = [...new Set(source.songs
+    .filter(song => /^[^\t\r\n]+$/.test(song.title) && /^[^\t\r\n]+$/.test(song.artist) && !song.artist.includes('来源处未提供标准格式歌手'))
+    .map(song => `${song.title}\t${song.artist}`))].slice(0, 146);
+  const batch = ['螺旋 -RASEN- - 9Lana', 'プロポーズ - なとり', 'プロポーズ - 不存在的歌手', '未收录验证样本⟦issue4⟧ - 样本歌手', ...candidates];
+  assert.equal(batch.length, 150);
+  const run = spawnSync(process.execPath, [path.join(__dirname, 'check-title-artist.js')], {
+    input: batch.join('\n'),
+    encoding: 'utf8',
+    maxBuffer: 32 * 1024 * 1024,
+    timeout: 30_000
+  });
+
+  assert.ifError(run.error);
+  assert.equal(run.status, 0, run.stderr);
+  const output = JSON.parse(run.stdout);
+  assert.deepEqual(output.coverage, {
+    expected: indexData.files.length, loaded: indexData.files.length, failed: [], complete: true, indexError: ''
+  });
+  assert.equal(output.scope, 'current-index');
+  assert.equal(output.results.length, batch.length);
+  assert.deepEqual(output.results.slice(0, 4).map(({ status }) => status), [
+    'exact', 'exact', 'title-artist-mismatch', 'new-title'
+  ]);
+  assert.equal(output.results[0].normalizedTitle, '螺旋');
+  assert.ok(output.results[0].pairMatches.some(hit => hit.title === '螺旋' && hit.sourceAlias && hit.link.includes('bilibili.com')));
+  assert.ok(output.results.slice(4).every(({ status }) => status === 'exact'));
 });
 
 test('source loading accepts the real sensational.js format', async () => {
@@ -144,6 +217,9 @@ test('source loading reports HTTP, network, syntax and SONG_DATA validation fail
   assert.match(result.summary.failed.find(item => item.fileName === 'bad-row.js').error, /缺少有效的 title、artist 或 link/);
   assert.match(result.summary.failed.find(item => item.fileName === 'partial.js').error, /late execution failure/);
   assert.deepEqual(result.songs.map(song => song.title), ['ok']);
+  const checks = analyzeTitleArtistBatch([input('ok', 'artist'), input('missing', 'artist')], result.songs, false);
+  assert.deepEqual(checks.map(item => item.status), ['exact', 'unknown']);
+  assert.equal(checks[0].pairDupList[0].source, 'valid.js');
 });
 
 test('source index HTTP and schema errors fail visibly instead of loading an empty library', async () => {
